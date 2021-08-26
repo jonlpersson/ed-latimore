@@ -1,8 +1,133 @@
-@import "tailwindcss/base";
-/* @import "./styles/custom-base-styles.css"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@import "tailwindcss/components";
-/* @import "./styles/custom-components.css"; */
+@layer base {
+    /* Universal heading styles */
+    h1, h2, h3, h4, h5 {
+        @apply text-gray-dark font-sans font-bold tracking-tight leading-tight;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+        .theme-dark & {
+            @apply text-white;
+        }
+    }
+    /* Individual heading sizes, default viewports */
+    h1.beefy {
+        @apply text-3xl;
+    }
+    h1 {
+        @apply text-2xl;
+    }
+    h2 {
+        @apply text-xl;
+    }
+    h3 {
+        @apply text-lg;
+    }
+    h4 {
+        @apply text-md;
+    }
+    /* Individual heading sizes, small viewports */
+    @screen sm {
+        h1.beefy {
+            @apply text-4xl;
+        }
+        h1 {
+            @apply text-3xl;
+        }
+        h2 {
+            @apply text-2xl;
+        }
+        h3 {
+            @apply text-xl;
+        }
+        h4 {
+            @apply text-lg;
+        }
+    }
+    /* Individual heading sizes, large viewports */
+    @screen lg {
+        h1.beefy {
+            @apply text-5xl;
+        }
+        h1 {
+            @apply text-4xl;
+        }
+        h2 {
+            @apply text-3xl;
+        }
+        h3 {
+            @apply text-2xl;
+        }
+        h4 {
+            @apply text-xl;
+        }
+    }
+    /* Label styling */
+    .label {
+        @apply font-sans uppercase text-xs;
+    }
+    /* Label styling, larger viewports */
+    @screen sm {
+        .label {
+            @apply text-sm;
+        }
+    }
+}
 
-@import "tailwindcss/utilities";
-/* @import "./styles/custom-utilities.css"; */
+@layer components {
+    /* Section paddings */
+    [class^="s-"], [class*=" s-"] {
+        @apply px-5;
+    }
+    .s-xs {
+        @apply py-5;
+    }
+    .s-sm {
+        @apply py-8;
+    }
+    .s-md {
+        @apply py-10;
+    }
+    /* Section paddings, larger viewports */
+    @screen sm {
+        [class^="s-"], [class*=" s-"] {
+            @apply px-8;
+        }
+        .s-xs {
+            @apply py-6;
+        }
+        .s-sm {
+            @apply py-12;
+        }
+        .s-md {
+            @apply py-20;
+        }
+    }
+    /* Buttons */
+    .btn {
+        @apply inline-flex items-center justify-center px-6 py-1 bg-coral text-navy border-2 border-transparent font-bold font-sans text-sm transition;
+    }
+    .btn:active, .btn:hover {
+        @apply bg-maroon;
+    }
+    .btn:focus {
+        @apply outline-none border-gray border-opacity-100;
+    }
+    /* Input fields */
+    .input {
+        @apply w-full border-gray text-sm font-sans p-3;
+    }
+    /* Tooltip styling */
+    .tooltip {
+        transform: translateZ(0);
+    }
+    .tooltip-arrow {
+        @apply h-0 w-0 left-0 right-0 block absolute bottom-full pointer-events-none mx-auto;
+        border: solid transparent;
+        border-color: rgba(0, 0, 0, 0);
+        border-bottom-color: #fff;
+        border-width: 10px;
+    }
+}

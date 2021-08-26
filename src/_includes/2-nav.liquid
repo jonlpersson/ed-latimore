@@ -1,0 +1,99 @@
+{% capture mobileMenu %}
+  <div class="lg:hidden absolute left-0 right-0 w-full z-10 px-4">
+    <div class="bg-white shadow-lg"
+         x-show="showMenu"
+         x-transition:enter="transition duration-200"
+         x-transition:enter-start="opacity-0 bg-transparent"
+         x-transition:enter-end="opacity-100 bg-white"
+         x-transition:leave="transition duration-200"
+         x-transition:leave-start="opacity-100 bg-white"
+         x-transition:leave-end="opacity-0 bg-transparent"
+      >
+      <div class="bg-navy s-xs">
+        <div class="w-1/2 space-y-4">
+            <p class="font-bold leading-tight text-white text-md">Weekly dose of self-improvement</p>
+            <a href="/newsletter/" class="btn text-white">Sign up</a>
+        </div>
+      </div>
+      <div class="s-xs max-w-screen-xl text-base flex flex-col space-y-4">
+        {% for item in headerNav %}
+          <a href="{{item.url}}" class="uppercase hover:text-maroon focus:outline-none focus:text-maroon transition">{{item.name}}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endcapture %}
+
+{% capture mobileMenuButton %}
+  <div class="flex lg:hidden items-center justify-end space-x-8 rounded-full bg-white">
+    <button
+      aria-label="Navigation menu"
+      type="button"
+      class="inline-flex items-center justify-center p-2 text-gray-dark hover:text-maroon focus:outline-none focus:text-maroon transition"
+      x-on:click="showMenu = !showMenu">
+      <svg x-show="!showMenu" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+      <svg x-show="showMenu" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+{% endcapture %}
+
+{% case page.header %}
+  {% when "minimal" %}
+    <header
+      class="z-20 s-xs py-0 bg-white text-gray-800"
+      x-data="{showMenu: false}">
+      <div class="z-10 s-xs px-0 relative w-full mx-auto max-w-screen-xl border-b-2 border-gray-300">
+        <nav class="flex justify-between items-center">
+          <a href="/" aria-label="Home page">
+            {% include "_icons/logo.svg", class:"h-6 md:h-8" %}
+          </a>
+        </nav>
+      </div>
+    </header>
+    {% else %}
+    {% comment %} {% include components/section-banner.html %} {% endcomment %}
+    <header
+      class="z-20 font-sans"
+      x-data="{showMenu: false}">
+      <div class="s-xs bg-maroon text-white z-10 relative">
+        <nav class="flex justify-between items-center w-full mx-auto max-w-screen-xl">
+            <div class="flex items-baseline space-x-8">
+                <a href="/" aria-label="Home page">
+                    {% include "_icons/logo.svg", class:"h-6 md:h-8" %}
+                </a>
+                <div class="text-md hidden lg:block">Stoic Street-Smarts</div>
+            </div>
+          {{mobileMenuButton}}
+        </nav>
+      </div>
+      {{mobileMenu}}
+    </header>
+    <nav class="bg-coral s-xs hidden lg:block text-base font-sans uppercase text-white">
+        <div class="w-full mx-auto max-w-screen-xl flex items-center justify-between">
+            <div class="flex items-center justify-start space-x-10">
+            {% for item in headerNav %}
+                <a
+                href="{{item.url}}"
+                class="hover:text-gray-light focus:outline-none focus:text-maroon transition">{{item.name}}</a>
+            {% endfor %}
+            </div>
+            <div class="flex items-center justify-end space-x-5">
+            {% for item in headerSocialNav %}
+                {% capture "socialIcon" %}_icons/social-{{item.name|downcase}}.svg{% endcapture %}
+                <a
+                href="{{item.url}}"
+                title="{{item.name}}"
+                class="hover:text-gray-light focus:outline-none focus:text-maroon transition">{% include socialIcon %}</a>
+            {% endfor %}
+            </div>
+        </div>
+    </nav>
+{% endcase %}
+
+{% if page.layout == "article" %}
+{% comment %} {% include components/section-article-nav.html %} {% endcomment %}
+{% endif %}

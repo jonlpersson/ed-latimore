@@ -1,5 +1,19 @@
-<script src="/js/alpine.js?v={% version %}"></script>
+<!DOCTYPE html>
+<html lang="{{page.lang | default: site.lang | default: "en"}}" class="antialiased text-base md:text-md font-serif leading-normal text-gray-800">
+    {% include "1-head" %}
 
-<body>
-    {{layoutContent}}
-</body>
+    <body class="{{page.class}}">
+        {% include "2-nav" %}
+        <main aria-label="Content">
+            {{layoutContent|smartquotes|safe}}
+        </main>
+        {% include "3-footer" %}
+        <script src="/js/alpine.js?v={% version %}"></script>
+
+        {% if project.environment == "production" and site.ga_username != "" %}
+            <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+        {% endif %}
+    </body>
+
+</html>
+

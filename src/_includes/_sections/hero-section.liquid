@@ -1,0 +1,18 @@
+<section class="s-md py-0 bg-gray-light">
+    <div class="s-md lg:py-36 px-0 max-w-screen-xl mx-auto bg-right bg-no-repeat bg-image" style="background-image:url('{{site.hero.main}}');">
+        <div class="md:w-2/3">
+            <h1 class="mt-0">{{item.title|smartify}}</h1>
+            <div class="flex flex-row flex-nowrap items-center space-x-4 md:hidden mb-10">
+                <img
+                    src="{{ site.author.small_image }}"
+                    class="rounded-full w-12 h-12"
+                    alt="{{ site.author.name }}">
+                <div class="text-xs font-sans">
+                    <p>{{site.author.name}}</p>
+                    <p class="text-gray-dark text-opacity-50">{{site.author.description}}</p>
+                </div>
+            </div>
+            {% include "_partials/convertkit" %}
+        </div>
+    </div>
+</section>

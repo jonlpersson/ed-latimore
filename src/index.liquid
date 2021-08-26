@@ -1,6 +1,19 @@
 ---
-layout: default.liquid
+layout: default
+page_blocks:
+    - _id: hero_section
+      title: Learn how to control your mind, body, and emotions with my Stoic Street-Smarts newsletter.
+    - _id: logos_section
+    - _id: featured_articles
 ---
 
-<span x-data="{message:'🤖 Hello World 🤓'}" x-text="message"></span>
-<span>Test</span>
+{% for item in page_blocks %}
+    {% case item._id %}
+        {% when "hero_section" %}
+            {% include "_sections/hero-section" %}
+        {% when "logos_section" %}
+            {% include "_sections/logos-section" %}
+        {% when "featured_articles" %}
+            {% include "_sections/featured-articles" %}
+    {% endcase %}
+{% endfor %}

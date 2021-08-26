@@ -1,0 +1,26 @@
+{
+  "title": "Ed Latimore",
+  "description": "Self-improvement blog teaching stoic street-smarts",
+  "url": "https://edlatimore.com",
+
+  "ga_username": "UA-80066273-1",
+  "gtm_username": "GTM-TTTNZWJ",
+  "webmaster_verifications": {
+    "google": "5vTLSgm5Fs3-akygNHrNZTvD9me3BDhS-9Ifldv8ZC0"
+  },
+
+  "author": {
+    "twitter": "EdLatimore",
+    "name": "Ed Latimore",
+    "description": "Author, retired boxer, self-improvement enthusiast",
+    "small_image": "/assets/images/ed/ed-byline.jpg",
+    "medium_image": "/assets/images/ed/ed-bio.jpg"
+  },
+  "hero": {
+    "main": "/assets/images/ed/ed-hero.jpg"
+  },
+
+  "logo": "/assets/img/logo.png",
+
+  "lang": "en-US"
+}

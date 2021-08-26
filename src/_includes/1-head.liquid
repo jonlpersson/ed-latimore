@@ -1,0 +1,37 @@
+<head>
+    {% comment %}Meta information{% endcomment %}
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.sitemap == "false" %}<meta name="robots" content="noindex">{% endif %}
+
+    {% comment %}Styling—don't forget to update font files!{% endcomment %}
+    <link rel="stylesheet" async defer href="https://use.typekit.net/obl2dfd.css">
+    <link rel="stylesheet" href="{{ "style.css" | relative_url }}" media="screen">
+
+    {% comment %}Favicons—make sure a favicon and an Apple Touch icon have been uploaded!{% endcomment %}
+    <link rel="shortcut icon" href="{{ "/assets/icons/favicon.png" | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ "/assets/icons/apple-touch-icon.png" | relative_url }}">
+
+    {% comment %}RSS feed{% endcomment %}
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" title="{{ site.title }}">
+
+    {% comment %}SEO snippet{% endcomment %}
+    {% include "_partials/seo" %}
+
+    {% comment %}Google Analytics snippet—will load in production environment. Important: Make sure the site.ga_username has been updated!{% endcomment %}
+    {% if project.environment == "production" and site.ga_username != "" %}
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ga_username}}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', '{{site.ga_username}}');
+        </script>
+    {% endif %}
+
+    {% include "_partials/shortcodes" %}
+
+</head>
