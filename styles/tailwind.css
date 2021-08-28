@@ -5,19 +5,28 @@
 @layer base {
     /* Universal heading styles */
     h1, h2, h3, h4, h5 {
-        @apply text-gray-dark font-sans font-bold tracking-tight leading-tight;
-        margin-top: 3rem;
-        margin-bottom: 2rem;
-        .theme-dark & {
-            @apply text-white;
-        }
+        @apply text-gray-dark font-sans font-bold tracking-tight leading-tight mt-10 mb-5;
+    }
+    .theme-dark {
+        @apply text-gray-light;
+    }
+    .theme-dark h1,
+    .theme-dark h2,
+    .theme-dark h3,
+    .theme-dark h4,
+    .theme-dark h5 {
+        @apply text-white;
+    }
+    /* Set default transition class */
+    .transition-default {
+        @apply transition-all duration-200;
     }
     /* Individual heading sizes, default viewports */
     h1.beefy {
-        @apply text-3xl;
+        @apply text-4xl;
     }
     h1 {
-        @apply text-2xl;
+        @apply text-3xl;
     }
     h2 {
         @apply text-xl;
@@ -31,10 +40,10 @@
     /* Individual heading sizes, small viewports */
     @screen sm {
         h1.beefy {
-            @apply text-4xl;
+            @apply text-5xl;
         }
         h1 {
-            @apply text-3xl;
+            @apply text-4xl;
         }
         h2 {
             @apply text-2xl;
@@ -64,6 +73,10 @@
             @apply text-xl;
         }
     }
+    /* All links should have transition timing set */
+    a {
+        @apply transition-default;
+    }
     /* Label styling */
     .label {
         @apply font-sans uppercase text-xs;
@@ -82,7 +95,7 @@
         @apply px-5;
     }
     .s-xs {
-        @apply py-5;
+        @apply py-3;
     }
     .s-sm {
         @apply py-8;
@@ -96,13 +109,35 @@
             @apply px-8;
         }
         .s-xs {
-            @apply py-6;
+            @apply py-4;
         }
         .s-sm {
             @apply py-12;
         }
         .s-md {
             @apply py-20;
+        }
+    }
+/* Card paddings */
+    .cd-xs {
+        @apply p-3;
+    }
+    .cd-sm {
+        @apply p-5;
+    }
+    .cd-md {
+        @apply p-8;
+    }
+    /* Card paddings, larger viewports */
+    @screen sm {
+        .cd-xs {
+            @apply p-4;
+        }
+        .cd-sm {
+            @apply p-6;
+        }
+        .cd-md {
+            @apply p-10;
         }
     }
     /* Buttons */
@@ -129,5 +164,146 @@
         border-color: rgba(0, 0, 0, 0);
         border-bottom-color: #fff;
         border-width: 10px;
+    }
+    .label-section {
+        @apply label text-gray-dark text-opacity-50 border-b border-gray pb-1;
+    }
+}
+
+@layer utilities {
+    @screen md {
+        .micro-wrapper {
+            @apply overflow-hidden group;
+        }
+
+        .micro-zoom {
+            @apply object-cover transition duration-700 transform;
+        }
+
+        .micro-wrapper:hover .micro-zoom {
+            @apply scale-105;
+        }
+
+        .micro-float {
+            @apply overflow-hidden group transition duration-500 transform;
+        }
+        .micro-float:hover {
+            @apply -translate-y-1;
+        }
+
+        .micro-card {
+            @apply overflow-hidden shadow-sm group transition duration-500 transform;
+        }
+        .micro-card:hover {
+            @apply shadow-md -translate-y-1;
+        }
+    }
+
+    /* Typography for blog posts and prose content */
+    .prose p {
+        @apply mb-5;
+    }
+    .prose img {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        @apply transition duration-500 transform;
+    }
+    .prose img:hover {
+        @apply -translate-y-1;
+    }
+    .prose figcaption {
+        @apply text-center mt-2 text-gray-dark label;
+    }
+    .prose > figure,
+    .prose > p img,
+    .prose > div,
+    .prose > aside {
+        @apply my-12;
+    }
+    .prose figure p:last-child {
+        @apply mb-0;
+    }
+    .prose >*:not(img):not(figure):not(div):not(aside) {
+        @apply w-full max-w-md;
+    }
+    @screen lg {
+        .prose >*:not(img):not(figure):not(div):not(aside) {
+            @apply w-full max-w-lg;
+        }
+    }
+    .prose a:not(.btn),
+    .link {
+        @apply text-coral font-bold underline transition-default;
+    }
+    .prose a:not(.btn):hover,
+    .prose a:not(.btn):active,
+    .link:hover,
+    .link:active {
+        @apply text-maroon;
+    }
+    .prose h1:not(:first-child),
+    .prose h2:not(:first-child),
+    .prose h3:not(:first-child),
+    .prose h4:not(:first-child),
+    .prose h5:not(:first-child) {
+        @apply mt-8 mb-5;
+    }
+
+    .prose ul,
+    .prose ol {
+        @apply list-outside my-6;
+        list-style-position: outside;
+    }
+    .prose li,
+    .prose li {
+        @apply ml-5 pl-2;
+    }
+    .prose ul > * + *,
+    .prose ol > * + * {
+        @apply my-5;
+    }
+
+    .prose ul {
+        @apply list-none pl-1;
+    }
+    .prose ul > li {
+        @apply relative ml-4;
+    }
+    .prose ul > li:before {
+        content: "➔";
+        @apply absolute flex items-center;
+        --width: 1.3rem;
+        left: calc(-1 * var(--width));
+        height: calc(1em * 1.4);
+    }
+
+    .prose ol {
+        @apply list-decimal;
+    }
+
+    .prose hr {
+        @apply my-10;
+    }
+
+    .prose blockquote {
+        @apply cd-sm bg-gray-light italic relative z-0 overflow-hidden;
+        quotes: "\201C""\201D";
+    }
+    .prose blockquote:before {
+        content: open-quote;
+        @apply absolute text-5xl font-bold text-gray -z-20 -mt-10 -ml-3;
+    }
+    .prose blockquote p:last-of-type {
+        @apply mb-0;
+    }
+
+    .prose .call-out {
+        @apply bg-gray-light cd-sm w-full max-w-md;
+    }
+    @screen lg {
+        .prose .call-out {
+            @apply bg-gray-light cd-sm w-full max-w-md;
+        }
     }
 }

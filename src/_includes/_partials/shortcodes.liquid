@@ -7,4 +7,7 @@
 {% assign footerNav = navigation.links %}
 
 {% comment %}Subfooter assignments{% endcomment %}
-{% assign subfooterNav = navigation.links| include: "visible", "subfooter" %}
+{% assign subfooterNav = navigation.links | include: "visible", "subfooter" %}
+
+{% comment %}Author assignments{% endcomment %}
+{% assign author = site.author %}

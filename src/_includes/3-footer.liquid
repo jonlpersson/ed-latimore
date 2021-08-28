@@ -13,7 +13,7 @@
 {% else %}
     <footer class="s-sm pb-0 bg-gray text-gray-800 font-sans text-xs md:text-sm">
       <div class="max-w-screen-xl mx-auto grid lg:grid-cols-2 gap-5 gap-y-10 md:gap-10 md:gap-y-15">
-        <div class="col-span-1 flex flex-row space-x-10 border-b border-gray-800 pb-5 md:border-b-0 md:pb-0 md:space-x-0 md:block md:w-72 md:space-y-7">
+        <div class="col-span-1 flex flex-row space-x-10 border-b border-gray-dark border-opacity-25 pb-5 md:border-b-0 md:pb-0 md:space-x-0 md:block md:w-72 md:space-y-7">
           <a href="/" aria-label="Home page" class="text-coral hover:text-maroon transition">{% include "_icons/logo.svg", class:"h-6 md:h-8 w-auto" %}</a>
           <p>Skills and mindset content to help you realize your potential, let go of resentment, and live life with purpose.</p>
         </div>
@@ -28,7 +28,7 @@
             </div>
           {% endfor %}
         </nav>
-        <div class="s-xs px-0 lg:col-span-2 flex flex-row justify-between text-xs border-t border-gray-900">
+        <div class="s-xs px-0 flex flex-col text-xs border-t border-gray-dark border-opacity-25 sm:flex-row sm:justify-between lg:col-span-2">
           <p class="mt-0 md:my-0">© {{ "now"|date:"%Y" }}, Mind and Fist LLC · <a href="/colophon/" class="text-maroon hover:text-coral focus:outline-none focus:text-coral transition">Website credits</a></p>
           <div class="flex space-x-4">
             {% for item in subfooterNav %}

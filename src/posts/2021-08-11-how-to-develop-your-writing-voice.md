@@ -3,8 +3,8 @@ date: 2021-08-11
 type: Article
 title: How to develop your writing voice
 permalink: /voice-in-writing/
-category: Mental Mastery
-description: "Authentic writing has a\_unique voice\_and tone to it. Your\_own voice\_and tone are what make your\_piece of writing\_unique from\_someone else's. Read on to learn how to build yours."
+tags: ["Mental Mastery"]
+description: "Authentic writing has a unique voice and tone to it. Your voice is what makes your piece of writing unique. Read on to learn how to build yours."
 image: /assets/images/thumbnails/ed-at-computer.jpg
 lead_markdown: >-
   Authentic writing has a unique voice and tone to it. Your own voice and tone

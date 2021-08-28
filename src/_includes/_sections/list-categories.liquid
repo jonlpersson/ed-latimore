@@ -1,0 +1,27 @@
+{% assign categories = collections.categories %}
+<div class="s-sm bg-navy theme-dark">
+    <div class="max-w-screen-xl mx-auto">
+        <div class="label-section text-gray-light border-gray-light border-opacity-50">Explore my ideas</div>
+        <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
+            {% for item in categories %}
+                <div>
+                    <a href="/{{item|slug}}/">
+                        <h3 class="mb-2">
+                            {{ item }}<sup class="font-normal text-xs md:text-sm ml-1 -top-3">({{collections[item].length}})</sup>
+                        </h3>
+                    </a>
+                    <div class="flex flex-col border-t border-b border-gray-light border-opacity-25 divide-y divide-gray-light divide-opacity-25 my-2">
+                    {% for item in collections[item] limit:3 %}
+                        <div class="py-2">
+                            <a class="" href="{{item.url}}">
+                                {{ item.data.title }}
+                            </a>
+                        </div>
+                    {% endfor %}
+                    </div>
+                    <a class="label" href="/{{item|slug}}/">More about {{item}} &rarr;</a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

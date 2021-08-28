@@ -3,17 +3,25 @@ layout: default
 page_blocks:
     - _id: hero_section
       title: Learn how to control your mind, body, and emotions with my Stoic Street-Smarts newsletter.
-    - _id: logos_section
+    - _id: featured_logos
     - _id: featured_articles
+    - _id: featured_products
+    - _id: list_categories
+title: Ed Latimore
 ---
+{% include "_partials/shortcodes" %}
 
 {% for item in page_blocks %}
     {% case item._id %}
         {% when "hero_section" %}
             {% include "_sections/hero-section" %}
-        {% when "logos_section" %}
-            {% include "_sections/logos-section" %}
+        {% when "featured_logos" %}
+            {% include "_sections/featured-logos" %}
         {% when "featured_articles" %}
             {% include "_sections/featured-articles" %}
+        {% when "featured_products" %}
+            {% include "_sections/featured-products" %}
+        {% when "list_categories" %}
+            {% include "_sections/list-categories" %}
     {% endcase %}
 {% endfor %}

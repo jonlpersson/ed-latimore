@@ -3,10 +3,9 @@ date: 2021-08-09
 type: Article
 title: How to understand and forgive your parents
 permalink: /how-to-understand-and-forgive-your-parents/
-category: Emotional Mastery
+tags: ["Emotional Mastery"]
 description: >-
-  Your parents are only human. Your challenge is remembering that despite the
-  mistakes they may have made, they did the best they could with you.
+  Your parents are only human. Your challenge is remembering that despite their mistakes, they did the best they could with you.
 image: /assets/images/posts/2020/graduatingbasictrainingwithfamily.jpg
 lead_markdown: >-
   Your parents are only human. Your challenge is remembering that despite the

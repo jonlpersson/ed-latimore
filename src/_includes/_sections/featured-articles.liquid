@@ -1,26 +1,35 @@
 {% comment %} Article sorting {% endcomment %}
-{% assign recentPosts = collections.posts | reverse %}
+{% assign recentPosts = collections.posts %}
+
 <section class="s-sm">
-    <div class="max-w-screen-xl mx-auto grid grid-cols-3 gap-5">
-    {% for item in recentPosts limit:3 %}
-        <a class="shadow flex flex-col" href="{{item.url}}">
-            <img
-                src="{{ item.data.image }}"
-                class="h-72 w-full object-cover"
-                alt="Thumbnail for {{ item.data.title }}"
-                height="360"
-                width="627">
-            <div class="px-6 py-4 mb-4 flex-grow">
-                <h3 class="mt-4 mb-2">{{ item.data.title }}</h3>
-                <p>{{item.data.description}}</p>
-            </div>
-            <div class="px-6 label text-gray-dark text-opacity-50">
-                <div class="py-4 border-t-2 border-gray-100">
-                    <p>{{ item.data.category }}</p>
-                    <p>{{ item.date | date: "%b %d, %Y" }}</p>
+    <div class="max-w-screen-xl mx-auto space-y-10">
+        <div class="label-section flex justify-between">
+            <div>Recent posts</div>
+            <a class="text-coral hover:text-maroon" href="/archive/">Browse the archive &rarr;</a>
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {% for item in recentPosts limit:3 %}
+            <a class="bg-white shadow flex flex-col micro-float" href="{{item.url}}">
+                <div class="aspect-w-16 aspect-h-10">
+                    <img
+                        src="{{ item.data.image }}"
+                        class="object-cover"
+                        alt="Thumbnail for {{ item.data.title }}"
+                        height="360"
+                        width="627">
                 </div>
-            </div>
-        </a>
-    {% endfor %}
+                <div class="px-6 py-4 mb-4 flex-grow">
+                    <h3 class="mt-4 mb-2">{{ item.data.title }}</h3>
+                    <p>{{item.data.description}}</p>
+                </div>
+                <div class="px-6 label text-gray-dark text-opacity-50">
+                    <div class="py-4 border-t-2 border-gray-100">
+                        <p>{{ item.data.tags|first }}</p>
+                        <p>{{ item.data.date | date: "%b %d, %Y" }}</p>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        </div>
     </div>
 </section>

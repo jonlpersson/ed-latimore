@@ -3,7 +3,7 @@ date: 2021-08-09
 type: Article
 title: 7 hobbies to meet women (effective)
 permalink: /hobbies-to-meet-women/
-category: Emotional Mastery
+tags: ["Emotional Mastery"]
 description: To date successfully, you need hobbies that make you seem confident and interesting to women. Here's my framework for picking hobbies to meet women.
 image: /assets/images/thumbnails/ed-archery.png
 lead_markdown: To date successfully, you need hobbies that make you seem confident and interesting to women. Here's my framework for picking hobbies to meet women.

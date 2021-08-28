@@ -13,13 +13,24 @@ module.exports = {
       "md": "20px",
       "lg": "24px",
       "xl": "28px",
-      "2xl": "36px",
-      "3xl": "48px",
-      "4xl": "60px",
-      "5xl": "72px",
-      "6xl": "96px"
+      "2xl": "32px",
+      "3xl": "36px",
+      "4xl": "48px",
+      "5xl": "60px",
+      "6xl": "72px",
+      "7xl": "96px"
     },
     extend: {
+      backgroundImage: theme => ({
+        'img': 'var(--bg-img);',
+      }),
+      zIndex: {
+        '-50': '-50',
+        '-40': '-40',
+        '-30': '-30',
+        '-20': '-20',
+        '-10': '-10',
+      },
       colors: {
         gray: {
           light: "#E2E1E1",
@@ -47,6 +58,7 @@ module.exports = {
     },
   },
   plugins: [
-    require("@tailwindcss/forms")
+    require("@tailwindcss/forms"),
+    require('@tailwindcss/aspect-ratio'),
   ],
 }

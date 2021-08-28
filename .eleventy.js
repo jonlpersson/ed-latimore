@@ -60,9 +60,13 @@ module.exports = function (eleventyConfig) {
         './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
     })
 
-    eleventyConfig.addCollection("recentPosts", function(collection) {
-        return collection.getAllSorted().reverse().slice(0, 4);
+    // Create a "Posts" collection based on folder structure
+    eleventyConfig.addCollection("posts", function(collection){
+        return collection.getFilteredByGlob("src/posts/*.md").reverse();
     });
+
+    // Create a list of tags/categories
+    eleventyConfig.addCollection("categories", require("./filters/getTagList.js"));
 
     // Add header anchor and footnotes plugin to Markdown renderer
     const markdownLib = markdownIt({ html: true, typographer: true });

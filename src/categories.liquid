@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: /{{category|slug}}/
+eleventyComputed:
+    title: "{{category}}"
+    tags: "lists"
+pagination:
+    data: collections
+    size: 1
+    alias: category
+    filter:
+        - all
+        - posts
+        - products
+    addAllPagesToCollections: true
+---
+
+<h1>Hello {{category}} :)</h1>
