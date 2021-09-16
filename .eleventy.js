@@ -5,7 +5,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 const sharp = require('sharp');
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
+// const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false)
@@ -21,8 +21,9 @@ module.exports = function (eleventyConfig) {
         dynamicPartials: true,
     });
 
-    eleventyConfig.addFilter("include", require("./filters/include.js"));
-    eleventyConfig.addFilter("exclude", require("./filters/exclude.js"));
+    eleventyConfig.addFilter("markdownify", require("./lib/filters/markdownify.js"));
+    eleventyConfig.addFilter("include", require("./lib/filters/include.js"));
+    eleventyConfig.addFilter("exclude", require("./lib/filters/exclude.js"));
     eleventyConfig.addFilter("smartquotes", (post) => {
         const hawaii = new RegExp(/(?<=<(h|l|p[^r]).*)Hawai'i/g);
         const slang = new RegExp(/'(cause|em|til|twas)/g);
@@ -38,6 +39,9 @@ module.exports = function (eleventyConfig) {
             .replace(openDoubles, "“").replace(closeDoubles, "”")
             .replace(openSingles, "‘").replace(closeSingles, "’");
     });
+
+    eleventyConfig.addLiquidShortcode("image", require('./lib/shortcodes/image.shortcode.js'));
+    eleventyConfig.addLiquidShortcode("background", require('./lib/shortcodes/background.shortcode.js'));
 
     eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
         if (
@@ -60,13 +64,11 @@ module.exports = function (eleventyConfig) {
         './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
     })
 
-    // Create a "Posts" collection based on folder structure
-    eleventyConfig.addCollection("posts", function(collection){
-        return collection.getFilteredByGlob("src/posts/*.md").reverse();
-    });
-
-    // Create a list of tags/categories
-    eleventyConfig.addCollection("categories", require("./filters/getTagList.js"));
+    // Configure collections
+    eleventyConfig.addCollection("posts", require("./lib/collections/posts.js"));
+    eleventyConfig.addCollection("tagList", require("./lib/collections/tagList.js"));
+    eleventyConfig.addCollection("paginatedPosts", require("./lib/collections/paginatedPosts.js"));
+    eleventyConfig.addCollection("paginatedPostsByTag", require("./lib/collections/paginatedPostsByTag.js"));
 
     // Add header anchor and footnotes plugin to Markdown renderer
     const markdownLib = markdownIt({ html: true, typographer: true });
@@ -93,11 +95,11 @@ module.exports = function (eleventyConfig) {
     markdownLib.use(markdownItFootnote).use(markdownItAnchor);
     eleventyConfig.setLibrary("md", markdownLib);
 
-    eleventyConfig.addPlugin(lazyImagesPlugin, {
-        setWidthAndHeightAttrs: true,
-        preferNativeLazyLoad: true,
-        transformImgPath: (imgPath) => imgPath.replace('/assets/', './_site/assets/')
-    });
+    // eleventyConfig.addPlugin(lazyImagesPlugin, {
+    //     setWidthAndHeightAttrs: true,
+    //     preferNativeLazyLoad: true,
+    //     transformImgPath: (imgPath) => imgPath.replace('/assets/', './_site/assets/')
+    // });
 
     return {
         dir: {

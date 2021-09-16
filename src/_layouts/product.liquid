@@ -1,5 +1,29 @@
 ---
 layout: default
 ---
+{% include "_partials/shortcodes" %}
 
-{{layoutContent}}
+{% for item in page_blocks %}
+    {% case item._id %}
+        {% when "hero_section" %}
+            {% include "_sections/hero-section" %}
+        {% when "featured_logos" %}
+            {% include "_sections/featured-logos" %}
+        {% when "featured_articles" %}
+            {% include "_sections/featured-articles" %}
+        {% when "featured_products" %}
+            {% include "_sections/featured-products" %}
+        {% when "list_categories" %}
+            {% include "_sections/list-categories" %}
+        {% when "list_products" %}
+            {% include "_sections/list-products" %}
+        {% when "block_benefits" %}
+            {% include "_sections/block-benefits" %}
+        {% when "block_testimonial" %}
+            {% include "_sections/block-testimonial" %}
+        {% when "product_cta" %}
+            {% include "_sections/product-cta" %}
+        {% when "block_rich_text" %}
+            {% include "_sections/block-rich" %}
+    {% endcase %}
+{% endfor %}

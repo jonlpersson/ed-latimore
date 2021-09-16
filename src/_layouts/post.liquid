@@ -10,10 +10,7 @@ layout: default
             <h1>{{ title }}</h1>
             <p class="lg:w-3/4 font-sans text-base sm:text-md md:text-lg">{{ description }}</p>
             <div class="flex flex-row flex-nowrap items-center space-x-4 mt-8">
-                <img
-                    src="{{ author.small_image }}"
-                    class="rounded-full w-12 h-12"
-                    alt="{{ author.name }}">
+                {% image author.small_image, author.name, "rounded-full w-12 h-12", "60px" %}
                 <div class="text-xs md:text-sm font-sans">
                     <p>{{ author.name }}</p>
                     <p class="text-gray-dark text-opacity-50">{{ author.description }}</p>
@@ -34,11 +31,8 @@ layout: default
 <section class="s-sm bg-gray-light">
     <div class="max-w-screen-md mx-auto">
         <div class="flex flex-col space-y-5 md:flex-row md:space-y-0 md:space-x-10">
-            <img
-                src="{{ author.medium_image }}"
-                class="rounded-full w-32 h-32"
-                alt="{{ author.name }}">
-            <div>
+            {% image author.medium_image, author.name, "rounded-full w-32 h-32", "128px" %}
+            <div class="flex-1">
                 <div class="label-section">About the author</div>
                 <h4 class="mt-6 mb-2">{{ author.name }}</h4>
                 <p class="text-sm md:text-base">{{ author.bio }}</p>
@@ -53,20 +47,7 @@ layout: default
         <div class="label-section text-gray-light border-gray-light border-opacity-50">Related ideas</div>
         <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {% for item in collections[tags] limit:3 %}
-            <a class="bg-white flex flex-col micro-float" href="{{ item.url }}">
-                <div class="aspect-w-16 aspect-h-10">
-                    <img
-                        src="{{ item.data.image }}"
-                        class="object-cover"
-                        alt="Thumbnail for {{ item.data.title }}"
-                        height="360"
-                        width="627">
-                </div>
-                <div class="px-6 py-4">
-                    <h4 class="mt-4 mb-2">{{ item.data.title }}</h4>
-                    <p class="text-sm md:text-base">{{ item.data.description }}</p>
-                </div>
-            </a>
+            {% include "_partials/card" type:"minimal" %}
             {% endfor %}
         </div>
     </div>

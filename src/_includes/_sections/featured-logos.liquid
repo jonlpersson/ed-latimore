@@ -3,12 +3,9 @@
         <div class="grid grid-cols-5 gap-5">
         {% for item in featured_logos.logos limit:5 %}
             <div class="cursor-pointer relative self-center group text-center">
-                <img
-                    src="{{ item.image }}"
-                    class="max-h-16 h-auto object-contain w-32 inline-block"
-                    alt="{{ item.title }}">
+                {% image item.image, item.title, "inline-block object-contain w-32 h-auto max-h-16", "128px" %}
                 <div class="tooltip hidden absolute bg-white filter drop-shadow  mt-4 p-2 z-50 text-xs md:text-sm group-hover:block">
-                    {{ item.tooltip|markdownify }}
+                    {{ item.tooltip | markdownify }}
                     <span class="tooltip-arrow"></span>
                 </div>
             </div>

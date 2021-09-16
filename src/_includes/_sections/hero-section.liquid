@@ -1,18 +1,60 @@
-<section class="s-md py-0 bg-gray-light">
-    <div class="s-md lg:py-28 px-0 max-w-screen-xl mx-auto bg-right bg-no-repeat bg-none lg:bg-img" style="--bg-img: url('{{site.hero.main}}'); background-size: auto 115%;">
-        <div class="md:w-2/3">
-            <h1 class="mt-0">{{item.title|smartify}}</h1>
-            <div class="flex flex-row flex-nowrap items-center space-x-4 lg:hidden mb-10">
-                <img
-                    src="{{ author.small_image }}"
-                    class="rounded-full w-12 h-12"
-                    alt="{{ author.name }}">
-                <div class="text-xs font-sans">
-                    <p>{{ author.name }}</p>
-                    <p class="text-gray-dark text-opacity-50">{{ author.description }}</p>
+{% case item.type %}
+    {% when "newsletter" %}
+    <section class="s-md py-0 bg-gray-light">
+        <div class="s-md lg:py-28 px-0 max-w-screen-xl mx-auto bg-right bg-no-repeat bg-none lg:bg-img" style="{% background site.hero.main %} background-size: auto 115%;">
+            <div class="md:w-2/3">
+                <h1 class="mt-0">{{ item.title|smartify }}</h1>
+                <div class="flex flex-row flex-nowrap items-center space-x-4 lg:hidden mb-10">
+                    {% image author.small_image, author.name, "rounded-full w-12 h-12", "60px" %}
+                    <div class="text-xs font-sans">
+                        <p>{{ author.name }}</p>
+                        <p class="text-gray-dark text-opacity-50">{{ author.description }}</p>
+                    </div>
+                </div>
+                {% include "_partials/convertkit" %}
+            </div>
+        </div>
+    </section>
+    {% when "product" %}
+    <section class="s-sm bg-gray-light">
+        <div class="max-w-screen-xl mx-auto space-y-10">
+            <div class="label-section">Get the {{ type }}</div>
+            <div class="grid gap-5 md:gap-10 md:grid-cols-2">
+                <div class="w-full">
+                    <div class="w-full aspect-w-16 aspect-h-12">
+                        {% capture "itemImage" %}{{ item.image | default:image }}{% endcapture %}
+                        {% image itemImage, title, "object-contain h-full", "620px"  %}
+                    </div>
+                </div>
+                <div>
+                    <h1>{{ item.title | default:title }}</h1>
+                    <p class="font-sans text-base sm:text-md md:text-lg">{{ item.text | default:description }}</p>
+                    <a class="mt-10 btn py-3 text-base md:text-md" href="{{ product_info.button_url }}">{{ product_info.button_text }}{{ product_info.price | prepend:" &#40;" | append:"&#41;" }}</a>
                 </div>
             </div>
-            {% include "_partials/convertkit" %}
         </div>
-    </div>
-</section>
+    </section>
+    {% when "image" %}
+    <section class="s-md bg-gray-light">
+        <div class="max-w-screen-xl mx-auto space-y-10">
+            <div class="label-section border-gray-dark border-opacity-25">{{ categoryLabel | default:item.label | default:"On this page" }}</div>
+            <div class="flex flex-col md:flex-row md:space-x-20">
+                <div class="flex-shrink-0">
+                    {% capture "itemImage" %}{{ item.image | default:image }}{% endcapture %}
+                    {% image itemImage, title, "h-72 w-72 object-contain rounded-full", "288px"  %}
+                </div>
+                <div>
+                    <h1>{{ item.title | default:title }}</h1>
+                    <p class="font-sans text-base sm:text-md md:text-lg">{{ item.text | default:description }}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% else %}
+    <section class="s-md bg-gray-light">
+        <div class="max-w-screen-xl mx-auto space-y-10">
+            <div class="label-section border-gray-dark border-opacity-25">{{ categoryLabel | default:item.label | default:"On this page" }}</div>
+            <h1>{{ categoryHeading | default:item.title | default:title }}</h1>
+        </div>
+    </section>
+{% endcase %}

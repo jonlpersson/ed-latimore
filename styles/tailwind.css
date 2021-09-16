@@ -78,14 +78,17 @@
         @apply transition-default;
     }
     /* Label styling */
-    .label {
+    .label, label {
         @apply font-sans uppercase text-xs;
     }
     /* Label styling, larger viewports */
     @screen sm {
-        .label {
+        .label, label {
             @apply text-sm;
         }
+    }
+    input, textarea, .input {
+        @apply placeholder-gray w-full border-gray font-sans p-3;
     }
 }
 
@@ -142,17 +145,13 @@
     }
     /* Buttons */
     .btn {
-        @apply inline-flex items-center justify-center px-6 py-1 bg-coral text-navy border-2 border-transparent font-bold font-sans text-sm transition;
+        @apply inline-flex items-center justify-center px-6 py-1 bg-coral text-navy border-2 border-transparent font-bold font-sans text-sm transition cursor-pointer;
     }
     .btn:active, .btn:hover {
-        @apply bg-maroon;
+        @apply bg-maroon text-white;
     }
     .btn:focus {
         @apply outline-none border-gray border-opacity-100;
-    }
-    /* Input fields */
-    .input {
-        @apply w-full border-gray text-sm font-sans p-3;
     }
     /* Tooltip styling */
     .tooltip {
@@ -305,5 +304,15 @@
         .prose .call-out {
             @apply bg-gray-light cd-sm w-full max-w-md;
         }
+    }
+    .testimonial blockquote *:first-child {
+        text-indent: -0.52em;
+        @apply mt-0;
+    }
+    .testimonial blockquote *:first-child::before {
+        content: open-quote;
+    }
+    .testimonial blockquote *:last-child::after {
+        content: close-quote;
     }
 }

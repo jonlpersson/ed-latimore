@@ -1,0 +1,26 @@
+<section class="s-sm">
+    <div class="max-w-screen-xl mx-auto space-y-10">
+        <div class="label-section">Press clippings</div>
+        <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-8">
+        {% for item in item.clippings %}
+            {% assign mod = forloop.index|modulo:2 %}
+            <a class="{% if forloop.last and mod != 0 %}lg:col-span-8{% else %}lg:col-span-{% cycle '5','3','3','5','4','4' %}{% endif %} border border-gray micro-float h-72" href="{{ item.source.link }}" target="_blank" rel="nofollow">
+            {% if item.image %}
+            {% image item.image, item.image_alt, "object-cover w-full h-full", "(min-width: 768px) 780px, 100vw" %}
+            {% else %}
+            <figure class="testimonial h-full flex flex-col justify-between space-y-5 cd-sm">
+                <blockquote class="space-y-5 text-md md:text-lg">{{ item.quote_markdown | markdownify }}</blockquote>
+                <figcaption class="text-gray-dark text-opacity-50">
+                    {% if item.source.small_image contains "/" %}
+                    {% image item.source.small_image, item.source.name, "w-24", "120px" %}
+                    {% else %}
+                    <p class="text-xs md:text-sm">{{ item.source.name | markdownify }}</p>
+                    {% endif %}
+                </figcaption>
+            </figure>
+            {% endif %}
+            </a>
+        {% endfor %}
+        </div>
+    </div>
+</section>

@@ -1,0 +1,14 @@
+<section class="s-sm bg-gray-light">
+    <div class="max-w-md mx-auto">
+        <figure class="testimonial space-y-5">
+            <blockquote class="space-y-5">{{ item.quote_markdown | markdownify }}</blockquote>
+            <figcaption class="flex flex-row flex-nowrap items-center space-x-4">
+                {% image item.source.small_image, item.source.name, "rounded-full w-12 h-12", "48px" %}
+                <div class="text-xs md:text-sm font-sans">
+                    <p>{{ item.source.name }}</p>
+                    <p class="text-gray-dark text-opacity-50">{{ item.source.context }}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+</section>

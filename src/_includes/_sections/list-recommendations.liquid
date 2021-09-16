@@ -1,0 +1,22 @@
+<section class="s-sm">
+    <div class="max-w-screen-xl mx-auto space-y-10">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {% for item in recommendations.products %}
+            <a class="bg-white shadow flex flex-col micro-float px-6 py-4" href="{{ item.link.url }}" target="_blank">
+                <div class="aspect-w-16 aspect-h-10 mb-10">
+                    {% image item.image, item.title, "object-contain h-full", "(min-width: 1024px) 410px, (min-width: 640px) 45vw, 96vw" %}
+                </div>
+                <div class="mb-4 flex-grow">
+                    <h3 class="mt-4 mb-2">{{ item.title }}</h3>
+                    <p>{{ item.text }}</p>
+                </div>
+                <div class="label text-gray-dark text-opacity-50">
+                    <div class="py-4 border-t-2 border-gray-100">
+                        <div class="transition-default text-coral group-hover:text-maroon">{{ item.link.text }}</div>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        </div>
+    </div>
+</section>

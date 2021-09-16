@@ -1,7 +1,7 @@
 ---
 type: Bundle
 title: "Twitter Growth Engine—build and monetize an audience"
-image: /assets/images/products/vicebreakers-1.png
+image: /images/products/vicebreakers-1.png
 product_info:
   price: Usually $400, now $97
 ---

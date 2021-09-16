@@ -1,0 +1,13 @@
+<section class="s-sm">
+    <div class="max-w-screen-xl mx-auto space-y-10">
+        <h2 class="text-center max-w-md mx-auto">{{ item.title }}</h2>
+        <div class="grid gap-5 lg:grid-cols-3">
+            {% for item in item.items %}
+            <div class="bg-white shadow flex flex-col micro-float p-6">
+                <h3 class="mt-0">{{ item.title }}</h3>
+                <p>{{ item.text }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
