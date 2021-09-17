@@ -1,0 +1,29 @@
+{
+  "timezone": "",
+  "collections": {
+    "projects": {
+      "path": "",
+      "name": "",
+      "title": "",
+      "output": false,
+      "_sort_key": "",
+      "_subtext_key": "",
+      "_image_key": "",
+      "_image_size": "",
+      "_singular_name": "",
+      "_singular_key": "",
+      "_disable_add": false,
+      "_icon": "",
+      "_enabled_editors": null,
+      "_add_options": []
+    }
+  },
+  "_comments": {},
+  "_options": {},
+  "_editor": {},
+  "_collection_groups": null,
+  "_source_editor": {},
+  "_array_structures": {},
+  "_enabled_editors": null,
+  "_select_data": {}
+}

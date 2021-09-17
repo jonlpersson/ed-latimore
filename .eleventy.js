@@ -5,6 +5,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 const sharp = require('sharp');
+const pluginCloudCannon = require('eleventy-plugin-cloudcannon');
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false)
@@ -85,6 +86,6 @@ module.exports = function (eleventyConfig) {
         }
     };
 
-    eleventyConfig.cloudcannonOptions = config;
+    eleventyConfig.addPlugin(pluginCloudCannon, config);
     return config;
 };
