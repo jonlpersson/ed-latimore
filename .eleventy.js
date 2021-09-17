@@ -42,6 +42,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addLiquidShortcode("image", require('./lib/shortcodes/image.shortcode.js'));
     eleventyConfig.addLiquidShortcode("background", require('./lib/shortcodes/background.shortcode.js'));
+    eleventyConfig.addLiquidShortcode("youtube", require('./lib/shortcodes/youtube.shortcode.js'));
 
     eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
         if (
@@ -71,37 +72,12 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addCollection("paginatedPostsByTag", require("./lib/collections/paginatedPostsByTag.js"));
 
     // Add header anchor and footnotes plugin to Markdown renderer
-    const markdownLib = markdownIt({ html: true, typographer: true });
-    const rwdOptions = {
-        responsive: {
-            'srcset': {
-                '*': [ {
-                width: 320,
-                rename: {
-                    suffix: '-320'
-                }
-                }, {
-                width: 550,
-                rename: {
-                    suffix: '-550'
-                }
-                } ]
-            },
-            'sizes': {
-                '*': '(max-width: 550px) calc(100vw - 120px), 550px'
-            }
-        }
-    };
+    const markdownLib = markdownIt({ html: true, typographer: true, linkify: true, breaks: true });
     markdownLib.use(markdownItFootnote).use(markdownItAnchor);
     eleventyConfig.setLibrary("md", markdownLib);
 
-    // eleventyConfig.addPlugin(lazyImagesPlugin, {
-    //     setWidthAndHeightAttrs: true,
-    //     preferNativeLazyLoad: true,
-    //     transformImgPath: (imgPath) => imgPath.replace('/assets/', './_site/assets/')
-    // });
-
     return {
+        markdownTemplateEngine: "liquid",
         dir: {
             input: "src",
             includes: "_includes",

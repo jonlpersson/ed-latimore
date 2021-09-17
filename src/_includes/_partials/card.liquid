@@ -1,6 +1,6 @@
 {% case type %}
     {% when "product" %}
-    <a class="bg-white shadow flex flex-col micro-float" href="{{ item.url }}">
+    <a class="lg:text-md bg-white shadow flex flex-col micro-float" href="{{ item.url }}">
         <div class="bg-gray-light w-full aspect-w-16 aspect-h-10">
             {% image item.data.image, item.data.title, "object-contain h-full", "(min-width: 1024px) 45vw, (min-width: 640px) 45vw, 96vw" %}
         </div>
@@ -18,7 +18,7 @@
         </div>
     </a>
     {% else %}
-    <a class="bg-white shadow flex flex-col micro-float" href="{{item.url}}">
+    <a class="lg:text-md bg-white shadow flex flex-col micro-float" href="{{item.url}}">
         <div class="bg-gray-light w-full aspect-w-16 aspect-h-10">
             {% image item.data.image, item.data.title, "object-cover h-full", "(min-width: 1024px) 410px, (min-width: 640px) 45vw, 96vw" %}
         </div>

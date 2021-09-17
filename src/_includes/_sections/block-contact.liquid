@@ -1,5 +1,5 @@
-<section class="s-sm">
-    <div class="max-w-md mx-auto">
+<section class="s-sm{% if item.class %} {{ item.class }}{% endif %}">
+    <div class="max-w-xl mx-auto">
         <h2>{{ item.title | default:"Contact form submission" }}</h2>
         <form id="contactForm" class="font-sans flex flex-col space-y-5" method="post" action="/form-success.html">
             <div class="flex flex-col space-y-2">

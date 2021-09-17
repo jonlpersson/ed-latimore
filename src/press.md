@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About me
+layout: page
+title: Press & media
 page_blocks:
     - _id: hero_section
       title: Press page & media kit
@@ -81,35 +81,3 @@ page_blocks:
             name: David Sherry, *Caffeine*
             link: https://www.caffeine.blog/an-interview-with-ed-latimore/
 ---
-{% include "_partials/shortcodes" %}
-
-{% for item in page_blocks %}
-    {% case item._id %}
-        {% when "hero_section" %}
-            {% include "_sections/hero-section" %}
-        {% when "featured_logos" %}
-            {% include "_sections/featured-logos" %}
-        {% when "featured_articles" %}
-            {% include "_sections/featured-articles" %}
-        {% when "featured_products" %}
-            {% include "_sections/featured-products" %}
-        {% when "list_categories" %}
-            {% include "_sections/list-categories" %}
-        {% when "list_products" %}
-            {% include "_sections/list-products" %}
-        {% when "block_benefits" %}
-            {% include "_sections/block-benefits" %}
-        {% when "block_testimonial" %}
-            {% include "_sections/block-testimonial" %}
-        {% when "product_cta" %}
-            {% include "_sections/product-cta" %}
-        {% when "block_rich_text" %}
-            {% include "_sections/block-rich" %}
-        {% when "block_contact" %}
-            {% include "_sections/block-contact" %}
-        {% when "block_photos" %}
-            {% include "_sections/block-photos" %}
-        {% when "block_media" %}
-            {% include "_sections/block-media" %}
-    {% endcase %}
-{% endfor %}

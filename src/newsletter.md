@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page_blocks:
     - _id: hero_section
       type: newsletter
@@ -24,23 +24,3 @@ page_blocks:
     - _id: featured_logos
 title: Ed Latimore
 ---
-{% include "_partials/shortcodes" %}
-
-{% for item in page_blocks %}
-    {% case item._id %}
-        {% when "hero_section" %}
-            {% include "_sections/hero-section" %}
-        {% when "featured_logos" %}
-            {% include "_sections/featured-logos" %}
-        {% when "featured_articles" %}
-            {% include "_sections/featured-articles" %}
-        {% when "featured_products" %}
-            {% include "_sections/featured-products" %}
-        {% when "list_categories" %}
-            {% include "_sections/list-categories" %}
-        {% when "list_products" %}
-            {% include "_sections/list-products" %}
-        {% when "block_benefits" %}
-            {% include "_sections/block-benefits" %}
-    {% endcase %}
-{% endfor %}

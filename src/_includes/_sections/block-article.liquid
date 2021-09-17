@@ -1,0 +1,18 @@
+{% case item.type %}
+    {% when "center" %}
+    <section class="s-sm">
+        <div class="max-w-md mx-auto">
+            <div class="max-w-md prose">
+                {{ layoutContent | safe }}
+            </div>
+        </div>
+    </section>
+    {% else %}
+    <section class="s-sm">
+        <div class="max-w-screen-xl mx-auto">
+            <div class="max-w-lg prose">
+                {{ layoutContent | safe }}
+            </div>
+        </div>
+    </section>
+{% endcase %}
