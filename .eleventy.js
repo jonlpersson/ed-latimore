@@ -85,6 +85,6 @@ module.exports = function (eleventyConfig) {
         }
     };
 
-    eleventyConfig.clouddcannonOptions = config;
+    eleventyConfig.cloudcannonOptions = config;
     return config;
 };
