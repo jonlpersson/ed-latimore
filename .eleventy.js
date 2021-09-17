@@ -5,7 +5,6 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItResponsive = require("@gerhobbelt/markdown-it-responsive");
 const sharp = require('sharp');
-// const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false)
@@ -76,7 +75,7 @@ module.exports = function (eleventyConfig) {
     markdownLib.use(markdownItFootnote).use(markdownItAnchor);
     eleventyConfig.setLibrary("md", markdownLib);
 
-    return {
+    const config = {
         markdownTemplateEngine: "liquid",
         dir: {
             input: "src",
@@ -84,5 +83,8 @@ module.exports = function (eleventyConfig) {
             layouts: "_layouts",
             output: "_site",
         }
-    }
+    };
+
+    eleventyConfig.clouddcannonOptions = config;
+    return config;
 };
