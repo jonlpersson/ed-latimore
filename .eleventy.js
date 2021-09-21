@@ -78,8 +78,10 @@ module.exports = function (eleventyConfig) {
 
     const config = {
         markdownTemplateEngine: "liquid",
+        pathPrefix: "/",
         dir: {
             input: "src",
+            data: "_data",
             includes: "_includes",
             layouts: "_layouts",
             output: "_site",

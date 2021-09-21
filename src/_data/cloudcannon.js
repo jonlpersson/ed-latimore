@@ -8,5 +8,16 @@ module.exports = {
       heading: 'Pages',
       collections: ['products', 'pages']
     }
-  ]
+  ],
+  collections: {
+    posts: {
+      path: 'posts',
+      _image_key: 'image',
+      _image_size: 'contain',
+      _icon: 'article',
+      _enabled_editors: [
+        'content'
+      ]
+    }
+  }
 }
