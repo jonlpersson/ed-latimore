@@ -1,3 +1,1 @@
-rm -rf cloudcannon
-cp -R node_modules/eleventy-plugin-cloudcannon/cloudcannon .
 npm run prebuild
