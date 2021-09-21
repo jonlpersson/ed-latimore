@@ -88,6 +88,17 @@ module.exports = function (eleventyConfig) {
         }
     };
 
-    eleventyConfig.addPlugin(pluginCloudCannon, config);
+    const cloudCannonConfig = {
+        markdownTemplateEngine: "liquid",
+        pathPrefix: "/",
+        dir: {
+            input: "src",
+            data: "_data",
+            includes: "_includes",
+            layouts: "_layouts",
+        }
+    };
+
+    eleventyConfig.addPlugin(pluginCloudCannon, cloudCannonConfig);
     return config;
 };
