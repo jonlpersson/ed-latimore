@@ -3,7 +3,7 @@
     "timezone": "America/New_York",
     "collections": {
       "posts": {
-        "path": "posts",
+        "path": "/src/posts",
         "name": "Blog Posts",
         "title": "Blog Post",
         "output": true,
