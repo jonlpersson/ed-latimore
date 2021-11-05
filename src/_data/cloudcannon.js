@@ -18,6 +18,16 @@ module.exports = {
       _enabled_editors: [
         'content'
       ]
+    },
+    pages: {
+      path: '',
+      _image_key: 'image',
+      _image_size: 'contain',
+      _icon: 'page',
+      _enabled_editors: [
+        'content',
+        'data'
+      ]
     }
   }
 }
