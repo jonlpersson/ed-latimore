@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /press/
 title: Press & media
 page_blocks:
     - _id: hero_section

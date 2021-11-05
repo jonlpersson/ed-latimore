@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /speaking/
 title: Keynote speaking
 page_blocks:
     - _id: hero_section

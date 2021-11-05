@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /legal/
 title: Legal disclaimers
 page_blocks:
     - _id: hero_section

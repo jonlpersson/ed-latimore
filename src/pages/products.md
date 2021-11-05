@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /products/
 page_blocks:
     - _id: hero_section
       label: Accelerate your development

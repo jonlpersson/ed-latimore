@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /colophon/
 title: Brand and site credits
 page_blocks:
     - _id: hero_section

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /about/
 title: About me
 page_blocks:
     - _id: hero_section

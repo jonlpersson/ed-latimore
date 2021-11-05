@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /newsletter/
 page_blocks:
     - _id: hero_section
       type: newsletter

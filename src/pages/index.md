@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /
 page_blocks:
     - _id: hero_section
       title: Learn how to control your mind, body, and emotions with my Stoic Street-Smarts newsletter.

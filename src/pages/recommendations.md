@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /recommendations/
 title: My product recommendations
 page_blocks:
     - _id: hero_section
