@@ -1,0 +1,14 @@
+{% assign item = page.hero %}
+{% case page.name %}
+    {% when "index.md" %}
+
+    {% else %}
+    <section class="s-md bg-gray-50">
+        <div class="max-w-screen-xl mx-auto">
+            <div class="text-center max-w-lg mx-auto text-md md:text-lg">
+                <h1>{{item.title|default: page.title|smartify}}</h1>
+                {{item.text_markdown|default: page.description|markdownify}}
+            </div>
+        </div>
+    </section>
+{% endcase %}

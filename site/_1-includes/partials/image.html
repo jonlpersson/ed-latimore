@@ -1,0 +1,7 @@
+{% capture srcset %}
+{% for image in resized %}
+/{{ image.path }} {{ image.width }}w,
+{% endfor %}
+/{{ original.path }} {{ original.width }}w,
+{% endcapture %}
+<img width="{{original.width}}" height="{{original.height}}"{% unless unlazy %} loading="lazy"{% endunless %}{% if class %} class="{{class}}"{% endif %} src="/{{path}}" srcset="{{srcset|strip_newlines}}"{% if sizes %} sizes="{{sizes}}"{% endif %} alt="{{alt}}">

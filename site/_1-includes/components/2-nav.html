@@ -1,0 +1,64 @@
+{% capture mobileMenu %}
+<div class="lg:hidden absolute left-0 right-0 w-full z-50 bg-gray-50">
+  <div
+    class="transform origin-top shadow-lg"
+    x-show="showMenu"
+    x-transition:enter="transition-default"
+    x-transition:enter-start="opacity-0 -translate-y-3"
+    x-transition:enter-end="opacity-100 translate-y-0"
+    x-transition:leave="transition-default"
+    x-transition:leave-start="opacity-100 translate-y-0"
+    x-transition:leave-end="opacity-0 -translate-y-3">
+    <div class="s-sm py-10 label flex flex-col space-y-6">
+      {% for item in headerNav %}
+      <a href="{{item.url}}" class="hover:text-red-400 focus:text-red-400 focus:outline-none">{{item.name}}</a>
+      {% endfor %}
+      {% for item in headerCta %}
+      <a href="{{item.url}}" class="btn btn--small btn--muted">{{item.name}}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endcapture %}
+
+{% capture mobileMenuButton %}
+<div class="flex lg:hidden items-center justify-end space-x-8">
+  <button
+    aria-label="Navigation menu"
+    type="button"
+    class="inline-flex items-center justify-center p-1 hover:text-red-400 focus:outline-none transition-default"
+    x-on:click="showMenu = !showMenu"
+    :class="{'text-gray-900': showMenu}">
+    <svg x-show="!showMenu" class="h-6 w-6" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+    </svg>
+    <svg x-show="showMenu" class="h-6 w-6" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  </button>
+</div>
+{% endcapture %}
+
+<header
+  aria-role="navigation"
+  class="s-xs bg-gray-50 border-gray-600 border-opacity-50 border-b relative z-50 transition-default text-gray-800 font-sans"
+  x-data="{showMenu: false}"
+  :class="{'shadow-md': showMenu}">
+  <div class="max-w-screen-xl mx-auto">
+    <nav class="flex justify-between items-center text-sm relative">
+      <a href="/" aria-label="Home page" class="text-gray-900">{% include_cached icons/logo.svg class="h-4 md:h-5 w-auto" %}</a>
+      <div class="z-10 hidden lg:flex items-center justify-center space-x-8">
+        {% for item in headerNav %}
+        <a href="{{item.url}}" class="hover:text-red-400">{{item.name}}</a>
+        {% endfor %}
+      </div>
+      <div class="z-10 hidden lg:flex items-center justify-end space-x-8">
+        {% for item in headerCta %}
+        <a href="{{item.url}}" class="btn btn--small btn--muted">{{item.name}}</a>
+        {% endfor %}
+      </div>
+      {{mobileMenuButton}}
+    </nav>
+  </div>
+  {{mobileMenu}}
+</header>

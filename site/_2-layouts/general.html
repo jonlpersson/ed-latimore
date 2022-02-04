@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% include partials/shortcodes.html %}
+
+{% include sections/hero.html %}
+{% for item in page_blocks %}
+    {% case item._id %}
+        {% when "lead" %}
+            {% include sections/lead.html %}
+    {% endcase %}
+{% endfor %}

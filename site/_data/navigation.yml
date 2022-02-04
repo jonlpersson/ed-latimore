@@ -1,0 +1,55 @@
+navigation_links:
+  - url: /
+    name: Home
+    visible:
+      - header
+      - footer
+    group:
+      - main
+  - url: /about/
+    name: About
+    visible:
+      - header
+      - footer
+    group:
+      - main
+  - url: /contact/
+    name: Contact
+    visible:
+      - header
+      - footer
+    group:
+      - main
+  - url: /credits/
+    name: Site Credits
+    visible:
+      - subfooter
+    group:
+  - url: /legal/
+    name: Legal Disclaimers
+    visible:
+      - subfooter
+    group:
+footer_groups:
+  - main
+  - social
+_select_data:
+  group:
+    main: Main
+    social: Social
+  footer_groups:
+    main: Main
+    social: Social
+  visible:
+    - footer
+    - subfooter
+    - header
+_structures:
+  navigation_links:
+    values:
+      - label: Link
+        value:
+          url:
+          name:
+          visible:
+          group:

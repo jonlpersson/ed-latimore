@@ -1,6 +1,5 @@
-_site/
-_tmp/
-.DS_Store
-node_modules/
-package-lock.json
-src/_assets/optimized.json
+node_modules
+site/.jekyll-cache
+_site
+site/assets/images/.DS_Store
+site/assets/.DS_Store

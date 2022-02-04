@@ -1,0 +1,22 @@
+{% case include.type %}
+{% when "post" %}
+<a href="{{item.url}}" class="group flex flex-col border border-gray-100 rounded-lg overflow-hidden micro-float">
+  <div class="aspect-w-16 aspect-h-9">
+    {% responsive_image_block %}
+    path: {{item.image}}
+    class: "h-full object-cover"
+    alt: "Post thumbnail"
+    sizes: "(min-width: 1360px) 408px, (min-width: 1024px) 29vw, (min-width: 640px) 42vw, 92vw"
+    {% endresponsive_image_block %}
+  </div>
+  <div class="cd-sm flex-1 flex flex-col justify-between">
+    <h4 class="my-0">{{item.display_title|default:item.title|markdownify|remove:"<p>"|remove:"</p>"}}</h4>
+    <div class="mt-10 font-sans text-xs text-gray-600">Published {{item.date|date_to_string: "ordinal", "US"}}</div>
+  </div>
+</a>
+{% else %}
+<div class="cd-xs lg:col-span-4">
+  <h3>{{item.title|smartify}}</h3>
+  <div>{{item.text|markdownify}}</div>
+</div>
+{% endcase %}

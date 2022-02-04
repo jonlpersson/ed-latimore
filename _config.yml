@@ -1,0 +1,199 @@
+# Configure sitewide settings
+ga_username: ''
+gtm_username: ''
+url:
+permalink: /:title/
+timezone: America/New_York # List of time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+lang: en-us
+
+# Configure site collections
+collections:
+  posts:
+    permalink: /:title/
+    output: true
+
+# Configure collection defaults
+defaults:
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: general
+      image: /assets/images/1-default.jpg
+  - scope:
+      path: '_posts'
+      type: 'posts'
+    values:
+      layout: post
+      seo:
+        type: BlogPosting
+
+# Build settings
+destination: _site
+source: site
+include: ['.htaccess', '_redirects']
+data_dir: _data
+includes_dir: _1-includes
+layouts_dir: _2-layouts
+uploads_dir: ../assets/images
+keep_files:
+  - css
+  - assets
+kramdown:
+  smart_quotes: ['lsquo', 'rsquo', 'ldquo', 'rdquo']
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-include-cache
+  - jekyll-responsive-image
+  - jekyll-last-modified-at
+
+# Plugin settings
+responsive_image:
+  template: _1-includes/partials/image.html
+  sizes:
+    - width: 100
+    - width: 640
+    - width: 800
+    - width: 1280
+  strip: true
+  base_path: assets/images
+  output_path_format: assets/images/%{dirname}/%{filename}-%{width}.%{extension}
+  save_to_source: false
+  cache: false
+
+pagination:
+  enabled: true
+  sort_reverse: true
+  debug: false
+  per_page: 15
+  permalink: /:num/
+  title: :title (page :num)
+  trail:
+    before: 3
+    after: 3
+
+# CloudCannon settings
+_structures:
+  page_blocks:
+    values:
+      - label: Lead Paragraph
+        icon: view_headline
+        value:
+          _id: lead
+          text_markdown:
+      - label: Large Content Section
+        icon: article
+        value:
+          _id: article-content
+          content_markdown:
+      - label: Three-Column List
+        icon: view_carousel
+        value:
+          _id: benefit-items
+          title:
+          benefits: []
+      - label: Testimonial Section
+        icon: format_quote
+        value:
+          _id: testimonials
+          title:
+          quotes: []
+  images:
+    values:
+      - label: Gallery Image
+        value:
+          image:
+          alt:
+  benefits:
+    values:
+      - label: Section Item
+        value:
+          title:
+          text_markdown:
+          details:
+  quotes:
+    values:
+      - label: Testimonial Item
+        value:
+          name:
+          byline:
+          image:
+          quote_text:
+  links:
+    values:
+      - label: Link
+        value:
+          text:
+          url:
+
+_inputs:
+  description:
+    comment: Page description displayed in search results
+  hero:
+    comment: Options to define your hero section
+    title:
+      label: Section Heading
+    image:
+      label: Section Image
+    button:
+      url:
+        comment: Points the button somewhere (can be a relative path)
+      text:
+        comment: Determines the button label
+  text_markdown:
+    label: Section Paragraph
+    options:
+      removeformat: true
+      bold: true
+      italic: true
+      link: true
+  content_markdown:
+    label: Section Content
+    options:
+      format: p h2 h3 h4
+      removeformat: true
+      bold: true
+      italic: true
+      strike: true
+      blockquote: true
+      horizontalrule: true
+      numberedlist: true
+      bulletedlist: true
+      embed: true
+      image: true
+      link: true
+  alt:
+    type: text
+    label: Image ALT Text
+    comment: Detailed description of what is portrayed in the image, for people who can't see
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  sitemap:
+    hidden: true
+  content:
+    format: p h2 h3 h4
+    removeformat: true
+    bold: true
+    italic: true
+    strike: true
+    blockquote: true
+    horizontalrule: true
+    numberedlist: true
+    bulletedlist: true
+    table: false
+    embed: true
+    image: true
+    link: true
+_disable_title_filename_sync: true
+
+## CloudCannon sidebar appearance
+cloudcannon:
+  collections:
+    posts:
+      _sort_key: date
+      _subtext_key: tags
+      _image_key: image
+      _image_size: cover

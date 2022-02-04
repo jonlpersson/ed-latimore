@@ -1,0 +1,15 @@
+site:
+  title: Jimmy Soni
+  description: |
+    Enter the minds of great people, learn something useful, and enjoy yourself while doing it.
+author_details:
+  name: Jimmy Soni
+  image: /assets/images/people/jimmy.jpg
+article_cta:
+  label: Keep up with my essays
+  title: Join my newsletter
+  text_markdown: |
+    In addition to sending you a long-form essay every 5–6 weeks, I will also let you know when I have a new book coming out.
+  button:
+    text: Subscribe now
+    url: /email/

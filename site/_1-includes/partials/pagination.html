@@ -1,0 +1,41 @@
+{% if paginator.total_pages > 1 %}
+  {% capture pageUrl %}{{page.url|remove:'index.html'}}{% endcapture %}
+  {% capture prev %}&larr;&nbsp;Prev{% endcapture %}
+  {% capture next %}Next&nbsp;&rarr;{% endcapture %}
+  <section class="s-md pt-0 bg-white label" style="font-feature-settings: 'tnum' on, 'lnum' on">
+    <div class="max-w-screen-xl mx-auto">
+      <nav class="px-4 flex items-center justify-center space-x-8 sm:px-0">
+        <div class="flex font-bold">
+          {% if paginator.previous_page %}
+          <a href="{{paginator.previous_page_path}}" class="py-2 px-3 inline-flex items-center hover:text-red-400 transition-default">{{prev}}</a>
+          {% else %}
+          <span class="py-2 px-3 inline-flex items-center text-gray-300">{{prev}}</span>
+          {% endif %}
+        </div>
+        {% if paginator.page_trail %}
+          <div class="hidden md:flex space-x-8">
+            {% for trail in paginator.page_trail %}
+              {% capture trailPath %}{{trail.path|replace:'index.html',''}}{% endcapture %}
+              {% if trailPath == pageUrl %}
+              <span class="transition-default rounded-full w-6 h-6 inline-flex items-center justify-center bg-gray-100">
+                <span class="ml-px -mt-px block">{{trail.num}}</span>
+              </span>
+              {% else %}
+              <a href="{{trailPath}}" class="rounded-full w-6 h-6 inline-flex items-center justify-center hover:bg-red-400">
+                <span class="ml-px -mt-px block">{{trail.num}}</span>
+              </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+        <div class="flex justify-end font-bold">
+          {% if paginator.next_page %}
+          <a href="{{paginator.next_page_path}}" class="py-2 px-3 inline-flex items-center hover:text-red-400 transition-default">{{next}}</a>
+          {% else %}
+          <span class="py-2 px-3 inline-flex items-center text-gray-300">{{next}}</span>
+          {% endif %}
+        </div>
+      </nav>
+    </div>
+  </section>
+{% endif %}
