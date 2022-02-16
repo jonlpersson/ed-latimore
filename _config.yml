@@ -1,7 +1,7 @@
 # Configure sitewide settings
 ga_username: ''
 gtm_username: ''
-url:
+url: https://edlatimore.com
 permalink: /:title/
 timezone: America/New_York # List of time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 lang: en-us

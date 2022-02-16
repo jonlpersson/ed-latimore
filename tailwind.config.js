@@ -3,14 +3,13 @@ module.exports = {
   content: ['_site/**/*.{html,js}'],
   theme: {
     fontFamily: {
-      heading: '',
-      body: '',
-      micro: '',
+      sans: 'itc-avant-garde-gothic-pro, sans-serif',
+      serif: 'adobe-garamond-pro, serif'
     },
     lineHeight: {
       tight: '1.1',
-      snug: '1.25',
-      normal: '1.4',
+      snug: '1.3',
+      normal: '1.5',
     },
     listStyleType: {
       none: 'none',
@@ -20,7 +19,15 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      white: '#ffffff'
+      white: '#ffffff',
+      gray: {
+        light: "#E2E1E1",
+        DEFAULT: "#CDCFCF",
+        dark: "#050B0D",
+      },
+      maroon: "#941732",
+      coral: "#E54F4E",
+      navy: "#1E274A",
     },
     extend: {},
   },

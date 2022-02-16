@@ -1,12 +1,12 @@
 {% comment %}Header assignments{% endcomment %}
-{% assign headerNav = site.data.navigation.links|where_exp:"item","item.group contains 'main'" %}
-{% assign headerCta = site.data.navigation.links|where_exp:"item","item.group contains 'cta'" %}
+{% assign headerNav = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'main'" %}
+{% assign headerCta = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'cta'" %}
 
 {% comment %}Footer assignments{% endcomment %}
-{% assign footerNav = site.data.navigation.links|where_exp:"item","item.visible contains 'footer'" %}
+{% assign footerNav = site.data.navigation.navigation_links|where_exp:"item","item.visible contains 'footer'" %}
 {% assign footerNavGroups = site.data.navigation.footer_groups %}
-{% assign subfooterNav = site.data.navigation.links|where_exp:"item","item.visible contains 'subfooter'" %}
-{% assign legalNav = site.data.navigation.links|where_exp:"item","item.group contains 'legal'" %}
+{% assign subfooterNav = site.data.navigation.navigation_links|where_exp:"item","item.visible contains 'subfooter'" %}
+{% assign legalNav = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'legal'" %}
 
 {% comment %}Page stuff{% endcomment %}
 {% assign settings = site.data.global_settings %}

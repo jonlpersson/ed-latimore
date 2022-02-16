@@ -1,22 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}" class="font-body antialiased text-base md:text-md text-gray-800 bg-white">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" class="font-serif antialiased text-base md:text-md text-gray-800 bg-white">
 
 {% comment %}Site head{% endcomment %}
-{% include components/1-head.html %}
+{% include partials/1-head.html %}
 
 <body class="{{page.class}} mx-auto">
     {% comment %}Google Tag Manager NoScript snippet—will load in production environment. Make sure site.gtm_username
     has been updated!{% endcomment %}
     {% include partials/gtm-body.html %}
 
+    <a id="skip-nav" class="sr-only" href="#main-content">Skip to content</a>
+
     {% comment %}Site navigation{% endcomment %}
-    {% include components/2-nav.html %}
+    {% include partials/2-nav.html %}
 
     {% comment %}Page content{% endcomment %}
     <div aria-role="main">{{ content }}</div>
 
     {% comment %}Site footer{% endcomment %}
-    {% include components/3-footer.html %}
+    {% include partials/3-footer.html %}
 
     {% comment %}Javascript file{% endcomment %}
 
