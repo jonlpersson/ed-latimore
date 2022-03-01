@@ -146,7 +146,7 @@ Rather than just retweet the article, I quote the best line before sharing it. T
 
 It works wonders for the article's exposure. I’m always trying to help.
 
-![Commenting On Tweets To Get Followers](/assets/images/posts/quotetweet.PNg "A light example of this philosophy. I quote tweet this rather than just retweet it")
+![Commenting On Tweets To Get Followers](/assets/images/posts/quotetweet.PNG "A light example of this philosophy. I quote tweet this rather than just retweet it")
 
 ## Have a great Twitter bio
 
@@ -234,7 +234,7 @@ It’s like growing a garden. Each tweet is a seed with the potential to bear th
 
 This is not the same thing as using something like [Hypefury to schedule tweets](https://hypefury.com/?via=edlatimore){: target="_blank" rel="noopener noreferrer"}. That falls under the real of writing practice. While I don't schedule tweets, I understand
 
-![Increase Twitter Follower Growth](/assets/images/posts/twitter-growth-time.PNg "My growth over time to today")
+![Increase Twitter Follower Growth](/assets/images/posts/twitter-growth-time.PNG "My growth over time to today")
 
 ## Have something to say
 
