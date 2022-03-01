@@ -106,7 +106,7 @@ When people see that you don’t have thousands of tweets archived, your account
 
 Think of Twitter as a showcase for your thoughts: Only the best stuff should be on display.
 
-![Example of a bad tweet to follower ratio](/assets/images/posts/Twitter-counts.PNg "My tweet count is a little high, but it's still lower than my follower count")
+![Example of a bad tweet to follower ratio](/assets/images/posts/Twitter-counts.PNG "My tweet count is a little high, but it's still lower than my follower count")
 
 ## Be authentic and transparent
 
