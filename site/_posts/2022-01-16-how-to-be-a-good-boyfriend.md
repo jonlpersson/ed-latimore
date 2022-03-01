@@ -5,7 +5,7 @@ title: How to be a better boyfriend
 permalink: /how-to-be-a-good-boyfriend/
 tags: [emotional-mastery]
 description: "An unconventional look at how to be a good boyfriend"
-image: /assets/images/thumbnails/ed-with-girlfriend-anna.jpg
+image: /assets/images/thumbnails/ed-with-girlfriend-anna.JPG
 ---
 
 The things that make you good in a relationship are the things that lead to a good life:
