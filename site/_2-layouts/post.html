@@ -4,4 +4,70 @@ layout: default
 
 {% include partials/shortcodes.html %}
 
-{% include sections/hero.html %}
+<section class="s-md bg-gray-light">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <div class="label-section">{{ page.tags | first | replace:"-"," " }}</div>
+    <div class="max-w-screen-lg">
+      <h1 class="h2">{{ page.title | smartify }}</h1>
+      <p class="lg:w-3/4 font-sans text-xl lg:text-2xl">{{ page.description | smartify }}</p>
+      <div class="flex flex-row flex-nowrap items-center gap-4 mt-8">
+        {% responsive_image_block %}
+          path: {{ author.small_image | remove_first:"/" }}
+          alt: {{ author.name }}
+          class: "rounded-full w-12 h-12"
+          sizes: "60px"
+        {% endresponsive_image_block %}
+        <div class="text-sm md:text-base font-sans">
+          <div>{{ author.name }}</div>
+          <div class="text-gray-dark text-opacity-50">{{ author.description }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="relative max-w-screen-xl mx-auto">
+  <div class="s-md max-w-md px-0 ml-6 lg:float-right text-lg lg:text-xl border-gray-light border-b lg:border-b-0">
+    <nav class="lg:border-l border-gray-light lg:cd-md lg:pt-8" aria-label="Table of contents">
+      <h4>Table of contents</h4>
+      {% include partials/toc.html html=content sanitize=true ordered="true" class="inline_toc.space-y-4" item_class="text-coral.hover:text-maroon" id="my_toc" h_min=2 h_max=2 skip_no_ids="true" %}
+    </nav>
+  </div>
+  <section class="s-xs lg:s-md lg:px-0">
+    <div class="max-w-screen-xl mx-auto">
+      <article class="max-w-2xl prose">
+        {{ content }}
+      </article>
+    </div>
+  </section>
+</section>
+
+<section class="s-md bg-gray-light">
+  <div class="max-w-screen-xl mx-auto">
+    <div class="max-w-screen-md flex flex-col gap-6 md:flex-row md:gap-16">
+      {% responsive_image_block %}
+        path: {{ author.medium_image | remove_first:"/" }}
+        alt: {{ author.name }}
+        class: "rounded-full w-40 h-40"
+        sizes: "160px"
+      {% endresponsive_image_block %}
+      <div class="flex-1 text-lg lg:text-xl space-y-4">
+        <div class="label-section">About the author</div>
+        <h4 class="!mt-6">{{ author.name }}</h4>
+        <p>{{ author.description_long | smartify }}</p>
+        <p><a class="link" href="https://twitter.com/{{ author.twitter }}" rel="nofollow" target="_blank">Follow me on Twitter.</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="s-md bg-navy">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <div class="label-section text-gray-light border-gray-light border-opacity-50">Related ideas</div>
+    <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {% for item in site.posts limit:3 %}
+      {% include partials/card.html type="minimal" %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

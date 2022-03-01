@@ -4,7 +4,7 @@
 {% comment %}Site head{% endcomment %}
 {% include partials/1-head.html %}
 
-<body class="{{page.class}} mx-auto">
+<body class="{{page.class}} mx-auto text-xl lg:text-2xl">
     {% comment %}Google Tag Manager NoScript snippet—will load in production environment. Make sure site.gtm_username
     has been updated!{% endcomment %}
     {% include partials/gtm-body.html %}
@@ -12,6 +12,7 @@
     <a id="skip-nav" class="sr-only" href="#main-content">Skip to content</a>
 
     {% comment %}Site navigation{% endcomment %}
+    {% include partials/shortcodes.html %}
     {% include partials/2-nav.html %}
 
     {% comment %}Page content{% endcomment %}

@@ -1,0 +1,10 @@
+{% comment %} Article sorting {% endcomment %}
+{% assign relevantPosts = site.posts | where_exp:"item","item.tags contains page.tag" %}
+
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {% for item in relevantPosts %}
+    {% include partials/card.html %}
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,18 @@
+{% case item.alignment %}
+  {% when "center" %}
+  <section class="s-md relative">
+    <div class="max-w-2xl mx-auto">
+      <div class="prose">
+        {{ item.text_markdown | default: content | markdownify }}
+      </div>
+    </div>
+  </section>
+  {% else %}
+  <section class="s-md relative">
+    <div class="max-w-screen-xl mx-auto">
+      <div class="max-w-2xl prose">
+        {{ item.text_markdown | default: content | markdownify }}
+      </div>
+    </div>
+  </section>
+{% endcase %}

@@ -1,6 +1,6 @@
 # Configure sitewide settings
-ga_username: ''
-gtm_username: ''
+amazon: httpedwardc07-20
+gtm_username: 'GTM-TTTNZWJ'
 url: https://edlatimore.com
 permalink: /:title/
 timezone: America/New_York # List of time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -11,12 +11,20 @@ collections:
   posts:
     permalink: /:title/
     output: true
+  products:
+    permalink: /products/:title/
+    output: true
+  resources:
+    permalink: /resources/:title/
+    output: true
+  category_pages:
+    permalink: /:title/
+    output: true
 
 # Configure collection defaults
 defaults:
   - scope:
       path: ''
-      type: 'pages'
     values:
       layout: general
       image: /assets/images/1-default.jpg
@@ -46,6 +54,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-responsive-image
   - jekyll-last-modified-at
+  - jekyll-twitter-plugin
 
 # Plugin settings
 responsive_image:

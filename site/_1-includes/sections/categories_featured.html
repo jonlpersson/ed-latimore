@@ -1,0 +1,30 @@
+{% comment %} Article sorting {% endcomment %}
+{% assign featuredCategories = site.tags %}
+
+<section class="s-md bg-navy text-white">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <div class="label-section text-gray-light border-gray-light border-opacity-50 flex justify-between">
+      <div>Explore my ideas</div>
+      <a class="text-coral hover:text-maroon" href="/archive/">Browse the archive &rarr;</a>
+    </div>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 gap-y-12">
+      {% for category in featuredCategories %}
+      <div>
+        <h4 class="mb-4">
+          <a class="text-white hover:text-coral" href="{{ category | first | relative_url }}">
+            {{ category | first | replace:"-"," " | capitalize }}
+            <sup class="font-normal text-sm md:text-base -top-3">({{ category.last.size }})</sup>
+          </a>
+        </h4>
+        <ul class="divide-y divide-gray-light divide-opacity-25 text-lg lg:text-xl">
+        {% for item in category.last limit:3 %}
+          <li class="py-2">
+            <a class="text-white hover:text-coral" href="{{ item.url }}">{{ item.title | smartify }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

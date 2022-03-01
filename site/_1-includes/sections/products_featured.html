@@ -1,0 +1,16 @@
+{% comment %} Product sorting {% endcomment %}
+{% assign recentProducts = site.products | reverse %}
+
+<section class="s-md bg-gray">
+  <div class="max-w-screen-xl mx-auto space-y-10">
+    <div class="label-section border-gray-dark border-opacity-25 flex justify-between">
+      <div>Popular products</div>
+      <a class="text-coral hover:text-maroon" href="/products/">View more products &rarr;</a>
+    </div>
+    <div class="grid sm:grid-cols-2 gap-6">
+      {% for item in recentProducts limit:3 %}
+      {% include partials/card.html type="product" %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

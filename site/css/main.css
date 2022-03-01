@@ -1,3 +1,276 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+	text-rendering: optimizeLegibility;
+	font-feature-settings: "liga";
+}
+@layer base {
+  /* Create default transition */
+  .transition-default {
+    @apply transition-all duration-300 ease-in-out;
+  }
+  /* Universal heading styles */
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+    @apply mb-6 font-sans font-bold text-gray-dark !leading-tight tracking-tight;
+  }
+  /* Individual heading styles */
+  h1, .h1 {
+    @apply text-4xl;
+  }
+  h2, .h2 {
+    @apply text-3xl;
+  }
+  h3, .h3, .prose h2 {
+    @apply text-2xl;
+  }
+  h4, .h4, .prose h3 {
+    @apply text-xl;
+  }
+  h5, .h5, .prose h4 {
+    @apply text-lg;
+  }
+  @screen lg {
+    h1, .h1 {
+      @apply text-6xl;
+    }
+    h2, .h2 {
+      @apply text-5xl;
+    }
+    h3, .h3, .prose h2 {
+      @apply text-4xl;
+    }
+    h4, .h4, .prose h3 {
+      @apply text-3xl;
+    }
+    h5, .h5, .prose h4 {
+      @apply text-2xl;
+    }
+  }
+  /* Other basic typography settings */
+  p {
+    @apply mb-5;
+  }
+  a {
+    @apply transition-default;
+  }
+  /* Label styling */
+  label, .label {
+    @apply uppercase font-sans text-base;
+  }
+  .label-section {
+    @apply uppercase font-sans text-gray-dark text-opacity-50 border-b border-gray-dark border-opacity-25 pb-2 text-base;
+  }
+}
+@layer components {
+  /* Section paddings */
+  .s-xxs {
+    @apply py-3 px-5;
+  }
+  .s-xs {
+    @apply py-4 px-5;
+  }
+  .s-sm {
+    @apply py-10 px-5;
+  }
+  .s-md {
+    @apply py-14 px-5;
+  }
+  /* Section paddings, larger viewports */
+  @screen sm {
+    .s-xxs {
+      @apply py-3 px-8;
+    }
+    .s-xs {
+      @apply py-6 px-8;
+    }
+    .s-sm {
+      @apply py-14 px-8;
+    }
+    .s-md {
+      @apply py-20 px-8;
+    }
+  }
+  /* Card paddings */
+  .cd-xs {
+    @apply p-3;
+  }
+  .cd-sm {
+    @apply p-6;
+  }
+  .cd-md {
+    @apply p-8;
+  }
+  /* Card paddings, larger viewports */
+  @screen sm {
+    .cd-xs {
+      @apply p-4;
+    }
+    .cd-sm {
+      @apply p-6;
+    }
+    .cd-md {
+      @apply p-10;
+    }
+  }
+  /* Buttons */
+  .btn {
+    @apply leading-tight tracking-wide font-bold font-sans text-xl text-center cursor-pointer transition-default inline-flex items-center justify-center px-8 py-5 border-2;
+  }
+  .btn:focus {
+    @apply outline-none border-double border-opacity-100;
+  }
+  .btn:hover, .btn:active {
+    @apply bg-opacity-70;
+  }
+  .btn-coral {
+    @apply bg-coral text-gray-dark border-coral bg-opacity-100 border-opacity-0;
+  }
+  .btn-coral:active, .btn-coral:hover {
+    @apply bg-maroon text-white;
+  }
+  .btn-coral:focus {
+    @apply border-gray-dark;
+  }
+  .btn-green-600 {
+    @apply bg-green-600 text-white border-green-600 bg-opacity-100 border-opacity-0;
+  }
+  .btn-green-600:focus {
+    @apply border-white;
+  }
+  .btn-green-400 {
+    @apply bg-green-400 text-white border-green-400 bg-opacity-100 border-opacity-0;
+  }
+  .btn-green-400:focus {
+    @apply border-white;
+  }
+  .btn-green-600.btn--outlined, .btn-green-600.btn--ghost {
+    @apply text-gray-dark;
+  }
+  .btn--outlined {
+    @apply border-opacity-100 bg-opacity-0;
+  }
+  .btn--outlined:hover, .btn--outlined:active, .btn--ghost:hover, .btn--ghost:active {
+    @apply bg-opacity-10;
+  }
+  .btn--ghost {
+    @apply px-3 bg-opacity-0 border-opacity-0 border-transparent;
+  }
+  .btn--disabled {
+    @apply pointer-events-none;
+  }
+  /* Typography for blog posts and prose content */
+  .prose h1:not(:first-child),
+  .prose h2:not(:first-child),
+  .prose h3:not(:first-child),
+  .prose h4:not(:first-child),
+  .prose h5:not(first-child) {
+    @apply mt-12 mb-6;
+  }
+  .prose p {
+    @apply my-6;
+  }
+  .prose img:not(.h-full) {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    @apply transition duration-500 transform;
+  }
+  .prose img:not(.h-full):hover {
+    @apply -translate-y-1;
+  }
+  .prose figcaption {
+    @apply tracking-wider uppercase text-sm text-center mt-5 text-gray;
+  }
+  .prose > figure,
+  .prose > p img,
+  .prose > div,
+  .prose > aside {
+    @apply my-12;
+  }
+  .prose figure p:last-child {
+    @apply mb-0;
+  }
+  .prose >*:not(img):not(figure):not(div):not(aside) {
+    @apply w-full max-w-2xl mx-auto;
+  }
+  @screen lg {
+    .prose >*:not(img):not(figure):not(div):not(aside) {
+      @apply w-full max-w-2xl mx-auto;
+    }
+  }
+  .prose a:not(.btn):not(.footnote-backref):not([id^="fnref"]):not([id*=" fnref"]),
+  .link {
+    @apply text-coral underline transition-default;
+  }
+  .prose a:not(.btn):hover,
+  .prose a:not(.btn):active,
+  .link:hover,
+  .link:active {
+    @apply text-maroon;
+  }
+
+  .prose ul,
+  .prose ol {
+    @apply list-outside my-6;
+  }
+  .prose li,
+  .prose li {
+    @apply ml-6 pl-3;
+  }
+  .prose ul > * + *,
+  .prose ol > * + * {
+    @apply my-6;
+  }
+  .prose ul {
+    @apply list-square;
+  }
+  .prose ol {
+    @apply list-decimal;
+  }
+  .prose hr {
+    @apply my-10 text-gray-light;
+  }
+  .prose blockquote {
+		@apply pl-4 -ml-4 mb-5 py-1 italic border-l-2 border-gray-light;
+	}
+  .prose blockquote p:last-of-type {
+    @apply mb-0;
+  }
+  .prose blockquote p:first-of-type {
+    @apply mt-0;
+  }
+  /* Tooltip styling */
+  .tooltip {
+    transform: translateZ(0);
+  }
+  .tooltip-arrow {
+    @apply h-0 w-0 left-0 right-0 block absolute bottom-full pointer-events-none mx-auto;
+    border: solid transparent;
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: #fff;
+    border-width: 10px;
+  }
+  .testimonial blockquote *:first-child {
+    text-indent: -0.52em;
+    @apply mt-0;
+  }
+  .testimonial blockquote *:first-child::before {
+    content: open-quote;
+  }
+  .testimonial blockquote *:last-child::after {
+    content: close-quote;
+  }
+}
+@layer utilities {
+  @screen md {
+    .micro-float {
+      @apply overflow-hidden transition duration-500 transform;
+    }
+    .micro-float:hover {
+      @apply -translate-y-0.5;
+      --tw-translate-y: -3.5px;
+    }
+  }
+}

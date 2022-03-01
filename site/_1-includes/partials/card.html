@@ -1,22 +1,48 @@
 {% case include.type %}
-{% when "post" %}
-<a href="{{item.url}}" class="group flex flex-col border border-gray-100 rounded-lg overflow-hidden micro-float">
-  <div class="aspect-w-16 aspect-h-9">
-    {% responsive_image_block %}
-    path: {{item.image}}
-    class: "h-full object-cover"
-    alt: "Post thumbnail"
-    sizes: "(min-width: 1360px) 408px, (min-width: 1024px) 29vw, (min-width: 640px) 42vw, 92vw"
-    {% endresponsive_image_block %}
-  </div>
-  <div class="cd-sm flex-1 flex flex-col justify-between">
-    <h4 class="my-0">{{item.display_title|default:item.title|markdownify|remove:"<p>"|remove:"</p>"}}</h4>
-    <div class="mt-10 font-sans text-xs text-gray-600">Published {{item.date|date_to_string: "ordinal", "US"}}</div>
-  </div>
-</a>
-{% else %}
-<div class="cd-xs lg:col-span-4">
-  <h3>{{item.title|smartify}}</h3>
-  <div>{{item.text|markdownify}}</div>
-</div>
+  {% when "product" %}
+  <a class="text-lg lg:text-xl bg-white shadow flex flex-col micro-float" href="{{ item.url }}">
+    <div class="bg-gray-light w-full aspect-w-16 aspect-h-10">
+      {% responsive_image_block %}
+        path: {{ item.image | remove_first:"/" }}
+        alt: {{ item.title | replace:":","—" }}
+        class: "object-contain h-full"
+        sizes: "(min-width: 1024px) 45vw, (min-width: 640px) 45vw, 96vw"
+      {% endresponsive_image_block %}
+    </div>
+    <div class="px-6 py-4 lg:px-9 lg:py-6 mb-4 flex-grow">
+      <h4 class="mt-4 mb-2">
+        <div class="text-gray">{{ item.type | append:": " }}</div>
+        {{ item.title | smartify }}
+      </h4>
+    </div>
+    <div class="px-6 lg:px-9 label text-base text-gray-dark text-opacity-50">
+      <div class="py-4 lg:py-6 border-t-2 border-gray-light border-opacity-50 flex justify-between">
+        <div>{{ item.product_info.price }}</div>
+        <div>Learn more &rarr;</div>
+      </div>
+    </div>
+  </a>
+  {% else %}
+  <a class="text-lg lg:text-xl bg-white shadow flex flex-col micro-float" href="{{item.url}}">
+    <div class="bg-gray-light w-full aspect-w-16 aspect-h-10">
+      {% responsive_image_block %}
+        path: {{ item.image | remove_first:"/" }}
+        alt: {{ item.title | replace:":","—" }}
+        class: "object-cover h-full"
+        sizes: "(min-width: 1024px) 410px, (min-width: 640px) 45vw, 96vw"
+      {% endresponsive_image_block %}
+    </div>
+    <div class="px-6 py-4 lg:px-9 lg:py-6 flex-grow">
+      <h4 class="mt-4 mb-2">{{ item.title | smartify }}</h4>
+      <p>{{ item.description | smartify }}</p>
+    </div>
+    {% unless include.type == "minimal" %}
+    <div class="px-6 lg:px-9 label text-base text-gray-dark text-opacity-50">
+      <div class="py-4 lg:py-6 border-t-2 border-gray-light border-opacity-50">
+        <div>{{ item.tags[0] | replace:"-"," " | capitalize }}</div>
+        <div>{{ item.date | date: "%b %d, %Y" }}</div>
+      </div>
+    </div>
+    {% endunless %}
+  </a>
 {% endcase %}

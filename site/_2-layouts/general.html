@@ -5,8 +5,38 @@ layout: default
 
 {% include sections/hero.html %}
 {% for item in page_blocks %}
-    {% case item._id %}
-        {% when "lead" %}
-            {% include sections/lead.html %}
-    {% endcase %}
+  {% case item._id %}
+    {% when "logos_featured" %}
+      {% include sections/logos_featured.html %}
+    {% when "posts_recent" %}
+      {% include sections/posts_recent.html %}
+    {% when "posts_relevant" %}
+      {% include sections/posts_relevant.html %}
+    {% when "posts_all" %}
+      {% include sections/posts_all.html %}
+    {% when "categories_featured" %}
+      {% include sections/categories_featured.html %}
+    {% when "products_featured" %}
+      {% include sections/products_featured.html %}
+    {% when "products_all" %}
+      {% include sections/products_all.html %}
+    {% when "resources_all" %}
+      {% include sections/resources_all.html %}
+    {% when "reviews" %}
+      {% include sections/reviews.html %}
+    {% when "block_benefits" %}
+      {% include sections/block_benefits.html %}
+    {% when "block_testimonial" %}
+      {% include sections/block_testimonial.html %}
+    {% when "block_rich_text" %}
+      {% include sections/block_rich_text.html %}
+    {% when "block_cta" %}
+      {% include sections/block_cta.html %}
+    {% when "block_contact" %}
+      {% include sections/block_contact.html %}
+    {% when "block_photos" %}
+      {% include sections/block_photos.html %}
+    {% when "block_media" %}
+      {% include sections/block_media.html %}
+  {% endcase %}
 {% endfor %}

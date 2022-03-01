@@ -1,0 +1,10 @@
+{% comment %} Resource sorting {% endcomment %}
+{% assign recentResources = site.resources | reverse %}
+
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto grid sm:grid-cols-2 gap-6">
+    {% for item in recentResources %}
+    {% include partials/card.html type="product" %}
+    {% endfor %}
+  </div>
+</section>

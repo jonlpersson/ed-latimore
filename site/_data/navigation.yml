@@ -1,26 +1,61 @@
 navigation_links:
+  - url: /archive/
+    name: Archive
+    visible:
+      - footer
+    group:
+      - articles
   - url: /
     name: Home
     visible:
       - header
+    group: []
+  - url: /newsletter/
+    name: Newsletter
+    visible:
+      - header
       - footer
     group:
-      - main
+      - about
+  - url: /products/
+    name: Products
+    visible:
+      - header
+      - footer
+    group:
+      - shop
+  - url: /resources/
+    name: Free resources
+    visible:
+      - footer
+    group:
+      - shop
+  - url: /reviews/
+    name: Reviews
+    visible:
+      - footer
+    group:
+      - shop
   - url: /about/
     name: About
     visible:
       - header
       - footer
     group:
-      - main
-  - url: /contact/
-    name: Contact
+      - about
+  - url: /speaking/
+    name: Speaking
     visible:
-      - header
       - footer
     group:
-      - main
-  - url: /credits/
+      - about
+  - url: /press/
+    name: Press
+    visible:
+      - footer
+    group:
+      - about
+  - url: /colophon/
     name: Site Credits
     visible:
       - subfooter
@@ -30,8 +65,34 @@ navigation_links:
     visible:
       - subfooter
     group:
+  - url: https://twitter.com/EdLatimore
+    name: Twitter
+    visible:
+      - footer
+    group:
+      - social
+  - url: https://instagram.com/edlatimore
+    name: Instagram
+    visible:
+      - footer
+    group:
+      - social
+  - url: https://facebook.com/EdLatimoreBoxer
+    name: Facebook
+    visible:
+      - footer
+    group:
+      - social
+  - url: https://www.linkedin.com/in/edward-latimore-656314125/
+    name: LinkedIn
+    visible:
+      - footer
+    group:
+      - social
 footer_groups:
-  - main
+  - articles
+  - shop
+  - about
   - social
 _select_data:
   group:

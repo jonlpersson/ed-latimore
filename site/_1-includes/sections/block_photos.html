@@ -1,0 +1,21 @@
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <div class="label-section">Photos</div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    {% for item in item.images %}
+      <a class="block bg-gray-light bg-opacity-50 group micro-float" href="{{ item.image }}" download>
+        <div class="aspect-w-16 aspect-h-16 overflow-hidden">
+          {% capture "imageAlt" %}Ed Latimore press photo {{ forloop.index }}{% endcapture %}
+          {% responsive_image_block %}
+            path: {{ item.image | remove_first:"/" }}
+            alt: {{imageAlt}}
+            class: "object-contain object-center p-10 h-full w-full"
+            sizes: "(min-width: 768px) 294px, 100vw"
+          {% endresponsive_image_block %}
+        </div>
+        <div class="block bg-gray-light cd-xs text-center label transition-default text-coral group-hover:text-maroon">Click to download</div>
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+</section>

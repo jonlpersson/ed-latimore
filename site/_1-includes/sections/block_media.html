@@ -1,0 +1,36 @@
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <div class="label-section">Press clippings</div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-8">
+    {% for item in item.clippings %}
+      {% assign mod = forloop.index|modulo:2 %}
+      <a class="{% if forloop.last and mod != 0 %}lg:col-span-8{% else %}lg:col-span-{% cycle '5','3','3','5','4','4' %}{% endif %} border border-gray micro-float h-96" href="{{ item.source.link }}" target="_blank" rel="nofollow">
+      {% if item.image %}
+      {% responsive_image_block %}
+        path: {{ item.image | remove_first:"/" }}
+        alt: {{ item.image_alt }}
+        class: "object-cover w-full h-full"
+        sizes: "(min-width: 768px) 780px, 100vw"
+      {% endresponsive_image_block %}
+      {% else %}
+      <figure class="testimonial h-full flex flex-col justify-between gap-6 cd-md">
+        <blockquote class="space-y-6">{{ item.quote_markdown | markdownify }}</blockquote>
+        <figcaption class="text-gray-dark text-opacity-50">
+          {% if item.source.small_image contains "/" %}
+          {% responsive_image_block %}
+            path: {{ item.source.small_image | remove_first:"/" }}
+            alt: {{ item.source.name }}
+            class: "w-24"
+            sizes: "120px"
+          {% endresponsive_image_block %}
+          {% else %}
+          <div>{{ item.source.name | markdownify | remove:"<p>" | remove: "</p>" }}</div>
+          {% endif %}
+        </figcaption>
+      </figure>
+      {% endif %}
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+</section>

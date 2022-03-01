@@ -1,0 +1,20 @@
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto">
+    <div class="grid grid-cols-5 gap-6">
+      {% for item in site.data.featured_logos.logos limit:5 %}
+      <div class="cursor-pointer relative self-center group text-center">
+        {% responsive_image_block %}
+          path: {{ item.image | remove_first:"/" }}
+          alt: {{ item.title }}
+          class: "inline-block object-contain w-40 h-auto max-h-20"
+          sizes: "128px"
+        {% endresponsive_image_block %}
+        <div class="tooltip hidden absolute bg-white filter drop-shadow mt-4 p-4 z-50 text-sm md:text-base group-hover:block">
+          {{ item.tooltip | smartify }}
+          <span class="tooltip-arrow"></span>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

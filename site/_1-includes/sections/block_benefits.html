@@ -1,0 +1,13 @@
+<section class="s-md">
+  <div class="max-w-screen-xl mx-auto space-y-12">
+    <h2 class="h3 text-center max-w-2xl mx-auto">{{ item.heading | smartify }}</h2>
+    <div class="grid gap-6 lg:grid-cols-3">
+      {% for item in item.items %}
+      <div class="bg-white shadow flex flex-col micro-float p-9">
+        <h3 class="h4">{{ item.heading | smartify }}</h3>
+        <p class="mb-0">{{ item.text | smartify }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

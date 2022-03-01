@@ -1,0 +1,18 @@
+{% comment %} Article sorting {% endcomment %}
+{% assign recentPosts = site.posts %}
+
+<section class="s-md space-y-16">
+  {% for item in site.posts %}
+  {% assign postYear = item.date | date: "%Y" %}
+  {% if postYear != date %}
+    {% unless forloop.first %}
+    </div>
+    {% endunless %}
+    <div class="max-w-screen-xl mx-auto grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <h2 class="col-span-full" id="{{ postYear }}">{{ postYear }}</h2>
+      {% assign date = postYear %}
+  {% endif %}
+    {% include partials/card.html %}
+  {% endfor %}
+  </div>
+</section>

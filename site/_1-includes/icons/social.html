@@ -1,0 +1,9 @@
+{% if item.url contains "twitter" %}
+  {% include icons/social-twitter.svg class=include.class %}
+{% elsif item.url contains "facebook" %}
+  {% include icons/social-facebook.svg class=include.class %}
+{% elsif item.url contains "instagram" %}
+  {% include icons/social-instagram.svg class=include.class %}
+{% elsif item.url contains "linkedin" %}
+  {% include icons/social-linkedin.svg class=include.class %}
+{% endif %}

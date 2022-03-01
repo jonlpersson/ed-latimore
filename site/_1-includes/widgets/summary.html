@@ -1,0 +1,6 @@
+{% assign summary = site.data.summaries|where_exp:"item","item.id == include.id"|first %}
+<div class="bg-gray-light cd-md">
+  <h2>{{ summary.heading | smartify }}</h2>
+  {{ summary.text_markdown | markdownify }}
+  <a class="btn btn-coral" href="{{ summary.link }}" target="_blank">{{ summary.button }}</a>
+</div>

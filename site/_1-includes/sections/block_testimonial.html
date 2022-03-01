@@ -1,0 +1,19 @@
+<section class="s-md bg-gray-light">
+  <div class="max-w-2xl mx-auto">
+    <figure class="testimonial space-y-8">
+      <blockquote>{{ item.quote_markdown | markdownify }}</blockquote>
+      <figcaption class="flex flex-row flex-nowrap items-center space-x-4">
+        {% responsive_image_block %}
+          path: {{ item.source.small_image | remove_first:"/" }}
+          alt: {{ item.source.name | smartify }}
+          class: "rounded-full w-16 h-16"
+          sizes: "64px"
+        {% endresponsive_image_block %}
+        <div class="font-sans text-base lg:text-lg">
+          <div>{{ item.source.name | smartify }}</div>
+          <div class="text-gray-dark text-opacity-50">{{ item.source.context | smartify }}</div>
+        </div>
+      </figcaption>
+    </figure>
+  </div>
+</section>

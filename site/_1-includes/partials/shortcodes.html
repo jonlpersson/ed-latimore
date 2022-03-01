@@ -1,6 +1,6 @@
 {% comment %}Header assignments{% endcomment %}
-{% assign headerNav = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'main'" %}
-{% assign headerCta = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'cta'" %}
+{% assign headerNav = site.data.navigation.navigation_links|where_exp:"item","item.visible contains 'header'" %}
+{% assign headerSocialNav = site.data.navigation.navigation_links|where_exp:"item","item.group contains 'social'" %}
 
 {% comment %}Footer assignments{% endcomment %}
 {% assign footerNav = site.data.navigation.navigation_links|where_exp:"item","item.visible contains 'footer'" %}
@@ -10,5 +10,6 @@
 
 {% comment %}Page stuff{% endcomment %}
 {% assign settings = site.data.global_settings %}
+{% assign author = site.data.global_settings.author_details %}
 {% assign section = page.sections %}
 {% assign page_blocks = page.page_blocks %}

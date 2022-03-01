@@ -1,14 +1,74 @@
-{% assign item = page.hero %}
-{% case page.name %}
-    {% when "index.md" %}
-
-    {% else %}
-    <section class="s-md bg-gray-50">
-        <div class="max-w-screen-xl mx-auto">
-            <div class="text-center max-w-lg mx-auto text-md md:text-lg">
-                <h1>{{item.title|default: page.title|smartify}}</h1>
-                {{item.text_markdown|default: page.description|markdownify}}
-            </div>
+{% case page.hero.type %}
+  {% when "email" %}
+  <section class="s-md py-0 bg-gray-light">
+    <div class="s-md px-0 lg:py-36 max-w-screen-xl mx-auto bg-right bg-no-repeat bg-none lg:bg-[url('{{ author.large_image }}')]" style="background-size: auto 115%;">
+      <div class="md:w-2/3 space-y-12">
+        <h1 class="lg:h2 mb-0">{{ page.hero.heading | smartify }}</h1>
+        <div class="flex flex-row flex-nowrap items-center space-x-4 lg:hidden">
+          {% responsive_image_block %}
+            path: {{ author.small_image | remove_first:"/" }}
+            alt: {{ author.name }}
+            class: "rounded-full w-12 h-12"
+            sizes: "60px"
+          {% endresponsive_image_block %}
+          <div class="text-sm md:text-base font-sans">
+            <div>{{ author.name }}</div>
+            <div class="text-gray-dark text-opacity-50">{{ author.description | smartify }}</div>
+          </div>
         </div>
-    </section>
+        {% include partials/convertkit.html %}
+      </div>
+    </div>
+  </section>
+  {% when "product" %}
+  <section class="s-md bg-gray-light">
+    <div class="max-w-screen-xl mx-auto space-y-12">
+      <div class="label-section">Get the {{ page.type }}</div>
+      <div class="grid gap-6 md:grid-cols-2">
+        <div class="w-full">
+          <div class="w-full aspect-w-16 aspect-h-12">
+            {% responsive_image_block %}
+              path: {{ page.hero.image | remove_first:"/" }}
+              alt: {{ page.title | replace:":","—" }}
+              class: "object-contain h-full"
+              sizes: "620px"
+            {% endresponsive_image_block %}
+          </div>
+        </div>
+        <div class="space-y-8">
+          <h1 class="h2">{{ page.hero.heading | smartify }}</h1>
+          <p class="text-lg lg:text-xl font-sans">{{ page.hero.text | smartify }}</p>
+          <a class="btn btn-coral" href="{{ page.product_info.button_url }}">{{ page.product_info.button_text }}{{ page.product_info.price | prepend:" &#40;" | append:"&#41;" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% when "image" %}
+  <section class="s-md bg-gray-light">
+    <div class="max-w-screen-xl mx-auto space-y-12">
+      <div class="label-section">{{ item.label | default:"On this page" }}</div>
+      <div class="flex flex-col gap-6 md:gap-16 md:flex-row md:items-center">
+        <div class="flex-shrink-0">
+          {% responsive_image_block %}
+            path: {{ page.hero.image | remove_first:"/" }}
+            alt: {{ page.title | replace:":","—" }}
+            class: "h-84 w-84 object-contain rounded-full"
+            sizes: "288px"
+          {% endresponsive_image_block %}
+        </div>
+        <div>
+          <h1 class="h2">{{ page.hero.heading | default:page.title | smartify }}</h1>
+          <p class="text-xl lg:text-2xl font-sans max-w-2xl">{{ page.hero.text | smartify }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% else %}
+  <section class="s-md bg-gray-light">
+    <div class="max-w-screen-xl mx-auto space-y-12">
+      <div class="label-section border-gray-dark border-opacity-25">{{ categoryLabel | default:page.hero.label | default:"On this page" }}</div>
+      <h1>{{ categoryHeading | default:page.hero.heading | default:page.title }}</h1>
+      <p class="text-xl lg:text-2xl font-sans max-w-2xl">{{ page.hero.text | smartify }}</p>
+    </div>
+  </section>
 {% endcase %}

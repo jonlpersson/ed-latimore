@@ -1,55 +1,75 @@
 {% capture mobileMenu %}
-<div class="lg:hidden absolute left-0 right-0 w-full z-50">
-  <div
-    class="transform origin-top shadow-lg bg-white"
+<div class="lg:hidden absolute left-0 right-0 w-full z-10 px-4">
+  <div class="bg-white shadow-lg"
     x-show="showMenu"
-    x-transition:enter="transition-default"
-    x-transition:enter-start="opacity-0 -translate-y-3"
-    x-transition:enter-end="opacity-100 translate-y-0"
-    x-transition:leave="transition-default"
-    x-transition:leave-start="opacity-100 translate-y-0"
-    x-transition:leave-end="opacity-0 -translate-y-3">
-    <nav class="s-sm py-10 label flex flex-col space-y-6" aria-label="Main">
+    x-transition:enter="transition duration-200"
+    x-transition:enter-start="opacity-0 bg-transparent"
+    x-transition:enter-end="opacity-100 bg-white"
+    x-transition:leave="transition duration-200"
+    x-transition:leave-start="opacity-100 bg-white"
+    x-transition:leave-end="opacity-0 bg-transparent">
+    <div class="bg-navy s-sm">
+      <div class="w-3/4 space-y-4">
+        <p class="font-bold leading-tight text-white text-2xl">Weekly dose of self-improvement</p>
+        <a href="/newsletter/" class="btn btn-coral text-base py-4">Sign up</a>
+      </div>
+    </div>
+    <div class="s-sm max-w-screen-xl flex flex-col space-y-4">
       {% for item in headerNav %}
-      <a href="{{item.url}}" class="focus:text-green-500 focus:outline-none">{{item.name}}</a>
+      <a href="{{ item.url }}" class="text-base uppercase hover:text-maroon focus:outline-none focus:text-maroon transition-default">{{ item.name }}</a>
       {% endfor %}
-    </nav>
+    </div>
   </div>
 </div>
 {% endcapture %}
 
 {% capture mobileMenuButton %}
-<div class="s-xs px-0 flex lg:hidden items-center justify-end space-x-8">
+<div class="flex lg:hidden items-center justify-end space-x-8 rounded-full bg-white">
   <button
     aria-label="Navigation menu"
     type="button"
-    class="inline-flex items-center justify-center p-1 hover:text-red-400 focus:outline-none transition-default"
-    x-on:click="showMenu = !showMenu"
-    :class="{'text-gray-900': showMenu}">
-    <svg x-show="!showMenu" class="h-6 w-6" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+    class="inline-flex items-center justify-center p-2 text-gray-dark hover:text-maroon focus:outline-none focus:text-maroon transition"
+    x-on:click="showMenu = !showMenu">
+    <svg x-show="!showMenu" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
     </svg>
-    <svg x-show="showMenu" class="h-6 w-6" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+    <svg x-show="showMenu" class="h-4 w-4" fill="none" viewbox="0 0 24 24" stroke="currentColor">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
     </svg>
   </button>
 </div>
 {% endcapture %}
+
+{% comment %} {% include components/section-banner.html %} {% endcomment %}
 <header
-  class="s-xs bg-white relative z-50 transition-default"
-  x-data="{showMenu: false}"
-  :class="{'shadow-md': showMenu}">
-  <div class="max-w-screen-xl mx-auto">
-    <nav class="flex justify-between items-center relative" aria-label="Main">
-      <a href="/" aria-label="Home page" class="text-green-500">{% include_cached icons/logo.svg class="h-6 md:h-8 w-auto" %}</a>
-      <div class="z-10 hidden lg:flex items-center justify-end space-x-8 group">
-        {% for item in headerNav %}
-        <a href="{{item.url}}"
-          class="p-2 label rounded {% if item.url == currentPage %}bg-cream group-hover:bg-white hover:!bg-cream{% else %}bg-white hover:bg-cream{% endif %}">{{item.name}}</a>
-        {% endfor %}
+  class="z-30 font-sans relative"
+  x-data="{showMenu: false}">
+  <div class="s-xs bg-maroon text-white z-10 relative">
+    <nav class="flex justify-between items-center w-full mx-auto max-w-screen-xl">
+      <div class="flex items-baseline space-x-8">
+          <a href="/" aria-label="Home page">{% include_cached icons/logo.svg class="h-10 md:h-12 w-auto" %}</a>
+          <div class="text-xl hidden lg:block">Stoic Street-Smarts</div>
       </div>
       {{mobileMenuButton}}
     </nav>
   </div>
   {{mobileMenu}}
 </header>
+<nav class="bg-coral s-xs hidden lg:block font-sans uppercase text-white text-base relative z-30">
+  <div class="w-full mx-auto max-w-screen-xl flex items-center justify-between">
+    <div class="flex items-center justify-start space-x-10">
+      {% for item in headerNav %}
+      <a href="{{ item.url }}" class="hover:text-gray-light focus:outline-none focus:text-maroon transition">{{ item.name }}</a>
+      {% endfor %}
+    </div>
+    <div class="flex items-center justify-end space-x-5">
+      {% for item in headerSocialNav %}
+      <a href="{{item.url}}" title="{{item.name}}"
+      class="hover:text-gray-light focus:outline-none focus:text-maroon transition">{% include icons/social.html %}</a>
+      {% endfor %}
+    </div>
+  </div>
+</nav>
+{% if page.layout == "post" %}
+{% include partials/4-article-nav.html %}
+{% endif %}
