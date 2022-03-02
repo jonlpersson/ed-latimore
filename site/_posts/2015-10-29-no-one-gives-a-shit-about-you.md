@@ -15,7 +15,7 @@ It's not personal. It's just human nature.
 
 This applies to everything you need or want. It applies to all the people in your life, including your parents and your family.
 
-## No One Cares What You Want
+## No one cares what you want
 
 Your boss doesn’t give a shit if you come to work. He cares if you make his job more difficult because of your absence, but he doesn’t REALLY care what happens to you.
 
@@ -47,7 +47,7 @@ If you want more from the world, you have to give more to the world. The world d
 
 Life isn't fair. Well actually, it is fair because it's unfair to everyone. If you're having trouble wrapping your head around that then [reading this](/life-isnt-fair/) might help.
 
-## You Can Have Whatever You Want… If You're Willing to Pay The Price
+## You can have whatever you want… If you're willing to pay the price
 
 Maybe the lifestyle you want is only possible with a job that requires selling ability. Go become a damn good salesman.
 

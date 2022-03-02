@@ -9,8 +9,8 @@ layout: default
     <div class="label-section">{{ page.tags | first | replace:"-"," " }}</div>
     <div class="max-w-screen-lg">
       <h1 class="h2">{{ page.title | smartify }}</h1>
-      <p class="lg:w-3/4 font-sans text-xl lg:text-2xl">{{ page.description | smartify }}</p>
-      <div class="flex flex-row flex-nowrap items-center gap-4 mt-8">
+      <p class="font-sans text-lg sm:text-xl lg:text-2xl lg:w-3/4">{{ page.description | smartify }}</p>
+      <div class="flex flex-row flex-nowrap items-start gap-4 mt-8">
         {% responsive_image_block %}
           path: {{ author.small_image | remove_first:"/" }}
           alt: {{ author.name }}
@@ -26,20 +26,20 @@ layout: default
   </div>
 </section>
 
-<section class="relative max-w-screen-xl mx-auto">
-  <div class="s-md max-w-md px-0 ml-6 lg:float-right text-lg lg:text-xl border-gray-light border-b lg:border-b-0">
-    <nav class="lg:border-l border-gray-light lg:cd-md lg:pt-8" aria-label="Table of contents">
-      <h4>Table of contents</h4>
-      {% include partials/toc.html html=content sanitize=true ordered="true" class="inline_toc.space-y-4" item_class="text-coral.hover:text-maroon" id="my_toc" h_min=2 h_max=2 skip_no_ids="true" %}
-    </nav>
-  </div>
-  <section class="s-xs lg:s-md lg:px-0">
+<section class="s-xs sm:s-sm lg:s-md">
+  <div class="relative max-w-screen-xl mx-auto">
+    <div class="text-lg border-gray-light border-b pb-10 mb-10 lg:pb-0 lg:mb-0 lg:max-w-md lg:ml-6 lg:float-right lg:text-xl lg:border-b-0">
+      <nav class="lg:border-l lg:border-gray-light lg:cd-md lg:pt-8 lg:-mt-7" aria-label="Table of contents">
+        <h4>Table of contents</h4>
+        {% include partials/toc.html html=content sanitize=true ordered="true" class="inline_toc.space-y-4" item_class="text-coral.hover:text-maroon" id="my_toc" h_min=2 h_max=2 skip_no_ids="true" %}
+      </nav>
+    </div>
     <div class="max-w-screen-xl mx-auto">
       <article class="max-w-2xl prose">
         {{ content }}
       </article>
     </div>
-  </section>
+  </div>
 </section>
 
 <section class="s-md bg-gray-light">

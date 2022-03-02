@@ -2,7 +2,7 @@
   <div class="max-w-screen-xl mx-auto space-y-12">
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {% for item in site.data.reviews.products %}
-      <a class="text-lg lg:text-xl bg-white shadow flex flex-col group micro-float px-9 pt-6" href="{{ item.link.url }}">
+      <a class="text-lg lg:text-xl bg-white shadow flex flex-col group micro-float px-4 py-3 lg:px-9 lg:py-6" href="{{ item.link.url }}">
         <div class="w-full aspect-w-16 aspect-h-10">
           {% responsive_image_block %}
             path: {{ item.image | remove_first:"/" }}
@@ -11,12 +11,12 @@
             sizes: "(min-width: 1024px) 45vw, (min-width: 640px) 45vw, 96vw"
           {% endresponsive_image_block %}
         </div>
-        <div class="py-6 mb-4 flex-grow">
+        <div class="py-3 lg:py-6 mb-4 flex-grow">
           <h4 class="mt-4 mb-2">{{ item.heading | smartify }}</h4>
           <p>{{ item.text | smartify }}</p>
         </div>
         <div class="label text-base text-coral group-hover:text-maroon">
-          <div class="py-6 border-t-2 border-gray-light border-opacity-50">{{ item.link.text }}</div>
+          <div class="pt-3 lg:pt-6 border-t-2 border-gray-light border-opacity-50">{{ item.link.text }}</div>
         </div>
       </a>
     {% endfor %}

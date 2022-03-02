@@ -12,7 +12,7 @@ html {
     @apply transition-all duration-300 ease-in-out;
   }
   /* Universal heading styles */
-  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     @apply mb-6 font-sans font-bold text-gray-dark !leading-tight tracking-tight;
   }
   /* Individual heading styles */
@@ -31,6 +31,9 @@ html {
   h5, .h5, .prose h4 {
     @apply text-lg;
   }
+  h6, .h6 .prose h5 {
+    @apply text-base;
+  }
   @screen lg {
     h1, .h1 {
       @apply text-6xl;
@@ -47,6 +50,9 @@ html {
     h5, .h5, .prose h4 {
       @apply text-2xl;
     }
+    h6, .h6 .prose h5 {
+      @apply text-xl;
+    }
   }
   /* Other basic typography settings */
   p {
@@ -57,11 +63,54 @@ html {
   }
   /* Label styling */
   label, .label {
-    @apply uppercase font-sans text-base;
+    @apply uppercase font-sans text-sm;
   }
   .label-section {
-    @apply uppercase font-sans text-gray-dark text-opacity-50 border-b border-gray-dark border-opacity-25 pb-2 text-base;
+    @apply uppercase font-sans text-sm text-gray-dark text-opacity-50 border-b border-gray-dark border-opacity-25 pb-2;
   }
+  @screen lg {
+    label, .label {
+      @apply text-base;
+    }
+    .label-section {
+      @apply text-base;
+    }
+  }
+  table {
+    @apply block table-auto border-collapse text-lg w-full max-w-full overflow-x-auto;
+    scrollbar-width: auto;
+    scrollbar-color: light;
+  }
+  table::-webkit-scrollbar {
+    @apply appearance-none;
+  }
+  table::-webkit-scrollbar:vertical {
+    @apply w-3;
+  }
+  table::-webkit-scrollbar:horizontal {
+    @apply h-3;
+  }
+  table::-webkit-scrollbar:thumb {
+    @apply rounded-lg border-2 border-white bg-gray;
+  }
+  table::-webkit-scrollbar-track {
+    @apply bg-white rounded-lg;
+  }
+  thead {
+    @apply bg-gray-light bg-opacity-50;
+  }
+  th {
+    @apply h6 text-left;
+  }
+  th, td {
+    @apply border border-gray-light p-4;
+  }
+  @screen lg {
+    table {
+      @apply table;
+    }
+  }
+  ::selection, ::-moz-selection {}
 }
 @layer components {
   /* Section paddings */
@@ -169,19 +218,19 @@ html {
     @apply mt-12 mb-6;
   }
   .prose p {
+    @apply mb-6;
+  }
+  .prose p:not(:first-child) {
     @apply my-6;
   }
   .prose img:not(.h-full) {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-    @apply transition duration-500 transform;
+    @apply transition duration-500 transform max-w-full w-full h-auto border-4 border-gray-light;
   }
   .prose img:not(.h-full):hover {
     @apply -translate-y-1;
   }
   .prose figcaption {
-    @apply tracking-wider uppercase text-sm text-center mt-5 text-gray;
+    @apply label mt-5 text-center text-gray-dark text-opacity-50;
   }
   .prose > figure,
   .prose > p img,
@@ -200,9 +249,13 @@ html {
       @apply w-full max-w-2xl mx-auto;
     }
   }
-  .prose a:not(.btn):not(.footnote-backref):not([id^="fnref"]):not([id*=" fnref"]),
+  .prose a:not(.btn),
   .link {
     @apply text-coral underline transition-default;
+  }
+  .prose a.reversefootnote,
+  .prose a.footnote {
+    @apply no-underline;
   }
   .prose a:not(.btn):hover,
   .prose a:not(.btn):active,

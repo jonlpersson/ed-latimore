@@ -147,14 +147,14 @@ So if you’re considering that it’s time to give up pornography, remind yours
 
 ### References:
 
-[^1]: Zec, Miroslav. _Lelo.com. _The secrets of Taoist sexology. July 30, 2020 [https://www.lelo.com/blog/taoist-sexology/](https://www.lelo.com/blog/taoist-sexology/) (accessed February 12, 2022)
+[^1]: Zec, Miroslav. _Lelo.com._ The secrets of Taoist sexology. July 30, 2020 [https://www.lelo.com/blog/taoist-sexology/](https://www.lelo.com/blog/taoist-sexology/) (accessed February 12, 2022)
 
-[^2]: Howard, George. _The Good Men Project. _10 Reasons for Men to care about the Topic of Sexual Energy. August 18, 2017 [https://goodmenproject.com/sex-relationships/10-reasons-for-men-to-care-about-the-topic-of-sexual-energy-grmx/](https://goodmenproject.com/sex-relationships/10-reasons-for-men-to-care-about-the-topic-of-sexual-energy-grmx/)  (accessed February 11, 2022)
+[^2]: Howard, George. _The Good Men Project._ 10 Reasons for Men to care about the Topic of Sexual Energy. August 18, 2017 [https://goodmenproject.com/sex-relationships/10-reasons-for-men-to-care-about-the-topic-of-sexual-energy-grmx/](https://goodmenproject.com/sex-relationships/10-reasons-for-men-to-care-about-the-topic-of-sexual-energy-grmx/)  (accessed February 11, 2022)
 
-[^3]: Curley, Bob. _Healthline. _Why Young Adults, Especially Men Are Having Sex Less Frequently. June 17, 2020 [https://www.healthline.com/health-news/young-adults-especially-men-having-sex-less-frequently](https://www.healthline.com/health-news/young-adults-especially-men-having-sex-less-frequently) (accessed February 11, 2022)
+[^3]: Curley, Bob. _Healthline._ Why Young Adults, Especially Men Are Having Sex Less Frequently. June 17, 2020 [https://www.healthline.com/health-news/young-adults-especially-men-having-sex-less-frequently](https://www.healthline.com/health-news/young-adults-especially-men-having-sex-less-frequently) (accessed February 11, 2022)
 
-[^4]: _Harvard Health Publishing. _Blue light has a dark side. Copyright 2022 by The President and Fellows of Havard College [https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side) (accessed February 12, 2022)
+[^4]: _Harvard Health Publishing._ Blue light has a dark side. Copyright 2022 by The President and Fellows of Havard College [https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side) (accessed February 12, 2022)
 
-[^5]: Park, B. Y., Wilson, G., Berger, J., Christman, M., Reina, B., Bishop, F., Klam, W. P., & Doan, A. P. _NCBI: Us National Library of Medicine, National Institutes of Health. _Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. Behavioral sciences (Basel, Switzerland), 6(3), 17. 2016. [https://doi.org/10.3390/bs6030017](https://doi.org/10.3390/bs6030017) (accessed February 14, 2022)
+[^5]: Park, B. Y., Wilson, G., Berger, J., Christman, M., Reina, B., Bishop, F., Klam, W. P., & Doan, A. P. _NCBI: Us National Library of Medicine, National Institutes of Health._ Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. Behavioral sciences (Basel, Switzerland), 6(3), 17. 2016. [https://doi.org/10.3390/bs6030017](https://doi.org/10.3390/bs6030017) (accessed February 14, 2022)
 
 [^6]: Hay, Mark. _Vice:_ Porn Stars Reveal the Secret to Massive Cumshots. January 7, 2018. [https://www.vice.com/en/article/wjpzdb/porn-stars-reveal-the-secret-to-massive-cum-shots](https://www.vice.com/en/article/wjpzdb/porn-stars-reveal-the-secret-to-massive-cum-shots) (accessed February 14, 2022)

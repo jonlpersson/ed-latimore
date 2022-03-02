@@ -12,7 +12,7 @@
         </div>
       </div>
       <div class="space-y-8">
-        <h2>{{ item.heading | smartify }}</h2>
+        <h2 class="mt-8 md:mt-0">{{ item.heading | smartify }}</h2>
         <p class="text-lg lg:text-xl font-sans">{{ page.hero.text | smartify }}</p>
         <a class="btn btn-coral" href="{{ page.product_info.button_url }}">{{ page.product_info.button_text }}{{ page.product_info.price | prepend:" &#40;" | append:"&#41;" }}</a>
       </div>

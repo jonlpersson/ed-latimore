@@ -6,10 +6,10 @@
         {% responsive_image_block %}
           path: {{ item.source.small_image | remove_first:"/" }}
           alt: {{ item.source.name | smartify }}
-          class: "rounded-full w-16 h-16"
+          class: "rounded-full w-12 md:w-16 h-12 md:h-16"
           sizes: "64px"
         {% endresponsive_image_block %}
-        <div class="font-sans text-base lg:text-lg">
+        <div class="font-sans text-sm sm:text-base lg:text-lg">
           <div>{{ item.source.name | smartify }}</div>
           <div class="text-gray-dark text-opacity-50">{{ item.source.context | smartify }}</div>
         </div>

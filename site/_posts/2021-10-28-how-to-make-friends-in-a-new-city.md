@@ -1,7 +1,7 @@
 ---
 date: 2021-10-28 09:00:00 -0500
 type: Article
-title: "7 Ways to make friends in a new city"
+title: "7 ways to make friends in a new city"
 permalink: /how-to-make-friends-in-a-new-city/
 tags: [emotional-mastery]
 description: >-

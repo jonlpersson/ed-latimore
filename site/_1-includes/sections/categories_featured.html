@@ -5,15 +5,15 @@
   <div class="max-w-screen-xl mx-auto space-y-12">
     <div class="label-section text-gray-light border-gray-light border-opacity-50 flex justify-between">
       <div>Explore my ideas</div>
-      <a class="text-coral hover:text-maroon" href="/archive/">Browse the archive &rarr;</a>
+      <a class="text-coral hover:text-maroon" href="/archive/">Archive &rarr;</a>
     </div>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 gap-y-12">
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-y-12">
       {% for category in featuredCategories %}
       <div>
-        <h4 class="mb-4">
+        <h4 class="mb-2 lg:mb-4">
           <a class="text-white hover:text-coral" href="{{ category | first | relative_url }}">
             {{ category | first | replace:"-"," " | capitalize }}
-            <sup class="font-normal text-sm md:text-base -top-3">({{ category.last.size }})</sup>
+            <sup class="font-normal text-xs lg:text-base -top-3">({{ category.last.size }})</sup>
           </a>
         </h4>
         <ul class="divide-y divide-gray-light divide-opacity-25 text-lg lg:text-xl">

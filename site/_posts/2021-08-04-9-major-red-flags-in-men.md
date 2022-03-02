@@ -33,7 +33,7 @@ This is about the guy who is in a constant state of unemployment. This is the gu
 
 I’m not saying that he needs to be rich. He doesn’t even have to be middle class. But he needs to have the maturity to realize that he needs to work and not survive off of other people's labor. This parasitic survival could be a guy living with his parents, collective government assistance, or breaking the law to survive. Check out my [6 signs of maturity](/signs-of-maturity/) for more on this.
 
-The issue with breaking the law to make money isn’t just an ethical one. For example, it doesn’t really matter if you sell drugs (at least not to me). People choose to do drugs, someone chooses to sell them, and the law has decided that’s illegal. The&nbsp; issue is the type of people and the dangers a person brings if they get paid this way.
+The issue with breaking the law to make money isn’t just an ethical one. For example, it doesn’t really matter if you sell drugs (at least not to me). People choose to do drugs, someone chooses to sell them, and the law has decided that’s illegal. The issue is the type of people and the dangers a person brings if they get paid this way.
 
 I had to stop hanging out with a childhood friend after he brought his gun to an innocent house party. I had also driven him in my car while he had this gun. If we got pulled over or hurt someone, my life would get much harder.
 
@@ -41,12 +41,13 @@ I had to stop hanging out with a childhood friend after he brought his gun to an
 
 There's a world of difference between having a profession and having a job. However, the main differences are in the following table:
 
-| **Job** | **Profession** |
+| Job | Profession |
+| --- | --- |
 | Paid hourly | Paid salary |
 | Generic title | Specific distinction |
 | Easily interchangeable with another body | Requires specialized training and knowledge |
 | Little or no room for advancement (income and/or responsibility) | Advancement is expected and time in correlates with income |
-| Nothing required | Certification (not only a degree) required&nbsp; |
+| Nothing required | Certification (not only a degree) required |
 | Short time horizon | Long time horizon |
 | No status or negative status | Positive status |
 | Professional reputation does not affect other employment prospects | Professional reputation is built, nurtured, and is important |

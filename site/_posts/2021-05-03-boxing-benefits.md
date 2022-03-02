@@ -50,7 +50,7 @@ The training in boxing is extremely gruelling and rough. You will experience tre
 A glimpse at the ESPN rankings where boxing came out on top for toughness:
 
 | Sport | END | STR | PWR | SPD | AGI | FLX | NER | DUR | HAN | ANA | Total | Rank |
-| — | — | — | — | — | — | — | — | — | — | — | — | — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Boxing | 8.63 | 8.13 | 8.63 | 6.38 | 6.25 | 4.38 | 8.88 | 8.50 | 7.00 | 5.63 | 72.375 | 1 |
 | Ice Hockey | 7.25 | 7.13 | 7.88 | 7.75 | 7.63 | 4.88 | 6.00 | 8.25 | 7.50 | 7.50 | 71.750 | 2 |
 | Football | 5.38 | 8.63 | 8.13 | 7.13 | 6.38 | 4.38 | 7.25 | 8.50 | 5.50 | 7.13 | 68.375 | 3 |
