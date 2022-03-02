@@ -61,11 +61,12 @@ layout: default
   </div>
 </section>
 
+{% assign relevantPosts = site.posts | where_exp:"item","item.tags contains page.tag" %}
 <section class="s-md bg-navy">
   <div class="max-w-screen-xl mx-auto space-y-12">
     <div class="label-section text-gray-light border-gray-light border-opacity-50">Related ideas</div>
     <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {% for item in site.posts limit:3 %}
+      {% for item in relevantPosts limit:3 %}
       {% include partials/card.html type="minimal" %}
       {% endfor %}
     </div>
