@@ -96,10 +96,14 @@ footer_groups:
   - social
 _select_data:
   group:
-    main: Main
+    articles: Articles
+    shop: Shop
+    about: About
     social: Social
   footer_groups:
-    main: Main
+    articles: Articles
+    shop: Shop
+    about: About
     social: Social
   visible:
     - footer
