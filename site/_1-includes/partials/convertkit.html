@@ -1,9 +1,30 @@
+{% capture "data-sv-form" %}
+{% case page.name %}
+  {% when "index.md" %}
+  1383731
+  {% when "newsletter.md" %}
+  1426441
+  {% else %}
+  1044621
+{% endcase %}
+{% endcapture %}
+{% capture "data-uid" %}
+{% case page.name %}
+  {% when "index.md" %}
+  da32dc22de
+  {% when "newsletter.md" %}
+  1de35d4d5a
+  {% else %}
+  a4b4329705
+{% endcase %}
+{% endcapture %}
+
 <form
-  action="https://app.convertkit.com/forms/1383731/subscriptions"
+  action="https://app.convertkit.com/forms/{{ data-sv-form }}/subscriptions"
   class="font-sans seva-form formkit-form"
   method="post"
-  data-sv-form="1383731"
-  data-uid="da32dc22de"
+  data-sv-form="{{ data-sv-form }}"
+  data-uid="{{ data-uid }}"
   data-format="inline"
   data-version="5"
   data-options="
@@ -76,3 +97,4 @@
     <p class="text-sm md:text-base">Yes! I want a weekly dose of self-improvement content from Ed.</p>
   </div>
 </form>
+<script async defer type="text/javascript" src="https://f.convertkit.com/ckjs/ck.5.js"></script>
