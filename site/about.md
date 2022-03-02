@@ -1,4 +1,6 @@
 ---
+_enabled_editors:
+  - content
 title: About me
 description: I’m a best-selling author and my writing focuses on self-improvement and a practical approach to stoic philosophy.
 hero:

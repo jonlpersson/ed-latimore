@@ -1,4 +1,6 @@
 ---
+_enabled_editors:
+  - content
 title: Legal disclaimers & site policies
 description:
 hero:

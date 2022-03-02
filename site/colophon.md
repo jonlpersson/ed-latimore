@@ -1,4 +1,6 @@
 ---
+_enabled_editors:
+  - content
 title: Brand and site credits
 description:
 hero:
