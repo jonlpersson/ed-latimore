@@ -1,6 +1,6 @@
 ---
 date: 2020-02-18 13:05:00 -0500
-type: Article
+article_type: Article
 title: How to hustle like a crackhead
 permalink: /how-to-hustle-like-a-crackhead/
 tags: [other]

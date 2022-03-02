@@ -1,6 +1,6 @@
 ---
 date: 2021-08-04 16:36:14 -0400
-type: Article
+article_type: Article
 title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
 tags: [emotional-mastery]

@@ -8,7 +8,7 @@ product_info:
   button_url: https://mind-and-fist.ck.page/629379d044
   price: Free
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/the-breakdown-cover-updated.webp
   heading: "The Breakdown: Writing Lessons From My Best Tweets"
   text: "In this free guide, I break down 8 of my highest performing tweets."

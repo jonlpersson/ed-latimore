@@ -1,6 +1,6 @@
 ---
 date: 2020-02-13 16:14:00 -0500
-type: Article
+article_type: Article
 title: 'How to be happy again: 5 actionable steps'
 permalink: /how-to-be-happy-again/
 tags: ["mental-mastery"]

@@ -8,7 +8,7 @@ product_info:
   button_url: https://gumroad.com/a/337122419
   price: $97
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/products/vicebreakers-2.png
   heading: Vicebreakers—kick your bad habits & addictions
   text: Learn how to finally break your bad habits and addictions. I beat porn and booze and now I’m teaching the system I used.

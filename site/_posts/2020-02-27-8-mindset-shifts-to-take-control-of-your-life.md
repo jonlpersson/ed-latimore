@@ -1,6 +1,6 @@
 ---
 date: 2020-02-27 03:48:00 -0500
-type: Article
+article_type: Article
 title: 8 mindset shifts to take control of your life
 permalink: /how-to-take-control-of-your-life/
 tags: [emotional-mastery]

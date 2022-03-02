@@ -1,6 +1,6 @@
 ---
 date: 2021-12-15 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to stand up for yourself in a relationship"
 permalink: /stand-up-for-yourself-in-a-relationship/
 tags: [emotional-mastery]

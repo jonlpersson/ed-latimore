@@ -8,7 +8,7 @@ product_info:
   button_url: https://mind-and-fist.ck.page/4f65ddeea7
   price: Free
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/four-confidences.jpg
   heading: The Four Confidences
   text: "This is a short guide that answers the burning question of our time: “How do I build confidence?” The Four Confidences is based on lived experience."

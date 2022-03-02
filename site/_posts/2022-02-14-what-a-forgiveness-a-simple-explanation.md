@@ -1,6 +1,6 @@
 ---
 date: 2022-02-14 15:26:39 -0500
-type: Article
+article_type: Article
 title: What is forgiveness? A simple explanation
 permalink: /what-is-forgiveness/
 tags: [emotional-mastery]

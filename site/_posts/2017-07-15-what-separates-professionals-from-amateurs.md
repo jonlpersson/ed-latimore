@@ -1,6 +1,6 @@
 ---
 date: 2017-07-15 16:33:00 -0400
-type: Article
+article_type: Article
 title: What separates professionals from amateurs
 permalink:
 tags: ["mental-mastery"]

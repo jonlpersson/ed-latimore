@@ -1,6 +1,6 @@
 ---
 date: 2022-02-04 21:40:00 -0500
-type: Article
+article_type: Article
 title: "8 ways to be more street smart"
 permalink: /how-to-be-street-smart/
 tags: ["mental-mastery"]

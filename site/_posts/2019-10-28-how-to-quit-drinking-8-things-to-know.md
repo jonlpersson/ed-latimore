@@ -1,6 +1,6 @@
 ---
 date: 2019-10-28 14:39:00 -0400
-type: Article
+article_type: Article
 title: 'How to quit drinking: 8 things to know'
 permalink: /8-things-to-know-if-you-want-to-quit-drinking/
 tags: [addiction-sobriety]

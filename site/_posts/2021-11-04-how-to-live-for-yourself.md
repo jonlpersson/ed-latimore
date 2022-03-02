@@ -1,6 +1,6 @@
 ---
 date: 2021-11-04 09:00:00 -0400
-type: Article
+article_type: Article
 title: How to develop the courage to live for yourself
 permalink: /how-to-live-for-yourself/
 tags: [emotional-mastery]

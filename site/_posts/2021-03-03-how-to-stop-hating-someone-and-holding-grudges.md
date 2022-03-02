@@ -1,6 +1,6 @@
 ---
 date: 2021-03-03 16:50:00 -0500
-type: Article
+article_type: Article
 title: How to stop hating someone and holding grudges
 permalink: /how-to-stop-hating-someone/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2016-06-21 20:00:00 -0400
-type: Article
+article_type: Article
 title: Quick tips on concentration
 permalink:
 tags: ["mental-mastery"]

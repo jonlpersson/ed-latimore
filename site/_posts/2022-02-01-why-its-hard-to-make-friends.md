@@ -1,6 +1,6 @@
 ---
 date: 2022-02-01 09:00:00 -0500
-type: Article
+article_type: Article
 title: 7 reasons it’s hard to make friends (+ tips that work)
 permalink: /why-its-hard-to-make-friends/
 tags: [emotional-mastery]

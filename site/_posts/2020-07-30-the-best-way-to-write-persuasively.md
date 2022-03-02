@@ -1,6 +1,6 @@
 ---
 date: 2020-07-30 22:47:00 -0400
-type: Review
+article_type: Review
 title: The best way to write persuasively
 permalink: /persuasive-writing/
 tags: [money-skills]

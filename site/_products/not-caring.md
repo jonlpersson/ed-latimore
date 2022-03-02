@@ -8,7 +8,7 @@ product_info:
   button_url: https://www.amazon.com/Caring-Other-People-Think-Superpower/dp/1542628806/tag=httpedwardc07-20
   price: $10.59
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/not-caring.jpg
   heading: Not Caring What Other People Think is a Superpower
   text: Not caring what people think is a superpower that will allow you to get what you want out of life. This book teaches you how to live this way.

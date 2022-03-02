@@ -1,6 +1,6 @@
 ---
 date: 2022-01-07 17:28:11 -0500
-type: Article
+article_type: Article
 title: The 5 most important qualities of a good teacher
 permalink: /qualities-of-a-good-teacher/
 tags: ["mental-mastery"]

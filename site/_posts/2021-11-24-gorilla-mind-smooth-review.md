@@ -1,6 +1,6 @@
 ---
 date: 2022-01-12 08:00:00 -0500
-type: Article
+article_type: Article
 title: "I took Gorilla Mind Smooth for 1 year—here’s what happened"
 permalink: /gorilla-mind-smooth-review/
 tags: ["mental-mastery"]

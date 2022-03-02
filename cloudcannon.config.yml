@@ -14,8 +14,25 @@ _inputs:
     comment: Enter a punchy description of this page
   hero:
     comment: Configure your page's hero section
-  type:
+  hero_type:
+    type: select
     comment: Choose an appropriate layout for the hero section
+    options:
+      values:
+        - email
+        - product
+        - image
+  type:
+    type: text
+    comment: Choose an appropriate label for the page
+  article_type:
+    type: text
+    comment: Choose an appropriate label for the page
+    options:
+      values:
+        - Article
+        - Review
+        - Book Summary
   heading:
     comment: Enter a punchy heading of this section
   text_markdown:

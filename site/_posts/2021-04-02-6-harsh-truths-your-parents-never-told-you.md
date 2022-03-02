@@ -1,6 +1,6 @@
 ---
 date: 2021-04-02 16:45:00 -0400
-type: Article
+article_type: Article
 title: 6 harsh truths your parents never told you
 permalink: /harsh-truths/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2016-12-07 19:00:00 -0500
-type: Article
+article_type: Article
 title: 6 reasons to be grateful
 permalink: /6-reasons-to-be-grateful/
 tags: [emotional-mastery]

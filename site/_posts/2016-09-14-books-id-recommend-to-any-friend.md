@@ -1,6 +1,6 @@
 ---
 date: 2016-09-14 20:00:00 -0400
-type: Review
+article_type: Review
 title: Best books on the mental and emotional side of fighting
 permalink: /books-about-mental-side-of-fighting/
 tags: ["mental-mastery"]

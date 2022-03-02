@@ -1,6 +1,6 @@
 ---
 date: 2018-11-04 00:34:00 -0400
-type: Article
+article_type: Article
 title: How to brand yourself to get paid
 permalink: /how-to-build-a-personal-brand/
 tags: [money-skills]

@@ -1,6 +1,6 @@
 ---
 date: 2016-06-30 20:00:00 -0400
-type: Article
+article_type: Article
 title: You can't force relationships to develop
 permalink:
 tags: [emotional-mastery]

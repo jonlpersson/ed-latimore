@@ -1,6 +1,6 @@
 ---
 date: 2020-06-15 17:42:00 -0400
-type: Article
+article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
 tags: [money-skills]

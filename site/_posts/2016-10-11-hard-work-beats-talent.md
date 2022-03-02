@@ -1,6 +1,6 @@
 ---
 date: 2016-10-11 17:39:00 -0400
-type: Article
+article_type: Article
 title: Hard work beats talent
 permalink: /hard-work-beats-talent/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2020-06-05 16:09:00 -0400
-type: Article
+article_type: Article
 title: How to be chill in 5 steps
 permalink: /how-to-be-chill/
 tags: [emotional-mastery]

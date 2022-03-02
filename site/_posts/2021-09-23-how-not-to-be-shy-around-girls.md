@@ -1,6 +1,6 @@
 ---
 date: 2021-09-23 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to not be shy around girls: 7 ways that work"
 permalink: /how-not-to-be-shy-around-girls/
 tags: [emotional-mastery]

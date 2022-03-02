@@ -1,6 +1,6 @@
 ---
 date: 2021-01-11 00:00:00 -0500
-type: Article
+article_type: Article
 title: 10 actionable steps to get your life together in 2022
 permalink: /how-to-get-your-life-together/
 tags: ["mental-mastery"]

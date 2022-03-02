@@ -1,6 +1,6 @@
 ---
 date: 2020-12-20 23:36:00 -0500
-type: Article
+article_type: Article
 title: How to give tough love
 permalink: /tough-love/
 tags: [emotional-mastery]

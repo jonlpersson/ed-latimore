@@ -1,6 +1,6 @@
 ---
 date: 2020-10-21 23:15:00 -0400
-type: Review
+article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
 tags: [money-skills]

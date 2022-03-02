@@ -1,6 +1,6 @@
 ---
 date: 2021-07-22 21:58:30 -0400
-type: Article
+article_type: Article
 title: 5 Hair loss remedies to try before it’s too late
 permalink: /how-to-stop-hair-loss-early/
 tags: [physical-mastery]

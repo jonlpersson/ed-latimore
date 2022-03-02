@@ -1,6 +1,6 @@
 ---
 date: 2021-09-30 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to get closer to a friend"
 permalink: /how-to-get-closer-to-a-friend/
 tags: [emotional-mastery]

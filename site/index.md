@@ -2,7 +2,7 @@
 title:
 description:
 hero:
-  type: email
+  hero_type: email
   heading: Learn how to control your mind, body, and emotions with my Stoic Street-Smarts newsletter.
   text_markdown:
 page_blocks:

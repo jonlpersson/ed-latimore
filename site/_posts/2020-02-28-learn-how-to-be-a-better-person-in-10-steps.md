@@ -1,6 +1,6 @@
 ---
 date: 2020-02-28 18:30:00 -0500
-type: Article
+article_type: Article
 title: Learn how to be a better person in 10 steps
 permalink: /10-ways-to-quickly-become-a-better-person/
 tags: ["mental-mastery"]

@@ -1,6 +1,6 @@
 ---
 date: 2022-01-17 12:19:24 -0500
-type: Article
+article_type: Article
 title: 9 thoughts to help deal with the loss of a parent
 permalink: /dealing-with-the-loss-of-a-parent/
 tags: [emotional-mastery]

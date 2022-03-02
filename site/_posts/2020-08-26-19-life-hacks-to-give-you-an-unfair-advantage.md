@@ -1,6 +1,6 @@
 ---
 date: 2020-08-26 16:13:00 -0400
-type: Article
+article_type: Article
 title: 19 life hacks to make life easier
 permalink: /life-hacks-to-make-life-easier/
 tags: ["mental-mastery"]

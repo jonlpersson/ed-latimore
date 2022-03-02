@@ -1,6 +1,6 @@
 ---
 date: 2016-04-19 20:00:00 -0400
-type: Article
+article_type: Article
 title: How to get into a relationship
 permalink: /how-to-get-into-a-relationship/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2020-08-31 18:19:00 -0400
-type: Article
+article_type: Article
 title: 53 original sobriety quotes for addiction recovery
 permalink: /ed-latimore-sobriety-quotes/
 tags: [addiction-sobriety]

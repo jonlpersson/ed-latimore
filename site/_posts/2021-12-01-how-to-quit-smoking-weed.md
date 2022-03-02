@@ -1,6 +1,6 @@
 ---
 date: 2021-12-01 08:00:00 -0500
-type: Article
+article_type: Article
 title: How to quit smoking weed
 permalink: /how-to-quit-smoking-weed/
 tags: [addiction-sobriety]

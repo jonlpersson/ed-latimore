@@ -1,6 +1,6 @@
 ---
 date: 2017-06-02 20:00:00 -0400
-type: Article
+article_type: Article
 title: 11 top performer secrets to get motivated
 permalink: /how-to-get-motivated/
 tags: ["mental-mastery"]

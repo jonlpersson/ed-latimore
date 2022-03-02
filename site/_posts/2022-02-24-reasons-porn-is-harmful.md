@@ -1,6 +1,6 @@
 ---
 date: 2022-02-24 09:00:00 -0500
-type: Article
+article_type: Article
 title: 'Science-backed reasons porn is harmful'
 permalink: /reasons-porn-is-harmful/
 tags: ["mental-mastery"]

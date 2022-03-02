@@ -1,6 +1,6 @@
 ---
 date: 2019-10-22 00:00:00 -0400
-type: Article
+article_type: Article
 title: How to be yourself (5 step process)
 permalink: /how-to-be-your-authentic-self/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2021-09-10 09:00:00 -0400
-type: Article
+article_type: Article
 title: How to get unstuck in life (how I went from mediocrity to high achiever)
 permalink: /how-to-get-unstuck-in-life/
 tags: ["mental-mastery"]

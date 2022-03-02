@@ -1,6 +1,6 @@
 ---
 date: 2021-03-12 22:20:00 -0500
-type: Review
+article_type: Review
 title: 'The Book Of Five Rings: 10 Best Quotes And Ideas'
 permalink: /the-book-of-five-rings-quotes/
 tags: ["mental-mastery"]

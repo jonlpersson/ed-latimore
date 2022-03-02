@@ -1,6 +1,6 @@
 ---
 date: 2020-06-09 10:10:00 -0400
-type: Article
+article_type: Article
 title: How to increase your personal freedom
 permalink: /personal-freedom/
 tags: [money-skills]

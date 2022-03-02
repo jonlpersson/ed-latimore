@@ -1,6 +1,6 @@
 ---
 date: 2020-05-17 23:22:00 -0400
-type: Article
+article_type: Article
 title: How to get sh*t done when you have no motivaiton
 permalink: /lack-of-motivation/
 tags: [emotional-mastery]

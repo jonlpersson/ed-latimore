@@ -1,6 +1,6 @@
 ---
 date: 2021-08-26 18:22:08 -0400
-type: Article
+article_type: Article
 title: 8 unexpected reasons why math is so hard
 permalink: /why-is-math-so-hard/
 tags: ["mental-mastery"]

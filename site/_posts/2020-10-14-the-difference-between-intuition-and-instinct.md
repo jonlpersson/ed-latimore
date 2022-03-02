@@ -1,6 +1,6 @@
 ---
 date: 2020-10-14 13:53:00 -0400
-type: Article
+article_type: Article
 title: The difference between intuition and instinct
 permalink: /intuition-vs-instinct/
 tags: ["mental-mastery"]

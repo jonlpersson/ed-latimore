@@ -1,6 +1,6 @@
 ---
 date: 2020-06-14 16:06:00 -0400
-type: Article
+article_type: Article
 title: 4 signs it's time to end a friendship
 permalink: /when-to-end-a-friendship/
 tags: [emotional-mastery]

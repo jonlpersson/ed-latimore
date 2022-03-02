@@ -1,6 +1,6 @@
 ---
 date: 2020-05-20 12:59:00 -0400
-type: Article
+article_type: Article
 title: Is karma real? 3 life lessons from a troll
 permalink: /is-karma-real/
 tags: ["mental-mastery"]

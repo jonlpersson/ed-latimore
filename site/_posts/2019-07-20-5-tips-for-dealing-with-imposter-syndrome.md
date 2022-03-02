@@ -1,6 +1,6 @@
 ---
 date: 2019-07-20 00:00:00 -0400
-type: Article
+article_type: Article
 title: 5 tips for dealing with imposter syndrome
 permalink: /imposter-syndrome-test/
 tags: [emotional-mastery]

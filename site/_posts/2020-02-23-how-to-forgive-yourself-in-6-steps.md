@@ -1,6 +1,6 @@
 ---
 date: 2020-02-23 17:47:00 -0500
-type: Article
+article_type: Article
 title: How to forgive yourself in 6 steps
 permalink: /how-to-forgive-yourself-6-steps-to-let-the-past-go/
 tags: [emotional-mastery]

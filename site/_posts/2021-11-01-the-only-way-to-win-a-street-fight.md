@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01 18:38:55 -0400
-type: Article
+article_type: Article
 title: How to avoid a street fight, and what to do if you can't
 permalink: /how-to-win-a-street-fight/
 tags: [physical-mastery]

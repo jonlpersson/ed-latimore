@@ -1,6 +1,6 @@
 ---
 date: 2020-04-06 20:27:00 -0400
-type: Article
+article_type: Article
 title: 4 things any leadership philosophy must have
 permalink: /leadership-philosophy/
 tags: [emotional-mastery]

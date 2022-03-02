@@ -1,6 +1,6 @@
 ---
 date: 2020-02-10 18:14:00 -0500
-type: Article
+article_type: Article
 title: My experience getting an FUE hair transplant
 permalink: /my-personal-experience-getting-an-fue-hair-transplant/
 tags: [physical-mastery]

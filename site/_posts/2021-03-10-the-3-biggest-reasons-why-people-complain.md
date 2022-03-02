@@ -1,6 +1,6 @@
 ---
 date: 2021-03-10 13:14:00 -0500
-type: Article
+article_type: Article
 title: The 3 biggest reasons why people complain
 permalink: /why-do-people-complain/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2017-11-27 00:00:00 -0500
-type: Article
+article_type: Article
 title: 8 ways to stop caring about what people think
 permalink: /how-to-stop-worrying-about-what-others-think-of-you/
 tags: [emotional-mastery]

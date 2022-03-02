@@ -1,6 +1,6 @@
 ---
 date: 2021-12-03 21:18:21 -0500
-type: Article
+article_type: Article
 title: "“Klandestine Relationships” by Daryl Davis: 12 lessons"
 permalink: /daryl-davis-book/
 tags: ["mental-mastery"]

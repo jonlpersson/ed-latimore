@@ -1,6 +1,6 @@
 ---
 date: 2021-03-21 09:58:00 -0400
-type: Article
+article_type: Article
 title: 'How to overcome fear: 7 lessons from boxing'
 permalink: /how-to-overcome-fear/
 tags: [emotional-mastery]

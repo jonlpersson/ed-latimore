@@ -1,6 +1,6 @@
 ---
 date: 2016-09-17 11:00:00 -0400
-type: Article
+article_type: Article
 title: The 31 ways to be a better man
 permalink: /how-to-be-a-better-man/
 tags: [emotional-mastery]

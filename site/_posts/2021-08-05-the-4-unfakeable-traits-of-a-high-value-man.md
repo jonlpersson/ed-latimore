@@ -1,6 +1,6 @@
 ---
 date: 2021-08-05 19:42:40 -0400
-type: Article
+article_type: Article
 title: The 4 unfakeable traits of a high value man
 permalink: /high-value-man/
 tags: [emotional-mastery]

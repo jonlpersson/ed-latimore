@@ -1,6 +1,6 @@
 ---
 date: 2020-04-04 17:19:00 -0400
-type: Article
+article_type: Article
 title: 6 signs of mental and emotional maturity
 permalink: /signs-of-maturity/
 tags: [emotional-mastery]

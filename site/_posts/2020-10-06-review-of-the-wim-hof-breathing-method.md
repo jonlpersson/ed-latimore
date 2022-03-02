@@ -1,6 +1,6 @@
 ---
 date: 2020-10-06 02:00:00 -0400
-type: Review
+article_type: Review
 title: Review of the Wim Hof Breathing Method
 permalink: /wim-hof-method-review/
 tags: [physical-mastery]

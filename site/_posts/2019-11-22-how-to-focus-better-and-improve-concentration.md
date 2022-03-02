@@ -1,6 +1,6 @@
 ---
 date: 2019-11-22 02:54:00 -0500
-type: Article
+article_type: Article
 title: How to focus better and improve concentration
 permalink: /how-to-focus-better/
 tags: ["mental-mastery"]

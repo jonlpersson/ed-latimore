@@ -1,6 +1,6 @@
 ---
 date: 2021-07-27 23:00:33 -0400
-type: Article
+article_type: Article
 title: 5 lessons from a near six-figure product launch
 permalink: /new-product-launch-lessons/
 tags: [money-skills]

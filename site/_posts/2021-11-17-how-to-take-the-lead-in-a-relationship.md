@@ -1,6 +1,6 @@
 ---
 date: 2021-11-17 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to take the lead in a relationship"
 permalink: /how-to-take-the-lead-in-a-relationship/
 tags: [emotional-mastery]

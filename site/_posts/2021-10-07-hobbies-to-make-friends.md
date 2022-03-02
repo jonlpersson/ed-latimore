@@ -1,6 +1,6 @@
 ---
 date: 2021-10-07 08:00:00 -0500
-type: Article
+article_type: Article
 title: "Hobbies to make friends (and what to do once you're there)"
 permalink: /hobbies-to-make-friends/
 tags: [emotional-mastery]

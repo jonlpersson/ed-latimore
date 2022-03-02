@@ -1,6 +1,6 @@
 ---
 date: 2020-07-24 13:09:00 -0400
-type: Article
+article_type: Article
 title: 6 quick ways to fix bad writing
 permalink: /bad-writing/
 tags: ["mental-mastery"]

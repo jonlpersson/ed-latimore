@@ -1,6 +1,6 @@
 ---
 date: 2021-10-10 21:24:55 -0400
-type: Article
+article_type: Article
 title: How to write Instagram captions that increase engagement
 permalink: /how-to-write-instagram-captions-that-increase-engagement/
 tags: [money-skills]

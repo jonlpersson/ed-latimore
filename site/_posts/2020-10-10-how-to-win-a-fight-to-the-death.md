@@ -1,6 +1,6 @@
 ---
 date: 2020-10-10 15:30:00 -0400
-type: Article
+article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
 tags: [physical-mastery]

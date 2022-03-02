@@ -1,6 +1,6 @@
 ---
 date: 2021-03-24 09:32:00 -0400
-type: Article
+article_type: Article
 title: How to stop arguing in real life or online
 permalink: /how-to-stop-arguing/
 tags: ["mental-mastery"]

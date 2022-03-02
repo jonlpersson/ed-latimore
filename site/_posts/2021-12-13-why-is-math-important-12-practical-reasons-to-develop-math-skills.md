@@ -1,6 +1,6 @@
 ---
 date: 2021-12-13 18:51:00 -0500
-type: Article
+article_type: Article
 title: 12 reasons why math is important (and how to get better)
 permalink: /why-is-math-important/
 tags: ["mental-mastery"]

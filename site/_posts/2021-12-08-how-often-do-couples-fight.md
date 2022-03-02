@@ -1,6 +1,6 @@
 ---
 date: 2021-12-08 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How often do couples fight?"
 permalink: /how-often-do-couples-fight/
 tags: [emotional-mastery]

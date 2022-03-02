@@ -1,6 +1,6 @@
 ---
 date: 2020-01-16 06:45:00 -0500
-type: Article
+article_type: Article
 title: 6 signs you're definitely addicted to porn
 permalink: /6-signs-that-youre-definitely-addicted-to-porn/
 tags: [addiction-sobriety]

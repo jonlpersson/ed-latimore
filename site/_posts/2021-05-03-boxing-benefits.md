@@ -1,6 +1,6 @@
 ---
 date: 2021-05-03 05:00:00 -0400
-type: Article
+article_type: Article
 title: 8 ways boxing will transform your life
 permalink: /boxing-benefits/
 tags: [physical-mastery]

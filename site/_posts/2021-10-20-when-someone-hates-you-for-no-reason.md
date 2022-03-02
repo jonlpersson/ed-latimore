@@ -1,6 +1,6 @@
 ---
 date: 2021-10-20 09:00:00 -0500
-type: Article
+article_type: Article
 title: "What to do when someone hates you for no reason"
 permalink: /when-someone-hates-you-for-no-reason/
 tags: [emotional-mastery]

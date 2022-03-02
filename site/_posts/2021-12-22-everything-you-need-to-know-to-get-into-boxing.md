@@ -1,6 +1,6 @@
 ---
 date: 2021-12-22 12:25:03 -0500
-type: Article
+article_type: Article
 title: How to get into amateur or professional boxing
 permalink: /how-to-get-into-boxing/
 tags: [physical-mastery]

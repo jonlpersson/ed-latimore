@@ -1,6 +1,6 @@
 ---
 date: 2019-11-16 15:55:00 -0500
-type: Article
+article_type: Article
 title: 13 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags: ["mental-mastery"]

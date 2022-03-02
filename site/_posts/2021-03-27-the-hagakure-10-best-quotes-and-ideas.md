@@ -1,6 +1,6 @@
 ---
 date: 2021-03-27 20:44:00 -0400
-type: Article
+article_type: Article
 title: 'The Hagakure: 10 best quotes and ideas'
 permalink: /hagakure-quotes/
 tags: ["mental-mastery"]

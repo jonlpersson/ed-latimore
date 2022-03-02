@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29 16:23:00 -0400
-type: Article
+article_type: Article
 title: 37 quotes from Ed Latimore about forgiveness
 permalink: /Ed-latimore-forgiveness-quotes/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2017-03-06 15:08:00 -0500
-type: Article
+article_type: Article
 title: 9 lessons from living by crackheads & crack dealers
 permalink: /crackhead/
 tags: [addiction-sobriety]

@@ -1,6 +1,6 @@
 ---
 date: 2021-03-13 19:00:00 -0500
-type: Article
+article_type: Article
 title: 8 steps to making friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
 tags: [emotional-mastery]

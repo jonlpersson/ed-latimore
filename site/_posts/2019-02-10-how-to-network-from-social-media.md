@@ -1,6 +1,6 @@
 ---
 date: 2019-02-10 23:00:00 -0500
-type: Article
+article_type: Article
 title: How to network from social media
 permalink: /how-to-network/
 tags: [money-skills]

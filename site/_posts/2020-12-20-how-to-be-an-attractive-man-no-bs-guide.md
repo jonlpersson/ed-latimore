@@ -1,6 +1,6 @@
 ---
 date: 2020-12-20 23:00:00 -0500
-type: Article
+article_type: Article
 title: How to be an attractive man (no-BS guide)
 permalink: /how-to-be-an-attractive-man/
 tags: [physical-mastery]

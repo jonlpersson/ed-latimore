@@ -1,6 +1,6 @@
 ---
 date: 2021-12-30 19:23:59 -0500
-type: Article
+article_type: Article
 title: "12 great quotes from Annie Duke's “Thinking in Bets”"
 permalink: /annie-duke-thinking-in-bets-quotes/
 tags: ["mental-mastery"]

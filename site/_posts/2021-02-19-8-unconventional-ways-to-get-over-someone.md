@@ -1,6 +1,6 @@
 ---
 date: 2021-02-19 10:00:00 -0500
-type: Article
+article_type: Article
 title: 8 ways to finally get over someone you loved
 permalink: /how-to-get-over-someone/
 tags: [emotional-mastery]

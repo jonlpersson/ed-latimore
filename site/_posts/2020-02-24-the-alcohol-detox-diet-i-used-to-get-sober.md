@@ -1,6 +1,6 @@
 ---
 date: 2020-02-24 11:11:00 -0500
-type: Article
+article_type: Article
 title: The alcohol detox diet I used to get sober
 permalink: /the-alcohol-detox-diet/
 tags: [addiction-sobriety]

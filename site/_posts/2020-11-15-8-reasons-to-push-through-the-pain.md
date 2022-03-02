@@ -1,6 +1,6 @@
 ---
 date: 2020-11-15 18:29:00 -0500
-type: Article
+article_type: Article
 title: 8 reasons to push through the pain
 permalink: /pushing-through-the-pain/
 tags: [physical-mastery]

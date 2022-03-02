@@ -1,6 +1,6 @@
 ---
 date: 2019-10-16 00:00:00 -0400
-type: Article
+article_type: Article
 title: Why am I so unhappy? (5 reasons and real solutions)
 permalink: /unhappiness/
 tags: [emotional-mastery]

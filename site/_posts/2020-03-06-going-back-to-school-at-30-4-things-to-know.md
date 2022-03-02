@@ -1,6 +1,6 @@
 ---
 date: 2020-03-06 05:39:00 -0500
-type: Article
+article_type: Article
 title: 'Going back to school at 30: 4 things to know'
 permalink: /going-back-to-school-at-30/
 tags: ["mental-mastery"]

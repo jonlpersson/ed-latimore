@@ -1,6 +1,6 @@
 ---
 date: 2020-05-19 19:46:00 -0400
-type: Article
+article_type: Article
 title: Is physics hard? How to learn basic physics
 permalink: /is-physics-hard-how-to-study-and-learn-basic-physics/
 tags: ["mental-mastery"]

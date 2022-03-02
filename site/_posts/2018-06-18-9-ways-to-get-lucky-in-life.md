@@ -1,6 +1,6 @@
 ---
 date: 2018-06-18 09:44:00 -0400
-type: Article
+article_type: Article
 title: 9 ways to get lucky in life
 permalink: /how-to-get-lucky/
 tags: ["mental-mastery"]

@@ -1,6 +1,6 @@
 ---
 date: 2022-02-09 17:14:10 -0500
-type: Article
+article_type: Article
 title: The 7 benefits of having a rough childhood
 permalink: /7-benefits-of-having-a-rough-childhood/
 tags: ["mental-mastery"]

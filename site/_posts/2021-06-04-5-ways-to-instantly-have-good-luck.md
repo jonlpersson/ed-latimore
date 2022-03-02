@@ -1,6 +1,6 @@
 ---
 date: 2021-06-04 22:35:00 -0400
-type: Article
+article_type: Article
 title: '5 ways to instantly have good luck'
 permalink: /how-to-get-good-luck/
 tags: ["mental-mastery"]

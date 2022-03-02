@@ -1,6 +1,6 @@
 ---
 date: 2020-11-11 19:20:00 -0500
-type: Article
+article_type: Article
 title: 7 reasons why writing is important
 permalink: /why-is-writing-important/
 tags: ["mental-mastery"]

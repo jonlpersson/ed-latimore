@@ -1,6 +1,6 @@
 ---
 date: 2022-01-11 09:00:00 -0500
-type: Article
+article_type: Article
 title: How to win an argument (without losing your temper)
 permalink: /how-to-win-an-argument/
 tags: ["mental-mastery"]

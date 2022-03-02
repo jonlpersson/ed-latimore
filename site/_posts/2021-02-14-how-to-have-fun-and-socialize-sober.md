@@ -1,6 +1,6 @@
 ---
 date: 2021-02-14 23:00:00 -0500
-type: Article
+article_type: Article
 title: How to have fun and socialize sober
 permalink: /how-to-have-fun-and-socialize-sober/
 tags: [addiction-sobriety]

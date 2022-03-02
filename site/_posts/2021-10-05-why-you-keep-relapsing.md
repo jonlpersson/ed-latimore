@@ -1,6 +1,6 @@
 ---
 date: 2021-10-05 08:00:00 -0500
-type: Article
+article_type: Article
 title: "Why do I keep relapsing? (how to stop for good)"
 permalink: /why-you-keep-relapsing/
 tags: ["mental-mastery"]

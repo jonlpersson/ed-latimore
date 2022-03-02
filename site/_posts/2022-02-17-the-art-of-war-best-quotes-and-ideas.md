@@ -1,6 +1,6 @@
 ---
 date: 2022-02-17 22:19:51 -0500
-type: Article
+article_type: Article
 title: 'The Art of War: 10 best quotes and ideas'
 permalink: /art-of-war-quotes-and-summary/
 tags: ["mental-mastery"]

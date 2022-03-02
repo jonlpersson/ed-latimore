@@ -8,7 +8,7 @@ product_info:
   button_url: https://mind-and-fist.ck.page/760992d4d9
   price: Free
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/the-3-things-keeping-you-from-getting-sober-cover.jpg
   heading: 3 things keeping you from getting sober
   text: "Download a free chapter from my best-selling book to help you deal with the emotions of recovery, “Sober Letters to my Drunken Self.”"

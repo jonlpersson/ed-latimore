@@ -1,6 +1,6 @@
 ---
 date: 2020-03-02 14:16:00 -0500
-type: Article
+article_type: Article
 title: How to get better at math in 7 simple steps
 permalink: /how-to-get-better-at-math/
 tags: ["mental-mastery"]

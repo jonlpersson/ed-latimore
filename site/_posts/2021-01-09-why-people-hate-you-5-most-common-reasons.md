@@ -1,6 +1,6 @@
 ---
 date: 2021-01-09 05:00:00 -0500
-type: Article
+article_type: Article
 title: Why people hate you (5 most common reasons)
 permalink: /why-you-have-haters-even-if-you-arent-an-asshole/
 tags: [emotional-mastery]

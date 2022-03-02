@@ -1,6 +1,6 @@
 ---
 date: 2021-02-14 09:09:00 -0500
-type: Article
+article_type: Article
 title: 5 life lessons I learned from lifting iron
 permalink: /life-lessons-from-gym/
 tags: [physical-mastery]

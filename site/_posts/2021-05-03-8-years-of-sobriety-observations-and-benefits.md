@@ -1,6 +1,6 @@
 ---
 date: 2021-05-03 06:00:00 -0400
-type: Article
+article_type: Article
 title: '8 years of sobriety: observations and benefits'
 permalink: /sobriety-benefits/
 tags: [addiction-sobriety]

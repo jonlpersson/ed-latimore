@@ -1,6 +1,6 @@
 ---
 date: 2021-08-31 09:00:00 -0400
-type: Article
+article_type: Article
 title: 'Personal magnetism: How to be more charismatic'
 permalink: /how-to-be-charismatic/
 tags: [emotional-mastery]

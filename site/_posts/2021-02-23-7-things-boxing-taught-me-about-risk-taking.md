@@ -1,6 +1,6 @@
 ---
 date: 2021-02-23 20:17:00 -0500
-type: Article
+article_type: Article
 title: 7 things boxing taught me about risk taking
 permalink: /risk-taking/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2022-02-15 09:26:39 -0500
-type: Article
+article_type: Article
 title: 9 good reasons why it’s time to quit watching porn
 permalink: /reasons-to-quit-porn/
 tags: ["mental-mastery"]

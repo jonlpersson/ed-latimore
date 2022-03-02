@@ -1,6 +1,6 @@
 ---
 date: 2022-02-27 16:09:24 -0500
-type: Article
+article_type: Article
 tags: [emotional-mastery]
 title: 'How to cheer yourself up: 5 methods that work'
 permalink: /how-to-cheer-yourself-up/

@@ -1,6 +1,6 @@
 ---
 date: 2019-04-09 16:06:00 -0400
-type: Article
+article_type: Article
 title: How to make money online for beginners
 permalink: /a-basic-bro-beginners-guide-to-making-money-online/
 tags: [money-skills]

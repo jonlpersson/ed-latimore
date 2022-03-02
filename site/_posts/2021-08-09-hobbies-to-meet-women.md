@@ -1,6 +1,6 @@
 ---
 date: 2021-08-09 12:00:00 -0400
-type: Article
+article_type: Article
 title: 7 hobbies to meet women (effective)
 permalink: /hobbies-to-meet-women/
 tags: [emotional-mastery]

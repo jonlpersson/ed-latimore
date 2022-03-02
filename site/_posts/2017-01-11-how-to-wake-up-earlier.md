@@ -1,6 +1,6 @@
 ---
 date: 2017-01-11 19:00:00 -0500
-type: Article
+article_type: Article
 title: How to wake up earlier
 permalink:
 tags: ["mental-mastery"]

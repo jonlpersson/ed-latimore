@@ -8,7 +8,7 @@ product_info:
   button_url: https://www.amazon.com/gp/product/B07LFX335T/tag=httpedwardc07-20
   price: $10.59
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/sober-letters.jpg
   heading: Sober Letters to My Drunken Self
   text: My best-selling book to help you deal with the emotions of recovery.

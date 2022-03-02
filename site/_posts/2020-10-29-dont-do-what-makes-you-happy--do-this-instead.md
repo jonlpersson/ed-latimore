@@ -1,6 +1,6 @@
 ---
 date: 2020-10-29 18:05:00 -0400
-type: Article
+article_type: Article
 title: Don't do what makes you happy. Do this instead
 permalink: /do-what-makes-you-happy/
 tags: [money-skills]

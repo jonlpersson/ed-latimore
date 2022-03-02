@@ -1,6 +1,6 @@
 ---
 date: 2015-11-10 19:00:00 -0500
-type: Article
+article_type: Article
 title: How to know if you have a drinking problem
 permalink: /how-to-know-if-you-have-a-drinking-problem/
 tags: [addiction-sobriety]

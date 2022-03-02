@@ -1,6 +1,6 @@
 ---
 date: 2021-08-09 20:29:48 -0400
-type: Article
+article_type: Article
 title: How to forgive your parents
 permalink: /how-to-understand-and-forgive-your-parents/
 tags: [emotional-mastery]

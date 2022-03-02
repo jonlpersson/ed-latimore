@@ -1,6 +1,6 @@
 ---
 date: 2016-10-01 06:36:00 -0400
-type: Article
+article_type: Article
 title: 8 lessons from losing a fight
 permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-television/
 tags: [emotional-mastery]

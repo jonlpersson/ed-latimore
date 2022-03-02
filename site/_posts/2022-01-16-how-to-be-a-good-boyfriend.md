@@ -1,6 +1,6 @@
 ---
 date: 2022-01-18 09:00:00 -0500
-type: Article
+article_type: Article
 title: How to be a better boyfriend
 permalink: /how-to-be-a-good-boyfriend/
 tags: [emotional-mastery]

@@ -8,7 +8,7 @@ product_info:
   button_url: https://mind-and-fist.ck.page/6cb98ea66a
   price: Free
 hero:
-  type: product
+  hero_type: product
   image: /assets/images/thumbnails/dick-detox-cover.jpg
   heading: "Dick Detox: The Ultimate Guide To Quitting Porn"
   text: This is a free guide that teaches you how to finally quit porn and get your sex life back on track.

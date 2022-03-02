@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29 23:00:00 -0400
-type: Article
+article_type: Article
 title: 16 best self-discipline quotes
 permalink: /ed-latimore-self-discipline-quotes/
 tags: ["mental-mastery"]

@@ -1,6 +1,6 @@
 ---
 date: 2020-03-14 14:21:00 -0400
-type: Article
+article_type: Article
 title: 5 Simple Ways To Start A Conversation
 permalink: /how-to-start-a-conversation/
 tags: [physical-mastery]

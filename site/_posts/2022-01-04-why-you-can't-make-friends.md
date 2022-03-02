@@ -1,6 +1,6 @@
 ---
 date: 2022-01-04 09:00:00 -0500
-type: Article
+article_type: Article
 title: This is why you don’t have friends (and how to make some)
 permalink: /why-you-cant-make-friends/
 tags: [emotional-mastery]

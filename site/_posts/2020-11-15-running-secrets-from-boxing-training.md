@@ -1,6 +1,6 @@
 ---
 date: 2020-11-15 13:07:00 -0500
-type: Article
+article_type: Article
 title: Running secrets from boxing training
 permalink: /proper-running-form/
 tags: [physical-mastery]

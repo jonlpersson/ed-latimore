@@ -1,6 +1,6 @@
 ---
 date: 2021-11-16 17:39:43 -0500
-type: Article
+article_type: Article
 title: 'Accidental Courtesy: Daryl Davis, Race & America quotes'
 permalink: /accidental-courtesy-quotes/
 tags: [emotional-mastery]

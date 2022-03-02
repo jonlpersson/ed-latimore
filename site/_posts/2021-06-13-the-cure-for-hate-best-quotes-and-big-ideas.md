@@ -1,6 +1,6 @@
 ---
 date: 2021-06-13 22:19:07 -0400
-type: Article
+article_type: Article
 title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
 tags: [emotional-mastery]

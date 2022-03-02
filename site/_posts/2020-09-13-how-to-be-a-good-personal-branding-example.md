@@ -1,6 +1,6 @@
 ---
 date: 2020-09-13 23:10:00 -0400
-type: Article
+article_type: Article
 title: How to be a good personal branding example
 permalink: /personal-branding-examples/
 tags: [money-skills]

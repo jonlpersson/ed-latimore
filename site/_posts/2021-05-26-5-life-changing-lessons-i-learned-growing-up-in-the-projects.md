@@ -1,6 +1,6 @@
 ---
 date: 2021-05-26 06:00:00 -0400
-type: Article
+article_type: Article
 title: 5 things I learned growing up in the projects
 permalink: /the-projects/
 tags: [emotional-mastery]

@@ -1,6 +1,6 @@
 ---
 date: 2022-02-08 09:40:00 -0500
-type: Article
+article_type: Article
 title: The best porn blocker for 2022
 permalink: /best-porn-blocker/
 tags: ["mental-mastery"]

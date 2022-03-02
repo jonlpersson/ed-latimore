@@ -1,6 +1,6 @@
 ---
 date: 2021-02-27 13:32:00 -0500
-type: Article
+article_type: Article
 title: 6 powerful reasons to bet on yourself
 permalink: /bet-on-yourself/
 tags: ["mental-mastery"]

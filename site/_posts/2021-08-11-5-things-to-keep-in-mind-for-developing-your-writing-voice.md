@@ -1,6 +1,6 @@
 ---
 date: 2021-08-11 18:04:41 -0400
-type: Article
+article_type: Article
 title: 5 ways to develop your writing voice
 permalink: /voice-in-writing/
 tags: ["mental-mastery"]

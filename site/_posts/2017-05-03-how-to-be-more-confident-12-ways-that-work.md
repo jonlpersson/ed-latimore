@@ -1,6 +1,6 @@
 ---
 date: 2017-05-03 20:00:00 -0400
-type: Article
+article_type: Article
 title: 'How to be more confident: 12 ways that work'
 permalink: /how-to-build-confidence/
 tags: [emotional-mastery]

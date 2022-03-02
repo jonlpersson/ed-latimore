@@ -1,6 +1,6 @@
 ---
 date: 2022-02-10 18:27:24 -0500
-type: Article
+article_type: Article
 title: 20 quotes to help with adult and childhood trauma
 permalink: /trauma-quotes/
 tags: [addiction-sobriety]

@@ -1,6 +1,6 @@
 ---
 date: 2021-12-05 14:16:38 -0500
-type: Article
+article_type: Article
 title: "Ed Latimore's “coffee so black” jokes"
 permalink: /black-coffee-jokes-puns/
 tags: [other]

@@ -2,7 +2,7 @@
 title: About me
 description: I’m a best-selling author and my writing focuses on self-improvement and a practical approach to stoic philosophy.
 hero:
-  type: image
+  hero_type: image
   label: Get to know me
   heading: About me
   text: |

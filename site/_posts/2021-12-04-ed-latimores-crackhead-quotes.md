@@ -1,6 +1,6 @@
 ---
 date: 2021-12-04 18:31:17 -0500
-type: Article
+article_type: Article
 title: '29 top crackhead quotes'
 permalink: /crackhead-head-quotes/
 tags: [other]

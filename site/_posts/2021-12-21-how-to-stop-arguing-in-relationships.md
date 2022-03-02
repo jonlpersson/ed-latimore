@@ -1,6 +1,6 @@
 ---
 date: 2021-12-21 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to argue less in your relationship"
 permalink: /how-to-stop-arguing-in-relationships/
 tags: [emotional-mastery]

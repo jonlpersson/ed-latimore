@@ -1,6 +1,6 @@
 ---
 date: 2021-10-11 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to increase willpower (the easiest way to break bad habits)"
 permalink: /how-to-increase-willpower/
 tags: [emotional-mastery]

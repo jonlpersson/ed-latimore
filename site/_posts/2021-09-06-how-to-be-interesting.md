@@ -1,6 +1,6 @@
 ---
 date: 2021-09-06 08:00:00 -0500
-type: Article
+article_type: Article
 title: "How to be the most interesting man in any room"
 permalink: /how-to-be-interesting/
 tags: [emotional-mastery]

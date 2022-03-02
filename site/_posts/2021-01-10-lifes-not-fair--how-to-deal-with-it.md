@@ -1,6 +1,6 @@
 ---
 date: 2021-01-10 14:30:00 -0500
-type: Article
+article_type: Article
 title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
 tags: [emotional-mastery]

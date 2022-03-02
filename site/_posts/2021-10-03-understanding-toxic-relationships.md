@@ -1,6 +1,6 @@
 ---
 date: 2021-10-03 11:49:29 -0400
-type: Article
+article_type: Article
 title: Understanding toxic relationships
 permalink: /toxic-relationships/
 tags: [emotional-mastery]

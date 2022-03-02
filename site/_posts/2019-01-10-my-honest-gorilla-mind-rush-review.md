@@ -1,6 +1,6 @@
 ---
 date: 2019-01-10 23:00:00 -0500
-type: Review
+article_type: Review
 title: My honest Gorilla Mind Rush review
 permalink: /review-of-the-gorilla-mind-rush-is-it-effective/
 tags: ["mental-mastery"]

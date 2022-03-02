@@ -1,6 +1,6 @@
 ---
 date: 2015-10-29 20:00:00 -0400
-type: Article
+article_type: Article
 title: No one gives a shit about you
 permalink:
 tags: [emotional-mastery]
