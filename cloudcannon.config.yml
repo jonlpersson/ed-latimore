@@ -42,6 +42,12 @@ _inputs:
     comment: Configure your button
   url:
     comment: Choose where to link to
+  alignment:
+    type: select
+    options:
+      values:
+        - center
+        - left
   content:
     format: p h2 h3 h4
     removeformat: true
@@ -92,6 +98,7 @@ _structures:
         icon: article
         value:
           _id: block_rich_text
+          alignment:
           text_markdown:
       - label: "Block: Testimonial"
         icon: format_quote
