@@ -2,7 +2,7 @@
     {%- if page.title == nil or page.title == "" -%}
         {{ site.data.global_settings.site.title | smartify }}
     {%- else -%}
-        {%- if page.title.size <= 37 -%}
+        {%- if page.title.size <= 47 -%}
             {{page.title|smartify}} | {{ site.data.global_settings.site.title | smartify }}
         {% else %}
             {{page.title|smartify}}
@@ -55,8 +55,8 @@
         "image":"{{seoImage}}",
         "author":{
             "@type":"Person",
-            "name":"{{page.author|default:"Jon Persson"}}",
-            "url":"https://herbsathome.co/about"
+            "name":"{{site.data.global_settings.author_details.name|default:"Ed Latimore"}}",
+            "url":"https://edlatimore.com/about/"
         },
         "datePublished":"{{seoDatePublished}}",
         "dateCreated":"{{seoDatePublished}}",
