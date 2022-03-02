@@ -45,10 +45,9 @@ task('processStyles', () => {
 
 // Task to replace escaped square brackets to render footnotes
 task('renderFootnotes', () => {
-  return gulp
-    .src('./site/_posts/*.md')
-    .pipe(replace(/\\\[\^(\d*)\\]/g, '[^$1]'))
-    .pipe(gulp.dest('./site/_posts/'));
+  return src('./site/_posts/*.md')
+  .pipe(replace(/\\\[\^(\d*)\\]/g, '[^$1]'))
+  .pipe(dest('./site/_posts/'));
 });
 
 task('startServer', () => {
@@ -77,6 +76,7 @@ task('startServer', () => {
       '!_site/**/*',
       '!node_modules/**/*',
       '!site/.jekyll-cache/**/*',
+      '!.tweet-cache/**/*',
     ],
     { interval: 500 },
     buildSite
