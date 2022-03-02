@@ -1,23 +1,23 @@
-{% capture "data-sv-form" %}
-{% case page.name %}
-  {% when "index.md" %}
+{%- capture "data-sv-form" -%}
+{%- case page.name -%}
+  {%- when "index.md" -%}
   1383731
-  {% when "newsletter.md" %}
+  {%- when "newsletter.md" -%}
   1426441
-  {% else %}
+  {%- else -%}
   1044621
-{% endcase %}
-{% endcapture %}
-{% capture "data-uid" %}
-{% case page.name %}
-  {% when "index.md" %}
+{%- endcase -%}
+{%- endcapture -%}
+{%- capture "data-uid" -%}
+{%- case page.name -%}
+  {%- when "index.md" -%}
   da32dc22de
-  {% when "newsletter.md" %}
+  {%- when "newsletter.md" -%}
   1de35d4d5a
-  {% else %}
+  {%- else -%}
   a4b4329705
-{% endcase %}
-{% endcapture %}
+{%- endcase -%}
+{%- endcapture -%}
 
 <form
   action="https://app.convertkit.com/forms/{{ data-sv-form }}/subscriptions"
