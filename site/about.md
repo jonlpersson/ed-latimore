@@ -1,6 +1,4 @@
 ---
-_enabled_editors:
-  - data
 title: About me
 description: I’m a best-selling author and my writing focuses on self-improvement and a practical approach to stoic philosophy.
 hero:
@@ -12,7 +10,7 @@ hero:
   image: /assets/images/ed/ed-medium.jpg
 page_blocks:
   - _id: block_rich_text
-  - _id: logos_featured
+  - _id: block_logos
 ---
 
 I like to tell people that I’ve lived four different lives and from each of these lives, I’ve learned something that’s helped me become who I am today.

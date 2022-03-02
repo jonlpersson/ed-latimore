@@ -6,5 +6,5 @@ hero:
   heading: Discover my books and courses
 page_blocks:
     - _id: products_all
-    - _id: logos_featured
+    - _id: block_logos
 ---

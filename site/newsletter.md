@@ -22,5 +22,5 @@ page_blocks:
           text: ... With practical implications for how to carry yourself in the world...
         - heading: VIP access
           text: ... And exclusive, discounted access to new books and courses.
-    - _id: logos_featured
+    - _id: block_logos
 ---

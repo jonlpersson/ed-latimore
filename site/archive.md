@@ -1,6 +1,4 @@
 ---
-_enabled_editors:
-  - data
 title: Archives
 description: Blog archive of more than 100 articles about self-improvement, the psychology of addiction, and social relationships.
 hero:

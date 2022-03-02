@@ -1,6 +1,4 @@
 ---
-_enabled_editors:
-  - data
 title: Brand and site credits
 description:
 hero:

@@ -6,5 +6,5 @@ hero:
   heading: Useful worksheets, PDFs, and book samples (free)
 page_blocks:
     - _id: resources_all
-    - _id: logos_featured
+    - _id: block_logos
 ---

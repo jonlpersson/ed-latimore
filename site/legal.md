@@ -1,6 +1,4 @@
 ---
-_enabled_editors:
-  - data
 title: Legal disclaimers & site policies
 description:
 hero:

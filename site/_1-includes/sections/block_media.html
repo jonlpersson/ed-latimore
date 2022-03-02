@@ -4,7 +4,7 @@
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-8">
     {% for item in item.clippings %}
       {% assign mod = forloop.index|modulo:2 %}
-      <a class="{% if forloop.last and mod != 0 %}lg:col-span-8{% else %}lg:col-span-{% cycle '5','3','3','5','4','4' %}{% endif %} border border-gray micro-float h-96" href="{{ item.source.link }}" target="_blank" rel="nofollow">
+      <a class="{% if forloop.last and mod != 0 %}lg:col-span-8{% else %}lg:col-span-{% cycle '5','3','3','5','4','4' %}{% endif %} border border-gray micro-float h-96" href="{{ item.image_source.link | default:item.media_source.link }}" target="_blank" rel="nofollow">
       {% if item.image %}
       {% responsive_image_block %}
         path: {{ item.image | remove_first:"/" }}
@@ -16,15 +16,15 @@
       <figure class="testimonial h-full flex flex-col justify-between gap-6 cd-md">
         <blockquote class="space-y-6">{{ item.quote_markdown | markdownify }}</blockquote>
         <figcaption class="text-gray-dark text-opacity-50">
-          {% if item.source.small_image contains "/" %}
+          {% if item.media_source.small_image contains "/" %}
           {% responsive_image_block %}
-            path: {{ item.source.small_image | remove_first:"/" }}
-            alt: {{ item.source.name }}
+            path: {{ item.media_source.small_image | remove_first:"/" }}
+            alt: {{ item.media_source.name }}
             class: "w-24"
             sizes: "120px"
           {% endresponsive_image_block %}
           {% else %}
-          <div>{{ item.source.name | markdownify | remove:"<p>" | remove: "</p>" }}</div>
+          <div>{{ item.media_source.name | markdownify | remove:"<p>" | remove: "</p>" }}</div>
           {% endif %}
         </figcaption>
       </figure>

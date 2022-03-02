@@ -31,7 +31,7 @@ page_blocks:
       This habit caused my health to suffer as well as my self-respect. Not to mention I was struggling financially for years as well, which was undeniably a result of my bad habits.
 
       Vicebreakers—and Ed—have been a godsend.
-    source:
+    quote_source:
       small_image: /assets/images/testimonials/regan-jacklin.jpg
       name: Regan Jacklin
       context: "Twitter: @refinedmindset"
@@ -66,7 +66,7 @@ page_blocks:
       So when I saw Ed had created something to help break bad habits and get on a better track in life, I decided to swallow my pride and see if it would help me too.
 
       That was one of the best decisions I've ever made. I've now left every destructive vice of mine behind. I'm happier, healthier, and more fulfilled than ever. I wouldn't have been able to do it alone.
-    source:
+    quote_source:
       small_image: /assets/images/testimonials/devin-mcdermott.jpg
       name: Devin McDermott
       context: "Twitter: @devinmcdermot"
@@ -101,7 +101,7 @@ page_blocks:
       Vicebreakers was the program I needed to wrap my head around *why* I kept falling back into these old patterns and how I could safely substitute other habits in their place.
 
       It's all laid out clearly and I found myself continuously having 'a-ha!' moments as I read through it all. Ed Latimore helped me to see the big picture clearly and simply. Once you've broken everything down, it's easy to understand.
-    source:
+    quote_source:
       small_image: /assets/images/testimonials/parker-heuser.jpg
       name: Parker Heuser
       context: "IG: @highonlife"
@@ -167,7 +167,7 @@ page_blocks:
       I connected with Vicebreakers at the end of August. By following Ed's advice, I have successfully abstained from using porn and fapping.
 
       A couple months in I knew it was also time to kick my nicotine habit. By applying the same tools I have been able to stay nicotine-free. Vicebreakers changed my life. If you have habits that you are no longer benefiting from, give these guys a try. I'm glad I did.
-    source:
+    quote_source:
       small_image: /assets/images/testimonials/chris-k.jpg
       name: Chris K.
       context: "Twitter: @by30Ushouldknow"
@@ -188,7 +188,7 @@ page_blocks:
       #### If you know you have bad habits, I can think of no better support than what Ed Latimore has built.
 
       Ed's unique perspective on life is an impactful one for anyone looking to level up their personal and professional lives. I highly recommend spending your time and money with Ed and team.
-    source:
+    quote_source:
       small_image: /assets/images/testimonials/sean-raftery.jpg
       name: Sean Raftery
       context: "Twitter: @seanraf"

@@ -1,0 +1,210 @@
+# Global CloudCannon configuration
+_inputs:
+  layout:
+    hidden: true
+  sitemap:
+    hidden: true
+  image:
+    type: image
+    comment: Make sure the file name does not include any spaces
+  title:
+    comment: Enter a short title of this page
+  description:
+    type: textarea
+    comment: Enter a punchy description of this page
+  hero:
+    comment: Configure your page's hero section
+  type:
+    comment: Choose an appropriate layout for the hero section
+  heading:
+    comment: Enter a punchy heading of this section
+  text_markdown:
+    label: Rich Text Area
+    comment: Avoid adding things that shouldn't be here
+  button:
+    comment: Configure your button
+  url:
+    comment: Choose where to link to
+  content:
+    format: p h2 h3 h4
+    removeformat: true
+    bold: true
+    italic: true
+    strike: true
+    blockquote: true
+    horizontalrule: true
+    numberedlist: true
+    bulletedlist: true
+    table: true
+    embed: true
+    image: true
+    link: true
+
+_structures:
+  page_blocks:
+    values:
+      - label: "Block: Benefits"
+        icon: view_carousel
+        value:
+          _id: block_benefits
+          heading:
+          items: []
+      - label: "Block: Contact Form"
+        icon: contact_mail
+        value:
+          _id: block_contact
+          heading:
+      - label: "Block: Call to Action"
+        icon: ads_click
+        value:
+          _id: block_cta
+          image:
+          heading:
+          text:
+      - label: "Block: Media Clippings"
+        icon: collections_bookmark
+        value:
+          _id: block_media
+          clippings: []
+      - label: "Block: Photo Downloads"
+        icon: photo_library
+        value:
+          _id: block_photos
+          images: []
+      - label: "Block: Rich Text"
+        icon: article
+        value:
+          _id: block_rich_text
+          text_markdown:
+      - label: "Block: Testimonial"
+        icon: format_quote
+        value:
+          _id: block_testimonial
+          quote_markdown:
+          quote_source:
+      - label: "Block: Logos"
+        icon: try
+        value:
+          _id: block_logos
+      - label: "Categories: Featured"
+        icon: library_books
+        value:
+          _id: categories_featured
+      - label: "Posts: All"
+        icon: article
+        value:
+          _id: posts_all
+      - label: "Posts: Recent"
+        icon: article
+        value:
+          _id: posts_recent
+      - label: "Posts: Relevant"
+        icon: article
+        value:
+          _id: posts_relevant
+      - label: "Products: All"
+        icon: sell
+        value:
+          _id: products_all
+      - label: "Products: Featured"
+        icon: sell
+        value:
+          _id: products_featured
+      - label: "Resources: All"
+        icon: attach_email
+        value:
+          _id: resources_all
+      - label: "Reviews: All"
+        icon: reviews
+        value:
+          _id: reviews_all
+    items:
+      values:
+        - value:
+            heading:
+            text:
+    clippings:
+      values:
+        - label: Quote
+          icon: format_quote
+          value:
+            quote_markdown:
+            media_source:
+        - label: Image
+          icon: image
+          value:
+            image:
+            image_alt:
+            image_source:
+    images:
+      values:
+        - value:
+            image:
+    quote_source:
+      values:
+        - value:
+            small_image:
+            name:
+            context:
+    media_source:
+      values:
+        - value:
+            small_image:
+            name:
+            link:
+    image_source:
+      values:
+        - value:
+            link:
+
+# Populates collections for navigation and metadata in the editor
+collections_config:
+  products:
+    path: _products
+    output: true
+    name: Products
+    sort:
+      key: type
+    subtext_key: type
+    image_key: image
+    image_size: cover
+    icon: sell
+    _enabled_editors:
+      - data
+  resources:
+    path: _resources
+    output: true
+    name: Resources
+    sort:
+      key: type
+    subtext_key: type
+    image_key: image
+    image_size: cover
+    icon: attach_email
+    _enabled_editors:
+      - data
+  posts:
+    path: _posts
+    output: true
+    sort:
+      key: date
+      order: descending
+    subtext_key: tags
+    image_key: image
+    image_size: cover
+  category_pages:
+    path: _category_pages
+    output: true
+    subtext_key: tag
+    icon: category
+    _enabled_editors:
+      - data
+  pages:
+    name: Main pages
+    _enabled_editors:
+      - data
+
+paths:
+  uploads: assets/images/:collection
+
+timezone: America/New_York # List of time zones: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

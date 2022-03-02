@@ -6,8 +6,8 @@ layout: default
 {% include sections/hero.html %}
 {% for item in page_blocks %}
   {% case item._id %}
-    {% when "logos_featured" %}
-      {% include sections/logos_featured.html %}
+    {% when "block_logos" %}
+      {% include sections/block_logos.html %}
     {% when "posts_recent" %}
       {% include sections/posts_recent.html %}
     {% when "posts_relevant" %}
@@ -22,8 +22,8 @@ layout: default
       {% include sections/products_all.html %}
     {% when "resources_all" %}
       {% include sections/resources_all.html %}
-    {% when "reviews" %}
-      {% include sections/reviews.html %}
+    {% when "reviews_all" %}
+      {% include sections/reviews_all.html %}
     {% when "block_benefits" %}
       {% include sections/block_benefits.html %}
     {% when "block_testimonial" %}

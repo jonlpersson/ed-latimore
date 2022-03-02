@@ -1,6 +1,4 @@
 ---
-_enabled_editors:
-  - data
 title: Book a self-improvement speaker
 description: Ed Latimore is a best-selling author and keynote speaker. His work focuses on self-improvement, addiction, and what he learned during his time as a professional boxer.
 hero:
