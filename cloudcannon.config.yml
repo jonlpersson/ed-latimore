@@ -26,7 +26,7 @@ _inputs:
     type: text
     comment: Choose an appropriate label for the page
   article_type:
-    type: text
+    type: select
     comment: Choose an appropriate label for the page
     options:
       values:
@@ -224,7 +224,7 @@ collections_config:
     _enabled_editors:
       - data
   pages:
-    name: Main pages
+    name: Main Pages
     _enabled_editors:
       - data
 
