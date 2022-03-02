@@ -220,5 +220,5 @@ page_blocks:
     image: /assets/images/products/vicebreakers-2.png
     heading: Break free from your vices today
     text: Learn how to finally kick your bad habits and addictions.
-  - _id: featured_logos
+  - _id: block_logos
 ---
