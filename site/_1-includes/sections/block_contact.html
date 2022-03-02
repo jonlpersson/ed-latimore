@@ -18,7 +18,7 @@
         <label for="formMessage">Message (Please provide pertinent details)</label>
         <textarea class="px-4 py-6 w-full border border-gray-light text-lg" id="formMessage" rows="6" name="message" placeholder="Your message" required=""></textarea>
       </div>
-      <input type="hidden" name="_subject" value="{{ item.title | default:'Contact form submission' }}">
+      <input type="hidden" name="_subject" value="{{ item.heading | default:'Contact form submission' }}">
       <input type="hidden" name="_to" value="ed@edlatimore.com">
       <input type="text" name="_gotcha" style="display: none;">
       <div class="g-recaptcha" data-sitekey="6LcPy_0UAAAAAMrP77bLb3RkyhLTZWN7vt-ZJ36o"></div>
@@ -27,3 +27,56 @@
     </form>
   </div>
 </section>
+<script>
+function getFormDataString(formEl) {
+  var formData = new FormData(formEl),
+    data = [];
+
+  for (var keyValue of formData) {
+    data.push(
+      encodeURIComponent(keyValue[0]) +
+        "=" +
+        encodeURIComponent(keyValue[1])
+    );
+  }
+
+  return data.join("&");
+}
+
+// Fetch the form element
+var formEl = document.getElementById("contactForm");
+
+// Override the submit event
+formEl.addEventListener("submit", function (e) {
+  e.preventDefault();
+
+  if (grecaptcha) {
+    var recaptchaResponse = grecaptcha.getResponse();
+    if (!recaptchaResponse) {
+      // reCAPTCHA not clicked yet
+      console.log("Recaptcha not clicked yet!");
+      return false;
+    }
+  }
+
+  var request = new XMLHttpRequest();
+
+  request.addEventListener("load", function () {
+    if (request.status === 302) {
+      // CloudCannon redirects on success
+      // It worked
+    }
+  });
+
+  request.open(formEl.method, formEl.action);
+  request.setRequestHeader(
+    "Content-Type",
+    "application/x-www-form-urlencoded"
+  );
+  request.send(getFormDataString(formEl));
+  document.getElementById("success-message").classList.add("show-inline");
+  document.getElementById("contactForm").reset();
+  console.log("It worked!");
+});
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
