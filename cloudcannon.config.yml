@@ -168,7 +168,7 @@ collections_config:
     subtext_key: type
     image_key: image
     image_size: cover
-    icon: sell
+    icon: storefront
     _enabled_editors:
       - data
   resources:
