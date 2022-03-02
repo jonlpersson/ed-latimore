@@ -1,13 +1,15 @@
 ---
 date: 2022-02-27 16:09:24 -0500
 article_type: Article
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 title: 'How to cheer yourself up: 5 methods that work'
 permalink: /how-to-cheer-yourself-up/
-description: There are a few time-tested ways to cheer yourself up if you're feeling down. Here are the 5 most powerful.
-image:
+description: >-
+  There are a few time-tested ways to cheer yourself up if you're feeling down.
+  Here are the 5 most powerful.
+image: /assets/images/drafts/049.jpg
 ---
-
 All of us have gotten into a bad mood before.
 
 No one is always happy, and that's ok. You're not supposed to always be happy. It's natural to grieve, get down, and feel bad.
@@ -22,7 +24,7 @@ The worst-case scenario is that you end up making yourself and the world a littl
 
 ## Get physical
 
-When you get physically active, it's hard to stay in your head. One of the best ways to improve and maintain your mental health is to regularly engage in physical activity.&nbsp;
+When you're physically active, it's hard to stay in your head. One of the best ways to improve and maintain your mental health is to regularly engage in physical activity.&nbsp;
 
 There are numerous studies that show the negative relationship between physical activity and depression, but what do we know about the effect of any type of exercise has on boosting your mood? Well, it turns out that a group of researchers decided to aggregate and analyze multiple studies for—wait for it—[The Journal of Happiness Studies](https://link.springer.com/article/10.1007/s10902-018-9976-0){: target="_blank"}.
 
