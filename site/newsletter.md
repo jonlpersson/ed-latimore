@@ -1,5 +1,6 @@
 ---
 permalink: /newsletter/
+image: /assets/images/thumbnails/2-newsletter.png
 title: Newsletter
 hero:
   hero_type: email

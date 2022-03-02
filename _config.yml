@@ -27,7 +27,7 @@ defaults:
       path: ''
     values:
       layout: general
-      image: /assets/images/1-default.jpg
+      image: /assets/images/thumbnails/1-default.jpg
   - scope:
       path: '_posts'
       type: 'posts'
