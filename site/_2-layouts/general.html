@@ -40,3 +40,7 @@ layout: default
       {% include sections/block_media.html %}
   {% endcase %}
 {% endfor %}
+
+{% if page.product_info.button_url contains "gum" %}
+  <script defer async src="https://gumroad.com/js/gumroad.js"></script>
+{% endif %}

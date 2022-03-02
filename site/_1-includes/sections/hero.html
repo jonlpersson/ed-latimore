@@ -38,7 +38,7 @@
         <div class="space-y-8">
           <h1 class="h2 mt-8 md:mt-0">{{ page.hero.heading | smartify }}</h1>
           <p class="text-lg lg:text-xl font-sans">{{ page.hero.text | smartify }}</p>
-          <a class="btn btn-coral" href="{{ page.product_info.button_url }}">{{ page.product_info.button_text }}{{ page.product_info.price | prepend:" &#40;" | append:"&#41;" }}</a>
+          <a class="btn btn-coral" href="{{ page.product_info.button_url }}" wanted="true" data-gumroad-single-product="true">{{ page.product_info.button_text }}{{ page.product_info.price | prepend:" &#40;" | append:"&#41;" }}</a>
         </div>
       </div>
     </div>
