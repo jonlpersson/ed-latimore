@@ -1,6 +1,6 @@
 ---
 tag: emotional-mastery
-title: "Emotional mastery: How to control your emotional life"
+title: "Emotional mastery"
 description: ""
 hero:
   label: Achieve stoic street-smarts
