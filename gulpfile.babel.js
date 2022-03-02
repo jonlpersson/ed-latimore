@@ -6,6 +6,7 @@ import { dest, series, src, task, watch } from 'gulp';
 import postcss from 'gulp-postcss';
 import atimport from 'postcss-import';
 import tailwindcss from 'tailwindcss';
+import replace from 'gulp-replace';
 
 const SITE_ROOT = './_site';
 const POST_BUILD_STYLESHEET = `${SITE_ROOT}/assets/css/`;
