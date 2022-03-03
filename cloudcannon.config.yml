@@ -48,6 +48,7 @@ _inputs:
       values:
         - center
         - left
+_editables:
   content:
     format: p h2 h3 h4
     removeformat: true
