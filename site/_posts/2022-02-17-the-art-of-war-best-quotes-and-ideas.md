@@ -3,7 +3,8 @@ date: 2022-02-17 22:19:51 -0500
 article_type: Article
 title: 'The Art of War: 10 best quotes and ideas'
 permalink: /art-of-war-quotes-and-summary/
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.
