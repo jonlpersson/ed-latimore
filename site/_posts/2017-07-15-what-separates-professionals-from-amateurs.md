@@ -2,8 +2,9 @@
 date: 2017-07-15 16:33:00 -0400
 article_type: Article
 title: What separates professionals from amateurs
-permalink:
-tags: ["mental-mastery"]
+permalink: /professional-vs-amateur/
+tags:
+  - mental-mastery
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-
   Do you want to the best or just have a hobby? If you want to learn how to be a
@@ -67,7 +68,7 @@ This ties into my previous point. Because pros develop habits and systems to hel
 
 That is the source of their patience.
 
-![Entrepreneur and social media guru Gary Vaynerchuk](/assets/images/posts/gary-vaynerchuk.jpg "Gary Vaynerchuk ran Wine Library TV for 19 months with no viewers before it started taking off. Photo credit: <a href="https://www.flickr.com/photos/riseconf/35703399642/">RISEConf</a>.")
+![Entrepreneur and social media guru Gary Vaynerchuk](/assets/images/posts/gary-vaynerchuk.jpg "Gary Vaynerchuk ran Wine Library TV for 19 months with no viewers before it started taking off. Photo credit: &lt;a href=&quot;https://www.flickr.com/photos/riseconf/35703399642/&quot;&gt;RISEConf&lt;/a&gt;.")
 
 Amateurs, however, are extremely impatient. Because they're so dependent on motivation and because they seldom manage to do anything consistently over a long time period, they're way more concerned about short-term progress.
 
