@@ -3,7 +3,8 @@ date: 2017-07-15 16:33:00 -0400
 article_type: Article
 title: What separates professionals from amateurs
 permalink:
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-
   Do you want to the best or just have a hobby? If you want to learn how to be a
@@ -33,8 +34,6 @@ It's about the **mindset**.
 
 Now, no matter how much you practice, you will never be able to read someone's mind. But figuring out someone's mindset is totally possible. Just watch how they behave.
 
-![Ed Latimore after sparring](/assets/images/posts/2020/ed-after-sparring.jpg "As a boxer, you really learn how to size people up.")
-
 A person's approach to their craft says everything. You can fake a lot of things, but your habits and behavior are on display for the whole world to see. Anyone who's been through the grind can spot a faker from miles away.
 
 If you want to learn how to spot the fakes and separate the wheat from the chaff, this article is a must-read. It's a list of lessons I've had to learn through trial and error throughout my life:
@@ -43,9 +42,7 @@ From [growing up in the ghetto](https://edlatimore.com/the-projects/) to being a
 
 {% include widgets/cta-email.html %}
 
-## How To Be A Professional
-
-### Professionals rely on habits and systems, amateurs depend on motivation
+### Professionals rely on habits and systems; amateurs depend on motivation
 
 This is one of the most significant differences.
 
@@ -61,13 +58,11 @@ They keep training, practicing, and learning as much as they can. To the genuine
 
 Amateurs, on the other hand, rely on inspiration and motivation to get things done. But inspiration and motivation are fleeting emotions, which is why amateurs never come close to maxing out their potential.
 
-### Professionals possess patience, amateurs are always anxious
+### Professionals are patient; amateurs are always anxious
 
 This ties into my previous point. Because pros develop habits and systems to help them get to where they want to be in life, they're more focused on the process than the end goal.
 
 That is the source of their patience.
-
-![Entrepreneur and social media guru Gary Vaynerchuk](/assets/images/posts/gary-vaynerchuk.jpg "Gary Vaynerchuk ran Wine Library TV for 19 months with no viewers before it started taking off. Photo credit: <a href="https://www.flickr.com/photos/riseconf/35703399642/">RISEConf</a>.")
 
 Amateurs, however, are extremely impatient. Because they're so dependent on motivation and because they seldom manage to do anything consistently over a long time period, they're way more concerned about short-term progress.
 
@@ -93,7 +88,7 @@ They hope for the best, but prepare for the worst.
 
 Amateurs only care about feeling comfortable in the moment. That is why they always get taken by surprise when unexpected things happen to them.
 
-### Professionals are the most humble learners
+### Professionals are humble; amateurs are proud
 
 If you want to get better at something, you better be prepared to swallow your ego.
 
@@ -107,7 +102,7 @@ Because he is humble, [the professional loves constructive criticism](https://li
 
 The amateur, meanwhile, hates criticism. Because of his ego, he takes everything personally. Because he lets emotion control his life, he cares less about being great and more about feeling good.
 
-### Amateurs are "well-rounded", professionals prefer mastery
+### Professionals master one thing; amateurs are well-rounded
 
 Amateurs like to be "well-rounded" because being a jack of all trades is a convenient excuse not to put in the hard work required to achieve mastery. It doesn't take much to reach an intermediate or above-average level in something — be it a career or a sport. But to win, you have to be willing to make the sacrifice. Blood, sweat, and tears.
 
@@ -115,9 +110,7 @@ Of course, amateurs don't *really* want to win. Hell, they don't even want to co
 
 Professionals, on the other hand, [love to compete](/how-to-be-competitive/). They enjoy the thrill and agony of battle. They know that the process is more important than the thrill of victory.
 
-![Scottish sculptor Alexander Stoddart in his studio](/assets/images/posts/alexander-stoddart.jpg "The Scottish sculptor Alexander Stoddart dedicated his life to mastering the art of classical sculpture.")
-
-### Professionals focus on what they can control
+### Professionals focus on what they can control; amateurs try to control everything
 
 In books about [psychology, leadership, and management](/leadership-philosophy/), one concept that keeps reoccurring is "locus of control".
 
@@ -137,7 +130,7 @@ This is something pros tend to be really good at. They identify what is within t
 
 The amateurs of the world love to talk and worry about things they have no stake or influence in.
 
-### Amateurs believe in talent and dumb luck
+### Professionals respect luck; Amateurs rely on it
 
 If you can't identify what is within and outside of your control, you probably have a poor grasp of causation in general.
 
@@ -153,7 +146,7 @@ If you think your talents on their own will get you far, [you're in for a rude a
 
 Sure, luck and timing are helpful. But if you don't put in the work, no amount of luck in the world is going to save you.
 
-### Professionals have an abundance mindset
+### Professionals have an abundance mindset; amateurs have a scarcity limitation
 
 This is the final point I'm going to make in this post.
 

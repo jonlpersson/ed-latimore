@@ -3,7 +3,8 @@ date: 2021-11-01 18:38:55 -0400
 article_type: Article
 title: How to avoid a street fight, and what to do if you can't
 permalink: /how-to-win-a-street-fight/
-tags: [physical-mastery]
+tags:
+    - physical-mastery
 description: >-
     The following article may one day save your life. Learn how to avoid a
     street fight and how to win one if you can't get away.
@@ -16,6 +17,8 @@ In boxing, there’s respect between opponents. Generally speaking, the two guys
 In street fighting, there is no respect. There is no thinking. Streets fights are no joke. Because there are no rules, it’s easy to lose your life or be permanently incapacitated. On the flip side, if you’re the “winner” of a street fight, then it’s easy to find yourself facing serious jail time or retaliation.
 
 That’s enough reason to never street fight, but sometimes you’ve got no choice. In those instances, the following items on this list will give you a much better chance of winning the fight and living on to see another day.
+
+{% include widgets/youtube.html id="2curdyXqq9g" class="Don't like to read? Watch the video version of this article instead" %}
 
 {% include widgets/toc.html heading="How to win a street fight" list-items="Self-defense is pointless, Avoid places where assholes hang out, Don't be an asshole, Deep your ego in check and be practica, Be and look strong, Run if you can, If you have to street fight swing first and neutralize" list-ids="self-defense-is-pointless, avoid-places-where-assholes-hang-out, dont-be-an-asshole, keep-you-ego-in-check-and-be-practical, be-and-look-strong, run-if-you-can, if-you-have-to-street-fight-swing-first-and-neutralize" %}
 
