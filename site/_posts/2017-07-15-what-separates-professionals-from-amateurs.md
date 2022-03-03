@@ -88,7 +88,7 @@ They hope for the best, but prepare for the worst.
 
 Amateurs only care about feeling comfortable in the moment. That is why they always get taken by surprise when unexpected things happen to them.
 
-### Professionals are the most humble learners
+### Professionals are humble; amateurs are proud
 
 If you want to get better at something, you better be prepared to swallow your ego.
 
@@ -102,7 +102,7 @@ Because he is humble, [the professional loves constructive criticism](https://li
 
 The amateur, meanwhile, hates criticism. Because of his ego, he takes everything personally. Because he lets emotion control his life, he cares less about being great and more about feeling good.
 
-### Amateurs are "well-rounded", professionals prefer mastery
+### Professionals master one thing; amateurs are well-rounded
 
 Amateurs like to be "well-rounded" because being a jack of all trades is a convenient excuse not to put in the hard work required to achieve mastery. It doesn't take much to reach an intermediate or above-average level in something — be it a career or a sport. But to win, you have to be willing to make the sacrifice. Blood, sweat, and tears.
 
@@ -110,9 +110,7 @@ Of course, amateurs don't *really* want to win. Hell, they don't even want to co
 
 Professionals, on the other hand, [love to compete](/how-to-be-competitive/). They enjoy the thrill and agony of battle. They know that the process is more important than the thrill of victory.
 
-![Scottish sculptor Alexander Stoddart in his studio](/assets/images/posts/alexander-stoddart.jpg "The Scottish sculptor Alexander Stoddart dedicated his life to mastering the art of classical sculpture.")
-
-### Professionals focus on what they can control
+### Professionals focus on what they can control; amateurs try to control everything
 
 In books about [psychology, leadership, and management](/leadership-philosophy/), one concept that keeps reoccurring is "locus of control".
 
@@ -132,7 +130,7 @@ This is something pros tend to be really good at. They identify what is within t
 
 The amateurs of the world love to talk and worry about things they have no stake or influence in.
 
-### Amateurs believe in talent and dumb luck
+### Professionals respect luck; Amateurs on it
 
 If you can't identify what is within and outside of your control, you probably have a poor grasp of causation in general.
 
