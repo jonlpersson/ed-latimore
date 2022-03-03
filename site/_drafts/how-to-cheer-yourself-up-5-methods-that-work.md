@@ -3,7 +3,7 @@ date: 2022-02-27 16:09:24 -0500
 article_type: Article
 tags:
   - emotional-mastery
-title: 'How to cheer yourself up: 5 methods that work'
+title: 'How to cheer yourself up: 6 methods that work'
 permalink: /how-to-cheer-yourself-up/
 description: >-
   There are a few time-tested ways to cheer yourself up if you're feeling down.
@@ -32,11 +32,11 @@ There are numerous studies that show the negative relationship between physical 
 
 “Every one of the observational studies showed a beneficial relationship between being physically active and being happy,” said Weiyun Chen, an associate professor of kinesiology at the University of Michigan who wrote the review.
 
-While type and duration of exercises didn't matter, there was a positive relationship between frequency and happiness. The more you exercised, the better you felt. Also, the more intense this activity, the better it was at eliminating negative thoughts and changing your bad mood into a good one.
+While the type and duration of exercises didn't matter, there was a positive relationship between frequency and happiness. The more you exercised, the better you felt. Also, the more intense this activity, the better it was at eliminating negative thoughts and changing your bad mood into a good one.
 
 Part of this is likely due to the release of endorphins, the body's natural painkillers that are released in response to physical stress. As endorphins also provide&nbsp;[a natural mood boost](https://www.healthline.com/health/endorphins#:~:text=Endorphins%20are%20the%20body's%20natural,such%20as%20twisting%20your%20ankle.){: target="_blank"}&nbsp;as well, this is no surprise. However, intense physical activity makes it difficult to think about whatever is causing your negative emotions.
 
-I don't like activities like jogging or swimming. While you can obviously make them intense, there is a lot of time to think about whatever has you down. Instead, activities that demand your concentration and attention are best. Things like:
+I don't like activities like jogging or swimming. While you can obviously make them intense, there is a lot of time to think about whatever has you down. Instead, activities that demand your total concentration and attention are best. Things like:
 
 * Sprinting
 * Weight lifting (Heavy lifting)
@@ -57,28 +57,34 @@ Because of the way people use social media, you'll either see things that remind
 
 While some people doubt this,&nbsp;[there is growing evidence](https://childmind.org/article/is-social-media-use-causing-depression/)&nbsp;to support the idea that social media use is strongly related to low self-esteem, poor mental health, depression, and anxiety. It's a combination of many things:
 
-* Despite how easy social media makes it to make new friends and connect with old ones, those relationships tend to exclusively be online. Bonding on social media isn't the same as bonding in person, and this leads to negative feelings.
+* Despite how easy social media makes it to [make new friends and connect with old ones](/how-to-make-friends-as-an-adult/), those relationships tend to exclusively be online. Bonding on social media isn't the same as bonding in person, and this leads to negative feelings.
 * People tend to only post the best things in their life, from the best angles, and often with artificial filters or enhancement. If you get caught up in the comparison game, which will happen without you even trying, then you'll be comparing your normal life to a fabrication no most people's lives can't normally match up to.&nbsp;
 * Social media also makes it easy for you to find people who are also having a bad day. Rather than provide you with constructive, uplifting advice, they will simply pile on and make it easier to indulge in your negative thoughts.
 * The time spent on social media is time not spent working out, being physical, and doing things that are proven to put you in a better mood but are also good for your health. At this point, it's a double loss: you're not only getting all the negative effects from spending time on social media, but you get none of the positive effects of working out.
 
 If you're having a hard time getting out of a bad mood, the last thing that you need is to waste your brain away on social media. You'll find out just how accurate the saying "Misery loves company" is.
 
-Show concern for others
+## Show concern for others
 
 It's difficult to stay focused on what's wrong in your life when your focus is on other people's well-being and general welfare.
 
 It doesn't have to be a grand gesture. Sometimes a little thing like sincerely asking a friend how their life is going can go a long way. When they give details, follow up in a natural conversation-like manner to discover more about what's happening in their lives, thoughts, and feelings.
 
-The most important part of this is to not mention anything going on in your life unless you are specifically pressed. When the person inquires about your life, a generally vague response is appropriate. For example, when someone asks "how are things going for you?" just a follow-up with "Things are alright. Just busy and making move" or something generic to that effect.
+The most important part of this is to not mention anything going on in your life unless you are specifically pressed. When the person inquires about your life, a generally vague response is appropriate.
 
-If they press, it's your responsibility to find at least one positive thing in your life. This will force you to dig deep and find something to be happy about, regardless of how mundane you might think it is. This exercise is powerful because it gets the attention off of yourself and if you're forced to come up with a response about how things are going in your life you'll be required to see something positive.
+For example, when someone asks "how are things going for you?" just a follow-up with "Things are alright. Just busy and making move" or something generic to that effect.
+
+If they press, it's your responsibility to find at least one positive thing in your life. This will force you to dig deep and find something to be happy about, regardless of how mundane you might think it is.
+
+This exercise is powerful because it gets the attention off of yourself and if you're forced to come up with a response about how things are going in your life you'll be required to see something positive.
 
 Remember: you don't want to spread your negative feelings. You want to stop them from spreading, and the best way to do that is to focus on their opposite, whenever you may find it.
 
 ## Volunteer, donate or give
 
-There is nothing that boosts your mood like helping people who can do nothing for you. Even when it appears to be a costly personal sacrifice, numerous research shows that humans derive tremendous emotional benefits from giving. We'd rather go broke giving a gift than to make extra money receiving one.
+There is nothing that boosts your mood like helping people who can do nothing for you. Even when it appears to be a costly personal sacrifice, numerous research shows that humans derive tremendous emotional benefits from giving.
+
+We'd rather go broke giving a gift than to make extra money receiving one.
 
 You can read some of the proposed theories on why scientists think this feature may have evolved. Regardless of why giving puts us in a better mood, it's something that you can immediately do to shake yourself out of a funk.
 
