@@ -130,7 +130,7 @@ This is something pros tend to be really good at. They identify what is within t
 
 The amateurs of the world love to talk and worry about things they have no stake or influence in.
 
-### Professionals respect luck; Amateurs on it
+### Professionals respect luck; Amateurs rely on it
 
 If you can't identify what is within and outside of your control, you probably have a poor grasp of causation in general.
 
@@ -146,7 +146,7 @@ If you think your talents on their own will get you far, [you're in for a rude a
 
 Sure, luck and timing are helpful. But if you don't put in the work, no amount of luck in the world is going to save you.
 
-### Professionals have an abundance mindset
+### Professionals have an abundance mindset; amateurs have a scarcity limitation
 
 This is the final point I'm going to make in this post.
 
