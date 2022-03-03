@@ -20,7 +20,7 @@ Before you rush off to see if you need drugs for depression, I recommend you try
 
 The worst-case scenario is that you end up making yourself and the world a little better place in the process of attempting to get yourself right and cheer yourself up.&nbsp;
 
-{% include widgets/toc.html &nbsp; &nbsp;heading="5 ways to cheer yourself up" &nbsp; &nbsp;list-items="Get physical, Take a break from social media, Volunteer donate or give, Watch a funny movie, Practice gratitude" &nbsp; &nbsp;list-ids="get-physical, take-a-break-from-social-media, volunteer-donate-or-give, watch-a-funny-movie, practice-gratitude" %}
+{% include widgets/toc.html &nbsp; &nbsp;heading="6 ways to cheer yourself up" &nbsp; &nbsp;list-items="Get physical, Take a break from social media, Show concern for others, Volunteer donate or give, Watch a funny movie, Practice gratitude" &nbsp; &nbsp;list-ids="get-physical, take-a-break-from-social-media, show-concern-for-others, volunteer-donate-or-give, watch-a-funny-movie, practice-gratitude" %}
 
 ## Get physical
 
