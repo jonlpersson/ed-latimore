@@ -8,7 +8,7 @@ permalink: /how-to-cheer-yourself-up/
 description: >-
   There are a few time-tested ways to cheer yourself up if you're feeling down.
   Here are the 5 most powerful.
-image: /assets/images/posts/how-to-cheer-yourself-up.jpg
+image: /assets/images/posts/howtocheeryourselfup.jpg
 ---
 All of us have gotten into a bad mood before.
 
