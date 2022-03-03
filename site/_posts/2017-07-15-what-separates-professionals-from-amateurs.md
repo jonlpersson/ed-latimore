@@ -34,8 +34,6 @@ It's about the **mindset**.
 
 Now, no matter how much you practice, you will never be able to read someone's mind. But figuring out someone's mindset is totally possible. Just watch how they behave.
 
-![Ed Latimore after sparring](/assets/images/posts/2020/ed-after-sparring.jpg "As a boxer, you really learn how to size people up.")
-
 A person's approach to their craft says everything. You can fake a lot of things, but your habits and behavior are on display for the whole world to see. Anyone who's been through the grind can spot a faker from miles away.
 
 If you want to learn how to spot the fakes and separate the wheat from the chaff, this article is a must-read. It's a list of lessons I've had to learn through trial and error throughout my life:
@@ -44,9 +42,7 @@ From [growing up in the ghetto](https://edlatimore.com/the-projects/) to being a
 
 {% include widgets/cta-email.html %}
 
-## How To Be A Professional
-
-### Professionals rely on habits and systems, amateurs depend on motivation
+### Professionals rely on habits and systems; amateurs depend on motivation
 
 This is one of the most significant differences.
 
@@ -62,13 +58,11 @@ They keep training, practicing, and learning as much as they can. To the genuine
 
 Amateurs, on the other hand, rely on inspiration and motivation to get things done. But inspiration and motivation are fleeting emotions, which is why amateurs never come close to maxing out their potential.
 
-### Professionals possess patience, amateurs are always anxious
+### Professionals are patient; amateurs are always anxious
 
 This ties into my previous point. Because pros develop habits and systems to help them get to where they want to be in life, they're more focused on the process than the end goal.
 
 That is the source of their patience.
-
-![Entrepreneur and social media guru Gary Vaynerchuk](/assets/images/posts/gary-vaynerchuk.jpg "Gary Vaynerchuk ran Wine Library TV for 19 months with no viewers before it started taking off. Photo credit: &lt;a href=&quot;https://www.flickr.com/photos/riseconf/35703399642/&quot;&gt;RISEConf&lt;/a&gt;.")
 
 Amateurs, however, are extremely impatient. Because they're so dependent on motivation and because they seldom manage to do anything consistently over a long time period, they're way more concerned about short-term progress.
 
