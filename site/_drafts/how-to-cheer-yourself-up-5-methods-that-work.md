@@ -72,25 +72,23 @@ It doesn't have to be a grand gesture. Sometimes a little thing like sincerely a
 
 The most important part of this is to not mention anything going on in your life unless you're specifically pressed. When the person inquires about your life, a generally vague response is appropriate.
 
-For example, when someone asks "how are things going for you?" just a follow-up with "Things are alright. Just busy and making move" or something generic to that effect.
+For example, when someone asks "How are things going for you?" just a follow-up with "Things are alright. Just busy and making move" or something generic to that effect.
 
 If they press, it's your responsibility to find at least one positive thing in your life. This will force you to dig deep and find something to be happy about, regardless of how mundane you might think it is.
 
-This exercise is powerful because it gets the attention off of yourself and if you're forced to come up with a response about how things are going in your life you'll be required to see something positive.
+This exercise is powerful because it gets the attention off of yourself. It also forces you to come up with a positive response about how things are going in your life.
 
-Remember: you don't want to spread your negative feelings. You want to stop them from spreading, and the best way to do that is to focus on their opposite, whenever you may find it.
+Remember: you don't want to spread your negative feelings. The best way to do that is to focus on other people and focus on the positive.
 
 ## Volunteer, donate or give
 
-There is nothing that boosts your mood like helping people who can do nothing for you. Even when it appears to be a costly personal sacrifice, numerous research shows that humans derive tremendous emotional benefits from giving.
+There is nothing that boosts your mood like helping people who can do nothing for you. Even when it appears to be a costly personal sacrifice,&nbsp;[research shows that humans derive tremendous emotional benefits from giving.](https://www.conehealth.com/services/behavioral-health/4-health-benefits-of-giving-to-others-/){: target="_blank" rel="noopener noreferrer"}
 
 We'd rather go broke giving a gift than to make extra money receiving one.
 
-You can read some of the proposed theories on why scientists think this feature may have evolved. Regardless of why giving puts us in a better mood, it's something that you can immediately do to shake yourself out of a funk.
+I find that people hesitate to donate because they don't think they're in a financial position to donate, but there are more ways to give than just money.
 
-It takes the attention off your problems and takes advantage of a powerful feature of the human brain. I find that people hesitate to donate because they don't think they're in a financial position to donate, but there are more ways to give than just money.
-
-You can donate your time and efforts to a variety of projects and people. They don't have to be in any official capacity. You can give someone a ride, volunteer at a homeless shelter, bring a homeless person a cup of coffee, help someone struggling carry their bags at the grocery store (with their permission, of course).
+You can donate your time and efforts to a variety of projects and people. They don't have to be in any official capacity. You can give someone a ride, volunteer at a homeless shelter ([Read about my experiences working at the homeless shelter](/working-at-a-homeless-shelter/)), bring a homeless person a cup of coffee, help someone struggling carry their bags at the grocery store (with their permission, of course).
 
 There are numerous ways to give of yourself and all of those ways are tremendously beneficial to your mood.&nbsp;
 
@@ -98,9 +96,9 @@ There are numerous ways to give of yourself and all of those ways are tremendous
 
 When you smile or laugh, your brain releases neurotransmitters like serotonin, dopamine, and oxytocin. These neurotransmitters make you feel happy and put you in a better mood.
 
-The kicker is that it doesn't matter what your initial state is. You could be sad, angry, or frustrated. The mere act of laughing and smiling triggers neurochemical changes in your brain that will put you in a better mood.
+The kicker is that it doesn't matter what your initial state is. You could be sad, angry, or frustrated. The mere act of laughing and smiling triggers neurochemical changes in your brain that will put you in a better mood. ([Learn more about that here](https://www.webmd.com/mental-health/news/20190411/science-says-smiling-helps-you-get-happy){: target="_blank" rel="noopener noreferrer"})
 
-Any comedy Tv shows or Netflix series that you find amusing will do great. It's amazing what a 30-minute episode of "It's Always Sunny In Philadelphia" does for my mood. I'm not recommending that show to everyone. I'm just using it as an example of a show with an obvious comedy lean that I watch to inspire you to find yours.
+Any comedy, Tv show, or Netflix series that you find amusing will do great. It's amazing what a 30-minute episode of "It's Always Sunny In Philadelphia" does for my mood. I'm not recommending that show to everyone. I'm just using it as an example of a show with an obvious comedy lean that I watch to inspire you to find yours.
 
 Also, I suppose it doesn't have to technically be a funny movie or show. Anything that gets you laughing and having a good time will work. Going to a comedy show or reading something funny works just as well.&nbsp;
 
@@ -114,18 +112,19 @@ Also, remember that all things pass, for better or worse. No bad time has ever p
 
 And even if the circumstances don't outright change, then you will either get used to them or adapt to them. Otherwise, they would completely ruin you and take you out. Since that hasn't happened yet and is unlikely to happen with anything getting you down in the future, this is simply another way that the tides and perspectives have changed.&nbsp;
 
-The hot bathtub hasn't gotten color. You've just gotten used to it so it feels cooler.&nbsp;
+The hot bathtub hasn't gotten cooer. You've just gotten used to it so it feels cooler.&nbsp;
 
 The wave of life may not have directly changed, but your relationship to it has.
 
-To read more about my method for developing gratitude, check out this article here—&gt;6 ways to be grateful.
+To read more about my method for developing gratitude, check out this article here—&gt;[6 ways to be grateful](/6-reasons-to-be-grateful/).
 
 ## A summary of how to cheer yourself up
 
 1. Get physical
 2. Take a break from social media
-3. Volunteer, donate or give
-4. Watch a funny movie
-5. Practice gratitude
+3. Show concern for others
+4. Volunteer, donate or give
+5. Watch a funny movie
+6. Practice gratitude
 
 If you do these things when you're feeling down, it's going to be very difficult to keep you there.
