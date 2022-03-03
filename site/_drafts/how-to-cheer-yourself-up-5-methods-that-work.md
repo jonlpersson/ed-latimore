@@ -68,9 +68,9 @@ If you're having a hard time getting out of a bad mood, the last thing that you 
 
 It's difficult to stay focused on what's wrong in your life when your focus is on other people's well-being and general welfare.
 
-It doesn't have to be a grand gesture. Sometimes a little thing like sincerely asking a friend how their life is going can go a long way. When they give details, follow up in a natural conversation-like manner to discover more about what's happening in their lives, thoughts, and feelings.
+It doesn't have to be a grand gesture. Sometimes a little thing like sincerely asking a friend how their life is going can go a long way. When they give details, follow up in a natural conversation-like manner to discover more about what's happening in their lives and how they think and feel about it.
 
-The most important part of this is to not mention anything going on in your life unless you are specifically pressed. When the person inquires about your life, a generally vague response is appropriate.
+The most important part of this is to not mention anything going on in your life unless you're specifically pressed. When the person inquires about your life, a generally vague response is appropriate.
 
 For example, when someone asks "how are things going for you?" just a follow-up with "Things are alright. Just busy and making move" or something generic to that effect.
 
