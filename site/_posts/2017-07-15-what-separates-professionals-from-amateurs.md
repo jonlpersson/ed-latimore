@@ -2,7 +2,7 @@
 date: 2017-07-15 16:33:00 -0400
 article_type: Article
 title: What separates professionals from amateurs
-permalink: /professional-vs-amateur/
+permalink:
 tags:
   - mental-mastery
 image: /assets/images/posts/chase-jarvis.jpg
