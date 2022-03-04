@@ -8,7 +8,7 @@ tags:
 description: >-
   Learn how to increase willpower so you can break bad habits, build new habits,
   and achieve your goals faster.
-image: /assets/images/posts/howtoincreasewillpower-1.jpg
+image: /assets/images/posts/howtoincreasewillpower-2.jpg
 ---
 > Willpower is the key to success. Successful people strive no matter what they feel by applying their will to overcome apathy, doubt or fear. — *Dan Millman*
 
