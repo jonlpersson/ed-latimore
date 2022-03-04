@@ -3,11 +3,13 @@ date: 2022-01-04 09:00:00 -0500
 article_type: Article
 title: This is why you don’t have friends (and how to make some)
 permalink: /why-you-cant-make-friends/
-tags: [emotional-mastery]
-description: "Despite more connectivity, everyone is lonely. Here are some practical reasons why you don’t have friends and how to change that."
+tags:
+  - emotional-mastery
+description: >-
+  Despite more connectivity, everyone is lonely. Here are some practical reasons
+  why you don’t have friends and how to change that.
 image: /assets/images/thumbnails/ed-speaking-to-other-men.jpg
 ---
-
 Why is it that in a society where we’re the most connected we’ve ever been, people are lonelier than ever?[^1]
 
 Now, most people have a hard time making friends, let alone close friends because they don’t know how to get past an initial interaction. So people are reaching out to social media to fill the comfort gaps. Unfortunately, those bonds rarely build beyond digital connections.
