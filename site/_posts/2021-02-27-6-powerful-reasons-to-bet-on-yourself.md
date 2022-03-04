@@ -3,9 +3,10 @@ date: 2021-02-27 13:32:00 -0500
 article_type: Article
 title: 6 powerful reasons to bet on yourself
 permalink: /bet-on-yourself/
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."
-image: /assets/images/thumbnails/russian-roulette.png
+image: /assets/images/posts/russian-roulette.jpg
 ---
 You deserve to bet on yourself, but no one can make you do it. Either you’re interested in being the master of your own fate or you’re content with living life on the side lines, waiting for someone to decide when you get to play and when you have to ride the bench.
 
@@ -73,8 +74,7 @@ You don’t get to come up with excuses and reasons why your life is the way it 
 
 This level of control scares most people because this level of control comes with personal responsibility. This is ultimately what betting on yourself comes down to—absolute control over your destiny. I’m convinced that you can’t discover your purpose until you take the responsibility necessary to bet on yourself. Until then, you’ll just be adrift.
 
-People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world.
-Find out 6 more harsh truths your parents never told you [here](https://edlatimore.com/harsh-truths/).
+People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world. Find out 6 more harsh truths your parents never told you [here](https://edlatimore.com/harsh-truths/).
 
 ## 6) It's the only way to get information from your intuition
 
