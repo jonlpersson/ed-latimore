@@ -3,13 +3,13 @@ date: 2020-10-06 02:00:00 -0400
 article_type: Review
 title: Review of the Wim Hof Breathing Method
 permalink: /wim-hof-method-review/
-tags: [physical-mastery]
+tags:
+  - physical-mastery
 image: /assets/images/thumbnails/ed-latimore-ice-bath-submerged.jpg
 description: >-
   After purchasing the Wim Hof video course, I have no regrets. Here is my
   comprehensive review of the Wim Hof breathing method and technique.
 ---
-
 Breathing. We all do it.
 
 Yet we never talk about *how* to breathe. Wim Hof—The Iceman—is changing that.
@@ -127,7 +127,7 @@ Now, inhale to full capacity. You’ll feel your chest expanding. Once you are a
 
 You’re done. Take some time to recover. Personally, I do 5-10 minutes of recovery. Don’t over-exert yourself, especially in the beginning.
 
-***
+---
 
 Do this exercise daily. After a while, you can add another “round” or two to the exercise. So, repeating once more:
 
@@ -192,7 +192,7 @@ In fighting, we call this “turning down the noise”. It takes a little practi
 
 And when you master the breathwork that is taught in the Wim Hof’s course, you realize that the cold can do amazing things for your body’s ability to heal itself. You will no longer feel apprehensive toward it because you’re in control of your body’s shivering response.
 
-Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure. This also helps with concetration, and if you're struggling with that grab more concentration quick tips [here](https://edlatimore.com/quick-tips-on-concentration/).
+Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure. This also helps with concetration, and if you're struggling with that grab more concentration quick tips [here](/how-to-focus-better/).
 
 ## Conclusion
 
