@@ -24,7 +24,7 @@ When you do that, you realize the thing you were afraid of was bigger in your mi
 
 Imagine the following tips as building blocks to help you be less shy around girls.
 
-{% include widgets/toc.html heading="How to not be shy around girls" list-items="Don't make up stories, Tell your body (and mind) who's boss, Stand with some confidence, Knock your comfort zone's teeth out, Know who you want to show up as, Be someone girls (and people) want to talk to, Drop your expectations"</p><p>list-ids="1-dont-make-up-stories, 2-tell-your-body-and-mind-whos-boss, 3-stand-with-some-confidence, 4-knock-your-comfort-zones-teeth-out, 5-know-who-you-want-to-show-up-as, 6-be-someone-girls-and-people-want-to-talk-to, 7-drop-your-expectations" %}
+{% include widgets/toc.html heading="How to not be shy around girls" list-items="Don't make up stories, Tell your body (and mind) who's boss, Stand with some confidence, Knock your comfort zone's teeth out, Know who you want to show up as, Be someone girls (and people) want to talk to, Drop your expectations" list-ids="1-dont-make-up-stories, 2-tell-your-body-and-mind-whos-boss, 3-stand-with-some-confidence, 4-knock-your-comfort-zones-teeth-out, 5-know-who-you-want-to-show-up-as, 6-be-someone-girls-and-people-want-to-talk-to, 7-drop-your-expectations" %}
 
 ## 1\. Don't make up stories
 
