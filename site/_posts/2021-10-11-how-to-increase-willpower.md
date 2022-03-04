@@ -24,7 +24,7 @@ But you’ve already been down that road, and you know it leads to a dead end. T
 
 {% twitter https://twitter.com/EdLatimore/status/1438885723814387715 %}
 
-{% include widgets/toc.html</p><p>heading="How to increase willpower"</p><p>list-items="Know your goals, Avoid overwhelm and start small, Reduce stress, Leverage accountability"</p><p>list-ids="know-your-goals, avoid-overwhelm-and-start-small, build-willpower-by-reducing-stress-levels, increase-willpower-with-accountability" %}
+{% include widgets/toc.html heading="How to increase willpower" list-items="Know your goals, Avoid overwhelm and start small, Reduce stress, Leverage accountability" list-ids="know-your-goals, avoid-overwhelm-and-start-small, build-willpower-by-reducing-stress-levels, increase-willpower-with-accountability" %}
 
 ## Know your goals
 
