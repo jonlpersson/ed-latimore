@@ -3,7 +3,8 @@ date: 2021-01-10 14:30:00 -0500
 article_type: Article
 title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: Learn how to take the unfair lemons in life and make lemonade.
 image: /assets/images/thumbnails/life's-not-fair-bad-beat-ed-latimore.jpg
 ---
@@ -84,7 +85,7 @@ Even though we shared many opening cards, I took a different path from many othe
 3. My father kept in contact with me and showed me a better way to live.
 4. My ghetto wasn’t that large or that rough ([compared to the worst ghettos,](https://listverse.com/2016/02/27/10-infamous-us-housing-projects/){: target="_blank"}&nbsp;not regular neighborhoods—it was still a war zone).
 
-![life's not fair housing project ed latimore](/assets/images/posts/2021/lifes-not-fair-housing-projects-ed-latimore.jpg "Overview of the Northview Heights project where I grew up. My little housing projects were bad, but it could have been a <em>lot</em> worse.")
+![life's not fair housing project ed latimore](/assets/images/posts/2021/lifes-not-fair-housing-projects-ed-latimore.jpg "Overview of the Northview Heights project where I grew up. My little housing projects were bad, but it could have been a &lt;em&gt;lot&lt;/em&gt; worse.")
 
 Any of these could have gone differently, through no choice of my own.
 
@@ -95,7 +96,7 @@ Any of these could have gone differently, through no choice of my own.
 
 Life's challenges happen to us all. In the end, our fate is still up to each of us.
 
-No number of "good cards" will make up for stupidity and a weak mindset. No number of "bad cards" will stifle determination and grit. Catastrophe and fortune strike everyone with impartial certainty. Bad things happen to good people, and good things happen to bad people.&nbsp;[Life is fair because it's unfair to everyone](https://www.clearscope.io/no-one-gives-a-shit-about-you/).
+No number of "good cards" will make up for stupidity and a weak mindset. No number of "bad cards" will stifle determination and grit. Catastrophe and fortune strike everyone with impartial certainty. Bad things happen to good people, and good things happen to bad people.&nbsp;[Life is fair because it's unfair to everyone.](/no-one-gives-a-shit-about-you/)
 
 But not everyone responds to these events the same way or with the same skill.
 
