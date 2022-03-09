@@ -14,6 +14,10 @@ image: /assets/images/drafts/why-i-fight.jpeg
 
 This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing Olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.&nbsp;
 
+{% figure caption:"Me in the center, Dominic Breazeale on the far left, Charles Martin to my right. 2012 at Ft. Carson, Co for US Men's National Tournament" %}
+
+![](/assets/images/posts/ftcarsonboxing.png){: width="450" height="317"}{% endfigure %}
+
 Maybe this is true. Then again, how smart am I if I started boxing in the first place?&nbsp;
 
 People often ask me what made me start boxing at the ripe old age of 22. They want to know what would motivate me to put myself in a 16x16 box to fight another human who is trained to inflict significant damage to my person. Most people run away from fights or, at the very least, do not intentionally get into them and they actively avoid situations that are guaranteed to cause pain.
