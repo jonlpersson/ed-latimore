@@ -7,7 +7,7 @@ tags:
   - physical-mastery
 description: >-
   In this essay, I explain why I started boxing. I think all fighters will see a
-  big of themselves in this post. 
+  bit of themselves in this post. 
 image: /assets/images/drafts/why-i-fight.jpeg
 ---
 “Good. You’re too smart for boxing.”
