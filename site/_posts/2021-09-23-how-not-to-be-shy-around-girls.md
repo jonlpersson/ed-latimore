@@ -1,15 +1,16 @@
 ---
-date: 2021-09-23 08:00:00 -0500
+date: 2021-09-23 09:00:00 -0400
 article_type: Article
-title: "How to not be shy around girls: 7 ways that work"
+title: 'How to not be shy around girls: 7 ways that work'
 permalink: /how-not-to-be-shy-around-girls/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: >-
-  Get nervous and twitchy around women? This is how to stop being shy around girls
-image: /assets/images/thumbnails/ed-latimore-in-front-of-bridge.jpg
+  Get nervous and twitchy around women? This is how to stop being shy around
+  girls
+image: /assets/images/posts/how-to-not-be-shy-around-girls.jpg
 ---
-
-Let's get to the heart of what shyness really is...
+Let's get to the heart of what shyness really is…
 
 Shyness is fear. Pure. Unadulterated. Baby-fresh-out-of-the-womb, fear.
 
@@ -23,12 +24,9 @@ When you do that, you realize the thing you were afraid of was bigger in your mi
 
 Imagine the following tips as building blocks to help you be less shy around girls.
 
-{% include widgets/toc.html 	heading="How to not be shy around girls" 	list-items="Don't make up stories, Tell your body (and mind) who's boss, Stand with some confidence, Knock your comfort zone's teeth out, Know who you want to show up as, Be someone girls (and people) want to talk to, Drop your expectations"
+{% include widgets/toc.html heading="How to not be shy around girls" list-items="Don't make up stories, Tell your body (and mind) who's boss, Stand with some confidence, Knock your comfort zone's teeth out, Know who you want to show up as, Be someone girls (and people) want to talk to, Drop your expectations" list-ids="1-dont-make-up-stories, 2-tell-your-body-and-mind-whos-boss, 3-stand-with-some-confidence, 4-knock-your-comfort-zones-teeth-out, 5-know-who-you-want-to-show-up-as, 6-be-someone-girls-and-people-want-to-talk-to, 7-drop-your-expectations" %}
 
-list-ids="1-dont-make-up-stories, 2-tell-your-body-and-mind-whos-boss, 3-stand-with-some-confidence, 4-knock-your-comfort-zones-teeth-out, 5-know-who-you-want-to-show-up-as, 6-be-someone-girls-and-people-want-to-talk-to, 7-drop-your-expectations" %}
-
-
-## 1. Don't make up stories
+## 1\. Don't make up stories
 
 We live by the stories we tell ourselves. One of the best things you can do to overcome shyness is to stop telling yourself stories. Or rather, come up with better ones.
 
@@ -36,13 +34,11 @@ Dr. Joe Dispenza has this thing where he talks about the stories we tell ourselv
 
 A common story we all function by is finding safety and security. But those two things are myths. Once you realize that, the world will open up to even a shy guy like yourself.
 
-In the case of shyness, the story you're telling yourself is one of the following...
+In the case of shyness, the story you're telling yourself is one of the following…
 
-
-
-* _I’m not good with talking to girls_
-* _I have low self-esteem_
-* _I’m an introvert, I don't do good with people_
+* *I’m not good with talking to girls*
+* *I have low self-esteem*
+* *I’m an introvert, I don't do good with people*
 
 Here's a mind-blown moment, introversion does not equal shyness. You can be an introvert that is great at talking to people. But since introverts don't need to talk to people, they usually aren't good at it.
 
@@ -50,8 +46,7 @@ Practice being realistic about your situation and even telling yourself better s
 
 Doing this can help you overcome your social awkwardness and relax. If you’re struggling to overcome your social awkwardness I wrote all about how to do that [here](https://edlatimore.com/how-to-not-be-socially-awkward/).
 
-
-## 2. Tell your body (and mind) who’s boss
+## 2\. Tell your body (and mind) who’s boss
 
 Chances are if you're reading this, you're a human being. And as a human being your body is going to betray you at times. That adrenaline pumping through your veins as another human takes a seat next to you can be terror or the beginning of something wonderful.
 
@@ -61,20 +56,15 @@ Here’s what I mean, research shows that anxiety and excitement are experienced
 
 And those small wins build up into big boulder-sized confidence. You can train your body to follow your lead by:
 
-
-
 * Acknowledging what is happening physically
 * Reaffirming to yourself that the world is not ending
 * Deciding to see your situation as an opportunity to grow
 
-
-## 3. Stand with some confidence
+## 3\. Stand with some confidence
 
 Your next small step is looking and acting like a person with confidence. It’s easier said than done but with a few behavioral tweeks you can cheat the system.
 
 You don’t have to be the most charismatic guy walking into social situations. Confident body language will do.
-
-
 
 * Stand up straight with your shoulders back but with a released demeanor
 * Smile when you make small talk
@@ -85,10 +75,9 @@ Sorry to say but no matter how much you workout, or how much money you make, the
 
 Working on these things will help you build your courage to talk to girls you meet anywhere.
 
+## 4\. Knock your comfort zone’s teeth out
 
-## 4. Knock your comfort zone’s teeth out
-
-Your comfort zone is a bully. It’s your reticular activation system[^1] creating habits and making it so you have to use your brain less. The result is, it’s painful to even _think _about doing new things let alone trying them.
+Your comfort zone is a bully. It’s your reticular activation system<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> creating habits and making it so you have to use your brain less. The result is, it’s painful to even \_think \_about doing new things let alone trying them.
 
 For brushing and showering, that’s awesome. For everything else, your comfort zone is where your dreams go to die. Put another way, your comfort zone is the fastest way to an unfulfilling life.
 
@@ -102,42 +91,37 @@ Just like Jia Jiang, you can become a little less shy and break out of your curr
 
 The more progress you make the more it benefits your self-esteem.
 
-
-## 5. Know who you want to show up as
+## 5\. Know who you want to show up as
 
 Your self-image, or who you identify as, dictates how you act in the world. And you attract things based on how you're showing up in the world, not what you want.
 
 Ancient wisdom teaches us to…
 
-_“Know thyself”_
+*“Know thyself”*
 
-And...
+And…
 
-_“Be ye transformed by the renewing of your mind”_
+*“Be ye transformed by the renewing of your mind”*
 
 Something as fundamental as not knowing yourself can make you self-conscious.
 
 Write down your ideal vision of yourself. Put up images of how a confident man would dress. Come up with characteristics that you relate to and want to live by: courageous, confidence, patience, empathetic, hardworking, etc.
 
-
-## 6. Be someone girls (and people) want to talk to
+## 6\. Be someone girls (and people) want to talk to
 
 Most girls are raised to be weary of men they don't know. And attractive girls are used to being approached. So if you’re going to talk to them, you’ve got to know the animal you’re dealing with.
 
 Practice these social skills to get the conversation going:
 
-
-
 * Say something funny if you feel comfortable making jokes (if not, don’t do this)
 * Ask a question that doesn’t have a yes or no answer
 * Listen to the answer and respond
 
-Studies show[^2] most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
+Studies show<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
 
 And that’s something even the least charismatic guy can do.
 
-
-## 7. Drop your expectations
+## 7\. Drop your expectations
 
 The world doesn't owe you anything.
 
@@ -145,7 +129,7 @@ Not money, not happiness, not women.
 
 However, if you are willing to put in the work, to make yourself into [the kind of man that attracts women](https://edlatimore.com/how-to-be-an-attractive-man/), and that others look up to…
 
-... the world will conspire to ensure you get whatever you want. And there’s the paradox.
+… the world will conspire to ensure you get whatever you want. And there’s the paradox.
 
 When you stop expecting things to go your way simply because you exist, more things go your way. Likewise, when you drop your expectations (good or bad) when talking to girls, the act of talking to them loses their weight.
 
@@ -155,12 +139,9 @@ Drop your expectations by becoming a man that lives on the side of reality. You 
 
 You’ll be angry at first to realize how things really are but then little by little, you’ll start to see the beauty in it. And that's when the world starts to open up to you.
 
-
 ## Wrapping up
 
 To overcome shyness around girls is a multifaceted approach. It starts with recognizing your fear. Then choose 2-3 of these tips to try today…
-
-
 
 1. Don’t tell yourself stories about things that aren’t happening
 2. Don’t let your emotions drive the car
@@ -178,6 +159,4 @@ I hope that helps. The rest is up to you.
 
 ### References
 
-[^1]: Garcia-Rill, E., _[Science Direct](https://www.sciencedirect.com/science/article/pii/B9780080450469017678)_,  2009, University of Arkansas for Medical Sciences,  (accessed Sep 17, 2021).
-
-[^2]: Lount Jr., Robert B., Zhong, Chen-Bo, Sivanathan, Niro, Murnighan, J. Keith, _[Getting Off on the Wrong Foot: The Timing of a Breach and the Restoration of Trust](https://www-2.rotman.utoronto.ca/facbios/file/Wrong_Foot_2008_PSPB.pdf) (accessed September 17, 2021).,_ Dispute and Resolution Research Center at Northwestern University,
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Garcia-Rill, E., <em><a href="https://www.sciencedirect.com/science/article/pii/B9780080450469017678">Science Direct</a></em>, 2009, University of Arkansas for Medical Sciences, (accessed Sep 17, 2021).&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Lount Jr., Robert B., Zhong, Chen-Bo, Sivanathan, Niro, Murnighan, J. Keith, <em><a href="https://www-2.rotman.utoronto.ca/facbios/file/Wrong_Foot_2008_PSPB.pdf">Getting Off on the Wrong Foot: The Timing of a Breach and the Restoration of Trust</a> (accessed September 17, 2021).,</em> Dispute and Resolution Research Center at Northwestern University,&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>

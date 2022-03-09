@@ -3,12 +3,13 @@ date: 2021-08-05 19:42:40 -0400
 article_type: Article
 title: The 4 unfakeable traits of a high value man
 permalink: /high-value-man/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: >
   A high-value man has hit a standard in these 4 areas. Otherwise, he’s not
   high-value. This article tells you the 4 unfakeable traits of a high-value
   man.
-image: /assets/images/thumbnails/ed-latimore-high-value-man.jpg
+image: /assets/images/posts/highvalueman.jpg
 ---
 There isn’t a guy alive who doesn’t want to know how to become a high-value man.
 

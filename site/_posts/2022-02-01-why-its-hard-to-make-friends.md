@@ -3,11 +3,12 @@ date: 2022-02-01 09:00:00 -0500
 article_type: Article
 title: 7 reasons it’s hard to make friends (+ tips that work)
 permalink: /why-its-hard-to-make-friends/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: >-
   Discover why it’s so hard to make friends and practical ways to expand your
   social circle
-image: /assets/images/thumbnails/ed-latimore-sitting-outside.jpg
+image: /assets/images/posts/ed-latimore-sitting-outside.jpg
 ---
 Belonging is a fundamental human need.
 
@@ -23,7 +24,7 @@ In this post, you’ll discover seven scenarios we all face that make developing
 
 {% include widgets/toc.html heading="Practical reasons it&rsquo;s hard to make friends" list-items="You&rsquo;re an adult now, You have less organic chances, You think playtime is just for kids, You&rsquo;re jaded, You&rsquo;re highly educated, You&rsquo;re married with kids, Your social life is fake" list-ids="1-adult-responsibility, 2-a-lack-of-organic-opportunity, 3-not-appreciating-mindless-enjoyment, 4-becoming-jaded, 5-higher-education, 6-kids-and-intimate-relationships, 7-the-illusions-of-a-social-life" %}
 
-## 1. Adult responsibility
+## 1\. Adult responsibility
 
 One of the most obvious reasons it’s difficult to make new friends is simply because you don’t have as much free time in your schedule. Growing up you have more time to nurture new friendships. The most responsibility you had was school work and maybe household chores.
 
@@ -35,7 +36,7 @@ Here’s how to make friends when you don’t have a ton of time in your schedul
 * Go to work conferences. You’ll meet people in your field and increase the chances that you’ll have similar interests with someone else.
 * Invite a friend to do things on your schedule like working out, grabbing lunch, or running errands
 
-## 2. A lack of organic opportunity
+## 2\. A lack of organic opportunity
 
 When you’re younger, it’s easy to fall into friendships because your social network is laid out in front of you. It’s far more normal to start a conversation in a classroom than a grocery store or gas station.
 
@@ -51,11 +52,11 @@ The remedy to this is to:
 * Ask colleagues and/or neighbors out to activities
 * Ask a friend to bring a friend when you attend an event or meet up for lunch
 
-## 3. Not appreciating mindless enjoyment
+## 3\. Not appreciating mindless enjoyment
 
 Play is defined as an activity you engage in for enjoyment rather than any practical purpose.
 
-Play for young children helps with cognitive brain function, boosting creativity, and building social skills. Not surprisingly, these are the same benefits of play for adults.[^1]
+Play for young children helps with cognitive brain function, boosting creativity, and building social skills. Not surprisingly, these are the same benefits of play for adults.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Children have this playtime built-in because it’s necessary for their development. When we become adults, however, doing activities that don’t contribute any external or quantifiable value can be seen as time-wasting or useless.
 
@@ -68,7 +69,7 @@ Insert more play into your schedule with these activities:
 * Volunteer locally
 * Join a choir or musicians jam session
 
-## 4. Becoming jaded
+## 4\. Becoming jaded
 
 Another reason adults have trouble making friends is simply that the older you get, the more jaded you become. You learn that other people can let you down. Maybe you had someone you considered a good friend but you grew apart or had a falling out.
 
@@ -81,9 +82,9 @@ Here’s how to make friends even if you’re jaded:
 * Realize that human nature is to see ‘what’s in it for me.’ You have to add value to receive it
 * Learn who it’s okay to be vulnerable with and who to steer clear of
 
-## 5. Higher education
+## 5\. Higher education
 
-Educating yourself creates social mobility. However, being highly educated is more correlated with the individualism that makes it hard to make friends.[^2] This is largely because working-class people, who haven’t attended college, teach their children the value of “we over me.”
+Educating yourself creates social mobility. However, being highly educated is more correlated with the individualism that makes it hard to make friends.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> This is largely because working-class people, who haven’t attended college, teach their children the value of “we over me.”
 
 Common sayings like, “you can’t always get what you want” teach that there are factors and a community outside of your control.
 
@@ -99,7 +100,7 @@ Are you adding value to the community?
 
 Making new friends may not be as easy as being the encourager in your group but it may hinge on your ability to see yourself as a part of a whole.
 
-## 6. Kids and intimate relationships
+## 6\. Kids and intimate relationships
 
 If you find that you lose friends when you get into relationships, you’re not alone. When you’re single, you reach out to a friend when lonely or bored. In a relationship, your partner fulfills that role.
 
@@ -113,7 +114,7 @@ Here’s how to make friends and expand your social circle if you’re in a rela
 * Join groups for parents of young children
 * Meetup with your children’s parents
 
-## 7. The illusion of a social life
+## 7\. The illusion of a social life
 
 Social media makes it difficult to make friends because it gives you the illusion of a social life. Bingeing on someone’s life gives you a false sense of familiarity. This can decrease your urge to socialize because you satisfy your social needs through voyeurism.
 
@@ -135,10 +136,8 @@ Of course it’s possible to make close friendships after college. However, the 
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-***
+---
 
 ### References
 
-[^1]: Robinson, Lawrence, Smith, Melinda M.A., Segal Jeanne, Ph.D., and Shubin, Jennifer *HelpGuide.* [The Benefits or Play for Adults](https://www.helpguide.org/articles/mental-health/benefits-of-play-for-adults.htm). July 2021. (accessed Jan 2022)
-
-[^2]: Stephens. Nicole M.; Townsend Sarah. _Harvard Business Review._ [Research: How You Feel About Individualism Is Influenced by Your Social Class](https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class). Harvard Business Publishing. May 22, 2017. (accessed Jan 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Robinson, Lawrence, Smith, Melinda M.A., Segal Jeanne, Ph.D., and Shubin, Jennifer <em>HelpGuide.</em> <a href="https://www.helpguide.org/articles/mental-health/benefits-of-play-for-adults.htm">The Benefits or Play for Adults</a>. July 2021. (accessed Jan 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Stephens. Nicole M.; Townsend Sarah. <em>Harvard Business Review.</em> <a href="https://hbr.org/2017/05/research-how-you-feel-about-individualism-is-influenced-by-your-social-class">Research: How You Feel About Individualism Is Influenced by Your Social Class</a>. Harvard Business Publishing. May 22, 2017. (accessed Jan 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>

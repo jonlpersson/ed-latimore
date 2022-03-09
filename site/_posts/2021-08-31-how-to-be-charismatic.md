@@ -3,11 +3,12 @@ date: 2021-08-31 09:00:00 -0400
 article_type: Article
 title: 'Personal magnetism: How to be more charismatic'
 permalink: /how-to-be-charismatic/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: >-
   Discover how to be more charismatic, attract more people, and captivate no
   matter where you are
-image: /assets/images/thumbnails/ed-polo-sitting.jpg
+image: /assets/images/posts/ed-polo-sitting-1.jpg
 ---
 Why is the true definition of charisma so hard to nail down?
 
