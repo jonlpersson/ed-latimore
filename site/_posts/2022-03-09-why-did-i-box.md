@@ -14,9 +14,9 @@ image: /assets/images/drafts/why-i-fight.jpeg
 
 This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing Olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.&nbsp;
 
-{% figure caption:"Me in the center, Dominic Breazeale on the far left, Charles Martin to my right. 2012 at Ft. Carson, Co for US Men's National Tournament" %}
+{% figure caption: "Me in the center, Dominic Breazeale on the far left, Charles Martin to my right. 2012 at Ft. Carson, Co for US Men's National Tournament" %}
 
-![](/assets/images/posts/ftcarsonboxing.png){: width="450" height="317"}{% endfigure %}
+![Ed latimore charles martin dominic breazeale boxing](/assets/images/posts/ftcarsonboxing.png "Ed latimore charles martin dominic breazeale boxing"){: width="450" height="317"}{% endfigure %}
 
 Maybe this is true. Then again, how smart am I if I started boxing in the first place?&nbsp;
 
