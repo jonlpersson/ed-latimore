@@ -1,8 +1,8 @@
 ---
 date: 2022-03-09 10:14:47 -0500
 article_type: Article
-title: Why did I box?
-permalink: /why-did-I-box/
+title: Why did I start boxing?
+permalink: /why-did-I-start-boxing/
 tags:
   - physical-mastery
 description: >-
