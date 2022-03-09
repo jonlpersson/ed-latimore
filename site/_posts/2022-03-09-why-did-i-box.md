@@ -38,7 +38,7 @@ All humans have a survival instinct and an aversion to pain. While fighters shar
 
 By inflicting pain, we prove that we are worth something in the most primal and recognizable way. By enduring pain, we prove—in the most defiant and discernable manner—that life is not better than us and can not beat us down.
 
-I started fighting because I felt like a nobody. I wanted to feel like a somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.&nbsp;
+I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like a somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.&nbsp;
 
 You might be thinking that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much other pain, hardship, and restriction that surely the cost of admission exceeds the value received. Perhaps there is some truth in this, but this brings me to another reason why I fought.
 
