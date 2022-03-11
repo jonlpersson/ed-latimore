@@ -6,10 +6,10 @@ permalink: /losing-someone-you-love/
 tags:
   - mental-mastery
 description: >-
-  Losing someone can leave you feeling lost. Here’s what to do when you don’t know what to do.
+  Losing someone can leave you feeling lost. Here’s what to do when you don’t
+  know what to do.
 image: /assets/images/thumbnails/ed-arms-crossed-on-chair.jpg
 ---
-
 Losing someone you love is never easy.
 
 The pain of loss can send you into an emotional roller coaster that’s hard to deal with…
@@ -22,7 +22,6 @@ Whether you feel anger, sadness, regret, relief, or all of the above, losing som
 
 This article will provide tips on how to cope with losing someone you love and handling the confusing emotions that come up.
 
-
 ## Accept how you feel
 
 Everything is okay.
@@ -33,17 +32,17 @@ There’s no easy button where you can avoid reality and not have to pay for it 
 
 Add to this that relationships with parents aren’t always the sunshine and rainbows it is in sitcoms. I fought constantly with my mother to give up smoking and take better care of herself.
 
-However, our rocky relationship certainly didn’t give me a _get out of jail free card_ with grief Eventually, I learned that she was just doing the best she could.
+However, our rocky relationship certainly didn’t give me a *get out of jail free card* with grief Eventually, I learned that she was just doing the best she could.
 
 Read more about how I learned to forgive my mother in [How to forgive your parents.](https://edlatimore.com/how-to-understand-and-forgive-your-parents/)
 
-
 ## Let the helpers help
 
-Depending on your age, you might remember Mr. Rogers. He was a nice, old white guy that came on early in the morning right before Barney. His mantra was, _“It’s a beautiful day in the neighborhood.”_ Well, Mr. Rogers had this saying once, that when things go wrong…
+Depending on your age, you might remember Mr. Rogers. He was a nice, old white guy that came on early in the morning right before Barney. His mantra was, *“It’s a beautiful day in the neighborhood.”* Well, Mr. Rogers had this saying once, that when things go wrong…
 
-
-    >>>“Look for the helpers. You will always find people helping.”
+```
+>>>“Look for the helpers. You will always find people helping.”
+```
 
 Well, in the days following my mom’s passing, I wasn’t coping. But I thought I was. I didn’t reach out for help or even tell close friends because I was dealing with it on my own, in my own way.
 
@@ -57,8 +56,7 @@ Often we don’t reach out because we feel we should be strong enough to handle 
 
 That said, if someone is trying to help, let them. Even if it's buying you food. Let them help.
 
-
-## Don’t mourn the loss before their gone
+## Don’t mourn the loss before they're gone
 
 In the months leading up to my mother’s passing, I got to spend one to two hours a day in the hospital with her. It was time I feel grateful to have. Time I recognize most people don’t get.
 
@@ -66,14 +64,13 @@ While someone is alive and thriving, we put off spending quality time and seeing
 
 But the truth is, death is a part of life. And later might never come.
 
-Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.[^1] Basically, you start going through the early stages of grief in anticipation of the loss.
+Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Basically, you start going through the early stages of grief in anticipation of the loss.
 
 Though it’s natural to feel, it steals your mind away from the present moment and the fact that you still have time to spend with your loved one.
 
 One or two hours a day is plenty to laugh about old memories or talk about nonsense. It’s up to you to use your time wisely.
 
 Read more about how I spent the final days with my mom in [9 thoughts on losing a parent.](https://edlatimore.com/dealing-with-the-loss-of-a-parent/)
-
 
 ## Maintain your habits as much as you can
 
@@ -85,18 +82,15 @@ Try to fight this as much as you can. Even if you have to fly to a new location 
 
 It’s okay to take the time off from work or the time away that you need, whether it’s a week or a month. But don’t let your habits drop forever. Try to maintain your morning routine or a favorite activity. This will give you some grounding during those times you feel uncertain.
 
-
 ## Don’t map your grief
 
 Don’t wait around for it to be over before you resume your life. Grief doesn’t have a timetable. And despite the stages of grief, grief isn’t actually linear. You may skip all the phases and shoot straight to anger.
 
 When I lost my dad at 18, grief was a slow process. I was fine for several months then all of a sudden I was sobbing in a conversation about him.
 
-Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.[^2] Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
+Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
 
 Grief manifests in many forms with everyone having a different grief experience. Mental and physical symptoms of grieving include:
-
-
 
 * Fear
 * Periodic sadness
@@ -107,16 +101,13 @@ Grief manifests in many forms with everyone having a different grief experience.
 * Aches and pains
 * Weight loss/gain
 
-
 ## Recognize if you're not dealing with it
 
-There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.[^3] It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
+There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
 
 Complicated grief is a sign that you are not coping with reality. Though many experience intense sadness during grief, depression is actually a sign that you are not coping well. For others, you may feel completely detached from a loss then have an explosion that is out of character for you.
 
 Signs you aren’t coping well:
-
-
 
 * Intense longing for prolonged periods of time
 * Explosions out of nowhere
@@ -129,14 +120,11 @@ Signs you aren’t coping well:
 
 If you are struggling with complicated grief, signup for grief counseling or a grief support group. You manage the physical symptoms by ensuring your body has all the nutrients it needs. You can also try:
 
-
-
 * Talking to a close friend.
 * Getting out of the house
 * Resuming the activities you once loved
 * Writing a letter to your loved one
 * Talking about your favorite memories with a surviving relative
-
 
 ## What to do when losing someone you love
 
@@ -153,15 +141,10 @@ If you’re struggling with losing someone you love and don’t know what to do,
 
 Losing a loved one can leave you feeling down, here are [6 ways to cheer yourself up.](https://edlatimore.com/how-to-cheer-yourself-up/)
 
-
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-***
+---
 
 ### References
 
-[^1]: Eldridge, Lynne MD Medically reviewed by Adjoa Smalls-Mantey, MD, DPhil. _VeryWell Health: _How Anticipatory Grief Differs From Grief After Death_. _Updated on November 05, 2021 [https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855](https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855)
-
-[^2]: Hairston, Stephanie. Medically Reviewed by Neha Pathak, MD._WebMD:_ How Grief Shows Up In Your Body. July 11, 2019 [https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind](https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind)
-
-[^3]: June 19, 2021: Mayo Clinic Staff; Mayo Clinic: Complicated Grief [https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374](https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374) (accessed March 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Eldridge, Lynne MD Medically reviewed by Adjoa Smalls-Mantey, MD, DPhil. <em>VeryWell Health: _How Anticipatory Grief Differs From Grief After Death</em>. _Updated on November 05, 2021 <a href="https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855">https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Hairston, Stephanie. Medically Reviewed by Neha Pathak, MD.<em>WebMD:</em> How Grief Shows Up In Your Body. July 11, 2019 <a href="https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind">https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>June 19, 2021: Mayo Clinic Staff; Mayo Clinic: Complicated Grief <a href="https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374">https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374</a> (accessed March 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
