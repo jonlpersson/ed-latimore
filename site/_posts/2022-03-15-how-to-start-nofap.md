@@ -228,7 +228,7 @@ Only you truly know the severity of your porn use issues. But these tips will he
 
 [^1]:  Weiss, Robert PhD, LCSW PsychCentral How Much Porn Is Too Much Porn? March 14, 2012 [https://psychcentral.com/blog/sex/2012/03/porn#1](https://psychcentral.com/blog/sex/2012/03/porn#1) (accessed Feb 24, 2022)
 
-[^2]: Exton MS, Krüger TH, Bursch N, Haake P, Knapp W, Schedlowski M, Hartmann U. Pubmed.gov Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol. 2001 Nov;19(5):377-82. doi: 10.1007/s003450100222. PMID: 11760788. [https://pubmed.ncbi.nlm.nih.gov/11760788/#:~:text=In%20contrast%2C%20although%20plasma%20testosterone,levels%20of%20testosterone%20in%20males](https://pubmed.ncbi.nlm.nih.gov/11760788/#:~:text=In%20contrast%2C%20although%20plasma%20testosterone,levels%20of%20testosterone%20in%20males) (accessed Feb 24, 2022)
+[^2]: Exton MS, Krüger TH, Bursch N, Haake P, Knapp W, Schedlowski M, Hartmann U. Pubmed.gov Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol. 2001 Nov;19(5):377-82. doi: [10.1007/s003450100222](https://pubmed.ncbi.nlm.nih.gov/11760788/#:~:text=In%20contrast%2C%20although%20plasma%20testosterone,levels%20of%20testosterone%20in%20males). PMID: 11760788. (accessed Feb 24, 2022)
 
 [^3]: National Institute on Drug Abuse "Treatment and Recovery."  July 10, 2020. [https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/treatment-recovery ](https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/treatment-recovery)(accessed 3 Mar. 2022)
 
