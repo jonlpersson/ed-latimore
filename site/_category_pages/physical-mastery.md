@@ -7,5 +7,8 @@ hero:
   heading: 'Physical mastery: How to stay healthy, get fit, and hone your body'
   text_markdown: test testing testing testing testing
 page_blocks:
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: testing testing testing testing&nbsp;
   - _id: posts_relevant
 ---
