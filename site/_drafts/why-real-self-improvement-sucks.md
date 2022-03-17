@@ -4,11 +4,12 @@ article_type: Article
 title: Why real self-improvement sucks
 permalink: /why-self-improvement-sucks/
 tags:
-description:
+  - mental-mastery
+description: >-
+  Self-improvement is not fun. It’s not interesting. It’s not quick. Real
+  self-improvement straight-up sup sucks. Read on to learn why.
 image:
 ---
-*What’s something you know about the world that other people don’t realize?*
-
 Self-improvement is not fun. It’s not interesting. It’s not quick.
 
 Real self-improvement straight-up sup sucks.
