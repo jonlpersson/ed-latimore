@@ -16,7 +16,9 @@ Real self-improvement straight-up sup sucks.
 
 In fact, if you’re properly improving yourself, you quickly realize that it is miserable, boring, tedious, and slow.
 
-I think about the position I’ve gotten to in my life. I remember that I wasn't anywhere near this person for most of my 37 years on this planet, but each year is responsible for getting me closer. However, it wasn’t until I made deliberate, continuous, consistent attempts at getting better every day for 5 years did I make a real change in my life.
+[I think about the position I’ve gotten to in my life](/change-your-life/).
+
+I remember that I wasn't anywhere near this person for most of my 37 years on this planet, but each experience each year along the way is responsible for getting me closer. However, it wasn’t until I made deliberate, continuous, consistent attempts at getting better every day for 5 years did I make a real change in my life.
 
 People are seduced by the outcome of self-improvement, but they are repelled by the process. Since the process is the way to the outcome, their lack of interest in it guarantees that they’ll never achieve any remarkable results.
 
