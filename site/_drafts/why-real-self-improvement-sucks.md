@@ -68,7 +68,7 @@ I’ve talked to several guys who say that they can’t make more money, get in 
 
 At this point, I have to clarify my meaning and intention.
 
-I am not claiming that the cure for clinical depression is an improved life. I am, however, stating that what many people mistake for depression is really a call to self-improve in a measurable, objective, independently verifiable manner.
+I am not claiming that the cure for clinical depression is an improved life. However, I am stating that what many people mistake for depression is a call to self-improve in a measurable, objective, independently verifiable manner.
 
 In fact, I would even go as far as to say that most people are only interested in the idea of self-improvement when they’re lacking in one of those objectively measurable areas. But when you lack in the areas of wealth, health, and relationships, the road to improving them is rarely glamorous, often difficult, and never quick.
 
@@ -80,7 +80,7 @@ No one else can tell you that you need to fix your personal life. Well, they can
 
 I again think of my [problems with alcoho](/how-to-know-if-you-have-a-drinking-problem/)l. It wasn’t until I was able to look myself in the mirror and admit to myself that I was loser that I was actually able to become a winner. I had to take an objective assessment of my income and prospects for increasing that income and realize that I was broke.
 
-I once watched an interview by Hotep Jesus and was able to describe this mooment best, as he had gone through it in his own life: “My ego didn’t match my perspective of myself.” This is the type of revelation that you can only make if you’re in the process of crumbling illusions that you’ve built about your life so far. It’s the type of realization you can only make once you get honest about your objective position in life.
+I once watched an interview by [Hotep Jesus](https://bryansharpe.co/){: target="_blank" rel="noopener noreferrer"} and was able to describe this moment best, as he had gone through it in his own life: “My ego didn’t match my perspective of myself.” This is the type of revelation that you can only make if you’re in the process of crumbling illusions that you’ve built about your life so far. It’s the type of realization you can only make once you get honest about your objective position in life.
 
 You can’t get a date and you have no social life (relationships are lacking)? Then lowering your body fat and building muscle will make you healthy and more attractive. Picking up a hobby will make you more interesting and expose you to a new social group to bond with.
 
