@@ -24,7 +24,9 @@ People are seduced by the outcome of self-improvement, but they are repelled by 
 
 I first need to make it clear what I’m referring to when I say “self-improvement”.&nbsp;
 
-Self-improvement is any activity that produces a positive change in life that all observers can quantitatively measure and verify independently of the improver.&nbsp;
+## A rigorous definition of self-improvement
+
+Self-improvement is any activity that produces a positive change in a person's life, initiated by their own efforts, that all observers can quantitatively measure and verify independently of the improver.&nbsp;
 
 Honesty is important because if you manage to deceive yourself about the objective condition of your life, then you won’t be able to understand why you’re not getting the results you want out of it. Or, even more useful, why you keep getting results that you don’t want.
 
