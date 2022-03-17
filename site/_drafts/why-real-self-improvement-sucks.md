@@ -8,7 +8,7 @@ tags:
 description: >-
   Self-improvement is not fun. It’s not interesting. It’s not quick. Real
   self-improvement straight-up sup sucks. Read on to learn why.
-image:
+image: /assets/images/drafts/workout-clip-2.jpeg
 ---
 Self-improvement is not fun. It’s not interesting. It’s not quick.
 
