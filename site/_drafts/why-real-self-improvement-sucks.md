@@ -28,7 +28,7 @@ I first need to make it clear what I’m referring to when I say “self-improve
 
 Self-improvement is any activity that produces a positive change in a person's life, initiated by their own efforts, that all observers can quantitatively measure and verify independently of the improver.&nbsp;
 
-I think about this when I reflect on my life as a recovering alcoholic. I’ve been sober for 8 years and one of the major reasons I made that choice is because I’d been trying for years to get a better job, make more money, and improve my position in life. But I kept failing because of my drinking habits.
+I think about this when I reflect on my life as a [recovering alcoholic](/sobriety-benefits/). I’ve been sober for 8 years and one of the major reasons I made that choice is because I’d been trying for years to get a better job, make more money, and improve my position in life. But I kept failing because of my drinking habits.
 
 Honesty is important because if you manage to deceive yourself about the objective condition of your life, then you won’t be able to understand why you’re not getting the results you want out of it. Or, even more useful, why you keep getting results that you don’t want.
 
@@ -68,15 +68,17 @@ I’ve talked to several guys who say that they can’t make more money, get in 
 
 At this point, I have to clarify my meaning and intention.
 
-I am not claiming that the cure for clinical depressioon is an improved life. I am, however, stating that what many people mistake for depression is really a call to self-improve in a measurable, objective, independently verifiable manner.
+I am not claiming that the cure for clinical depression is an improved life. I am, however, stating that what many people mistake for depression is really a call to self-improve in a measurable, objective, independently verifiable manner.
 
 In fact, I would even go as far as to say that most people are only interested in the idea of self-improvement when they’re lacking in one of those objectively measurable areas. But when you lack in the areas of wealth, health, and relationships, the road to improving them is rarely glamorous, often difficult, and never quick.
 
 ## What real self-improvement looks like
 
-Before you can fix a problem, you have to admit that you have one. No one else can tell you that you need to fix your personal life. Well, they can try, but you won’t listen until you personally feel the sting and it becomes difficult to lie to yourself. Only then can the tedious work begin. The good news is that all of the objectively measurable areas of self-improvement bleed together.
+Before you can fix a problem, you have to admit that you have one.
 
-I again think of my problems with alcohol. It wasn’t until I was able to look myself in the mirror and admit to myself that I was loser that I was actually able to become a winner. I had to take an objective assessment of my income and prospects for increasing that income and realize that I was broke.
+No one else can tell you that you need to fix your personal life. Well, they can try, but you won’t listen until you personally feel the sting and it becomes too difficult to lie to yourself. Only then can the tedious work begin. The good news is that all of the objectively measurable areas of self-improvement bleed together.
+
+I again think of my [problems with alcoho](/how-to-know-if-you-have-a-drinking-problem/)l. It wasn’t until I was able to look myself in the mirror and admit to myself that I was loser that I was actually able to become a winner. I had to take an objective assessment of my income and prospects for increasing that income and realize that I was broke.
 
 I once watched an interview by Hotep Jesus and was able to describe this mooment best, as he had gone through it in his own life: “My ego didn’t match my perspective of myself.” This is the type of revelation that you can only make if you’re in the process of crumbling illusions that you’ve built about your life so far. It’s the type of realization you can only make once you get honest about your objective position in life.
 
