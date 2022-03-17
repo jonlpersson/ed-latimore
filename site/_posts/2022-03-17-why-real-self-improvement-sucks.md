@@ -78,7 +78,7 @@ Before you can fix a problem, you have to admit that you have one.
 
 No one else can tell you that you need to fix your personal life. Well, they can try, but you won’t listen until you personally feel the sting and it becomes too difficult to lie to yourself. Only then can the tedious work begin. The good news is that all of the objectively measurable areas of self-improvement bleed together.
 
-I again think of my [problems with alcoho](/how-to-know-if-you-have-a-drinking-problem/)l. It wasn’t until I was able to look myself in the mirror and admit to myself that I was loser that I was actually able to become a winner. I had to take an objective assessment of my income and prospects for increasing that income and realize that I was broke.
+I again think of my [problems with alcoho](/how-to-know-if-you-have-a-drinking-problem/)l. It wasn’t until I was able to look myself in the mirror and admit that I was a loser that I was actually able to become a winner. I had to take an objective assessment of my income and prospects for increasing that income and realize that I was broke.
 
 I once watched an interview by [Hotep Jesus](https://bryansharpe.co/){: target="_blank" rel="noopener noreferrer"} and was able to describe this moment best, as he had gone through it in his own life: “My ego didn’t match my perspective of myself.” This is the type of revelation that you can only make if you’re in the process of crumbling illusions that you’ve built about your life so far. It’s the type of realization you can only make once you get honest about your objective position in life.
 
