@@ -50,7 +50,13 @@ Self-actualization can be loosely thought of as finding your purpose or developi
 
 But you can’t do that if you’re worried about surviving and not feeling like you have a social tribe to depend on.&nbsp;
 
-If you look at the hierarchy of needs, you see the first 3 levels all deal with the objectively measurable areas of improvement: things money can buy to survive, health care, and relationships (both sexual and platonic). Only after these things are taken care of can we move on to things that lead to self-actualization.
+If you look at the hierarchy of needs, you see the first 3 levels all deal with the objectively measurable areas of improvement:
+
+* Things money can buy to survive **\[Read: [How to stop being poor](/stop-being-poor/)\]**
+* Health care
+* Relationships **\[Read: [How to get into a relationship](/how-to-get-into-a-relationship/), [How to make friends as an adult](/how-to-make-friends-as-an-adult/)\]**
+
+Only after these things are taken care of can we move on to things that lead to self-actualization.
 
 ![Maslow's Hierarchy of Needs for Self-Improvement. The base is where objective self-improvement lies.](/assets/images/drafts/maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpeg "Maslow's Hierarchy of Needs for Self-Improvement"){: width="4911" height="2762"}
 
