@@ -40,17 +40,19 @@ I didn’t work on my inner demons and feelings. Those are important but they ca
 
 I believe that external progress motivates internal introspection when things are bad; not vice-versa. Or, to put it another way, you don’t really have time to worry about the why of your problems when the how is so close to destroying you.
 
-## The Objective Areas of Self-Improvement
+## Objective Areas of Self-Improvement & Maslow's Hierarchy of Needs
 
 Objective, measurable self-improvement in life can only take place in 3 areas of your life: health, wealth, and relationships. It’s not that there aren’t other important areas—say psychological, spiritual, emotional, etc.—it’s just fixing these areas takes care of the base of the hierarchy of needs.
 
-The theory that drives Maslow’s “hierarchy of needs” says that while all humans desire to be self-actualized, there are a number of preliminary needs that must be met first. Self-actualization can be loosely thought of as finding your purpose or developing your individual talents in a way that contributes to the world.
+The theory that drives Maslow’s “hierarchy of needs” says that while all humans desire to be self-actualized, there are a number of preliminary needs that must be met first.
+
+Self-actualization can be loosely thought of as finding your purpose or developing your individual talents in a way that contributes to the world.
 
 But you can’t do that if you’re worried about surviving and not feeling like you have a social tribe to depend on.&nbsp;
 
-If you look at the hierarchy of needs, you see the first 3 levels all deal with the objectively measurable areas of improvement: things money can buy to survive, health care, and relalationships (both sexual and platonic). It’s only after these things are taken care of do we can move on to things that lead to self-actualization.
+If you look at the hierarchy of needs, you see the first 3 levels all deal with the objectively measurable areas of improvement: things money can buy to survive, health care, and relationships (both sexual and platonic). Only after these things are taken care of can we move on to things that lead to self-actualization.
 
-&nbsp;
+![Maslow's Hierarchy of Needs for Self-Improvement. The base is where objective self-improvement lies.](/assets/images/drafts/maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpeg "Maslow's Hierarchy of Needs for Self-Improvement"){: width="4911" height="2762"}
 
 An objective measure of self-improvement also keeps you from focusing on what doesn’t matter. Or, at the very least, it enables you to properly prioritize the issues in your life. There is no greater waste of time than devoting energy to fix an area of your life that is not the source of your misery, dysfunction, or general lack of progress. Consider the following example:
 
