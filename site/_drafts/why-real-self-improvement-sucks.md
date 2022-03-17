@@ -84,12 +84,18 @@ I once watched an interview by [Hotep Jesus](https://bryansharpe.co/){: target="
 
 You can’t get a date and you have no social life (relationships are lacking)? Then lowering your body fat and building muscle will make you healthy and more attractive. Picking up a hobby will make you more interesting and expose you to a new social group to bond with.
 
-You often have to choose between paying the rent on time and having a full tank of gas? Making more money, by itself, will fix that. Increasing your value to make more money will likely also make you more interesting, disciplined, and able to enjoy better things life. This allows you to spend more time with existing friends or make new ones and makes you a more attractive prospect for a romantic relationship.
+**\[Read: [Hobbies to meet women](/hobbies-to-meet-women/)\]**
 
-You get the idea. But none of this is an overnight fix. Especially if you want real sustainable growth. Building new health habits, repairing old relationships, creating new ones, and building skills to make more money can take 1-3 years at a minimum before big change takes place. But that change can be independently verified.
+You often have to choose between paying the rent on time and having a full tank of gas? Making more money, by itself, will fix that. Increasing your value to make more money will likely also make you more interesting, disciplined, and able to enjoy better things in life. This allows you to spend more time with existing friends or make new ones and makes you a more attractive prospect for a romantic relationship.
 
-After 1 year of working out in the gym and watching your diet, it’s obvious if you’ve been taking better care of myself. Someone could (in theory) look at my call logs and text messages and see that I’ve been making a stronger effort in my relationships. You can look at your credit score or bank account and see if you’ve made progress in dealing with your finances.
+You get the idea. But none of this is an overnight fix. Especially if you want real sustainable growth.
 
-Of course, these things not only take time, but they also force you to develop new habits. These new habits either feel restrictive or exhaustive and there is great temptation to go back to what you know.
+Building new health habits, repairing old relationships, creating new ones, and building skills to make more money can take 1-3 years at a minimum before a big change takes place. But this creates real growth that is visible, undeniable, and objective.
+
+Objective growth doesn't fix your emotional problems, but it does put you in a much better position to get the help you need to deal with them. It also allows you to deal with these issues relatively free of distraction. I'm reminded of something Chris Johnson once said to me: It's only once you have money that you can finally realize how many issues you have to deal with.
+
+After 1 year of working out in the gym and watching your diet, it’s obvious if you’ve been taking better care of yourself. Someone could (in theory) look at your call logs and text messages and see if you've been making a stronger effort in your relationships. You can look at your credit score or bank account and see if you’ve made progress in dealing with your finances.
 
 There may be small milestones you get to celebrate, but the ultimate outcome you’re chasing may not materialize for 1-3 years. This is why it’s important to focus on the process of self-improvement because, after years of hard work, you may find yourself with the life of your dreams.&nbsp;
+
+The rest is up to you.
