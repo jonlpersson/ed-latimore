@@ -28,15 +28,17 @@ I first need to make it clear what I’m referring to when I say “self-improve
 
 Self-improvement is any activity that produces a positive change in a person's life, initiated by their own efforts, that all observers can quantitatively measure and verify independently of the improver.&nbsp;
 
-Honesty is important because if you manage to deceive yourself about the objective condition of your life, then you won’t be able to understand why you’re not getting the results you want out of it. Or, even more useful, why you keep getting results that you don’t want.
+I think about this when I reflect on my life as a recovering alcoholic. I’ve been sober for 8 years and one of the major reasons I made that choice is because I’d been trying for years to get a better job, make more money, and improve my position in life. But I kept failing because of my drinking habits.
 
-I think about this when I think about my life as it relates to drinking. I’ve been sober for 8 years and one of the major reasons I made that choice is because I’d been trying for years to get a better job, make more money, and improve my position in life. But I kept failing because of my drinking habits.
+Honesty is important because if you manage to deceive yourself about the objective condition of your life, then you won’t be able to understand why you’re not getting the results you want out of it. Or, even more useful, why you keep getting results that you don’t want.
 
 It would have been easy to blame my lack of progress in life on how I grew up or say that it was because I was focusing on boxing, but that would have been dishonest. That dishonesty would have kept me from fixing the real problems in my life.&nbsp;
 
-By focusing on what I could change that was measurable and independently verifiable without me, I could make a change. I could count how often I had a drink. Another person could (in theory) know if I had been drinking. These measurables had a trickle down effect on every other area of my life, but it started with a measurable improvement.
+By focusing on what I could change that was measurable and independently verifiable without me, I could make a change. I could count how often I had a drink. Another person could (in theory) know if I had been drinking. These measurables had a trickle-down effect on every other area of my life, but they started with a measurable improvement in objective areas of my life.
 
-I didn’t work on my inner demons and feelings. Those are important but they can be deal with after you make measurable progress. I believe that external progress motivates internal introspection when things are bad. Or, to put it another way, you don’t really have time to worry about the why of your problems when the how is so close to destroying you.
+I didn’t work on my inner demons and feelings. Those are important but they can be dealt with after you make measurable progress.
+
+I believe that external progress motivates internal introspection when things are bad; not vice-versa. Or, to put it another way, you don’t really have time to worry about the why of your problems when the how is so close to destroying you.
 
 ## The Objective Areas of Self-Improvement
 
