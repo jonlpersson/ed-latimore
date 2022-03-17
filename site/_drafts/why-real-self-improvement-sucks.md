@@ -60,11 +60,15 @@ Only after these things are taken care of can we move on to things that lead to 
 
 ![Maslow's Hierarchy of Needs for Self-Improvement. The base is where objective self-improvement lies.](/assets/images/drafts/maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpeg "Maslow's Hierarchy of Needs for Self-Improvement"){: width="4911" height="2762"}
 
-An objective measure of self-improvement also keeps you from focusing on what doesn’t matter. Or, at the very least, it enables you to properly prioritize the issues in your life. There is no greater waste of time than devoting energy to fix an area of your life that is not the source of your misery, dysfunction, or general lack of progress. Consider the following example:
+An objective measure of self-improvement also keeps you from focusing on what doesn’t matter. Or, at the very least, it enables you to properly prioritize the issues in your life.
 
-I’ve talked to several guys who say that they can’t make more money, get in shape, or spend time with their friends because they’re depressed. However, I believe they have the order wrong. They’re depressed because they won’t improve their finances, get in shape, or build their social bonds.
+There is no greater waste of time than devoting energy to fixing an area of your life that is not the source of your misery, dysfunction, or general lack of progress. Consider the following example:
 
-At this point, I have to clarify my meaning and intention. I am not claiming that the cure for clinical depressioon is an improved life. I am, however, stating that what many people mistake for depression is really a call to self-improve in a measurable, objective, independently verifiable manner.
+I’ve talked to several guys who say that they can’t make more money, get in shape, or get a girlfriend because they’re depressed. However, I believe they have the order wrong. They’re depressed because they won’t improve their finances, get in shape, or become more attractive.
+
+At this point, I have to clarify my meaning and intention.
+
+I am not claiming that the cure for clinical depressioon is an improved life. I am, however, stating that what many people mistake for depression is really a call to self-improve in a measurable, objective, independently verifiable manner.
 
 In fact, I would even go as far as to say that most people are only interested in the idea of self-improvement when they’re lacking in one of those objectively measurable areas. But when you lack in the areas of wealth, health, and relationships, the road to improving them is rarely glamorous, often difficult, and never quick.
 
