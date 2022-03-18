@@ -60,7 +60,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 
 ## **Total comprehension**
 
-* "The height of cultivation runs to simplicity. Half-way cultivation runs to ornamentation."
+* **"The height of cultivation runs to simplicity. Half-way cultivation runs to ornamentation."**<br><br>You understand a subject well when you no longer overcomplicate your explanation of it. You've grasped a skill when you no longer make extra moves while executing. You've mastered your emotions when you experience as long as necessary, and no longer.<br><br>A sign of cultivation is efficiency and a sign of efficiency is simplicity. However, when you don't know something well enough to simplify, you're left but no choice but to make it more complicated. This often isn't intentional. Rather, it's merely the result of confusion and inefficient connections between the supporting skills and knowledge.<br><br>​​​​​​​This can only be fixed with training, reflection, and repetition.&nbsp;
 * "We shall find the truth when we examine the problem. The problem is never apart from the answer. The problem is the answer — understanding the problem dissolves the problem."
 * "Awareness has no frontier; it is a giving of your whole being, without exclusion. Concentration is a narrowing down of the mind. But we are concerned with the total process of living and to concentrate exclusively on any particular aspect of life, belittles life."
 * "When you partially understand something, you make everything more complicated and add the extraneous."
