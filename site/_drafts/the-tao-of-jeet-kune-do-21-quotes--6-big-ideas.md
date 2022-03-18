@@ -29,7 +29,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 ## **Self-Knowledge**
 
 * ***"The consciousness of self is the greatest hindrance to the proper execution of all physical action."***<br><br>Most people aren't thinking about you. In fact, most people don't even know that you exist. You're worried about looking foolish or falling out of favor with them, and it's keeping you from executing in your life.<br><br>One day they'll die. So will you. What they think is ephemeral. What they do is is ephemeral. These conditions apply to you as well. Don't let something temporary and meaningless ruin your temporary and meaningless time on this planet.
-* "Relationship is understanding. It is a process of self-revelation. Relationship is the mirror in which you discover yourself — to be is to be related."
+* *"Relationship is understanding. It is a process of self-revelation. Relationship is the mirror in which you discover yourself — to be is to be related."*<br><br>We only develop and learn about ourselves in relation to other people. We learn the most vital skill, communication—verbal and non-verbal—by constantly interaction with others.<br><br>We learn to love, respect, care for, and empathize by interacting with others. Our aims in competition, to defeat and overtake, also depend on understanding our opponent. And how we treat that opponent determines whether or not they become our enemy.&nbsp;
 * "Self-expression is total, immediate, without conception of time, and you can only express that if you are free, physically and mentally, from fragmentation."
 * "To know oneself is to study oneself in action with another person."
 
