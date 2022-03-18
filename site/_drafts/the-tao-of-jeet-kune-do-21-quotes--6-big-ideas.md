@@ -36,7 +36,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 ## **The state of mind to see the truth**
 
 * "To obtain enlightenment in martial art means the extinction of everything which obscures the 'true knowledge,' the 'real-life.'"
-* "The oneness of all life is a truth that can be fully realized only when false notions of a separate self, whose destiny can be considered apart from the whole, are forever annihilated."
+* **"The oneness of all life is a truth that can be fully realized only when false notions of a separate self, whose destiny can be considered apart from the whole, are forever annihilated."**<br><br>The fastest way to know the truth is to stop harboring falsehoods.&nbsp; In this way, whatever is left is real, honest, and true. When you can do this, then you no longer be threatened by anything, because only that which is vulnerable and temporary can be threatened and the truth is neither of those things.<br><br>​​​​​​​This reminds me of a line from one of my favorite books, The Course in Miracles: "No real can be threatened. Nothing unreal exists." The goal is to only focus on what is real to you. If you do this to the best of your ability, you will always know peace, even if you accidentally align yourself with the counterfeit.&nbsp;
 * "To see a thing uncolored by one’s own personal preferences and desires is to see it in its own pristine simplicity."
 
 ## **Formless artistry**
