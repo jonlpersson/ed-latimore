@@ -12,13 +12,13 @@ image: /assets/images/drafts/tao-of-jeet-kune-do.jpeg
 ---
 The Tao of Jeet Kune Do was perhaps Bruce Lee’s greatest contribution to the world of martial arts. He began writing the book in 1970 while he was recovering from a back injury that nearly ruined his acting career before it even got started.
 
-The book is essentially a treatise on all aspects of fighting. Specifically it was a combination of Bruce Lee’s notes and commentaries on the fighting system he was developing (Jeet Kune Do or "JKD” for short) and a comparison of it to other fighting systems.
+The book is essentially a treatise on all aspects of fighting. Specifically, it was a combination of Bruce Lee’s notes and commentaries on the fighting system he was developing (Jeet Kune Do or "JKD” for short) and a comparison of it to other fighting systems.
 
 Bruce Lee kept various notes throughout the development of his fighting system that would also be used in The book. Many of these notes were "sudden inspirations" which were incomplete and lacked any kind of a construct. The combination of the "core set of writings" and the "disparate notes" are what make up the text Tao of Jeet Kune Do.
 
 As a result, the book doesn’t read like a narrative or even a complete work. Rather, it’s a set of observations and notes, written in a flowing style, as Bruce captured many of these inspirations sporadically.
 
-The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for my many things life, and Bruce Lee is able to capture many poignant observations from martial arts that apply to many areas of life.
+The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for my many things life, and Bruce Lee capture many poignant observations from martial arts that apply to many areas of life.
 
 Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations. This book is a must have for any martial artist or philosopher out there.
 
