@@ -6,7 +6,7 @@ permalink: /tao-of-jeet-kune-do-quotes/
 tags:
   - physical-mastery
 description:
-image:
+image: /assets/images/drafts/tao-of-jeet-kune-do.jpeg
 ---
 The Tao of Jeet Kune Do was perhaps Bruce Lee’s greatest contribution to the world of martial arts. He began writing the book in 1970 while he was recovering from a back injury that nearly ruined his acting career before it even got started.
 
@@ -21,6 +21,8 @@ The Tao of Jeet Kune Do is one of my favorite books because fighting is an excel
 Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations. This book is a must have for any martial artist or philosopher out there.
 
 ## 21 quotes and 6 big ideas from The Tao of Jeet Kune Do
+
+![The Tao of Jeet Kune Do](/assets/images/drafts/tao-of-jeet-kune-do.jpeg "The Tao of Jeet Kune Do"){: width="280" height="365"}
 
 ## **Self-Knowledge**
 
