@@ -42,7 +42,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 ## **Formless artistry**
 
 * "Art is an expression of life and transcends both time and space. We must employ our own souls through art to give a new form and a new meaning to nature or the world."
-* "Art is never decoration, embellishment; instead, it is a work of enlightenment. Art, in other words, is a technique for acquiring liberty."
+* **"Art is never decoration, embellishment; instead, it is a work of enlightenment. Art, in other words, is a technique for acquiring liberty."**<br><br>True artists never create for the sake of vanity. They may have developed a sense of vanity towards themselves, but the work is never created in vain. This is a valuable lesson about art and how one can add more of an artistic flair to their life.<br><br>To create art, all of you have to do is create with the intention of freeing your ideas and emotions from the restrictive cage of your mind and heart. If you view creation as an act of liberation of your most deeply cherish thoughts and feelings, then you have the ability to artistically express yourself in a variety of vocations.<br><br>​​​​​​​You don't need an canvas or a musical instrument. You simply need the tools of your trade and intention.
 * "Art calls for complete mastery of techniques, developed by reflection within the soul."
 
 ## **Martial arts analogies to life**
