@@ -1,5 +1,5 @@
 ---
-tag:
+tag: relationship-building
 title: Relationship building
 description: >-
   These strategies for relationship building work to make strong relationships
@@ -15,4 +15,3 @@ page_blocks:
     alignment:
     text_markdown:
 ---
-
