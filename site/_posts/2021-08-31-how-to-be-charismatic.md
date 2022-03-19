@@ -4,7 +4,7 @@ article_type: Article
 title: 'Personal magnetism: How to be more charismatic'
 permalink: /how-to-be-charismatic/
 tags:
-  - emotional-mastery
+  - relationship-building
 description: >-
   Discover how to be more charismatic, attract more people, and captivate no
   matter where you are
