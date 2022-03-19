@@ -1,14 +1,15 @@
 ---
-date: 2021-09-17 08:00:00 -0500
+date: 2021-09-17 09:00:00 -0400
 article_type: Article
-title: "Do women care about money? 7 reasons the answer is yes"
+title: Do women care about money? 7 reasons the answer is yes
 permalink: /do-women-care-about-money/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
-  Are all women gold-diggers? Here's why money is so important to the opposite sex
+  Are all women gold-diggers? Here's why money is so important to the opposite
+  sex
 image: /assets/images/thumbnails/ed-flying-in-first-class.jpg
 ---
-
 Let’s just cut to the chase.
 
 Women care about money. They care about money a lot. Yes, even the ones who say that money doesn’t matter, doesn’t buy you happiness, blah blah blah. It’s all crap.
@@ -23,20 +24,15 @@ That being said, money isn’t the only thing women care about. In fact, the rea
 
 In this article, you'll learn seven reasons women care about money and how to show them you possess the traits they’re looking for even if your bank account doesn’t yet reflect that.
 
-{% include widgets/toc.html 	heading="Do women care about money?" 	list-items="Focus, Access to resources, Purpose, Contentment, Ambition, Confidence and novelty, Status"
+{% include widgets/toc.html heading="Do women care about money?" list-items="Focus, Access to resources, Purpose, Contentment, Ambition, Confidence and novelty, Status"</p><p>list-ids="1-focus, 2-access-to-resources, 3-purpose, 4-contentment, 5-ambition, 6-confidence-and-novelty, 7-status, what-to-do-if-you-dont-have-money" %}
 
-list-ids="1-focus, 2-access-to-resources, 3-purpose, 4-contentment, 5-ambition, 6-confidence-and-novelty, 7-status, what-to-do-if-you-dont-have-money" %}
-
-
-## 1. Focus
+## 1\. Focus
 
 Amassing wealth requires focus and the ability to stick with something long enough to see the results you desire. This is important especially to women who are looking for commitment. It means you’re not a quitter.
 
 Even women who are interested in only casual relationships prefer men who know how to see things through—to finish what they started.
 
 Other ways this shows up:
-
-
 
 * Going to college
 * Running a successful business
@@ -46,12 +42,11 @@ The main point here is: don’t let women become your distraction even once you�
 
 It might sound counter-intuitive, but trust me on this. You’ve probably heard that women like a great deal of attention. They do. But you can shower your lady with attention in your free time. Your focus is what attracted her. If you lose that, it won’t matter if you’re not bringing home the bread, you’re going to lose her anyway.
 
-
-## 2. Access to resources
+## 2\. Access to resources
 
 Almost everyone has heard this already.
 
-It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up[^1] women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
+It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
 
 Today, the landscape is different but the principle is the same. You eat what you kill.
 
@@ -65,18 +60,15 @@ In today’s world, money isn’t the only way to access resources. A smart man 
 
 You need at least a little bit of charisma to pull this off. Learn to vet and assemble valuable people around you who can get you into places you cannot go on your own. Of course, you have to give value as well.
 
-
-## 3. Purpose
+## 3\. Purpose
 
 A man who can (and does) command top dollar for his skill shows that you’re a high performer. And the top high performers in the world have a defined sense of purpose to something greater than themselves. That’s attractive to a woman.
 
 You may wonder why even women who have their own money care about how much money a man makes?
 
-It’s simple.  Women want men with a sense of direction and dedication to something bigger. Naturally, the world is a chaotic place. Direction provides grounding and security and the potential that the future will be better than the present.
+It’s simple. Women want men with a sense of direction and dedication to something bigger. Naturally, the world is a chaotic place. Direction provides grounding and security and the potential that the future will be better than the present.
 
 How do you show you have a sense of purpose?
-
-
 
 * Have a goal and plan for its achievement
 * Have a standard that you live by
@@ -85,8 +77,7 @@ How do you show you have a sense of purpose?
 
 You’ll know what works and if you need to adjust your approach by her body language.
 
-
-## 4. Contentment
+## 4\. Contentment
 
 Money doesn’t buy you happiness. Experiences do. What money can provide is access to more experiences.
 
@@ -100,8 +91,7 @@ Build a stable income that provides access to the experiences you want in life. 
 
 Don’t bother hating yourself while you're building either. Growth, as we'll cover next, is also an attractive quality. Be confident and have a plan. Find joy in the challenge of increasing your income.
 
-
-## 5. Ambition
+## 5\. Ambition
 
 Next up, when you’ve amassed personal wealth it’s an indicator that you have ambition. No one, especially women, wants to be around someone decidedly going nowhere. Why? Because it indicates a lack of growth and limited future potential.
 
@@ -111,14 +101,11 @@ True ambition stems from your desire to accomplish a goal. It’s easier to must
 
 Other ways to show ambition:
 
-
-
 * Have non-negotiable time set aside to work on your goal
 * Listen when people talk and respond accordingly adding to their statement
 * Keep going no matter what
 
-
-## 6. Confidence and novelty
+## 6\. Confidence and novelty
 
 Novelty is the human need to experience new things. [It keeps you interesting](https://brainworldmagazine.com/the-importance-of-novelty/) which also heightens or compliments your physical attractiveness.
 
@@ -134,8 +121,7 @@ So do women want men with money, you bet. But being confident and interesting wi
 
 Ambition and confidence are two of the top qualities women look for in men. Working on these will help you [become more attractive](https://edlatimore.com/how-to-be-an-attractive-man/) and the type of man women seek out.
 
-
-## 7. Status
+## 7\. Status
 
 Historically, women were only able to climb the social ranks by marrying a man of means. From this standpoint, money denotes status which indicates social mobility, access to resources, safety, and all of the points we’ve covered up till now.
 
@@ -149,14 +135,11 @@ History is littered with men that married based on their material wealth and fou
 
 Ways to avoid gold-diggers and transactional relationships:
 
-
-
 * Avoid buying women you barely know, expensive gifts
 * Let your personality do the speaking
 * Save your money for women that show they’re interested in you as a person
 * Try coffee dates before first dates to gauge the interest a woman has in you
 * Don’t exchange gifts for the promise of sex or a relationship
-
 
 ## What to do if you don't have money?
 
@@ -168,21 +151,16 @@ And it can cause stress if you're looking for a potential mate and not simply a 
 
 Here are few tips to help you out if your paper is a little tight:
 
-
-
 * Learn a new skill to increase your income potential. This will also improve your status, ambition, and personal growth
-* [Work on your confidence.](https://edlatimore.com/how-to-build-confidence/) Lacking funds can make you think less of yourself and ruin your confidence which is the fastest way to turn off the majority of women.  When you work on yourself you build up your attractiveness and additionally, your confidence.
+* [Work on your confidence.](https://edlatimore.com/how-to-build-confidence/) Lacking funds can make you think less of yourself and ruin your confidence which is the fastest way to turn off the majority of women. When you work on yourself you build up your attractiveness and additionally, your confidence.
 * Take on a new hobby or interest. This will make you more interesting and put you in a position to meet single women.
 * Always be improving - Work on your personal style, your conversation, your mindset, etc. You'll signal the growth, security, ambition, and potential women value when you're always improving.
 
-
 ## Wrapping up
 
-Do women really care about money? Bottom line—yes. But you’ll need the traits that _having wealth signifies_ if you’re going to find a high-quality woman that sticks around.
+Do women really care about money? Bottom line—yes. But you’ll need the traits that *having wealth signifies* if you’re going to find a high-quality woman that sticks around.
 
 Here are those traits again:
-
-
 
 1. Focus and the ability to stick with something until it’s achieved
 2. Access to resources, security, and safety
@@ -198,4 +176,4 @@ Here are those traits again:
 
 ### References:
 
-[^1]: Buss, David M., Shackelford, Todd K., _Sage Journals_, Published 1/1/2008, [https://journals.sagepub.com/doi/10.1177/147470490800600116](https://journals.sagepub.com/doi/10.1177/147470490800600116), accessed Sep 13, 2021
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Buss, David M., Shackelford, Todd K., <em>Sage Journals</em>, Published 1/1/2008, <a href="https://journals.sagepub.com/doi/10.1177/147470490800600116">https://journals.sagepub.com/doi/10.1177/147470490800600116</a>, accessed Sep 13, 2021&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li></ol></div>
