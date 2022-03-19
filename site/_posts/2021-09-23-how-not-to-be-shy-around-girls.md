@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to not be shy around girls: 7 ways that work'
 permalink: /how-not-to-be-shy-around-girls/
 tags:
-  - emotional-mastery
+  - relationship-building
 description: >-
   Get nervous and twitchy around women? This is how to stop being shy around
   girls
