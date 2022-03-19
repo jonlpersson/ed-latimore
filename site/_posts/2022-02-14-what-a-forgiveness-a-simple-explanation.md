@@ -3,7 +3,8 @@ date: 2022-02-14 15:26:39 -0500
 article_type: Article
 title: What is forgiveness? A simple explanation
 permalink: /what-is-forgiveness/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Forgiveness is a powerful idea that is often misunderstood. In this post, I
   clear up misunderstandings and better help you able to understand how to
