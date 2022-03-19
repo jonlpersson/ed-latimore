@@ -3,7 +3,8 @@ date: 2021-03-12 22:20:00 -0500
 article_type: Review
 title: 'The Book Of Five Rings: 10 Best Quotes And Ideas'
 permalink: /the-book-of-five-rings-quotes/
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 description: >-
   The Book of Five Rings is almost 400 years old, but its lessons are timeless.
   I've collected the ten best quotes and ideas that you can apply today.
@@ -17,7 +18,7 @@ I’ve quoted the 10 most powerful passages from the book on strategy, disciplin
 
 {% include widgets/toc.html heading="The Book of Five Rings: 10 best quotes and ideas" list-items="The spirit of The Way and strategy, Deep ability vs shallow skill, Teachers need students; students need teachers, Perception is greater than sight, Change your perspective to solve problems, Life is a marathon; Not a track meet, Process versus outcome, Musashi teaches fundamental strategic principles" list-ids="the-spirit-of-the-way-and-strategy, deep-ability-vs-shallow-skill, teachers-need-students-students-need-teachers, perception-is-greater-than-sight, change-your-perspective-to-solve-problems, life-is-a-marathon-not-a-track-meet, process-versus-outcome, musashi-teaches-fundamental-strategic-principles" %}
 
-***
+---
 
 ## The spirit of The Way and strategy
 
@@ -144,3 +145,4 @@ It also highlights the importance of speed. This is the most valuable attribute 
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
