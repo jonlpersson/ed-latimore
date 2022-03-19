@@ -3,13 +3,13 @@ date: 2020-03-14 14:21:00 -0400
 article_type: Article
 title: 5 Simple Ways To Start A Conversation
 permalink: /how-to-start-a-conversation/
-tags: [physical-mastery]
+tags:
+  - relationship-building
 image: /assets/images/posts/ed-holding-court.jpg
 description: >-
   If you want to know how to talk to people, this article teaches five ways to
   connect with people and start a conversation.
 ---
-
 The goal of all conversation is connection.
 
 Whether we're delivering a speech, making small talk, or telling jokes, the objective is always to find some common ground to stand on. Human connection is arguably the most important part of life. Without forming bonds, life is meaningless.
