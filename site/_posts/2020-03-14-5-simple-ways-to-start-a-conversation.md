@@ -10,7 +10,7 @@ description: >-
   If you want to know how to talk to people, this article teaches five ways to
   connect with people and start a conversation.
 ---
-The goal of all conversation is connection.
+The goal of all conversations is connection.&nbsp;
 
 Whether we're delivering a speech, making small talk, or telling jokes, the objective is always to find some common ground to stand on. Human connection is arguably the most important part of life. Without forming bonds, life is meaningless.
 
