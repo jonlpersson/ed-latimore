@@ -3,7 +3,8 @@ date: 2021-03-03 16:50:00 -0500
 article_type: Article
 title: How to stop hating someone and holding grudges
 permalink: /how-to-stop-hating-someone/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   When you hate someone, you’re drinking poison and expecting them to die. Learn
   how to stop hurting yourself with and get over your hate of others
@@ -73,7 +74,7 @@ When someone has displayed malice or cruelty towards you, it feels natural to ha
 
 The other person can't experience your hate. Even if you attack them, all they feel is the physical pain of the attack. The person can't feel any hate, no matter how strongly you feel.
 
-Realizing that [you’re the only one who suffers](https://www.serenitymaliburehab.com/mental-health-effects-of-hate/){: target="_blank" rel="noopener noreferrer"} when you hate someone else is the first step to letting go of any hatred you have for another person;] regardless of what they did to you.
+Realizing that [you’re the only one who suffers](https://www.serenitymaliburehab.com/mental-health-effects-of-hate/){: target="_blank" rel="noopener noreferrer"} when you hate someone else is the first step to letting go of any hatred you have for another person;\] regardless of what they did to you.
 
 This realization that your ill feelings for another person only harms you is an important step. It allows you to think through and about your feelings and when you do that, it’s difficult to become emotional.
 
