@@ -4,7 +4,7 @@ article_type: Article
 title: 7 ways to make friends in a new city
 permalink: /how-to-make-friends-in-a-new-city/
 tags:
-  - emotional-mastery
+  - relationship-building
 description: >-
   If you want to make new friends, you’re going to have to get out of your
   comfort zone. Here's 7 ways to help you make friends in a new city easier.
