@@ -20,7 +20,7 @@ Bruce Lee kept various notes throughout the development of his fighting system t
 
 As a result, the book doesn’t read like a narrative or even a complete work. Rather, it’s a set of observations and notes, written in a flowing style, as Bruce captured many of these inspirations sporadically.
 
-The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for my many things life, and Bruce Lee captures many poignant observations from martial arts that apply to many areas of life.
+The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for many things in life, and Bruce Lee captures many poignant observations from martial arts that apply to many areas of life.
 
 This book is a must-have for any martial artist or philosopher out there. Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations.
 
