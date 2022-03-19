@@ -1,24 +1,24 @@
 ---
-date: 2021-09-06 08:00:00 -0500
+date: 2021-09-06 09:00:00 -0400
 article_type: Article
-title: "How to be the most interesting man in any room"
+title: How to be the most interesting man in any room
 permalink: /how-to-be-interesting/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
-  Discover actionable steps you can take to be more interesting, expand your mind, and tap into a life you can get excited about
+  Discover actionable steps you can take to be more interesting, expand your
+  mind, and tap into a life you can get excited about
 image: /assets/images/thumbnails/ed-after-sparring-with-training-partner.jpg
 ---
-
 Are you the life of parties you've never even attended?
 
-Instead of shark week, do sharks have a week dedicated to _you_?
+Instead of shark week, do sharks have a week dedicated to *you*?
 
 Have you ever parallel parked a train?
 
 If not, this article on how to become more interesting is for you.
 
-{% include widgets/toc.html 	heading="How to be more interesting" 	list-items="What makes a person interesting?, Be obsessively curious about other people, Fall down a curiosity rabbit hole, Adopt a path of continuous self-improvement, Take your brain off auto-pilot, Embrace your weird side, Breakup with your homies " 	list-ids="what-makes-a-person-interesting, be-obsessively-curious-about-other-people, fall-down-curiosity-rabbit-holes, adopt-a-path-of-continuous-self-improvement, take-your-brain-off-auto-pilot-and-think-for-yourself, embrace-your-weird, dump-your-friends" %}
-
+{% include widgets/toc.html heading="How to be more interesting" list-items="What makes a person interesting?, Be obsessively curious about other people, Fall down a curiosity rabbit hole, Adopt a path of continuous self-improvement, Take your brain off auto-pilot, Embrace your weird side, Breakup with your homies " list-ids="what-makes-a-person-interesting, be-obsessively-curious-about-other-people, fall-down-curiosity-rabbit-holes, adopt-a-path-of-continuous-self-improvement, take-your-brain-off-auto-pilot-and-think-for-yourself, embrace-your-weird, dump-your-friends" %}
 
 ## What makes a person interesting?
 
@@ -30,19 +30,15 @@ People are interesting for the same reason that objects and activities are inter
 
 There’s no one way to be interesting but there are key ways I’ve seen that make people exceptional. Some of those are:
 
-
-
 * Charisma
 * Confidence
 * Attractiveness
 * A quality of impressiveness
 * Success in their field
 
-
 ## How to become ​a more interesting person
 
 Things you see all the time lose their novelty and with it your interest. Research suggests you [need a regular infusion of new things](https://brainworldmagazine.com/the-importance-of-novelty/) to live a long and healthy life. Without it, you begin to feel like you aren’t progressing and you also stop building valuable memories. The tips below will help you make better quality friends, explore new avenues, and build a life your former self would envy.
-
 
 ### Be obsessively curious about other people
 
@@ -54,23 +50,20 @@ If that’s you, you’re in luck. Here’s how to hack the matrix.
 
 Skip the mindless small talk and ask questions that get people out of rehearsed answer mode. Questions like:
 
-
-
 * What are you most excited about?
 * Any personal projects you’re passionate about right now?
 * How do you know the host? (if you’re at an event)
 * What was your dream job growing up?
 
-I can’t emphasize enough the importance of _listening _and _responding _in a relevant way. When you’re a good listener and show interest in other people, not only do you learn more about life, you also become more interesting to them.
+I can’t emphasize enough the importance of \_listening \_and \_responding \_in a relevant way. When you’re a good listener and show interest in other people, not only do you learn more about life, you also become more interesting to them.
 
 Asking better questions combined with active listening will help even shy introverts captivate a group of people.
-
 
 ### Fall down curiosity rabbit holes
 
 Becoming a more interesting person is about broadening your perspective.
 
-And broadening your life experiences does just that. The vast majority of people move through life reacting to the things that happen around them. If they learn new skills, it’s because their job or school required it. They come home, watch the same shows, play the same video games, talk to the same people...you get what I mean.
+And broadening your life experiences does just that. The vast majority of people move through life reacting to the things that happen around them. If they learn new skills, it’s because their job or school required it. They come home, watch the same shows, play the same video games, talk to the same people…you get what I mean.
 
 But the fact that you’re here says that you’ve woken up. Or you’re in the process of it. Good. Do that. It’s a painful process but life gets better when you start being proactive in your own endeavors.
 
@@ -84,14 +77,11 @@ What’s important is to find something that drives you. Fascinating people have
 
 For example, I’m passionate about helping young men learn to manage their emotions, approach life with more stoicism, and learn to think for themselves. I learned it the hard way battling alcoholism and overcoming growing up in the hood so you can learn it the easy way.
 
-
 ### Adopt a path of continuous self-improvement
 
 While all animals eat, sleep, poop, and reproduce, self-development is unique to human beings. We're the only animals that can be aware that something is hurting us and actively change that behavior.
 
 Self-improvement looks like:
-
-
 
 * Consistently evaluating your goals
 * Learning new things and actually putting them to good use
@@ -102,7 +92,6 @@ Reading and listening to good podcasts is a great way to get started on your sel
 People who read fiction are [more empathetic towards others](https://labsites.rochester.edu/scplab/wp-content/assets/images/2018/06/Dodell-Feder-JEPG-inpress.pdf) which is a requirement for great relationships and building lasting connections. Learning more also makes having great conversations easier.
 
 Podcasts can do the same while also helping you discover different perspectives. Seeing the world through the various eyes of others is how you stop caring what a single person thinks of you.
-
 
 ### Take your brain off auto-pilot and think for yourself
 
@@ -124,12 +113,9 @@ Thinking for yourself is out of most people's comfort zones.
 
 But you won’t be interesting to anyone simply parroting others’ thoughts and ideas. Risk saying how you feel. Be situation appropriate but be true to yourself. Try these tips:
 
-
-
 * Keep a journal of your thoughts
 * Question your biases and why you feel what you feel
 * Consider the other perspectives
-
 
 ### Embrace your weird
 
@@ -143,7 +129,6 @@ And he loved the striped, brightly colored ties that sent hoards of corporate ty
 
 Now, not everyone can pull off a fluorescent-colored suit, but you get what I mean. Lean into the things you like and make them work for you.
 
-
 ### Dump your friends
 
 Sometimes you can't expand who you are simply because you are stifled by the people you spend most of your time with. There are no new or better stories to be had because your group never does anything new. And more often than you’d think, that group of homies doesn't want to see you doing better than them.
@@ -152,14 +137,11 @@ Pay attention to your energy when you're with your friends. If you constantly fe
 
 As sweet black grandmamas like to say, “you go 'round with 4 fools, you'll end up being the 5th.”
 
-
 ## Wrapping up
 
-In short, ​an _interesting life_ will stem from your active interest in life and your pursuit of interesting topics.
+In short, ​an *interesting life* will stem from your active interest in life and your pursuit of interesting topics.
 
 To captivate the room or simply the person you’re talking to, try these tips:
-
-
 
 * Get to know other people
 * Try new things and follow your curiosity
