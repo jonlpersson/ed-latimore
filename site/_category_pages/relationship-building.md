@@ -6,8 +6,8 @@ description: >-
   in all domains. If you want a good relationship. Learn how to increase your
   emotional intelligence for great relationships.
 hero:
-  label:
-  heading:
+  label: How to build relationships
+  heading: Relationship building skills for all types of relationships
   text_markdown:
 page_blocks:
   - _id: posts_relevant
