@@ -10,9 +10,11 @@ description: >-
   Jeet Kune Do", with explanation and extrapolation.
 image: /assets/images/drafts/tao-of-jeet-kune-do.jpeg
 ---
-The Tao of Jeet Kune Do was perhaps Bruce Lee’s greatest contribution to the world of martial arts. He began writing the book in 1970 while he was recovering from a back injury that nearly ruined his acting career before it even got started.
+The Tao of Jeet Kune Do was perhaps Bruce Lee’s greatest contribution to the world of martial arts. He began writing the book in 1970 while he was recovering from a back injury\* that nearly ruined his acting career before it even got started.
 
-The book is essentially a treatise on all aspects of fighting. Specifically, it was a combination of Bruce Lee’s notes and commentaries on the fighting system he was developing (Jeet Kune Do or "JKD” for short) and a comparison of it to other fighting systems.
+***\*Note: For stylistic effect, the 1993 biopic movie about his life "Dragon: The Bruce Lee Story" showed this injury being caused by a fight. The reality is that Bruce injured his back performing the "Good morning" exercise with weights that were too heavy, too often, and without properly warming up. The real story doesn't make for good cinema.***
+
+The book is essentially a treatise on all aspects of fighting. Specifically, it was a combination of Bruce Lee’s notes and commentaries on the fighting system he was developing (Jeet Kune Do or "JKD” for short) and its comparison to other fighting systems.
 
 Bruce Lee kept various notes throughout the development of his fighting system that would also be used in The book. Many of these notes were "sudden inspirations" which were incomplete and lacked any kind of a construct. The combination of the "core set of writings" and the "disparate notes" are what make up the text Tao of Jeet Kune Do.
 
@@ -20,7 +22,7 @@ As a result, the book doesn’t read like a narrative or even a complete work. R
 
 The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for my many things life, and Bruce Lee captures many poignant observations from martial arts that apply to many areas of life.
 
-Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations. This book is a must-have for any martial artist or philosopher out there.
+This book is a must-have for any martial artist or philosopher out there. Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations.
 
 ## 21 quotes and 6 big ideas from The Tao of Jeet Kune Do
 
@@ -28,7 +30,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 
 ## **Self-Knowledge**
 
-* ***"The consciousness of self is the greatest hindrance to the proper execution of all physical action."***<br><br>Most people aren't thinking about you. In fact, most people don't even know that you exist. You're worried about looking foolish or falling out of favor with them, and it's keeping you from executing in your life.<br><br>One day they'll die. So will you. What they think is ephemeral. What they do is is ephemeral. These conditions apply to you as well. Don't let something temporary and meaningless ruin your temporary and meaningless time on this planet.
+* ***"The consciousness of self is the greatest hindrance to the proper execution of all physical action."***<br><br>Most people aren't thinking about you. In fact, most people don't even know that you exist. You're worried about looking foolish or falling out of favor with them, and it's keeping you from executing in your life.<br><br>One day they'll die. So will you. What they think is ephemeral. What they do is ephemeral. These conditions apply to you as well.<br><br>Don't let something temporary and meaningless ruin your temporary and meaningless time on this planet.
 * ***"Relationship is understanding. It is a process of self-revelation. Relationship is the mirror in which you discover yourself — to be is to be related."***<br><br>We only develop and learn about ourselves in relation to other people. We learn the most vital skill, communication—verbal and non-verbal—by constantly interaction with others.<br><br>We learn to love, respect, care for, and empathize by interacting with others. Even our aims in competition, to defeat and overtake, also depend on understanding our opponent. And how we treat that opponent determines whether or not they become our enemy.&nbsp;
 * "**Self-expression is total, immediate, without conception of time, and you can only express that if you are free, physically and mentally, from fragmentation."**<br><br>Whenever you hold part of yourself back, you're holding all of yourself back. Expression is only possible when the totalality of your being is free to be. Practical speaking, this is expressed in the idea of the saying "A chain is only as strong as its weakest link."<br><br>​​​What this means is that you can only be as effective as the most ineffective part of you. While you may get lucky a few times at the beginning, as the stakes get higher more of your weaknesses will revealed as more of you will be demanded to meet the challenges you face.&nbsp;
 * **"To know oneself is to study oneself in action with another person."**<br><br>We can learn a lot from observing how we interact with other people, but in a rather unsuspecting manner. When a character trait in another person pleases you, it's one that you wish you had. When a character trait in another person annoys you, it's one that you have and haven't made peace with yet.<br><br>In this way, one of the highest forms of self-development is awareness of the reactions you have when interacting with other people. &nbsp;
