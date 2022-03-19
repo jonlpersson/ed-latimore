@@ -1,23 +1,24 @@
 ---
-date: 2021-09-30 08:00:00 -0500
+date: 2021-09-30 09:00:00 -0400
 article_type: Article
-title: "How to get closer to a friend"
+title: How to get closer to a friend
 permalink: /how-to-get-closer-to-a-friend/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
-  Tired of surface-level relationships? Here's how to be close friends with someone
+  Tired of surface-level relationships? Here's how to be close friends with
+  someone
 image: /assets/images/thumbnails/ed-laughing-with-friends.jpg
 ---
-
 We all want friends with benefits.
 
 ‘Life benefits’ that is.
 
-And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self worth, and your confidence.[^1]
+And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self worth, and your confidence.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 This is true for both adults and adolescents.
 
-So why is it that around the age of 25 we start losing friends?[^2]
+So why is it that around the age of 25 we start losing friends?<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 Well, one reason is, it’s harder because we’re more busy. Another reason is people start believing it’s not possible to find good friends.
 
@@ -27,16 +28,13 @@ Most friendships never develop past the casual stage. And if you do make a close
 
 In this article, you’ll discover how to intentionally build stronger relationships and get closer to a friend.
 
-{% include widgets/toc.html 	heading="How to get closer to a friend" 	list-items="Are they close friend material?, Get the spark back, Ask better questions, Don’t hold grudges, Don’t just ‘plan’ to hang out, Listen to their interests, Lay it all on the table" 	list-ids="1-know-what-kind-of-friend-youre-dealing-with, 2-inject-some-newness, 3-upgrade-your-conversations, 4-practice-forgiveness, 5-schedule-time-to-connect-on-a-regular-basis, 6-discover-their-passions, 7-show-up-with-vulnerability" %}
+{% include widgets/toc.html heading="How to get closer to a friend" list-items="Are they close friend material?, Get the spark back, Ask better questions, Don&rsquo;t hold grudges, Don&rsquo;t just &lsquo;plan&rsquo; to hang out, Listen to their interests, Lay it all on the table" list-ids="1-know-what-kind-of-friend-youre-dealing-with, 2-inject-some-newness, 3-upgrade-your-conversations, 4-practice-forgiveness, 5-schedule-time-to-connect-on-a-regular-basis, 6-discover-their-passions, 7-show-up-with-vulnerability" %}
 
+## 1\. Know what kind of friend you’re dealing with
 
-## 1. Know what kind of friend you’re dealing with
-
-According to one study[^3] a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
+According to one study<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
 
 We typically consider friends those unrelated to us but friend groups can include family and significant others as well. These are categorized into five general categories with the first being the closest:
-
-
 
 1. **Support clique** - 1-5 best friends and romantic relationships
 2. **Sympathy group** - 10-15 people you consider good friends
@@ -50,10 +48,9 @@ This is why you have old friends that aren’t considered close.
 
 Are your current friends those to grow with or simply relationships to maintain? Determine what goals you have for your life and how you’d like your relationships to feel.
 
- Good friends offer support during life’s roughest chapters but [you can’t force relationships to work](https://edlatimore.com/you-cant-force-relationships-to-develop/ ).
+Good friends offer support during life’s roughest chapters but [you can’t force relationships to work](https://edlatimore.com/you-cant-force-relationships-to-develop/).
 
-
-## 2. Inject some newness
+## 2\. Inject some newness
 
 If you’re with a person for several years, you’ll start to notice the passion and excitement of being together wanes. You can’t coast off that initial spark forever.
 
@@ -63,8 +60,6 @@ To become closer friends, you have to inject some newness into your lives. Takin
 
 Newness reinvigorates your relationship and keeps it growing. Here are a few more ways to add novelty to your friendship:
 
-
-
 * Take on a new challenge together
 * Start a new hobby
 * Go somewhere new
@@ -72,16 +67,13 @@ Newness reinvigorates your relationship and keeps it growing. Here are a few mor
 
 Nothing beats in-person, real-life meet ups so do it if you can. All the virtual meetings in the world can’t capture the nuance of having another human beside you.
 
-
-## 3. Upgrade your conversations
+## 3\. Upgrade your conversations
 
 Good friends make you a better person. I know when I was facing alcohol addiction and general dissatisfaction with life, my friendships carried me through.
 
 But all friendships are not created equally. Time-on-task doesn’t automatically equal closeness. To build closer friendships you need better conversations. And better conversations require you to ask questions that go deeper than “How are you,” or “What are we doing tonight?”
 
-Research shows[^4] that questions like the ones below can help foster closer relationships:
-
-
+Research shows<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> that questions like the ones below can help foster closer relationships:
 
 * Before making a phone call, do you ever rehearse what you're going to say? Why?
 * If you could change anything about how you were raised, what would it be?
@@ -93,8 +85,7 @@ Ask followup questions like “How do you feel about that,” or “Why do you f
 
 What you learn from these conversations benefit your relationships but also make you more empathetic toward others and boosts your social skills.
 
-
-## 4. Practice forgiveness
+## 4\. Practice forgiveness
 
 Forgiveness is a much-talked-about but often overlooked method of bringing people closer together. So much so that I wrote an article on it. You can [read it here](https://edlatimore.com/how-to-forgive-someone/).
 
@@ -104,8 +95,7 @@ Forgiveness doesn’t mean letting yourself get beat up either. Perpetual line-s
 
 During the pandemic, it’s really easy to let lingering anger fester. Be proactive and talk about what’s bothering you as soon as possible.
 
-
-## 5. Schedule time to connect on a regular basis
+## 5\. Schedule time to connect on a regular basis
 
 This tip is a tactical one.
 
@@ -119,19 +109,17 @@ Our world has a million and one distractions. It’s too easy to let bonds weake
 
 Also if you’re feeling lonely, reaching out is also a powerful cure.
 
+## 6\. Discover their passions
 
-## 6. Discover their passions
-
-As long as you have shared values, the people you’re close to don’t have to share your interests. This is one way to break the relationship matrix: **listen to what other’s love without judgement and take an interest in it. **
+As long as you have shared values, the people you’re close to don’t have to share your interests. This is one way to break the relationship matrix: \*\*listen to what other’s love without judgement and take an interest in it. \*\*
 
 Say your friend is into pro wrestling. You don’t have to love pro wrestling to know why they love it. Taking an interest makes your friends feel validated and like they matter.
 
-In turn, they will want to provide the same for you. This is the law of reciprocity.[^5] Giving value makes others want to return that value. Or “you reap what you sow.”
+In turn, they will want to provide the same for you. This is the law of reciprocity.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> Giving value makes others want to return that value. Or “you reap what you sow.”
 
 Be mindful, though, when this energy is not returned. That’s a key sign you’re in a one-sided relationship.
 
-
-## 7. Show up with vulnerability
+## 7\. Show up with vulnerability
 
 The social media era has seen an onslaught of oversharing and crying on camera.
 
@@ -145,20 +133,15 @@ You simply don’t get there by 1. not sharing your true self or 2. alienating t
 
 Vulnerability might also look like:
 
-
-
 * Setting and enforcing boundaries
 * Reaching out when you need someone to talk to
 * Having a hard conversation when a friend shows destructive behavior
-
 
 ## Wrapping up
 
 Every new friend you make won’t be the peanut butter to your jelly, the Maverick Carter to your Lebron James, or the Matt Damon to your Ben Afleck. But when you find a friend you click with, make it official.
 
 Here’s how:
-
-
 
 * Know where they land on the friendship spectrum
 * Recreate the spark
@@ -168,7 +151,7 @@ Here’s how:
 * Find out what their interests are
 * Set boundaries. Be authentic. Be brave enough to have hard conversations
 
-If you liked this article, try reading [8 steps to make friends as an adult](https://edlatimore.com/how-to-make-friends-as-an-adult/ ).
+If you liked this article, try reading [8 steps to make friends as an adult](https://edlatimore.com/how-to-make-friends-as-an-adult/).
 
 I hope that helps. The rest is up to you.
 
@@ -176,12 +159,4 @@ I hope that helps. The rest is up to you.
 
 ### References
 
-[^1]: Mayo clinic staff. _Mayoclinic.org._ _[Friendships: Enrich your life and improve your health](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/friendships/art-20044860#:~:text=Boost%20your%20happiness%20and%20reduce,drinking%20or%20lack%20of%20exercise)** **_(accessed Sep, 24, 2021)
-
-[^2]: Bhattacharya, K., Ghosh, A., Monsivais, D., Dunbar, R. I., & Kaski, K. (2016). [Sex differences in social focus across the life cycle in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852646/). Royal Society open science, 3(4), 160097. (accessed Sep, 24, 2021)
-
-[^3]: Hall, J. A. (n.d.). _[How many hours does it take to make a friend?](https://journals.sagepub.com/doi/10.1177/0265407518761225) _- Jeffrey A. Hall, 2019. SAGE Journals. (Retrieved September 21, 2021)
-
-[^4]: Ehrenfeld, Temma. Reviewed by Lybl Ma. _[36 Questions to Bring You Closer Together](https://www.psychologytoday.com/us/blog/open-gently/201310/36-questions-bring-you-closer-together) _(2013) (accessed Sep, 24, 2021)
-
-[^5]: BrianTracy.com. _[Using the Law of Reciprocity and Other Persuasion Techniques Correctly](https://www.briantracy.com/blog/sales-success/using-the-law-of-reciprocity-and-other-persuasion-techniques-correctly/ ) _(accessed Sep, 24, 2021)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Mayo clinic staff. <em>Mayoclinic.org.</em> <em><a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/friendships/art-20044860#:~:text=Boost%20your%20happiness%20and%20reduce,drinking%20or%20lack%20of%20exercise">Friendships: Enrich your life and improve your health</a>** **</em>(accessed Sep, 24, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Bhattacharya, K., Ghosh, A., Monsivais, D., Dunbar, R. I., &amp; Kaski, K. (2016). <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852646/">Sex differences in social focus across the life cycle in humans</a>. Royal Society open science, 3(4), 160097. (accessed Sep, 24, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Hall, J. A. (n.d.). _<a href="https://journals.sagepub.com/doi/10.1177/0265407518761225">How many hours does it take to make a friend?</a> _- Jeffrey A. Hall, 2019. SAGE Journals. (Retrieved September 21, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Ehrenfeld, Temma. Reviewed by Lybl Ma. _<a href="https://www.psychologytoday.com/us/blog/open-gently/201310/36-questions-bring-you-closer-together">36 Questions to Bring You Closer Together</a> _(2013) (accessed Sep, 24, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>BrianTracy.com. _<a href="https://www.briantracy.com/blog/sales-success/using-the-law-of-reciprocity-and-other-persuasion-techniques-correctly/">Using the Law of Reciprocity and Other Persuasion Techniques Correctly</a> _(accessed Sep, 24, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
