@@ -3,7 +3,8 @@ date: 2021-06-13 22:19:07 -0400
 article_type: Article
 title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
-tags: [emotional-mastery]
+tags:
+  - emotional-mastery
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.
@@ -90,5 +91,6 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
 
 &nbsp;
