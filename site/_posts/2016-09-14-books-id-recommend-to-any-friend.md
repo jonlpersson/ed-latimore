@@ -3,7 +3,8 @@ date: 2016-09-14 20:00:00 -0400
 article_type: Review
 title: Best books on the mental and emotional side of fighting
 permalink: /books-about-mental-side-of-fighting/
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 image: /assets/images/posts/ReadingImage.png
 description: >-
   A curated list of the most influential, memorable, and instructive books that
@@ -50,3 +51,15 @@ It's a surprisingly short read. I read it on my kindle and the page counter had 
 Despite its short length, the ideas that it's packed with are applicable to many areas in life. The strategies are applicable to modern warfare, business, negotiation, and even relationships.
 
 ***Read my collection of notes and big ideas here—&gt;[The Art of War notes and summar](/art-of-war-quotes-and-summary/)y***
+
+## The Tao of Jeet Kune Do by Bruce Lee
+
+![](/assets/images/posts/tao-of-jeet-kune-do.jpeg){: width="280" height="365"}
+
+The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for my many things life, and Bruce Lee captures many poignant observations from martial arts that apply to many areas of life.
+
+Bruce Lee kept various notes throughout the development of his fighting system that would also be used in the book. Many of these notes were “sudden inspirations” which were incomplete and lacked any kind of a construct. The combination of the “core set of writings” and the “disparate notes” are what make up the text Tao of Jeet Kune Do.
+
+As a result, the book doesn’t read like a narrative or even a complete work. Rather, it’s a set of observations and notes, written in a flowing style, as Bruce captured many of these inspirations sporadically.
+
+This book is a must-have for any martial artist or philosopher out there. Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along with my own extrapolations and explanations.<br><br>***Read my collection of notes and big ideas here—&gt;[The Tao of Jeet Kune Do notes and summary](/tao-of-jeet-kune-do-quotes/)***
