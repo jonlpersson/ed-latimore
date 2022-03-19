@@ -3,7 +3,8 @@ date: 2020-12-20 23:36:00 -0500
 article_type: Article
 title: How to give tough love
 permalink: /tough-love/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Giving tough love can be terrifying. But if you truly care about someone, you
   must be prepared to help them face the uncomfortable facts
