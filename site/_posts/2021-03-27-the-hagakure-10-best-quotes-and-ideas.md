@@ -3,7 +3,8 @@ date: 2021-03-27 20:44:00 -0400
 article_type: Article
 title: 'The Hagakure: 10 best quotes and ideas'
 permalink: /hagakure-quotes/
-tags: ["mental-mastery"]
+tags:
+  - mental-mastery
 description: >-
   The Hagakure: The Book of The Samurai was written in the 1700s by Yamamoto
   Tsunetomo as a guide for samurai. These are the 10 best quotes and ideas from
@@ -157,5 +158,6 @@ There are few things to be gained and many to be lost by doing so. And before yo
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
 
 &nbsp;
