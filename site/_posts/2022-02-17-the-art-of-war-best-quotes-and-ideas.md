@@ -226,3 +226,4 @@ In social and business matters, the best defense against deception is inspection
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
