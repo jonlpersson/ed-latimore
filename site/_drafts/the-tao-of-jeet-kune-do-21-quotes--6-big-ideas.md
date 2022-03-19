@@ -55,7 +55,7 @@ Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do along wit
 
 ## **Patterns and systems**
 
-* "Set patterns, incapable of adaptability, of pliability, only offer a better cage. Truth is outside of all patterns."<br><br>&nbsp;
+* "Set patterns, incapable of adaptability, of pliability, only offer a better cage. Truth is outside of all patterns."<br><br>When you initially create or perform, it's easier to rely on patterns and systems. This way you can get enough repetitions without frustration or failure. However, if you want to achieve distinction, you'll have to step outside of the system and create something new and noteworthy.<br><br>The only way to do this is to create something new. Or, at the very least, think outside of the system and patterns that you have come to rely on. The best way to do this is to master the system itself.<br><br>Technical expression always comes before stylistic expression.&nbsp;
 * **"One can function freely and totally if he is “beyond the system.” The man who is really serious, with the urge to find out what truth is, has no style at all. He lives only in what is."**<br><br>You have to learn the rules before you can break the rules. By learning the rules, you come to understand the system and how it's built. In fact, by learning the system, you may even gain a place inside of the system. And it's from within the system that you can tear it down.<br>&nbsp;
 
 ## **Total comprehension**
