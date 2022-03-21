@@ -8,7 +8,7 @@ tags:
 description: >-
   Discover why it’s so hard to make friends and practical ways to expand your
   social circle
-image: /assets/images/posts/ed-latimore-sitting-outside.jpg
+image: /assets/images/posts/edwithshomobudapest.jpeg
 ---
 Belonging is a fundamental human need.
 
