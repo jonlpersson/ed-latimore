@@ -3,8 +3,8 @@ tag: overcoming-addiction
 title: Overcoming addiction
 description:
 hero:
-  label:
-  heading:
+  label: Overcome addiction
+  heading: Learn how to overcome addiction
   text_markdown:
 page_blocks:
   - _id: posts_relevant
