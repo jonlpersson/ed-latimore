@@ -1,6 +1,6 @@
 ---
 tag: overcoming-addictioon
-title: Addiction & sobriety
+title: Overcoming addiction
 description:
 hero:
   label: How to break addiction
