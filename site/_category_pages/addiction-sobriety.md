@@ -1,5 +1,5 @@
 ---
-tag: overcoming-addictioon
+tag: overcoming-addiction
 title: Overcoming addiction
 description:
 hero:
