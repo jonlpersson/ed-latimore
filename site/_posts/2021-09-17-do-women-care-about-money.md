@@ -24,8 +24,6 @@ That being said, money isn’t the only thing women care about. In fact, the rea
 
 In this article, you'll learn seven reasons women care about money and how to show them you possess the traits they’re looking for even if your bank account doesn’t yet reflect that.
 
-{% include widgets/toc.html heading="Do women care about money?" list-items="Focus, Access to resources, Purpose, Contentment, Ambition, Confidence and novelty, Status"</p><p>list-ids="1-focus, 2-access-to-resources, 3-purpose, 4-contentment, 5-ambition, 6-confidence-and-novelty, 7-status, what-to-do-if-you-dont-have-money" %}
-
 ## 1\. Focus
 
 Amassing wealth requires focus and the ability to stick with something long enough to see the results you desire. This is important especially to women who are looking for commitment. It means you’re not a quitter.
