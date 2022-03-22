@@ -22,8 +22,6 @@ Porn slowly steals your vitality and your edge. And it takes the intimacy out of
 
 In this article, you’ll discover nine good reasons to quit porn today—even if you’re not addicted.
 
-{% include widgets/toc.html heading="Reasons to quit watching porn" list-items="To maintain sexual vitality, You&rsquo;re a lion with no teeth, Porn warps your brain, Porn is trying to outdo itself, You&rsquo;re flirting with addiction, Your relationships get better, You&rsquo;re stuck in a cycle of time-wasting, You&rsquo;ll sleep better at night, Guilt-free browser history</p><p>" list-ids="1-a-mans-sexual-essence-is-vital, 2-you-lose-the-desire-to-hunt, 3-masturbating-to-porn-warps-your-brain-and-creates-bad-habits, 4-todays-porn-is-extreme-and-unrealistic, 5-youre-flirting-with-addiction, 6-relationships-with-women-are-more-fulfilling, 7-its-a-vicious-time-wasting-cycle, 8-youll-sleep-better-at-night, 9-you-wont-be-paranoid-when-people-use-your-devices" %}
-
 ## 1\. A man’s sexual essence is vital
 
 There is something that the ancient Taoists, Buddhists, Africans, Greeks, and other wise philosophers all knew: a man’s sexual energy is his life energy.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Taoist sexology, in particular, believed that excessive ejaculation drains a man’s essence, or jing.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Only through the practice of semen retention, could you preserve your jing and full vitality of life.
