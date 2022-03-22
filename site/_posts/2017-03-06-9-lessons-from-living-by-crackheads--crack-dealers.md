@@ -3,7 +3,8 @@ date: 2017-03-06 15:08:00 -0500
 article_type: Article
 title: 9 lessons from living by crackheads & crack dealers
 permalink: /crackhead/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/ed-with-rick-ross.jpg
 description: >-
   I grew up in the projects and learned a lot about crackheads and crack
