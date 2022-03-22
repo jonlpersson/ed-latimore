@@ -1,21 +1,22 @@
 ---
-date: 2021-10-05 08:00:00 -0500
+date: 2021-10-05 09:00:00 -0400
 article_type: Article
-title: "Why do I keep relapsing? (how to stop for good)"
+title: Why do I keep relapsing? (how to stop for good)
 permalink: /why-you-keep-relapsing/
-tags: ["mental-mastery"]
+tags:
+  - overcoming-addiction
 description: >-
-  Overcoming an addiction can be hard. But it doesn't have to be if you implement these four strategies for avoiding relapses.
+  Overcoming an addiction can be hard. But it doesn't have to be if you
+  implement these four strategies for avoiding relapses.
 image: /assets/images/thumbnails/ed-seated-against-wall.jpg
 ---
-
 I'll let you in on a secret. Two in fact.
 
 The first is, most "recovering" addicts are not recovering.
 
-They either haven't removed all _temptation_ or they continue to make _excuses_ to relapse. There is a lack of relapse prevention in their recovery process.
+They either haven't removed all *temptation* or they continue to make *excuses* to relapse. There is a lack of relapse prevention in their recovery process.
 
-Maybe this sounds like your situation. Clean for a number of days or maybe even hours and then relapse. You lose motivation to detox and feel embarrassed from your lack of self control... Which only contributes to the spiral of the relapse. Worse, it seems no one understands your situation or you've kept your drug addiction hidden.
+Maybe this sounds like your situation. Clean for a number of days or maybe even hours and then relapse. You lose motivation to detox and feel embarrassed from your lack of self control… Which only contributes to the spiral of the relapse. Worse, it seems no one understands your situation or you've kept your drug addiction hidden.
 
 But I get it. I know first hand that fighting an addiction is hard. I had a drinking and porn problem for several years and I knew two years before my last drink that I needed to make a change.
 
@@ -27,24 +28,25 @@ You keep relapsing because you haven't hit your breaking point yet. The desire t
 
 Although sometimes this is not enough. You’ve probably hit rock bottom before, sworn you’ll never relapse again and then the next week given in to the temptation. Furthermore, there are four common reasons as to why an addict chooses to relapse and if you haven’t dealt with these reasons yet, the cycle will continue and you’ll keep making excuses to relapse.
 
-{% include widgets/toc.html
+\{% include widgets/toc.html
 
-	heading="Four reasons why you keep relapsing"
+```
+heading="Four reasons why you keep relapsing"
 
-	list-items="You're unable (or can’t be bothered) to delay gratification, You’re in a bad environment (or allowing yourself to be), You have a poor routine, You’re lonely"
+list-items="You're unable (or can’t be bothered) to delay gratification, You’re in a bad environment (or allowing yourself to be), You have a poor routine, You’re lonely"
 
-	list-ids="1-youre-unable-or-cant-be-bothered-to-delay-gratification, 2-youre-in-a-bad-environment, 3-you-have-a-poor-routine, 4-youre-lonely"
+list-ids="1-youre-unable-or-cant-be-bothered-to-delay-gratification, 2-youre-in-a-bad-environment, 3-you-have-a-poor-routine, 4-youre-lonely"
+```
 
-%}
+%\}
 
-
-## 1. You’re unable (or can’t be bothered) to delay gratification
+## 1\. You’re unable (or can’t be bothered) to delay gratification
 
 It's human nature to give in to the immediate reward instead of waiting for the far bigger reward in the future. After all, you don't hear a crackhead say, "let's get high next Tuesday". It's always "let's get high right now."
 
-This phenomenon is called _delay discounting_ where there are two rewards, the first with less value but available immediately and the second, worth a lot more but availability requires _effort_ and _time_.[^1]
+This phenomenon is called *delay discounting* where there are two rewards, the first with less value but available immediately and the second, worth a lot more but availability requires *effort* and *time*.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
-The famous [marshmallow test](https://www.youtube.com/watch?v=QX_oy9614HQ) or [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) is a classic example of delay discounting in action. Kids are placed in a room by themselves with one marshmallow in front of them and the promise of more if they can wait several minutes for the researcher to return. What's interesting is that a later study found that the kids that could wait for the extra marshmallows were more likely to be socially adept, achieve higher grades in school and cope better under stress.[^2]
+The famous [marshmallow test](https://www.youtube.com/watch?v=QX_oy9614HQ) or [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) is a classic example of delay discounting in action. Kids are placed in a room by themselves with one marshmallow in front of them and the promise of more if they can wait several minutes for the researcher to return. What's interesting is that a later study found that the kids that could wait for the extra marshmallows were more likely to be socially adept, achieve higher grades in school and cope better under stress.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 This leads me to my second secret. If you can master delayed gratification, you will be able to achieve anything. Want to learn the piano? You have to say no to playing video games or watching Netflix and instead put the hours into learning.
 
@@ -52,8 +54,7 @@ Once I mastered delayed gratification, I was able to overcome my addictions. I s
 
 Unfortunately, the reality is very few master delayed gratification completely. The lure of instant gratification is a lifelong temptation. Fast food is everywhere and so is porn on the internet. You can go home and cook a proper meal or eat the donut now. You have to decide what you want in life. Live an average life or be extraordinary? The choice is yours.
 
-
-## 2. You're in a bad environment
+## 2\. You're in a bad environment
 
 The second reason is your environment or to put it bluntly, your environment is shit.
 
@@ -69,8 +70,6 @@ The trick to forcing new synaptic growth is to replace the common triggers to us
 
 Regardless of your triggers, here are three changes to your environment to implement right now.
 
-
-
 * Tidy up or declutter
 * Increase the amount of light
 * Introduce an indoor plant
@@ -81,14 +80,11 @@ Having a healthy environment is a crucial step to long term recovery. On the Bec
 
 {% include widgets/youtube.html id="7wZ-frv7LYA" %}
 
-
-## 3. You have a poor routine
+## 3\. You have a poor routine
 
 Another reason why you’re relapsing is you have a poor routine. Perhaps you're going to bed late and running on minimal sleep. A [study reported by the National Institute on Drug Abuse](https://www.drugabuse.gov/about-nida/noras-blog/2020/03/connections-between-sleep-substance-use-disorders) found that 10% of recovering cannabis users linked their relapse to sleep difficulties.
 
 There's also many benefits to getting good sleep like:
-
-
 
 * Reducing your risk to health problems such as heart disease and diabetes
 * Improves your mood and decreases stress
@@ -96,8 +92,7 @@ There's also many benefits to getting good sleep like:
 
 Having a good routine is not only a quality strategy in your addiction treatment but it's an absolute necessity to living a healthy life. If you're struggling with establishing a routine, check out my article on [how you get your life together](https://edlatimore.com/how-to-get-your-life-together/).
 
-
-## 4. You're lonely
+## 4\. You're lonely
 
 One of the problems with my alcohol use was that I drank with others because I didn't want to be alone. I wasn't comfortable with my own thoughts and individuality so I tried to fit in to feel part of the group.
 
@@ -119,7 +114,6 @@ Now if you don't have anyone to socialize with, you need to put yourself out the
 
 {% twitter https://twitter.com/edlatimore/status/1320569764050292737 %}
 
-
 ## Now you know what causes relapses
 
 In summary, to stop relapsing, you have to:
@@ -140,6 +134,4 @@ But if there is one important takeaway, it's to never give up on your recovery p
 
 ### References
 
-[^1]: Odum, A., 2011. [Delay discounting: I'm a K, you're a K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3213005/). Journal of the Experimental Analysis of Behavior, 96(3), pp.427-439.
-
-[^2]: Mischel, Walter, Yuichi, Shoda, and Monica L., Rodriguez. "[Delay of Gratification in Children](https://www.science.org/lookup/doi/10.1126/science.2658056)"._Science_ 244, no.4907 (1989): 933-938.
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Odum, A., 2011. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3213005/">Delay discounting: I'm a K, you're a K</a>. Journal of the Experimental Analysis of Behavior, 96(3), pp.427-439.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Mischel, Walter, Yuichi, Shoda, and Monica L., Rodriguez. "<a href="https://www.science.org/lookup/doi/10.1126/science.2658056">Delay of Gratification in Children</a>".<em>Science</em> 244, no.4907 (1989): 933-938.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
