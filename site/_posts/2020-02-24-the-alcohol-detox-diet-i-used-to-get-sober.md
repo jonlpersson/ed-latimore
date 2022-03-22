@@ -3,7 +3,8 @@ date: 2020-02-24 11:11:00 -0500
 article_type: Article
 title: The alcohol detox diet I used to get sober
 permalink: /the-alcohol-detox-diet/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/ed-eating.png
 description: >-
   A healthy diet can make it easier for you to get and stay sober. Learn the
@@ -110,7 +111,7 @@ Removing sugar and processed foods, in particular seed oils, is huge for liver h
 
 Nearly 35% of long-term drinkers will suffer from fatty liver disease. The Alcohol Detox Diet is crucial to maintaining liver health. Additionally, these supplements and herbs are also well studied and effective when combating fatty liver disease.
 
-![Fatty Liver Disease](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: <em>ID 161876895 &copy; Horillaz | Dreamstime.com</em>")
+![Fatty Liver Disease](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: &lt;em&gt;ID 161876895 © Horillaz | Dreamstime.com&lt;/em&gt;")
 
 **Omega 3** helps with brain and nervous system function, reduces stress and cortisol levels, can improve sleep and help with fatty liver disease. Since alcohol disrupts the body's ability to metabolizes essential fatty acids, [it’s a great idea to take this supplement.](https://healthfully.com/527278-can-omega-3-supplements-contribute-to-a-fatty-liver.html){: target="_blank" rel="noreferrer"}
 
