@@ -3,7 +3,8 @@ date: 2019-10-28 14:39:00 -0400
 article_type: Article
 title: 'How to quit drinking: 8 things to know'
 permalink: /8-things-to-know-if-you-want-to-quit-drinking/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/ed-drunk.jpg
 description: >-
   You’ve heard that quitting drinking and getting sober can change your life. In
@@ -144,7 +145,7 @@ However, if you can’t make progress in your life or continually regress becaus
 
 ## 5\. Getting drunk is not worth losing friends over
 
-![Friends who always drink](/assets/images/posts/friendsdrinking.jpg "They won't be friends for long if they toss a few more back&hellip;")
+![Friends who always drink](/assets/images/posts/friendsdrinking.jpg "They won't be friends for long if they toss a few more back…")
 
 Sometimes I wonder if I was any more of an asshole drunk than I was sober.
 
