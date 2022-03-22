@@ -3,11 +3,13 @@ date: 2021-12-01 08:00:00 -0500
 article_type: Article
 title: How to quit smoking weed
 permalink: /how-to-quit-smoking-weed/
-tags: [addiction-sobriety]
-description: If you find yourself struggling to quit weed despite obvious consequences, then this guide is for you.
+tags:
+  - overcoming-addiction
+description: >-
+  If you find yourself struggling to quit weed despite obvious consequences,
+  then this guide is for you.
 image: /assets/images/thumbnails/ed-holding-cbd.jpg
 ---
-
 **This is a guest post by Regan Jacklin, co-creator of Vice Breakers and Dick Detox with Ed Latimore**
 
 If I’m being honest, the first few years of smoking weed were incredible…
@@ -169,13 +171,13 @@ Thankfully, with a little work, we can get what we seek from weed from a sober l
 
 Why wait another day?
 
-***
+---
 
 I’d love to share many more strategies and ideas, but this article is already getting long. I do offer 1-on-1 coaching and would be happy to assist you in living weed-free. Feel free to send me an email at noneedforweed33@gmail.com or [DM me on Twitter](https://twitter.com/refinedmindset) where we can discuss effective treatment options and build a customized treatment program to help you quit smoking marijuana once and for all.
 
 One last gift before you go: I’ve developed two sets of affirmations that will help rewire your beliefs and cravings for weed. Within just a few short days you will notice that you crave weed less and can go without it *easier than ever* before. They’re free and highly effective but I plan to charge for them soon. [Get them here before they’re gone\!](https://noneedforweed.podia.com/sober-affirmations)
 
-***
+---
 
 ### References
 
