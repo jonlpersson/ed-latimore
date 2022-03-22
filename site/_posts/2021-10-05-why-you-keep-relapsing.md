@@ -28,19 +28,7 @@ You keep relapsing because you haven't hit your breaking point yet. The desire t
 
 Although sometimes this is not enough. You’ve probably hit rock bottom before, sworn you’ll never relapse again and then the next week given in to the temptation. Furthermore, there are four common reasons as to why an addict chooses to relapse and if you haven’t dealt with these reasons yet, the cycle will continue and you’ll keep making excuses to relapse.
 
-\{% include widgets/toc.html
-
-```
-heading="Four reasons why you keep relapsing"
-
-list-items="You're unable (or can’t be bothered) to delay gratification, You’re in a bad environment (or allowing yourself to be), You have a poor routine, You’re lonely"
-
-list-ids="1-youre-unable-or-cant-be-bothered-to-delay-gratification, 2-youre-in-a-bad-environment, 3-you-have-a-poor-routine, 4-youre-lonely"
-```
-
-%\}
-
-## 1\. You’re unable (or can’t be bothered) to delay gratification
+## 1\. You're unable (or can't be bothered) to delay gratification
 
 It's human nature to give in to the immediate reward instead of waiting for the far bigger reward in the future. After all, you don't hear a crackhead say, "let's get high next Tuesday". It's always "let's get high right now."
 
