@@ -1,6 +1,6 @@
 ---
 tag: mental-toughness
-title: How to be mentally strong
+title: Mental toughness
 description:
 hero:
   label: Mental toughness
