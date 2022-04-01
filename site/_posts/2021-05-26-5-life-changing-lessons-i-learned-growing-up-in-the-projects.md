@@ -3,13 +3,13 @@ date: 2021-05-26 06:00:00 -0400
 article_type: Article
 title: 5 things I learned growing up in the projects
 permalink: /the-projects/
-tags: [emotional-mastery]
+tags:
+  - mental-toughness
 image: /assets/images/posts/housing-projects.jpg
 description: >-
   Growing up in the projects is rough. I managed to get out, but these lessons I
   learned in the ghetto will stay with me forever.
 ---
-
 {% include widgets/youtube.html id="1-VR2qGp5S4" class="Don't like to read? Watch the video version of this article instead" %}
 
 I lived in the projects for the first 18 years of my life. A crackhead almost killed me (read that story and more [here](/crackhead/)), I constantly got into fights, and I even saw a guy get killed.
@@ -48,7 +48,7 @@ I learned things from that environment which gave me a significant advantage in 
 
 This is the type of education you can only experience, survive, and then say to yourself, “never again.”
 
-***
+---
 
 ## 5 lessons I learned growing up in the projects
 

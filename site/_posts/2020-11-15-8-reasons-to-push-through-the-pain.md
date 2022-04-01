@@ -3,13 +3,13 @@ date: 2020-11-15 18:29:00 -0500
 article_type: Article
 title: 8 reasons to push through the pain
 permalink: /pushing-through-the-pain/
-tags: [physical-mastery]
+tags:
+  - mental-toughness
 description: >-
   You learn the most about yourself when you push through pain. These are some
   of the lessons that can't be taught.
 image: /assets/images/thumbnails/pushing-through-pain.jpg
 ---
-
 Many people associate pain with defeat, loss, and failure. Boxers, on the other hand, develop a different relationship with pain.
 
 There is nothing quite like [the pain you experience during the hard work](/hard-work-beats-talent/) of pushing your body to its limits. The conditioning and preparation that goes into being a good boxer is incredibly difficult, unpleasant, and painful. This, itself, isn’t surprising.
@@ -74,7 +74,7 @@ Changing your body takes time, changing your social and love life takes time, an
 
 I tell guys all the time that running has never been enjoyable to me.
 
-They say some people experience a runner's high, but I'm not one of them. However, not only do [I run 5-6 days a week](/proper-running-form/), I don't have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result.  The same is true in boxing.
+They say some people experience a runner's high, but I'm not one of them. However, not only do [I run 5-6 days a week](/proper-running-form/), I don't have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result. The same is true in boxing.
 
 ![pushing through the pay roy jones jr ed latimore](/assets/images/posts/2020/pushing-through-the-pain-ed-latimore.jpg "After sparring with Roy Jones Jr. for a few rounds. My face is swollen, but that's part of the benefit of pain.")
 
@@ -106,7 +106,7 @@ Your personal life is no different.
 
 If you try to make new friends, you can come off as too aggressive or self-centered which leads to rejection. You might feel awkward while you're talking to new people and like you're making a bit of a fool yourself. Some people will want nothing to do with you but others will still want to hang out. Or you can let your social anxiety win and you never meet a new person again.
 
-In the first scenario, you push too hard and you still don't have any new friends. However, you made a push and now you know there's a line you can dial it back to. In the second scenario  you endure the unpleasantness of social awkwardness, but you experience the reward of making a new friend.
+In the first scenario, you push too hard and you still don't have any new friends. However, you made a push and now you know there's a line you can dial it back to. In the second scenario you endure the unpleasantness of social awkwardness, but you experience the reward of making a new friend.
 
 Only in the last scenario, where you gave into fear and embraced comfort, that nothing happens. There is no growth, change or learning.
 

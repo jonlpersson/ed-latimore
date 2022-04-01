@@ -3,7 +3,8 @@ date: 2021-03-07 09:17:00 -0500
 article_type: Article
 title: The easy 4 step problem-solving process (+ examples)
 permalink: /problem-solving-process/
-tags: ["mental-mastery"]
+tags:
+  - learning-skills
 description: >-
   This is the 4 step problem-solving process that I taught to my students for
   math problems, but it works for academic and social problems as well.
@@ -67,7 +68,7 @@ Word problems are not always clear about what needs to be solved. They also have
 
 ![solving simple trig problem](/assets/images/posts/2021/solvingsimpletrigproblem-1.png "solving simple trig problem"){: width="800" height="489"}
 
-**A radio station tower was built in two sections. From a point 87 feet from the base of the tower, the angle of elevation of the top of the first section is 25º, and the angle of elevation of the top of the second section is 40º. To the nearest foot, what is the height of the top section of the tower?**
+**A radio station tower was built in two sections. From a point 87 feet from the base of the tower, the angle of elevation of the top of the first section is 25&ordm;, and the angle of elevation of the top of the second section is 40&ordm;. To the nearest foot, what is the height of the top section of the tower?**
 
 ![solving complex trig problem](/assets/images/posts/2021/solvingcomplextrigproblem-1.jpg "solving complex trig problem"){: width="640" height="400"}
 

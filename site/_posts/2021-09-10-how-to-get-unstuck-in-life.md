@@ -3,7 +3,8 @@ date: 2021-09-10 09:00:00 -0400
 article_type: Article
 title: How to get unstuck in life (how I went from mediocrity to high achiever)
 permalink: /how-to-get-unstuck-in-life/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 description: >-
   Discover how to get unstuck in life by increasing your motivation and power to
   act. This is the battle plan I use to get myself out of any and every rut.

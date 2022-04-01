@@ -1,23 +1,24 @@
 ---
 date: 2021-11-17 08:00:00 -0500
 article_type: Article
-title: "How to take the lead in a relationship"
+title: How to take the lead in a relationship
 permalink: /how-to-take-the-lead-in-a-relationship/
-tags: [emotional-mastery]
-description: Whether you're single or have been married for years, here's how to be a leader in your relationship.
+tags:
+  - relationship-building
+description: >-
+  Whether you're single or have been married for years, here's how to be a
+  leader in your relationship.
 image: /assets/images/thumbnails/ed-with-girlfriend-anna-at-cafe.jpg
 ---
-
-
 No one wants to be with someone needy, passive, and floating aimlessly through life.
 
 Especially women.
 
-Studies show women who are more attractive and, in short, have more options, are likely to want a husband who is her equivalent or better.[^1] So a lack of purpose is a red flag for women looking to get into relationships.
+Studies show women who are more attractive and, in short, have more options, are likely to want a husband who is her equivalent or better.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> So a lack of purpose is a red flag for women looking to get into relationships.
 
 Your power as a leader (in the world or within a relationship) is tied to your ability to influence others.
 
-You might ask why men need to lead. It’s the principle I’ve shared before—women have historically married for security and social mobility.[^2] Call it a side effect of the evolution of society, but it doesn’t make it less true.
+You might ask why men need to lead. It’s the principle I’ve shared before—women have historically married for security and social mobility.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Call it a side effect of the evolution of society, but it doesn’t make it less true.
 
 This security women seek is both physical and psychological and completely unrelated to “good or bad.”
 
@@ -25,7 +26,7 @@ That’s why we see women that stay with bad dudes.
 
 Or the never ending cycle of pimps and hoes.
 
-It’s also the reason you see young men that need security teaming up with the “_wrong crowds_.”
+It’s also the reason you see young men that need security teaming up with the “*wrong crowds*.”
 
 But taking the lead in your relationship is not about forcing the other party to blindly follow you.
 
@@ -33,8 +34,7 @@ Taking the lead is less controlling and more fostering an environment where you 
 
 If you struggle with this, keep reading and I’ll tell you exactly how to take the lead in your relationship.
 
-{% include widgets/toc.html 	heading="How to take the lead in a relationship" 	list-items="Know what you want upfront, Be an active listener, Lean into your masculine energy, Bring some ass to get some ass, Be impeccable with your word, Be willing to walk away, Learn from your mistakes" 	list-ids="define-your-intentions-upfront, dont-try-to-fix-when-its-time-to-listen, exit-the-emotional-rollercoaster, demonstrate-leadership-over-talking-about-it, do-what-you-say-youre-going-to-do, avoid-one-itis, dont-be-a-one-hit-wonder" %}
-
+{% include widgets/toc.html heading="How to take the lead in a relationship" list-items="Know what you want upfront, Be an active listener, Lean into your masculine energy, Bring some ass to get some ass, Be impeccable with your word, Be willing to walk away, Learn from your mistakes" list-ids="define-your-intentions-upfront, dont-try-to-fix-when-its-time-to-listen, exit-the-emotional-rollercoaster, demonstrate-leadership-over-talking-about-it, do-what-you-say-youre-going-to-do, avoid-one-itis, dont-be-a-one-hit-wonder" %}
 
 ## Define your intentions upfront
 
@@ -42,7 +42,7 @@ Men and women play many roles in relationships. This includes everything from tr
 
 In healthy relationships, both of you will take your turn in each of these roles.
 
-However, most people don’t give any thought to _how _they want to be in a relationship. They never make it past the initial feeling that they want to be with _someone _after getting tired of random hookups.
+However, most people don’t give any thought to \_how \_they want to be in a relationship. They never make it past the initial feeling that they want to be with \_someone \_after getting tired of random hookups.
 
 If that sounds like you, you might even make it a point to define the person you're after.
 
@@ -60,7 +60,6 @@ This doesn’t mean you should show up to the first date with a checklist. That�
 
 Simply put, you can’t set the tone in a relationship if you don’t know where you hope to take it. Knowing you want to be happy isn’t enough. You need to know what each of your ideas of a successful relationship are, then actively introduce those things into the relationship.
 
-
 ## Don’t try to fix when it’s time to listen
 
 When creating an environment of security, it’s easy to view everything as a fire that needs extinguishing. And as a masculine male, you might be inclined to try to fix something that your girl is complaining about.
@@ -69,16 +68,15 @@ Don’t.
 
 A primary skill of a good leader is your ability to step back and be an active listener. Don’t allow your ego to cause you to go with your first instincts or not see a situation for what it truly is.
 
-Actively listening strengthens your relationships and makes you more trustworthy.[^3]
+Actively listening strengthens your relationships and makes you more trustworthy.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Often, women need to talk through things to come to their own resolutions. When you try to fix everything, you not only impede this process, you guarantee that…
 
-1. You’ll end up in a perpetual loop of putting out imaginary fires and/or...
+1. You’ll end up in a perpetual loop of putting out imaginary fires and/or…
 
 2. You demonstrate a lack of caring and listening, which causes perpetual arguments
 
 Your ability to listen helps those seeking your advice to trust you more. If you’re completely clueless about when it’s time to offer a solution, ask what the intention of a conversation is upfront.
-
 
 ## Exit the emotional rollercoaster
 
@@ -96,7 +94,6 @@ She needs to trust that your masculine energy is a safe place for her and that y
 
 Trying to be the “nice guy” in a relationship will ultimately lose her respect for you and prevent the development of a healthy relationship.
 
-
 ## Demonstrate leadership over talking about it
 
 In short, you gotta bring some ass to get some ass.
@@ -105,14 +102,13 @@ Weak men lead from a place of ego and fear without ever demonstrating they are c
 
 If a healthy, romantic relationship is what you’re after, you can’t coerce someone into following you. This quote perfectly sums it up:
 
-> A mind changed against its will is of the same opinion still. _— Les Brown_
+> A mind changed against its will is of the same opinion still. *— Les Brown*
 
 You can’t breed lasting loyalty through force. Instead, try this:
 
 * Be decisive in making the first move
 * Continue to grow your mindset and hard skills to improve your confidence
 * Know your ideal relationship/leadership traits and intentions upfront, then embody them
-
 
 ## Do what you say you’re going to do
 
@@ -126,7 +122,6 @@ Integrity with the world creates loyalty. Integrity with yourself creates moment
 
 Do what you say you’re going to do. Be who you say you are.
 
-
 ## Avoid one-itis
 
 It might seem counter-intuitive, but **always be willing to walk away.**
@@ -139,10 +134,9 @@ And that’s a bad place to be. A person with boundaries is a person that knows 
 
 Keep your own separate interests, do your own thing, and don’t make your partner the sole reason you are happy or sad or fulfilled in life.
 
-
 ## Don’t be a one-hit-wonder
 
-Over time, it’s human nature to settle into routines.[^4] You stop building and growing. You start to notice you aren’t as exciting as you once were.
+Over time, it’s human nature to settle into routines.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You stop building and growing. You start to notice you aren’t as exciting as you once were.
 
 Suddenly, you and your girl are more best friend gal pals, than friends with benefits.
 
@@ -153,7 +147,6 @@ It can be tempting to try to hold onto a leadership role due to history, but lit
 The solution?
 
 Always be working on yourself.
-
 
 ## Remember this for taking the lead in a relationship
 
@@ -171,15 +164,8 @@ Whether you are starting a new relationship or are deep into your marriage, do t
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-
-***
+---
 
 ### References
 
-[^1]: Dye, Lee. [Study: Beautiful Women Want it All](https://abcnews.go.com/Technology/DyeHard/story?id=4521988&page=1). ABC News.
-
-[^2]: Esteve A, Schwartz CR, Van Bavel J, Permanyer I, Klesment M, Garcia J. [The End of Hypergamy: Global Trends and Implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421994/). Popul Dev Rev. 2016;42(4):615-625. doi:10.1111/padr.12012
-
-[^3]: Mishra, Sudha. [Listening as a Leadership Tool: A Survey of Subordinates' Perception towards Listening Skills of Effective Leaders.](https://www.researchgate.net/publication/342170352_Listening_as_a_Leadership_Tool_A_Survey_of_Subordinates'_Perception_towards_Listening_Skills_of_Effective_Leaders) Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University. 14. 1410-1417. 10.37896/jxu14.6/170.
-
-[^4]: University of British Columbia. ["Hardwired for laziness? Tests show the human brain must work hard to avoid sloth."](https://www.sciencedaily.com/releases/2018/09/180918090849.htm) ScienceDaily.
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Dye, Lee. <a href="https://abcnews.go.com/Technology/DyeHard/story?id=4521988&amp;page=1">Study: Beautiful Women Want it All</a>. ABC News.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Esteve A, Schwartz CR, Van Bavel J, Permanyer I, Klesment M, Garcia J. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421994/">The End of Hypergamy: Global Trends and Implications</a>. Popul Dev Rev. 2016;42(4):615-625. doi:10.1111/padr.12012&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Mishra, Sudha. <a href="https://www.researchgate.net/publication/342170352_Listening_as_a_Leadership_Tool_A_Survey_of_Subordinates'_Perception_towards_Listening_Skills_of_Effective_Leaders">Listening as a Leadership Tool: A Survey of Subordinates' Perception towards Listening Skills of Effective Leaders.</a> Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University. 14. 1410-1417. 10.37896/jxu14.6/170.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>University of British Columbia. <a href="https://www.sciencedaily.com/releases/2018/09/180918090849.htm">"Hardwired for laziness? Tests show the human brain must work hard to avoid sloth."</a> ScienceDaily.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li></ol></div>

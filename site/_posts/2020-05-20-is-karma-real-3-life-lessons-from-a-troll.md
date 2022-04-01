@@ -3,7 +3,8 @@ date: 2020-05-20 12:59:00 -0400
 article_type: Article
 title: Is karma real? 3 life lessons from a troll
 permalink: /is-karma-real/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 image: /assets/images/thumbnails/ugly-internet-troll-vector-14784097.jpeg
 description: >-
   You never know who's paying attention on social media. An internet troll

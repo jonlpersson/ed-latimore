@@ -3,7 +3,8 @@ date: 2021-01-09 05:00:00 -0500
 article_type: Article
 title: Why people hate you (5 most common reasons)
 permalink: /why-you-have-haters-even-if-you-arent-an-asshole/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 image: /assets/images/thumbnails/2021/jay-gatsby.png
 description: >-
   Having haters sucks, but it's part of life. In this article I not only tell
@@ -37,7 +38,7 @@ That’s ok because today I’m going to tell you why these people are the way t
 
 I’ve had a lot of haters in my time. Some of them are justified, and some of them seemingly hate without reason. But after looking back and reflecting on my experiences, I’ve come to realize that all haters have a few things in common.
 
-***
+---
 
 ## Haters gonna hate: 5 reasons why you have haters
 
@@ -141,7 +142,7 @@ For the rest of your days, you’ll be the worst type of human being to the indi
 
 This is another reason why people remind you of what you used to be or where you came from. This is said to hold you down or to pull you back. If where you came from was trash, the other rats will resent you for escaping the sewer.
 
-***
+---
 
 ## How to respond to someone that doesn't like you (for no reason)
 

@@ -4,7 +4,7 @@ article_type: Article
 title: 'The Art of War: 10 best quotes and ideas'
 permalink: /art-of-war-quotes-and-summary/
 tags:
-  - mental-mastery
+  - boxing-lessons
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.
@@ -226,3 +226,4 @@ In social and business matters, the best defense against deception is inspection
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)

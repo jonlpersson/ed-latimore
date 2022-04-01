@@ -3,7 +3,8 @@ date: 2020-02-18 13:05:00 -0500
 article_type: Article
 title: How to hustle like a crackhead
 permalink: /how-to-hustle-like-a-crackhead/
-tags: [other]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/real-tyrone-biggums-1.jpeg
 description: >-
   You don't have to smoke crack to get the crackhead hustle, work ethic, and

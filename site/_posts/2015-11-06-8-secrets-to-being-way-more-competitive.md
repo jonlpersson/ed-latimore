@@ -3,9 +3,13 @@ date: 2015-11-06 19:00:00 -0500
 article_type: Article
 title: 8 secrets to being way more competitive
 permalink: /how-to-be-competitive/
-tags: [emotional-mastery]
+tags:
+  - boxing-lessons
+  - how-to-control-your-emotions
 image: /assets/images/thumbnails/2021/ed-knocking-out-cam.jpg
-description: Everyone thinks they’re competitive, but they aren’t. They just like to win. This list teaches you how to be more competitive.
+description: >-
+  Everyone thinks they’re competitive, but they aren’t. They just like to win.
+  This list teaches you how to be more competitive.
 ---
 Everyone thinks they’re competitive, but they aren’t. They just like to win. They have no idea how to truly compete.
 

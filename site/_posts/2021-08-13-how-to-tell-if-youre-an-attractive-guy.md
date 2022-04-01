@@ -3,7 +3,8 @@ date: 2021-08-13 09:00:00 -0400
 article_type: Article
 title: How to tell if you're an attractive guy
 permalink: /are-you-attractive/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Want to know if you've got more going for you than you think? Read this
   article on how to tell if you're an attractive guy.

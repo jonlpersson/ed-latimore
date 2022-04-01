@@ -3,7 +3,8 @@ date: 2017-01-11 19:00:00 -0500
 article_type: Article
 title: How to wake up earlier
 permalink:
-tags: ["mental-mastery"]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-running.jpg
 description: >-
   This article will teach you a simple but powerful method to wake up earlier.

@@ -3,7 +3,9 @@ date: 2019-12-08 00:00:00 -0500
 article_type: Article
 title: How to forgive someone who hurt you in 5 steps
 permalink: /how-to-forgive-someone/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
+  - relationship-building
 image: /assets/images/posts/forgiveness-prayer.jpeg
 description: >-
   I teach you how to practice forgiveness. It doesn't matter whether you need to
@@ -95,7 +97,7 @@ It's only modern convenience that allows us to transcend our base nature. Anyone
 
 This makes me think of a lot of the violence I witnessed and suffered growing up.
 
-![Forgiveness in the hood](/assets/images/posts/streetviolencerightsize.jpg "These guys probably will have a lot of forgiveness <em>and</em> justice coming their way!")
+![Forgiveness in the hood](/assets/images/posts/streetviolencerightsize.jpg "These guys probably will have a lot of forgiveness &lt;em&gt;and&lt;/em&gt; justice coming their way!")
 
 A lot of those kids only knew one way to relieve their frustration, feel empowered, or earn approval. For whatever reason, I got those feelings from video games and achievement.
 

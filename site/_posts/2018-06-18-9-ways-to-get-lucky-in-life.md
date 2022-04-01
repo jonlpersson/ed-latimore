@@ -3,7 +3,8 @@ date: 2018-06-18 09:44:00 -0400
 article_type: Article
 title: 9 ways to get lucky in life
 permalink: /how-to-get-lucky/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 image: /assets/images/posts/black-leprechaun.jpg
 description: "There are ways to increase the\_odds in your favor. Improving your luck isn't magical. If you want to learn how to get to lucky, continue reading..."
 ---
@@ -66,7 +67,7 @@ Preparation is a result of dedication to your craft. By constantly improving, yo
 
 ## Take more chances
 
-There is a great book I recommend called [“Hustle”]({{ '1623367166' | amazon }}){: target="_blank"} (written by Neil Patel, Patrick Vlaskovits, and Jonas Koffler). In the book, they compare getting lucky to getting up at bat in baseball. The level of skill or preparation you have is your batting average.
+| There is a great book I recommend called \[“Hustle”\]({{ '1623367166'</td><td>amazon }})\{: target="\_blank"\} (written by Neil Patel, Patrick Vlaskovits, and Jonas Koffler). In the book, they compare getting lucky to getting up at bat in baseball. The level of skill or preparation you have is your batting average. |
 
 > If your batting average is .400 in major league baseball, apparently this is excellent (please forgive me baseball fans. I don’t know the game well at all). This means that if you got up to bat 10 times, you’d hit the ball 4 times.
 >

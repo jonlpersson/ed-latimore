@@ -3,7 +3,8 @@ date: 2020-12-20 23:00:00 -0500
 article_type: Article
 title: How to be an attractive man (no-BS guide)
 permalink: /how-to-be-an-attractive-man/
-tags: [physical-mastery]
+tags:
+  - relationship-building
 image: /assets/images/thumbnails/2020/ed-attractive.jpg
 description: >-
   What are the 20% of things responsible for 80% of your attractiveness and
@@ -56,11 +57,11 @@ Most women aren’t gold diggers, but women do care about social status and weal
 
 These are the birds-eye view recommendations for each major pillar. I will go into far more detail—and make concrete, actionable recommendations that will get you noticeable results in 3-6 months.
 
-***
+---
 
 {% include widgets/toc.html heading="How to make yourself more attractive" list-items="Get physically fit, Dress better, Get hobbies, Become social, Get your money right, Become likeable" list-ids="get-your-physical-appearance-right, how-to-dress-to-attract-women-mens-style-basics, hobbies-to-meet-women, how-to-talk-to-women, do-women-care-about-money, personality-traits-that-make-a-man-more-attractive" %}
 
-***
+---
 
 ## Get your physical appearance right
 
@@ -292,7 +293,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, [*How to Make Friends and Influence People*]({{ '0671027034' | amazon }}). It’s a must-read if you want to improve your social skills.
+| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\](\{\{ '0671027034'  | amazon \}\}). It’s a must-read if you want to improve your social skills. |
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 
@@ -447,7 +448,7 @@ In order to become successful with women, you only need the fundamentals. After 
 
 But whatever you do, make sure to actually *take action*. All this knowledge I’ve shared is useless if you don’t apply it to your own life.
 
-***
+---
 
 As a final reminder, if you need help with your fashion sense, you should check out my buddy Tanner Guzy’s men’s style course, *Dress Like a Man*.
 

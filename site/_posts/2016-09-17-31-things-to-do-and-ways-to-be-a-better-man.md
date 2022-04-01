@@ -3,7 +3,8 @@ date: 2016-09-17 11:00:00 -0400
 article_type: Article
 title: The 31 ways to be a better man
 permalink: /how-to-be-a-better-man/
-tags: [emotional-mastery]
+tags:
+  - change-your-perspective
 image: /assets/images/posts/ed-30th-birthday.jpg
 description: >-
   These are 30 lessons I've learned about becoming a better man. I'm not the
@@ -11,11 +12,11 @@ description: >-
 ---
 The premise of this article is simple. I wrote it when I had just turned 31. Here are 30 ways to become a better man. If you follow these simple steps, you won't be a perfect man, but you will be the best version of a man that you can be.
 
-***
+---
 
-## How to be a better man: 31 real things the modern man do to live life to the fullest
+## How to be a better man: 31 real things the modern man does to live life to the fullest&nbsp;
 
-### 1. Be true to yourself
+### 1\. Be true to yourself
 
 Be comfortable in your own skin. Never be afraid of being disliked.
 
@@ -370,7 +371,7 @@ One step down is giving them access to your resources. Way down the line is mone
 
 The progression of value looks like this:
 
-#### **Time &gt; Reputation &gt; Energy »&gt; Money**
+#### **Time &gt; Reputation &gt; Energy &raquo;&gt; Money**
 
 The trend here is that the more easily something can be renewed, the less important it is.
 

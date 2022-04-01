@@ -3,7 +3,8 @@ date: 2020-11-21 20:00:00 -0500
 article_type: Article
 title: 'How to let go of the past: 6 steps to finally move on'
 permalink: /how-to-let-go-of-the-past/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 description: >-
   Letting go of the past was key to my sobriety and getting my life together.
   Learn how I did it.

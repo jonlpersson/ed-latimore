@@ -3,9 +3,12 @@ date: 2021-02-19 10:00:00 -0500
 article_type: Article
 title: 8 ways to finally get over someone you loved
 permalink: /how-to-get-over-someone/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
-description: Experience and experiments combine to teach you how to get over someone who's broken your heart.
+description: >-
+  Experience and experiments combine to teach you how to get over someone who's
+  broken your heart.
 ---
 Time heals all wounds, sure, but you didn’t come here for advice like that.
 
@@ -50,9 +53,9 @@ The more unexpected the dumping, the more severe this reaction is, and the great
 
 The more you feel like your world is falling apart, the more you feel like your soul is breaking and that you’ll *never* be whole again.
 
-***
+---
 
-{% include widgets/toc.html heading="8 unconventional ways to get over someone" list-items="Leave with dignity, Take tylenol, Use technology to end the relationship, Bury the past to deal with the break-up, Don't have sex with your ex, Don’t ask about your ex, Give your heart time to heal, Don’t let a break up determine your self-worth" list-ids="1-leave-with-dignity, 2-take-tylenol-to-ease-the-pain, 3-use-technology-to-end-the-relationship, 4-bury-the-past, 5-dont-have-sex-with-your-ex, 6-dont-ask-about-your-ex, 7-give-your-heart-time-to-heal, 8-dont-let-a-break-up-determine-your-self-worth" %}
+{% include widgets/toc.html heading="8 unconventional ways to get over someone" list-items="Leave with dignity, Take tylenol, Use technology to end the relationship, Bury the past to deal with the break-up, Don't have sex with your ex, Don&rsquo;t ask about your ex, Give your heart time to heal, Don&rsquo;t let a break up determine your self-worth" list-ids="1-leave-with-dignity, 2-take-tylenol-to-ease-the-pain, 3-use-technology-to-end-the-relationship, 4-bury-the-past, 5-dont-have-sex-with-your-ex, 6-dont-ask-about-your-ex, 7-give-your-heart-time-to-heal, 8-dont-let-a-break-up-determine-your-self-worth" %}
 
 The last time I broke up with someone was in 2007 after a 4-year relationship. I didn’t follow this protocol and the results were predictably disastrous, especially because booze was involved.
 
@@ -212,7 +215,7 @@ If you are going a different way at a different speed, then one of you has to be
 
 Though it may be hard not to see this as an evaluation of your character, remember that you’ll eventually find someone better suited for you than that person.
 
-***
+---
 
 ## Recap of how to get over someone and move on from a breakup
 

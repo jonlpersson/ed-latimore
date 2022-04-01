@@ -3,7 +3,7 @@ date: 2021-07-22 21:58:30 -0400
 article_type: Article
 title: 5 Hair loss remedies to try before it’s too late
 permalink: /how-to-stop-hair-loss-early/
-tags: [physical-mastery]
+tags:
 description: >-
   Here are a few remedies to slow down, halt, or reverse early hair loss. No man
   wants to lose his hair early—or ever. These will change your life.
@@ -17,7 +17,7 @@ Experiencing hair loss can be detrimental to a man’s self-confidence and quick
 
 Here’s a look at a few things you can do to help treat hair loss before it’s too late.
 
-{% include widgets/toc.html heading="5 Hair Loss Remedies To Try Before It’s Too Late" list-items="DHT Blocker medication, Stress management, Gentle hair care routine, Inflammation reducing diet, Holistic health improvement" list-ids="DHT-blocker-medication, Stress management, Gentle-hair-care-routine, Inflammation-reducing-diet, Holistic-health-improvement" %}
+{% include widgets/toc.html heading="5 Hair Loss Remedies To Try Before It&rsquo;s Too Late" list-items="DHT Blocker medication, Stress management, Gentle hair care routine, Inflammation reducing diet, Holistic health improvement" list-ids="DHT-blocker-medication, Stress management, Gentle-hair-care-routine, Inflammation-reducing-diet, Holistic-health-improvement" %}
 
 ## DHT blocker medication
 

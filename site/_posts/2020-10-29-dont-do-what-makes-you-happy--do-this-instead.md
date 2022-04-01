@@ -3,11 +3,14 @@ date: 2020-10-29 18:05:00 -0400
 article_type: Article
 title: Don't do what makes you happy. Do this instead
 permalink: /do-what-makes-you-happy/
-tags: [money-skills]
+tags:
+  - money-skills
+  - change-your-perspective
 description: >-
   Most of us can't do what we love for money. That means we need a different way
   to find happiness through work. Read this to learn how.
-image: /assets/images/thumbnails/do-what-makes-you-happy-infinity-pool-ed-latimore.jpg
+image: >-
+  /assets/images/thumbnails/do-what-makes-you-happy-infinity-pool-ed-latimore.jpg
 ---
 ***“Do something you love, and you’ll never work a day in your life.”***
 

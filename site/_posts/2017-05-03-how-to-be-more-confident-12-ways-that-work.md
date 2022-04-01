@@ -3,7 +3,8 @@ date: 2017-05-03 20:00:00 -0400
 article_type: Article
 title: 'How to be more confident: 12 ways that work'
 permalink: /how-to-build-confidence/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/thumbnails/2020/ed-press-conference.png
 description: >-
   Learn how to raise your self-esteem and eliminate self-doubt. If you follow
@@ -23,7 +24,7 @@ In this post, I will teach you how to raise your self-esteem, become more self-c
 
 {% include widgets/toc.html heading="12 ways to be more confident" list-items="Stop the negative self-talk, Learn one new skill, Believe that nothing is impossible, Remember that your're insignificant, Take risks and expand your comfort zone, Do what makes you feel happy, Make more money to have more time, Use negative thoughts to your advantage, Fake it til you make it, Lie to yourself, Do not give up, Always give back to the world" list-ids="1-stop-the-negative-self-talk, 2-learn-one-new-skill, 3-believe-that-nothing-is-impossible-for-your-life, 4-remember-that-your-life-is-insignificant, 5-take-risks-and-expand-your-comfort-zone, 6-do-what-makes-you-feel-happy, 7-make-more-money-to-have-more-time, 8-use-negative-thoughts-to-your-advantage, 9-use-the-fake-it-til-you-make-it-mentality, 10-lie-to-yourself, 11-do-not-give-up, 12-always-give-back-to-the-world" %}
 
-***
+---
 
 ### 1\. Stop the negative self-talk
 
@@ -37,7 +38,7 @@ As long as you're improving and learning, you're never truly failing. You may le
 
 Small improvements, over time, result in big-time change. Focus on improving the process. The outcome will take care of itself.
 
-***
+---
 
 ### **2\. Learn one new skill**
 
@@ -61,7 +62,7 @@ Here are some of my favorite examples:
 
 Developing proficiency in anything will automatically build your self-confidence and eradicate any limiting beliefs you have about your ability learn and be capable in the world.
 
-***
+---
 
 ### 3\. Believe that nothing is impossible for your life
 
@@ -75,7 +76,7 @@ You're missing out on the best things in life because you believe greatness is i
 
 {% include widgets/cta-email.html %}
 
-***
+---
 
 ### 4\. Remember that your life is insignificant
 
@@ -91,7 +92,7 @@ Even if look at a smaller time scale, people are worried about themselves way mo
 
 Don't worry about [what others think](/how-to-stop-worrying-about-what-others-think-of-you/)of you, because they aren't going to be alive or matter much to you in the long run. And neither are you. So you better make the most of this eye blink of an existence.
 
-***
+---
 
 ### 5\. Take risks and expand your comfort zone
 
@@ -141,7 +142,7 @@ Here's a short list of skills you can learn that will help you make more money i
 * Web Design
 * Personal Training
 
-***
+---
 
 ### 8\. Use negative thoughts to your advantage
 
@@ -153,7 +154,7 @@ It doesn't matter who you are; The more action you take, the easier it is to foo
 
 Overthinking is the greatest barrier to success. This is the infamous analysis paralysis. The cure is simple: act first, worry later.
 
-***
+---
 
 ### 9\. Use the “Fake it til you make it” mentality
 
@@ -169,7 +170,7 @@ Doing it the opposite way doesn't work. Psyching yourself up makes you nervous. 
 
 Physical action is the easiest way to fake it until you make it. When you move towards your goal, you believe that it's possible. This is "faking it till you make it".
 
-***
+---
 
 ### 10\. Lie to yourself
 
@@ -181,7 +182,7 @@ A convincing lie that gets you to act is more useful than a thousand truths expl
 
 Believe anything you want about yourself that isn't impossible. If it makes you feel confident that you'll achieve your goal, it doesn't really matter. Reality wants things to be one way, but your confidence gives you the power to make things another way.
 
-***
+---
 
 ### 11\. Do not give up
 
@@ -195,7 +196,7 @@ It takes patience to build confidence and realize that not all change is instant
 
 The world will destroy your confidence if you believe everything you do should have an instant effect. You will behave like a petulant child if you approach the world and your dreams in this manner.
 
-***
+---
 
 ### 12\. Always give back to the world
 
@@ -211,7 +212,7 @@ Watching people improve their lives or avoid tragedy from your advice will help 
 
 {% include widgets/cta-email.html %}
 
-***
+---
 
 ## A summary of ways to build confidence
 

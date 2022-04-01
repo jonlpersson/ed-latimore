@@ -4,13 +4,14 @@ article_type: Article
 title: 6 powerful reasons to bet on yourself
 permalink: /bet-on-yourself/
 tags:
-  - mental-mastery
+  - change-your-perspective
+  - mental-toughness
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."
 image: /assets/images/posts/russian-roulette.jpg
 ---
-You deserve to bet on yourself, but no one can make you do it. Either you’re interested in being the master of your own fate or you’re content with living life on the side lines, waiting for someone to decide when you get to play and when you have to ride the bench.
+You deserve to bet on yourself, but no one can make you do it. Either you’re interested in being the master of your own fate or you’re content with living life on the sidelines, waiting for someone to decide when you get to play and when you have to ride the bench.
 
-If you’re part of the former group, then this article will only serve as a brief reminder of all the reasons why you choose to bet on yourself. If you’re still waiting for someone to save you or believe that the government and the kindness in people’s hearts will take care of you, hopefully this article can get you to make some major changes in your approach to life because I have news for you:
+If you’re part of the former group, then this article will only serve as a brief reminder of all the reasons why you choose to bet on yourself. If you’re still waiting for someone to save you or believe that the government and the kindness in people’s hearts will take care of you, hopefully, this article can get you to make some major changes in your approach to life because I have news for you:
 
 No one is coming to save you.
 
@@ -44,7 +45,7 @@ People who don’t bet on themselves are strictly in the business of minimizing 
 
 When you bet on yourself, you start to see the upside of every option in front of you. You make moves based on the best possible scenario. Some might see this as blind optimism, but it’s anything but that.
 
-See, most people are terrified of doing anything where there isn’t a guaranteed outcome. The problem is that the most valuable things in life all have an element of uncertainty in them. The idea is that you take calculated risks that minimize what you can lose but maximize what you can gain.
+See, most people are terrified of doing anything where there isn’t a guaranteed outcome. The problem is that the most valuable things in life all have an element of uncertainty in them. You take calculated risks that minimize what you can lose but maximize what you can gain.
 
 But people who aren’t willing to bet on themselves refuse to do even that. They want the safest path, regardless of what they have to give up on to get to stay on it.
 
@@ -52,17 +53,17 @@ But people who aren’t willing to bet on themselves refuse to do even that. The
 
 Betting on yourself makes you raise your standards in every area of your life.
 
-When you bet on yourself, you start to see yourself as a company stock. However, unlike stocks that you invest in, you have control over the performance of the company that issues the stock.
+When you bet on yourself, you start to see yourself as company stock. However, unlike stocks that you invest in, you have control over the performance of the company that issues the stock.
 
-To succeed, you increase the value of the company that you’re investing in and to do that, you increase your good habits and discard the bad ones. You start to live your life with a level of seriousness, urgency, and diligence that is reserved for those running an entire corporation.
+To succeed, you increase the value of the company that you’re investing in, and to do that, you increase your good habits and discard the bad ones. You start to live your life with a level of seriousness, urgency, and diligence that is reserved for those running an entire corporation.
 
 You cut off relationships that hurt you and cut out habits that don’t serve you as you get into the habit of betting everything on yourself. I talk about this change often when I mention how I bet on myself many years ago. If you're looking to make a change check out these [10 steps to change](/change-your-life/).
 
 ## 4) Betting on yourself makes you see opportunities everywhere
 
-Scarcity mindset is a direct result of wanting to maintain your current position instead of growing what you have. You’re playing the whole game of life to not lose rather than to win.
+A scarcity mindset is a direct result of wanting to maintain your current position instead of growing what you have. You’re playing the whole game of life to not lose rather than to win.
 
-Fixed mindset is the direct result of scarcity mindset.
+A fixed mindset is the direct result of a scarcity mindset.
 
 After all, why bother trying to increase or improve your position in life if everything is already taken and your station is fixed. It’s because you don’t bet on yourself because if you did, then you’d realize that you live in a world of endless opportunity and all that it requires is the willingness to bet on your abilities, talents, and drive.
 
@@ -89,11 +90,11 @@ This only happens when you act on it and acting on it is only done when you bet 
 ## A recap of what you get from betting on yourself
 
 1. It removes the illusion of job security
-2. You take calculated risk to pursue opportunities
+2. You take calculated risks to pursue opportunities
 3. Your performance standards raise in all areas of your life
 4. It makes you see opportunities everywhere
 5. It forces you to develop an uncomfortably close relationship with the truth
-6. It's the only way to get information from your intuition
+6. It's the only way to get information from your intuition&nbsp;
 
 If you aren't willing to put skin in the game for your own life, don't expect it to get any better.
 

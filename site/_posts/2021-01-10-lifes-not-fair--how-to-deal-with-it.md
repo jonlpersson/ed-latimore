@@ -4,7 +4,7 @@ article_type: Article
 title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
 tags:
-  - emotional-mastery
+  - mental-toughness
 description: Learn how to take the unfair lemons in life and make lemonade.
 image: /assets/images/thumbnails/life's-not-fair-bad-beat-ed-latimore.jpg
 ---

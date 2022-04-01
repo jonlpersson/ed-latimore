@@ -3,7 +3,8 @@ date: 2021-02-23 20:17:00 -0500
 article_type: Article
 title: 7 things boxing taught me about risk taking
 permalink: /risk-taking/
-tags: [emotional-mastery]
+tags:
+  - boxing-lessons
 description: >-
   Boxing taught me how important it is to be willing to face your fears and take
   calculated risks. In this post, I teach you how to embody that mindset.

@@ -3,7 +3,8 @@ date: 2019-02-10 23:00:00 -0500
 article_type: Article
 title: How to network from social media
 permalink: /how-to-network/
-tags: [money-skills]
+tags:
+  - relationship-building
 image: /assets/images/posts/ed-with-friends-networking.jpg
 description: >-
   If you want to build a great professional network, don't follow traditional
@@ -51,7 +52,7 @@ High-value individuals don't attend archaic professional networking events, just
 
 There are essentially two effective ways to connect with high-value individuals:
 
-***
+---
 
 ## 1) Be a valuable person to network with
 
@@ -65,7 +66,7 @@ If you're young and ambitious, associate yourself with others who are in a simil
 
 ![I get to network with some of the best people](/assets/images/posts/ed-with-friends-networking.jpg "Hanging out with friends at a conference")
 
-***
+---
 
 ## 2) Be a source of value to any network you're already part of
 
@@ -200,7 +201,7 @@ What counts as "influence" is relative: you can be influential within your town,
 
 Oh, and in this day and age, the social media era, it is easier than ever to convert influence into material resources. Kylie Jenner makes an estimated $1 million USD for one sponsored Instagram post. If social media influence is something that interests you, check out my article about [personal branding](/how-to-build-a-personal-brand/).
 
-***
+---
 
 ## A recap of the best ways to build a network
 

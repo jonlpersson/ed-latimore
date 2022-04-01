@@ -4,7 +4,7 @@ article_type: Article
 title: This is why you don’t have friends (and how to make some)
 permalink: /why-you-cant-make-friends/
 tags:
-  - emotional-mastery
+  - relationship-building
 description: >-
   Despite more connectivity, everyone is lonely. Here are some practical reasons
   why you don’t have friends and how to change that.

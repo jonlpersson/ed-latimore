@@ -3,7 +3,8 @@ date: 2016-06-24 20:00:00 -0400
 article_type: Article
 title: 10 secrets to success I learned from fighting
 permalink: /10-secrets-to-success/
-tags: [money-skills]
+tags:
+  - boxing-lessons
 image: /assets/images/posts/how-to-be-successful-public-speaking-ed-latimore.jpg
 description: >-
   This article will show you the best ways to leverage your energy towards the

@@ -3,7 +3,8 @@ date: 2021-03-13 19:00:00 -0500
 article_type: Article
 title: 8 steps to making friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Most peope have no idea how to make friends as an adult without alcohol.  In
   this article, I lay out how to make friends as an adult without the bar scene.

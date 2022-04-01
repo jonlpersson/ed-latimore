@@ -3,11 +3,13 @@ date: 2015-11-10 19:00:00 -0500
 article_type: Article
 title: How to know if you have a drinking problem
 permalink: /how-to-know-if-you-have-a-drinking-problem/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/ed-with-grape-juice.jpg
-description: You might be wondering if you have a drinking problem. Above all things, there is one sure sign that you have a drinking problem.
+description: >-
+  You might be wondering if you have a drinking problem. Above all things, there
+  is one sure sign that you have a drinking problem.
 ---
-
 I'm a recovering alcoholic who's been sober since Dec 23, 2013.
 
 For a while, I wasn't sure if I had a drinking problem, but once I put the bottle down, I realized that my alcohol use was functioning level alcohol abuse.
@@ -102,10 +104,10 @@ If you want more from life, a hangover is a waste of time.
 
 Fail because you didn't work hard enough — not because you got a DUI. Lose friends because you're an asshole — not a sloppy drunk. Have control over your life — even over the mistakes.
 
-***
+---
 
 I wrote a book about my transition from an alcoholic degenerate with nothing going for himself to the person I am today. People warned me that my social circle might change, but I wasn't prepared for the emotional transformation and mental maturation that would also take place.
 
 I wrote this book as if I could go back to 2013, when I decided to get sober, and talk to myself before, during, and after the process. It's the advice I wish I had when everyone around me still drank and couldn't understand what I was dealing with. I did it the hard way so you don't have to.
 
-[Get it here]({{ 'B07LFX335T' | amazon }})
+| \[Get it here\]({{ 'B07LFX335T'</td><td>amazon }}) |

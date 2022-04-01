@@ -3,17 +3,18 @@ date: 2020-05-01 15:42:00 -0400
 article_type: Article
 title: How to get more energy in 10 steps
 permalink: /how-to-get-more-energy/
-tags: [physical-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-working-out-lisbon.jpg
 description: >-
   Your energy is the the most important part of your success. This article
   teaches you 10 simple ways to get more energy and greater enthusiasm.
 ---
-Your energy levels are the the most important part of your success.
+Your energy levels are the most important part of your success.
 
 We've been told that things like time management and to-do lists make the biggest difference, but the truth is that if you don't have the energy to complete a task, then it doesn't matter how well structured your day is. You won't be able to get through it.
 
-This might seem obvious, but very few goal setting guides mention ways to maintain or increase your energy.
+This might seem obvious, but very few goal-setting guides mention ways to maintain or increase your energy.
 
 If you're always tired, you won't have the energy to get stuff done. If you start out in an all-out sprint, you'll burn out before the end. If you don't manage your energy, you'll never succeed.
 

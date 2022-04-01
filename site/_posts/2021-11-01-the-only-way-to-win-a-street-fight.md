@@ -4,7 +4,8 @@ article_type: Article
 title: How to avoid a street fight, and what to do if you can't
 permalink: /how-to-win-a-street-fight/
 tags:
-    - physical-mastery
+    - boxing-lessons
+    - how-to-control-your-emotions
 description: >-
     The following article may one day save your life. Learn how to avoid a
     street fight and how to win one if you can't get away.

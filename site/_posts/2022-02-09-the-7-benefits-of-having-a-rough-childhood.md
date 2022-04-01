@@ -3,7 +3,8 @@ date: 2022-02-09 17:14:10 -0500
 article_type: Article
 title: The 7 benefits of having a rough childhood
 permalink: /7-benefits-of-having-a-rough-childhood/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 description: >-
   This is for the kids growing up in broken homes, dangerous neighborhoods, and
   who are bullied at school. You have an advantage that can't be taught or beat.

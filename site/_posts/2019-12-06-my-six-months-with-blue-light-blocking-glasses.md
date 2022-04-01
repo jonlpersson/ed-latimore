@@ -3,12 +3,14 @@ date: 2019-12-06 19:00:00 -0500
 article_type: Review
 title: My six months with blue light blocking glasses
 permalink: /blue-light-blocking-glasses/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 image: /assets/images/thumbnails/2020/ed-wearing-carbonshade.jpeg
-description: I've been using blue light blocking glasses for six months now. Here's why I still use them (and the science behind it).
+description: >-
+  I've been using blue light blocking glasses for six months now. Here's why I
+  still use them (and the science behind it).
 ---
-
-Depression, mental illness, and general lack of achievement plagues modern society.
+Depression, mental illness, and general lack of achievement plaques modern society.
 
 There are many causes for this… But one of them is a lack of quality sleep. And it doesn’t get talked about enough.
 

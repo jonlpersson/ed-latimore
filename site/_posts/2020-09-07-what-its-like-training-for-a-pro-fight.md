@@ -3,7 +3,8 @@ date: 2020-09-07 19:25:00 -0400
 article_type: Article
 title: 'How to train for a boxing match: Insights from a pro'
 permalink: /boxing-training/
-tags: [physical-mastery]
+tags:
+  - boxing-lessons
 description: >-
   Fighting is easy. Fighting is fun. What’s hard is training for the fight.
   What’s miserable is training for the fight.

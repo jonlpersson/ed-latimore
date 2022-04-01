@@ -3,9 +3,12 @@ date: 2015-10-29 20:00:00 -0400
 article_type: Article
 title: No one gives a shit about you
 permalink:
-tags: [emotional-mastery]
+tags:
+  - mental-toughness
 image: /assets/images/posts/morpheus.jpeg
-description: You ask yourself, "Why nobody gives a damn about me?"  I have the answer. No one cares about you. It's not personal. It's just human nature.
+description: >-
+  You ask yourself, "Why nobody gives a damn about me?"  I have the answer. No
+  one cares about you. It's not personal. It's just human nature.
 ---
 You gotta understand something if you ever wanna be something:
 

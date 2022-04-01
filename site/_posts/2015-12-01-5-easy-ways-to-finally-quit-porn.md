@@ -1,9 +1,10 @@
 ---
 date: 2015-12-01 19:00:00 -0500
 article_type: Article
-title: '5 easy ways to finally quit porn'
+title: 5 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 image: /assets/images/posts/watching porn.PNG
 description: >-
   This is the plan I used to stop my porn addiction. This is a real, battle
@@ -33,7 +34,7 @@ While people aren't committing robbery to get money for pornography, pornography
 
 Porn addiction makes a person more likely to cheat, causing emotional distress for the addict's partner. Many people already consider viewing pornography a type of infidelity. If the couple has children, then they become the collateral damage of a relationship ruined by porn addiction.
 
-![Relationship between porn use and break ups](/assets/images/posts/porn_use_2006_2012.jpg "The more porn you watch, the more likely you are to experience a breakup.<br />Source: Psychology Today")
+![Relationship between porn use and break ups](/assets/images/posts/porn_use_2006_2012.jpg "The more porn you watch, the more likely you are to experience a breakup.&lt;br /&gt;Source: Psychology Today")
 
 While emotional and spiritual work may help, porn's appeal is simple:
 

@@ -3,7 +3,8 @@ date: 2022-01-06 10:11:42 -0500
 article_type: Article
 title: 5 reasons why I quit boxing with only one loss
 permalink: /why-I-quit-boxing/
-tags: [physical-mastery]
+tags:
+  - boxing-lessons
 description: >-
   I explain the harsh truth of the boxing game and the factors that lead me to
   hang up the gloves for good.

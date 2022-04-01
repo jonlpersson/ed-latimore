@@ -3,8 +3,9 @@ date: 2019-11-17 23:00:00 -0500
 article_type: Article
 title: 'Relationship and dating advice for men: 12 rules'
 permalink: /relationship-advice/
-tags: [emotional-mastery]
-image: /assets/images/posts/ed-and-anna-cafe.jpg
+tags:
+  - relationship-building
+image: /assets/images/posts/edandannamexico.jpeg
 description: "Not every guy wants to be a lifelong playboy, so I’m here to teach men\_how to have a happy relationship."
 ---
 For men looking to get into relationships, there isn’t a lot of information out there.
@@ -67,7 +68,7 @@ This is also the type of man who will obsess over the woman because she instantl
 
 You need a mission that develops your mind and body. It doesn't need to be something grandiose that will impact the world on a large scale, but it should force you to physically, mentally, and emotionally grow and mature.
 
-![Photo of me playing chess](/assets/images/posts/ed-playing-chess.jpg "Body <strong>and</strong> mind. I was never just a boxer; I'm also a competitive chess player.")
+![Photo of me playing chess](/assets/images/posts/ed-playing-chess.jpg "Body &lt;strong&gt;and&lt;/strong&gt; mind. I was never just a boxer; I'm also a competitive chess player.")
 
 Unless your goal is to attract gamer girls, video gaming hobbies don't count. That's because video games–while fun and enjoyable–do not come with consequences for mistakes and exposure to real-world stress.
 

@@ -1,9 +1,10 @@
 ---
 date: 2021-06-04 22:35:00 -0400
 article_type: Article
-title: '5 ways to instantly have good luck'
+title: 5 ways to instantly have good luck
 permalink: /how-to-get-good-luck/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 description: >-
   In this article, I give you 5 quick tricks that will help you not only have
   more lucky breaks but also help you take advantage of them when they happen.

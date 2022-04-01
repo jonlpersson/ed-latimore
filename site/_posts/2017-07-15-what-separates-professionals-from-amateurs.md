@@ -4,7 +4,7 @@ article_type: Article
 title: What separates professionals from amateurs
 permalink:
 tags:
-  - mental-mastery
+  - change-your-perspective
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-
   Do you want to the best or just have a hobby? If you want to learn how to be a

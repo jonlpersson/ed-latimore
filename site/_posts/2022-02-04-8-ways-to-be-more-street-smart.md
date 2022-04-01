@@ -1,9 +1,10 @@
 ---
 date: 2022-02-04 21:40:00 -0500
 article_type: Article
-title: "8 ways to be more street smart"
+title: 8 ways to be more street smart
 permalink: /how-to-be-street-smart/
-tags: ["mental-mastery"]
+tags:
+  - mental-toughness
 description: >-
   You don't have to be in the streets to be street smart, but you'll get taken
   advantage of if you aren't. Read this to learn how to be street smarter.

@@ -3,7 +3,8 @@ date: 2021-02-14 09:09:00 -0500
 article_type: Article
 title: 5 life lessons I learned from lifting iron
 permalink: /life-lessons-from-gym/
-tags: [physical-mastery]
+tags:
+  - change-your-perspective
 description: >-
   Over the years I’ve learned some valuable lessons from training. I have a lot
   more to learn, but here are the lessons I’d like to share with you today.

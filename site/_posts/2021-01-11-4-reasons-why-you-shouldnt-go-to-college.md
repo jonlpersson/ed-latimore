@@ -3,7 +3,8 @@ date: 2021-01-11 21:47:00 -0500
 article_type: Article
 title: The 4 secret reasons why college is a huge waste of time
 permalink: /4-reasons-why-you-shouldnt-go-to-college/
-tags: ["mental-mastery"]
+tags:
+  - learning-skills
 description: >-
   In this day and age, college is a bad idea for so many reasons. In this
   article, I tell you the four major ones AND give you some alternatives.

@@ -3,7 +3,9 @@ date: 2020-10-14 13:53:00 -0400
 article_type: Article
 title: The difference between intuition and instinct
 permalink: /intuition-vs-instinct/
-tags: ["mental-mastery"]
+tags:
+  - mental-toughness
+  - boxing-lessons
 description: >-
   Intuition is the result of knowledge and knowledge is the result of
   experience. Instinct is innate. Learn the advantages of both.
@@ -85,9 +87,9 @@ Intuition is worth it no matter how painful it is to come by, literally or other
 
 Superior intuition is one of three factors that determine who ascends to the top of any field. The other two are superior technique and superior ability.
 
-Technique is execution of the most efficient movement and ability is how effective said movement is. If the distinction isn’t clear, consider something a former NFL player once told me. He said that in professional football, everyone is strong and fast (ability). At that level, the only differences are technique and football smarts (intuition).
+"Technique" is the execution of the most efficient movement and ability is how effective said movement is. If the distinction isn’t clear, consider something a former NFL player once told me. He said that everyone is strong and fast (ability). At that level, the only differences are technique and football smarts (intuition).
 
-Intuition as a key advantage is obvious in sports with weight class restrictions so everyone falls within a predetermined range. This limits how great the difference can be in opponents’ physical attributes.
+Intuition is a key advantage is obvious in sports with weight class restrictions so everyone falls within a predetermined range. This limits how great the difference can be in opponents’ physical attributes.
 
 A welterweight (147 pounds) needs to have superior intuition and technique because his ability is limited by how much muscle he puts on. If both fighters weigh the same and have great coaches, chances are they have similar ability *and* technique.
 
@@ -95,9 +97,9 @@ Intuition then is the differentiating factor.
 
 All things considered equal (which they rarely are), it’s easiest to improve your ability. Next is technique. Last is intuition. It’s worth the time, effort, and suffering to improve because it’s a force multiplier for both ability and technique.
 
-If you’re a boxer who already has devastating punching power and decent technique but don’t know where counter-punches are likely to come from, you won’t make it far. However, if you have average punching ability and sloppy technique but no one can ever hit you clean, you may become world champion.
+If you’re a boxer who already has devastating punching power and decent technique but don’t know where counter-punches are likely to come from, you won’t make it far. However, if you have average punching ability and sloppy technique but no one can ever hit you clean, you may become a world champion.
 
-Every loss a fighter takes teaches him how to win the next one. Victory offers short-term gratification but not long-term improvement. However, the key is not just getting the experience but also doing the best you can trying many things before you lose. Each battle is an internship and eventually your intuition builds to the point where thought is no longer necessary for most decisions.
+Every loss a fighter takes teaches him how to win the next one. Victory offers short-term gratification but no long-term improvement. However, the key is not just getting the experience but also doing the best you can trying many things before you lose. Each battle is an internship and eventually, your intuition builds to the point where thinking is no longer necessary for most decisions.
 
 Intuition appears more valuable the deeper our study goes, but the process to acquire it is still a challenge. Intuition is simply a function of experience, and the only way to develop intuition is to gain more experience, but are there shortcuts?
 
@@ -105,13 +107,13 @@ Intuition appears more valuable the deeper our study goes, but the process to ac
 
 Yes. Let’s apply the 80/20 Rule, which says 80 percent of results come from 20 percent of efforts. Make more mistakes. Get messier than others do. Test yourself against more experienced opponents. Push yourself to the brink of your abilities.
 
-This explains why speed is such a highly prized attribute not just in sports but in academic disciplines as well. If you can get to a place before your competitor or evade an attack directed at you, you have a significant advantage. [If you solve a problem faster than everyone, you are more valuable.](/problem-solving-process/)
+This explains why speed is such a highly prized attribute not just in sports but in academic disciplines as well. You have a significant advantage if you can get to a place before your competitor or evade an attack directed at you. [If you solve a problem faster than everyone, you are more valuable.](/problem-solving-process/)
 
 But before that, speed is positioning. This attribute is overlooked because it’s a product of intuition.
 
 Who cares how fast the other guy can solve the problem if you simply know the answer without thinking? That’s the power of intuition.
 
-It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You're much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *\*\*That’s intuition. \*\**
+It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You're much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *That’s intuition.&nbsp;*
 
 This applies to everything in life. If you want to improve your intuition, get more experience in the field you wish to improve. It requires sustained effort, an appetite for risk, and a desire to improve. Pass the tests and intuition is yours—it will serve you for the rest of your life.
 

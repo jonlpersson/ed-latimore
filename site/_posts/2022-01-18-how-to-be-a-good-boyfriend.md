@@ -3,11 +3,11 @@ date: 2022-01-18 09:00:00 -0500
 article_type: Article
 title: How to be a better boyfriend
 permalink: /how-to-be-a-good-boyfriend/
-tags: [emotional-mastery]
-description: "An unconventional look at how to be a good boyfriend"
+tags:
+  - relationship-building
+description: An unconventional look at how to be a good boyfriend.
 image: /assets/images/thumbnails/ed-with-girlfriend-anna.JPG
 ---
-
 The things that make you good in a relationship are the things that lead to a good life:
 
 * Work on yourself
@@ -19,7 +19,7 @@ The list goes on…
 
 There’s an abundance of information teaching guys how to meet more women and get more “hookups.” Unfortunately for men looking for more than casual situations, there’s woefully little about building successful relationships.
 
-And the information that _is_ available is cringe-worthy at best. Between rom-com cliches and outright misogyny, men don’t have a place that gives real advice for how to be a good boyfriend.
+And the information that *is* available is cringe-worthy at best. Between rom-com cliches and outright misogyny, men don’t have a place that gives real advice for how to be a good boyfriend.
 
 I had to learn the hard way how to treat women in the context of a relationship so we both got what we needed. Without any role models or helpful resources, it took me years to learn on the job, so to speak.
 
@@ -27,8 +27,7 @@ Now, hopefully, you can use my pain as a shortcut to creating lasting healthy re
 
 Here are my best tips for how to be a good boyfriend.
 
-{% include widgets/toc.html 	heading="How to be a good boyfriend" 	list-items="Do you even have self-worth bro?, Calibrate your EQ, Always be growing, Hold her accountable, Don’t be a white knight" 	list-ids="know-your-value, develop-emotional-intelligence, keep-it-fresh, hold-her-accountable, dont-be-a-white-knight" %}
-
+{% include widgets/toc.html heading="How to be a good boyfriend" list-items="Do you even have self-worth bro?, Calibrate your EQ, Always be growing, Hold her accountable, Don&rsquo;t be a white knight" list-ids="know-your-value, develop-emotional-intelligence, keep-it-fresh, hold-her-accountable, dont-be-a-white-knight" %}
 
 ## Know your value
 
@@ -38,28 +37,23 @@ For some men, any woman will do. This is largely because modern society doesn’
 
 I’ve written extensively on [how to determine the right woman for you](https://edlatimore.com/how-to-get-into-a-relationship/) to help you avoid this pitfall. But choosing well is a side effect of knowing your value and what you want from life.
 
-Another word for this is self-worth. In psychology, self-worth[^1] is how you measure your own abilities and your ability to perform well in things that matter to you. You can have high self-worth in your physical abilities and low self-worth in a professional setting, for example. Low self-worth translates to low self-esteem and making bad relationship choices.
+Another word for this is self-worth. In psychology, self-worth<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is how you measure your own abilities and your ability to perform well in things that matter to you. You can have high self-worth in your physical abilities and low self-worth in a professional setting, for example. Low self-worth translates to low self-esteem and making bad relationship choices.
 
 Try these things to increase your sense of self-worth:
-
-
 
 * Do things that your find fulfilling
 * Build your skill sets and accomplish goals that challenge you
 * Determine what your values are and build those aspects into your life
 
-
 ## Develop emotional intelligence
 
-Emotional intelligence (EQ) is social lubricant. People who have higher levels of emotional intelligence have more success at work and in interpersonal relationships.[^2]
+Emotional intelligence (EQ) is social lubricant. People who have higher levels of emotional intelligence have more success at work and in interpersonal relationships.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
-EQ is your awareness of your own and others’ emotions and your ability to adjust for relationship improvement.[^3]
+EQ is your awareness of your own and others’ emotions and your ability to adjust for relationship improvement.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Be mindful that emotional intelligence is not simply being emotional. It’s your ability to manage your emotions. People who are self-aware and have high EQ understand that their thoughts create their emotions and actions. They also recognize that the things they say and do have consequences. This key skill helps you actively listen to your significant other, defuse arguments before they start, and tap into what you both need to thrive.
 
-What EQ _doesn’t_ look like:
-
-
+What EQ *doesn’t* look like:
 
 * Frequently losing your temper
 * Not taking control of persistent negative thoughts
@@ -67,10 +61,9 @@ What EQ _doesn’t_ look like:
 * Unwillingness to change when necessary
 * Passive-aggressive behavior
 
-
 ## Keep it fresh
 
-Good relationships are scientifically shown to extend your life.[^4] Having someone that loves and supports you, increases your sense of wellbeing or wellness and can even make physical pain more bearable.
+Good relationships are scientifically shown to extend your life.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> Having someone that loves and supports you, increases your sense of wellbeing or wellness and can even make physical pain more bearable.
 
 Building this type of relationship takes time, intention, and growth that can’t be forced. There’s a common belief that the longer you are together, you’ll eventually run out of things to talk about. Meaning you’ll eventually become bored with one another.
 
@@ -84,7 +77,6 @@ When you’re a good listener, you pick up on little things about each other and
 
 That brings us to the next point
 
-
 ## Hold her accountable
 
 Maybe the best piece of relationship advice I’ve gotten was to value commitment over the individual.
@@ -97,14 +89,13 @@ When you do what serves the relationship, you don’t let behavior slide that co
 
 Even if it’s little things that seem innocuous at the moment. Things like passive-aggressiveness, making comments when you hang out with friends, or not taking responsibility for bad behavior.
 
-This goes against the common advice of being your girl's best friend. Women have historically been with men that can improve their station in life.[^5] In modern life, this translates to a man that knows what he wants and knows how to take the lead. Read my article on [how to take the lead in a relationship](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/) for a deeper understanding. One key to remember is to be decisive and to be the person you say you are.
+This goes against the common advice of being your girl's best friend. Women have historically been with men that can improve their station in life.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> In modern life, this translates to a man that knows what he wants and knows how to take the lead. Read my article on [how to take the lead in a relationship](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/) for a deeper understanding. One key to remember is to be decisive and to be the person you say you are.
 
 While good relationships tend to develop into friendships, it’s a mistake to try to start off this way. There’s a ‘friend zone’ for a reason. Trying too hard to be your girl’s bestie will likely help you cease to be sexually attractive to her.
 
-
 ## Don’t be a white knight
 
-When coming up with tips on how to be a good boyfriend, I couldn’t end without including the phrase _toxic masculinity._ It’s making the rounds and has got some young guys believing that how they naturally are is inherently wrong.
+When coming up with tips on how to be a good boyfriend, I couldn’t end without including the phrase *toxic masculinity.* It’s making the rounds and has got some young guys believing that how they naturally are is inherently wrong.
 
 The term toxic masculinity started as a way to describe powerful men who sexually assualted and abused women with impunity. As it’s made its way through the online filter, the phrase has expanded to encompass all forms of masculinity as toxic.
 
@@ -117,7 +108,6 @@ Unfortunately, both white knights and self-proclaimed male feminists are often t
 No quality woman wants a man that panders to her because it puts her on a pedestal that she didn't ask to be on in the first place.
 
 Bottom line, you can be a great boyfriend and treat women like human beings without idealizing them.
-
 
 ## Remember, never stop working on yourself
 
@@ -133,16 +123,8 @@ Make developing yourself a part of your life and you can’t go wrong. Remember 
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-***
+---
 
 ### References
 
-[^1]: Ackerman C. _PositivePsychology.com:_ What is Self-worth and How Do We Increase it? August 2021. [https://positivepsychology.com/self-worth/](https://positivepsychology.com/self-worth/)  (accessed Jan. 2022)
-
-[^2]: Dorrance Hall E. Ph.D. _Psychology Today:_ [Building Emotional Intelligence for Better Relationships](https://www.psychologytoday.com/us/blog/conscious-communication/201806/building-emotional-intelligence-better-relationships). June 2018. (accessed Jan. 2022)
-
-[^3]: Mayer J. Ph.D. _Psychology Today:_ [What Emotional Intelligence Is Not](https://www.psychologytoday.com/us/blog/the-personality-analyst/200909/what-emotional-intelligence-is-and-is-not). September 2009. (accessed Jan. 2022)
-
-[^4]: Mineo, Liz. _The Harvard Gazette_ [Good Genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/). April 2017. (accessed Jan. 2022)
-
-[^5]: Hymowitz K. _Institute for Family Studies: _Whither Hypergamy? January 2020. [https://ifstudies.org/blog/whither-hypergamy](https://ifstudies.org/blog/whither-hypergamy) (accessed Jan. 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Ackerman C. <em>PositivePsychology.com:</em> What is Self-worth and How Do We Increase it? August 2021. <a href="https://positivepsychology.com/self-worth/">https://positivepsychology.com/self-worth/</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Dorrance Hall E. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/conscious-communication/201806/building-emotional-intelligence-better-relationships">Building Emotional Intelligence for Better Relationships</a>. June 2018. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Mayer J. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/the-personality-analyst/200909/what-emotional-intelligence-is-and-is-not">What Emotional Intelligence Is Not</a>. September 2009. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Mineo, Liz. <em>The Harvard Gazette</em> <a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">Good Genes are nice, but joy is better</a>. April 2017. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Hymowitz K. _Institute for Family Studies: _Whither Hypergamy? January 2020. <a href="https://ifstudies.org/blog/whither-hypergamy">https://ifstudies.org/blog/whither-hypergamy</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>

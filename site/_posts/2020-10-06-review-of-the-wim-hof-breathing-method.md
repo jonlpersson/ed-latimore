@@ -4,7 +4,7 @@ article_type: Review
 title: Review of the Wim Hof Breathing Method
 permalink: /wim-hof-method-review/
 tags:
-  - physical-mastery
+  - mental-toughness
 image: /assets/images/thumbnails/ed-latimore-ice-bath-submerged.jpg
 description: >-
   After purchasing the Wim Hof video course, I have no regrets. Here is my

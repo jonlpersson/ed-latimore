@@ -3,13 +3,13 @@ date: 2020-02-10 18:14:00 -0500
 article_type: Article
 title: My experience getting an FUE hair transplant
 permalink: /my-personal-experience-getting-an-fue-hair-transplant/
-tags: [physical-mastery]
+tags:
+  - change-your-perspective
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   I detail my experience getting 3200 grafts of hair transplanted in an FUE hair
   restoration procedure. Before/after and timeline photos included.
 ---
-
 So you’ve been thinking about getting a hair transplant.
 
 Well, I’ve had two Follicular Unit Extraction (FUE) hair transplants for a total of a little over 3200 hair grafts.

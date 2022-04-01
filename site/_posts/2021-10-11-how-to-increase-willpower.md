@@ -4,7 +4,8 @@ article_type: Article
 title: How to increase willpower (the easiest way to break bad habits)
 permalink: /how-to-increase-willpower/
 tags:
-  - emotional-mastery
+  - overcoming-addiction
+  - how-to-control-your-emotions
 description: >-
   Learn how to increase willpower so you can break bad habits, build new habits,
   and achieve your goals faster.

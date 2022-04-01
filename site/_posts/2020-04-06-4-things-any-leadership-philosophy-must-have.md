@@ -3,7 +3,8 @@ date: 2020-04-06 20:27:00 -0400
 article_type: Article
 title: 4 things any leadership philosophy must have
 permalink: /leadership-philosophy/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 image: /assets/images/posts/leadshipspeaking1.jpg
 description: >-
   There are 4 core values that make up a successful personal leadership

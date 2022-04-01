@@ -3,11 +3,13 @@ date: 2021-04-02 16:45:00 -0400
 article_type: Article
 title: 6 harsh truths your parents never told you
 permalink: /harsh-truths/
-tags: [emotional-mastery]
-description: Here are 6 harsh truths that your parents should have told you about to prepare you for the world. Embrace these and you'll free your mind.
+tags:
+  - mental-toughness
+description: >-
+  Here are 6 harsh truths that your parents should have told you about to
+  prepare you for the world. Embrace these and you'll free your mind.
 image: /assets/images/thumbnails/harsh-truth.png
 ---
-
 I just finished reading an excellent book called [*The Lifestyle Blueprint*](http://bit.ly/TheLifestyleBlueprint)*.*
 
 There is a section that really stood out to me that I got the author’s permission to summarize. The section is titled “What Your Parents Should Have Told You” and in it, the author lays out 6 harsh truths that your parents didn’t tell you, likely because they were:
@@ -27,7 +29,7 @@ The other 3 make sense. Or, at the very least, they will make clear sense after 
 
 ![The lifestyle blueprint 6 harsh truths](/assets/images/posts/2021/6-harsh-truths-lifestyle-blueprint-1.jpeg "The lifestyle blueprint 6 harsh truths"){: width="333" height="500"}
 
-***
+---
 
 ## Harsh Truth \#1: Most people are “Jamokes”
 

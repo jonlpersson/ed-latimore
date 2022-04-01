@@ -3,7 +3,8 @@ date: 2021-12-13 18:51:00 -0500
 article_type: Article
 title: 12 reasons why math is important (and how to get better)
 permalink: /why-is-math-important/
-tags: ["mental-mastery"]
+tags:
+  - learning-skills
 description: >-
   If one of these reasons to learn math motivates you to be a better student or
   makes your job as a teacher easier, then this list has done its job,
@@ -85,7 +86,7 @@ Technology development and data analysis are fields of hands-on applied mathemat
 
 Math is based on logic.
 
-The word “math” is derived from the Greek word “máthēma” meaning “knowledge, study, learning.”
+The word “math” is derived from the Greek word “m&aacute;thēma” meaning “knowledge, study, learning.”
 
 Math forces you to think deeply about what you see and come up with adequate language to explain it. You have to make sure that your reasoning is sharp enough to not only articulate what you know but to frame it in such a way that a person could follow what you’re saying and repeat what you’ve done. That’s the type of clarity that is demanded in mathematics.
 

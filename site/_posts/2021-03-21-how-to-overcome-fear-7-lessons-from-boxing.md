@@ -3,7 +3,8 @@ date: 2021-03-21 09:58:00 -0400
 article_type: Article
 title: 'How to overcome fear: 7 lessons from boxing'
 permalink: /how-to-overcome-fear/
-tags: [emotional-mastery]
+tags:
+  - boxing-lessons
 description: >-
   A boxing match exposes you to the possibility of death, dismemberment, and
   embarrassment.  The same way I overcame those fears can work for anyone. Learn

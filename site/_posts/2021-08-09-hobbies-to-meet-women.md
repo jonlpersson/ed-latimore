@@ -3,15 +3,16 @@ date: 2021-08-09 12:00:00 -0400
 article_type: Article
 title: 7 hobbies to meet women (effective)
 permalink: /hobbies-to-meet-women/
-tags: [emotional-mastery]
-description: To date successfully, you need hobbies that make you seem confident and interesting to women. Here's my framework for picking hobbies to meet women.
+tags:
+  - relationship-building
+description: >-
+  To date successfully, you need hobbies that make you seem confident and
+  interesting to women. Here's my framework for picking hobbies to meet women.
 image: /assets/images/thumbnails/ed-archery.png
 ---
-
-
 If you're a high-value man, you won't need to try hard to meet the right woman.
 
-As you live your life and devote yourself to your hobbies, you'll something interesting will happen...
+As you live your life and devote yourself to your hobbies, you'll something interesting will happen…
 
 You become magnetic.
 
@@ -59,9 +60,9 @@ Some activities, like painting, might purely be for recreation, whereas joining 
 
 Hobbies are recreational and have almost no practical use beyond enjoyment. Skills are developed to solve a problem or gain an advantage in the real world. All skills can be hobbies but not hobbies can be skills.
 
-- If you can fight, that's a skill. If you like playing fighting games on Xbox, that's a hobby.
-- If you can fix cars, that's a skill. If you like taking road trips, that's a hobby.
-- If you can grow food, that's a skill. If you're a "foodie", that's a hobby (and an unhealthy one, at that).
+* If you can fight, that's a skill. If you like playing fighting games on Xbox, that's a hobby.
+* If you can fix cars, that's a skill. If you like taking road trips, that's a hobby.
+* If you can grow food, that's a skill. If you're a "foodie", that's a hobby (and an unhealthy one, at that).
 
 A high-value man has a mix of both skills and hobbies. You can't just fill your time with painting and watching movies anymore than you can only work on cars and hit the gym. While that would make you more attractive than a guy who played video games all day, it would do nothing to make you relatable. Hobbies make seem just a little more human and interesting.
 
@@ -69,11 +70,11 @@ All work and no play makes you dull. All play and no work makes you useless. You
 
 Here are some great skill-focused hobbies to get started with:
 
-- Boxing, Muay Thai, BJJ, or any practical combat sport
-- Cooking
-- Maintenance/Handyman-type skills such as fixing cars, electrics, and plumbing
-- Wood and metalworking
-- Lifting weights (which you should be doing anyway)
+* Boxing, Muay Thai, BJJ, or any practical combat sport
+* Cooking
+* Maintenance/Handyman-type skills such as fixing cars, electrics, and plumbing
+* Wood and metalworking
+* Lifting weights (which you should be doing anyway)
 
 You don't have to become an expert, but having some baseline knowledge in each area will go a long way in not only attracting women but also ensuring that you become a strong, competent man that can be relied upon when shit hits the fan.
 
@@ -97,11 +98,11 @@ Fortunately for you, there's a formula to all of this.
 
 The best hobbies follow a set of guidelines. When you write out a list of hobbies you want to get involved with, use these questions to figure out if it's a good fit:
 
-- Does it put you in the limelight?
-- Is it popular with women?
-- Does it allow you to get competitive with other men? (online hobbies don't count)
-- Can you show off your intelligence without being arrogant?
-- Alternatively, can you show off your athleticism?
+* Does it put you in the limelight?
+* Is it popular with women?
+* Does it allow you to get competitive with other men? (online hobbies don't count)
+* Can you show off your intelligence without being arrogant?
+* Alternatively, can you show off your athleticism?
 
 Not every hobby needs to fulfill each of these criteria, in fact, that's probably impossible, but by making sure you take part in a wide range of activities you set yourself up with the best chance of success.
 

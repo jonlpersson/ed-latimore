@@ -2,13 +2,17 @@
 _enabled_editors:
   - content
 title: About me
-description: I’m a best-selling author and my writing focuses on self-improvement and a practical approach to stoic philosophy.
+description: >-
+  I’m a best-selling author and my writing focuses on self-improvement and a
+  practical approach to stoic philosophy.
 hero:
   hero_type: image
   label: Get to know me
   heading: About me
-  text: |
-    My name is Ed Latimore. I’m a best-selling author, former professional heavyweight boxer, and competitive chess player. My writing focuses on self-improvement and a practical approach to stoic philosophy.
+  text: >-
+    My name is Ed Latimore. I’m a best-selling author, former professional
+    heavyweight boxer, and competitive chess player. My writing focuses on
+    self-improvement and a practical approach to stoic philosophy. 
   image: /assets/images/ed/ed-medium.jpg
 page_blocks:
   - _id: block_rich_text

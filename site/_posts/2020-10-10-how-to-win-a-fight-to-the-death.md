@@ -3,7 +3,8 @@ date: 2020-10-10 15:30:00 -0400
 article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
-tags: [physical-mastery]
+tags:
+  - boxing-lessons
 description: >-
   Fighting to the death teaches you a lot about life. Violence has a lot to
   teach us all. I learned from both street fights and boxing matches.
@@ -19,7 +20,7 @@ We’re talking jail time, criminal record, painful injury, permanent disability
 
 ***Most people go through life without ever experiencing a physical altercation.***
 
-They have no experience with intentional physical pain, either as the recipient or distributor. Some of this is the result of a safe life that kept them out of dangerous situations.  Many others think they’re better than ever throwing a punch at someone, even if they themselves are under attack.
+They have no experience with intentional physical pain, either as the recipient or distributor. Some of this is the result of a safe life that kept them out of dangerous situations. Many others think they’re better than ever throwing a punch at someone, even if they themselves are under attack.
 
 The reality is that violence is a part of human nature. No matter how much societal progress we make or technical innovation we experience, we’re still animals. Violence will always be both the solution to and cause of most of our problems.
 

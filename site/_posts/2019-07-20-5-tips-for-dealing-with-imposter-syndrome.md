@@ -3,7 +3,8 @@ date: 2019-07-20 00:00:00 -0400
 article_type: Article
 title: 5 tips for dealing with imposter syndrome
 permalink: /imposter-syndrome-test/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-signing-books.jpg
 description: >-
   I've struggled with imposter syndrome for a long time. Here are the five
@@ -166,7 +167,7 @@ At the end of the day, everything's a lot easier when you're not going it alone.
 
 In fact, this is one of few scientifically verified strategies to cope with imposter syndrome: when you feel like you have a lot of social support, you find more productive ways to deal with your impostorism. ([Source](https://www.emerald.com/insight/content/doi/10.1108/S1479-3555&#40;2012&#41;0000010009/full/html){: target="_blank"})
 
-***
+---
 
 If you take anything away from this post, I want it to be this:
 

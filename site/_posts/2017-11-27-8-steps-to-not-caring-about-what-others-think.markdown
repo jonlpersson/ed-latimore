@@ -3,7 +3,8 @@ date: 2017-11-27 00:00:00 -0500
 article_type: Article
 title: 8 ways to stop caring about what people think
 permalink: /how-to-stop-worrying-about-what-others-think-of-you/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-chilling-boat.jpg
 description: >-
   I used to care what everyone else thought about me. Getting over the fear of
@@ -61,7 +62,7 @@ The other part — the more powerful part — wants to remain a prisoner. Who ca
 
 Of course, this is patently false.
 
-![how to not care what others think party ed latimore](/assets/images/posts/ed-drunk-party.jpg "At a house party circa 2007. You can see I'm worrying what people think of me&hellip;")
+![how to not care what others think party ed latimore](/assets/images/posts/ed-drunk-party.jpg "At a house party circa 2007. You can see I'm worrying what people think of me…")
 
 If you want to live a fulfilling life that you can look back on without any major regrets, you have to get out of your comfort zone and start living. You have to break out of this mental prison.
 

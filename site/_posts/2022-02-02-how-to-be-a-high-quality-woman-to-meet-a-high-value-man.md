@@ -3,7 +3,8 @@ date: 2022-02-02 10:26:41 -0500
 article_type: Article
 title: How to be a high-value woman to meet a high-value man
 permalink: /how-to-meet-quality-men/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Here are some specific steps to follow to become a high-value woman that is
   able to meet and be with a high-value man.

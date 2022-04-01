@@ -1,13 +1,15 @@
 ---
 date: 2015-12-04 19:00:00 -0500
 article_type: Article
-title: "Lessons from the ghetto: willingness to fight"
+title: 'Lessons from the ghetto: willingness to fight'
 permalink:
-tags: [emotional-mastery]
+tags:
+  - mental-toughness
 image: /assets/images/posts/projects.jpg
-description: Fighting in the hood is always about more than just fighting. The following is an important lesson I learned from living and fighting in the hood.
+description: >-
+  Fighting in the hood is always about more than just fighting. The following is
+  an important lesson I learned from living and fighting in the hood.
 ---
-
 If you want to learn how to fight, learn how to fight in the hood. But it's about more than just fighting. The following is an important lesson I learned from living and fighting in the hood.
 
 I grew up poor in a dangerous part of town. If you haven’t been there before, you know an area like this as “The Ghetto.” I’m partial to calling them “The Projects” or “The Hood.”

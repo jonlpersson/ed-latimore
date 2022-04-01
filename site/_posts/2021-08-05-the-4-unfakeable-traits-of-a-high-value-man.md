@@ -4,7 +4,7 @@ article_type: Article
 title: The 4 unfakeable traits of a high value man
 permalink: /high-value-man/
 tags:
-  - emotional-mastery
+  - relationship-building
 description: >
   A high-value man has hit a standard in these 4 areas. Otherwise, he’s not
   high-value. This article tells you the 4 unfakeable traits of a high-value
@@ -15,13 +15,13 @@ There isn’t a guy alive who doesn’t want to know how to become a high-value 
 
 Forget about simplistic red pill tropes like “alpha” or “beta.”
 
-They're useful for categorizing general masculine behaviors, but they're also a binary distinction. There’s no room in between to be anything in between. Also, there are different areas in a man’s life and in each of those areas he can be the alpha male or the beta male.
+They're useful for categorizing general masculine behaviors, but they're also a binary distinction. There’s no room in between to be anything in between. Also, there are different areas in a man’s life, and in each of those areas he can be the alpha male or the beta male.
 
 ## The problem with using alpha and beta to rank men
 
 I’ve met guys who are high-powered, 7 figure earning alpha men in their career, but are meek, subservient beta males in their relationships.
 
-I’ve known guys who are alpha males when it comes to [hooking up with beautiful women](/how-to-meet-quality-men/), but they share a barely livable apartment with 4 guys, they sleep on a mattress on the floor, and can barely make rent.
+I’ve known guys who are alpha males when it comes to [hooking up with beautiful women](/how-to-meet-quality-men/), but they share a barely livable apartment with 4 guys, sleep on a mattress on the floor, and can barely make rent.
 
 Then there are fit-bros who have their physique on point, but they turn into church mice around women and they barely make $15/hr training people at the gym.
 
@@ -33,7 +33,7 @@ This list is objective. With this list, it’s not about how you feel or what pe
 
 A high-value male has hit an objective standard in these 4 areas otherwise. It doesn't matter if you have high self-esteem, if you're a nice guy, or swallowed the red pill; all that matters are is if you hit these metrics.
 
-This article tells you the 4 unfakeable traits of a high value man.
+This article tells you the 4 unfakeable traits of a high-value man.
 
 {% include widgets/toc.html heading="The 4 unfakeable traits of high value men" list-items="Income above 6 figures for at least 3 consecutive years , Visible and verifiable, Strong network of other high-value men, Physical optimization" list-ids="income-above-6-figures-for-at-least-3-consecutive-years, visible-and-verifiable, strong-network-of-other-high-value-men, physical-optimization" %}
 
@@ -59,7 +59,7 @@ This doesn’t mean that a high-value man is famous.
 
 This doesn’t mean that a high-value man is even well known.
 
-It just means that if a guy’s named is dropped, two things must be possible:
+It just means that if a guy’s name is dropped, two things must be possible:
 
 1. He exists on platforms other than his own social media and website.
 2. His titles, professional accolades, and accomplishments are verifiable by an independent body of qualified officials.
@@ -76,7 +76,7 @@ Building up your personal brand fixes this, learn how to do that by reading [thi
 
 No one becomes high-value on an island.
 
-There are no “lone wolves''. In fact, in nature the lone wolf is usually unfit to be part of the pack for some reason. It is not a badge of honor to be worn proudly.
+There are no “lone wolves''. In fact, in nature, the lone wolf is usually unfit to be part of the pack for some reason. It is not a badge of honor to be worn proudly.
 
 High-value men are cosigned by other high-value men.
 
@@ -90,7 +90,7 @@ Between this metric and verifiability, it’s nearly impossible for a man to fak
 
 If he claims to be an entrepreneur, then not only must other successful businessmen vouch for him, but you should be able to find satisfied customers and consumers of his business.
 
-High-value men are part of a network of with other high-value men. If you haven't built up your network yet don't worry I got you [here](/how-to-network/).
+High-value men are part of a network of other high-value men. If you haven't built up your network yet don't worry I got you [here](/how-to-network/).
 
 ## Physical optimization
 
@@ -100,11 +100,11 @@ You don’t need to be styled and dressed in the most expensive fashion.
 
 Physical optimization just means that you take care of your health and grooming. Part of taking care of your health means that you are not overweight. This is non-negotiable. Boxing is a great way to stay in shape, learn how to get into [here](https://edlatimore.com/how-to-get-into-boxing/).
 
-If your bodyfat is higher than 18% and you don’t play on the offensive or defensive line of the NFL, then you need to lose body fat. There are a number of diets to help you do this. [Pick one and stick to it until you’re &lt;18% body fat.](https://gumroad.com/a/431682675/SfiYj){: target="_blank" rel="noopener noreferrer"}
+If your body fat is higher than 18% and you don’t play on the offensive or defensive line of the NFL, then you need to lose body fat. There are a number of diets to help you do this. [Pick one and stick to it until you’re &lt;18% body fat.](https://gumroad.com/a/431682675/SfiYj){: target="_blank" rel="noopener noreferrer"}
 
 I don’t care how much money you’re worth and how busy you are; you can stick to a disciplined diet. While I don’t agree, I understand if a guy can’t make it to the gym. But you have to eat, so just eat something reasonable and do so with some restraint.
 
-Find the haircut and facial hair style that looks best on you. It doesn’t have to be anything complicated or expensive. It just needs to be something that looks well-kept. You can wear dreads or a crew cut. Whatever you do, keep it clean and styled.
+Find the haircut and facial hairstyle that looks best on you. It doesn’t have to be anything complicated or expensive. It just needs to be something that looks well-kept. You can wear dreads or a crew cut. Whatever you do, keep it clean and styled.
 
 This should go without saying, but part of being a high-value man is keeping yourself clean and groomed. You shouldn’t have dirt under your fingernails. You shouldn’t even have fingernails long enough to get dirt underneath them.
 
@@ -119,11 +119,11 @@ Basically, high-value men can’t be overweight, dress like a slob, or have “h
 3. Part of a network of other high-value men
 4. Physical optimization
 
-This list weeds out the fakers and the wannabes that are low value men. Notice what it doesn’t mention. It doesn’t mention:
+This list weeds out the fakers and the wannabes that are low-value men. Notice what it doesn’t mention. It doesn’t mention:
 
-* **How easy it is for you to get laid.**&nbsp;I know plenty of losers who settle for sex with low-quality women. High value men attract most women, but being high value isn't a dating strategy. Your love life may improve as a result, but that's only a side-effect; not the goal.
+* **How easy it is for you to get laid.**&nbsp;I know plenty of losers who settle for sex with low-quality women. High-value men attract most women, but being high value isn't a dating strategy. Your love life may improve as a result, but that's only a side-effect; not the goal.
 * **Anything about how well you lead men.** There are many areas in life where one can stumble into a position of leadership.
 * **Whether you’re alpha or beta.** No matter what you think of those terms, I don’t think there’s any man who’d rather be a loser alpha than a high-value beta. And yes, there are plenty of loser alphas.
-* **Your mindset.**&nbsp;Being focused on self-improvement and trying to level up is nice, but we only deal in results. No one gives a damn about what’s going on in your head if it doesn’t have an effect on the physical world. If I can’t measure it, in this context, it doesn’t exist.
+* **Your mindset.**&nbsp;Being focused on self-improvement and trying to level up is nice, but we only deal in results. No one gives a damn about what’s going on in your head if it doesn’t have an effect on the physical world. If I can’t measure it, it doesn’t exist in this context.&nbsp;
 
 Now you know what makes a high-value man. The rest is up to you.

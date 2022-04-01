@@ -3,7 +3,8 @@ date: 2016-10-11 17:39:00 -0400
 article_type: Article
 title: Hard work beats talent
 permalink: /hard-work-beats-talent/
-tags: [emotional-mastery]
+tags:
+  - mental-toughness
 image: /assets/images/posts/ed-in-gym.jpg
 description: >-
   Hard work will always beat talent. In this article, learn why and how to work
@@ -91,7 +92,7 @@ Students with a growth mindset know they can get better. They believe their abil
 
 This is powerful. It's so powerful that another Stanford researcher Carol S. Dweck, P.h.D believes that making even slight shifts in your mindset from fixed to growth can have a profound impact on your entire life.
 
-From her book [Mindset: The New Psychology of Success]({{ '0345472322' | amazon }}){: target="_blank" rel="noopener noreferrer"}:
+| From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'</td><td>amazon }})\{: target="\_blank" rel="noopener noreferrer"\}: |
 
 > Believing that your qualities are carved in stone — *the fixed mindset* — creates an urgency to prove yourself over and over. If you have only a certain amount of intelligence, a certain personality, and a certain moral character — well, then you’d better prove that you have a healthy dose of them. It simply wouldn’t do to look or feel deficient in these most basic characteristics.
 >

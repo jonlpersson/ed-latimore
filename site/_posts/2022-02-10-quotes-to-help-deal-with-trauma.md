@@ -3,7 +3,8 @@ date: 2022-02-10 18:27:24 -0500
 article_type: Article
 title: 20 quotes to help with adult and childhood trauma
 permalink: /trauma-quotes/
-tags: [addiction-sobriety]
+tags:
+  - relationship-building
 description: >-
   It’s not therapy, but these quotes to help deal with trauma are collected from
   my writings, Twitter, and other social media accounts.
@@ -31,7 +32,7 @@ Some of us have endured abuse and trauma that robbed us of our innocence
 
 Whatever you've gone through, it's not your fault. But it IS your responsibility to deal with it because the world doesn't care. **([Tweet it](https://twitter.com/EdLatimore/status/1194601396391297024){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 Trauma can be remarkably difficult to recover from.
 
@@ -41,13 +42,13 @@ You can't expect to be fully healed so quickly–if ever. All you can do is make
 
 ***\[Read: [How to forgive your parents](/how-to-understand-and-forgive-your-parents/)\]***
 
-***
+---
 
 &nbsp;
 
 Unresolved trauma is the real gateway drug. **([Tweet it](https://twitter.com/EdLatimore/status/1461522593131937803){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 A lot of people are assholes on Twitter because they're dealing with unresolved trauma.
 
@@ -57,7 +58,7 @@ And attention and love look the same to someone not used to receiving either.&nb
 
 ***\[Read: [Why you have haters if you aren't an asshole](/why-you-have-haters-even-if-you-arent-an-asshole/)\]***
 
-***
+---
 
 Trauma is life.
 
@@ -65,7 +66,7 @@ Why people think life is supposed to be without it is beyond me. The mere act of
 
 We are spoiled because of technology. Most of human existence has been in darkness. **([Tweet it](https://twitter.com/EdLatimore/status/1365082838832447490){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 When you see an addict, you're seeing someone seeking relief from trauma the best way that they know how to.
 
@@ -73,13 +74,13 @@ Very often, they were never given the tools or support to cope and by the time t
 
 **\[Read: [8 lessons from 8 years of sobriety](/sobriety-benefits/)\]**
 
-***
+---
 
 No amount of material success can undo emotional trauma.
 
 You will still have to get your hands dirty and sort your problems out. **([Tweet it](https://twitter.com/EdLatimore/status/1326979784409305093){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 Pain is a gift disguised as distress.
 
@@ -87,7 +88,7 @@ Only those who have successfully dealt with their trauma understand the followin
 
 One of the best things that ever happened to you is experiencing the worst the world has to offer–and surviving. **([Tweet it](https://twitter.com/EdLatimore/status/1208068576097325057){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 Trauma never just goes away by itself.
 
@@ -95,27 +96,27 @@ You're either gonna deal with it or it's gonna deal with you.
 
 And when it deals with you, it's gonna choose the worst possible time. Every time. **([Tweet it](https://twitter.com/EdLatimore/status/1261813943846211584){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 The more you learn about addiction, the more you learn about trauma. **([Tweet it](https://twitter.com/EdLatimore/status/1328540076289232897){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 When someone is an ass to me for no reason, I just assume something bad happened to them as a kid.
 
 I can't return the ill-will to someone with that kind of trauma. **([Tweet it](https://twitter.com/EdLatimore/status/1327824989664530432){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 Past trauma can reset a person's "this is fucked up" sense to the point where they tolerate what would be intolerable to others.
 
 The ability to endure through chaos is as much a weakness as it is a strength. **([Tweet it](https://twitter.com/EdLatimore/status/1387746647317360640){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 The work you put into dealing with your trauma will keep you from being someone else's traumatic experience. **([Tweet it](https://twitter.com/EdLatimore/status/1326685936143519744){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 You can't get over trauma until you can confront it.
 
@@ -123,21 +124,21 @@ Some of that shit is painful.<br>Some of that shit ruined you.
 
 But you can't even fight an enemy you won't face. And if you won't face it, you'll never beat it…? **([Tweet it](https://twitter.com/EdLatimore/status/1155939230545149952){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 You're only as strong as your deepest trauma. **([Tweet it](https://twitter.com/EdLatimore/status/1414787870896934913){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 When you get into trauma comparing contests, the only way you win is to lose. **([Tweet it](https://twitter.com/EdLatimore/status/1371367446532218881){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 The most destructive relationships are the ones built on shared trauma, mutual degeneracy, and competing scars. **([Tweet it](https://twitter.com/EdLatimore/status/1416736625506258945){: target="_blank" rel="noopener noreferrer"})**
 
 ***\[Read: [8 ways to get over someone you loved](/how-to-get-over-someone/)\]***
 
-***
+---
 
 All good hustlers have dealt with hardship. Usually in youth.
 
@@ -145,7 +146,7 @@ I don't know if hardship and trauma is a prerequisite, but if you channel it, th
 
 However, if you let past trauma consume you, then life will kick your ass instead… **([Tweet it](https://twitter.com/EdLatimore/status/1172470348224356354){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 Sometimes people dislike you for something you did. But sometimes, you simply remind them of someone who hurt them.
 
@@ -153,7 +154,7 @@ Because they haven't worked through the trauma or forgiven, they take it out on 
 
 Don't take it personally but don't take it laying down either. **([Tweet it](https://twitter.com/EdLatimore/status/1391043706002751493){: target="_blank" rel="noopener noreferrer"})**
 
-***
+---
 
 I don’t have any magic formula to make it easier for you to swallow the difficult parts of life. I merely have the truth, and I hope that’s enough.
 

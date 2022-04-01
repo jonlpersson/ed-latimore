@@ -3,7 +3,8 @@ date: 2020-02-13 16:14:00 -0500
 article_type: Article
 title: 'How to be happy again: 5 actionable steps'
 permalink: /how-to-be-happy-again/
-tags: ["mental-mastery"]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-happy-with-fish.jpg
 description: >-
   I've figured out how to be a happy person despite dealing with setbacks. Learn
@@ -39,7 +40,7 @@ Here are a few of my favorite analogies from Physics and Calculus that will incr
 
 {% include widgets/toc.html heading="How to be happy again in 5 actionable steps" list-items="Understand that happiness is a rate of change, See how life integrates experience from past to the present moment, Break down big problems into small things, Connect with other human beings, Forgiveness and letting go of grudges is the way to be happier " list-ids="understand-that-happiness-is-a-rate-of-change, see-how-life-integrates-experience-from-past-to-the-present-moment, break-down-big-problems-into-small-things, connect-with-other-human-beings, forgiveness-and-letting-go-of-grudges-is-the-way-to-be-happier " %}
 
-***
+---
 
 ![I was happy once. I'm happy again.](/assets/images/posts/2020/colombianotcaring.jpg "I was happy once. I'm happy again."){: width="1200" height="1200"}
 

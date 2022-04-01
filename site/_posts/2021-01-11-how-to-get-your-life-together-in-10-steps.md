@@ -3,7 +3,8 @@ date: 2021-01-11 00:00:00 -0500
 article_type: Article
 title: 10 actionable steps to get your life together in 2022
 permalink: /how-to-get-your-life-together/
-tags: ["mental-mastery"]
+tags:
+  - change-your-perspective
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
   Is it possible to turn your shitty life around? I'm living proof that you can.
@@ -59,7 +60,7 @@ Before I could fix myself, I had to admit to myself that I had a problem in the 
 
 No one likes thinking they’re in the wrong, but in order to make real change, you’re going to have to break yourself down before you can rebuild yourself into someone stronger.
 
-**Actionable small step \#1: Write down the 3-5 areas in your life where you have 80% of your issues. **
+\*\*Actionable small step \#1: Write down the 3-5 areas in your life where you have 80% of your issues. \*\*
 
 Is it your lack of punctuality or discipline? Poor sleep schedule or diet? Get brutally honest with yourself, and even take a few minutes to reflect on this if you can’t think of anything right away. If you don't know what your problems are, then there's no way to solve them.
 
@@ -85,7 +86,7 @@ It only served as a crutch to keep me from doing the hard work of becoming respe
 
 Personal responsibility is hard, and it takes practice, but you can’t take control of your life unless you claim full ownership of it. Take inventory of your problems and failures. See how you made choices that allowed each of them to happen. And then start working towards a stronger mindset that allows you to thrive.
 
-**Action small step \#2: Ask yourself are you making any excuses in your life and pinning your problems on them instead of taking responsibility? **
+\*\*Action small step \#2: Ask yourself are you making any excuses in your life and pinning your problems on them instead of taking responsibility? \*\*
 
 A bad upbringing, unfortunate mistakes, business failures? Write them down, get them into the open, and allow yourself to bear the full weight of your actions.
 
@@ -286,7 +287,7 @@ The sooner you get started on the hard work of fixing your life, the easier it w
 
 Learn more about overcoming fear by reading my guide [here](/how-to-overcome-fear/).
 
-***
+---
 
 ## Summary of the 10 small steps to get your life together in 2022
 

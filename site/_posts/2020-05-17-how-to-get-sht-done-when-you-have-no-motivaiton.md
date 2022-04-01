@@ -3,11 +3,11 @@ date: 2020-05-17 23:22:00 -0400
 article_type: Article
 title: How to get sh*t done when you have no motivaiton
 permalink: /lack-of-motivation/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-hitting-the-speedbag.jpg
 description: "Lack of motivation\_doesn't have to ruin your life. Learn how to motivate yourself when you're down."
 ---
-
 I see so many people talking about their lack of motivation.
 
 They feel unmotivated, not only because of everything happening with Covid-19, but also because of the stress of constant decision-making in their personal life. It seems like in the past few months, everyone has felt their motivation levels fall and their self-doubt rise.

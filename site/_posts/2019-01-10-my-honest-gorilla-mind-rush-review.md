@@ -3,7 +3,8 @@ date: 2019-01-10 23:00:00 -0500
 article_type: Review
 title: My honest Gorilla Mind Rush review
 permalink: /review-of-the-gorilla-mind-rush-is-it-effective/
-tags: ["mental-mastery"]
+tags:
+  - learning-skills
 image: /assets/images/posts/gorilla-mind-rush-coffee-mug.jpg
 description: "A comprehensive review of Mike Cernovich's Gorilla Mind Rush nootropic stack:\_what I think of it, how I use it, and how it compares to other products."
 ---
@@ -90,7 +91,7 @@ Having taken GMR for a number of months now, I've noticed the following main ben
 
 By far the biggest value add that GMR has brought into my life is allowing me to focus on cognitively demanding tasks for very long periods of time.
 
-I'm a prolific writer. In 2018, I published two new books: [*Sober Letters To My Drunken Self*]({{ '1791900798' | amazon }}){: target="_blank"} and *Engagement is the New Cocaine*.
+| I'm a prolific writer. In 2018, I published two new books: \[*Sober Letters To My Drunken Self*\]({{ '1791900798'</td><td>amazon }})\{: target="\_blank"\} and *Engagement is the New Cocaine*. |
 
 Without Gorilla Mind Rush, I honestly don't know if I could have produced nearly as much writing as I did. With writing, momentum is everything. GMR makes it so much easier to get in the zone and just bang out a few thousand words in one sitting. It won't make you a *better* writer (that takes practice), but it will definitely make you a more *prolific* writer.
 
@@ -148,7 +149,7 @@ Gorilla Mind Rush contains the following ingredients (I have also included a sho
 
 * **Huperzine A:** Halts brain damage; increases cognitive functions and memory; helps body composition; combats aging
 
-***
+---
 
 ## Conclusion
 

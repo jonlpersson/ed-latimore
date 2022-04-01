@@ -4,7 +4,7 @@ article_type: Article
 title: How to win an argument (without losing your temper)
 permalink: /how-to-win-an-argument/
 tags:
-  - mental-mastery
+  - relationship-building
 description: >-
   If you’re arguing with fools, you’re probably one of them. Discover practical
   tips to win any argument

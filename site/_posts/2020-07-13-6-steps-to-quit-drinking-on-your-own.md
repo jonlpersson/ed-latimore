@@ -3,7 +3,8 @@ date: 2020-07-13 20:51:00 -0400
 article_type: Article
 title: 6 steps to quit drinking on your own
 permalink: /how-to-stop-drinking-on-your-own/
-tags: [addiction-sobriety]
+tags:
+  - overcoming-addiction
 description: >-
   Tired of struggling with alcohol? This post will show you how to take a break
   from booze so you can get your physical, emotional, and mental health in

@@ -3,7 +3,8 @@ date: 2021-08-04 16:36:14 -0400
 article_type: Article
 title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
   has any one of these, you better end it immediately.
@@ -17,11 +18,11 @@ Not all of these red flags are created equal, but they're all bad things.
 
 Some of these are absolute deal breakers for any relationship, whether it be platonic or romantic. The one thing that they have in common is that they all point to a lack of accountability, responsibility, and discipline. If a man doesn't have those things down, he can't have a healthy relationship.
 
-This list isn’t exhaustive. There are other warning signs, but these are the 10 major red flags in men.&nbsp;
+This list isn’t exhaustive. There are other warning signs, but these are the 10 major red flags in men.
 
-{% include widgets/toc.html heading="10 major relationship red flags in men" list-items="No job/can&rsquo;t hold a job/no legal source of income, No real profession, No plans or goals he&rsquo;s taking action towards, Substance or alcohol abuse, No savings and/or excessive non-education debt, All of his exes are narcissists, Multiple baby mommas, No friends, Always late, Male feminists" list-ids="no-job-cant-hold-a-job-or-no-legal-source-of-income, no-real-profession, no-plans-or-goals-hes-taking-action-towards, substance-or-alcohol-abuse, no-savings-andor-excessive-non-education-debt, all-of-his-exes-are-narcissists-have-bipolar-disorder-or-have-some-mental-health-issue, multiple-baby-mommas, no-friends, always-late, male-feminists" %}
+{% include widgets/toc.html heading="10 major relationship red flags in men" list-items="No job/can’t hold a job/no legal source of income, No real profession, No plans or goals he’s taking action towards, Substance or alcohol abuse, No savings and/or excessive non-education debt, All of his exes are narcissists, Multiple baby mommas, No friends, Always late, Male feminists" list-ids="no-job-cant-hold-a-job-or-no-legal-source-of-income, no-real-profession, no-plans-or-goals-hes-taking-action-towards, substance-or-alcohol-abuse, no-savings-andor-excessive-non-education-debt, all-of-his-exes-are-narcissists-have-bipolar-disorder-or-have-some-mental-health-issue, multiple-baby-mommas, no-friends, always-late, male-feminists" %}
 
-## No job, can’t hold a job, or no legal source of income&nbsp;
+## No job, can’t hold a job, or no legal source of income
 
 The obvious exceptions are students, assuming he isn’t majoring in nonsense.
 
@@ -29,7 +30,7 @@ This also doesn’t include guys who are recently laid off but are looking for w
 
 Lastly, this doesn’t include your guys who do cyclical work (assuming their bills are covered in the interim).
 
-This is about the guy who is in a constant state of unemployment. This is the guy who gets hired and fired at some place new every 4-5 months.&nbsp;
+This is about the guy who is in a constant state of unemployment. This is the guy who gets hired and fired at some place new every 4-5 months.
 
 I’m not saying that he needs to be rich. He doesn’t even have to be middle class. But he needs to have the maturity to realize that he needs to work and not survive off of other people's labor. This parasitic survival could be a guy living with his parents, collective government assistance, or breaking the law to survive. Check out my [6 signs of maturity](/signs-of-maturity/) for more on this.
 
@@ -41,16 +42,16 @@ I had to stop hanging out with a childhood friend after he brought his gun to an
 
 There's a world of difference between having a profession and having a job. However, the main differences are in the following table:
 
-| Job | Profession |
+| Job  | Profession |
 | --- | --- |
-| Paid hourly | Paid salary |
-| Generic title | Specific distinction |
-| Easily interchangeable with another body | Requires specialized training and knowledge |
-| Little or no room for advancement (income and/or responsibility) | Advancement is expected and time in correlates with income |
-| Nothing required | Certification (not only a degree) required |
-| Short time horizon | Long time horizon |
-| No status or negative status | Positive status |
-| Professional reputation does not affect other employment prospects | Professional reputation is built, nurtured, and is important |
+| Paid hourly  | Paid salary |
+| Generic title  | Specific distinction |
+| Easily interchangeable with another body  | Requires specialized training and knowledge |
+| Little or no room for advancement (income and/or responsibility)  | Advancement is expected and time in correlates with income |
+| Nothing required  | Certification (not only a degree) required |
+| Short time horizon  | Long time horizon |
+| No status or negative status  | Positive status |
+| Professional reputation does not affect other employment prospects  | Professional reputation is built, nurtured, and is important |
 
 In short, a career sets you up for a long term path while a job is just a placeholder in your life. It sets a guy up to bear the burden of masculinity, shoulder responsibility, learn skills, and develop himself.
 
@@ -62,11 +63,11 @@ Business owners, entrepreneurs, performers, creatives, and professional athletes
 
 If they can’t pay their bills doing it, it’s a hobby. Hobbies are cool, but hobbies don’t put food on the table. Furthermore, pretending that your hobby is a profession is a clever way to avoid personal responsibility.
 
-This is not to say that a guy shouldn’t have something he does for fun. Hobbies are fine. Just avoid a guy with a hobby that he does in place of a job rather than a supplement to it.&nbsp;
+This is not to say that a guy shouldn’t have something he does for fun. Hobbies are fine. Just avoid a guy with a hobby that he does in place of a job rather than a supplement to it.
 
 Anything that hints at avoiding responsibility is a red flag, personal or otherwise.
 
-## No plans or goals he’s taking action towards&nbsp;
+## No plans or goals he’s taking action towards
 
 Goals and plans are powerful because they keep a guy from behaving recklessly.
 
@@ -78,7 +79,7 @@ They don’t have to be massive, change the world type goals. They don’t even 
 * **They don’t generate a net negative in the world.** You don’t have to make the world a better place, but don’t make it worse either.
 * **They force you to develop skills and abilities beyond your current level.** This makes sure you’re doing something rather than nothing.
 * **They’re objectively measurable**. Inner peace and self-confidence is nice, but a lot of that comes from being more competent at something.
-* **They force interaction in the physical world.** Even if you make money from them, video games don’t count, largely because the cost of getting talented enough to make money far exceeds the value gained from the journey.&nbsp;
+* **They force interaction in the physical world.** Even if you make money from them, video games don’t count, largely because the cost of getting talented enough to make money far exceeds the value gained from the journey.
 
 If a man doesn’t have any goals or plans that fit these 5 categories, he’s will either be an active liability or a passive drag. He won't bring you up because he has nothing to bring himself up with.
 
@@ -88,7 +89,7 @@ This doesn’t mean a guy can’t have hobbies and ways to blow off steam; only 
 
 This leads nicely into…
 
-## Substance or alcohol abuse&nbsp;
+## Substance or alcohol abuse
 
 I don't need to be a relationship expert to tell you that hard drug use is an immediate disqualifier.
 
@@ -114,7 +115,7 @@ But as far as relationship reg flags go, this is a big deal.
 
 A guy with no money saved and a lot of non-student loan debt is signaling to the world that he does not think about the future. This becomes an even bigger deal the older you get. A guy at 25 with no savings and a lot of consumer debt has many legitimate reasons to be in that position.
 
-For example, he could have just gotten a new car, apartment, and furniture to go in it. But a guy who is 35 and is still living beyond his means and saving nothing is signaling that he will not be reliable in a romantic relationship and is bad with money.&nbsp;
+For example, he could have just gotten a new car, apartment, and furniture to go in it. But a guy who is 35 and is still living beyond his means and saving nothing is signaling that he will not be reliable in a romantic relationship and is bad with money.
 
 Ultimately, debt signals that you can’t support yourself. No matter why you have it, the basic you need it to accomplish something you're incapable of accomplishing alone. The debt you owe on a degree (depending on the degree) is one thing, but excessive consumer or legal debt is a huge red flag.
 
@@ -134,7 +135,7 @@ It's a deal-breaker because it's a cowardly way to avoid taking responsibility f
 
 It's a lot easier to say there was something wrong with her to figure out how his actions contributed to things. And yes, this explanation is often used in place of taking responsibility because for things because it rules out the possibility that she was fine, but he had behaved in a way that made her act that way.
 
-## Multiple baby mommas&nbsp;
+## Multiple baby mommas
 
 If a guy gets multiple women pregnant, this means:
 
@@ -142,7 +143,7 @@ If a guy gets multiple women pregnant, this means:
 * **He can’t learn from his mistakes.** Let’s pretend that a guy did everything he could—used a condom, pulled out, and made sure she was on birth control—and he still got her accidentally pregnant. Alright, I’ll give him one failure. Shit happens. But if this happens two or three times, it means that he’s impulsive and can’t turn down opportunities with (what are usually) low-quality women. The first time can be a mistake. Everything after that is just foolishness.
 * **He’s bad at relationships.** Let’s say the guy was married and has a kid from a prior marriage. This makes sense and is common. It’s not a red flag. But if he’s single and has a kid from each past relationship, this means he thought it was a good idea to have children in a relationship that wasn’t going to work out, multiple times. He is just not good at having good relationships.
 
-This guy is also almost certainly going to have extremely messy finances. Child support will eat up most of his income, making it impossible to save for the future or even have a comfortable existence.&nbsp;
+This guy is also almost certainly going to have extremely messy finances. Child support will eat up most of his income, making it impossible to save for the future or even have a comfortable existence.
 
 ## No friends
 
@@ -178,7 +179,7 @@ I’ll elaborate.
 
 There is nothing wrong with believing that everyone deserves the same opportunities and equal treatment under the law. But if you’re a man who feels the need to make one of his defining traits that he’s championing for women's rights ([and women already have the same rights as men and by many metrics, are ahead of men](https://www.parentmap.com/article/boys-left-behind){: target="_blank" rel="noopener noreferrer"}), then this man has an ulterior motive.
 
-Very often, [these men are predators and abusers of women themselves](https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse){: target="_blank" rel="noopener noreferrer"}. Ultimately, it’s just a trick to ingratiate themselves with women without doing the work of becoming a more attractive man.&nbsp;
+Very often, [these men are predators and abusers of women themselves](https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse){: target="_blank" rel="noopener noreferrer"}. Ultimately, it’s just a trick to ingratiate themselves with women without doing the work of becoming a more attractive man.
 
 ## Summary of 10 major red flags in men
 

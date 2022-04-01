@@ -1,9 +1,10 @@
 ---
 date: 2019-10-22 00:00:00 -0400
 article_type: Article
-title: How to be yourself (5 step process)
+title: 'How to be yourself '
 permalink: /how-to-be-your-authentic-self/
-tags: [emotional-mastery]
+tags:
+  - how-to-control-your-emotions
 image: /assets/images/posts/ed-downton-abbey.jpg
 description: >-
   In this article, you'll learn how to be authentic. In being authentic, you’ll
@@ -140,7 +141,7 @@ It’s easy to become your best self when what you pursue aligns with your passi
 
 The moment you begin to live for another’s desires is the moment you lose authenticity. This is the moment when many of us, in an attempt to be cooler and fit in, lose the very thing that gives us our edge.
 
-I always tell people that I’m a more interesting and engaging person [since I stopped drinking.]({{ 'B07LFX335T' | amazon }}){: target="_blank"}
+| I always tell people that I’m a more interesting and engaging person \[since I stopped drinking.\]({{ 'B07LFX335T'</td><td>amazon }})\{: target="\_blank"\} |
 
 I get to live life on my own terms instead of the way most people expect me to. I can interact with people who drink and those who don’t because I’m always myself, engaged in life, and having fun.
 

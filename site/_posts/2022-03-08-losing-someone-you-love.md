@@ -4,7 +4,7 @@ article_type: Article
 title: How to cope with losing someone you love
 permalink: /losing-someone-you-love/
 tags:
-  - mental-mastery
+  - how-to-control-your-emotions
 description: >-
   Losing someone can leave you feeling lost. Here’s what to do when you don’t
   know what to do.

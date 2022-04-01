@@ -3,9 +3,12 @@ date: 2015-11-04 19:00:00 -0500
 article_type: Article
 title: 48 life lessons from boxing
 permalink: /how-to-think-like-a-professional-fighter/
-tags: [physical-mastery]
+tags:
+  - boxing-lessons
 image: /assets/images/posts/Amateur uppercut.jpg
-description: Here are 48 life lessons I learned from being a boxer. You may never fight, but if you use these lessons, you'll gain a huge advantage in the world.
+description: >-
+  Here are 48 life lessons I learned from being a boxer. You may never fight,
+  but if you use these lessons, you'll gain a huge advantage in the world.
 ---
 The following are a list of powerful life lessons I've taken from my time as both an amateur and [professional boxer](/boxing-benefits/).
 

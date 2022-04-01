@@ -3,7 +3,8 @@ date: 2021-10-03 11:49:29 -0400
 article_type: Article
 title: Understanding toxic relationships
 permalink: /toxic-relationships/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
   Toxic relationships can be dangerous. Especially if you don't know that you're
   in one. Learn the signs of one and how to escape. This could save your life.

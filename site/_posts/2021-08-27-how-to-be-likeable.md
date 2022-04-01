@@ -1,23 +1,25 @@
 ---
-date: 2021-08-27 08:00:00 -0500
+date: 2021-08-27 09:00:00 -0400
 article_type: Article
-title: "How to be more likeable: 5 strategies that worked for me"
+title: 'How to be more likeable: 5 strategies that worked for me'
 permalink: /how-to-be-likeable/
-tags: [emotional-mastery]
+tags:
+  - relationship-building
 description: >-
-  Likeability is the ultimate form of social currency, both in personal and romantic relationships and in business. Here are 5 ways to become more likeable.
+  Likeability is the ultimate form of social currency, both in personal and
+  romantic relationships and in business. Here are 5 ways to become more
+  likeable.
 image: /assets/images/posts/ed-speaking-spanish.jpg
 ---
-
 What’s the point in being likeable if people will just hate you for it?
 
 There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true.
 
 The longer you live, you’ll inevitably come across someone who, for whatever reason, just isn’t your biggest fan. That’s okay.
 
-But where most people get this saying wrong is believing _because you can’t please everyone_, you’ll automatically make enemies when being your authentic self. They don’t believe likeability and authenticity go hand in hand.
+But where most people get this saying wrong is believing *because you can’t please everyone*, you’ll automatically make enemies when being your authentic self. They don’t believe likeability and authenticity go hand in hand.
 
-If you’ve felt this way, you might even think _“why bother?”_
+If you’ve felt this way, you might even think *“why bother?”*
 
 Here’s why: authenticity is a requirement for strong relationships and a prerequisite for likeability. Just because everyone won’t like you doesn’t mean you need to make it easy for them to dislike you.
 
@@ -29,13 +31,9 @@ There’s just absolutely no downside to being likeable.
 
 So if you’re looking for a way to be more likeable while also not caring what other people think, or “selling out,” keep reading. This article is for you.
 
-{% include widgets/toc.html
-  heading="Strategies to become more likeable"
-  list-items="Develop anti-fragility, Create your personal manifesto, Ask the right questions, Monitor your body language, Don’t be judgmental"
-  list-ids="1-develop-anti-fragility, 2-create-your-personal-manifesto, 3-focus-on-what-people-are-saying-and-respond, 4-monitor-your-body-language, 5-dont-be-judgmental" %}
+{% include widgets/toc.html heading="Strategies to become more likeable" list-items="Develop anti-fragility, Create your personal manifesto, Ask the right questions, Monitor your body language, Don&rsquo;t be judgmental" list-ids="1-develop-anti-fragility, 2-create-your-personal-manifesto, 3-focus-on-what-people-are-saying-and-respond, 4-monitor-your-body-language, 5-dont-be-judgmental" %}
 
-
-## 1. Develop anti-fragility
+## 1\. Develop anti-fragility
 
 There are tons of simple ways to increase your likeability—being more confident is one of the most important. Though it isn’t simple in its development, the concept is: the more you like and trust yourself, the more others will like and trust you.
 
@@ -56,7 +54,7 @@ Here are the four confidences and how to put them into action:
 
 Learning to trust yourself and trust the process is a necessary step to becoming more likeable while not caring what others think of you. The more comfortable you are in your own skin, the more people will like you.
 
-## 2. Create your personal manifesto
+## 2\. Create your personal manifesto
 
 People think that wanting to be liked by others is pandering and somehow groveling. But being liked by others is actually a cue to social belonging.
 
@@ -85,7 +83,7 @@ When you have a set of personal standards, two decisions are immediately made fo
 
 Remember a major key to self-respect is actually enforcing your personal standards when they’re breached.
 
-## 3. Focus on what people are saying and respond
+## 3\. Focus on what people are saying and respond
 
 Though first impressions go a long way, first interactions also help determine if someone will like you or not. That’s why learning some conversational tactics are so important.
 
@@ -109,7 +107,7 @@ EQ is your ability to pick up on nuanced ques from the other person that they ar
 
 Learning to be a good listener can help you develop your EQ. Active listening helps you respond in real-time to others' comments. It makes them feel seen and heard and they'll be more inclined to want to get to know you.
 
-## 4. Monitor your body language
+## 4\. Monitor your body language
 
 Studies show that [70-90% of our communication](https://youth-time.eu/to-talk-or-not-to-talk-that-is-the-question-at-least-70-percent-of-communication-is-non-verbal/) is non-verbal. From our facial expressions to a firm handshake to your posture, you’re communicating something about yourself at all times.
 
@@ -122,9 +120,9 @@ Here are a few body language adjustments you can try today:
 * **Show enthusiasm**. Showing authentic enthusiasm not only makes people like you it makes them want to impress you and be liked by you.
 * **Put your phone down**. Looking down at your phone breaks your posture, breaks your eye contact, and makes you appear uninterested in the person speaking. All these things make others less attracted to you.
 
-Without good body language, it’s near impossible to make new friends or get someone to find you attractive. And we all could use a little help in that department. I recently wrote a No-BS guide about it. Check it out here: _[How to be a more attractive man](/how-to-be-an-attractive-man)_.
+Without good body language, it’s near impossible to make new friends or get someone to find you attractive. And we all could use a little help in that department. I recently wrote a No-BS guide about it. Check it out here: *[How to be a more attractive man](/how-to-be-an-attractive-man)*.
 
-## 5. Don’t be judgmental
+## 5\. Don’t be judgmental
 
 No one likes to be told what they should or shouldn’t be doing, especially from a complete stranger. It makes people feel isolated, ostracized, and alone. Forbes found that not being judgmental is also one of the [most important things others](https://www.forbes.com/sites/briannawiest/2018/12/11/how-to-be-the-most-likable-person-in-the-room/?sh=6a3f25746642) are attracted to in likeable people. It’s second only to a sense of humor.
 
