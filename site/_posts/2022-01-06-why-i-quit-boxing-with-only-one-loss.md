@@ -119,7 +119,7 @@ When you start as a kid, this isn’t really an issue. But to go anywhere as an 
 
 At this point, my lifestyle consists of content creation, speaking, and traveling. The last one is mostly a hobby, but it’s something that I always wanted to do when I was younger, and now I can. I’m not interested in giving that up. I can also have a greater impact on the world in this capacity. Because I try to produce helpful and useful content on the internet, I have a greater reach than I might ever have with boxing.
 
-In short, this lifestyle is far more purpose driven than boxing. It’s also a lot less painful.
+In short, this lifestyle is far more purpose-driven than boxing. It’s also a lot less painful.
 
 ### 4) I am too small to be a heavyweight boxer
 
@@ -142,7 +142,7 @@ For a better illustration of this, I’ve referenced an article aptly titled “
 
 #### What's the problem with being a shorter heavyweight boxer?
 
-While I had a great amount of success at 6’1”, it became clear to me that the height disadvantage was going to soon become one I couldn’t overcome. The way I compensated for being shorter was with [speed, power and conditioning](/proper-running-form/), but those tools quickly became nullified as my opponents got more skilled.
+While I had a great amount of success at 6’1”, it became clear to me that the height disadvantage was going to soon become one I couldn’t overcome. The way I compensated for being shorter was with speed, power and conditioning, but those tools quickly became nullified as my opponents got more skilled.
 
 While it’s theoretically possible that someone my height could have success, the reality is that when your opponent is just as skilled as you are, physical attributes make a big difference. This doesn’t say anything for the fact that it’s easier to be mobile and athletic at 6’5” 240 lbs, compared to a guy at 6’1” carrying that same weight.
 
