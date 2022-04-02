@@ -62,7 +62,7 @@ Or maybe you're just a guy who's healthy now but knows that his porn habit is no
 
 Here is the plan I used to quit porn
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here.](/products/dick-detox-the-ultimate-guide-to-quitting-porn/)\]***
+***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here.](/resources/dick-detox/)\]***
 
 {% include widgets/toc.html heading="How to get over your pornography addiction" list-items="Delete your browser history, Install an adult site blocker, Don't touch your dick, Get physical and get away from the computer, Talk to some women" list-ids="1-delete-your-browser-history, 2-install-an-adult-site-blocker, 3-dont-touch-your-dick, 4-get-physical&ndash;get-away-from-the-computer, 5-talk-to-some-women" %}
 
