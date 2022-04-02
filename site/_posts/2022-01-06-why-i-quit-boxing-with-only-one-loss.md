@@ -142,9 +142,9 @@ For a better illustration of this, I’ve referenced an article aptly titled “
 
 #### What's the problem with being a shorter heavyweight boxer?
 
-While I had a great amount of success at 6’1”, it became clear to me that the height disadvantage was going to soon become one I couldn’t overcome. The way I compensated for being shorter was with speed, power and conditioning, but those tools quickly became nullified as my opponents got more skilled.
+While I had a great amount of success at 6’1”, it became clear to me that the height disadvantage was going to soon become one I couldn’t overcome. The way I compensated for being shorter was with speed, power, and conditioning, but those tools quickly became nullified as my opponents got more skilled.&nbsp;
 
-While it’s theoretically possible that someone my height could have success, the reality is that when your opponent is just as skilled as you are, physical attributes make a big difference. This doesn’t say anything for the fact that it’s easier to be mobile and athletic at 6’5” 240 lbs, compared to a guy at 6’1” carrying that same weight.
+While it’s theoretically possible that someone my height could have success, the reality is that when your opponent is just as skilled as you are, physical attributes make a big difference. This doesn’t say anything about the fact that it’s easier to be mobile and athletic at 6’5” 240 lbs, compared to a guy at 6’1” carrying that same weight.
 
 If I could do things over again, I would have dropped to cruiserweight, the weight class below heavyweight. I would have automatically been above average in height and weight. There would have been less money, but I would have had a longer and more successful career.&nbsp;
 
