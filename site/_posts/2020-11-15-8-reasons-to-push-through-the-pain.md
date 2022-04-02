@@ -74,7 +74,7 @@ Changing your body takes time, changing your social and love life takes time, an
 
 I tell guys all the time that running has never been enjoyable to me.
 
-They say some people experience a runner's high, but I'm not one of them. However, not only do [I run 5-6 days a week](/proper-running-form/), I don't have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result. The same is true in boxing.
+They say some people experience a runner's high, but I'm not one of them. However, not only do I run 5-6 days a week, I don't have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result. The same is true in boxing.
 
 ![pushing through the pay roy jones jr ed latimore](/assets/images/posts/2020/pushing-through-the-pain-ed-latimore.jpg "After sparring with Roy Jones Jr. for a few rounds. My face is swollen, but that's part of the benefit of pain.")
 
