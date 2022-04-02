@@ -63,7 +63,7 @@ Maybe you're wondering if you're addicted to porn. Or perhaps you know someone, 
 
 There are a few different ways to know if you have a porn addiction. I’ve compiled a list of the most common and obvious signs that you have a problem with porn.
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here.](/products/dick-detox-the-ultimate-guide-to-quitting-porn/)\]***
+***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here](/resources/dick-detox/).\]***
 
 {% include widgets/toc.html heading="6 major signs of porn addiction" list-items="You can't stop watching porn, You spend money on porn, You show symptoms of mental health disorders, You have sexual dysfunction (you can't get it up), Your taste in porn has escalated, You have brain fog and low energy" list-ids="you-cant-stop-watching-porn, you-spend-money-on-porn, you-show-symptoms-of-mental-health-disorders, you-have-sexual-dysfunction-you-cant-get-it-up, your-taste-in-porn-has-escalated, you-have-brain-fog-and-low-energy" %}
 
@@ -190,7 +190,7 @@ The levels of reported ED issues among young men has skyrocketed in recent years
 
 While erectile dysfunction has multivariate causes, it is not an issue that young men typically encounter. However, we already know that pornography wreaks havoc on the brain’s response to dopamine. Sexual desire and getting an erection are all related to dopamine sensitivity.
 
-| In the book \*\[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships\]({{ '1556438095'</td><td>amazon }}),\* the authors state: |
+| In the book \*\[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships\]({{ '1556438095'&lt;/td&gt;&lt;td&gt;amazon }}),\* the authors state: |
 
 > In the last decade or so, addiction researchers have discovered that too much dopamine stimulation has a paradoxical effect. The brain decreases its ability to respond to dopamine signals (desensitization). This occurs with all addictions, both chemical and natural. In some porn users, the response to dopamine is dropping so low that they can’t achieve an erection without constant hits of dopamine via the Internet.
 
