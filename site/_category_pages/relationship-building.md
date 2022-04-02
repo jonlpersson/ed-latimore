@@ -35,6 +35,20 @@ page_blocks:
       relationship
 
 
+      ### Making yourself more attractive
+
+
+      #### [How to be an attractive man](/how-to-be-an-attractive-man/)
+
+
+      This is the no b.s., complete guide for being a more attractive man.
+      You’ll learn how to use body language, effective communication, and what
+      to do to make yourself physically more attractive as well. If you're
+      wondering if you're an attractive man in the first place, [read this
+      article to know the status of your attractiveness for
+      sure.](/are-you-attractive/)
+
+
       ### Starting a relationship
 
 
