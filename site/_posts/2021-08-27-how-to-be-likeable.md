@@ -43,7 +43,7 @@ The concept of anti-fragility means that your entire life isn’t derailed by a 
 
 Developing your self-confidence makes it easier to make new friends and build deeper relationships. It also makes you more likeable because people trust you more.
 
-In my book, [The Four Confidences](/products/four-confidences/), I share the lessons I had to learn the hard way. Developing my confidence was a key to becoming more likeable, quitting alcohol for good, and accomplishing more than people ever expected of me.
+In my book, [The Four Confidences](/resources/four-confidences/), I share the lessons I had to learn the hard way. Developing my confidence was a key to becoming more likeable, quitting alcohol for good, and accomplishing more than people ever expected of me.
 
 Here are the four confidences and how to put them into action:
 
