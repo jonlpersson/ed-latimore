@@ -71,7 +71,7 @@ Habitually blowing your load to porn becomes more about scratching an itch than 
 
 Okay, so we all watch porn right? Before I knew I was addicted to it, I didn’t think I had a problem. Check out these [6 definite signs you’re addicted to porn](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/) if you think you’re just watching “a little.”
 
-Struggling with any addiction saps your self-confidence and makes you lose trust and integrity with yourself. Read my free guide [Dick Detox: The ultimate guide to quitting porn](https://edlatimore.com/products/dick-detox-the-ultimate-guide-to-quitting-porn/), if you’re looking for actionable, step-by-step advice.
+Struggling with any addiction saps your self-confidence and makes you lose trust and integrity with yourself. Read my free guide [Dick Detox: The ultimate guide to quitting porn](/resources/dick-detox/), if you’re looking for actionable, step-by-step advice.
 
 ## 6\. Relationships with women are more fulfilling
 
