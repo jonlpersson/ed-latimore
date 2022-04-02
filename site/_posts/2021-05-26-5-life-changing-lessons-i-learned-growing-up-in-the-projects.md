@@ -146,13 +146,13 @@ As you become a high-value man, get more money, and stop thinking life is out to
 
 However, this is where 99% of people make a crucial mistake.
 
-If you’re reading this thinking ,“Ed, I work 60 hours a week, grinding every day, and never get anywhere, there’s no way you didn’t get lucky…”, you have to take a step back and think.
+If you’re reading this thinking,“Ed, I work 60 hours a week, grinding every day, and never get anywhere, there’s no way you didn’t get lucky…”, you have to take a step back and think.
 
 You’ll never succeed with the mindset that you’re destined to fail no matter what.
 
 If you believe that anything is possible, the world will open up, and you’ll begin to see opportunities pop up in places you never expected.
 
-This is why I wrote my book [“The Four Confidences.”](/products/four-confidences/) I saw so many guys getting pulled down, living every day like they’re knee-deep in mud.
+This is why I wrote my book “[The Four Confidences](/resources/four-confidences/).” I saw so many guys getting pulled down, living every day like they’re knee-deep in mud.
 
 Building unwavering confidence that you’ll succeed is the first step in changing your life. Get it for free by clicking the link below:
 
