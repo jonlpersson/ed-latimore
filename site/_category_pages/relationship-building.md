@@ -10,7 +10,6 @@ hero:
   heading: Relationship building skills for all types of relationships
   text_markdown:
 page_blocks:
-  - _id: posts_relevant
   - _id: block_rich_text
     alignment: left
     text_markdown: >-
@@ -59,4 +58,5 @@ page_blocks:
 
 
       &nbsp;
+  - _id: posts_relevant
 ---
