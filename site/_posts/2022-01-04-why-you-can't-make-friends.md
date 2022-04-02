@@ -1,16 +1,4 @@
----
-date: 2022-01-04 09:00:00 -0500
-article_type: Article
-title: This is why you don’t have friends (and how to make some)
-permalink: /why-you-cant-make-friends/
-tags:
-  - relationship-building
-description: >-
-  Despite more connectivity, everyone is lonely. Here are some practical reasons
-  why you don’t have friends and how to change that.
-image: /assets/images/thumbnails/ed-speaking-to-other-men.jpg
----
-Why is it that in a society where we’re the most connected we’ve ever been, people are lonelier than ever?[^1]
+Why is it that in a society where we’re the most connected we’ve ever been, people are lonelier than ever?<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Now, most people have a hard time making friends, let alone close friends because they don’t know how to get past an initial interaction. So people are reaching out to social media to fill the comfort gaps. Unfortunately, those bonds rarely build beyond digital connections.
 
@@ -22,8 +10,7 @@ But if you’re seeking any friends at all and feel like you can’t make them, 
 
 In this post, we’ll talk about the reasons why you’re having a hard time attracting good friends and how to change it.
 
-{% include widgets/toc.html 	heading="Why can’t I make friends" 	list-items="Your mindset sucks, You lack self-awareness, You’re ruled by anxiety, You’re avoiding people, Your relationship is holding you back, You chose the wrong hobbies" 	list-ids="your-mindset-is-poor, you-have-a-chronic-lack-of-self-awareness, your-social-anxiety-is-getting-the-best-of-you, youre-actively-avoiding-discomfort, youre-in-a-committed-relationship, you-dont-have-the-right-hobbies" %}
-
+{% include widgets/toc.html heading="Why can&rsquo;t I make friends" list-items="Your mindset sucks, You lack self-awareness, You&rsquo;re ruled by anxiety, You&rsquo;re avoiding people, Your relationship is holding you back, You chose the wrong hobbies" list-ids="your-mindset-is-poor, you-have-a-chronic-lack-of-self-awareness, your-social-anxiety-is-getting-the-best-of-you, youre-actively-avoiding-discomfort, youre-in-a-committed-relationship, you-dont-have-the-right-hobbies" %}
 
 ## Your mindset is poor
 
@@ -43,22 +30,17 @@ Saying things like “I can’t make friends” undermines your relationships an
 
 Strengthen your mindset to develop confidence by:
 
-
-
 * Keeping a daily journal where you reflect on the day and your thoughts and come up with solutions to your current issues
 * Increasing your skills in an area of interest. This will boost your self-esteem as you accomplish things and learn to trust yourself more.
 * Intentionally developing the type of close friendships you want
 
-Coming from a rough area, I was afraid of everything and lacked any confidence in myself. Read my book [The Four Confidences](https://edlatimore.com/products/four-confidences/) to discover how I overcame my lack of confidence and create a blueprint for your life.
-
+Coming from a rough area, I was afraid of everything and lacked any confidence in myself. Read my book [The Four Confidences](/resources/four-confidences/) to discover how I overcame my lack of confidence and create a blueprint for your life.
 
 ## You have a chronic lack of self-awareness
 
-People who are not self-aware make work and social situations more stressful for others.[^2] The problem is, without feedback, you’ll have a hard time discovering this.
+People who are not self-aware make work and social situations more stressful for others.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> The problem is that without feedback, you’ll have a hard time discovering this.
 
 Some signs this is you:
-
-
 
 * You find yourself ‘ghosted’ often
 * You meet people but they never turn into real friends
@@ -75,14 +57,11 @@ Lacking self-awareness isn’t exclusively reserved for introverts or extroverts
 
 I go more in depth in my article on [increasing your likability](https://edlatimore.com/how-to-be-likeable/) but here are some quick ways to become more aware of how you're interacting:
 
-
-
 * Ask someone you trust for feedback
 * Monitor your body language
 * Listen when people talk
 * Try mimicking their behavior to be situation appropriate if you don’t know how to manage your energy
 * Make eye contact
-
 
 ## Your social anxiety is getting the best of you
 
@@ -92,21 +71,19 @@ Both extroverts and introverts can have a hard time in social situations. Becaus
 
 It’s possible for introverts to be great in social interactions but since they don’t have the natural urge, introverts are more likely to be uncomfortable. In social settings, an introvert is more likely to focus too intensely on one person and not put themselves in the right situations to make new friends.
 
-If you believe you are constantly obsessing over everything that could go wrong in a social situation you may have a condition called social anxiety disorder.[^3] It affects teenagers and young adults most often and can be detrimental to your mental health. Social anxiety disorders make it hard to have a social life because you avoid social situations altogether.
+If you believe you are constantly obsessing over everything that could go wrong in a social situation you may have a condition called social anxiety disorder.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> It affects teenagers and young adults most often and can be detrimental to your mental health. Social anxiety disorders make it hard to have a social life because you avoid social situations altogether.
 
 I've written an entire post on how to be [less socially awkward](https://edlatimore.com/how-to-not-be-socially-awkward/) but if you think you have a social anxiety disorder, speaking to someone could be the best way to develop social skills.
 
-
 ### A note on Asperger's & bipolar disorder
 
-Social disorders such as Asperger syndrome and bipolar disorder can make it hard to form meaningful connections. Asperger's is a disorder on the autism spectrum and can make it hard to pick up on facial expressions, make eye contact, or read social cues.[^4]
+Social disorders such as Asperger syndrome and bipolar disorder can make it hard to form meaningful connections. Asperger's is a disorder on the autism spectrum and can make it hard to pick up on facial expressions, make eye contact, or read social cues.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
 
-Bipolar disorder causes manic episodes that make it hard to socialize.[^5] You can lack awareness if you are being too intense for the current social situation.
+Bipolar disorder causes manic episodes that make it hard to socialize.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> You can lack awareness if you are being too intense for the current social situation.
 
 In his rejection therapy practice, [author Jia Jiang](https://www.goodreads.com/book/show/22747928-rejection-proof) discovered simply mentioning something is awkward deflates the awkwardness for everyone involved. It allows all parties to have fun and your awkwardness becomes a benefit or enjoyable quirk.
 
 So though a social disorder can make it hard to build a social circle, the things you feel are your weaknesses may actually be strengths.
-
 
 ## You’re actively avoiding discomfort
 
@@ -114,16 +91,15 @@ Having a social life doesn't necessarily mean you'll have deep relationships or 
 
 Because I’m an extrovert by nature, I had to learn solitude was healthy and necessary on my journey to become successful in life. However, isolation easily turns into avoidance if you fear uncomfortable circumstances. For instance, losing your job or relationship can make you feel isolated, depressed, and not want to make meaningful connections because your self-confidence is low.
 
-It's perfectly normal to go through periods in life where you have friends and others where you don't. In fact, 1 in 5 people don't have someone they consider a close friend.[^6]
+It's perfectly normal to go through periods in life where you have friends and others where you don't. In fact, 1 in 5 people don't have someone they consider a close friend.<sup id="fnref:6" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:6">6</a></sup>
 
 If you've been actively avoiding social interactions, try going out little by little. This could be as small as saying hello to people in the grocery store that come within five feet of you. Also start saying yes to any invitations you have to go out.
 
 If you live alone, getting a roommate could be a great option to avoid unintentionally isolating yourself in a new and unfamiliar environment.
 
-
 ## You’re in a committed relationship
 
-After about age 25,[^7] both men and women stop making new or closer friendships. Life settles down, and it requires more effort to find new people than when you were a kid.
+After about age 25,<sup id="fnref:7" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:7">7</a></sup> both men and women stop making new or closer friendships. Life settles down, and it requires more effort to find new people than when you were a kid.
 
 Committed relationships can make it hard to make new friends because you don't have the urge to socialize. I'm not saying it's impossible to be in a relationship and have close friends but the natural drive to avoid loneliness isn't there. Your significant other fulfills that role.
 
@@ -133,14 +109,11 @@ But this is dangerous. Limiting meaningful social interactions to your significa
 
 There's nothing wrong with enjoying their company over anyone else but having your own group of friends helps you to be better for the relationship.
 
-
 ## You don’t have the right hobbies
 
 Finally, you don't have any friends because you don't have any social hobbies. Hobbies create a baseline for meeting people that share the same interests and make it easier to form new friendships. They also boost your self-confidence which improves your mental health.
 
 I’ve written about [selecting the right hobby](https://edlatimore.com/hobbies-to-make-friends/) to meet women and make friends before. Check out that post for a deeper dive into the topic. In general, the key to starting any new venture is to embrace the discomfort of leaving your comfort zone:
-
-
 
 * Try joining activities at your school or organization
 * Look for intramural sports for men
@@ -149,14 +122,11 @@ I’ve written about [selecting the right hobby](https://edlatimore.com/hobbies-
 * Sign up for Bumble BFF
 * Invite someone to a local event
 
-
 ## One last thing to remember
 
 If you have a hard time making new friends, all is not lost. The key to building lasting friendships as an adult is to approach building your social circle with intention. Knowing the type of friends you want and how you want to feel will benefit your well-being for the rest of your life.
 
 Here’s a quick recap of how to make friends when you feel like you can’t:
-
-
 
 * Build your self-talk
 * Develop self-awareness
@@ -167,20 +137,8 @@ Here’s a quick recap of how to make friends when you feel like you can’t:
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-***
+---
 
 ### References
 
-[^1]: Melore,  Chris _[Study Finds: Lonely nation: 2 in 3 Americans feel more alone than ever before, many admit to crying for first time years](https://www.studyfinds.org/lonely-nation-two-thirds-feel-more-alone-than-ever-many-cry-first-time/)_ April 29, 2021 (accessed Nov 2021)
-
-[^2]: Eurich,Tasha. _[Harvard Business Review: Working with People Who Aren’t Self-Aware](https://hbr.org/2018/10/working-with-people-who-arent-self-aware)_ October 19, 2018 (accessed Nov 2021)
-
-[^3]: Mayo Clinic Staff [Mayo Clinic: Social Anxiety Disorder](https://www.mayoclinic.org/diseases-conditions/social-anxiety-disorder/symptoms-causes/syc-20353561) June 19, 2021 (accessed Nov 2021)
-
-[^4]: Mayer, Beth Ann. Medically reviewed by Karin Gepp, Psy. D. _[Healthline: How to Tell the Difference Between Social Anxiety and Autism ](https://www.healthline.com/health/autism/social-anxiety-vs-autism#similarities)_ Nov. 3, 2021 (accessed Nov 2021)
-
-[^5]: Kavital Lohano, MD, Rif S. El-mallakh, MD. [Psychiatric Times](https://www.psychiatrictimes.com/view/anxious-bipolar-patient), Psychiatric Times Vol 28 No 9, Volume 28, Issue 9. Sep. 6, 2011 (accessed Nov 2021)
-
-[^6]:  Ballard, Jamie. [YouGov America: Millennials are the loneliest generation](https://today.yougov.com/topics/lifestyle/articles-reports/2019/07/30/loneliness-friendship-new-friends-poll-survey) July 30, 2019 (accessed Nov 2021)
-
-[^7]: Bhattacharya, K., Ghosh, A., Monsivais, D., Dunbar, R. I., & Kaski, K. Royal Society open science, 3(4), 160097. 2016. Sex differences in social focus across the life cycle in humans. [https://doi.org/10.1098/rsos.160097](https://doi.org/10.1098/rsos.160097) (accessed Nov 2021)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Melore, Chris <em><a href="https://www.studyfinds.org/lonely-nation-two-thirds-feel-more-alone-than-ever-many-cry-first-time/">Study Finds: Lonely nation: 2 in 3 Americans feel more alone than ever before, many admit to crying for first time years</a></em> April 29, 2021 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Eurich,Tasha. <em><a href="https://hbr.org/2018/10/working-with-people-who-arent-self-aware">Harvard Business Review: Working with People Who Aren&rsquo;t Self-Aware</a></em> October 19, 2018 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Mayo Clinic Staff <a href="https://www.mayoclinic.org/diseases-conditions/social-anxiety-disorder/symptoms-causes/syc-20353561">Mayo Clinic: Social Anxiety Disorder</a> June 19, 2021 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Mayer, Beth Ann. Medically reviewed by Karin Gepp, Psy. D. <em><a href="https://www.healthline.com/health/autism/social-anxiety-vs-autism#similarities">Healthline: How to Tell the Difference Between Social Anxiety and Autism </a></em> Nov. 3, 2021 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Kavital Lohano, MD, Rif S. El-mallakh, MD. <a href="https://www.psychiatrictimes.com/view/anxious-bipolar-patient">Psychiatric Times</a>, Psychiatric Times Vol 28 No 9, Volume 28, Issue 9. Sep. 6, 2011 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li><li id="fn:6" role="doc-endnote"><p>Ballard, Jamie. <a href="https://today.yougov.com/topics/lifestyle/articles-reports/2019/07/30/loneliness-friendship-new-friends-poll-survey">YouGov America: Millennials are the loneliest generation</a> July 30, 2019 (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:6">↩</a></p></li><li id="fn:7" role="doc-endnote"><p>Bhattacharya, K., Ghosh, A., Monsivais, D., Dunbar, R. I., &amp; Kaski, K. Royal Society open science, 3(4), 160097. 2016. Sex differences in social focus across the life cycle in humans. <a href="https://doi.org/10.1098/rsos.160097">https://doi.org/10.1098/rsos.160097</a> (accessed Nov 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:7">↩</a></p></li></ol></div>
