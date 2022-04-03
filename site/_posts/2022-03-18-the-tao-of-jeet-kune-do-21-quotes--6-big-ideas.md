@@ -5,7 +5,7 @@ title: 'The Tao of Jeet Kune Do: 21 quotes & 6 big ideas'
 permalink: /tao-of-jeet-kune-do-quotes/
 tags:
   - boxing-lessons
-  - book-quotes
+  - quotes
 description: >-
   These are the quotes and big ideas I've collected from Bruce Lee's "The Tao of
   Jeet Kune Do", with explanation and extrapolation.
