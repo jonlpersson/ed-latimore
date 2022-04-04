@@ -5,16 +5,17 @@ title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
 tags:
   - relationship-building
+  - quotes
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.
 image: /assets/images/thumbnails/book-cover-the-cure-for-hate-by-tony-mcaleer.jpeg
 ---
-The Cure For Hate recounts the story of Tony McAleer as he goes from being fully stepped in Neo-Nazi ideology to becoming a voice for peace and unity, and everything he learns along the way.&nbsp;
+The Cure For Hate recounts the story of Tony McAleer as he goes from being fully stepped into Neo-Nazi ideology to becoming a voice for peace and unity, and everything he learns along the way.&nbsp;
 
-This memoir explored the life of Tony McAleer, tracing his journey from his initial introduction to the skinhead culture, to becoming a full on far-right white supremacist, to his eventual denouement of racist and hate fueled ideology. The memoir then takes us on a journey of [retribution, compassion, and forgiveness](/Ed-latimore-forgiveness-quotes/), not just towards him, but to the people he harmed.
+This memoir explored the life of Tony McAleer, tracing his journey from his initial introduction to the skinhead culture to becoming a full-on far-right white supremacist, to his eventual denouement of racist and hate-fueled ideology. The memoir then takes us on a journey of [retribution, compassion, and forgiveness](/Ed-latimore-forgiveness-quotes/), not just towards him, but to the people he harmed.
 
-Ultimately, McAleer becomes a powerful advocate of and partner with groups devoted to getting people out of extremist movements, most notably working with [Life After Hate](https://en.wikipedia.org/wiki/Life_After_Hate){: target="_blank" rel="noopener"}, a group dedicated to help people leave far-right groups, particularly white supremacy groups.
+Ultimately, McAleer becomes a powerful advocate of and partner with groups devoted to getting people out of extremist movements, most notably working with [Life After Hate](https://en.wikipedia.org/wiki/Life_After_Hate){: target="_blank" rel="noopener"}, a group dedicated to helping people leave far-right groups, particularly white supremacy groups.
 
 ​​​​​​
 
@@ -34,7 +35,7 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “That is the danger with censorship; it creates an enticing mystique around the banned material where there previously was none. When the KKK puts flyers on 100 cars or houses in a community, they do it with the knowledge that those flyers might not help to recruit anybody, but the media reporting it will. The white supremacist movement thrives on conflict and attention, and the media is obliged to report on it, which only helps its cause.”
 
-“As I see it, the conundrum in trying to stifle the expression or discussion of offensive topics or beliefs is that while they might go out of immediate sight, they don’t go away. I think it is better to have these negative social or political elements out in the open where we can deal with them head on by exposing them.”
+“As I see it, the conundrum in trying to stifle the expression or discussion of offensive topics or beliefs is that while they might go out of immediate sight, they don’t go away. I think it is better to have these negative social or political elements out in the open where we can deal with them head-on by exposing them.”
 
 “Force in this context is alluring, as it offers an instant sense of gratification, but it is costly and ineffective in the long term. Vigilante justice is not going to power the change required to heal nations.”
 
