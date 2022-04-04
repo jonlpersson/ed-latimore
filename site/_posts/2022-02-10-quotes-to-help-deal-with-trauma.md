@@ -5,6 +5,7 @@ title: 20 quotes to help with adult and childhood trauma
 permalink: /trauma-quotes/
 tags:
   - relationship-building
+  - quotes
 description: >-
   It’s not therapy, but these quotes to help deal with trauma are collected from
   my writings, Twitter, and other social media accounts.
