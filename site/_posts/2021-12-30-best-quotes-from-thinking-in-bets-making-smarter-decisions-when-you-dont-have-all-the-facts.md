@@ -5,6 +5,7 @@ title: 12 great quotes from Annie Duke's “Thinking in Bets”
 permalink: /annie-duke-thinking-in-bets-quotes/
 tags:
   - learning-skills
+  - quotes
 description: >-
   Here are 12 great quotes from “Thinking in Bets: Making Smarter Decisions When
   You Don't Have All the Facts” by former professional poker player Annie Duke.
