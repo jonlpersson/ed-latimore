@@ -5,7 +5,7 @@ title: 'The Art of War: 10 best quotes and ideas'
 permalink: /art-of-war-quotes-and-summary/
 tags:
   - boxing-lessons
-  - book-quotes
+  - quotes
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.
