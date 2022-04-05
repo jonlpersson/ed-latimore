@@ -5,7 +5,7 @@ title: 'Accidental Courtesy: Daryl Davis, Race & America quotes'
 permalink: /accidental-courtesy-quotes/
 tags:
   - relationship-building
-  - quotes
+  - quotes-and-summaries
 description: >-
   Accidental Courtesy follows Daryl Davis, a black jazz musician, who befriends
   members of the Ku Klux Klan in hopes of converting them and stopping hate. 
