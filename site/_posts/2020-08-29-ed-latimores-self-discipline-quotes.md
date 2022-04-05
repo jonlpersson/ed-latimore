@@ -5,6 +5,7 @@ title: 16 best self-discipline quotes
 permalink: /ed-latimore-self-discipline-quotes/
 tags:
   - mental-toughness
+  - quotes
 description: >-
   This is a collection of my best quotes about self-discipline. These will help
   you remember what it takes to develop self-discipline and self-control.
