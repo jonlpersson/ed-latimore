@@ -15,7 +15,7 @@ The power of forgiveness has changed my life. It's allowed me to repair relation
 
 I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace on.
 
-I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined those trespass. True forgiveness does not even seek an explanation or apology. It recognizes that we're all imperfect and all that we can do is try to be better in our daily lives.
+I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined buy those trespasses. True forgiveness does not even seek an explanation or apology. It recognizes that we're all imperfect and all that we can do is try to be better in our daily lives.
 
 Because forgiveness is such an important part of my life, I've written several tweets and articles about it on my website. The following are a collection of forgiveness quotes that you can use to recognize and remember the power of forgiveness whenever you are compelled to hold a grudge, seek revenge, or are simply looking for peace.
 
