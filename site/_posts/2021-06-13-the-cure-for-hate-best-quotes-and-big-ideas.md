@@ -5,7 +5,7 @@ title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
 tags:
   - relationship-building
-  - quotes
+  - quotes-and-summaries
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.
