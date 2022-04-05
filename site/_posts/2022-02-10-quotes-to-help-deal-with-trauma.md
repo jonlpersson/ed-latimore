@@ -5,13 +5,13 @@ title: 20 quotes to help with adult and childhood trauma
 permalink: /trauma-quotes/
 tags:
   - relationship-building
-  - quotes
+  - quotes-and-summaries
 description: >-
   It’s not therapy, but these quotes to help deal with trauma are collected from
   my writings, Twitter, and other social media accounts.
 image: /assets/images/thumbnails/dealing-with-trauma.jpeg
 ---
-Because I've written so much about the traumatic events in my life, I've said many things to help people deal with the bad things that have happened in their lives.&nbsp;
+Because I've written so much about the traumatic events in my life, I've said many things to help people deal with the bad things that have happened in their lives.
 
 Some of my writing was intentionally for the purpose of helping people with their own healing process. Other pieces of content and advice were not meant to do anything in particular, but I've received feedback about the effect many of my words have had on people's mental health.
 
@@ -23,7 +23,7 @@ What happened to you stays with you. The slightest reminder can turn a good day 
 
 People recommend therapy and I think that's a good idea. Unfortunately, we don't all have access to that tool for many reasons. This collection of trauma quotes is my attempt to help spur any emotional healing and quell any emotional pain.
 
-It’s not therapy, but these quotes to help deal with trauma are collected from my writings, Twitter, and other social media accounts.. Some of them are tough love, but they're all things I've figured out from working through my childhood trauma and getting to where I am today.&nbsp;
+It’s not therapy, but these quotes to help deal with trauma are collected from my writings, Twitter, and other social media accounts.. Some of them are tough love, but they're all things I've figured out from working through my childhood trauma and getting to where I am today.
 
 ## 20 quotes to help with adult and childhood trauma
 
@@ -45,8 +45,6 @@ You can't expect to be fully healed so quickly–if ever. All you can do is make
 
 ---
 
-&nbsp;
-
 Unresolved trauma is the real gateway drug. **([Tweet it](https://twitter.com/EdLatimore/status/1461522593131937803){: target="_blank" rel="noopener noreferrer"})**
 
 ---
@@ -55,7 +53,7 @@ A lot of people are assholes on Twitter because they're dealing with unresolved 
 
 Here, their words cause a reaction that gets them attention they can't get in their real life…
 
-And attention and love look the same to someone not used to receiving either.&nbsp;**([Tweet it](https://twitter.com/EdLatimore/status/1387226327430926341){: target="_blank" rel="noopener noreferrer"})**
+And attention and love look the same to someone not used to receiving either. **([Tweet it](https://twitter.com/EdLatimore/status/1387226327430926341){: target="_blank" rel="noopener noreferrer"})**
 
 ***\[Read: [Why you have haters if you aren't an asshole](/why-you-have-haters-even-if-you-arent-an-asshole/)\]***
 
