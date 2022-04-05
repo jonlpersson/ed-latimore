@@ -1,6 +1,6 @@
 ---
 tag: quotes
-title: Quoted and summaries
+title: Quotes and summaries
 description:
 hero:
   label: Quotes
