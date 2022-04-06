@@ -50,7 +50,7 @@ Although both of these hair loss treatments are cheap and effective, they have t
 
 ## Disadvantages to Minoxidil and Finasteride
 
-First, the biggest problem: in most men, neither of these *[actually regrow hair](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691938/){: target="_blank"}.*
+First, the biggest problem is that neither of these [actually regrow hair in most men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691938/){: target="_blank" rel="noopener noreferrer"}*.*
 
 A minority of men may experience regrowth using minoxidil and finasteride, but in the majority of men, these drugs simply halt hair loss. Any "regrowth" that you see is the result of more hairs remaining in the Anagen (growth) hair phase rather than prematurely entering the Telogen (resting - after shedding) hair phase.
 
@@ -177,7 +177,7 @@ To deal with this, it is recommended that you continue taking minoxidil and fina
 
 I'm much more vigilant about it now that I have an aesthetic to maintain rather than try to salvage what little I had left.
 
-That doesn’t mean that I’m right and you should take my suggestion. I’m only making sure that you're aware of this risk. The earlier you are into the hair loss, the more likely it is that you’ll need to use minoxidil or finasteride to keep the other hair on the top of your head from falling out.
+That doesn’t mean that I’m right and you should take my suggestion. I’m only making sure that you're aware of this risk. The earlier you are into hair loss, the more likely it is that you’ll need to use minoxidil or finasteride to keep the other hair on the top of your head from falling out.
 
 ## Should You Get A Hair Transplant?
 
@@ -189,13 +189,13 @@ I really can’t recommend it enough.
 
 Just keep in mind that if you’re using it as an alternative to taking minoxidil or finasteride, you may have to continue taking it if your hair loss isn’t advanced enough.
 
-Also, don’t expect to get a full head of hair with perfectly matching thickness. I’m a dark-skinned black man, and if I look hard enough, I can see the density disparity. However, when I wear a regular fade or even haircut, no one can.
+Also, don’t expect to get a full head of hair with perfectly matching thickness. I’m a dark-skinned black man, and if I look hard enough, I can see the density disparity. However, no one can when I wear a regular fade or even haircut.
 
-Your results may vary, which is why it’s important to do research on your doctor and make sure that you feel comfortable. I am very lucky that I lived near Dr. Krenitsky. From his bio on the Bosley website:
+Your results may vary, which is why it’s important to do research on your doctor and make sure that you feel comfortable. I am very lucky that I lived near Dr. Krenitsky. From his bio on the [Bosley website](https://www.bosley.com/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noopener noreferrer"}\:
 
 > Dr. Krenitsky is among only a handful of hair restoration physicians in the country who are recognized as a Diplomate of the American Board of Hair Restoration Surgery. He currently sits on the board of directors of that organization.
 
-Make sure you do research into your doctor and ask what type of results you can expect for your hair texture, level of hair loss, and skin tone.
+Make sure you research your doctor and ask what type of results you can expect for your hair texture, level of hair loss, and skin tone.
 
 If you do all of this, then your hair transplant should be a success\!
 
