@@ -72,7 +72,7 @@ I’m damn sure not a hair transplant surgeon. I just made sure that I did my re
 
 Dihydrotestosterone (DHT) is a sex hormone.
 
-[Your levels of DHT naturally rise as you get older, but then levels off after a certain point.](https://www.bosley.com/blog/what-is-dht-hormone/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"} In a large number of men, the hair follicles on in the front and on the crown of the head are sensitive to DHT. In these men, those hair follicles shrink in response to DHT and eventually, the hairs stop growing.
+[Your levels of DHT naturally rise as you get older, but then levels off after a certain point.](https://www.bosley.com/blog/what-is-dht-hormone/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"} In a large number of men, the hair follicles in the front and on the crown of the head are sensitive to DHT. In these men, those hair follicles shrink in response to DHT, and eventually, the hairs stop growing.
 
 The hairs on the side and back of the head are forever immune to DHT. They will never experience thinning. It is from this “donor area” that “hair grafts” are transplanted to the balding areas of your scalp.
 
@@ -82,8 +82,8 @@ These hairs are permanent. They will fall never out.
 
 There are two types of hair transplantation methods:
 
-1. <u><strong>Follicular Unit Transplantation (FUT).</strong></u> The hair transplant surgeon removes a strip of your scalp from the donor area. The hair grafts are harvested from that strip and then transplanted into the thinning areas of the scalp.
-2. <u><strong>Follicular Unit Extraction (FUE).</strong></u> Individual hair grafts are removed one-by-one from the side and back of the head using a specialist microsurgical needle, then transplanted to the thinning areas of the scalp.
+1. [<u><strong>Follicular Unit Transplantation (FUT).</strong></u>](https://www.bosley.com/hair-transplant/follicular-unit-transplantation/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noopener noreferrer"} The hair transplant surgeon removes a strip of your scalp from the donor area. The hair grafts are harvested from that strip and then transplanted into the thinning areas of the scalp.
+2. [<u><strong>Follicular Unit Extraction (FUE).</strong></u>](https://www.bosley.com/hair-transplant/follicular-unit-extraction/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noopener noreferrer"} Individual hair grafts are removed one by one from the side and back of the head using a specialist micro surgical needle, then transplanted to the thinning areas of the scalp.
 
 ![Fue hair transplant diagram](/assets/images/posts/2020/fue-hair-transplant-explanation.jpg "Fue hair transplant diagram"){: width="480" height="224"}
 
@@ -99,7 +99,7 @@ I stopped in the Bosley office nearest me and got a consultation. They took some
 
 Initially, I was told that they’d be able to achieve a good effect by transplanting 2500 hair grafts. However, after the doctor looked at my hair texture, he recommended that I have two procedures.
 
-[This is a great explanation of what exactly a hair graft is.](https://www.hairclub.com/blog/what-hair-graft-and-how-it-created/){: target="_blank"} If you don’t read through, the basic idea is this: a graft is any piece of tissue. A hair graft is a piece of tissue that hairs grow from, taken from your scalp. Each graft contains 2-4 hair follicles.
+[This is a great explanation of what exactly a hair graft is.](https://www.bosley.com/blog/how-many-hair-grafts-do-i-need-and-how-much-will-it-cost/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"} If you don’t read through, the basic idea is this: a graft is any piece of tissue. A hair graft is a piece of tissue that hairs grow from, taken from your scalp. Each graft contains 2-4 hair follicles.
 
 Apparently, African-American hair is more difficult to extract and preserve the integrity of hair graft, but fewer grafts are required to achieve the desired hair density.
 
