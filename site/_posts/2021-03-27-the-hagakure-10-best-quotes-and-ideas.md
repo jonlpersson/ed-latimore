@@ -160,5 +160,6 @@ There are few things to be gained and many to be lost by doing so. And before yo
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
+* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
 
 &nbsp;
