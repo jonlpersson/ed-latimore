@@ -17,7 +17,7 @@ Taoism is the idea that everything in the world stems from the “Tao”. Tao (�
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
-Creation of the book is often credited to Lao Tzu (also rendered as LaoZi 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
+The creation of the book is often credited to Lao Tzu (also rendered as LaoZi 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
 
 The following are some of the most impactful quotes and I ideas I collected from the Tao Te Ching along with commentary where appropriate. I group the ideas by the themes that I found most useful and interesting as well.
 
@@ -66,9 +66,9 @@ It doesn’t mean you're the best in the whole world. It only means that you’v
 
 ## **Tao Te Ching Quotes on leadership**
 
-It’s no surprise the Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes were an interesting complement to some of the ideas I’d read on leadership in the Art of War and The Hagakure.
+It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes were an interesting complement to some of the ideas I’d read on leadership in [The Art of War](/art-of-war-quotes-and-summary/) and [The Hagakure](/hagakure-quotes/).
 
-Lao Tzu has a reverence for good teaching and leadership qualities. There is also an emphasis on a leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
+Lao Tzu has a reverence for good teaching and leadership qualities. There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
 
 1. The best leader is one whose existence is barely known. Next best is one who is loved and praised. After that, one who is feared. Worst of all is a leader who is despised.
 2. If you fail to trust people, you won’t inspire their trust.
