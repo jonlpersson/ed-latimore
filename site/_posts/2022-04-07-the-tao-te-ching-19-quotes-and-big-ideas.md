@@ -68,7 +68,7 @@ It doesn’t mean you're the best in the whole world. It only means that you’v
 
 It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes were an interesting complement to some of the ideas I’d read on leadership in [The Art of War](/art-of-war-quotes-and-summary/) and [The Hagakure](/hagakure-quotes/).
 
-Lao Tzu has a reverence for good teaching and leadership qualities. There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
+Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [leadership qualities](/leadership-philosophy/). There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
 
 1. The best leader is one whose existence is barely known. Next best is one who is loved and praised. After that, one who is feared. Worst of all is a leader who is despised.
 2. If you fail to trust people, you won’t inspire their trust.
