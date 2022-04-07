@@ -9,7 +9,7 @@ description: >-
   The Tao Te Ching is a classic text about living according to the "Tao" or "The
   way". Here are some of the passages from the book that will truly change your
   perspective. 
-image:
+image: /assets/images/posts/taotechingcover.png
 ---
 The main idea of the Tao Te Ching (also known as Dao De Jing) is to live life in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book—along with the *Zhuangzi—*is considered one of the fundamental texts of philosophical and religious Taoism.
 
@@ -36,7 +36,7 @@ When nothing disturbs your emotional center, this is true power.
 1. Heaven and Earth are not sentimental; they regard all things as dispensable. The sage isn't sentimental, either; He views all forms as ephemeral and transitional.
 2. Line your home with treasures and you won't be able to defend it. &nbsp; Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
 3. Favor and disgrace are equally problematic. Hope and fear are phantoms of the body.
-4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire -- nonsense.
+4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.
 
 ## **Tao Te Ching Quotes on wisdom**
