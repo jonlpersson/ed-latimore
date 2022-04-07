@@ -17,7 +17,7 @@ Taoism is the idea that everything in the world stems from the “Tao”. Tao (�
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
-The creation of the book is often credited to Lao Tzu (also rendered as LaoZi 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
+The creation of the book is often credited to Lao Tzu (also rendered as "LaoZi" 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
 
 The following are some of the most impactful quotes and I ideas I collected from the Tao Te Ching along with commentary where appropriate. I group the ideas by the themes that I found most useful and interesting as well.
 
@@ -27,17 +27,17 @@ With that said, I couldn’t possibly do a book like the Tao Te Ching justice, s
 
 ## Tao Te Ching Quotes on non-attachment
 
-The Tao Te Ching has several ideas that train you to let go of your thoughts and ideas. Taoists believe that the only way to exist peacefully in the world is to take things the way things are. The idea of non-attachment is contrary to a lot of western thought, but it is essential to the Taoist teaching. Non-attachment is simply accepting the world as it is and recognizing that nothing is permanent. It occurs when you stop thinking and merely are. The natural conclusion then is to not let anything disturb your emotional center because it will all change.
+The Tao Te Ching has several ideas that train you to let go of your thoughts and ideas. Taoists believe that the only way to exist peacefully in the world is to take things the way things are. The idea of non-attachment is contrary to a lot of western thought, but it is essential to Taoist teaching. Non-attachment is simply accepting the world as it is and recognizing that nothing is permanent. It occurs when you stop thinking and merely are. Then, the natural conclusion is to not let anything disturb your emotional center because it will all change.
 
 When nothing disturbs your emotional center, this is true power.
 
 &nbsp;
 
-1. Heaven and Earth are not sentimental; they regard all things as dispensable. The sage isn't sentimental, either; He views all forms as ephemeral and transitional.
-2. Line your home with treasures and you won't be able to defend it. &nbsp; Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
-3. Favor and disgrace are equally problematic. Hope and fear are phantoms of the body.
-4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
-5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.
+> 1. Heaven and Earth are not sentimental; they regard all things as dispensable. The sage isn't sentimental, either; He views all forms as ephemeral and transitional.
+> 2. Line your home with treasures and you won't be able to defend it. &nbsp; Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
+> 3. Favor and disgrace are equally problematic. Hope and fear are phantoms of the body.
+> 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
+> 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.
 
 ## **Tao Te Ching Quotes on wisdom**
 
@@ -45,11 +45,11 @@ Wisdom is not only the byproduct of experience, but it’s also the byproduct of
 
 In this way, ordinary people have the ability to develop extraordinary wisdom as a result of simply surviving. Of course, the Taoists laid out a path for living they believe can turn anyone into a wise man or woman.
 
-1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, and accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
-2. In the same way, the wise person puts himself last, and thereby finds himself first; &nbsp; Holds himself outside, and thereby remains at the center; &nbsp; Abandons himself, and is thereby fulfilled.
-3. Knowing others is intelligence; knowing the self is enlightenment. &nbsp; Conquering others is power; conquering the self is strength.
-4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
-5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
+> 1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, and accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
+> 2. In the same way, the wise person puts himself last, and thereby finds himself first; &nbsp; Holds himself outside, and thereby remains at the center; &nbsp; Abandons himself, and is thereby fulfilled.
+> 3. Knowing others is intelligence; knowing the self is enlightenment. &nbsp; Conquering others is power; conquering the self is strength.
+> 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
+> 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
 ## **Tao Te Ching Quotes on self-improvement**
 
@@ -59,10 +59,10 @@ These Lao Tzu quotes are not explicitly about self-improvement, but the ideas ar
 
 It doesn’t mean you're the best in the whole world. It only means that you’ve reached a level where that specific area is no longer a problem for you. Lao Tzu has a few true words that speak to the approach required to reach this level of living.
 
-1. In living, choose your ground well. In thought, stay deep in the heart. In relationships, be generous. In speaking, hold to the truth. In leadership, be organized. In work, do your best. In action, be timely. &nbsp; If you compete with no one, no one can compete with you.
-2. A good runner leaves no tracks; A good speaker makes no slips; A good planner doesn't have to scheme. &nbsp; The best lock has no bolt, and no one can open it. The best knot uses no rope, and no one can untie it.
-3. In the pursuit of learning, every day something is added. In the pursuit of Tao, every day something is dropped.
-4. The sage understands that everything is difficult and thus in the end, has no difficulties
+> 1. In living, choose your ground well. In thought, stay deep in the heart. In relationships, be generous. In speaking, hold to the truth. In leadership, be organized. In work, do your best. In action, be timely. &nbsp; If you compete with no one, no one can compete with you.
+> 2. A good runner leaves no tracks; A good speaker makes no slips; A good planner doesn't have to scheme. &nbsp; The best lock has no bolt, and no one can open it. The best knot uses no rope, and no one can untie it.
+> 3. In the pursuit of learning, every day something is added. In the pursuit of Tao, every day something is dropped.
+> 4. The sage understands that everything is difficult and thus in the end, has no difficulties
 
 ## **Tao Te Ching Quotes on leadership**
 
@@ -70,11 +70,11 @@ It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what
 
 Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [leadership qualities](/leadership-philosophy/). There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
 
-1. The best leader is one whose existence is barely known. Next best is one who is loved and praised. After that, one who is feared. Worst of all is a leader who is despised.
-2. If you fail to trust people, you won’t inspire their trust.
-3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
-4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
-5. A good general doesn't show off his power. A good warrior doesn't get angry. &nbsp; A good conqueror doesn't attack people. A good employer puts himself below his employees. &nbsp; This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
+> 1. The best leader is one whose existence is barely known. Next best is one who is loved and praised. After that, one who is feared. Worst of all is a leader who is despised.
+> 2. If you fail to trust people, you won’t inspire their trust.
+> 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
+> 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
+> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. &nbsp; This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
 
 ## Other notes and big ideas from books I've read
 
