@@ -79,3 +79,4 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 * [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
+* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
