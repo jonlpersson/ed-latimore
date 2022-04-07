@@ -17,7 +17,7 @@ Taoism is the idea that everything in the world stems from the “Tao”. Tao (�
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
-Creation of the book is often created to Lao Tzu (also rendered as LaoZi 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
+Creation of the book is often credited to Lao Tzu (also rendered as LaoZi 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
 
 The following are some of the most impactful quotes and I ideas I collected from the Tao Te Ching along with commentary where appropriate. I group the ideas by the themes that I found most useful and interesting as well.
 
@@ -27,7 +27,7 @@ With that said, I couldn’t possibly do a book like the Tao Te Ching justice, s
 
 ## Tao Te Ching Quotes on non-attachment
 
-The Tao Te Ching has several ideas that train you to let go of your thoughts and ideas. Taoists believe that the only way to exist peacefully in the world is to take things the way things are. The idea of non-attachment is contrary to a lot of western thought, but it is essential the Taoist teaching.Non-attachment is simply accepting the world as it is and recognizing that nothing is permanent. It occurs when you stop thinking and merely are. The natural conclusion then, is to not let anything disturb your emotional center because it will all change.
+The Tao Te Ching has several ideas that train you to let go of your thoughts and ideas. Taoists believe that the only way to exist peacefully in the world is to take things the way things are. The idea of non-attachment is contrary to a lot of western thought, but it is essential to the Taoist teaching. Non-attachment is simply accepting the world as it is and recognizing that nothing is permanent. It occurs when you stop thinking and merely are. The natural conclusion then is to not let anything disturb your emotional center because it will all change.
 
 When nothing disturbs your emotional center, this is true power.
 
@@ -41,23 +41,23 @@ When nothing disturbs your emotional center, this is true power.
 
 ## **Tao Te Ching Quotes on wisdom**
 
-Wisdom is not only the byproduct of experience, but it’s also the byproduct of time. You have to go through something, reflect on it, and then assimilate it into your daily existence. This is why most societies naturally have a respect for their elder population. Even if an old person isn’t trying to acquire wisdom, they will naturally accumulate it by virtue of living.
+Wisdom is not only the byproduct of experience, but it’s also the byproduct of time. You have to go through something, reflect on it, and then assimilate it into your daily existence. This is why most societies naturally have respect for their elder population. Even if an old person isn’t trying to acquire wisdom, they will naturally accumulate it by virtue of living.
 
-In this way, ordinary people have the ability to develop extraordinary wisdom as a result of simply surviving. Of course, the Taoist laid out a path for living they believe can turn anyone into a wise man or woman.
+In this way, ordinary people have the ability to develop extraordinary wisdom as a result of simply surviving. Of course, the Taoists laid out a path for living they believe can turn anyone into a wise man or woman.
 
-1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
+1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, and accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
 2. In the same way, the wise person puts himself last, and thereby finds himself first; &nbsp; Holds himself outside, and thereby remains at the center; &nbsp; Abandons himself, and is thereby fulfilled.
 3. Knowing others is intelligence; knowing the self is enlightenment. &nbsp; Conquering others is power; conquering the self is strength.
-4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false.A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
+4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
 ## **Tao Te Ching Quotes on self-improvement**
 
 The idea of self-improvement is that you take it upon yourself to make positive changes in your life that dramatically alter it, especially quantitative and independently observable change. Something that many people don’t realize is that self-improvement is incredibly rare. Most people reach a point where society stops imposing conditions for advancement, and thus they stop advancing.
 
-These Lao Tzu quotes are not explicitly about self-improvement, but the ideas are applicable to the. Ultimately, the goal of self-improvement is to become the master of a specific domain or area of your life. You can become the master of you health, finances, relationships, spirituality, etc.
+These Lao Tzu quotes are not explicitly about self-improvement, but the ideas are applicable to the. Ultimately, the goal of self-improvement is to become the master of a specific domain or area of your life. You can become the master of your health, finances, relationships, spirituality, etc.
 
-It doesn’t mean your the best in the whole world. It only means that you’ve reached a level where that specific area is no longer a problem for you. Lao Tzu has a few true words that speak to approach to reach this level of living.
+It doesn’t mean you're the best in the whole world. It only means that you’ve reached a level where that specific area is no longer a problem for you. Lao Tzu has a few true words that speak to the approach required to reach this level of living.
 
 1. In living, choose your ground well. In thought, stay deep in the heart. In relationships, be generous. In speaking, hold to the truth. In leadership, be organized. In work, do your best. In action, be timely. &nbsp; If you compete with no one, no one can compete with you.
 2. A good runner leaves no tracks; A good speaker makes no slips; A good planner doesn't have to scheme. &nbsp; The best lock has no bolt, and no one can open it. The best knot uses no rope, and no one can untie it.
