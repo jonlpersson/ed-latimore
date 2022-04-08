@@ -34,11 +34,11 @@ In the 2002 boxing drama Undisputed, boxing champion George “Iceman” Chamber
 
 ![Nobody plays boxing](/assets/images/posts/2020/undisuputed.jpg "Ving Rhames as George 'Iceman' Chambers talking to Wesley Snipes")
 
-In other sports, you [live to fight another day](/lessons-from-the-ghetto-willingness-to-fight/). In boxing, there is always a chance that you could die. In fact, fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
+In other sports, you live to fight another day. In boxing, there is always a chance that you could die. In fact, fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
 
 The end goal of boxing is the same as the end goal of fighting: [to kill your opponent.](/fight-to-the-death/)
 
-The only reason this doesn't happen is because the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules which modern [boxing is](/boxing-benefits/) based on–forbids striking a man who is already down. However, it's not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he's standing.
+The only reason this doesn't happen is because the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules which modern boxing is based on–forbids striking a man who is already down. However, it's not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he's standing.
 
 This reminds me of something I once witnessed in a gym. Two different boxing clubs had come together to spar. There was some trash talk that was on the verge of escalating to an all out brawl between the two groups until one of the coaches interfered and shouted:
 
@@ -50,7 +50,7 @@ This means that you have to develop both your ability to deliver and receive pun
 
 ### Boxing Workouts Are Holistically Effective
 
-[A good fighter](/how-to-think-like-a-professional-fighter/) is composed of 4 attributes:
+A good fighter is composed of 4 attributes:
 
 * Physical fitness
 * Mental toughness
@@ -107,7 +107,7 @@ However, most coaches have a positive view on exercises that use bodyweight as r
 
 These exercises not only conditions your body to withstand the energy demands of the sport, but the muscle density and endurance built from doing them allows you to better absorb damage.
 
-[A boxer must also be conditioned](/boxing-benefits/) to execute specific boxing moves at both a high intensity and for a long duration. To train this, a fighter will spend countless rounds doing various types of bag work.
+A boxer must also be conditioned to execute specific boxing moves at both a high intensity and for a long duration. To train this, a fighter will spend countless rounds doing various types of bag work. Great conditioning is just one of many benefits of boxing—read more benefits [here](/boxing-benefits/).
 
 ### Punching speed vs punching power
 
@@ -129,9 +129,11 @@ The fatigue is real, but it’s through the extreme physical training that I dev
 
 Something that most people don’t realize is that every exchange in a boxing match is painful.
 
-[To be a fighter](/how-to-think-like-a-professional-fighter/), you have to be able to fight through the pain of a body shot or worse, a broken jaw or bruised kidney. If the punch doesn’t scramble your central nervous system and cause a knockout, then you can fight through it. It will hurt, but dealing with it is a matter of mental strength rather than physical.
+To be a fighter, you have to be able to fight through the pain of a body shot or worse, a broken jaw or bruised kidney. If the punch doesn’t scramble your central nervous system and cause a knockout, then you can fight through it. It will hurt, but dealing with it is a matter of mental strength rather than physical.
 
 Much of fight training is as much about conditioning your mind as it is your body. It was not uncommon for me to do 60-90 minutes of hitting the focus mitts with my coach or hitting the heavy bag at as high of an intensity as I could. Yes, this trained my body and endurance, but it trained my mind to work through being tired.
+
+Read more about [how to think like a fighter](/how-to-think-like-a-professional-fighter/).
 
 ### Shadowboxing and using your imagination to train
 

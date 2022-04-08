@@ -137,7 +137,7 @@ A wise man once remarked that these traits are all products of discipline and se
 
 Nothing has made me want to be successful more than the freedom of being able to experience any place in the world any time I want to.
 
-In fact, when people ask me [how to get motivated to be a better man](/how-to-be-a-better-man/), I tell them to take a trip somewhere. It doesn't need to be far, but it needs to be someplace new.
+In fact, when people ask me how to get motivated to be a better man, I tell them to take a trip somewhere. It doesn't need to be far, but it needs to be someplace new.
 
 It’s one thing to read about a place online or see a friend's vacation pictures they post on social media. It’s a completely different experience to have drinks on the beach, even if it’s just an 8-hour drive to Wildwood, NJ.
 
@@ -173,7 +173,7 @@ Rather than bitch, moan, and get in your emotions, use it to your advantage. ***
 
 ### 12\. Learn how to forgive
 
-The most important skill to develop is the ability to forgive. More on that in my step-by-step [guide on forgiveness](/how-to-forgive-someone/)
+The most important skill to develop is the ability to forgive. More on that in my step-by-step [guide on forgiveness](/how-to-forgive-someone/).
 
 ***Holding grudges and being angry only hurts you.***
 
@@ -229,7 +229,7 @@ If people remembered this and nothing else, they’d relieve a huge chunk of str
 
 If you aren’t motivated to make a lot of money, then you can still have an enjoyable life by not incurring extra expenses and being disciplined.
 
-You’ll have limits, but successfully navigating them will keep your head above water. Read this to get my full thoughts on [how to climb out of poverty](/stop-being-poor/).
+You’ll have limits, but successfully navigating them will keep your head above water. Read this to get my full thoughts on how to climb out of poverty.
 
 ### 17\. Learn how to be alone
 
@@ -293,7 +293,7 @@ I've owned 8 different cars. Here's what I’ve learned:
 
 ### 23\. Get your drinking under control
 
-***[Most people drink too much](/how-to-know-if-you-have-a-drinking-problem/).***
+***Most people drink too much.***
 
 If you want to be a better man more respected man, then it's imperative that you get your drinking under control.
 
@@ -303,9 +303,11 @@ It doesn’t matter if they drink too. You’ll be “the guy that no one can dr
 
 You also won’t be invited because most people will think you’re an asshole.
 
+If you're ready to put booze in the past, then use my [6 steps to quit drinking](https://edlatimore.com/how-to-stop-drinking-on-your-own/) to help you get sober.
+
 ### 24\. Don't pay attention to haters
 
-[There’s a lot of talk about haters.](/why-you-have-haters-even-if-you-arent-an-asshole/)
+There’s a lot of talk about haters.
 
 Here’s my honest-to-goodness experience. I preface this by saying that my life and results are not typical:
 
