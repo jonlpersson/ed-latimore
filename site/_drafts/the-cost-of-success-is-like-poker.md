@@ -10,7 +10,7 @@ description: >-
   Nothing is free in this world. But just because you pay for it is no guarantee
   that you'll receive it. Read on see why success is like poker and how to play
   the game.
-image:
+image: /assets/images/drafts/cost-of-success.jpeg
 ---
 Professional athletes and celebrities sign an unwritten contract with society.&nbsp;
 
@@ -32,7 +32,7 @@ Anything you want you can have if you’re willing to pay the price.
 
 It's cliche, but it’s true—but it’s also a big understatement. In fact, I’d say “pay the price” is a euphemism because it makes it sound as if it’s a purchase, and as such, follows the rules of a typical transaction.&nbsp;
 
-For example, by saying that it’s a “price you pay”, it implies that once it is paid, you own it forever. Most people realize that “success isn’t owned. It’s rented, and the rent is due every day”. However, what they don’t realize is that even if you give up that success, you can never get what you gave up back.
+For example, saying that it’s a “price you pay” implies that you own it forever once it is paid. Most people realize that “success isn’t owned. It’s rented, and the rent is due every day”. However, what they don’t realize is that even if you give up that success, you can never get what you gave up back.
 
 It’s not quite a sacrifice, as that implies that you get nothing.
 
@@ -44,7 +44,7 @@ It’s not even an exchange, in the purest sense of the word, because you don’
 
 The most accurate description would be to call it a bet.
 
-Every action you take and second you invest into the pursuit of a goal is like buying one more ticket in the lottery. The more tickets you buy, the higher the likelihood that you will win.
+Every action you take and second you invest in the pursuit of a goal is like buying one more ticket in the lottery. The more tickets you buy, the higher the likelihood that you will win.
 
 When you invest time and energy toward a goal, you are making a bet. That’s it. It may be a smart bet, but it is still a gamble. If you lose, you don’t get your money and time back. If you win, you have to pay taxes on your winnings.
 
@@ -64,7 +64,7 @@ I highlight those differences for the sake of purists and gambling experts who a
 
 Ultimately, this exemplifies the true nature of success; what you really receive, and why it is that both ambition and the realization of it often come with outcomes you did not anticipate that can ruin the overall experience.
 
-## Even when you win, you lose *something*.
+## Even when you win, you lose *something*
 
 You don’t know whether the time you spend going after something will be an investment or a sacrifice.
 
@@ -72,9 +72,9 @@ You hope for the former, but it could just as easily be the latter. That is why 
 
 Either way, you must put that time in to even have a chance to win, and that is fundamentally the ante and the blind all rolled into one.
 
-If you waste your time improving at something only for the demand to suddenly become nonexistent, you do not get to refund the time you put in. It’s not a price -- It’s a bet.
+If you waste your time improving at something only for the demand to suddenly become nonexistent, you do not get to refund the time you put in. It’s not a price – It’s a bet.
 
-* The person in 2nd or 3rd place often puts in just as much time and hard work as the one in 1st, but they just didn’t win the bet. If you’ve ever been a backup on a sports team or an alternate for a performance, you feel this pain.
+* The person in 2nd or 3rd place often puts in just as [much time and hard work](/hard-work-beats-talent/) as the one in 1st, but they just didn’t win the bet. If you’ve ever been a backup on a sports team or an alternate for a performance, you feel this pain.
 * If you’ve ever been the second choice for a leading role or a bid on a work contract, you likely weren’t even aware of it.&nbsp; Because despite the fact that you spent just as much time and energy, your card simply didn’t come up and you won nothing.&nbsp;
 * The actor who almost got the role doesn’t get in the credits. The contract you almost went with doesn’t get part of the money.&nbsp;
 
@@ -90,11 +90,13 @@ The taxes are the responsibilities I now have for what I say and do and the slow
 
 When I fought, I lost track of the number of guys who claimed they wanted to fight me just to see what battle was like with a pro fighter. It is annoying and mostly harmless, but it is easy to see how this situation could get out of hand.
 
-Now that we understand that success is more like a bet (and why you should always bet on yourself). If you lose the bet, you earn nothing. And if you win, your earnings are taxed. What can we do with this information to make our lives easier?
+***[Read more about my life as a boxer here](https://edlatimore.com/boxing-lessons)***
+
+Now that we understand that success is more like a bet (and [why you should always bet on yourself](/bet-on-yourself/)). If you lose the bet, you earn nothing. And if you win, your earnings are taxed. What can we do with this information to make our lives easier?
 
 ## Limiting taxes: How to reduce what success costs
 
-It’s not what you make -- It’s what you keep.&nbsp;
+It’s not what you make – It’s what you keep.&nbsp;
 
 One of the first things someone who becomes a high earner does is figure out how to keep as much of their income as possible from being eaten up by taxes. They come up with various ways to pay less tax; mainly by shielding and deciding what gets reported as income.
 
@@ -104,7 +106,7 @@ The more you use your success to help others (however you do this is up to you, 
 
 Do not abuse your success or power—otherwise, that is more of your gains you are using for selfishness and the greater tax you will have to pay.
 
-Never stop being grateful, always be helpful, and use your position to help others when you can. That’s not to say you cannot enjoy the hard-earned fruits of your labor. But don’t underestimate the circumstances you put in play for (and protect yourself from) for yourself when you’re selfless.&nbsp;
+Never stop being grateful, always be helpful, and use your position to help others when you can. That’s not to say you cannot enjoy the hard-earned fruits of your labor. But don’t underestimate the circumstances you put in play for (and protect yourself from) yourself when you’re selfless.&nbsp;
 
 ## Pick the right game: The kind of success matters
 
