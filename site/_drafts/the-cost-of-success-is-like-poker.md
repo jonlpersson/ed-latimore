@@ -58,7 +58,7 @@ You gotta pay, what is known in the gambling world, as an “ante”.
 
 In poker, the ante is your fee for occupying a seat at the table. Whether you “hold em or fold em”, you must pay the ante to even get a hand to play. Furthermore, depending on your position at the table, you must pay an additional fee known as a “blind”. The main difference between the blinds and ante is this:
 
-***Everyone has to pay the antes, and once they are paid, they are no longer in play. You cannot even win them back. Blinds are limited to two players per hand, and they are part of the pot that can be won.***
+> ***Everyone has to pay the antes, and once they are paid, they are no longer in play. You cannot even win them back. Blinds are limited to two players per hand, and they are part of the pot that can be won.***
 
 I highlight those differences for the sake of purists and gambling experts who are part of my newsletter. However, for all intents and purposes, they serve the same function: To force you to give up something for a *chance* to win something. Not a guarantee, but a chance.
 
@@ -132,7 +132,7 @@ Even if you win at that game, you’ll still lose because you could work twice a
 
 Play the right game so that you have a decent chance of winning. Win the right way, so you don’t lose more than you bargained for. But remember that even when you win, you’ll still lose *something.*
 
-If you want a chance to win, you have to bet.If you want the opportunity to play, you have to pay.
+If you want a chance to win, you have to bet. If you want the opportunity to play, you have to pay.
 
 Nothing is free. Especially if it seems so.&nbsp;
 
