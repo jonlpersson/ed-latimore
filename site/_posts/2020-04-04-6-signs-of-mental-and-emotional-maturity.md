@@ -28,15 +28,11 @@ I want to help you not only get older but wiser in the process. In this post, I 
 
 I'm not just going to tell you the signs of maturity. I'm going to also help you become a more mature person as well.
 
-{% include widgets/toc.html heading="6 biggest signs of mental and emotional maturity" list-items="Healthy boundaries, Emotional control, The ability to disagree without being disrespectful, Can take responsibility, You can admit when they're wrong, You can accept the harsh truths of life" list-ids="healthy-boundaries, emotional-control, the-ability-to-disagre-without-being-disrespectful, can-take-responsibility, you-can-admit-when-youre-wrong-and-you-dont-need-to-rub-it-in-when-youre-right, you-accept-the-harsh-truths-about-life" %}
+## Healthy boundaries
 
-&nbsp;
+A sign of maturity is being able to walk away from a situation that everyone thinks is best for you, but you know it isn’t. This is the ability to know yourself and be confident in your chosen path.
 
-### Healthy boundaries
-
-A sign of maturity is being able to walk away from a situation that everyone thinks is best for you, but you know it isn’t. This is the ability to know yourself and be confident in the path you’ve chosen.
-
-Healthy boundaries are easy to maintain when the environment is healthy, but a mature person is able to keep their own point-of-view and perspective even when the peer pressure is on.
+Healthy boundaries are easy to maintain when the environment is healthy, but a mature person is able to keep their own point of view and perspective even when the peer pressure is on.
 
 When we talk about peer pressure, we think of children giving in to social pressure and becoming like everyone else around them. They do this so they can fit. They want to fit in so they can avoid the pressure that comes from standing out.
 
@@ -44,9 +40,9 @@ Children are, by definition, not mature people. They aren't finished growing, th
 
 This is why a big sign of maturity is the ability to resist the pressure exerted on you by your surroundings.
 
-Society will always try to mold you in its image. A mature mind has its own plans and refuses to give in—even if the situations seems to be a good deal. Your ability to walk through hell to get what you want instead of taking the path of least resistance is hallmark sign of maturity.
+Society will always try to mold you in its image. A mature mind has its own plans and refuses to give in—even if the situation seems to be a good deal. Your ability to walk through hell to get what you want instead of taking the path of least resistance is a hallmark sign of maturity.
 
-### Emotional control
+## Emotional control
 
 A sign of maturity is the ability to suffer embarrassment without having an embarrassing reaction.
 
@@ -56,7 +52,7 @@ As you mature, you stop worrying about what everyone thinks and you [focus on yo
 
 If you can learn to laugh at yourself, then you won't ever worry if other people are laughing at you.
 
-### The ability to disagree without being disrespectful
+## The ability to disagree without being disrespectful
 
 Disagreement doesn't warrant disrespect.
 
@@ -74,7 +70,7 @@ Can you force yourself to make the best choice, even when your desires beg for y
 
 Those things may seem unrelated to respectful disagreement, but they're not. If you don't have the ability to keep your emotions from controlling your physical actions and mental process, then you'll never be able to keep them in check in the face of different opinions.
 
-### Can take responsibility
+## Can take responsibility
 
 It takes a certain level of maturity and humility to accept the role that luck plays in your success. It takes the same level of maturity and humility to accept the role that you play in creating your own problems.
 
@@ -98,9 +94,9 @@ All growth is the result of initial discomfort. You can accelerate your personal
 
 This level of maturity will always make you a valuable person and put you in [a position to lead](/leadership-philosophy/). The world is sorely lacking when it comes to finding people who are willing to lead from the front and never pass off blame to those in the back. We demand maturity from our leaders for this very reason.
 
-Immature leaders only take responsibility when things go well and shift the blame when they don't. The mature leader gives credit to everyone else when things go well and shoulders the blame if it all goes to hell.
+Immature leaders only take responsibility when things go well and shift the blame when they don't. The mature leader gives credit to everyone else when things go well and shoulder the blame if it all goes to hell.
 
-### You can admit when you're wrong and you don't need to rub it in when you're right
+## You can admit when you're wrong and you don't need to rub it in when you're right
 
 People are not infallible. No one is always right or wrong. Making mistakes is inevitable, but learning from them is a choice.
 
@@ -112,7 +108,7 @@ Benefit and burden walk hand-in-hand. If you can’t admit when things going wro
 
 [Risk and reward](/risk-taking/) are inexorably intertwined. Only the weak, naive, and immature believe that they can have it all without risking anything. A sign of maturity is understanding that anything in life worth having is a risky endeavor.
 
-### You accept the harsh truths about life
+## You accept the harsh truths about life
 
 Naivety is a gift to children and a curse to adults.
 
