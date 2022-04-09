@@ -196,7 +196,7 @@ You can do well in life if you focus on trying to reduce the number of mistakes 
 
 > Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.
 
-Generally speaking, a good plan is one that maximizes your gains, minimizes your loses, and does so as quickly as possible. Though Sun Tzu is specifically talking about preparation for battle here, we can extrapolate this to other types of contests.
+Generally speaking, a good plan maximizes your gains, minimizes your losses, and does so as quickly as possible. Though Sun Tzu is specifically talking about preparation for battle here, we can extrapolate this to other types of contests.
 
 Ideally, you'd get what you want without having to risk anything at all. While every action is an investment of time, the idea is that you don't waste too much of it when you go after what you want. Of course, this isn't usually what happens, but it's ideal that we're trying to approach every time we plan.
 
