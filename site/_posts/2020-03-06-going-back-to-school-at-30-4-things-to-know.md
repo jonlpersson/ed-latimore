@@ -106,7 +106,7 @@ If you follow the rules in the first section about degree selection, you shouldn
 
 It's possible for you to do a relatively large chunk of your degree at either a severe cash or time discount. First-time college students who are right out of high school don't typically think about the fastest or cheapest way to graduate.
 
-They don't think about the money because at that age, most of them don't have a reference point for borrowing that much money, let alone figuring out how to pay it back. They don't worry about finishing college quickly because they're too busy enjoying the "college experience."
+They don't think about the money because, at that age, most of them don't have a reference point for borrowing that much money, let alone figuring out how to pay it back. They don't worry about finishing college quickly because they're too busy enjoying the "college experience."
 
 ![Making the Dean's List in college](/assets/images/posts/ed-on-deans-list.jpg "With fewer nonsense classes to distract me, I could focus and make the Dean's List as a 31-year old")
 
@@ -122,7 +122,7 @@ The exams aren't free, but at $85, they're still cheaper than even a community c
 
 ### Do your best on math and reading placement exams
 
-Almost all colleges have the option to take a placement exam. [When you go back to school, make sure take advantage of this.](https://collegeforadults.org/applying-to-college/placement-tests/){: target="_blank" rel="noopener noreferrer"}
+Almost all colleges have the option to take a placement exam. [When you go back to school, make sure to take advantage of this.](https://collegeforadults.org/applying-to-college/placement-tests/){: target="_blank" rel="noopener noreferrer"}
 
 Most kids gloss over these, but as an adult student, you need to take these exams seriously.
 
@@ -142,11 +142,11 @@ Unfortunately, I didn't score high enough to grab credit for anything, but it di
 
 I came across some schools that offered credit if you achieved a certain score on the SAT or SAT II. There are no rules that say you can't take these exams as an adult. As long as you pay [Collegeboard.org](https://www.collegeboard.org/){: target="_blank"} their money, they don't even care if you show up for the exam.
 
-If your degree program offers credit for a certain score in any of the SAT exams, I strongly recommended picking up a study book and registering for the exam. You can save yourself a lot of money and time if you're willing to do the work and take the tests.
+If your degree program offers credit for a certain score on any of the SAT exams, I strongly recommended picking up a study book and registering for the exam. You can save yourself a lot of money and time if you're willing to do the work and take the tests.
 
 ### Take classes online if you can
 
-I once took a public speaking class online. I didn't want to take the class, but it was the most insidious type of school requirements–the type that the school won't accept any transfer credit for. So I had to take it. The good news is that online classes, for the most part, are notoriously easy.
+I once took a public speaking class online. I didn't want to take the class, but it was the most insidious type of school requirement–the type that the school won't accept any transfer credit for. So I had to take it. The good news is that online classes are notoriously easy for the most part.
 
 You can find the answers online to many of the homework and test questions. Am I advocating you cheat? Yes, because in the real world, [you look up answers to problems you can't solve.](/problem-solving-process/)
 
@@ -166,7 +166,7 @@ They told me that as long as I didn't communicate with them about academic matte
 
 I got them to give me the Powerpoint slides for the semester (the classes were Thermal Dynamics and Quantum Mechanics) and they sent me on my merry way. Complications came up and I never followed through, but I got the ok (in writing). This was yet another sign to me that the rules are flexible IF you're willing to work.
 
-The main lesson from this section is that if you're willing to ask questions and not take assumptions and "rules" at face value, then you can save a lot of time and money. You may think of other things I didn't mention on this list to help you get ahead and finish your degree program faster and cheaper than most students.
+The main lesson from this section is that if you're willing to ask questions, not make assumptions, and not take "rules" at face value, then you can save a lot of time and money. You may think of other things I didn't mention on this list to help you get ahead and finish your degree program faster and cheaper than most students.
 
 ***\[Note: Every suggestion in this section works because, for the most part, grades don't matter. Don't kill yourself trying to be the best student or get the best grades. Just pass the class. As an adult, you should know by now that grades don't matter. Only how you perform in the real world.\]***
 
@@ -191,7 +191,7 @@ I was able to handle all of this because of my superior time management.
 
 ![Responsibilities during school](/assets/images/posts/edlatimore-busy.png "The busy life of Ed Latimore while doing school.")
 
-Despite being busier than most people (and definitely busier than most students), I was able to manage my time and energy because I didn't them on anything that didn't contribute to my goal.
+Despite being busier than most people (and definitely busier than most students), I was able to manage my time and energy because I didn't waste them on anything that didn't contribute to my goal.
 
 If you're worried about how you'll manage all the work and your other responsibilities, then you'll have to get creative. Lean on friends and family to help. Eliminate all distractions that do not contribute to your goal.
 
