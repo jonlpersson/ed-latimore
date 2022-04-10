@@ -34,9 +34,7 @@ This article will tell you why you’re so unhappy and give you a step-by-step p
 
 Let’s begin.
 
-{% include widgets/toc.html heading="5 reasons why you're so unhappy" list-items="Loss aversion has made you miserable, You worry about what you can't control, You're passive and indecisive, You're missing the big picture, You have low self-esteem" list-ids="1-loss-aversion-has-made-you-miserable, 2-you-worry-about-what-you-cant-control, 3-youre-so-miserable-because-youre-passive-and-indecisive, 4-youre-unhappy-because-youre-missing-the-big-picture, 5-youre-so-miserable-because-you-have-low-self-esteem" %}
-
-### 1) Loss aversion has made you miserable
+## 1) Loss aversion has made you miserable
 
 > “Yo my n\*gga why you actin’ like a bitch? If you scared to take a chance, how the fuck we gon’ get rich?” — J.Cole, “Firing Squad”
 
@@ -69,7 +67,7 @@ You won’t be happy sitting still. You need to make moves and go after stuff. B
 
 And at the end of the day, happiness is a byproduct of change. Change means that you have to leave things behind so that you can experience something new.
 
-Sometimes you're just leaving behind material things. Sometimes it means leaving close friends while you work on yourself. Though leaving what you know behind may my cause temporary heartache, it is necessary so that you can permanently find your own happiness.
+Sometimes you're just leaving behind material things. Sometimes it means leaving close friends while you work on yourself. Though leaving what you know behind may cause temporary heartache, it is necessary so that you can permanently find your own happiness.
 
 If you’re afraid to go after what you want because you’re afraid of losing, then you’ve already lost. You just don’t know it yet.
 
@@ -81,7 +79,7 @@ But your emotions do. That’s why you’re so unhappy.
 
 The comfort you cling to will ruin you and make your life more uncomfortable than failure ever could.
 
-### 2) You worry about what you can't control
+## 2) You worry about what you can't control
 
 Life is like poker.
 
@@ -121,7 +119,7 @@ Don’t worry about shit you can't control because the only thing you can contro
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-### 3) You’re so miserable because you're passive and indecisive
+## 3) You’re so miserable because you're passive and indecisive
 
 Most people don’t make any real decisions in their life.
 
@@ -143,13 +141,13 @@ Then it continues in college.
 
 You form bad habits, which atrophy your thinking and make you dependent on the system. But you think this is what you're supposed to do. After all, all the other cogs are doing it and they seem alright.
 
-The pressure from your friends and family lead you to an “acceptable” field of study. Deep down, you hate it, but you don’t pursue something that would have made you a lot happier.
+The pressure from your friends and family leads you to an “acceptable” field of study. Deep down, you hate it, but you don’t pursue something that would have made you a lot happier.
 
 By this point, you’ve forfeited the ability to think for yourself anyway.
 
-Then you meet someone who is as programmed and dependant as you. You're expected to get married and produce more cogs for the machine.
+Then you meet someone who is as programmed and dependent as you. You're expected to get married and produce more cogs for the machine.
 
-While I’m happy how my life has turned out, I always think back to my senior year of high school and a lesson I learned about not thinking for myself. Instead of following my dream of trying to walk on to a college football program, I instead let my peers talk me into going to a different school because of its academic reputation.
+While I’m happy with how my life has turned out, I always think back to my senior year of high school and a lesson I learned about not thinking for myself. Instead of following my dream of trying to walk on to a college football program, I instead let my peers talk me into going to a different school because of its academic reputation.
 
 I don’t know if I would have been a success. I don’t know if I would have been a failure. All I know is that I’ll never know.
 
@@ -159,7 +157,7 @@ I believe this type of thing is why people experience quarter-life and mid-life 
 
 When they realize this, they experience a slew of negative emotions that either spurns them to change or forces them to double down and ignore the truth; that they’ve wasted precious life not doing what’s best for *them*.
 
-<u><em><strong>How this makes you unhappy:</strong></em></u> Anxiety, worry, lethargy, lack of motivation, decreased interest and performance in life.
+<u><em><strong>How this makes you unhappy:</strong></em></u> Anxiety, worry, lethargy, lack of motivation, decreased interest, and performance in life.
 
 <u><em><strong>How to become happier:</strong></em></u> If you let someone or something else make decisions for you, it’s almost a guarantee that those decisions will not be in your best interest. Even indifference is deciding to relinquish control and direction of your life.
 
@@ -167,7 +165,7 @@ Happy people take control of things and refuse to be passive observers in their 
 
 What do you want to experience? What skills do you want? Where do you want to live? How do you want to serve the world? Start making decisions and living them out. Your happiness will follow.
 
-### 4) You're unhappy because you're missing the big picture
+## 4) You're unhappy because you're missing the big picture
 
 The "big picture" is simple:
 
@@ -213,7 +211,7 @@ Even people who believe in heaven don't want to die to get there.
 
 As the old saying goes, stop counting the days and start making the days count. When you’re busy doing whatever it is that adds meaning and purpose to your life, it’s impossible to be unhappy.
 
-### 5) You're so miserable because you have low self-esteem
+## 5) You're so miserable because you have low self-esteem
 
 Realizing that life is meaningless made me want to create value.
 
