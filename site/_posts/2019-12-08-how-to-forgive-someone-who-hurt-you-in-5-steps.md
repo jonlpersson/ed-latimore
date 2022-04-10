@@ -5,7 +5,7 @@ title: How to forgive someone who hurt you in 5 steps
 permalink: /how-to-forgive-someone/
 tags:
   - how-to-control-your-emotions
-  - relationship-building
+  - the-power-of-forgiveness
 image: /assets/images/posts/forgiveness-prayer.jpeg
 description: >-
   I teach you how to practice forgiveness. It doesn't matter whether you need to
