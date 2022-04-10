@@ -12,7 +12,7 @@ description: >-
   forgive.
 image: /assets/images/thumbnails/forgivenessjpg.jpg
 ---
-When people think of forgiveness, they usually imagine no longer being angry at someone for how they hurt you. They see it as the act of letting go of any anger, resentment, or need for vengeance against the offending person.
+When people think of forgiveness, they usually imagine no longer being angry at someone for how they hurt them. They see it as the act of letting go of any anger, resentment or need for vengeance against the offending person.
 
 Generally speaking, this is correct. You aren't condoning, endorsing, or excusing any harm you suffered at the hands of the offender, but you're also not holding a grudge or letting your emotional and mental health be destroyed with negative feelings and thoughts.
 
