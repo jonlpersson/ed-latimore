@@ -15,15 +15,17 @@ Modern society has no defining ritual for transitioning into adulthood. In fact,
 
 I don’t like the idea that you can be a 27-year-old, living at home, make terrible decisions and be devoid of any life skills, but call yourself an adult because you can drink and vote. Being an adult means more than just your age.
 
-I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult. The following lack of following six traits are the biggest markers of adulthood.You don’t rely on your parents for anything
+I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult. The following lack of following six traits are the biggest markers of adulthood.
 
-**You're** **not** **an** **adult** until you don't rely on your parents--in any way--for any of your daily expenses.
+## You don’t rely on your parents for anything
 
-Don't gimme that nonsense about it being cheaper to be on a family phone plan when **you're** 30 years old. By definition, a major part of adult life is autonomy from your parents. If you can’t—or won’t—survive without their financial assistance, you are not an adult.
+You're not an adult until you don't rely on your parents–in any way–for any of your daily expenses.
+
+Don't gimme that nonsense about it being cheaper to be on a family phone plan when you're 30 years old. By definition, a major part of adult life is autonomy from your parents. If you can’t—or won’t—survive without their financial assistance, you are not an adult.
 
 This point is usually the one that receives the most blowback. People are very quick to point out that forcing young adults to take on financial responsibilities too early is one of the things that keep them from succeeding, and they’re right.
 
-If you are not ready to stand on your own, there’s no reason to try and do so if you have the support of your parents. However, you’re not an adult if you do this. You’re still their responsibility, which--by definition--excludes you from adulthood.
+If you are not ready to stand on your own, there’s no reason to try and do so if you have the support of your parents. However, you’re not an adult if you do this. You’re still their responsibility, which–by definition–excludes you from adulthood.
 
 Even cultures that have many generations stay at home have a clear point where the child moves out. This is usually marriage. Now, at this point, the parents may move in but now the parents are the responsibility of the child. Not vice-versa.
 
@@ -80,7 +82,7 @@ A while back, I wrote that there are three traits that keep a person from ever m
 
 If you don’t take responsibility, you’ll never take the time to understand how you contributed, which makes it impossible for you to correct yourself and improve your position.
 
-The other two traits prevent you from listening to people’s advice and warnings, but the final trait--the inability to take responsibility--prevents you from seeing your role in your problems. When you can’t see how your decisions lead to a certain outcome, then you’re like a child who doesn’t yet understand that there are consequences to their actions.
+The other two traits prevent you from listening to people’s advice and warnings, but the final trait–the inability to take responsibility–prevents you from seeing your role in your problems. When you can’t see how your decisions lead to a certain outcome, then you’re like a child who doesn’t yet understand that there are consequences to their actions.
 
 The difference is that the child is young and still has time to learn. In fact, it is expected that they don’t know and you have to teach them. An adult in this same situation not only doesn’t have time on their side, but they’re dealing with the compound effects of all their bad decisions.
 
@@ -108,13 +110,13 @@ Every good thing in life is the result of sacrificing immediate gratification fo
 
 If you feel like your growth has stunted and you aren’t making progress in life, it’s probably because you won’t suffer a little, delay gratification, and work to get on something more than a quick distraction from the unpleasantness of hard work.
 
-You Lack Emotional Discipline
+## You Lack Emotional Discipline
 
 You aren’t an adult if you can’t control your emotions.
 
-This is not the same as being emotionless.This is not the same as not expressing your emotions.This is simply not letting your emotions degrade your quality of life.
+This is not the same as being emotionless. This is not the same as not expressing your emotions. This is simply not letting your emotions degrade your quality of life.
 
-Sad things happen and you will cry. That is natural and good for you.Injustices will happen and they will make you angry. This is natural and sensible.What is not sensible is for you to harm yourself or others in response to these emotions.
+Sad things happen and you will cry. That is natural and good for you. Injustices will happen and they will make you angry. This is natural and sensible. What is not sensible is for you to harm yourself or others in response to these emotions.
 
 This is both immediate and long-term. A destructive short-term response to loneliness is to pick someone up for a good time. Over the long term, you lose the ability to form meaningful relationships.
 
@@ -124,7 +126,7 @@ You’ll have to learn to regulate and express your emotions in a healthy manner
 
 No one wants to be the person who breaks their hand punching a hole in the wall because something didn’t go as planned.
 
-You Don’t Plan For The Future
+## You Don’t Plan For The Future
 
 You aren’t an adult if you can’t or won’t make plans for the future.
 
@@ -132,7 +134,7 @@ The future is coming, whether you’re ready for it or not. Part of being an adu
 
 If your bills are late but you always call off work, you are not preparing for the future.
 
-If you spend without planning for the other things that might come out of your account, this is not planning for the future--and I was one of those guys who always dealt with bank overdraft fees.
+If you spend without planning for the other things that might come out of your account, this is not planning for the future–and I was one of those guys who always dealt with bank overdraft fees.
 
 But I learned, and it was DEFINITELY the hard way. I don’t want you to do that.
 
@@ -148,4 +150,4 @@ You don’t know what the future will bring, but it’s always better to face it
 
 Adulthood is, above all things, about responsibility. This responsibility extends over both space and time.
 
-If you are legally an adult but you still have any of the above problems, it’s time to get to work on your personal growth. The perk of adulthood is freedom and autonomy, but you don’t get it unless you earn it.
+If you are legally an adult but still have any of the above problems, it’s time to work on your personal growth. The perk of adulthood is freedom and autonomy, but you don’t get it unless you earn it.
