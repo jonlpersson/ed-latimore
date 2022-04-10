@@ -102,7 +102,7 @@ I don't know if this is mandatory practice, but it's something that all college 
 
 If you follow the rules in the first section about degree selection, you shouldn't have a problem.
 
-## 3\. Do as much coursework for as you can as cheap as you can
+## 3\. Do as much coursework as cheaply as you can
 
 It's possible for you to do a relatively large chunk of your degree at either a severe cash or time discount. First-time college students who are right out of high school don't typically think about the fastest or cheapest way to graduate.
 
