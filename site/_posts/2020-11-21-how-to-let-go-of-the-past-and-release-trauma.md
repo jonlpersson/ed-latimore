@@ -13,7 +13,7 @@ image: /assets/images/thumbnails/holding-clock.jpg
 ---
 Why is it so hard to let go of the past?
 
-The problem with holding on to the past is that it doesn't exist. However, you let the past hurt you anyway. Past relationships, past trauma, past negative experiences don't help in the present moment.
+The problem with holding on to the past is that it doesn't exist. However, you let the past hurt you anyway. Past relationships, past trauma, and past negative experiences don't help in the present moment.&nbsp;
 
 This doesn't mean that things didn't happen before, but there is no way for you to interact with things that have transpired even just a moment ago. This means no how severe the wrongdoings were or how heavy your feelings of guilt are, there is nothing you can do about what caused it—for better or worse.
 
