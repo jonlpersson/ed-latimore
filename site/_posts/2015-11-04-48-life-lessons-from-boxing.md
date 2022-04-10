@@ -141,7 +141,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **42)** All things considered equal, the faster fighter will win. Many times, the faster fighter will beat the stronger, more powerful, more experienced, more “insert attribute here” fighter. Anyone with speed that doesn’t develop their other traits is a waste and a disgrace.
 
-**43)** If you're fortunate enough to be born with a significant advantage that can not be taught or obtained easily, you are a literal waste of life if you do not develop supporting attributes around it. This is how a person becomes world-class. Not everyone can be world-class so if you have the chance to, don’t waste it.
+**43)** If you're fortunate enough to be born with a significant advantage that can not be taught or obtained easily, you are a literal waste of life if you do not develop supporting attributes around it. This is how a person becomes world-class. Not everyone can be world-class so if you have the chance to be, don’t waste it.
 
 **44)** Counter-punching: The worst strategy but the best tactic. It's always better to be the cause of action rather than reacting to it.
 
