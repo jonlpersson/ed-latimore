@@ -40,7 +40,7 @@ Before you talk about people who volunteer or do charity, reread the boldface. T
 
 People aren't altruistic so much because it helps people, but more because it helps them feel good. In other words, it’s not so much that they give a shit about you personally. They just enjoy the feeling they get from helping.
 
-Maybe that feeling is warm and fuzzy. Maybe it's acceptance by their God. Sometimes it's relief from a tax write off. It’s all done out of self-interest. Your desires are secondary.
+Maybe that feeling is warm and fuzzy. Maybe it's acceptance by their God. Sometimes it's relief from a tax write-off. It’s all done out of self-interest. Your desires are secondary.
 
 It's the same with that girl you’re mentally undressing. She doesn’t give a shit that you think she’s sexy. That’s not gonna make her want to date you.
 
