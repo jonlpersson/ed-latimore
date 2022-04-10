@@ -223,7 +223,7 @@ This means that no matter what they want for you, it doesn’t really matter. Yo
 
 ***[Click here to read my guide on forgiving your parents.](/how-to-understand-and-forgive-your-parents/)***
 
-### 16\. Understand what money buys—and doesn't buy
+## 16\. Understand what money buys—and doesn't buy
 
 There are many ways to be unhappy with money, but there are only a few ways to be happy without it. And of those few, most of them require you to ignore–or at the very least, rationalize away–the comforts, conveniences, and advantages that money brings.
 
@@ -235,7 +235,9 @@ If you aren’t motivated to make a lot of money, then you can still have an enj
 
 You’ll have limits, but successfully navigating them will keep your head above water. Read this to get my full thoughts on how to climb out of poverty.
 
-### 17\. Learn how to be alone
+***I had to learn the hard way how to stop being poor. [Read this so you don't have to.](/stop-being-poor/)***
+
+## 17\. Learn how to be alone
 
 Anyone who's ever seriously wondered how to be better inevitably reaches the conclusion that it takes ***a lot*** of time and energy. This means that it's something that requires you to spend a lot of time working on yourself alone.
 
@@ -245,17 +247,17 @@ If you can’t find people that you like to hang out with and you reside in a re
 
 If you're somewhere without a lot of people, you might have to move if being happy is important to you. Normally I’d say “see lesson 1” but this particular point is beyond negotiation. See lesson 18.
 
-### 18\. Nurture your relationships
+## 18\. Nurture your relationships
 
 No matter how much money you make or how good a time you are having, if you don’t have people you like to share it with then it's meaningless.
 
-This is one of those pieces of advice equally applies to men and women. Sure, men don't need to spend ***as much*** time with other people, they still need some connections.
+This is one of those pieces of advice that equally applies to men and women. Sure, men don't need to spend ***as much*** time with other people, they still need some connections.
 
 We all need people to share the ups with and help us during the downs. There have been numerous studies to [show the value of social connections on health and longevity.](https://www.takingcharge.csh.umn.edu/why-personal-relationships-are-important){: target="_blank" rel="noopener noreferrer"}
 
 It is a special kind of torture to be around people but not really feel connected with them.
 
-### 19\. Remember that you're judged by the company you keep
+## 19\. Remember that you're judged by the company you keep
 
 Want to know the character of a person? Look at the length and caliber of their friendships. Look at the social circle of the most respected men; they do not keep people around who around them who do not reflect their values.
 
@@ -267,7 +269,7 @@ Be worried if they don’t have any friends longer than whatever you get.
 
 While this isn’t always a bad thing (significant life improvements often necessitate a new social circle), it is definitely something that you should think of.
 
-### 20\. An ounce of prevention is worth a pound of cure
+## 20\. An ounce of prevention is worth a pound of cure
 
 ***This is a cliché for a reason.***
 
@@ -275,7 +277,7 @@ If you take the extra bit of energy to fix a problem or address it the right way
 
 Paying bills on time keeps you from paying the bill later on top of the fines. Using condoms is cheaper than plan B. An abortion is cheaper than raising a child.
 
-### 21\. Keep an 800 credit score with your friends
+## 21\. Keep an 800 credit score with your friends
 
 If you owe money to friends or loved ones, pay it when you said you would or as soon as you have it; whichever comes first.
 
@@ -283,19 +285,19 @@ If you have to choose between paying back a friend and paying back an institutio
 
 A *better man* knows that friends are faster than banks and understand if things come up. Friends also know if you're bullshitting and friends hate to be bullshitted.
 
-If you want to be respected by people, even if you,re enemies, always be a man of your word. Aim for an 800 credit score with your friends and you’ll never suffer in times of need.
+If you want to be respected by people, even if you're enemies, always be a man of your word. Aim for an 800 credit score with your friends and you’ll never suffer in times of need.
 
-### 22\. Spend the money to get a decent car
+## 22\. Spend the money to get a decent car
 
-I've owned 8 different cars. Here's what I’ve learned:
+I've owned 9 different cars. Here's what I’ve learned:
 
 * The more money you spend on a car upfront, the less money you spend on repairs. Keep this in mind when you go to buy a “beater”.
 * As long as you get your oil changed every 3000 miles and pass inspection, your car shouldn't have any serious surprise expenses.
 * Buy your car outright if you can, but as per the first point of this lesson, it may be more cost-effective (long term) to take on car payments.
-* Unless your home is New York City, your dating life is going to be very expensive or non-existent without a car.
+* Unless your home is in New York City, your dating life is going to be very expensive or non-existent without a car.
 * With Uber and Lyft, there is no reason why anyone should ever get a DUI again.
 
-### 23\. Get your drinking under control
+## 23\. Get your drinking under control
 
 ***Most people drink too much.***
 
@@ -309,7 +311,7 @@ You also won’t be invited because most people will think you’re an asshole.
 
 If you're ready to put booze in the past, then use my [6 steps to quit drinking](https://edlatimore.com/how-to-stop-drinking-on-your-own/) to help you get sober.
 
-### 24\. Don't pay attention to haters
+## 24\. Don't pay attention to haters
 
 There’s a lot of talk about haters.
 
@@ -321,7 +323,9 @@ They may not like you enough to congratulate you (and if you consider them a fri
 
 They’re too busy making sure their own problems don’t eat them alive.
 
-### 25\. Luck = preparation + opportunity
+[Here's a guide to help you deal with haters if you have them.](/when-someone-hates-you-for-no-reason/)
+
+## 25\. Luck = preparation + opportunity
 
 Luck is when preparation meets opportunity.
 
@@ -331,9 +335,11 @@ Mind you, I’m not the first to put it this way, but I think my take on it can 
 
 Life is the sum of infinitely many opportunities. The only way to take advantage of these opportunities is by acquiring skills or being in the right position.
 
-Your life will make significant improvements if you increase your skill set and put yourself in positions where the skill set will be noticed. As another old cliché goes, the harder you work the luckier you get.
+Your life will make significant improvements if you increase your skillset and put yourself in positions where your skillset will be noticed. As another old cliché goes, the harder you work the luckier you get.
 
-### 26\. Believe in something
+I go more in-depth about how to get luckier in your life [here](/how-to-get-lucky/).
+
+## 26\. Believe in something
 
 I have no idea if there is a higher power or not.
 
@@ -351,7 +357,7 @@ Believers live with a purpose, trust in a plan, and have a standard of behavior 
 
 This is probably why atheists are usually people I have no interest in being around or becoming.
 
-### 27\. Learn about women but don't obsess over them
+## 27\. Learn about women but don't obsess over them
 
 Focusing so much time and energy on Game was simultaneously the best and worst use of time in my 20's.
 
@@ -367,7 +373,7 @@ The game also makes you incredibly cynical and this WILL have an impact on other
 
 Still, every guy needs to learn Game if for no other reason than to learn how to be respected by women and protect themselves from the worst the dating world has to offer.
 
-### 28\. Be more protective of your time
+## 28\. Be more protective of your time
 
 Time is the most valuable thing you can give someone.
 
@@ -385,7 +391,7 @@ You can never get back time. This is why it’s the most important thing. As you
 
 If you’re ever in doubt about who is on your side, look at who invests their time into you and who stands up for you in your absence.
 
-### 29\. Understand the difference between malice, stupidity, and apathy
+## 29\. Understand the difference between malice, stupidity, and apathy
 
 Never attribute to malice that which can be attributed to stupidity or apathy.
 
@@ -393,7 +399,7 @@ When someone offends you, it’s because they don’t know or don’t care about
 
 You'll enjoy your existence more if you learn to not take life so personally.
 
-### 30\. Self-improvement comes with jealousy
+## 30\. Self-improvement comes with jealousy
 
 If you want to make people uncomfortable, improve your status relative to theirs.
 
@@ -405,11 +411,11 @@ I would imagine this is why most people end up with new friends when they make s
 
 The main point is that when you make significant improvements in some area of your life, there will be those people who simply cannot adjust to the new you. It’s up to you to decide how much time you spend around them.
 
-### 31\. Two years is all you need to make a difference
+## 31\. Two years is all you need to make a difference
 
 I don’t know if I’ve saved the best lesson for last, but I certainly have saved the lesson that’s made the greatest impact on me until the end.
 
-You only need 2 years to change any part of your life you are unsatisfied with. Financial, dating, work prospects, health, etc. 2 years is assuming you put earnest effort in but you aren’t obsessive.
+You only need 2 years to change any part of your life you are unsatisfied with. Financial, dating, work prospects, health, etc. 2 years is assuming you put an earnest effort in but you aren’t obsessive.
 
 You could become obsessive and make changes even quicker, but it should not take you any longer than 2 years to change your life – if you *really* want to be better. This means that if you were to fuck up until you are 30, you could have a respectable life by 35.
 
