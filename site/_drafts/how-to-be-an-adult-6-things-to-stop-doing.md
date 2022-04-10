@@ -25,13 +25,17 @@ You're not an adult until you don't rely on your parents–in any way–for any 
 
 Don't gimme that nonsense about it being cheaper to be on a family phone plan when you're 30 years old. By definition, a major part of adult life is autonomy from your parents. If you can’t—or won’t—survive without their financial assistance, you are not an adult.
 
-This point is usually the one that receives the most blowback. People are very quick to point out that forcing young adults to take on financial responsibilities too early is one of the things that keep them from succeeding, and they’re right.
+***\[I've met kids so serious about becoming an adult that they stayed in a homeless shelter until they got a job good enough to pay the bills. [I write about them here.](/working-at-a-homeless-shelter/)\]***
+
+This point is usually the one that receives the most blowback. People are very quick to point out that forcing young adults to take on financial responsibilities too early keeps them from succeeding, and they’re right.
 
 If you are not ready to stand on your own, there’s no reason to try and do so if you have the support of your parents. However, you’re not an adult if you do this. You’re still their responsibility, which–by definition–excludes you from adulthood.
 
 Even cultures that have many generations stay at home have a clear point where the child moves out. This is usually marriage. Now, at this point, the parents may move in but now the parents are the responsibility of the child. Not vice-versa.
 
-The money in your bank account is your livelihood. If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that like a child, your livelihood is their burden to bear until you grow up.&nbsp;
+[The money in your bank account is your livelihood.](/stop-being-poor/)
+
+If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that, like a child, your livelihood is their burden to bear until you grow up.&nbsp;
 
 ## You don't blame your childhood for your adulthood
 
