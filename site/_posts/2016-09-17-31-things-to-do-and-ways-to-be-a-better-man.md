@@ -129,13 +129,13 @@ However, they caused powerful emotions in me and I fell for them. The point here
 
 A wise man once remarked that these traits are all products of discipline and self-restraint. These traits also promote femininity, which motivates men to act more masculine. While different men are looking for different things at different times, I don’t think there is a man alive that is repulsed by anything on this list.
 
-### 10\. Travel more
+## 10\. Travel more
 
 ![better man want success in life are good relationships with people to see the world](/assets/images/posts/2016/how-to-become-a-better-man-ed-latimore.jpg "Stopping through the Mexican jungle while traveling the world.")
 
 ***[The single biggest motivator in the world is travel.](https://alyssawrites.com/what-motivates-you-to-travel/){: target="_blank" rel="noopener noreferrer"}***
 
-Nothing has made me want to be successful more than the freedom of being able to experience any place in the world any time I want to.
+Nothing has made me want to be successful more than the freedom of being able to experience any place in the world at any time I want to.
 
 In fact, when people ask me how to get motivated to be a better man, I tell them to take a trip somewhere. It doesn't need to be far, but it needs to be someplace new.
 
@@ -147,11 +147,11 @@ Don't let the price tag of travel intimidate you. There are so many low costs wa
 
 Seeing different sights inspires you to think of you can do it more often. It forces you to set goals to figure it out. How can you find the motivation to work hard when all you know is what’s around you and that environment isn’t very inspiring?
 
-### 11\. Make yourself as attractive as possible
+## 11\. Make yourself as attractive as possible
 
 ***[Get as good-looking as you can.](/how-to-be-an-attractive-man/)***
 
-Your life is so much easier when people think you’re attractive. The most respected and successful strong men know that appearances matter ***at least*** as much ability.
+Your life is so much easier when people think you’re attractive. The most respected and successful strong men know that appearances matter ***at least*** as much as ability.
 
 Forget the obvious part of this equation where you get more dates and are invited to better social situations. In general, people treat you better and are more responsive to you. It likely means that you’re in good health.
 
@@ -159,7 +159,7 @@ You're more likely to get hired for jobs.
 
 You'll be given opportunities that others are excluded from.
 
-Unfortunately, many men don't think it's masculine to care about their appearance. The reality is that appearances matter so much that it's irresponsible and decidedly ***not*** masculine to not be care about how you present yourself to the world.
+Unfortunately, many men don't think it's masculine to care about their appearance. The reality is that appearances matter so much that it's irresponsible and decidedly ***not*** masculine to not care about how you present yourself to the world.
 
 I remember when I used to use the price of good clothing as an excuse for not caring about my appearance. Then I figured out that working out (Which is free–no, you don't need a gym. Just use bodyweight exercises) makes anything look good on you.
 
@@ -171,7 +171,7 @@ It's nothing personal. It's just simple human nature.
 
 Rather than bitch, moan, and get in your emotions, use it to your advantage. ***You'll be a better man for it.***
 
-### 12\. Learn how to forgive
+## 12\. Learn how to forgive
 
 The most important skill to develop is the ability to forgive. More on that in my step-by-step [guide on forgiveness](/how-to-forgive-someone/).
 
@@ -183,13 +183,13 @@ There’s a quote that sums it up best: “Holding on to grudges is like holding
 
 Forgiveness is a complicated topic, but the basic idea is that you're able to release any negative emotions you have towards a person for any wrong you think they've committed against you. You feel like they owe you something.
 
-If you can do this, your heart will live without the burden that holding a grudge creates. It's a heavy burden the only gets heavier the more you feel like you're owed something for what you've endured.
+If you can do this, your heart will live without the burden that holding a grudge creates. It's a heavy burden that only gets heavier the more you feel like you're owed something for what you've endured.
 
 Don't confuse forgiveness for justice. Strong men know that bad people must be punished, but this doesn't mean they allow it to weigh heavy on their emotions. Once a misdeed is handled, the idea is to harbor no ill will towards the offender.
 
 One of the best books on forgiveness is "A Course In Miracles". I strongly recommend anyone read it who is ready to forgive themselves or the world.
 
-### 13\. Learn to discern great friends from good friends
+## 13\. Learn to discern great friends from good friends
 
 Good friends are the ones doing dumb shit with you. Great friends are the ones trying to get you to improve your life.
 
@@ -199,7 +199,7 @@ The problem with good friends is that you can have a good enough life with them.
 
 That’s cool if you’re happy with everything (see lesson 1), but if you want to be better, very often it requires changing who you spend the most time around.
 
-### 14\. Let useless friendships go
+## 14\. Let useless friendships go
 
 On the subject of friends, you may have to cut old friends off. I haven’t had to do this much, but it’s happened.
 
@@ -209,7 +209,9 @@ I generally don't recommend a passive approach to things, but there are times wh
 
 Your personal judgment and experience will tell you which and when.
 
-### 15\. Try to understand and forgive your parents
+***[I teach you the four signs it's absolutely time to end a friendship here.](/when-to-end-a-friendship/)***
+
+## 15\. Try to understand and forgive your parents
 
 If everything goes according to plan, your parents will die before you.
 
@@ -218,6 +220,8 @@ My father died when I was 18. No matter what, they'll die and you'll die one day
 Not only will they die before you, but they are going to leave you alone on this planet for quite a few years until you pass on.
 
 This means that no matter what they want for you, it doesn’t really matter. You must live your life according to what you want because you're the only one who will have to live through it.
+
+***[Click here to read my guide on forgiving your parents.](/how-to-understand-and-forgive-your-parents/)***
 
 ### 16\. Understand what money buys—and doesn't buy
 
