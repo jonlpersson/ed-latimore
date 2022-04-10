@@ -5,6 +5,7 @@ title: 'How to let go of the past: 6 steps to finally move on'
 permalink: /how-to-let-go-of-the-past/
 tags:
   - how-to-control-your-emotions
+  - the-power-of-forgiveness
 description: >-
   Letting go of the past was key to my sobriety and getting my life together.
   Learn how I did it.
