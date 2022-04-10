@@ -26,7 +26,7 @@ In this post, I will teach you how to raise your self-esteem, become more self-c
 
 ---
 
-### 1\. Stop the negative self-talk
+## 1\. Stop the negative self-talk
 
 There is no such thing as failure if you actually went for something but the outcome wasn't what you desired. Yes, you didn't get what you wanted but you did learn something. These learning experiences are how we become better and more confident in our abilities.
 
@@ -40,15 +40,15 @@ Small improvements, over time, result in big-time change. Focus on improving the
 
 ---
 
-### **2\. Learn one new skill**
+## **2\. Learn one new skill**
 
 Confidence comes from competence.
 
-If you don't feel confident, it's probably because you can't do anything worthwhile, interesting, or unique. Think about this: when is the last time you felt like an awkward, out of place, beginner?
+If you don't feel confident, it's probably because you can't do anything worthwhile, interesting, or unique. Think about this: when is the last time you felt like an awkward, out-of-place, beginner?
 
-If you can't remember the last time you put yourself in a position to be embarrassed by trying something new, you then it makes sense that you aren't confident. The average person goes through life without ever forcing themselves to learn something new and this is why the average person lacks confidence. Once they graduate high school, their learning stops. Once their learning stops, their ability to be competent and capable in the world–the source of confidence–starts to decrease.
+If you can't remember the last time you put yourself in a position to be embarrassed by trying something new, then it makes sense that you aren't confident. The average person goes through life without ever forcing themselves to learn something new and this is why the average person lacks confidence. Once they graduate high school, their learning stops. Once their learning stops, their ability to be competent and capable in the world–the source of confidence–starts to decrease.
 
-I'm not telling you that have to become an expert or a master at something to feel more confident. You don't need to become a perfectionist when you set goals and plans either. [All you have to do is face your fears](/how-to-overcome-fear/), overcome complacency, and develop a little proficiency. The skill you gain doesn't even need to be flashy, but it does have to force you to become a little different and better than you are now.
+I'm not telling you that have to become an expert or a master at something to feel more confident. You don't need to become a perfectionist when you set goals and plans either. You have to[&nbsp;face your fears](/how-to-overcome-fear/), overcome complacency, and develop a little proficiency. The skill you gain doesn't even need to be flashy, but it does have to force you to become a little different and better than you are now.
 
 Here are some of my favorite examples:
 
@@ -64,7 +64,7 @@ Developing proficiency in anything will automatically build your self-confidence
 
 ---
 
-### 3\. Believe that nothing is impossible for your life
+## 3\. Believe that nothing is impossible for your life
 
 The universe says only two things are impossible: perpetual motion and violation of causality. In other words, everything runs out of energy and you can't reverse the flow of time.
 
@@ -78,7 +78,7 @@ You're missing out on the best things in life because you believe greatness is i
 
 ---
 
-### 4\. Remember that your life is insignificant
+## 4\. Remember that your life is insignificant
 
 Scientists estimate that the universe is about 13.82 billion years old. I'll write it again differently so that the point is made. The universe is 13,000,000,000,000 years old.
 
@@ -90,25 +90,25 @@ It may not seem like the thought of your impending doom should make you feel fre
 
 Even if look at a smaller time scale, people are worried about themselves way more than they're worried about you. I've found that low confidence typically correlates with a high level of self-consciousness. However, the reality is that no one in your real life social situations or on social media is worried about you.
 
-Don't worry about [what others think](/how-to-stop-worrying-about-what-others-think-of-you/)of you, because they aren't going to be alive or matter much to you in the long run. And neither are you. So you better make the most of this eye blink of an existence.
+Don't worry about [what others](/how-to-stop-worrying-about-what-others-think-of-you/)think of you, because they aren't going to be alive or matter much to you in the long run. And neither are you. So you better make the most of this eye blink of an existence.
 
 ---
 
-### 5\. Take risks and expand your comfort zone
+## 5\. Take risks and expand your comfort zone
 
 When you accept that you are insignificant and other people have things to do, then you're finally able to take the risks you need to improve your life and feel more confident.
 
 See, it's impossible to gain confidence if you only live life in your comfort zone. Your comfort zone is what you know and where your current level of confidence resides. When you expand your comfort zone, you simultaneously expand the range of things you're confident about and increase the confidence you already have.
 
-This is because the more things that you know how to do or have experienced, the more confident you can feel that you'll able to handle any given situation. You know that you can handle old situations because you've likely seen them and you feel like you can handle new ones because you've already done so much.
+This is because the more things that you know how to do or have experienced, the more confident you can feel that you'll be able to handle any given situation. You know that you can handle old situations because you've likely seen them and you feel like you can handle new ones because you've already done so much.
 
-The key is to take intelligent, calculated risks that have a payoff that will improve your life but a downside that is not particularly destructive. For example, starting conversations with strangers is a great way to get you out of your comfort zone and build confidence, but it's not likely to get you into trouble. It's the same with something like going to a new place or taking up (most) new activity.
+The key is to take intelligent, calculated risks that have a payoff that will improve your life but a downside that is not particularly destructive. For example, starting conversations with strangers is a great way to get you out of your comfort zone and build confidence, but it's not likely to get you into trouble. It's the same with something like going to a new place or taking up (most) new activities.
 
-As long as you obey the law and, don't try to anything malicious, and you stand to gain something, taking risks is one of the best ways to build confidence.
+As long as you obey the law and, don't try to do anything malicious, and you stand to gain something, taking risks is one of the best ways to build confidence.
 
-### 6\. Do what makes you feel happy
+## 6\. Do what makes you feel happy
 
-"Happiness" is what psychologist like to describe as "[subjective well-being](http://positivepsychology.org.uk/subjective-well-being/){: target="_blank"}". I'm not a fan of subjective life advice, so I'll make this more concrete. According to Positive Psychology:
+"Happiness" is what psychologists like to describe as "[subjective well-being](http://positivepsychology.org.uk/subjective-well-being/){: target="_blank"}". I'm not a fan of subjective life advice, so I'll make this more concrete. According to Positive Psychology:
 
 A person who has a high level of satisfaction with their life, and who experiences a greater positive affect and little or less negative affect, would be deemed to have a high level of SWB \[or in simpler terms, [be very happy](/how-to-be-happy-again/)\]
 
@@ -118,7 +118,7 @@ Do what makes you happy to avoid low self-esteem. Do the thing which overlaps wi
 
 Most people mess this one up. As a result, they lack confidence for one of two reasons: they spend their life doing something they hate or they're broke as hell. It's hard to be confident when you hate most of your life. It's also hard to be confident if you're broke with no prospects for making money.
 
-### 7\. Make more money to have more time
+## 7\. Make more money to have more time
 
 People who say that money can't buy happiness have it wrong. People who say that it CAN also have it wrong. Money buys freedom. Financial freedom is nice, but if your mind is still enslaved then it doesn't matter how much money you have.
 
@@ -130,9 +130,9 @@ The more money you have, the more freedom you have. The more freedom you have, t
 
 [A study by Northwestern Mutual](https://news.northwesternmutual.com/2019-07-22-92-Of-Americans-Say-Nothing-Makes-Them-Happier-Or-More-Confident-Than-When-Their-Finances-Are-In-Order){: target="_blank" rel="noopener noreferrer"} show's that 92% of Americans feel more confident when they have they have their finances in order. I don't know what's wrong with that other 8%, but it's clear that having your money right makes your mind right.
 
-Making money isn't difficult. What's difficult is accepting that you'll have to take risks and change behavior that's kept you comfortable for far too long. However, learning skills that will increase your value will make you competition, improve your mental health because you won't worry, and increase your wellness because you take care of problems when they come up.
+Making money isn't difficult. What's difficult is accepting that you'll have to take risks and change behavior that's kept you comfortable for far too long. However, learning skills that will increase your value will make you more competitive, improve your mental health because you won't worry, and increase your wellness because you take care of problems when they come up.
 
-Here's a short list of skills you can learn that will help you make more money in 6-12 months:
+Here's a shortlist of skills you can learn that will help you make more money in 6-12 months:
 
 * Copywriting
 * Writing
@@ -144,7 +144,7 @@ Here's a short list of skills you can learn that will help you make more money i
 
 ---
 
-### 8\. Use negative thoughts to your advantage
+## 8\. Use negative thoughts to your advantage
 
 If you need to channel negative thoughts like vanity or arrogance to act, then so be it. The only difference between the hateful critic and and an intense rival is often how they chose to respond to these feelings. When I feared talking to girls during the day, I made myself act by not caring what people thought.
 
