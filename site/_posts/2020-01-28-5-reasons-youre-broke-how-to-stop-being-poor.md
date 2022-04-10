@@ -3,7 +3,8 @@ date: 2020-01-28 19:52:00 -0500
 article_type: Article
 title: '5 reasons you''re broke: How to stop being poor'
 permalink: /stop-being-poor/
-tags: [money-skills]
+tags:
+  - money-skills
 image: /assets/images/posts/beingbroke.jpg
 description: >-
   Why was I broke? I was poor because of the problems on this list. If you don't
@@ -29,7 +30,7 @@ I was born poor. I spent my entire childhood and a large portion of my adulthood
 
 I had almost every problem on this list. I was broke but I learned why. Then I fixed them as well.
 
-### You're Broke Because The Future Is A Foreign Concept To You
+## 1) The future is a foreign concept to you
 
 If there’s an 80/20 reason why you’re broke, it’s because you can’t conceive this thing called “the future.” The inability to save money or purchase things of value all stem from this basic problem.
 
@@ -43,7 +44,7 @@ The inability to plan for the future is such a strong predictor of your likeliho
 
 There is no direct fix for this because time is such an abstract concept. The best you can do is treat the symptoms of the disease. Like most treatments, this will provide an improved standard of living.
 
-### You're Still Poor Because You Think You Deserve Better
+## 2) You think you deserve better
 
 Poor people love to tell you about how they “deserve” better.
 
@@ -61,7 +62,7 @@ There’s nothing wrong with believing you deserve nice things. The problem is w
 
 This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You'll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire [what you think you deserve](/personal-freedom/).
 
-### You're Bad With Money Because You Think You Know It All
+## 3\. You think you know it all
 
 This is the biggest reason I stopped giving useful advice to my family. In case you missed it, I'll tell you a little about myself. I was:
 
@@ -83,7 +84,7 @@ For my sanity and the preservation of these familial relationships, I have learn
 
 I’m the only member of my family to graduate from college and truly free myself from the tentacles of poverty (government assistance, living on credit, and lack of work skills) but no one ever takes advantage of the incredible resource that I am to them.
 
-### You’re Broke Because (Ironically) You Want to Avoid Suffering
+## 4\. Ironically, you want to avoid suffering
 
 Broke people always do just enough to be broke.
 
@@ -107,7 +108,7 @@ Because I endured 10 weeks of basic training, my life changed and it set me up f
 
 Avoiding discomfort now always causes you to suffer later. Poor people never get this.
 
-### You poor because you can't communicate at a basic level for more than 5 minutes
+## 5\. You can't communicate at a basic level for 5 minutes
 
 Communication is key. It allows you to interact with a majority of the world.
 
@@ -117,7 +118,7 @@ What makes a difference is your ability to control your temper and nonverbal cue
 
 If you can't take constructive criticism without losing your temper, there is no way you'll ever become better than what you currently are.
 
-You’ll likely stay that way because when people tell you that you do that, you tell them you don’t. Because you know it all, deserve to be talked like your special, and it would be uncomfortable to change and become an effective communicator
+You’ll likely stay that way because you tell them you don't when people tell you that you do that. Because you know it all, deserve to be talked to like you're special, and it would be uncomfortable to change and become an effective communicator
 
 ### The easiest way to stop being poor
 
