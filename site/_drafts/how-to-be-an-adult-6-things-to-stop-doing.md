@@ -53,6 +53,8 @@ The problem is when you neglect your issues and constantly use them as justifica
 
 Swallow your pride, let go of your ego, and see a psychotherapist and work on your mental health before it causes irreparable damage to other parts of your life.
 
+This is a sign of general maturity. ***(Read the other signs of maturity [I write about here](/signs-of-maturity/))***
+
 No one’s childhood was perfect. We all sustain a little damage and trauma, some of us more than others. Part of what makes you an adult is your ability to mitigate, navigate, and work on the parts of you that were not fully formed or sustained damage as you grew up.
 
 This is the most basic responsibility of a grown-up. The goal is not to be perfect. It’s merely to repair deficiencies and fill in gaps that keep you from living a productive, autonomous life as an adult.
