@@ -16,7 +16,7 @@ The premise of this article is simple. I wrote it when I had just turned 31. Her
 
 ## How to be a better man: 31 real things the modern man does to live life to the fullest&nbsp;
 
-### 1\. Be true to yourself
+## 1\. Be true to yourself
 
 Be comfortable in your own skin. Never be afraid of being disliked.
 
@@ -26,35 +26,35 @@ As long as you don't hurt or take advantage of innocents, do what makes you happ
 
 This doesn’t count if you’re putting your livelihood at risk by breaking the law or hurting people, but never let others make you feel bad for what you want, what you like, or how you want to spend your time on this planet.
 
-### 2\. Seek out mentors
+## 2\. Seek out mentors
 
 If you're unsatisfied with any segment of your life, you're a fool if you don’t seek out mentors with success in the area you wish to improve. Learning from others who have already done what you're trying to do is the biggest lifehack I can think of.
 
 I’ve watched many men remain losers because they refuse to cut their ego and ask more accomplished men how to improve their health, increase their dating options, and fix their finances. Real men have no problem asking for advice from men who are better than them in a particular area.
 
-### 3\. Get into the top 20% of a skill
+## 3\. Get into the top 20% of a skill
 
 If you really like something but aren’t good at it, you still have a good chance of getting in the top 20% of all people doing it if you practice and get top-rate instruction.
 
 The top 20% isn't a bad place to be. In fact, it's quite successful compared to the average population. At that point, you can probably make a little money with your skill.
 
-It doesn’t matter how bad you initially are if you like doing it. You’ll be more likely to put in the hard workbneeded to at least become above average.
+It doesn’t matter how bad you initially are if you like doing it. You’ll be more likely to put in the hard work needed to at least become above average.
 
 Always have room in your life for a skill you really like doing but aren’t the best at.
 
-### 4\. Make personal development a lifestyle
+## 4\. Make personal development a lifestyle
 
 Most people can improve their life.
 
 There are only a select few who can’t.
 
-All the people I’ve met that never do better and continually fail had the following attributes: lack of humility, no self-awareness, inability to suffer, and the inability to take responsibility.
+All the people I’ve met who never do better and continually fail had the following attributes: lack of humility, no self-awareness, inability to suffer, and the inability to take responsibility.
 
-If you only have one of these traits, or even two, there is hope. But if you think you’re always right (no humility), don’t know when you’re wrong to correct (no self-awareness), can’t do hard things for a long amount of time (inability to suffer) and always blame others (inability to take responsibility), you may as well be dead.
+If you only have one of these traits, or even two, there is hope. But if you think you’re always right (no humility), don’t know when you’re wrong to correct (no self-awareness), can’t do hard things for a long amount of time (inability to suffer), and always blame others (inability to take responsibility), you may as well be dead.
 
-Learn the 8 mindset shifts to improve your life [here](/how-to-take-control-of-your-life/).
+***Learn the 8 mindset shifts to improve your life [here](/how-to-take-control-of-your-life/).***
 
-### 5\. Build self-discipline
+## 5\. Build self-discipline
 
 I grew up poor and I learned something valuable from it.
 
@@ -68,7 +68,7 @@ Being strong in the face of things meant to distract and weaken you is part of w
 
 A huge part of being successful in life is having emotional discipline and self-control. If you can't control your emotions, then your emotions will control you.
 
-### 6\. Don't date your friend's ex-girlfriends
+## 6\. Don't date your friend's ex-girlfriends
 
 Never ruin a friendship over a relationship.
 
@@ -80,9 +80,9 @@ The point isn’t to run your friendships and relationships the way pimps do.
 
 The point is to have a clear set of rules for handling exes that all involved understand. The idea is to behave with integrity towards your friends and there are few things that lack more integrity than setting your sights on a current or former lover of someone you call a friend.
 
-This is just one of many reasons why you should end a friendship. To learn more read my indepth article on [when to end a friendship](/when-to-end-a-friendship/).
+This is just one of many reasons why you should end a friendship. To learn more read my in-depth article on [when to end a friendship](/when-to-end-a-friendship/).
 
-### 7\. Don't be friends with girlfriends of your friends
+## 7\. Don't be friends with girlfriends of your friends
 
 There are very few reasons to actually be friends with a friend’s romantic partner. No matter what type of sexual relationship they have, there is nothing to be gained by being a friend to both.
 
@@ -94,7 +94,7 @@ Some people will argue, but no matter how cool you all are it creates a fundamen
 
 In a perfect world, we’d all be happy, get along, and have the same interests and agendas. However, in the real world, you have to pick sides.
 
-### 8\. Avoid "the friendzone"
+## 8\. Avoid "the friend zone"
 
 Men give attention to get sex. Women give sex to get attention.
 
@@ -104,9 +104,9 @@ It explains why more women than men believe that men and women can be "just frie
 
 It allows us to better understand the frustrations of each: men aim to avoid being “friend-zoned” (giving attention without sex in return) and women aim to avoid being “fuck-zoned” (giving sex without attention in return).
 
-It allows us to define what a “hoe” is. For men, it’s a guy that gives his time up without regard to what he gets in return and for women its one that gives her sex up without regard to what she gets in return.
+It allows us to define what a “hoe” is. For men, it’s a guy that gives his time up without regard to what he gets in return, and for women, it's one that gives her sex up without regard to what she gets in return.
 
-### 9\. Becoming a better man helps to attract better women
+## 9\. Becoming a better man helps to attract better women
 
 I have only loved 3 women in my life. The latest one is my fiancé.
 
