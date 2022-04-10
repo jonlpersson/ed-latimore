@@ -9,7 +9,7 @@ tags:
 description: >-
   If you stop doing just these 6 things, you'll be an adult by default. Learn
   which things to not do if you want to be taken seriously as a grown-up. 
-image:
+image: /assets/images/drafts/howtobeanadult.jpg
 ---
 Modern society has no defining ritual for transitioning into adulthood. In fact, it encourages a state of prolonged adolescence where no one really grows up. Millennials have been the biggest victims of this.
 
