@@ -4,8 +4,8 @@ article_type: Article
 title: 37 quotes from Ed Latimore about forgiveness
 permalink: /Ed-latimore-forgiveness-quotes/
 tags:
-  - relationship-building
   - quotes-and-summaries
+  - the-power-of-forgiveness
 description: >-
   These quotes about forgiveness will help you let go of the painful past, live
   better in the present, and approach the future without trauma and guilt.
