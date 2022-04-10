@@ -61,10 +61,10 @@ This is the most basic responsibility of a grown-up. The goal is not to be perfe
 
 I think about all of the bad habits I entered adulthood with. I had
 
-* No concept of moderation
+* [No concept of moderation](/sobriety-benefits/)
 * My financial literacy was non-existent
 * I had serious attachment/abandonment issues
-* No model for a successful romantic relationship
+* [No model for a successful romantic relationship](/how-to-be-patient-in-a-relationship/)
 
 All of these were the result of experiences (or lack thereof)&nbsp; in my childhood.
 
@@ -79,6 +79,8 @@ You're not an adult until you take responsibility for all parts of your life, fo
 Children get to believe that Santa Claus delivers gifts. Adults know that it's their own fault if they don't have anything under the tree.
 
 If you blame bad luck for any chronic misfortune in your life, you’re operating from the mindset of someone who is incapable of taking responsibility.
+
+***\[If your luck is bad, I have some practical advice on how to improve it—&gt;[How to get lucky](/how-to-get-lucky/)\]***
 
 Yes, shit happens.
 
