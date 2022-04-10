@@ -13,7 +13,7 @@ image: /assets/images/thumbnails/forgivenessimage.jpeg
 ---
 The power of forgiveness has changed my life. It's allowed me to repair relationships, cope with childhood trauma, and help others release the emotional weight that was holding them back and down.
 
-I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace on.
+I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace.&nbsp;
 
 I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined buy those trespasses. True forgiveness does not even seek an explanation or apology. It recognizes that we're all imperfect and all that we can do is try to be better in our daily lives.
 
