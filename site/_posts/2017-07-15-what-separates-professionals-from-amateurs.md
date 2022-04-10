@@ -44,7 +44,7 @@ From growing up in the ghetto to being a high-ranking professional fighter for J
 
 {% include widgets/cta-email.html %}
 
-### Professionals rely on habits and systems; amateurs depend on motivation
+## Professionals rely on habits and systems; amateurs depend on motivation
 
 This is one of the most significant differences.
 
@@ -60,7 +60,7 @@ They keep training, practicing, and learning as much as they can. To the genuine
 
 On the other hand, amateurs rely on inspiration and motivation to get things done. But inspiration and motivation are fleeting emotions, which is why amateurs never come close to maxing out their potential.
 
-### Professionals are patient; amateurs are always anxious
+## Professionals are patient; amateurs are always anxious
 
 This ties into my previous point. Because pros develop habits and systems to help them get to where they want to be in life, they're more focused on the process than the end result.
 
@@ -92,7 +92,7 @@ They hope for the best but prepare for the worst.
 
 Amateurs only care about feeling comfortable at the moment. That is why they always get taken by surprise when unexpected things happen to them.
 
-### Professionals are humble; amateurs are proud
+## Professionals are humble; amateurs are proud
 
 If you want to get better at something, you better be prepared to swallow your ego.
 
@@ -104,7 +104,7 @@ Because he is humble, the professional wants to receive tough love and construct
 
 The amateur, meanwhile, hates criticism. Because of his ego, he takes everything personally. Because he lets emotion control his life, he cares less about being great and more about feeling good.
 
-### Professionals are obsessed; amateurs have a balanced lifestyle
+## Professionals are obsessed; amateurs have a balanced lifestyle
 
 Amateurs like to be "well-rounded" because being a jack-of-all-trades is a convenient excuse not to put in the hard work required to achieve mastery. It doesn't take much to reach an intermediate or above-average level in something — be it a career or a sport. But to win, you have to be willing to make the sacrifice. Blood, sweat, and tears.
 
@@ -118,9 +118,9 @@ This "burn the boats" mentality is the hallmark of being a professional. As I wr
 
 I'm happy how things turned out, but I will always wonder how much farther I could have gone in professional boxing if I wasn't pursuing a physics degree or serving in the army. I made those moves because I was giving myself a plan B, but a true professional would focus completely on plan A—regardless of their odds of success.
 
-### Professionals focus on what they can control; amateurs try to control everything
+## Professionals focus on what they can control; amateurs try to control everything
 
-In books about&nbsp;[psychology, leadership, and management](/leadership-philosophy/), a reoccurring theme is the "locus of control."
+A reoccurring theme in books about psychology, leadership, and management is the "locus of control."
 
 What does this mean?
 
@@ -138,7 +138,7 @@ This is something pros tend to be really good at. They identify what is within t
 
 The amateurs of the world love to talk and worry about things they have no stake or influence in.
 
-### Professionals respect luck; Amateurs rely on it
+## Professionals respect luck; Amateurs rely on it
 
 If you can't identify what is within and outside of your control, you can never take steps to improve it. Some things are the result of luck. Some things are. If you don't know which outcomes belong to which group, you're an amateur.
 
@@ -157,7 +157,7 @@ To move from the amateur level to the professional level, it's imperative that y
 
 Sure, luck and timing are helpful. But if you don't do the work, no amount of luck in the world is going to save you.
 
-### Professionals have an abundance mindset; amateurs have a scarcity limitation
+## Professionals have an abundance mindset; amateurs have a scarcity limitation
 
 This is the final point I'm going to make in this post.
 
