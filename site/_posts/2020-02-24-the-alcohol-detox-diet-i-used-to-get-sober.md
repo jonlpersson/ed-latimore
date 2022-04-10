@@ -55,11 +55,9 @@ Eat nutrient-dense foods with protein, fats, and vitamins. Good health and minds
 
 To understand this more deeply, let’s look at 6 ways that proper nutrition helps your body detox after alcohol and substance abuse.
 
-{% include widgets/toc.html heading="The alcohol detox diet" list-items="Get protein, avoid sugar, How to manage your blood sugar, How to heal fatty liver disease, The importance of fermented food, Work out!" list-ids="1-protein-is-brain-food, 2-avoiding-sugar-is-key-to-the-alcohol-detox-diet, 3-low-blood-sugar-and-emotional-distress, 4-healing-fatty-liver-disease-from-alcohol-abuse, 5-fermented-foods-for-digestive-health, 6-physical-health-treatment-is-mental-health-treatment" %}
+## 1\. Protein is brain food
 
-### 1\. Protein is brain food
-
-During detoxification, your brain is one of the first things to heal. It's absorbed the brunt of the damage for your drug and alcohol abuse, which explains the mood swings that many people experience while detoxing.
+During detoxification, your brain is one of the first things to heal. It's absorbed the brunt of the damage from your drug and alcohol abuse, which explains the mood swings that many people experience while detoxing.
 
 Drugs and alcohol negatively affect the way your neurotransmitters work. Your brain will activate (or deactivate) neurotransmitter receptor sites, or over (or under) produce certain neurotransmitters to attempt to bring balance to the brain. This is one of the things that contributes to [Post Acute Withdrawal Syndrome](https://en.wikipedia.org/wiki/Post-acute-withdrawal_syndrome){: target="_blank" rel="noreferrer"}.
 
@@ -69,11 +67,11 @@ From a nutritional standpoint, one of the best ways to manage these [emotional a
 
 ![steak is great for alcohol detox](/assets/images/posts/steak.jpg "ID 155811500 Todd Lipsky Dreamstime.com")
 
-Dietary protein converts into amino acids. Amino acids are converted into neurotransmitters like [dopamine and serotonin](https://healthfully.com/431600-what-minerals-convert-amino-acids-to-dopamine-serotonin.html){: target="_blank" rel="noreferrer"}. This aids in recovery and reduces the emotional[side effects of drug and alcohol detox.](https://pbinstitute.com/withdrawal/alcohol/){: target="_blank" rel="noopener noreferrer"}
+Dietary protein converts into amino acids. Amino acids are converted into neurotransmitters like [dopamine and serotonin](https://healthfully.com/431600-what-minerals-convert-amino-acids-to-dopamine-serotonin.html){: target="_blank" rel="noreferrer"}. This aids in recovery and reduces the emotional side[&nbsp;effects of drug and alcohol detox.](https://pbinstitute.com/withdrawal/alcohol/){: target="_blank" rel="noopener noreferrer"}
 
-Protein is also essential for healing damaged organs, rebuilding lost muscle tissue, and in healing the digestive system. Sobriety and steaks make a great team\!
+Protein is also essential for healing damaged organs, rebuilding lost muscle tissue, and healing the digestive system. Sobriety and steaks make a great team\!
 
-### 2\. Avoiding sugar is key to the alcohol detox diet
+## 2\. Avoiding sugar is key to the alcohol detox diet
 
 Another positive for your brain, especially for dealing with the anxiety and depression that occurs as part of Post Acute Withdrawal Syndrome, is avoiding sugar.
 
@@ -87,7 +85,7 @@ Refined carbohydrates are any foods made with white flour. For example; bagels, 
 
 {% include widgets/summary.html id="Vice-breakers-booze" %}
 
-### 3\. Low blood sugar & emotional distress
+## 3\. Low blood sugar & emotional distress
 
 As you drink alcohol, your blood sugar increases. As the alcohol wears off, it lowers. This low blood sugar state is known as "hypoglycemia" and is responsible for several health issues.
 
@@ -103,7 +101,7 @@ Supplements like **Chromium** can help with this issue as well.
 
 This is exactly what we want in our new life without alcohol\!
 
-### 4\. Healing fatty liver disease from alcohol abuse
+## 4\. Healing fatty liver disease from alcohol abuse
 
 Fatty liver disease is created from those dangerous by-products I mentioned earlier. Those free-floating fatty acids need to land somewhere and often it’s in the liver. [When too much fat and alcohol clog the liver, its unable to do its main job, cleaning your system.](https://www.alcohol.org/effects/fatty-liver-disease/){: target="_blank" rel="noreferrer"}
 
@@ -111,19 +109,19 @@ Removing sugar and processed foods, in particular seed oils, is huge for liver h
 
 Nearly 35% of long-term drinkers will suffer from fatty liver disease. The Alcohol Detox Diet is crucial to maintaining liver health. Additionally, these supplements and herbs are also well studied and effective when combating fatty liver disease.
 
-![Fatty Liver Disease](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: &lt;em&gt;ID 161876895 © Horillaz | Dreamstime.com&lt;/em&gt;")
+| \!\[Fatty Liver Disease\](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: &lt;em&gt;ID 161876895 &copy; Horillaz | Dreamstime.com&lt;/em&gt;") |
 
-**Omega 3** helps with brain and nervous system function, reduces stress and cortisol levels, can improve sleep and help with fatty liver disease. Since alcohol disrupts the body's ability to metabolizes essential fatty acids, [it’s a great idea to take this supplement.](https://healthfully.com/527278-can-omega-3-supplements-contribute-to-a-fatty-liver.html){: target="_blank" rel="noreferrer"}
+**Omega 3** helps with brain and nervous system function, reduces stress and cortisol levels, can improve sleep and help with fatty liver disease. Since alcohol disrupts the body's ability to metabolize essential fatty acids, [it’s a great idea to take this supplement.](https://healthfully.com/527278-can-omega-3-supplements-contribute-to-a-fatty-liver.html){: target="_blank" rel="noreferrer"}
 
 **Curcumin** is a phytochemical found in the root turmeric. It’s a powerful anti-inflammatory and antioxidant. [It’s great for detoxing heavy metals and is incredibly protective and healing for the liver](https://www.nutraingredients.com/Article/2017/06/06/Curcumin-touted-for-metabolic-benefits-in-people-with-fatty-liver-disease-RCT-data#){: target="_blank" rel="noreferrer"}.
 
-**Milk Thistle** is one of the best herbs to detox the liver. It has been used to protect the liver and manage fatty liver disease successfully. There’s no evidence that it can prevent disease from occurring, but [it does a great job at managing these conditions, especially when used in conjunction with other herbs or supplements.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3270338/){: target="_blank" rel="noreferrer"}
+**Milk Thistle** is one of the best herbs to detox the liver. It has been used to protect the liver and manage the fatty liver disease successfully. There’s no evidence that it can prevent the disease from occurring, but [it does a great job at managing these conditions, especially when used in conjunction with other herbs or supplements.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3270338/){: target="_blank" rel="noreferrer"}
 
 **N-Acetyl Cysteine** (NAC) is an incredible supplement that’s great for liver health. It is derived from the amino acid Cysteine and is a precursor for Glutathione; our body's master antioxidant, which helps reduce the amount of oxidative damage done from alcohol. [NAC prevents fat build-up in the liver and is one of the most inexpensive and effective ways to support liver health.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3270338/){: target="_blank"}
 
-### 5\. Fermented foods for digestive health
+## 5\. Fermented foods for digestive health
 
-Digestive issues are another common side effect of alcohol abuse. Bloating, cramping, gas and general unease are signs of an unhappy digestive system. Another clear sign of digestive distress are skin issues. [Dry skin, red itchy hives, and even psoriasis and eczema can be linked to the gut.](https://www.huffpost.com/entry/the-gut-skin-axis-the-importance-of-gut-health-for_b_5983db63e4b00833d1de2703){: target="_blank" rel="noreferrer"}
+Digestive issues are another common side effect of alcohol abuse. Bloating, cramping, gas, and general unease are signs of an unhappy digestive system. Another clear sign of digestive distress is skin issues. [Dry skin, red itchy hives, and even psoriasis and eczema can be linked to the gut.](https://www.huffpost.com/entry/the-gut-skin-axis-the-importance-of-gut-health-for_b_5983db63e4b00833d1de2703){: target="_blank" rel="noreferrer"}
 
 Alcohol decreases your stomach acid, making it difficult to break down the food you eat. When you’re unable to properly break down your food, you can’t absorb the nutrients in it. This leaves you with vitamin and mineral deficiencies, another common issue seen in heavy drinkers.
 
@@ -149,7 +147,7 @@ Bone broth, whey, and collagen powder are all ideal for gut health. That blast o
 
 Digestive health is important to your overall health, and that includes mental health, so start experimenting with these fermented foods to create a positive microbiome.
 
-### 6\. Physical health treatment is mental health treatment
+## 6\. Physical health treatment is mental health treatment
 
 Anxiety, depression, stress, and grief can all be reduced and managed safely via a proper diet.
 
@@ -159,7 +157,7 @@ As your digestive system is damaged by alcohol, you’re unable to properly brea
 
 Deficiencies of Magnesium, Zinc, Vitamin D, Vitamin A, Vitamin C, Omega 3, Vitamin B like Folic Acid (B9), and B12 are routine in alcoholics. [When the body is unable to reach its full potential due to lack of energy and deficiencies, everything starts to break down including your mental health.](https://www.canr.msu.edu/news/alcohol_can_lead_to_malnutrition){: target="_blank" rel="noreferrer"}
 
-### Bonus treat: Non-alcoholic beer
+## Bonus treat: Non-alcoholic beer
 
 One of my new favorite non-alcoholic beers is produced by a company named Gruvi. They reached out to me a few weeks ago to offer me some of their products to try. I was immediately skeptical because not only do I already have my “tried and true” favorites, I was worried that a new company was just trying to get some free publicity. However, I’m always open to being surprised so I accepted their products and tried them out.
 
