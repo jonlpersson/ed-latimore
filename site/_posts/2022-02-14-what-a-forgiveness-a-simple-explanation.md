@@ -4,8 +4,8 @@ article_type: Article
 title: What is forgiveness? A simple explanation
 permalink: /what-is-forgiveness/
 tags:
-  - relationship-building
   - how-to-control-your-emotions
+  - the-power-of-forgiveness
 description: >-
   Forgiveness is a powerful idea that is often misunderstood. In this post, I
   clear up misunderstandings and better help you able to understand how to
