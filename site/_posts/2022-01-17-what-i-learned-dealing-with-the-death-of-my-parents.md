@@ -24,9 +24,7 @@ While most people will experience the death of a loved one, everyone will have a
 
 No matter what I say, suggest, or recommend, there is no right or wrong way to experience feelings of grief. My only hope is that whatever pain or sadness you're going through, the rest of this post can help you through it.
 
-{% include widgets/toc.html heading="9 thoughts to help deal with the loss of a parent" list-items="You're never ready, You will miss the things that you hated, It's fine to be angry, It's ok to accept help, You'll never know where you are in the grief process, You'll learn things about them that you never knew, You're not selfish for needing self-care, You will become acutely aware of your own mortality, Guilt is normal" list-ids="youre-never-ready, you-will-miss-the-things-that-you-hated, its-fine-to-be-angry, its-ok-to-accept-help, youll-never-know-where-you-are-in-the-grief-process, youll-learn-things-about-them-that-you-never-knew, youre-not-selfish-for-needing-self-care, you-will-become-acutely-aware-of-your-own-mortality, guilt-is-normal" %}
-
-### You're never ready
+## You're never ready
 
 My father died suddenly and without warning. I wasn't there, but according to his friends that were, he was cooking dinner and dropped dead from a standing position.&nbsp;
 
@@ -46,7 +44,7 @@ Don't fall into the trap of thinking "If only we had more time."
 
 You will never have enough time. You will never wake up one day and seriously think, "I've got all the time I need with my parents. I'd be good if they died today."
 
-### You will miss the things that you hated
+## You will miss the things that you hated
 
 If there is some character defect or annoying trait that your deceased parent had, you will miss it.
 
@@ -64,7 +62,7 @@ Remember that all of their traits—good, bad, pleasant, annoying, and everythin
 
 ***\[If it's more than just annoyance that you felt, then perhaps you need to learn how to forgive your parents. Read how I teach you to do this [here](/how-to-understand-and-forgive-your-parents/).\]***
 
-### It's fine to be angry
+## It's fine to be angry
 
 As my sister and I cleaned out my mom's apartment and took care of the last arrangements, I'd discover things about how she was living that made me quite angry. Things that either contributed to her early death or would have made her life more difficult than it had to be if she had survived.
 
@@ -74,13 +72,13 @@ A lot of times, we're angry because we think that our emotions can do something.
 
 > "Holding on to anger is like swallowing poison and expecting the other person to die."&nbsp;
 
-This is what it's like to be angry at someone is dead.&nbsp;
+This is what it's like to be angry at someone who is dead.&nbsp;
 
-There is nothing you can do about your feelings so they eat you up inside. With that said, it's a natural reaction and there is nothing wrong with you for having it. Even if you had a great relationship when they were alive.
+There is nothing you can do about your feelings so they eat you up inside. With that said, it's a natural reaction and there is nothing wrong with you having it. Even if you had a great relationship when they were alive.
 
 But it's best to remember that there is nothing you can do, they had other positive things to focus on, and the longer it takes you to accept this, the more you'll suffer.
 
-### It's ok to accept help
+## It's ok to accept help
 
 I've always had a problem feeling like I'm a burden to people, so much so that I actually did not tell my close friends that my mother had passed. During my mom's final days, I felt awkward that my fiance was along my side because I felt like it was a burden.
 
@@ -98,7 +96,7 @@ The most important thing on this planet is other people and your relationships w
 
 Even if you actually do have things under control, a relationship is not only about what you get but what you provide. If you don't give the people in your life a chance to be there for you, then you deprive them of a chance to strengthen their bond and be a support group for you.
 
-### You'll never know where you are in the grief process
+## You'll never know where you are in the grief process
 
 To be honest, I don't even know the stages of grief. I just know that they exist. I suppose could have looked them up, but that would distract from the point I want to make here.
 
@@ -112,7 +110,7 @@ My mom was a single parent and I lived with her growing up. Still, you never kno
 
 While I haven't cried over my mom, there have already been moments that trigger sadness and longing. I went through the same thing with my dad, so I know that while you never stop thinking of them, you do eventually stop being sad when you do. It just takes time.
 
-### You'll learn things about them that you never knew
+## You'll learn things about them that you never knew
 
 For better or for worse. Some of them will make you angry. Some of them will make you proud. While you can't control your emotional reactions to what you discover, you can control what you focus on.
 
@@ -124,7 +122,7 @@ Rather than focus on things I didn't approve of or that could piss me off, these
 
 For every moment they disappointed you, you'll also likely have moments that made you proud. Or, at the very least, showed you that no one is perfect but at times, we can all be better than average.
 
-### You're not selfish for needing self-care
+## You're not selfish for needing self-care
 
 During the final days of my mother's life and time cleaning out her apartment, I was shocked at how exhausted I was. Physically, mentally, and emotionally, I was drained.
 
@@ -134,7 +132,7 @@ According to the&nbsp;[Holmes and Rahe Stress Scale](https://paindoctor.com/top-
 
 There is nothing wrong with needing to recharge and take time away, even if it's from the people who are trying to support and help you. Otherwise, you may find yourself dealing with health issues, both mentally and physically.
 
-### You will become acutely aware of your own mortality
+## You will become acutely aware of your own mortality
 
 My mom and dad both died relatively young. In fact, I'm only 9 years away from the age my father died at.
 
@@ -154,7 +152,7 @@ We will all face the reaper one day, but we can only hope that it is not too ear
 
 {% twitter https://twitter.com/EdLatimore/status/1300430608531890176 %}
 
-### Guilt is normal
+## Guilt is normal
 
 My mom was admitted to the hospital on Sept 25th. She was in various states of health before she died on Dec 18th. That's a 3 month period of going to the hospital almost every day. This doesn't factor in the numerous doctor's visits beforehand over many years.
 
