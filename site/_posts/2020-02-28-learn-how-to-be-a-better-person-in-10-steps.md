@@ -52,17 +52,15 @@ If you want to be your best self and inspire others to do the same…
 
 Then I present to you 10 habits that will make you a better person that you can start immediately.
 
-{% include widgets/toc.html heading="How to be better person: 10 easy ways to push yourself to the next level" list-items="Commit to improvement, Develop a sense of gratitude, Build healthy relationships, Live with purpose, Sort your priorities, See the world with a strategic eye, Learn to understand human nature, Live by standards, Take nothing personally, Always give value" list-ids="1-commit-to-improvement, 2-develop-a-sense-of-gratitude, 3-build-healthy-relationships, 4-live-with-purpose, 5-sort-your-priorities, 6-see-the-world-with-a-strategic-eye, 7-learn-to-understand-human-nature, 8-live-by-standards, 9-take-nothing-personally, 10-always-give-value" %}
-
-### 1) Commit to improvement
+## 1) Commit to improvement
 
 The Japanese call this idea Kaizen.
 
 It's continuous improvement that centers around one key idea: big changes come from many small changes over time.
 
-A big reason many people don't improve is because they give luck too much credit for the outcome in their life. Or, if a person does accept that they're responsible for the quality of their own life, they're too impatient to stick to a daily routine that starts slow, but will eventually bring them big changes and noticeable success.
+A big reason many people don't improve is that they give luck too much credit for the outcome in their life. Or, if a person does accept that they're responsible for the quality of their own life, they're too impatient to stick to a daily routine that starts slow but will eventually bring them big changes and noticeable success.
 
-Kaizen focuses on the small wins, made daily, that compound over time. Consistency is the true hard work for most people.
+Kaizen focuses on the small wins, made daily, that compound over time. Consistency is truly hard work for most people.
 
 A small win every day will eventually look like a big win. These big wins look like luck to outsiders who aren't patient enough to stick with something. However, it's only through this patient approach to the worthwhile tasks in life that you're able to become a better person.
 
@@ -70,7 +68,7 @@ There's nothing that can't be altered by making small, gradual improvements each
 
 Sticking to a daily routine, even if you only make small steps, is how to become a better person, regardless of your position in life.
 
-### 2) Develop a sense of gratitude
+## 2) Develop a sense of gratitude
 
 [Gratitude is powerful](/6-reasons-to-be-grateful/) because it can change your thinking and mood instantaneously. Gratitude is so powerful that it can make you believe that everything is alright when it really isn't.
 
@@ -84,7 +82,7 @@ Gratitude is seeing the world through the lens of relativity. It's the ability t
 
 When you learn to habitually see things this way, you'll feel sorry for the people who can't. Unfortunately, they'll always focus on what's wrong in a situation. When you can look at any situation and be grateful to have experienced it, then you're well on your way to becoming a better person.
 
-### 3) Build healthy relationships
+## 3) Build healthy relationships
 
 Imagine achieving your biggest dream. Then imagine having no one to share it with. Even worse, imagine that no one is happy for you and everyone curses you for it.
 
@@ -92,17 +90,17 @@ Imagine achieving your biggest dream. Then imagine having no one to share it wit
 
 This is because people are the most important thing in life.
 
-No matter how digital or automatic the world becomes, it's still driven and operated by humans. You don't need to be super popular and have a million best friends. You just need a few people you care about who care about you in return.
+No matter how digital or automatic the world becomes, humans still drive and operate it. You don't need to be super popular and have a million best friends. You just need a few people you care about who care about you in return.
 
 Your ability to interact with other people is [key to your success](/10-secrets-to-success/). There is no penalty for being likable. Nothing bad comes from making a person feel good. No evil will befall you if you help people.
 
-Being a better friend or family member is often as simple as being a good listener. We connect with one one another not just through the shared experiences in our daily life, but also by sharing our stories, perspectives, and reflections.
+Being a better friend or family member is often as simple as being a good listener. We connect with one another not just through the shared experiences in our daily life, but also by sharing our stories, perspectives, and reflections.
 
 Think about it. You feel better when people listen to you with an open heart and mind. So if you treat others with this same respect, then it's a guarantee that your relationships will flourish.
 
 The key to becoming a better person is to fill your life with meaningful relationships that give you something to live for outside of your own personal quest for the acquisition of status and objects.
 
-### 4) Live with purpose
+## 4) Live with purpose
 
 Your purpose in life doesn't need to be extravagant. It doesn't require sacrifice and suffering. Your purpose in life doesn't need to be original or profound. It doesn't even require a lifelong commitment.
 
@@ -116,11 +114,11 @@ Your purpose transcends your goal and makes you think about what you really want
 
 [The best way to live better is to find goals that motivate you](/how-to-get-motivated/), processes that don't require moral or ethical sacrifice, and an overarching purpose to guide everything that you do.
 
-### 5) Sort your priorities
+## 5) Sort your priorities
 
 This sounds counter-intuitive, but you will always have problems if you believe that money is the most important thing.
 
-There are 4 priorities in life: money, time, health and reputation. These 4 things are responsible for all of the opportunities (business, familial, platonic, or romantic) that you get with other people.
+There are 4 priorities in life: money, time, health, and reputation. These 4 things are responsible for all of the opportunities (business, familial, platonic, or romantic) that you get with other people.
 
 Most people put money first. What they put last reveals their character.
 
@@ -134,11 +132,11 @@ You can always make more money, but you only have a finite amount of time to liv
 
 When you treat the foundations of life with the proper respect and order your priorities correctly, you're well on your way to becoming a better person.
 
-### 6) See the world with a strategic eye
+## 6) See the world with a strategic eye
 
 Until you learn to think with a long time horizon, you'll never be able to get ahead of your problems.
 
-When you make plans in the short term, you'll always be in a state of reaction. You'll never have any energy to pursue long term goals–the ones that will actually make you a better person and [change your life](/change-your-life/)–if you're constantly reacting to short term issues.
+When you make plans in the short term, you'll always be in a state of reaction. You'll never have any energy to pursue long-term goals–the ones that will actually make you a better person and [change your life](/change-your-life/)–if you're constantly reacting to short-term issues.
 
 When you plan ahead, you're rarely phased by sudden surprises or emergencies. The only time you shouldn’t consider the long term is when you're on your deathbed.
 
@@ -146,7 +144,7 @@ For some reason, most people routinely neglect the long term when they make deci
 
 This lack of foresight stems from an inability to endure the suffering of delayed gratification. By sidestepping this suffering, the irony is that you suffer more.
 
-### 7) Learn to understand human nature
+## 7) Learn to understand human nature
 
 If you know and [accept the truth](/harsh-truths/) about yourself, it becomes easier to know and accept the truth about other people. Most of us are neither good or bad. We're just trying to make the best out of our individual situations.
 
@@ -160,23 +158,23 @@ Be critical of yourself, but understanding of the world.
 
 Yes, sometimes you have to hold certain people in your life to a certain level of expectation, but this is reserved for those closest to you. Even then, remember that they're only human.
 
-### 8) Live by standards
+## 8) Live by standards
 
 Most people have no standards or don't enforce them. Without standards, a person does what is easiest instead of what is best.
 
-The path of least resistance defines the life of the mediocre in every area. Their bodies aren't toned, their minds aren't sharp, and their relationships aren't full of love.
+The path of least resistance defines the life of the mediocre in every area. Their bodies aren't toned, their minds aren't sharp, and their relationships aren't genuine.
 
 If you want to become a better person, you must accept that the best view comes after the hardest climb. You have to embrace a challenging lifestyle because, ironically enough, it's the only lifestyle that will make your life worth living.
 
 Your standards determine what you eat, where you live, and how you interact with the world. Your life is a constant display of the standards you hold yourself to.
 
-A high quality of life is enviable because it's not easily attainable. When everyone else wants to coast through life, happy to survive, you must work through life, doing the best job you possibly can.
+High quality of life is enviable because it's not easily attainable. When everyone else wants to coast through life, happy to survive, you must work through life, doing the best job you possibly can.
 
-### 9) Take nothing personally
+## 9) Take nothing personally
 
 Most people are self-centered. They believe the universe is focused on them. Some even believe they're personally blessed by God.
 
-This attitude may benefit them when things are going well, but this also causes a person to take everything that happens to them personally, as if life has nothing better to do than harass them.
+This attitude may benefit them when things are going well, but this also causes a person to take everything that happens to them personally as if life has nothing better to do than harass them.
 
 The best people never take any affront personally. The moment a person makes a problem personal, they're unable to think clearly about it. You'll never become a better person when you make every problem personal.
 
@@ -186,7 +184,7 @@ People are merely agents in the universe.
 
 Sometimes you meet good people and sometimes you meet bad people. By not taking any of it personally, you can always make the best decisions and [learn from your interactions with them.](/how-to-forgive-yourself-6-steps-to-let-the-past-go/)
 
-### 10) Always give value
+## 10) Always give value
 
 There is a simple formula for computing your worth. If you give more than you take, you're an asset. If you take more than given, you're a liability.
 
