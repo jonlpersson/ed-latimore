@@ -146,7 +146,7 @@ Here's a shortlist of skills you can learn that will help you make more money in
 
 ## 8\. Use negative thoughts to your advantage
 
-If you need to channel negative thoughts like vanity or arrogance to act, then so be it. The only difference between the hateful critic and and an intense rival is often how they chose to respond to these feelings. When I feared talking to girls during the day, I made myself act by not caring what people thought.
+If you need to channel negative thoughts like vanity or arrogance to act, then so be it. The only difference between a hateful critic and an intense rival is often how they chose to respond to these feelings. When I feared talking to girls during the day, I made myself act by not caring what people thought.
 
 When I realized that a lot of my friends were just as scared, I made myself act. I did this because I thought I was better than them. Whether this is true or not is irrelevant. All that matters is that I took action. The action got me results.
 
@@ -156,7 +156,7 @@ Overthinking is the greatest barrier to success. This is the infamous analysis p
 
 ---
 
-### 9\. Use the “Fake it til you make it” mentality
+## 9\. Use the “Fake it til you make it” mentality
 
 I once read that “it's easier to act your way into a new way of thinking than it is to think yourself into a new way of acting”. Confidence is a state of mind and nothing else.
 
@@ -172,7 +172,7 @@ Physical action is the easiest way to fake it until you make it. When you move t
 
 ---
 
-### 10\. Lie to yourself
+## 10\. Lie to yourself
 
 The only thing that matters is what you believe. This is a powerful trick you can use for building self-confidence.
 
@@ -184,7 +184,7 @@ Believe anything you want about yourself that isn't impossible. If it makes you 
 
 ---
 
-### 11\. Do not give up
+## 11\. Do not give up
 
 Almost nothing works the right way the first time.
 
@@ -198,7 +198,7 @@ The world will destroy your confidence if you believe everything you do should h
 
 ---
 
-### 12\. Always give back to the world
+## 12\. Always give back to the world
 
 No matter where you are in life, there is something that you can do to make another person’s life better. When you give back to the world, you grow more confidently living in it because you're making an impact.
 
