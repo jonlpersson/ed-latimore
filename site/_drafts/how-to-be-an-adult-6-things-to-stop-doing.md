@@ -15,7 +15,9 @@ Modern society has no defining ritual for transitioning into adulthood. In fact,
 
 I don’t like the idea that you can be a 27-year-old, living at home, make terrible decisions and be devoid of any life skills, but call yourself an adult because you can drink and vote. Being an adult means more than just your age.
 
-I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult. The following lack of following six traits are the biggest markers of adulthood.
+I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult.
+
+The following are the 6 biggest markers of adulthood. If you're still doing any of these things, then you have a lot of work to do
 
 ## You don’t rely on your parents for anything
 
@@ -31,7 +33,7 @@ Even cultures that have many generations stay at home have a clear point where t
 
 The money in your bank account is your livelihood. If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that like a child, your livelihood is their burden to bear until you grow up.&nbsp;
 
-## You Don’t Blame Your Childhood For Your Adulthood
+## You don't blame your childhood for your adulthood
 
 You're not an adult until you stop blaming your childhood for your current deficiencies, weaknesses, and problems.
 
@@ -64,11 +66,11 @@ Instead of using these issues as an excuse for how my life was going (and it was
 
 Everyone goes through shit as a child that sets them back. The difference is that responsible adults deal with their childhood trauma so that it doesn’t deal with them.&nbsp;
 
-## You Don’t Take Responsibility For Everything In Your Life
+## You take responsibility for everything in your life
 
 You're not an adult until you take responsibility for all parts of your life, for better or worse.
 
-Children get to believe that Santa Claus delivers gifts. Adults know that if they don't have anything under the tree, it's their own fault.
+Children get to believe that Santa Claus delivers gifts. Adults know that it's their own fault if they don't have anything under the tree.
 
 If you blame bad luck for any chronic misfortune in your life, you’re operating from the mindset of someone who is incapable of taking responsibility.
 
@@ -88,7 +90,7 @@ The difference is that the child is young and still has time to learn. In fact, 
 
 Decisions that were almost certainly made because they would not (or could not) realize that they’re responsible for how their lives turn out.&nbsp;
 
-## You Don’t Know How To Delay Gratification
+## You know how to delay gratification
 
 You're not an adult if you can't delay gratification in the pursuit of something greater.
 
@@ -110,7 +112,7 @@ Every good thing in life is the result of sacrificing immediate gratification fo
 
 If you feel like your growth has stunted and you aren’t making progress in life, it’s probably because you won’t suffer a little, delay gratification, and work to get on something more than a quick distraction from the unpleasantness of hard work.
 
-## You Lack Emotional Discipline
+## You have emotional discipline
 
 You aren’t an adult if you can’t control your emotions.
 
@@ -126,7 +128,7 @@ You’ll have to learn to regulate and express your emotions in a healthy manner
 
 No one wants to be the person who breaks their hand punching a hole in the wall because something didn’t go as planned.
 
-## You Don’t Plan For The Future
+## You plan for the future
 
 You aren’t an adult if you can’t or won’t make plans for the future.
 
