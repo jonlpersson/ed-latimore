@@ -1,7 +1,7 @@
 ---
 date: 2020-02-27 03:48:00 -0500
 article_type: Article
-title: 8 mindset shifts to take control of your life
+title: Key mindset shifts to take control of your life
 permalink: /how-to-take-control-of-your-life/
 tags:
   - mental-toughness
@@ -52,7 +52,7 @@ Yo[u decide if you’ll treat people with respect.](/how-to-be-a-better-man/)
 
 Yes, shit happens. But you can’t control a lot of that shit. You can only control the degree to which it can affect you.
 
-### Can you do anything about this?
+## Can you do anything about this?
 
 Ask this question about anything that you think you have control over. Prepare to be disappointed when you realize how much energy you expend on things you can do nothing about.
 
@@ -70,7 +70,7 @@ If you can affect it but those effects aren’t instant and total, then you only
 
 Influence is useful, but all it does it put the odds in your favor.
 
-This is why it’s referred to as “political influence” rather than “political control”. Regardless of how well a politician campaigns, the voters may remain unconvinced. They can choose to vote for the other candidates or even not to vote at all.
+This is why it’s referred to as “political influence” rather than “political control”. Regardless of how well a politician campaign, the voters may remain unconvinced. They can choose to vote for the other candidates or even not to vote at all.
 
 Behavior outcomes follow a similar trajectory.
 
@@ -82,7 +82,7 @@ An environment like [this exerts a powerful influence on the lives of the people
 
 Because of my life, I have a natural understanding of this idea, but many people have trouble with this idea. Failure to understand it leads to frustration when the desired things don't happen that we imagined were guaranteed.
 
-### What can you influence?
+## What can you influence?
 
 You can influence a person to like you. [You can’t control their feelings.](/lack-of-motivation/)
 
@@ -102,7 +102,7 @@ You become sad when something terrible happens.
 
 You only have influence. You can take precautions to avoid exposing yourself to the stressors of life, but you can't do this forever. Furthermore, how you engage with these emotional disturbances will always be beyond on your control. You merely have influence over the mind.
 
-## Intent is the only thing you control in your life
+## Your intent is the only thing you control in your life
 
 Everyone thinks they have control of their body, mind, and emotions. I've already shown why that's not true. This erroneous belief is the source of a lot of frustration, confusion, and tragedy in our daily lives.
 
@@ -142,7 +142,7 @@ Weak intent gives up when things don’t go easily and as planned. Strong intent
 
 Intent is a way of thinking and this way of thinking will give you the power to take control of your life.
 
-| As Mike Cernovich says in \[Gorilla Mindset\]({{ '1514672111'</td><td>amazon }}), “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.” |
+| As Mike Cernovich says in \[Gorilla Mindset\]({{ '1514672111'&lt;/td&gt;&lt;td&gt;amazon }}), “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.” |
 
 ## Physical training helps you take control
 
