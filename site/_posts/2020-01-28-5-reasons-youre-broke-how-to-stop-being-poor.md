@@ -62,7 +62,7 @@ There’s nothing wrong with believing you deserve nice things. The problem is w
 
 This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You'll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire [what you think you deserve](/personal-freedom/).
 
-## 3\. You think you know it all
+## 3) You think you know it all
 
 This is the biggest reason I stopped giving useful advice to my family. In case you missed it, I'll tell you a little about myself. I was:
 
@@ -84,7 +84,7 @@ For my sanity and the preservation of these familial relationships, I have learn
 
 I’m the only member of my family to graduate from college and truly free myself from the tentacles of poverty (government assistance, living on credit, and lack of work skills) but no one ever takes advantage of the incredible resource that I am to them.
 
-## 4\. Ironically, you want to avoid suffering
+## 4) Ironically, you want to avoid suffering
 
 Broke people always do just enough to be broke.
 
@@ -108,7 +108,7 @@ Because I endured 10 weeks of basic training, my life changed and it set me up f
 
 Avoiding discomfort now always causes you to suffer later. Poor people never get this.
 
-## 5\. You can't communicate at a basic level for 5 minutes
+## 5) You can't communicate at a basic level for 5 minutes
 
 Communication is key. It allows you to interact with a majority of the world.
 
