@@ -30,7 +30,7 @@ That's the wonderful thing about the internet; we can all learn from one another
 
 Here are 19 simple life hacks I’ve discovered from&nbsp;[over 35 year of living and learning things the hard way](/how-to-be-a-better-man/). None of these are from a list, so any repeating of things you’ve read elsewhere on the internet is purely coincidental. These are simply little things that I’ve picked that have given me a (relatively) unfair advantage in some situations.
 
-#### 1\. **Unless you have an allergy or a strict dietary restriction, always accept when someone offers you a drink or a meal**.
+## 1\. **Unless you have an allergy or a strict dietary restriction, always accept when someone offers you a drink or a meal**.
 
 People like you more when you accept their random acts of kindness and general hospitality. This will make them like you even more than if *you* do something nice for *them*.
 
@@ -58,7 +58,7 @@ Everyone was then surveyed to see how much they liked the researcher. Both group
 
 Getting people to do nice things for you is a simple way to immediately [make you more likable.](/how-to-be-likeable/)
 
-#### 2\. **Whatever country makes your favorite food, learn how to order your favorite dishes in that language.**
+## 2\. **Whatever country makes your favorite food, learn how to order your favorite dishes in that language.**
 
 I can’t tell you how many times my meal has magically doubled in size or something has been given to me on the house because I order “Chow mei fun” at Chinese restaurants or "Camarones y bistec de carne con guacamole" at a Mexican spot.
 
@@ -68,7 +68,7 @@ There's a great deal of research that shows that when you speak the language lik
 
 This goes for all social interactions, but you'll see the most immediate returns by using this technique in ethnic restaurant outings.
 
-#### 3\. Do this to avoid 90% of car issues
+## 3\. Do this to avoid 90% of car issues
 
 * **Change your car oil every 3,000 miles**
 * **Pass inspection**
@@ -86,7 +86,7 @@ It's gotta be all upfront, within 1-2 business days of receiving the boot, or yo
 
 Not drinking or texting while driving should go without saying, but that doesn't mean I won't say it here. If you engage in either of those behaviors, keep in mind that you have to keep getting lucky. Meanwhile, law enforcement or bad timing only has to "get lucky" once.
 
-#### 4\. **Use condoms**
+## 4\. **Use condoms**
 
 This is for men and women.
 
@@ -96,7 +96,7 @@ The cost of unprotected sex far exceeds its value.
 
 If you're going to do it like this, at least stick with one person. I can't fathom why–given all that we know–people would have unprotected sex with strangers. [Especially men.](https://medium.com/@Autam/child-support-a-modern-system-abusing-men-926f585bbfc3){: target="_blank" rel="noopener noreferrer"}
 
-#### 5\. **Manners make every interaction with people easier**
+## 5\. **Manners make every interaction with people easier**
 
 Forget what you may have seen in movies or heard from someone’s cool story. Good manners go a VERY long way.
 
@@ -104,7 +104,7 @@ Your food comes faster in restaurants. The portions are bigger. Customer service
 
 {% twitter https://twitter.com/EdLatimore/status/1182699036937261056 %}
 
-#### 6\. **Clean things look more valuable**
+## 6\. **Clean things look more valuable**
 
 If you want to look like you have more money than you actually do, keep your car clean and be well-groomed. It's cheap to get your vehicle detailed and your clothes ironed and well-fitting. This effect is enhanced by self-discipline.
 
@@ -112,7 +112,7 @@ When you're in shape and you make an effort to be orderly, you'll need to spend 
 
 People associate order with affluence. I’m sure you can think of situations where this association can come in handy.
 
-#### 7\. **If you REALLY want to do college, you should be able to test out of 40-60 credits**
+## 7\. **If you REALLY want to do college, you should be able to test out of 40-60 credits**
 
 College isn't for everyone. I'd even go as far as to say that college isn't for most ambitious people.
 
@@ -122,7 +122,7 @@ Each major is different, but there’s NO REASON you should have to pay average 
 
 College is a hustle, but there are counter hustles IF you work hard enough.
 
-#### 8\. **Start improving your wardrobe at the shoes**
+## 8\. **Start improving your wardrobe at the shoes**
 
 Women intuitively understand this. Men, I’m gonna put you up on game.
 
