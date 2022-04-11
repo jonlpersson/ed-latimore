@@ -38,11 +38,9 @@ These are simplistic examples but hopefully, they make the point. Luck is someth
 
 While part a part of luck is beyond your control, there are things you can do to have better luck. These are superstitious ideas carrying a rabbit's foot, finding a ladybug on you, or picking a four-leaf clover. These are 5 practical &nbsp;
 
-{% include widgets/toc.html heading="5 quick tricks to instantly have more good luck" list-items="Change your perspective about hardship, Try more, Act with intention, Have a flexible plan, Lie to yourself" list-ids="change-your-perspective-about-hardship, try-more, act-with-intention, have-a-flexible-plan, lie-to-yourself" %}
+## Change your perspective on hardship
 
-### Change your perspective about hardship
-
-There is always a way to see hardship as opportunity.
+There is always a way to see hardship as an opportunity.
 
 The old saying is that “luck is where preparation meets opportunity”. This is true, but what is often forgotten is that opportunity is in the eye of the beholder.
 
@@ -54,7 +52,7 @@ The beautiful thing about sudden hardship is that it’s often the only way to f
 
 When you change your perspective about the event that appears to be bad luck, it doesn’t turn it into something that you’d consider good luck. It does, however, allow you to see it as an opportunity to fix something that will make you better. This is typically an opportunity that you wouldn’t otherwise have gotten.&nbsp;
 
-### Try more
+## Try more
 
 If you just sit in the house all day, nothing will happen to you–for better or worse.
 
@@ -62,7 +60,7 @@ You need to be out in the world in order to have more events. When you have more
 
 While it’s impossible–by definition–to know exactly how the 2nd and 3rd effects will play out, there is a way to tip the odds in your favor and make sure that more of them are positive than negative.&nbsp;
 
-### Act with intention
+## Act with intention
 
 When you try to make things happen, other things will happen that you can’t anticipate.
 
@@ -72,7 +70,7 @@ What happens may not appear to contribute directly to your original goal, but it
 
 Remember: luck is when preparation meets opportunity, so these opportunities may not be&nbsp;*immediately*&nbsp;useful but they will come in handy in the future if you follow the next step.
 
-### Have a flexible plan
+## Have a flexible plan
 
 A lot of what appears as bad luck is not&nbsp;*really*&nbsp;bad luck. It’s just an unexpected deviation from a strict plan.&nbsp;
 
@@ -80,7 +78,7 @@ People forget that there are many paths to the same outcome. The trick is to und
 
 Most of us are not chasing a position or a thing, but rather the feeling that we think that thing or position will give us. Once you understand this, you will see almost everything that happens to you as a way to get closer to your ideal life.
 
-### Lie to yourself
+## Lie to yourself
 
 The best lie to tell yourself is that the universe is on your side.
 
