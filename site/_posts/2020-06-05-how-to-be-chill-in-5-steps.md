@@ -51,9 +51,9 @@ This article will teach the techniques I use to remain "super chill" and calm ev
 
 {% include widgets/cta-email.html %}
 
-## How to be chill in 5 steps
+## How to be chill in 5 steps
 
-### Show gratitude
+## 1) Show gratitude
 
 This is the number 1 secret to my chillness.
 
@@ -65,27 +65,27 @@ When something goes wrong, this gratitude allows me to ask myself, “Could it b
 
 Whenever something happens to you, good or bad, train yourself to immediately ask if it could be worse. If you have your health and freedom, you have the ability to improve any situation.
 
-### Growth mindset
+## 2) Have a growth mindset
 
 I used to have a fixed growth mindset.
 
 A lot of my woes in childhood come back to the idea that if I wasn’t good at something, there was no hope for me to ever be better at it. It wasn’t until I started boxing that I began to see that it’s possible to improve your abilities beyond what you first started with. It's just one of several benefits of boxing, rea all the benefits [here](/boxing-benefits/).
 
-With a growth-based mindset, you believe that you can–with enough effort and time–learn and do anything. Obviously there are genetic limitations that will keep many from becoming the best at something, but it’s not necessary to be the best at anything; only to be the best version that you can be.
+With a growth-based mindset, you believe that you can–with enough effort and time–learn and do anything. Obviously, there are genetic limitations that will keep many from becoming the best at something, but it’s not necessary to be the best at anything; only to be the best version that you can be.
 
-As a result of my growth based mindset, I don’t believe that anything is out my grasp. All I have to do is practice. This means that there is no reason for me to ever feel discouraged, envious, or limited. I can have or be almost anything.
+As a result of my growth-based mindset, I don’t believe that anything is out my grasp. All I have to do is practice. This means that there is no reason for me to ever feel discouraged, envious, or limited. I can have or be almost anything.
 
-### Patience is refined confidence
+## 3) Be patient
 
 One cool thing about being a late bloomer in life is that you learn to appreciate the power of time.
 
 Bad things happen quickly. Good things tend to take a while. When you understand this, you feel confident when something takes time to develop. In fact, you come to completely distrust anything that comes quickly and easily.
 
-One reason that people get angry is because things don’t happen quickly enough. Many people tell me they feel anxious when they think something is about to happen. I look at time gaps between action to be an opportunity for rest, relaxation, recharge, and planning my next move.
+One reason that people get angry is that things don’t happen quickly enough. Many people tell me they feel anxious when they think something is about to happen. I look at time gaps between action to be an opportunity for rest, relaxation, recharge, and planning my next move.
 
-Most importantly, I know that the more time I have, the better I can prepare for anything–expected or unexpected. In this way, I’ve taken something which gives many people a negative experience and turned into one of my greatest strengths.
+Most importantly, I know that the more time I have, the better I can prepare for anything–expected or unexpected. In this way, I’ve taken something which gives many people a negative experience and turned it into one of my greatest strengths.
 
-### Appreciation for the small things is how I stay laid back
+## 4) Have an appreciation for the small things
 
 This is related to gratitude but on a micro-scale.
 
@@ -97,9 +97,9 @@ Not only do all things make my life happy, but they all do so equally. I don't s
 
 I don’t feel sad or depressed when things leave me. I simply shift my focus to something else wonderful about my life. Since I’m always building with my growth-based mindset and I’m patient enough to wait for good things to happen, I have plenty to be happy about.
 
-If you can't find happiness in your day to day activities then that's a problem. I've put together a great article on [how you can fix your unhappiness](https://edlatimore.com/unhappiness/) and live a more fulfilled life.
+If you can't find happiness in your day-to-day activities then that's a problem. I've put together a great article on [how you can fix your unhappiness](https://edlatimore.com/unhappiness/) and live a more fulfilled life.
 
-### My value system keeps me relaxed
+## 5) I know my values
 
 I saved the most important for last.
 
@@ -118,8 +118,6 @@ Experiences and relationships increase in strength and value over time. Most obj
 That delicious meal is more enjoyable when you share it with people you care about, regardless of its price or the ambiance of the place you dine in. At the end of the day, all you’re left with is your memories and the memories people have of you–and even then, those will eventually fade.
 
 I focus on experiences, good food, conversation, connection, making a difference, and my craft.
-
-\*\*\*
 
 ## Summary of how to keep chill
 
