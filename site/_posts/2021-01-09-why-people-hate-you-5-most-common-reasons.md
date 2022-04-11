@@ -22,7 +22,7 @@ It doesn’t matter what you do. It doesn’t matter if you do nothing. Someone 
 
 These types of people are fueled by jealousy and contempt. Your failures make them happier than their own success. To them, everything is a zero-sum game and they only see scarcity and limitation.
 
-### Is hatred the same as jealousy?
+## Is hate the same as jealousy?
 
 A hater is no different than a jealous person. In fact, the same reason that people are jealous is the same reason why they become detractors of anyone’s accomplishments. If you do well, they feel like something was taken from them–and **no one can ever be happy when they feel like something has been taken from them**.
 
@@ -56,7 +56,7 @@ This list is not exhaustive, but if you’re experiencing unexpected hostility�
 
 Summaries are great, but if you really want to understand why people don’t like you—for no reason at all—I’ve put everything I’ve learned about dealing with haters below.
 
-### Self-improvement: People hate you because you improved your life
+## Self-improvement: People hate you because you improved your life
 
 Everyone wants the good life. Few people are willing to do the work necessary to get a good life. If that's you then learn how to get your life together [here](/how-to-get-your-life-together/).
 
@@ -72,9 +72,9 @@ By telling themselves that X person got lucky, they’re justifying the impossib
 
 Now, it’s one thing to see someone become an A-list celebrity and find huge success in their life, but for one of their friends to achieve great things? That’s even more unlikely.
 
-You were their friend, their equal. And by improving your life you’re signalling to them “I’m better than you, look at everything I’ve done that you’ll never do”.
+You were their friend, their equal. And by improving your life you’re signaling to them “I’m better than you, look at everything I’ve done that you’ll never do”.
 
-Obviously, that isn’t your intention. But to a hater, rational thinking isn’t a speciality.
+Obviously, that isn’t your intention. But to a hater, rational thinking isn’t a specialty.
 
 ![1973 advertisement for Ayds Weight Loss Plan, &quot;Casanova's Dream Girl&quot;](/assets/images/posts/2021/weight-loss.jpg "Self-improvement always makes someone jealous.")
 
@@ -96,13 +96,13 @@ They will constantly remind you of things you did or ways you thought once the r
 
 You see this often with online haters a.k.a. internet trolls. Any time you try to produce anything of value, internet trolls are quick to give you negative feedback.
 
-I’ve got a lot of twitter followers and a great social media presence, and even I’m not immune to negative commenters when I give value. It doesn’t matter whether it’s a podcast, blog post, tweet, or instagram post, these online haters will attack you because you’re doing something they can’t or won’t do:
+I’ve got a lot of Twitter followers and a great social media presence, and even I’m not immune to negative commenters when I give value. It doesn’t matter whether it’s a podcast, blog post, tweet, or Instagram post, these online haters will attack you because you’re doing something they can’t or won’t do:
 
 You live your life, help others by giving value, and you make money while doing it. This is enough to incite the online mob to try and burn you down.
 
 By the way: I wrote the book on not caring what others think about you. [Read more about it here](/products/not-caring/) (opens in a new tab).
 
-### You moved on: Their life remains stagnant, yours doesn’t
+## You moved on: Their life remains stagnant, yours doesn’t
 
 You often see this in the romantic realm. Once upon a time, you were interested in a person. This person did not return the interest.
 
@@ -118,7 +118,7 @@ You’ve elevated yourself to someone worthy of their time, but you don’t want
 
 They invent reasons why you aren’t worthwhile. This makes them feel justified in hating on you. After all, there must be something wrong with you since you’re no longer interested.
 
-### Defying the odds: You weren’t supposed to become successful
+## Defying the odds: You weren’t supposed to become successful
 
 If your life is on a downward spiral, people will write you off. I don’t condemn this because there’s no point in going down with a sinking ship if the captain is determined to destroy it.
 
@@ -134,7 +134,7 @@ These toxic personalities only feel satisfied when others suffer. If you come ba
 
 Rather than explain that you were a mess and wish you well, you have to remain the bad guy. It’s always easier to despise the bad guy.
 
-### Above it all: You stepped away from the nonsense, your haters didn't
+## Above it all: You stepped away from the nonsense, your haters didn't
 
 Maybe you weren’t the captain of the ship, but you were the first mate. Still, it was destined for disaster. One day, you got smart and jumped ship.
 
