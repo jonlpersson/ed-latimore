@@ -132,9 +132,9 @@ From a functionality standpoint, a man needs at least 3 types of shoes: casual s
 
 But casual sneakers are shoes you walk around in but aren't running, working out, or playing sports. They look nice but don't have the shine or style of a typical dress shoe.
 
-All other footwear (boots, sandals, loafers, etc) are beyond the scope of this article but [here's a great resource on men's fashion and footwear.](https://masculine-style.com/){: target="_blank" rel="noopener noreferrer"}
+All other footwear (boots, sandals, loafers, etc) is beyond the scope of this article but [here's a great resource on men's fashion and footwear.](https://masculine-style.com/){: target="_blank" rel="noopener noreferrer"}
 
-#### 9\. **The best way to live below your means is to become a health freak**
+## 9\. **The best way to live below your means is to become a health freak**
 
 When you’re concerned about your health, you’ll cook and exercise more. You’ll also spend less time doing things not conducive to health. A great way to assist with this is shopping along the outer edge of the grocery store. That's where the meats, dairy, and anything that isn't a refined carbohydrate are located.
 
@@ -142,7 +142,7 @@ The real value of working on your health is that in the face of peer pressure, y
 
 Generally speaking, there's no better way to make your life easier than by improving fitness, diet, and health in terms of both the process to get there and the outcome you achieve.
 
-#### 10\. **Your health is the most valuable thing in the world, but not for the reason you think**
+## 10\. **Your health is the most valuable thing in the world, but not for the reason you think**
 
 If you’re really strapped for cash, you can always donate plasma or participate in clinical trials.
 
@@ -152,7 +152,7 @@ In my 20's, I supplemented my income by doing clinical trials at the local unive
 
 Yes, this is potentially as scary as it sounds, but you can easily make a few thousand dollars. Most times you're going to be alright, but these are new drugs so the outcome isn't guaranteed, but it can allow you to pay bills that have been building up.
 
-#### 11\. **If you’re going to fall, quickly lower your center of gravity and keep your vital parts from hitting the ground.**
+## 11\. **If you’re going to fall, quickly lower your center of gravity and keep your vital parts from hitting the ground.**
 
 I thought about this after remembering a nasty spill that I almost took last winter.
 
@@ -160,11 +160,11 @@ I was on my way out to clean my car off when I slipped on ice and fell down a sm
 
 Gravity is going to cause me to accelerate at the same rate no matter what. Instead of fighting to maintain a lost position, I made sure that I could fall as safely as possible.
 
-There are many analogies to this in life. When things are going badly you have to immediately recognize this then figure out the best way to salvage your situation.
+There are many analogies to this in life. When things are going badly you have to immediately recognize this and then figure out the best way to salvage your situation.
 
-Very often, this means quickly entering a worse situation at your best rather than ruining yourself holding on to a lost cause.
+This often means quickly entering a worse situation at your best rather than ruining yourself by holding on to a lost cause.
 
-#### 12\. Get a crockpot
+## 12\. Get a crockpot
 
 If you complain you don’t have enough time to cook healthy meals–or to cook at all–a crockpot is your best friend.
 
@@ -172,7 +172,7 @@ A $5 piece of meat can easily be stretched with rice and vegetables to give 1 pe
 
 It allows you to eat without spending a lot of time or money and, because of the type of food you make in a crockpot and how it's prepared, it's much healthier than fast food. If you're low on money and time but your health is a high priority, a crockpot is a cheap investment with a high return.
 
-#### 13\. **Money in the bank &gt; good credit**
+## 13\. **Money in the bank &gt; good credit**
 
 Too many people get caught up in the myth of good credit above all things. I’ve had a sub 400 and plus 700 credit score. Each time, I hardly noticed.
 
@@ -180,7 +180,7 @@ On the other hand, I always noticed when I was $50 short or had an extra $200. W
 
 Improving your credit score is nice and is something that everyone should do, but it's a long-term game that allows you to–ironically enough–do things without actually having money. Before you start reducing your debt (the fastest way to improve your credit score), make sure you've got some extra cash on hand.
 
-#### 14\. **The best way to get people to stop harassing you is public embarrassment**
+## 14\. **The best way to get people to stop harassing you is public embarrassment**
 
 Or the threat of it. A screenshot conversation shared on social media is worth 1,000 arguments. Don’t do this if you’re in the least bit wrong or care about the outcome being positive one day.&nbsp;
 
@@ -188,7 +188,7 @@ This is so powerful because it brings shame and embarrassment to a person. It's 
 
 Only a psychopath wouldn't feel bad about having their heinous behavior exposed and as a result, change how they behave.
 
-#### 15\. **Wanna know if a supplement is bullshit or not?**
+## 15\. **Wanna know if a supplement is bullshit or not?**
 
 [See if it’s on the World Anti-Doping Agency (WADA) list](https://www.wada-ama.org/en/content/what-is-prohibited){: target="_blank" rel="noopener noreferrer"}.
 
@@ -198,7 +198,7 @@ Inclusion on the list doesn’t mean it’s criminally illegal–most things on 
 
 If the substance is banned from competition but not against the law, it most certainly gives you a serious mental or physical advantage. If you're just training for the sake of being in shape, then any substance that is actually against the rules of competition is what you want to use.
 
-#### 16\. **Beware of “The Vampire Law”**
+## 16\. **Beware of “The Vampire Law”**
 
 This is a potentially useful piece of information. Also, it’s not actually called "The Vampire Law", but I learned about this from a cop friend of mine.
 
@@ -210,7 +210,7 @@ What exactly does “establish residency” entail? Something as obvious as gett
 
 [Here's a Quora question thread with people discussing their experience with this particular problem.](https://www.quora.com/If-someone-is-living-in-your-house-not-paying-rent-not-contributing-is-receiving-mail-can-you-kick-that-person-out){: target="_blank" rel="noopener noreferrer"}
 
-#### 17\. **Take notes by hand**
+## 17\. **Take notes by hand**
 
 This means carrying a little notebook around with you.
 
@@ -220,7 +220,7 @@ Writing by hand might feel less efficient, but it makes it easier to avoid multi
 
 {% twitter https://twitter.com/EdLatimore/status/1287039076575711232 %}
 
-#### 18\. **Does your focus suck?**
+## 18\. **Does your focus suck?**
 
 Get distracted easily by the world of the internet and social media? Here’s a quick fix that worked for me:
 
@@ -230,7 +230,7 @@ It’s amazing how much you can accomplish with 30 uninterrupted minutes of work
 
 If that fails, you can always try [Gorilla Mind Rush.](https://gorillamind.com/?rfsn=4525775.fe5747){: target="_blank" rel="noopener noreferrer"}
 
-#### 19\. **Are you a terrible person and want to change?**
+## 19\. **Are you a terrible person and want to change?**
 
 Want to [change your life](/change-your-life/) quickly and reliably? Join the Mormon church. I’m not part of the Mormon church, but they really have their marketing and lifestyle down (except you can’t drink coffee).
 
