@@ -41,9 +41,7 @@ A friendship break up can be as hard to get over [as a romantic relationship](/h
 
 It doesn't matter whether they're your best friend, a good friend, or a new friend. This post will outline the 4 major reasons why the friend you were once close to must now become an ex-friend.
 
-{% include widgets/toc.html heading="The 4 major reasons you have to end a friendship" list-items="Betrayal, Repeated legal issues, Substance abuse they won't get help with, Hate and/or jealousy" list-ids="betrayal, repeated-legal-issues, substance-abuse-they-wont-get-help-with, hate-jealousy-or-downplaying-of-your-goals" %}
-
-### Betrayal
+## Betrayal
 
 Once someone intentionally breaks your trust, only a glutton for punishment would remain in contact with them. Yes, sometimes people change and learn from their mistakes, but you’re playing the long odds if you expose yourself to this person again with the expectation that their behavior will change.
 
@@ -53,7 +51,7 @@ Not everyone will have the same perspective. Maybe I’m just a big softy at hea
 
 *Note: In this category, I'm including things like criminal and violent offenses towards you or the people you care about.*
 
-### Repeated legal issues
+## Repeated legal issues
 
 Constant trouble with the law is a huge red flag.
 
@@ -63,7 +61,7 @@ I once tolerated a friend for a long time until he got in my car with an unregis
 
 Of all the reasons to end friendships, this is the one you need to take the most seriously.
 
-### Substance abuse they won't get help with
+## Substance abuse they won't get help with
 
 The same issue as above, except now you’re likely not even remotely on the same path in life. After a certain point in your development and improvement, you won’t be interested in getting drunk every time you go out or smoking pot all day.
 
@@ -73,7 +71,7 @@ Otherwise, you ironically accomplish the opposite of your original goal–you be
 
 Your never-ending patience is meant to help but, ironically, it does more harm than cutting them off ever would. You don’t dish out tough love, not because you love your friends too much to hurt them, but because you lack the toughness required to help a true friend in need.
 
-### Hate, jealousy, or downplaying of your goals
+## Hate, jealousy, or downplaying of your goals
 
 Look around at who doesn’t smile when you win. If you call someone a friend and they aren’t capable of celebrating your victories, you don’t have a friend.
 
@@ -87,7 +85,7 @@ You might have a hard time figuring out if you have this type of toxic friend, b
 
 In my life, I've been friends with people who never had anything positive to contribute. I was either the subject of criticism or the butt of a joke. Or I was continually disrespected. I stayed friends with these people out of convenience and familiarity, but it's not something that anyone should ever tolerate.
 
-Every toxic relationship you have is one more relationships taking up space from positive friendship that you could have. You have to cut these people off because if you don't, their toxicity will either drag you down or force you to become just like them.
+Every toxic relationship you have is one more relationship taking up space from a positive friendship that you could have. You have to cut these people off because if you don't, their toxicity will either drag you down or force you to become just like them.
 
 People like this have either not accomplished much and they enjoy the company to their misery OR your success threatens them. Either way, this will eventually lead to betrayal by active commission.
 
