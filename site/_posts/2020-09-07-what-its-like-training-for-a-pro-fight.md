@@ -44,11 +44,11 @@ This reminds me of something I once witnessed in a gym. Two different boxing clu
 
 ***"You do this shit on the street, and they'll put you away. But if you do it in the ring, they'll cheer for you and pay your bills\!"***
 
-In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, mma and boxing not only allow fighting, it’s how the score is kept and victory is decided.
+In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, MMA and boxing not only allow fighting, but it’s also how the score is kept and victory is decided.
 
-This means that you have to develop both your ability to deliver and receive punishment. This requires training of not only your body, but your mind and heart as well.
+This means that you have to develop both your ability to deliver and receive punishment. This requires training not only your body but your mind and heart as well.
 
-### Boxing Workouts Are Holistically Effective
+## Boxing Workouts Are Holistically Effective
 
 A good fighter is composed of 4 attributes:
 
@@ -63,13 +63,13 @@ The same exercise that makes your body capable of absorbing punch also hones you
 
 Each area develops the other so all are developed at once.
 
-What follows is my best attempt to discuss how the characteristics of an effective fighter are developed in training leading up to a fight. It’s important to remember but they do not develop in isolation from the other aspects mentioned.
+What follows is my best attempt to discuss how the characteristics of an effective fighter are developed in training leading up to a fight. It’s important to remember that they do not develop in isolation from the other aspects mentioned.
 
 While a fighter’s development is often uneven, rarely does one of these characteristics improve at the expense of another. Instead, what usually happens is that a rising tide lifts all boats in the harbor.
 
 Improvement in one area spells improvement in another, even if the rate of improvement is markedly different.
 
-### The Physical Side Of Boxing Training
+## The Physical Side Of Boxing Training
 
 It’s easy to grasp the physical side of boxing. We see the sweat, blood, and tears that accompany the delivery *and* reception of heavy punches.
 
@@ -77,25 +77,25 @@ Thanks to the Rocky franchise, everyone knows about the miles of running and tho
 
 The motto of the sweet science may be to "hit and not get it", but the reality is that when two people meet who have spent hours working on:
 
-* Punching combinations and technique on the focus mitts
-* Hand eye coordination and speed on the double end bag
+* Punching combinations and techniques on the focus mitts
+* Hand-eye coordination and speed on the double end bag
 * Hours of shadow boxing and calisthenics
 
-Someone is going to get hit. Even Floyd Mayweather—arguably the best evasive and defensive boxer of all time—[is hit by 16% of the punches thrown at him](https://www.espn.com/boxing/story/_/id/7780088/floyd-mayweather-jr-measures-boxing-greats){: target="_blank" rel="noopener noreferrer"}. If one of the best boxers ever *still* gets hit by approximately once for every six punches thrown at him, then most other fighters get hit \*quite\* a bit a more.
+Someone is going to get hit. Even Floyd Mayweather—arguably the best evasive and defensive boxer of all time—[is hit by 16% of the punches thrown at him](https://www.espn.com/boxing/story/_/id/7780088/floyd-mayweather-jr-measures-boxing-greats){: target="_blank" rel="noopener noreferrer"}. If one of the best boxers ever *still* gets hit by approximately once for every six punches thrown at him, then most other fighters get hit \*quite\* a bit more.
 
 This means that you need to be skilled in both the delivery *and* the reception of damage.
 
-### The unique demands of boxing
+## The unique demands of boxing
 
-The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity over the course of a long fight. Generally speaking, a fighter's aerobic capacity is needed for defense and his anaerobic capacity is for offensive.
+The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity over the course of a long fight. Generally speaking, a fighter's aerobic capacity is needed for defense and his anaerobic capacity is for offense.
 
-Just as a good fighter is strong on offense ***and*** defense–in fact, it's impossible to separate the two–a good fighter has to be a hybrid of an explosive and endurance athlete, and the training is aimed towards that.
+Just as a good fighter is strong on offense ***and*** defense–in fact, it's impossible to separate the two–a good fighter has to be a hybrid of an explosive and endurance athlete, and the training is aimed toward that.
 
-General endurance and explosive ability is trained by distance runs, sprints, and skipping rope.
+General endurance and explosive ability are trained by distance runs, sprints, and skipping rope.
 
-My particular training plan was running 2-4 miles 5 days a week and keeping my pace under 7 minutes per mile. If it was too cold or wet outside, I'd run on the treadmill for 3 minutes at a 9-10 mph pace. For sprints, I’d do 8-10 100 meter sprints at the track with 30 second rest in between.
+My particular training plan was running 2-4 miles 5 days a week and keeping my pace under 7 minutes per mile. If it was too cold or wet outside, I'd run on the treadmill for 3 minutes at a 9-10 mph pace. For sprints, I’d do 8-10 100 meter sprints at the track with 30-second rest in between.
 
-### The role of strength training in boxing
+## The role of strength training in boxing
 
 Outside of the crusierweight (175-200 lbs) and heavyweight (201+ lbs) divisions of boxing, weight lifting is generally discouraged in the boxing world. Even in those weight divisions, the attitude toward weight lifting will vary from coach to coach.
 
