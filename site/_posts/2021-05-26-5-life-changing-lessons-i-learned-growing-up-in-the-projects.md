@@ -30,7 +30,7 @@ Most public-housing residents aren’t bad people, but there are enough bad appl
 
 As a result, the projects can be dangerous. Drug-fueled gang violence and poverty-motivated petty theft make most public housing projects a seriously rough place to live in.
 
-### Are ghettos and the projects the same thing?
+## Are ghettos and the projects the same thing?
 
 Most people use these terms interchangeably with “the ghetto” or “the hood.” But not all hoods and ghettos are public housing projects.
 
@@ -44,7 +44,7 @@ Actually, "survived" is more accurate because many things can imprison you in th
 
 It wasn’t easy, but I avoided all these things.
 
-I learned things from that environment which gave me a significant advantage in civilized society. And the things I learned are very different from anything you’d find in a book.
+I learned things from that environment which gave me a significant advantage in a civilized society. And the things I learned are very different from anything you’d find in a book.
 
 This is the type of education you can only experience, survive, and then say to yourself, “never again.”
 
@@ -54,7 +54,7 @@ This is the type of education you can only experience, survive, and then say to 
 
 Let's get into my experience growing up in the projects and what I learned from it.
 
-### Good manners go a long way in the hood
+## Good manners go a long way in the hood
 
 I fought a lot as a kid. That’s just par for the course when you grow up in the projects.
 
@@ -72,7 +72,7 @@ Through a powerful negative feedback loop, I learned that it's better to treat p
 
 ***\[Read: ["How to avoid a fight, and what to do if you can't"](/how-to-win-a-street-fight/)\]***
 
-### In the ghetto, safety and security is an illusion
+## In the ghetto, safety and security is an illusion
 
 When you grow up in the ghetto, you never feel safe.
 
@@ -88,7 +88,7 @@ It teaches you to value everything you have and take extra care to protect the t
 
 ![Dave Chappelle as Tyrone Biggums](/assets/images/posts/tyrone-biggums.jpg "The guy who robbed me looked a little like this")
 
-### Life can always get worse
+## Life can always get worse
 
 My home situation was slightly better than average when compared to the typical ghetto home life.
 
@@ -108,7 +108,7 @@ What’s the lesson here?
 
 Living next to other people with problems can drag you down. But, on the flip side, it can foster tremendous gratitude for the little things in life and show you that your situation isn't as bad as it seems. Gratitude has tremendous value and I wrote about 6 reasons why you should be grateful in [this article](https://edlatimore.com/6-reasons-to-be-grateful/).
 
-### Life is like poker: it’s about how you play the hand you’re dealt
+## Life is like poker: it’s about how you play the hand you’re dealt
 
 Good starting cards help, but they don’t determine if you’ll win. They don’t even determine if you’ll survive the game.
 
@@ -126,7 +126,7 @@ Overcoming these challenges takes time, but once you beat them, you are invincib
 
 **It’s not easy, but anyone can change their life.** I’m proof of that.
 
-### You make your own luck in life
+## You make your own luck in life
 
 When you become successful, nobody sees the hours of hard work you put in along the way.
 
