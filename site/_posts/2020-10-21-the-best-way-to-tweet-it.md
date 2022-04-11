@@ -3,20 +3,20 @@ date: 2020-10-21 23:15:00 -0400
 article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
-tags: [money-skills]
+tags:
+  - money-skills
 description: >-
   The Best Way to Tweet It merges Ed Latimore’s Twitter income generation
   strategies and Joshua Lisec’s persuasive writing system.
 image: /assets/images/thumbnails/the-best-way-to-tweet-it---small.png
 ---
-
 **Did you know?** There are 330 million monthly active users on Twitter. That’s larger than the population of the United States.
 
 As Ed Latimore always says, you only need 1% of English speakers buying from you to live better than the other 99%.
 
 In fact, you only need a fraction of a fraction of a fraction of them to engage with your content plus a business with one product, one service, one offer to **tweet your way to a six-figure income**.
 
-***
+---
 
 So what’s the difference between someone with 10,000 followers who makes a measly $100 a month from Twitter . . .
 
@@ -28,9 +28,9 @@ Buying and begging your way to disengaged followers won’t rake in the Benjamin
 
 . . . because you don’t have to beg for attention, pay for retweets, plagiarize big accounts, or message “please follow back 😭🙏” to make money tweeting.
 
-***
+---
 
-**NOT Another “Grow Your Twitter” eBook (Or Course)**
+## **NOT Another “Grow Your Twitter” eBook (Or Course)**
 
 Everyone who gets 10,000 followers puts out a “how to grow your Twitter” guide. They’re all full of the same “reply, quote tweet, engage with bigger accounts” advice you can find in 45 seconds on Google.
 
@@ -64,7 +64,7 @@ and **can't write** for 💩.
 
 #### [Get it here](https://gumroad.com/a/204305523/bSGOk){: target="_blank" rel="noopener noreferrer"}
 
-***
+---
 
 ***The Best Way To Tweet It \*\****is a video training experience (audios and transcripts included) that gives you a proven system to:\*\*
 
@@ -80,7 +80,7 @@ and **can't write** for 💩.
 
 In short, **go from crickets 🦗 to cash 💰 without tweeting like someone you’re not.**
 
-***
+---
 
 ***“So what makes YOU the authorities on Tweeting for the Benjamins?”***
 
@@ -94,9 +94,9 @@ Since 2011, Joshua has ghostwritten more than 50 full-length books as well as 1,
 
 Ed and Joshua are not simply two dudes who charge money for a “course” just to say we’ve made a ton of money. Nope. We believe in engaging our followers and turning our efforts into cash rather than beefing up vanity metrics or creating bogus quote content that gives no return on time invested.
 
-***
+---
 
-***The Best Way To Tweet It*** **system includes:**
+## ***The Best Way To Tweet It*** **system includes:**
 
 * **How To Get The Most From This Program** wherein Ed and Joshua teach you the best way to use this program and master bite-sized persuasion so you can build a following who buy from you.
 
@@ -124,9 +124,7 @@ Ed and Joshua are not simply two dudes who charge money for a “course” just 
 
 #### [Get it here](https://gumroad.com/a/204305523/bSGOk){: target="_blank" rel="noopener noreferrer"}
 
-***
-
-**Bonuses expire & price goes up to $199 this Sunday\!**
+&nbsp;
 
 Join *The Best Way To Tweet It* by Sunday, October 25th at 11:59 p.m. Pacific Standard Time for only $129 and get these FREE bonuses:
 
@@ -142,7 +140,7 @@ These bonuses expire Sunday, October 25th at 11:59 p.m. Pacific Standard Time.
 
 **Join*****The Best Way To Tweet It \*\****after the deadline, and you will NOT receive these bonuses.\*\*
 
-***
+---
 
 **Hold up . . . Wait a minute . . . Somethin’ ain’t right.** How’s this different from Ed’s Twitter guides and Joshua’s *The Best Way To Say It*?
 
@@ -162,7 +160,7 @@ And if you want to leverage persuasive language to make Twitter your personal AT
 
 #### [**Last chance. Get It Here.**](https://gumroad.com/a/204305523/bSGOk){: target="_blank" rel="noopener noreferrer"}
 
-***
+---
 
 **Master Tweet-Sized Persuasion.** Join *The Best Way To Tweet It* right effing now.
 
