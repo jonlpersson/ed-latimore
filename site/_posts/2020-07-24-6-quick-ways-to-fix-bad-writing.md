@@ -20,7 +20,7 @@ There are a few things that you can do if you want to improve your writing and i
 
 ![Ed Latimore Amazon Best-Sellers](/assets/images/posts/best-selling-books.png "My two amazon best-selling books")
 
-### 1) Read more
+## 1) Read more
 
 You probably don't read enough.
 
@@ -30,7 +30,7 @@ Or look at it this way: if you enjoy reading, you read A LOT. If you don't, you 
 
 Reading websites doesn't count (even this one) because the content is often written specifically to hijack your attention with ridiculous headlines. The length of website articles is short so you don't have to think deeply and engage with the material. Furthermore, it's on a website and connected to the internet which means that it comes with distractions.
 
-Reading books–whether they're fiction or non-fiction–trains you to concentrate on the written word. When you aren't distracted by sensational titles and pop-ups, you can absorb things from the writing that will make your writing better.
+Whether they're fiction or non-fiction, reading books trains you to concentrate on the written word. When you aren't distracted by sensational titles and pop-ups, you can absorb things from the writing that will make your writing better.
 
 Even if you write for a blog and you're competing for clicks, reading books will make you better able to produce content because reading develops concentration. Specifically, the concentration required for the creation of the written word.
 
@@ -40,7 +40,7 @@ Because you're hearing the words rather than reading them, you don't experience 
 
 Bad writers never read other writers so they have no chance of becoming good writers themselves.
 
-### 2) Take Notes of What You Like and Dislike
+## 2) Take notes on what you like and dislike
 
 You likely have a style or genre of writing that you enjoy. This is also likely the genre that you want to write.
 
@@ -52,7 +52,7 @@ By reading what's already been written and reflecting on what you enjoyed about 
 
 If you don't enjoy creating it, your writing career will be over before it gets started.
 
-### 3) Live and Build A Life
+## 3) Live and build a life
 
 If you haven't done anything in your life, what the hell could you possibly write about?
 
@@ -66,7 +66,7 @@ When you've experienced pain, overcome it, and built something out of it, then y
 
 > "Writing isn't about making money, getting famous, getting dates, getting laid, or [making friends](/how-to-make-friends-as-an-adult/). In the end, it's about enriching the lives of those who will read your work, and enriching your own life, as well. It's about getting up, getting well, and getting over. Getting happy, okay? Getting happy.”― Stephen King, On Writing: A Memoir of the Craft
 
-### 4) Optimize Your Communication
+## 4) Optimize your communication
 
 This is the closest to a technical rule that I will give you.
 
@@ -80,7 +80,7 @@ To be a good writer, you must always assume that the reason you aren't understoo
 
 [Simplify your communication to the point where it's easily understood by most, but simplify it no further than that.](/persuasive-writing/)
 
-### 5) Write\!\!
+## 5) Write\!\!
 
 I saved the most obvious piece of advice for last. Seriously, it's amazing how many people want to be writers but haven't written a damn thing.
 
@@ -98,7 +98,7 @@ It used to cost a lot of time, money, and manpower to produce and distribute boo
 
 Websites have the luxury of being able to edit on the fly while simultaneously being designed for quick consumption. In other words, they aren't built to last and almost never to profit. Books were, so that means you can learn a lot by reading them.
 
-### 6) First Drafts Are For Word Vomit
+## 6) First drafts are for word vomit
 
 A lot of people think that they need to produce excellent writing from the start or they're bad writers. To produce good writing in your first draft, you need to be in the process of editing while you write and that is not good for your creative process.
 
