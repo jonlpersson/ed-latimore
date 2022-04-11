@@ -26,13 +26,13 @@ Here are some specific steps to follow to become a high-value woman that is able
 
 ## **9 traits of a high-value woman**
 
-### **Be a good listener and an effective communicator**
+## **1) Be a good listener and an effective communicator**
 
 Be honest, patient, empathic and kind with your words.
 
 An ideal man will require a woman who can support him without mothering him or burdening him with her irrational insecurities.
 
-### **Don't waste time in relationships that you know are going nowhere**
+## **2) Don't waste time in relationships that you know are going nowhere**
 
 In regards to my first marriage, the whole experience lasted for 9 years from start to finish. It wasn’t all bad, we had some good times and there was love there. That's nearly a decade of my life that was wasted in a nowhere relationship.
 
@@ -42,7 +42,7 @@ We just weren’t the right match. I made a mistake. He made a mistake. We each 
 
 It unraveled quickly after the wedding until one day, three years later, I left. Then it took us three years to finalize the divorce and I learned a lot about myself during that time.&nbsp;
 
-### **Don't mistake attachment for compatibility&nbsp;**
+## **3) Don't mistake attachment for compatibility&nbsp;**
 
 Many assume emotional intensity is a substitute for relationship compatibility, but it’s not.
 
@@ -62,37 +62,37 @@ Despite my academic knowledge and professional expertise, I was lacking awarenes
 
 My personal experience was no different than most.
 
-### **Establish a good relationship with work and finances**
+## **4) Establish a good relationship with work and finances**
 
 You should not be married to your career, but you should be productive, competent and disciplined with life responsibilities.
 
 An ideal man will need you to be trustworthy and capable of protecting his assets and honoring the family legacy.
 
-### **Be passionate and feminine**
+## **5) Be passionate and feminine**
 
 This doesn’t mean you should wipe out all your masculine traits.
 
-You need a healthy balance of masuline and feminine qualities to be most effective in a healthy relationship. But as the woman in the relationship, you play the biggest role in bringing softness, love and playfulness to the dynamic.
+You need a healthy balance of masculine and feminine qualities to be most effective in a healthy relationship. But as the woman in the relationship, you play the biggest role in bringing softness, love, and playfulness to the dynamic.
 
-This includes taking good care of your body, beauty, aesthetics and overall fitness.
+This includes taking good care of your body, beauty, aesthetics, and overall fitness.
 
-### **Take care of your health, happiness and home with the utmost urgency&nbsp;**
+## **6) Take care of your health, happiness, and home with the utmost urgency&nbsp;**
 
 Emotional stability, emotional regulation and peace of mind are very important assets to cultivate.
 
 An ideal man is not going to want to look after you like a child. Nor will he burn with desire or gratitude for you if you neglect these basic life necessities, which is what we all want.&nbsp;
 
-### **Ground yourself in good principles, grace and class**
+## **7) Ground yourself in good principles, grace, and class**
 
 Being sexy and charming may get an ideal man’s attention, but to keep it you have to exude the qualities he wants in a ride or die life partner and the future mother to his children.&nbsp;
 
-Know the right place and time to peel back the layers of intimacy with him without losing your integrity. Demonstrate self restraint where appropriate and being more reserved with others.
+Know the right place and time to peel back the layers of intimacy with him without losing your integrity. Demonstrate self-restraint where appropriate and be more reserved with others.
 
-Most modern, westernized women have been taught the exact opposite. They’ve been encouraged to be selfish, brash and impulsive without consequences. And men continue to shower them with attention if they are halfway decent looking. But these aren’t the men you want attention from.
+Most modern, westernized women have been taught the exact opposite. They’ve been encouraged to be selfish, brash, and impulsive without consequences. And men continue to shower them with attention if they are halfway decent looking. But these aren’t the men you want attention from.
 
 Instead of changing their own poor behaviors or inadequacies, most women just blame men yet continue to date these same types of men.
 
-### **Develop the right skills and hobbies**
+## **8) Develop the right skills and hobbies**
 
 If you want to work, travel, marry, have children, and do something meaningful with your life, then come up with a plan for that.&nbsp;
 
@@ -123,7 +123,7 @@ You might not recognize him now if you came across him because you’re not the 
 * Get your personal/financial affairs in order
 * Work on improving your personal health, fitness, aesthetics and emotional regulation
 
-### **Find your calling**
+## **9) Find your calling**
 
 There are an endless amount of ways to explore the life you really want, you just have to have courage, commitment, and clarity on your "why" or purpose.
 
