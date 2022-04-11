@@ -92,7 +92,7 @@ It doesn’t matter if they weren’t your fault. They’re your responsibility.
 
 The mental and physical price you’re paying by holding onto these negative things are only serving to destroy and will tear apart anything you try to build in the future unless you can truly accept ownership of them.
 
-### 3) Let go of small thinking
+## 3) Let go of small thinking
 
 For most of my twenties, I didn’t mind living the lifestyle of a drunkard service employee making just above minimum wage as long as I had enough money for the bar and occasionally catching a movie or eating out.
 
@@ -116,7 +116,7 @@ How much money do you want to make? What kind of hobbies do you do? How many fri
 
 You need to create a vision of your perfect life that’s so strong and vivid that you can practically reach out and touch it.
 
-### 4) Seek out tough love
+## 4) Seek out tough love
 
 People say they want to change things. What they really mean is they want things to change.
 
@@ -142,7 +142,7 @@ You need to invite them to criticize you. You may even have to give extra reassu
 
 Being willing to face constructive criticism you hate is the most effective form of self-love there is.
 
-### 5) Improve your grooming and fix your appearance
+## 5) Improve your grooming and fix your appearance
 
 Regardless of what’s wrong with your life, you must always look like you give a damn.
 
@@ -168,7 +168,7 @@ Lastly, what about your body? Do you have the ideal physique you want? If not, w
 
 Little things like ironing, well-fitted clothing, losing extra weight, or putting on a little more muscle can have a big change on how people perceive. This, in turn, has a tremendous effect on the opportunities that you receive.
 
-### 6) Eliminate the negatives
+## 6) Eliminate the negatives
 
 Before you can fill a bucket with water, you have to fix the holes.
 
@@ -194,7 +194,7 @@ Your relationships might be your family or loved ones, or it could be your colle
 
 Finally, think about the habits you carry out every single day. When you wake up in the morning do you automatically start to get things done? Or do you get on your phone and scroll through social media? Our daily habits shape our lives, and replacing the bad with the good is a crucial step in getting your life back on track.
 
-### 7) Develop a monetizable skill
+## 7) Develop a monetizable skill
 
 At the end of the workday, I was exhausted, frustrated, and didn’t feel like I had enough time to pursue any personal development or self-improvement. I felt trapped, and this sapped my motivation in all things.
 
@@ -212,7 +212,7 @@ You’ll finally develop the unique confidence that stems from knowing you will 
 
 **Action small step \#7:** Read my [Beginner’s Guide To Making Money Online](/a-basic-bro-beginners-guide-to-making-money-online/) and come up with a plan for building a skill set and making some extra money.
 
-### 8) Learn from your past
+## 8) Learn from your past
 
 One of the things that set us apart from other animals is that not only can we learn from our own past, we can also learn from others’ pasts.
 
@@ -238,7 +238,7 @@ Now, do any of these things have a common thread? Usually, our biggest mistakes 
 
 Once you know what they are, you can make sure you don’t let yourself fall down the rabbit hole of bad mistakes in the future.
 
-### 9) Have specific goals
+## 9) Have specific goals
 
 Aiming to accomplish something specific forces you to confront whatever is holding you back. Trying to achieve a specific goal also galvanizes your actions and mindset toward a particular task.
 
@@ -259,13 +259,13 @@ Spend some time setting goals for your finances, health, relationships, and skil
 
 You need to make it as easy to follow as possible so that you know exactly what you need to do every single day.
 
-### 10) Be driven by fear
+## 10) Be driven by fear
 
 Many of us live in fear of what will happen if we fail in our efforts. We fear others will ridicule us, we fear we will feel silly, and we fear we will end up even worse than our current position.
 
 This can be paralyzing.
 
-To our monkey brains, maintaining the status quo feels safer, more predictable. But we ignore something important:
+Maintaining the status quo feels safer and more predictable to our monkey brains. But we ignore something important:
 
 **If you don’t change, the best-case scenario is that you’ll grow old and die as the exact same person you are today.**
 
