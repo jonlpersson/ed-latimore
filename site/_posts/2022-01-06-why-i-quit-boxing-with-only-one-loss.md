@@ -84,7 +84,7 @@ I sustained my second concussion while I was a [high school physics and math tut
 
 I was already popular and paid for my writing. Given what I’d earn in a fight and the hours I had to invest to get it, the cost of boxing began to severely exceed its value. When I was broke and didn’t have any other prospects for a great life, boxing made sense.
 
-Now that I could hop on the internet and sell a product that would make $10-20k in a week and people are genuinely interested in my writing and what’s in my mind, making a living putting my body at risk simply no longer made sense.
+Now that I can hop on the internet and sell a product that would make $10-20k in a week and people are genuinely interested in my writing and what’s in my mind, making a living putting my body at risk simply no longer makes sense.
 
 ## 3) The lifestyle and time commitment
 
@@ -174,4 +174,4 @@ Plus the cool thing is that having that record continues to open up doors for me
 
 I stopped boxing because I’d realistically gone as far as I could with my physical attributes and I figured out how to make a lot more money with a lot less damage to my body. I’ve also developed a lifestyle that makes training difficult.
 
-I enjoyed my life as a fighter and I’m extremely grateful for [everything that I got from boxing](/how-to-think-like-a-professional-fighter/). With that said, I have no interest in fighting anymore and I’m having a bigger impact with everything else that I do.
+I enjoyed my life as a fighter and I’m extremely grateful for [everything that I got from boxing](/how-to-think-like-a-professional-fighter/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
