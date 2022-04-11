@@ -3,7 +3,8 @@ date: 2020-09-13 23:10:00 -0400
 article_type: Article
 title: How to be a good personal branding example
 permalink: /personal-branding-examples/
-tags: [money-skills]
+tags:
+  - money-skills
 description: >-
   What I’m about to share with you is authentic brand-building. It looks good
   and works even better.
@@ -47,15 +48,15 @@ Like most things in life, there is wanting to do something, and there is actuall
 
 The one thing your personal brand is probably missing will also help you excel at internet marketing, high-ticket sales, and everything else. When people take you seriously, they trust what you say, promote your content, and buy whatever you're selling.
 
-## **The one thing your brand is missing: a body of work.**
+## **The one thing your brand is missing: a body of work**
 
 You don't need a resume of personal feats and professional accomplishments. You DO need to have done something—a lot of things, really—which show people you’re competent in the thing you’re talking about.
 
-Explains a lot, doesn’t it?
+That explains a lot, doesn’t it?
 
-If you're struggling building a following online or getting people to take you seriously in person, you probably have nothing you can point to that says, “I’ve developed specific skills, built up my knowledge, and earned the experience. This is what I've applied it all to, and here’s how it turned out.”
+If you're struggling to build a following online or getting people to take you seriously in person, you probably have nothing you can point to that says, “I’ve developed specific skills, built up my knowledge, and earned the experience. This is what I've applied it all to, and here’s how it turned out.”
 
-### A personal branding example from my boxing career
+## A personal branding example from my boxing career
 
 Do you have an amazing physique? Post some photos. They don’t have to come every other tweet, but often enough that new and returning visitors to your timeline “get it” after a couple seconds of scrolling.
 
@@ -72,7 +73,7 @@ Invest time and effort presenting some highlights of your body of work. As a res
 
 A great example of this is when I draw comparisons to fighting in the ring and hustling in business. When I recap my professional boxing experiences, I also share how training, winning, and even losing taught me profitable business lessons anyone can apply.
 
-### Why is my book about Twitter so successful?
+## Why is my book about Twitter so successful?
 
 Speaking of business, have you built a company? If so, you clearly know a lot about many different subjects.
 
@@ -86,17 +87,17 @@ Well, this article is an example of proof I know what I’m talking about when i
 
 The best copywriters nowadays know you have to offer proof. I clearly know [how to get more Twitter followers](/how-to-get-more-twitter-followers/) so I can write a book about getting more Twitter followers.
 
-Bottom line when it comes to building a brand for your business: People should want what you’re selling because other people do, too. That’s the body of work I want to build.
+The bottom line when it comes to building a brand for your business: People should want what you’re selling because other people do, too. That’s the body of work I want to build.
 
-### What have you survived, overcome, or done?
+## What have you survived, overcome, or done?
 
 A fit body, impressive social media metrics, and business success are tangible bodies of work you can show an audience. What if you talk and tweet about intangibles?
 
 For example, did you survive an objectively horrible upbringing, overcome a significant setback (think hard drugs, prison, or disability), or do military tours in a war zone?
 
-Now, [no one cares](/no-one-gives-a-shit-about-you/) if a hard life turned you into a piece of shit. But if you’ve used those trials or tragedies to become an upstanding citizen, then the dangerous or destructive parts of your life are as much a body of work as any successes afterwards.
+Now, [no one cares](/no-one-gives-a-shit-about-you/) if a hard life turned you into a piece of shit. But if you’ve used those trials or tragedies to become an upstanding citizen, then the dangerous or destructive parts of your life are as much a body of work as any successes afterward.
 
-People love a success story, but they worship a comeback (or come up). Comeback and come up stories display skills, knowledge, and experience. More importantly, they offer people hope. If you made it out of hell, they can too.
+People love a success story, but they worship a comeback (or come up). Come back and come up stories display skills, knowledge, and experience. More importantly, they offer people hope. If you made it out of hell, they can too.
 
 Maybe your life hasn't been filled with noteworthy experiences or remarkable accomplishments. That's OK. Most people are pretty boring. Building a body of work doesn't restrict you as much as you might think. Any ordinary person can take on a challenge to become extraordinary. Think:
 
@@ -112,9 +113,9 @@ I wrote that list in about twenty seconds, so it’s not exhaustive. The point i
 
 Time to learn the thing and succeed. Whatever skill you develop or milestone you achieve, you must put in time, get results, and display proof before people will pay you attention.. More specifically, you must invest time and make progress in a way you can demonstrate.
 
-You can spend four years studying a challenging subject or four years working customer service. Four years will pass either way, but one person will have proof of how they spent it. The other will have proof they didn’t die.
+You can spend four years studying a challenging subject or four years working in customer service. Four years will pass either way, but one person will have proof of how they spent it. The other will have proof they didn’t die.
 
-### There is a lot more to building a personal brand
+## There is a lot more to building a personal brand
 
 More goes into building a personal brand and gaining credibility than what I’ve covered here, though this is a foundation.
 
