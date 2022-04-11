@@ -53,9 +53,7 @@ The more unexpected the dumping, the more severe this reaction is, and the great
 
 The more you feel like your world is falling apart, the more you feel like your soul is breaking and that you’ll *never* be whole again.
 
----
-
-{% include widgets/toc.html heading="8 unconventional ways to get over someone" list-items="Leave with dignity, Take tylenol, Use technology to end the relationship, Bury the past to deal with the break-up, Don't have sex with your ex, Don&rsquo;t ask about your ex, Give your heart time to heal, Don&rsquo;t let a break up determine your self-worth" list-ids="1-leave-with-dignity, 2-take-tylenol-to-ease-the-pain, 3-use-technology-to-end-the-relationship, 4-bury-the-past, 5-dont-have-sex-with-your-ex, 6-dont-ask-about-your-ex, 7-give-your-heart-time-to-heal, 8-dont-let-a-break-up-determine-your-self-worth" %}
+&nbsp;
 
 The last time I broke up with someone was in 2007 after a 4-year relationship. I didn’t follow this protocol and the results were predictably disastrous, especially because booze was involved.
 
@@ -69,7 +67,7 @@ Whatever the reason is for you being here, these 7 post-breakup tips will help y
 
 ![breaking up with someone can be a bad time](/assets/images/posts/2021/how-to-get-over-being-dumped.jpg "breaking up with someone can be a bad time"){: width="640" height="427"}
 
-### 1\. Leave with dignity
+## 1\. Leave with dignity
 
 So you just discovered that it’s not going to work out. Your first reaction is likely volatile. You want to scream, shout, call names, [crash an airplane](https://www.smh.com.au/world/germanwings-plane-crash-pilot-who-crashed-airbus-a320-into-french-alps-was-having-relationship-problems-20150327-1m94qw.html).
 
@@ -93,7 +91,7 @@ A wise man once said, “no one is responsible for how we feel except ourselves.
 
 You are the only one who decides how you feel about anything. To develop this read my blog on [how to live for yourself](https://edlatimore.com/how-to-live-for-yourself/).
 
-### 2\. Take tylenol to ease the pain
+## 2\. Take Tylenol to ease the pain
 
 The pain from a breakup is real. So real, in fact, that taking Tylenol (acetaminophen) helps to alleviate it.
 
@@ -105,7 +103,7 @@ While this is a case of treating the symptom rather than the disease, it’s a q
 
 The road to recovering from a breakup is already long and hard. There’s no reason to unnecessarily endure extra suffering.
 
-### 3\. Use technology to end the relationship
+## 3\. Use technology to end the relationship
 
 Many people hate the idea of breaking up over email or text, and they give many reasons why, but it’s all nonsense.
 
@@ -119,7 +117,7 @@ What’s the difference between breaking up in person and breaking up online?
 
 Is it that much better to get into a messy ordeal in person?
 
-Once you understand the science of breaking up and what your body and mind go through, it doesn’t make a difference.
+It doesn't make a difference once you understand the science of breaking up and what your body and mind go through.
 
 We set up so many dates via phone and text (and cancel quite a few too) that cutting off a relationship that way shouldn’t be too much of a stretch.
 
@@ -129,7 +127,7 @@ If you live with someone or are married to them, you *have* to handle things in 
 
 But for those of you second-guessing yourselves after falling head-over-heels for someone on Tinder 6 months ago, you shouldn’t feel like you have to do it in person.
 
-### 4\. Bury the past
+## 4\. Bury the past
 
 You don’t have to burn down the house you shared, but you should get rid of anything your ex gave you. The sight of those things or pictures of you two together will cause pain.
 
@@ -149,9 +147,9 @@ Jewelry, games, pictures, clothing, underwear, and the like; put all that shit i
 
 Either way, you have to systematically remove any reminder of the person from your life until you’re able to deal with them without the intense, parasympathetic reaction.
 
-Controling your environment is one of the keys to getting unstuck in life and also applies in this situation, check that blog out [here](https://edlatimore.com/how-to-get-unstuck-in-life/).
+Controlling your environment is one of the keys to getting unstuck in life and also applies in this situation, check that blog out [here](https://edlatimore.com/how-to-get-unstuck-in-life/).
 
-### 5\. Don't have sex with your ex
+## 5\. Don't have sex with your ex
 
 Sleeping with an ex-partner right after a relationship ends might be the worst thing you can do during the post-breakup healing process.
 
@@ -169,9 +167,9 @@ Instead of meeting new people, you’re worried about your past relationship. Th
 
 This can happen without post-relationship hooking up, but it’s impossible to overcome if physical contact continues. It's best to find a new relationship. If finding a new partner is something you stuggle with, then read my [guide on getting into relationships](https://edlatimore.com/how-to-get-into-a-relationship/).
 
-### 6\. Don’t ask about your ex
+## 6\. Don’t ask about your ex
 
-Don’t get your private-eye on and spy on their social media accounts.
+Don’t get your private eye on and spy on their social media accounts.
 
 Don’t ask anyone how they’re doing or who they’re seeing now.
 
@@ -181,7 +179,7 @@ Just let them exist in their world. You will significantly reduce the time spent
 
 Treat them as if they are effectively dead.​
 
-### 7\. Give your heart time to heal
+## 7\. Give your heart time to heal
 
 It takes a lot more time than you realize to truly move on from your ex. A LOT MORE.
 
@@ -199,7 +197,7 @@ You’re neutral when thinking about the former lover or seeing them causes no r
 
 Maybe you will, but if you’re like most people, you won’t be. Give yourself time.
 
-### 8\. Don’t let a break up determine your self worth
+## 8\. Don’t let a break up determine your self worth
 
 It’s easy to take rejection as an assessment of your character. There may be things to learn from your last relationship, but as long as you committed to improving, then you don’t need to beat yourself up.
 
