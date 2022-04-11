@@ -3,7 +3,8 @@ date: 2020-06-09 10:10:00 -0400
 article_type: Article
 title: How to increase your personal freedom
 permalink: /personal-freedom/
-tags: [money-skills]
+tags:
+  - money-skills
 description: "There's no\_such thing\_as\_personal liberty\_without\_economic freedom. What's your level of personal freedom and how do you increase it? Read on to find out."
 image: /assets/images/misc/4-levels-of-personal-freedom/personalfreedom-1.jpg
 ---
@@ -26,7 +27,7 @@ To me, there's no such thing as personal liberty without economic freedom. I don
 
 Because of the internet and social media, it's now possible for almost everyone to achieve this level of freedom. You don't even need to be self-employed, as many companies now have stay-at-home job positions.
 
-### Economic freedom is the basis of personal freedom
+## Economic freedom is the basis of personal freedom
 
 I don't need to make a lot of money. Internet income allows me to be free in both space and time. By definition, you can’t be free if your method of earning a living is tied to one location. This isn’t a good or bad thing–it’s just not the definition of personal freedom.
 
@@ -60,7 +61,7 @@ Society could not run if it were not for these fixed positions and many of these
 
 We need law enforcement, physicians, engineers, and service professionals. Everyone has a role to play. However, if freedom is your goal and is what you’re working towards, the next four levels will give you some goals and mile markers of mindset and ability.
 
-### Level 1: Using your eyes for the first time
+## Level 1: Using your eyes for the first time
 
 ![personal freedom using your eyes](/assets/images/misc/whydomyeyeshurt.jpg)
 
@@ -72,7 +73,7 @@ Getting to level 1 means that you have enough location independent income to liv
 
 In those cities, you don’t live in the hood but you don’t need to live in the most expensive places either.
 
-If you wake up tomorrow and decide that you don’t like your current city, it would not cause you financial stress to move your current lifestyle to 90% of the areas on this planet. The other 10% are top tier cities that have a relatively high cost of living (New York City, San Francisco, Tokyo, Singapore, etc), so you may be forced to downgrade your residence to less desirable (i.e., more dangerous) parts of the city.
+If you wake up tomorrow and decide that you don’t like your current city, it would not cause you financial stress to move your current lifestyle to 90% of the areas on this planet. The other 10% are top-tier cities that have a relatively high cost of living (New York City, San Francisco, Tokyo, Singapore, etc), so you may be forced to downgrade your residence to less desirable (i.e., more dangerous) parts of the city.
 
 Making it to level 1 is the hardest transition for people to make. It's typical for a person moving from 0 to 1 to remain tied to a job longer than they need to because stepping away from job security is still a risk.
 
@@ -82,7 +83,7 @@ Going from 0 to 1 also requires a mindset change.
 
 People without the personal freedom mindset have the "Eat what you feed me" mindset.
 
-When you have this mindset, you believe that your income and security is dependant on what another person gives. In exchange for always having a paycheck, regardless of how hard you work, you give up the freedom to come and go as you please. For all intents and purposes, you're an adult that depends on someone else to take care of you.
+When you have this mindset, you believe that your income and security is dependent on what another person gives. In exchange for always having a paycheck, regardless of how hard you work, you give up the freedom to come and go as you please. For all intents and purposes, you're an adult that depends on someone else to take care of you.
 
 When you make it to level 1, you start to open your eyes and see that there's nothing really secure about a job. At level 0, you can lie to yourself but when you see things as they really are, you can no longer live in ignorance.
 
@@ -104,7 +105,7 @@ This is where many hustlers stay because it's not a bad place and it allows a gr
 
 One other notable thing about level 1 is that while the income is passive and/or location independent, it's not enough for you to build a reserve (at least in the early stages). This forces you to be like a shark–constantly moving and working because you have to, but you are free to do it from almost anywhere in the world.
 
-### Level 2: Out of the Matrix
+## Level 2: Out of the Matrix
 
 ![Personal freedom out of the matrix](/assets/images/misc/outthematrix.jpg "Personal freedom out of the matrix")
 
@@ -138,7 +139,7 @@ I still remember working at T-Mobile 5 years ago. I still remember [living in th
 
 {% include widgets/cta-email.html %}
 
-### Level 3: You can dodge bullets
+## Level 3: You can dodge bullets
 
 ![person freedom dodging bullets](/assets/images/misc/dodgingbullets.jpg "person freedom dodging bullets")
 
@@ -148,7 +149,7 @@ Therefore, my ideas about level 3 (and by extension, level 4) have been develope
 
 This isn’t exactly theory, but it's not direct experience either. Think about it this way: a decent fighter knows what a great fighter is made of. Not only can he recognize him, but he could probably train someone to become a great fighter.
 
-The best coaches in boxing and chess were never world champions, but they know what a world champion looks like–both obviously and under the hood.
+The best coaches in boxing and chess were never world-champions, but they know what a world champion looks like–both obviously and under the hood.
 
 To reach level 3, you must be able to not only live anywhere in the world but also be able to do so at the highest levels of comfort you want to. This doesn’t mean that you need to be able to live in the most expensive parts of town–only that it would not make a difference if you chose to given your specific needs (houses in exclusive neighborhoods for families vs apartments with doormen and parking for singles, for example).
 
@@ -158,7 +159,7 @@ My theory about this is as follows: by now, it’s obvious to all of their frien
 
 #### Level 3 makes you completely unrelatable
 
-I’ve met enough people at level 3 and 4 who don’t have any "unfair advantages" (being born to wealth or winning the genetic lottery) to know that it's possible for many of us to get there.
+I’ve met enough people at levels 3 and 4 who don’t have any "unfair advantages" (being born to wealth or winning the genetic lottery) to know that it's possible for many of us to get there.
 
 Of course, most people get envious and/or don’t believe you. Once you hit level 3, you become very aware of who you mention or allude your success to. You simply find it easier to shut up and keep working.
 
@@ -172,7 +173,7 @@ People either agree with your life, they shut up about your choices, or you cut 
 
 I find that level 2 is where this starts, and level 3 is where your freedom is so established that you just don't waste time tolerating people. Ultimately, level 3 is where the mental and social shifts have caught up to the ones in your earning power and physical situation. This is the level where all freedoms are unified.
 
-### Level 4: You no longer have to dodge bullets
+## Level 4: You no longer have to dodge bullets
 
 ![person freedom dodging bullets](/assets/images/misc/stopbullets.jpg "person freedom dodging bullets")
 
