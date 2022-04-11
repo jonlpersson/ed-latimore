@@ -70,7 +70,7 @@ With that said, let’s talk about the concept of karma and how someone interact
 
 ## 3 lessons from an internet troll
 
-### 1) You never know who's watching and can ruin your life
+## 1) You never know who's watching and can ruin your life
 
 A few days ago, I received the following email. I’ve cut off the email address and name of the sender.
 
@@ -96,11 +96,11 @@ I know that the message implies that there are 3 tweets, but the third one is a 
 
 To this guy’s credit, he actually did delete his social media account shortly after. The problem is that he didn’t post tweets. I did. At this point, you’re probably wondering how the job and master’s program discovered this colorful interaction.
 
-I was wondering that too, so I asked him in a follow-up email. Well it turns out that his Twitter handle was the same as the URL of his website. He’d been putting that URL on his applications to show off something related to his work, I’d imagine.
+I was wondering that too, so I asked him in a follow-up email. Well, it turns out that his Twitter handle was the same as the URL of his website. He’d been putting that URL on his applications to show off something related to his work, I’d imagine.
 
-When you google said URL (I’m not putting it here, as I agreed to no longer play a roll in messing up his karma), the first thing that comes up are the tweet screenshots linked to my account.
+When you google said URL (I’m not putting it here, as I agreed to no longer play a role in messing up his karma), the first thing that comes up are the tweet screenshots linked to my account.
 
-The lesson here is that there’s no such thing as a “halfway anon”. Either go fully ghost or be fully out in public. Even if you try to be half-way anon, any identifying details can be used to track you. Get on the wrong side of the wrong people, and you’ll quickly find out just how bad karma can be and how easy it is to be doxxed.
+The lesson here is that there’s no such thing as a “halfway anon”. Either go fully ghost or be fully out in public. Even if you try to be halfway anon, any identifying details can be used to track you. Get on the wrong side of the wrong people, and you’ll quickly find out just how bad karma can be and how easy it is to be doxxed.
 
 For example, if you think you can get away with just putting your face on a profile and nothing else, you’d be sorely disappointed. Image searching and matching algorithms have come a long way.
 
@@ -112,14 +112,14 @@ You're only as anonymous as the resources and motivation of the person who wants
 
 #### If you’re going to be anon
 
-Use different handles from your name (obviously) or anything associated with your online presence (not so obvious and is what’s causing this guy misery). Make sure that your handles don't have:
+Use different handles from your name (obviously) or anything associated with your online presence (which is not so obvious and is causing this guy misery). Make sure that your handles don't have:
 
 * Any URL that you own
 * Companies you work at
 * The city you’re from
 * The school you attend
 
-And for goodness sakes–and I know that I already said this–DON’T USE AN ACTUAL PHOTO OF YOURSELF. That can easily be traced and linked to your presence in any media, company site, school site, or social media profiles.
+And for goodness sakes–and I know that I already said this–DON’T USE AN ACTUAL PHOTO OF YOURSELF. That can easily be traced and linked to your presence on any media, company site, school site, or social media profile.
 
 #### If you’re going to be fully out in public
 
@@ -131,23 +131,23 @@ The moment you say something disparaging and someone decides to archive it, that
 
 On to the next lesson about karma on the internet…
 
-### 2) Don't make bad karma for free
+## 2) Don't make bad karma for free
 
-So fortunately, this kid realized operating that account or anything related to it was a wash. From a follow-up response he sent to me:
+So, fortunately, this kid realized operating that account or anything related to it was a wash. From a follow-up response he sent to me:
 
 *“Both the domain and Twitter have since been deleted. And I've since abandoned any notions of building a personal brand.”*
 
-Consider this though: he was attached enough to the name and what he put behind it that he not only used it for his Twitter handle and website, but it was also referenced in his applications for grad school and a job.
+Consider this though: he was attached enough to the name and what he put behind it that he not only used it for his Twitter handle and website but it was also referenced in his applications for grad school and a job.
 
 I should point out here that the URL and Twitter handle in question was NOT his actual name.
 
-He made his life harder for no other reason than wanting to be disrespectful and talk reckless to me on the internet. Even though he deleted the Twitter account and his website, I did some digging and found that he took both of those actions quite some time ago. He only wrote this plea last week.
+He made his life harder for no other reason than wanting to be disrespectful and talk recklessly to me on the internet. Even though he deleted the Twitter account and his website, I did some digging and found that he took both of those actions quite some time ago. He only wrote this plea last week.
 
 That means that somehow, this is still causing him problems. I have two theories on how that’s possible:
 
 #### **The first feeds my ego**
 
-I’m more well known than the average person. If we went by nothing else than the quantity and quality of people who [follow me on Twitter](/how-to-get-more-twitter-followers/), that would be enough to make the case. Depending on which SEO tool you use, my name receives between 1800 and 4500 searches on the internet per month. [I even have a Wikipedia page.](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank"}
+I’m more well-known than the average person. If we went by nothing else than the quantity and quality of people who [follow me on Twitter](/how-to-get-more-twitter-followers/), that would be enough to make the case. Depending on which SEO tool you use, my name receives between 1800 and 4500 searches on the internet per month. [I even have a Wikipedia page.](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank"}
 
 ![I really want to believe my fame energy is causing karma problems](/assets/images/posts/2020/ed-wikipedia-article.png "My small piece of internet fame.")
 
@@ -161,7 +161,7 @@ Despite what he told me and what I’ve observed, his name is still attached to 
 
 If I was vindictive, I’d just leave everything up to continue causing this kid problems. But I’m not, so I deleted the tweets. I don't want the bad karma.
 
-But imagine if I wasn’t going to do that. That would mean that this kid made someone his enemy, knowing nothing about the scope of his reach or influence, all so that he could win an internet trash talking contest. That’s a very poor trade-off.
+But imagine if I wasn’t going to do that. That would mean that this kid made someone his enemy, knowing nothing about the scope of his reach or influence, all so that he could win an internet trash-talking contest. That’s a very poor trade-off.
 
 Here’s a secret to how I keep such a cool head with people on social media:
 
@@ -169,7 +169,7 @@ I recognize that it’s a tool to connect me to money and power. I know that eve
 
 It’s selfish, but it produces a positive result. Because I’m out for me, [I’m motivated](/how-to-get-motivated/) to treat everyone around me right–even when they don’t deserve it. My ruthless adherence to my self-interest is responsible for building my good karma on the internet.
 
-### 3) A good apology is one that you don't have to make in the first place
+## 3) A good apology is one that you don't have to make in the first place
 
 People are more forgiving when you get in front of your problems before they cause major harm. Apologies mean more when you don't have to make them.
 
