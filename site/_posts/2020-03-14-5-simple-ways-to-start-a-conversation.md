@@ -102,7 +102,7 @@ I'm not saying that you shouldn't ask questions.
 
 I’m just saying that you should never forget why you ask the questions in the first place. Position yourself to go deeper and build an empathetic connection.
 
-You have show interest *and* then build a connection. Most people love to talk about themselves but they love even more to make new connections and feel understood.
+You have to show interest *and* then build a connection. Most people love to talk about themselves but they love even more to make new connections and feel understood.
 
 #### Intimate Superficiality And The Dance of Conversation
 
