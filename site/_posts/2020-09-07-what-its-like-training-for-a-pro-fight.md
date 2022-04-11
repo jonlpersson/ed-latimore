@@ -97,27 +97,27 @@ My particular training plan was running 2-4 miles 5 days a week and keeping my p
 
 ## The role of strength training in boxing
 
-Outside of the crusierweight (175-200 lbs) and heavyweight (201+ lbs) divisions of boxing, weight lifting is generally discouraged in the boxing world. Even in those weight divisions, the attitude toward weight lifting will vary from coach to coach.
+Outside of the cruiserweight (175-200 lbs) and heavyweight (201+ lbs) divisions of boxing, weight lifting is generally discouraged in the boxing world. Even in those weight divisions, the attitude toward weight lifting will vary from coach to coach.
 
 No coach denies the benefit of having more muscle, but where the resistance typically comes from is the fact that it takes time to build muscle and that time could be used to develop skills. It's an opportunity cost problem.
 
 As physical of a sport as boxing is, muscle mass doesn't win fights. Skill and athletic capacity does. If anything, the added muscle comes with a real cost as it places an even greater demand on your cardiovascular system.
 
-However, most coaches have a positive view on exercises that use bodyweight as resistance and calisthenics. Push ups, pull ups, and sit ups are never debated as methods of building strength. This is likely to due to the fact that performing them also develops your endurance and is less likely to build more muscle that demands blood and oxygen.
+However, most coaches have a positive view on exercises that use body weight as resistance and calisthenics. Push-ups, pull-ups, and sit-ups are never debated as methods of building strength. This is likely due to the fact that performing them also develops your endurance and is less likely to build more muscle that demands blood and oxygen.
 
-These exercises not only conditions your body to withstand the energy demands of the sport, but the muscle density and endurance built from doing them allows you to better absorb damage.
+These exercises not only condition your body to withstand the energy demands of the sport but the muscle density and endurance built from doing them allows you to better absorb damage.
 
-A boxer must also be conditioned to execute specific boxing moves at both a high intensity and for a long duration. To train this, a fighter will spend countless rounds doing various types of bag work. Great conditioning is just one of many benefits of boxing—read more benefits [here](/boxing-benefits/).
+A boxer must also be conditioned to execute specific boxing moves at both high intensity and for a long duration. To train this, a fighter will spend countless rounds doing various types of bag work. Great conditioning is just one of many benefits of boxing—read more benefits [here](/boxing-benefits/).
 
 ### Punching speed vs punching power
 
-Bag workouts consists of hitting the heavy bag or the speed bag and each serves a unique purpose.
+Bag workouts consist of hitting the heavy bag or the speed bag and each serves a unique purpose.
 
-The heavy bag is for developing power and punching technique. The speed bag develops hand-eye coordination and endurance in the shoulders and upper body to keep your arms up.
+The heavy bag is for developing power and punching techniques. The speed bag develops hand-eye coordination and endurance in the shoulders and upper body to keep your arms up.
 
-Both exercises, when done correctly, also do a pretty decent job of your building your cardio and getting you into fighting shape.
+Both exercises, when done correctly, also do a pretty decent job of building your cardio and getting you into fighting shape.
 
-For 10 to 12 rounds, 3 to 4 days per week, I’d hit the heavy bag with the same level of intensity that I planned to fight with. This wasn’t just going through the motions. I had to get my aerobic and anaerobic system conditioned to throw punches as hard as I could for as long as I could. This meant not only maxing out my heart rate, but being able to sustain that output over the course of multiple 3 minute periods.
+For 10 to 12 rounds, 3 to 4 days per week, I’d hit the heavy bag with the same level of intensity that I planned to fight with. This wasn’t just going through the motions. I had to get my aerobic and anaerobic system conditioned to throw punches as hard as I could for as long as I could. This meant not only maxing out my heart rate but being able to sustain that output over the course of multiple 3 minute periods.
 
 Training this way guaranteed that I’d have the physical constitution to fight, but it didn’t mean that I wouldn’t feel tired. The key to dealing with the inevitable fatigue that you experience in a fight is mental training.
 
@@ -131,19 +131,19 @@ Something that most people don’t realize is that every exchange in a boxing ma
 
 To be a fighter, you have to be able to fight through the pain of a body shot or worse, a broken jaw or bruised kidney. If the punch doesn’t scramble your central nervous system and cause a knockout, then you can fight through it. It will hurt, but dealing with it is a matter of mental strength rather than physical.
 
-Much of fight training is as much about conditioning your mind as it is your body. It was not uncommon for me to do 60-90 minutes of hitting the focus mitts with my coach or hitting the heavy bag at as high of an intensity as I could. Yes, this trained my body and endurance, but it trained my mind to work through being tired.
+Much of fight training is as much about conditioning your mind as it is your body. It was not uncommon for me to do 60-90 minutes of hitting the focus mitts with my coach or hitting the heavy bag at as high of intensity as I could. Yes, this trained my body and endurance, but it trained my mind to work through being tired.
 
 Read more about [how to think like a fighter](/how-to-think-like-a-professional-fighter/).
 
-### Shadowboxing and using your imagination to train
+## Shadowboxing and using your imagination to train
 
 Shadowboxing is sparring against an imaginary opponent.
 
-This may not sound like much but if used correctly, shadowboxing is the best way to prepare for a fight. It's a deep meditation that is also the best way to prepare your body for the rigors of a fight out of sparring. The best part is that unlike sparring, you can (and should) do it everyday you're in the gym.
+This may not sound like much but if used correctly, shadowboxing is the best way to prepare for a fight. It's a deep meditation that is also the best way to prepare your body for the rigors of a fight out of sparring. The best part is that, unlike sparring, you can (and should) do it every day you're in the gym.
 
-See, a big challenge in fighting is switching from attacking a non-aggressive stationary targets (punching bags and mitts) to aggressive mobile ones (other trained fighters). It's frustrating to have great execution of your jabs and uppercuts against a heavy bag, but not have it translate over to actual fighting. Shadowboxing is how this ability is how this transition is made smoothly.
+See, a big challenge in fighting is switching from attacking non-aggressive stationary targets (punching bags and mitts) to aggressive mobile ones (other trained fighters). It's frustrating to have great execution of your jabs and uppercuts against a heavy bag, but not have it translate over to actual fighting. Shadowboxing is how this ability is how this transition is made smoothly.
 
-In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadow boxing routine, they execute a lot better in the fight.
+In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute a lot better in the fight.
 
 [This builds confidence](/how-to-build-confidence/), which is perhaps the most important part of fighting.
 
@@ -157,15 +157,15 @@ A fighter has to believe that he can fight.
 
 He may have the skills and conditioning, but if he doesn’t believe that he can do it then it doesn’t matter. Being able to execute while you’re tired and in pain makes you feel powerful, and the only way to develop this inner power is sparring.
 
-Sparring serves two important functions leading up to a fight: it allows you to develop your abilities against a live moving target that can fight back. In doing so, it achieves the other function, which is to develop confidence in your abilities.
+Sparring serves two important functions leading up to a fight: it allows you to develop your abilities against a live-moving target that can fight back. In doing so, it achieves the other function, which is to develop confidence in your abilities.
 
 Confidence is important for a fighter because there are many moments that can make him question himself. The confidence built through camp up to a fight is a gradual process. If this process is neglected, then the fighter is more likely to give into these moments of doubt than push through them.
 
-For example, if a fighter never pushes himself through rounds of sparring without needing to take a breather, then he will question himself in sparring. If he questions himself in sparring, he’ll question himself during the actual fight and that’s the \*last\* place you want a fighter questioning his confidence.
+For example, if a fighter never pushes himself through rounds of sparring without needing a breather, he will question himself in sparring. If he questions himself in sparring, he’ll question himself during the actual fight and that’s the \*last\* place you want a fighter questioning his confidence.
 
-The other important aspect of sparring is that it’s the only part of training where a fighters gets to practice getting hit.
+The other important aspect of sparring is that it’s the only part of training where a fighter gets to practice getting hit.
 
-### Training to barely miss
+## Training to barely miss
 
 There is a skill to taking and evading punches. Many people think that punches in boxing are either miss or knockout. The reality is that while knockouts obviously happen, a fighter is often hit several times before he goes down.
 
@@ -173,7 +173,7 @@ The body can take many more punches than the head can and there’s really no sa
 
 While there’s nothing that can prepare a man for the impact of a heavily padded fist wrapped in a 12 oz. glove, you can make your body strong and durable with core work, and develop your defensive capabilities while sparring in protective headgear and punching with padded 16-18 oz. sparring gloves.
 
-### Developing willpower and the desire to fight: How it all comes together
+## Developing willpower and the desire to fight: How it all comes together
 
 A good training camp will simultaneously develop a fighter’s body, heart, and mind. This only happens if the fighter has the desire to win and does not simply go through the motions.
 
