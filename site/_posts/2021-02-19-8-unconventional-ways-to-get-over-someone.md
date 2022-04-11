@@ -199,7 +199,7 @@ Maybe you will, but if you’re like most people, you won’t be. Give yourself 
 
 ## 8\. Don’t let a break up determine your self worth
 
-It’s easy to take rejection as an assessment of your character. There may be things to learn from your last relationship, but as long as you committed to improving, then you don’t need to beat yourself up.
+It’s easy to take rejection as an assessment of your character. There may be things to learn from your last relationship, but as long as you are committed to improving, then you don’t need to beat yourself up.
 
 You were just the wrong person. Even if they were the right person when you got with them, we all grow and change.
 
@@ -226,7 +226,7 @@ Though it may be hard not to see this as an evaluation of your character, rememb
 7. Give your broken heart the amount of time it needs to heal
 8. Don't let a breakup determine your self-worth
 
-I’m not a relationship expert, but my philosophy on getting over someone—and I’ve got more experience than I’d like to admit on both ends of the spectrum—has served myself and others well.
+I’m not a relationship expert, but my philosophy on getting over someone—and I’ve got more experience than I’d like to admit on both ends of the spectrum—has served me and others well.
 
 It can be summed up as follows: **step out, move on, don’t look back—and don’t get on your back.**
 
