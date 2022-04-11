@@ -28,8 +28,6 @@ It’s easy to browse through endless posts about changing your life and getting
 
 If you’re ready to experience real personal growth and change your life, then follow these 10 simple steps to get your life in order.
 
-{% include widgets/toc.html heading="10 actionable steps to get your life together in 2022" list-items="Be honest with yourself, Grow up and take responsibility, Let go of small thinking, Seek out tough love, Clean up and fix your appearance, Eliminate the negatives, Develop a monetizable skill, Learn from your past, Have specific goals, Let the right kind of fear drive you" list-ids="1-be-honest-with-yourself, 2-grow-up-and-take-responsibility, 3-let-go-of-small-thinking, 4-seek-out-tough-love, 5-improve-your-grooming-and-fix-your-appearance, 6-eliminate-the-negatives, 7-develop-a-monetizable-skill, 8-learn-from-your-past, 9-have-specific-goals, 10-be-driven-by-fear" %}
-
 ## 1) Be honest with yourself
 
 The first step in getting your life together is also the most painful:
