@@ -3,7 +3,8 @@ date: 2020-06-15 17:42:00 -0400
 article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
-tags: [money-skills]
+tags:
+  - money-skills
 description: >-
   I once worked at a men’s homeless shelter. Here are five powerful lessons I
   learned from homeless people.
@@ -27,11 +28,11 @@ The job didn’t teach me anything new about human nature, but I did learn a few
 
 I'm not saying that my perspective is the most accurate, but between this job and volunteer assignments, I've seen how many of them think and behave. What I've found may surprise what you.
 
-## Time waits for no man: the truth about the homeless
+## 1) Time waits for no man: the truth about the homeless
 
 There’s this prevailing myth that most homeless people are military vets or suffer from mental illness. [This simply isn't true](https://policyadvice.net/insurance/insights/homelessness-statistics/){: target="_blank" rel="noopener noreferrer"}.
 
-I watched about 500 different homeless people get processed over my 6 months there. I’m not sure how many had prior service with our military, but I remember only 1 who had mental illness to the point where someone should have had someone else taking care of him.
+I watched about 500 different homeless people get processed over my 6 months there. I’m not sure how many had prior service with our military, but I remember only 1 who had a mental illness to the point where someone should have had someone else taking care of him.
 
 Most of them were guys [who’d done 5-10+ years in prison](https://www.prisonpolicy.org/reports/housing.html){: target="_blank"} and their friends/family moved on. Since they're convicted felons, the criminal justice system makes it virtually impossible for them to get work. They had simply run out of options to make money and did not have a support system.
 
@@ -41,17 +42,17 @@ If you avoid going to prison, your life is going to be mostly alright. It may no
 
 ***\[Note: If you're looking to get into a home after doing time in prison and you're having difficulty, this is a great resource on [securing housing after incarceration.](https://www.bankrate.com/insurance/homeowners-insurance/secure-housing-after-incarceration/&#41;){: target="_blank" rel="noopener"}\]***
 
-### The problem with being unlikable: how do you become homeless?
+## 2) The problem with being unlikable: how do you become homeless?
 
 Here’s a question to ponder. Imagine that you suddenly lost your place to live. What would you do? If you’re like most people, your basic plan would consist of finding a new place to live and in the meantime, staying with a friend or relative.
 
 Well if you’re like many of the guys at the homeless shelter, you won’t be able to get a new place when they run background checks. Even if you could get a new place, it’s going to be extremely difficult to get a job to pay rent. So naturally, you’d just stay with friends or relatives until you figure it out.
 
-Except these guys. They can’t because their friends and relatives have deserted them. I heard in more than a few intake interviews that friends and family deserted these guys after failed promises and multiple imprisonments.
+Except for these guys. They can’t because their friends and relatives have deserted them. I heard in more than a few intake interviews that friends and family deserted these guys after failed promises and multiple imprisonments.
 
 We’d like to believe that those we care for will be there for us through thick and thin, but EVERYONE has a breaking point. Clearly, the families of these men had reached theirs and were willing to let them live on the street.
 
-### The difference between minimalism and poverty
+## 3) The difference between minimalism and poverty
 
 I cut up on minimalism a lot because I believe it’s most people justifying a lack of ambition or grit.
 
@@ -63,7 +64,7 @@ Whichever city they were in, they just found the homeless shelters and tried to 
 
 To me, this was a true minimalist lifestyle and is something that has always stuck with me.
 
-### Most of us are one paycheck away from disaster
+## 4) Most of us are one paycheck away from disaster
 
 I witnessed some tragic scenes at the homeless shelter. I saw more than one guy come in there who got laid off just a few weeks earlier. He couldn’t make the rent, had no savings, and so they evicted him. [Reality is both fair and cruel.](/life-isnt-fair/)
 
@@ -73,7 +74,7 @@ There are several stats about how most Americans [don’t have anything saved](h
 
 I'm inclined to believe they're true. If you don’t have anything saved, [work on building value and income streams](/stop-being-poor/) because being homeless is no way to live.
 
-### Some people wait for things to get better—others force the issue
+## 5) Some people wait for things to get better—others force the issue
 
 There were two ​18-year-old kids in the homeless shelter for about 3 weeks while I was there. I got to know them and learn their story.
 
