@@ -17,11 +17,7 @@ Although we are well beyond the age of swords, the strategic wisdom laid out in 
 
 I’ve quoted the 10 most powerful passages from the book on strategy, discipline, and combat that I believe anyone can get a lot out of today.
 
-{% include widgets/toc.html heading="The Book of Five Rings: 10 best quotes and ideas" list-items="The spirit of The Way and strategy, Deep ability vs shallow skill, Teachers need students; students need teachers, Perception is greater than sight, Change your perspective to solve problems, Life is a marathon; Not a track meet, Process versus outcome, Musashi teaches fundamental strategic principles" list-ids="the-spirit-of-the-way-and-strategy, deep-ability-vs-shallow-skill, teachers-need-students-students-need-teachers, perception-is-greater-than-sight, change-your-perspective-to-solve-problems, life-is-a-marathon-not-a-track-meet, process-versus-outcome, musashi-teaches-fundamental-strategic-principles" %}
-
----
-
-## The spirit of The Way and strategy
+## 1) The spirit of The Way and strategy
 
 > **Even if a man has no natural ability he can be a warrior by sticking assiduously to both divisions of the Way. Generally speaking, the Way of the warrior is resolute acceptance of death.**
 
@@ -39,7 +35,7 @@ Though Musashi talks of the acceptance of death here, this is simply the natural
 
 If you live strategically, it’s very difficult to have a problem. At the very least, it becomes nearly impossible to be surprised by them.
 
-### Deep ability vs shallow skill
+## 2) Deep ability vs shallow skill
 
 > **Recently there have been people getting on in the world as strategists, but they are usually just sword-fencers.**
 
@@ -54,7 +50,7 @@ Applied modernly, watch out for people who claim to have a deep general understa
 
 These people aren’t strategists. They’re just sword-fencers.
 
-### Teachers need students; students need teachers
+## 3) Teachers need students; students need teachers
 
 > **The teacher is as a needle, the disciple is as thread.**
 
@@ -74,7 +70,7 @@ Also, keep in mind that the difficulty of a task is irrelevant if it’s vital t
 
 The insistence on things being enjoyable is at best, a major weakness and at worst, a fatal liability.
 
-### Perception is greater than sight
+## 4) Perception is greater than sight
 
 > **Perception is strong and sight weak.**
 
@@ -86,11 +82,11 @@ If you are considered “perceptive”, then you’re capable of seeing more tha
 
 Aim to develop your perception so you aren’t fooled by what the world shows you.
 
-### Change your perspective to solve problems
+## 5) Change your perspective to solve problems
 
 > **In strategy it is important to see distant things as if they were close and to take a distanced view of close things.**
 
-When you can perceive a thing from all angles and distances, then all mysteries about it will vanish. Many people become stuck in their perception and are thus limited. It becomes impossible for them to ever see to understand a situation or person.
+When you can perceive a thing from all angles and distances, all mysteries will vanish. Many people become stuck in their perception and are thus limited. It becomes impossible for them to ever see to understand a situation or person.
 
 It may feel like more work to take a closer look when viewing from afar or to zoom out and in close, but it’s in this diligence of inspecting your surroundings that you’re able to learn as much as you can about them.
 
@@ -98,13 +94,13 @@ Approach people this way as well. View strangers as if they are close friends an
 
 {% include widgets/summary.html id="book-quotes" %}
 
-### Life is a marathon; Not a track meet
+## 6) Life is a marathon; Not a track meet
 
 > **Step by step walk the thousand-mile road.**
 
 Be patient and stay committed to your goal. This is another variation of the more popular saying, “The journey of 1000 miles begins with 1 step.” The idea is the same in both instances: it tends to take a while to accomplish something worthwhile, but you have to stay diligent and remain consistent.
 
-### Process versus outcome
+## 7) Process versus outcome
 
 > **Even if you kill an enemy, if it is not based on what you have learned it is not the true Way.**
 
@@ -114,7 +110,7 @@ The former condition is fixable and teachable. However, if you misinterpret luck
 
 Refining the processes tends to produce refined outcomes. The inverse doesn’t tend to be true.
 
-### Musashi teaches fundamental strategic principles
+## 8) Musashi teaches fundamental strategic principles
 
 > **Because you can win quickly by taking the lead, it is one of the most important things in strategy.**
 
