@@ -34,17 +34,17 @@ As reported in a new [Tendermeets](https://www.tendermeets.com/experts-talk/cele
 
 ![Making connections and conversation in Colombia](/assets/images/posts/ed-speaking-spanish.jpg "Making connections and conversation in Colombia")
 
-### Body Language Is The Secret Of Communication
+## Body language is the secret of communication
 
 > "The most important thing in communication is hearing what isn't said." - Peter F. Drucker
 
 If you can read body language, you have an incredible advantage in social situations. Whether it be talking to a group of people or having a deep one-on-one conversation, your communication will always excel. ***Why is this?***
 
-In 1971, Professor Albert Mehrabian published \*The Silent Message, \*a book that covers Mehrabian's research into communication. He discovered that body language carries approximately 55% of the information conveyed in communication. Tone of voice accounts for 38% and the words used are only responsible for 7%. ([Source](https://ubiquity.acm.org/article.cfm?id=2043156){: target="_blank"})
+In 1971, Professor Albert Mehrabian published \*The Silent Message, \*a book covering Mehrabian's communication research. He discovered that body language carries approximately 55% of the information conveyed in communication. Tone of voice accounts for 38% and the words used are only responsible for 7%. ([Source](https://ubiquity.acm.org/article.cfm?id=2043156){: target="_blank"})
 
 This means that if you can't read body language, you're missing *at* *least* half of what a person says to you during a conversation.
 
-It should be no surprise then that when it comes to starting a conversation, your body language is very important. You need to be able to both read body language and display body language that signals you are open to the possibility of small talk.
+It should be no surprise then that your body language is very important when it comes to starting a conversation. You need to be able to both read body language and display body language that signals you are open to the possibility of small talk.
 
 Instead of keeping your head down and protected, you should have your shoulders back, your head held high, and a small smile on your face. Think of this as keeping your body in an "open" position.
 
@@ -70,11 +70,11 @@ Whether you're introverted, extroverted, or somewhere in between, the rules are 
 * Interested in making new friends
 * Able to string together a few words to form a sentence
 
-The goal is to be open and receptive rather than closed and repulsive. If you keep this mind, your tone of voice and physical demeanor will reflect that state of mind.
+The goal is to be open and receptive rather than closed and repulsive. If you keep this in mind, your tone of voice and physical demeanor will reflect that state of mind.
 
 ***\*Bonus points: Keep your hands out of your pockets and definitely not behind your back like you’re in the military; that counts as closed body posture.***
 
-### Build Empathy And Make The Person Feel Like You Care
+## Build empathy and make the person feel like you care
 
 > "No one cares how much you know, until they know how much you care" - Theodore Roosevelt
 
@@ -118,7 +118,7 @@ In the first example, I used a personal story that revolves around the topic, bu
 
 Follow-up questions will arise naturally and before you know it you'll have a full-fledged conversation going.
 
-### Humor Is A Great Conversation Starter
+## Humor is a great conversation starter
 
 ***“I don't trust anyone who doesn't laugh.” –Maya Angelou***
 
@@ -139,13 +139,13 @@ Laughter makes it easier for us to connect and find common ground. If you can ma
 3. Be irreverent but not disrespectful
 4. Find the humor in little things in life
 
-These tips also works to create dating and pick up opportunities.
+These tips also work to create dating and pick-up opportunities.
 
 If you can mix humor and intrigue in your conversation, you don't need to [have underwear model looks to meet women](/how-to-be-an-attractive-man/).
 
 Instead, you can make women interested by leading the conversation, maintaining eye contact, and presenting great body language. Combine all of this with great humor. Old school pimps and players on the street call this "having a mouthpiece".
 
-If you have a good mouthpiece, you can open up many dating opportunities for yourself, even if you aren't the best looking guy.
+If you have a good mouthpiece, you can open up many dating opportunities for yourself, even if you aren't the best-looking guy.
 
 ***Warning: you don’t want to tell off-color jokes to someone that you just met.***
 
@@ -153,7 +153,7 @@ However, a little self-deprecating humor shows that you're self-confident enough
 
 If you can make a person laugh, then you can get them to open up to you. Sometimes the most powerful conversation starter is just commenting on your environment in a light and humorous way.
 
-### Asking For Help Skips The Small Talk
+## Asking for help skips the small talk
 
 > “There is nothing more beautiful than someone who goes out of their way to make life beautiful for others.”–Mandy Hale
 
@@ -171,7 +171,7 @@ This is more of a permanent method to start a conversation but more than that, i
 
 Whether you're at work or at school, you can ask anyone to explain anything they know and you don't. It can be as technical as a math problem, as benign as directions to a place, or common sense as figuring out an app on your phone. These all give you an excuse to get a conversation going and it's easy to follow up from there.
 
-### When All Else Fails, Give A Compliment To Get The Conversation Going
+### When all else fails, give a compliment
 
 "I can live for two months on a good compliment."–Mark Twain
 
@@ -188,7 +188,7 @@ Sometimes, that can be as simple as telling someone that you really like the shi
 
 If you're giving the compliment with a romantic intention, you can focus on things about a person's innate appearance or characteristics that you like. In this category are things like physical features and tone of voice.
 
-This may seem like an odd way to start a conversation, but if the person has any interest in talking to you, you'll immediately know.
+This may seem like an odd way to start a conversation, but you'll immediately know if the person has any interest in talking to you.
 
 ## A Summary Of The 5 Simple Ways To Start A Conversation
 
