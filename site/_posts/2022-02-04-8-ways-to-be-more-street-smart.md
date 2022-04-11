@@ -1,7 +1,7 @@
 ---
 date: 2022-02-04 21:40:00 -0500
 article_type: Article
-title: 8 ways to be more street smart
+title: 7 ways to be more street smart
 permalink: /how-to-be-street-smart/
 tags:
   - mental-toughness
@@ -36,11 +36,11 @@ There are several places in the real world where you need to be aware of how peo
 
 You can't learn how to be street smart from a book. You can't learn it in a classroom, from a podcast, or even this blog post. I can only show you how to prime your mind to be more street smart so you can better navigate real life and better navigate the people and obstacles in it.
 
-## 8 ways to be more street smart
+## 7 ways to be more street smart
 
 {% twitter https://twitter.com/EdLatimore/status/1284855583733166081 %}
 
-### Embrace experiential learning and making mistakes
+## 1) Embrace experiential learning and making mistakes
 
 Train yourself to learn from real experience because there are many things that you can only learn this way. Common sense and human nature can't be learned from a book because we tend to want to believe the best or the worst in people.
 
@@ -50,17 +50,17 @@ We go to extremes in this regard until we get corrected by the harsh forces in s
 
 The difference is that you can only become more street intelligent by gaining more experience rather than studying. You learn how to read body language by needing to do it to survive. You learn the difference between seductive and aggressive eye contact by trying to accomplish one of those goals, whether you succeed or fail.
 
-### Be comfortable with uncertainty
+## 2) Be comfortable with uncertainty
 
 You'll have to be a little confrontational with reality because you'll need to verify what your suspicions are.
 
 This could mean something as harmless as reading body language and asking if your guess about their conversation topic is correct. You may have to go on the offensive if you think a mugger is about to get the best of you. You may have to [get into a fight](/lessons-from-the-ghetto-willingness-to-fight/) to know that a fight is coming in the future.&nbsp;
 
-This is something that book smart people are uncomfortable with. They would like to be able to prove and predict everything before they move into a situation. Unfortunately for them, 100% certainty and guarantees are not representative of real life. &nbsp;
+This is something that book-smart people are uncomfortable with. They would like to be able to prove and predict everything before they move into a situation. Unfortunately for them, 100% certainty and guarantees are not representative of real life. &nbsp;
 
 You have to not only be comfortable with uncertainty, but you must also accept that an uncertain situation may lead to a confrontation.
 
-### Entertain different points of view
+## 3) Entertain different points of view
 
 It's important to expose yourself to different ideas.
 
@@ -72,19 +72,19 @@ You're not trying to understand yourself. You're trying to understand other peop
 
 If you can do that, you'll be able to predict what they're most likely to do, which is the core of street smarts: understanding the behavior of other humans.
 
-### Don't be afraid to admit that you're wrong
+## 4) Don't be afraid to admit that you're wrong
 
-It's only by admitting that you're wrong that you can ever figure out what the error is and get right. Most people would rather double down on incorrect information rather than swallow their ego and simply admit that they were wrong and try to correct themselves.
+It's only by admitting that you're wrong that you can ever figure out what the error is and get right. Most people would rather double down on incorrect information than swallow their ego and simply admit that they were wrong and try to correct themselves.
 
 Street smarts and ego don't mix because the ego prevents you from interacting with humans in a manner that will make you feel inferior. For example, you'll have to deal with many unknowns and many uncomfortable situations as you hone your street smarts and your social intelligence.
 
 But if you are unwilling to do that because we don't have a set formula, or rule to follow, then you'll never develop this type of intelligence. People will always be able to take advantage of you because you don't know better.
 
-### Don't force cherry-pick of force-fit information to align with your expectation
+## 5) Don't cherry-pick or force-fit information to align with your expectation
 
 {% twitter https://twitter.com/EdLatimore/status/1456741448943116288 %}
 
-Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider what the most likely motivation is for that action and mostly likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
+Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider what the most likely motivation is for that action and most likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
 
 An unfortunate condition of many people is that they would rather turn a blind eye to the truth if the truth makes them uncomfortable or defies a dearly held view of the world.
 
@@ -94,19 +94,19 @@ It may be hard to accept that a person means your harm (physical, mental, social
 
 You don't want to be fooled. You don't want to be naive. So you need to look at people with fresh eyes. And if you don't like what you see, you can't be afraid to confront it and do what's necessary to protect yourself.&nbsp;
 
-### Read between the lines of what's being said
+## 6) Read between the lines of what's being said
 
-Pay attention to what's&nbsp;***not***&nbsp;being said.Pay attention to anything said that's not important.
+Pay attention to what's&nbsp;***not***&nbsp;being said. Pay attention to anything said that's not important.
 
 You know you're being deceived when information that isn't important is emphasized and when information that is important is downplayed.&nbsp;
 
 When you learn to spot what isn't relevant, you give yourself a much greater chance of spotting this everywhere. This is a general training technique for picking up relevant information from the noise of daily life.
 
-Some of that noise is put there to intentionally distract you. Some of that noise is simply a byproduct of modern life. Regardless of the source, these things are there to keep you from focusing on what matters for handling a situation.
+Some of that noise is put there to intentionally distract you. Some of that noise is simply a byproduct of modern life. Regardless of the source, these things are there to keep you from focusing on what matters in handling a situation.
 
 {% twitter https://twitter.com/EdLatimore/status/1058486664266502145 %}
 
-### Study selling and marketing
+## 7) Study selling and marketing
 
 {% twitter https://twitter.com/EdLatimore/status/1328137438724829184 %}
 
