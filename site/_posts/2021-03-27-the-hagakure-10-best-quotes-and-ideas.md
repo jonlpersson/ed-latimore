@@ -18,11 +18,7 @@ It was written by Yamamoto Tsunetomo. a samurai in the early 18th century. He re
 
 A younger samurai that visited Yamamoto many times over the years wrote down his words in *The Hagakure: The Book of The Samurai.* After reading the book, I've collected the 10 most useful and instructive quotes from it.
 
-&nbsp;
-
-{% include widgets/toc.html heading="The Hagakure: 10 best quotes and ideas" list-items="The danger of trying to reinvent proven concepts, It's always easier to say than do, You attract more flies with honey than vinegar, The path from novice to master, Every saint has a past and every sinner has a future, You can judge a book by its cover, Live in the moment to get more out of life, Life is too short to entertain nonsense, Tsunetomo understood why you get haters&nbsp; " list-ids="the-danger-of-trying-to-reinvent-proven-concepts, its-always-easier-to-say-than-do, you-attract-more-flies-with-honey-than-vinegar, the-path-from-novice-to-master, every-saint-has-a-past-and-every-sinner-has-a-future, you-can-judge-a-book-by-its-cover, live-in-the-moment-to-get-more-out-of-life, life-is-too-short-to-entertain-nonsense, tsunetomo-understood-why-you-get-haters " %}
-
-### The danger of trying to reinvent proven concepts
+## 1\. The danger of trying to reinvent proven concepts
 
 > "Because we do most things relying only on our own sagacity we become self-interested, turn our backs on reason, and things do not turn out well."
 
@@ -32,7 +28,7 @@ Many social skills involving interpersonal relationships and communication, you 
 
 ![The hagakure on self-improvement](/assets/images/posts/2021/the-hagakure-better-a-better-man.png "Seek out mentors to get ahead. The samurai understood this hundreds of years ago.")
 
-### It's always easier to say than do
+## 2\. It's always easier to say than do
 
 > "To discover the good and bad points of a person is an easy thing, and to give an opinion concerning them is easy, too. For the most part, people think that they are being kind by saying the things that others find distasteful or difficult to say. But if it is not received well, they think that there is nothing more to be done. This is completely worthless. It is the same as bringing shame to a person by slandering him. It is nothing more than getting it off one's chest."
 
@@ -44,7 +40,7 @@ Another idea is also key in this quote: shame and brutal honesty are tools for c
 
 {% include widgets/summary.html id="book-quotes" %}
 
-### You attract more flies with honey than vinegar<br>&nbsp;
+## 3\. You attract more flies with honey than vinegar<br>&nbsp;
 
 > "Praise his good points and use every device to encourage him, perhaps by talking about one's own faults without touching on his, but so that they will occur to him. Have him receive this in the way that a man would drink water when his throat is dry, and it will be an opinion that will correct faults."
 
@@ -54,7 +50,7 @@ This takes more skill, tact, and diplomacy than simply pointing out faults, but 
 
 ***"A man convinced against his will, is of the same opinion still." - Benjamin Franklin***
 
-### The path from novice to master
+## 4\. The path from novice to master
 
 > "In one's life. there are levels in the pursuit of study. In the lowest level, a person studies but nothing comes of it, and he feels that both he and others are unskillful. At this point he is worthless. In the middle level he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others. At a higher level, he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows. This man has worth. At the highest level a man has the look of knowing nothing."
 
@@ -67,7 +63,7 @@ Progress and skill acquisition in all disciplines follow the same 4 steps.
 
 &nbsp;
 
-### Every saint has a past and every sinner has a future
+## 5\. Every saint has a past and every sinner has a future
 
 > "If we were to cast aside every man who had made a mistake once, useful men could probably not be come by. A man who makes a mistake once will be considerably more prudent and useful because of his repentance. I feel that he should be promoted.''
 
@@ -79,7 +75,7 @@ Making mistakes is part of being human. Even really bad mistakes. But these mist
 
 {% twitter https://twitter.com/EdLatimore/status/1183572859408527360 %}
 
-### You can judge a book by its cover
+## 6\. You can judge a book by its cover
 
 > "Whether speaking formally or informally, one should look his listener in the eye. A polite greeting is done at the beginning and finished. Speaking with downcast eyes is carelessness."
 
@@ -97,7 +93,7 @@ If you want to know who to trust, see if they look you in the eye during casual 
 
 Stop complaining about human nature and use it to your advantage. If you're not sure where to start then read my [No-BS guide to becoming an attractive man](/how-to-be-an-attractive-man/).
 
-### Live in the moment to get more out of life
+## 7\. Live in the moment to get more out of life
 
 > "There is surely nothing other than the single purpose of the present moment. A man's whole life is a succession of moment after moment. If one fully understands the present moment, there will be nothing else to do, and nothing else to pursue. Live being true to the single purpose of the moment."
 
@@ -109,7 +105,7 @@ When you commit to maximizing the present moment, then you experience unmatched 
 
 If you can do this for even one minute, then you have unlocked a secret that gives you a great advantage for the rest of your life.&nbsp;
 
-### Life is too short to entertain nonsense
+## 8\. Life is too short to entertain nonsense
 
 > "Human life is truly a short affair. It is better to live doing the things that you like. It is foolish to live within this dream of a world seeing unpleasantness and doing only things that you do not like. But it is important never to tell this to young people as it is something that would be harmful if incorrectly understood."
 
@@ -121,7 +117,7 @@ In general, younger people have always wanted things quickly, but everyone now d
 
 With that said, I think it's important to set up a life where can quickly get past a lot of necessary unpleasantness so you can devote more time to things that you find enjoyable for the few decades that you have on this planet.&nbsp; The sooner you're able to find a labor of love to toil away on, the sooner you will fall in love with life.
 
-### Tsunetomo understood why you get haters&nbsp;
+## 9\. Tsunetomo understood why you get haters&nbsp;
 
 > "People will become your enemies if you become eminent too quickly in life, and you will be ineffectual. Rising slowly in the world, people will be your allies and your happiness will be assured."
 
