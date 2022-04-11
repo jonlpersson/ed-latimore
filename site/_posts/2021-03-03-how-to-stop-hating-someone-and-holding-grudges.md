@@ -4,8 +4,8 @@ article_type: Article
 title: How to stop hating someone and holding grudges
 permalink: /how-to-stop-hating-someone/
 tags:
-  - relationship-building
   - how-to-control-your-emotions
+  - the-power-of-forgiveness
 description: >-
   When you hate someone, you’re drinking poison and expecting them to die. Learn
   how to stop hurting yourself with and get over your hate of others
