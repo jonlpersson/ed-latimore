@@ -34,7 +34,7 @@ When the focus shifts from the solution to the problem, the solution disappears 
 
 {% twitter https://twitter.com/EdLatimore/status/1125666394358591488 %}
 
-### 1) We want to avoid taking responsibility
+## 1) We want to avoid taking responsibility
 
 Complaining is what somebody does when they refuse to take responsibility. If complaining is a symptom, irresponsibility is the virus. Once infected, the host is likely to blame everyone and everything for their problems except themselves. Pessimistic attitudes and a victim complex inevitably follow.
 
@@ -47,7 +47,7 @@ All complaints, no matter how benign, send the same message:
 
 Like a young child incapable of shouldering adult responsibility, the complainer wishes on a star for a better future. They sit and wait for someone to handhold them through their problems instead of making a plan and doing the work.
 
-### 2) We think people care about our problems
+## 2) We think people care about our problems
 
 When people complain, they're operating under the belief that people care about their problems. They imagine that, through complaining, they make others sympathetic to their cause.
 
@@ -55,7 +55,7 @@ Few things are further from the truth. Most people are caught up in their own da
 
 Everyone is facing something. They don't have time to listen to the griping of someone else who can't handle reality.
 
-### 3) We forget that things could be worse
+## 3) We forget that things could be worse
 
 A third reason we complain is ingratitude. We forget that life can be a lot worse, and in fact is already a lot worse for many people—especially those forced to listen to others’ complaints.
 
