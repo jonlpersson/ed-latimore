@@ -174,4 +174,4 @@ As I always say, the rest is up to you.
 
 [^2]: Blum, Kenneth Blum. Badgaiyan, Rajendra D. Gold, Mark. _National Library of Medicine_. Hypersexuality Addiction and Withdrawal: Phenomenology, Neurogenetics, and Epigenetics_._ October 7, 2015. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/) (accessed March 27, 2022)
 
-[^3]: Nestler, EJ. Barrot, M. Self, D.W. _National Library of Medicine_. DeltaFosB: _A _sustained molecular switch for addiction. September 25, 2001. [https://pubmed.ncbi.nlm.nih.gov/11572966/#:~:text=DeltaFosB%2C%20a%20member%20of%20the,kinds%20of%20drugs%20of%20abuse](https://pubmed.ncbi.nlm.nih.gov/11572966/#:~:text=DeltaFosB%2C%20a%20member%20of%20the,kinds%20of%20drugs%20of%20abuse). (accessed March 28, 2022)
+[^3]: Nestler, EJ. Barrot, M. Self, D.W. [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/11572966/#:~:text=DeltaFosB%2C%20a%20member%20of%20the,kinds%20of%20drugs%20of%20abuse). DeltaFosB: _A _sustained molecular switch for addiction. September 25, 2001.(accessed March 28, 2022)
