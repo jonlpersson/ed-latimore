@@ -21,7 +21,7 @@ As men, the Porn Masturbation Orgasm (PMO) cycle can be just as vicious as those
 
 If you’ve been following the blog, I recently explained some [reasons you should definitely quit porn](https://edlatimore.com/reasons-to-quit-porn/):
 
-Businesses in the United States are losing close to $17 billion in productivity thanks to porn.[1^]
+Businesses in the United States are losing close to $17 billion in productivity thanks to porn.[^1]
 
 But what price can you place on your self-confidence, drive, and intimate relationships?
 
