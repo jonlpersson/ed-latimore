@@ -1,7 +1,7 @@
 ---
 date: 2022-04-10 14:45:06 -0400
 article_type: Article
-title: 'How to be an adult: 6 things to stop doing'
+title: 'How to be an adult: 6 major markers of adulthood'
 permalink: /how-to-be-an-adult/
 tags:
   - change-your-perspective
@@ -17,9 +17,9 @@ I don’t like the idea that you can be a 27-year-old, living at home, make terr
 
 I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult.
 
-The following are the 6 biggest markers of adulthood. If you're still doing any of these things, then you have a lot of work to do
+The following are the 6 biggest markers of adulthood.
 
-## You don’t rely on your parents for anything
+## 1\. You don’t rely on your parents for anything
 
 You're not an adult until you don't rely on your parents–in any way–for any of your daily expenses.
 
@@ -37,7 +37,7 @@ Even cultures that have many generations stay at home have a clear point where t
 
 If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that, like a child, your livelihood is their burden to bear until you grow up.&nbsp;
 
-## You don't blame your childhood for your adulthood
+## 2\. You don't blame your childhood for your adulthood
 
 You're not an adult until you stop blaming your childhood for your current deficiencies, weaknesses, and problems.
 
@@ -72,7 +72,7 @@ Instead of using these issues as an excuse for how my life was going (and it was
 
 Everyone goes through shit as a child that sets them back. The difference is that responsible adults deal with their childhood trauma so that it doesn’t deal with them.&nbsp;
 
-## You take responsibility for everything in your life
+## 3\. You take responsibility for everything in your life
 
 You're not an adult until you take responsibility for all parts of your life, for better or worse.
 
@@ -88,7 +88,11 @@ Yes, some of it’s not going to be in your favor.
 
 Your job is to look at all the ways you could have prevented the tragic outcome, learn from it, and don’t let it happen again.&nbsp;
 
-A while back, I wrote that there are three traits that keep a person from ever making progress in their life: They think they know it all, they lack humility, and they ***never take responsibility for anything***.
+A while back, I wrote that three traits keep a person from ever making progress in their life:
+
+1. They think they know everything
+2. They lack humility
+3. ***They never take responsibility for anything***
 
 If you don’t take responsibility, you’ll never take the time to understand how you contributed, which makes it impossible for you to correct yourself and improve your position.
 
@@ -98,7 +102,7 @@ The difference is that the child is young and still has time to learn. In fact, 
 
 Decisions that were almost certainly made because they would not (or could not) realize that they’re responsible for how their lives turn out.&nbsp;
 
-## You know how to delay gratification
+## 4\. You know how to delay gratification
 
 You're not an adult if you can't delay gratification in the pursuit of something greater.
 
@@ -120,7 +124,7 @@ Every good thing in life is the result of sacrificing immediate gratification fo
 
 If you feel like your growth has stunted and you aren’t making progress in life, it’s probably because you won’t suffer a little, delay gratification, and work to get on something more than a quick distraction from the unpleasantness of hard work.
 
-## You have emotional discipline
+## 5\. You have emotional discipline
 
 You aren’t an adult if you can’t control your emotions.
 
@@ -136,7 +140,7 @@ You’ll have to learn to regulate and express your emotions in a healthy manner
 
 No one wants to be the person who breaks their hand punching a hole in the wall because something didn’t go as planned.
 
-## You plan for the future
+## 6\. You plan for the future
 
 You aren’t an adult if you can’t or won’t make plans for the future.
 
