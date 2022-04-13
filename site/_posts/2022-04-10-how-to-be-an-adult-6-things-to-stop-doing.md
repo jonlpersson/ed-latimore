@@ -13,7 +13,9 @@ image: /assets/images/drafts/howtobeanadult.jpg
 ---
 Modern society has no defining ritual for transitioning into adulthood. In fact, it encourages a state of prolonged adolescence where no one really grows up. Millennials have been the biggest victims of this.
 
-I don’t like the idea that you can be a 27-year-old, living at home, make terrible decisions and be devoid of any life skills, but call yourself an adult because you can drink and vote. Being an adult means more than just your age.
+Modern society has no defining ritual for transitioning into adulthood.
+
+I don’t like the idea that you can be 27 years old, living at home, making terrible decisions, and being considered an adult because you can drink and vote. Being an adult is more than just your age.
 
 I worked backward, thinking of the childish traits and habits I saw displayed by people who are legal adults. I also thought about the things that held me back from feeling like a full-grown, competent adult.
 
