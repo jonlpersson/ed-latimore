@@ -4,7 +4,6 @@ article_type: Article
 title: From gaming addict to $60k/month
 permalink: /gaming-addiction/
 tags:
-  - overcoming-addiction
 image: /assets/images/posts/ camadair.jpg
 description: >-
   If you don’t have a purpose outside of videos games, it's easy to get addicted
