@@ -4,7 +4,7 @@ article_type: Article
 title: Why do I keep relapsing? (how to stop for good)
 permalink: /why-you-keep-relapsing/
 tags:
-  - overcoming-addiction
+  - porn-addiction-recovery
 description: >-
   Overcoming an addiction can be hard. But it doesn't have to be if you
   implement these four strategies for avoiding relapses.
