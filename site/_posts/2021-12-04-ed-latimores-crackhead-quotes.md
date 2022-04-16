@@ -4,7 +4,6 @@ article_type: Article
 title: 29 top crackhead quotes
 permalink: /crackhead-head-quotes/
 tags:
-  - overcoming-addiction
   - quotes-and-summaries
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
