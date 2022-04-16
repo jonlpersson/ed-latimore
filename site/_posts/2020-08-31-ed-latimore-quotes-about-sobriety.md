@@ -4,8 +4,8 @@ article_type: Article
 title: 53 original sobriety quotes for addiction recovery
 permalink: /ed-latimore-sobriety-quotes/
 tags:
-  - overcoming-addiction
   - quotes-and-summaries
+  - sober-life
 description: >-
   This is a collection of personal quotes I've made since getting sober in 2013.
   I hope these help someone struggling with their addiction as well.
