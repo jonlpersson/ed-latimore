@@ -4,7 +4,7 @@ article_type: Article
 title: 9 good reasons why it’s time to quit watching porn
 permalink: /reasons-to-quit-porn/
 tags:
-  - overcoming-addiction
+  - porn-addiction-recovery
 description: >-
   Even if you’re not addicted to porn, it still isn’t doing you any favors. Here
   are some good arguments to quit today
