@@ -4,7 +4,6 @@ article_type: Article
 title: How to quit smoking weed
 permalink: /how-to-quit-smoking-weed/
 tags:
-  - overcoming-addiction
 description: >-
   If you find yourself struggling to quit weed despite obvious consequences,
   then this guide is for you.
