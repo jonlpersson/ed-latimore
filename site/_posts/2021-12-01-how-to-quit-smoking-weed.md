@@ -4,6 +4,7 @@ article_type: Article
 title: How to quit smoking weed
 permalink: /how-to-quit-smoking-weed/
 tags:
+  - sober-life
 description: >-
   If you find yourself struggling to quit weed despite obvious consequences,
   then this guide is for you.
@@ -43,7 +44,7 @@ This article is for you if you find yourself struggling to quit weed despite obv
 
 **PS: This article doesn’t exist to persuade anyone to quit smoking weed.** I’ve created this article as a tool to aid you or a loved one if you know or suspect you need to quit marijuana but can’t do it on your own. I’m not a doctor or medical professional. I’m just a guy who wrestled with marijuana dependence for ten years and made it out the other side happier and healthier.
 
-{% include widgets/toc.html heading="How to quit smoking weed" list-items="Know that it&rsquo;s not about weed, Replace the rituals and rewards, Weigh the pros and cons, Consider using CBD instead" list-ids="1-its-not-about-weed-addiction-is-a-coping-mechanism, 2-replace-the-rituals-and-rewards, 3-do-a-cost-benefit-analysis, 4-consider-using-cbd" %}
+{% include widgets/toc.html heading="How to quit smoking weed" list-items="Know that it’s not about weed, Replace the rituals and rewards, Weigh the pros and cons, Consider using CBD instead" list-ids="1-its-not-about-weed-addiction-is-a-coping-mechanism, 2-replace-the-rituals-and-rewards, 3-do-a-cost-benefit-analysis, 4-consider-using-cbd" %}
 
 ## Weed has changed
 
