@@ -4,7 +4,7 @@ article_type: Article
 title: You can't force relationships to develop
 permalink:
 tags:
-  - relationship-building
+  - dating-and-relationships
 image: /assets/images/posts/ShotgunWedding.jpg
 description: >-
   Learn why you can't force love. Impatient, insecure, or damaged people try to
