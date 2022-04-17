@@ -4,7 +4,7 @@ article_type: Article
 title: 8 ways to finally get over someone you loved
 permalink: /how-to-get-over-someone/
 tags:
-  - relationship-building
+  - dating-and-relationships
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
 description: >-
   Experience and experiments combine to teach you how to get over someone who's
