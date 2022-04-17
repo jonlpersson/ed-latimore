@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to quit drinking: 8 things to know'
 permalink: /8-things-to-know-if-you-want-to-quit-drinking/
 tags:
-  - overcoming-addiction
+  - sober-life
 image: /assets/images/posts/ed-drunk.jpg
 description: >-
   You’ve heard that quitting drinking and getting sober can change your life. In
