@@ -5,6 +5,7 @@ title: 29 top crackhead quotes
 permalink: /crackhead-head-quotes/
 tags:
   - quotes-and-summaries
+  - learn-about-crackheads
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
