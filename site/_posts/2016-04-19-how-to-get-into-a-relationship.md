@@ -4,7 +4,7 @@ article_type: Article
 title: How to get into a relationship
 permalink: /how-to-get-into-a-relationship/
 tags:
-  - relationship-building
+  - dating-and-relationships
 image: /assets/images/posts/ed-with-anna.jpg
 description: >-
   If you can't spot the red flags, you're in big trouble. This article teaches
