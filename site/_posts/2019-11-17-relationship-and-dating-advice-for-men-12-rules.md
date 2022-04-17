@@ -4,7 +4,7 @@ article_type: Article
 title: 'Relationship and dating advice for men: 12 rules'
 permalink: /relationship-advice/
 tags:
-  - relationship-building
+  - dating-and-relationships
 image: /assets/images/posts/edandannamexico.jpeg
 description: "Not every guy wants to be a lifelong playboy, so I’m here to teach men\_how to have a happy relationship."
 ---
