@@ -4,7 +4,7 @@ article_type: Article
 title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
   has any one of these, you better end it immediately.
@@ -20,8 +20,6 @@ Some of these are absolute deal breakers for any relationship, whether it be pla
 
 This list isn’t exhaustive. There are other warning signs, but these are the 10 major red flags in men.
 
-{% include widgets/toc.html heading="10 major relationship red flags in men" list-items="No job/can’t hold a job/no legal source of income, No real profession, No plans or goals he’s taking action towards, Substance or alcohol abuse, No savings and/or excessive non-education debt, All of his exes are narcissists, Multiple baby mommas, No friends, Always late, Male feminists" list-ids="no-job-cant-hold-a-job-or-no-legal-source-of-income, no-real-profession, no-plans-or-goals-hes-taking-action-towards, substance-or-alcohol-abuse, no-savings-andor-excessive-non-education-debt, all-of-his-exes-are-narcissists-have-bipolar-disorder-or-have-some-mental-health-issue, multiple-baby-mommas, no-friends, always-late, male-feminists" %}
-
 ## No job, can’t hold a job, or no legal source of income
 
 The obvious exceptions are students, assuming he isn’t majoring in nonsense.
@@ -30,7 +28,7 @@ This also doesn’t include guys who are recently laid off but are looking for w
 
 Lastly, this doesn’t include your guys who do cyclical work (assuming their bills are covered in the interim).
 
-This is about the guy who is in a constant state of unemployment. This is the guy who gets hired and fired at some place new every 4-5 months.
+This is about a guy who is in a constant state of unemployment. This is the guy who gets hired and fired at someplace new every 4-5 months.
 
 I’m not saying that he needs to be rich. He doesn’t even have to be middle class. But he needs to have the maturity to realize that he needs to work and not survive off of other people's labor. This parasitic survival could be a guy living with his parents, collective government assistance, or breaking the law to survive. Check out my [6 signs of maturity](/signs-of-maturity/) for more on this.
 
@@ -42,18 +40,18 @@ I had to stop hanging out with a childhood friend after he brought his gun to an
 
 There's a world of difference between having a profession and having a job. However, the main differences are in the following table:
 
-| Job  | Profession |
+| Job | Profession |
 | --- | --- |
-| Paid hourly  | Paid salary |
-| Generic title  | Specific distinction |
-| Easily interchangeable with another body  | Requires specialized training and knowledge |
-| Little or no room for advancement (income and/or responsibility)  | Advancement is expected and time in correlates with income |
-| Nothing required  | Certification (not only a degree) required |
-| Short time horizon  | Long time horizon |
-| No status or negative status  | Positive status |
-| Professional reputation does not affect other employment prospects  | Professional reputation is built, nurtured, and is important |
+| Paid hourly | Paid salary |
+| Generic title | Specific distinction |
+| Easily interchangeable with another body | Requires specialized training and knowledge |
+| Little or no room for advancement (income and/or responsibility) | Advancement is expected and time in correlates with income |
+| Nothing required | Certification (not only a degree) required |
+| Short time horizon | Long time horizon |
+| No status or negative status | Positive status |
+| Professional reputation does not affect other employment prospects | Professional reputation is built, nurtured, and is important |
 
-In short, a career sets you up for a long term path while a job is just a placeholder in your life. It sets a guy up to bear the burden of masculinity, shoulder responsibility, learn skills, and develop himself.
+In short, a career sets you up for a long-term path while a job is just a placeholder in your life. It sets a guy up to bear the burden of masculinity, shoulder responsibility, learn skills, and develop himself.
 
 While it makes him a productive member of society, it’s not only about that. It’s about self-development, maturity, and self-sufficiency.
 
@@ -81,7 +79,7 @@ They don’t have to be massive, change the world type goals. They don’t even 
 * **They’re objectively measurable**. Inner peace and self-confidence is nice, but a lot of that comes from being more competent at something.
 * **They force interaction in the physical world.** Even if you make money from them, video games don’t count, largely because the cost of getting talented enough to make money far exceeds the value gained from the journey.
 
-If a man doesn’t have any goals or plans that fit these 5 categories, he’s will either be an active liability or a passive drag. He won't bring you up because he has nothing to bring himself up with.
+If a man doesn’t have any goals or plans that fit these 5 categories, he will either be an active liability or a passive drag. He won't bring you up because he has nothing to bring himself up with.
 
 In other words, you don’t want to be around a guy who just goes to work, comes home, and plays video games.
 
@@ -97,11 +95,11 @@ Hard drugs are anything you have to cook, cut, stretch, or compress. Within the 
 
 ![ed latimore hard drug use](/assets/images/posts/2021/ed-latimore-doing-drugs.jpg "ed latimore hard drug use"){: width="480" height="320"}
 
-If you see a man use hard drugs, you should limit your time around that man as much as possible. Nothing good will come of this relationship, even if they claim only to be casual user; because you don’t remain a casual user of hard drugs for long.
+If you see a man use hard drugs, you should limit your time around that man as much as possible. Nothing good will come of this relationship, even if they claim only to be casual users; because you don’t remain a casual user of hard drugs for long.
 
 As for marijuana, my advice is to proceed with caution.
 
-It’s one thing if a person occasionally enjoys a smoke. It’s a different story entirely if they \*have\* to use it every day. Not only is that an addiction (by definition), it’s also likely a way to cope with other issues. The same thing is true for alcohol.
+It’s one thing if a person occasionally enjoys a smoke. It’s a different story entirely if they \*have\* to use it every day. Not only is that an addiction (by definition), but it’s also likely a way to cope with other issues. The same thing is true for alcohol.
 
 I happen to be sober, but my life was nothing worthwhile when I was abusing alcohol. In fact, I exhibited many of the red flags listed here. Having a few drinks occasionally is not a problem. Getting blackout drunk constantly around people is a big deal and you need to limit your time around—or outright get rid of—this person. And yes, it's possible to have fun and socialize sober, more on how to do that [here](https://edlatimore.com/how-to-have-fun-and-socialize-sober/).
 
@@ -117,7 +115,7 @@ A guy with no money saved and a lot of non-student loan debt is signaling to the
 
 For example, he could have just gotten a new car, apartment, and furniture to go in it. But a guy who is 35 and is still living beyond his means and saving nothing is signaling that he will not be reliable in a romantic relationship and is bad with money.
 
-Ultimately, debt signals that you can’t support yourself. No matter why you have it, the basic you need it to accomplish something you're incapable of accomplishing alone. The debt you owe on a degree (depending on the degree) is one thing, but excessive consumer or legal debt is a huge red flag.
+Ultimately, debt signals that you can’t support yourself. No matter why you have it, it signals that you need help to accomplish something you're incapable of accomplishing alone. The debt you owe on a degree (depending on the degree) is one thing, but excessive consumer or legal debt is a huge red flag.
 
 The idea with education debt is that it was an investment into your future. The same goes for a debt you take on to start a business. The debt is a bet on yourself that eventually, you'll be able to pay it back.
 
