@@ -16,8 +16,6 @@ But how can you really know if you’re an attractive dude if it’s not blatant
 
 Keep reading to discover how to tell if you're an attractive guy and what to do if you’re not.
 
-{% include widgets/toc.html heading="Signs you&rsquo;re an attractive guy" list-items="People are surprised when you talk about your challenges, Body language, People seek your advice, You believe you can improve, You've taken the Red Pill, You have a personal style, You understand the other aspect of attractiveness, What to do if you're not that good-looking" list-ids="1-people-are-surprised-when-you-talk-about-your-challenges, 2-body-language, 3-people-seek-your-advice, 4-you-believe-you-can-improve, 5-youve-taken-the-red-pill, 6-you-have-personal-style, 7-you-understand-the-other-aspect-of-attractiveness" %}
-
 ## What do women find attractive?
 
 Before we get into the signs that you're definitely a good-looking guy, I want to talk a little about what women find attractive.
