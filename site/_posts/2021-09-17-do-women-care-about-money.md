@@ -4,7 +4,7 @@ article_type: Article
 title: Do women care about money? 7 reasons the answer is yes
 permalink: /do-women-care-about-money/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Are all women gold-diggers? Here's why money is so important to the opposite
   sex
