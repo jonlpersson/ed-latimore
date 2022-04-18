@@ -4,7 +4,7 @@ article_type: Article
 title: How to argue less in your relationship
 permalink: /how-to-stop-arguing-in-relationships/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Discover how to stop frequent, ineffective arguments and build a healthy,
   happy relationship.
