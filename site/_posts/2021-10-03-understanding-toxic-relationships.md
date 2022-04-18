@@ -4,7 +4,7 @@ article_type: Article
 title: Understanding toxic relationships
 permalink: /toxic-relationships/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Toxic relationships can be dangerous. Especially if you don't know that you're
   in one. Learn the signs of one and how to escape. This could save your life.
