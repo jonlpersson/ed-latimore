@@ -4,7 +4,7 @@ article_type: Article
 title: How to take the lead in a relationship
 permalink: /how-to-take-the-lead-in-a-relationship/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Whether you're single or have been married for years, here's how to be a
   leader in your relationship.
