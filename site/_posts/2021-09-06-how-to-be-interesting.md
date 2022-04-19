@@ -5,6 +5,7 @@ title: How to be the most interesting man in any room
 permalink: /how-to-be-interesting/
 tags:
   - relationship-building
+  - how-to-make-friends
 description: >-
   Discover actionable steps you can take to be more interesting, expand your
   mind, and tap into a life you can get excited about
