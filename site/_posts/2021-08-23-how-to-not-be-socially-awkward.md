@@ -4,7 +4,8 @@ article_type: Article
 title: Socially awkward? Here's how to get over it
 permalink: /how-to-not-be-socially-awkward/
 tags:
-  - relationship-building
+  - how-to-make-friends
+  - dating-and-relationships
 description: Stop overthinking every conversation and learn how to not be socially awkward.
 image: /assets/images/thumbnails/ed-latimore-socializing.jpg
 ---
@@ -21,8 +22,6 @@ If you’re like the unlucky few, you may not even notice you’re socially awkw
 If making eye contact or talking face-to-face makes your heart race,
 
 These 7 steps to not be socially awkward are for you.
-
-{% include widgets/toc.html heading="How to not be socially awkward" list-items="Monitor your self-talk, Skip the alcohol, Avoid trying to be likeable, Get to a place where you don&rsquo;t hate it, Create an alter ego, Take a friend, Get curious about other people" list-ids="1-monitor-your-self-talk, 2-don&rsquo;t-use-booze-as-a-crutch, 3-avoid-trying-to-be-likable, 4-practice-until-you-don&rsquo;t-hate-it, 5-use-the-power-of-an-alter-ego, 6-take-a-friend, 7-get-curious-about-other-people" %}
 
 ## What causes awkwardness
 
@@ -48,7 +47,7 @@ You get a coach if you want to get good at sports. You get a tutor to get better
 
 ![ed latimore surrounded by fellow dudes conversating](/assets/images/posts/2021/ed-holding-court.jpg) Understanding social norms helps you navigate social situations with more relative ease. With just a few adjustments in behavior, you can move big awkward mountains. The 7 steps below will help you get there.
 
-### 1\. Monitor your self-talk
+## 1\. Monitor your self-talk
 
 One of the reasons you feel awkward in public is because you don't know what's expected of you from others. You start to fidget, you cut yourself off when talking, and you look and act nervous.
 
@@ -62,7 +61,7 @@ It's normal to feel a little self-conscious at times. But you don't have to beat
 
 Stop thinking about everything that could go wrong and try to relax. Easier said than done, I know. But when you're in the moment, you can respond to what’s actually happening instead of what you think is happening.
 
-### 2\. Don't use booze as a crutch
+## 2\. Don't use booze as a crutch
 
 This is a big one so read it twice. Using alcohol to be comfortable in social settings will make it hard to be comfortable without it.
 
@@ -72,7 +71,7 @@ It wasn’t until I looked in the mirror and realized I wasn’t a man I could b
 
 If things get a little shifty and there's an awkward silence, let it be awkward. That’s where the magic happens.
 
-### 3\. Avoid trying to be likable
+## 3\. Avoid trying to be likable
 
 It's human nature to want to be admired and liked by others. But don’t go seeking others’ approval. This doesn't mean don't be charismatic. It also doesn’t mean try to make people hate you. All I mean is stop giving other people power over how you feel about yourself.
 
@@ -86,7 +85,7 @@ Putting people on a pedestal places them in a position to control your confidenc
 
 In turn, you are freer to make mistakes that might be awkward but don’t end your night. Actively avoiding approval-seeking behaviors curbs this.
 
-### 4\. Practice until you don't hate it
+## 4\. Practice until you don't hate it
 
 You don't have to love social settings unless that's your goal. But you can practice getting just ‘good enough’ at socializing so it doesn't cause a panic every time you're invited out.
 
@@ -96,7 +95,7 @@ These small things boost your ability to have easier interactions.
 
 And if you get invited somewhere, give yourself an out. Make a deal to stay for a period of time before you leave. You can also set a challenge for yourself to talk to a specific number of people. This allows you to track your progress.
 
-### 5\. Use the power of an alter ego
+## 5\. Use the power of an alter ego
 
 Some of the greatest athletes and musicians of our time tapped into an alter ego when they had to be on stage. Kobe Bryant had the Black Mamba. Mike Tyson had The God of War. Beyonce had Sasha Fierce.
 
@@ -110,7 +109,7 @@ Write down the traits you want to embody when you're socializing. What clothes d
 
 Then give it a name. That’s your alter ego.
 
-### 6\. Take a friend
+## 6\. Take a friend
 
 Walking up to a group of people and starting a conversation can get anyone’s heart racing. Bringing a friend with you to a social event will greatly decrease the pressure you feel to fit in.
 
@@ -118,7 +117,7 @@ A wingman, as it’s called, should be someone with more social skills than you.
 
 The right person will help you introduce yourself to others. You’ll also feel less awkward standing around not talking to anyone.
 
-### 7\. Get curious about other people
+## 7\. Get curious about other people
 
 When all else fails, fake your social skills. Ask people about themselves.
 
