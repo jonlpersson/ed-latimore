@@ -4,7 +4,7 @@ article_type: Article
 title: 8 steps to making friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
 tags:
-  - relationship-building
+  - how-to-make-friends
 description: >-
   Most peope have no idea how to make friends as an adult without alcohol.  In
   this article, I lay out how to make friends as an adult without the bar scene.
@@ -19,8 +19,6 @@ Just about every person on the face of the earth is one tweet, one status update
 Technology has made distant relationships close but close relationships distant.
 
 We could blame the lockdowns for social isolation, but really, that’s a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem. I’ll tell you why.
-
-{% include widgets/toc.html heading="How to make friends as an adult" list-items="Accept that you're bad at socializing, Don't make new friends at the bar, Be passionate about something, Find activities to build a social group around, Be an unselfish expert or an eager newbie, Get people to talk about their favorite things, Transition to socializing outside of the group, Step out of your comfort zone" list-ids="accept-that-youre-bad-at-socializing, dont-make-new-friends-at-the-bar, be-passionate-about-something, find-activities-to-build-a-social-group-around, be-an-unselfish-expert-or-an-eager-newbie, get-people-to-talk-about-their-favorite-things, transition-to-socializing-outside-of-the-group, step-out-of-your-comfort-zone" %}
 
 ## Accept that you're bad at socializing
 
