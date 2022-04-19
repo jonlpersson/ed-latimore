@@ -4,7 +4,7 @@ article_type: Article
 title: How to get closer to a friend
 permalink: /how-to-get-closer-to-a-friend/
 tags:
-  - relationship-building
+  - how-to-make-friends
 description: >-
   Tired of surface-level relationships? Here's how to be close friends with
   someone
@@ -14,25 +14,23 @@ We all want friends with benefits.
 
 ‘Life benefits’ that is.
 
-And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self worth, and your confidence.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self-worth, and your confidence.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 This is true for both adults and adolescents.
 
 So why is it that around the age of 25 we start losing friends?<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
-Well, one reason is, it’s harder because we’re more busy. Another reason is people start believing it’s not possible to find good friends.
+Well, one reason is, it’s harder because we’re busier. Another reason is people start believing it’s not possible to find good friends.
 
 But the truth is, you’re doing friendships wrong.
 
 Most friendships never develop past the casual stage. And if you do make a close friend, it’s due to proximity and entirely accidental.
 
-In this article, you’ll discover how to intentionally build stronger relationships and get closer to a friend.
-
-{% include widgets/toc.html heading="How to get closer to a friend" list-items="Are they close friend material?, Get the spark back, Ask better questions, Don&rsquo;t hold grudges, Don&rsquo;t just &lsquo;plan&rsquo; to hang out, Listen to their interests, Lay it all on the table" list-ids="1-know-what-kind-of-friend-youre-dealing-with, 2-inject-some-newness, 3-upgrade-your-conversations, 4-practice-forgiveness, 5-schedule-time-to-connect-on-a-regular-basis, 6-discover-their-passions, 7-show-up-with-vulnerability" %}
+In this article, you’ll learn how to intentionally build stronger relationships and get closer to a friend.
 
 ## 1\. Know what kind of friend you’re dealing with
 
-According to one study<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
+According to one study<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a>,</sup> a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
 
 We typically consider friends those unrelated to us but friend groups can include family and significant others as well. These are categorized into five general categories with the first being the closest:
 
