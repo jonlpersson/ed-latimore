@@ -4,8 +4,8 @@ article_type: Article
 title: How to be the most interesting man in any room
 permalink: /how-to-be-interesting/
 tags:
-  - relationship-building
   - how-to-make-friends
+  - dating-and-relationships
 description: >-
   Discover actionable steps you can take to be more interesting, expand your
   mind, and tap into a life you can get excited about
@@ -18,8 +18,6 @@ Instead of shark week, do sharks have a week dedicated to *you*?
 Have you ever parallel parked a train?
 
 If not, this article on how to become more interesting is for you.
-
-{% include widgets/toc.html heading="How to be more interesting" list-items="What makes a person interesting?, Be obsessively curious about other people, Fall down a curiosity rabbit hole, Adopt a path of continuous self-improvement, Take your brain off auto-pilot, Embrace your weird side, Breakup with your homies " list-ids="what-makes-a-person-interesting, be-obsessively-curious-about-other-people, fall-down-curiosity-rabbit-holes, adopt-a-path-of-continuous-self-improvement, take-your-brain-off-auto-pilot-and-think-for-yourself, embrace-your-weird, dump-your-friends" %}
 
 ## What makes a person interesting?
 
@@ -41,7 +39,7 @@ There’s no one way to be interesting but there are key ways I’ve seen that m
 
 Things you see all the time lose their novelty and with it your interest. Research suggests you [need a regular infusion of new things](https://brainworldmagazine.com/the-importance-of-novelty/) to live a long and healthy life. Without it, you begin to feel like you aren’t progressing and you also stop building valuable memories. The tips below will help you make better quality friends, explore new avenues, and build a life your former self would envy.
 
-### Be obsessively curious about other people
+## Be obsessively curious about other people
 
 One sure way to remain a boring person is to lack curiosity. A healthy curiosity of other people of different cultures and backgrounds compels you to ask better questions. You also treat each person like they have something valuable to contribute.
 
@@ -60,7 +58,7 @@ I can’t emphasize enough the importance of \_listening \_and \_responding \_in
 
 Asking better questions combined with active listening will help even shy introverts captivate a group of people.
 
-### Fall down curiosity rabbit holes
+## Fall down curiosity rabbit holes
 
 Becoming a more interesting person is about broadening your perspective.
 
@@ -78,7 +76,7 @@ What’s important is to find something that drives you. Fascinating people have
 
 For example, I’m passionate about helping young men learn to manage their emotions, approach life with more stoicism, and learn to think for themselves. I learned it the hard way battling alcoholism and overcoming growing up in the hood so you can learn it the easy way.
 
-### Adopt a path of continuous self-improvement
+## Adopt a path of continuous self-improvement
 
 While all animals eat, sleep, poop, and reproduce, self-development is unique to human beings. We're the only animals that can be aware that something is hurting us and actively change that behavior.
 
@@ -94,7 +92,7 @@ People who read fiction are [more empathetic towards others](https://labsites.ro
 
 Podcasts can do the same while also helping you discover different perspectives. Seeing the world through the various eyes of others is how you stop caring what a single person thinks of you.
 
-### Take your brain off auto-pilot and think for yourself
+## Take your brain off auto-pilot and think for yourself
 
 To the unacquainted, social media leads you to believe that everyone else has it all figured out. Their party is better than your party.
 
@@ -118,7 +116,7 @@ But you won’t be interesting to anyone simply parroting others’ thoughts and
 * Question your biases and why you feel what you feel
 * Consider the other perspectives
 
-### Embrace your weird
+## Embrace your weird
 
 Most people have awkward quirks. Embrace it knowing you’re not alone. Embracing your weirdness shows you have a sense of humor. This turns that weirdness into something that's endearing rather than something to be embarrassed about.
 
@@ -130,7 +128,7 @@ And he loved the striped, brightly colored ties that sent hoards of corporate ty
 
 Now, not everyone can pull off a fluorescent-colored suit, but you get what I mean. Lean into the things you like and make them work for you.
 
-### Dump your friends
+## Dump your friends
 
 Sometimes you can't expand who you are simply because you are stifled by the people you spend most of your time with. There are no new or better stories to be had because your group never does anything new. And more often than you’d think, that group of homies doesn't want to see you doing better than them.
 
