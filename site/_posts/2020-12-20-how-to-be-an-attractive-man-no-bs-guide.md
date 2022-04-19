@@ -4,7 +4,7 @@ article_type: Article
 title: How to be an attractive man (no-BS guide)
 permalink: /how-to-be-an-attractive-man/
 tags:
-  - relationship-building
+  - dating-and-relationships
 image: /assets/images/thumbnails/2020/ed-attractive.jpg
 description: >-
   What are the 20% of things responsible for 80% of your attractiveness and
