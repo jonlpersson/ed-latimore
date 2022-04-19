@@ -4,7 +4,7 @@ article_type: Article
 title: What to do when someone hates you for no reason
 permalink: /when-someone-hates-you-for-no-reason/
 tags:
-  - relationship-building
+  - how-to-make-friends
 description: >-
   Just because people don't like you, doesn't mean you have to dislike yourself.
   Here's what to if you have haters.
