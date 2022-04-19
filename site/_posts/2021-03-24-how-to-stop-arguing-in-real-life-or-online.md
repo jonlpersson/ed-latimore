@@ -4,7 +4,7 @@ article_type: Article
 title: How to stop arguing in real life or online
 permalink: /how-to-stop-arguing/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Stop arguing because you will never convince someone who isn’t interested in
   being convinced. Do the following instead.
