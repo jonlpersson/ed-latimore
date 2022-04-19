@@ -4,7 +4,7 @@ article_type: Article
 title: Why people hate you (5 most common reasons)
 permalink: /why-you-have-haters-even-if-you-arent-an-asshole/
 tags:
-  - relationship-building
+  - how-to-make-friends
 image: /assets/images/thumbnails/2021/jay-gatsby.png
 description: >-
   Having haters sucks, but it's part of life. In this article I not only tell
