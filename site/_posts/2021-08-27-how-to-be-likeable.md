@@ -11,13 +11,13 @@ description: >-
   likeable.
 image: /assets/images/posts/ed-speaking-spanish.jpg
 ---
-What’s the point in being likeable if people will just hate you for it?
+What’s the point in being likable if people will just hate you for it?&nbsp;
 
 There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true.
 
 The longer you live, you’ll inevitably come across someone who, for whatever reason, just isn’t your biggest fan. That’s okay.
 
-But where most people get this saying wrong is believing *because you can’t please everyone*, you’ll automatically make enemies when being your authentic self. They don’t believe likeability and authenticity go hand in hand.
+But where most people get this saying wrong is believing *that you’ll automatically make enemies when being your authentic self because you can't please everyone*. They don’t believe likeability and authenticity go hand in hand.
 
 If you’ve felt this way, you might even think *“why bother?”*
 
