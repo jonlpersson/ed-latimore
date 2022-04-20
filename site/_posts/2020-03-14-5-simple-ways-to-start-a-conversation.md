@@ -4,13 +4,14 @@ article_type: Article
 title: 5 ways to communicate and start a conversation
 permalink: /how-to-start-a-conversation/
 tags:
-  - relationship-building
+  - dating-and-relationships
+  - how-to-make-friends
 image: /assets/images/posts/ed-holding-court.jpg
 description: >-
   If you want to know how to talk to people, this article teaches five ways to
   connect with people and start a conversation.
 ---
-The goal of all conversations is connection.&nbsp;
+The goal of all conversations is connection.
 
 Whether we're delivering a speech, making small talk, or telling jokes, the objective is always to find some common ground to stand on. Human connection is arguably the most important part of life. Without forming bonds, life is meaningless.
 
@@ -30,7 +31,7 @@ The good news is that even if you're shy and have difficulty connecting with peo
 
 As reported in a new [Tendermeets](https://www.tendermeets.com/experts-talk/celebrities-who-use-online-dating.html){: target="_blank"} article, it is easier than ever to find a lover in this modern world with everyone being just a click or a swipe away. Even if you're just looking to find like-minded friends, the following tips will also work to build your platonic social network as well. If you want to know how to start a good conversation, just follow these steps.
 
-## &nbsp;
+##
 
 ![Making connections and conversation in Colombia](/assets/images/posts/ed-speaking-spanish.jpg "Making connections and conversation in Colombia")
 
