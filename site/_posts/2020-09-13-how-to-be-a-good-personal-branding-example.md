@@ -4,7 +4,7 @@ article_type: Article
 title: How to be a good personal branding example
 permalink: /personal-branding-examples/
 tags:
-  - money-skills
+  - how-to-build-an-audience
 description: >-
   What I’m about to share with you is authentic brand-building. It looks good
   and works even better.
