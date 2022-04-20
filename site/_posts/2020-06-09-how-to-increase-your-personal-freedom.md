@@ -4,7 +4,7 @@ article_type: Article
 title: How to increase your personal freedom
 permalink: /personal-freedom/
 tags:
-  - money-skills
+  - how-to-make-friends
 description: "There's no\_such thing\_as\_personal liberty\_without\_economic freedom. What's your level of personal freedom and how do you increase it? Read on to find out."
 image: /assets/images/misc/4-levels-of-personal-freedom/personalfreedom-1.jpg
 ---
