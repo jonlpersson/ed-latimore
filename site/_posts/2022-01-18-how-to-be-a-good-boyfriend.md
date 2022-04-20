@@ -4,7 +4,7 @@ article_type: Article
 title: How to be a better boyfriend
 permalink: /how-to-be-a-good-boyfriend/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: An unconventional look at how to be a good boyfriend.
 image: /assets/images/thumbnails/ed-with-girlfriend-anna.JPG
 ---
