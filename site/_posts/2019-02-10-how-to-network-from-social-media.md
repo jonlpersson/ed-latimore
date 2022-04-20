@@ -4,7 +4,7 @@ article_type: Article
 title: How to network from social media
 permalink: /how-to-network/
 tags:
-  - relationship-building
+  - how-to-make-friends
 image: /assets/images/posts/ed-with-friends-networking.jpg
 description: >-
   If you want to build a great professional network, don't follow traditional
