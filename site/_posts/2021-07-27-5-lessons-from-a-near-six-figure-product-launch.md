@@ -3,7 +3,8 @@ date: 2021-07-27 23:00:33 -0400
 article_type: Article
 title: 5 lessons from a near six-figure product launch
 permalink: /new-product-launch-lessons/
-tags: [money-skills]
+tags:
+  - how-to-build-an-audience
 description: >-
   I’m going to cover some things that I learned from this launch that I think
   will be useful to anyone looking to release a digital product.
@@ -16,8 +17,6 @@ I’m going to cover some things that I learned from this launch that I think wi
 In fact, I’d say that you can use these lessons to have a successful product launch—a physical product, a digital product, or even to promote your website.
 
 Let’s get started
-
-{% include widgets/toc.html heading="5 Lessons from a near six-figure product launch" list-items="Choose the platform that works best for your product launch, The best way to use your email list for a product launch, How to choose a launch partner and delegate responsibilities, How to manage affiliates and generate goodwill during your product launch, How to use urgency to make more money during your product launch" list-ids="choose-the-platform-that-works-best-for-your-product-launch, the-best-way-to-use-your-email-list-for-a-product-launch, how-to-choose-a-launch-partner-and-delegate-responsibilities, how-to-manage-affiliates-and-generate-goodwill-during-your-product-launch, how-to-use-urgency-to-make-more-money-during-your-product-launch" %}
 
 ## Choose the platform that works best for your product launch
 
