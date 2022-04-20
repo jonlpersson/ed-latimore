@@ -5,7 +5,7 @@ title: Strategies to be patient in a relationship
 permalink: /how-to-be-patient-in-a-relationship/
 tags:
   - how-to-control-your-emotions
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Win in love, overcome differences, and master life by learning how to be
   patient in a relationship.
