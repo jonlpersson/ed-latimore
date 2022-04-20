@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to tell a girl you like her (hint: you don’t)'
 permalink: /how-to-tell-a-girl-you-like-her/
 tags:
-  - relationship-building
+  - dating-and-relationships
 description: >-
   Feeling butterflies in your belly for a special girl? Here’s what to do before
   pouring out your heart
