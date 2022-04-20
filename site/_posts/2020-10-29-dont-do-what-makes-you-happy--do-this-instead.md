@@ -4,8 +4,8 @@ article_type: Article
 title: Don't do what makes you happy. Do this instead
 permalink: /do-what-makes-you-happy/
 tags:
-  - money-skills
   - change-your-perspective
+  - how-to-build-an-audience
 description: >-
   Most of us can't do what we love for money. That means we need a different way
   to find happiness through work. Read this to learn how.
