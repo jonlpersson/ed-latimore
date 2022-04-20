@@ -3,7 +3,8 @@ date: 2020-06-21 20:50:00 -0400
 article_type: Article
 title: The 5 parts of being an internet entrepreneur
 permalink: /how-to-become-an-internet-entrepreneur/
-tags: [money-skills]
+tags:
+  - how-to-build-an-audience
 description: >-
   Whichever way you go with building your own online business, you'll find
   something here that will help you make strides.
