@@ -4,7 +4,7 @@ article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
 tags:
-  - money-skills
+  - how-to-build-an-audience
 description: >-
   The Best Way to Tweet It merges Ed Latimore’s Twitter income generation
   strategies and Joshua Lisec’s persuasive writing system.
@@ -123,8 +123,6 @@ Ed and Joshua are not simply two dudes who charge money for a “course” just 
 * **Win The Click: The Best Way To Drive Traffic Off Twitter** wherein Ed and Joshua show you tweet-by-tweet what works to move followers off Twitter to read articles, subscribe to newsletters, buy physical and digital products, and book high-ticket services.
 
 #### [Get it here](https://gumroad.com/a/204305523/bSGOk){: target="_blank" rel="noopener noreferrer"}
-
-&nbsp;
 
 Join *The Best Way To Tweet It* by Sunday, October 25th at 11:59 p.m. Pacific Standard Time for only $129 and get these FREE bonuses:
 
