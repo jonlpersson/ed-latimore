@@ -22,8 +22,6 @@ The truth is, making friends gets more difficult the older you become unless you
 
 In this post, you’ll discover seven scenarios we all face that make developing new friendships hard. You’ll also learn some practical solutions to adapt.
 
-{% include widgets/toc.html heading="Practical reasons it&rsquo;s hard to make friends" list-items="You&rsquo;re an adult now, You have less organic chances, You think playtime is just for kids, You&rsquo;re jaded, You&rsquo;re highly educated, You&rsquo;re married with kids, Your social life is fake" list-ids="1-adult-responsibility, 2-a-lack-of-organic-opportunity, 3-not-appreciating-mindless-enjoyment, 4-becoming-jaded, 5-higher-education, 6-kids-and-intimate-relationships, 7-the-illusions-of-a-social-life" %}
-
 ## 1\. Adult responsibility
 
 One of the most obvious reasons it’s difficult to make new friends is simply because you don’t have as much free time in your schedule. Growing up you have more time to nurture new friendships. The most responsibility you had was school work and maybe household chores.
