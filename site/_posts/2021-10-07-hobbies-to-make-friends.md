@@ -4,7 +4,7 @@ article_type: Article
 title: Hobbies to make friends (and what to do once you're there)
 permalink: /hobbies-to-make-friends/
 tags:
-  - relationship-building
+  - how-to-make-friends
 description: How to stop being lonely and use hobbies to make new friends.
 image: /assets/images/thumbnails/ed-playing-chess-with-friend.jpeg
 ---
