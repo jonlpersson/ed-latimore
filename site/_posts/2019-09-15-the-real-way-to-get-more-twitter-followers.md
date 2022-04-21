@@ -3,7 +3,8 @@ date: 2019-09-15 00:00:00 -0400
 article_type: Article
 title: 7 proven ways to get more Twitter followers
 permalink: /how-to-get-more-twitter-followers/
-tags: [money-skills]
+tags:
+  - how-to-build-an-audience
 image: /assets/images/posts/Howtogetmorefollowersontwitter.jpg
 description: >-
   I've learned a lot about the Twitter algorithm by study, trial, and error. Now
