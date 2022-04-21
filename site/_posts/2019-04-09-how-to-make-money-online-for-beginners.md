@@ -3,7 +3,8 @@ date: 2019-04-09 16:06:00 -0400
 article_type: Article
 title: How to make money online for beginners
 permalink: /a-basic-bro-beginners-guide-to-making-money-online/
-tags: [money-skills]
+tags:
+  - how-to-build-an-audience
 image: /assets/images/posts/ed-pool.jpg
 description: >-
   In reality, there is no such thing as "making money online". There are merely
@@ -11,7 +12,7 @@ description: >-
 ---
 Learning how to make money online has changed my life.
 
-I don't have Lambos, yachts, and don't always fly first class.
+I don't have Lambos or yachts and don't always fly first class.
 
 If you want to be technical about it, I'm not even rich.
 
@@ -19,7 +20,7 @@ I have a small but significant amount of debt (a student loan). There are things
 
 So if you're hoping to learn how I made a million dollars last year from my laptop only working 4 hours a day, you'll be disappointed.
 
-However, if you want to learn how I made six-figures online in 2018 working about 20 hours a week on average, then read on. Even if you only learn how to make extra money from blogging, this know-how has the potential to [change your life](/change-your-life/).
+However, if you want to learn how I made six figures online in 2018 working about 20 hours a week on average, then read on. Even if you only learn how to make extra money from blogging, this know-how has the potential to [change your life](/change-your-life/).
 
 ***\[Read: [How to become an internet entrepreneur](/how-to-become-an-internet-entrepreneur/)\]***
 
@@ -60,9 +61,7 @@ Virtually every physical store today has an online presence, regardless of what 
 
 And that's the beauty of making money online. There's no "one" way to do it.
 
-But just like an offline business, online business is governed by a basic set of principles. Beginners don't know them, so this guide is here for the general principles from the ground up.
-
-{% include widgets/toc.html heading="How to make money online: The beginners guide" list-items="Marketing, Sales, Product, Networking" list-ids="1-marketing, 2-sales, 3-product, 4-networking" %}
+But just like an offline business, an online business is governed by a basic set of principles. Beginners don't know them, so this guide is here for the general principles from the ground up.
 
 ## 1\. Marketing
 
@@ -102,7 +101,7 @@ The followers of a keto blog probably don't care about veganism. If you're selli
 
 Marketing is all about playing the attention game. The more attention you have, the more money you stand to make. But even with all the attention in the world, you still need to motivate people to take action and hand over their hard-earned cash.
 
-The way you do that is sales.
+The way you do that is through sales.
 
 ## 2\. Sales
 
@@ -112,13 +111,13 @@ Now how do you get them to part with their cash?
 
 [This is the domain of sales.](/new-product-launch-lessons/)
 
-The difference between marketing and sales is simple: marketing is the delicious bait, sales is the hook buried within.
+The difference between marketing and sales is simple: marketing is the delicious bait and sales is the hook buried within.
 
 The job of a salesman is to get people to buy. They're the soldiers in the trenches doing battle with the customer's fears and objections.
 
 You most likely won't have a team of salesmen at your disposal, at least when starting out. Instead, you'll be an army of one.
 
-The way I see things, there are two general methods to online sales:
+The way I see things, there are two general methods for online sales:
 
 1. You can be a walking billboard demonstrating the results of your product or service
 
@@ -168,11 +167,11 @@ What I'm about to say may seem obvious, but I've learned that common sense isn't
 
 It can be a digital good, a physical good, or a service. It can be yours or someone else's.
 
-In my case, I sell all of the above. The books I write and sell are available as physical copies and as e-books. I help promote the products I use (like the [Wim Hof breathing course](/wim-hof-method-review/) or the [Gorilla Mind Rush nootropic stack](/review-of-the-gorilla-mind-rush-is-it-effective/)) and in exchange I receive a small sales commission. I offer my services as a social media consultant, specifically on Twitter.
+In my case, I sell all of the above. I write and sell books that are available as physical copies and as e-books. I help promote the products I use (like the [Wim Hof breathing course](/wim-hof-method-review/) or the [Gorilla Mind Rush nootropic stack](/review-of-the-gorilla-mind-rush-is-it-effective/)) and in exchange, I receive a small sales commission. I offer my services as a social media consultant, specifically on Twitter.
 
 ![Content I make money online with](/assets/images/posts/4packrightsize.png "Products of mine that I've sold to make a decent living online")
 
-These are all different products and services, but what they have in common is that they solve a certain pain-point or provide some sort of value to people.
+These are all different products and services, but what they have in common is that they solve a certain pain point or provide some sort of value to people.
 
 Figure out what you can sell that would be of value to others.
 
@@ -186,7 +185,7 @@ By this, I don't mean "network marketing".
 
 I mean your social and professional network. The people that you can reach out to directly, and by extension the people that you can reach by way of introduction.
 
-The only thing that matters is the number of people that you have a direct connection to:
+The only thing that matters is the number of people that you have a direct connection with:
 
 * Your friends and family
 
