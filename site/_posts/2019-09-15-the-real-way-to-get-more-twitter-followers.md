@@ -26,21 +26,21 @@ Before I tell you how to get more followers, let me tell you why you should list
 
 Why should you listen to what I have to say about getting followers on Twitter?
 
-Because I have skin in the game. I practice what I preach and I walk what I talk. I have the more Twitter followers than many celebrities and politicians, yet I am neither.
+Because I have skin in the game. I practice what I preach and I walk what I talk. I have more Twitter followers than many celebrities and politicians, yet I am neither.
 
 My Twitter account is proof that I know what I’m talking about.
 
-* I currently have 130k+ followers
+* I currently have 180k+ followers
 * My tweets get more than 25 million impressions per month
 * In the past 2 years, I’ve only had 3 months where I didn’t gain 2k+ new followers.
 * Starting in November of 2019, I've gained more than 3.5k followers per month.
 * In the past year, I’ve had 3 months where I got more than 5k new followers
 * I gain an average of 72 new followers a day
-* My follower to follow ratio is a whopping 130:1
+* My follower to following ratio is a whopping 130:1
 
 Most would be social media influencers would kill for these numbers on Twitter. But Twitter is a unique beast that your average Instagram model doesn't have the patience to figure out what to do to get or even maintain more followers.
 
-Twitter users are different. Twitter bios are different. Creating a Twitter profile that does these type of numbers is no easy task, but I've got you covered.
+Twitter users are different. Twitter bios are different. Creating a Twitter profile that does these types of numbers is no easy task, but I've got you covered.
 
 ![Screenshot of Ed Latimore's Twitter profile](/assets/images/posts/2019/twitter-profile-135.png)
 
@@ -64,8 +64,6 @@ But first, here is what I&nbsp;*won't*&nbsp;be discussing in this Twitter articl
 
 Now that you know what's not going to be in the article, we can cover what you can do to grow here. After following this advice, who knows what will happen? You might even pass me one day.
 
-{% include widgets/toc.html heading="7 proven ways to get more Twitter followers" list-items="Write valuable high-quality content, Post your personal insights, Be yourself , Be polarizing, Retweet your best tweets, Use media in your tweets, Reply to mentions from people" list-ids="1-write-valuable-high-quality-content, 2-post-your-personal-insights, 3-be-yourself , 4-be-polarizing, 5-retweet-your-best-tweets, 6-use-media-in-your-tweets, 7-reply-to-mentions-from-people" %}
-
 ## 1) Write valuable high-quality content
 
 People always want value.
@@ -76,7 +74,7 @@ Value is a simple concept to understand and easy to deliver via Twitter. To deli
 
 * Educate people on how to solve a problem
 * Entertain people so they’re distracted from their problems
-* Actually solve the problem yourself
+* Solve the problem yourself
 * Inspire people
 
 If you use your Twitter account to help people laugh, learn, or leverage things, you’ll have no problem getting more followers. When potential followers visit your Twitter feed, they are much more likely to hit the follow button and become a supporter.
@@ -103,11 +101,11 @@ You have to remember that no one can compete with you.
 
 Getting more followers on Twitter comes down to how well you build and manage the authentic presentation of your personality and reputation.
 
-More colloquially, this is known as your “Personal Brand”. Twitter is the easiest place there is to build a personal bland.
+More colloquially, this is known as your “Personal Brand”. Twitter is the easiest place there is to build a personal brand.
 
 ***\[Here's a great article to learn about building your personal brand, not just on Twitter but across the internet—&gt;[Learn how to build a profitable personal brand](/how-to-build-a-personal-brand/)\]***
 
-No one can compete with you in being you. From this excellent article (Victor shut his site down, but I pulled the quote before hand) by Victor Pride titled, “You Inc., The Incredible Way You Can Make Money Being Yourself”:
+No one can compete with you in being you. From this excellent article (Victor shut his site down, but I pulled the quote beforehand) by Victor Pride titled, “You Inc., The Incredible Way You Can Make Money Being Yourself”:
 
 > My business is me and I am my business and there is no separation and that's the way you run You, Inc. I'm set for eternity because I lived the "nothing but B&D" mentality.
 
@@ -123,15 +121,15 @@ If you’re living true to yourself, your Twitter will resonate with authority. 
 
 If you’re an intelligent and open-minded person, this section is going to annoy you.
 
-That’s OK, because reality doesn’t care about how you feel—only what works. The thing that works best for building big engagement on Twitter is speaking as if your opinion is fact.
+That’s OK because reality doesn’t care about how you feel—only what works. The thing that works best for building big engagement on Twitter is speaking as if your opinion is a fact.
 
-This means that you don’t prep your generalizations with “some people” and you don’t even remotely consider the possibility that there are exceptions to the rule, some of which may be major. You speak in an absolute, authoritarian tone about things which are obviously opinions.
+This means that you don’t prep your generalizations with “some people” and you don’t even remotely consider the possibility that there are exceptions to the rule, some of which may be major. You speak in an absolute, authoritarian tone about things that are obviously opinions.
 
 This is the proper way to be polarizing on Twitter. Polarization forces people to choose one side or another. Speaking in absolutes is the definition of polarization.
 
 In a situation where two different interpretations could be true depending on a variety of variable factors, speaking in absolutes is taking a side and ignoring the merits of the other side.
 
-The naturally open-minded or intelligent will be bothered by this particular Twitter technique because they realize something: the most reasonable answer is neither black or white, but a gray of varying intensity.
+The naturally open-minded or intelligent will be bothered by this particular Twitter technique because they realize something: the most reasonable answer is neither black nor white, but a gray of varying intensity.
 
 But polarization works because people will retweet you in agreement, or quote tweet you to disagree. This exposes you to more people, many of whom will follow you as an absolute authority.
 
@@ -145,7 +143,7 @@ This is extremely useful because tweets otherwise have an extremely short half-l
 
 There are ways to increase the likelihood that your tweets are seen and thus engaged with, but I’ll cover that in another section. For now, don’t be afraid to hit the retweet button on your own content.
 
-*(\*Note\*: This is not to be interpreted as “Retweet the exact same content.” That is against Twitter’s terms of use of service.)*
+*(\*Note\*: This is not to be interpreted as “Tweet the exact same content.” That is against Twitter’s terms of use of service.)*
 
 Quote tweet your own tweet with commentary to get even more followers
 
@@ -161,9 +159,9 @@ If they *also* happen to strongly interact with the quote tweet, that’s a bonu
 
 ## 6) Use media in your tweets
 
-According to Twitter, posts that make use of gifs or images have engagement rates that 35% higher than text alone. [You can read more about this on Twitter's blog.](https://blog.twitter.com/official/en_us/a/2014/what-fuels-a-tweets-engagement.html){: target="_blank" rel="noopener noreferrer"}
+According to Twitter, posts that make use of gifs or images have engagement rates that are 35% higher than text alone. [You can read more about this on Twitter's blog.](https://blog.twitter.com/official/en_us/a/2014/what-fuels-a-tweets-engagement.html){: target="_blank" rel="noopener noreferrer"}
 
-This means that people are 3x more likely to retweet, like, comment, and share your stuff. Which in turn means that you are more likely to be followed.
+This means that people are 3x more likely to retweet, like, comment and share your stuff. Which in turn means that you are more likely to be followed.
 
 Memes and gifs have the potential to skyrocket your follower count.
 
@@ -177,7 +175,7 @@ Social media is all about being social. One of the most amazing parts of Twitter
 
 You’re simply not using the platform correctly if you don’t interact with people who interact with you. Get in the habit of replying to mentions for two major reasons.
 
-The algorithm likes more chat in twitter
+The algorithm likes more chat on Twitter
 
 [Twitter’s algorithm notices when you interact with someone, *follower or not*.](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html){: target="_blank" rel="noopener noreferrer"}
 
@@ -199,7 +197,7 @@ According to former Twitter engineer Deepak Rao, [the Twitter algorithm decides 
 
 Notice that two key metrics are related to the nature and frequency of your interactions. If you want to be seen more—and thus retweeted and liked so your stuff shows up in other people’s timelines so they can follow you—interact more with your mentions.
 
-Directly get in their hearts and minds of your followers
+Directly get into the hearts and minds of your followers
 
 When you consistently reply to your mentions, you’ll have a much greater chance of making a fan of someone who was just delivering commentary.
 
@@ -217,8 +215,8 @@ You’ll get people involved with you who only came to troll, and very often, yo
 6. Use media in your tweets
 7. Reply to mentions
 
-If you follow these tips, along with the tips in my other article about growing your twitter, then the sky's the limit for what you can do on Twitter.
+If you follow these tips, along with the tips in my other article about growing your Twitter, then the sky's the limit for what you can do on Twitter.
 
 These tips are guaranteed to get you more Twitter followers
 
-If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need a number of followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.
+If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need a number of followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.&nbsp;
