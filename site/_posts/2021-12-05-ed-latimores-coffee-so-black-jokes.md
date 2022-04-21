@@ -4,7 +4,7 @@ article_type: Article
 title: Ed Latimore's “coffee so black” jokes
 permalink: /black-coffee-jokes-puns/
 tags:
-  - change-your-perspective
+  - learn-about-crackheads
 description: >-
   This collection of coffee jokes will leave you laughing and you might learn
   something new. Not for the politically correct or overly sensitive.
