@@ -11,7 +11,7 @@ description: >-
   Why was I broke? I was poor because of the problems on this list. If you don't
   have enough money, learn the unsuspecting reasons why.
 ---
-The primary reason I spent most of my life poor and bad with money is because I grew up in poverty.
+I spent most of my life poor and bad with money because I grew up in poverty.
 
 Growing up in poverty is tough.
 
