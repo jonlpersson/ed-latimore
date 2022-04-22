@@ -105,7 +105,7 @@ Websites have the luxury of being able to edit on the fly while simultaneously b
 
 A lot of people think that they need to produce excellent writing from the start or they're bad writers. To produce good writing in your first draft, you need to be in the process of editing while you write and that is not good for your creative process.
 
-Your first time writing anything simply needs to be expression. It doesn't even need to be readable; you can go back and edit later.
+Your first time writing anything simply needs to be expressed. It doesn't even need to be readable; you can go back and edit it later.&nbsp;
 
 > "The first draft of anything is shit."
 >
