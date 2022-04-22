@@ -118,6 +118,6 @@ page_blocks:
       sports team with a bunch of strangers.
 
 
-      &nbsp;
+      ## All articles teaching you about making friends and socializing
   - _id: posts_relevant
 ---
