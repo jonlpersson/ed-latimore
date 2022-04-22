@@ -74,41 +74,44 @@ page_blocks:
       ## How to improve social skills
 
 
-      **How to be the most interesting man in the room:** Interesting people
-      have an advantage when it comes to making friends. More people want to be
-      around them so they’re rarely without an invite to meet up, which gives
-      them an opportunity to make new friends. This article shows you how to
-      become a more interesting person and give off that cool mysterious vibe.
+      [**How to be the most interesting man in the
+      room:**](/how-to-be-interesting/)Interesting people have an advantage when
+      it comes to making friends. More people want to be around them so they’re
+      rarely without an invite to meet up, which gives them an opportunity to
+      make new friends. This article shows you how to become a more interesting
+      person and give off that cool mysterious vibe.
 
 
-      **How to start and have a conversation:** If you master conversation
-      starters, small talk, being a good listener, and body language, it will be
-      a lot easier for you to communicate. The easier it is for you to
-      communicate, the easier it will be for you to make new friends. Even if
-      you don’t have any common interests with the person you’re trying to
-      befriend, they will feel like you do because of how great your
-      conversational ability will become after reading this post.
+      [**How to start and have a conversation:**](/how-to-start-a-conversation/)
+      If you master conversation starters, small talk, being a good listener,
+      and body language, it will be a lot easier for you to communicate. The
+      easier it is for you to communicate, the easier it will be for you to make
+      new friends. Even if you don’t have any common interests with the person
+      you’re trying to befriend, they will feel like you do because of how great
+      your conversational ability will become after reading this post.
 
 
-      **How to be more charismatic:** Someone once told me that charm makes
-      people like you, but charisma makes people want you to like them. This is
-      a subtle but significant difference. Being charismatic is a cheat code for
-      socializing. People will always pursue you to get together. You’ll be
-      spoiled for choice. Your social life will be more than fulfilling.
+      [**How to be more charismatic:**](/how-to-be-charismatic/) Someone once
+      told me that charm makes people like you, but charisma makes people want
+      you to like them. This is a subtle but significant difference. Being
+      charismatic is a cheat code for socializing. People will always pursue you
+      to get together. You’ll be spoiled for choice. Your social life will be
+      more than fulfilling.
 
 
-      **How to be more likable:** This post should be required reading for
-      everyone, regardless of their social life. It’s a lot easier to meet
-      people when you’re likable. At the, very least old friends are more likely
-      to stay in touch and new friends are more likely to follow up. There is no
-      disadvantage to being likable.
+      [**How to be more likable:**](/how-to-be-likeable/) This post should be
+      required reading for everyone, regardless of their social life. It’s a lot
+      easier to meet people when you’re likable. At the, very least old friends
+      are more likely to stay in touch and new friends are more likely to follow
+      up. There is no disadvantage to being likable.
 
 
-      **How to socialize and have fun sober:** In this day and age, it seems
-      like no one knows how to have fun or meet people without alcohol. Well,
-      since I’ve been sober since 2013, my social skills have only improved.
-      This post teaches you how to be social and have a great time in life,
-      without spending all day getting drunk and rooting for your favorite
+      [**How to socialize and have fun
+      sober:**](/how-to-have-fun-and-socialize-sober/) In this day and age, it
+      seems like no one knows how to have fun or meet people without alcohol.
+      Well, since I’ve been sober since 2013, my social skills have only
+      improved. This post teaches you how to be social and have a great time in
+      life, without spending all day getting drunk and rooting for your favorite
       sports team with a bunch of strangers.
 
 
