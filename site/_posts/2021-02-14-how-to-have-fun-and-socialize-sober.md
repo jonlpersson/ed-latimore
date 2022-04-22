@@ -13,7 +13,7 @@ description: >-
 ---
 When you make the decision to become sober, one of the most annoying things you have to deal with is your friends, family, and colleagues trying to convince you to have a drink.
 
-It’s easy for you to avoid alcohol and have fun in the day, but when you go out to a social event that’s when you start having problems.
+It’s easy for you to avoid alcohol and have fun in the day, but when you go out to a social event at night, you start having problems.
 
 “Why is it so hard to socialize without alcohol?” You ask yourself. “Why can’t I have just one drink?” You want to learn how to have fun without drinking, and that's how you ended up here.
 
