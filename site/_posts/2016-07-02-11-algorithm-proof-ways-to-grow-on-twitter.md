@@ -24,8 +24,6 @@ In December 2017, I had 30k followers. Now I have over 160k followers and I gain
 
 My Twitter account has steadily grown because of the powerful methods I use. In this article, I will teach you how to grow on Twitter using them.
 
-{% include widgets/toc.html heading="11 algorithm proof ways to grow on Twitter" list-items="Know the metrics, Don't do these things to grow follower, Have a clear theme and target audience, Delete old tweets, Be authentic and transparent, Retweet with comment or 'quote tweet' more, Have a great Twitter bio, Become a better writer, Choose your battles wisely, Be patient. Do the work., Have something to say" list-ids="twitter-terms-to-understand-the-metrics, examples-of-common-twitter-strategy-to-increase-engagement-that-I-dont-do, have-a-clear-theme-and-target-audience, delete-old-tweets, be-authentic-and-transparent, retweet-with-comment-or-quote-tweet-more, have-a-great-twitter-bio, become-a-better-writer, choose-your-battles-wisely, be-patient-do-the-work, have-something-to-say" %}
-
 ## **Twitter terms to understand the metrics**
 
 ### <br>**Twitter Impressions**
@@ -218,6 +216,8 @@ Also, beware of getting reported.
 Your account is useless if it gets suspended. I've seen more than a few people lose significant revenue because they got banned from Twitter.
 
 This is how to use social media instead of letting social media use you.
+
+#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform designed for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## Be patient. Do the work.
 
