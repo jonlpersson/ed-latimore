@@ -5,6 +5,7 @@ title: 6 quick ways to fix bad writing
 permalink: /bad-writing/
 tags:
   - learning-skills
+  - how-to-build-an-audience
 description: >-
   Here are some great tips to make you a better writer. Following these will fix
   a lot of bad writing that you're doing.
@@ -97,6 +98,8 @@ One cool thing about books that are published is that they tend to have been vet
 It used to cost a lot of time, money, and manpower to produce and distribute books. This means that they tried to produce a top-notch product in all aspects. You should read older books for no other reason than this.
 
 Websites have the luxury of being able to edit on the fly while simultaneously being designed for quick consumption. In other words, they aren't built to last and almost never to profit. Books were, so that means you can learn a lot by reading them.
+
+#### ***I have a great free guide that teaches you how to write using Twitter. [Download the Breakdown here.](/resources/the-breakdown/)***
 
 ## 6) First drafts are for word vomit
 
