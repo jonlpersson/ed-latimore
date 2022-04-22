@@ -17,9 +17,7 @@ It’s easy for you to avoid alcohol and have fun in the day, but when you go ou
 
 “Why is it so hard to socialize without alcohol?” You ask yourself. “Why can’t I have just one drink?” You want to learn how to have fun without drinking, and that's how you ended up here.
 
-Well, fortunately for you there’s a way to enjoy life without drinking that doesn’t require becoming a hermit and avoiding everyone you love, and I’ll share with you exactly how to do that in this article.
-
-{% include widgets/toc.html heading="7 ways to have fun without alcohol" list-items="Figure out the alcohol-free activities you're passionate about, Understand what you get out of drinking alcohol, Realize that you've been lied to, Change where you hang out, Make new friends, Build yourself up, Learn to enjoy non-alcoholic beverages" list-ids="1-figure-out-the-alcohol-free-fun-activities-youre-passionate-about, 2-understand-what-you-get-out-of-drinking-alcohol, 3-realize-that-youve-been-lied-to, 4-change-where-you-hang-out, 5-make-new-friends, 6-build-yourself-up, 7-learn-to-enjoy-non-alcoholic-beverages" %}
+Well, fortunately for you there’s a way to enjoy life without drinking that doesn’t require becoming a hermit and avoiding everyone you love, and I’ll share with you exactly how to do that in this article
 
 ## 1) Figure out the alcohol-free fun activities you're passionate about
 
