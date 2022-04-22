@@ -10,7 +10,6 @@ hero:
   heading:
   text_markdown:
 page_blocks:
-  - _id: posts_relevant
   - _id: block_rich_text
     alignment:
     text_markdown: >-
@@ -112,4 +111,5 @@ page_blocks:
 
 
       &nbsp;
+  - _id: posts_relevant
 ---
