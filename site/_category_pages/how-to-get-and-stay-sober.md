@@ -1,6 +1,6 @@
 ---
 tag: sober-life
-title: How to get and stay sober
+title: Sober life
 description:
 hero:
   label:
