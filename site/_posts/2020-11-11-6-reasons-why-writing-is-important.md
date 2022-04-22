@@ -14,8 +14,6 @@ Writing is one of the most important skills that you can develop. There is no be
 
 The following list highlights the importance of writing skills and why you need to master manipulating the written word.
 
-{% include widgets/toc.html heading="The importance of writing skills" list-items="Writing turns our thoughts into reality, Writing helps you set goals, Writing makes it easier to remember good ideas, Writing improves your communication skills, Writing improves your critical thinking skills, Writing makes you mentally tougher, Writing gives you a platform" list-ids="writing-turns-our-thoughts-into-reality, writing-helps-you-set-goals, writing-makes-it-easier-to-remember-good-ideas, writing-improves-your-communication-skills, writing-improves-your-critical-thinking-skills, writing-makes-you-mentally-tougher, writing-gives-you-a-platform" %}
-
 ## Writing turns our thoughts into reality
 
 For writing to be of any use, it has to be organized and sensible. This means that when you write down your thoughts, you impose order on them.
@@ -69,6 +67,8 @@ As you take the time to improve your ability to express yourself with high level
 Effective communicators are effective writers. Effective writing is powerful because communication can be a force that causes things to happen.
 
 [The more precise your communication](https://www.clearscope.io/how-to-start-a-conversation/), the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
+
+#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## Writing improves your critical thinking skills
 
