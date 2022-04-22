@@ -9,11 +9,11 @@ description: >-
   The Tao Te Ching is a classic text about living according to the "Tao" or "The
   way". Here are some of the passages from the book that will truly change your
   perspective. 
-image: /assets/images/posts/taotechingcover.png
+image: /assets/images/posts/tao-te-ching-notes.png
 ---
 The main idea of the Tao Te Ching (also known as Dao De Jing) is to live life in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book—along with the *Zhuangzi—*is considered one of the fundamental texts of philosophical and religious Taoism.
 
-Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; d&agrave;o means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
+Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; dào means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
@@ -31,10 +31,8 @@ The Tao Te Ching has several ideas that train you to let go of your thoughts and
 
 When nothing disturbs your emotional center, this is true power.
 
-&nbsp;
-
 > 1. Heaven and Earth are not sentimental; they regard all things as dispensable. The sage isn't sentimental, either; He views all forms as ephemeral and transitional.
-> 2. Line your home with treasures and you won't be able to defend it. &nbsp; Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
+> 2. Line your home with treasures and you won't be able to defend it. Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
 > 3. Favor and disgrace are equally problematic. Hope and fear are phantoms of the body.
 > 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
 > 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.
@@ -46,8 +44,8 @@ Wisdom is not only the byproduct of experience, but it’s also the byproduct of
 In this way, ordinary people have the ability to develop extraordinary wisdom as a result of simply surviving. Of course, the Taoists laid out a path for living they believe can turn anyone into a wise man or woman.
 
 > 1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, and accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
-> 2. In the same way, the wise person puts himself last, and thereby finds himself first; &nbsp; Holds himself outside, and thereby remains at the center; &nbsp; Abandons himself, and is thereby fulfilled.
-> 3. Knowing others is intelligence; knowing the self is enlightenment. &nbsp; Conquering others is power; conquering the self is strength.
+> 2. In the same way, the wise person puts himself last, and thereby finds himself first; Holds himself outside, and thereby remains at the center; Abandons himself, and is thereby fulfilled.
+> 3. Knowing others is intelligence; knowing the self is enlightenment. Conquering others is power; conquering the self is strength.
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
@@ -59,8 +57,8 @@ These Lao Tzu quotes are not explicitly about self-improvement, but the ideas ar
 
 It doesn’t mean you're the best in the whole world. It only means that you’ve reached a level where that specific area is no longer a problem for you. Lao Tzu has a few true words that speak to the approach required to reach this level of living.
 
-> 1. In living, choose your ground well. In thought, stay deep in the heart. In relationships, be generous. In speaking, hold to the truth. In leadership, be organized. In work, do your best. In action, be timely. &nbsp; If you compete with no one, no one can compete with you.
-> 2. A good runner leaves no tracks; A good speaker makes no slips; A good planner doesn't have to scheme. &nbsp; The best lock has no bolt, and no one can open it. The best knot uses no rope, and no one can untie it.
+> 1. In living, choose your ground well. In thought, stay deep in the heart. In relationships, be generous. In speaking, hold to the truth. In leadership, be organized. In work, do your best. In action, be timely. If you compete with no one, no one can compete with you.
+> 2. A good runner leaves no tracks; A good speaker makes no slips; A good planner doesn't have to scheme. The best lock has no bolt, and no one can open it. The best knot uses no rope, and no one can untie it.
 > 3. In the pursuit of learning, every day something is added. In the pursuit of Tao, every day something is dropped.
 > 4. The sage understands that everything is difficult and thus in the end, has no difficulties
 
@@ -74,7 +72,7 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 > 2. If you fail to trust people, you won’t inspire their trust.
 > 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
-> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. &nbsp; This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
+> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
 
 ## Other notes and big ideas from books I've read
 
@@ -85,5 +83,3 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-
-&nbsp;
