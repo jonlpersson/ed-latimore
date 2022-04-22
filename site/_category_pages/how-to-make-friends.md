@@ -40,33 +40,35 @@ page_blocks:
       ## How to make friends
 
 
-      **Hobbies to make new friends:** This article breaks down the best hobbies
-      to find potential new friends based on developing and then finding people
-      with similar interests. Even if you were isolated because of the pandemic,
-      these are great tips to help you meet others now that the world has opened
-      back up.
+      [**Hobbies to make new friends:**](/hobbies-to-make-friends/) This article
+      breaks down the best hobbies to find potential new friends based on
+      developing and then finding people with similar interests. Even if you
+      were isolated because of the pandemic, these are great tips to help you
+      meet others now that the world has opened back up.
 
 
-      **How to make friends as an adult:** Making friends as an adult is hard
-      because we’re out of the artificial environment of high school or college.
-      Your social circle mainly now only consists of coworkers and people to
-      drink with. Drawing on things that you know how to lead or things that you
-      have an interest in learning, this article will teach you some cool ways
-      to build new relationships.
+      [**How to make friends as an adult:**](/how-to-make-friends-as-an-adult/)
+      Making friends as an adult is hard because we’re out of the artificial
+      environment of high school or college. Your social circle mainly now only
+      consists of coworkers and people to drink with. Drawing on things that you
+      know how to lead or things that you have an interest in learning, this
+      article will teach you some cool ways to build new relationships.
 
 
-      **How to make friends in a new city:** Making friends in a new city is one
-      of the most difficult things to do. A lot of people imagine that it’s
-      easy, but stepping out of your comfort zone and exerting so much energy on
-      something you never had to think about is difficult. This post teaches you
-      tactics and strategies for making friends in a new city and how to handle
-      the social anxiety and mental health strain that this endeavor can cause.
+      [**How to make friends in a new
+      city:**](/how-to-make-friends-in-a-new-city/) Making friends in a new city
+      is one of the most difficult things to do. A lot of people imagine that
+      it’s easy, but stepping out of your comfort zone and exerting so much
+      energy on something you never had to think about is difficult. This post
+      teaches you tactics and strategies for making friends in a new city and
+      how to handle the social anxiety and mental health strain that this
+      endeavor can cause.
 
 
-      **Why you don’t have any friends:** This post explores why, despite your
-      best efforts, you can’t seem to make any friends. Then you learn how to
-      make lasting friendships, not just drinking buddies or people on social
-      media.
+      [**Why you don’t have any friends:**](/why-you-cant-make-friends/) This
+      post explores why, despite your best efforts, you can’t seem to make any
+      friends. Then you learn how to make lasting friendships, not just drinking
+      buddies or people on social media.
 
 
       ## How to improve social skills
