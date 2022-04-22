@@ -5,6 +5,7 @@ title: 13 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - learning-skills
+  - how-to-build-an-audience
 image: /assets/images/posts/ed-writing.jpg
 description: >-
   Tired of being a starving artist? Discover 12 simple ways on how to be a
@@ -23,8 +24,6 @@ You probably didn't learn any of these in school, but school isn't in the busine
 Or do any of the things that a career writer does. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you a good writer is like learning how to punch and hoping that it makes you a good fighter.
 
 Follow the simple tips below and you'll be able to get paid from your words.
-
-{% include widgets/toc.html heading="13 ways to be a better writer" list-items="Have something to say, Love to write, Write about life experiences, Learn science and math, Use feedback, Learn another language, Use social media, Start a blog, Create content without outlines, Learn grammar and punctuation, Live and learn from life, Read as much as you can, Learn the power of pronouns" list-ids="1-have-something-to-say, 2-treat-writing-like-a-labor-of-love, 3-write-about-your-life-experiences-first, 4-science-and-math-makes-you-better-with-words, 5-take-free-advice-you-get, 6-learn-another-language, 7-use-twitter-facebook-and-other-social-media, 8-start-a-blog-to-learn-the-basics-of-seo, 9-just-create-content-stop-making-outlines, 10-learn-the-rules-of-grammar-and-punctuation, 11-the-best-writers-live-and-learn-from-life, 12-read-as-much-as-you-can, 13-learn-the-power-of-pronouns-synonyms-and-implication" %}
 
 ## 1) Have something to say
 
@@ -167,9 +166,7 @@ This is similar to the effect that SEO has on blog posts.
 
 While a writer's popularity is not the sole judge of their talent, the number of likes and retweets you receive, and the followers you gain at least tell you if your writing is engaging and interesting.
 
-![engagement new cocaine writing twitter ed latimore](/assets/images/posts/engagement-is-the-new-cocaine-writing-for-twitter-ed-latimore.jpg "My course for Twitter")
-
-{% include widgets/summary.html id="twitter-tips" %}
+#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## 8) Start a blog to learn the basics of SEO
 
@@ -177,11 +174,11 @@ I am no expert at search engine optimization.
 
 I know just enough so that the search engines–even with the new updates that Google always rolls out on us–don’t work against me. It doesn't take a long time to learn this level of SEO, nor is it difficult.
 
-I’ve learned enough to work with the system rather than against it. This following is a beginners perspective on SEO and how it's made me better at this.
+I’ve learned enough to work with the system rather than against it. The following is a beginner's perspective on SEO and how it's made me better at this.
 
 SEO seems to be largely about readability and categorization. It obviously is more technical than this, but the meta-idea is what's important.
 
-Google is in the business of providing people with easy-to-read content that solves their problem. This is also what writing with a purpose does. This is not a coincidence.
+Google is in the business of providing people with easy-to-read content that solves their problems. This is also what writing with a purpose does. This is not a coincidence.
 
 ### Writing for computers versus people: SEO doing the work for you
 
