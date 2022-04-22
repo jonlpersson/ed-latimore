@@ -117,6 +117,8 @@ You can only solve a problem if you’ve solved it yourself. You can only teach 
 
 If you’re living true to yourself, your Twitter will resonate with authority. This authority in being yourself will not only skyrocket your growth, but it’ll make it WAY more difficult for someone to copy you.
 
+#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
+
 ## 4) Be polarizing
 
 If you’re an intelligent and open-minded person, this section is going to annoy you.
