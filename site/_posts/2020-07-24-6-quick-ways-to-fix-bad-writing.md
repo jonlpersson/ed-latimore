@@ -99,7 +99,7 @@ It used to cost a lot of time, money, and manpower to produce and distribute boo
 
 Websites have the luxury of being able to edit on the fly while simultaneously being designed for quick consumption. In other words, they aren't built to last and almost never to profit. Books were, so that means you can learn a lot by reading them.
 
-#### ***I have a great free guide that teaches you how to write using Twitter. [Download the Breakdown here.](/resources/the-breakdown/)***
+#### ***I have a great free guide that teaches you how to write using Twitter. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## 6) First drafts are for word vomit
 
