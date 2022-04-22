@@ -6,9 +6,12 @@ description: >-
   steps, then you can build a vibrant social life and escape a life of
   loneliness and isolation. 
 hero:
-  label:
-  heading:
-  text_markdown:
+  label: How to make new friends
+  heading: Learn how to make friends and become a person people want to befriend
+  text_markdown: >-
+    Learning how to make friends doesn't have to be difficult. If you follow
+    these steps, then you can build a vibrant social life and escape a life of
+    loneliness and isolation.&nbsp;
 page_blocks:
   - _id: block_rich_text
     alignment:
