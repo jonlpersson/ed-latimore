@@ -68,7 +68,7 @@ The basic idea is this: hashtags are just for seeing what everyone is talking ab
 
 Most of these are acceptable methods for building a following, and I have nothing against them, but I have grown my account organically and without financial assistance. This is what I will show you how to do in the rest of this article.
 
-{% include widgets/summary.html id="twitter-tips" %}
+#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform designed for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## Have a clear theme and target audience
 
