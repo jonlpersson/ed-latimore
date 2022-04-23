@@ -120,7 +120,7 @@ The book "The Amateur Mind" by IM Jeremy Silman improved my chess by teaching me
 
 It's only with a proper analysis of imbalances that you can make the best move. Though you may not always choose the correct line of play, [the book teaches you how to recognize what you need to know](https://beginchess.com/2005/03/16/the-silman-thinking-technique/){: target="_blank" rel="noopener noreferrer"}. It teaches you how to identify the problem—before you create an action plan so solve it.
 
-![](/assets/images/posts/2021/amateurmindchess-3.jpg)
+![Chess book to help learn problem solving](/assets/images/posts/2021/amateurmindchess-3.jpg "Chess book to help learn problem solving")
 
 The problem-solving method always starts with identifying the problem or asking "What do you need to know?". It's only after you brainstorm this that you can move on to the next step.
 
