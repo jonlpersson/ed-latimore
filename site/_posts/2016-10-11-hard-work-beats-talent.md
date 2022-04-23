@@ -88,11 +88,11 @@ The fixed mindset trains you to believe there is no creative solution. Either yo
 
 Students with a growth mindset know they can get better. They believe their ability will grow. This is valuable because it's rare.
 
-![](/assets/images/posts/book-mindset-dweck.jpeg)
+![Carol Dweck Growth Mindset](/assets/images/posts/book-mindset-dweck.jpeg "Carol Dweck Growth Mindset")
 
 This is powerful. It's so powerful that another Stanford researcher Carol S. Dweck, P.h.D believes that making even slight shifts in your mindset from fixed to growth can have a profound impact on your entire life.
 
-| From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'</td><td>amazon }})\{: target="\_blank" rel="noopener noreferrer"\}: |
+| From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'&lt;/td&gt;&lt;td&gt;amazon }})\{: target="\_blank" rel="noopener noreferrer"\}: |
 
 > Believing that your qualities are carved in stone — *the fixed mindset* — creates an urgency to prove yourself over and over. If you have only a certain amount of intelligence, a certain personality, and a certain moral character — well, then you’d better prove that you have a healthy dose of them. It simply wouldn’t do to look or feel deficient in these most basic characteristics.
 >
@@ -122,7 +122,7 @@ Talent fails when work ethic is non-existent, but you can appear to have talent 
 
 ![hard work beats talent when talent doesn't work hard ed latimore](/assets/images/posts/2016/hard-work-beats-talent-when-talent-hardly-works-ed-latimore.jpg "You have to be bad before you can good")
 
-I think the quote is so popular with professional athletes because they live in a world with many high-quality, talented people, but only the ones who but only the ones who never give up are the ones who ever make it.
+I think the quote is so popular with professional athletes because they live in a world with many high-quality, talented people, but only the ones who never give up are the ones who ever make it.
 
 If you have even the smallest amount of talent and want to make your life better with it, then you have to commit to working at least twice as hard as the amount of talent that you possess.
 
@@ -138,6 +138,6 @@ Become obsessed with working hard.
 
 It forces you to learn the value of hard work.
 
-When life becomes a battle of attrition, only those who have learned the value of hard work over talent will be left standing.
+Only those who have learned the value of hard work over talent will be left standing when life becomes a battle of attrition.
 
 {% include widgets/cta-email.html %}
