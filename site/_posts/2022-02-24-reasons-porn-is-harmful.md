@@ -8,7 +8,7 @@ tags:
 description: >-
   There’s a lot of debate on whether porn can actually be harmful, here’s what
   the science has to say.
-image: /assets/images/posts/ed-latimore-sitting-outside.jpg
+image: /assets/images/posts/ed-latimore-back-against-wall.png
 ---
 The arguments against the effects of porn have always been shot down because they were purely based on religious or moral grounds.
 
