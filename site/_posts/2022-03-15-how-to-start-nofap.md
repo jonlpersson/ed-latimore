@@ -8,7 +8,7 @@ tags:
 description: >-
   Learn how to control your impulses, strengthen your focus, and harness your
   sexual energy to get anything you want from life with No Fap.
-image: /assets/images/thumbnails/ed-means-business.jpg
+image: /assets/images/posts/ed-means-business.png
 ---
 Cutting out porn is a game-changer for men that want to master life.
 
