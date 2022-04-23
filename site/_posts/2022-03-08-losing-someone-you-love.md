@@ -8,7 +8,7 @@ tags:
 description: >-
   Losing someone can leave you feeling lost. Here’s what to do when you don’t
   know what to do.
-image: /assets/images/thumbnails/ed-arms-crossed-on-chair.jpg
+image: /assets/images/posts/ed-latimore-cope-with-losing-someone.png
 ---
 Losing someone you love is never easy.
 
