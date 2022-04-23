@@ -54,7 +54,7 @@ Despite its short length, the ideas that it's packed with are applicable to many
 
 ## The Tao of Jeet Kune Do by Bruce Lee
 
-![](/assets/images/posts/tao-of-jeet-kune-do.jpeg){: width="280" height="365"}
+![The Tao of Jeet Kune Do recommendation](/assets/images/posts/tao-of-jeet-kune-do.jpeg "The Tao of Jeet Kune Do recommendation"){: width="280" height="365"}
 
 The Tao of Jeet Kune Do is one of my favorite books because fighting is an excellent analogy for many things in life, and Bruce Lee captures many poignant observations from martial arts that apply to many areas of life.
 
