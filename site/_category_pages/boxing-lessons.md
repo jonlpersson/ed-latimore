@@ -7,7 +7,9 @@ description: >-
 hero:
   label: Boxing lessons
   heading: What does boxing teach you
-  text_markdown:
+  text_markdown: >-
+    Boxing teaches you more than just how to fight. It teaches you about life.
+    Here are some life lessons from boxing that will change your life.
 page_blocks:
   - _id: posts_relevant
 ---
