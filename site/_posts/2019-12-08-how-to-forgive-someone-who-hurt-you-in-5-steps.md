@@ -33,6 +33,8 @@ When we forgive, what exactly are we “giving”?
 
 We're giving up our need for vindication, our desire for retribution, and our thirst for revenge. Any negative feelings we hold towards the past and the people in it let them go. We are, literally and figuratively, wiping our emotional ledgers clean and abandoning the idea that we're owed anything from anyone for the pain we've experienced.
 
+***Read: [What is forgiveness?](/what-is-forgiveness/)***
+
 ## Why is it hard to forgive?
 
 It's hard to forgive because we see life a certain way
