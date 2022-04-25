@@ -6,7 +6,7 @@ description: >-
   Here are some life lessons from boxing that will change your life.
 hero:
   label: Boxing lessons
-  heading: Lessons from boxing
+  heading: What does boxing teach you
   text_markdown:
 page_blocks:
   - _id: posts_relevant
