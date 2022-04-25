@@ -181,7 +181,7 @@ I always tell people: I don’t believe in revenge, only discouraging future tre
 
 Forgiveness is for the self. Justice is for the world. Execute only forgiveness, and you'll become a weakling. Execute only justice, and you'll become someone to be fear. The goal is to remember that each has its place.
 
-The fifth step for forgiveness is to focus on healing the self with forgiveness. Let justice do what justice does, but do not expect it to fix you. Only you and forgiveness and can do that.
+The fifth step for forgiveness is to focus on healing the self with forgiveness. Let justice do what justice does, but do not expect it to fix you. Only you and forgiveness can do that.&nbsp;
 
 ## Bonus method: How do you truly forgive someone?
 
@@ -191,8 +191,8 @@ The fifth step for forgiveness is to focus on healing the self with forgiveness.
 2. **Practice forgiveness.** The more you try to do it, the easier it gets.&nbsp;
 3. **Address your inner pain.** You can't forgive unless you admit to yourself that something needs to be forgiven. This means accepting that you've got hurt feelings.
 4. [**Develop empathy.**](https://greatergood.berkeley.edu/article/item/six_habits_of_highly_empathic_people1){: target="_blank" rel="noopener noreferrer"}&nbsp;When you can see the world through the eyes of others, you realize that we're all the same. This makes it harder to hold a grudge and easier to forgive.
-5. **See the purpose in the pain.** If you look at your pain as an opportunity to get better at handling pain, suddenly the it becomes a gift.&nbsp;
-6. **[Forgive yourself](/how-to-forgive-yourself-6-steps-to-let-the-past-go/).** We're often harder on ourselves than we are on others. This is unfortunate, because we spend the most time with ourselves. The better you get at forgiving yourself, the better you'll be at forgiving others.&nbsp;
+5. **See the purpose in the pain.** If you look at your pain as an opportunity to get better at handling pain, suddenly it becomes a gift.&nbsp;
+6. **[Forgive yourself](/how-to-forgive-yourself-6-steps-to-let-the-past-go/).** We're often harder on ourselves than we are on others. This is unfortunate because we spend the most time with ourselves. The better you get at forgiving yourself, the better you'll be at forgiving others.&nbsp;&nbsp;
 
 Forgiveness doesn’t change someone and it doesn’t alter the physical world.
 
