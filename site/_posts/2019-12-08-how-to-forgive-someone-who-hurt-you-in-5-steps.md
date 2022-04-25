@@ -49,13 +49,11 @@ The most powerful thing you can do is give up your revenge or reconciliation and
 
 What are the steps for forgiving someone? Read on.
 
-{% include widgets/toc.html heading="How to forgive someone who hurt you in 5 steps" list-items="Take nothing personally, Remember that every person is the same, Release the past, Let it go, Never try to get even, Bonus method: How do you truly forgive someone?" list-ids="take-nothing-personally, remember -that-every-person-is-the-same, releaese-the-past, let-it-go,&nbsp; dont-try-to-get-even, bonus-method-how-do-you-truly-forgive-someone" %}
-
 ### Take nothing personally
 
 When you think about it, the world is a messed-up place, full of pain and suffering. It’s also a beautiful place, but there are a lot of things that will hurt you.
 
-By virtue of you existing in it, things will happen to you. Some of them will be awful.
+By virtue of existing in it, things will happen to you. Some of them will be awful.
 
 If you can accept that last statement, then you can accept what happens if you follow it to its natural conclusion:
 
@@ -67,17 +65,17 @@ We don't know how the universe works, but we do know how it&nbsp;***doesn't***&n
 
 * Where you're from
 * What you've done
-* Why you want something
+* Why do you want something
 
-There are things you can do to make the desired outcome more likely–or decrease the likelihood of an adverse outcome–but there are no guarantees. There is simply life and probability.
+You can do things to make the desired outcome more likely–or decrease the likelihood of an adverse outcome–but there are no guarantees. There is simply life and probability.
 
-Sometimes the coin lands on the wrong side. Sometimes you you're in the wrong place at the wrong time and the victim of someone expressing their pain in the world.
+Sometimes the coin lands on the wrong side. Sometimes you're in the wrong place at the wrong time and the victim of someone expressing their pain in the world.
 
 This doesn't make it right, but realizing that you were never a specific target is the first step to forgiveness.
 
 ***(Read: "[No One Gives A Shit About You](/no-one-gives-a-shit-about-you/)")***
 
-### Remember that every person is the same
+## Remember that every person is the same
 
 We all want the same thing.
 
@@ -113,7 +111,7 @@ The second step for forgiveness is seeing that you and the offender are the same
 
 None of this is personal. It's just a consequence of living in the world.
 
-### Releaese the past&nbsp;
+## Release the past&nbsp;
 
 Forgiveness takes time.
 
@@ -137,7 +135,7 @@ The desire for revenge binds you to the event. Grudges are shackles to the past.
 
 The third step for forgiveness is realizing that while the past happened, it no longer exists. Any obsession over it only keeps you from being effective in the present to keep from repeating it in the future.
 
-### Let it go
+## Let it go
 
 How do you truly forgive and let go?
 
@@ -163,7 +161,7 @@ Revenge is like junk food for the soul. It feels tastes great when you eat, but 
 
 ***(Read: "[How to Get Over Someone](/how-to-get-over-someone/)")***
 
-### Don't try to get "even"
+## Don't try to get "even"
 
 You can’t balance the scales. Even mortal justice–our best attempt–does a poor job at this.
 
@@ -179,7 +177,7 @@ We have justice to minimize the need for forgiveness. We have forgiveness to min
 
 I always tell people: I don’t believe in revenge, only discouraging future trespasses. The actions taken to accomplish this may seem like vengeance, but this is another illusion.
 
-Forgiveness is for the self. Justice is for the world. Execute only forgiveness, and you'll become a weakling. Execute only justice, and you'll become someone to be fear. The goal is to remember that each has its place.
+Forgiveness is for the self. Justice is for the world. Execute only forgiveness, and you'll become a weakling. Execute only justice, and you'll become someone to be feared. The goal is to remember that each has its place.
 
 The fifth step for forgiveness is to focus on healing the self with forgiveness. Let justice do what justice does, but do not expect it to fix you. Only you and forgiveness can do that.&nbsp;
 
