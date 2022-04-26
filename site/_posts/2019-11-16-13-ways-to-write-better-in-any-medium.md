@@ -406,7 +406,7 @@ Adverbs of time and place tend to be non-admissible, but they are still unnecess
 
 Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always***&nbsp;useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
 
-* "I ***quickly ***ran home" can be rewritten as "I sprinted home" or "I dashed home".
+* "I ***quickly ran*** home" can be rewritten as "I **sprinted** home" or "I **dashed** home".
 * I ***thought*** intensely about the problem.
 * I ***furiously*** wrote the letter.
 
