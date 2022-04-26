@@ -1,7 +1,7 @@
 ---
 date: 2019-11-16 15:55:00 -0500
 article_type: Article
-title: 14 ways to write better in any medium
+title: 15 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - learning-skills
@@ -398,6 +398,24 @@ The biggest reason is that the active voice is a more efficient use of words. To
 
 This word economy makes it easier for your word to be read and it makes your message get through more clearly.&nbsp;
 
+## Avoid adverbs whenever possible
+
+***Grammar recap: ***An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.
+
+Adverbs of time and place tend to be non-admissible, but they are still unnecessary with a strong (not to be interpreted as "little" or "small" vocabulary).
+
+Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always***&nbsp;useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
+
+* "I ***quickly ***ran home" can be rewritten as "I sprinted home" or "I dashed home".
+* I ***thought*** intensely about the problem.
+* I ***furiously*** wrote the letter.
+
+The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue. But writing gives you a chance to be precise and measured.
+
+&nbsp;
+
+&nbsp;
+
 ## A recap of 14 simple tips to write your best content:
 
 1. Have something to say
@@ -414,3 +432,4 @@ This word economy makes it easier for your word to be read and it makes your mes
 12. Read as much as you can
 13. Learn the power of pronouns, synonyms, and implication
 14. Use active voice
+15. Avoid adverbs
