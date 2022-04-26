@@ -384,7 +384,17 @@ Most of the confusion comes from the fact that in both sentences, the subject is
 
 Sentence 1 follows subject-verb-object. That structure makes it active. Sentence 2 follows object-verb-subject. That structure makes it passive.
 
-### Brief refresher on the subject, verb, and object
+### A brief refresher on the subject, verb, and object
+
+* The subject of a sentence is the one that performs the action.
+* The action of the sentence is the verb.
+* The recipient of the action is the object.
+
+Sentences become a little more complex than this and there are some predictable types of variations, but all sentences fall under this category.
+
+### Why is writing in the active voice better?
+
+&nbsp;
 
 ## A recap of 13 simple tips to write your best content:
 
