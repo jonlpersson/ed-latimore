@@ -1,7 +1,7 @@
 ---
 date: 2019-11-16 15:55:00 -0500
 article_type: Article
-title: 13 ways to write better in any medium
+title: 14 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - learning-skills
@@ -394,13 +394,11 @@ Sentences become a little more complex than this and there are some predictable 
 
 ### Why is writing in the active voice better?
 
-The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive, it almost always requires the addition of a preposition and the addition of the "to be" verb.
+The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires the addition of a preposition and the addition of the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
 
-"I'm reading the book" (active) vs. "The book is read by me." (passive)
+This word economy makes it easier for your word to be read and it makes your message get through more clearly.&nbsp;
 
-&nbsp;
-
-## A recap of 13 simple tips to write your best content:
+## A recap of 14 simple tips to write your best content:
 
 1. Have something to say
 2. Write every day
@@ -415,3 +413,4 @@ The biggest reason is that the active voice is a more efficient use of words. To
 11. Live and learn from life
 12. Read as much as you can
 13. Learn the power of pronouns, synonyms, and implication
+14. Use active voice
