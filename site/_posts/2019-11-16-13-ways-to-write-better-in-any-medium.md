@@ -394,6 +394,10 @@ Sentences become a little more complex than this and there are some predictable 
 
 ### Why is writing in the active voice better?
 
+The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive, it almost always requires the addition of a preposition and the addition of the "to be" verb.
+
+"I'm reading the book" (active) vs. "The book is read by me." (passive)
+
 &nbsp;
 
 ## A recap of 13 simple tips to write your best content:
