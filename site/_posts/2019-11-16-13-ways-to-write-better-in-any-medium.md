@@ -365,7 +365,26 @@ To keep this short lesson short, let me summarize.
 * Find different ways to express the same idea to make your point. Repetition drives the main idea home, but only when you avoid fatigue.
 * Longer content is more engaging, but only if you avoid fatigue.
 
-If you follow these short tips, you'll greatly improve your writing in everything from Twitter to long form content.
+If you follow these short tips, you'll greatly improve your writing in everything from Twitter to long-form content.
+
+## 14) Use active sentences whenever possible
+
+An active sentence has the subject of the sentence performing the action to the object. Compare this to a passive sentence, which has the subject of the sentence be acted on or affected by the verb.
+
+Consider the following basic example of an active sentence versus a passive one:
+
+* I walked the dog. (active sentence)
+* The dog was walked by me. (passive sentence)
+
+In the first sentence, I (the subject) walked (the verb) the dog (the object.) In the second sentence, the dog (subject) was walked (the verb) by me (the object).
+
+Now if that wasn't clear, I understand. The difference between active versus passive voice eluded me for quite some time. Then I had a moment of clarity: active and passive voice are grammatical structures rather representations of reality.
+
+Most of the confusion comes from the fact that in both sentences, the subject is still performing the action on the object. In sentence one, I walk the dog. In sentence two, the dog is walked by me. The difference is only structurally.
+
+Sentence 1 follows subject-verb-object. That structure makes it active. Sentence 2 follows object-verb-subject. That structure makes it passive.
+
+### Brief refresher on the subject, verb, and object
 
 ## A recap of 13 simple tips to write your best content:
 
