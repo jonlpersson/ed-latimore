@@ -298,7 +298,7 @@ The best things for you to read are things that force you to focus for long peri
 
 Whether you read fiction, no fiction, study ads, or read emails, the only thing that matters is that it's a decent enough length to force you to concentrate. When you concentrate, try to absorb the essence of the writing.
 
-The only way to develop this skill is by reading. Practice reading something everyday that's at least 2000 words. That might sound like a lot to read, but I you'll easily go through more than that if you've picked something interesting. To put it in perspective, if you've read this far then you've cut through about 2000 words in this article alone.
+The only way to develop this skill is by reading. Practice reading something everyday that's at least 2000 words. That might sound like a lot to read, but I promise you'll easily go through more than that if you've picked something interesting. To put it in perspective, if you've read this far then you've cut through about 2000 words in this article alone.
 
 ## 13) Learn the power of pronouns, synonyms, and implication
 
@@ -320,11 +320,11 @@ While the idea I express in this tweet is sound, it would never take off in its 
 
 ### \*\*Why This Worked Better \*\*
 
-I only use the word "year" once. That's all I need to do, because the audience knows that I'm not talking about any other noun. This allows me to create a sharper looking tweet that better resonates with the audience.
+I only use the word "year" once. That's all I need to do, because the audience knows that I'm not talking about any other noun. This allows me to create a sharper tweet that better resonates with the audience.
 
 They don't need to be reminded that I'm talking about years. If I repeated the word year each time, it would seriously break up engagement and reading flow.
 
-People might agree with what I'm saying, but they won't have that knee jerk reaction to share my tweet. If they're reading an article that is redundant with its nouns, they will almost certainly get bored. This GREATLY decreases the likelihood of them reading to the end or sharing. Word fatigue literally tires the reader out.
+People might agree with what I'm saying, but they won't have that knee-jerk reaction to share my tweet. If they're reading an article that is redundant with its nouns, they will almost certainly get bored. This GREATLY decreases the likelihood of them reading to the end or sharing. Word fatigue literally tires the reader out.
 
 If you can't feel the difference that avoiding word fatigue makes, I'll give you another example:
 
@@ -334,7 +334,7 @@ I use this example to show you how I carefully avoided word fatigue in some of t
 
 In the first two sentences, "not unique" = "aren't so different no one understands". I could have lazily used the word "unique" twice, but that would have instantly triggered a case of word fatigue for the reader.
 
-In the last two sentences, you see me avoid a similar trap.
+In the last two sentences, you see me avoiding a similar trap.
 
 "Just as bad and made it" ≈ "even worse and flourished". This trap is a little more inconspicuous, but I avoid it by the usage of stylistic parallelism. Don't worry if that last sentence brought back nightmares of high school English. I explain more in my ebook “[Engagement Is The New Cocaine: The Art and Science Of Writing Awesomely Addictive Tweets](https://engagementisthenewcocaine.com/).”
 
@@ -380,7 +380,7 @@ In the first sentence, I (the subject) walked (the verb) the dog (the object.) I
 
 Now if that wasn't clear, I understand. The difference between active versus passive voice eluded me for quite some time. Then I had a moment of clarity: active and passive voice are grammatical structures rather representations of reality.
 
-Most of the confusion comes from the fact that in both sentences, the subject is still performing the action on the object. In sentence one, I walk the dog. In sentence two, the dog is walked by me. The difference is only structurally.
+Most of the confusion comes from the fact that the subject is still performing the action on the object in both sentences. In sentence one, I walk the dog. In sentence two, the dog is walked by me. The difference is only structurally.
 
 Sentence 1 follows subject-verb-object. That structure makes it active. Sentence 2 follows object-verb-subject. That structure makes it passive.
 
@@ -407,16 +407,16 @@ Adverbs of time and place tend to be non-admissible, but they are still unnecess
 Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always***&nbsp;useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
 
 * "I ***quickly ran*** home" can be rewritten as "I **sprinted** home" or "I **dashed** home".
-* I ***thought*** intensely about the problem.
+* I ***thought*** intensely about the problem can be rewritten as&nbsp;
 * I ***furiously*** wrote the letter.
 
-The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue. But writing gives you a chance to be precise and measured.
+The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
 
 &nbsp;
 
 &nbsp;
 
-## A recap of 14 simple tips to write your best content:
+## A recap of 15 simple tips to write your best content:
 
 1. Have something to say
 2. Write every day
