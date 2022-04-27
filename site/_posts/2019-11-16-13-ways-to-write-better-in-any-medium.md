@@ -11,7 +11,7 @@ description: >-
   Tired of being a starving artist? Discover 12 simple ways on how to be a
   better writer and develop the writing skills you've always dreamed of.
 ---
-Here are 13 of the best tips I know that will help you become a better writer. I've used them to increase sales and improve the marketing of my writing program and book.
+Here are 15 of the best tips I know that will help you become a better writer. I've used them to increase sales and improve the marketing of my writing program and book.
 
 You probably didn't learn any of these in school, but school isn't in the business of teaching you how to
 
@@ -23,7 +23,7 @@ You probably didn't learn any of these in school, but school isn't in the busine
 
 Or do any of the things that a career writer does. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you a good writer is like learning how to punch and hoping that it makes you a good fighter.
 
-Follow the simple tips below and you'll be able to get paid from your words.
+Follow the simple tips below and you'll be able to get paid for your words.
 
 ## 1) Have something to say
 
@@ -58,7 +58,7 @@ There isn't a day that goes by where I don't try to write ***something***. You s
 
 It doesn’t matter what you write. It doesn’t matter how much you write. If you want to become a better writer, you need to write every day.
 
-### Here's a short list of things to write to improve your skills:
+### Here's a shortlist of things to write to improve your skills:
 
 * "How to" guides
 * Fiction
@@ -92,7 +92,7 @@ The best writers force people to form an emotional connection with the material.
 
 Your story might be cool and inspiring, but if you can’t tell it in a way that resonates with people then your writing will underperform.
 
-## 4) Science and math makes you better with words
+## 4) Science and math make you better with words
 
 The wonderful thing about mathematics and the sciences is that you NEED a large vocabulary to discuss things. This might surprise people, but some of the best writers have a background in math and science.
 
@@ -100,7 +100,7 @@ The world is a large place with many things that behave in many different ways u
 
 However, it’s not the size of the vocabulary that matters most. It’s the efficiency and precision with which it’s used that’s important.
 
-Scientific or technical writing demands that your communication is efficient, clear and precise. Word choice is important. Precise language is required to exactly describe an equation or phenomena.
+Scientific or technical writing demands that your communication is efficient, clear, and precise. Word choice is important. Precise language is required to exactly describe an equation or phenomena.
 
 Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve and the better writer you'll become.
 
@@ -116,7 +116,7 @@ You only do the writing. They do the reading. This means that you need to at lea
 
 Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will improve the quality of your writing. You’ll have to be the judge, but automatically writing off criticism is one of the major barriers to success.
 
-Not everyone who gives you criticism is a hater and not every hater is wrong. If you want to be a great writer, there will be times that you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
+Not everyone who gives you criticism is a hater and not every hater is wrong. If you want to be a great writer, there will be times when you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
 
 However, not all criticism is equal.
 
@@ -150,17 +150,17 @@ If English is your native language, you likely use these forms without even thin
 
 This understanding will make your writing more clear and purposeful.
 
-## 7) [Use twitter, facebook, and other social media](/how-to-get-more-twitter-followers/)
+## 7) [Use Twitter, Facebook, and other social media](/how-to-get-more-twitter-followers/)
 
 Twitter forces you to express your message in 280 characters or less. That's two–maybe three–short sentences you get to make your point.
 
-It's a platform that rewards efficient writers. ***It forces you to approach your writing with business like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out there and to be engaged with.
+It's a platform that rewards efficient writers. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out there and to be engaged.
 
 If you want to be excellent at it – and I am – then you have to get better at expressing meaningful ideas in these short sentences. When proofreading blog posts, I often take a long sentence and condense it into a Twitter post.
 
 This improves clarity. It also provides a solid tweet and allows you to market your writing more effectively.
 
-Using Twitter to improve your writing also has another major benefit: the size of your audience is a proxy indicator for the effectiveness of your writing. Generally speaking, if you know h[ow to get more followers on Twitter or generate engagement on facebook](/how-to-grow-your-twitter-following/), this means that you are expressing yourself with words in an engaging manner.
+Using Twitter to improve your writing also has another major benefit: the size of your audience is a proxy indicator of the effectiveness of your writing. Generally speaking, if you know h[ow to get more followers on Twitter or generate engagement on Facebook](/how-to-grow-your-twitter-following/), this means that you are expressing yourself with words in an engaging manner.
 
 This is similar to the effect that SEO has on blog posts.
 
@@ -186,7 +186,7 @@ Google is in the business of providing people with easy-to-read content that sol
 
 Granted, Steve was referring to a lot of outdated SEO practices (like keyword stuffing), but the general point still stands. With machine learning and the improvement of SEO search algorithms, computers now read a lot closer to how a human would. Interestingly enough, this makes his point even more valid but in a different fashion than I think he expected.
 
-If you write to best SEO standards, your writing will be [clear, easy to read, and extremely helpful](/why-is-writing-important/). You'll build authority and trust. In much the same way that growing on Twitter demonstrates that you're knowledge and engaging, improving your placement in search engine rankings is another clear indicator of your writing ability.
+If you write to the best SEO standards, your writing will be [clear, easy to read, and extremely helpful](/why-is-writing-important/). You'll build authority and trust. In much the same way that growing on Twitter demonstrates that you're knowledgeable and engaging, improving your placement in search engine rankings is another clear indicator of your writing ability.
 
 If your writing is organized, purposeful, and helps many people, then there's a good chance that you'll automatically rank well for the keywords surrounding your topic or niche.
 
@@ -202,7 +202,7 @@ We pick a topic, list points in support of that topic, and turn those into sente
 
 It structures your thoughts, which makes writing easier. You can produce a good article this way. The ones I’ve done with this process don’t turn out too badly.
 
-The problem with this method is that it’s *\*\*boring as hell. \*\**Many of the best writers simply prefer to create and edit later.
+The problem with this method is that it’s *boring as hell. &nbsp;*Many of the best writers simply prefer to create and edit later.
 
 [The Writing Cooperative offers this piece of advice when it comes to writing an outline for content:](https://writingcooperative.com/famous-authors-on-outlining-a-novel-should-you-do-it-de6f1a93eedc){: target="_blank" rel="noopener noreferrer"}
 
@@ -232,7 +232,7 @@ Those of us educated in the American school system probably hate the Oxford comm
 
 If you don’t, Google it. The best writers love it because it makes everything easier. It's like all points of grammar; you don't need to become obsessive about it. Rather you need to know just enough to make sure that the rules don't work against you.
 
-Basic grammar and punctuation go a long way in helping you share you ideas. Even if your readers don’t have a sophisticated grasp of the language rules, they’ll know when you’ve broken them and this *will* have a [negative impact on communication.](https://bodhih.com/training-and-development/grammar-important-communication/){: target="_blank" rel="noreferrer noopener"}
+Basic grammar and punctuation go a long way in helping you share your ideas. Even if your readers don’t have a sophisticated grasp of the language rules, they’ll know when you’ve broken them and this *will* have a [negative impact on communication.](https://bodhih.com/training-and-development/grammar-important-communication/){: target="_blank" rel="noreferrer noopener"}
 
 ### The only goal
 
@@ -250,19 +250,19 @@ Learn the grammar basics and avoid common grammar mistakes.
 
 Good grammar and punctuation will improve the quality and clarity of your writing more than anything else you do, but there is a point of diminishing returns. If your writing mechanics are strong, this next tip may be where you are lacking.
 
-[For help with grammar, check out Grammarly; a help piece of software that has a free and paid program to improve your content.](https://www.grammarly.com/){: target="_blank" rel="noopener noreferrer"}
+[For help with grammar, check out Grammarly; a helpful piece of software that has a free and paid program to improve your content.](https://www.grammarly.com/){: target="_blank" rel="noopener noreferrer"}
 
 ## 11) The best writers live and learn from life
 
 All of the best writers have taken from rich and varied life experiences to create stories and prose that we can't help but love.
 
-A richly lived life full of tragedy and triumph is how you develop your "brandvoice".
+A richly lived life full of tragedy and triumph is how you develop your "brand voice".
 
-Your brandvoice is what makes your writing unique and allows you to stand out despite out. You don't have to be highly skilled if you write authentically and from your life.
+Your brand voice is what makes your writing unique and allows you to stand out despite out. You don't have to be highly skilled if you write authentically and from your life.
 
 Your age doesn’t matter but your experience does. If you want to connect with your audience, you need life experience.
 
-You don't need to be an expert. You don't even need to have a lot of things figured out. But you do need to have a range of experiences that you can draw from.
+You don't need to be an expert. You don't even need to have a lot of things figured out. But you need to have a range of experiences from which you can draw.
 
 ### Why experience matters
 
@@ -294,11 +294,11 @@ It also, more importantly, helps you develop a style that is a combination of th
 
 ### It doesn't matter what you read
 
-The best things for you to read are things that force you to focus for long periods of time, away from a screen. The genre or style isn't particularly important, but it's best if it's a physical book; not something that you read on your kindle or on the internet. So read whatever you like, as long as it's a not digital.
+The best things for you to read are things that force you to focus for long periods of time, away from a screen. The genre or style isn't particularly important, but it's best if it's a physical book; not something that you read on your kindle or on the internet. So read whatever you like, as long as it's not digital.
 
 Whether you read fiction, no fiction, study ads, or read emails, the only thing that matters is that it's a decent enough length to force you to concentrate. When you concentrate, try to absorb the essence of the writing.
 
-The only way to develop this skill is by reading. Practice reading something everyday that's at least 2000 words. That might sound like a lot to read, but I promise you'll easily go through more than that if you've picked something interesting. To put it in perspective, if you've read this far then you've cut through about 2000 words in this article alone.
+The only way to develop this skill is by reading. Practice reading something every day that's at least 2000 words. That might sound like a lot to read, but I promise you'll easily go through more than that if you've picked something interesting. To put it in perspective, if you've read this far then you've cut through about 2000 words in this article alone.
 
 ## 13) Learn the power of pronouns, synonyms, and implication
 
