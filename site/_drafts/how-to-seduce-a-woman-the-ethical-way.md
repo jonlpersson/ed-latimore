@@ -14,11 +14,13 @@ Whether intentional or incidental, this is a person who knows how to be seductiv
 
 Others have to study dating advice and consciously learn seduction techniques. If you’re reading this article, you’re probably in this camp. However, that’s not a problem.
 
-The good news is none of this is rocket science. Learning to seduce women is easier than you think. You just need to understand the principles of seduction.
+The good news is none of this is rocket science. Learning to seduce women is easier than you think. You just need to understand the principles of seduction. After you know those, then you can use a solid step-by-step, ethical strategy for seduction.
 
 Now I want to give you a disclaimer: I’m not a relationship expert. I just understand people and I’ve been in a solid relationship for over a decade. What I’m teaching you is simply applied psychology that I’ve tested in my own life.
 
-By the end of this article, you’ll know some simple ways to make yourself so sexually magnetic that your partner won’t be able to keep their hands off you.
+By the end of this article, you’ll know some simple ways to make yourself so sexually magnetic that your partner won’t be able to keep their hands off you. There are no tricks or lies.
+
+Just honest seduction that results in two people finding one another.
 
 ## The 10 Principles of Seduction
 
