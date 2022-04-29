@@ -6,9 +6,9 @@ permalink: /how-to-seduce-a-woman/
 tags:
   - dating-and-relationships
 description: >-
-  If you're tired of reading stuff written by sleazy pick up artists, this is an
+  If you're tired of reading stuff written by sleazy pick-up artists, this is an
   ethical guide with no tricks or manipulation.
-image:
+image: /assets/images/drafts/seducing-a-woman.jpg
 ---
 Ever wondered why some guys seem to just ooze sex appeal? We all know someone who’s objectively a 6/10 at best, but has no shortage of first dates, relationship offers, or flirtations.
 
