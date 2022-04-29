@@ -150,7 +150,7 @@ I have an excellent article that teaches you how to develop your conversation sk
 
 For many women, the most seductive men are those with a strong, powerful, masculine presence. This again links up with evolutionary biology.
 
-Women’s biology means they look for men that can protect and provide for them. They want strong, successful, powerful men. This is why the “strong, silent type” is an archtype of female desire.
+Women’s biology means they look for men that can protect and provide for them. They want strong, successful, powerful men. This is why the “strong, silent type” is an archetype of female desire.
 
 I’m not suggesting that you try and lift up a Range Rover, or pull a sword from a stone in a show of physical strength. Strength can be demonstrated in many ways, and it doesn’t have to be physical. It can also be portrayed through things like wealth, influence, and how you interact with others.
 
@@ -174,9 +174,9 @@ Dress sharp when you’re going on a night out. When in doubt, make sure your cl
 
 Speaking of which, If you’re not in good shape already, start hitting the gym.
 
-You don’t necessarily want to get ‘swoll’, but you should definitely try and tone up.[Research from UCLA](https://journals.sagepub.com/doi/abs/10.1177/0146167207303022){: target="_blank"} shows that women find ripped, built men sexier than both beefy, bulked-up guys and skinny dudes.
+You don’t necessarily want to get ‘swoll’, but you should definitely try and tone up.&nbsp;[Research from UCLA](https://journals.sagepub.com/doi/abs/10.1177/0146167207303022){: target="_blank"} shows that women find ripped, built men sexier than both beefy, bulked-up guys and skinny dudes.
 
-If you can, grow a beard. In[one recent study](https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226){: target="_blank"}, researchers found that women find men with heavy stubble and full beards more attractive than clean-shaven men and those with light stubble.
+If you can, grow a beard. In&nbsp;[one recent study](https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226){: target="_blank"}, researchers found that women find men with heavy stubble and full beards more attractive than clean-shaven men and those with light stubble.
 
 This is because facial hair is suggestive of masculinity, maturity, dominance, and aggression. It’s a secondary sex characteristic that signals you’re a strong healthy man. Since women want a strong healthy mating partner, let that 5-o’clock shadow grow out for a week or two.
 
@@ -200,11 +200,13 @@ I’m not teaching you how to be predatory. That’s not what this is about.
 
 We’re not trying to manipulate women into having sex with us. We’re becoming more attractive to them so they’re more in getting with us.
 
-Don’t try to seduce women who clearly don’t want your attention. Likewise, those already in monogamous relationships are off-limits. You never know what kind of boyfriend she has. Crime of passion are a real thing and he may be the kind of guy who doesn’t care about going to prison.
+Don’t try to seduce women who clearly don’t want your attention. Likewise, those already in monogamous relationships are off-limits. You never know what kind of boyfriend she has. Crimes of passion are a real thing and he may be the kind of guy who doesn’t care about going to prison.
 
 Somewhat counter-intuitively, you’re not necessarily looking for someone you gel instantly with and have tons in common with either. After all, you’re not looking for a new best friend here, right?
 
 Rather, the easiest women to seduce are those who might see something exotic or interesting in you. If you can offer them something new, you’ll have more interesting topics to talk about, be more exciting and mysterious, and generally more seductive.
+
+***\[Read:[12 rules for a man's relationship](/relationship-advice/)\]***
 
 ## Master the ‘In’
 
@@ -220,17 +222,19 @@ The trick is to approach her indirectly.
 
 One way to do this might be to walk over tall and say something playful, maybe make a witty joke about something you’ve noticed about her, or comment on the music. Make it seem like you’re a fun-loving guy that *she* would want to talk to, but that *you* can take it or leave it.
 
-You want to start a conversation. That’s all. There’s no need to aggressively compliment her appearance. Even though she knows you’re talking to her because you like how she looks and she put a lot of appearence to how she looks, you don’t need to start out the conversation about that.
+You want to start a conversation. That’s all. There’s no need to aggressively compliment her appearance. Even though she knows you’re talking to her because you like how she looks and she put a lot of effort in to how she looks, you don’t need to start out the conversation about that.
 
-Tell a story. Ask an open ended question. Comment on your drink or something interesting that notice about her. Just avoid:
+Tell a story. Ask open-ended questions. Comment on your drink or something interesting that notice about her. Just avoid:
 
-* Common boring questions. Where are you from? Have you been here before? What do you do for a living
-* Pick-up lines. Even if their funny and obviously exaggerated, you likely don’t have the sense of humor to pull them off. And for that matter, she probably doesn’t have it to know they’re jokes.
-* Comments on her body. You can comment on her clothing, that’s about it. But if she didn’t have control over it, avoid commenting on it—until you’re more comfortable. Eyes, hair, ass, boobs, legs, whatever.
+* **Common boring questions.** Where are you from? Have you been here before? What do you do for a living
+* **Pick-up lines.** Even if their funny and obviously exaggerated, you likely don’t have the sense of humor to pull them off. And for that matter, she probably doesn’t have it to know they’re jokes.
+* **Comments on her body.** You can comment on her clothing, that’s about it. But if she didn’t have control over it, avoid commenting on it—until you’re more comfortable. Eyes, hair, ass, boobs, legs, whatever.
+
+***\[Read: [5 ways to communicate and start a conversation](/how-to-start-a-conversation/)\]***
 
 ## Non-verbal communication
 
-While you’re talking, think about your non-verbal language too. Conversational skills are essential, but you need to be able to be able to be able to use non-verbal communication, as it is one of the most powerful tools of seduction.
+While you’re talking, think about your non-verbal language too. Conversational skills are essential, but you need to be able to use non-verbal communication, as it is one of the most powerful tools of seduction.
 
 We can break non-verbal communication down into three areas: body language, eye contact, and facial expression. Let’s take a look at each of them.
 
@@ -256,9 +260,9 @@ If she starts doing the same or looks down at your lips, it’s a good sign that
 
 ### Facial Expression
 
-&nbsp;A[psychological study](https://www.reuters.com/article/us-smiles-sex/brooding-men-smiling-women-seen-as-sexy-study-idUSTRE74N7CJ20110525){: target="_blank"} into how facial expressions were perceived as attractive by the opposite sex found that a brooding facial expression is the most attractive to women.
+&nbsp;A&nbsp;[psychological study](https://www.reuters.com/article/us-smiles-sex/brooding-men-smiling-women-seen-as-sexy-study-idUSTRE74N7CJ20110525){: target="_blank"} into how facial expressions were perceived as attractive by the opposite sex found that a brooding facial expression is the most attractive to women.
 
-You might have thought that smiling is a good idea, but actually, it’s not. Smiling was perceived as the most attractive trait in women to male participants but it didn’t have quite the same effect the other way around. Sexual attraction is not symmetrical
+You might have thought that smiling is a good idea, but actually, it’s not. Smiling was perceived as the most attractive trait in women to male participants but it didn’t have quite the same effect the other way around. Sexual attraction is not symmetrical.
 
 Smiling tends to elicit trust and conveys friendliness, but it isn’t effective when it comes to carnal sexual attractiveness. It can be construed as needy, weak, and desperate. Smile when you’re trying to make friends, not when you’re trying to get laid.
 
@@ -286,6 +290,8 @@ You already have her attention, so you don’t need to keep being dismissive and
 
 It can take hours - or even multiple dates across weeks - for some women to become sufficiently comfortable around you to have sex. Other women might be happy to have a one-night stand. It all depends on the person.
 
+**\[Read: [How to get into a relationship](/how-to-get-into-a-relationship/)\]**
+
 ## Initiate Touch
 
 After you’ve been flirting a while and she’s more comfortable around you, you can start to tentatively initiate some physical contact.
@@ -300,7 +306,7 @@ Just make sure you know that she’s comfortable with it and, again, take it nic
 
 This step is best saved until you’re nearly ready to ‘go in for the kill’, so to speak; when you’ve spent a few hours (or several dates) with the lady in question and there’s a definite spark between you.
 
-Once you definitely have a connection and you think she might want to come home with you, you shouldn’t be trying to convince her that you’re worth talking to anymore—you’re trying to [get her horny](https://www.schoolofsquirt.com/make-her-horny/){: target="_blank"}.
+Once you definitely have a connection and you think she might want to come home with you, you shouldn’t be trying to convince her that you’re worth talking to anymore—you’re trying to [get her horny](https://edlatimore--schoolof.thrivecart.com/try-triggers/){: target="_blank"}.
 
 One way we can do that is to stimulate her erogenous zones. Erogenous zones are areas of the female anatomy that are especially sensitive and stimulate sexual responses.
 
