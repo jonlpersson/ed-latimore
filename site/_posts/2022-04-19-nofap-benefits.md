@@ -132,14 +132,14 @@ It all starts with doing the work.
 
 ### References
 
-[1]: _Enough Is Enough_. Porn Industry Archives. [https://enough.org/stats_porn_industry_archives](https://enough.org/stats_porn_industry_archives). (Accessed April 19, 2022)
+[^1]: _Enough Is Enough_. Porn Industry Archives. [https://enough.org/stats_porn_industry_archives](https://enough.org/stats_porn_industry_archives). (Accessed April 19, 2022)
 
-[2]: Kuhn, Simone. Gallinat, Jurgen. _JAMA Psychiatry_. Brain Structure and Functional Connectivity Associated With Pornography Consumption: The Brain on Porn. July 2014. [https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574](https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574) (Accessed April 18, 2022)
+[^2]: Kuhn, Simone. Gallinat, Jurgen. _JAMA Psychiatry_. Brain Structure and Functional Connectivity Associated With Pornography Consumption: The Brain on Porn. July 2014. [https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574](https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574) (Accessed April 18, 2022)
 
-[3]: Voon, Valerie. _Cambridge University_. Neural Correlates of Sexual Cue Reactivity in Individuals with and without Compulsive Sexual Behaviours. July 2014. [https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction](https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction) (Accessed April 19, 2022)
+[^3]: Voon, Valerie. _Cambridge University_. Neural Correlates of Sexual Cue Reactivity in Individuals with and without Compulsive Sexual Behaviours. July 2014. [https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction](https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction) (Accessed April 19, 2022)
 
-[4]: _The Annie E. Casey Foundation. _Generation Z and Mental Health. October 16, 2021. [https://www.aecf.org/blog/generation-z-and-mental-health](https://www.aecf.org/blog/generation-z-and-mental-health) (Accessed April 19, 2022)
+[^4]: _The Annie E. Casey Foundation. _Generation Z and Mental Health. October 16, 2021. [https://www.aecf.org/blog/generation-z-and-mental-health](https://www.aecf.org/blog/generation-z-and-mental-health) (Accessed April 19, 2022)
 
-[5]: Park, Brian. Wilson, Gary. Berger, Jonathan. Christman, Matthew. Reina, Bryn. Bishop, Frank. Klam, Warren. Doan, Andrew. _National Library of Medicine_. Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. September 6, 2016. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/) (Accessed April 19, 2022)
+[^5]: Park, Brian. Wilson, Gary. Berger, Jonathan. Christman, Matthew. Reina, Bryn. Bishop, Frank. Klam, Warren. Doan, Andrew. _National Library of Medicine_. Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. September 6, 2016. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/) (Accessed April 19, 2022)
 
-[6]: Bronner, Gila. Ben-Zion, IZ. _The Journal of Sexual Medicine_. Unusual masturbatory practice as an etiological factor in the diagnosis and treatment of sexual dysfunction in young men. March 28, 2014. [https://www.ncbi.nlm.nih.gov/pubmed/24674621](https://www.ncbi.nlm.nih.gov/pubmed/24674621) (Accessed April 19, 2022)
+[^6]: Bronner, Gila. Ben-Zion, IZ. _The Journal of Sexual Medicine_. Unusual masturbatory practice as an etiological factor in the diagnosis and treatment of sexual dysfunction in young men. March 28, 2014. [https://www.ncbi.nlm.nih.gov/pubmed/24674621](https://www.ncbi.nlm.nih.gov/pubmed/24674621) (Accessed April 19, 2022)
