@@ -11,7 +11,6 @@ hero:
     Boxing teaches you more than just how to fight. It teaches you about life.
     Here are some life lessons from boxing that will change your life.
 page_blocks:
-  - _id: posts_relevant
   - _id: block_rich_text
     alignment:
     text_markdown: >-
@@ -188,4 +187,5 @@ page_blocks:
 
 
       ## Other articles about boxing
+  - _id: posts_relevant
 ---
