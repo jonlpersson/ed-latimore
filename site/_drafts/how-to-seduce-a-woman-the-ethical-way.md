@@ -34,7 +34,7 @@ If a woman was going to get with you, these principles make sure you don’t rui
 
 Humans are just animals and, as animals, we’re all searching for the best potential mate.
 
-Women are looking for a specific set of traits in their sexual partners, including status, health, social intuition, and pre-selection. Being seductive is all about demonstrating those traits through the way you act around women.
+Women are looking for specific traits in their sexual partners, including status, health, social intuition, and pre-selection. Being seductive is all about demonstrating those traits through the way you act around women.
 
 From that, we can posit 10 principles of seduction. Master all 10 of these basic principles, and you’ll find that you have a lot more success with the opposite sex.
 
@@ -42,13 +42,15 @@ From that, we can posit 10 principles of seduction. Master all 10 of these basic
 
 Confidence signals to women that you are intrinsically desirable and valuable.
 
-Society often talks about ‘overconfidence’ as if it’s a bad thing, but that’s not true when it comes to seducing women. On the contrary, it’s quite the opposite. Overconfident guys - even when that confidence is misplaced - are more seductive, according to[psychological research](https://www.forbes.com/sites/daviddisalvo/2014/09/07/understanding-the-seductive-power-of-overconfidence/#2e242ac473d2){: target="_blank"}. That’s just the way it is.
+Society often talks about ‘overconfidence’ as if it’s a bad thing, but that’s not true when it comes to seducing women. On the contrary, it’s quite the opposite. Overconfident guys - even when that confidence is misplaced - are more seductive, according to&nbsp;[psychological research](https://www.forbes.com/sites/daviddisalvo/2014/09/07/understanding-the-seductive-power-of-overconfidence/#2e242ac473d2){: target="_blank"}. That’s just the way it is.
 
 Why? Because belief sells.
 
 It’s a matter of social status. When we act overconfident, we confer a magical social status that women readily fall for. Belief in your own ability creates a reality distortion field, and women start to see you the way you see yourself.
 
 This is true regardless of whether that self-confidence is justified or not. A loser who thinks he’s a king is more attractive than a king who thinks he’s a loser.
+
+***\[Read: [How to be more confident: 12 ways that work](/how-to-build-confidence/)\]***
 
 This seems paradoxical because very often, a woman’s gut reaction to overconfident guys is to think they’re jerks. However, studies show they’re more likely to climb into bed with an overconfident jerk than with a man who is realistically modest.
 
@@ -78,6 +80,8 @@ Women will be more receptive to light touches on dates and escalation after, and
 
 If you’re not blessed with natural good looks, don’t worry. Dressing well, staying in good shape, and fixing your hair nicely, can get you 90% of the way, and self-confidence will get you the rest of the way there.
 
+***\[Read: [How to be an attractive man](/how-to-be-an-attractive-man/)\]***
+
 ## 4\. Intrigue / Mystery
 
 Let’s face it: guys are thirsty creatures, and women get hit on every day. You can bet that if you’re trying to seduce someone, you’re not the first guy to do so. As a result, women are used to being hit on - it’s boring.
@@ -96,13 +100,11 @@ To truly master the art of seduction, you’ve got to work on building anticipat
 
 ## 6\. Touch
 
-&nbsp;
-
 Touch is crucial to being seductive.
 
 Remember back when you were young and your crush’s knees bumped into yours under the desk? Remember that familiar jolt of electricity it sent coursing through your veins?
 
-Well, if innocently bumping knees was enough to elicit that response, just imagine the sparks that fly when you put a hand around a woman’s waist, or on her thigh. Physical contact is hugely important to arousal. Master the art of the subtle, seductive touch, light touch and everything you do will be much more effective.
+Well, if innocently bumping knees was enough to elicit that response, just imagine the sparks that fly when you put a hand around a woman’s waist, or on her thigh. Physical contact is hugely important to arousal. Master the art of the subtle, seductive touch, light touch, and everything you do will be much more effective.
 
 Obviously, touch is also something you’ve got to be careful not to initiate unless it’s the right time and you know she’ll be into it. Otherwise, it goes from being a light turn-on to a strong turn-off.
 
@@ -110,7 +112,7 @@ Obviously, touch is also something you’ve got to be careful not to initiate un
 
 Aside from the tactile sense, her other senses are important too. A woman’s senses play a pivotal role in her sexual response.
 
-Take the olfactory sense, smell, for example. Did you know that the[pheromones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987372/){: target="_blank"} in your sweat act as sexual chemosignals and can have profound effects on a woman’s mood and sexuality? Now I’m not suggesting you go out to the club after a workout, pouring in sweat - that’s not going to work. A nice aftershave, on the other hand, might work wonders.
+Take the olfactory sense, smell, for example. Did you know that the&nbsp;[pheromones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987372/){: target="_blank"} in your sweat act as sexual chemosignals and can have profound effects on a woman’s mood and sexuality? Now I’m not suggesting you go out to the club after a workout, pouring in sweat - that’s not going to work. A nice aftershave, on the other hand, might work wonders.
 
 Another example of this is finding an excellent cologne. I’ve only recently started wearing cologne in the past few years, but once you know where and how to look, then it’s a powerful tool in your arsenal.
 
@@ -122,7 +124,7 @@ Imagine the sexiest scene in a movie you can think of. I’m willing to bet that
 
 I can’t overstate how important eye contact is. When you meet someone’s gaze, you convey a whole bunch of biological signals. Not only does meeting her gaze let you know you’re interested in her, it suggests power and confidence.
 
-It’s also been proven in several studies that sending and receiving[eye contact](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558178/){: target="_blank"} enhances arousal.
+It’s also been proven in several studies that sending and receiving&nbsp;[eye contact](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558178/){: target="_blank"} enhances arousal.
 
 Of course, I’m not talking about a creepy, wide-eyed, desperate stare here, but a subtle, lingering glance in her direction followed by some intense, suggestive eye contact later on in the night is a proven recipe for success.
 
@@ -141,6 +143,8 @@ Women should want you to want them. Or, at the very least, they should want to a
 A lot of this comes down to practicing your social skills and learning how to be the center of a conversation without dominating it. You want to learn how to lead people to be curious about you without trying. This is the delicate and powerful art of conversation.
 
 I have an excellent article that teaches you how to develop your conversation skills.
+
+***\[Read: [How to be more likable: 5 strategies that work](/how-to-be-likeable/)\]***
 
 ## 10\. Strength
 
