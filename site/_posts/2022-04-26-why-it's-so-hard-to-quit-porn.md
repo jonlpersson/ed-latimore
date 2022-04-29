@@ -150,7 +150,7 @@ The rest is up to you.
 
 [^3]: _NBC News_. Things Are Looking Up in America's Porn Industry. January 20, 2015. [https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431](https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431) (Accessed April 22, 2022)
 
-[^4]: _American Psychological Association. _By the Numbers, Men and Depression. December 2015. [https://www.apa.org/monitor/2015/12/numbers](https://www.apa.org/monitor/2015/12/numbers) (Accessed April 22, 2022)
+[^4]: _American Psychological Association._ By the Numbers, Men and Depression. December 2015. [https://www.apa.org/monitor/2015/12/numbers](https://www.apa.org/monitor/2015/12/numbers) (Accessed April 22, 2022)
 
 [^5]: _National Institute of Mental Health_. Major Depression. January 2022. [https://www.nimh.nih.gov/health/statistics/major-depression](https://www.nimh.nih.gov/health/statistics/major-depression) (Accessed April 22, 2022)
 
