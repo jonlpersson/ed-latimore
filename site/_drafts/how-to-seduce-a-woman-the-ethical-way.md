@@ -5,7 +5,9 @@ title: How to seduce a woman, the ethical way
 permalink: /how-to-seduce-a-woman/
 tags:
   - dating-and-relationships
-description:
+description: >-
+  If you're tired of reading stuff written by sleazy pick up artists, this is an
+  ethical guide with no tricks or manipulation.
 image:
 ---
 Ever wondered why some guys seem to just ooze sex appeal? We all know someone who’s objectively a 6/10 at best, but has no shortage of first dates, relationship offers, or flirtations.
