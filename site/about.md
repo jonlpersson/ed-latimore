@@ -19,6 +19,8 @@ page_blocks:
   - _id: block_logos
 ---
 
+{% include widgets/youtube.html id="Q22X12TakMs" caption="Watch the mini-documentary ConvertKit created about me." %}
+
 I like to tell people that I’ve lived four different lives and from each of these lives, I’ve learned something that’s helped me become who I am today.
 
 In my first life, I was born and raised in the public housing projects of Pittsburgh, PA. Though I knew both my parents, I didn’t live with them. I was raised solely by my mom. I have memories of my dad, but it’s safe to say that I received nothing in the way of masculine guidance.
