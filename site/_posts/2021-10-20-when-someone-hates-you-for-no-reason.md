@@ -24,9 +24,7 @@ Especially when you’re young.
 
 I’ve already written a piece on [why you have haters](https://edlatimore.com/why-you-have-haters-even-if-you-arent-an-asshole/). So I won’t rehash that here. Instead, I’ll help you figure out what to do if you’re currently stuck in this situation.
 
-{% include widgets/toc.html heading="What to do when someone doesn&rsquo;t like you for no reason" list-items="Don&rsquo;t make assumptions, Practice self-awareness, Focus on self-improvement, Don&rsquo;t be a victim, Confront it, Don&rsquo;t seek validation, Go where you&rsquo;re celebrated" list-ids="dont-make-assumptions, practice-self-awareness, focus-on-self-improvement, dont-own-others-feelings, face-conflict-head-on, beware-of-approval-seeking-behaviors, go-where-youre-celebrated" %}
-
-## What to do when some doesn’t like you for no reason
+## What to do when someone doesn’t like you for no reason
 
 In reality, there's always a reason someone doesn’t like you. Though, it may not be readily apparent to you. And the reason they dislike you may or may not actually have anything to do with you.
 
@@ -67,6 +65,8 @@ I’d even go as far as to say, without self-awareness, you’re going to have a
 Luckily, ‘waking up’ to a higher EQ is a gradual process you improve on overtime with self-evaluation.
 
 As you develop a stronger sense of self you start to pick up on other people’s comfort zones. If you stand too close, you take a step back. If you speak too loudly, you measure your tone. If you are constantly talking about yourself, you begin to ask about other people.
+
+***\[Read my original quotes about haters—&gt;[Ed Latimore's 18 quotes about haters](/ed-latimore-hater-quotes/)\]***
 
 ## Focus on self-improvement
 
