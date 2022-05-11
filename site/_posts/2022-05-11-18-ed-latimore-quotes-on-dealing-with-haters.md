@@ -9,7 +9,7 @@ tags:
 description: >-
   Here are my best quotes about dealing with haters, negativity, jealousy, and
   fake friends. Keep these in your heart to feel better.
-image: /assets/images/drafts/quotesabouthaters.jpeg
+image: /assets/images/posts/hatersquotes.jpeg
 ---
 When you log onto social media, it seems like everyone is talking about how many haters they have or how much hate they get because they’re successful. I even wrote an article explaining why haters hate and how to deal with these types of negative people.
 
