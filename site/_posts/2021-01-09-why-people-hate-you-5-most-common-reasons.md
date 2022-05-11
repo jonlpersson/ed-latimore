@@ -38,6 +38,8 @@ That’s ok because today I’m going to tell you why these people are the way t
 
 I’ve had a lot of haters in my time. Some of them are justified, and some of them seemingly hate without reason. But after looking back and reflecting on my experiences, I’ve come to realize that all haters have a few things in common.
 
+***\[Read my original quotes about haters—&gt;[Ed Latimore's 18 quotes about haters](/ed-latimore-hater-quotes/)\]***
+
 ---
 
 ## Haters gonna hate: 5 reasons why you have haters
