@@ -68,13 +68,19 @@ Change seems like a seductive slogan. In fact, it was the basis of Barrack Obama
 
 The people who are already doing well definitely don't want things to change. The people who are moving up also don't want things to change. The only people who want change are the ones suffering at the hands of the system in place.
 
-If they and their sympathizers are the minority, then making changes will lead a difficult rule. However, if there is a majority of supporters and beneficiaries of the new change, only then you should make it. Otherwise, leave things as they were.&nbsp;
+If they and their sympathizers are the minority, then making changes will lead to a difficult rule. However, if there is a majority of supporters and beneficiaries of the new change, only then you should make it. Otherwise, leave things as they were.&nbsp;
 
 ---
 
 &nbsp;
 
-Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;
+> Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;
+
+There's a big difference between being someone's choice out of desire and being someone's choice out of desperation. In the case of the former, they'll do whatever it takes to keep you. In the latter, they'll do just enough to lose you.
+
+From a political standpoint, we saw this play out in the 2020 American presidential election. Joe Biden is not a man with overwhelming charisma. Many of his opponents couldn't imagine how he got the most votes in history. I thought it was quite obvious. His opponent, Donald Trump, was incredibly disliked. So much so that people who don't usually vote, voted against him.
+
+Even now, you don't see people's support of Biden. It borders on ambivalent and disappointment. But their hate for Trump is just as strong.&nbsp;
 
 ---
 
