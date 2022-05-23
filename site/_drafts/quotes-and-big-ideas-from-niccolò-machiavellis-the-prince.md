@@ -5,22 +5,25 @@ title: Quotes and big ideas from Niccolò Machiavelli's "The Prince"
 permalink: /the-prince-machiavelli-quotes/
 tags:
   - quotes-and-summaries
-description:
+description: >-
+  I've collected the big ideas and major quotes from Machiavelli's classic
+  treatise on political philosophy and political theory. These aren't
+  motivational or inspirational quotes. They're pragmatic and useful. 
 image: /assets/images/drafts/the-prince.jpg
 ---
-**The Prince by Niccol&ograve; Machiavelli**
-
 The Price was written by Niccol&ograve; Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to return to a position of power he once held. **He wrote The Prince to gain favor with Lorenzo de Medici** after he fell out of favor with them because he was accused of conspiracy.
 
 Machiavelli states in the book's dedication that he would like to return to a position of authority and that he offers the advice contained in The Prince as the most precious gift he could offer.
 
 Machiavelli himself was an Italian diplomat and political theorist we can assume from the text is well educated in the history, rise, and fall of various rules and kingdoms throughout history.
 
-Throughout The Prince, Machiavelli references everyone from Alexander the Great, Pope Alexander the VI, to Cesare Borgia to make his case for a type of amoral, results-driven, course of action for new Princes to take. He draws on experience as a diplomat to warn about the pitfalls of human nature and how to manipulate it to achieve your political goals.
+Throughout The Prince, Machiavelli references everyone from Alexander the Great, to Pope Alexander the VI, to Cesare Borgia to make his case for a type of amoral, results-driven, course of action for new Princes to take. He draws on experience as a diplomat to warn about the pitfalls of human nature and how to manipulate it to achieve your political goals.
 
 He is particularly impressed and inspired by Cesare Borgia saying of him, "There was one man who showed glimpses of greatness, the kind of thing that made you think he was sent by God for the country's redemption."
 
 Although it is relatively short, the book has made a serious impression on popular culture and political philosophy. It’s responsible for bringing the word "Machiavellian" into usage as an insult to one’s character.
+
+I've collected the big ideas and major quotes from Machiavelli's classic treatise on political philosophy and political theory. I wouldn't exactly call these inspirational quotes, but you will find a wealth of practical knowledge that will enable you to navigate and anticipate human nature to use to your advantage.
 
 ## Big ideas and quotes from Niccol&ograve; Machiavelli’s The Prince
 
@@ -124,7 +127,7 @@ Add to this, that a Prince can never secure himself against a disaffected people
 
 **Men are always averse to enterprises that are attended to with difficulty, and it is impossible not to foresee difficulties in attacking a Prince whose town is strongly fortified and who is not hated by his subjects.**
 
-**A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort. **
+\*\*A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort. \*\*
 
 And here I would call to mind a passage in the Old Testament as bearing on this point. When David offered himself to Saul to go forth and fight Goliath the Philistine champion, Saul encouraged him armed him with his own armor, which David, so soon as he had put it on, rejected, saying that with these untried arms he could not prevail and that he chose rather to meet his enemy with only his sling and his sword. In a word, the armor of others is too wide, or too strait for us; it falls off us, or it weighs us down.
 
