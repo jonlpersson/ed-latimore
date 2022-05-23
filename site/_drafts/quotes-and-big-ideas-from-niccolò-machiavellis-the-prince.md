@@ -56,13 +56,19 @@ For when you are on the spot, disorders are detected in their beginnings and rem
 
 Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers, nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. (fixing problems)
 
-&nbsp;
-
 And there is no quality so self-destructive as liberality; for while you practise it you lose the means whereby it can be practised, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. (Fixing problems)
 
 **A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will in the end be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only. (fixing problems)**
 
 **For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need they turn against you.** (Fixing problems)
+
+**For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony. (fixing problems, managing people)**
+
+Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred. **(fixing problems, managing people)**
+
+Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second. **(fixing problems, managing people)**
+
+**But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself from the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves. (fixing problems, managing people)**
 
 ## Machiavelli on managing reputation
 
@@ -125,14 +131,6 @@ And here I would call to mind a passage in the Old Testament as bearing on this 
 &nbsp;
 
 **Moreover, men are less careful how they offend him who makes himself loved than him who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate. (power of reputation and appearance)**
-
-**For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony. (fixing problems, managing people)**
-
-Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred. **(fixing problems, managing people)**
-
-Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second. **(fixing problems, managing people)**
-
-**But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself from the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves. (fixing problems, managing people)**
 
 &nbsp;
 
