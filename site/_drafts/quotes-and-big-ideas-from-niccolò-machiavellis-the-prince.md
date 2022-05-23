@@ -126,7 +126,11 @@ A good leader has to be a good strategist. Part of being a good strategist is se
 
 ---
 
-Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study.&nbsp;
+> Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study.&nbsp;
+
+So a general perspective to take here is that you should be wary of hiring people to do important things that you don't know anything about. The more vital it is to your safety and success, the more important it is that you're at least an intermediate.
+
+This will keep you from being taken advantage of and being completely reliant on external forces that may not necessarily have your best interest in mind.
 
 &nbsp;
 
