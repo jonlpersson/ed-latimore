@@ -77,9 +77,7 @@ Nevertheless, the ruler is not truly wise who cannot discern evils before they d
 
 Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study.&nbsp;
 
----
-
-And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
+&nbsp;
 
 ---
 
@@ -100,6 +98,10 @@ Be it known, then, that there are two ways of contending, one in accordance with
 ---
 
 But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves.&nbsp;
+
+---
+
+Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.
 
 ## Machiavelli on managing reputation
 
@@ -124,6 +126,10 @@ Returning to the question of being loved or feared, I sum up by saying, that sin
 ---
 
 Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;
+
+---
+
+And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
 
 ## **Machiavelli on paying for help**
 
@@ -161,58 +167,60 @@ To govern more securely some Princes have disarmed their subjects, others have k
 
 For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone.&nbsp;
 
-&nbsp;
+## Machiavelli on managing people
 
-&nbsp;
+Add to this, that a Prince can never secure himself against a disaffected people, their number being too great, while he may against a disaffected nobility, since their number is small. The worst that a Prince need fear from a disaffected people is, that they may desert him, whereas when the nobles are his enemies he has to fear not only that they may desert him, but also that they may turn against him; because, as they have greater craft and foresight, they always choose their time to suit their safety, and seek favor with the side they think will win. Again, a Prince must always live with the same people, but need not always live with the same nobles, being able to make and unmake these from day to day, and give and take away their authority at his pleasure.&nbsp;
 
-But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.
+---
 
-&nbsp;
+Men are always averse to enterprises that are attended to with difficulty, and it is impossible not to foresee difficulties in attacking a Prince whose town is strongly fortified and who is not hated by his subjects.
 
-They who from a private station become Princes by mere good fortune, do so with little trouble but have much trouble to maintain themselves. Such Princes are wholly dependent on the favor and fortunes of those who have made them great, than which supports none could be less stable or secure; and they lack both the knowledge and the power that would enable them to maintain their position.
+---
 
-&nbsp;
+A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort.
 
-&nbsp;
+---
 
-Add to this, that a Prince can never secure himself against a disaffected people, their number being too great, while he may against a disaffected nobility, since their number is small. The worst that a Prince need fear from a disaffected people is, that they may desert him, whereas when the nobles are his enemies he has to fear not only that they may desert him, but also that they may turn against him; because, as they have greater craft and foresight, they always choose their time to suit their safety, and seek favor with the side they think will win. Again, a Prince must always live with the same people, but need not always live with the same nobles, being able to make and unmake these from day to day, and give and take away their authority at his pleasure. (managing your enemies)
+Not to be hated or despised by the body of his subjects, is one of the surest safeguards that a Prince can have against conspiracy. For he who conspires always reckons on pleasing the people by putting the Prince to death; but when he sees that instead of pleasing he will offend them, he cannot summon the courage to carry out his design.
 
-&nbsp;
+---
 
-**Men are always averse to enterprises that are attended to with difficulty, and it is impossible not to foresee difficulties in attacking a Prince whose town is strongly fortified and who is not hated by his subjects.**
+To be brief, a Prince has little to fear from conspiracies when his subjects are well disposed towards him; but when they are hostile and hold him in detestation, he has then reason to fear everything and everyone.
 
-\*\*A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort. \*\*
+---
 
-And here I would call to mind a passage in the Old Testament as bearing on this point. When David offered himself to Saul to go forth and fight Goliath the Philistine champion, Saul encouraged him armed him with his own armor, which David, so soon as he had put it on, rejected, saying that with these untried arms he could not prevail and that he chose rather to meet his enemy with only his sling and his sword. In a word, the armor of others is too wide, or too strait for us; it falls off us, or it weighs us down.
+So that, on the whole, the best fortress you can have, is in not being hated by your subjects. If they hate you no fortress will save you; for when once the people take up arms, foreigners are never wanting to assist them.
 
-&nbsp;
+---
 
-&nbsp;
+And it will always happen that he who is not your friend will invite you to neutrality, while he who is your friend will call on you to declare yourself openly in arms.
 
-&nbsp;
+---
 
-&nbsp;
+And here let it be noted that a Prince should be careful never to join with one stronger than himself in attacking others, unless, as already said, he be driven to it by necessity. For if he whom you join prevails, you are at his mercy.
 
-**Not to be hated or despised by the body of his subjects, is one of the surest safeguards that a Prince can have against conspiracy. For he who conspires always reckons on pleasing the people by putting the Prince to death; but when he sees that instead of pleasing he will offend them, he cannot summon the courage to carry out his design. (fixing problems, managing people)**
+---
 
-**To be brief, a Prince has little to fear from conspiracies when his subjects are well disposed towards him; but when they are hostile and hold him in detestation, he has then reason to fear everything and everyone. (fixing problems, managing people)**
+For there is no way to guard against flattery but by letting it be seen that you take no offense in hearing the truth.
 
-**So that, on the whole, the best fortress you can have, is in not being hated by your subjects. If they hate you no fortress will save you; for when once the people take up arms, foreigners are never wanting to assist them. (managing people, fixing problems)**
-
-And it will always happen that he who is not your friend will invite you to neutrality, while he who is your friend will call on you to declare yourself openly in arms. (managing people)
-
-And here let it be noted that a Prince should be careful never to join with one stronger than himself in attacking others, unless, as already said, he be driven to it by necessity. For if he whom you join prevails, you are at his mercy. (managing people)
-
-**For there is no way to guard against flattery but by letting it be seen that you take no offense in hearing the truth (managing people)**
+---
 
 Men will always grow rogues on your hands unless they find themselves under a necessity to be honest.
 
-**A Prince who rests wholly on Fortune is ruined when she changes.**
+---
+
+**But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.&nbsp;**
+
+---
+
+They who from a private station become Princes by mere good fortune, do so with little trouble but have much trouble to maintain themselves. Such Princes are wholly dependent on the favor and fortunes of those who have made them great, than which supports none could be less stable or secure; and they lack both the knowledge and the power that would enable them to maintain their position.
+
+**A Prince who rests wholly on Fortune is ruined when she changes. (luck)**
 
 For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.
 
-**To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.**
+**To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not. (luck)**
 
-Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favours the young, because they are less scrupulous and fiercer, and command her with greater audacity.
+&nbsp;
 
 &nbsp;
