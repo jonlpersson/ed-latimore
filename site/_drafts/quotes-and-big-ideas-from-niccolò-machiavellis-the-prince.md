@@ -100,13 +100,21 @@ You see this when a company is taken over. A lot of the old leadership is fired 
 
 This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girl's old boyfriend did—even if she liked it—because she's&nbsp;***his***&nbsp;girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
-## Machiavelli on dealing with problems early
+> ## Machiavelli on dealing with problems early
+>
+> When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
 
-When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
+An ounce of prevention is worth a pound of a cure. The earlier you solve a problem, the less likely it is that it will grow into a problem that you can't solve.&nbsp;
 
 ---
 
-Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits.&nbsp;
+> Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits.&nbsp;
+
+This point is in the same vein as making sure that you destroy an enemy completely if you get into conflict with him. However, this is more of a preventative tone.
+
+When you have to be a disciplinarian, any punishment or retribution you exert must be disproportionately severe enough to dissuade a further offense. A slap on the wrist is no punishment at all. Even a punishment that seems reasonable and appropriate will not suffice. It is important to make the punishment be so great that the people you're in charge of leading do not ever think of committing it again.
+
+The importance of this can not be overstated in leadership. It is always easier to simply fire someone that it is to try to rehabilitate them and teach them a lesson. Most times, it's not even worth it either.
 
 ---
 
