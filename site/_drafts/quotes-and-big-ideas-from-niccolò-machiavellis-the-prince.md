@@ -58,6 +58,8 @@ And here comes the question of whether it is better to be loved rather than fear
 
 **It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. (power of reputation and appearance)**
 
+**For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin, and that there may be another course having the appearance of vice, by following which his safety and well-being are secured. (power of reputation and appearance)**
+
 ## **Machiavelli on paying for help**
 
 &nbsp;
@@ -70,6 +72,8 @@ For the gains resulting from mercenary arms are slow, and late, and inconsiderab
 
 **In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.** (paying for help)
 
+For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they be fairly earned are not made good, but fail us when we have occasion to use them. (paying for help)
+
 ## Machiavellian tactics in modern politics
 
 You ought never to suffer your designs to be crossed in order to avoid war, since war is not so to be avoided, but is only deferred to your disadvantage.
@@ -79,6 +83,10 @@ Wherefore, a wise Prince should devise means whereby his subjects may at all tim
 To govern more securely some Princes have disarmed their subjects, others have kept the towns subject to them divided by factions; some have fostered hostility against themselves. (modern politics)
 
 For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone. (modern politics)
+
+&nbsp;
+
+&nbsp;
 
 But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.
 
@@ -104,7 +112,7 @@ And here I would call to mind a passage in the Old Testament as bearing on this 
 
 Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers, nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. (fixing problems)
 
-**For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin, and that there may be another course having the appearance of vice, by following which his safety and well-being are secured. (power of reputation and appearance)**
+&nbsp;
 
 And there is no quality so self-destructive as liberality; for while you practise it you lose the means whereby it can be practised, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. (Fixing problems)
 
@@ -114,7 +122,7 @@ And there is no quality so self-destructive as liberality; for while you practis
 
 **For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need they turn against you.** (Fixing problems)
 
-For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they be fairly earned are not made good, but fail us when we have occasion to use them. (paying for help)
+&nbsp;
 
 **Moreover, men are less careful how they offend him who makes himself loved than him who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate. (power of reputation and appearance)**
 
