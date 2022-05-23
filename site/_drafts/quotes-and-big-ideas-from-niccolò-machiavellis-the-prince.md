@@ -24,7 +24,7 @@ Although it is relatively short, the book has made a serious impression on popul
 
 ## Big ideas and quotes from Niccol&ograve; Machiavelli’s The Prince
 
-![](/assets/images/drafts/the-prince.jpg){: width="334" height="499"}
+![Niccolò Machiavelli's &quot;The Prince&quot;](/assets/images/drafts/the-prince.jpg "Niccolò Machiavelli's &quot;The Prince&quot;"){: width="334" height="499"}
 
 ## **Machiavelli on maintaining power after victory**
 
@@ -42,7 +42,11 @@ And let it here be noted that men are either to be kindly treated, or utterly cr
 
 He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies, than of those who sided with him and aided him in his usurpation only because they were discontented. (after conquering)
 
+## Machiavelli on dealing with problems early
+
 For when you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure. (fixing problems)
+
+## Machiavelli on dealing perception and reputation
 
 &nbsp;
 
