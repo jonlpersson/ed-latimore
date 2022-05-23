@@ -130,13 +130,11 @@ A good leader has to be a good strategist. Part of being a good strategist is se
 
 So a general perspective to take here is that you should be wary of hiring people to do important things that you don't know anything about. The more vital it is to your safety and success, the more important it is that you're at least an intermediate.
 
-This will keep you from being taken advantage of and being completely reliant on external forces that may not necessarily have your best interest in mind.
-
-&nbsp;
+This will keep you from being taken advantage of and being completely reliant on external forces that may not necessarily have your best interest a
 
 ---
 
-A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only.&nbsp;
+> A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only.&nbsp;
 
 ---
 
@@ -256,27 +254,27 @@ And here let it be noted that a Prince should be careful never to join with one 
 
 ---
 
-For there is no way to guard against flattery but by letting it be seen that you take no offense in hearing the truth.
+> For there is no way to guard against flattery but by letting it be seen that you take no offense in hearing the truth.
 
 ---
 
-Men will always grow rogues on your hands unless they find themselves under a necessity to be honest.
+> Men will always grow rogues on your hands unless they find themselves under a necessity to be honest.
 
 ## Machiavelli on opportunity and luck
 
-But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.&nbsp;
+> But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.&nbsp;
 
 ---
 
-A Prince who rests wholly on Fortune is ruined when she changes.&nbsp;
+> A Prince who rests wholly on Fortune is ruined when she changes.&nbsp;
 
 ---
 
-For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.&nbsp;
+> For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.&nbsp;
 
 ---
 
-To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.&nbsp;
+> To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.&nbsp;
 
 &nbsp;
 
