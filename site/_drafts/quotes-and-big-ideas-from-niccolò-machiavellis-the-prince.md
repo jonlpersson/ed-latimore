@@ -207,20 +207,31 @@ For there is no way to guard against flattery but by letting it be seen that you
 
 Men will always grow rogues on your hands unless they find themselves under a necessity to be honest.
 
+## Machiavelli on opportunity and luck
+
+But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.&nbsp;
+
 ---
 
-**But while it was their opportunities that made these men fortunate, it was their own merit that enabled them to recognize these opportunities and turn them to account, to the glory and prosperity of their country. They who come to the Princedom, as these did, by virtuous paths, acquire with difficulty, but keep with ease.&nbsp;**
+A Prince who rests wholly on Fortune is ruined when she changes.&nbsp;
 
 ---
 
-They who from a private station become Princes by mere good fortune, do so with little trouble but have much trouble to maintain themselves. Such Princes are wholly dependent on the favor and fortunes of those who have made them great, than which supports none could be less stable or secure; and they lack both the knowledge and the power that would enable them to maintain their position.
+For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.&nbsp;
 
-**A Prince who rests wholly on Fortune is ruined when she changes. (luck)**
+---
 
-For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.
-
-**To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not. (luck)**
+To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.&nbsp;
 
 &nbsp;
 
-&nbsp;
+## Other notes and big ideas from books I’ve read
+
+* [The Hagakure by Yamamoto Tsunetomo](https://edlatimore.com/hagakure-quotes/)
+* [The Book of Five Rings by Miyamoto Musashi](https://edlatimore.com/the-book-of-five-rings-quotes/)
+* [The Cure for Hate by Tony McAleer](https://edlatimore.com/the-cure-for-hate/)
+* [Klandestine Relationships by Daryl Davis](https://edlatimore.com/daryl-davis-book/)
+* [Thinking in Bets by Annie Duke](https://edlatimore.com/annie-duke-thinking-in-bets-quotes/)
+* [The Art of War by Sun Tzu](https://edlatimore.com/art-of-war-quotes-and-summary/)
+* [The Tao of Jeet Kune Do by Bruce Lee](https://edlatimore.com/tao-of-jeet-kune-do-quotes/)
+* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
