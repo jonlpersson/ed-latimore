@@ -156,6 +156,8 @@ This will keep you from being taken advantage of and being completely reliant on
 
 > Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.
 
+{% include widgets/summary.html id="book-quotes" %}
+
 ## Machiavelli on managing reputation
 
 > The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;
