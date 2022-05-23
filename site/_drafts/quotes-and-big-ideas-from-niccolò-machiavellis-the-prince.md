@@ -62,11 +62,13 @@ Before you engage in a conflict, consider if you're willing and capable to go al
 
 > And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new.&nbsp;
 
-Once again, we have another warning about making changes when you become the leader of an organization. Before I continue this section, I'm referring to a meritocratic system and deciding what products and ideas are valuable. I am NOT talking about any system that depends on non-performative innate characteristics as the basis for promotion or discrimination.
+Once again, we have another warning about making changes when you become the leader of an organization.&nbsp;
 
 Change seems like a seductive slogan. In fact, it was the basis of Barrack Obama's presidential campaign. However, most people don't really want change—at least not in the way we typically think about it.
 
-The people who are already doing well definitely don't want things to change. The people who are moving up also&nbsp;
+The people who are already doing well definitely don't want things to change. The people who are moving up also don't want things to change. The only people who want change are the ones suffering at the hands of the system in place.
+
+If they and their sympathizers are the minority, then making changes will lead a difficult rule. However, if there is a majority of supporters and beneficiaries of the new change, only then you should make it. Otherwise, leave things as they were.&nbsp;
 
 ---
 
