@@ -94,6 +94,12 @@ The reason for this is that change threatens people. If you're able to pull off 
 
 > For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.
 
+This piece of advice gives a dark message about the reality of taking ownership of something that was once someone else but not freely given to you. You either have to destroy everything it is and stands for or you will become just like its previous owner. This new direction may not align with your plans.
+
+You see this when a company is taken over. A lot of the old leadership is fired because the new owner has to put a new stamp on things. Even if the gesture is only symbolic and the underlying operating procedure and rules stay the same, the company is now under new leadership, and to make that clear, vital parts have to be built and restructured.
+
+This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girls old boyfriend did—even if she liked it—because she's&nbsp;***his*** girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
+
 ## Machiavelli on dealing with problems early
 
 For when you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
