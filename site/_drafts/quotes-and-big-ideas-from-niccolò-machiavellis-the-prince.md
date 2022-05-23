@@ -31,11 +31,16 @@ I've collected the big ideas and major quotes from Machiavelli's classic treatis
 
 ## **Machiavelli on maintaining power after victory**
 
-True it is that when a State rebels and is again got under, it will not afterward be lost so easily.&nbsp;
+> *"True it is that when a State rebels and is again got under, it will not afterward be lost so easily. "*
+
+If you lose control of something you once had control over and are forced to take it back by force, then you've accomplished two things:
+
+1. You've proven that you're willing to fight to keep what's yours. This is often a strong enough deterrent for most would-be usurpers, rebels, and thieves.
+2. You've demonstrated that there is a cost to messing with you. Once people know that they will incur damage if they cross you, they're less likely to cross you.
 
 ---
 
-He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary.&nbsp;
+> "He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary."
 
 ---
 
