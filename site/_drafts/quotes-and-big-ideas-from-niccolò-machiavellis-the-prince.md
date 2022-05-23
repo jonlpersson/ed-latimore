@@ -121,6 +121,10 @@ For if he well consider the whole matter, he will find that there may be a line 
 
 Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.&nbsp;
 
+---
+
+Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;
+
 ## **Machiavelli on paying for help**
 
 Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;
@@ -145,11 +149,17 @@ For the friendships which we buy with a price, and do not gain by greatness and 
 
 You ought never to suffer your designs to be crossed in order to avoid war, since war is not so to be avoided, but is only deferred to your disadvantage.
 
-Wherefore, a wise Prince should devise means whereby his subjects may at all times, whether favorable or adverse, feel the need of the State and of him, and then they will always be faithful to him. (modern politics)
+---
 
-To govern more securely some Princes have disarmed their subjects, others have kept the towns subject to them divided by factions; some have fostered hostility against themselves. (modern politics)
+Wherefore, a wise Prince should devise means whereby his subjects may at all times, whether favorable or adverse, feel the need of the State and of him, and then they will always be faithful to him.
 
-For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone. (modern politics)
+---
+
+To govern more securely some Princes have disarmed their subjects, others have kept the towns subject to them divided by factions; some have fostered hostility against themselves.
+
+---
+
+For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone.&nbsp;
 
 &nbsp;
 
@@ -177,7 +187,7 @@ And here I would call to mind a passage in the Old Testament as bearing on this 
 
 &nbsp;
 
-**Moreover, men are less careful how they offend him who makes himself loved than him who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate. (power of reputation and appearance)**
+&nbsp;
 
 &nbsp;
 
