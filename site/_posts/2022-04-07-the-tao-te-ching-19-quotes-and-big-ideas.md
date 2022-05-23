@@ -13,7 +13,7 @@ image: /assets/images/posts/tao-te-ching-notes.png
 ---
 The main idea of the Tao Te Ching (also known as Dao De Jing) is to live life in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book—along with the *Zhuangzi—*is considered one of the fundamental texts of philosophical and religious Taoism.
 
-Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; dào means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
+Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; d&agrave;o means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
@@ -48,6 +48,8 @@ In this way, ordinary people have the ability to develop extraordinary wisdom as
 > 3. Knowing others is intelligence; knowing the self is enlightenment. Conquering others is power; conquering the self is strength.
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
+
+{% include widgets/summary.html id="book-quotes" %}
 
 ## **Tao Te Ching Quotes on self-improvement**
 
