@@ -42,6 +42,14 @@ If you lose control of something you once had control over and are forced to tak
 
 > "He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary."
 
+The first part of this is fairly obvious. You have to crush your enemies totally. Machiavelli mentions this idea several times throughout the Prince. The second change is less transparent.
+
+Machiavelli is telling you to not make any changes that would affect the way of life in the new state you command. At least not immediately. This means that you're acquiring power for and influence for other reasons and that making changes threatens that power.
+
+That's because these changes generate the most kickback and potential for uprising and rebellion. As these things threaten your power, do not change them unless absolutely necessary. Think of this idea the next time you're put in charge.
+
+Consider the parts of the operation that are sacred to the people operating. Avoid making changes there unless necessary because the resistance will interfere with your ultimate goal.&nbsp;
+
 ---
 
 And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;
