@@ -52,7 +52,11 @@ Consider the parts of the operation that are sacred to the people operating. Avo
 
 ---
 
-And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;
+> And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;
+
+If you can't destroy someone completely, then leave them a way out to save face. Ideally, you give them a way to be your ally and friend instead.
+
+Before you engage in a conflict, consider if you're willing and capable to go all the way. If you aren't, then don't engage or do whatever you can to get them on your side.
 
 ---
 
