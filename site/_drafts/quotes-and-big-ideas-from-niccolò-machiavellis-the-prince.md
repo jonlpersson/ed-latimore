@@ -76,19 +76,23 @@ If they and their sympathizers are the minority, then making changes will lead t
 
 > Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;
 
-There's a big difference between being someone's choice out of desire and being someone's choice out of desperation. In the case of the former, they'll do whatever it takes to keep you. In the latter, they'll do just enough to lose you.
+There's a big difference between being someone's choice out of desire and being someone's choice out of desperation. In the former, they'll do whatever it takes to keep you. In the latter, they'll do just enough to not lose you.
 
 From a political standpoint, we saw this play out in the 2020 American presidential election. Joe Biden is not a man with overwhelming charisma. Many of his opponents couldn't imagine how he got the most votes in history. I thought it was quite obvious. His opponent, Donald Trump, was incredibly disliked. So much so that people who don't usually vote, voted against him.
 
-Even now, you don't see people's support of Biden. It borders on ambivalent and disappointment. But their hate for Trump is just as strong.&nbsp;
+Even now, you don't see people's support of Biden. It borders on ambivalence and disappointment. But their hate for Trump is just as strong.&nbsp;
 
 ---
 
-He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented.
+> He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented.
+
+It's easier to be friends with people who didn't want things to change than those who did. This is only after you make the changes and stick with them. However, you'll still face the initial friction, so this doesn't contradict Machiavelli's original advice.
+
+The reason for this is that change threatens people. If you're able to pull off your proposed changes without causing harm to their way of life, you will gain a new supporter.&nbsp;
 
 ---
 
-For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.
+> For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.
 
 ## Machiavelli on dealing with problems early
 
