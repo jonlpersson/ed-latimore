@@ -130,7 +130,7 @@ A good leader has to be a good strategist. Part of being a good strategist is se
 
 So a general perspective to take here is that you should be wary of hiring people to do important things that you don't know anything about. The more vital it is to your safety and success, the more important it is that you're at least an intermediate.
 
-This will keep you from being taken advantage of and being completely reliant on external forces that may not necessarily have your best interest a
+This will keep you from being taken advantage of and being completely reliant on external forces that may not necessarily have your best interests
 
 ---
 
@@ -138,119 +138,119 @@ This will keep you from being taken advantage of and being completely reliant on
 
 ---
 
-For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you.&nbsp;
+> For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you.&nbsp;
 
 ---
 
-For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony.&nbsp;
+> For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony.&nbsp;
 
 ---
 
-Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second.&nbsp;
+> Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second.&nbsp;
 
 ---
 
-But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves.&nbsp;
+> But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves.&nbsp;
 
 ---
 
-Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.
+> Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.
 
 ## Machiavelli on managing reputation
 
-The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;
+> The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;
 
 ---
 
-And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved.&nbsp;
+> And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved.&nbsp;
 
 ---
 
-It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;
+> It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;
 
 ---
 
-For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin and that there may be another course having the appearance of vice, by following which his safety and well-being are secured.
+> For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin and that there may be another course having the appearance of vice, by following which his safety and well-being are secured.
 
 ---
 
-Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.&nbsp;
+> Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.&nbsp;
 
 ---
 
-Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;
+> Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;
 
 ---
 
-And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
+> And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
 
 ## **Machiavelli on paying for help**
 
-Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;
+> Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;
 
 ---
 
-Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined.&nbsp;
+> Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined.&nbsp;
 
 ---
 
-For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding.&nbsp;
+> For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding.&nbsp;
 
 ---
 
-In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.&nbsp;
+> In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.&nbsp;
 
 ---
 
-For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them.&nbsp;
+> For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them.&nbsp;
 
 ## Machiavellian tactics in modern politics
 
-You ought never to suffer your designs to be crossed in order to avoid war, since war is not so to be avoided, but is only deferred to your disadvantage.
+> You ought never to suffer your designs to be crossed in order to avoid war, since war is not so to be avoided, but is only deferred to your disadvantage.
 
 ---
 
-Wherefore, a wise Prince should devise means whereby his subjects may at all times, whether favorable or adverse, feel the need of the State and of him, and then they will always be faithful to him.
+> Wherefore, a wise Prince should devise means whereby his subjects may at all times, whether favorable or adverse, feel the need of the State and of him, and then they will always be faithful to him.
 
 ---
 
-To govern more securely some Princes have disarmed their subjects, others have kept the towns subject to them divided by factions; some have fostered hostility against themselves.
+> To govern more securely some Princes have disarmed their subjects, others have kept the towns subject to them divided by factions; some have fostered hostility against themselves.
 
 ---
 
-For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone.&nbsp;
+> For I do not believe that divisions purposely caused can ever lead to good; on the contrary, when an enemy approaches, divided cities are lost at once, for the weaker faction will always side with the invader, and the other will not be able to stand alone.&nbsp;
 
 ## Machiavelli on managing people
 
-Add to this, that a Prince can never secure himself against a disaffected people, their number being too great, while he may against a disaffected nobility, since their number is small. The worst that a Prince need fear from a disaffected people is, that they may desert him, whereas when the nobles are his enemies he has to fear not only that they may desert him, but also that they may turn against him; because, as they have greater craft and foresight, they always choose their time to suit their safety, and seek favor with the side they think will win. Again, a Prince must always live with the same people, but need not always live with the same nobles, being able to make and unmake these from day to day, and give and take away their authority at his pleasure.&nbsp;
+> Add to this, that a Prince can never secure himself against a disaffected people, their number being too great, while he may against a disaffected nobility, since their number is small. The worst that a Prince need fear from a disaffected people is, that they may desert him, whereas when the nobles are his enemies he has to fear not only that they may desert him, but also that they may turn against him; because, as they have greater craft and foresight, they always choose their time to suit their safety, and seek favor with the side they think will win. Again, a Prince must always live with the same people, but need not always live with the same nobles, being able to make and unmake these from day to day, and give and take away their authority at his pleasure.&nbsp;
 
 ---
 
-Men are always averse to enterprises that are attended to with difficulty, and it is impossible not to foresee difficulties in attacking a Prince whose town is strongly fortified and who is not hated by his subjects.
+> Men are always averse to enterprises that are attended to with difficulty, and it is impossible not to foresee difficulties in attacking a Prince whose town is strongly fortified and who is not hated by his subjects.
 
 ---
 
-A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort.
+> A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort.
 
 ---
 
-Not to be hated or despised by the body of his subjects, is one of the surest safeguards that a Prince can have against conspiracy. For he who conspires always reckons on pleasing the people by putting the Prince to death; but when he sees that instead of pleasing he will offend them, he cannot summon the courage to carry out his design.
+> Not to be hated or despised by the body of his subjects, is one of the surest safeguards that a Prince can have against conspiracy. For he who conspires always reckons on pleasing the people by putting the Prince to death; but when he sees that instead of pleasing he will offend them, he cannot summon the courage to carry out his design.
 
 ---
 
-To be brief, a Prince has little to fear from conspiracies when his subjects are well disposed towards him; but when they are hostile and hold him in detestation, he has then reason to fear everything and everyone.
+> To be brief, a Prince has little to fear from conspiracies when his subjects are well disposed towards him; but when they are hostile and hold him in detestation, he has then reason to fear everything and everyone.
 
 ---
 
-So that, on the whole, the best fortress you can have, is in not being hated by your subjects. If they hate you no fortress will save you; for when once the people take up arms, foreigners are never wanting to assist them.
+> So that, on the whole, the best fortress you can have, is in not being hated by your subjects. If they hate you no fortress will save you; for when once the people take up arms, foreigners are never wanting to assist them.
 
 ---
 
-And it will always happen that he who is not your friend will invite you to neutrality, while he who is your friend will call on you to declare yourself openly in arms.
+> And it will always happen that he who is not your friend will invite you to neutrality, while he who is your friend will call on you to declare yourself openly in arms.
 
 ---
 
-And here let it be noted that a Prince should be careful never to join with one stronger than himself in attacking others, unless, as already said, he be driven to it by necessity. For if he whom you join prevails, you are at his mercy.
+> And here let it be noted that a Prince should be careful never to join with one stronger than himself in attacking others, unless, as already said, he be driven to it by necessity. For if he whom you join prevails, you are at his mercy.
 
 ---
 
