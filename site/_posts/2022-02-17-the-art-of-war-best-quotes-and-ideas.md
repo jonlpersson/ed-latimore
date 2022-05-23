@@ -15,11 +15,9 @@ The Art of War is an ancient Chinese military guide by Sun Tzu that was penned s
 
 It's a surprisingly short read. I read it on my kindle and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
 
-Despite its short length, the ideas that it's packed with are applicable to many areas in life. The strategies are applicable to modern warfare, business, negotiation, and even relationships.
+Despite its short length, the ideas it's packed with apply to many areas in life. The strategies are applicable to modern warfare, business, negotiation, and even relationships.
 
 I read through The Art of War and took notes on what I thought were the most important ideas and quotes. If you don't have time to read the book yourself or just want a refresher, these big ideas and quotes from The Art of War should prove to make you a better combatant in the battleground of life.&nbsp;
-
-{% include widgets/toc.html heading="10 best quotes and ideas from The Art of War by Sun Tzu" list-items="Adapting to change, Bad leadership qualities, How to lead a team, How to plan for a conflict, How to know who has power, Training for the worst conditions, The importance of emotional strength, Self-knowledge, The sign of a good plan, The use of deception to win" list-ids="adapting-to-change, bad-leadership-qualities, how-to-lead-a-team, how-to-plan-for-a-conflict, how-to-know-who-is-capable, training-for-the-worst-conditions, the-importance-of-emotional-strength, self-knowledge-and-letting-the-enemy-beat-himself, the-sign-of-a-good-plan, the-use-of-deception-to-win" %}
 
 ## Adapting to change
 
@@ -154,7 +152,7 @@ The goal for practice is not only for you to hone your skills, but to hone them 
 
 This means that you have to handicap yourself and do your best to create an environment that exposes you to the tribulations of combat, whatever your particular type of "combat" is. Performers, athletes, speakers, etc. You must train yourself to execute in all conditions so that you're ready for anything.
 
-This also does wonders for your confidence, making it even easier for you to perform.&nbsp;
+This also does wonders for your confidence, making it even easier for you to perform.
 
 {% include widgets/summary.html id="book-quotes" %}
 
