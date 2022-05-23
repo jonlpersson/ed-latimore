@@ -50,6 +50,20 @@ For when you are on the spot, disorders are detected in their beginnings and rem
 
 **Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits. (fixing problems)**
 
+&nbsp;
+
+**Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few. (fixing problems)**
+
+Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers, nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. (fixing problems)
+
+&nbsp;
+
+And there is no quality so self-destructive as liberality; for while you practise it you lose the means whereby it can be practised, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. (Fixing problems)
+
+**A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will in the end be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only. (fixing problems)**
+
+**For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need they turn against you.** (Fixing problems)
+
 ## Machiavelli on managing reputation
 
 **The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue. (perception of power)**
@@ -107,20 +121,6 @@ Add to this, that a Prince can never secure himself against a disaffected people
 **A Prince, therefore, who has a strong city, and who does not make himself hated, can not be attacked, or should he be so, his assailant will come badly off; since human affairs are so variable that it is almost impossible for anyone to keep an army posted in leaguer for a whole year without interruption of some sort. **
 
 And here I would call to mind a passage in the Old Testament as bearing on this point. When David offered himself to Saul to go forth and fight Goliath the Philistine champion, Saul encouraged him armed him with his own armor, which David, so soon as he had put it on, rejected, saying that with these untried arms he could not prevail and that he chose rather to meet his enemy with only his sling and his sword. In a word, the armor of others is too wide, or too strait for us; it falls off us, or it weighs us down.
-
-**Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few. (fixing problems)**
-
-Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers, nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. (fixing problems)
-
-&nbsp;
-
-And there is no quality so self-destructive as liberality; for while you practise it you lose the means whereby it can be practised, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. (Fixing problems)
-
-**A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will in the end be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only. (fixing problems)**
-
-&nbsp;
-
-**For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need they turn against you.** (Fixing problems)
 
 &nbsp;
 
