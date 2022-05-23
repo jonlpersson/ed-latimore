@@ -56,6 +56,8 @@ For when you are on the spot, disorders are detected in their beginnings and rem
 
 And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved. **(power of reputation and appearance)**
 
+**It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. (power of reputation and appearance)**
+
 ## **Machiavelli on paying for help**
 
 &nbsp;
@@ -126,7 +128,7 @@ Be it known, then, that there are two ways of contending, one in accordance with
 
 &nbsp;
 
-**It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. (power of reputation and appearance)**
+&nbsp;
 
 **Not to be hated or despised by the body of his subjects, is one of the surest safeguards that a Prince can have against conspiracy. For he who conspires always reckons on pleasing the people by putting the Prince to death; but when he sees that instead of pleasing he will offend them, he cannot summon the courage to carry out his design. (fixing problems, managing people)**
 
