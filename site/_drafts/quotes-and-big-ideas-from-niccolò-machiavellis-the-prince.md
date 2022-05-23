@@ -114,13 +114,15 @@ This point is in the same vein as making sure that you destroy an enemy complete
 
 When you have to be a disciplinarian, any punishment or retribution you exert must be disproportionately severe enough to dissuade a further offense. A slap on the wrist is no punishment at all. Even a punishment that seems reasonable and appropriate will not suffice. It is important to make the punishment be so great that the people you're in charge of leading do not ever think of committing it again.
 
-The importance of this can not be overstated in leadership. It is always easier to simply fire someone that it is to try to rehabilitate them and teach them a lesson. Most times, it's not even worth it either.
+The importance of this can not be overstated in leadership. It is always easier to simply fire someone than it is to try to rehabilitate them and teach them a lesson. Most times, it's not even worth it either.
 
 ---
 
 &nbsp;
 
-Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few.&nbsp;
+> Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few.&nbsp;
+
+A good leader has to be a good strategist. Part of being a good strategist is seeing problems before they arise and dealing with them before they become too formidable.&nbsp;
 
 ---
 
