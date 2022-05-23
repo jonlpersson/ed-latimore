@@ -100,8 +100,8 @@ You see this when a company is taken over. A lot of the old leadership is fired 
 
 This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girl's old boyfriend did—even if she liked it—because she's&nbsp;***his***&nbsp;girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
-> ## Machiavelli on dealing with problems early
->
+## Machiavelli on dealing with problems early
+
 > When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
 
 An ounce of prevention is worth a pound of a cure. The earlier you solve a problem, the less likely it is that it will grow into a problem that you can't solve.&nbsp;
