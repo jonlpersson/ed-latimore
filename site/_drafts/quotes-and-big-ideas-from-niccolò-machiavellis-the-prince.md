@@ -98,11 +98,11 @@ This piece of advice gives a dark message about the reality of taking ownership 
 
 You see this when a company is taken over. A lot of the old leadership is fired because the new owner has to put a new stamp on things. Even if the gesture is only symbolic and the underlying operating procedure and rules stay the same, the company is now under new leadership, and to make that clear, vital parts have to be built and restructured.
 
-This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girls old boyfriend did—even if she liked it—because she's&nbsp;***his*** girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
+This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girl's old boyfriend did—even if she liked it—because she's&nbsp;***his***&nbsp;girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
 ## Machiavelli on dealing with problems early
 
-For when you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
+When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
 
 ---
 
