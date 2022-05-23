@@ -123,17 +123,23 @@ Returning to the question of being loved or feared, I sum up by saying, that sin
 
 ## **Machiavelli on paying for help**
 
-&nbsp;
+Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;
 
-Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives. (paying for help)
+---
 
-**Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain be not an able man the chances are you will be ruined.** (paying for help)
+Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined.&nbsp;
 
-For the gains resulting from mercenary arms are slow, and late, and inconsiderable, but the losses sudden and astounding. (paying for help)
+---
 
-**In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.** (paying for help)
+For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding.&nbsp;
 
-For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they be fairly earned are not made good, but fail us when we have occasion to use them. (paying for help)
+---
+
+In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.&nbsp;
+
+---
+
+For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them.&nbsp;
 
 ## Machiavellian tactics in modern politics
 
