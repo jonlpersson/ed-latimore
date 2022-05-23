@@ -103,15 +103,23 @@ But since a Prince should know how to use the beast’s nature wisely, he ought 
 
 ## Machiavelli on managing reputation
 
-**The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue. (perception of power)**
+The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;
 
-And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved. **(power of reputation and appearance)**
+---
 
-**It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. (power of reputation and appearance)**
+And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved.&nbsp;
 
-**For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin, and that there may be another course having the appearance of vice, by following which his safety and well-being are secured. (power of reputation and appearance)**
+---
 
-Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred. **(fixing problems, managing people)**
+It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;
+
+---
+
+For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin and that there may be another course having the appearance of vice, by following which his safety and well-being are secured.
+
+---
+
+Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.&nbsp;
 
 ## **Machiavelli on paying for help**
 
