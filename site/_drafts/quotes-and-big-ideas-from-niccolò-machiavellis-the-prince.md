@@ -31,21 +31,33 @@ I've collected the big ideas and major quotes from Machiavelli's classic treatis
 
 ## **Machiavelli on maintaining power after victory**
 
-True it is that when a State rebels and is again got under, it will not afterward be lost so easily. (after conquering)
+True it is that when a State rebels and is again got under, it will not afterward be lost so easily.&nbsp;
 
-**He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary. (after conquering)**
+---
 
-And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals. (after conquering)
+He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary.&nbsp;
 
-**And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new. (after conquering)**
+---
+
+And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;
+
+---
+
+And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new.&nbsp;
+
+---
 
 &nbsp;
 
-**Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them. (after conquering)**
+Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;
 
-He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented. (after conquering)
+---
 
-**For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a City accustomed to live in freedom and does not destroy it, may reckon on being destroyed by it.**
+He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented.
+
+---
+
+For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.
 
 ## Machiavelli on dealing with problems early
 
