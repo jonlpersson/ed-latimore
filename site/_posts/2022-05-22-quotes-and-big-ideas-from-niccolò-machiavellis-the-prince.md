@@ -196,7 +196,11 @@ I don't believe that being loved and being feared are mutually exclusive. Howeve
 
 Love is nice, but it doesn't defend against the evil forces of the world that may be plotting against you. ​​​​​
 
-> It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;
+> **It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;**
+
+Machiavelli warns us that there is a danger in practicing all the good qualities that you espouse. A certain level of hypocrisy keeps you alive because you must be able to react to your challengers and deal with them properly.
+
+The way I interpret this passage is that it's better to practice mercy but not be merciful. If you practice merci, you can stop practicing mercy. If you are merciful, it is now a personality trait that you may find difficult to shed when the time calls for a more aggressive stance.&nbsp;
 
 ---
 
