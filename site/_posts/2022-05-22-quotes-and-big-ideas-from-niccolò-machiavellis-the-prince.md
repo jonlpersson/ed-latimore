@@ -172,7 +172,9 @@ To be an effective leader, you must be able to lead in a variety of ways. It's n
 
 ---
 
-> Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.
+> **Of this, however, I am well persuaded, that it is better to be impetuous than cautious. For Fortune is a woman who to be kept under must be beaten and roughly handled; and we see that she suffers herself to be more readily mastered by those who so treat her than by those who are more timid in their approaches. And always, like a woman, she favors the young, because they are less scrupulous and fiercer, and command her with greater audacity.**
+
+If you have to choose between "too cautious" and "too impetuous", it is FAR better to be too impetuous. Opportunity is created expenditure of energy and effort. Not by conservation and prudence. If you don't put yourself out there and take some risks, you'll never see how beautiful your life can become.
 
 {% include widgets/summary.html id="book-quotes" %}
 
