@@ -160,11 +160,15 @@ Dave Chapelle has a joke that sums this relationship up nicely:
 
 <br>​​​​​​<br>​​​​
 
-> Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second.&nbsp;
+> **Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second.**&nbsp;
+
+"We can handle this like gentlemen or we can get into some gangster shit" is usually only said after it's clear that things can't be handled like gentlemen. The most effective way to solve problems with people isn't always the most humane but it is the one that leaves the least doubt about the nature of the problem.&nbsp;
 
 ---
 
-> But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves.&nbsp;
+> **But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves.&nbsp;**
+
+To be an effective leader, you must be able to lead in a variety of ways. It's not always diplomacy and it's not always war. The ability to determine the best fit for the situation at hand determines your success.&nbsp;
 
 ---
 
