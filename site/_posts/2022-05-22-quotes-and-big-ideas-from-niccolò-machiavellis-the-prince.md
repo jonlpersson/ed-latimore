@@ -31,7 +31,7 @@ I've collected the big ideas and major quotes from Machiavelli's classic treatis
 
 ## **Machiavelli on maintaining power after victory**
 
-> *"True it is that when a State rebels and is again got under, it will not afterward be lost so easily. "*
+> ***"True it is that when a State rebels and is again got under, it will not afterward be lost so easily."***
 
 If you lose control of something you once had control over and are forced to take it back by force, then you've accomplished two things:
 
@@ -40,7 +40,7 @@ If you lose control of something you once had control over and are forced to tak
 
 ---
 
-> "He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary."
+> **"He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary."**
 
 The first part of this is fairly obvious. You have to crush your enemies totally. Machiavelli mentions this idea several times throughout the Prince. The second change is less transparent.
 
@@ -52,7 +52,7 @@ Consider the parts of the operation that are sacred to the people operating. Avo
 
 ---
 
-> And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;
+> **And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals.&nbsp;**
 
 If you can't destroy someone completely, then leave them a way out to save face. Ideally, you give them a way to be your ally and friend instead.
 
@@ -60,7 +60,7 @@ Before you engage in a conflict, consider if you're willing and capable to go al
 
 ---
 
-> And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new.&nbsp;
+> **And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new.&nbsp;**
 
 Once again, we have another warning about making changes when you become the leader of an organization.&nbsp;
 
@@ -74,7 +74,7 @@ If they and their sympathizers are the minority, then making changes will lead t
 
 &nbsp;
 
-> Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;
+> **Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them.&nbsp;**
 
 There's a big difference between being someone's choice out of desire and being someone's choice out of desperation. In the former, they'll do whatever it takes to keep you. In the latter, they'll do just enough to not lose you.
 
@@ -84,7 +84,7 @@ Even now, you don't see people's support of Biden. It borders on ambivalence and
 
 ---
 
-> He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented.
+> **He will perceive that it is far easier to secure the friendship of those who being satisfied with things as they stood, were for that very reason his enemies than of those who sided with him and aided him in his usurpation only because they were discontented.**
 
 It's easier to be friends with people who didn't want things to change than those who did. This is only after you make the changes and stick with them. However, you'll still face the initial friction, so this doesn't contradict Machiavelli's original advice.
 
@@ -92,7 +92,7 @@ The reason for this is that change threatens people. If you're able to pull off 
 
 ---
 
-> For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.
+> **For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.**
 
 This piece of advice gives a dark message about the reality of taking ownership of something that was once someone else but not freely given to you. You either have to destroy everything it is and stands for or you will become just like its previous owner. This new direction may not align with your plans.
 
@@ -102,13 +102,13 @@ This reminds me of something Patrice O'Neil once said about being in a new relat
 
 ## Machiavelli on dealing with problems early
 
-> When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;
+> **When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure.&nbsp;**
 
 An ounce of prevention is worth a pound of a cure. The earlier you solve a problem, the less likely it is that it will grow into a problem that you can't solve.&nbsp;
 
 ---
 
-> Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits.&nbsp;
+> **Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits.&nbsp;**
 
 This point is in the same vein as making sure that you destroy an enemy completely if you get into conflict with him. However, this is more of a preventative tone.
 
@@ -120,13 +120,13 @@ The importance of this can not be overstated in leadership. It is always easier 
 
 &nbsp;
 
-> Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few.&nbsp;
+> **Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few.&nbsp;**
 
 A good leader has to be a good strategist. Part of being a good strategist is seeing problems before they arise and dealing with them before they become too formidable.&nbsp;
 
 ---
 
-> Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study.&nbsp;
+> **Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study.&nbsp;**
 
 So a general perspective to take here is that you should be wary of hiring people to do important things that you don't know anything about. The more vital it is to your safety and success, the more important it is that you're at least an intermediate.
 
@@ -134,7 +134,11 @@ This will keep you from being taken advantage of and being completely reliant on
 
 ---
 
-> A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only.&nbsp;
+> **A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only.&nbsp;**
+
+Machiavelli is telling leaders to not worry about being viewed as cruel as long as the cruelty is practical for leadership. He provides simple reasoning for this course of action:<br><br>It's easier when people think you're harsh because they will be less likely to cross you. When they know that you're lenient, they will take liberties and test your boundaries of leadership.&nbsp;
+
+{% twitter https://twitter.com/EdLatimore/status/1343636893704073217 %}
 
 ---
 
