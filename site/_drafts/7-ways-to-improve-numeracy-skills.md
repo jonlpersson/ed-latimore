@@ -11,13 +11,15 @@ description: >-
   skill in handling them here. 
 image: /assets/images/drafts/cme4.jpg
 ---
-Numeracy is your ability to use mathematics in the real world. It’s being able to use numerical skills to solve actual real-world problems. I believe that the ability to understand and apply math concepts to real-life is a literacy skill is as important as reading.
+Numeracy is your ability to use mathematics in the real world. It’s being able to use numerical skills to solve actual real-world problems. I believe that the ability to understand and apply math concepts to real life is a literacy skill that's as important as reading.
 
 Most people have poor numeracy skills. It’s not because they’re bad at math, but because many people had a terrible experience learning math. It’s been my experience that elementary school math teachers tend to lack the numeracy needed to properly develop strong numeracy skills in 6-10-year-olds.
 
 It’s not that these teachers are bad at math, per se. It’s more like they are so comfortable with math that they don’t remember what it’s like to learn. Rather, many of them just push memorization rather than promote true understanding and skill in handling the numbers.
 
-The following are some things you can do to improve your numeracy and become more comfortable with numbers.
+The following 7 things you can do to improve your numeracy and become more comfortable with numbers.
+
+***\[This article gives more reasons why math is important—&gt;[12 reasons why math is important](/why-is-math-important/)\]***
 
 ## Estimate more
 
@@ -30,9 +32,9 @@ It’s useful to know approximately:
 * How long it will take you to walk somewhere.
 * How much money you have in your bank account.&nbsp;
 
-In each of these scenarios, not only is an exact number not necessary to make plans, it’s usually impossible to get one anyway. There are too many variables that are out of your control to make an exact calculation possible.
+In each of these scenarios, not only is an exact number not necessary to make plans, it’s usually impossible to get one anyway. Too many variables are out of your control to make an exact calculation possible.
 
-Still, just because we don’t need to hit the nail on the head doesn’t mean it’s ok to miss it entirely. We still want to be in the general vicinity of the correct answer, even if the correct answer is effectively impossible to find. How do we do this?
+Still, just because we don’t need to hit the nail on the head doesn’t mean it’s ok to miss it entirely. We want to be in the general vicinity of the correct answer, even if the correct answer is effectively impossible to find. How do we do this?
 
 ## Understand fractions
 
@@ -49,15 +51,15 @@ In the percentages or decimals form, it’s obvious which one is bigger. However
 If you’re wondering how to make the general comparison of the size of fractions, there are two rules:
 
 1. First, compare the numerator to the denominator. The larger the gap between the two, the smaller the fraction. This is obvious in the second example. The gap between 5 and 7 is 2. The gap between 16 and 37 is 21.
-2. Second, if the gap is the same, look at which fraction has the bigger numbers. That is the larger fraction. This is obvious in the first example. The gap between 7 and 8 is the same as the gap between 9 and 10 (1). So with the first resulting in both fractions having the same difference, we check down to this one. Now we see that 9/10 are bigger numbers than 7/8, and 9/10 is bigger.
+2. Second, if the gap is the same, look at which fraction has the bigger numbers. That is the larger fraction. This is obvious in the first example. The gap between 7 and 8 is the same as the gap between 9 and 10 (1). Following the first rule, see that both fractions have the same difference between the numerator and denominator. Now we check down to this rule. We see that 9/10 are bigger numbers than 7/8, and 9/10 is bigger.
 
 ## Learn geometry
 
-When I took geometry in school, we focused on proving theorems a lot. I hope that’s not your experience with geometry. If it has been, I feel for you and I understand why you might look down on geometry.
+When I took geometry in school, we focused on proving theorems. I hope that wasn't (or isn't) your experience with geometry. If it was, I feel for you and I understand why you might look down on geometry.
 
 You should have spent more time understanding the spatial relationships between shapes and their representation of mathematical ideas.
 
-When you go shopping for a new piece of furniture or appliance, you need to understand the measurements of the object relative to the space that you’ll be placing it in. The better you get at developing an intuitive grasp of spatial relationships, the easier it will be to do other things that we don’t quite attribute to math skills.
+When you go shopping for a new piece of furniture or appliance, you need to understand the measurements of the object relative to the space that you’ll be placing it in. The better your intuitive grasp of spatial relationships, the easier it will be to do other things that we don’t quite attribute to math skills.
 
 An intuitive grasp of mathematical concepts related to geometry will make you a better graphic designer or musician. You’ll better be able to appreciate geometric patterns that appear in nature. Geometrical concepts of mathematics are observable in the tessellation pattern of hexagonal-shaped wax cells in a honeycomb or in a floor plan or in the geometric pattern of a snowflake.
 
@@ -68,6 +70,8 @@ Developing your geometric skills will simply add to the richness of your life an
 Many people are terrified to look at their spending habits. They don’t want to confront the true nature of their financial situation. However, doing so will not only improve the quality of your life but will also increase your basic numeracy skills.
 
 Budgeting only requires basic math skills, but it’s an area where the quality of your decision-making and data analysis is directly tied to outcomes in your life. You’re able to clearly see why you’re having problems in your life and make decisions based on the numbers you crunched.
+
+***\[Read: [5 reasons why you're broke](/stop-being-poor/)\]***
 
 This is something that everyone can do and needs to do and does not require any high-level mathematical skills. It can, however, lay the foundation and develop an interest in what is needed to pursue more math education.
 
