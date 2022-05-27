@@ -190,9 +190,11 @@ No one likes to admit that they can't do something, but sometimes. that level of
 
 ---
 
-> And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved.&nbsp;
+> **And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved.&nbsp;**
 
----
+I don't believe that being loved and being feared are mutually exclusive. However, if you have to pick one, you'll go a lot further if people fear you. This is because to do anything, you have to deal with other people. If they love you, they MIGHT be of assistance to you out of the kindness of their heart. If they fear you, then they'll ALMOST CERTAINLY help you as a matter of survival.
+
+Love is nice, but it doesn't defend against the evil forces of the world that may be plotting against you. ​​​​​
 
 > It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary.&nbsp;
 
