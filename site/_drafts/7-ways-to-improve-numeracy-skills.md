@@ -85,6 +85,8 @@ On the horizontal axis, there is an "independent variable". This is the quantity
 
 On most graphs, everything you see follows this setup. Graphs allow you to correlate the change in two quantities with a visual representation. This is useful for developing the intuition to tell if there’s a relationship between two quantities.
 
+***\[I talk about this and some other methods in an article about getting better at math. Read it here—&gt;[How to get better at math](/how-to-get-better-at-math/)\]***
+
 ## Scrutinize news and media
 
 {% twitter https://twitter.com/EdLatimore/status/1193601244327231488 %}
@@ -103,9 +105,11 @@ The goal isn’t to become an expert statistician. It’s simply to become aware
 
 ## Play math games
 
+![24 math game ed latimore's favorite](/assets/images/drafts/24mathgame.jpg "24 math game ed latimore's favorite"){: width="1194" height="1031"}
+
 When I was growing up, one of my favorite games was “24”. The game came with cards that had four numbers on them and your goal was to figure out how to get 24 from them by any of the basic arithmetic operations (addition, subtraction, multiplication, and division).
 
-I was always relatively terrible at these types of math games, but they made developing math skills more fun. Games like these weren’t necessarily learning activities. They were more like playing and by taking the pressure off gamifying the experience, I was more motivated to at least try.
+I was always pretty terrible at these types of games, but they made developing math skills more fun. Games like these weren’t necessarily learning activities. They were more like playing and by taking the pressure off gamifying the experience, I was more motivated to at least try.
 
 Any math activity that can be gamified will improve your numeracy skills if for no other reason than you make it fun. One of my favorite math games to play in everyday life takes place when I’m shopping. When I pay with physical money, I try to beat the cash register to figure out what my change will be.
 
