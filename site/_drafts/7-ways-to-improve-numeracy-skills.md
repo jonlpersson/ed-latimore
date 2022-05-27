@@ -79,7 +79,9 @@ This is something that everyone can do and needs to do and does not require any 
 
 Graphs are powerful because they take numbers collected from data and turn them into easy-to-understand pictures. This is why one of the first things that young children do in their early numeracy training is learn how to understand graphs.
 
-Graphs are simple but powerful tools. On the horizontal axis, there is some independent variable. This is the quantity that does not depend on anything else. On the vertical axis, there is the quantity that correlates to the independent variable, called the “dependent variable”.
+Graphs are simple but effective tools for making quick sense of any amount of data.&nbsp;
+
+On the horizontal axis, there is an "independent variable". This is the quantity that does not depend on anything else being measured. On the vertical axis, there is the quantity that correlates to the independent variable, called the “dependent variable”.
 
 On most graphs, everything you see follows this setup. Graphs allow you to correlate the change in two quantities with a visual representation. This is useful for developing the intuition to tell if there’s a relationship between two quantities.
 
@@ -89,7 +91,7 @@ On most graphs, everything you see follows this setup. Graphs allow you to corre
 
 It’s amazing the amount of damage that is done by the media misquoting statistics and data or taking them out of context. One thing that will make you more comfortable using numbers is learning which buzzwords to look out for when you see the statistics.
 
-For example, most people don’t realize that “mean” (the sum of all data divided amount of all data) and “median”(the data point that is the midpoint of the range) are not synonymous and are often not the same quantity. Depending on the data under analysis, this makes a BIG difference.
+For example, most people don’t realize that “mean” (the sum of all data divided amount of all data) and “median”(the data point that is the midpoint of the range) are not synonymous and are usually not the same quantity. Depending on the data under analysis, this makes a BIG difference.
 
 News outlets and social media posts tend to use whichever buzzword can be used correctly and fits best with the point their trying to make. For example:
 
