@@ -51,7 +51,7 @@ In the percentages or decimals form, it’s obvious which one is bigger. However
 If you’re wondering how to make the general comparison of the size of fractions, there are two rules:
 
 1. First, compare the numerator to the denominator. The larger the gap between the two, the smaller the fraction. This is obvious in the second example. The gap between 5 and 7 is 2. The gap between 16 and 37 is 21.
-2. Second, if the gap is the same, look at which fraction has the bigger numbers. That is the larger fraction. This is obvious in the first example. The gap between 7 and 8 is the same as the gap between 9 and 10 (1). Following the first rule, see that both fractions have the same difference between the numerator and denominator. Now we check down to this rule. We see that 9/10 are bigger numbers than 7/8, and 9/10 is bigger.
+2. Second, if the gap is the same, look at which fraction has the bigger numbers. That is the larger fraction. This is obvious in the first example. The gap between 7 and 8 is the same as the gap between 9 and 10 (1). Following the first rule, see that both fractions have the same difference between the numerator and denominator. Now we check down to this rule. We see that 9 and 10 are bigger numbers than 7 and 8. 9/10 is the bigger fraction.
 
 ## Learn geometry
 
