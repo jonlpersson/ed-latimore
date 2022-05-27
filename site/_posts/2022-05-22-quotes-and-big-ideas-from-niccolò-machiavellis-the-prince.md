@@ -142,13 +142,23 @@ Machiavelli is telling leaders to not worry about being viewed as cruel as long 
 
 ---
 
-> For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you.&nbsp;
+> **For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you.&nbsp;**
+
+Generally speaking, people are friendly to you when it's easy to be friendly. However, the moment that friendship requires real skin in the game and sacrifice, then many are nowhere to be found. This isn't t say that there is no such thing as a loyal friend. It's only to say that a loyal friend who is by your side through thick and thin is a rare find.
 
 ---
 
-> For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony.&nbsp;
+> **For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony.&nbsp;**
 
----
+Machiavelli notices that men can deal with all types of tyranny as long as the leaders don't take his stuff or his women. Or put differently, the only thing that really matters to men is the ability to have a family and a place to raise it.
+
+My experience (and I think many others) has been that men will go to war over with one another over women. I think Machiavelli overestimates the importance that the average person puts on things. Or rather, by ranking land with women, he's either elevating land (in the modern sense, I've chosen to see this as "personal property") to the level of women (or devaluing women to the level of land).
+
+Dave Chapelle has a joke that sums this relationship up nicely:
+
+*"Men don't need all that nice shit. That's for women. A man would fuck a woman in a cardboard box if he could get away with it."*
+
+<br>​​​​​​<br>​​​​
 
 > Be it known, then, that there are two ways of contending, one in accordance with the laws, the other by force; the first of which is proper to men, the second to beasts. But since the first method is often ineffectual, it becomes necessary to resort to the second.&nbsp;
 
