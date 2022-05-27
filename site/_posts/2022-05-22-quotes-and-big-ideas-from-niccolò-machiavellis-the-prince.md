@@ -180,7 +180,13 @@ If you have to choose between "too cautious" and "too impetuous", it is FAR bett
 
 ## Machiavelli on managing reputation
 
-> The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;
+> **The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue.&nbsp;**
+
+There's nothing wrong with an attempt. The problem is when you continue after it's clear that it is beyond your ability or grasp. A lot of resources are wasted in trying to accomplish the unaccomplishable.&nbsp;
+
+The challenge here is knowing the difference between formidable persistence and destructive denial. I don't pretend to have a clear answer on how to determine the difference, but if your pursuit will endanger others or waste their time, then it's worth having a hard conversation with yourself about your capabilities.&nbsp;
+
+No one likes to admit that they can't do something, but sometimes. that level of honesty is necessary.&nbsp;
 
 ---
 
