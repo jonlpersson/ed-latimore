@@ -246,23 +246,23 @@ There is a word about auxiliaries as well, which (in Machiavelli's context) are 
 
 Analogously to the real world, auxiliaries are like partnerships. Be careful if you team up with someone to sell online or launch a product. If they've got significantly more market share than you, you may find your intellectual property heavily borrowed—if not outright stolen.&nbsp;
 
-The auxiliaries know how your operation works because you had to reveal it to them to work together. But if they have a significantly greatly reach than you, be careful
+The auxiliaries know how your operation works because you had to reveal it to them to work together. But if they have a significantly greater reach than you, be careful. This analogy in mind as you read the rest of Machiavelli's quotes about dealing with mercenaries and auxiliaries.
 
 ---
 
-> Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined.&nbsp;
+> **Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined.&nbsp;**
 
 ---
 
-> For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding.&nbsp;
+> **For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding.&nbsp;**
 
 ---
 
-> In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.&nbsp;
+> **In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid.&nbsp;**
 
 ---
 
-> For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them.&nbsp;
+> **For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them.&nbsp;**
 
 ## Machiavellian tactics in modern politics
 
