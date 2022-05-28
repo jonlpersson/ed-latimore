@@ -200,19 +200,23 @@ Love is nice, but it doesn't defend against the evil forces of the world that ma
 
 Machiavelli warns us that there is a danger in practicing all the good qualities that you espouse. A certain level of hypocrisy keeps you alive because you must be able to react to your challengers and deal with them properly.
 
-The way I interpret this passage is that it's better to practice mercy but not be merciful. If you practice merci, you can stop practicing mercy. If you are merciful, it is now a personality trait that you may find difficult to shed when the time calls for a more aggressive stance.&nbsp;
+I interpret this passage because it's better to practice mercy but not be merciful. If you practice merci, you can stop practicing mercy. If you are merciful, it is now a personality trait that you may find difficult to shed when the time calls for a more aggressive stance.&nbsp;
 
 ---
 
-> For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin and that there may be another course having the appearance of vice, by following which his safety and well-being are secured.
+> **For if he well consider the whole matter, he will find that there may be a line of conduct having the appearance of virtue, to follow which would be his ruin and that there may be another course having the appearance of vice, by following which his safety and well-being are secured.**
 
 ---
 
-> Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.&nbsp;
+> **Returning to the question of being loved or feared, I sum up by saying, that since his being loved depends upon his subjects, while his being feared depends upon himself, a wise Prince should build on what is his own, and not on what rests with others. Only, as I have said, he must do his utmost to escape hatred.**&nbsp;
+
+This is the best argument for choosing to be feared over being loved. It's impossible to \*make\* someone love you. You can inspire it, but it's ultimately their choice. Fear, on the other hand, requires an active effort to not experience it and furthermore, to act courageously in the face of that feeling.
+
+Most men are not built to resist fear. They must be trained. And even then, they have a breaking point.&nbsp;
 
 ---
 
-> Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;
+> **Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;**
 
 ---
 
