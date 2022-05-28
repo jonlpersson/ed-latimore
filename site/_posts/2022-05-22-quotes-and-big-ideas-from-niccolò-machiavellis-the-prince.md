@@ -224,7 +224,15 @@ People will do more to avoid pain than experience pleasure.
 
 ---
 
-> And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
+> **And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;**
+
+The problem with generosity is that if that's the quality that you are known for, it will attract people with schemes to bleed you dry. And even if you think that's too pessimistic, consider this: even the people around you with good intentions may take advantage of you—not because they're evil people, but because your help enables them.
+
+And once you decide to change your method of interaction with people—that is, to stop being so generous—they will then view you with contempt because you are cutting them off.
+
+This is the problem found when you lead with generosity. You lock yourself into an invisible contract: we'll be kind and compliant as long as you give. The moment you stop, we no longer have any reason to respect you.
+
+This isn't to say that one should lead through fear and violence, but leading through kindness and generosity establishes a condition that you can not always meet and do your job effectively.&nbsp;
 
 ## **Machiavelli on paying for help**
 
