@@ -230,13 +230,15 @@ The problem with generosity is that if that's the quality that you are known for
 
 And once you decide to change your method of interaction with people—that is, to stop being so generous—they will then view you with contempt because you are cutting them off.
 
-This is the problem found when you lead with generosity. You lock yourself into an invisible contract: we'll be kind and compliant as long as you give. The moment you stop, we no longer have any reason to respect you.
+This is the problem found when you lead with generosity. You lock yourself into an invisible contract: we'll be kind and compliant as long as you give. They no longer have any reason to respect you when you stop.
 
 This isn't to say that one should lead through fear and violence, but leading through kindness and generosity establishes a condition that you can not always meet and do your job effectively.&nbsp;
 
 ## **Machiavelli on paying for help**
 
-> Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;
+> **Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;**
+
+Mercenaries are loyal to the pay they receive. This means that it's entirely within the realm of possibilities that your opponent can buy them from you. When you apply this advice outside of&nbsp;
 
 ---
 
