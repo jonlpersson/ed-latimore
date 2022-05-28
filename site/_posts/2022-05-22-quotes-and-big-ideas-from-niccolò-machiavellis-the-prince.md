@@ -238,7 +238,15 @@ This isn't to say that one should lead through fear and violence, but leading th
 
 > **Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives.&nbsp;**
 
-Mercenaries are loyal to the pay they receive. This means that it's entirely within the realm of possibilities that your opponent can buy them from you. When you apply this advice outside of&nbsp;
+Mercenaries are loyal to the pay they receive. This means that it's possible that your opponent can buy them from you. Most of us will never be able to apply this advice to a war environment, but it becomes even more potent when applied to our daily lives.
+
+Employers continue to learn that they will lose their employees if they don't pay them well. Old ideas of company loyalty have flown out the window. Now people with skills are going to the highest bidder. If companies don't adjust, then they'll be left in the dust.
+
+There is a word about auxiliaries as well, which (in Machiavelli's context) are troops brought in from allied countries or kingdoms to fight on your behalf. These are better than mercenaries, but they come with their own problems. Mainly, if they won't fight as hard and they become aware of your weaknesses in case they decide to make conquer you.&nbsp;
+
+Analogously to the real world, auxiliaries are like partnerships. Be careful if you team up with someone to sell online or launch a product. If they've got significantly more market share than you, you may find your intellectual property heavily borrowed—if not outright stolen.&nbsp;
+
+The auxiliaries know how your operation works because you had to reveal it to them to work together. But if they have a significantly greatly reach than you, be careful
 
 ---
 
