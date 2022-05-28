@@ -218,6 +218,10 @@ Most men are not built to resist fear. They must be trained. And even then, they
 
 > **Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate.&nbsp;**
 
+When a person fears your retribution, they are much less likely to betray you. Love is a powerful motivation to stay loyal, but fear is even better.
+
+People will do more to avoid pain than experience pleasure.
+
 ---
 
 > And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard.&nbsp;
