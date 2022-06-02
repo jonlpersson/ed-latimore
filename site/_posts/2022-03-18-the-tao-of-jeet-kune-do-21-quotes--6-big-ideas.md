@@ -76,3 +76,4 @@ This book is a must-have for any martial artist or philosopher out there. Below 
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
