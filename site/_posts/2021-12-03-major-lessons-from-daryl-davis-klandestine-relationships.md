@@ -246,5 +246,6 @@ The solution, whatever it is, won't be with Daryl's method or activism alone. It
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
 * [The Book of Five Rings by Miyamoto Musashi](/the-book-of-five-rings-quotes/)
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-
-&nbsp;
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
+* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
+* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
