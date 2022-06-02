@@ -85,3 +85,4 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
