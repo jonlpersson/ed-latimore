@@ -94,5 +94,6 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
 * [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
 
 &nbsp;
