@@ -148,8 +148,6 @@ There are few things to be gained and many to be lost by doing so. And before yo
 
 ## Other notes and big ideas from books I've read
 
-&nbsp;
-
 * [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
 * [The Book of Five Rings by Miyamoto Musashi](/the-book-of-five-rings-quotes/)
 * [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
@@ -157,5 +155,6 @@ There are few things to be gained and many to be lost by doing so. And before yo
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
 * [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
 
 &nbsp;
