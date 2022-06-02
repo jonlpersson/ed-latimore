@@ -227,3 +227,4 @@ In social and business matters, the best defense against deception is inspection
 * [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
 * [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
 * [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
+* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
