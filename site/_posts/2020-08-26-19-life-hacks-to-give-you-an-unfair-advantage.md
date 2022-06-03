@@ -228,7 +228,7 @@ Buy a little kitchen timer and work to that. Don’t open your browser and turn 
 
 It’s amazing how much you can accomplish with 30 uninterrupted minutes of work. Once the timer goes off, get your dopamine fix and check social media and browse.
 
-If that fails, you can always try [Gorilla Mind Rush.](https://gorillamind.com/?rfsn=4525775.fe5747){: target="_blank" rel="noopener noreferrer"}
+If that fails, you can always try [Gorilla Mind Rush.](https://gorillamind.com/products/gorilla-mind-smooth?rfsn=4525775.fe5747){: target="_blank" rel="noopener noreferrer"}
 
 ## 19\. **Are you a terrible person and want to change?**
 

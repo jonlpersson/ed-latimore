@@ -214,7 +214,7 @@ To reinforce the effects of Alpha-GPC, Gorilla Mind Rush also includes the natur
 
 Lastly, Gorilla Mind Rush is non-habit forming and there is no nasty crash (users of Adderall and to a lesser extent, Ritalin, can attest to how big of a deal this is).
 
-If you want to support the site and improve your ability to focus, [then pick up a bottle of Gorilla Mind Rush here.](https://gorillamind.com/?rfsn=4525775.fe5747){: target="_blank"}
+If you want to support the site and improve your ability to focus, [then pick up a bottle of Gorilla Mind Rush here.](https://gorillamind.com/products/gorilla-mind-smooth?rfsn=4525775.fe5747){: target="_blank"}
 
 ## 7\. Deep breathes energize your brain
 
