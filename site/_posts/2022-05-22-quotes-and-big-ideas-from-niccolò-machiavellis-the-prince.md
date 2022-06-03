@@ -150,7 +150,9 @@ Machiavelli is telling leaders to not worry about being viewed as cruel as long 
 
 > **For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you.&nbsp;**
 
-Generally speaking, people are friendly to you when it's easy to be friendly. However, the moment that friendship requires real skin in the game and sacrifice, then many are nowhere to be found. This isn't t say that there is no such thing as a loyal friend. It's only to say that a loyal friend who is by your side through thick and thin is a rare find.
+Generally speaking, people are friendly to you when it's easy to be friendly. However, the moment that friendship requires real skin in the game and sacrifice, then many are nowhere to be found.
+
+This isn't to say that there is no such thing as a loyal friend. It's only to say that a loyal friend who is by your side through thick and thin is a rare find.
 
 ---
 
