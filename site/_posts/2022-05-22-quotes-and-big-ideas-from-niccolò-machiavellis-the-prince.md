@@ -44,9 +44,9 @@ If you lose control of something you once had control over and are forced to tak
 
 > **"He, therefore, who acquires such a State, if he means to keep it, must see to two things; first, that the blood of the ancient line of Princes is destroyed; second, that no change be made in respect of laws or taxes; for in this way the newly acquired State speedily becomes incorporated with the hereditary."**
 
-The first part of this is fairly obvious. You have to crush your enemies totally. Machiavelli mentions this idea several times throughout the Prince. The second change is less transparent.
+The first part of this is fairly obvious. You have to crush your enemies totally. Machiavelli mentions this idea several times throughout the Prince. The second idea is less transparent.
 
-Machiavelli is telling you to not make any changes that would affect the way of life in the new state you command. At least not immediately. This means that you're acquiring power for and influence for other reasons and that making changes threatens that power.
+Machiavelli is telling you to not make any changes that would affect the way of life in the new state you command. At least not immediately. This means that you must acquire power and influence for other reasons than to change how things are done because making changes threatens the power you worked so hard to gain.
 
 That's because these changes generate the most kickback and potential for uprising and rebellion. As these things threaten your power, do not change them unless absolutely necessary. Think of this idea the next time you're put in charge.
 
@@ -96,11 +96,15 @@ The reason for this is that change threatens people. If you're able to pull off 
 
 > **For, in truth, there is no sure way of holding other than by destroying, and whoever becomes master of a city accustomed to living in freedom and does not destroy it, may reckon on being destroyed by it.**
 
-This piece of advice gives a dark message about the reality of taking ownership of something that was once someone else but not freely given to you. You either have to destroy everything it is and stands for or you will become just like its previous owner. This new direction may not align with your plans.
+This piece of advice gives a dark message about the reality of taking ownership of something that was once someone else's but not freely given to you. You either have to destroy everything it is and stands for or you will become just like its previous owner. This new direction may not align with your plans.
 
-You see this when a company is taken over. A lot of the old leadership is fired because the new owner has to put a new stamp on things. Even if the gesture is only symbolic and the underlying operating procedure and rules stay the same, the company is now under new leadership, and to make that clear, vital parts have to be built and restructured.
+You see this when a company is taken over.
 
-This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girl's old boyfriend did—even if she liked it—because she's&nbsp;***his***&nbsp;girlfriend now. A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
+A lot of the old leadership is fired because the new owner has to put a new stamp on things. Even if the gesture is only symbolic and the underlying operating procedure and rules stay the same, the company is now under new leadership, and to make that clear, vital parts have to be built and restructured.
+
+This reminds me of something Patrice O'Neil once said about being in a new relationship. He said that when he's in a new relationship, he won't do the stuff the girl's old boyfriend did—even if she liked it—because she's&nbsp;***his***&nbsp;girlfriend now.
+
+A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
 ## Machiavelli on dealing with problems early
 
@@ -114,7 +118,7 @@ An ounce of prevention is worth a pound of a cure. The earlier you solve a probl
 
 This point is in the same vein as making sure that you destroy an enemy completely if you get into conflict with him. However, this is more of a preventative tone.
 
-When you have to be a disciplinarian, any punishment or retribution you exert must be disproportionately severe enough to dissuade a further offense. A slap on the wrist is no punishment at all. Even a punishment that seems reasonable and appropriate will not suffice. It is important to make the punishment be so great that the people you're in charge of leading do not ever think of committing it again.
+When you have to be a disciplinarian, any punishment or retribution you exert must be disproportionately severe enough to dissuade a further offense. A slap on the wrist is no punishment at all. Even a punishment that seems reasonable and appropriate will not suffice. It is important to make the punishment so great that the people you're in charge of leading do not ever think of committing it again.
 
 The importance of this can not be overstated in leadership. It is always easier to simply fire someone than it is to try to rehabilitate them and teach them a lesson. Most times, it's not even worth it either.
 
