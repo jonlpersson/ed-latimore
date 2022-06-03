@@ -63,19 +63,6 @@
     Engagement Is The New Cocaine.
   button: Learn How To Grow Your Twitter
   link: https://edwardlatimore.gumroad.com/l/kegd
-- id: gorilla-mind-rush
-  heading: Quick recap
-  text_markdown: >-
-    I've taken Gorilla Mind Rush for over a year now. It's helped me become more
-    productive in all areas of life. The main benefits I've seen:
-
-
-    * Easier to focus on demanding tasks for a long time - Increased motivation
-    to be productive - More energy while working out - Decreased hunger during
-    my fasting periods I would love for you to try GMR and let me know if it
-    works just as well for you.
-  button: Link to product
-  link: https://gorillamind.com/?rfsn=4525775.fe5747
 - id: Sober-Letters
   heading: A different way to get sober
   text_markdown: >-
@@ -395,6 +382,23 @@
     &nbsp;
   button: I want to get control of my drinking!
   link: https://gumroad.com/a/337122419
+- id: gorilla-mind-rush
+  heading: Quick recap
+  text_markdown: >-
+    I've taken Gorilla Mind Rush for over a year now. It's helped me become more
+    productive in all areas of life. The main benefits I've seen:
+
+    - Easier to focus on demanding tasks for a long time
+    - Increased motivation
+    to be productive
+    - More energy while working out
+    - Decreased hunger during
+    my fasting periods
+
+    I would love for you to try GMR and let me know if it
+    works just as well for you.
+  button: Link to product
+  link: https://gorillamind.com/products/gorilla-mind-smooth?rfsn=4525775.fe5747
 - id: gorilla-mind-smooth
   heading: Quick recap
   text_markdown: >-
@@ -407,5 +411,11 @@
     It’s the best stim-free nootropic I’ve used.
   button: Link to product
   link: >-
-    https://gorillamind.com/collections/nootropics/products/gorilla-mind-smooth?rfsn=4525775.fe5747
+    https://gorillamind.com/products/gorilla-mind-smooth?rfsn=4525775.fe5747
+  - id: gorilla-mode
+  heading: Quick recap
+  text_markdown: >-
+    Gorilla Mode has become my go-to pre-workout formula because it is incredibly potent, tastes okay, doesn't break the bank, and because I feel comfortable knowing the ingredient list is shared openly.
+  button: Link to product
+  link: https://gorillamind.com/products/gorilla-mode?rfsn=4525775.fe5747
 ---
