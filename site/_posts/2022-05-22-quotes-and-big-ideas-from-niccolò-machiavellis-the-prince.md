@@ -11,17 +11,19 @@ description: >-
   motivational or inspirational quotes. They're pragmatic and useful. 
 image: /assets/images/drafts/the-prince.jpg
 ---
-The Price was written by Niccol&ograve; Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to return to a position of power he once held. **He wrote The Prince to gain favor with Lorenzo de Medici** after he fell out of favor with them because he was accused of conspiracy.
+The Price was written by Niccol&ograve; Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to use it to aid his return to a position of power he once held. It was to be a gift to gain favor with Lorenzo de Medici after he fell out of favor with him because he was accused of conspiracy, tortured, and exiled.
 
 Machiavelli states in the book's dedication that he would like to return to a position of authority and that he offers the advice contained in The Prince as the most precious gift he could offer.
 
 Machiavelli himself was an Italian diplomat and political theorist we can assume from the text is well educated in the history, rise, and fall of various rules and kingdoms throughout history.
 
-Throughout The Prince, Machiavelli references everyone from Alexander the Great, to Pope Alexander the VI, to Cesare Borgia to make his case for a type of amoral, results-driven, course of action for new Princes to take. He draws on experience as a diplomat to warn about the pitfalls of human nature and how to manipulate it to achieve your political goals.
+Throughout The Prince, he references everyone from Alexander the Great, to Pope Alexander the VI, to Cesare Borgia to make his case for a type of amoral, results-driven, course of action for new Princes to take. He draws on experiences as a diplomat to warn about the pitfalls of human nature and how to manipulate it to achieve your political goals.
 
-He is particularly impressed and inspired by Cesare Borgia saying of him, "There was one man who showed glimpses of greatness, the kind of thing that made you think he was sent by God for the country's redemption."
+He is particularly impressed and inspired by Cesare Borgia, saying of him:
 
-Although it is relatively short, the book has made a serious impression on popular culture and political philosophy. It’s responsible for bringing the word "Machiavellian" into usage as an insult to one’s character.
+> "There was one man who showed glimpses of greatness, the kind of thing that made you think he was sent by God for the country's redemption."
+
+Although it is relatively short, the book has made a great impression on popular culture and political philosophy. It’s responsible for bringing the word "Machiavellian" into usage as an insult to one’s character.
 
 I've collected the big ideas and major quotes from Machiavelli's classic treatise on political philosophy and political theory. I wouldn't exactly call these inspirational quotes, but you will find a wealth of practical knowledge that will enable you to navigate and anticipate human nature to use to your advantage.
 
@@ -36,7 +38,7 @@ I've collected the big ideas and major quotes from Machiavelli's classic treatis
 If you lose control of something you once had control over and are forced to take it back by force, then you've accomplished two things:
 
 1. You've proven that you're willing to fight to keep what's yours. This is often a strong enough deterrent for most would-be usurpers, rebels, and thieves.
-2. You've demonstrated that there is a cost to messing with you. Once people know that they will incur damage if they cross you, they're less likely to cross you.
+2. You've demonstrated that there is a cost to messing with you. Once people know that they will incur damage if they cross you, they're less likely to do it.
 
 ---
 
