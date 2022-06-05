@@ -49,8 +49,8 @@ They let themselves go because taking care of themselves requires strength and t
 This is not easy. I know because I’ve spent years training:
 
 * My body to box professionally ***\[Learn what it’s like to prepare for a professional fight—&gt;[What it’s like getting ready for a pro fight](/boxing-training/)\]***
-* My mind to learn chess \[Learn how to concentrate and focus—&gt;How to focus and concentrate better\]
-* My emotions to stay committed to sobriety \[Learn what I’ve learned about being sobriety—&gt;What I’ve learned from 8 years of sobriety\]
+* My mind to learn chess ***\[Learn how to concentrate and focus—&gt;[How to focus and concentrate better](/how-to-focus-better/)\]***
+* My emotions to stay committed to sobriety ***\[Learn what I’ve learned about being sobriety—&gt;[What I’ve learned from 8 years of sobriety](/sobriety-benefits/)\]***
 
 Even if I didn’t tell you this, you know that it’s not easy because if it were, then everyone would be strong. It’s easy to see that most people are not strong in any area of their life. In fact, if you pay attention, you’ll see that they are so weak that they effectively do not exist.
 
