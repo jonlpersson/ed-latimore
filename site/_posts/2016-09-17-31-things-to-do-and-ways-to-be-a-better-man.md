@@ -12,6 +12,8 @@ description: >-
 ---
 The premise of this article is simple. I wrote it when I had just turned 31. Here are 30 ways to become a better man. If you follow these simple steps, you won't be a perfect man, but you will be the best version of a man that you can be.
 
+***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
+
 ---
 
 ## How to be a better man: 31 real things the modern man does to live life to the fullest&nbsp;
