@@ -10,11 +10,15 @@ image:
 ---
 What is masculinity?
 
-Before we intentionally try to become something, we have to clearly know what we’re trying to achieve. This means we have to define “masculinity”. It’s easy to say that masculinity is one of those things that you know when you see it, but that leaves us with a big problem:
+Before we try to become something, we have to know what we’re trying to become. This means we have to define “masculinity”. It’s easy to say that masculinity is one of those things that you know when you see it, but that leaves us with a big problem:
 
-**It makes it easy for anyone to change the definition to suit their narrative or message**.
+**That makes it easy for anyone to change the definition to suit their narrative or message**.
 
-Men who aren’t willing to do what it takes to become masculine will bend the definition to include things that are antithetical to becoming a man but because they do it AND they still want to be considered masculine, they argue for it.For example, a lot of guys like to argue that because men play video games, that video games (especially sports games or first-person shooters) are examples of manliness. Even men in today’s world think that being able to hold your liquor, smoke cigars, and get laid off from dating apps makes you man.These are things that men do. They do not inherently make you masculine.
+Men who aren’t willing to do what it takes to become masculine will bend the definition to include things that are antithetical to becoming a man but because they do it AND they still want to be considered masculine, they argue for it.
+
+For example, a lot of guys like to argue that because men play video games, that video games (especially sports games or first-person shooters) are examples of manliness.
+
+Even men in today’s world think that being able to hold your liquor, smoke cigars, and get laid off from dating apps makes you man. These are things that men do. They do not inherently make you masculine.
 
 I’ve thought about all the different arguments that people make about what a “real man” does. People give lists that include things like
 
@@ -39,9 +43,11 @@ It goes beyond superficial metrics, but those metrics are proxy indicators for s
 
 In my opinion, this is the most general definition. If you need a refresher on entropy, a good jargon-free definition is “lack of order or predictability; gradual decline into disorder.”
 
-Masculinity is all about exerting your will on the forces of the universe and bending them to your desires. Now, there can be positive or negative versions of this. This is where the ideas of “positive masculinity” and “toxic masculinity" come from, but masculinity itself is neither good nor bad. It is simply a characteristic.
+Masculinity is all about exerting your will on the universe and shaping it to your desires. Now, there can be positive or negative versions of this. This is where the ideas of “positive masculinity” and “toxic masculinity" come from, but masculinity itself is neither good nor bad. It is simply a characteristic.
 
-Jack Donovan once said, “There is a difference between being a good man and being good at being a man.” Masculinity is about the latter. It is the work of being good at being a man. You can be good at being a man without being a good man.
+[Jack Donovan](https://www.jack-donovan.com/sowilo/){: target="_blank" rel="noopener noreferrer"} once said, *“There is a difference between being a good man and being good at being a man.”*
+
+Masculinity is about the latter. It is the work of being good at being a man. You can be good at being a man without being a good man.
 
 The same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.&nbsp;
 
@@ -53,19 +59,23 @@ The same masculine leadership qualities that made people follow Gandhi are the o
 
 A man must be strong.
 
-This goes beyond the physical strength you build from the hard work of lifting weights, but that helps. Generally speaking, a man must be strong enough to remain on course in the midst of distraction. These distractions will come from two places: his thoughts and the actions of others.
+This goes beyond the physical strength you build from the hard work of lifting weights, but that helps. Generally speaking, a man must be strong enough to remain on course in the midst of distraction.
+
+These distractions will come from two places: his thoughts and the actions of others.
 
 ### Masculinity resists the actions of others
 
-A strong man is strong because he is able to resist change, natural or intentional. This means that masculinity stands resolute in the face of peer pressure and social influences. This requires strength, therefore a defining feature of masculinity is strength.
+A strong man is strong because he is able to resist change, natural or intentional.
 
-What is the purpose of physical training? To resist the natural decay of our bodies in the face of nature.
+This means that masculinity stands resolute in the face of peer pressure and social influences. This requires strength, therefore a defining feature of masculinity is strength.
 
-What is the purpose of mental training? To resist forces that seek to influence us for their personal gain.
+* **What is the purpose of physical training?** To resist the natural decay of our bodies in the face of nature.
+* **What is the purpose of mental training?** To resist forces that seek to influence us for their personal gain. \[Check out a good mental training program I wrote by clicking here—&gt;[How to focus better and improve concentration](/how-to-focus-better/)\]
+* **What is the purpose of emotional training?** To resist the persuasive manipulations of those who would lead us astray.
 
-What is the purpose of emotional training? To resist the persuasive manipulations of those who would lead us astray.
+Masculinity resists entropy. Masculinity resists change for change’s sake alone.
 
-Masculinity resists entropy. Masculinity resists change for change’s sake alone. But the other end of strength is that masculinity impacts and creates. Masculinity does not subtlety influence; it directly manipulates, directs, and impacts. Strength is required to do this as well.
+But the other end of strength is that masculinity impacts and creates. Masculinity does not subtlety influence; it directly manipulates, directs, and impacts. Strength is required to do this as well.
 
 Masculinity is strong enough to stand its own frame of reference, resisting all efforts that don’t align with its vision while simultaneously shaping the world in its vision.
 
@@ -75,7 +85,9 @@ A man must always be honest, even in the face of pain, anguish, torture, or deat
 
 ### Honesty with others
 
-There is more to this honesty than just telling the truth to others. That’s also important, but only the surface level of honesty is required to be a man. Every lie that a man is told forces him to be inauthentic, to some degree. Lying also signals a lack of strength.
+There is more to this honesty than just telling the truth to others.
+
+That’s also important, but it only scratches the surface of the honesty required to be a man. Every lie that a man tells forces him to live in some degree of inauthenticity. Lying also signals a lack of strength.
 
 Either you weren’t strong enough to behave in a way that didn’t require deception or you currently lack the strength to deal with the backlash from honesty.
 
@@ -85,17 +97,26 @@ Then there is being honest with yourself. Young boys get to play pretend and ima
 
 ### Honesty with yourself
 
-Men don’t get to play games. Men have to live in the real world and deal with real life. This means they need to be brutally self-aware. We have to always know where we are strong, where we are weak, and what needs improvement in our lives. We have to accept our flaws and weaknesses and take responsibility for our position in the world.
+Men don’t get to play games.
 
-If you’re an average man be honest with yourself. If you don’t want to be better than you are, admit that to yourself. But also accept everything that comes with that level of honesty. Men are afraid to be honest with others because they lack the strength to deal with the backlash, but they’re afraid to be honest with themselves because of the responsibility that comes with it.
+Men have to live in the real world and deal with real life.
+
+This means they need to be brutally self-aware. We have to always know where we are strong, where we are weak, and what needs improvement in our lives. We have to accept our flaws and weaknesses and take responsibility for our position in the world.
+
+If you’re an average man, be honest with yourself. If you don’t want to be better than you are, admit that to yourself. But also accept everything that comes with that level of honesty.
+
+Men are afraid to be honest with others because they lack the strength to deal with the backlash, but they’re afraid to be honest with themselves because of the responsibility that comes with it.
 
 Once you become aware of something that something is wrong in your life, it is now your duty to fix it. Many men don’t want to carry the weight of that responsibility and the hard work that will be required to fix things wrong in their life.
 
 So they lie to themselves. If you want to be a better man, must never lie to yourself.
 
-"The first principle is that **you must not fool yourself, and you are the easiest person to fool**."
+***\[This article also gives 31 tips to be a better man—&gt;[How to be a better man](/how-to-be-a-better-man/)\]***
 
-\-Richard Feynman
+> "The first principle is that you must not fool yourself, and you are the easiest person to fool."
+>
+>
+> \-Richard Feynman
 
 ## Responsibility
 
