@@ -68,7 +68,7 @@ What good is being able to bench your body weight if you can’t think for yours
 
 What good are powerful deductive reasoning skills if you’re an addict whose life is out of control?
 
-I never wanted to only be an intelligent guy who couldn’t work hard or a fit guy who couldn’t think.&nbsp; You’re only as strong as your weakest link. In this post, I will teach you how to strengthen the entire chain.
+I never wanted to only be an intelligent guy who couldn’t work hard or a fit guy who couldn’t think.&nbsp; You’re only as strong as your weakest link. This post will teach you how to strengthen the entire chain.
 
 ## How to build physical strength
 
@@ -114,7 +114,7 @@ Social media empires have made their CEOs billionaires because you can’t resis
 
 Pharmaceutical companies bank on you not having the emotional strength to control what you consume or how you live your life.
 
-\{% twitter
+{% twitter https://twitter.com/EdLatimore/status/1057453248641187842 %}
 
 ***Emotional strength is developed by practicing restraint.***
 
