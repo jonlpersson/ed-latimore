@@ -206,7 +206,7 @@ Also, everything that causes growth is scary. You may not think of it that way, 
 
 This means that you have to be courageous. This means that you have to act despite fear.
 
-{% https://twitter.com/EdLatimore/status/1379785342606262274 %}
+{% twitter https://twitter.com/EdLatimore/status/1379785342606262274 %}
 
 ## Humility
 
@@ -230,7 +230,7 @@ This is part of the reason men are apprehensive about connecting with one anothe
 
 ## Fitness
 
-You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to [give up alcohol](/8-things-to-know-if-you-want-to-quit-drinking/)or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
+You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to [give up alcohol](/8-things-to-know-if-you-want-to-quit-drinking/)&nbsp;or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
 
 **Body mass index (BMI) &gt; 24:** A lot of people hate BMI and claim that it’s only for [certain races](https://www.washingtonpost.com/lifestyle/wellness/healthy-bmi-obesity-race-/2021/05/04/655390f0-ad0d-11eb-acd3-24b44a57093a_story.html){: target="_blank"} or that it excludes people who lift weights or that it’s plain outdated. The reality is this: as measured by BMI, the percentage of the population who is considered obese or overweight has continually risen in the last 30 years as have the correlated diseases that come with it.
 
