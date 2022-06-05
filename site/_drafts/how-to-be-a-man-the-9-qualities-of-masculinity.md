@@ -198,6 +198,8 @@ This doesn’t mean that you have to be fearless. It only means that you have to
 
 Therefore, your response to fear should be excitement. In fact, when you look at the brain while experiencing fear, the response is the same as if something exciting is happening, This is important to remember whenever you feel afraid.
 
+***\[Some lessons on dealing with fear I picked up dealing with fear from boxing—&gt;[7 Lessons from boxing on dealing with fear](/how-to-overcome-fear/)\]***
+
 The world is a terrifying but wonderful place. However, the only way you get to see the wonders of the world is by confronting and moving past the terrors within it. This means that you have to be courageous in the face of your fears.
 
 Also, everything that causes growth is scary. You may not think of it that way, but it at least carries the possibility of hurt and failure. That, by itself, is scary—even if you don’t register the fear.
