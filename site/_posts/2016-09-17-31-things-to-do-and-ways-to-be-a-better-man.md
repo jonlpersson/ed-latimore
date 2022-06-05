@@ -249,6 +249,8 @@ If you can’t find people that you like to hang out with and you reside in a re
 
 If you're somewhere without a lot of people, you might have to move if being happy is important to you. Normally I’d say “see lesson 1” but this particular point is beyond negotiation. See lesson 18.
 
+***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
+
 ## 18\. Nurture your relationships
 
 No matter how much money you make or how good a time you are having, if you don’t have people you like to share it with then it's meaningless.
@@ -432,5 +434,7 @@ No matter what though, all that matters is that you start because the time is go
 There's only one thing to do.
 
 If this post gave tremendous help or insight, or you simply enjoyed it, sign up to my mailing list for useful tips from someone who's taken what he's learned the hard way and broken it down so that you can learn it the easy way.
+
+***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
 
 {% include widgets/cta-email.html %}
