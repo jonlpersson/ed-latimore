@@ -200,7 +200,7 @@ Therefore, your response to fear should be excitement. In fact, when you look at
 
 ***\[Some lessons on dealing with fear I picked up dealing with fear from boxing—&gt;[7 Lessons from boxing on dealing with fear](/how-to-overcome-fear/)\]***
 
-The world is a terrifying but wonderful place. However, the only way you get to see the wonders of the world is by confronting and moving past the terrors within it. This means that you have to be courageous in the face of your fears.
+The world is a terrifying but wonderful place. However, the only way you get to see the wonders of the world is by confronting and moving past the terrors within it. This means you have to be courageous in facing your fears.
 
 Also, everything that causes growth is scary. You may not think of it that way, but it at least carries the possibility of hurt and failure. That, by itself, is scary—even if you don’t register the fear.
 
@@ -212,27 +212,37 @@ This means that you have to be courageous. This means that you have to act despi
 
 Real men learn how to be men from other real men.
 
-Because a man is made, it’s impossible for him to know how to be or what to do on his own. Men learn how to be men from their fathers, uncles, and elder men around them who set an example. Or at least, this is how it’s supposed to be. It’s no secret that today there is a shortage of men worthy to lead and set a good example, but that’s a discussion for another post.
+Because a man is made, it’s impossible for him to know how to be or what to do on his own.
+
+Men learn how to be men from their fathers, uncles, and elder men around them who set an example. Or at least, this is how it’s supposed to be. It’s no secret that today there is a shortage of men worthy to lead and set a good example, but that’s a discussion for another post.
 
 Part of being a man is being willing to learn from other men.
 
 Before technology came along and made everything easy, knowledge and skills were passed down from one man to another. In fact, a young man was not considered a man until he could prove that he was capable the way the men who taught him were.
 
-One of the telltale signs of a guy who has missed a masculine influence in his life is that he lacks the ability to listen to men. I see this often in guys who were raised by a single mother. At best, they have a resistance to listening to men. At worst, they have distrust and disrespect. This is the result of a combination of growing up never having seen masculine role models, positive masculine men. or hearing everything about being a man getting grouped into the category of “toxic masculinity”.
+One of the telltale signs of a guy who has missed a masculine influence in his life is that he lacks the ability to listen to men. I see this often in guys who were raised by a single mother.
 
-Unfortunately, this problem is not just isolated to the sons of fatherless households. This means that many men today are not being taught to be men. This means they arrogantly believe they are men, so they will not learn from other men how to be better men. This is part of the reason men are apprehensive about connecting with one another because opening up means facing something terrifying, taking responsibility, and building your relationships with other men—all things that force men out of the comfort zone of modernity and make them develop.
+<div class="cms-embed" data-cms-embed="aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NkX29EQkhyZE4xLw==">https://www.instagram.com/p/Cd_oDBHrdN1/</div>
+
+At best, they have a resistance to listening to men. At worst, they have distrust and disrespect. This is the result of a combination of growing up never having seen masculine role models, positive masculine men. or hearing everything about being a man getting grouped into the category of “toxic masculinity”.
+
+Unfortunately, this problem is not just isolated to the sons of fatherless households. This means that many men today are not being taught to be men. This means they arrogantly believe they are men, so they will not learn from other men how to be better men.
+
+This is part of the reason men are apprehensive about connecting with one another because opening up means facing something terrifying, taking responsibility, and building your relationships with other men—all things that force men out of the comfort zone of modernity and make them develop.
 
 ## Fitness
 
-You don’t need to be into bodybuilding, CrossFit, or being a semi-pro athlete. You don’t even have to give up alcohol or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
+You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to [give up alcohol](/8-things-to-know-if-you-want-to-quit-drinking/)or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
 
-**Body mass index (BMI) &gt; 24:** A lot of people hate BMI and claim that it’s only for [certain races](https://www.washingtonpost.com/lifestyle/wellness/healthy-bmi-obesity-race-/2021/05/04/655390f0-ad0d-11eb-acd3-24b44a57093a_story.html){: target="_blank"} or that it excludes people who lift weights or that it’s plain outdated. The reality is this: as measured by BMI, the percentage of the population who is considered obese or overweight has continually risen in the last 30 years as has the correlated diseases that come with it. I don’t recommend using BMI by itself because too much muscle will put you into the overweight zone, but that’s why you couple it with the following metric.
+**Body mass index (BMI) &gt; 24:** A lot of people hate BMI and claim that it’s only for [certain races](https://www.washingtonpost.com/lifestyle/wellness/healthy-bmi-obesity-race-/2021/05/04/655390f0-ad0d-11eb-acd3-24b44a57093a_story.html){: target="_blank"} or that it excludes people who lift weights or that it’s plain outdated. The reality is this: as measured by BMI, the percentage of the population who is considered obese or overweight has continually risen in the last 30 years as have the correlated diseases that come with it.
 
-**Body fat percentage &lt; 16%:** This metric, combined with a BMI over 24, means that you’re carrying a decent amount of muscle and a low amount of body fat. A high level of body fat is a sign insulin resistance and is the precursor to diabetes and all of the complications that come with it. It’s hard to hit the next 3 metrics if you have a high level of body fat. At 16% body fat, you won’t have washboard abs, but you will [dramatically lower your risk for a variety of metabolic disorders and chronic diseases.](https://pubmed.ncbi.nlm.nih.gov/21961616/){: target="_blank"}
+I don’t recommend using BMI by itself because too much muscle will put you into the overweight zone, but that’s why you couple it with the following metric.
 
-**Hemoglobin a1C &lt; 5.6:** If you aren’t familiar with this test, it’s a **simple blood test that measures your average blood sugar levels over the past 3 months**. If you’re interested in the detailed science of the A1c or HbA1c test, you can read about it here. For everyone else, all you need to know is that this number is arguably the single best metric to know how insulin resistant you are. [Insulin resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448479/){: target="_blank"} is implicated in [5 of top 10 killers of Americans.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm){: target="_blank"}
+**Body fat percentage &lt; 16%:** This metric, combined with a BMI over 24, means that you’re carrying a decent amount of muscle and a low amount of body fat. A high level of body fat is a sign of insulin resistance and is the precursor to diabetes and all of the complications that come with it. It’s hard to hit the next 3 metrics if you have a high level of body fat. At 16% body fat, you won’t have washboard abs, but you will [dramatically lower your risk for a variety of metabolic disorders and chronic diseases.](https://pubmed.ncbi.nlm.nih.gov/21961616/){: target="_blank"}
 
-**Resting heart rate &lt; 60:**[Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
+**Hemoglobin a1C &lt; 5.6:** If you aren’t familiar with this test, it’s a simple blood test that measures your average blood sugar levels over the past 3 months. If you’re interested in the detailed science of the A1c or HbA1c test, you can read about it here. For everyone else, all you need to know is that this number is arguably the single best metric to know how insulin-resistant you are. [Insulin resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448479/){: target="_blank"} is implicated in [5 of the top 10 killers of Americans.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm){: target="_blank"}
+
+**Resting heart rate &lt; 60:&nbsp;**[Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
 
 While there are many other metrics that are important for your health, these are the major ones to monitor. Getting these metrics in order requires you to be vigilant about your diet and lifestyle choices.
 
