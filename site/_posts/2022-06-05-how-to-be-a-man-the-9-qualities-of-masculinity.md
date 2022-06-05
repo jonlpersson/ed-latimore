@@ -224,6 +224,8 @@ One of the telltale signs of a guy who has missed a masculine influence in his l
 
 At best, they have a resistance to listening to men. At worst, they have distrust and disrespect. This is the result of a combination of growing up never having seen masculine role models, positive masculine men. or hearing everything about being a man getting grouped into the category of “toxic masculinity”.
 
+<div class="cms-embed" data-cms-embed="aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NkX29EQkhyZE4xLw==">https://www.instagram.com/p/Cd_oDBHrdN1/</div>
+
 Unfortunately, this problem is not just isolated to the sons of fatherless households. This means that many men today are not being taught to be men. This means they arrogantly believe they are men, so they will not learn from other men how to be better men.
 
 This is part of the reason men are apprehensive about connecting with one another because opening up means facing something terrifying, taking responsibility, and building your relationships with other men—all things that force men out of the comfort zone of modernity and make them develop.
@@ -252,13 +254,13 @@ If you don’t care enough about your physical well-being to take care of it, th
 
 The last trait that a man must have is the most important. A man must have vision.
 
-He must always consider how what he’s doing will affect the his plans for the future. This, of course, means that he has to have plans for the future.
+He must always consider how what he’s doing will affect his plans for the future. This, of course, means that he has to have plans for the future.
 
 Men always have designs on something. This comes from being honest and knowing that he will die one day. This means that he has to plan, strategize, and maximize how to best use the time available. This requires vision.
 
-This is one of those things that separates boys from men. Boys don’t have to worry about anything about but the moment because someone is there to take care of them and their every need. Men are not only responsible for themselves, but usually for other people.
+This is one of those things that separates boys from men. Boys don’t have to worry about anything but the moment because someone is there to take care of them and their every need. Men are not only responsible for themselves, but usually for other people.
 
-This means they can’t afford to just live for the moment. At the end of the day, they need a vision and then a plan to achieve that vision.
+This means they can’t afford to just live for the moment. At the end of the day, they need a vision and a plan to achieve it.
 
 {% twitter https://twitter.com/EdLatimore/status/1070414717947129857 %}
 
