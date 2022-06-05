@@ -124,6 +124,8 @@ Men don’t shy away from responsibility. In fact, they embrace every opportunit
 
 A tell-tale sign of immaturity—in men and women—is the avoidance of anything that looks like a duty.
 
+***\[This article highlights the 6 signs of maturity. Definitely worth a read—&gt;[The 6 signs of mental and emotional maturity](/signs-of-maturity/)\]***
+
 It’s natural to want to be as free as possible. In an ideal world, we’d not only get meaning but also success while handling as little responsibility as possible. However, the real world doesn’t work that way. A man must recognize and appreciate the relationship between responsibility and getting the most out of life.
 
 Naturally, people think of the responsibility of caring for a family. That’s an important one, but a man must be responsible for his health and his income. This means not eating everything or spending money on anything his heart desires.
@@ -132,9 +134,9 @@ The only way to get more freedom to do more of what you want is to take on more 
 
 {% twitter https://twitter.com/EdLatimore/status/1387046610295607305 %}
 
-The discount you get comes from the discipline you had to build up your position and delay gratification until you were in a strong enough position to not be affected by a night out partying or spending a few extra thousand dollars on a trip.
+The discount you get comes from the discipline you had to have to build up your position and delay gratification until you were in a strong enough position to not be affected by a night out partying or spending a few extra thousand dollars on a trip.
 
-The tax you pay is in the form of playing catch up, still having to meet your normal demands, and dealing with the pain of managing both at the same time. You paid for your vacation on credit so now you not only have to pay it back over time **with** interest, you still have to manage your normal expenses.
+The tax you pay is in the form of playing catch up, still having to meet your normal demands, but dealing with the pain of managing both at the same time. You paid for your vacation on credit so now you not only have to pay it back over time **with** interest, you still have to manage your normal expenses.
 
 But if you were responsible, you’d have more to be able to do more and be freer in the process.
 
