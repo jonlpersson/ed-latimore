@@ -222,8 +222,6 @@ Before technology came along and made everything easy, knowledge and skills were
 
 One of the telltale signs of a guy who has missed a masculine influence in his life is that he lacks the ability to listen to men. I see this often in guys who were raised by a single mother.
 
-<div class="cms-embed" data-cms-embed="aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wL0NkX29EQkhyZE4xLw==">https://www.instagram.com/p/Cd_oDBHrdN1/</div>
-
 At best, they have a resistance to listening to men. At worst, they have distrust and disrespect. This is the result of a combination of growing up never having seen masculine role models, positive masculine men. or hearing everything about being a man getting grouped into the category of “toxic masculinity”.
 
 Unfortunately, this problem is not just isolated to the sons of fatherless households. This means that many men today are not being taught to be men. This means they arrogantly believe they are men, so they will not learn from other men how to be better men.
