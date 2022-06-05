@@ -12,7 +12,7 @@ description: >-
   entropy. It’s to push back against the big and little things that life throws
   at you. Building strength means doing what’s hard, out comfort zone, and is
   completely necessary.
-image:
+image: /assets/images/drafts/cme2jpg.jpg
 ---
 Strength is just a measure of your ability to resist disorder.
 
