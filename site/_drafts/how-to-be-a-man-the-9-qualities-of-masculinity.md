@@ -148,13 +148,17 @@ The world has no use for a man who is not useful. This is not the case for women
 
 A woman, by virtue of existing, already has a biological use. She is here to carry life and nurse it for the short time after it arrives. A man can’t do that.
 
-This is not to say that it’s women’s only purpose. Only to show that women come with a built-in purpose already. Most men, on the other hand, aren’t necessary so they must make themselves necessary.
+This is not to say that it’s women’s only purpose. Only to show that women come with a built-in purpose that is vital to the continuation of life. And while yes, you need men *and*&nbsp;women, each woman can only carry one child at a time while a man can impregnate thousands at once.&nbsp;
+
+Most men aren't even biologically necessary for life to continue. Men don't come with a purpose. We must make ourselves necessary.
 
 This is why men are drafted in wars and the idea was always “women and children first” when it came to dealing with evacuation from dangerous situations. Men have to make themselves useful because they come into this world useless.
 
 It doesn’t matter what you learn how to do. All that matters is that you have skills that can be used to generate income. This is the most important measure of your skills and abilities in the modern age.
 
-Prior to the digital age, a man’s utility was determined by his ability to survive. While those skills are still important, the scope of survivability has changed. Now the world relies heavily on computers, the service sector, and entertainment. Being able to make a living without dishonesty or harming others is an important part of being a man.
+Prior to the digital age, a man’s utility was determined by his ability to survive. While those skills are still important, the scope of survivability has changed.
+
+Now the world relies heavily on computers, the service sector, and entertainment. Being able to make a living without dishonesty or harming others is an important part of being a man.
 
 ## Relationships
 
@@ -164,7 +168,11 @@ Humans are social creatures so much so that solitary confinement is used as a pu
 
 Men need good friends. Unfortunately, the modern man has been shunned and shamed away from nurturing emotionally deep male friendships.
 
-Male friendship has been reduced to a caricature of out-of-shape guys who just drink beer and watch sports. Our role models for male friendships in the media center around these stereotypes. When you combine this with the fact that a record number of men are growing up in fatherless homes, the average man has never seen a healthy male friendship anyway.
+***\[Read: [How to make friends as an adult](/how-to-make-friends-as-an-adult/)\]***
+
+Male friendship has been reduced to a caricature of out-of-shape guys who just drink beer and watch sports. Our role models for male friendships in the media center around these stereotypes.
+
+When you combine this with the fact that a record number of men are growing up in fatherless homes, the average man has never seen a healthy male friendship anyway.
 
 Male friendships are also supposed to function as a type of reciprocal mentorship. Your friends will mentor you in areas you’re weak in and vice versa. You learn from one another and make each other better men.
 
@@ -172,7 +180,9 @@ Male friendships are also supposed to function as a type of reciprocal mentorshi
 
 Today, men are told that they should vent their problems to the woman in their life. That part of having a strong romantic relationship is being able to share your problems with your significant other.
 
-The truth is that only other men understand the struggle that is a man’s life. Now, I don’t say this to imply that women don’t struggle in their lives—they definitely do. The biggest difference between men and women is that women nurture their female friendships much more and as a result, they have no problem discussing their problems with one another.
+The truth is that only other men understand the struggle that is a man’s life.
+
+Now, I don’t say this to imply that women don’t struggle in their lives—they definitely do. The biggest difference between men and women is that women nurture their female friendships much more and as a result, they have no problem discussing their problems with one another.
 
 Men, on the other hand, don’t do this. They not only don’t share with other men, but they share with the woman in their life who needs to see them as strong.
 
@@ -184,7 +194,7 @@ When you talk to your close male friends about your issues, you invite them to d
 
 Becoming a man means that you have to face challenges and unknowns in life.
 
-Now, this doesn’t mean that you have to be fearless. It only means that you have to act, despite being afraid. Whenever you feel fear, that’s not a sign to stop or retreat. It’s merely a sign that you have to get ready for something and that it’s important.
+This doesn’t mean that you have to be fearless. It only means that you have to act, despite being afraid. Fear is not a sign to stop or retreat. It’s merely a sign that you have to get ready for something and that it’s important.
 
 Therefore, your response to fear should be excitement. In fact, when you look at the brain while experiencing fear, the response is the same as if something exciting is happening, This is important to remember whenever you feel afraid.
 
