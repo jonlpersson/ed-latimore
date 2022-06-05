@@ -142,6 +142,8 @@ You can’t control how you feel and your body is subject to external forces bey
 
 Insufficient mental strength also manifests in one’s inability to do meaningful work.
 
+{% twitter https://twitter.com/EdLatimore/status/1399829302947074048 %}
+
 Some jobs don’t require much thinking or discipline. You simply show up, go through the motions, and the work will be “done”. This kind of work barely requires a human to even do it.
 
 If you want to create or produce, your results will be directly proportional to your ability to put your mind on the task at hand and resist distraction. The ability to immerse yourself in complex work will determine your level of success.
