@@ -5,7 +5,7 @@ title: 'How to be a man: The 9 qualities of masculinity'
 permalink: /how-to-be-a-man/
 tags:
   - change-your-perspective
-description:
+description: "Masculinity is he work of being good at being a man. You can be good at being a man without being a good man.\n\nThe same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.\_"
 image:
 ---
 What is masculinity?
@@ -32,17 +32,18 @@ No one would say that:
 
 It goes beyond superficial metrics, but those metrics are proxy indicators for something more meaningful. So what is masculinity, exactly?
 
-Masculinity (adj.)
-
-Any behavior that attempts to reduce entropy and/or break homeostasis by direct force (1st degree or order of action) Contrast with femininity, any behavior that attempts to reduce entropy and/or break homeostasis by indirect (2 degrees or orders of action) action.
+> Masculinity (adj.)
+>
+>
+> Any behavior that attempts to reduce entropy and/or break homeostasis by direct force (1st degree or order of action) Contrast with femininity, any behavior that attempts to reduce entropy and/or break homeostasis by indirect (2 degrees or orders of action) action.
 
 In my opinion, this is the most general definition. If you need a refresher on entropy, a good jargon-free definition is “lack of order or predictability; gradual decline into disorder.”
 
-Masculinity is all about exerting your will on the forces of the universe and bending them to your desires. Now, there can be positive or negative versions of this. This is where the ideas of “positive masculinity” and “toxic masculinity" come from, but masculinity itself is neither good or bad. It is simply a characteristic.
+Masculinity is all about exerting your will on the forces of the universe and bending them to your desires. Now, there can be positive or negative versions of this. This is where the ideas of “positive masculinity” and “toxic masculinity" come from, but masculinity itself is neither good nor bad. It is simply a characteristic.
 
 Jack Donovan once said, “There is a difference between being a good man and being good at being a man.” Masculinity is about the latter. It is the work of being good at being a man. You can be good at being a man without being a good man.
 
-The same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler.
+The same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.&nbsp;
 
 ## How to be a man: The 9 qualities of masculinity
 
