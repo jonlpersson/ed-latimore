@@ -178,7 +178,7 @@ The second reason is that chess and poker are wonderful for developing some key 
 
 In chess, we learn how to think and deliberate over an action. There is no luck in chance in the sense that there is nothing that influences the game that is beyond your control.
 
-Even a sport like boxing--where one could argue that has the greatest burden of responsibility and least interference of luck--doesn’t have the feature where both participants are in complete control of all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn't happen the next time.
+Even a sport like boxing–where one could argue that has the greatest burden of responsibility and least interference of luck–doesn’t have the feature where both participants are in complete control of all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn't happen the next time.
 
 ***\[What’s it like boxing? I’ve broken down many aspects of my amateur and professional boxing career in these articles—&gt;Boxing lessons\]***
 
@@ -226,13 +226,13 @@ Exactly what they’re ambitious about doesn’t matter. As long as it doesn’t
 
 Spend time with people who want to improve, acquire, impact, or influence. They have a “never settle, I can always be better, give more and do more” attitude. If you’re doing things right, then you’ll attract these people, if for no other reason than you’ll repel everyone else.
 
-This is going to be the most difficult part because when you’re from a fatherless home, the one thing you crave more than anything else is acceptance--even more so than a normal young person.
+This is going to be the most difficult part because when you’re from a fatherless home, the one thing you crave more than anything else is acceptance–even more so than a normal young person.
 
 It’s much easier to fall in with groups who like you the way you are rather than ones that require you to build yourself into something respectable.
 
 I have no friends from my childhood neighborhood. I don’t even keep in contact with some family members from my childhood.
 
-All of my current friends are made through sports, chess, or my academic pursuits--not just school buddies. These people pushed me to be better and I learned a lot about life merely by being in their presence and continuing to behave in a manner that made me worthy of their friendship
+All of my current friends are made through sports, chess, or my academic pursuits–not just school buddies. These people pushed me to be better and I learned a lot about life merely by being in their presence and continuing to behave in a manner that made me worthy of their friendship
 
 ***\[Most adults are terrible at making friends. If you want to change your social circle as adult but are lost, read my article about this—&gt;How to make friends as an adult\]***
 
@@ -242,7 +242,7 @@ As far as working out, it’s great for getting in shape. However, young men hav
 
 If you’re under the age of 30 and you have time to get to the gym consistently, train to take an amateur fight (Boxing or MMA) instead. You’ll get in much better shape and have your mind and emotions tested in a way that is not possible in our modern world.
 
-It’s not that working out is a bad idea. It’s just that you’re forced to grow and develop if you take on a sport--preferably a combat one.
+It’s not that working out is a bad idea. It’s just that you’re forced to grow and develop if you take on a sport–preferably a combat one.
 
 ## Dating
 
