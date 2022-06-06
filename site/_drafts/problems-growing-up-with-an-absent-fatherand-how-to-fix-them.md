@@ -99,7 +99,7 @@ I know many who were raised in an environment like myself and end up on drugs or
 
 However, I did not succumb to the fate of so many who come from my position. I recognized many of the areas I lacked and I was able to overcome them and develop myself into a functional man.
 
-***\[Read about some lessons I learned growing up in the hood: 5 lessons from growing up in the hood\]***
+***\[Read about some lessons I learned growing up in the hood: [5 lessons from growing up in the hood\]](/the-projects/)***
 
 ## Children of absent fathers are bad with money
 
@@ -113,7 +113,7 @@ While I never let myself be completely broke or reliant on the system, it wasn�
 
 Even now, I still don’t quite respect the ideas of saving and investing, but I’m improving as I get around positive role models and I try to make my life better.
 
-***\[Read my article where I break down what I learned from this experience—&gt;How to stop being poor\]***
+***\[Read my article where I break down what I learned from this experience—&gt;[How to stop being poor](/stop-being-poor/)\]***
 
 ## No idea how to have a relationship
 
@@ -128,7 +128,7 @@ This effect is well documented by the statistics.
 * A study using a sample of 1409 rural southern adolescents (851 females and 558 males) aged 11 – 18 years revealed that adolescents in father-absence homes were more likely to report being sexually active compared to adolescents living with their fathers. ([Source](https://experts.arizona.edu/en/publications/the-influence-of-father-absence-on-the-self-esteem-and-self-repor){: target="_blank"})
 * Being raised by a single mother raises the risk of teen pregnancy, marrying with less than a high school degree, and forming a marriage where both partners have less than a high school degree. ([Source](https://www.researchgate.net/publication/240704940_The_Childhood_Living_Arrangements_of_Children_and_the_Characteristics_of_Their_Marriages){: target="_blank"})
 * For girls, father absence in developed societies is consistently associated with earlier maturation, earlier onset of sexual activity, and earlier first childbirth. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
-* For boys, father absence is associated with later puberty, later marriage, but earlier reproduction. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
+* For boys, father's absence is associated with later puberty, later marriage, but earlier reproduction. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
 
 Having a father around seems to provide a protective effect for children against getting into situations that results in promiscuity, poor decision making, and poor outcomes in relationship. This is in addition to serving as a role model for what a man should be and how he should care, for young children.
 
@@ -142,7 +142,7 @@ The problem is that when you come from a broken home and the environment that te
 
 This is why children from homes without fathers are more likely to break the law, use drugs, and abuse alcohol. These often provide a coping mechanism for low confidence by either distracting them from it or giving them a way to fit in.
 
-***\[Read my lessons from sobriety here—&gt;Lessons from 8 years of sobriety\]***
+***\[Read my lessons from sobriety here—&gt;[Lessons from 8 years of sobriety](/sobriety-benefits/)\]***
 
 ## Sons of absent fathers focus on the wrong metrics of life
 
