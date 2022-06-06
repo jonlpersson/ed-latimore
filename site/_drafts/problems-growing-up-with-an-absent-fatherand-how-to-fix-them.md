@@ -9,7 +9,7 @@ description: >-
   The environment that breeds single mothers and fatherless homes tend to lack
   examples for boys to follow into becoming men. This article provides solutions
   for the children of absent fathers.
-image:
+image: /assets/images/drafts/fatherson.jpg
 ---
 Whether you call it a "single-mother household" or a "fatherless home" doesn't change the fact that it's common and sets the kid up for failure. The stats are clear: boys need their fathers, ideally in a loving relationship with their mother.&nbsp;
 
