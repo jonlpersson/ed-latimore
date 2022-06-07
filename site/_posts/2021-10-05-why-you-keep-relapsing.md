@@ -80,6 +80,8 @@ There's also many benefits to getting good sleep like:
 
 Having a good routine is not only a quality strategy in your addiction treatment but it's an absolute necessity to living a healthy life. If you're struggling with establishing a routine, check out my article on [how you get your life together](https://edlatimore.com/how-to-get-your-life-together/).
 
+***A poor routine can be fixed with a solid plan and structure for dealing with your porn addiction. This is the type of plan that The Freedom Specialists specialize in. They take men through a 1 on 1 program that is catered to their needs, strengths, and weaknesses to help them finally get off of internet porn once and for all. Check them out here—&gt;[The Freedom Specialists](https://rebrand.ly/46ytxku){: target="_blank" rel="noopener noreferrer"}***
+
 ## 4\. You're lonely
 
 One of the problems with my alcohol use was that I drank with others because I didn't want to be alone. I wasn't comfortable with my own thoughts and individuality so I tried to fit in to feel part of the group.
