@@ -162,7 +162,7 @@ Even worse, because porn allows you to release dopamine on-demand, you build a t
 
 The inability to enjoy even the normally enjoyable things in life is not only a telltale sign of depression but an indication that you are almost certainly addicted to pornography.
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+***The withdrawal symptoms from internet porn are so tough that it's almost impossible to quit for good—until now. I discovered The Freedom Specialists, a team that specializes in working 1 on 1 with guys to create an action plan, full of accountability, plans for triggers, methods to help you cope with the urges to go back to porn, and much more. Check them out here—[The Freedom Specialists](https://rebrand.ly/klvhohx){: target="_blank" rel="noopener noreferrer"}***
 
 ## You have sexual dysfunction (you can't get it up)
 
