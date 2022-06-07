@@ -77,11 +77,13 @@ Struggling with any addiction saps your self-confidence and makes you lose trust
 
 Today’s men are realizing that porn isn’t harmless. In the short term, it can be exciting, but it has long-term consequences. One of those consequences is that your sex life and relationships with women suffer.
 
-One reason men stop watching porn is because they become physically unable to maintain an erection during sex. This kind of sexual dysfunction wreaks havoc on your well-being, makes you hyper-focused on your sexual performance, and affects the intimacy of your relationships.
+One reason men stop watching porn is that they become physically unable to maintain an erection during sex. This kind of sexual dysfunction wreaks havoc on your well-being, makes you hyper-focused on your sexual performance, and affects the intimacy of your relationships.
 
 For a woman to reach sexual satisfaction, she has to be in the moment. That’s harder to maintain if you can’t remain hard enough for her to enjoy the process. You bring much-needed balance to a woman when you save your sexual energy for her.
 
 Women shouldn’t be your purpose, but your time with them should be purposeful. Good relationships enhance the quality of your life and improve your overall mental health. Outside of the bedroom, you’re able to develop real relationships when your focus isn’t on porn.
+
+***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist.&nbsp; Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/vf2xi99){: target="_blank" rel="noopener noreferrer"}***
 
 ## 7\. It’s a vicious, time-wasting cycle
 
