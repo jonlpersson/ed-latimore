@@ -48,6 +48,8 @@ Here’s what we’re covering:
 7. How cold showers strengthen the mind
 8. The value of a meditation practice during your challenge
 
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
+
 ## Know your reason for starting
 
 You’ll know from my posts on [how I gave up porn for good](https://edlatimore.com/how-to-quit-porn/), that celibacy is not the goal. You should simply be able to jerk off without porn. But plenty of men watch porn out of boredom, creating the urge to masturbate when they normally wouldn’t. This conditions you for an addiction.
