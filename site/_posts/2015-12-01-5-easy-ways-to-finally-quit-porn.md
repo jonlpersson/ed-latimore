@@ -66,7 +66,7 @@ Here is the plan I used to quit porn
 
 ## 1\. Delete your browser history
 
-This is one of those popular tips for dealing with porn addiction that has real merit.
+This is one of those popular tips for dealing with a porn addiction that has real merit.
 
 Porn sites employ clever tricks to keep you coming back. One is making sure that when you type “www” in your browser, the first cache site is a porn site.
 
@@ -105,7 +105,7 @@ There are only 3 times a man has to touch his penis: Cleaning, urinating, and je
 
 Celibacy is not the goal.
 
-Men have been polishing the pole for centuries without porn. Some men need porn to jerk-off. They also watch porn without the desire to get off, which creates a desire to masturbate.
+Men have been polishing the pole for centuries without porn. Some men need porn to jerk off. They also watch porn without the desire to get off, which creates a desire to masturbate.
 
 This is pavlovian conditioning rearing its ugly head again.
 
@@ -117,7 +117,7 @@ Touching your penis outside of showering or pissing makes you want to watch porn
 
 I write this under the assumption that you ingest all of your porn through a computer with an internet connection. Porn addiction is just like any other addiction in that part of what you are addicted to is the ritual.
 
-[Crackheads](/how-to-hustle-like-a-crackhead/) aren't just addicted to the high of crack-cocaine. They're addicted to the stuffing, lighting, and the passing of the crackpipe. It's the ritual.
+[Crackheads](/how-to-hustle-like-a-crackhead/) aren't just addicted to the high of crack cocaine. They're addicted to the stuffing, lighting, and the passing of the crackpipe. It's the ritual.
 
 Yes, this is pavlovian conditioning again. I told you that a big reason you're addicted to porn is that it's a pavlovian response.
 
@@ -125,13 +125,15 @@ With that said, getting off of crack is probably easier than getting off of porn
 
 However, you almost certainly have to use a computer.
 
-This creates a ritual. You sit down with the intention of working, but you get the urge to jerk off. At those times, what works best for me is good old-fashioned physical activity.
+This creates a ritual. You sit down with the intention of working, but you get the urge to jerk off. Good old-fashioned physical activity works best for me at those times.
 
 Go for a run, [lift some weights](http://anymanfitness.com/no-squats-no-deadlifts-huge-gains-available-now/), stretch, whatever.
 
-The point is to burn off energy, get moving and get from in front of the computer. You'll return to the computer in a refreshed state of mind and less interested in porn.
+The point is to burn off energy, get moving and get away from the computer. You'll return to the computer in a refreshed state of mind and less interested in porn.
 
 This also has the side benefit of getting you in shape, which will make the next step that much easier.
+
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ## 5\. Talk to some women
 
@@ -147,7 +149,7 @@ If you want to quit porn, you need to have sex.
 
 If pornography is as addictive as nicotine, then sex is like a vape. At first, it will not satisfy you the way masturbation to a digital fantasy will, but eventually, you will prefer this to porn as long as you don't relapse.
 
-This is why I think it's important to meet women as a means to getting off of porn. Not vice-versa. It makes the transition to a pornless state MUCH easier if you have something instead of nothing at all.
+This is why I think it's important to meet women as a means to get off of porn. Not vice-versa. It makes the transition to a pornless state MUCH easier if you have something instead of nothing at all.
 
 ***I don't care for most of the pick-up and dating industry, but one solid guy in this realm is Troy Francis. He's got a great collection of programs to help you authentically talk to women so you meet one to replace your dependency on porn. There is no replacement for physical intimacy. [Check out his program here.](https://gumroad.com/a/18977907/oiVmn){: target="_blank" rel="noopener noreferrer"}***
 
