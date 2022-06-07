@@ -64,8 +64,6 @@ Here is the plan I used to quit porn
 
 ***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here.](/resources/dick-detox/)\]***
 
-{% include widgets/toc.html heading="How to get over your pornography addiction" list-items="Delete your browser history, Install an adult site blocker, Don't touch your dick, Get physical and get away from the computer, Talk to some women" list-ids="1-delete-your-browser-history, 2-install-an-adult-site-blocker, 3-dont-touch-your-dick, 4-get-physical&ndash;get-away-from-the-computer, 5-talk-to-some-women" %}
-
 ## 1\. Delete your browser history
 
 This is one of those popular tips for dealing with porn addiction that has real merit.
@@ -113,7 +111,7 @@ This is pavlovian conditioning rearing its ugly head again.
 
 Touching your penis outside of showering or pissing makes you want to watch porn. Stop touching your dick beyond essential functions. This will also make actual sex even better.
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+***This is one technique of many that are taught by The Freedom Specialists team, a group dedicated to helping you with a 1-on-1 custom plan to deal with porn addiction. Check out the guys they've helped not only stop touching their dick, but build a whole new porn free life here—&gt;[The Freedom Specialists](https://bit.ly/3zlf5og){: target="_blank" rel="noopener noreferrer"}***
 
 ## 4\. Get physical & get away from the computer
 
