@@ -111,7 +111,7 @@ This is pavlovian conditioning rearing its ugly head again.
 
 Touching your penis outside of showering or pissing makes you want to watch porn. Stop touching your dick beyond essential functions. This will also make actual sex even better.
 
-***This is one technique of many that are taught by The Freedom Specialists team, a group dedicated to helping you with a 1-on-1 custom plan to deal with porn addiction. Check out the guys they've helped not only stop touching their dick, but build a whole new porn free life here—&gt;[The Freedom Specialists](https://bit.ly/3zlf5og){: target="_blank" rel="noopener noreferrer"}***
+***This is one technique of many that are taught by The Freedom Specialists team, a group dedicated to helping you with a 1-on-1 custom plan to deal with porn addiction. Check out the guys they've helped not only stop touching their dick, but build a whole new porn free life here—&gt;[The Freedom Specialists](https://rebrand.ly/hnppga3){: target="_blank" rel="noopener noreferrer"}***
 
 ## 4\. Get physical & get away from the computer
 
