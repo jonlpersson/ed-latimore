@@ -148,7 +148,7 @@ My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and A
 
 As I always say, the rest is up to you.
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ---
 
