@@ -79,6 +79,8 @@ But your emotions do. That’s why you’re so unhappy.
 
 The comfort you cling to will ruin you and make your life more uncomfortable than failure ever could.
 
+***Want to learn more about what's making you unhappy and get hands-on, unique, mind-body solutions to work through it? Check out the Unshackled Retreat, hosted by the Freedom Specialists. This is an intense in-person event that teaches you how to release trauma stored in the mind, body, emotions, and energy. I highly recommend you take a look at this if therapy and other measures haven't worked for you.—&gt;[The Freedom Specialists](https://rebrand.ly/1t6oeqm){: target="_blank" rel="noopener noreferrer"}***
+
 ## 2) You worry about what you can't control
 
 Life is like poker.
