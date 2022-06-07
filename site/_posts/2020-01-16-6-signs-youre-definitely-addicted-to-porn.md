@@ -57,7 +57,7 @@ Pornography addiction is a silent addiction. Unlike substance abuse, people watc
 * Loved ones don’t stage porn interventions.
 * There are no pornography rehabilitation centers.
 
-Only recently has there been a movement to even recognize that guys are getting addicted to porn. Proponents of the porn industry or guys who have yet to suffer from some of the debilitating side effects of compulsive pornography use say that porn addiction isn’t real, but we know better.
+Only recently has a movement to recognize that guys are getting addicted to porn. Proponents of the porn industry or guys who have yet to suffer from some of the debilitating side effects of compulsive pornography use say that porn addiction isn’t real, but we know better.
 
 Maybe you're wondering if you're addicted to porn. Or perhaps you know someone, and you're wondering if they're a casual watcher or a hardcore user.
 
@@ -148,7 +148,7 @@ All that dopamine released by the artificial but intense stimulus is so overpowe
 * You didn’t get intelligent.
 * [You didn’t become more attractive.](/how-to-be-an-attractive-man/)
 
-You got all the good feelings without doing any of the hard work. This is no different from a drug addict who abuses a substance to feel good rather than chase the healthy high after doing meaningful work.
+You got all the good feelings without doing any of the hard work. This is no different from a drug addict who abuses a substance to feel good rather than chase a healthy high from doing meaningful work.
 
 Even worse, because porn allows you to release dopamine on-demand, you build a tolerance to it. Like any other drug addict, you need more to get the same level of enjoyment as you did the first time you used it. As long as you’re on the drug, real life will never compare.
 
@@ -176,11 +176,11 @@ Even worse, some companies have begun to cater to this audience by making it pos
 
 The problem is simple, and no pill can fix it:
 
-*You can' t get it up because you masturbate twice a day, every day, to the most exaggerated and unrealistic depictions of sex on the internet.*
+*You can't get it up because you masturbate twice a day, every day, to the most exaggerated and unrealistic depictions of sex on the internet.*
 
 No human woman will compare to a dozen beautiful naked women performing deviant sexual acts in the best lighting, looking like they're having a blast—especially when endless varieties of that woman can be accessed on-demand.
 
-The levels of reported ED issues among young men has skyrocketed in recent years. To anyone familiar with the porn epidemic this is not surprising at all.
+The levels of reported ED issues among young men have skyrocketed in recent years. To anyone familiar with the porn epidemic this is not surprising at all.
 
 * In 2012, [Swiss researchers found](https://www.brainblogger.com/2017/10/06/excessive-porn-consumption-can-cause-erectile-dysfunction-myth-or-truth/){: target="_blank"} Erectile Dysfunction (ED) rates of 30% in a cross-section of Swiss men aged 18 to 24.
 * A 2013, [Italian researchers found](https://www.jsm.jsexmed.org/article/S1743-6095&#40;15&#41;30428-8/fulltext){: target="_blank"} that 1 in 4 men under the age of forty have reported some type of erectile dysfunction.
@@ -196,9 +196,9 @@ Of course, men above 40 are less likely to be susceptible to porn addiction sinc
 
 Because who wants to go into a XXX video store and ask the clerk for *Anal Busters 4: The Return of Rodney Rod.*
 
-It’s embarrassing. But now, you can log on to your favorite porn site and indulge to your heart's content and the exhaustion of your dopamine receptors.
+It’s embarrassing. But now, you can log on to your favorite porn site and indulge until your heart's content and the exhaustion of your dopamine receptors.
 
-If you’ve had anxiety while performing, had an issue getting erect, or suffer from premature ejaculation, porn might be the culprit.
+If you’ve had anxiety while performing, had an issue getting erect, or suffered from premature ejaculation, porn might be the culprit.
 
 The good news is that with time it is reversible. In fact, most guys get over it within 90 days.
 
@@ -216,9 +216,11 @@ Then came high-speed broadband, and the seduction of the porn streaming websites
 
 At first, you might have watched some people having sex, and that was great. But now?
 
-Porn tastes have evolved because people have [desensitized their brains](https://www.yourbrainonporn.com/tools-for-change-recovery-from-porn-addiction/rebooting-basics-start-here/desensitization-a-numbed-pleasure-response/){: target="_blank"} to just *regular stuff*. Furthermore, the combined powers of the Coolidge Effect along with the amount and variety of porn ensures that you’ll never be without a video to satisfying your cravings.
+Porn tastes have evolved because people have [desensitized their brains](https://www.yourbrainonporn.com/tools-for-change-recovery-from-porn-addiction/rebooting-basics-start-here/desensitization-a-numbed-pleasure-response/){: target="_blank"} to just *regular stuff*. Furthermore, the combined powers of the Coolidge Effect along with the amount and variety of porn ensures that you’ll never be without a video to satisfy your cravings.
 
 A regular woman having regular sex can never compare to dolled up, edited women all performing exactly what you want, the way you want it, when you want it. Even if they aren’t actually in front of you.
+
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ## You have brain fog and low energy
 
