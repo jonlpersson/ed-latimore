@@ -116,7 +116,7 @@ Don’t forget to revisit the benefits of NoFap:
 
 It all starts with doing the work.
 
----
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ### References
 
