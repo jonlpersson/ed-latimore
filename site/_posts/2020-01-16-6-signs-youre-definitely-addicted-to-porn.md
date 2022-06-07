@@ -65,8 +65,6 @@ There are a few different ways to know if you have a porn addiction. I’ve comp
 
 ***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here](/resources/dick-detox/).\]***
 
-{% include widgets/toc.html heading="6 major signs of porn addiction" list-items="You can't stop watching porn, You spend money on porn, You show symptoms of mental health disorders, You have sexual dysfunction (you can't get it up), Your taste in porn has escalated, You have brain fog and low energy" list-ids="you-cant-stop-watching-porn, you-spend-money-on-porn, you-show-symptoms-of-mental-health-disorders, you-have-sexual-dysfunction-you-cant-get-it-up, your-taste-in-porn-has-escalated, you-have-brain-fog-and-low-energy" %}
-
 ## You can't stop watching porn
 
 ![Trying to quit porn](/assets/images/posts/trying-to-quit-porn.jpg "Try as you might, the porn owns your soul (credit: https://www.christianpost.com/)")
