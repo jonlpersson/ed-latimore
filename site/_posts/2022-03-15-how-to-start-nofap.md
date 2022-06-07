@@ -116,6 +116,8 @@ After 30 days you can reflect on what you’ve gained. The positive habits you�
 
 After a while, you’ll no longer feel the need to count. This is where the wins really begin to multiply.
 
+***There aren't many guys I take seriously in the "help guys get off of porn" community, but The Freedom Specialists are one of them. They've got loads of experience helping guys in a direct, 1-on-1 fashion that includes a custom plan, unlimited support, and a real commitment to seeing you kick the habit. I don't do 1-on-1 coaching, but these are the guys I recommended. Check them out—&gt;[The Freedom Specialists](https://rebrand.ly/ho8vz0q){: target="_blank" rel="noopener noreferrer"}***
+
 ## Don’t be afraid to get support
 
 NoFap is a bit of an awkward support group to join in real life, but thankfully, your brothers in arms over at the [NoFap subreddit](https://www.reddit.com/r/NoFap/) are all you need to get started.
