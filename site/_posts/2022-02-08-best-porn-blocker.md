@@ -110,4 +110,4 @@ Browsing porn is often a solo activity, which makes it such an easy addiction to
 
 The purpose of installing a porn blocker is to make browsing adult websites less private so that you aren’t incentivized to maintain the habit. Having a trusted accountability partner that can view your browsing data safely and securely is a surefire way to help you break free from one of the most destructive isolating activities.
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
