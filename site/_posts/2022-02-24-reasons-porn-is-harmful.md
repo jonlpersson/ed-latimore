@@ -113,7 +113,7 @@ There’s a new movement in the alcohol industry called “sober curious”. Bri
 * Porn is a real addiction
 * Porn addiction has the same effects on your frontal lobe as a brain injury
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ---
 
