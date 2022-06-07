@@ -21,7 +21,7 @@ As men, the Porn Masturbation Orgasm (PMO) cycle can be just as vicious as those
 
 If you’ve been following the blog, I recently explained some [reasons you should definitely quit porn](https://edlatimore.com/reasons-to-quit-porn/)\:
 
-Businesses in the United States are losing close to $17 billion in productivity thanks to porn.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
+Businesses in the United States are losing close to $17 billion in productivity thanks to porn.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 But what price can you place on your self-confidence, drive, and intimate relationships?
 
@@ -31,7 +31,7 @@ In this article, you’ll learn the signs of porn withdrawal and what you can do
 
 Porn is a far more low-risk, high-reward addiction today compared to the years prior. There’s no risk of embarrassment from going to the local adult video store. And there’s so much free porn you never have to feel the financial burden of your addiction.
 
-Like any drug addiction, you get dopamine hits that flood the reward centers of your brain with happy chemicals. Having dealt with both alcohol and porn addiction, I can attest that the withdrawal symptoms are similar.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>
+Like any drug addiction, you get dopamine hits that flood the reward centers of your brain with happy chemicals. Having dealt with both alcohol and porn addiction, I can attest that the withdrawal symptoms are similar.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 If you’ve recently quit porn or have reduced your use, you may experience any of the following symptoms below:
 
@@ -73,7 +73,7 @@ These pains, especially when mild, can go completely over the head of porn users
 
 Porn teaches you to seek rewards that become harder to obtain.
 
-The DeltaFosB brain protein is a gene regulator that acts as an activation switch for addiction.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> This switch is activated every time you view porn until eventually, you become desensitized.
+The DeltaFosB brain protein is a gene regulator that acts as an activation switch for addiction.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> This switch is activated every time you view porn until eventually, you become desensitized.
 
 Your brain’s reward system builds dopamine tolerance, making you seek more porn and better porn, more frequently. Watching porn then becomes about satisfying an impulse, rather than actually enjoying it.
 
@@ -114,6 +114,8 @@ Expect these life-changing benefits once you quit porn:
 * The ability to focus and think with logic and strategy, rather than compulsiveness
 * Self-respect and self-esteem gained by your willingness to stick with something difficult
 
+***There is a better life waiting for you on the other side of porn addiction. If you're worried that you won't make it there, check out the coaching offered by The Freedom Specialists. They will hook you up with a custom plan and provide accountability so that you finally shake the internet porn monkey off of your back. Check them out here—&gt;[The Freedom Specialists](https://rebrand.ly/bnuzmae){: target="_blank" rel="noopener noreferrer"}***
+
 ## How to quit porn
 
 Beating your porn addiction can be your greatest victory, but you need a plan. Addicts are called addicts, and not “former addicts” for a reason – you never get to stop putting in the work.
@@ -152,16 +154,4 @@ As I always say, the rest is up to you.
 
 ### References
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p><em>The Family Research Council</em>. Pornography: America's Public Health Crisis <a href="https://www.frc.org/blog/2018/08/pornography-americas-public-health-crisis">https://www.frc.org/blog/2018/08/pornography-americas-public-health-crisis</a>. August 15, 2018. (accessed March 28, 2022) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>Blum, Kenneth Blum. Badgaiyan, Rajendra D. Gold, Mark. <em>National Library of Medicine</em>. Hypersexuality Addiction and Withdrawal: Phenomenology, Neurogenetics, and Epigenetics_._ October 7, 2015. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/</a> (accessed March 27, 2022) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>Nestler, EJ. Barrot, M. Self, D.W. <a href="https://pubmed.ncbi.nlm.nih.gov/11572966/#:~:text=DeltaFosB%2C%20a%20member%20of%20the,kinds%20of%20drugs%20of%20abuse">National Library of Medicine</a>. DeltaFosB: _A _sustained molecular switch for addiction. September 25, 2001.(accessed March 28, 2022) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p><em>The Family Research Council</em>. Pornography: America's Public Health Crisis <a href="https://www.frc.org/blog/2018/08/pornography-americas-public-health-crisis">https://www.frc.org/blog/2018/08/pornography-americas-public-health-crisis</a>. August 15, 2018. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Blum, Kenneth Blum. Badgaiyan, Rajendra D. Gold, Mark. <em>National Library of Medicine</em>. Hypersexuality Addiction and Withdrawal: Phenomenology, Neurogenetics, and Epigenetics_._ October 7, 2015. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4627834/</a> (accessed March 27, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Nestler, EJ. Barrot, M. Self, D.W. <a href="https://pubmed.ncbi.nlm.nih.gov/11572966/#:~:text=DeltaFosB%2C%20a%20member%20of%20the,kinds%20of%20drugs%20of%20abuse">National Library of Medicine</a>. DeltaFosB: _A _sustained molecular switch for addiction. September 25, 2001.(accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
