@@ -91,6 +91,8 @@ Science shows that this level of hypersexuality is closer linked to avoidant beh
 
 Read up on the [withdrawal symptoms of porn](https://edlatimore.com/dealing-with-porn-addiction-withdrawal/) and how these cravings make quitting a struggle.
 
+***By the time you realize what porn has done to you, it may feel like it's too late—but it's not. It's going to be difficult but you can still turn things around. That's where guys like The Freedom Specialists come in. They know what it's like because they've been there and kicked porn's ass. You definitely want to check them out to get a custom plan, with accountability and powerful tools to help you beat the porn monkey—no pun intended.—&gt;[The Freedom Specialists](https://rebrand.ly/6wcckyh){: target="_blank" rel="noopener noreferrer"}***
+
 ## The downsides aren’t immediately apparent
 
 If you ever touched the stove when you were a kid, you know that the intense pain created immediate feedback.
@@ -118,8 +120,6 @@ By the time you experience these side effects, you’re likely already addicted.
 These problems also don’t show up right away because men are increasingly isolated and less likely to interact with real women they find attractive. A study showed that 33% of young men reported not having sex in a recent calendar year.<sup id="fnref:8" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:8">8</a></sup>
 
 When you’re not approaching women, there’s no real life social feedback to correct your course. This means you have no motivating factors to quit porn use.
-
-***By the time you realize what porn has done to you, it may feel like it's too late—but it's not. It's going to be difficult but you can still turn things around. That's where guys like The Freedom Specialists come in. They know what it's like because they've been there and kicked porn's ass. You definitely want to check them out to get a custom plan, with accountability and powerful tools to help you beat the porn monkey—no pun intended.—&gt;[The Freedom Specialists](https://rebrand.ly/6wcckyh){: target="_blank" rel="noopener noreferrer"}***
 
 ## Why is it so hard to quit porn?
 
