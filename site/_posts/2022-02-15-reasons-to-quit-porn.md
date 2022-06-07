@@ -123,7 +123,7 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ---
 
