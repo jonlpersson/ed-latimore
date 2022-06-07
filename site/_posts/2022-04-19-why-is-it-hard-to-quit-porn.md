@@ -131,7 +131,7 @@ You’ll get a headstart with my [Vicebreakers course](https://edlatimore.com/pr
 
 The rest is up to you.
 
-{% include widgets/summary.html id="Vice-breakers-porn" %}
+{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ---
 
