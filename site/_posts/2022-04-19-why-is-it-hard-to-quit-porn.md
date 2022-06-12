@@ -7,7 +7,7 @@ tags:
   - porn-addiction-recovery
 description: >-
   Find out why porn is such an addictive habit that is so hard to break. Learn
-  the reasons why that way you can do everything in you power to break the
+  the reasons why that way you can do everything in your power to break the
   addiction.
 image: /assets/images/thumbnails/ed-hands-out-asking-why.jpg
 ---
