@@ -146,9 +146,11 @@ This guy is also almost certainly going to have extremely messy finances. Child 
 
 ## No friends
 
-This doesn't just mean friends that he’s met recently, though that’s important too. You don’t want to be with a socially awkward, reclusive guy, and has no idea how to behave like a generally likable human. This also goes for his past friends as well.
+This doesn't just mean friends that he’s met recently, although that’s important too.
 
-If a guy doesn't have any friends that he’s known from before 18, this isn’t necessarily a red flag, but it should make you start looking at things a bit more in-depth.
+You don’t want to be with a socially awkward, reclusive guy, who has no idea how to behave like a generally likable human. This also goes for his past friends as well.
+
+If a guy doesn't have any friends that he’s known before the age of 18, this isn’t necessarily a red flag, but it should make you start looking at things a bit more in-depth.
 
 If a guy doesn’t have any friends from before 22, ***that’s*** a red flag.
 
@@ -156,9 +158,9 @@ But it’s a red flag you need to ask questions about. This is the type of thing
 
 This is important because generally speaking, a guy doesn’t have friends because he’s either a social recluse or he’s screwed a bunch of people over—and even the socially awkward guys tend to group up and be friends with one another. So you’re usually looking at a dude with serious personal issues.
 
-Family doesn’t count. He must have people who have chosen to be around him (preferably for an extended period of time) of their own free will. Not familial obligation.
+His family doesn’t count. He must have people who have chosen to be around him (preferably for an extended period of time) of their own free will. Not familial obligation.
 
-Sidenote: If you know someone struggling to make friends as an adult, then send them my guide on [how to make friends as an adult](/how-to-make-friends-as-an-adult/) to help them out.
+*Sidenote: If you know someone struggling to make friends as an adult, then send them my guide on [how to make friends as an adult](/how-to-make-friends-as-an-adult/) to help them out.*
 
 ## Always late
 
