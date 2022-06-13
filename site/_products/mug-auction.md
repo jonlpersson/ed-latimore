@@ -5,7 +5,7 @@ title: Coffee So Black mug (“Auction”)
 description: "This sturdy ceramic mug bears my iconic “Coffee So Black” mark on the front, paired with one of my popular Twitter jokes on the back: “Coffee so black you can only buy it at auction.”"
 image: /assets/images/products/auction-thumbnail.png
 product_info:
-  button_text: Buy on Gumroad
+  button_text: Buy now
   button_url: https://edwardlatimore.gumroad.com/l/mug-auction
   price: $15.99
 hero:

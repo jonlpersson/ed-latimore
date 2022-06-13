@@ -8,7 +8,7 @@ description: >-
   drinking it makes you late to everything.”
 image: /assets/images/products/lateness-thumbnail.png
 product_info:
-  button_text: Buy on Gumroad
+  button_text: Buy now
   button_url: https://edwardlatimore.gumroad.com/l/mug-lateness
   price: $15.99
 hero:
