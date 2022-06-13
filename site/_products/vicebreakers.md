@@ -1,4 +1,5 @@
 ---
+date: 2022-01-01 06:00:00 -0400
 type: Program
 title: "Vicebreakers—kick your bad habits & addictions"
 description: "Learn how to finally break your bad habits and addictions. I beat porn and booze and now I’m teaching the system I used."

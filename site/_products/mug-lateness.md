@@ -1,4 +1,5 @@
 ---
+date: 2022-06-13 06:00:00 -0400
 type: Ceramic Mug
 title: Coffee So Black mug (“Lateness”)
 description: >-
@@ -21,4 +22,11 @@ hero:
     The mug has a glossy finish and the print retains its quality even when
     dishwashed and microwaved.
 page_blocks:
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: |
+      ![Mug photo mockup](/assets/images/products/lateness-1.jpg)
+      ![Mug photo mockup](/assets/images/products/lateness-2.jpg)
+      ![Mug photo mockup](/assets/images/products/lateness-3.jpg)
+      ![Mug photo mockup](/assets/images/products/lateness-4.jpg)
 ---

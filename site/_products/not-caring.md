@@ -1,4 +1,5 @@
 ---
+date: 2021-01-01 06:00:00 -0400
 type: Kindle & Paperback
 title: "Not Caring What Other People Think is a Superpower"
 description: "Not caring what people think is a superpower that will allow you to get what you want out of life. This book teaches you how to live this way."

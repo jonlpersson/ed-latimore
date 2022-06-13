@@ -1,4 +1,5 @@
 ---
+date: 2021-01-01 06:00:00 -0400
 type: Kindle & Paperback
 title: "Sober Letters to My Drunken Self"
 description: "Best-selling sobriety book written by Ed Latimore."
