@@ -164,7 +164,7 @@ html {
     }
   }
   /* Buttons */
-  .btn {
+  .btn, .rm-button {
     @apply leading-tight tracking-wide font-bold font-sans text-xl text-center cursor-pointer transition-default inline-flex items-center justify-center px-8 py-5 border-2;
   }
   .btn:focus {
