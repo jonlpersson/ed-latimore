@@ -10,35 +10,45 @@ description: >-
   If you can't spot the red flags, you're in big trouble. This article teaches
   men how to effectively vet women and successfully get into a relationship.
 ---
-There's not a lot of information out there on how to get into a relationship.
+There's not a lot of information out there for men on how to get into a new relationship.
 
-Most of it is just on how to run game.
+Most of it is just on how to “run game” and set up a rotation of chicks from online dating.
 
-You can easily learn how to become more attractive, aggressively flirt with and pick-up girls, get one-night stands, and "spin plates" i.e., manage multiple women.
+You can easily learn how to become more attractive, aggressively flirt with and pick up girls, get one-night stands, and "spin plates" i.e., manage multiple women.
 
 If these are your goals, then there is no shortage of information. Even if you don't want to build a modern-day harem, a lot of the advice will improve your love/sex life.
+
+But there isn’t a lot of information about getting into a long-lasting, healthy relationship with the right kind of person. That’s the gap this article hopes to fill.
 
 ![The Game teaches you how to get laid](/assets/images/posts/the-game.jpg "There's a reason this book is so popular. Every guy wants to experience this at least once in his life.")
 
 As you become more attractive, your options will increase in both quality and quantity.
 
-Your scarcity problem becomes one of over-abundance. Congratulations\! You’re now on a wonderful cycle of success.
+Your scarcity problem becomes one of over-abundance. Congratulations\! This is a big deal. You’re now on a wonderful cycle of success.
 
 You’re aloof and hard to get because you have genuine abundance. Your aloofness makes you more attractive, thus giving you more options. You beat the game.
 
-Except you didn’t because you’re still human. Though there is a trend towards some guys discussing how to manage emotions, there is remarkably little information out there for guys who reach this stage and develop new problems.
+Except you didn’t because you’re still human. If you aren’t looking for true love, you still likely want some type of romantic relationship with a person you can true. You see the same pattern over and over again with guys who never leave this lifestyle behind.
+
+They devote so much time and energy to getting laid that they’re never able to enter a serious relationship. When you’re younger, this doesn’t seem that important. But we all get old and ugly. The longer you do something, the harder it is to do something else. This combines into a nasty situation for guys.
+
+Age has made them impatient, but they also don’t want to date women their own age. Furthermore, while a lot of guys become successful, most of them devoted all of their attention to getting laid and have not improved to actually be worthy of a good relationship with even an average woman.
+
+If you end up in this position and you haven’t worked on yourself at all, there’s nothing I can tell you. However, if you are tired of being single and playing the field, there is remarkably little information out there for you.
+
+What about the guys who reach this stage and develop new problems.
 
 The player lifestyle is cool, [but what if you want to be in a relationship?](https://bookofpook.com/){: target="_blank"}
 
-{% include widgets/cta-email.html %}
+## Most guys are given bad advice on getting into a relationship
 
-## What most sites tell you about falling in love
+Most information says “forget feelings and go get with a bunch of other chicks”. All of the information out there warns against getting “oneitis”—the feeling of falling for a woman and seeing no other but her.
 
-Most information says “fuck feelings and go get with a bunch of other chicks”.
+Then there's the other extreme; “Dive right in, use your game powers to make this work. May the odds forever be in your favor”. These are the guys who think that no matter what issues a woman has, a little bit of game and a strong show of dominance can make the relationship right.
 
-Then there's the other extreme; “Dive right in, use your game powers to make this work. May the odds forever be in your favor”.
+Both are approaches are unsatisfactory because they ignore reality: meeting the right person, spending time with them, navigating their red flags, and starting a meaningful relationship is a serious time and energy investment. It’s one that I feel is worth it, but you have to be smart about it.
 
-Both are unsatisfactory because they ignore reality.
+I’m no relationship expert, but I think know more than a lot of people about human nature. At the very least, I’ve been through enough good and bad with women and I’ve tried to learn from it each time.
 
 First, you need to know if a girl is relationship material. This is one of those things you only gain insight into after a few bad experiences.
 
@@ -46,11 +56,11 @@ The problem with being human is that sex and intimacy cloud rational judgment.
 
 Even the most hardcore player is susceptible to heartbreak. Your goal is to decrease the probability of disaster while maximizing your odds of success. One of the ways this is done is via a screening protocol.
 
-Put another way, you must learn to assess risk. This isn’t a post about how to run game or how to get your value up. There's so much information on the internet about those topics I could hardly add anything.
+Put another way, you must learn to assess risk. This isn’t a post about how to run game or how to get your value up.
 
-This isn’t a post about relationship management.
+This isn’t a post about relationship management. ***(But this post I wrote is about being better in relationships—&gt;[How to be a better boyfriend](/how-to-be-a-good-boyfriend/))***
 
-There's considerably less information about that topic on the net. However, it’s useless to learn relationship management if you're in one you shouldn’t be.
+This is about risk management, picking the right girl, and learning how to spot
 
 ## Risk assessment can help avoid a lot of problems&nbsp;
 
