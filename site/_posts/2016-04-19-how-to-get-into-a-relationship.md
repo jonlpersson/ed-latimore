@@ -62,77 +62,91 @@ This isn’t a post about relationship management. ***(But this post I wrote is 
 
 This is about risk management, picking the right girl, and learning how to spot
 
-## Risk assessment can help avoid a lot of problems&nbsp;
+## Understand that infatuation blinds you
 
 ![Risk assessment versus risk management](/assets/images/posts/riskassessrightsize.png "Risk assessment versus risk management")
 
+## Understand that infatuation blinds you
+
+&nbsp;
+
 I’m not going to break down the science of the matter here, but when you’re physical with someone and you spend time around them, you start to feel attached to them.
 
-**This article does a good job. (Read: "[The Science Behind Falling In Love](https://www.psychologytoday.com/us/blog/loves-evolver/201302/the-science-behind-falling-in-love){: target="_blank"}")**
+**This article does a good job. (Read: "**[**The Science Behind Falling In Love**](https://www.psychologytoday.com/us/blog/loves-evolver/201302/the-science-behind-falling-in-love){: target="_blank"}**")**
 
 Most relevant from this article is one particular passage from the article:
 
 > …the neurotransmitters norepinephrine and PEA (phenylethylamine) lead to focused attention. Individuals start to ‘zero-in’ on the person they desire, and at the same time, often have a feeling of euphoria. Norepinephrine is a stimulant, so it also causes individuals to feel alert, potentially unable to sleep, and enables them to notice and remember even the smallest of details about their partners. PEA is responsible for the feelings of giddiness, and may cause the loss of appetite. If the relationship doesn’t last, and PEA levels fall and are partly responsible for the feelings of depression that can be experienced.
 
-It doesn't matter if the person is a good match or not. The feeling of attachment is so intense that all sense of rationality dies.
+It doesn't matter if the person is a good match or not. The feeling of attachment is so intense that all sense of rationality dies. Infatuation makes it impossible for you to properly assess the girl in front of you.
 
 The reason so many guys fear “catching feelings” is because it impairs their judgment. This increases the likelihood of making the wrong decision.
 
-In the emotional fog, you might get attached to someone that’s terrible for you. Remember, there are several reasons [why you can't force a relationship](/you-cant-force-relationships-to-develop/). On the flip side, you might also get rid of someone that is perfect for you. Though I’ve only had 3 serious girlfriends in my life, I've experienced both of these situations.
+In the emotional fog, you might get attached to someone that’s terrible for you. On the flip side, you might also get rid of someone that is perfect for you. Though I’ve only had 3 serious girlfriends in my life, I've experienced both of these situations.
 
-You need a way to reduce the possibility of making a bad decision.
+You need a way to reduce the possibility of making a bad decision and ending up in a toxic relationship.
 
 The best way to do this is to only spend time with girls who meet your standards. With your increased value, there's no reason to waste time with women who don’t meet your basic, deal-breaking criteria.
 
-I’m not here to tell you what those criteria should be.
+I’m not here to tell you what those criteria should be; only to tell you
 
 The "first date" is to evaluate whether a girl meets your basic deal breakers. I’m assuming that she meets your physical standards if you’re on a date with her. Now you're seeing if she fits your mental and emotional standards as well.
 
-If you have no non-physical standards and are just looking for attractive girls to hang out with and try to bang, this article isn’t for you. And if you AREN’T looking for attractive women at all, never visit my site again. I don’t want to be responsible for what the cat drags in.
+If you have no non-physical standards and are just looking for attractive girls to bang, this article isn’t for you. And if you AREN’T looking for attractive women at all, never visit my site again. I don’t want to be responsible for what the cat drags in.
 
 Most guys are so happy to have sex with a reasonably attractive girl, they forsake personal standards, boundaries, and rules. Then there are guys that never give a girl the respect she's earned, remaining completely inflexible about everything.
 
 It’s their way or the highway. You don’t want to be either of these guys.
 
-## People will mislead to get into a relationship
+## Don’t let girls mislead you
 
-We’ve discussed the problem of over-abundance you’ll face as a high-value man. Sidenote, read the [4 unfakeable traits of a high value man](/high-value-man/) and find out what you need to work on.
+We’ve discussed the problem of over-abundance you’ll face as a high-value man. Sidenote, read the [4 unfakeable traits of a high-value man](/high-value-man/) and find out what you need to work on.
 
 Since your time is more valuable, girls will want more of it. Maintaining standards is how you automatically weed out many of them.
 
-However, you need to watch out for girls who intentionally mislead you to get more of your time and attention. Intentional misrepresentation from women is the other problem you'll face.
+However, you need to watch out for girls who intentionally mislead you to get more of your time and attention. Intentional misrepresentation from women is the other problem you'll face. It can be in anything from fake hair and eyelashes to exaggerating what they do, how much money they make, or the friends they have.
 
-They do this because a quality guy like yourself is too rare to let slip away.
+Small things like physical enhancement aren’t a big deal. The real issue is when it’s a misrepresentation of character or status.
 
-**(Read: "[How To Become An Attractive Man](/how-to-be-an-attractive-man/)")**
+I once had a girl tell me that she used to date NBA players and that her family was rich. Once I knew both of those things were false, I could not take her seriously anymore. Whenever someone lies, it’s to cover something up. Whether it’s internal insecurity or something even worse, it’s still a red flag that will lead to relationship issues.
 
-If you're being true to your standards, this problem won't come up until after a few dates. If she’s physically your type, intellectually curious, and emotionally stable, you may still wonder:
+They do this because a quality guy like yourself is too rare to let slip away. They’re fine trying to build a long-term relationship based on lies because to them, the ends justify the means.
+
+We’d all like to think that we’re human lie detectors, but the reality is that the hardest man can fall for the biggest load of bullshit. Sometimes the girl is that good of a liar. Other times, it’s because you want to believe.
+
+Either way, the goal is to make sure that you don’t fall for the deception.
+
+**(Read: "**[**How To Become An Attractive Man**](/how-to-be-an-attractive-man/)**")**
+
+If you're being true to your standards, you dramatically reduce the odds that she’s not who she says she is. Even still, if she’s physically your type, intellectually curious, and emotionally stable, you may still wonder:
 
 Is this girl really what she seems or are you in for a world of trouble?
 
-## The best way to save time and figure out who's a good match
+## Is she lying to me? How to know for sure
 
 ![Don't talk about your standards](/assets/images/posts/keep-a-secret.jpg "Don't talk about your standards")
 
-Never mention your standards. Never mention what you expect or won't tolerate. Simply live true to yourself and what you believe.
+Never mention your standards. Never mention what you expect or won't tolerate. Simply live true to yourself. This is the best way to gauge a potential partner’s integrity and intentions.
 
 Just evaluate the girl and at the end of the date decide if you’ll see her again. Keep this behavior up, not only for your first few dates but for a while into the relationship.
 
-If you’re asked, don’t lie about what’s important to you. However, don’t go out of your way to volunteer the information either.
+Don’t lie about what’s important to you if she asks. However, don’t go out of your way to volunteer the information either.
 
 Some out there say you should make your standards and expectations known right up front. While I admire the theoretical self-respect of this, it's a flawed application.
 
-It doesn't maximize your happiness in the relationship. And contrary to popular belief, your happiness is the most important thing in the relationship.
+It doesn't maximize your happiness in the relationship. And contrary to popular belief, your happiness is the most important thing in the relationship. This doesn’t mean that you achieve it by ruining someone else’s. It just means that you don’t tolerate anything from anyone that jeopardizes yours.
 
-If you're happy, then there's a much greater chance you're living in a way to make anyone involved with you happy. This goes double when you don't rely on another person to make you happy.
+It doesn’t matter if it’s family members, loved ones, or a new partner. Don’t do anything to put your happiness at risk. You’ve only got a short amount of time on this planet. Don’t waste it dealing with dishonest women.
 
-## How to use the Hawthorne Effect to find a good partner
+If you're happy, then there's a much greater chance you're living in a way that makes anyone involved with you happy. This goes double when you don't rely on another person to make you happy.
+
+## Use the Hawthorne Effect when meeting people
 
 ![Using the Hawthorne Effect to start a relationship](/assets/images/posts/ratsinamaze.jpg "Never tell the rats they're in a maze")
 
-There is a phenomenon known as “[The Hawthorne Effect](https://exploringyourmind.com/the-hawthorne-effect-we-change-when-people-watch-us/){: target="_blank" rel="noopener noreferrer"}.”
+There is a phenomenon known as “[The Hawthorne Effect](https://exploringyourmind.com/the-hawthorne-effect-we-change-when-people-watch-us/){: target="_blank"}.”
 
-The Hawthorne effect states: that people change their behavior according to expectation if they know they’re being observed. This is where the old saying “you don’t tell the rats they’re in a maze” comes from.
+The Hawthorne effect states: that people change their behavior according to expectations if they know they’re being observed. This is where the old saying “you don’t tell the rats they’re in a maze” comes from.
 
 People cleverly use the Hawthorne effect to seduce and manipulate each other.
 
@@ -140,7 +154,7 @@ To protect yourself from someone who will present false appearances, don't menti
 
 This way, you are more likely to find someone who naturally aligns with what you expect in a partner rather than forcing someone to compromise or make concessions.
 
-> <br>"He who is convinced against his will, remains of the same opinion still."
+> "He who is convinced against his will, remains of the same opinion still."
 
 I can’t tell you what your rules should be. That will come with your own development and experience. What I can tell you is that having rules for who gets your time is a good idea in all of your relationships; not just your romantic ones.
 
@@ -160,7 +174,7 @@ Sometimes you'll be wrong. Sometimes you'll be right. If you learn from each tim
 
 People will always tell you what they think you want to hear or what will get them what they want. To protect yourself in a relationship and avoid wasting time, this skill is of paramount importance.
 
-## **Summary**
+## Relationship advice summary
 
 * Date women that meet your standards.
 * Let each time you see her be the only indication that you think she’s worth your time.
