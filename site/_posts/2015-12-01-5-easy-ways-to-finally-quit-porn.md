@@ -95,11 +95,11 @@ The only way around this is to delete your browser history.
 
 The easiest way to stop watching porn is to make it impossible for you to do so.
 
-You can easily install website blockers on your browser. There are various options to stop your computer from even being able to visit pornographic sites. Some of the more popular options are:
+You can easily install porn blockers on your browser. There are various options to stop your computer from even being able to visit pornographic sites. Some of the more popular options are:
 
 * [Net Nanny](https://www.netnanny.com/features/porn-blocking/){: target="_blank"}
-* [Ad Guard](https://adguard.com/en/article/porn-blocker-software.html){: target="_blank"}
-* [Covenant Eyes](https://www.covenanteyes.com/){: target="_blank"}
+* [Ad Guard](https://aff.adguard.com/?ref=edlatimore){: target="_blank"}
+* [Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9){: target="_blank"}
 * [X3 Watch](https://x3watch.com/){: target="_blank"}
 
 Once you've made it impossible to satisfy your pornography habit on your electronic devices, the next step is to live transparently. You need to make sure that you use your computer in front of people at all times.
