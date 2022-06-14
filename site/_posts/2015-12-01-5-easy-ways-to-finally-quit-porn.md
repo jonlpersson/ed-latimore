@@ -55,19 +55,25 @@ The human mind has a surprisingly difficult time distinguishing between real and
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
 
-## Should you give up porn?
+## **Should you give up porn?**
+
+I’m not anti-porn. I’m anti-porn addiction. It just so happens that porn is incredibly easy to get addicted to and I am *very* anti-addiction.
 
 You can experiment on yourself to see if you experience any of the routinely touted benefits of giving up porn. If you want to jerk off to the screen until your heart's content, go for it. All I'll say is that there are consequences for every action.
 
 But you found this article so that means you know there's something wrong. Maybe you're starting to experience the dreaded "erectile dysfunction". Or you're becoming numb to normal girls in their natural beauty.
 
-If you aren't sure if something is wrong, [here are 6 clear signs that you're definitely addicted to porn](/6-signs-that-youre-definitely-addicted-to-porn/). If you say yes to anything on that list, you need this article.
+Or maybe you’re still interested in normal women and you can still get it up, but the sexual satisfaction you receive from real physical intimacy is out the window.
 
-Or maybe you're just a guy who's healthy now but knows that his porn habit is no good and you want a way out. Whatever your situation is, you're in the right place.
+If you aren't sure if something is wrong, [here are 6 clear signs that you're definitely addicted to porn](/6-signs-that-youre-definitely-addicted-to-porn/). You need this article if you say yes to anything on that list.
+
+Or maybe you're just a guy who's healthy now but knows that his pornography viewing habit is no good and you want a way out. Whatever your situation is, you're in the right place.
+
+You don’t need professional help. You don’t need an intervention. You just need this article.
 
 Here is the plan I used to quit porn
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here.](/resources/dick-detox/)\]***
+***\[Also, I have a free guide to help you make even more progress in quitting porn you can ***[***download it here.***](/resources/dick-detox/){: target="_blank"}***\]***
 
 ## 1\. Delete your browser history
 
