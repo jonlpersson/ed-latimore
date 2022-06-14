@@ -151,7 +151,7 @@ You may find something on social media that helps you in your relationship but d
 Instead, stand guard at the gateway of your mind. Train it with new activities, challenges, and philosophies. And always remember that you have control over your thoughts and reactions.
 
 
-## How to stop self-sabotage
+## Final thoughts on dealing with self-sabotage
 
 To stop self-sabotaging your relationships:
 
