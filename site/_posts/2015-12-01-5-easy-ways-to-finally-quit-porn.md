@@ -10,13 +10,18 @@ description: >-
   This is the plan I used to stop my porn addiction. This is a real, battle
   tested, science backed, reality based plan to stop your porn addiction.
 ---
-This is the plan I used to quit porn.
+This is the plan I used to quit porn and improve my sex life.
 
-This isn't advice based on the theory of addiction. This isn't speculation based on a few good ideas. This isn't hearsay from a guy who&nbsp;*just* quit his porn addiction.
+This isn't:
 
-This is a real, battle-tested, science-backed, reality-based plan to break up with porn and the embarrassment that comes with it.
+* Advice based only on the theory of addiction recovery with no real-life experience.
+* Speculation based on a few good ideas.
+* A Nofap plan that requires will-power
+* Hearsay from a guy who’s only got a few weeks in on his internet pornography recovery.
 
-Most literature on the internet talks about inner healing and finding your deep-seated reasons for watching porn. You find God and lots of other shit that's not relevant to actually kicking the habit.
+This is a real, battle-tested, science-backed, reality-based plan to end your porn use and the embarrassment that comes with it.
+
+Most literature on the internet talks about inner healing, dopamine, figuring out why porn is your coping mechanism, and finding your deep-seated reasons for watching porn. You find God and learn about the neuroscience of why you can’t stop, it won’t actually help you to quit.
 
 {% twitter https://twitter.com/EdLatimore/status/1328540076289232897 %}
 
