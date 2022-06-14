@@ -1,7 +1,7 @@
 ---
 date: 2015-12-01 19:00:00 -0500
 article_type: Article
-title: 5 easy ways to finally quit porn
+title: 6 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
 tags:
   - porn-addiction-recovery
@@ -162,7 +162,15 @@ If pornography is as addictive as nicotine, then sex is like a vape. At first, i
 
 This is why I think it's important to meet women as a means to get off of porn. Not vice-versa. It makes the transition to a pornless state MUCH easier if you have something instead of nothing at all.
 
-***I don't care for most of the pick-up and dating industry, but one solid guy in this realm is Troy Francis. He's got a great collection of programs to help you authentically talk to women so you meet one to replace your dependency on porn. There is no replacement for physical intimacy. [Check out his program here.](https://gumroad.com/a/18977907/oiVmn){: target="_blank" rel="noopener noreferrer"}***
+## 6\. Build or join a support group
+
+Pornography’s greatest power is that it is done alone and in secret. Unlike other drugs, most guys don’t use pornography with other guys around. However, if you can link up with someone else who is trying to quit using porn, then you turn the tables on porn addiction.
+
+When you have an accountability partner, you are not only keeping yourself, but you’re keeping someone else honest. The support group that you build doesn't just have to be other guys who use porn.
+
+Any type of person with an addiction they’re trying to kick is fine. All that matters is the common purpose of getting back control in your life.
+
+It doesn’t have to be in person either. I used Whatsapp and telegram to organize my support group.
 
 ## Summary
 
@@ -171,6 +179,7 @@ This is why I think it's important to meet women as a means to get off of porn. 
 3. Don't touch your penis
 4. Get physical
 5. Talk to some actual women
+6. Build or join a support group
 
 Beating porn addiction falls under the “simple, but not easy” category.
 
