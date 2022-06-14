@@ -27,15 +27,15 @@ Most literature on the internet talks about inner healing, dopamine, figuring ou
 
 Feeling complete and whole is good, but it doesn't exactly help you solve the problem. They give advice like this because they either lack experience with porn addiction (or any addiction, for that matter) or they're fakes who are trying to sell you something.
 
-## Pornography is like any other drug
+## **The negative consequences of internet porn**
 
 You wouldn't tell a crackhead to do some soul searching.
 
 Inner peace is important, but we don't have time to worry about why the crackhead smokes crack. We just want to get the crackhead off crack as quickly as possible, hopefully before something terrible, life-altering, and irreversible happens.
 
-[Pornography is a drug](https://fightthenewdrug.org/how-porn-affects-the-brain-like-a-drug/) and deserves a similar approach.
+[Pornography is a drug](https://fightthenewdrug.org/how-porn-affects-the-brain-like-a-drug/){: target="_blank"} and deserves a similar approach.
 
-While people aren't committing robbery to get money for pornography, pornography addiction isn't *exactly* a victimless problem. [Psychology Today reported](https://www.psychologytoday.com/us/blog/experimentations/201707/pornography-and-broken-relationships) that the more often one views pornography while in a romantic relationship, the more likely that relationship is to end.
+While people aren't committing robbery to get money for pornography, pornography addiction isn't *exactly* a victimless problem. [Psychology Today reported](https://www.psychologytoday.com/us/blog/experimentations/201707/pornography-and-broken-relationships){: target="_blank"} that the more often one views pornography while in a romantic relationship, the more likely that relationship is to end.
 
 Porn addiction makes a person more likely to cheat, causing emotional distress for the addict's partner. Many people already consider viewing pornography a type of infidelity. If the couple has children, then they become the collateral damage of a relationship ruined by porn addiction.
 
@@ -43,15 +43,15 @@ Porn addiction makes a person more likely to cheat, causing emotional distress f
 
 While emotional and spiritual work may help, porn's appeal is simple:
 
-It's not appealing because you're broken, empty, or [have an addictive personality](/sobriety-benefits/). Porn is appealing because orgasms feel good and are the result of giving in to the most powerful drive on the planet; the need to procreate.
+It's not appealing because you're broken, empty, or [have an addictive personality](https://www.clearscope.io/sobriety-benefits/){: target="_blank"}. Porn is appealing because orgasms feel good and are the result of giving in to the most powerful drive on the planet; the need to procreate.
 
-Pornography allows you to get this effect whenever you want with as much variety you desire.
+The easy access to internet pornography allows you to get this effect whenever you want with as much variety as you desire.
 
-Porn hijacks the brain by taking advantage of something called [The Coolidge Effect](https://www.sciencedirect.com/science/article/pii/S0303720717304938). If you don't read the article, here's the abridged version:
+Porn hijacks and rewires the brain by taking advantage of something called [The Coolidge Effect](https://www.sciencedirect.com/science/article/pii/S0303720717304938){: target="_blank"}. If you don't read the article, here's the abridged version:
 
 It's basically impossible to get bored of sexual variety. A man will choose a new sexual partner over food and water. Normally, he doesn't have that many options, but pornography creates the illusion of choice.
 
-The human mind has a surprisingly difficult time distinguishing between real and imagined events. Part of the reason pornography is addictive is why scary movies are scary.
+The human mind has a surprisingly difficult time distinguishing between real and imagined events. Part of the reason why viewing porn is addictive is why scary movies are scary.
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
 
