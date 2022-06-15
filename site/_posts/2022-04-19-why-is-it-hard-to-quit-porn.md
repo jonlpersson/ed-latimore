@@ -106,7 +106,7 @@ You get rewarded with pleasure and feel-good chemicals.
 The negatives of pornography don’t become obvious until much later:
 
 * Brain fog that makes it difficult to focus
-* Erectile dysfunction (ED)
+* [Erectile dysfunction (ED)](https://blockerx.net/blog/6-main-causes-of-ed-that-men-suffer-from/){: target="_blank" rel="noopener noreferrer"}
 * Premature ejaculation
 * Delayed ejaculation
 * Neglecting life responsibilities
