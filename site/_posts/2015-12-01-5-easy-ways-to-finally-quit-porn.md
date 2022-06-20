@@ -73,7 +73,7 @@ You don’t need professional help. You don’t need an intervention. You just n
 
 Here is the plan I used to quit porn
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can ***[***download it here.***](/resources/dick-detox/){: target="_blank"}***\]***
+***\[Also, I have a free guide to help you make even more progress in quitting porn you can \*\**[\*\**download it here.*\*\*](/resources/dick-detox/){: target="_blank"}***\]*\*\*
 
 ## 1\. Delete your browser history
 
@@ -162,7 +162,15 @@ If pornography is as addictive as nicotine, then sex is like a vape. At first, i
 
 This is why I think it's important to meet women as a means to get off of porn. Not vice-versa. It makes the transition to a pornless state MUCH easier if you have something instead of nothing at all.
 
-## 6\. Build or join a support group
+## 6\. Meditation and mindfulness
+
+Counterintuitively, sometimes the best thing to do to help you quit using porn is to do nothing. I don't mean this as a piece of mysterious zen or a confusing koan. This advice is to be taken literally; simply let yourself experience the craving and urges.
+
+This might sound no different than what you've been doing and why you found this article in the first place, but the trick her is to be mindful and focus on your breathing when you do it.
+
+The trick is
+
+## 7\. Build or join a support group
 
 Pornography’s greatest power is that it is done alone and in secret. Unlike other drugs, most guys don’t use pornography with other guys around. However, if you can link up with someone else who is trying to quit using porn, then you turn the tables on porn addiction.
 
