@@ -166,9 +166,17 @@ This is why I think it's important to meet women as a means to get off of porn. 
 
 Counterintuitively, sometimes the best thing to do to help you quit using porn is to do nothing. I don't mean this as a piece of mysterious zen or a confusing koan. This advice is to be taken literally; simply let yourself experience the craving and urges.
 
-This might sound no different than what you've been doing and why you found this article in the first place, but the trick her is to be mindful and focus on your breathing when you do it.
+This might sound no different than what you've been doing and why you found this article in the first place, but the trick here is to be mindful and focus on your breathing when you do it.
 
-The trick is
+If we work from the premise that the urge for sex is natural and we know that porn is an exaggerated, manipulated sexual response, then it stands to reason that urges to watch porn are natural in many ways.
+
+This doesn't mean that need to give in to them any more than you give in to your urge to hit someone when they make you angry. Instead, learn to exist with the urge by focusing on it, realizing what it is, but neither trying to control it, resist it, or give in to it.
+
+This is accomplished through meditation, breathing, and mindfulness. The easiest way to practice this is to close your eyes and focus on the sound and rhythm of your breathing while being completely aware of the urge to watch porn.
+
+I can't guarantee the feeling will pass, but that's not the point anyway. The point is to recognize that the urge exists but doesn't have power over you. This is the closest to the idea of recognizing the pain in working out but not letting it stop you from working out.
+
+You accept that pain and continue on towards your goal of fitness. This is the same&nbsp;
 
 ## 7\. Build or join a support group
 
@@ -187,7 +195,8 @@ It doesn’t have to be in person either. I used Whatsapp and telegram to organi
 3. Don't touch your penis
 4. Get physical
 5. Talk to some actual women
-6. Build or join a support group
+6. Meditation and mindfulness
+7. Build or join a support group
 
 Beating porn addiction falls under the “simple, but not easy” category.
 
