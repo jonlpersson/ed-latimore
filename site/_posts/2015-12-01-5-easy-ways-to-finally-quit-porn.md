@@ -1,7 +1,7 @@
 ---
 date: 2015-12-01 19:00:00 -0500
 article_type: Article
-title: 6 easy ways to finally quit porn
+title: 7 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
 tags:
   - porn-addiction-recovery
