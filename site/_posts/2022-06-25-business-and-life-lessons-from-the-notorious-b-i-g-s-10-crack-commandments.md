@@ -23,7 +23,7 @@ The first line in The 10 Crack Commandments goes:
 
 On the surface, the song is a how-to manual for being a successful drug dealer. However, the lessons contained in the song don’t just apply to selling crack. For Biggie and other drug dealers like him, crack was everything. Not because they were addicted to it, but because it provided an income and a way of life.
 
-The Ten Crackcommandments is an education in human nature's real, raw, viciousness. The level of street smarts required to survive in an environment like this breeds several lessons for managing competition.
+The Ten Crack Commandments is an education in human nature's real, raw, viciousness. The level of street smarts required to survive in an environment like this breeds several lessons for managing competition.
 
 I’ve broken down each of the 10 crack commandments so you get the benefits of these hard-earned, deeper lessons about business, human nature, and life without ever having to sell drugs yourself.
 
