@@ -52,7 +52,7 @@ The scarcity mentality makes a person believe that everything is a zero-sum game
 
 Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their abilities.
 
-Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. They think it's better to beat you outside the game than to try and beat you in competition.
+Whether they try to damage you physically, mentally, or emotionally, eventually you’ll “get yo’ ass stuck up” by a hater. They think it's better to beat you outside the game than to try and beat you in competition.
 
 It’s best to be secretive about your success until you are in a sufficient position to not be affected by their jealous attacks.
 
