@@ -77,43 +77,45 @@ Many opportunities only present themselves once. Certain vulnerabilities will no
 
 ## 3\. Trust no one
 
-*Number 3, never trust no-bo-dyYour moms'll set that ass up, properly gassed upHoodied and masked up, shit, for that fast buckShe be laying in the bushes to light that ass up*
+> *Number 3, never trust no-bo-dy<br>Your moms'll set that ass up, properly gassed up<br>Hoodied and masked up, shit, for that fast buck<br>She be laying in the bushes to light that ass up*
 
 When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.&nbsp;
 
 This is especially true when it comes to incentives.
 
-As the old saying goes, “Everyone is a whore for the right price.” Even your momma will give up the goods on you if the money is right or the leverage is tight. The only way to shield yourself from this effect is to make sure that no one knows anything about what you’re trying to do.
+As the old saying goes, “Everyone is a whore for the right price.” Even your mother&nbsp; will give up the goods on you if the money is right or the leverage is tight. The only way to shield yourself from this effect is to make sure that no one knows anything about what you’re trying to do.
 
 Combine this with the second rule for supreme secrecy and information control.
 
 ## 4\. Never use what you sell
 
-*Number 4, I know you heard this beforeNever get high on your own supply*
+> *Number 4, I know you heard this before<br>Never get high on your own supply*
 
-Whatever you’re selling, it’s important that you don’t become an over indulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.&nbsp;
+Whatever you’re selling, it’s important that you don’t become an overindulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.&nbsp;
 
-Imagine being a drug dealer who is addicted to the drug he’s selling. Everyday he confronts a difficult dilemma: to chase a high or chase dollars. The two goals are mutually exclusive. Now imagine something benign, like physical training.
+Imagine being a drug dealer who is addicted to the drug he’s selling. Every day he confronts a difficult dilemma: to chase a high or chase dollars. The two goals are mutually exclusive. Now imagine something benign, like physical training.
 
-While it’s important that you’re in shape, you can’t spend some much time working out that you have none left to service clients. If your goal is business success, you need to do the minimum to remain a viable choice and focus the efforts that will generate revenue.
+While it’s important that you’re in shape, you can’t spend so much time working out that you have none left to service clients. If your goal is business success, you need to do the minimum to remain a viable choice and focus the efforts that will generate revenue.
 
 The main lesson here is that it’s difficult—if not impossible—to be both a producer and consumer of a product.
 
 The more time you spend making things, the less time you have to enjoy the things you make.
 
-&nbsp;The more you enjoy what someone else makes, the less time you have to make something of your own.
+The more you enjoy what someone else makes, the less time you have to make something of your own.
 
 ## 5\. Don’t mix business and pleasure
 
-*Number 5, Never sell no crack where you rest at\*\*I don't care if they want a ounce, tell 'em bounce\!*
+> *Number 5, Never sell no crack where you rest at<br>I don't care if they want a ounce, tell 'em bounce\!*
 
-The warning here is never sell drugs where you live, because unsatisfied customers and rival drug dealers are likely to seek you out where you sell. If you live where you do business, then not only is your home put in danger, you also introduce the possibility of collateral damage and innocent bystanders whom you care about getting attacked in a retaliation
+The warning here is to never sell drugs where you live because unsatisfied customers and rival drug dealers are likely to seek you out where you sell. If you live where you do business, then not only is your home put in danger, but you also introduce the possibility of collateral damage and innocent bystanders whom you care about getting attacked in a retaliation
 
 Fortunately, the potential penalty for working where you live isn’t nearly as severe if you do legal work. However, it does come with its own problems and challenges.
 
-One of the issues we observed during the Covid-19 pandemic was how many people had trouble adjusting to working from home who weren’t used to it. One of the major complaints is that their employer expected them to always be available. Also, many people felt distracted by problems around the house.
+One of the issues we observed during the Covid-19 pandemic was [how many people had trouble adjusting to working from home](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7934324/){: target="_blank" rel="noopener noreferrer"}. One of the major complaints is that their employer expected them to always be available. Also, many people felt distracted by problems around the house.
 
-Whenever you leave work, leave work. Whenever you’re leave your personal life, leave your personal life. A clear line between the two is best for your sanity and boundaries. This goes double if you work for yourself, as it’s easy to convince yourself that you have to always be working.
+Whenever you leave work, leave work. Whenever you leave your personal life, leave your personal life.
+
+A clear line between the two is best for your sanity and boundaries. This goes double if you work for yourself, as it’s easy to convince yourself that you have to always be working.
 
 ## 6\. Don’t do work on credit
 
