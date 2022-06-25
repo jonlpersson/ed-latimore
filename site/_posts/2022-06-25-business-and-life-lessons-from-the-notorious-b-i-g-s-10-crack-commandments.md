@@ -85,7 +85,7 @@ When you’re young, secrets feel like something you share with friends. The old
 
 This is especially true when it comes to incentives.
 
-As the old saying goes, “Everyone is a whore for the right price.” Even your mother&nbsp; will give up the goods on you if the money is right or the leverage is tight. The only way to shield yourself from this effect is to make sure that no one knows anything about what you’re trying to do.
+As the old saying goes, “Everyone is a whore for the right price.” Even your mother will give up the goods on you if the money is right or the leverage is tight. The only way to protect yourself is to make sure that no one knows anything about what you’re doing.
 
 Combine this with the second rule for supreme secrecy and information control.
 
