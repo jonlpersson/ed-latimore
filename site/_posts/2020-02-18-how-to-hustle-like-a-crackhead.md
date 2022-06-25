@@ -60,7 +60,9 @@ Everyone talks a big game when it comes to working hard, but that’s all a lot 
 
 It’s just talk because it’s easier to speak about the moves you’re going to make than it is to actually make those moves. In the social media era, you can feel accomplished by discussing your plans on Facebook and getting a flood of likes and supportive comments.
 
-You got all the accolades and attention without ever executing or accomplishing anything.
+You got all the accolades and attention without ever executing or accomplishing anything. You didn't even follow the rules.
+
+\[I broke down the [10 Crack Commandments in this post.\]](/ten-crack-commandments-business-and-life-lessons/)
 
 The real hustlers and grinders can tell who is serious and who is a fraud, but the general public–who never do much beyond the bare minimum–have no idea how to tell the real from the fake.
 
