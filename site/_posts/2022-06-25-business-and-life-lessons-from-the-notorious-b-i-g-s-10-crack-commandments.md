@@ -17,6 +17,8 @@ The Ten Crack Commandments is arguably the most popular track on Christopher Wal
 
 It’s also received a number of remasters, my favorite one being on the Youtube released “Life After Deathstar” album; a collection of Biggie’s songs that were remixed with a Star Wars tracks.
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9oQk5EYTBTZGkxYyIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/hBNDa0Sdi1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 The first line in The 10 Crack Commandments goes:
 
 *“I been in this game for years. It made me an animal; there’s rules to this sh\*\*t. I wrote me a manual. A step-by-step booklet for you to get your game on track, not yo wig pushed back.”*
