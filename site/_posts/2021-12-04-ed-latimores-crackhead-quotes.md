@@ -17,7 +17,9 @@ You can read about my childhood [growing up in the projects here](/the-projects/
 
 You can read about my experiences [with crackheads here.](/crackhead/)
 
-For further crackhead insight, you can read my lesson on [how to develop crackhead like hustle here.](/how-to-hustle-like-a-crackhead/)
+For further crackhead insight, you can read my lesson on [how to develop crackhead-like hustle here.](/how-to-hustle-like-a-crackhead/)
+
+There are also the legendary [Ten Crack Commandments that I've broken down](/ten-crack-commandments-business-and-life-lessons/) for you to apply to your life and business.
 
 If you told me that you grew up in the hood but you never dealt with crackheads, I'd know that you were lying. Crackheads and the ghetto go together like cocaine and baking soda.
 
