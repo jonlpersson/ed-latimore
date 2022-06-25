@@ -143,39 +143,51 @@ This is the other side of the 10th commandment. Don’t take on debt you can’t
 
 ## 7\. Family/business separation
 
-*7, this rule is so underrated**Keep your family and business completely separated**Money and blood don't mix like 2 dicks and no bitch\*\*Find yourself in serious shit*
+> *7, this rule is so underrated<br>**Keep your family and business completely separated**<br>Money and blood don't mix like 2 dicks and no bitch<br>Find yourself in serious shit*
 
-This might be the only rule in the 10 crack commandments that people disagree with. First, the rule is pretty straight forward: don’t get family involved with business.
+This might be the only rule in the 10 crack commandments that people disagree with. First, the rule is pretty straightforward: don’t get the family involved with the business.
 
 People typically think of this type of situation as not hiring or working with family members. The pushback is that some of the most profitable and fulfilling businesses in the world have been started with family members.
 
-The connection typically comes with the type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, ambition, ability, or emotion-wise. If you’re not careful, the disagreements you have in your personal life will manifest themselves in your business relationships—and vice-versa.
+Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, ambition, ability, or emotion-wise.
 
-However, if the relationship you have with your family is strong, then you’ll be able to do great things. Even greater than you could if you worked with other highly competent people who aren’t related. This interpretation of this commandement falls into more of a “warning” category than an outright advisement.
+If you’re not careful, the disagreements you have in your personal life will manifest themselves in your business relationships—and vice-versa.
+
+However, if the relationship you have with your family is strong, then you’ll be able to do great things—even greater than the things you could if you worked with other highly competent people who aren’t related to you.
+
+This commandment falls into more of a “warning” category than outright advisement against.
 
 If you have someone you’re close with who is going through a tough time, it might seem like the right thing to do to help get them a job with you or hire them, but if things go sour, it will ruin your personal relationship.
 
 ## 8\. Protect yourself from liabilities
 
-*Number 8, never keep no weight on you\!\*\*Them cats that squeeze your guns can hold jums too*
+> *Number 8, never keep no weight on you\!<br>Them cats that squeeze your guns can hold jums too*
 
 This is one of those pieces of advice that reads right out of Niccolo Machiavelli’s classic, The Price. Before you can appreciate the brilliance of this piece of advice, most of you will need some translation.
 
-“Jums” are short for “jumbos”. Jumbos is the name for a roughly $20 worth of crack. Ironically, Biggie was arrested for breaking this rule in 1991. He was arrested for selling crack cocaine in North Carolina and [spent nine months in jail before making bail.](http://www.nytimes.com/1994/12/18/arts/pop-music-biggie-smalls-rap-s-man-of-the-moment.html){: target="_blank"}
+***\[Read: [Big ideas and quotes from Niccolo Machiavelli's "The Prince"](/the-prince-machiavelli-quotes/)\]***
+
+“Jums” is short for “jumbos”. Jumbos are the name for roughly $20 worth of crack. Ironically, Biggie was arrested for breaking this rule in 1991. He was arrested for selling crack cocaine in North Carolina and [spent nine months in jail before making bail.](http://www.nytimes.com/1994/12/18/arts/pop-music-biggie-smalls-rap-s-man-of-the-moment.html){: target="_blank"}
 
 As for “them cats that squeeze your guns“, he‘s referring to the “muscle“, “goons“, “shooters“, or bodyguards that a drug dealer must employ to stay safe in the dangerous game of street hustling.
 
-So specific to the drug game, he‘s telling you that there‘s no reason for you ever have any drugs on your person. As the leader, there‘s no reason for you to risk being picked up by the police and found with any drugs on your person. Just like Generals don‘t actually do the fighting, drug dealers shouldn‘t be doing the dealing. The risk is too great.
+So specific to the drug game, he‘s telling you that there‘s no reason for you ever to have any drugs on your person. As the leader, there‘s no reason for you to risk being picked up by the police and found with any drugs on your person.
 
-Applied to your life and business, you need to do whatever you can to protect yourself from liability. In your personal life, this means never texting or messaging anything you can‘t stand by personally and not spending time with the wrong types of people who increase your chances of being harmed. Commandment number 9 dives even deeper into this idea.
+Just like Generals don‘t actually do the fighting, drug dealers shouldn‘t be doing the dealing. The risk is too great.
 
-In your business life, this means that you should have insurance, operate from behind an LLC, keep meticulous records, make sure your return policy is clearly stated, etc. Do everything you can to protect yourself from the inevitable downside and negative externalities that come from being in business.
+Applied to your life and business, you need to do whatever you can to protect yourself from liability.
+
+In your personal life, this means never texting or messaging anything you can‘t stand by personally and not spending time with the wrong types of people who increase your chances of being harmed. Commandment number 9 dives even deeper into this idea.
+
+In your business life, this means that you should have insurance, operate from behind an LLC, keep meticulous records, make sure your return policy is clearly stated, etc.
+
+Do everything you can to protect yourself from the inevitable downside and negative externalities that come from being in business.
 
 ## 9\. Watch the company you keep
 
-*Number 9 shoulda been Number 1 to me,**If you ain't gettin' bagged stay the fuck from police**If niggas think you snitchin' they ain't trying to listen\*\*They be sittin' in your kitchen, waiting to start hittin'*
+> *Number 9 shoulda been Number 1 to me<br>**If you ain't gettin' bagged stay the fuck from police**<br>If niggas think you snitchin' they ain't trying to listen<br>They be sittin' in your kitchen, waiting to start hittin'*
 
-Specifically, Biggie is warning that if you are seen around the police and you aren’t getting arrested, then your drug dealing comrades will think you’ve struck some type of deal and are an informant. They aren’t going to wait around to find out if their suspicions are accurate or not, so from that point on, you’re living on borrowed time.
+Specifically, Biggie is warning that if you are seen around the police and you aren’t getting arrested, then your drug-dealing comrades will think you’ve struck some type of deal and are an informant. They aren’t going to wait around to find out if their suspicions are accurate or not, so from that point on, you’re living on borrowed time.
 
 Generally speaking, applied to your life, this is a stern warning about watching the company you keep and maintaining your reputation. There is a saying I live by: “Where there’s smoke, there’s fire.” This means that if there are signs that you did something wrong, then people are going to assume that you did something wrong.
 
@@ -187,17 +199,19 @@ If you follow this rule in your personal life, you are far less likely to be acc
 
 ## 10\. Don’t take on debt you can’t handle
 
-*Number 10, a strong word called consignment**Strictly for live men, not for freshmen**If you ain't got the clientele, say "hell no\!"\*\*'Cause they gon' want they money rain sleet hail snow*
+> *Number 10, a strong word called consignment<br>**Strictly for live men, not for freshmen**<br>If you ain't got the clientele, say "hell no\!"\*<br>Cause they gon' want they money rain sleet hail snow*
 
-If a “plug” or drug supplier has a enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give dealer product and he will only a pay a predetermined fixed price ahead of time.
+If a “plug” or drug supplier has enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give the dealer the product and he will only pay a predetermined fixed price after he's sold it.
 
-This is also known as “fronting work” and is also requested by a dealer who is low on money at the moment, but has the clientele or connections to turn a profit on it after he pays back what he owes the plug.
+This is also known as “fronting work” and is also requested by a dealer who is low on money at the moment but has the clientele or connections to turn a profit on it after he pays back what he owes the plug.
 
-In and of itself, this isn’t a bad practice. It buys you time, keeps you in the game, and—depending on your business savvy, position in the market, and general know how—allow you to make more money than you would have if you bought the product upfront.
+In and of itself, this isn’t a bad practice. It buys you time, keeps you in the game, and—depending on your business savvy, position in the market, and general know-how—allows you to make more money than you would have if you bought the product upfront.
 
-However, this comes with the danger. Mainly, if you don’t sell enough of the product to cover your took out. Best case, you can’t ever do consignment again. Worst case, they take the money out of your knee caps—or worse.
+However, this comes with a danger: if you don’t sell enough of the product to cover what you took out. Best case, you can’t ever do consignment again. Worst case, they take the money out of your knee caps or life.
 
-This is no different than any other debt you take on. In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly . The worst case scenario is that you still have to pay it back AND you lose your home or car.
+This is no different than any other debt you take on.
+
+In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly . The worst case scenario is that you still have to pay it back AND you lose your home or car.
 
 Be honest with yourself. If you know that you don’t have the skillset, resources, or the work ethic to pay back a debt, don’t take it out. You may find yourself dealing with even bigger problems had you just remained without.
 
