@@ -1,12 +1,15 @@
 ---
 date: 2022-06-25 08:21:01 -0400
 article_type: Article
-title: Business and life lessons from The Notorious B.I.G.'s 10 crack commandments
+title: Business and life lessons The Notorious B.I.G. 10 crack commandments
 permalink: /ten-crack-commandments-business-and-life-lessons/
 tags:
   - change-your-perspective
-description:
-image:
+description: >-
+  The Ten Crackcommandments is an education in human nature's real, raw,
+  viciousness. The level of street smarts required to survive in an environment
+  like this breeds several lessons for managing competition.
+image: /assets/images/drafts/10-crack-commandments.jpeg
 ---
 On March 25, 1997, American rapper The Notorious B.I.G. (a.k.a. Biggie Smalls) dropped a song that would become iconic, not just in the hip hop community, but in American culture as a whole.
 
@@ -34,11 +37,11 @@ When you’re street smart, money’s your report card
 
 *Rule Number Uno, never let no one knowHow much dough you hold cause you knowThe cheddar breed jealousy 'speciallyIf that man fucked up, get yo' ass stuck up*
 
-The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success. What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.&nbsp;
+The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success. What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.
 
-The scarcity mentality makes a person believe that everything is a zero-sum game.&nbsp;
+The scarcity mentality makes a person believe that everything is a zero-sum game.
 
-Your victory in life automatically means their defeat--even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their own abilities. Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. Beater to beat you outside the game than to try and beat you in competition.
+Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their own abilities. Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. Beater to beat you outside the game than to try and beat you in competition.
 
 it’s best to be secretive about your success until you are in a sufficient position to not be affected by their jealous attacks. The most dangerous enemies aren’t the ones who openly oppose you. The ones who do the most damage are those whose loving embrace conceals their raging envy.
 
@@ -46,13 +49,13 @@ it’s best to be secretive about your success until you are in a sufficient pos
 
 *Number 2, never let 'em know your next moveDon't you know Bad Boys move in silence and violence?Take it from your highnessI done squeezed mad clips at these cats for their bricks and chips*
 
-The element of surprise will always be your greatest advantage. Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can advance your objective.&nbsp;
+The element of surprise will always be your greatest advantage. Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can advance your objective.
 
-If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6. Also, take the initiative and tell as few people as necessary. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.&nbsp;
+If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6. Also, take the initiative and tell as few people as necessary. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.
 
-Lastly, remember this.&nbsp;
+Lastly, remember this.
 
-Lightning doesn’t strike the same place twice. Many opportunities only present themselves once. Many vulnerabilities are open only once. The moment your plan to exploit it is revealed, then it will disappear. Now you must either create a new plan or give up on what you want.&nbsp;
+Lightning doesn’t strike the same place twice. Many opportunities only present themselves once. Many vulnerabilities are open only once. The moment your plan to exploit it is revealed, then it will disappear. Now you must either create a new plan or give up on what you want.
 
 Real G’s move in silence like lasagna
 
@@ -62,7 +65,7 @@ Real G’s move in silence like lasagna
 
 *Number 3, never trust no-bo-dyYour moms'll set that ass up, properly gassed upHoodied and masked up, shit, for that fast buckShe be laying in the bushes to light that ass up*
 
-When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.&nbsp;
+When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.
 
 This is especially true when it comes to incentives.
 
@@ -74,7 +77,7 @@ Combine this with the second rule for supreme secrecy and information control.
 
 *Number 4, I know you heard this beforeNever get high on your own supply*
 
-Whatever you’re selling, it’s important that you don’t become an over indulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.&nbsp;
+Whatever you’re selling, it’s important that you don’t become an over indulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.
 
 Imagine being a drug dealer who is addicted to the drug he’s selling. Everyday he confronts a difficult dilemma: to chase a high or chase dollars. The two goals are mutually exclusive. Now imagine something benign, like physical training.
 
@@ -84,11 +87,11 @@ The main lesson here is that it’s difficult—if not impossible—to be both a
 
 The more time you spend making things, the less time you have to enjoy the things you make.
 
-&nbsp;The more you enjoy what someone else makes, the less time you have to make something of your own.
+ The more you enjoy what someone else makes, the less time you have to make something of your own.
 
 ## 5\. Don’t mix business and pleasure
 
-*Number 5, Never sell no crack where you rest at**I don't care if they want a ounce, tell 'em bounce\!*
+*Number 5, Never sell no crack where you rest at\*\*I don't care if they want a ounce, tell 'em bounce\!*
 
 The warning here is never sell drugs where you live, because unsatisfied customers and rival drug dealers are likely to seek you out where you sell. If you live where you do business, then not only is your home put in danger, you also introduce the possibility of collateral damage and innocent bystanders whom you care about getting attacked in a retaliation
 
@@ -100,7 +103,7 @@ Whenever you leave work, leave work. Whenever you’re leave your personal life,
 
 ## 6\. Don’t do work on credit
 
-*Number 6, that goddamn credit? Dead it**You think a crackhead paying you back, shit forget it\!*
+*Number 6, that goddamn credit? Dead it\*\*You think a crackhead paying you back, shit forget it\!*
 
 Crackheads are unreliable. I don’t think anyone needs to be specifically warned against loaning crackheads money. However, Biggie felt it was necessary to include this commandment. Why?
 
@@ -114,7 +117,7 @@ This is the other side of the 10th commandment. Don’t take on debt you can’t
 
 ## 7\. Family/business separation
 
-*7, this rule is so underrated**Keep your family and business completely separated**Money and blood don't mix like 2 dicks and no bitch**Find yourself in serious shit*
+*7, this rule is so underrated**Keep your family and business completely separated**Money and blood don't mix like 2 dicks and no bitch\*\*Find yourself in serious shit*
 
 This might be the only rule in the 10 crack commandments that people disagree with. First, the rule is pretty straight forward: don’t get family involved with business.
 
@@ -128,7 +131,7 @@ If you have someone you’re close with who is going through a tough time, it mi
 
 ## 8\. Protect yourself from liabilities
 
-*Number 8, never keep no weight on you\!**Them cats that squeeze your guns can hold jums too*
+*Number 8, never keep no weight on you\!\*\*Them cats that squeeze your guns can hold jums too*
 
 This is one of those pieces of advice that reads right out of Niccolo Machiavelli’s classic, The Price. Before you can appreciate the brilliance of this piece of advice, most of you will need some translation.
 
@@ -144,7 +147,7 @@ In your business life, this means that you should have insurance, operate from b
 
 ## 9\. Watch the company you keep
 
-*Number 9 shoulda been Number 1 to me,**If you ain't gettin' bagged stay the fuck from police**If niggas think you snitchin' they ain't trying to listen**They be sittin' in your kitchen, waiting to start hittin'*
+*Number 9 shoulda been Number 1 to me,**If you ain't gettin' bagged stay the fuck from police**If niggas think you snitchin' they ain't trying to listen\*\*They be sittin' in your kitchen, waiting to start hittin'*
 
 Specifically, Biggie is warning that if you are seen around the police and you aren’t getting arrested, then your drug dealing comrades will think you’ve struck some type of deal and are an informant. They aren’t going to wait around to find out if their suspicions are accurate or not, so from that point on, you’re living on borrowed time.
 
@@ -158,7 +161,7 @@ If you follow this rule in your personal life, you are far less likely to be acc
 
 ## 10\. Don’t take on debt you can’t handle
 
-*Number 10, a strong word called consignment**Strictly for live men, not for freshmen**If you ain't got the clientele, say "hell no\!"**'Cause they gon' want they money rain sleet hail snow*
+*Number 10, a strong word called consignment**Strictly for live men, not for freshmen**If you ain't got the clientele, say "hell no\!"\*\*'Cause they gon' want they money rain sleet hail snow*
 
 If a “plug” or drug supplier has a enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give dealer product and he will only a pay a predetermined fixed price ahead of time.
 
@@ -171,5 +174,3 @@ However, this comes with the danger. Mainly, if you don’t sell enough of the p
 This is no different than any other debt you take on. In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly . The worst case scenario is that you still have to pay it back AND you lose your home or car.
 
 Be honest with yourself. If you know that you don’t have the skillset, resources, or the work ethic to pay back a debt, don’t take it out. You may find yourself dealing with even bigger problems had you just remained without.
-
-&nbsp;
