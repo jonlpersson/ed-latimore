@@ -119,17 +119,27 @@ A clear line between the two is best for your sanity and boundaries. This goes d
 
 ## 6\. Don’t do work on credit
 
-*Number 6, that goddamn credit? Dead it\*\*You think a crackhead paying you back, shit forget it\!*
+> *Number 6, that goddamn credit? Dead it<br>You think a crackhead paying you back, shit forget it\!*
 
-Crackheads are unreliable. I don’t think anyone needs to be specifically warned against loaning crackheads money. However, Biggie felt it was necessary to include this commandment. Why?
+Crackheads are unreliable. They can hustle when they need to get money for crack, but they're still unreliable.
+
+***\[Read: [How to hustle like a crackhead](/how-to-hustle-like-a-crackhead/)\]***
+
+I don’t think anyone needs to be specifically warned against loaning crackheads money. However, Biggie felt it was necessary to include this commandment. Why?
 
 For a drug dealer, it’s easy to assume that his reputation for violence (or the violence of the general violence of the drug trade) would inspire addicts to pay him back, so he may be allured into giving drugs on credit. I’d imagine it doesn’t take long for a street dealer to realize that addiction is stronger than common sense.
 
-Addicts only think in the short-term. The will do whatever they can to secure relief from their cravings. When we apply this rule to our personal and business life, there is almost certainly a higher degree of confidence in getting your money, but there is a major parallel to the drug game that must be respected in your personal life.
+*Addicts only think in the short term.*
 
-If a drug dealer gives drugs on credit, he can’t reposses those drugs if they user doesn’t pay him back. Violence is a deterrent, not as a means of recovery, so he’s still out. Similarly, avoid doing any work on credit and get your payment upfront. The time you invest into doing the work can’t be recovered if they stiff you. However, they are protected, in that if they feel like your work is unsatisfactory they can file a chargeback with their bank or credit card company.
+They will do whatever they can to secure relief from their cravings. When we apply this rule to our personal and business life, there is almost certainly a higher degree of confidence in getting your money, but there is a major parallel to the drug game that must be respected in your personal life.
+
+If a drug dealer gives drugs on credit, he can’t repossess those drugs if they user doesn’t pay him back. Violence is a deterrent, not a means of recovery, so he’s still out.
+
+Similarly, avoid doing any work on credit and get your payment upfront. The time you invest into doing the work can’t be recovered if they stiff you. However, they are protected, in that if they feel like your work is unsatisfactory they can file a chargeback with their bank or credit card company.
 
 This is the other side of the 10th commandment. Don’t take on debt you can’t pay back and don’t do work on credit unless you absolutely have to.
+
+***\[Read: [9 Lessons from living next to crackheads and crackdealers](/crackhead/)\]***
 
 ## 7\. Family/business separation
 
