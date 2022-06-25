@@ -28,13 +28,15 @@ Though the phrase is "book smart", the word "book" is synonymous with any type o
 
 The street is rough, raw, unsympathetic, and real. The street doesn't cater to your emotions and it doesn't care about what's politically correct. There are no safe places on the street and [no one cares what you're going through](/no-one-gives-a-shit-about-you/), what you identify as, or even if you're a good person or not.
 
-The only thing that matters on the street is what you have, what you want, and how well you can defend it once you have it. Street smarts often conjure up this idea of a gritty hustler in an urban environment, navigating through dangerous situations and dealing with shady characters in shadier situations. While you need certainly them to survive that environment, there are places just like this that look civilized on the surface, but are fully of jackals waiting to take what you've earned.
+The only thing that matters on the street is what you have, what you want, and how well you can defend it once you have it. Street smarts often conjure up this idea of a gritty hustler in an urban environment, navigating through dangerous situations and dealing with shady characters in shadier situations.
+
+While you need certainly them to survive that environment, there are places just like this that look civilized on the surface but are full of jackals waiting to take what you've earned.
 
 ***\[Read about the environment where I developed and honed my street smarts [here](/the-projects/).\]***
 
 There are several places in the real world where you need to be aware of how people think, behave, and scheme to pass you up, put your down, or take what you've learned.&nbsp;
 
-You can't learn how to be street smart from a book. You can't learn it in a classroom, from a podcast, or even this blog post. I can only show you how to prime your mind to be more street smart so you can better navigate real life and better navigate the people and obstacles in it.
+You can't learn how to be street smart from a book. You can't learn it in a classroom, from a podcast, or even from this blog post. I can only show you how to prime your mind to be more street smart so you can better navigate real life and better navigate the people and obstacles in it.
 
 ## 7 ways to be more street smart
 
@@ -64,13 +66,15 @@ You have to not only be comfortable with uncertainty, but you must also accept t
 
 It's important to expose yourself to different ideas.
 
-If you get stuck thinking with one perspective, it's going to be difficult to understand how other people think. If you can't think like other people, you can't predict, mitigate, or take advantage of their behavior. This means that other people will always surprise you and with their initiative, you won't stand a chance.
+If you get stuck thinking from one perspective, it's going to be difficult to understand how other people think. If you can't think like other people, you can't predict, mitigate, or take advantage of their behavior. This means that other people will always surprise you and with their initiative, you won't stand a chance.
 
 You'll never become street smart if you can't think like other people. You can't be attached to one viewpoint and you must be able to see the world through the motivations of another person. In fact, your perspective is effectively irrelevant.
 
 You're not trying to understand yourself. You're trying to understand other people so you can reduce the penalty of their worst traits and maximize the benefits of their best ones. This means that you need to suspend your perspective on the world.
 
 If you can do that, you'll be able to predict what they're most likely to do, which is the core of street smarts: understanding the behavior of other humans.
+
+***\[The Notorious B.I.G. gives you a different perspective, straight from the street, in his classic "The Ten Crack Commandments." I break down those lessons and how to use them [in this post](/ten-crack-commandments-business-and-life-lessons/).\]***
 
 ## 4) Don't be afraid to admit that you're wrong
 
