@@ -86,6 +86,8 @@ People will rob or try to hurt you, even if you didn’t think they ever would.
 
 It teaches you to value everything you have and take extra care to protect the things you love the most.
 
+***A rough life comes with a lot of lessons. You can pick up many from reading this breakdown of [Biggie Small's The 10 Crack Commandments&nbsp;](/ten-crack-commandments-business-and-life-lessons/)***
+
 ![Dave Chappelle as Tyrone Biggums](/assets/images/posts/tyrone-biggums.jpg "The guy who robbed me looked a little like this")
 
 ## Life can always get worse
