@@ -27,19 +27,22 @@ The Ten Crackcommandments is an education in human nature's real, raw, viciousne
 
 I’ve broken down each of the 10 crack commandments so you get the benefits of these hard-earned, deeper lessons about business, human nature, and life without ever having to sell drugs yourself.
 
-When you’re street smart, money’s your report card
-
-—Jadakiss
+> When you’re street smart, money’s your report card
+>
+>
+> —Jadakiss
 
 ## Business and life lessons from The Notorious B.I.G.'s 10 crack commandments
 
+![Biggie with the 10 Crack Commandments](/assets/images/drafts/10-crack-commandments-1.jpeg "Biggie with the 10 Crack Commandments"){: width="300" height="300"}
+
 ## 1\. Never let anyone know how much money you have.
 
-*Rule Number Uno, never let no one knowHow much dough you hold cause you knowThe cheddar breed jealousy 'speciallyIf that man fucked up, get yo' ass stuck up*
+*Rule Number Uno, never let no one knowHow much dough you hold cause you knowThe cheddar breed jealousy 'specially If that man fucked up, get yo' ass stuck up*
 
-The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success. What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.
+The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success. What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.&nbsp;
 
-The scarcity mentality makes a person believe that everything is a zero-sum game.
+The scarcity mentality makes a person believe that everything is a zero-sum game.&nbsp;
 
 Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their own abilities. Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. Beater to beat you outside the game than to try and beat you in competition.
 
@@ -49,13 +52,13 @@ it’s best to be secretive about your success until you are in a sufficient pos
 
 *Number 2, never let 'em know your next moveDon't you know Bad Boys move in silence and violence?Take it from your highnessI done squeezed mad clips at these cats for their bricks and chips*
 
-The element of surprise will always be your greatest advantage. Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can advance your objective.
+The element of surprise will always be your greatest advantage. Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can advance your objective.&nbsp;
 
-If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6. Also, take the initiative and tell as few people as necessary. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.
+If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6. Also, take the initiative and tell as few people as necessary. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.&nbsp;
 
-Lastly, remember this.
+Lastly, remember this.&nbsp;
 
-Lightning doesn’t strike the same place twice. Many opportunities only present themselves once. Many vulnerabilities are open only once. The moment your plan to exploit it is revealed, then it will disappear. Now you must either create a new plan or give up on what you want.
+Lightning doesn’t strike the same place twice. Many opportunities only present themselves once. Many vulnerabilities are open only once. The moment your plan to exploit it is revealed, then it will disappear. Now you must either create a new plan or give up on what you want.&nbsp;
 
 Real G’s move in silence like lasagna
 
@@ -65,7 +68,7 @@ Real G’s move in silence like lasagna
 
 *Number 3, never trust no-bo-dyYour moms'll set that ass up, properly gassed upHoodied and masked up, shit, for that fast buckShe be laying in the bushes to light that ass up*
 
-When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.
+When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.&nbsp;
 
 This is especially true when it comes to incentives.
 
@@ -77,7 +80,7 @@ Combine this with the second rule for supreme secrecy and information control.
 
 *Number 4, I know you heard this beforeNever get high on your own supply*
 
-Whatever you’re selling, it’s important that you don’t become an over indulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.
+Whatever you’re selling, it’s important that you don’t become an over indulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.&nbsp;
 
 Imagine being a drug dealer who is addicted to the drug he’s selling. Everyday he confronts a difficult dilemma: to chase a high or chase dollars. The two goals are mutually exclusive. Now imagine something benign, like physical training.
 
@@ -87,7 +90,7 @@ The main lesson here is that it’s difficult—if not impossible—to be both a
 
 The more time you spend making things, the less time you have to enjoy the things you make.
 
- The more you enjoy what someone else makes, the less time you have to make something of your own.
+&nbsp;The more you enjoy what someone else makes, the less time you have to make something of your own.
 
 ## 5\. Don’t mix business and pleasure
 
@@ -174,3 +177,5 @@ However, this comes with the danger. Mainly, if you don’t sell enough of the p
 This is no different than any other debt you take on. In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly . The worst case scenario is that you still have to pay it back AND you lose your home or car.
 
 Be honest with yourself. If you know that you don’t have the skillset, resources, or the work ethic to pay back a debt, don’t take it out. You may find yourself dealing with even bigger problems had you just remained without.
+
+&nbsp;
