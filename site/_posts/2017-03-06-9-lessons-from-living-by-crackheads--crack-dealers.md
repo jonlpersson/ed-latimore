@@ -20,8 +20,6 @@ I spent about 5 years living next to a certified crackhead. When I moved to anot
 
 These are my observations, lessons learned, and experiences from living next to crack dealers and crackheads.
 
-{% include widgets/toc.html heading="9 things I learned living next to crackheads and crackdealers" list-items="A crackhead is surprisingly functional, Crackheads value drugs over money, The crackhead economy is legendary, Superhuman feats ascribed to crackheads are inspired by true events, The real problem with illegal drugs, Bad traits come in clusters, Don't bother crackheads or crack dealers, Crackhead misery loves crackhead company, More people are on hard drugs than you think" list-ids="1-a-crackhead-is-surprisingly-functional, 2-crackheads-value-drugs-over-money, 3-the-crackhead-economy-is-legendary, 4-superhuman-feats-ascribed-to-crackheads-are-inspired-by-true-events, 5-the-biggest-problem-with-illegal-drugs-is-the-violence-between-suppliers-not-between-buyers, 6-bad-traits-come-in-clusters-especially-with-crack-dealers, 7-dont-start-no-shit-there-wont-be-no-shit-with-crack-dealers, 8-crackhead-misery-loves-crackhead-company, 9-more-people-are-on-hard-drugs-than-you-think" %}
-
 ## 1\. A crackhead is surprisingly functional
 
 A lot of crackheads rob and steal to get drug money. There are also quite a bit who have jobs.
@@ -60,7 +58,7 @@ One day my dad parked his car outside and went through the extra effort of putti
 
 That confused me.
 
-While 5-year old me didn’t know how much cars cost, I knew they were a lot more than 5 dollars. Once I learned that the rock is the most important thing to a crackhead, it all made sense.
+While 5-year-old me didn’t know how much cars cost, I knew they were a lot more than 5 dollars. Once I learned that the rock is the most important thing to a crackhead, it all made sense.
 
 Since then, I’ve watched or been victim to this type of crackhead behavior on a few occasions.
 
@@ -86,7 +84,7 @@ I’ve seen crackheads get hit by cars and keep moving. I once watched a crackhe
 
 You also don’t really meet any fat crackheads. Maybe crack raises your metabolism, but it is likely just a symptom of the previous observation. Crack is more important to crackheads than food.
 
-If you only have 5 dollars from the car you stole and sold, crack comes before food. Even if you haven’t eaten in days.
+Crack comes before food if you only have 5 dollars from the car you stole and sold. Even if you haven’t eaten in days.
 
 I've got a collection of quotes, many of which highlight this incredible power of crackheads. Check out this [collection of crackhead quotes here.](/crackhead-head-quotes/)
 
@@ -94,11 +92,13 @@ I've got a collection of quotes, many of which highlight this incredible power o
 
 They make a big deal about drug violence and why we need all these laws against drugs. My perspective is unique.
 
-I have no skin in the game either way but grew up at ground zero of war on drugs. Here’s what I’ve observed.
+I have no skin in the game either way but grew up at ground zero of the war on drugs. Here’s what I’ve observed.
 
 I’ve never actually seen two crackheads fighting one another.
 
 I’ve seen them fighting other non-crackheads, but they don’t really go to war with one another. However, the crack dealer next door is one of the reasons there were bullet holes in my door.
+
+Biggie warned about this in his song The Ten Crack Commandmenets. Check out my breakdown of this rule and others [here in this post](/ten-crack-commandments-business-and-life-lessons/).
 
 On a more general note, most hood violence is drug-related. The rest of the violence is because of people taking advantage of someone who comes off as a weak, easy target.&nbsp;
 
