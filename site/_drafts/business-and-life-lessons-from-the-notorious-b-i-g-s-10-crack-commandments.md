@@ -38,31 +38,42 @@ I’ve broken down each of the 10 crack commandments so you get the benefits of 
 
 ## 1\. Never let anyone know how much money you have.
 
-*Rule Number Uno, never let no one knowHow much dough you hold cause you knowThe cheddar breed jealousy 'specially If that man fucked up, get yo' ass stuck up*
+> *Rule Number Uno, never let no one know<br>How much dough you hold cause you know<br>The cheddar breed jealousy 'specially<br>If that man fucked up, get yo' ass stuck up*
 
-The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success. What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.&nbsp;
+The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success.
+
+What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.&nbsp;
+
+***\[Read: [The 5 reasons why people hate you](/why-you-have-haters-even-if-you-arent-an-asshole/)\]***
 
 The scarcity mentality makes a person believe that everything is a zero-sum game.&nbsp;
 
-Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their own abilities. Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. Beater to beat you outside the game than to try and beat you in competition.
+Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their abilities.
 
-it’s best to be secretive about your success until you are in a sufficient position to not be affected by their jealous attacks. The most dangerous enemies aren’t the ones who openly oppose you. The ones who do the most damage are those whose loving embrace conceals their raging envy.
+Whether they try to damage you physically, mentally, or emotionally, even you’ll “get yo’ ass stuck up” by a hater. They think it's better to beat you outside the game than to try and beat you in competition.
+
+It’s best to be secretive about your success until you are in a sufficient position to not be affected by their jealous attacks.
+
+The most dangerous enemies aren’t the ones who openly oppose you. The ones who do the most damage are those whose loving embrace conceals their raging envy.
 
 ## 2\. Never let anyone know what your next move will be
 
-*Number 2, never let 'em know your next moveDon't you know Bad Boys move in silence and violence?Take it from your highnessI done squeezed mad clips at these cats for their bricks and chips*
+> *Number 2, never let 'em know your next move<br>Don't you know Bad Boys move in silence and violence?<br>Take it from your highness<br>I done squeezed mad clips at these cats for their bricks and chips*
 
-The element of surprise will always be your greatest advantage. Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can advance your objective.&nbsp;
+The element of surprise will always be your greatest advantage.
 
-If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6. Also, take the initiative and tell as few people as necessary. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.&nbsp;
+Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can achieve your objective.&nbsp;
 
-Lastly, remember this.&nbsp;
+If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6 ***(Read: [How to avoid a street fight and what to do if you can't](/how-to-win-a-street-fight/))***. Also, tell as few people as necessary about your plans. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.&nbsp;
 
-Lightning doesn’t strike the same place twice. Many opportunities only present themselves once. Many vulnerabilities are open only once. The moment your plan to exploit it is revealed, then it will disappear. Now you must either create a new plan or give up on what you want.&nbsp;
+Lastly, remember this: Lightning doesn’t strike the same place twice.
 
-Real G’s move in silence like lasagna
+Many opportunities only present themselves once. Certain vulnerabilities will not be open again. The moment your plan to exploit it is revealed, then it will disappear.&nbsp;
 
-—Lil’ Wayne
+> Real G’s move in silence like lasagna
+>
+>
+> —Lil’ Wayne
 
 ## 3\. Trust no one
 
