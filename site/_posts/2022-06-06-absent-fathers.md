@@ -4,7 +4,7 @@ article_type: Article
 title: Problems growing up with an absent father(and how to fix them)
 permalink: /absent-fathers/
 tags:
-  - change-your-perspective
+  - living-in-the-hood
 description: >-
   The environment that breeds single mothers and fatherless homes tend to lack
   examples for boys to follow into becoming men. This article provides solutions
