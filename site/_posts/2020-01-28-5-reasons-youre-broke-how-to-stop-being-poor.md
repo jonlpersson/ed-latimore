@@ -4,8 +4,7 @@ article_type: Article
 title: '5 reasons you''re broke: How to stop being poor'
 permalink: /stop-being-poor/
 tags:
-  - mental-toughness
-  - change-your-perspective
+  - living-in-the-hood
 image: /assets/images/posts/beingbroke.jpg
 description: >-
   Why was I broke? I was poor because of the problems on this list. If you don't
