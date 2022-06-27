@@ -4,8 +4,7 @@ article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
 tags:
-  - mental-toughness
-  - change-your-perspective
+  - living-in-the-hood
 description: >-
   I once worked at a men’s homeless shelter. Here are five powerful lessons I
   learned from homeless people.
