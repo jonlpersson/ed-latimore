@@ -4,7 +4,7 @@ article_type: Article
 title: The 7 benefits of having a rough childhood
 permalink: /7-benefits-of-having-a-rough-childhood/
 tags:
-  - change-your-perspective
+  - living-in-the-hood
 description: >-
   This is for the kids growing up in broken homes, dangerous neighborhoods, and
   who are bullied at school. You have an advantage that can't be taught or beat.
@@ -22,7 +22,7 @@ From a young age, I saw a lot of violence, drug dealing, substance abuse, neglec
 
 But my home life was also a traumatic experience.
 
-Because of physical and emotional abuse, I never felt safe at home. In fact, when I got to high school (one across town, 20 minutes away by car and an hour away by bus, in a completely different socioeconomic class), I spent as little time at home as possible. I played 3 sports, always had a job, or went to my friend's house nearly everyday after school.
+Because of physical and emotional abuse, I never felt safe at home. In fact, when I got to high school (one across town, 20 minutes away by car and an hour away by bus, in a completely different socioeconomic class), I spent as little time at home as possible. I played 3 sports, always had a job, or went to my friend's house nearly every day after school.
 
 Before then, school wasn't a place I looked forward to going to either.
 
@@ -52,7 +52,7 @@ The same water that softens the potato hardens the egg. In a hellish environment
 
 I learned certain lessons in that environment that I couldn't learn anywhere else. If I had had a normal childhood, I don't think I would be the person I am today. In fact, I know I wouldn't.&nbsp;
 
-***\[What I'm describing are street-smarts. I wrote how to develop them in this article here—&gt;[8 ways to be more street smart](/how-to-be-street-smart/)\]***
+***\[What I'm describing are street smarts. I wrote how to develop them in this article here—&gt;[8 ways to be more street smart](/how-to-be-street-smart/)\]***
 
 I don't want to give you the idea that this environment is somehow the key to success.
 
@@ -92,7 +92,7 @@ Because a kid from this environment intimately knows pain, they're uniquely attu
 
 I hated the idea of teasing a kid because I knew what it was like to be teased and bullied. Kids would show up to my house? One time they threw my jacket in the toilet. I had to figure out how I would get home in the dead of winter with this jacket that was soaked in the toilet water.
 
-I hate the abuse of power. I knew how miserable the constant pain threat of violence for just being me was. That made me sensitive to the plight of other people. It's made me many friends and allies because I'm interested in seeing how I can help someone instead of manipulate, control, or intimidate them.
+I hate the abuse of power. I knew how miserable the constant pain and threat of violence for just being me was. That made me sensitive to the plight of other people. It's made me many friends and allies because I'm interested in seeing how I can help someone instead of manipulating, controlling, or intimidating them.
 
 ### You are resourceful
 
@@ -114,7 +114,7 @@ A great thing about coming from the bottom is that you aren't in the middle. At 
 
 They won't let themselves fall out of the lifestyle they grew up in, but they won't do anything dramatically different that might endanger their stability. Coming from the bottom means that you don't have this problem. There is no stability or comfort to maintain.
 
-Everything is possibility for improvement when you [aren't afraid to take risks.](/why-its-so-hard-to-change/)
+Everything can be improved when you [aren't afraid to take risks.](/why-its-so-hard-to-change/)
 
 ### You don't have anyone telling you how to live
 
@@ -122,11 +122,11 @@ You don't have any role models, for better or worse. Usually, this is for the wo
 
 You're free to choose what's important to you.
 
-Growing up, I could never understand some of my friends and their obsession with pleasing their family at the expense of our own personal happiness. Even now, with a lot more experience and perspective, I have a hard time buying into the idea of doing what my family would approve of because I never saw my family as people who's approval to strive for.&nbsp;
+Growing up, I could never understand some of my friends and their obsession with pleasing their family at the expense of our own personal happiness. Even now, with a lot more experience and perspective, I have a hard time buying into the idea of doing what my family would approve of because I never saw my family as people whose approval to strive for.&nbsp;
 
 I was never obligated to any one particular religion. [College wasn't an expectation for me.](/4-reasons-why-you-shouldnt-go-to-college/)
 
-With no expectations other than to not become a statistics, I got to sort out my life path on my own. And I'm not saying that this is ideal or that most people succeed growing up without guidance. I'm just saying that [it's a freedom that many people never get to embrace.](/personal-freedom/)
+With no expectations other than to not become a statistic, I got to sort out my life path on my own. And I'm not saying that this is ideal or that most people succeed growing up without guidance. I'm just saying that [it's a freedom that many people never get to embrace.](/personal-freedom/)
 
 This freedom is one of the things that saved me from majoring in something stupid in college because I didn't have a stable environment telling me to go to college immediately because "any degree is a good degree."&nbsp;
 
@@ -138,7 +138,7 @@ Gratitude is simply the appreciation of your current situation and possessions.
 
 This is easier to develop if you know what it's like to have nothing. Once you have something, you never forget that it could be taken away again. This gives you a great appreciation for the life you have.
 
-It's not that your life is good or bad. You just know, from experience and observation, that it could be a lot worse.
+It's not that your life is good or bad. From experience and observation, you just know that it could be a lot worse.
 
 It's a lot easier to appreciate what you have, the people around you, the little moments, and the good times when you realize how much you have without having much at all.
 
@@ -146,15 +146,15 @@ It's a lot easier to appreciate what you have, the people around you, the little
 
 ### You know that money doesn't buy happiness
 
-For better or worse, at-risk youth from a rough childhood know that money can't buy happiness. The best times you'll have are also going to be the time to your brokest.
+For better or worse, at-risk youth from a rough childhood know that money can't buy happiness. The best times you'll have are also going to be the time to your most broke.
 
-I remember growing up, we didn't have a lot. This is part of living in the projects. It's part of growing up a broken home in a tenuous environment. But I had a few good friends, books, and a played outside a lot.
+I remember growing up, we didn't have a lot. This is part of living in the projects. It's part of growing up in a broken home in a tenuous environment. But I had a few good friends and books, and a played outside a lot.
 
-My greatest source of happiness were people and my relationships with them. Buying things is a poor substitute for what actually makes you happy. It's hard to recognize this when you have nothing and you see people seemingly getting enjoyment from stuff, but eventually you'll realize that money—by itself—can't make you happy.
+My greatest source of happiness was people and my relationships with them. Buying things is a poor substitute for what actually makes you happy. It's hard to recognize this when you have nothing and you see people seemingly getting enjoyment from stuff, but eventually, you'll realize that money—by itself—can't make you happy.
 
 {% twitter https://twitter.com/EdLatimore/status/1490413618566946817 %}
 
-This realization means that your money has a far lesser chance of destroying you when you get it. A lot of people get money and try to buy happiness. They discover that it's a trap and there's no way to do, so they keep spending trying to fill a void.&nbsp;
+This realization means that your money has a far lesser chance of destroying you when you get it. A lot of people get money and try to buy happiness but later realize, often when it's too late, that this is a trap.
 
 Forming relationships with people is the best thing you can do to be happy. Rapper Jadakiss once said, "I'd rather be broke together rich alone." This is a guy from the hood who understands his principle better than anyone.&nbsp;
 
