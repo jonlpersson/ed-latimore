@@ -4,7 +4,7 @@ article_type: Article
 title: 7 ways to be more street smart
 permalink: /how-to-be-street-smart/
 tags:
-  - mental-toughness
+  - living-in-the-hood
 description: >-
   You don't have to be in the streets to be street smart, but you'll get taken
   advantage of if you aren't. Read this to learn how to be street smarter.
