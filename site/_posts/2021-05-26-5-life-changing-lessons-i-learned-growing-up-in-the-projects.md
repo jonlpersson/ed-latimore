@@ -4,7 +4,7 @@ article_type: Article
 title: 5 things I learned growing up in the projects
 permalink: /the-projects/
 tags:
-  - mental-toughness
+  - living-in-the-hood
 image: /assets/images/posts/housing-projects.jpg
 description: >-
   Growing up in the projects is rough. I managed to get out, but these lessons I
