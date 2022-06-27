@@ -4,7 +4,7 @@ article_type: Article
 title: No one gives a shit about you
 permalink:
 tags:
-  - mental-toughness
+  - living-in-the-hood
 image: /assets/images/posts/morpheus.jpeg
 description: >-
   You ask yourself, "Why nobody gives a damn about me?"  I have the answer. No
