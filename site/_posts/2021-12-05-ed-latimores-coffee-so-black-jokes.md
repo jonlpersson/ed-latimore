@@ -4,7 +4,7 @@ article_type: Article
 title: Ed Latimore's “coffee so black” jokes
 permalink: /black-coffee-jokes-puns/
 tags:
-  - learn-about-crackheads
+  - living-in-the-hood
 description: >-
   This collection of coffee jokes will leave you laughing and you might learn
   something new. Not for the politically correct or overly sensitive.
@@ -22,19 +22,19 @@ So I went and collected my "Coffee so black" jokes and put them on this page. Wh
 
 I'm not explaining most of the jokes, but a few do require a knowledge of history. For those jokes, I've followed up with some education. For cultural references, you're on your own. Maybe urban dictionary can help you out or something.
 
-Enjoy. Oh, and in case you're wondering: Yes, I am very Black myself.&nbsp;
+Enjoy. Oh, and in case you're wondering: Yes, I am very Black myself.
 
 ![Ed latimore having some coffee so black it drops his credit score](/assets/images/posts/2021/coffe-so-black.jpg "Me enjoying a cup of black coffee in Guimarães, Portugal. See, I'm as black as your favorite cup of joe. Don't try to cancel me. It won't work.")
 
 ## Ed Latimore's "Coffee so black jokes"
 
-**Coffee so black security follows you around the store while you drink it.&nbsp;**([Tweet it](https://twitter.com/EdLatimore/status/1150933870570856448){: target="_blank" rel="noopener noreferrer"})
+**Coffee so black security follows you around the store while you drink it.** ([Tweet it](https://twitter.com/EdLatimore/status/1150933870570856448){: target="_blank" rel="noopener noreferrer"})
 
 ---
 
 **Coffee so black Planned Parenthood wants to stop it from being made.** ([Tweet it](https://twitter.com/EdLatimore/status/1222881970281205760){: target="_blank" rel="noopener noreferrer"})
 
-**Explanation:** In 1916, Planned Parenthood opened its first birth control clinic in New York City. Since then, more than 600 Planned Parenthood clinics operate around the United States. The founder of Planned Parenthood was a nurse named [Margarat Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger){: target="_blank" rel="noopener noreferrer"} who also believed in the practice of eugenics; the practice or advocacy of improving the human species by selectively mating people with specific desirable hereditary traits.&nbsp;
+**Explanation:** In 1916, Planned Parenthood opened its first birth control clinic in New York City. Since then, more than 600 Planned Parenthood clinics operate around the United States. The founder of Planned Parenthood was a nurse named [Margarat Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger){: target="_blank" rel="noopener noreferrer"} who also believed in the practice of eugenics; the practice or advocacy of improving the human species by selectively mating people with specific desirable hereditary traits.
 
 The wording in that first paragraph is key. Planned Parenthood, despite the fact that many people today automatically think of abortion, did not start out this way. Not only was Planned Parenthood's origin goal to provide methods to prevent unwanted pregnancy, Sanger herself staunchly opposed to abortion if it wasn't necessary to save the woman's life.
 
@@ -52,7 +52,7 @@ Sanger wasn't a racist, but during her life failed to distance herself from [pro
 
 **Coffee so black if you pour cream in it you get lynched.** ([Tweet it](https://twitter.com/EdLatimore/status/1344106340860502016){: target="_blank" rel="noopener noreferrer"})
 
-**Explanation:&nbsp;**[Loving vs Virginia](https://en.wikipedia.org/wiki/Loving_v._Virginia){: target="_blank" rel="noopener noreferrer"}&nbsp;was a landmark 1967 Supreme court case which ruled that laws banning interractial marriage (anti-miscegenation) were in violation of the Equal Protection and Due Process clauses of the 14th amendment. Before that, it was still illegal in many states for Black and White people to get married.
+**Explanation:**[Loving vs Virginia](https://en.wikipedia.org/wiki/Loving_v._Virginia){: target="_blank" rel="noopener noreferrer"} was a landmark 1967 Supreme court case which ruled that laws banning interractial marriage (anti-miscegenation) were in violation of the Equal Protection and Due Process clauses of the 14th amendment. Before that, it was still illegal in many states for Black and White people to get married.
 
 This"coffee so black" joke takes on even more humor once you realize that when the Supreme Cout made their ruling on June 12, 1967, there were only 16 states that still had these laws banning interractial marriage—all of them in the southern United States. An area of the country where the majority of lynchings have occured.
 
@@ -90,7 +90,7 @@ So if you drink your coffee with cream and sugar, it's house coffee. If you take
 
 **Coffee so black only 3/5 of its calories count.** ([Tweet it](https://twitter.com/EdLatimore/status/1058330423955279873){: target="_blank" rel="noopener noreferrer"})
 
-**Explanation:**&nbsp;When the The U.S. constitution was drafted, slavery was still very much a part of the nation.&nbsp; One of the primary issues during its drafting was how to count the slave population. This was a relatively big deal, as it presented a fundamental clash of interests.
+**Explanation:** When the The U.S. constitution was drafted, slavery was still very much a part of the nation. One of the primary issues during its drafting was how to count the slave population. This was a relatively big deal, as it presented a fundamental clash of interests.
 
 On the one hand, slaves weren't considered citizens of the United States (later repealed by the 14th amendment) and slave owners didn't want them to be, as that would no longer make them—by definition—slaves. On the flip side, if they weren't considered citizens then how could they be counted towards a states population. This would affect their representation in the house and the electoral college.
 
@@ -120,7 +120,7 @@ This was eventually settled by the "[3/5ths compromise](https://www.thirteen.org
 
 **Coffee so black it fails the brown paper bag test.** ([Tweet it](https://twitter.com/EdLatimore/status/1237531138702241793){: target="_blank" rel="noopener noreferrer"})
 
-**Explanation:**&nbsp;From Wikipedia, the Brown paper bag test was:
+**Explanation:** From Wikipedia, the Brown paper bag test was:
 
 > The Brown Paper Bag Test is a term in African-American oral history to describe a colorist discriminatory practice within the African-American community in the 20th century, in which an individual's skin tone is compared to the color of a brown paper bag.
 
@@ -132,9 +132,9 @@ If your cup of coffee failed the brown paper bag test, it's surely black enough 
 
 ---
 
-**Coffee so black it's shipped to stores through the middle passage.&nbsp;**([Tweet it](https://twitter.com/EdLatimore/status/1483442099118911488){: target="_blank" rel="noopener noreferrer"})
+**Coffee so black it's shipped to stores through the middle passage.** ([Tweet it](https://twitter.com/EdLatimore/status/1483442099118911488){: target="_blank" rel="noopener noreferrer"})
 
-**Explanation:&nbsp;**From Wikipedia, The Middle Passage was:
+**Explanation:** From Wikipedia, The Middle Passage was:
 
 > The Middle Passage was the stage of the Atlantic slave trade in which millions of enslaved Africans\[1\] were forcibly transported to the Americas as part of the triangular slave trade. Ships departed Europe for African markets with manufactured goods (first side of the triangle), which were traded for slaves, as rulers of African states were willing to capture and sell members of other tribes.
 
@@ -156,11 +156,11 @@ If your cup of coffee failed the brown paper bag test, it's surely black enough 
 
 **Coffee so black that the CIA sold it to fund a war against communists.** ([Tweet it](https://twitter.com/EdLatimore/status/1483598658444660741){: target="_blank" rel="noopener noreferrer"})
 
-Explanation: The material behind this joke is stuff of legend and is one of the many reasons why people don't trust the government.&nbsp; So in 1996, a series of article weres published in the San Jose-Mercury, authored by Gary Webb, revealed a connection between CIA officials in Central America, a San Francisco drug ring, and a [Ricky Donell "Freeway Rick" Ross.](https://en.wikipedia.org/wiki/%22Freeway%22_Rick_Ross){: target="_blank" rel="noopener noreferrer"}
+Explanation: The material behind this joke is stuff of legend and is one of the many reasons why people don't trust the government. So in 1996, a series of article weres published in the San Jose-Mercury, authored by Gary Webb, revealed a connection between CIA officials in Central America, a San Francisco drug ring, and a [Ricky Donell "Freeway Rick" Ross.](https://en.wikipedia.org/wiki/%22Freeway%22_Rick_Ross){: target="_blank" rel="noopener noreferrer"}
 
 ![Freeway Rick Ross and Ed latimore](/assets/images/posts/ed-with-rick-ross.jpg "Me with Freeway Rick in 2012")
 
-The gist of the connection is that the CIA funneled cocaine into country, sold it, and used the money to fund it's operations against it's war against the Nicaraguan leftist government. To be fair, the flooding of cocaine into the ghetto just happened to coincide with street level dealers figuring out a way to convert cocaine to crack, a cheaper way to use the drug.&nbsp;
+The gist of the connection is that the CIA funneled cocaine into country, sold it, and used the money to fund it's operations against it's war against the Nicaraguan leftist government. To be fair, the flooding of cocaine into the ghetto just happened to coincide with street level dealers figuring out a way to convert cocaine to crack, a cheaper way to use the drug.
 
 With that said, there are some alarming parts of the story the point to the CIA at least knowing that the source of their funds were from cocaine sells, specifically from the increased demand as a result of ghetto finally being able to access this market. There were no crackheads before the 1980s. It was only after inner-city drug dealers figured out how to turn powdered cocaine into hard crack the crack epidemic began.
 
