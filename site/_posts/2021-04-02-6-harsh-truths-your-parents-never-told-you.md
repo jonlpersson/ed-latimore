@@ -4,7 +4,7 @@ article_type: Article
 title: 6 harsh truths your parents never told you
 permalink: /harsh-truths/
 tags:
-  - mental-toughness
+  - living-in-the-hood
 description: >-
   Here are 6 harsh truths that your parents should have told you about to
   prepare you for the world. Embrace these and you'll free your mind.
