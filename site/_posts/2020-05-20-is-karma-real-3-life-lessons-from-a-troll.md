@@ -4,7 +4,7 @@ article_type: Article
 title: Is karma real? 3 life lessons from a troll
 permalink: /is-karma-real/
 tags:
-  - change-your-perspective
+  - living-in-the-hood
 image: /assets/images/thumbnails/ugly-internet-troll-vector-14784097.jpeg
 description: >-
   You never know who's paying attention on social media. An internet troll
