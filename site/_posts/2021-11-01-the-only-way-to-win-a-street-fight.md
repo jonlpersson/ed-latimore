@@ -4,8 +4,7 @@ article_type: Article
 title: How to avoid a street fight, and what to do if you can't
 permalink: /how-to-win-a-street-fight/
 tags:
-    - boxing-lessons
-    - how-to-control-your-emotions
+    - living-in-the-hood
 description: >-
     The following article may one day save your life. Learn how to avoid a
     street fight and how to win one if you can't get away.
@@ -21,20 +20,18 @@ That’s enough reason to never street fight, but sometimes you’ve got no choi
 
 {% include widgets/youtube.html id="2curdyXqq9g" class="Don't like to read? Watch the video version of this article instead" %}
 
-{% include widgets/toc.html heading="How to win a street fight" list-items="Self-defense is pointless, Avoid places where assholes hang out, Don't be an asshole, Deep your ego in check and be practica, Be and look strong, Run if you can, If you have to street fight swing first and neutralize" list-ids="self-defense-is-pointless, avoid-places-where-assholes-hang-out, dont-be-an-asshole, keep-you-ego-in-check-and-be-practical, be-and-look-strong, run-if-you-can, if-you-have-to-street-fight-swing-first-and-neutralize" %}
-
 ## Self-defense is pointless
 
-So you want to learn self-defense? Are you worried that you can't fight and someone will embarrass you?
+So you want to learn self-defense? Are you worried that you can't fight and that someone will embarrass you?
 
 Let me tell you the truth of the matter: if you live in the United States, there's a good chance that someone has a gun. If it's anywhere else where guns aren't so easy to acquire, then they might have a knife. No amount of training makes you bullet or knife-proof.
 
 * Take boxing classes for fun.
-* Take Brazilian juijitsu (BJJ).
+* Take Brazilian jiujitsu (BJJ).
 * Learn kickboxing for fun.
 * Learn Krav Maga for fun.
 
-Don't bring that shit to the street though. The days of "having hands" are over. When I was younger, people took pride in settling differences over a "fair one", but those are days are long gone.
+Don't bring that shit to the street though. The days of "having hands" are over. When I was younger, people took pride in settling differences over a "fair one", but those days are long gone.
 
 The rest of this article will show you how to use common sense and an even temper. If those things fail, then we'll get to how to escape a street fight with your life. Live to fight another day, one way or the other.
 
@@ -48,7 +45,7 @@ The usual places come to mind. Clubs, bars, the hood, the block—pretty much an
 
 An ounce of prevention is worth a pound of cure
 
-***\[Developing your street smarts will you how to avoid a bad environment filled with worse people. Read my quick guided on developing your street smarts [here](/how-to-be-street-smart/).\]***
+***\[Developing your street smarts will you how to avoid a bad environment filled with worse people. Read my quick guide on developing your street smarts [here](/how-to-be-street-smart/).\]***
 
 ## Don't be an asshole
 
@@ -86,7 +83,7 @@ This isn't about your ability to move weight or your actual ability to defend yo
 
 If you are confronted, speak strongly as well. Notice I said strongly, not condescendingly. Please learn the difference in tone. It's the difference between dudes thinking twice and them escalating because you pissed them off
 
-The goal is to clear up genuine misunderstanding, leave guys an out (that hopefully, your stature compels them to take), and let predators know that you aren't a soft target.
+The goal is to clear up a genuine misunderstanding, leave guys an out (that hopefully, your stature compels them to take), and let predators know that you aren't a soft target.
 
 ## Run if you can
 
@@ -94,9 +91,9 @@ Running is the only footwork you should be worked about in a street altercation.
 
 I don't care how much self-defense training you've had or how easily you think you'd take this guy. If you aren't with people you need to defend, run. You might \*literally\* be living to fight another day. No one cares if you looked like a coward and if they do, fuck 'em.
 
-The best fight is one that you avoid entirely, by any means necessary. In real-life, people have concealed weapons, hidden friends, and there are consequences.
+The best fight is one that you avoid entirely, by any means necessary. In real-life, people have concealed weapons and hidden friends and there are consequences.
 
-You don't want to worry about the cost of a legal defense that you might lose if you can't prove it was self-defense with justifiable force. With that said…
+You don't want to worry about the cost of legal defense that you might lose if you can't prove it was self-defense with justifiable force. With that said…
 
 ## If you have to street fight, swing first and neutralize
 
@@ -104,7 +101,7 @@ Assess the situation and figure out if fighting is your only option. If it is, d
 
 I know more than a few people who got 2-4 years inside on aggravated assault charges over fights they didn't start, all because they let it go on longer than it needed to after they got the best of them.
 
-Neutralize the risk to you and your loved ones in the most dispassionate way possible. You want it to look like you were protecting yourself; not being a vigilante or getting revenge. The unfortunate thing is that street fights often turn into legal issues, either because of the fight or because someone died.
+Neutralize the risk to you and your loved ones in the most dispassionate way possible. You want it to look like you were protecting yourself; not being a vigilante or getting revenge. Unfortunately, street fights often turn into legal issues, either because of the fight or because someone died.
 
 You do your best to prevent the latter, but you have to do what you have to do. Ultimately, it's better to be judged by 12 than carried by 6–but avoid both by being smart and cautious.
 
