@@ -4,7 +4,7 @@ article_type: Article
 title: Business and life lessons The Notorious B.I.G. 10 crack commandments
 permalink: /ten-crack-commandments-business-and-life-lessons/
 tags:
-  - change-your-perspective
+  - living-in-the-hood
 description: >-
   The Ten Crackcommandments is an education in human nature's real, raw,
   viciousness. The level of street smarts required to survive in an environment
