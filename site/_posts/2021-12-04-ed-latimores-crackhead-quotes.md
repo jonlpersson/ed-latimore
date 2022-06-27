@@ -5,7 +5,7 @@ title: 29 top crackhead quotes
 permalink: /crackhead-head-quotes/
 tags:
   - quotes-and-summaries
-  - learn-about-crackheads
+  - living-in-the-hood
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
@@ -45,9 +45,7 @@ Crackheads hustle 4 days straight to get a rock. No sleep and no food. You ever 
 
 A crackhead is always stuck between a rock and a hard place. ([Tweet it](https://twitter.com/EdLatimore/status/1452405040514224129){: target="_blank" rel="noopener noreferrer"})
 
----
-
-Two types of people: Those who crack under pressure and those who smoke crack under pressure. ([Tweet it](https://twitter.com/EdLatimore/status/1488222837517299713){: target="_blank" rel="noopener noreferrer"})
+&nbsp;
 
 ---
 
