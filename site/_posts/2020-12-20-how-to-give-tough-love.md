@@ -4,7 +4,7 @@ article_type: Article
 title: How to give tough love
 permalink: /tough-love/
 tags:
-  - how-to-make-friends
+  - living-in-the-hood
 description: >-
   Giving tough love can be terrifying. But if you truly care about someone, you
   must be prepared to help them face the uncomfortable facts
