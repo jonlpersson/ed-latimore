@@ -4,8 +4,7 @@ article_type: Article
 title: 'Lessons from the ghetto: willingness to fight'
 permalink:
 tags:
-  - boxing-lessons
-  - change-your-perspective
+  - living-in-the-hood
 image: /assets/images/posts/projects.jpg
 description: >-
   Fighting in the hood is always about more than just fighting. The following is
