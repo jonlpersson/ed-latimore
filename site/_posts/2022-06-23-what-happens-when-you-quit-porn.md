@@ -163,9 +163,7 @@ So here’s what to expect when you decide to quit porn:
 
 ### References
 
-[^1]: May, Daniel Psychological Addiction Is the New American Business Model. _Antidote_
-
-Oct 18, 2019  [https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r](https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r)
+[^1]: May, Daniel Psychological Addiction Is the New American Business Model. _Antidote_ Oct 18, 2019  [https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r](https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r)
 
 [^2]: NIDA. "Evidence-Based Approaches to Drug Addiction Treatment." _National Institute on Drug _Abuse, 3 Jun. 2020 [https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment](https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment)  Accessed 14 Jun. 2022.
 
