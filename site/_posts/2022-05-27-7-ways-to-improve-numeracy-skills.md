@@ -4,7 +4,7 @@ article_type: Article
 title: 7 ways to improve numeracy skills
 permalink: /numeracy-skills/
 tags:
-  - learning-skills
+  - math-concepts
 description: >-
   The numeracy skills of people are falling behind. This is bigger than just
   being good at math. Numbers are essential to life. Learn how to improve your
