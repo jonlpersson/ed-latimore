@@ -4,7 +4,7 @@ article_type: Article
 title: How to get better at math in 7 simple steps
 permalink: /how-to-get-better-at-math/
 tags:
-  - learning-skills
+  - math-concepts
 image: /assets/images/posts/teachingmath.jpg
 description: >-
   How did I go from being a poor math student in high school to getting a degree
