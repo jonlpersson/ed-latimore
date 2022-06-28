@@ -62,10 +62,16 @@ page_blocks:
 
       One of the first things I learned was “No One Gives A Shit About You”.
       That article makes some people sad that I developed that outlook on life,
-      but I believe this embracing this truth is an advantage. What I learned is
-      that all love is transactional—even the love you get from your mother,
-      which should be unconditional, often has conditions put on it. Especially
-      if your mother is dysfunctional.
+      but I believe this embracing this truth is an advantage.
+
+
+      What I learned is that all love is transactional—even the love you get
+      from your mother, which should be unconditional, often has conditions put
+      on it. Especially if your mother is dysfunctional.
+
+
+      ***Read: [No one gives a shit about
+      you](/no-one-gives-a-shit-about-you/)***
 
 
       ### Life’s not fair
@@ -83,6 +89,9 @@ page_blocks:
       that idea that you can read here—&gt;Life’s not fair
 
 
+      ***Read: [Life's not fair](/life-isnt-fair/)***
+
+
       ### How to be street smart
 
 
@@ -98,7 +107,7 @@ page_blocks:
       your intuition.
 
 
-      Read 7 ways to be street smart
+      ***Read: [7 ways to be street smart](/how-to-be-street-smart/)***
 
 
       ### How to give tough love
@@ -117,7 +126,7 @@ page_blocks:
       environment like the hood, and still getting results
 
 
-      Read How to give tough love.
+      Read: How to give tough love
 
 
       ### The 7 benefits of having a rough childhood
