@@ -4,7 +4,7 @@ article_type: Article
 title: The easy 4 step problem-solving process (+ examples)
 permalink: /problem-solving-process/
 tags:
-  - learning-skills
+  - math-concepts
 description: >-
   This is the 4 step problem-solving process that I taught to my students for
   math problems, but it works for academic and social problems as well.
@@ -17,7 +17,7 @@ Every problem may be different, but effective problem solving asks the same four
 3. **What do you already know?** You already know something related to the problem that will help you solve the problem. It's not always obvious (especially in the real world), but you know (or can research) something that will help.
 4. **What's the relationship between the two?** Here is where the heavy brainstorming happens. This is where your skills and abilities come into play. The previous steps set you up to find many potential solutions to your problem, regardless of its type.
 
-When I used to tutor kids in [math and physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), I would drill this problem solving process into their heads. This methodology works for any problem, regardless of its complexity or difficulty. In fact, if you look at the various advances in society, you'll see they all follow some variation of this problem solving technique.
+When I used to tutor kids in [math and physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), I would drill this problem-solving process into their heads. This methodology works for any problem, regardless of its complexity or difficulty. In fact, if you look at the various advances in society, you'll see they all follow some variation of this problem-solving technique.
 
 > “The gap between understanding and misunderstanding can best be bridged by thought\!”
 >
@@ -28,11 +28,9 @@ Generally speaking, if you can't solve the problem then your issue is step 3 or 
 
 Good problem solvers always believe step 3 is the issue. In this case, it's a simple matter of learning more. Less skilled problem solvers believe step 4 is the root cause of their difficulties. In this instance, they simply believe they have limited problem-solving skills.
 
-This is fixed versus growth mindset and it makes a huge difference in the effort you put forth and belief you have in yourself to make use of this step by step process. These two mindsets make a big difference in your learning because, at its core, learning is problem solving.
+This is a fixed versus growth mindset and it makes a huge difference in the effort you put forth and the belief you have in yourself to make use of this step-by-step process. These two mindsets make a big difference in your learning because, at its core, learning is problem-solving.
 
 Let's dig deeper into the 4 steps. In this way, you can better see how to apply them to your learning journey.
-
-{% include widgets/toc.html heading="The 4 Step Problem-Solving Process" list-items="Step 1: What's the problem?, Step 2: What do you need to know?, Step 3: What do you already know?, Step 4: What's the relationship between the two?" list-ids="step-1-whats-the-problem, step-2-what-do-you-need-to-know, step-3-what-do-you-already-know, step-4-whats-the-relationship-between-the-two" %}
 
 ## Step 1: What's the problem?
 
@@ -48,13 +46,13 @@ The process starts after you've identified the exact nature of the problem.
 
 Homeowners love a well-kept lawn but hate mowing the grass.
 
-Many companies and inventors raced to figure out a more time-efficient way to mow the lawn. Some even tried to design robots that would do the mowing. They all were chasing the solution, but only one inventor took time to understand the root cause of the problem.
+Many companies and inventors raced to figure out a more time-efficient way to mow the lawn. Some even tried to design robots that would do the mowing. They all were chasing the solution, but only one inventor took the time to understand the root cause of the problem.
 
 Most people figured that the problem was the labor required to maintain a lawn. The actual problem was just the opposite: maintaining a lawn was labor-intensive. The rearrangement seems trivial, but it reveals the true desire: a well-maintained lawn.
 
 [The best solution? Remove maintenance from the equation. A lawn made of artificial grass solved the problem](https://cvtslandscape.com/artificial-turf/){: target="_blank" rel="noopener noreferrer"}. Hence, an application of Astroturf was discovered.
 
-This way, the law always looked its best. Taking a few moments to apply critical thinking identified the true nature of the problem yielded a powerful solution.
+This way, the law always looked its best. Taking a few moments to apply critical thinking identified the true nature of the problem and yielded a powerful solution.
 
 ### An example of choosing the right problem to work the problem-solving process on
 
@@ -76,7 +74,7 @@ The first is a simple problem. The second is a complex problem. The end goal in 
 
 The questions require the same knowledge (trigonometric functions), but the second is more difficult for students. Why? The second problem does not make it clear what the exact problem is. Before mathematics can even begin, you must know the problem, or else you risk solving the wrong one.
 
-If you understand what the problem is, then finding the solution is much easier. Understanding this, ironically, is the biggest problem for people.
+If you understand the problem, finding the solution is much easier. Understanding this, ironically, is the biggest problem for people.
 
 ### Problem-solving is a universal language
 
@@ -102,7 +100,7 @@ Either you'll solve what you thought was the problem, only to find out this wasn
 
 If you solve a different problem than the correct one, you'll get a solution that you can't use. The only thing that wastes more time than an unsolved problem is solving the wrong one.
 
-Imagine that your car won't start. You replace the alternator, the starter, and the ignition switch. The car still doesn't start. You've explored all the main solutions, so you now you consider some different solutions.
+Imagine that your car won't start. You replace the alternator, the starter, and the ignition switch. The car still doesn't start. You've explored all the main solutions, so now you consider some different solutions.
 
 Now you replace the engine, but you still can't get it to start. Your replacements and repairs solved other problems, but not the main one: the car won't start.
 
@@ -118,7 +116,7 @@ When you land, you can tell everyone your name and ask for the location of the b
 
 The book "The Amateur Mind" by IM Jeremy Silman improved my chess by teaching me how to analyze the board.
 
-It's only with a proper analysis of imbalances that you can make the best move. Though you may not always choose the correct line of play, [the book teaches you how to recognize what you need to know](https://beginchess.com/2005/03/16/the-silman-thinking-technique/){: target="_blank" rel="noopener noreferrer"}. It teaches you how to identify the problem—before you create an action plan so solve it.
+It's only with a proper analysis of imbalances that you can make the best move. Though you may not always choose the correct line of play, [the book teaches you how to recognize what you need to know](https://beginchess.com/2005/03/16/the-silman-thinking-technique/){: target="_blank" rel="noopener noreferrer"}. It teaches you how to identify the problem—before you create an action plan to solve it.
 
 ![Chess book to help learn problem solving](/assets/images/posts/2021/amateurmindchess-3.jpg "Chess book to help learn problem solving")
 
@@ -126,7 +124,7 @@ The problem-solving method always starts with identifying the problem or asking 
 
 ## Step 3: What do you already know?
 
-The only way to know if you lack knowledge is by gaining some in the first place. All advances and solutions arise from the accumulation and implementation of prior information. You must first consider what it is that you already know in the context of the problem of at hand.
+The only way to know if you lack knowledge is by gaining some in the first place. All advances and solutions arise from the accumulation and implementation of prior information. You must first consider what it is that you already know in the context of the problem at hand.
 
 Isaac Newton once said, "If I have seen further, it is by standing on the shoulders of giants." This is Newton’s way of explaining that his advancements in physics and mathematics would be impossible if it were not for previous discoveries.
 
@@ -141,13 +139,13 @@ This simple algebra problem relies on you knowing a few things already. You must
 
 Once you know those things, this becomes easy to solve. This is also how we learn languages.
 
-### An example of the problem solving process with foreign language
+### An example of the problem-solving process with a foreign language
 
 Anyone interested in serious foreign language study (as opposed to a "crash course" or "survival course") should learn the infinitive form of verbs in their target language. You can't make progress without them because they're the root of all conjugations. It's only once you have a grasp of the infinitives that you can completely express yourself. Consider the problem-solving steps applied in the following example.
 
 I know that I want to say "I don't eat eggs" to my Mexican waiter. **That's the problem.**
 
-I don't know how to say that, but last night I told my date "No bebo alcohol" ("I don't drink alcohol"). I also know the infinitive for "eat" in Spanish (comer). **This is what I already know.**
+I don't know how to say that, but last night I told my date *"No bebo alcohol"* ("I don't drink alcohol"). I also know the infinitive for "eat" in Spanish (comer). **This is what I already know.**
 
 Now I can execute the final step of problem-solving.
 
@@ -155,7 +153,7 @@ Now I can execute the final step of problem-solving.
 
 I see the connection. I can use all of my problem-solving strategies and methods to solve my particular problem.
 
-I know the infinitive for the Spanish word "drink" is "beber". Last night, I changed it to "bebo" to express a similar idea. I should be able to do the same thing to the word for "eat".
+I know the infinitive for the Spanish word "drink" is *"beber"*. Last night, I changed it to *"bebo"* to express a similar idea. I should be able to do the same thing to the word for "eat".
 
 *"No como huevos" is a pretty accurate guess.*
 
