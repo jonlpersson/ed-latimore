@@ -126,7 +126,7 @@ page_blocks:
       environment like the hood, and still getting results
 
 
-      Read: How to give tough love
+      ***Read: [How to give tough love](/tough-love/)***
 
 
       ### The 7 benefits of having a rough childhood
@@ -138,7 +138,8 @@ page_blocks:
       advantages that a lot of people raised in stable homes will never get.
 
 
-      Read The 7 benefits of having a rough childhood
+      ***Read:&nbsp;[The 7 benefits of having a rough
+      childhood](/7-benefits-of-having-a-rough-childhood/)***
 
 
       ## Living in the hood gives you a bad relationship with money
@@ -153,7 +154,8 @@ page_blocks:
       of the things I never learned about money because I grew up poor.
 
 
-      Read 5 reasons you’re broke: How to stop being poor
+      ***Read: [5 reasons you’re broke: How to stop being
+      poor](/stop-being-poor/)***
 
 
       ### 5 lessons from working at a homeless shelter
