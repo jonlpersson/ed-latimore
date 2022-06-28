@@ -4,7 +4,7 @@ article_type: Article
 title: 12 reasons why math is important (and how to get better)
 permalink: /why-is-math-important/
 tags:
-  - learning-skills
+  - math-concepts
 description: >-
   If one of these reasons to learn math motivates you to be a better student or
   makes your job as a teacher easier, then this list has done its job,
