@@ -4,7 +4,7 @@ article_type: Article
 title: 8 unexpected reasons why math is so hard
 permalink: /why-is-math-so-hard/
 tags:
-  - learning-skills
+  - math-concepts
 description: >-
   Math can be difficult, but it doesn't have to be. Part of making it easier is
   to understand why it's challenging in the first place. This post explains it
