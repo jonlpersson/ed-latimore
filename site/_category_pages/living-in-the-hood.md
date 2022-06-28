@@ -70,7 +70,7 @@ page_blocks:
       on it. Especially if your mother is dysfunctional.
 
 
-      ***Read: [No one gives a shit about
+      ***Read&nbsp;[No one gives a shit about
       you](/no-one-gives-a-shit-about-you/)***
 
 
@@ -126,7 +126,7 @@ page_blocks:
       environment like the hood, and still getting results
 
 
-      ***Read: [How to give tough love](/tough-love/)***
+      ***Read&nbsp;[How to give tough love](/tough-love/)***
 
 
       ### The 7 benefits of having a rough childhood
@@ -172,7 +172,7 @@ page_blocks:
       and also how quickly it could get that way.
 
 
-      ***Read: [5 lessons from working at a homeless
+      ***Read&nbsp;[5 lessons from working at a homeless
       shelter](/working-at-a-homeless-shelter/)***
 
 
@@ -188,7 +188,7 @@ page_blocks:
       jokes to cope with this craziness.
 
 
-      ***Read: [9 lessons from living by crackheads & crack
+      ***Read&nbsp;[9 lessons from living by crackheads & crack
       dealers](/crackhead/)***
 
 
@@ -204,7 +204,7 @@ page_blocks:
       it without ever having to smoke crack.
 
 
-      ***Read:&nbsp;[How to hustle like a
+      ***Read&nbsp;[How to hustle like a
       crackhead](/how-to-hustle-like-a-crackhead/)***
 
 
@@ -216,7 +216,7 @@ page_blocks:
       interesting gems in there.
 
 
-      ***Read: [29 crackhead quotes](/crackhead-head-quotes/)***
+      ***Read&nbsp;[29 crackhead quotes](/crackhead-head-quotes/)***
 
 
       ### Business and life lessons The Notorious B.I.G. 10 crack commandments
@@ -232,7 +232,7 @@ page_blocks:
       non-drug-related business ventures for success.
 
 
-      ***Read: [Business and life lessons The Notorious B.I.G. 10 crack
+      ***Read&nbsp;[Business and life lessons The Notorious B.I.G. 10 crack
       commandments](/ten-crack-commandments-business-and-life-lessons/)***
 
 
@@ -242,8 +242,8 @@ page_blocks:
       ### Problems growing up with an absent father(and how to fix them)
 
 
-      Fatherless households have arguably been the greatest scurge of
-      low-income, inner city, African American communities. I was raised by a
+      Fatherless households have arguably been the greatest scourge of
+      low-income, inner-city, African American communities. I was raised by a
       single mom, so I know all the ways this damages and sets boys back.
 
 
@@ -253,7 +253,8 @@ page_blocks:
       mother and son to implement.
 
 
-      Read Problems growing up with an absent father (and how to fix them)
+      ***Read&nbsp;[Problems growing up with an absent father (and how to fix
+      them)](/absent-fathers/)***
 
 
       ### 6 harsh truths your parents never told you
@@ -266,12 +267,13 @@ page_blocks:
 
 
       This is obviously not the case for everyone. There are some harsh truths
-      about the world that you parents didn’t tell you that are essential to
-      know. However, I suppose I wsan’t much better off because not knowing and
-      never being told result in the same outcome.
+      about the world that your parents didn’t tell you that are essential to
+      know. However, I suppose I wasn't much better off because not knowing and
+      never being told resulted in the same outcome.
 
 
-      Read 6 harsh truths your parents never told you
+      ***Read&nbsp;[6 harsh truths your parents never told
+      you](/harsh-truths/)***
 
 
       ### How to forgive your parents
@@ -293,7 +295,7 @@ page_blocks:
       Read How to forgive your parents
 
 
-      ## Living in the hood will give you hard earned life wisdom
+      ## Living in the hood will give you hard-earned life wisdom
 
 
       ### Is karma real? 3 life lessons from a troll
@@ -309,20 +311,20 @@ page_blocks:
       Maybe that’s why the spiritual idea of karma is so easy for me to accept.
       In this article, I write about a rather interesting experience I had that
       demonstrated how this principle applies, even in the massive digital
-      world. This is a must read if you want to know how to make sure that you
+      world. This is a must-read if you want to know how to make sure that you
       keep your karma right.
 
 
-      Read **Is karma real? 3 life lessons from a troll**
+      ***Read [Is karma real? 3 life lessons from a troll](/is-karma-real/)***
 
 
       ### 5 things I learned growing up in the projects
 
 
-      This is the article that overlays the five biggest things I’ve learned
-      from growing up in the projects. The projects are a place where you
+      This is the article that discusses the five biggest things I’ve learned
+      from growing up in the projects. The projects are a place where you are
       schooled in the hard lessons of human nature. It’s where I developed
-      street smarts and manners, toughness and fearlessness, but also humility
+      street smarts and manners, toughness, and fearlessness, but also humility
       and respect.
 
 
@@ -331,7 +333,7 @@ page_blocks:
       to have the same experience.
 
 
-      Read 5 things I learned growing up in the projects
+      ***Read [5 things I learned growing up in the projects](/the-projects/)***
 
 
       ### How to avoid a street fight, and what to do if you can’t
@@ -347,7 +349,8 @@ page_blocks:
       yourself backed into an alley where you have to defend your life.
 
 
-      Read How to avoid a street fight, and what to do if you can’t
+      ***Read [How to avoid a street fight, and what to do if you
+      can’t](/how-to-win-a-street-fight/)***
 
 
       ### Lessons from the ghetto: Willingness to fight
@@ -371,7 +374,8 @@ page_blocks:
       can just take advantage of you.
 
 
-      Read Lessons from the ghetto: willingness to fight
+      ***Read [Lessons from the ghetto: willingness to
+      fight](/lessons-from-the-ghetto-willingness-to-fight/)***
 
 
       &nbsp;
