@@ -172,7 +172,8 @@ page_blocks:
       and also how quickly it could get that way.
 
 
-      Read 5 lessons from working at a homeless shelter
+      ***Read: [5 lessons from working at a homeless
+      shelter](/working-at-a-homeless-shelter/)***
 
 
       ## Living in the hood gets you used to dealing with crackheads
@@ -181,13 +182,14 @@ page_blocks:
       ### 9 lessons from living by crackheads & crack dealers
 
 
-      In this article, I talk about my real experiences interacting with
-      crackheads and drug dealers from a very young age. My sense of humor has a
-      lot of crack references, and I’m sure one of the main reasons is that I
-      used jokes to cope with this craziness.
+      In this article, I talk about my experiences interacting with crackheads
+      and drug dealers from a very young age. My sense of humor has a lot of
+      crack references, and I’m sure one of the main reasons is that I used
+      jokes to cope with this craziness.
 
 
-      Read 9 lessons from living by crackheads & crack dealers
+      ***Read: [9 lessons from living by crackheads & crack
+      dealers](/crackhead/)***
 
 
       ### How to hustle like a crackhead
@@ -202,7 +204,8 @@ page_blocks:
       it without ever having to smoke crack.
 
 
-      Read How to hustle like a crackhead
+      ***Read:&nbsp;[How to hustle like a
+      crackhead](/how-to-hustle-like-a-crackhead/)***
 
 
       ### 29 crackhead quotes
@@ -213,7 +216,7 @@ page_blocks:
       interesting gems in there.
 
 
-      Read 29 crackhead quotes
+      ***Read: [29 crackhead quotes](/crackhead-head-quotes/)***
 
 
       ### Business and life lessons The Notorious B.I.G. 10 crack commandments
@@ -229,7 +232,8 @@ page_blocks:
       non-drug-related business ventures for success.
 
 
-      Read Business and life lessons The Notorious B.I.G. 10 crack commandments
+      ***Read: [Business and life lessons The Notorious B.I.G. 10 crack
+      commandments](/ten-crack-commandments-business-and-life-lessons/)***
 
 
       ## Living in the hood teaches you the value of having good parents
