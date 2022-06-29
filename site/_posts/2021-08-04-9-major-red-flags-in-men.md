@@ -4,7 +4,7 @@ article_type: Article
 title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
 tags:
-  - dating-and-relationships
+  - self-improvement-for-men
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
   has any one of these, you better end it immediately.
