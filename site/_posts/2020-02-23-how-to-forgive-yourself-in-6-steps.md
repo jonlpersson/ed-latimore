@@ -4,7 +4,6 @@ article_type: Article
 title: How to forgive yourself in 6 steps
 permalink: /how-to-forgive-yourself-6-steps-to-let-the-past-go/
 tags:
-  - how-to-control-your-emotions
   - the-power-of-forgiveness
 image: /assets/images/posts/Forgiveness Post.jpg
 description: >-
