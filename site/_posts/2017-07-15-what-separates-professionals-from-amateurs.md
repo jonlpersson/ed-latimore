@@ -4,7 +4,7 @@ article_type: Article
 title: What separates professionals from amateurs
 permalink:
 tags:
-  - change-your-perspective
+  - boxing-lessons
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-
   Do you want to the best or just have a hobby? If you want to learn how to be a
