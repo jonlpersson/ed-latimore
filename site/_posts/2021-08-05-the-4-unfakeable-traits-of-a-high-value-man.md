@@ -4,7 +4,7 @@ article_type: Article
 title: The 4 unfakeable traits of a high value man
 permalink: /high-value-man/
 tags:
-  - dating-and-relationships
+  - self-improvement-for-men
 description: >
   A high-value man has hit a standard in these 4 areas. Otherwise, he’s not
   high-value. This article tells you the 4 unfakeable traits of a high-value
