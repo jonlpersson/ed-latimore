@@ -33,6 +33,10 @@ You can think of a Twitter thread as a type of mini-blogging. Twitter users can 
 
 The phrase “tweet thread” or “Twitter thread” is also used to describe a tweet or quote tweet with several replies beneath it. It should be noted that Twitter threads are not the same thing as tweetstorms.
 
+![](/assets/images/drafts/screen-shot-2022-06-30-at-4-38-09-pm.png){: width="876" height="1650"}
+
+*The tweets underneath my initial tweet have also been referred to as a thread. While engagement beneath your tweet is ideal, it's not what you'll be learning in this article.&nbsp;*
+
 ## The difference between tweetstorms and Twitter threads
 
 Tweetstorms are rapidly fired tweets that are not connected.
