@@ -8,7 +8,7 @@ tags:
 description: >-
   This is a post teaching the basics of how to create Twitter threads. Many
   people don't know how, so I wrote this article.
-image:
+image: /assets/images/drafts/twitter-thread-bird.jpeg
 ---
 After I published my last thread on Twitter, someone asked me “How do you make those tweets string together like that?”
 
