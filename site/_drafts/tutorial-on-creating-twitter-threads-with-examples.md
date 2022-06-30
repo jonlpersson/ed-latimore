@@ -28,11 +28,13 @@ The phrase “tweet thread” or “Twitter thread” is also used to describe a
 
 ## The difference between tweetstorms and Twitter threads
 
-Tweetstorms are rapidly fired tweets that are not connected. They may be meant to read without interruption, but they aren’t structured that way. Although each new tweet in the tweetstorm may be connected to the previous tweet, they are not actually connected.
+Tweetstorms are rapidly fired tweets that are not connected.
+
+They may be meant to read without interruption, but they aren’t structured that way. Although each new tweet in the tweetstorm may be connected to the previous tweet, they are not actually connected.
 
 Twitter threads, on the other hand, are connected. The content needs to be more clearly related, otherwise the thread doesn’t make much sense. Any single tweet can be made into a Twitter thread by adding additional tweets to it.
 
-Another notable difference between tweetstorms and Twitter threads is that (as of the publishing of this article), Tweetdeck (and many apps to schedule tweets) do not allow you to schedule Twitter threads. Tweetstorms, however, are easy to schedule because they’re separate tweets.
+Another notable difference between tweetstorms and Twitter threads is that (as of the publishing of this article) Tweetdeck (and many apps to schedule tweets) do not allow you to schedule Twitter threads. Tweetstorms, however, are easy to schedule because they’re separate tweets.
 
 ## Why write Twitter Threads?
 
