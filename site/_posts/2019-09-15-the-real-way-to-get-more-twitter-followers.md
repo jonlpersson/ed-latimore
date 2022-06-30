@@ -4,7 +4,7 @@ article_type: Article
 title: 7 proven ways to get more Twitter followers
 permalink: /how-to-get-more-twitter-followers/
 tags:
-  - how-to-build-an-audience
+  - twitter-tips
 image: /assets/images/posts/Howtogetmorefollowersontwitter.jpg
 description: >-
   I've learned a lot about the Twitter algorithm by study, trial, and error. Now
