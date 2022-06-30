@@ -23,8 +23,6 @@ Being a winner doesn’t make you a competitor but being a competitor will event
 
 Don’t worry if you aren’t winning as much as you’d like. Learn from this list, and I guarantee you will win more and win bigger in your life.
 
-{% include widgets/toc.html heading="How to be WAY more competitive" list-items="Know the game never ends, Always give 110%, Compare yourself only to yourself, Get in touch with your dark side, Differentiate yourself, Learn how to lose, Never make excuses, Give credit when credit is due" list-ids="1-know-the-game-never-ends, 2-always-give-110, 3-compare-yourself-only-to-yourself, 4-get-in-touch-with-your-dark-side, 5-differentiate-yourself, 6-learn-how-to-lose, 7-never-make-excuses, 8-give-credit-when-credit-is-due" %}
-
 ## 1) Know the game never ends
 
 Competitive people are simultaneously in a state of gratitude for how far they’ve come, and in one of dissatisfaction for how far they have to go.
