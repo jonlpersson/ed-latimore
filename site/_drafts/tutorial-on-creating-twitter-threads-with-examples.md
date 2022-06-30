@@ -42,6 +42,8 @@ I used to be the biggest opponent of Twitter Threads. I looked at the stats and 
 
 However, Twitter decided that it wants to make a push toward encouraging longer-form content, so the algorithm appears to have been tweaked to measure something similar to the dwell time metric on each post.
 
+*[Moves made by Twitter to acquire the newsletter platform "Revue"](https://techcrunch.com/2021/01/26/twitter-acquires-revue/){: target="_blank" rel="noopener noreferrer"} and [their own developments into long-form content](https://techcrunch.com/2022/06/22/twitter-officially-rolls-out-its-long-form-content-notes-feature/){: target="_blank" rel="noopener noreferrer"}point the way towards favoring content that makes people read more and spend more time on the platform.*
+
 ![Information about Twitter favoring long form content](/assets/images/drafts/twitter-long-form-threads.jpg "Information about Twitter favoring long form content"){: width="960" height="540"}
 
 Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your tweet. This engagement time goes up even more when you add images and gifs.
