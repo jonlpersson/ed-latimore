@@ -1,7 +1,7 @@
 ---
 date: 2022-06-30 15:25:57 -0400
 article_type: Article
-title: 'How to create Twitter Threads: Easy tutorial with examples'
+title: Easy tutorial for creating Twitter Threads (with examples)
 permalink: /how-to-make-twitter-threads/
 tags:
   - twitter-tips
