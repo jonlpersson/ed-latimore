@@ -41,11 +41,15 @@ The phrase “tweet thread” or “Twitter thread” is also used to describe a
 
 Tweetstorms are rapidly fired tweets that are not connected.
 
-They may be meant to read without interruption, but they aren’t structured that way. Although each new tweet in the tweetstorm may be connected to the previous tweet, they are not actually connected.
+They may be meant to read without interruption, but they aren’t structured that way. Although each new tweet in the tweetstorm may be related to the previous tweet, they are not actually connected.
 
-Twitter threads, on the other hand, are connected. The content needs to be more clearly related, otherwise the thread doesn’t make much sense. Any single tweet can be made into a Twitter thread by adding additional tweets to it.
+Twitter threads, on the other hand, are connected.
 
-Another notable difference between tweetstorms and Twitter threads is that (as of the publishing of this article) Tweetdeck (and many apps to schedule tweets) do not allow you to schedule Twitter threads. Tweetstorms, however, are easy to schedule because they’re separate tweets.
+The content needs to be more clearly related, otherwise the thread doesn’t make much sense. Any single tweet can be made into a Twitter thread by adding additional tweets to it.
+
+Another notable difference between tweetstorms and Twitter threads is that (as of the publishing of this article) Tweetdeck (and many apps to schedule tweets) do not allow you to schedule Twitter threads.
+
+Tweetstorms, however, are easy to schedule because they’re separate tweets.
 
 ## Why write Twitter Threads?
 
@@ -61,17 +65,29 @@ Each tweet only takes a few moments to read. Every time you add another tweet to
 
 And if you think about how Twitter makes money, this makes perfect sense.
 
-Like any other social media platform, they make their money by either selling advertising space or collecting and selling data. The longer you stay on the platform, the more likely it is that you’ll click on an advertisement or they get more information about you that they can sell.
+Like any other social media platform, they make their money by either selling advertising space or collecting and selling data. The longer you stay on the platform, the more likely you’ll click on an advertisement or Twitter will get more information about you that they can sell.
 
-So, since their goal is to make money and you enable them to do so if you spend more time on the platform, it’s most reasonable to suspect that they will reward activity that makes people spend more time on the platform. Twitter threads do this much better than individual tweets.
+So, since their goal is to make money and you enable them to do so if you spend more time on the platform, it’s most reasonable to suspect that they will reward activity that makes people spend more time on the platform.
+
+Twitter threads do this much better than individual tweets.
 
 ## How to create a Twitter Thread
 
-There are two ways to create a new thread: Adding tweets to an already published tweet and using the threads feature before you publish. This section of the article covers both.
+There are two ways to create a new thread:
+
+Add tweets to an already published tweet and use the threads feature before publishing. This section of the article covers both.
 
 ### Adding Tweets
 
 The easiest way to create a Twitter thread is to publish a tweet, then reply as you would to a tweet written by someone else. After the second tweet is posted, reply to it with a third tweet and continue this pattern until your thread is finished.
+
+*1\. Click on the comment icon for any previously published tweet*
+
+![Twitter thread without threader 1](/assets/images/drafts/example-of-tweet-without-threader.png "Twitter thread without threader 1"){: width="828" height="688"}
+
+*2\. This will open up a box that you can comment in*
+
+*![Twitter thread without threader 2](/assets/images/drafts/example-of-twitter-thread-2-without-threader.png "Twitter thread without threader 2"){: width="786" height="522"}*
 
 While easy to use, one big problem with this method is that other Twitter users can reply to your tweets as each is published, before your entire thread is finished. You can imagine how this might cause problems for any number of reasons.
 
