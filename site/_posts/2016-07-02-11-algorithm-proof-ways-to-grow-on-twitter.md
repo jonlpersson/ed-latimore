@@ -4,7 +4,7 @@ article_type: Article
 title: 11 algorithm proof ways to grow on Twitter
 permalink: /how-to-grow-your-twitter-following/
 tags:
-  - how-to-build-an-audience
+  - twitter-tips
 image: /assets/images/posts/Twitter.jpeg
 description: >-
   I've got over 100k Twitter followers. I follow less than 1k people back. I
