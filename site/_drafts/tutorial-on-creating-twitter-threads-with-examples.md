@@ -5,7 +5,9 @@ title: 'How to create Twitter Threads: Easy tutorial with examples'
 permalink: /how-to-make-twitter-threads/
 tags:
   - twitter-tips
-description:
+description: >-
+  This is a post teaching the basics of how to create Twitter threads. Many
+  people don't know how, so I wrote this article.
 image:
 ---
 After I published my last thread on Twitter, someone asked me “How do you make those tweets string together like that?”
@@ -106,8 +108,8 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 5. Now type what you want to add to the tweet. Continue until the end of the tweet thread.<br>![Complete thread example](/assets/images/drafts/screen-shot-2022-06-30-at-5-29-54-pm.png "Complete thread example"){: width="616" height="714"}<br><br>***Hint: Just because it’s a thread doesn’t mean that you need to make each new tweet be totally dependent on the last. Your thread will get much more engagement and retweets and each part of the thread can stand alone as its own tweet.***
 6. Go over it, check for typos, then hit the **Tweet all**. Your Twitter thread will now publish.
 
-Now you know how to join in the fun for creating Twitter threads.
+Now you know how to join in the fun of creating Twitter threads.
 
-&nbsp;
+***If you want to learn how to create viral Twitter threads, then definitely check out my [90-minute webinar here](https://edwardlatimore.gumroad.com/l/laixwi){: target="_blank" rel="noopener noreferrer"}. I break down my thought process and methods for creating threads that get me 9k followers per month\!***
 
 &nbsp;
