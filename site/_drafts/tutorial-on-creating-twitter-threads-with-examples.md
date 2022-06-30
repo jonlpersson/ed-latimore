@@ -10,7 +10,7 @@ image:
 ---
 After I published my last thread on Twitter, someone asked me “How do you make those tweets string together like that?”
 
-Some people would have ridiculed him for asking what many Twitter app users consider basic knowledge, but I don’t believe in dumb questions. I broke down for him how to create Twitter Threads, complete with screenshots.
+Some people would have ridiculed him for asking what many Twitter users consider basic knowledge, but I don’t believe in dumb questions. I broke down for him how to create Twitter Threads, complete with screenshots.
 
 If you’ve seen those series of tweets on the timeline and want to know how to take advantage of one of the coolest social media features, this article is for you. This is a very simple, step-by-step text on how to create a tweet thread.
 
@@ -18,7 +18,11 @@ Let’s dive in.
 
 ## What is a Twitter Thread?
 
-Threads are tweets that are connected to one another and meant to be read as one continuous post. You can think of a Twitter thread as a type of mini-blogging. Twitter users can use Twitter threads to do a deep dive on an idea, do a list, compose a collection, or elaborate on something that couldn’t possibly be covered in 280 character limit of a single tweet.
+Threads are tweets that are connected to one another and meant to be read as one continuous post.
+
+You can think of a Twitter thread as a type of mini-blogging. Twitter users can use Twitter threads to:
+
+Do a deep dive on an idea, do a list, compose a collection, or elaborate on something that couldn’t possibly be covered in 280 character limit of a single tweet.
 
 The phrase “tweet thread” or “Twitter thread” is also used to describe a tweet or quote tweet with several replies beneath it. It should be noted that Twitter threads are not the same thing as tweetstorms.
 
