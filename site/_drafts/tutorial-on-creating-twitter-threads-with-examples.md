@@ -100,10 +100,10 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 ### Twitter threads feature
 
 1. Open the Twitter website (if you’re a computer) or the Twitter app (doesn’t matter if you’re on android or iOS; it all looks and works the same).
-2. On desktop, click the “Tweet” button. On the Twitter app, pretty the blue “+” button.
-3. Write your usual Tweet.
-4. Select the blue “+” button in the lower right hand of the tweet. You’ll get a new tweet box.
-5. Now type what you want to add to the tweet. Continue until the end of the tweet thread.<br><br>***Hint: Just because it’s a thread doesn’t mean that you need to make each new tweet be totally dependent on the last. Your thread will get much more engagement and retweets and each part of the thread can stand alone as its own tweet.***
+2. On the desktop, click the “Tweet” button. On the Twitter app, press the blue “+” button.
+3. Write your usual Tweet.<br>![Twitter Thread First](/assets/images/drafts/screen-shot-2022-06-30-at-5-30-27-pm.png "Twitter Thread First"){: width="722" height="616"}
+4. Select the blue “+” button in the lower right hand of the tweet. You’ll get a new tweet box.<br>![Twitter Thread Second](/assets/images/drafts/screen-shot-2022-06-30-at-5-32-04-pm.png "Twitter Thread Second"){: width="752" height="618"}<br>&nbsp;
+5. Now type what you want to add to the tweet. Continue until the end of the tweet thread.<br>![Complete thread example](/assets/images/drafts/screen-shot-2022-06-30-at-5-29-54-pm.png "Complete thread example"){: width="616" height="714"}<br><br>***Hint: Just because it’s a thread doesn’t mean that you need to make each new tweet be totally dependent on the last. Your thread will get much more engagement and retweets and each part of the thread can stand alone as its own tweet.***
 6. Go over it, check for typos, then hit the **Tweet all**. Your Twitter thread will now publish.
 
 Now you know how to join in the fun for creating Twitter threads.
