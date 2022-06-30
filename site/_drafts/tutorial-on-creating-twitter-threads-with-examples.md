@@ -46,9 +46,11 @@ However, Twitter decided that it wants to make a push toward encouraging longer-
 
 ![Information about Twitter favoring long form content](/assets/images/drafts/twitter-long-form-threads.jpg "Information about Twitter favoring long form content"){: width="960" height="540"}
 
-Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your tweet. This engagement time goes up even more when you add images and gifs.
+Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your twitter account. This engagement time goes up even more when you add images and gifs.
 
-And if you think about how a social media platform makes money, this makes perfect sense. Platforms make their money by either selling advertising space or collecting and selling data. The longer you stay on the platform, the more likely it is that you’ll take a click on an advertisement or they get more information on you that they can sell.
+And if you think about how Twitter makes money, this makes perfect sense.
+
+Like any other social media platform, they make their money by either selling advertising space or collecting and selling data. The longer you stay on the platform, the more likely it is that you’ll click on an advertisement or they get more information about you that they can sell.
 
 So, since their goal is to make money and you enable them to do so if you spend more time on the platform, it’s most reasonable to suspect that they will reward activity that makes people spend more time on the platform. Twitter threads do this much better than individual tweets.
 
@@ -62,7 +64,9 @@ The easiest way to create a Twitter thread is to publish a tweet, then reply as 
 
 While easy to use, one big problem with this method is that other Twitter users can reply to your tweets as each is published, before your entire thread is finished. You can imagine how this might cause problems for any number of reasons.
 
-This is just one reason why I don’t recommend publishing Twitter threads this way. The other reason is that a good thread requires a little preparation. You don’t have to write a full-blown essay, but a good thread has a bit of structure to it. Good structure is a lot harder to create when your writing is a product of spontaneity.
+This is just one reason why I don’t recommend publishing Twitter threads this way.
+
+The other reason is that a good thread requires a little preparation. You don’t have to write a full-blown essay, but a good thread has some structure. Good structure is a lot harder to create when your writing is a product of spontaneity.
 
 That’s why I recommend using Twitter’s built-in thread feature, which lets you compose an entire Twitter thread first before you publish it.
 
