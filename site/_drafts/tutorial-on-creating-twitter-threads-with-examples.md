@@ -38,7 +38,11 @@ Another notable difference between tweetstorms and Twitter threads is that (as o
 
 ## Why write Twitter Threads?
 
-I used to be the biggest opponent of Twitter Threads. I looked at the stats and saw that engagement on a thread just kept decreasing as you went further down. However, Twitter decided that it wants to make a push towards encouraging longer-form content, so the algorithm appears to have been tweaked to measure something similar to the dwell time metric on each post.
+I used to be the biggest opponent of Twitter Threads. I looked at the stats and saw that engagement on a thread just kept decreasing as you went further down.
+
+However, Twitter decided that it wants to make a push toward encouraging longer-form content, so the algorithm appears to have been tweaked to measure something similar to the dwell time metric on each post.
+
+![Information about Twitter favoring long form content](/assets/images/drafts/twitter-long-form-threads.jpg "Information about Twitter favoring long form content"){: width="960" height="540"}
 
 Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your tweet. This engagement time goes up even more when you add images and gifs.
 
