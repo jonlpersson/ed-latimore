@@ -4,7 +4,7 @@ article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
 tags:
-  - how-to-build-an-audience
+  - twitter-tips
 description: >-
   The Best Way to Tweet It merges Ed Latimore’s Twitter income generation
   strategies and Joshua Lisec’s persuasive writing system.
