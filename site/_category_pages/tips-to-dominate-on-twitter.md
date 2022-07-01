@@ -1,6 +1,6 @@
 ---
 tag: twitter-tips
-title: Tips to dominate on Twitter
+title: Twitter tips
 description:
 hero:
   label:
