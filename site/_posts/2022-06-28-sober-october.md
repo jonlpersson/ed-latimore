@@ -145,7 +145,7 @@ The rest is up to you.
 
 ---
 
-## References
+### References
 
 [^1]: Ritchie, Hannah. Roser, Max. _Our World in Data_. Drug Use. December 2019. [https://ourworldindata.org/drug-use](https://ourworldindata.org/drug-use). (Accessed May 22, 2022)
 
