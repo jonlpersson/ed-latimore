@@ -1,5 +1,5 @@
 ---
-date: 2022-06-28 10:00:00 -0400
+date: 2022-06-28 10:00:01 -0400
 article_type: Article
 title: How Sober October can change your life
 permalink: /sober-october/
