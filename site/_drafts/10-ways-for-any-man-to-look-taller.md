@@ -86,6 +86,8 @@ Depending on the style of the hat, you can gain 1 to 2 inches in appearance of h
 
 I personally love a good Panama hat or a Driver's Cap. You can't go wrong as a man with either of those two.
 
+![](/assets/images/drafts/ed-drivers-cap.jpeg){: width="300" height="400"}
+
 * [Collection of Panama Hats](https://amzn.to/3Riu1do){: target="_blank" rel="noopener"}
 * [Collection of Driver's Caps](https://amzn.to/3NFw4VG){: target="_blank" rel="noopener"}
 
