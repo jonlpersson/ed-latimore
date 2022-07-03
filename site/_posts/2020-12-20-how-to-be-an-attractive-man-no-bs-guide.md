@@ -94,9 +94,15 @@ Only shave your head if you’re black or if you’re balding. If you are baldin
 
 ### Clean-shaven, light stubble, heavy stubble, or full beard?
 
-Facial hair is a signifier of age and social dominance. It can age you up or down, make you look more dominant or less dominant.
+Facial hair is a signifier of age and social dominance. It can age you up or down and make you look more dominant or less dominant.
 
 In my personal experience, full beards are polarizing. Some women like them, some don’t. Research published in the Journal of Evolutionary Biology suggests that [full beards are most attractive to women looking for long-term relationships](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12958). With that said, not everyone can pull off a full beard.
+
+If you have trouble getting hair bumps but still want a clean-shaven look, then an electric razor is your best bet. I’m a black guy who gets hair bumps BAD, so when I enlisted in the ARMY and was forced to shave daily with a regular disposable or cartridge razor, my face quickly got bad.
+
+<div class="cms-embed" data-cms-embed="PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vZ3Avc2VhcmNoP2llPVVURjgmdGFnPWh0dHBlZHdhcmRjMDctMjAmbGlua0NvZGU9dXIyJmxpbmtJZD1mMzZhODhiOGZiZjVmMmY2NTVkYWNjMTU2MzgyNzJjZSZjYW1wPTE3ODkmY3JlYXRpdmU9OTMyNSZpbmRleD1iZWF1dHkma2V5d29yZHM9ZWxlY3RyaWMgcmF6b3IiPmVsZWN0cmljIHJhem9yPC9hPg=="><a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&amp;tag=httpedwardc07-20&amp;linkCode=ur2&amp;linkId=f36a88b8fbf5f2f655dacc15638272ce&amp;camp=1789&amp;creative=9325&amp;index=beauty&amp;keywords=electric razor">electric razor</a></div>
+
+This is when I discovered that an electric razor does an excellent job of getting a shave close enough to pass inspection without being so close that I got hair bumps. As an added bonus, you can adjust how close you want to shave if you want to rock the five o’clock shadow look. Bread trimmers also work excellently. My suggestions here all come from being a black dude who gets hair bumps, which means they will for everyone else.
 
 If you do grow a beard, make sure that it’s well-maintained. A messy beard will make you look like you’re homeless. **Most guys will look best with a well-maintained stubble or completely clean-shaven.**
 
@@ -291,7 +297,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\]({{ '0671027034'</td><td>amazon }}). It’s a must-read if you want to improve your social skills. |
+| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\]({{ '0671027034'&lt;/td&gt;&lt;td&gt;amazon }}). It’s a must-read if you want to improve your social skills. |
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 
