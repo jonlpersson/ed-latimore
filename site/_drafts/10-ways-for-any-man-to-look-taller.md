@@ -82,7 +82,7 @@ Hats are excellent for making you appear taller.
 
 They extend the top of your head, and people looking at you wearing the hat will assume that you’re as tall as the hat makes you appear.
 
-Depending on the style of the hat, you can gain 1 to 2 inches in appearance of height immediately. This is also a stylish way to look taller and it gives you an opportunity to immediately express yourself creatively as well.
+Depending on the style of the hat, you can gain 1 to 2 inches in appearance of height immediately. This is also a stylish way to look taller and allows you to immediately express yourself creatively as well.
 
 I personally love a good Panama hat or a Driver's Cap. You can't go wrong as a man with either of those two.
 
@@ -98,11 +98,17 @@ Wearing a belt does two things that actively work against making your look talle
 1. They create a horizontal line. Horizontal lines are bad because they make you look wider, which simultaneously makes you look short.
 2. Belts visually divide the body and they draw attention to the lower half of you when that division occurs. This is a subtle trick of the eye that people don’t think about, but it’s the same reason why wearing a hat works. It draws your attention up and slightly exaggerates it. Belts do the same thing but pull your eyesight down.
 
+Obviously, there will be situations where this isn't feasible. If you must wear a belt and you're trying to look taller, get one that is the same color as your pants.
+
 ## Keep the waist button of your jacket above the navel
 
-Choose jackets and blazers with a high waist button. This is another example of a feature that draws the eye higher up on the body. This has the effect of making the legs appear longer because the legs seem to visually start higher.
+Choose jackets and blazers with a high waist button.
+
+This is another example of a feature that draws the eye higher up on the body. This has the effect of making the legs appear longer because the legs seem to visually start higher.
 
 In this same regard, a shorter jacket has the same effect. Longer jackets and coats take the focus down and create the appearance of shorter legs. The appearance of shorter legs creates the appearance of less height. If you wear a shorter jacket, it makes you look taller by making your legs look longer.
+
+![Ed in blazer](/assets/images/drafts/button-waist.jpeg "Ed in blazer"){: width="250" height="313"}
 
 ## Wear high-waisted pants
 
