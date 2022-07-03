@@ -118,6 +118,8 @@ High-waisted jeans make it appear as if you have longer legs by making it appear
 
 Making your bottom half look even longer makes you look younger and healthier as well, as longer legs are typically a feature of youth. Combine this with good posture, and you have a powerful hack for looking much taller than you really are.
 
+![Latimore wearing high waisted pants](/assets/images/drafts/latimore-high-waist.png "Latimore wearing high waisted pants"){: width="400" height="657"}
+
 ## Dress in a monochromatic color scheme
 
 If you only wear one color, your eye doesn’t have to factor in any breaks. This will do a great job of making sure that we don’t create any horizontal lines when the color changes. For example, even if you follow all of the instructions above, if your shirt and pants are two different colors, you will automatically create a horizontal line at the transition point because of the different colors.
