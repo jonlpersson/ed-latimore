@@ -172,7 +172,7 @@ Your sleeves should end at the middle of your biceps, and you should be able to 
 The goal of a man’s shirt is to show off the work he’s put in. I find that a good-fitting V-neck or high-quality polo will do a great job in the summer.
 
 * [Good fitting, easily affordable v-neck shirts](https://www.amazon.com/s?k=v+neck+shirt&amp;i=fashion&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;linkId=fb318d7a3fa8c08d3327287cb957c136&amp;tag=httpedwardc07-20){: target="_blank" rel="noopener"}
-* &nbsp;
+* [Turtlenecks that stretch and form to your body for good winter fashion](https://www.amazon.com/s?k=turtle+neck+sweaters+men&amp;i=fashion&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;linkId=27cc3c9fa83501126dbc70b264ce22bc&amp;tag=httpedwardc07-20){: target="_blank" rel="noopener"}
 
 In the winter, go for anything that fits and shapes your body.
 
