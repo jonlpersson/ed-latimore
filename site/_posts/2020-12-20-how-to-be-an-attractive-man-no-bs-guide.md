@@ -41,7 +41,7 @@ There are four major factors that contribute to male attractiveness (or lack the
 
 ### 1\. Physical appearance
 
-Women care about looks, but not as much as men do. Get physically fit (achievable within 6 months unless you’re severely obese or extremely skinny), choose a basic but clean haircut, maintain a short stubble, get a basic skin care routine, avoid body odor, and [wear cologne](https://pubmed.ncbi.nlm.nih.gov/19134127/).
+Women care about looks, but not as much as men do. Get physically fit (achievable within 6 months unless you’re severely obese or extremely skinny), choose a basic but clean haircut, maintain a short stubble, get a basic skincare routine, avoid body odor, and [wear cologne](https://pubmed.ncbi.nlm.nih.gov/19134127/).
 
 ### 2\. Style
 
@@ -49,7 +49,7 @@ Your fashion style is very important, because it affects your perceived body sha
 
 ### 3\. Personality
 
-Women find charismatic, somewhat extraverted, self-confident men attractive. Be assertive, have a sense of humor, and don’t be shy. More about this later. Cultivate hobbies that make you a more interesting, well-rounded person.
+Women find charismatic, somewhat extroverted, self-confident men attractive. Be assertive, have a sense of humor, and don’t be shy. More about this later. Cultivate hobbies that make you a more interesting, well-rounded person.
 
 ### 4\. Social status
 
@@ -57,9 +57,7 @@ Most women aren’t gold diggers, but women do care about social status and weal
 
 These are the birds-eye view recommendations for each major pillar. I will go into far more detail—and make concrete, actionable recommendations that will get you noticeable results in 3-6 months.
 
----
-
-{% include widgets/toc.html heading="How to make yourself more attractive" list-items="Get physically fit, Dress better, Get hobbies, Become social, Get your money right, Become likeable" list-ids="get-your-physical-appearance-right, how-to-dress-to-attract-women-mens-style-basics, hobbies-to-meet-women, how-to-talk-to-women, do-women-care-about-money, personality-traits-that-make-a-man-more-attractive" %}
+&nbsp;
 
 ---
 
@@ -293,7 +291,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\](\{\{ '0671027034'  | amazon \}\}). It’s a must-read if you want to improve your social skills. |
+| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\]({{ '0671027034'</td><td>amazon }}). It’s a must-read if you want to improve your social skills. |
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 
