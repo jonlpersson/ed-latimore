@@ -76,6 +76,8 @@ Baggy clothing also is generally viewed as low-status. If you want to take full 
 
 This means that it‘s well-fitting, clean, and void of logos. Those things won‘t make you look taller, per se. But because we associate good things in clusters, and being tall is good, dressing well goes a long way in creating the illusion of height. Or, at the very least, it draws attention away from how short you are.
 
+![Well-fitting clothing on Ed Latimore](/assets/images/drafts/image-for-fitted-clothing.jpeg "Well-fitting clothing on Ed Latimore"){: width="300" height="450"}
+
 ## Wear a hat
 
 Hats are excellent for making you appear taller.
@@ -98,7 +100,7 @@ Wearing a belt does two things that actively work against making your look talle
 1. They create a horizontal line. Horizontal lines are bad because they make you look wider, which simultaneously makes you look short.
 2. Belts visually divide the body and they draw attention to the lower half of you when that division occurs. This is a subtle trick of the eye that people don’t think about, but it’s the same reason why wearing a hat works. It draws your attention up and slightly exaggerates it. Belts do the same thing but pull your eyesight down.
 
-Obviously, there will be situations where this isn't feasible. If you must wear a belt and you're trying to look taller, get one that is the same color as your pants.
+Obviously, there will be situations where this isn't feasible. If you must wear a belt and try to look taller, get one the same color as your pants.
 
 ## Keep the waist button of your jacket above the navel
 
