@@ -78,9 +78,16 @@ This means that it‘s well-fitting, clean, and void of logos. Those things won�
 
 ## Wear a hat
 
-Hats are excellent for making you appear taller. They extend the top of your head, and people looking at you wearing the hat will assume that you’re as tall as the hat makes you appear.
+Hats are excellent for making you appear taller.
+
+They extend the top of your head, and people looking at you wearing the hat will assume that you’re as tall as the hat makes you appear.
 
 Depending on the style of the hat, you can gain 1 to 2 inches in appearance of height immediately. This is also a stylish way to look taller and it gives you an opportunity to immediately express yourself creatively as well.
+
+I personally love a good Panama hat or a Driver's Cap. You can't go wrong as a man with either of those two.
+
+* [Collection of Panama Hats](https://amzn.to/3Riu1do){: target="_blank" rel="noopener"}
+* [Collection of Driver's Caps](https://amzn.to/3NFw4VG){: target="_blank" rel="noopener"}
 
 ## Don’t wear belts
 
