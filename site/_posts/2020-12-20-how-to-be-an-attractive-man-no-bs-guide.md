@@ -80,7 +80,7 @@ As a man, your physical appearance is judged in three different categories:
 
 There’s not much you can do about your height or the way your face looks (apart from keeping it clean), so I won’t go into much detail about what facial features women like. It might be useful for you to know that [girls prefer guys whose facial features are neither too feminine nor too masculine](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12958).
 
-For the other factors: grooming and fitness, there’s plenty you can do to increase your attractiveness with women.
+For the other factors: grooming and fitness, there’s plenty you can do to increase your attractiveness to women.
 
 ### Haircut advice
 
@@ -88,7 +88,7 @@ Grooming is simple for guys. Unlike most women, you don’t have to spend an hou
 
 There’s no universal “optimal hairstyle” for men. The haircut that’s right for you is going to depend on the shape of your face, as well as what your personal style is.
 
-The principles are universal, however: your haircut should look clean. 99% of guys are best off going for a basic style. Think: undercut, crewcut, classic taper, or a quiff. Make sure you learn [how to talk to your hairdresser](https://www.artofmanliness.com/articles/get-the-perfect-haircut-how-to-talk-to-your-barber/). He or she can help you determine what style would best suit your face.
+The principles are universal, however: your haircut should look clean. 99% of guys are best off going for a basic style. Think undercut, crewcut, classic taper, or a quiff. Make sure you learn [how to talk to your hairdresser](https://www.artofmanliness.com/articles/get-the-perfect-haircut-how-to-talk-to-your-barber/). He or she can help you determine what style would best suit your face.
 
 Only shave your head if you’re black or if you’re balding. If you are balding and have money, consider a hair transplant. I got one and it gave me a huge self-confidence boost. If you’re interested in learning more about the hair transplant process and my experience with it, read my article about [getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/).
 
@@ -102,7 +102,7 @@ If you do grow a beard, make sure that it’s well-maintained. A messy beard wil
 
 ### Physical fitness and the ideal male body type
 
-There’s a lot of lies and misinformation about what the ideal male body looks like. I’m sure you remember the “dad bod” craze of 2015. Women frequently tell their male partners that they don’t care about muscles.
+There are a lot of lies and misinformation about what the ideal male body looks like. I’m sure you remember the “dad bod” craze of 2015. Women frequently tell their male partners that they don’t care about muscles.
 
 They’re lying.
 
@@ -173,7 +173,7 @@ Unless you’re 6’8” or above, you should pick outfits that make you look ta
 
 {% include widgets/youtube.html id="BqoC9S09zLo" %}
 
-If you’re on the taller side (i.e. 6’8” or above), you might want to make yourself look a little shorter by doing the opposite of what Brock recommends in the video: wear pants and shirts that contrast each other strongly, or wear bigger patterns.
+If you’re on the taller side (i.e. 6’8” or above), you might want to make yourself look a little shorter by doing the opposite of what Brock recommends in the video: wear pants and shirts that contrast each other strongly or wear bigger patterns.
 
 ### What clothes to wear
 
@@ -199,13 +199,13 @@ Aside from the fit, always pay attention to these things:
 
 * Unless you’re 13, don’t wear novelty/graphic tees outside the gym
 * Don’t wear wrinkly clothes
-* Make sure your clothes don’t smell bad—body odour kills attraction
+* Make sure your clothes don’t smell bad—body odor kills attraction
 
 ## Hobbies to meet women
 
 You don’t need to go to bars or clubs to meet women. In fact, for those of you who are looking for serious girlfriends, those are the last places you should look.
 
-Hobbies are a great way to meet women. Not only that, every man *needs* a skill or hobby. It gives you confidence, and makes you more interesting to be around.
+Hobbies are a great way to meet women. Not only that, every man *needs* a skill or hobby. It gives you confidence and makes you more interesting to be around.
 
 Skills and hobbies show that you’re passionate about something, that you’re active, and that you have status and intelligence. These are all important factors that make you more attractive to women.
 
@@ -235,9 +235,9 @@ There’s no shortage of hobbies that increase your attractiveness and set you u
 * Join a band
 * Politics (become a candidate/leader)
 
-My personal hobbies/passions are: boxing (I used to be a professional fighter), chess, languages, and travel.
+My personal hobbies/passions are boxing (I used to be a professional fighter), chess, languages, and travel.
 
-When you try out new hobbies, you want to think about what categories they belong to. Make sure to cultivate several, varied hobbies. By cultivating a wide range of interests, you not only lead a more varied life: you also make yourself more interesting and perhaps even a little mysterious. **In the world of romance, 1+1=3.**
+When you try out new hobbies, you want to think about what categories they belong to. Make sure to cultivate several, varied hobbies. By cultivating a wide range of interests, you not only lead a more varied life but you also make yourself more interesting and perhaps even a little mysterious. **In the world of romance, 1+1=3.**
 
 ![Simplified chart of hobbies to meet women](/assets/images/posts/2020/attractive-hobbies.jpg)
 
