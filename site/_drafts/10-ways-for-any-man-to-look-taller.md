@@ -39,10 +39,10 @@ Here are some great recommendations for men’s footwear to make you look taller
 
 Losing body fat makes you look taller for two reasons:
 
-1. Weight reduction spine becomes decompressed. Depending on how overweight you are, this decompression could result in up to an inch of height gained.
+1. Weight reduction decompresses the spine. Depending on how overweight you are, this decompression could result in up to an inch of height gained.
 2. It is easier to have a proper posture when you’re slimmer and it helps one to appear taller after weight loss.
 
-A research study published by Israeli neurosurgeon Zvi Lidar and colleagues demonstrates how effective this approach can be in looking taller. The researchers noted that "disc height restoration after weight reduction was significant."
+[A research study published by Israeli neurosurgeon Zvi Lidar](https://pubmed.ncbi.nlm.nih.gov/22648024/){: target="_blank" rel="noopener noreferrer"}&nbsp;demonstrates how effective this approach can be in looking taller. The researchers noted that "disc height restoration after weight reduction was significant."
 
 They noted an increase of about 2 mm in just one intervertebral disc, between the fourth and fifth lumbar vertebrae. That’s not much in one disk alone, but if those results happen alone all the disks—or even just half—you’re looking at noticeable real height gain of potential 1-3 inches.
 
@@ -52,21 +52,29 @@ This is yet another reason why you should lose the extra body fat that you’re 
 
 ## Improve your posture
 
-For most of my adult life, I was 6’0”. Then, when I was 28, I enlisted in the Army. After 10 weeks of basic training and 16 weeks of advanced individual training, I got measured at my first Army Physical Fitness Test (APFT) and I had grown—at age 29—over an inch and a half to be almost 6’2”.
+For most of my adult life, I was 6’0”. Then, when I was 28, I enlisted in the Army.
+
+After 10 weeks of basic training and 16 weeks of advanced individual training, I got measured at my first Army Physical Fitness Test (APFT) and I had grown—at age 29—over an inch and a half to be almost 6’2”.
 
 It’s not that I actually experienced cell division that would cause me to increase my height. Rather, after 26 weeks of standing at attention and parade rest in formations that were inspected daily, I improved my posture—and I didn’t even think that I had bad posture\!
 
-I strongly recommend you start training to improve your posture. Most people do not have good posture. Correcting bad posture can result in a 1-2 inch “gain” immediately. The best part is that correcting your posture also has so many athletic, psychological, and emotional benefits.
+I strongly recommend you start training to improve your posture.
+
+Most people do not have good posture. Correcting bad posture can result in a 1-2 inch “gain” immediately. The best part is that correcting your posture also has so many athletic, psychological, and emotional benefits.
 
 Good posture also accentuates the neckline, giving an even better appearance of height. This is an easy lay-up and is almost certainly an area where you can gain an extra 1-2 inches in height.
 
+***Posture trainers like the following are what I used to help keep my posture gains after I got out of the military. Wearing one will save you from getting a hump in your back in your thirties from sitting at a desk 8-10 hours a day—&gt;[Posture training devices here](https://amzn.to/3NA2eSF){: target="_blank" rel="noopener"}***
+
 ## Wear fitted clothing
 
-Fitted clothing makes you look slimmer for the same reason that losing body fat does. When you carry extra body fat or your clothes are baggy, it creates the appearance of being wider by drawing more attention to the horizontal line across the body. When attention is drawn to horizontal lines, it not only makes you look out of shape, but it takes attention away from the vertical lines and makes you look shorter.
+Fitted clothing makes you look slimmer for the same reason that losing body fat does.
 
-Baggy clothing also is generally viewed as low-status. If you want to take full advantage of the halo effect, then it‘s important that your fashion does not look low-class. This means that it‘s well-fitting, clean, and void of logos. Those things won‘t make you look taller, per se.
+When you carry extra body fat or your clothes are baggy, it creates the appearance of being wider by drawing more attention to the horizontal line across the body. When attention is drawn to horizontal lines, it not only makes you look out of shape, but it takes attention away from the vertical lines and makes you look shorter.
 
-But because we associate good things in clusters, and being tall is good, dressing well goes a long way in creating the illusion of height. Or, at the very least, it draws attention away from how short you are.
+Baggy clothing also is generally viewed as low-status. If you want to take full advantage of the halo effect, then it‘s important that your fashion does not look low-class.
+
+This means that it‘s well-fitting, clean, and void of logos. Those things won‘t make you look taller, per se. But because we associate good things in clusters, and being tall is good, dressing well goes a long way in creating the illusion of height. Or, at the very least, it draws attention away from how short you are.
 
 ## Wear a hat
 
