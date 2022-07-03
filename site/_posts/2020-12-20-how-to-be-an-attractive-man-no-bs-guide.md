@@ -193,6 +193,16 @@ Unless you’re 6’8” or above, you should pick outfits that make you look ta
 
 If you’re on the taller side (i.e. 6’8” or above), you might want to make yourself look a little shorter by doing the opposite of what Brock recommends in the video: wear pants and shirts that contrast each other strongly or wear bigger patterns.
 
+You’re stuck with your genetics. When it comes to height, there are basically 3 types of men: &lt;6’1”, 6’0”-5’10”, 5’9”&gt;.
+
+If you’re in the first group, your life is good. If you’re in the last group, there isn’t much you can do. Unless you have money for surgery to make yourself tall.
+
+The middle group is the group that will benefit tremendously from shoes and insols that will add 2-3” of height. In the winter, this is easy because boots naturally add height. For the rest of the year, or for guys who live somewhere without a cold winter, these shoes will allow you to discretely add height.
+
+* [Shoe insols to make you taller](https://amzn.to/3AnOIyk){: target="_blank" rel="noopener"}
+* [Sneakers to make you taller](https://amzn.to/3NFPvh2){: target="_blank" rel="noopener"}
+* [Dress shoes to make you taller](https://amzn.to/3NF2TCe){: target="_blank" rel="noopener"}
+
 ### What clothes to wear
 
 Every man has a slightly different style. The specific items that I wear are not necessarily the same type of items that you want to wear.
