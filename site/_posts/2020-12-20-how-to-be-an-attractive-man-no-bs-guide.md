@@ -163,11 +163,15 @@ By far the most important aspect of men’s style is *fit*. If your clothes don�
 
 The clothes you wear should feel “tailored” to your body. They shouldn’t be baggy, nor should they cling to your body (unless you’re extremely athletic).
 
-Below are two quick rules-of-thumb to keep in mind when trying on clothes.
+Below are two quick rules of thumb to keep in mind when trying on clothes.
 
 #### How should a t-shirt or polo shirt fit?
 
 Your sleeves should end at the middle of your biceps, and you should be able to fit no more than two fingers inside them without stretching the fabric. You should be able to pinch (not pull) 1-2 inches of fabric on each side of your torso. It should end mid-crotch.
+
+The goal of a man’s shirt is to show off the work he’s put in. I find that a good-fitting V-neck or high-quality polo will do a great job in the summer. In the winter, go for anything that fits and shapes your body.
+
+This will largely come down to the fabric. Wool, cotton, and cashmere are great fabrics. Especially if they’ve got a touch of Lycra or micro fabric to help it stretch
 
 #### How should pants fit?
 
