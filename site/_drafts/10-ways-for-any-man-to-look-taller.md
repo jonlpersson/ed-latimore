@@ -50,6 +50,8 @@ Also worth noting is that being slimmer automatically makes you look more elonga
 
 This is yet another reason why you should lose the extra body fat that you’re carrying around.
 
+![Lose body fat to look taller](/assets/images/drafts/13-percent-bodyfat.jpeg "Lose body fat to look taller"){: width="350" height="350"}
+
 ## Improve your posture
 
 For most of my adult life, I was 6’0”. Then, when I was 28, I enlisted in the Army.
