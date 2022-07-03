@@ -5,7 +5,9 @@ title: 10 ways for any man to look taller
 permalink: /how-to-look-taller/
 tags:
   - dating-and-relationships
-description:
+description: >-
+  These style tips will not only make you look taller, but some of them may
+  actually increase your height. 
 image:
 ---
 Men know that height matters. Taller guys make more money, get more dates, and are perceived as more dominant. Unfortunately, it’s also the one attribute that is completely beyond your control.
