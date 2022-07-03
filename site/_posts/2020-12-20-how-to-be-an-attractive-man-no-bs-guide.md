@@ -98,7 +98,7 @@ Facial hair is a signifier of age and social dominance. It can age you up or dow
 
 In my personal experience, full beards are polarizing. Some women like them, some don’t. Research published in the Journal of Evolutionary Biology suggests that [full beards are most attractive to women looking for long-term relationships](https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12958). With that said, not everyone can pull off a full beard.
 
-If you have trouble getting hair bumps but still want a clean-shaven look, then an electric razor is your best bet. I’m a black guy who gets hair bumps BAD, so when I enlisted in the ARMY and was forced to shave daily with a regular disposable or cartridge razor, my face quickly got bad.<br>​​
+If you have trouble getting hair bumps but still want a clean-shaven look, then an electric razor is your best bet. I’m a black guy who gets hair bumps BAD, so when I enlisted in the ARMY and was forced to shave daily with a regular disposable or cartridge razor, my face quickly got bad.
 
 <div class="cms-embed" data-cms-embed="PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vZ3Avc2VhcmNoP2llPVVURjgmdGFnPWh0dHBlZHdhcmRjMDctMjAmbGlua0NvZGU9dXIyJmxpbmtJZD02YmU5NmIyYjliNTA5NDRjYWY1YzNlYzFiY2IwNDNkYyZjYW1wPTE3ODkmY3JlYXRpdmU9OTMyNSZpbmRleD1iZWF1dHkma2V5d29yZHM9ZWxlY3RyaWMgcmF6b3IiPkEgZ3JlYXQgc2VsZWN0aW9uIG9mIGVhc2lseSBhZmZvcmRhYmxlIGVsZWN0cmljIHJhem9yczwvYT4="><a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&amp;tag=httpedwardc07-20&amp;linkCode=ur2&amp;linkId=6be96b2b9b50944caf5c3ec1bcb043dc&amp;camp=1789&amp;creative=9325&amp;index=beauty&amp;keywords=electric razor">A great selection of easily affordable electric razors</a></div>
 
