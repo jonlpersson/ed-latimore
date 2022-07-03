@@ -182,6 +182,9 @@ This will largely come down to the fabric. Wool, cotton, and cashmere are great 
 
 Your pants should fit snugly around your waist with no need for a belt to hold them up, and they should gently hug your butt. They should be slim around your legs, without clinging to them: you should be able to pinch 1 inch of fabric on both sides of your thigh. Your pants should not bunch up around your shoes: if they do, they’re too long.
 
+* [Slimfit jeans for men](https://amzn.to/3yDO12B){: target="_blank" rel="noopener"}
+* [Slimfit khakis for men](https://amzn.to/3OXCtg2){: target="_blank" rel="noopener"}
+
 ### Wear clothes that make you look taller and leaner
 
 Unless you’re 6’8” or above, you should pick outfits that make you look taller and leaner. Brock from The Modest Man, a blog and YouTube channel that specializes in men’s style for guys that are on the shorter side, has a great video guide on things to do and not to do:
