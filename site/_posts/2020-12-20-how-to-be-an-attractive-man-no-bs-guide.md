@@ -197,6 +197,8 @@ You’re stuck with your genetics. When it comes to height, there are basically 
 
 If you’re in the first group, your life is good. If you’re in the last group, there isn’t much you can do. Unless you have money for surgery to make yourself tall.
 
+This guide to dressing to help you look taller will make a big difference if you're in the middle group—&gt;[10 ways for any man to look taller](/how-to-look-taller/)
+
 The middle group is the group that will benefit tremendously from shoes and insols that will add 2-3” of height. In the winter, this is easy because boots naturally add height. For the rest of the year, or for guys who live somewhere without a cold winter, these shoes will allow you to discretely add height.
 
 * [Shoe insoles to make you taller](https://amzn.to/3AnOIyk){: target="_blank" rel="noopener"}
