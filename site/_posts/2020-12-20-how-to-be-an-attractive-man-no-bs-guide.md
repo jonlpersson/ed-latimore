@@ -199,7 +199,7 @@ If you’re in the first group, your life is good. If you’re in the last group
 
 The middle group is the group that will benefit tremendously from shoes and insols that will add 2-3” of height. In the winter, this is easy because boots naturally add height. For the rest of the year, or for guys who live somewhere without a cold winter, these shoes will allow you to discretely add height.
 
-* [Shoe insols to make you taller](https://amzn.to/3AnOIyk){: target="_blank" rel="noopener"}
+* [Shoe insoles to make you taller](https://amzn.to/3AnOIyk){: target="_blank" rel="noopener"}
 * [Sneakers to make you taller](https://amzn.to/3NFPvh2){: target="_blank" rel="noopener"}
 * [Dress shoes to make you taller](https://amzn.to/3NF2TCe){: target="_blank" rel="noopener"}
 
