@@ -14,7 +14,7 @@ Men know that height matters. Taller guys make more money, get more dates, and a
 
 However, there are a number of tools and techniques you can use to look taller. These style tips will not only make you look better, but you’ll also be healthier. Depending on who you are, some of these tips may even cause you actually gain 1-3 inches in height.
 
-I don’t want to promise anything outlandish though. All I can say is that if you follow these tips here, you’ll definitely look better and look taller. That’s an undisputed fact.
+I don’t want to promise anything outlandish though. All I can say is that if you follow these tips, you’ll definitely look better and taller. That’s an undisputed fact.
 
 Whether you actually change your physical height depends entirely upon where you are currently.
 
@@ -130,6 +130,10 @@ If your shoes, pants, shirt, and hat are the same color, you will naturally appe
 
 ## Wear vertical stripes
 
-Vertical stripes have the opposite effect as horizontal stripes. Horizontal lines and stripes make you look wider and shorter. Vertical lines and stripes make you look leaner and taller. I personally don’t have many striped outfits in either direction, but all vertical lines have a lengthening effect on your physique.
+Vertical stripes have the opposite effect as horizontal stripes. Horizontal lines and stripes make you look wider and shorter. Vertical lines and stripes make you look leaner and taller.
+
+![Sweater vertical stripes](/assets/images/drafts/sweater-vertical-stripes.jpeg "Sweater vertical stripes"){: width="350" height="467"}
+
+This sweater is the closest thing I have to vertical stripes. I personally don’t have many striped outfits in either direction, but all vertical lines have a lengthening effect on your physique.
 
 &nbsp;
