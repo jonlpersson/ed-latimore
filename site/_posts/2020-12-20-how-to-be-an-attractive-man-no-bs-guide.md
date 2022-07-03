@@ -169,7 +169,12 @@ Below are two quick rules of thumb to keep in mind when trying on clothes.
 
 Your sleeves should end at the middle of your biceps, and you should be able to fit no more than two fingers inside them without stretching the fabric. You should be able to pinch (not pull) 1-2 inches of fabric on each side of your torso. It should end mid-crotch.
 
-The goal of a man’s shirt is to show off the work he’s put in. I find that a good-fitting V-neck or high-quality polo will do a great job in the summer. In the winter, go for anything that fits and shapes your body.
+The goal of a man’s shirt is to show off the work he’s put in. I find that a good-fitting V-neck or high-quality polo will do a great job in the summer.
+
+* [Good fitting, easily affordable v-neck shirts](https://www.amazon.com/s?k=v+neck+shirt&amp;i=fashion&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;linkId=fb318d7a3fa8c08d3327287cb957c136&amp;tag=httpedwardc07-20){: target="_blank" rel="noopener"}
+* &nbsp;
+
+In the winter, go for anything that fits and shapes your body.
 
 This will largely come down to the fabric. Wool, cotton, and cashmere are great fabrics. Especially if they’ve got a touch of Lycra or micro fabric to help it stretch
 
