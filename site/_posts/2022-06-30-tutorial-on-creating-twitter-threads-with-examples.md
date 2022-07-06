@@ -83,11 +83,11 @@ Add tweets to an already published tweet and use the threads feature before publ
 
 The easiest way to create a Twitter thread is to publish a tweet, then reply as you would to a tweet written by someone else. After the second tweet is posted, reply to it with a third tweet and continue this pattern until your thread is finished.
 
-![Twitter thread without threader 1](/assets/images/drafts/example-of-tweet-without-threader.png "1. Click on the comment icon for any previously published tweet"){: width="828" height="688"}
+![Twitter thread without threader 1](/assets/images/drafts/example-of-tweet-without-threader.png "Click on the comment icon for any previously published tweet"){: width="828" height="688"}
 
 &nbsp;
 
-*![Twitter thread without threader 2](/assets/images/drafts/example-of-twitter-thread-2-without-threader.png "2. This will open up a box that you can comment in"){: width="786" height="522"}*
+*![Twitter thread without threader 2](/assets/images/drafts/example-of-twitter-thread-2-without-threader.png "This will open up a box that you can comment in"){: width="786" height="522"}*
 
 While easy to use, one big problem with this method is that other Twitter users can reply to your tweets as each is published, before your entire thread is finished. You can imagine how this might cause problems for any number of reasons.
 
