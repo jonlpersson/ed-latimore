@@ -2,8 +2,9 @@
 date: 2022-07-06 14:38:04 -0400
 article_type: Article
 title: How does Low-Level Light Therapy (lllt) stop hair loss?
-permalink:
+permalink: /low-level-light-therapy-for-hair-loss/
 tags:
+  - self-improvement-for-men
 description:
 image:
 ---
