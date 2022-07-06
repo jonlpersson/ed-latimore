@@ -110,6 +110,6 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 
 Now you know how to join in the fun of creating Twitter threads.
 
-***If you want to learn how to create viral Twitter threads, then definitely check out my [90-minute webinar here](https://edwardlatimore.gumroad.com/l/laixwi){: target="_blank" rel="noopener noreferrer"}. I break down my thought process and methods for creating threads that get me 9k followers per month\!***
+&nbsp;
 
 &nbsp;
