@@ -110,6 +110,6 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 
 Now you know how to join in the fun of creating Twitter threads.
 
-&nbsp;
+{% include widgets/summary.html id="Twitter-threads" %}
 
 &nbsp;
