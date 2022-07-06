@@ -29,7 +29,7 @@ You can think of a Twitter thread as a type of mini-blogging. Twitter users can 
 * Compose a collection
 * Elaborate on something that couldn’t possibly be covered in 280 character limit of a single tweet
 
-![Example of Twitter Thread devil went down to the projects](/assets/images/drafts/screen-shot-2022-06-30-at-4-22-08-pm.png "Example of Twitter Thread devil went down to the projects"){: width="808" height="810"}
+![Example of Twitter Thread devil went down to the projects](/assets/images/drafts/screen-shot-2022-06-30-at-4-22-08-pm.png "The grey line on the left connecting my profile pics shows that all though these are separate tweets, they are threaded together."){: width="808" height="810"}
 
 *The grey line on the left connecting my profile pics shows that all though these are separate tweets, they are threaded together.*
 
