@@ -35,9 +35,9 @@ You can think of a Twitter thread as a type of mini-blogging. Twitter users can 
 
 The phrase “tweet thread” or “Twitter thread” is also used to describe a tweet or quote tweet with several replies beneath it. It should be noted that Twitter threads are not the same thing as tweetstorms.
 
-![Another twitter thread from ed latimore](/assets/images/drafts/screen-shot-2022-06-30-at-4-38-09-pm.png "Another twitter thread from ed latimore"){: width="876" height="1650"}
+![Another twitter thread from ed latimore](/assets/images/drafts/screen-shot-2022-06-30-at-4-38-09-pm.png "The tweets underneath my initial tweet have also been referred to as a thread. While engagement beneath your tweet is ideal, it's not what you'll be learning in this article."){: width="876" height="1650"}
 
-*The tweets underneath my initial tweet have also been referred to as a thread. While engagement beneath your tweet is ideal, it's not what you'll be learning in this article.&nbsp;*
+&nbsp;
 
 ## The difference between tweetstorms and Twitter threads
 
@@ -63,7 +63,7 @@ However, Twitter decided that it wants to make a push toward encouraging longer-
 
 ![Information about Twitter favoring long form content](/assets/images/drafts/twitter-long-form-threads.jpg "Information about Twitter favoring long form content"){: width="960" height="540"}
 
-Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your twitter account. This engagement time goes up even more when you add images and gifs.
+Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your Twitter account. This engagement time goes up even more when you add images and gifs.
 
 And if you think about how Twitter makes money, this makes perfect sense.
 
@@ -83,13 +83,11 @@ Add tweets to an already published tweet and use the threads feature before publ
 
 The easiest way to create a Twitter thread is to publish a tweet, then reply as you would to a tweet written by someone else. After the second tweet is posted, reply to it with a third tweet and continue this pattern until your thread is finished.
 
-*1\. Click on the comment icon for any previously published tweet*
+![Twitter thread without threader 1](/assets/images/drafts/example-of-tweet-without-threader.png "1. Click on the comment icon for any previously published tweet"){: width="828" height="688"}
 
-![Twitter thread without threader 1](/assets/images/drafts/example-of-tweet-without-threader.png "Twitter thread without threader 1"){: width="828" height="688"}
+&nbsp;
 
-*2\. This will open up a box that you can comment in*
-
-*![Twitter thread without threader 2](/assets/images/drafts/example-of-twitter-thread-2-without-threader.png "Twitter thread without threader 2"){: width="786" height="522"}*
+*![Twitter thread without threader 2](/assets/images/drafts/example-of-twitter-thread-2-without-threader.png "2. This will open up a box that you can comment in"){: width="786" height="522"}*
 
 While easy to use, one big problem with this method is that other Twitter users can reply to your tweets as each is published, before your entire thread is finished. You can imagine how this might cause problems for any number of reasons.
 
