@@ -135,6 +135,8 @@ The naturally open-minded or intelligent will be bothered by this particular Twi
 
 But polarization works because people will retweet you in agreement, or quote tweet you to disagree. This exposes you to more people, many of whom will follow you as an absolute authority.
 
+{% include widgets/summary.html id="Twitter-Threads" %}
+
 ## 5) Retweet your best tweets
 
 When you have a tweet that does well, get as much mileage out of it as you can. There are two simple ways to do this:
