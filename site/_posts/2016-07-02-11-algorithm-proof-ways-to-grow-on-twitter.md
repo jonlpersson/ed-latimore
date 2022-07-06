@@ -121,6 +121,8 @@ Whatever your theme is, you have to live it.&nbsp;
 
 Even if you’re anonymous, your tweets will show authenticity. Authenticity is attractive and powerful because, by definition, it is impossible to fake.
 
+{% include widgets/summary.html id="Twitter-Threads" %}
+
 ## Retweet with comment or "quote tweet" more
 
 Retweet with comment. A.k.a. "quote tweeting."
