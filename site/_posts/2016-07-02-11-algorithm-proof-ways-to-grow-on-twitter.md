@@ -250,3 +250,5 @@ Offer a unique perspective—whether through substance or style—on the theme y
 You can grow a decent-sized account as a hater, but you need to be a unique brand of hater. Otherwise, you’re just a rip-off.
 
 No one likes a copycat because copycats lack authenticity and they haven’t done the work.
+
+{% include widgets/summary.html id="Twitter-Threads" %}
