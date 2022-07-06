@@ -105,11 +105,13 @@ LLLT works by shortening the telogen phase and prolonging the anagen phase. This
 
 People believe that LLLT causes shedding because when you start the treatment, dead hairs (hairs no longer attached to the blood source of the follicle) are cast away quickly, but only because the anagen phase is extended and more hair is new hair as growing.
 
-You may initially notice more hair falling out when you first begin low level laser hair therapy. However, these hairs were in telogen resting phase and were going to fall out \*anyway\*.
+You may initially notice more hair falling out when you first begin low-level laser hair therapy. However, these hairs were in the telogen resting phase and were going to fall out \*anyway\*.
 
-Not only does low level light therapy not cause shedding, it should cause the exact opposite where you experience less shedding because the shedding phase (telogen) is shortened and the growth phase (anagen) is lengthened.
+Not only does low-level light therapy not cause shedding, causes the exact opposite outcome. You experience less shedding because the shedding phase (telogen) is shortened and the growth phase (anagen) is lengthened.
 
-What type of results to expect
+## What type of results to expect
+
+Low-level light therapy produces excellent results for thinning hair that is the result of weakened, thinner hair follicles. As with all hair loss treatments, the earlier you start to apply the treatment, the better the result you can expect.&nbsp;
 
 Articles to keep track f when writing:
 
