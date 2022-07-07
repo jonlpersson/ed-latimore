@@ -113,6 +113,8 @@ Not only does low-level light therapy not cause shedding, causes the exact oppos
 
 Low-level light therapy produces excellent results for thinning hair that is the result of weakened, thinner hair follicles. As with all hair loss treatments, the earlier you start to apply the treatment, the better the result you can expect.&nbsp;
 
+LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A&nbsp;[2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
+
 Articles to keep track f when writing:
 
 * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/)
