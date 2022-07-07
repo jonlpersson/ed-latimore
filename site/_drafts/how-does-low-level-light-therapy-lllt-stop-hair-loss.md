@@ -117,7 +117,9 @@ LLLT does not work in advanced cases of baldness. It cannot cause hair growth on
 
 Research has shown that LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A&nbsp;[2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
 
-The same study showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
+[A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"}showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
+
+The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine were also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
 
 Is Low-Level Light Therapy safe?
 
