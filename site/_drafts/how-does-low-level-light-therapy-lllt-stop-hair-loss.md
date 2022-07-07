@@ -119,9 +119,15 @@ Research has shown that LLLT helped to slow down or even stop hair loss in 85% o
 
 [A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"}showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
 
-The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine were also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
+The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine was also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
 
-Is Low-Level Light Therapy safe?
+## Is Low-Level Light Therapy safe?
+
+In over 50 years of use, LLLT has a low incidence of adverse effects. In the specific use of LLLT for hair growth, the only issue was the onset of telogen effluvium but the onset of it only lasted for 1-2 months.
+
+Telogen effluvium is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata.
+
+LaserComb treatment&nbsp;[55](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170#lsm22170-bib-0055), but disappearing on continued application. Some other possible considerations are presence of dysplastic or malignant lesions on the scalp which could be stimulated to grow by proliferative effects of LLLT&nbsp;[59](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170#lsm22170-bib-0059).
 
 &nbsp;
 
