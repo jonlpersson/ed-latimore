@@ -103,11 +103,13 @@ Analogously, think of this like trying to fill a bucket with a tiny hole in the 
 
 ### Male androgenetic alopecia and the bucket analogy
 
-Male androgenetic alopecia simultaneously causes the rate of the rate coming into the bucket to slow while increasing the size of the hole in the side of the bucket. Eventually, not only will the water rate slow to barely a trickle, the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
+Male androgenetic alopecia simultaneously causes the rate of the water coming into the bucket to slow while increasing the size of the hole in the side of the bucket.
+
+Eventually, not only will the water rate slow to barely a trickle, but the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
 
 Then enters low level laser therapy. Think of low level laser therapy as both a construction worker patching up the hole in the wall and the plumber unclogging hose that is supplying water to the bucket.&nbsp;
 
-Low level light therapy is assumed to shorten the telogen phase so that hair follicles enter the anagen phase more quickly. It’s also assumed to prolong duration of anagen phase, increase rates of proliferation in active anagen hair follicles and to prevent premature passage into the catagen phase \[[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R19),[30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R30)\].
+Low level light therapy is assumed to shorten the telogen phase so that hair follicles enter the anagen phase more quickly. It’s also assumed to prolong duration of anagen phase by increasing rates of proliferation in active anagen hair follicles and to prevent premature passage into the catagen phase \[[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}\].
 
 From a mechanistic standpoint, this effectively reverses male pattern balding. Of course, if the hair follicle is already minaturized to the point of no return, then LLLT won’t be effective. The plumber can only unclog the drain to be effective if the water hasn’t been shut off.&nbsp;
 
