@@ -80,9 +80,11 @@ The precise biochemical mechanism underlying the therapeutic effects of LLLT is 
 
 It’s believed that this chemical reaction [acts on the mitochondria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/#R27){: target="_blank" rel="noopener noreferrer"}&nbsp;to [increase adenosine triphosphate (ATP) production,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/#R43){: target="_blank" rel="noopener noreferrer"}&nbsp;modulation of reactive oxygen species (ROS), and the induction of transcription factors.
 
-It’s known that ATP production increases when an injury is sustained. This is to faciliate healing as it plays a significant role in would repair ([source](https://www.energy-delivery-solutions.com/about-atp)). Reactive oxygen species cause damage to the basic building blocks of the cell, including lipids, proteins, DNA, and RNA ([source](https://www.frontiersin.org/articles/10.3389/fcell.2021.628157/full)). The induction of transcription factors leads to regulation of gene expression that may of previously been modulated or repressed.
+* ATP production increases when an injury is sustained. This is to faciliate healing as it plays a significant role in would repair ([source](https://www.energy-delivery-solutions.com/about-atp)).
+* Reactive oxygen species cause damage to the basic building blocks of the cell, including lipids, proteins, DNA, and RNA ([source](https://www.frontiersin.org/articles/10.3389/fcell.2021.628157/full)).
+* The induction of transcription factors leads to regulation of gene expression that may of previously been modulated or repressed.
 
-These three factors combined lead to a dramatic increase of cellular healing and repair.
+These three factors combined lead to a dramatic increase of cellular healing and repair. Low-level light therapy works to induce these cellular changes and thus causes a marked healing response.
 
 ## How does low level light therapy work to slow or reverse hair loss?
 
