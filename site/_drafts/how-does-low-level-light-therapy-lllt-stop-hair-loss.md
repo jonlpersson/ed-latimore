@@ -56,7 +56,7 @@ When you combine these three factors of laser light, it's easy to under why they
 
 To put all of this in perspective, consider that the watt (W) is the fundamental unit of optical power. It's defined as the rate of the energy of one joule (J) per second. Your average household incandescent light bulb uses about **60 watts** of electricity, and LED light bulbs use about 10 watts.&nbsp;
 
-Unless you touch their surface, you’ve never been burned or cut with the light from a lightbulb. However, because of a laser’s characteristics, [that same wattage can carve acrylic or aluminnum.](https://www.troteclaser.com/en/learn-support/faqs/optimal-laser-power)
+Unless you touch their surface, you’ve never been burned or cut with the light from a lightbulb. However, because of a laser’s unique characteristics, [that same wattage can carve acrylic or aluminnum.](https://www.troteclaser.com/en/learn-support/faqs/optimal-laser-power)
 
 Now that we have a solid understanding of what makes laser light special, we can now full appreciate low-level therapy how that differences from conventional laser technology.&nbsp;
 
