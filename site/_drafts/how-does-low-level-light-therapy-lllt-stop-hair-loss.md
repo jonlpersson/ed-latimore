@@ -103,7 +103,7 @@ Analogously, think of this like trying to fill a bucket with a tiny hole in the 
 
 ### Male androgenetic alopecia and the bucket analogy
 
-MAA causes simultaneously causes the rate of the rate coming into the bucket to slow while increasing the size of the hole in the side of the bucket. Eventually, not only will the water rate slow to barely a trickle, the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
+Male androgenetic alopecia simultaneously causes the rate of the rate coming into the bucket to slow while increasing the size of the hole in the side of the bucket. Eventually, not only will the water rate slow to barely a trickle, the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
 
 Then enters low level laser therapy. Think of low level laser therapy as both a construction worker patching up the hole in the wall and the plumber unclogging hose that is supplying water to the bucket.&nbsp;
 
