@@ -88,18 +88,22 @@ These three factors combined lead to a dramatic increase of cellular healing and
 
 ## How does low level light therapy work to slow or reverse hair loss?
 
-To fully appreciate how low level light therapy works for hair loss, we have to briefly revisit the four stages of hair growth.
+To fully appreciate how low level light therapy works for hair loss, we have to understand the four stages of hair growth.
 
-* Anagen phase: This is the growing phase of hair. During the anagen phase, your [hair follicles](https://www.healthline.com/health/hair-follicle) push out hairs that will continue to grow until they’re cut or until they reach the end of their lifespan and fall out. It’s key to remember that the hairs start beneat the skin and have been growing long before they are visible.&nbsp;
-* Catagen phase: This is the phase where the anagen phase ends. Hair follicles shink and hair growth slows. Also, during this phase, hair separates from the bottom of the follicle but has not separated or started “shedding”.
-* Telogen phase: Hairs don’t grow during the telogen phase, but they don’t usually fall out either. The telogen phase is also when new hairs start to form in follicles that have just released hairs during the catagen phase.&nbsp;
-* Exogen phase: This is the phase that hair typically sheds, as the new growth pushes out the hairs that were separated during. The exogen phase is often considered an extension of the telogen stage. During the exogen phase, losing 50 to 100 hairs per day is normal.
+* <u><strong>Anagen phase:</strong></u> This is the growing phase of hair. During the anagen phase, your hair follicles push out hairs that will continue to grow until they’re cut or until they reach the end of their lifespan and fall out. It’s key to remember that hair starts beneath the skin and has been growing long before they are visible.&nbsp;
+* <u><strong>Catagen phase:</strong></u> This is the phase where the anagen phase ends. Hair follicles shink and hair growth slows. Also, during this phase, hair separates from the bottom of the follicle but has not separated or started “shedding”.
+* <u><strong>Telogen phase:</strong></u> Hairs don’t grow during the telogen phase, but they don’t usually fall out either. The telogen phase is also when new hairs start to form in follicles that have just released hairs during the catagen phase.&nbsp;
+* <u><strong>Exogen phase:</strong></u> This is the phase that hair typically sheds, as the new growth pushes out the hairs that were separated during. The exogen phase is often considered an extension of the telogen stage. During the exogen phase, it's normal to lose 50-100 hairs per day.
 
-Male androgentic alopecia(MAA), male pattern baldness, or going bald happens when the anagen phase decreases while the telogen phase remains the same length or gets longer. Ultimately, anagen duration becomes so short that the growing hair fails to achieve sufficient length to reach the surface of the skin, leaving an empty follicular pore.
+Male androgentic alopecia(MAA), male pattern baldness, or "going bald" happens when the anagen phase decreases while the telogen phase remains the same length or gets longer. Ultimately, anagen duration becomes so short that the growing hair fails to achieve sufficient length to reach the surface of the skin, leaving an empty follicular pore.
 
-All of this is thought to be caused by DHT causes the hair follicles to shrink, simultaneously extending the amount of time in and hair available for the telegen and exogen phase and reducing the growth the occur in the anagen phase.&nbsp;
+All of this is thought to be caused by the DHT, a useful hormone with the unfortunate side effect of causing the hair follicles to shrink, which simultaneously extends the amount of time hair spends in the telegen and exogen phase and reduces the growth that occurs in the anagen phase.&nbsp;
 
-Analogously, think of this like trying to fill a bucket with a tiny hole in the side that is growing. MAA causes simultaneously causes the rate of the rate coming into the bucket to slow while increasing the size of the hole in the side of the bucket. Eventually, not only will the water rate slow to barely a trickle, the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
+Analogously, think of this like trying to fill a bucket with a tiny hole in the side that is growing.
+
+### Male androgenetic alopecia and the bucket analogy
+
+MAA causes simultaneously causes the rate of the rate coming into the bucket to slow while increasing the size of the hole in the side of the bucket. Eventually, not only will the water rate slow to barely a trickle, the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
 
 Then enters low level laser therapy. Think of low level laser therapy as both a construction worker patching up the hole in the wall and the plumber unclogging hose that is supplying water to the bucket.&nbsp;
 
