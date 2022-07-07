@@ -58,15 +58,15 @@ To put all of this in perspective, consider that the watt (W) is the fundamental
 
 Unless you touch their surface, you’ve never been burned or cut with the light from a lightbulb. However, because of a laser’s unique characteristics, [that same wattage can carve acrylic or aluminnum.](https://www.troteclaser.com/en/learn-support/faqs/optimal-laser-power)
 
-Now that we have a solid understanding of what makes laser light special, we can now full appreciate low-level therapy how that differences from conventional laser technology.&nbsp;
+Now that we have a solid understanding of what makes laser light special, we can now fully appreciate low-level therapy and how that differences from conventional laser technology.&nbsp;
 
 &nbsp;
 
 ## What is Low Level Light Therapy?
 
-After the discovery of lasers in the 1960s it was accidentally discovered that laser therapy at low energy levels had the potential to improve wound healing and reduce pain, inflammation and swelling. This feature of lasers was discovered quite by accident by Endre Mester at Semmelweis University, Budapest, Hungary in 1967.&nbsp;
+After the creation of lasers in the 1960s, it was accidentally discovered that laser light at low energy levels had the potential to improve wound healing and reduce pain, inflammation and swelling. This feature of lasers [was discovered quite by accident](https://pubmed.ncbi.nlm.nih.gov/28783466/){: target="_blank" rel="noopener noreferrer"} by Endre Mester at Semmelweis University, Budapest, Hungary in 1967.&nbsp;
 
-Mester conducted an experiment to test if laser radiation caused cancer in mice. He shaved the hair off their backs, divided them into two groups and irradiated one group with a low powered ruby laser.&nbsp;
+Mester conducted an experiment to test if laser radiation caused cancer in mice. He shaved the hair off their backs and divided them into two groups. One of those groups was irradiated with a low powered ruby laser.&nbsp;
 
 The treatment group did not get cancer and to his surprise, the hair grew back more quickly than the untreated group. He called this “Laser Biostimulation”. Mester soon applied his findings to human patients, using lasers to treat patients with nonhealing skin ulcers
 
