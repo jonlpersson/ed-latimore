@@ -68,9 +68,11 @@ After the creation of lasers in the 1960s, it was accidentally discovered that l
 
 Mester conducted an experiment to test if laser radiation caused cancer in mice. He shaved the hair off their backs and divided them into two groups. One of those groups was irradiated with a low powered ruby laser.&nbsp;
 
-The treatment group did not get cancer and to his surprise, the hair grew back more quickly than the untreated group. He called this “Laser Biostimulation”. Mester soon applied his findings to human patients, using lasers to treat patients with nonhealing skin ulcers
+The treatment group did not get cancer and to his surprise, the hair grew back more quickly than it did in the untreated group. He called this “Laser Biostimulation”. Mester soon applied his findings to human patients, using lasers to treat patients with nonhealing skin ulcers
 
-We’ve already established that commercial laser applications are typically in the range of 25-80 W. Low level laser therapy is a laser application that ranges between 1mW – 500mW. Since 1967 over 100 phase III, randomized, double-blind, placebo-controlled, clinical trials have been published and supported by over 1,000 laboratory studies how it works and many of it’s effects.
+We’ve already established that commercial laser applications are typically in the range of 25-80 W. Low level laser therapy is a laser application that ranges between 1mW – 500mW.
+
+Since 1967 over 100 phase III, randomized, double-blind, placebo-controlled, clinical trials have been published and supported by over 1,000 laboratory studies how it works and many of it’s effects.
 
 ## How does low level light therapy work?
 
