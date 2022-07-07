@@ -111,20 +111,20 @@ Then enters low level laser therapy. Think of low level laser therapy as both a 
 
 Low level light therapy is assumed to shorten the telogen phase so that hair follicles enter the anagen phase more quickly. It’s also assumed to prolong duration of anagen phase by increasing rates of proliferation in active anagen hair follicles and to prevent premature passage into the catagen phase \[[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}\].
 
-From a mechanistic standpoint, this effectively reverses male pattern balding. Of course, if the hair follicle is already minaturized to the point of no return, then LLLT won’t be effective. The plumber can only unclog the drain to be effective if the water hasn’t been shut off.&nbsp;
+From a mechanistic standpoint, this effectively reverses male pattern baldness. Of course, if the hair follicle is already minaturized to the point of no return, then LLLT won’t be effective. The plumber can only unclog the drain to be effective if the water hasn’t been shut off.&nbsp;
 
 Weiss and coworkers, by using RT-PCR and microarray analysis, demonstrated that depending on the treatment parameters. LLLT has also been shown to effect the biochemical causes of hair loss.&nbsp;
 
 Low level light therapy has also been shown to:
 
-* Modulate 5-α reductase expression, which converts testosterone into DHT.
+* Modulate 5-α reductase expression, which converts testosterone into DHT. This means that the main hormonal agent loses its effectiveness in the scalp.
 * Alters vascular endothelial growth factor (VEGf) gene expression to promote angiogensis (new blood vein formation) which have significant roles in hair follicle growth hair growth on human dermal papillae cells \[[44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R44)–[47](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R47)\].&nbsp;
 * LLLT has been demonstrated to modulate inflammatory processes and immunological responses, which may also have an effect in hair regrowth \[[32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R32),[48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R48)\].
 * Considering that inflammatory has been shown to play a role in the androgenic alopecia, modulatory effects of LLLT on inflammation might have a significant role in causing hair regrowth \[[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/#R19)\].
 
-Does low level level light therapy cause shedding?
+## Does low level level light therapy cause shedding?
 
-LLLT does not cause shedding. If we consider everything we’ve discussed about how the hair cycle works and LLLT’s effect on it, we can easy see why shedding doesn’t happen.
+LLLT does not cause shedding. Considering everything we’ve discussed about how the hair cycle works and LLLT’s effect on it, we can easily see why LLLT doesn't cause shedding
 
 LLLT works by shortening the telogen phase and prolonging the anagen phase. This automatically means that fewer hairs are even capable of shedding because they spend less time in the telogen phase, the phase where shedding occurs.
 
@@ -138,7 +138,7 @@ Not only does low-level light therapy not cause shedding, causes the exact oppos
 
 Low-level light therapy produces excellent results for thinning hair resulting from weakened, thinner hair follicles. As with all hair loss treatments, the earlier you start to apply the treatment, the better the result you can expect.&nbsp;
 
-LLLT does not work in advanced cases of baldness. It cannot cause hair growth on areas of the scalp where there’s no hair at all, as there are no hair follicles to stimulate. For all intents and purposes, this is what happens if your hair loss is too great. LLLT only works on active hair follicles and has no effect on hair follicles that are already shrunken and dead.
+LLLT does not work in advanced cases of baldness. It cannot cause hair growth on areas of the scalp where there’s no hair at all, as there are no hair follicles to stimulate. LLLT only works on active hair follicles and has no effect on hair follicles that are already shrunken and dead.
 
 Research has shown that LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A&nbsp;[2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
 
@@ -148,16 +148,8 @@ The same metanalysis references a study demonstrating significant improvements i
 
 ## Is Low-Level Light Therapy safe?
 
-In over 50 years of use, LLLT has a low incidence of adverse effects. In the specific use of LLLT for hair growth, the only issue was the onset of telogen effluvium but the onset of it only lasted for 1-2 months.
+In over 50 years of use, LLLT has a low incidence of adverse effects.
+
+In the specific use of LLLT for hair growth, the only issue was the onset of telogen effluvium but the onset of it only lasted for 1-2 months.
 
 Telogen effluvium is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata.
-
-&nbsp;
-
-Articles to keep track f when writing:
-
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/)
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2790317/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2790317/)
-* [https://www.intl-lighttech.com/chapter-2-power-light-ilt-light-measurement-tutorial\#:~:text=1%20watt%20at%20555%20nm,or%20J%20s%2D1](https://www.intl-lighttech.com/chapter-2-power-light-ilt-light-measurement-tutorial#:~:text=1%20watt%20at%20555%20nm,or%20J%20s%2D1)).
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/)
-* https://careclinic.io/low-level-laser-therapy-photobiomodulation/
