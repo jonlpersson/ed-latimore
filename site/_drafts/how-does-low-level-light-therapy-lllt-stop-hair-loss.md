@@ -8,12 +8,10 @@ tags:
 description:
 image:
 ---
-* How LLLT works (50)
+&nbsp;
+
 * How often should you use LLLT therapy? (210)
 * How long does it take LLLT to work? (50)
-* Is LLLT safe? (50)
-* Does LLLT cause shedding? (260)
-* Low level laser therapy (1.6k)
 * Low level laser therapy devices (260)
 * Low level laser therapy hair loss (260)
 * Laser therapy hat (30)
@@ -126,8 +124,6 @@ The same metanalysis references a study demonstrating significant improvements i
 In over 50 years of use, LLLT has a low incidence of adverse effects. In the specific use of LLLT for hair growth, the only issue was the onset of telogen effluvium but the onset of it only lasted for 1-2 months.
 
 Telogen effluvium is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata.
-
-LaserComb treatment&nbsp;[55](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170#lsm22170-bib-0055), but disappearing on continued application. Some other possible considerations are presence of dysplastic or malignant lesions on the scalp which could be stimulated to grow by proliferative effects of LLLT&nbsp;[59](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170#lsm22170-bib-0059).
 
 &nbsp;
 
