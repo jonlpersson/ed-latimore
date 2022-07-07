@@ -16,7 +16,11 @@ image:
 * Low level laser therapy hair loss (260)
 * Laser therapy hat (30)
 
-Low light laser therapy (LLLT) is a non-surgical, non-chemical hair loss treatment that uses laser light to stimulate cell growth and hair follicle growth. This is a general response. To answer this question specifically, we have to start with some cool science and define some base terms.
+Low-level laser (light) therapy (LLLT) is&nbsp;**a medical technology that has been used to treat a variety of by stimulating healing, relief of pain and inflammation, and restoration of function**. LLLT, also called photobiomodulation or cold laser, is a type of&nbsp;[phototherapy](https://www.sciencedirect.com/topics/medicine-and-dentistry/phototherapy){: target="_blank" rel="noopener noreferrer"}&nbsp;that utilizes wavelengths of light in the visible to the nearly infrared range of 670–950 nanometers (nm).
+
+They are referred to as "low-level" or "low power" because they operate with a low wattage (W) level. Typically, these lasers are usually between 5 and 500 mW
+
+This answers the question of \*what\* a low-level laser is, but it doesn't tell us anything about \*how\* a low-level laser works. To answer this question specifically, we have to start with some cool science, define some basic terms, and take a trip back a few decades.
 
 ## What is a laser?
 
