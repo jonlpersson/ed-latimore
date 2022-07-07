@@ -42,24 +42,25 @@ White light is a combination of all visible wavelengths (400 - 700 nm). The rain
 
 ### **Directional**
 
-Normally, light propogates from its source in a divergent wave pattern. This causes light to lose its intensity over a relatively short distance. In exchange for that trade off, the photos of the light illuminate a wide area make them useful to see.&nbsp;
+Normally, light propogates from its source in a divergent wave pattern. This causes light to lose its intensity over a relatively short distance. In exchange for that trade off, the photos of the light illuminate a wide area, enabling you to use them to see.
 
-In contrast, laser output has very little divergence and can maintain high beam intensities over long ranges.&nbsp; As a result, relatively low power lasers are able to project more energy at a single wavelength within a narrow beam than can be obtained from more powerful conventional light sources.
+In contrast, laser output has very little divergence and can maintain beam intensities over long ranges.&nbsp; As a result, relatively low power lasers are able to project more energy at a single wavelength within a narrow beam than can be obtained from more powerful conventional light sources.
 
 ### **C****oherent**
 
-Coherent light is light whose photons oscillate at the same frequency and whose wavelengths are in phase. Incoherent light is the opposite of this. The photons of incoherent light oscillate at different frequencies, and their wave lengths are not in phase with each other.
+Coherent light is light whose photons oscillate at the same frequency and whose wavelengths are in phase. Incoherent light is the opposite of this. The photons of incoherent light oscillate at different frequencies and their wavelengths are not in phase with each other.
 
-To put all of this in perspective, consider that the watt (W) s the fundamental unit of optical power, is defined as a rate of energy of one joule (J) per second. Your average householdincandescent light bulbs use about **60 watts** of electricity, and LED light bulbs use about 10 watts.&nbsp;
+This enables more energy to be generated from the same light source because the photons all arrive at the same time.
+
+When you combine these three factors of laser light, it's easy to under why they're so unique, useful, and powerful.
+
+To put all of this in perspective, consider that the watt (W) is the fundamental unit of optical power. It's defined as the rate of the energy of one joule (J) per second. Your average household incandescent light bulb uses about **60 watts** of electricity, and LED light bulbs use about 10 watts.&nbsp;
 
 Unless you touch their surface, you’ve never been burned or cut with the light from a lightbulb. However, because of a laser’s characteristics, [that same wattage can carve acrylic or aluminnum.](https://www.troteclaser.com/en/learn-support/faqs/optimal-laser-power)
 
-For reference and comparison, here are some common lasers and their wattage
+Now that we have a solid understanding of what makes laser light special, we can now full appreciate low-level therapy how that differences from conventional laser technology.&nbsp;
 
-| Lasik&nbsp; | &nbsp; |
-| Laser pointer | &nbsp; |
-| Engraving laser | &nbsp; |
-| CD player | &nbsp; |
+&nbsp;
 
 ## What is Low Level Light Therapy?
 
