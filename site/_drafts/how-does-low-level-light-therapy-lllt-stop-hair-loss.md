@@ -40,7 +40,7 @@ Normally, light propagates from its source in a divergent wave pattern. This cau
 
 In contrast, laser output has very little divergence and can maintain beam intensities over long ranges.&nbsp; As a result, relatively low power lasers are able to project more energy at a single wavelength within a narrow beam than can be obtained from more powerful conventional light sources.
 
-![](/assets/images/drafts/divergence-of-laser.gif){: width="500" height="231"}
+![Laser light does not diverge from its source](/assets/images/drafts/divergence-of-laser.gif "Laser light does not diverge from its source"){: width="500" height="231"}
 
 ### **C****oherent**
 
