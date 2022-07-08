@@ -5,7 +5,9 @@ title: How does Low-Level Light Therapy (lllt) stop hair loss?
 permalink: /low-level-light-therapy-for-hair-loss/
 tags:
   - self-improvement-for-men
-description:
+description: >-
+  Low-level laser (light) is a gamechanger for men losing their hair. But how
+  does it work? This describes how the technology works and much more. 
 image:
 ---
 Low-level laser (light) therapy (LLLT) is&nbsp;**a medical technology that has been used to treat a variety of by stimulating healing, relief of pain and inflammation, and restoration of function**. LLLT, also called photobiomodulation or cold laser, is a type of&nbsp;[phototherapy](https://www.sciencedirect.com/topics/medicine-and-dentistry/phototherapy){: target="_blank" rel="noopener noreferrer"}&nbsp;that utilizes wavelengths of light in the visible to the nearly infrared range of 670–950 nanometers (nm).
