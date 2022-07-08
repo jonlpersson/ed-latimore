@@ -154,7 +154,7 @@ This is why it's so important to have your own device. When this application of 
 
 Also important is the length of time it's used each day. The device I own, the Revitalizer 272, has two timing options: 8 minutes a day every day or 30 minutes every other day.&nbsp;
 
-No matter what, this is like any other hair treatment: the best results come from consistency. It doesn't matter whether it's Minoxidil, Finasteride, or DHT blocking shampoo
+No matter what, this is like any other hair treatment: the best results come from consistency. It doesn't matter whether it's natural treatments, Minoxidil, Oral Finasteride, topical finasteride, or using a DHT-blocking shampoo.
 
 If you aren't consistent, you won't get any results.&nbsp;
 
