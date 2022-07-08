@@ -88,7 +88,7 @@ If you want to do anything with your writing other than express your thoughts, y
 
 While I don’t think that writers [should aim to be popular](/persuasive-writing/). If you want to write for the public to read, you'll eventually face public scrutiny. No matter what people say about your writing, the best advice I can give you is this:
 
-They aren’t investing in building a body of work and taking the [necessary risks to grow.](/how-to-build-a-personal-brand/) They wish they had the courage to do something like put their writing out there. As the musician Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
+They aren’t investing in building a body of work and taking the [necessary risks to grow.](/how-to-build-a-personal-brand/) They wish they had the courage to do something like put their writing out there. As the musician, Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
 
 ## Writing gives you a platform
 
