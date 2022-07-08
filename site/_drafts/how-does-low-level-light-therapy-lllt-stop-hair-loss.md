@@ -30,7 +30,9 @@ Further explanation of the terms and their significance follows. &nbsp;([Source 
 
 All of the light produced by the laser is of a single wavelength. Or, put another way, all of the light produced by a laser is the same color. This is different from the white light that comes from natural (the sun or fire) or artificial (light bulb) sources.
 
-White light is a combination of all visible wavelengths (400 - 700 nm). The rainbow produced by a prism is white light broken into all the colors (wavelengths) that make it make up. In fact, when you see a rainbow, it’s a result of the rain droplets in the air acting as a prism.&nbsp;&nbsp;
+White light is a combination of all visible wavelengths (400 - 700 nm). The rainbow produced by a prism is white light broken into all the colors (wavelengths) that make it make up. In fact, when you see a rainbow, it’s a result of the rain droplets in the air acting as a prism.&nbsp;
+
+![Polychromatic white light vs monochromatic laser light](/assets/images/drafts/comparison-of-ordinary-light-and-laser-regarding-mono-or-polychromocity.png "Polychromatic white light vs monochromatic laser light"){: width="471" height="203"}
 
 ### **Directional**
 
