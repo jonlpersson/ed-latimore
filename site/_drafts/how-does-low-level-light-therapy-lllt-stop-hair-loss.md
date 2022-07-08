@@ -74,26 +74,28 @@ We’ve already established that commercial laser applications are typically in 
 
 Since 1967 over 100 phase III, randomized, double-blind, placebo-controlled, clinical trials have been published and supported by over 1,000 laboratory studies on how it works and many of its effects.
 
-## How does low level light therapy work?
+## How does low-level light therapy work?
 
 The precise biochemical mechanism underlying the therapeutic effects of LLLT is not completely understood. We know for sure that LLLT acts by inducing a photochemical reaction in the cell, a process referred to as biostimulation or photobiomodulation.
 
 It’s believed that this chemical reaction [acts on the mitochondria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/#R27){: target="_blank" rel="noopener noreferrer"}&nbsp;to [increase adenosine triphosphate (ATP) production,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3288797/#R43){: target="_blank" rel="noopener noreferrer"}&nbsp;modulation of reactive oxygen species (ROS), and the induction of transcription factors.
 
-* ATP production increases when an injury is sustained. This is to faciliate healing as it plays a significant role in would repair ([source](https://www.energy-delivery-solutions.com/about-atp)).
+* ATP production increases when an injury is sustained. This is to facilitate healing as it plays a significant role in would repair ([source](https://www.energy-delivery-solutions.com/about-atp)).
 * Reactive oxygen species cause damage to the basic building blocks of the cell, including lipids, proteins, DNA, and RNA ([source](https://www.frontiersin.org/articles/10.3389/fcell.2021.628157/full)).
-* The induction of transcription factors leads to regulation of gene expression that may of previously been modulated or repressed.
+* The induction of transcription factors leads to the regulation of gene expression that may have previously been modulated or repressed.
 
-These three factors combined lead to a dramatic increase of cellular healing and repair. Low-level light therapy works to induce these cellular changes and thus causes a marked healing response.
+These three factors combined lead to a dramatic increase in cellular healing and repair. Low-level light therapy works to induce these cellular changes and thus causes a marked healing response.
 
-## How does low level light therapy work to slow or reverse hair loss?
+## How does low-level light therapy work to slow or reverse hair loss?
 
-To fully appreciate how low level light therapy works for hair loss, we have to understand the four stages of hair growth.
+To fully appreciate how low-level light therapy works for hair loss, we have to understand the four stages of hair growth.
 
 * <u><strong>Anagen phase:</strong></u> This is the growing phase of hair. During the anagen phase, your hair follicles push out hairs that will continue to grow until they’re cut or until they reach the end of their lifespan and fall out. It’s key to remember that hair starts beneath the skin and has been growing long before they are visible.&nbsp;
-* <u><strong>Catagen phase:</strong></u> This is the phase where the anagen phase ends. Hair follicles shink and hair growth slows. Also, during this phase, hair separates from the bottom of the follicle but has not separated or started “shedding”.
+* <u><strong>Catagen phase:</strong></u> This is the phase where the anagen phase ends. Hair follicles shrink and hair growth slows. Also, during this phase, hair separates from the bottom of the follicle but has not separated or started “shedding”.
 * <u><strong>Telogen phase:</strong></u> Hairs don’t grow during the telogen phase, but they don’t usually fall out either. The telogen phase is also when new hairs start to form in follicles that have just released hairs during the catagen phase.&nbsp;
-* <u><strong>Exogen phase:</strong></u> This is the phase that hair typically sheds, as the new growth pushes out the hairs that were separated during. The exogen phase is often considered an extension of the telogen stage. During the exogen phase, it's normal to lose 50-100 hairs per day.
+* <u><strong>Exogen phase:</strong></u>&nbsp;Technically, many consider the exogen phase an extension of the telogen phase. This is the phase that hair typically sheds, as the new growth pushes out the hairs that were separated during the catagen phase. The exogen phase is often considered an extension of the telogen stage. During the exogen phase, it's normal to lose 50-100 hairs per day.
+
+![Life cycle of hair growth](/assets/images/drafts/life-cycle-of-hair.jpeg "Life cycle of hair growth. Exogen phase not recognized."){: width="600" height="400"}
 
 Male androgentic alopecia(MAA), male pattern baldness, or "going bald" happens when the anagen phase decreases while the telogen phase remains the same length or gets longer. Ultimately, anagen duration becomes so short that the growing hair fails to achieve sufficient length to reach the surface of the skin, leaving an empty follicular pore.
 
