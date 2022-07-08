@@ -34,7 +34,9 @@ White light is a combination of all visible wavelengths (400 - 700 nm). The rain
 
 ### **Directional**
 
-Normally, light propogates from its source in a divergent wave pattern. This causes light to lose its intensity over a relatively short distance. In exchange for that trade off, the photos of the light illuminate a wide area, enabling you to use them to see.
+Normally, light propagates from its source in a divergent wave pattern. This causes light to lose its intensity over a relatively short distance. In exchange for that trade-off, the photos of the light illuminate a wide area, enabling you to use them to see.
+
+![](/assets/images/drafts/divergence-conventional-light.gif){: width="631" height="318"}
 
 In contrast, laser output has very little divergence and can maintain beam intensities over long ranges.&nbsp; As a result, relatively low power lasers are able to project more energy at a single wavelength within a narrow beam than can be obtained from more powerful conventional light sources.
 
