@@ -30,15 +30,17 @@ Further explanation of the terms and their significance follows. &nbsp;([Source 
 
 All of the light produced by the laser is of a single wavelength. Or, put another way, all of the light produced by a laser is the same color. This is different from the white light that comes from natural (the sun or fire) or artificial (light bulb) sources.
 
-White light is a combination of all visible wavelengths (400 - 700 nm). The rainbow produced by a prism is white light that has been broken into all the colors (wavelengths) that make it makes up. In fact, when you see a rainbow, it’s a result of the rain droplets in the air acting as a prism.&nbsp;&nbsp;
+White light is a combination of all visible wavelengths (400 - 700 nm). The rainbow produced by a prism is white light broken into all the colors (wavelengths) that make it make up. In fact, when you see a rainbow, it’s a result of the rain droplets in the air acting as a prism.&nbsp;&nbsp;
 
 ### **Directional**
 
 Normally, light propagates from its source in a divergent wave pattern. This causes light to lose its intensity over a relatively short distance. In exchange for that trade-off, the photos of the light illuminate a wide area, enabling you to use them to see.
 
-![](/assets/images/drafts/divergence-conventional-light.gif){: width="631" height="318"}
+![Conventional light diverging from its source](/assets/images/drafts/divergence-conventional-light.gif "Conventional light diverging from its source"){: width="631" height="318"}
 
 In contrast, laser output has very little divergence and can maintain beam intensities over long ranges.&nbsp; As a result, relatively low power lasers are able to project more energy at a single wavelength within a narrow beam than can be obtained from more powerful conventional light sources.
+
+![](/assets/images/drafts/divergence-of-laser.gif){: width="500" height="231"}
 
 ### **C****oherent**
 
