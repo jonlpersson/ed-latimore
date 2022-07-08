@@ -144,13 +144,11 @@ Low-level light therapy produces excellent results for thinning hair resulting f
 
 LLLT does not work in advanced cases of baldness. It cannot cause hair growth on areas of the scalp where there’s no hair at all, as there are no hair follicles to stimulate. LLLT only works on active hair follicles and has no effect on hair follicles that are already shrunken and dead.
 
-Research has shown that LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A&nbsp;[2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
+* Research has shown that LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A&nbsp;[2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
+* [A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"}showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
+* The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine was also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
 
-[A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"}showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
-
-The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine was also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
-
-## How often should you use Low-Level Light Therapy to grow my hair back?
+## How often should you use Low-Level Light Therapy to grow your hair back?
 
 Ideally, every day. As with any non-surgical hair loss treatment, consistency matters more than anything else.&nbsp;
 
@@ -166,7 +164,7 @@ If you aren't consistent, you won't get any results.&nbsp;
 
 Every person is different, but the research has shown fairly consistent results, with most people being able to observe changes in hair density, volume, and strength within 6-12 months.
 
-Of course, this doesn't mean that nothing is happening during the first 6 months. Just remember that lllt therapy is effectively recharging and rebuilding your hair growth cycle by reducing the time that hairs spend in the telogen phase. This takes time, assuming consistent use.
+Of course, this doesn't mean that nothing is happening during the first 6 months. Just remember that lllt therapy effectively recharges and rebuilds your hair growth cycle by reducing the time hairs spend in the telogen phase. This takes time, assuming consistent use.
 
 Your hair will not only have to discard the old hair but start to recharge new hair. Change happens from the very first use, but nothing occurs&nbsp;
 
@@ -177,3 +175,11 @@ In over 50 years of use, LLLT has a low incidence of adverse effects.
 In the specific use of LLLT for hair growth, the only issue was the onset of telogen effluvium but the onset of it only lasted for 1-2 months.
 
 Telogen effluvium is a form of temporary hair loss that usually happens after stress, a shock, or a traumatic event. It usually occurs on the top of the scalp. Telogen effluvium is different from the hair loss disorder called alopecia areata.
+
+The conclusion
+
+Low-level light therapy is a safe, affordable, non-invasive treatment for hair loss. Its mechanisms guarantee that it will stop your hair loss cold and thicken whatever hair remains. Of all the hair treatments out there, the chances of regrowth are only higher if you do an FUE transplant ***(read about my experience getting two FUE transplants here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)).***
+
+If you want to regrow your hair and it's not too far gone, a low-level laser cap is the way to go. I personally recommend the model that I have, the [FDA-approved Bosley Revitalizer 272.](https://amzn.to/3P9txF3){: target="_blank" rel="noopener"}
+
+The rest is up to you.&nbsp;
