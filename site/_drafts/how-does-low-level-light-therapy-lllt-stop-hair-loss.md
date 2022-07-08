@@ -151,7 +151,7 @@ Ideally, every day. As with any non-surgical hair loss treatment, consistency ma
 
 This is why it's so important to have your own device. When this application of the technology was in its infancy, daily treatments weren't possible for the average man because LLLT devices were large, cumbersome, and only at spas. Now, an LLLT hat is relatively inexpensive.&nbsp;
 
-Also important is the length of time it's used each day. The device I own, the Revitalizer 272, has two timing options: 8 minutes a day every day or 30 minutes every other day.&nbsp;
+Also important is the length of time it's used each day. The device I own, [the Revitalizer 272](https://amzn.to/3AAj019){: target="_blank" rel="noopener"}, has two timing options: 8 minutes a day every day or 30 minutes every other day.&nbsp;
 
 No matter what, this is like any other hair treatment: the best results come from consistency. It doesn't matter whether it's natural treatments, Minoxidil, Oral Finasteride, topical finasteride, or using a DHT-blocking shampoo.
 
