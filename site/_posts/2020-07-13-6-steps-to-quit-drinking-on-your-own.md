@@ -41,7 +41,7 @@ You're only questioning yourself because it's a new path, and you aren't certain
 
 These doubts are natural. They mean that you're taking your sobriety seriously. Most people only think in the short term, so they don't have any worries about sticking through with it, but your worries show that you really want to get your drinking under control.
 
-On December 23, 2013,&nbsp;[I stopped drinking](https://www.clearscope.io/sobriety-benefits/)&nbsp;cold turkey without:
+On December 23, 2013,&nbsp;[I stopped drinking](/sobriety-benefits/)&nbsp;cold turkey without:
 
 * Using any treatment programs
 * Support groups
@@ -165,7 +165,7 @@ You can seriously pursue your goals and invest in the type of life that you want
 
 You can only become the new you and live a new life after giving up the old you and your old habits.
 
-There's another benefit of having a goal. It also allows you to&nbsp;[overcome the fear of change.](https://www.clearscope.io/how-to-overcome-fear/)
+There's another benefit of having a goal. It also allows you to&nbsp;[overcome the fear of change.](/how-to-overcome-fear/)
 
 It’s one thing to give up an old behavior habit. If it’s all you’ve known and you give it up out of fear, your desire for familiarity will win in the long run. However, if you are in pursuit of something new and better, you’re more likely to stick to it.
 
@@ -225,7 +225,7 @@ While there is a shift in how society is treating and viewing alcohol, it's big 
 
 Fear of loneliness can keep you cutting back or cutting out your drinking. Even if alcohol isn't enjoyable to you, the socialization ritual surrounding it is. Since everyone in the social environment drinks, you'll automatically feel pressure to drink.
 
-[In your mind, sobriety means giving up a large part of this social life and all of the people you drink with.](https://www.clearscope.io/how-to-have-fun-and-socialize-sober/)&nbsp;This seems terrifying. You may not think about this constantly, but it’s in the back of every drinker’s mind. It’s one of the things that all recovering alcoholics warn you about.
+[In your mind, sobriety means giving up a large part of this social life and all of the people you drink with.](/how-to-have-fun-and-socialize-sober/)&nbsp;This seems terrifying. You may not think about this constantly, but it’s in the back of every drinker’s mind. It’s one of the things that all recovering alcoholics warn you about.
 
 Also, [consider giving back along your recovery journey.](https://www.pbinstitute.com/blog/5-ways-to-give-back-in-recovery/){: target="_blank" rel="noopener noreferrer"} Even if you've only been sober for 1 day, there's someone who can use your guidance that is at day 0.
 

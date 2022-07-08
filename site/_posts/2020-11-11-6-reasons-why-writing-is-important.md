@@ -38,7 +38,7 @@ Writing will simply help you get where you want to be faster and easier.
 
 ## Writing makes it easier to remember good ideas
 
-This highlights another reason you should [try to be a better writer.](https://www.clearscope.io/how-to-write-better-and-be-a-better-writer/)
+This highlights another reason you should [try to be a better writer.](/how-to-write-better-and-be-a-better-writer/)
 
 The average person forgets many more ideas than they ever remember. If the ideas are forgotten, then this means that the ideas can’t be used. By writing the ideas down, these flashes of insight and reflection are captured for later use.
 
@@ -66,7 +66,7 @@ As you take the time to improve your ability to express yourself with high level
 
 Effective communicators are effective writers. Effective writing is powerful because communication can be a force that causes things to happen.
 
-[The more precise your communication](https://www.clearscope.io/how-to-start-a-conversation/), the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
+[The more precise your communication](/how-to-start-a-conversation/), the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
 
 #### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
@@ -86,9 +86,9 @@ You can’t draw any meaning from the words without focusing. This means that re
 
 If you want to do anything with your writing other than express your thoughts, you have to share your writing. Sharing your writing does two things for you: it gets you to face your fears about being criticized and exposes you to criticism. This is an important right of passage for anyone who wants to build a following.
 
-While I don’t think that writers [should aim to be popular](https://www.clearscope.io/persuasive-writing/). If you want to write for the public to read, you'll eventually face public scrutiny. No matter what people say about your writing, the best advice I can give you is this:
+While I don’t think that writers [should aim to be popular](/persuasive-writing/). If you want to write for the public to read, you'll eventually face public scrutiny. No matter what people say about your writing, the best advice I can give you is this:
 
-They aren’t investing in building a body of work and taking the [necessary risks to grow.](https://www.clearscope.io/how-to-build-a-personal-brand/) They wish they had the courage to do something like put their writing out there. As the musician Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
+They aren’t investing in building a body of work and taking the [necessary risks to grow.](/how-to-build-a-personal-brand/) They wish they had the courage to do something like put their writing out there. As the musician Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
 
 ## Writing gives you a platform
 
@@ -104,7 +104,7 @@ All SEO and marketing boil down to taking advantage of what makes a person find 
 
 You won’t need to stuff your pieces with keywords to the point where it sounds awkward, nor will you need to dumb it down so that it’s more palatable to a wider audience. You won’t [need to focus](/how-to-focus-better/) on the hottest topics and trends, nor will you need to write about things you have no interest in simply because they’re popular topics.
 
-[If you write about what you care about, what you’re an expert in, or what you’re passionate about, the audience will naturally build itself around you.](https://www.clearscope.io/products/twitter-growth-engine/)
+[If you write about what you care about, what you’re an expert in, or what you’re passionate about, the audience will naturally build itself around you.](/products/twitter-growth-engine/)
 
 I find true artists have difficulty selling themselves and their products. The old cliche of a starving artist is true, but only because the artist (in this case, the writer) thinks that they’re somehow dishonest or misleading to use.
 

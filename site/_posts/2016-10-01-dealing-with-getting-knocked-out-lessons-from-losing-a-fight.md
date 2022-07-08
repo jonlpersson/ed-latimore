@@ -111,7 +111,7 @@ One must know thyself thoroughly, for this is the only way to form your identity
 
 The reality is that there is far more to a person than that.
 
-I suspect that people take on [self-destructive behavior](https://www.clearscope.io/lessons-from-the-ghetto-willingness-to-fight/) after a professional setback because they have come to define themselves only by their accomplishments.
+I suspect that people take on [self-destructive behavior](/lessons-from-the-ghetto-willingness-to-fight/) after a professional setback because they have come to define themselves only by their accomplishments.
 
 Failure ceases to be a learning opportunity to these people and instead becomes the stake at which they burn themselves. This is another trick of the ego, and one you must be vigilant against, for your connection with people is the most important thing.
 

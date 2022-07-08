@@ -110,7 +110,7 @@ Amateurs like to be "well-rounded" because being a jack-of-all-trades is a conve
 
 Of course, amateurs don't&nbsp;*really*&nbsp;want to win. Hell, they don't even want to compete. Sure, they might think they're competitive, but really they just enjoy crossing the finish line — not the agony of preparing for and then running the race.
 
-Professionals, on the other hand,&nbsp;[love to compete](https://www.clearscope.io/how-to-be-competitive/). They enjoy the thrill and agony of battle. They know that the process is more important than the thrill of victory. The only way to be a good competitor is to work on mastering your craft. The easiest—and perhaps, only—way to master your craft is to be obsessed with it.
+Professionals, on the other hand,&nbsp;[love to compete](/how-to-be-competitive/). They enjoy the thrill and agony of battle. They know that the process is more important than the thrill of victory. The only way to be a good competitor is to work on mastering your craft. The easiest—and perhaps, only—way to master your craft is to be obsessed with it.
 
 Obsession scares amateurs because it means they have to get serious. It can no longer be a part-time pursuit. You stop working on a plan B in case plan A doesn't work out. You have to give up everything and attempt to make the object of your obsession work out.&nbsp;
 
@@ -183,6 +183,6 @@ You have to deal with both internal and external obstacles:
 
 But in the end, it will all be worth it.
 
-I should know.&nbsp;[I grew up in the hood](https://www.clearscope.io/the-projects/)&nbsp;and managed to get away. I fucked around all throughout my twenties and then I joined the National Guard, pursued a degree in Physics, and became a successful professional athlete. So in other words, I know a thing or two about overcoming both internal and external obstacles.
+I should know.&nbsp;[I grew up in the hood](/the-projects/)&nbsp;and managed to get away. I fucked around all throughout my twenties and then I joined the National Guard, pursued a degree in Physics, and became a successful professional athlete. So in other words, I know a thing or two about overcoming both internal and external obstacles.
 
 {% include widgets/cta-email.html %}

@@ -43,7 +43,7 @@ Porn addiction makes a person more likely to cheat, causing emotional distress f
 
 While emotional and spiritual work may help, porn's appeal is simple:
 
-It's not appealing because you're broken, empty, or [have an addictive personality](https://www.clearscope.io/sobriety-benefits/){: target="_blank"}. Porn is appealing because orgasms feel good and are the result of giving in to the most powerful drive on the planet; the need to procreate.
+It's not appealing because you're broken, empty, or [have an addictive personality](/sobriety-benefits/){: target="_blank"}. Porn is appealing because orgasms feel good and are the result of giving in to the most powerful drive on the planet; the need to procreate.
 
 The easy access to internet pornography allows you to get this effect whenever you want with as much variety as you desire.
 
