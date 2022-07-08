@@ -179,7 +179,7 @@ We’re a ticking time bomb, and with each passing hour and sip of alcohol, the 
 
 *This is an anxious period.*
 
-I don’t know if many other drinkers go through this phase, but there was a clearly defined period of time where I knew that I was a danger to myself and others while under the influence of alcohol. This didn’t motivate me to quit, but I was afraid of how bad things could get if I drank too much.
+I don’t know if many other drinkers go through this phase, but there was a clearly defined period of time when I knew that I was a danger to myself and others while under the influence of alcohol. This didn’t motivate me to quit, but I was afraid of how bad things could get if I drank too much.
 
 The irony of this approach is that I often tried to drink away this fear to socialize more easily, and I arrogantly (and wrongly) believed that I was in control.
 
@@ -195,7 +195,7 @@ You could also check into 12-step programs such as [SMART Recovery](https://www.
 
 The NIAAA is an organization dedicated to helping people overcome alcohol use disorder and alcohol addiction. The difference between two terms is mostly a matter of degree rather than type, but the idea is the same: these are people who want to cut back on or eliminate their alcohol consumption.
 
-NIAAA's website is full of practical, research and science based ways to help you stop drinking.&nbsp; Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
+NIAAA's website is full of practical research, and science based ways to help you stop drinking.&nbsp; Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
 
 The site also delivers a list of [sobering statistics about the reality of alcoholism](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/alcohol-facts-and-statistics){: target="_blank" rel="noopener noreferrer"}. These statistics remind you that you're often one bad decision away from completely ruining your life.&nbsp;
 
