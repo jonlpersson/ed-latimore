@@ -113,7 +113,7 @@ The reality is that there is far more to a person than that.
 
 I suspect that people take on [self-destructive behavior](/lessons-from-the-ghetto-willingness-to-fight/) after a professional setback because they have come to define themselves only by their accomplishments.
 
-Failure ceases to be a learning opportunity to these people and instead becomes the stake at which they burn themselves. This is another trick of the ego, and one you must be vigilant against, for your connection with people is the most important thing.
+Failure ceases to be a learning opportunity for these people and instead becomes the stake at which they burn themselves. This is another trick of the ego, and one you must be vigilant against, for your connection with people is the most important thing.
 
 The strongest prophylaxis against this is to remember your relationships with others and the other ways you bring value to the world. Also, don't forget that the world will go on spinning with or without your precious identity intact.
 
