@@ -146,6 +146,18 @@ Research has shown that LLLT helped to slow down or even stop hair loss in 85% o
 
 The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine was also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
 
+## How often should you use Low-Level Light Therapy to grow my hair back?
+
+Ideally, every day. As with any non-surgical hair loss treatment, consistency matters more than anything else.&nbsp;
+
+This is why it's so important to have your own device. When this application of the technology was in its infancy, daily treatments weren't possible for the average man because LLLT devices were large, cumbersome, and only at spas. Now, an LLLT hat is relatively inexpensive.&nbsp;
+
+Also important is the length of time it's used each day. The device I own, the Revitalizer 272, has two timing options: 8 minutes a day every day or 30 minutes every other day.&nbsp;
+
+No matter what, this is like any other hair treatment: the best results come from consistency. It doesn't matter whether it's Minoxidil, Finasteride, or DHT blocking shampoo
+
+If you aren't consistent, you won't get any results.&nbsp;
+
 ## Is Low-Level Light Therapy safe?
 
 In over 50 years of use, LLLT has a low incidence of adverse effects.
