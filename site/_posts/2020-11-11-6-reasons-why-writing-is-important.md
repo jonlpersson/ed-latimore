@@ -80,7 +80,7 @@ I think back to a debate I once had with someone. They argued that there’s no 
 
 It’s impossible to read a book AND zone out or fall asleep. The moment you close your eyes, you stop taking in information from the book.
 
-You can’t draw any meaning from the words without focusing. This means that reading even the worst book automatically demands concentration from you. This means that writing will also be an effective medium for transmitting the information. It’s impossible to read something without at least engaging in some mode of critical thinking, even if it’s just to determine the sensibility of what is being said.
+You can’t draw any meaning from the words without focusing. This means that reading even the worst book automatically demands concentration from you. This means that writing will also be an effective medium for transmitting information. It’s impossible to read something without at least engaging in some mode of critical thinking, even if it’s just to determine the sensibility of what is being said.
 
 ## Writing makes you mentally tougher
 
@@ -102,11 +102,11 @@ Write for humans. That’s it.
 
 All SEO and marketing boil down to taking advantage of what makes a person find something engaging. If you can trigger that in your writing, then you’re well on your way to having a tremendous impact and building a following.
 
-You won’t need to stuff your pieces with keywords to the point where it sounds awkward, nor will you need to dumb it down so that it’s more palatable to a wider audience. You won’t [need to focus](https://www.clearscope.io/how-to-focus-better/) on the hottest topics and trends, nor will you need to write about things you have no interest in simply because they’re popular topics.
+You won’t need to stuff your pieces with keywords to the point where it sounds awkward, nor will you need to dumb it down so that it’s more palatable to a wider audience. You won’t [need to focus](/how-to-focus-better/) on the hottest topics and trends, nor will you need to write about things you have no interest in simply because they’re popular topics.
 
 [If you write about what you care about, what you’re an expert in, or what you’re passionate about, the audience will naturally build itself around you.](https://www.clearscope.io/products/twitter-growth-engine/)
 
-I find that true artists have a hard time selling themselves and their products. The old cliche of a starving artist is true, but only because the artist (in this case, the writer) thinks that they’re somehow dishonest or misleading to use.
+I find true artists have difficulty selling themselves and their products. The old cliche of a starving artist is true, but only because the artist (in this case, the writer) thinks that they’re somehow dishonest or misleading to use.
 
 If your writing comes from the heart, there is someone out there who needs to read it. The only way they will find it is if you learn the basics of marketing, promotion, and building a following
 
