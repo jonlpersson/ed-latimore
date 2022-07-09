@@ -3,10 +3,9 @@ date: 2022-06-13 06:00:00 -0400
 type: Dick Detox 30-Day Bootcamp
 title: 'The Dick Detox Bootcamp: 30 days to freedom from internet porn'
 description: >-
-  This sturdy ceramic mug bears my iconic “Coffee So Black” mark on the front,
-  paired with one of my popular Twitter jokes on the back: “Coffee so black you
-  can only buy it at auction.”
-image: /assets/images/products/auction-thumbnail.png
+  My proven system to quit internet porn, win with women, and get your sex life
+  back on track in 30 days or less. 
+image:
 product_info:
   button_text: Buy now
   button_url: https://edwardlatimore.gumroad.com/l/mug-auction
