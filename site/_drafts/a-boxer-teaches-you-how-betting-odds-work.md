@@ -8,7 +8,7 @@ tags:
 description: >-
   Betting odds look perplexing to most people who are not involved in the sports
   betting or gambling scene. However, they are actually quite simple.
-image:
+image: /assets/images/drafts/boxing-betting-odds.jpeg
 ---
 Betting odds look perplexing to most people who are not involved in the sports betting or gambling scene. However, they are actually quite simple.
 
@@ -41,7 +41,7 @@ Then there are speculative risks. These are risks where there is a chance of los
 
 This is always why gambling and investing are sometimes referred to as “speculation”.
 
-***In sports betting, we’re trying to assess the pure risk each side in a contest faces and then position ourselves to profit from it with a speculative bet. ***I put that last sentence in bold italics because it underpins everything else related to sports betting.
+*\*\*In sports betting, we’re trying to assess the pure risk each side in a contest faces and then position ourselves to profit from it with a speculative bet. \*\**I put that last sentence in bold italics because it underpins everything else related to sports betting.
 
 One more thing about risk, and this might be the most important. Speculative risk and reward scale *at least* directly, but often asymmetrically. In other words, the bigger the risk, the bigger the reward if you’re right and it pays off, and sometimes, it’s REALLY big.
 
