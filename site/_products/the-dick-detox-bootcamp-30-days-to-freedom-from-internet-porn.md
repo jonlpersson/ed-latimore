@@ -12,14 +12,9 @@ product_info:
   price: $15.99
 hero:
   hero_type: product
-  image: /assets/images/products/auction-thumbnail.png
-  heading: Get my Coffee So Black ("Auction”) mug
-  text: >-
-    This sturdy ceramic mug bears my iconic “Coffee So Black” mark on the front,
-    paired with one of my popular Twitter jokes on the back: “Coffee so black
-    you can only buy it at auction,” liked and retweeted by thousands. The mug
-    has a glossy finish and the print retains its quality even when dishwashed
-    and microwaved.
+  image:
+  heading: Break free from the shackles of internet porn today
+  text: Break free from the shackles of internet porn today
 page_blocks:
   - _id: block_rich_text
     alignment: center
