@@ -22,30 +22,44 @@ Ideas like:
 * Underdog/Favorite
 * Betting line
 
-I put this guide to understanding betting odds, not because I like to gamble or bet on sports, but because I’m fascinated by the idea of risk and its role in our daily lives. Placing sports bets provides you with a way to learn about and appreciate the inherent risk in all activities and how, if you can anticipate, you can not only avoid it but profit from it as well.
+I put this guide together to better understand betting odds, not because I like to gamble or bet on sports, but because I’m fascinated by the idea of risk and its role in our daily lives.
+
+Placing sports bets provides you with a way to learn about and appreciate the inherent risk in all activities and how, if you can anticipate, you can not only avoid it but profit from it as well.
 
 While the odds format is expressed numerically, you don’t need a lot of math to understand it.
 
+***But if you want to learn math, here is an article I put together that details what I did to go from a failing math student to someone who has a minor in math and a major in physics—&gt;[7 ways to get better at math](/how-to-get-better-at-math/)***
+
 ## The definition of risk and what we’re really doing with sports betting
 
-There are two definitions of risk that say the same thing, but do it in such different ways that I have to put both here to make a point.
+There are two definitions of risk that say the same thing but do so in such different ways that I have to put both here to make a point.
 
-In financial terms, “risk“ is defined as the chance that an outcome or investment’s actual gain will differ from an expected amount or return. In general terms, “risk” is a measure of something’s exposure to harm. In both definitions of risk, we are attempting to quantify the likelihood of something losing value. The only difference between the financial and general definitions is what is at risk of losing value.
+In financial terms, “risk“ is defined as the chance that an outcome or investment’s actual gain will differ from an expected amount or return. In general terms, “risk” is a measure of something’s exposure to harm.
+
+In both definitions of risk, we are attempting to quantify the likelihood of something losing value. The only difference between the financial and general definitions is what is at risk of losing value.
 
 * Something with “no risk” is often called a safe bet because it’s safe. There is little to no chance of anything money or health being lost.
 * Something that is “high risk” has a high chance of losing money or health.
 
-However, not all risks of the same degree are of the same type. There are “pure risks” and “speculative risks”. Pure risks are things where there is only the possibility of loss. For example, getting on an airplane or driving represents a pure risk. The only thing that can happen is something goes wrong. Getting to your destination safely isn’t a gain because that’s what was supposed to happen.
+However, not all risks are of the same degree or are of the same type. There are “pure risks” and “speculative risks”.
 
-Then there are speculative risks. These are risks where there is a chance of loss or gain. Sports gambling (or gambling, in general) is a great example of speculative risks. When you bet money, you will either lose what you bet or gain. Rarely does a bettor find himself in a position where it’s a “push” or a draw.
+### What is "pure risk"?
+
+Pure risks are things where there is only the possibility of loss. For example, getting on an airplane or driving represents a pure risk. The only thing that can happen is something goes wrong. Getting to your destination safely isn’t a gain because that’s what was supposed to happen.
+
+### What is "speculative risk"?
+
+Then there are speculative risks. These are risks where there is a chance of loss or gain. Sports gambling (or gambling, in general) is a great example of speculative risks. When you bet money, you will either lose what you bet or gain. Rarely does a bettor find himself in a position where it’s a “push” or a "draw".
 
 This is always why gambling and investing are sometimes referred to as “speculation”.
 
-*\*\*In sports betting, we’re trying to assess the pure risk each side in a contest faces and then position ourselves to profit from it with a speculative bet. \*\**I put that last sentence in bold italics because it underpins everything else related to sports betting.
+***In sports betting, we’re trying to assess the pure risk each side in a contest faces and then position ourselves to profit from it with a speculative bet.***I put that last sentence in bold italics because it underpins everything else related to sports betting.
 
-One more thing about risk, and this might be the most important. Speculative risk and reward scale *at least* directly, but often asymmetrically. In other words, the bigger the risk, the bigger the reward if you’re right and it pays off, and sometimes, it’s REALLY big.
+One more thing about risk, and this might be the most important:
 
-Like, even bigger than the initial risk would have accounted for.
+Speculative risk and reward scale *at least* directly, but often asymmetrically. In other words, the bigger the risk, the bigger the reward if you’re right and it pays off, and sometimes, the pay of is disproportionately bigger than what you risk.
+
+Lottery and sweepstakes are perfect examples of how asymetrical the some risk can be.
 
 ## How to Read Betting Odds
 
