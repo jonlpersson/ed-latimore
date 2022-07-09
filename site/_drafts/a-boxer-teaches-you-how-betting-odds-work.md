@@ -67,13 +67,11 @@ Understanding how the odds are displayed is fairly simple. The math isn't too co
 
 These are the odds you'll see these on all sportsbook sites in the United States. They have the little ”-” and ”+” signs and all seem to be greater than the number 100. Officially, the American style is simply called ”American Odds”.
 
-Much the way Americans do with the metric system, we bucked the much more internationally common system of decimal odds or fractional odds for our own way of doing things. You’ll see it this way on almost every betting site as well.
+Much like Americans do with the metric system, we bucked the much more internationally common system of decimal or fractional odds for our own way of doing things. You’ll see it this way on almost every betting site as well.
 
-These odds are given when you’re making a Moneyline bet. Moneyline bets are bets where there are only 2 or 3 possible outcomes: win, loss, and draw.
+These odds are given when you’re making a moneyline bet. Moneyline bets are bets where there are only 2 or 3 possible outcomes: win, loss, and draw.
 
-Consider this example
-
-Betting lines will always be based on 100. You’ll never see any number less than 100 in the American Moneyline style of betting. Anytime you see a betting line that shows plus and minus, remember that this means
+Moneyline bets will always be based on 100. You’ll never see any number less than 100 in the American Moneyline style of betting. Anytime you see a betting line that shows plus and minus, remember that this means
 
 * The number in front of the minus sign represents how much you’ll have to bet to win $100.
 * The number in front of the plus sign represents how much you’ll receive if you bet $100.
