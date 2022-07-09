@@ -12,15 +12,15 @@ image: /assets/images/drafts/boxing-betting-odds.jpeg
 ---
 Betting odds look perplexing to most people who are not involved in the sports betting or gambling scene. However, they are actually quite simple.
 
-Understanding the odds that bookmakers or “bookies“ give on sporting events doesn’t require any more math than what you learned in grade school, but it has the potential to make you a few extra dollars. Or, if you don’t have the nerves or money for gambling, then you’ll at least be able to understand some of the sports betting terms that have made it into the casual sports fan’s vocabulary. Ideas like:
+Understanding the odds that bookmakers or “bookies“ give on sporting events doesn’t require any more math than what you learned in grade school, but it has the potential to make you a few extra dollars. Or, if you don’t have the nerves or money for gambling, then you’ll at least be able to understand some of the sports betting terms that have made it into the casual sports fan’s vocabulary.
+
+Ideas like:
 
 * Spread bet or “covering the spread”
 * Over/under
-* The vig
-* Underdog/favorite
-
+* Vig
+* Underdog/Favorite
 * Betting line
-* Money line
 
 I put this guide to understanding betting odds, not because I like to gamble or bet on sports, but because I’m fascinated by the idea of risk and its role in our daily lives. Placing sports bets provides you with a way to learn about and appreciate the inherent risk in all activities and how, if you can anticipate, you can not only avoid it but profit from it as well.
 
