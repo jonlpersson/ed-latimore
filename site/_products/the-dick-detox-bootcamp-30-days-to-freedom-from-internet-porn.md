@@ -1,9 +1,11 @@
 ---
-date: 2022-06-13 06:00:00 -0400
+date: 2022-06-14 06:00:00 -0400
 type: Dick Detox 30-Day Bootcamp
 title: 'The Dick Detox Bootcamp: 30 days to freedom from internet porn'
-description: 'My proven system to quit internet porn, win with women, and gete '
-image:
+description: >-
+  My proven system to quit internet porn, win with women, and get your sex life
+  back on track.
+image: /assets/images/drafts/latimore-high-waist.png
 product_info:
   button_text: Enroll now!
   button_url:
