@@ -5,9 +5,9 @@ title: 'The Dick Detox Bootcamp: 30 days to freedom from internet porn'
 description: 'My proven system to quit internet porn, win with women, and gete '
 image:
 product_info:
-  button_text: Buy now
-  button_url: https://edwardlatimore.gumroad.com/l/mug-auction
-  price: $15.99
+  button_text:
+  button_url:
+  price:
 hero:
   hero_type: product
   image:
