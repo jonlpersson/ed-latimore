@@ -25,7 +25,9 @@ I don't claim to be an expert on recovery. I'm just a guy who took things one da
 
 It doesn't matter how slowly you go. Only that you keep making moves. We don't aim for perfection. Only progress. May these sobriety quotes help you [get up from rock bottom](/how-to-know-if-you-have-a-drinking-problem/) and stay up once you're on your feet.
 
-{% include widgets/toc.html heading="53 Sobriety quotes from Ed Latimore" list-items="Sobriety quotes from my Twitter, Sobriety quotes from 'How to know if you have a drinking problem', Inspirational quotes from 'The alcohol detox diet I used to get sober', Motivational quotes from '6 steps to quit drinking on your own', Sobriety quotes from 'How to socialize and have fun sober', Addiction recovery quotes from '8 years of sobriety: Observations and lessons', Sober quotes from Ed Latimore's 'Sober Letters To My Drunken Self'" list-ids="sobriety-quotes-from-my-twitter, sobriety-quotes-from-how-to-know-if-you-have-a-drinking-problem, inspirational-quotes-from-the-alcohol-detox-diet-i-used-to-get-sober, motivational-quotes-from-6-steps-to-quit-drinking-on-your-own, sobriety-quotes-from-how-to-socialize-and-have-fun-sober, addiction-recovery-quotes-from-8-years-of-sobriety-observations-and-lessons, sober-quotes-from-ed-latimores-sober-letters-to-my-drunken-self" %}
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Sobriety quotes from my Twitter
 
