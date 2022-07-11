@@ -11,9 +11,9 @@ page_blocks:
     alignment:
     text_markdown: >-
       If you’ve ever wondered what it’s like living in the hood, the first thing
-      I can tell you is that you consider yourself lucky that you only get to
-      wonder. I grew up in 2 different inner-city housing projects in the city
-      of Pittsburgh.
+      I can tell you is that you should consider yourself lucky that you only
+      get to wonder. I grew up in 2 different inner-city housing projects in the
+      city of Pittsburgh.
 
 
       Pittsburgh doesn’t have some of the notorious hoods or housing projects
