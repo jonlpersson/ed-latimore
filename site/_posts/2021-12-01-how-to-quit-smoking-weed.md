@@ -42,9 +42,11 @@ Then, the only way to feel good and escape my shortcomings was to smoke more wee
 
 This article is for you if you find yourself struggling to quit weed despite obvious consequences like I was. I will share everything I learned after trying and failing for an entire decade–and finally succeeding—so you can avoid the physical, emotional, and financial rollercoaster I had to go through.
 
-**PS: This article doesn’t exist to persuade anyone to quit smoking weed.** I’ve created this article as a tool to aid you or a loved one if you know or suspect you need to quit marijuana but can’t do it on your own. I’m not a doctor or medical professional. I’m just a guy who wrestled with marijuana dependence for ten years and made it out the other side happier and healthier.
+**PS: This article doesn’t exist to persuade anyone to quit smoking weed.** I’ve created this article as a tool to aid you or a loved one if you know or suspect you need to quit marijuana but can’t do it on your own. I’m not a doctor or medical professional. I’m just a guy who wrestled with marijuana dependence for ten years and made it out to the other side happier and healthier.
 
-{% include widgets/toc.html heading="How to quit smoking weed" list-items="Know that it’s not about weed, Replace the rituals and rewards, Weigh the pros and cons, Consider using CBD instead" list-ids="1-its-not-about-weed-addiction-is-a-coping-mechanism, 2-replace-the-rituals-and-rewards, 3-do-a-cost-benefit-analysis, 4-consider-using-cbd" %}
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Weed has changed
 
