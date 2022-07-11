@@ -38,7 +38,9 @@ I know that many people who read this know someone who either:
 
 Whichever person you are, I hope you get something out of this post and a life is changed or even saved.
 
-{% include widgets/toc.html heading="How to quit drinking" list-items="3 things you need to quit drinking, You don&rsquo;t need alcoholics anonymous, You won't lose you true friends, You will experience alcohol withdrawal, Getting drunk is not worth losing friends over, Sober people can't stand drunk people, You will find your true self, Your relationships will change " list-ids="1-there-are-3-things-you-need-if-you-want-to-quit-drinking, 2-you-dont-need-alcoholics-anonymous , 3-you-wont-lose-your-true-friends, 4-you-will-experience-alcohol-withdrawal, 5-getting-drunk-is-not-worth-losing-friends-over, 6-sober-people-cant-stand-drunk-people, 7-you-will-find-your-true-self, 8-your-relationships-will-change-for-better-or-worse" %}
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## 1\. There are 3 things you need if you want to quit drinking
 
