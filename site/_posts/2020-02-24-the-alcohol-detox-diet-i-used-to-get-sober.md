@@ -25,6 +25,10 @@ I know what you’re thinking: *“Cool but I could never do that. I could never
 
 Don’t sell yourself short. I thought the exact same thing. The change was something that other people did, but not me. I was too lazy, depressed, sick, addicted, stressed, and afraid. If you're going at sobriety alone here's [how I recommend you stop](/how-to-stop-drinking-on-your-own/).
 
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 If you’ve had loved ones threaten to disown you if you didn’t [check into a treatment program](https://stonegatecenter.com/when-seek-medical-detox-treatment/){: target="_blank" rel="noopener noreferrer"}, attend AA, or start going to therapy, you can probably relate to what I’m saying. It's a special type of hell when your life comes down to the ability to stick with recovery.
 
 I realized that the most difficult thing to change isn’t your alcohol consumption, drug abuse, or negative emotions. The hardest thing to change is your mindset, perspective, and habits. If you want to quit drinking check out my [8 things you should know to quit](/8-things-to-know-if-you-want-to-quit-drinking/).
