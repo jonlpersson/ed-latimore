@@ -12,7 +12,7 @@ product_info:
   price:
 hero:
   hero_type: product
-  image:
+  image: /assets/images/drafts/latimore-high-waist.png
   heading: 30-day Dick Detox Bootcamp
   text: Accountability, discipline, and brotherhood to finally get off internet porn
 page_blocks:
