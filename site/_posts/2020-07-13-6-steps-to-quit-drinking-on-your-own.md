@@ -23,7 +23,9 @@ This post shows you how to take a break from booze so you can get your physical,
 
 If you follow these tips, you'll finally be able to get your drinking under control.
 
-{% include widgets/toc.html heading="6 things to do stop drinking on your own" list-items="Believe that you can stop drinking, Admit that you have a drinking problem, Admit that you're afraid, ​​​​​​Commit to sobriety, Develop and lean on a support system, Embrace the journey" list-ids="believe-that-you-can-stop-drinking, admit-that-you-have-a-drinking-problem, admit-that-youre-afraid, commit-to-sobriety, develop-and-lean-on-a-support-system, embrace-the-journey" %}
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Believe that you can stop drinking
 
