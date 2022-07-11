@@ -13,7 +13,7 @@ image: /assets/images/drafts/drinkingfemaleregret.jpg
 ---
 I started this line of research because I was originally going to use it for a chapter of my book about recovery, [“Sober Letters To My Drunken Self”](/products/sober-letters/).&nbsp; It was merely born of a curiosity that started to grow as I researched the book. Ultimately, I decided to not include it, as it’s not technically about my personal drinking experiences and is beyond the scope of what I wanted the book to focus on.&nbsp;
 
-However, this is a topic that I am gravely concerned about. In this essay. What I aim to do here is demonstrate alcohol’s role in sexual assault because of the various ways that it works on and in conjunction with young men and women’s neurochemistry.
+However, this is a topic that I am gravely concerned about. In this essay. I aim to demonstrate alcohol’s role in sexual assault because of the various ways it works on and in conjunction with young men and women’s neurochemistry.&nbsp;
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
