@@ -15,6 +15,10 @@ I started this line of research because I was originally going to use it for a c
 
 However, this is a topic that I am gravely concerned about. In this essay. What I aim to do here is demonstrate alcohol’s role in sexual assault because of the various ways that it works on and in conjunction with young men and women’s neurochemistry.
 
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ## **Stats about college sexual assault**
 
 The information on the number of sexual assaults in college is disturbing. A 2020 survey by the [Associate of American Universities](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/Campus-Safety/Revised%20Aggregate%20report%20%20and%20appendices%201-7_&#40;01-16-2020_FINAL&#41;.pdf) reports that 13% of all students (regardless of gender), experience sexual assault through force, violence, or incapacitation. That’s more than 1 in 10 students who will become a victim of sexual assault.
