@@ -36,6 +36,10 @@ But there was perhaps no bigger winner than the pornography industry. To celebra
 
 Even without Pornhub's data, there are other studies show how pervasive internet pornography is. The numbers don’t lie:&nbsp;[70% of men 18-24 admit to watching porn at least once a week](https://www.webroot.com/us/en/resources/tips-articles/internet-pornography-by-the-numbers){: target="_blank"}.
 
+**I gave a Ted Talk about dealing with addiction and its connection to identity. Check it out here.**
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ## The Rising Resistance To The Porn Attack
 
 Men are starting to realize that while pornography is fun in the short term, debilitating long-term consequences and health conditions accompany heavy porn use.
