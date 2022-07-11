@@ -22,17 +22,19 @@ Going out takes time. Drinking takes time. Recovering takes time.
 
 This was time I could have spent on boxing, studying, writing, or bonding with loved ones.
 
-And once I was able to dedicate my life towards these pursuits, I began to realize just how much alcohol was holding me back.
+And once I was able to dedicate my life to these pursuits, I began to realize just how much alcohol was holding me back.
 
 I could write a dozen articles about the pros of quitting drinking, but after some time I managed to cut that list down to eight specific things.
 
 These are the eight most impactful benefits I experienced after I stopped drinking alcohol, which I’ll go into more detail throughout this article:
 
-{% include widgets/toc.html heading="The biggest benefits of not drinking alcohol" list-items="Your social life improves, You gain control of your emotions, It builds accountability, You have more free time, Non-alcoholic beer tastes great, You learn who your real friends are, You have a lot more money, Every aspect of your life improves" list-ids="your-social-life-improves-when-you-become-sober, you-gain-control-over-your-emotions, getting-sober-makes-you-more-accountable-for-your-actions, youll-have-a-lot-more-free-time-available, you-get-to-discover-the-world-of-delicious-non-alcoholic-drinks, quitting-drinking-will-show-you-who-your-real-friends-are, your-bank-account-will-be-better-than-ever, every-aspect-of-your-life-will-change-for-the-better" %}
+***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Your social life improves when you become sober
 
-Have you ever told yourself that you need some “liquid courage” to loosen up socialize?
+Have you ever told yourself that you need some “liquid courage” to loosen up and socialize?
 
 When you get drunk and talk to people, it's difficult to remember what was said, stay focused on the stories told, or read body language and tonality.
 
@@ -44,7 +46,7 @@ You’re no longer afraid to connect with other people, but you’re more likely
 
 It's tough to build a new social life if you stop drinking, but the quality of your friendships will be much higher if you can overcome social anxiety without relying on alcohol.
 
-***If you want some quick bites you can use to encourage someone getting sober or to help yourself stay the course, check out [53 of my most powerful quotes about sobriety.](/ed-latimore-sobriety-quotes/)***
+***If you want some quick bites you can use to encourage someone to get sober or to help yourself stay the course, check out [53 of my most powerful quotes about sobriety.](/ed-latimore-sobriety-quotes/)***
 
 ## You gain control over your emotions
 
@@ -58,7 +60,7 @@ Eventually, if you try to take the sunglasses off, the overwhelming flood of bri
 
 We lose the ability to assess and deal with negative emotions outside of getting drunk. This is well known and expected. What people often forget is that our ability to enjoy positive emotions also becomes impaired.
 
-For a long time, I had no idea how to celebrate the good things in life without drinking.
+I had no idea how to celebrate the good things in life without drinking for a long time.
 
 Got a raise at work? Let’s drink\! It’s my birthday? Let’s drink\! I just won a fight\!? I have to drink.
 
@@ -84,7 +86,7 @@ Just stop drinking.
 
 You can't use alcohol as an excuse if you're always sober. As a result, you put more thought into what you say and do, elevating your life to higher standards than ever before.
 
-If you're looking to quit drinking then there's a few things you should know, read them [here](/8-things-to-know-if-you-want-to-quit-drinking/) .
+If you're looking to quit drinking then there are a few things you should know, read them [here](/8-things-to-know-if-you-want-to-quit-drinking/).
 
 {% include widgets/summary.html id="Vice-breakers-booze" %}
 
@@ -104,7 +106,7 @@ Above all, you aren’t spending time around people you *actually* know and like
 
 Once you build an amazing network of like-minded friends and spend your time doing the things you love, you become aware of everything you missed out on in the past.
 
-If you're worried that you don't know how to, here's a an article I wrote [teaching you how to have fun and socialize sober](/how-to-have-fun-and-socialize-sober/).
+If you're worried that you don't know how, here's an article I wrote [teaching you how to have fun and socialize sober](/how-to-have-fun-and-socialize-sober/).
 
 Over time, you’ll move on from those old drinking friends and habits and start loving everything the world has to offer.
 
@@ -132,7 +134,7 @@ When I stopped drinking, I texted my closest friends and told them.
 
 I told them I was scared, but I didn't specify what exactly scared me: I was afraid of being an outcast.
 
-I figured that I’d rather be outcast because I stopped alcohol use rather than because I couldn’t.
+I figured that I’d rather be an outcast because I stopped alcohol use rather than because I couldn’t.
 
 People talk about how you lose friends when you stop drinking. Although I’d known these guys for over 15 years, I still worried about this.
 
@@ -154,7 +156,7 @@ But when your entire life revolves around drinking and you jump at every opportu
 
 What’s worse is that even though you’re drinking a lot, you never understand *why* you’re always broke.
 
-You buy cheaper food, cancel subscriptions, save every penny you have, but you still end every month anxiously awaiting your paycheck.
+You buy cheaper food, cancel subscriptions, and save every penny you have, but you still end every month anxiously awaiting your paycheck.
 
 Have you ever heard of Parkinson’s Law? It states that the amount of work required to complete a task expands to fill the time available.
 
@@ -184,7 +186,7 @@ My risk of liver disease and heart disease has gone way down, and my immune syst
 
 This list could continue ad infinitum, but the main point is that there is *no penalty* for not drinking.
 
-If you’re reading this looking for an excuse to do what you know you need to do and stop drinking, hopefully you’ve found it.
+If you’re reading this looking for an excuse to do what you know you need to do and stop drinking, hopefully, you’ve found it.
 
 Thank you for reading.
 
