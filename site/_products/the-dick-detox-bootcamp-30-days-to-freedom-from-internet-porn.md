@@ -18,13 +18,6 @@ hero:
     My proven system to quit internet porn, win with women, and get your sex
     life back on track.
 page_blocks:
-  - _id: block_rich_text
-    alignment: center
-    text_markdown: |
-      ![Mug photo mockup](/assets/images/products/auction-1.jpg)
-      ![Mug photo mockup](/assets/images/products/auction-2.jpg)
-      ![Mug photo mockup](/assets/images/products/auction-3.jpg)
-      ![Mug photo mockup](/assets/images/products/auction-4.jpg)
   - _id: block_benefits
     heading: The 30-day Dick Detox bootcamp gets you off porn with these powerful tools
     items:
