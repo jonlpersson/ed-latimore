@@ -143,45 +143,45 @@ _structures:
         icon: reviews
         value:
           _id: reviews_all
-    benefit_items:
-      values:
-        - label: "Benefit Item"
-          value:
-            heading:
-            text:
-    clippings:
-      values:
-        - label: Quote
-          icon: format_quote
-          value:
-            quote_markdown:
-            media_source:
-        - label: Image
-          icon: image
-          value:
-            image:
-            image_alt:
-            image_source:
-    images:
-      values:
-        - value:
-            image:
-    quote_source:
-      values:
-        - value:
-            small_image:
-            name:
-            context:
-    media_source:
-      values:
-        - value:
-            small_image:
-            name:
-            link:
-    image_source:
-      values:
-        - value:
-            link:
+  benefit_items:
+    values:
+      - label: "Benefit Item"
+        value:
+          heading:
+          text:
+  clippings:
+    values:
+      - label: Quote
+        icon: format_quote
+        value:
+          quote_markdown:
+          media_source:
+      - label: Image
+        icon: image
+        value:
+          image:
+          image_alt:
+          image_source:
+  images:
+    values:
+      - value:
+          image:
+  quote_source:
+    values:
+      - value:
+          small_image:
+          name:
+          context:
+  media_source:
+    values:
+      - value:
+          small_image:
+          name:
+          link:
+  image_source:
+    values:
+      - value:
+          link:
 
 # Populates collections for navigation and metadata in the editor
 collections_config:
