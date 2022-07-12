@@ -145,8 +145,7 @@ _structures:
           _id: reviews_all
   benefit_items:
     values:
-      - label: "Benefit Item"
-        value:
+      - value:
           heading:
           text:
   clippings:
