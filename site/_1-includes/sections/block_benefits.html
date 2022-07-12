@@ -1,8 +1,8 @@
 <section class="s-md">
   <div class="max-w-screen-xl mx-auto space-y-12">
-    <h2 class="h3 text-center max-w-2xl mx-auto">{{ item.heading | smartify }}</h2>
+    <h2 class="h3 text-center max-w-2xl mx-auto">{{ item.heading | smartify }}</h2>
     <div class="grid gap-6 lg:grid-cols-3">
-      {% for item in item.items %}
+      {% for item in item.benefit_items %}
       <div class="bg-white shadow-md flex flex-col micro-float cd-sm text-center sm:text-left">
         <h3 class="h4">{{ item.heading | smartify }}</h3>
         <p class="mb-0 lg:text-xl">{{ item.text | smartify }}</p>

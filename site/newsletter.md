@@ -16,7 +16,7 @@ hero:
 page_blocks:
     - _id: block_benefits
       heading: "Sign up and receive:"
-      items:
+      benefit_items:
         - heading: Stimulating ideas
           text: Unfiltered takes on life, death, society, and relationships...
         - heading: Actionable advice

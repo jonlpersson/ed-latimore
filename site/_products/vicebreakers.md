@@ -16,7 +16,7 @@ hero:
 page_blocks:
   - _id: block_benefits
     heading: "This highly detailed, action-oriented course helps you:"
-    items:
+    benefit_items:
       - heading: Develop the three selves
         text: How to gain self-awareness, self-control, and self-respect needed to make lasting change.
       - heading: Break free from your vices
@@ -154,7 +154,7 @@ page_blocks:
       And I know how *amazing* it feels to come out the other side.
   - _id: block_benefits
     heading: "Including two extra bonuses for free:"
-    items:
+    benefit_items:
       - heading: Printable workbook ($67 value)
         text: 9 worksheets you can use to follow along with the video presentation and written course. Make it easy to keep track of your bad habits and swap them for good ones.
       - heading: Video presentation ($97 value)

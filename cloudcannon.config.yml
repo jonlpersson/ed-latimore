@@ -72,7 +72,7 @@ _structures:
         value:
           _id: block_benefits
           heading:
-          items: []
+          benefit_items: []
       - label: "Block: Contact Form"
         icon: contact_mail
         value:
@@ -143,7 +143,7 @@ _structures:
         icon: reviews
         value:
           _id: reviews_all
-    items:
+    benefit_items:
       values:
         - label: "Benefit Item"
           value:
