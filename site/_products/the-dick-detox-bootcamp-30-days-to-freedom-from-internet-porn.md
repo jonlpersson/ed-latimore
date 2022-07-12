@@ -14,7 +14,9 @@ hero:
   hero_type: product
   image: /assets/images/drafts/latimore-high-waist.png
   heading: 30-day Dick Detox Bootcamp
-  text: Accountability, discipline, and brotherhood to finally get off internet porn
+  text: >-
+    My proven system to quit internet porn, win with women, and get your sex
+    life back on track.
 page_blocks:
   - _id: block_rich_text
     alignment: center
