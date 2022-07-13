@@ -47,12 +47,6 @@ page_blocks:
           combats that with a brotherhood of men leaning on one another for
           support and guidance.
   - _id: block_testimonial
-    quote_markdown:
-    quote_source:
-  - _id: block_photos
-    images:
-      - image: /assets/images/products/porn-testimonial-1.png
-  - _id: block_testimonial
     quote_markdown: >-
       Hey guys\!\!
 
