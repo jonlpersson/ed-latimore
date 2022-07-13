@@ -8,7 +8,7 @@ tags:
   - how-to-build-an-audience
 image: /assets/images/posts/ed-writing.jpg
 description: >-
-  Tired of being a starving artist? Discover 12 simple ways on how to be a
+  Tired of being a starving artist? Discover 15 simple ways on how to be a
   better writer and develop the writing skills you've always dreamed of.
 ---
 Here are 15 of the best tips I know that will help you become a better writer. I've used them to increase sales and improve the marketing of my writing program and book.
@@ -202,7 +202,7 @@ We pick a topic, list points in support of that topic, and turn those into sente
 
 It structures your thoughts, which makes writing easier. You can produce a good article this way. The ones I’ve done with this process don’t turn out too badly.
 
-The problem with this method is that it’s *boring as hell. &nbsp;*Many of the best writers simply prefer to create and edit later.
+The problem with this method is that it’s *boring as hell.* Many of the best writers simply prefer to create and edit later.
 
 [The Writing Cooperative offers this piece of advice when it comes to writing an outline for content:](https://writingcooperative.com/famous-authors-on-outlining-a-novel-should-you-do-it-de6f1a93eedc){: target="_blank" rel="noopener noreferrer"}
 
@@ -342,7 +342,7 @@ In the last sentence, I could have just as easily said "someone's had it even wo
 
 It doesn't force me to come up with a different ​*synonymous*​ way to say what I've already said. The reader would suffer fatigue, get bored, and lose all interest in further enjoyment or sharing of my work.
 
-### Why not just avoid word fatigue by writing less?&nbsp;
+### Why not just avoid word fatigue by writing less?
 
 In the two examples, it might seem justified to just cut my ideas off at the first go around. You might be asking yourself why you can't just keep your tweets or writing short, without rephrasing the same thing in different ways. The simple answer to that is "engagement".
 
@@ -356,7 +356,7 @@ Why would you only write 140 characters worth of tweets when you have 280 to wor
 
 The problem is that the longer the content is, the greater risk you run of being redundant and causing your audience to suffer word fatigue.
 
-### Quick Solutions To Word Fatigue&nbsp;
+### Quick Solutions To Word Fatigue
 
 To keep this short lesson short, let me summarize.
 
@@ -396,19 +396,19 @@ Sentences become a little more complex than this and there are some predictable 
 
 The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires the addition of a preposition and the addition of the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
 
-This word economy makes it easier for your word to be read and it makes your message get through more clearly.&nbsp;
+This word economy makes it easier for your word to be read and it makes your message get through more clearly.
 
 ## Avoid adverbs whenever possible
 
-***Grammar recap: ***An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.
+*\*\*Grammar recap: \*\**An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.
 
 Adverbs of time and place tend to be non-admissible, but they are still unnecessary with a strong (not to be interpreted as "little" or "small" vocabulary).
 
-Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always***&nbsp;useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
+Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always*** useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
 
 * "I ***quickly ran*** home" can be rewritten as "I **sprinted** home" or "I **dashed** home".
-* "I ***thought*** intensely about the problem" can be rewritten as "I&nbsp;**focused&nbsp;**on the problem" or "I&nbsp;**concentrated**&nbsp;on the problem."
-* "I ***carelessly***&nbsp;wrote the letter" can be rewritten as "I&nbsp;**scribbled**&nbsp;the letter" or "I&nbsp;**doodled**&nbsp;the letter."
+* "I ***thought*** intensely about the problem" can be rewritten as "I **focused** on the problem" or "I **concentrated** on the problem."
+* "I ***carelessly*** wrote the letter" can be rewritten as "I **scribbled** the letter" or "I **doodled** the letter."
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
 
