@@ -36,4 +36,9 @@ page_blocks:
         text: >-
           Every call has a live assignment and homework to do on your own to
           reinforce the training to eliminate porn.
+      - heading: Celebrating wins
+        text: >-
+          We have a private community for members to log progress, post content,
+          share victories, and receive support & feedback. You keep your access
+          even after the 30 days are over.
 ---
