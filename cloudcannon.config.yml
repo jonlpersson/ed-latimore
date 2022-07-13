@@ -158,26 +158,20 @@ _structures:
         value:
           quote_markdown:
           media_source:
+            small_image:
+            name:
+            link:
       - label: Image
         icon: image
         value:
           image:
           image_alt:
           image_source:
+            link:
   images:
     values:
       - value:
           image:
-  media_source:
-    values:
-      - value:
-          small_image:
-          name:
-          link:
-  image_source:
-    values:
-      - value:
-          link:
 
 # Populates collections for navigation and metadata in the editor
 collections_config:
