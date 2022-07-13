@@ -4,8 +4,7 @@ article_type: Article
 title: 15 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
-  - learning-skills
-  - how-to-build-an-audience
+  - writing-skills
 image: /assets/images/posts/ed-writing.jpg
 description: >-
   Tired of being a starving artist? Discover 15 simple ways on how to be a
