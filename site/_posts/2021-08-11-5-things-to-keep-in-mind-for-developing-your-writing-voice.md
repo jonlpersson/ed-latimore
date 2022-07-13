@@ -4,12 +4,10 @@ article_type: Article
 title: 5 ways to develop your writing voice
 permalink: /voice-in-writing/
 tags:
-  - learning-skills
+  - writing-skills
 description: "Authentic writing has a\_unique voice. Your voice\_is what makes your\_writing\_unique from\_someone else's. Read on to learn how to build yours."
 image: /assets/images/thumbnails/ed-at-computer.jpg
 ---
-{% include widgets/toc.html heading="How to develop your writing voice" list-items="Using tone to create voice, Write like you're talking to your best friend, Edit like you're writing a high school paper, Different writing goals require different types of voice, A consistent voice is a strong voice" list-ids="using-tone-to-create-voice, write-like-you're-talking-to-your-best-friend, edit-like-youre-writing-a-high-school-paper, different-writing-goals-require-different-types-of-voice, a-consistent-voice-is-a-strong-voice" %}
-
 ## Using tone to create voice
 
 Authentic writing has a unique voice and tone to it.
