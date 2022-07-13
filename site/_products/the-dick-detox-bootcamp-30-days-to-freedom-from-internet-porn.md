@@ -49,6 +49,9 @@ page_blocks:
   - _id: block_testimonial
     quote_markdown:
     quote_source:
+      small_image:
+      name:
+      context:
   - _id: block_photos
     images:
       - image: /assets/images/products/porn-testimonial-1.png
