@@ -32,4 +32,8 @@ page_blocks:
         text: >-
           2x a week I do a live coaching call where I teach, coach, answer your
           questions, and share my first-hand experience battling addiction.
+      - heading: Reinforcement work
+        text: >-
+          Every call has a live assignment and homework to do on your own to
+          reinforce the training to eliminate porn.
 ---
