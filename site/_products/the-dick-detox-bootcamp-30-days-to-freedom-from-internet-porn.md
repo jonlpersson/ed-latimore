@@ -49,10 +49,28 @@ page_blocks:
   - _id: block_testimonial
     quote_markdown:
     quote_source:
-      small_image:
-      name:
-      context:
   - _id: block_photos
     images:
       - image: /assets/images/products/porn-testimonial-1.png
+  - _id: block_testimonial
+    quote_markdown: >-
+      Hey guys\!\!
+
+
+      21 days+now\!\! Extremely committed and decided. I will never fall to my
+      old self because the benefits are tremendous. I won't trick my brain into
+      that dopamine trap.
+
+
+      Good sleep, improved self-confidence, and now higher sex drive. Was with
+      my girl yesterday and we had an intense make-out session. I felt like a
+      man and in control.
+
+
+      I am starting to feel horny at night or early waking up but I see those as
+      good signs. Implemented breath work and meditation.<br><br>Guys keep at it
+    quote_source:
+      - small_image: /assets/images/products/anonymous-image.jpg
+        name: Greeza
+        context: Dick-detox forum
 ---
