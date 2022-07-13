@@ -21,7 +21,9 @@ page_blocks:
   - _id: block_benefits
     heading: The 30-day Dick Detox bootcamp gets you off porn with these powerful tools
     benefit_items:
-      - heading:
-        text: |
-          Everything shared within the group and during calls is 100% confidential. You don’t even have to show your face, use your real name, or engage if you don’t want to.
+      - heading: Privacy
+        text: >
+          Everything shared within the group and during calls is 100%
+          confidential. You don’t even have to show your face, use your real
+          name, or engage if you don’t want to.
 ---
