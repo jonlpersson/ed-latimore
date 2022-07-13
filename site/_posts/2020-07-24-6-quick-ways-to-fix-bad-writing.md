@@ -4,8 +4,7 @@ article_type: Article
 title: 6 quick ways to fix bad writing
 permalink: /bad-writing/
 tags:
-  - learning-skills
-  - how-to-build-an-audience
+  - writing-skills
 description: >-
   Here are some great tips to make you a better writer. Following these will fix
   a lot of bad writing that you're doing.
