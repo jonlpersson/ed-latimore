@@ -26,4 +26,6 @@ page_blocks:
           Everything shared within the group and during calls is 100%
           confidential. You don’t even have to show your face, use your real
           name, or engage if you don’t want to.
+      - heading: Responsability
+        text: "Our private Whatsapp group delivers\_instant support and feedback. This alone has helped numerous guys hit the brakes before crashing back into porn."
 ---
