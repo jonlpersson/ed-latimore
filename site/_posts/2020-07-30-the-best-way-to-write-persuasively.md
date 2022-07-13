@@ -4,8 +4,7 @@ article_type: Review
 title: The best way to write persuasively
 permalink: /persuasive-writing/
 tags:
-  - learning-skills
-  - how-to-build-an-audience
+  - writing-skills
 description: >-
   The #1 ghostwriter in the world has an amazing course on persuasive writing.
   But it’s even more than that.
