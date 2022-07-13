@@ -28,4 +28,8 @@ page_blocks:
           name, or engage if you don’t want to.
       - heading: Responsability
         text: "Our private Whatsapp group delivers\_instant support and feedback. This alone has helped numerous guys hit the brakes before crashing back into porn."
+      - heading: Live coaching
+        text: >-
+          2x a week I do a live coaching call where I teach, coach, answer your
+          questions, and share my first-hand experience battling addiction.
 ---
