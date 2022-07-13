@@ -41,4 +41,9 @@ page_blocks:
           We have a private community for members to log progress, post content,
           share victories, and receive support & feedback. You keep your access
           even after the 30 days are over.
+      - heading: Brotherhood
+        text: >-
+          Porn is a private addiction that feeds on loneliness. The Dick Detox
+          combats that with a brotherhood of men leaning on one another for
+          support and guidance.
 ---
