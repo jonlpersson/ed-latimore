@@ -64,7 +64,7 @@ page_blocks:
       I am starting to feel horny at night or early waking up but I see those as
       good signs. Implemented breath work and meditation.<br><br>Guys keep at it
     quote_source:
-      - small_image: /assets/images/products/anonymous-image.jpg
-        name: Greeza
-        context: Dick-detox forum
+      small_image: /assets/images/products/anonymous-image.jpg
+      name: Greeza
+      context: Dick-detox forum
 ---
