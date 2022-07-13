@@ -7,7 +7,7 @@
         {% responsive_image_block %}
           path: {{ item.quote_source.small_image | remove_first:"/" }}
           alt: {{ item.quote_source.name | smartify }}
-          class: "rounded-full w-12 md:w-16 h-12 md:h-16"
+          class: "rounded-full object-cover w-12 md:w-16 h-12 md:h-16"
           sizes: "64px"
         {% endresponsive_image_block %}
         {% endunless %}
