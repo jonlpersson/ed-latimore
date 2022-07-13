@@ -46,4 +46,10 @@ page_blocks:
           Porn is a private addiction that feeds on loneliness. The Dick Detox
           combats that with a brotherhood of men leaning on one another for
           support and guidance.
+  - _id: block_testimonial
+    quote_markdown:
+    quote_source:
+  - _id: block_photos
+    images:
+      - image: /assets/images/products/porn-testimonial-1.png
 ---
