@@ -52,4 +52,5 @@ page_blocks:
   - _id: block_photos
     images:
       - image: /assets/images/products/porn-testimonial-1.png
+      - image: /assets/images/products/porn-testimonial-1.png
 ---
