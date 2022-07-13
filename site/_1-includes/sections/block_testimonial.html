@@ -1,17 +1,19 @@
 <section class="s-md bg-gray-light">
   <div class="max-w-2xl mx-auto">
     <figure class="testimonial space-y-8">
-      <blockquote>{{ item.quote_markdown | markdownify }}</blockquote>
+      <blockquote>{{ item.quote_markdown | markdownify }}</blockquote>
       <figcaption class="flex flex-row flex-nowrap items-center space-x-4">
+        {% unless item.quote_source.small_image == nil %}
         {% responsive_image_block %}
           path: {{ item.quote_source.small_image | remove_first:"/" }}
           alt: {{ item.quote_source.name | smartify }}
           class: "rounded-full w-12 md:w-16 h-12 md:h-16"
           sizes: "64px"
         {% endresponsive_image_block %}
+        {% endunless %}
         <div class="font-sans text-sm sm:text-base lg:text-lg">
-          <div>{{ item.quote_source.name | smartify }}</div>
-          <div class="text-gray-dark text-opacity-50">{{ item.quote_source.context | smartify }}</div>
+          <div>{{ item.quote_source.name | smartify }}</div>
+          <div class="text-gray-dark text-opacity-50">{{ item.quote_source.context | smartify }}</div>
         </div>
       </figcaption>
     </figure>

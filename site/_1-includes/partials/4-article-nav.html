@@ -3,8 +3,8 @@
     <div class="flex items-start gap-12">
       <a href="/" aria-label="Home page">{% include_cached icons/logo.svg class="h-8 lg:h-9 w-auto" %}</a>
       <div class="space-y-1 hidden lg:block">
-        <a class="block my-0 leading-tight label text-coral hover:text-maroon" href="/{{ page.tags | first }}/">{{ page.tags | first | replace:"-"," " }}</a>
-        <div class="font-bold leading-tight text-lg my-0">{{ page.title | smartify }}</div>
+        <a class="block my-0 leading-tight label text-coral hover:text-maroon" href="/{{ page.tags | first }}/">{{ page.tags | first | replace:"-"," " }}</a>
+        <div class="font-bold leading-tight text-lg my-0">{{ page.title | smartify }}</div>
       </div>
     </div>
     <div class="flex items-center divide-x divide-gray-light">

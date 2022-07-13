@@ -14,7 +14,7 @@
       {% endresponsive_image_block %}
       {% else %}
       <figure class="testimonial h-full flex flex-col justify-between gap-6 cd-md">
-        <blockquote class="space-y-6">{{ item.quote_markdown | markdownify }}</blockquote>
+        <blockquote class="space-y-6">{{ item.quote_markdown | markdownify }}</blockquote>
         <figcaption class="text-gray-dark text-opacity-50">
           {% if item.media_source.small_image contains "/" %}
           {% responsive_image_block %}

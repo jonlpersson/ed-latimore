@@ -11,15 +11,15 @@
       {% for category in featuredCategories %}
       <div>
         <h4 class="mb-2 lg:mb-4">
-          <a class="text-white hover:text-coral" href="{{ category | first | relative_url }}">
-            {{ category | first | replace:"-"," " | replace: "addiction sobriety","addiction & sobriety" | capitalize }}
+          <a class="text-white hover:text-coral" href="{{ category | first | relative_url }}">
+            {{ category | first | replace:"-"," " | replace: "addiction sobriety","addiction & sobriety" | capitalize }}
             <sup class="font-normal text-xs lg:text-base -top-3">({{ category.last.size }})</sup>
           </a>
         </h4>
         <ul class="divide-y divide-gray-light divide-opacity-25 text-lg lg:text-xl">
         {% for item in category.last limit:3 %}
           <li class="py-2">
-            <a class="text-white hover:text-coral" href="{{ item.url }}">{{ item.title | smartify }}</a>
+            <a class="text-white hover:text-coral" href="{{ item.url }}">{{ item.title | smartify }}</a>
           </li>
         {% endfor %}
         </ul>

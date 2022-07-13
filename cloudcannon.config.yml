@@ -107,6 +107,9 @@ _structures:
           _id: block_testimonial
           quote_markdown:
           quote_source:
+            small_image:
+            name:
+            context:
       - label: "Block: Logos"
         icon: try
         value:
@@ -165,12 +168,6 @@ _structures:
     values:
       - value:
           image:
-  quote_source:
-    values:
-      - value:
-          small_image:
-          name:
-          context:
   media_source:
     values:
       - value:
