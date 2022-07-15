@@ -90,7 +90,7 @@ As much as I would love to take credit for orchestrating the product launch, JK 
 
 JK Molina drew up the roadmap. I simply followed it.
 
-Also, I tweeted about the program quite a lot. Judging by my&nbsp;[socialblade.com](/mind-and-fist-llc/reports/28ee1e9cdfcb436b/socialblade.com){: target="_blank"}&nbsp;stats, I sent out roughly 200 tweets explicitly promoting the program and retweeted another 200 or so by the affiliates to help them make sales. This helped maintain hype around the product and keep it in front of the eyes of our customer base (Twitter users).
+Also, I tweeted about the program quite a lot. Judging by my&nbsp;[socialblade.com](https://socialblade.com/){: target="_blank" rel="noreferrer"}&nbsp;stats, I sent out roughly 200 tweets explicitly promoting the program and retweeted another 200 or so by the affiliates to help them make sales. This helped maintain hype around the product and keep it in front of the eyes of our customer base (Twitter users).
 
 There are a few lessons in that, but the main lesson relevant to this section is that JK let go of the leash and let me do my thing the best way I knew how to. It’s important to work with people who recognize your strengths and let you lean into them.
 
