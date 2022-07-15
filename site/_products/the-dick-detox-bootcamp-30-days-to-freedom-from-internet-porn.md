@@ -160,4 +160,65 @@ page_blocks:
 
 
       You know it from your own experience, and that’s why you’re here…
+  - _id: block_rich_text
+    alignment:
+    text_markdown: >-
+      ## Introducing The Dick Detox Bootcamp
+
+
+      **The Dick Detox Bootcamp is a 30-day intensive program hosted by Ed
+      Latimore that will get you off of porn and your dating life back on track,
+      even if you’ve been hooked since age 12**
+
+
+      By combining the latest research on porn addiction, a decade of personal
+      experience battling addiction, and a PRIVATE support network, the Dick
+      Detox Bootcamp is the fastest and most effective way to quit porn anywhere
+      on the internet.&nbsp;
+
+
+      #### The 4-week Dick Detox program consists of:
+
+
+      * **2 group calls per week hosted by Ed Latimore on Zoom.**&nbsp;You’ll
+      receive direct access to me as I share my experiences and strategies for
+      battling addiction every week. This is NOT a webinar but a live,
+      interactive call with me and the other clients.&nbsp;
+
+      * **Worksheets and homework assignments.** Every call comes with both live
+      assignments to do on the call and a homework assignment for you to
+      complete on your own to make sure the lessons stick and apply to your
+      life.&nbsp;
+
+      * **Lifetime access to our private group hosted in Circle.** We have a
+      private community where members can log their progress, post content,
+      share victories, and receive support and feedback. You’ll keep your access
+      even after the 30 days are over.
+
+      * **Lifetime Whatsapp group access.** Every member is added to a private
+      Whatsapp group immediately upon signing up where you can receive *instant*
+      support and feedback as you battle porn temptations. This alone has helped
+      numerous guys hit the brakes before crashing and ruining their progress.
+
+      * **A band of brothers.** In addition to your coaches, the guys in the
+      Dick Detox group are your core support group for the next 30 days and
+      beyond. Anyone who has beaten an addiction knows that a good support group
+      is the most important step in recovery. Connections made within the group
+      often last for years\!
+
+      * **Complete privacy.** The only guys who will know anything about your
+      porn use are those who are in the group for the same reason. Everything
+      shared within the group is 100% confidential.
+
+
+      I know many of you guys are leading busy lives. Quitting porn is a
+      priority, but you still have a life to live…
+
+
+      That’s why I made this program as simple as possible. It will take less
+      than 3 hours of your time per week for **just 4 weeks**.&nbsp;
+
+
+      After that, you’ll have the tools, skills, and network to stay away from
+      porn for good.&nbsp;
 ---
