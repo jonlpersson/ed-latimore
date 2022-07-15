@@ -67,4 +67,25 @@ page_blocks:
       small_image: /assets/images/products/anonymous-image.jpg
       name: Greeza
       context: Dick-detox forum
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      The Porn Pandemic&nbsp;
+
+
+      * The *Journal of Sex Research* reports that 91.5% of men have watched
+      porn at least once in the last month
+      ([source](https://www.tandfonline.com/doi/abs/10.1080/00224499.2018.1532488?journalCode=hjsr20))&nbsp;
+
+      * According to data from the SEMrush Traffic Analytics tool, as of April
+      2022 porn sites received more website traffic in the U.S. than Twitter,
+      Instagram, Netflix, Pinterest, and LinkedIn combined.
+      ([source](https://www.semrush.com/blog/most-visited-websites/))
+
+
+      * SimilarWeb, a website metric tracking service, reports that **Xvideos
+      alone received over 3 BILLION visits in the last 30 days.** That’s for
+      only **ONE** porn site—there are ***SEVERAL ***othersthat boast similar
+      numbers.&nbsp;***Keep in mind that there are only 4 billion guys on the
+      ******planet\!***
 ---
