@@ -88,10 +88,4 @@ page_blocks:
       only **ONE** porn site—there are ***SEVERAL ***othersthat boast similar
       numbers.&nbsp;***Keep in mind that there are only 4 billion guys on the
       planet\!***
-  - _id: block_media
-    clippings:
-      - image: /assets/images/products/screen-shot-2022-07-14-at-10-23-01-pm.png
-        image_alt: stats
-        image_source:
-          link:
 ---
