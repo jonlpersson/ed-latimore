@@ -87,5 +87,5 @@ page_blocks:
       alone received over 3 BILLION visits in the last 30 days.** That’s for
       only **ONE** porn site—there are ***SEVERAL ***othersthat boast similar
       numbers.&nbsp;***Keep in mind that there are only 4 billion guys on the
-      ******planet\!***
+      planet\!***
 ---
