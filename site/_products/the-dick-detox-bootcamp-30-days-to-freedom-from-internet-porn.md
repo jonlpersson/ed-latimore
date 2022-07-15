@@ -223,5 +223,271 @@ page_blocks:
       porn for good.&nbsp;
   - _id: block_rich_text
     alignment:
-    text_markdown:
+    text_markdown: >-
+      ## Course Syllabus
+
+
+      ### Ed Latimore
+
+
+      #### Week 1 Becoming better looking to make girls want to have sex with
+      you
+
+
+      It’s hard to get off porn if you don’t think you’ll ever have a chance
+      with a real flesh and blood woman. The good news is that women are just as
+      turned on by appearances as men, and they will make themselves more
+      available to you if you follow some basic steps to enhance your physical
+      appearance.
+
+
+      There’s no such thing as an ugly man; only one who doesn’t try. Improving
+      your appearance will not only make you more attractive to women, it will
+      also increase the amount of respect you have for yourself.&nbsp;
+
+
+      1. Body recomposition plan (nutrition, weight lifting, and body weight)
+
+      2. Haircut recommendation and facial hair recommendation
+
+      3. Basic grooming that makes a big difference (tongue scraping, skincare,
+      flossing, moisturizing)
+
+      4. Clothing and shoe selection on a budget
+
+      5. Picking out cologne
+
+
+      #### Week 2 Hobbies to make you more attractive
+
+
+      You’re having trouble stepping away from porn because it’s alluring and
+      hits all the buttons to make you addicted. Well not only is porn a bad
+      habit on its own, but it’s also preventing you from developing interesting
+      hobbies to make you attractive to women.&nbsp;
+
+
+      It’s not enough to stop a bad habit—we have to replace it with a healthy
+      one.&nbsp; But instead of telling you exactly which hobbies to do, I’ll
+      give you a simple rubric for identifying if a hobby will make you more
+      attractive, make you a better person, and keep you off of porn.
+
+
+      1. The characteristics of a bad hobby
+
+      2. What all good hobbies have in common
+
+      3. How to figure out what type of hobby is best for you without wasting
+      time
+
+      4. Which hobbies do women find the most attractive and why
+
+      5. How to lean on your hobby to replace your porn hobby
+
+
+      #### Week 3 Preventative measures and combating cravings
+
+
+      The easiest way to break your porn habit is to make it difficult to use
+      porn. Learn how to porn-proof your lifestyle and technology. Getting this
+      right is half the battle. In theory, just porn-proofing your life would
+      indefinitely fix most of your issues with pornography, but there is more
+      that we must do to detox your dick for good.
+
+
+      No matter what we do, there will be situations where you can use. No
+      proofing method is perfect and old habits die hard. This is where we
+      employ the last-minute strategies that we develop to deal with porn
+      cravings.
+
+
+      1. Get private internet use as close to zero as possible. Easy if you live
+      with people.
+
+      2. Set up porn blocks and wipe browser history.
+
+      3. Develop non-digital entertainment measures to keep you off the computer
+      whenever possible
+
+      4. Rearranging your workspace
+
+      5. Removing digital triggers (sites and whatnot)
+
+
+      #### Week 4 Camaraderie and accountability
+
+
+      The program comes with an accountability group that you’re plugged into,
+      but what about when the program ends? This will teach your accountability
+      strategies so you can take these and continue to lean on your friends and
+      nurture relationships to help you stay clean.&nbsp;
+
+
+      1. Introducing the Skinner rats and we can learn from them
+
+      2. Building accountability and openness with people in your life
+
+      3. Courage to seek out people who support you
+
+      4. Staying connected past the group
+
+
+      ### Bonus Lesson: Sparking sex life with your wife
+
+
+      It’s easier to fall into the porn trap if your wife doesn’t want to have
+      sex with you or you don’t want to have sex with your wife. If it’s the
+      former, the work in this bonus will show you how to rekindle the flame the
+      right way. If you don’t want to have sex with her, then we’ll deal with
+      the most reasons you don’t want to and come up with a solution. This will
+      almost certainly involve hard conversations that you’ve been putting off
+      with yourself or her, and now is the time to do it.
+
+
+      1. Be honest? Would you fuck you? Why or why not (call bullshit session)
+
+      2. Men are either fucking up with the physical, emotional, or “financial”
+      responsibility. Which one are you? (Deep dive group session)
+
+      3. Devising a 30-day plan to immediately change the home dynamic to be
+      more conducive to sex.
+
+      4. If the issue is with you not wanting to sleep with her, why? 90% of the
+      time, this is going to be purely physical
+
+
+      ### **Who the course isn’t for**
+
+
+      If you can’t have premarital sex, this program can’t work for you. I’m not
+      saying that you have to go get laid tonight, but if your lifestyle/culture
+      specifically forbids sex outside of wedlock—but you’re a porn addict—then
+      you’ve got other issues that you need to deal with that will not be
+      covered in this program.&nbsp;
+
+
+      ### Regan Jacklin
+
+
+      #### Week 1: Overcome the instant gratification trap by becoming a man of
+      purpose&nbsp;
+
+
+      Humans have deeply ingrained needs. If we don’t satisfy these needs
+      naturally through positive habits and goals, we will need to satisfy them
+      unnaturally with porn. Whether your goal is to get a girlfriend, start
+      your own business, be a better parent or spouse, or get right with God,
+      **this module will help you identify what is truly important to you and
+      give you a tangible plan to begin moving towards it.**&nbsp;
+
+
+      You’ll discover how you aren’t giving something up by quitting porn but
+      how you’ve actually been forfeiting what is important to you through your
+      porn use.
+
+
+      1. Get clear and excited about what a life free from porn has in store for
+      you
+
+      2. Identify how porn is actually causing you more pain than pleasure&nbsp;
+
+      3. Understand why your brain gets so hooked on something so harmful
+
+      4. Discover cheat codes to blast through any withdrawals and help your
+      brain heal ASAP
+
+      5. Learn how one single neurochemical in your brain can be your superpower
+      or keep you enslaved and how porn hijacks it every time.
+
+
+      #### Week 2: Discovering the dark side of pornography&nbsp;
+
+
+      **Deep down, something inside of you*****knows *****porn is immoral,
+      nasty, and degrading.** But unlike other hard drugs, no one taught us
+      about the damaging effects of porn. This module will confirm your
+      suspicions and peel back the curtain, showing the latest research on
+      porn’s harmful effects.
+
+
+      When you can see porn for what it *really* is, you’ll develop a natural
+      and visceral aversion to it. This is the only way to destroy cravings over
+      the long term.&nbsp;
+
+
+      Discover:&nbsp;
+
+
+      1. How the porn industry is worse than you ever imagined.
+
+      2. How porn is secretly the worst of all gateway drugs and opens the door
+      for countless other bad habits.
+
+      3. How porn can cause mental health problems, physical performance
+      problems, emotional intimacy problems, and spiritual integrity problems.
+
+      4. The danger of tolerance and where it can lead (relying on dangerous
+      fetishes like child porn, cartoon porn, gang, rape, etc to get that
+      ‘rush’).&nbsp;
+
+      5. How to get off the moving train before virtual reality and robotics
+      take porn to infinity and beyond (this shift will be bigger than jumping
+      from playboys to high-speed internet porn\!)
+
+
+      #### Week 3: Managing stress, boredom, and other difficult emotions
+      without porn&nbsp;
+
+
+      The only “negative” side effect of quitting porn is that you’ll be alone
+      with your thoughts and emotions for the first time. Getting off porn
+      forces you to confront whatever difficult facts or emotions you were
+      hiding from. The only reason you haven’t quit porn already is because you
+      haven’t been willing to face something.
+
+
+      Many porn users don’t think they have a substance problem because they
+      don’t drink alcohol or do drugs. But they use porn the same way any other
+      addict does--to cope with their stresses, escape them, or fulfill an unmet
+      need. In this module, you’ll learn why most guys don’t use porn because
+      they have a high sex drive like they love to tell themselves but instead
+      use porn to self-medicate for something. And you’ll learn healthier ways
+      to cope without crashing.
+
+
+      Here’s what we’ll cover:&nbsp;
+
+
+      1. Identify which emotions you struggle with and explore healthier ways to
+      deal with them
+
+      2. Discover your subconscious fears around giving up porn
+
+      3. Handle life’s ups and downs without a chemical crutch
+
+      4. Stop using sex as a coping mechanism
+
+
+      #### Week 4 Long-term tools for self-mastery and sustainable ‘sobriety’
+
+
+      The threat of coming across porn never ends. No matter how well you
+      shelter yourself, there’s always a chance of being exposed again. Even the
+      best of us still face temptations after months or years of abstinence.
+      This module will help you stay diligent over the long term even when your
+      recovery is no longer your primary focus in life.&nbsp;
+
+
+      1. Plan ahead of time how you will handle unexpected exposure
+
+      2. Avoid relapses and bounce back quickly if you do have a setback
+
+      3. Discover other habits that make sobriety harder and others that make it
+      easier
+
+      4. Easily remember why you started this journey months and years down the
+      road&nbsp;
+
+      5. Tips on effective journaling, meditation practices, dopamine fasting,
+      breathwork, and more)
 ---
