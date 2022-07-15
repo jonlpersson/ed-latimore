@@ -222,7 +222,7 @@ page_blocks:
       After that, you’ll have the tools, skills, and network to stay away from
       porn for good.&nbsp;
   - _id: block_rich_text
-    alignment:
+    alignment: center
     text_markdown: >-
       ## Course Syllabus
 
