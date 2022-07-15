@@ -490,4 +490,194 @@ page_blocks:
 
       5. Tips on effective journaling, meditation practices, dopamine fasting,
       breathwork, and more)
+  - _id: block_rich_text
+    alignment:
+    text_markdown: >-
+      Frequently Asked Questions
+
+
+      ### What are the calls like?
+
+
+      Each call is 60-90 minutes. Half of that time will be spent teaching you
+      the science and strategies for overcoming porn. On most calls, there will
+      also be 1 or 2 exercises to do live. We will always leave time for
+      discussion for anyone who has questions or wants to engage further with
+      the ideas. Lastly, during each call you will be given your homework
+      assignment which usually takes 10-20 minutes (we then open up the next
+      call by going over this assignment).
+
+
+      ### How much time will be required of me?&nbsp;
+
+
+      The calls are 60-90 minutes, twice per week, for 4 weeks. There will also
+      be about 20 minutes worth of homework that is recommended you do in
+      between calls. Overall, this course will take you 2-4 hours per week for 4
+      weeks which means you can expect to break your addiction in roughly 10
+      hours. If you choose, you can also spend much more time in the community
+      groups as well.
+
+
+      ### What results can I expect after the 4 weeks?
+
+
+      First, you’ll have 30 days off of porn. If you’re like most guys, that’s a
+      huge achievement by itself. You’ll also be armed with the strategies and
+      habits to keep that streak alive, as well as an active group to help you
+      remain accountable.&nbsp;
+
+
+      You will have new hobbies and habits that increase your self-esteem and
+      sexual marketplace value. Additionally, you can expect higher energy, sex
+      drive, erection quality, and zest for life. Lastly, you’ll have the
+      confidence and hope of knowing you are on the right path, and each day,
+      month, and year will yield better mental, physical, and spiritual health.
+
+
+      ### Is my involvement private?&nbsp;
+
+
+      Public involvement is optional. On the zoom calls, you have to show your
+      face or use your name. If you want to remain private, the only people who
+      will know your identity are Ed and Regan, as they have to process your
+      payment information. Otherwise, your level of public involvement is
+      totally optional.&nbsp;
+
+
+      ### What if I can’t make the live calls?
+
+
+      All calls are recorded so you can rewatch anything you miss. You will have
+      these replays to rewatch forever. The lessons taught on every call will
+      also be transcribed so you can read the lessons presented. All homework
+      will also be made available with instructions in the circle group.
+
+
+      ### Is this for single guys or those in a committed relationship?
+
+
+      Both. We want to see you win with women, whether you are in a relationship
+      or still on the hunt.&nbsp;
+
+
+      ### What happens once I enroll?&nbsp;
+
+
+      Once you enroll, you will immediately receive instructions to get set up
+      in the Whatsapp and Circle groups where you can get connected with the
+      other members. You will receive an introductory video explaining how
+      everything works and a brief overview of the strategies we are going to be
+      covering (like the spark notes version so you can get started right away).
+      Within 48 hours of joining, we will have our first call.&nbsp;
+
+
+      ### What if I can’t afford it?
+
+
+      We do offer the plan at two payments of $650 if the $1000 is too much
+      upfront. We will also run other enrolments in the future. Start putting
+      money aside now and treat your porn addiction as something serious.
+
+
+      ### Why not just look up this information online for free?
+
+
+      If information was all success took, everyone would be rich and ripped.
+      When choosing a coach, you are paying for their years of experience with
+      the subject, as well as the interactive and private *accountability
+      community* they organize so all you have to do is show up. Ed Latimore and
+      Regan Jacklin have spent *years* organizing and perfecting this system.
+      The amount of research you’d have to do would take you years compared to
+      just 4 weeks with us.&nbsp;
+
+
+      ### Is this a religious group?
+
+
+      There are no religious affiliations with this group. However, many choose
+      to quit porn due to their faith so we often see many guys looking to
+      enhance their spiritual life.&nbsp;
+
+
+      # Ultimately, it’s not about porn
+
+
+      Doing a dick detox is NOT just about quitting porn…
+
+
+      **It’s about facing your fears, changing your life, and finally getting
+      right where you’re wrong.**
+
+
+      Using porn to escape from your problems only keeps you stuck on the
+      hedonistic treadmill of bullshit.
+
+
+      Instead of getting therapy, you watch more porn…
+
+
+      Instead of making new friends, you watch more porn…
+
+
+      Instead of doing anything meaningful to improve your life to get a real
+      woman, you watch more porn…
+
+
+      Unlike other groups or programs that have absurdly low success rates, **we
+      teach you how to build****a life you want instead of escaping into digital
+      fantasy.&nbsp;**
+
+
+      We teach you how to get what you got from porn without resorting to it
+
+
+      Because here’s the truth:&nbsp;
+
+
+      ***Just*** quitting porn won’t change your life if you’re still alone, out
+      of shape, and bored with your life.&nbsp;
+
+
+      But with the live coaching, private support groups, and community provided
+      in *Dick Detox,* you can finally conquer the porn habit and…
+
+
+      * Rewire your brain to crave real sex rather than digital daydreams
+
+      * Dramatically improve your sex life whether you are single or married
+
+      * Release guilt and fear caused by a shameful browser history&nbsp;
+
+      * Heal your brain’s reward centers for better motivation, focus, and
+      happiness
+
+      * Crush cravings on the spot by replacing porn with healthier alternatives
+
+      * Eliminate social anxiety and develop healthy relationships with real
+      human beings
+
+      * Learn to live in alignment with your core values and become a man of
+      integrity
+
+      * Identify your most fulfilling goals and cultivate the habits and energy
+      required to make them a reality&nbsp;
+
+      * Improve your self-esteem knowing you belong to the minority of men who
+      live porn free
+
+      * And so much more
+
+
+      Remember, I’ll be with you every step of the way both on the calls and in
+      the Whatsapp group. If you need help or have questions, you can shoot me a
+      message any time.&nbsp;
+
+
+      So don’t waste another day telling yourself you’ll quit tomorrow only to
+      end up stuck in the same spot years from now.
+
+
+      Join Ed Latimore, Regan Jacklin, and the Dick Detox group and begin
+      fighting back today\!
 ---
