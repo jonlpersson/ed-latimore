@@ -89,7 +89,7 @@ page_blocks:
       numbers.&nbsp;***Keep in mind that there are only 4 billion guys on the
       planet\!*\*\*
   - _id: block_rich_text
-    alignment:
+    alignment: center
     text_markdown: >-
       But these numbers aren’t surprising…
 
@@ -161,7 +161,7 @@ page_blocks:
 
       You know it from your own experience, and that’s why you’re here…
   - _id: block_rich_text
-    alignment:
+    alignment: center
     text_markdown: >-
       ## Introducing The Dick Detox Bootcamp
 
@@ -221,4 +221,7 @@ page_blocks:
 
       After that, you’ll have the tools, skills, and network to stay away from
       porn for good.&nbsp;
+  - _id: block_rich_text
+    alignment:
+    text_markdown:
 ---
