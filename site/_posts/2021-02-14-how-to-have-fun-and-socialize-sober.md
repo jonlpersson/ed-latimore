@@ -5,7 +5,6 @@ title: How to have fun and socialize sober
 permalink: /how-to-have-fun-and-socialize-sober/
 tags:
   - sober-life
-  - how-to-make-friends
 image: /assets/images/posts/ed-doing-karaoke.jpg
 description: >-
   Most people have no idea how to socialize without the aid of alcohol and have
