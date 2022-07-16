@@ -4,7 +4,6 @@ article_type: Article
 title: How Sober October can change your life
 permalink: /sober-october/
 tags:
-  - mental-toughness
   - sober-life
 description: >-
   Alcohol and substance use takes a bigger toll on your health and wellness than
@@ -12,19 +11,19 @@ description: >-
   that changes your life.
 image: /assets/images/thumbnails/ed-latimore-drinking-beer-from-40-ounce.jpg
 ---
-I wouldn’t know myself to the extent that I do, had I not made the decision to quit drinking alcohol in 2013. Years of drinking turned alcohol from a social activity to a crutch for me.
+I wouldn’t know myself to the extent that I do, had I not decided to quit drinking alcohol in 2013. Years of drinking turned alcohol from a social activity to a crutch for me.
 
 I’m far from alone in that, but many people never make it to that moment of clarity.
 
 Substance abuse indirectly kills roughly 12 million people each year. About 350,000 of those deaths are the direct result of an overdose. Men are more likely to abuse substances, and 50% of overdose deaths happen to people 50 years old or younger.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
-I’ll be honest. Even if you do have a problem, you probably aren’t allowing yourself the space to recognize it enough to make the changes you need to.
+I’ll be honest. Even if you have a problem, you probably aren’t allowing yourself the space to recognize it enough to make the necessary changes.
 
 This is why I’m a big fan of Sober October.
 
-If alcohol is taking from you the way it did me for so many years, the challenge is a first liberating step on your own sobriety journey. If this is just a time out for you, a month of sobriety will still bring life-changing clarity and health benefits that can springboard you toward becoming the best version of yourself.
+If alcohol is taking from you the way it did me for so many years, the challenge is the first liberating step on your sobriety journey. If this is just a time out for you, a month of sobriety will still bring life-changing clarity and health benefits that can springboard you toward becoming the best version of yourself.
 
-In this article, we’ll explore Sober October and how this hard reset of abstaining and wellness can change your life.
+This article will explore Sober October and how this hard reset of abstaining and wellness can change your life.
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
@@ -52,9 +51,9 @@ You might find that you’ll wake up with less pain, more energy, and better blo
 
 When you free your mind, you free your life.
 
-Stop introducing alcohol to your bloodstream for a month and I’m willing to bet that your thoughts become clearer than ever.
+Stop introducing alcohol to your bloodstream for a month, and I’m willing to bet that your thoughts become clearer than ever.
 
-MRI studies showed that people that stop drinking recover a significant amount of brain gray matter in the first 3 weeks.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+MRI studies showed that people that stop drinking recover a significant amount of brain gray matter in the first three weeks.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Recovering this gray matter can help you get your memory back and put your emotions in check. You’ll be able to use this clarity to make positive changes in your life, like:
 
@@ -72,7 +71,7 @@ Pairing Sober October (Ocsober) with a meditation practice gives your brain the 
 
 This makes it easier to attack your goals and become who you’ve always wanted to be.
 
-Binge drinking aside, I found that smoking too much weed got in the way of my goals and hampered my impulse control. Read here to learn [how to quit smoking weed](https://edlatimore.com/how-to-quit-smoking-weed/).
+Binge drinking aside, I found that people who smoke too much weed have low impulse control and difficulty achieving their goals. Read here to learn [how to quit smoking weed](https://edlatimore.com/how-to-quit-smoking-weed/).
 
 ## Sobriety creates a trickle-down effect
 
