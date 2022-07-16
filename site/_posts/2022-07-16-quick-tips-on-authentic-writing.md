@@ -11,19 +11,23 @@ description: >-
   authentic writing.
 image:
 ---
-Above all things, be yourself.
+## Above all things, be yourself.
 
 During the writing process, embrace whatever comes to mind. Don’t have an emotional reaction to it. The goal is to produce something that impacts people in the real world.
 
 The format of your writing doesn’t matter. The genre of your writing doesn’t matter. The only thing that matters is that you bleed on the page.
 
-Many writers think that authentic writing only has a place in certain mediums or genres. They think they need to say things a certain way to please people. However, there is no special way to say something. There is no special topic to write about that will please everyone
+Many writers think authentic writing only has a place in certain mediums or genres. They think they need to say things a certain way to please people. However, there is no special way to say something. There is no special topic to write about that will please everyone.
 
 There is only authenticity. The purpose of your writing isn’t even really to entertain, educate, or inspire. The real purpose of your writing is to communicate the ideas in your head.
 
 Authenticity is so powerful because it is, by definition, impossible to fake.
 
-To be anything but authentic is a severe disservice to both you and your audience. When you’re an authentic writer, you attract an authentic audience. An authentic audience will appreciate everything you put on the paper as you’re writing for real.
+{% twitter https://twitter.com/EdLatimore/status/1091371263229083653 %}
+
+To be anything but authentic is a disservice to both you and your audience.
+
+When you’re an authentic writer, you attract an authentic audience. An authentic audience will appreciate everything you put on the paper because they know that you’re writing for real.
 
 ## Writing for real
 
