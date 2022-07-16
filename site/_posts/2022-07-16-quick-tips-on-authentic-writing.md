@@ -9,7 +9,7 @@ description: >-
   Every writer wants to make a deep impact. The way to do this is through
   authentically real writing. This article gives a few tips on crafting
   authentic writing.
-image:
+image: /assets/images/posts/authentic-writing.jpeg
 ---
 ## Above all things, be yourself.
 
@@ -113,4 +113,6 @@ The key to expressing yourself authentically in any genre is to only write what 
 
 However, I love using my writing to teach and entertain. I’m so-so on using my writing to persuade.
 
-Therefore, my most authentic writing expresses itself where I’m either teaching or entertaining. It’s no coincidence that my blog, newsletter, and Twitter feed do exactly those things and I have had great success with them.&nbsp;
+Therefore, my most authentic writing expresses itself where I’m either teaching or entertaining. It’s no coincidence that my blog, newsletter, and Twitter feed do exactly those things.
+
+My success with those platforms speaks for itself.&nbsp;
