@@ -66,8 +66,10 @@ The only thing that makes someone angrier than a person they can't control is so
 
 It’s easy to become your best self when what you pursue aligns with your passion.&nbsp;
 
-The moment you begin to live for another’s desires is the moment you lose **authenticity**. ([Tweet it](https://twitter.com/EdLatimore/status/1190080084788613120){: target="_blank"})
+The moment you begin to live for another’s desires is the moment you lose authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1190080084788613120){: target="_blank"})
 
 ---
 
-&nbsp;
+You can be a nice guy or you can be an asshole. It doesn't matter.
+
+Just be authentic and people will still like you. ([Tweet it](https://twitter.com/EdLatimore/status/1057816422129262592){: target="_blank" rel="noopener"})
