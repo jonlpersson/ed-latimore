@@ -5,7 +5,9 @@ title: Ed Latimore's top 11 authenticity quotes
 permalink: /authenticity-quotes/
 tags:
   - quotes-and-summaries
-description:
+description: >-
+  This is a collection of Ed Latimore original quotes on authenticity.  These
+  will remind you to live an authentic life you can be proud of. 
 image:
 ---
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
@@ -28,7 +30,7 @@ Authenticity and transparency make you irreplaceable because no one else can be 
 
 ---
 
-Authenticity is powerful because it is--by definition--impossible to fake. ([Tweet it](https://twitter.com/EdLatimore/status/1091371263229083653){: target="_blank"})
+Authenticity is powerful because it is–by definition–impossible to fake. ([Tweet it](https://twitter.com/EdLatimore/status/1091371263229083653){: target="_blank"})
 
 ---
 
