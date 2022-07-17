@@ -13,15 +13,17 @@ image: /assets/images/thumbnails/dealing-with-trauma.jpeg
 ---
 Because I've written so much about the traumatic events in my life, I've said many things to help people deal with the bad things that have happened in their lives.
 
-Some of my writing was intentionally for the purpose of helping people with their own healing process. Other pieces of content and advice were not meant to do anything in particular, but I've received feedback about the effect many of my words have had on people's mental health.
+Some of my writing was intended to help people with their healing process.
 
-There are many different types of traumatic experiences we go through, but they all come back to the same idea: a negative emotional response to a terrible, harmful, and personal event. How is this any different from typical negative events that millions of people experience every day?
+Other pieces of content and advice were not meant to do anything in particular, but I've received feedback about how many of my words have affected people's mental health.
+
+There are many different types of traumatic experiences we go through, but they all come back to the same idea: a negative emotional response to a terrible, harmful, and personal event. How is this different from typical negative events that millions of people experience daily?
 
 In my opinion, emotional traumas are unique in that whenever the victim is reminded of the event, they experience it as if it's the first time it happened. With normal memories, time eventually distorts and attenuates them so that they lose their power, but not trauma.
 
 What happened to you stays with you. The slightest reminder can turn a good day into a bad day and seriously disturb your inner peace. Traumatized people suffer the same, no matter how much time passes unless they do something about it.
 
-People recommend therapy and I think that's a good idea. Unfortunately, we don't all have access to that tool for many reasons. This collection of trauma quotes is my attempt to help spur any emotional healing and quell any emotional pain.
+People recommend therapy, and I think that's a good idea. Unfortunately, we don't all have access to that tool for many reasons. This collection of trauma quotes is my attempt to help spur any emotional healing and quell any emotional pain.
 
 It’s not therapy, but these quotes to help deal with trauma are collected from my writings, Twitter, and other social media accounts.. Some of them are tough love, but they're all things I've figured out from working through my childhood trauma and getting to where I am today.
 
