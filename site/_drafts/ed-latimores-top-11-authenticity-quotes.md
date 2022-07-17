@@ -73,3 +73,7 @@ The moment you begin to live for another’s desires is the moment you lose auth
 You can be a nice guy or you can be an asshole. It doesn't matter.
 
 Just be authentic and people will still like you. ([Tweet it](https://twitter.com/EdLatimore/status/1057816422129262592){: target="_blank" rel="noopener"})
+
+---
+
+If you want to see how authentic someone is, start looking at what they \*don't\* post about. ([Tweet it](https://twitter.com/EdLatimore/status/1487653527514189826){: target="_blank" rel="noopener"})
