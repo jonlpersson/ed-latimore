@@ -10,6 +10,24 @@ description: >-
   will remind you to live an authentic life you can be proud of. 
 image: /assets/images/drafts/authenticity.jpeg
 ---
+Everyone talks about the importance of being authentic, but how many people realize what that means? At the core of it, being authentic just means unapologetically being your true self.
+
+Authenticity is recognizing where you’re strong, avoiding where you’re weak, and still exercising self-love despite imperfections.
+
+Living authentically is not just about “keeping it real” or having a “take me or leave me” perspective on life. It’s mostly about letting go of the need to conform to external standards, pressures, and expectations.
+
+Living authentically is self-acceptance. It’s confidence that comes from realizing that you’re worthy enough as you are. It’s a peace that comes from not caring what other people think about your choices, lifestyle, or perspectives (as long as you aren’t hurting others).
+
+I can only tell you what an authentic life looks like, but I can’t make your life any more authentic than it is now. However, if you want to be your authentic self, these authenticity quotes will help to remind you of the approach you should take towards things.
+
+These inspirational quotes in terms of this metaphor:
+
+They won’t make you a painter, but they will show you how to paint and give you a glimpse into the thought process of a person who lives an authentic life. I've collected these from various tweets and blog posts I’ve put out over the years.
+
+***\[Read: [How to be yourself](/how-to-be-your-authentic-self/)\]***
+
+## Ed Latimore’s Authenticity Quotes
+
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
 
 Be your best self and you’ll attract the best people for you. This is the power of authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1268213545709305856){: target="_blank"})
