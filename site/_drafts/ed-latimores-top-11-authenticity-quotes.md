@@ -8,7 +8,7 @@ tags:
 description: >-
   This is a collection of Ed Latimore original quotes on authenticity.  These
   will remind you to live an authentic life you can be proud of. 
-image:
+image: /assets/images/drafts/authenticity.jpeg
 ---
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
 
@@ -77,3 +77,7 @@ Just be authentic and people will still like you. ([Tweet it](https://twitter.co
 ---
 
 If you want to see how authentic someone is, start looking at what they \*don't\* post about. ([Tweet it](https://twitter.com/EdLatimore/status/1487653527514189826){: target="_blank" rel="noopener"})
+
+---
+
+The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty. ([Tweet it](https://twitter.com/EdLatimore/status/1100587920203882496){: target="_blank" rel="noopener"})
