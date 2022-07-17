@@ -4,8 +4,7 @@ article_type: Article
 title: 18 Ed Latimore quotes on dealing with haters
 permalink: /ed-latimore-hater-quotes/
 tags:
-  - quotes-and-summaries
-  - change-your-perspective
+  - ed-latimore-original-quotes
 description: >-
   Here are my best quotes about dealing with haters, negativity, jealousy, and
   fake friends. Keep these in your heart to feel better.
