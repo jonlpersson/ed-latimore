@@ -5,7 +5,7 @@ title: '“Klandestine Relationships” by Daryl Davis: 12 lessons'
 permalink: /daryl-davis-book/
 tags:
   - how-to-make-friends
-  - quotes-and-summaries
+  - book-quotes-and-summaries
 description: >-
   Daryl Davis is a Black man who has friends in the Ku Klux Klan. He wrote about
   his experiences. This post explores the big ideas he discusses.
@@ -13,7 +13,7 @@ image: /assets/images/thumbnails/klandestine-relationships.jpeg
 ---
 Who is Daryl Davis and what can we learn from him?
 
-The first paragraph of [his Wikipedia bio](https://en.wikipedia.org/wiki/Daryl_Davis) gives a pretty cut and dry description of who he is:
+The first paragraph of [his Wikipedia bio](https://en.wikipedia.org/wiki/Daryl_Davis) gives a pretty cut-and-dry description of who he is:
 
 > Daryl Davis (born March 26, 1958) is an American R&B and blues musician, activist, author, actor, and bandleader. He is best known for his work concerning the Ku Klux Klan. His efforts to fight racism, in which, as an African-American, he has engaged with members of the Ku Klux Klan (KKK), have convinced a number of Klansmen to leave and denounce the KKK. Known for his energetic style of boogie-woogie piano, Davis has played with such musicians as Chuck Berry, Jerry Lee Lewis, B. B. King, and Bruce Hornsby.
 
