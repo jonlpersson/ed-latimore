@@ -6,9 +6,8 @@ permalink: /tao-te-ching-quotes/
 tags:
   - book-quotes-and-summaries
 description: >-
-  The Tao Te Ching is a classic text about living according to the "Tao" or "The
-  way". Here are some of the passages from the book that will truly change your
-  perspective. 
+  The Tao Te Ching teaches how to live according to the “Tao” or “The way”. Here
+  are some of the passages from the book that will truly open your mind.
 image: /assets/images/posts/tao-te-ching-notes.png
 ---
 The main idea of the Tao Te Ching (also known as Dao De Jing) is to live in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book and the Zhuangzi are considered the fundamental texts of philosophical and religious Taoism.
