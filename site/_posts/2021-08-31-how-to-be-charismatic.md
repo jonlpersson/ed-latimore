@@ -7,8 +7,8 @@ tags:
   - how-to-make-friends
   - dating-and-relationships
 description: >-
-  Discover how to be more charismatic, attract more people, and captivate no
-  matter where you are
+  Personal magnetism is a superpower. Discover how to be more charismatic,
+  attract more people, and captivate no matter where you are.
 image: /assets/images/posts/ed-polo-sitting-1.jpg
 ---
 Why is the true definition of charisma so hard to nail down?
