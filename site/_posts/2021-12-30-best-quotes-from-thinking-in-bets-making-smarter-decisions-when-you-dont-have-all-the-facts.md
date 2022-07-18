@@ -13,7 +13,7 @@ image: /assets/images/thumbnails/thinking-in-bets.jpeg
 ---
 Annie Duke wrote an excellent book that teaches you how to make better decisions by thinking of each choice you make as a bet. When you start thinking in bets, a few things start to happen to the quality of your decision-making, the most important of these is that you learn to separate processes from outcomes.
 
-This is an essential skill for many professions, but perhaps none more than high stakes professional poker players. Duke honed her abilities at the poker table, earning more than $4,000,000 in tournament earnings. She is also a World Series of Poker Champion, having won the 2004 $3,000 Omaha High-Low 8/OB. She also served as consultant ieLogic, a company that developed online poker software for multiplayer poker websites.
+This is an essential skill for many professions, but perhaps none more than high stakes professional poker players. Duke honed her abilities at the poker table, earning more than $4,000,000 in tournament earnings. She is also a World Series of Poker Champion, having won the 2004 $3,000 Omaha High-Low 8/OB. She also served as a consultant to Logic, a company that developed online poker software for multiplayer poker websites.
 
 Today she lectures on behavior decision science and cognitive psychology, using lessons from the poker table to help everyone improve the quality of their decisions. The following are some of the best quotes and ideas from her book, Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts.
 
