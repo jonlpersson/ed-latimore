@@ -6,12 +6,11 @@ permalink: /the-prince-machiavelli-quotes/
 tags:
   - book-quotes-and-summaries
 description: >-
-  I've collected the big ideas and major quotes from Machiavelli's classic
-  treatise on political philosophy and political theory. These aren't
-  motivational or inspirational quotes. They're pragmatic and useful. 
+  I’ve collected the big ideas from Machiavelli’s classic treatise on political
+  philosophy and political theory. These are pragmatic ideas to seize power.
 image: /assets/images/drafts/the-prince.jpg
 ---
-The Price was written by Niccolò Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to use it to aid his return to a position of power he once held. It was to be a gift to gain favor with Lorenzo de Medici after he fell out of favor with him because he was accused of conspiracy, tortured, and exiled.
+The Price was written by Niccol&ograve; Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to use it to aid his return to a position of power he once held. It was to be a gift to gain favor with Lorenzo de Medici after he fell out of favor with him because he was accused of conspiracy, tortured, and exiled.
 
 Machiavelli states in the book's dedication that he would like to return to a position of authority and that he offers the advice contained in The Prince as the most precious gift he could offer.
 
@@ -27,7 +26,7 @@ Although it is relatively short, the book has made a great impression on popular
 
 I've collected the big ideas and major quotes from Machiavelli's classic treatise on political philosophy and political theory. I wouldn't exactly call these inspirational quotes, but you will find a wealth of practical knowledge that will enable you to navigate and anticipate human nature to use to your advantage.
 
-## Big ideas and quotes from Niccolò Machiavelli’s The Prince
+## Big ideas and quotes from Niccol&ograve; Machiavelli’s The Prince
 
 ![Niccolò Machiavelli's &quot;The Prince&quot;](/assets/images/drafts/the-prince.jpg "Niccolò Machiavelli's &quot;The Prince&quot;"){: width="334" height="499"}
 
@@ -54,7 +53,7 @@ Consider the parts of the operation that are sacred to the people operating. Avo
 
 ---
 
-> **And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals. **
+> \*\*And let it here be noted that men are either to be kindly treated, or utterly crushed since they can revenge lighter injuries, but not graver. Wherefore the injury we do to a man should be of a sort to leave no fear of reprisals. \*\*
 
 If you can't destroy someone completely, then leave them a way out to save face. Ideally, you give them a way to be your ally and friend instead.
 
@@ -62,7 +61,7 @@ Before you engage in a conflict, consider if you're willing and capable to go al
 
 ---
 
-> **And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new. **
+> \*\*And let it be noted that there is no more delicate matter to take in hand, nor more dangerous to conduct, nor more doubtful in its success, than to set up as a leader in the introduction of changes. For he who innovates will have for his enemies all those who are well off under the existing order of things and only lukewarm supporters in those who might be better off under the new. \*\*
 
 Once again, we have another warning about making changes when you become the leader of an organization.
 
@@ -74,7 +73,7 @@ If they and their sympathizers are the minority, then making changes will lead t
 
 ---
 
-> **Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them. **
+> \*\*Must not fail to remind the Prince who acquires a new State through the favor of its inhabitants, to weigh well what were the causes which led those who favored him to do so; and if it is seen that they have acted not from any natural affection for him, but merely out of discontent with the former government, that he will find the greatest difficulty in keeping them his friends since it will be impossible for him to content them. \*\*
 
 There's a big difference between being someone's choice out of desire and being someone's choice out of desperation. In the former, they'll do whatever it takes to keep you. In the latter, they'll do just enough to not lose you.
 
@@ -106,13 +105,13 @@ A similar sentiment is echoed when it comes to why a man shouldn't move into his
 
 ## Machiavelli on dealing with problems early
 
-> **When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure. **
+> \*\*When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure. \*\*
 
 An ounce of prevention is worth a pound of a cure. The earlier you solve a problem, the less likely it is that it will grow into a problem that you can't solve.
 
 ---
 
-> **Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits. **
+> \*\*Hence we may learn the lesson that on seizing a state, the usurper should make haste to inflict what injuries he must, at a stroke, that he may not have to renew them daily but be enabled by their discontinuance to reassure men’s minds, and afterward win them over by benefits. \*\*
 
 This point is in the same vein as making sure that you destroy an enemy completely if you get into conflict with him. However, this is more of a preventative tone.
 
@@ -122,13 +121,13 @@ The importance of this can not be overstated in leadership. It is always easier 
 
 ---
 
-> **Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few. **
+> \*\*Nevertheless, the ruler is not truly wise who cannot discern evils before they develop themselves, and this is a faculty given to few. \*\*
 
 A good leader has to be a good strategist. Part of being a good strategist is seeing problems before they arise and dealing with them before they become too formidable.
 
 ---
 
-> **Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. **
+> \*\*Wherefore, as has already been said, a Prince who is ignorant of military affairs, besides other disadvantages, can neither be respected by his soldiers nor can he trust them. A Prince, therefore, ought never to allow his attention to be diverted from warlike pursuits, and should occupy himself with them even more in peace than in war. This he can do in two ways, by practice or by study. \*\*
 
 So a general perspective to take here is that you should be wary of hiring people to do important things that you don't know anything about. The more vital it is to your safety and success, the more important it is that you're at least an intermediate.
 
@@ -136,7 +135,7 @@ This will keep you from being taken advantage of and being completely reliant on
 
 ---
 
-> **A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only. **
+> \*\*A Prince should therefore disregard the reproach of being thought cruel where it enables him to keep his subjects united and obedient. For he who quells disorder by a very few signal examples will, in the end, be more merciful than he who from too great leniency permits things to take their course and so to result in rapine and bloodshed; for these hurt the whole State, whereas the severities of the Prince injure individuals only. \*\*
 
 Machiavelli is telling leaders to not worry about being viewed as cruel as long as the cruelty is practical for leadership. He provides simple reasoning for this course of action:<br><br>It's easier when people think you're harsh because they will be less likely to cross you. When they know that you're lenient, they will take liberties and test your boundaries of leadership.
 
@@ -144,7 +143,7 @@ Machiavelli is telling leaders to not worry about being viewed as cruel as long 
 
 ---
 
-> **For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you. **
+> \*\*For of men it may generally be affirmed, that they are thankless, fickle, false studious to avoid danger, greedy of gain, devoted to you while you are able to confer benefits upon them, and ready, as I said before, while danger is distant, to shed their blood, and sacrifice their property, their lives, and their children for you; but in the hour of need, they turn against you. \*\*
 
 Generally speaking, people are friendly to you when it's easy to be friendly. However, the moment that friendship requires real skin in the game and sacrifice, then many are nowhere to be found.
 
@@ -152,7 +151,7 @@ This isn't to say that there is no such thing as a loyal friend. It's only to sa
 
 ---
 
-> **For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony. **
+> \*\*For a man may very well be feared and yet not hated, and this will be the case so long as he does not meddle with the property or with the women of his citizens and subjects. And if constrained to put any to death, he should do so only when there is a manifest cause or reasonable justification. But, above all, he must abstain from the property of others. For men will sooner forget the death of their father than the loss of their patrimony. \*\*
 
 Machiavelli notices that men can deal with all types of tyranny as long as the leaders don't take his stuff or his women. Or put differently, the only thing that really matters to men is the ability to have a family and a place to raise it.
 
@@ -170,7 +169,7 @@ Dave Chapelle has a joke that sums this relationship up nicely:
 
 ---
 
-> **But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves. **
+> \*\*But since a Prince should know how to use the beast’s nature wisely, he ought of beasts to choose both the lion and the fox; for the lion cannot guard himself against the toils, nor the fox from wolves. He must therefore be a fox to discern toils, and a lion to drive off wolves. \*\*
 
 To be an effective leader, you must be able to lead in a variety of ways. It's not always diplomacy and it's not always war. The ability to determine the best fit for the situation at hand determines your success.
 
@@ -184,7 +183,7 @@ If you have to choose between "too cautious" and "too impetuous", it is FAR bett
 
 ## Machiavelli on managing reputation
 
-> **The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue. **
+> \*\*The wish to acquire is no doubt a natural and common sentiment, and when men attempt things within their power, they will always be praised rather than blamed. But when they persist in attempts that are beyond their power, mishaps and blame ensue. \*\*
 
 There's nothing wrong with an attempt. The problem is when you continue after it's clear that it is beyond your ability or grasp. A lot of resources are wasted in trying to accomplish the unaccomplishable.
 
@@ -194,13 +193,13 @@ No one likes to admit that they can't do something, but sometimes. that level of
 
 ---
 
-> **And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved. **
+> \*\*And here comes the question of whether it is better to be loved rather than feared, or feared rather than loved. It might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together if we must choose between them, it is far safer to be feared than loved. \*\*
 
 I don't believe that being loved and being feared are mutually exclusive. However, if you have to pick one, you'll go a lot further if people fear you. This is because to do anything, you have to deal with other people. If they love you, they MIGHT be of assistance to you out of the kindness of their heart. If they fear you, then they'll ALMOST CERTAINLY help you as a matter of survival.
 
 Love is nice, but it doesn't defend against the evil forces of the world that may be plotting against you. ​​​​​
 
-> **It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. **
+> \*\*It is not essential, then, that a Prince should have all the good qualities which I have enumerated above, but it is most essential that he should seem to have them; I will even venture to affirm that if he has and invariably practices them all, they are hurtful, whereas the appearance of having them is useful. Thus, it is well to seem merciful, faithful, humane, religious, and upright, and also to be so; but the mind should remain so balanced that were it needful not to be so, you should be able and know how to change to the contrary. \*\*
 
 Machiavelli warns us that there is a danger in practicing all the good qualities that you espouse. A certain level of hypocrisy keeps you alive because you must be able to react to your challengers and deal with them properly.
 
@@ -220,7 +219,7 @@ Most men are not built to resist fear. They must be trained. And even then, they
 
 ---
 
-> **Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate. **
+> \*\*Moreover, men are less careful about how they offend he who makes himself loved than he who makes himself feared. For love is held by the tie of obligation, which, because men are a sorry breed, is broken on every whisper of private interest; but fear is bound by the apprehension of punishment which never relaxes its grasp. Nevertheless, a Prince should inspire fear in such a fashion that if he does not win love he may escape hate. \*\*
 
 When a person fears your retribution, they are much less likely to betray you. Love is a powerful motivation to stay loyal, but fear is even better.
 
@@ -228,7 +227,7 @@ People will do more to avoid pain than experience pleasure.
 
 ---
 
-> **And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. **
+> \*\*And there is no quality so self-destructive as liberality; for while you practice it you lose the means whereby it can be practiced, and become poor and despised, or else, to avoid poverty, you become rapacious and hated. For liberality leads to one or other of these two results, against which, beyond all others, a Prince should guard. \*\*
 
 The problem with generosity is that if that's the quality that you are known for, it will attract people with schemes to bleed you dry. And even if you think that's too pessimistic, consider this: even the people around you with good intentions may take advantage of you—not because they're evil people, but because your help enables them.
 
@@ -240,7 +239,7 @@ This isn't to say that one should lead through fear and violence, but leading th
 
 ## **Machiavelli on paying for help**
 
-> **Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives. **
+> \*\*Mercenaries and auxiliaries are at once useless and dangerous, and he who holds his State by means of mercenary troops can never be solidly or securely seated. For such troops are disunited, ambitious, insubordinate, treacherous, insolent among friends, cowardly before foes, and without fear of God or faith with man. Whenever they are attacked defeat follows; so that in peace you are plundered by them, in war by your enemies. And this is because they have no tie or motive to keep them in the field beyond their paltry pay, in return for which it would be too much to expect them to give their lives. \*\*
 
 Mercenaries are loyal to the pay they receive. This means that it's possible that your opponent can buy them from you. Most of us will never be able to apply this advice to a war environment, but it becomes even more potent when applied to our daily lives.
 
@@ -254,19 +253,19 @@ The auxiliaries know how your operation works because you had to reveal it to th
 
 ---
 
-> **Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined. **
+> \*\*Captains of mercenaries are either able men or they are not. If they are, you cannot trust them, since they will always seek their own aggrandizement, either by overthrowing you who are their master or by the overthrow of others contrary to your desire. On the other hand, if your captain is not an able man the chances are you will be ruined. \*\*
 
 ---
 
-> **For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding. **
+> \*\*For the gains resulting from mercenary arms are slow, late, and inconsiderable, but the losses are sudden and astounding. \*\*
 
 ---
 
-> **In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid. **
+> \*\*In short, with mercenaries, your greatest danger is from their inertness and cowardice, with auxiliaries from their valor. Wise Princes, therefore, have always eschewed these arms, and trusted rather to their own, and have preferred defeat with the latter to victory with the former, counting that as no true victory which is gained by foreign aid. \*\*
 
 ---
 
-> **For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them. **
+> \*\*For the friendships which we buy with a price, and do not gain by greatness and nobility of character, though they are fairly earned are not made good, but fail us when we have occasion to use them. \*\*
 
 ## Machiavellian tactics in modern politics
 
