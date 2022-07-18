@@ -6,8 +6,8 @@ permalink: /how-to-get-closer-to-a-friend/
 tags:
   - how-to-make-friends
 description: >-
-  Tired of surface-level relationships? Here's how to be close friends with
-  someone
+  Tired of surface-level relationships? Want to be closer to the friends you
+  have? This article shows you how to be closer with friends & loved ones
 image: /assets/images/thumbnails/ed-laughing-with-friends.jpg
 ---
 We all want friends with benefits.
