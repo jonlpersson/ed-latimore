@@ -7,8 +7,8 @@ tags:
   - dating-and-relationships
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
 description: >-
-  Experience and experiments combine to teach you how to get over someone who's
-  broken your heart.
+  Personal experience, anecdotal evidence, and scientific experiments combine to
+  teach you the best way to get over someone who’s broken your heart.
 ---
 Time heals all wounds, sure, but you didn’t come here for advice like that.
 
