@@ -11,7 +11,7 @@ description: >-
   perspective. 
 image: /assets/images/posts/tao-te-ching-notes.png
 ---
-The main idea of the Tao Te Ching (also known as Dao De Jing) is to live life in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book—along with the *Zhuangzi—*is considered one of the fundamental texts of philosophical and religious Taoism.
+The main idea of the Tao Te Ching (also known as Dao De Jing) is to live in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book and the Zhuangzi are considered the fundamental texts of philosophical and religious Taoism.
 
 Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; d&agrave;o means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
 
@@ -19,7 +19,7 @@ The combination of yin and yang principles and signifying the way, or code of be
 
 The creation of the book is often credited to Lao Tzu (also rendered as "LaoZi" 老子). The name roughly translates into “Old master”. While it’s not certain what his real name is, the title of Lao Tzu is given as an honorific and to show respect for his wisdom.
 
-The following are some of the most impactful quotes and I ideas I collected from the Tao Te Ching along with commentary where appropriate. I group the ideas by the themes that I found most useful and interesting as well.
+The following are some of the most impactful quotes and ideas I collected from the Tao Te Ching, along with commentary where appropriate. I group the ideas by the themes I found most useful and interesting.
 
 With that said, I couldn’t possibly do a book like the Tao Te Ching justice, so I strongly recommend you grab a copy for yourself. It’s a short read, full of practical wisdom.
 
@@ -39,9 +39,9 @@ When nothing disturbs your emotional center, this is true power.
 
 ## **Tao Te Ching Quotes on wisdom**
 
-Wisdom is not only the byproduct of experience, but it’s also the byproduct of time. You have to go through something, reflect on it, and then assimilate it into your daily existence. This is why most societies naturally have respect for their elder population. Even if an old person isn’t trying to acquire wisdom, they will naturally accumulate it by virtue of living.
+Wisdom is not only the byproduct of experience but also the byproduct of time. You have to go through something, reflect on it, and then assimilate it into your daily existence. This is why most societies naturally have respect for their elder population. Even if an old person isn’t trying to acquire wisdom, they will naturally accumulate it by virtue of living.
 
-In this way, ordinary people have the ability to develop extraordinary wisdom as a result of simply surviving. Of course, the Taoists laid out a path for living they believe can turn anyone into a wise man or woman.
+In this way, ordinary people can develop extraordinary wisdom as a result of simply surviving. Of course, the Taoists laid out a path for living they believe can turn anyone into a wise man or woman.
 
 > 1. The wise person acts without effort and teaches by quiet example. He accepts things as they come, creates without possessing, nourishes without demanding, and accomplishes without taking credit. Because he constantly forgets himself, he is never forgotten.
 > 2. In the same way, the wise person puts himself last, and thereby finds himself first; Holds himself outside, and thereby remains at the center; Abandons himself, and is thereby fulfilled.
@@ -55,7 +55,7 @@ In this way, ordinary people have the ability to develop extraordinary wisdom as
 
 The idea of self-improvement is that you take it upon yourself to make positive changes in your life that dramatically alter it, especially quantitative and independently observable change. Something that many people don’t realize is that self-improvement is incredibly rare. Most people reach a point where society stops imposing conditions for advancement, and thus they stop advancing.
 
-These Lao Tzu quotes are not explicitly about self-improvement, but the ideas are applicable to the. Ultimately, the goal of self-improvement is to become the master of a specific domain or area of your life. You can become the master of your health, finances, relationships, spirituality, etc.
+These Lao Tzu quotes are not explicitly about self-improvement, but the ideas apply to them. Ultimately, the goal of self-improvement is to become the master of a specific domain or area of your life. You can become the master of your health, finances, relationships, spirituality, etc.
 
 It doesn’t mean you're the best in the whole world. It only means that you’ve reached a level where that specific area is no longer a problem for you. Lao Tzu has a few true words that speak to the approach required to reach this level of living.
 
@@ -74,7 +74,7 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 > 2. If you fail to trust people, you won’t inspire their trust.
 > 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
-> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
+> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
 
 ## Other notes and big ideas from books I've read
 
