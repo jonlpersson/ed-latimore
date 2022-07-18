@@ -6,7 +6,9 @@ permalink: /lack-of-motivation/
 tags:
   - how-to-control-your-emotions
 image: /assets/images/posts/ed-hitting-the-speedbag.jpg
-description: "Lack of motivation\_doesn't have to ruin your life. Learn how to motivate yourself when you're down."
+description: >
+  Lack of motivation doesn’t have to ruin your life. Learn how to get things
+  done when your motivation is lagging.
 ---
 I see so many people talking about their lack of motivation.
 
