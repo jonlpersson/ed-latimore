@@ -6,8 +6,8 @@ permalink: /losing-someone-you-love/
 tags:
   - how-to-control-your-emotions
 description: >-
-  Losing someone can leave you feeling lost. Here’s what to do when you don’t
-  know what to do.
+  Losing someone you love can leave you feeling lost. Here’s what to do when
+  your grief and sorrow make getting on with your life seem impossible.
 image: /assets/images/posts/ed-latimore-cope-with-losing-someone.png
 ---
 Losing someone you love is never easy.
