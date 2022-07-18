@@ -6,9 +6,9 @@ permalink: /how-to-stop-self-sabotaging-your-relationships/
 tags:
   - dating-and-relationships
 description: >-
-  Tired of relationships that blow up in your face? This article will help you
-  break self-destructive, self-sabotaging behaviors and build the relationship
-  you dream of.
+  Tired of relationships that blow up in your face? Learn how to break
+  self-destructive, self-sabotaging behaviors and build the relationship you
+  dream of.
 image: /assets/images/thumbnails/ed-and-anna-on-vacation.jpeg
 ---
 Bad romantic relationships can make your life real stupid, real fast.
@@ -48,7 +48,7 @@ So before we can get into how to stop self-sabotaging your relationships, you fi
 
 ### Low-self esteem
 
-All humans have a need to feel like they belong.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Low self-esteem occurs when we feel incapable or unworthy of belonging. In romantic relationships, this can show up as choosing the wrong partner, desperate behavior, or even abuse. Insecurities stemming from how you feel about yourself drive how you interact and cope with difficulty.
+All humans have a need to feel like they belong.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Low self-esteem occurs when we feel incapable or unworthy of belonging. In romantic relationships, this can show up as choosing the wrong partner, desperate behavior, or even abuse. Insecurities stemming from how you feel about yourself drive how you interact and cope with difficulty.
 
 ### Fear
 
@@ -66,7 +66,7 @@ Fear of intimacy isn’t simply a fear of sharing your thoughts, it’s also a f
 
 ### A need for instant gratification and ‘butterflies’
 
-This is you if you’re constantly looking for a way out or you nitpick everything about your significant other. You have no space for less than perfect. Those that can delay gratification are more likely to experience success in life.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>
+This is you if you’re constantly looking for a way out or you nitpick everything about your significant other. You have no space for less than perfect. Those that can delay gratification are more likely to experience success in life.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 In relationships, being unable to delay gratification looks like the inability to face discomfort. You place unrealistic expectations on the other person which leads to insecurity, dishonesty, and ultimately a breakup.
 
@@ -90,7 +90,7 @@ Plus, honesty is also the only way to have good communication. Once you learn ho
 
 I recently wrote a relationship series on arguing. Read [how to stop arguing in relationships](https://edlatimore.com/how-to-stop-arguing-in-relationships/) to learn specific techniques for communication.
 
-Another addition to that series is *[How often do couples fight](https://edlatimore.com/how-often-do-couples-fight/)*. Every couple, even happy relationships, has unsolvable perpetual arguments that stem from our cognitive-communication style.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> This article helps you identify yours and any red flags that may pop up.
+Another addition to that series is *[How often do couples fight](https://edlatimore.com/how-often-do-couples-fight/)*. Every couple, even happy relationships, has unsolvable perpetual arguments that stem from our cognitive-communication style.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> This article helps you identify yours and any red flags that may pop up.
 
 ### Find someone to grow with
 
@@ -104,7 +104,7 @@ Setting an intention will help you identify when you’re off course. Plus, you 
 
 When the topic of self-sabotage comes up, there is a lot of information about attachment styles that serves to answer the question: why do we self-sabotage?
 
-The psychology behind attachment styles is based on the work of John Bowlby and Mary Ainsworth.<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>
+The psychology behind attachment styles is based on the work of John Bowlby and Mary Ainsworth.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
 
 Basically, it’s how you were nurtured and developed trust as an infant. This nurturing is offered by some as an answer to why we have trouble connecting in adult relationships. Learning your attachment style can be a gateway to self-awareness but it can’t be the full solution.
 
@@ -116,7 +116,7 @@ Own up to your behavior, your desires, and your mindset. Only then can you work 
 
 When taking responsibility for your life, you need self-compassion in equal measure.
 
-Self-defeating behaviors are often perpetuated by our refusal to forgive ourselves for mistakes, bad decisions, or shortcomings. And that shame leads you to self-medicate, seek toxic forms of comfort, and addiction.<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>
+Self-defeating behaviors are often perpetuated by our refusal to forgive ourselves for mistakes, bad decisions, or shortcomings. And that shame leads you to self-medicate, seek toxic forms of comfort, and addiction.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup>
 
 In romantic relationships, this shows up as allowing poor behavior to persist. For example, if you are ashamed of your past experiences you may intentionally choose the wrong person because you feel you don’t deserve better. That insecurity and shame work like a magnet for other people also looking to avoid coping.
 
@@ -151,22 +151,4 @@ To stop self-sabotaging your relationships:
 
 ### References:
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>Walther, Lena, Jacobsen Jannes, Fuchs Lukas Rediscovering the sense of belonging in social research: A new survey measure. _Biomedical Central. _March 5, 2021.  <a href="https://blogs.biomedcentral.com/on-society/2021/03/05/rediscovering-the-sense-of-belonging-in-social-research-a-new-survey-measure/">https://blogs.biomedcentral.com/on-society/2021/03/05/rediscovering-the-sense-of-belonging-in-social-research-a-new-survey-measure/</a> (accessed June 2022) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>Clear, James. 40 Years of Stanford Research Found That People With This One Quality Are More Likely to Succeed. _James Clear. _<a href="https://jamesclear.com/delayed-gratification#:~:text=Success%20in%20nearly%20every%20field,and%20putting%20in%20your%20reps">https://jamesclear.com/delayed-gratification</a>). (accessed June 2022) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>Dashnow, D. “The Neuroscience of Perpetual Arguments.” <em>Couples Therapy Inc.</em> <a href="https://www.couplestherapyinc.com/the-neuroscience-of-perpetual-marital-problems/">https://www.couplestherapyinc.com/the-neuroscience-of-perpetual-marital-problems/</a> (accessed June 2022) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:4" role="doc-endnote">
-      <p>Cherry, Kendra. Medically reviewed by Gans, Steven MD. What Is Attachment Theory? The Importance of Early Emotional Bonds. <em>Verywell Mind</em>. (May 2, 2022) <a href="https://www.verywellmind.com/what-is-attachment-theory-2795337">https://www.verywellmind.com/what-is-attachment-theory-2795337</a> (accessed June 2022) <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:5" role="doc-endnote">
-      <p>Gaba, Sherry LCSW. The Link Between Addiction and Shame. _Psychology Today. _April 2, 2019. <a href="https://www.psychologytoday.com/us/blog/addiction-and-recovery/201904/the-link-between-addiction-and-shame">https://www.psychologytoday.com/us/blog/addiction-and-recovery/201904/the-link-between-addiction-and-shame</a> (accessed June 2022) <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Walther, Lena, Jacobsen Jannes, Fuchs Lukas Rediscovering the sense of belonging in social research: A new survey measure. _Biomedical Central. _March 5, 2021. <a href="https://blogs.biomedcentral.com/on-society/2021/03/05/rediscovering-the-sense-of-belonging-in-social-research-a-new-survey-measure/">https://blogs.biomedcentral.com/on-society/2021/03/05/rediscovering-the-sense-of-belonging-in-social-research-a-new-survey-measure/</a> (accessed June 2022) <a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Clear, James. 40 Years of Stanford Research Found That People With This One Quality Are More Likely to Succeed. _James Clear. _<a href="https://jamesclear.com/delayed-gratification#:~:text=Success%20in%20nearly%20every%20field,and%20putting%20in%20your%20reps">https://jamesclear.com/delayed-gratification</a>). (accessed June 2022) <a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Dashnow, D. &ldquo;The Neuroscience of Perpetual Arguments.&rdquo; <em>Couples Therapy Inc.</em> <a href="https://www.couplestherapyinc.com/the-neuroscience-of-perpetual-marital-problems/">https://www.couplestherapyinc.com/the-neuroscience-of-perpetual-marital-problems/</a> (accessed June 2022) <a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Cherry, Kendra. Medically reviewed by Gans, Steven MD. What Is Attachment Theory? The Importance of Early Emotional Bonds. <em>Verywell Mind</em>. (May 2, 2022) <a href="https://www.verywellmind.com/what-is-attachment-theory-2795337">https://www.verywellmind.com/what-is-attachment-theory-2795337</a> (accessed June 2022) <a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Gaba, Sherry LCSW. The Link Between Addiction and Shame. _Psychology Today. _April 2, 2019. <a href="https://www.psychologytoday.com/us/blog/addiction-and-recovery/201904/the-link-between-addiction-and-shame">https://www.psychologytoday.com/us/blog/addiction-and-recovery/201904/the-link-between-addiction-and-shame</a> (accessed June 2022) <a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
