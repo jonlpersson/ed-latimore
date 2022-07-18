@@ -6,8 +6,8 @@ permalink: /how-to-stop-arguing-in-relationships/
 tags:
   - dating-and-relationships
 description: >-
-  Discover how to stop frequent, ineffective arguments and build a healthy,
-  happy relationship.
+  Arguments can ruin a relationship before it even starts. Discover how to stop
+  frequent, ineffective arguments and build a healthy, happy relationship.
 image: /assets/images/posts/arguelessinrelaitonship.jpg
 ---
 For most people, arguing is hard on the physical body<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>.
