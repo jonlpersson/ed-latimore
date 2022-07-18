@@ -2,9 +2,9 @@
 tag: how-to-make-friends
 title: How to make friends
 description: >-
-  Learning how to make friends doesn't have to be difficult. If you follow these
-  steps, then you can build a vibrant social life and escape a life of
-  loneliness and isolation. 
+  Making friends doesn’t have to be difficult. If you follow these steps, then
+  you'll build a vibrant social life and escape a life of loneliness and
+  isolation.
 hero:
   label: How to make new friends
   heading: Learn how to make friends and become a person people want to befriend
