@@ -4,7 +4,7 @@ article_type: Article
 title: 'Accidental Courtesy: Daryl Davis, Race & America quotes'
 permalink: /accidental-courtesy-quotes/
 tags:
-  - quotes-and-summaries
+  - book-quotes-and-summaries
   - how-to-make-friends
 description: >-
   Accidental Courtesy follows Daryl Davis, a black jazz musician, who befriends
