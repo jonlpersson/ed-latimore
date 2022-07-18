@@ -167,33 +167,33 @@ If you notice, there is a growing trend of accounts that don’t even bother pos
 
 There’s an old internet saying: if you want the right answer to a question, just give the wrong one on the internet.&nbsp;
 
-People will not only correct you, but they'll remind you to be more educated, do your research, and insult you for being so stupid.&nbsp;
+People will not only correct you but also remind you to be more educated, do your research, and insult you for being so stupid.&nbsp;
 
 As long as your strong opinion doesn’t insult anyone based on their sex, sexual preference, race, religion, ethnicity, or national origin, then you’re fine. In other words, refrain from talking about someone’s innate characteristics, and you’re fine
 
-Strong opinions (a.k.a. Polarized opinions) motivate engagement because people have to either prove you wrong or show their agreement. If you do this correctly, you should end up with a lot of engagement in your captions as people actually start to talk and argue amongst one another in your comments.
+Strong opinions (a.k.a. Polarized opinions) motivate engagement because people have to either prove you wrong or show their agreement. If you do this correctly, you should have a lot of engagement in your captions as people start to talk and argue amongst one another in your comments.
 
 ## Use common sense
 
-This is a general but useful guide for improving the captions that you use. It will work on any post, but you have to think before using the captions. For example, if you’re taking pictures of nature, being polarizing and giving a strong opinion is a bad idea.
+This is a general but useful guide for improving your captions. It will work on any post, but you have to think before using the captions. For example, if you’re taking pictures of nature, being polarizing and giving a strong opinion is bad.
 
 It’s a lot better to focus on inspiring people and then giving them a call to action. Also, don’t just give a boring description. Put some life into it.
 
 Every picture has a story, lesson, thought, or inspiration behind it. The challenging part about writing captions is that you think they have to describe your picture directly. They do not. Think of your pictures as an attention grabber for your caption rather than a supplement to your picture.&nbsp;
 
-If you’re having trouble coming up with things to say, then this perspective shift should help. For a long time, I thought of Instagram as solely a photo-sharing app. Then I realized that people actually stop, read captions, and interact with them if they contain a CTA, give value, or make a strong opinion.
+If you’re having trouble coming up with things to say, then this perspective shift should help. For a long time, I thought of Instagram as solely a photo-sharing app. Then I realized that people stop, read captions, and interact with them if they contain a CTA, give value, or give a strong opinion.
 
 ## Take advantage of the first sentence
 
-Until a person expands, only the first two lines of a caption are displayed. This means that you need to make the introduction powerful and intense. You should treat the first sentence of your caption as a headline.
+Only the first two lines of a caption are displayed until a person expands. This means that you need to make the introduction powerful and intense. You should treat the first sentence of your caption as a headline.
 
-A headline that’s too short won’t generate engagement. On the other end of the spectrum, a headline that’s too long is likely full of superfluous language that confuses the reader about what problem it actually solves.
+A headline that’s too short won’t generate engagement. On the other end of the spectrum, a headline too long is likely full of superfluous language that confuses the reader about what problem it solves.
 
 Your headline should give the reader an idea of what the rest of the content will deliver.
 
 You’re selling the reader the value of your post in one sentence. If they don't pay attention to your first lines of text, they won't read the rest of your content. Therefore, you need to put some time and energy into crafting the first sentence of your caption to increase engagement
 
-The best way to do this is the to take advantage of a template I refer to as "The Four C's"
+The best way to do this is to take advantage of a template I refer to as "The Four C's"
 
 ### The Four C's of Instagram Engagement
 
@@ -219,11 +219,11 @@ Competition is one of the driving forces of evolution. Whether it’s two people
 
 #### Community&nbsp;
 
-Relationships are another natural motivator we can’t shake. Whether it’s being more popular or getting the girl, people will pay attention if they believe you can improve their social status.
+Relationships are another natural motivator we can’t shake. Whether it’s being more popular or getting a girl, people will pay attention if they believe you can improve their social status.
 
 Competition and community appeal to the main goals for any human. When you strip away our fancy technology, humans still operate on their basic desires: to survive and reproduce. This is why headlines and content centered around those ideas do so well.&nbsp;
 
-These four play on biological needs we can’t shake. If you understand your niche and play your cards right, your engagement will skyrocket.
+These four play on biological needs we can’t shake. Your engagement will skyrocket if you understand your niche and play your cards right.
 
 ## In Conclusion
 
