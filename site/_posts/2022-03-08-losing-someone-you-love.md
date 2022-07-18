@@ -8,7 +8,7 @@ tags:
 description: >-
   Losing someone you love can leave you feeling lost. Here’s what to do when
   your grief and sorrow make getting on with your life seem impossible.
-image: /assets/images/posts/ed-latimore-cope-with-losing-someone.png
+image: /assets/images/posts/coping-with-losing-someone.jpeg
 ---
 Losing someone you love is never easy.
 
