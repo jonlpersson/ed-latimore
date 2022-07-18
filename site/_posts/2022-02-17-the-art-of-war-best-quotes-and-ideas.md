@@ -4,18 +4,17 @@ article_type: Article
 title: 'The Art of War: 10 best quotes and ideas'
 permalink: /art-of-war-quotes-and-summary/
 tags:
-  - boxing-lessons
-  - quotes-and-summaries
+  - book-quotes-and-summaries
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.
 image: /assets/images/thumbnails/the-art-of-war.jpeg
 ---
-The Art of War is an ancient Chinese military guide by Sun Tzu that was penned sometime around the 5th century, B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
+The Art of War is an ancient Chinese military guide by Sun Tzu that was penned sometime around the 5th century B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
 
-It's a surprisingly short read. I read it on my kindle and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
+It's a surprisingly short read. I read it on my kindle, and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
 
-Despite its short length, the ideas it's packed with apply to many areas in life. The strategies are applicable to modern warfare, business, negotiation, and even relationships.
+Despite its short length, the ideas it's packed with apply to many areas in life. The strategies apply to modern warfare, business, negotiation, and even relationships.
 
 I read through The Art of War and took notes on what I thought were the most important ideas and quotes. If you don't have time to read the book yourself or just want a refresher, these big ideas and quotes from The Art of War should prove to make you a better combatant in the battleground of life.&nbsp;
 
@@ -31,7 +30,7 @@ If you want to consistently maintain an advantage, you must anticipate and embra
 
 ***\[Read the articles here: "[12 reasons why math is important](/why-is-math-important/)" and "[7 reasons why writing is important](/why-is-writing-important/)\]***
 
-I don't make those recommendations out of a particular loyalty to the subjects. I make those recommendations because problem-solving and communication skills will always be desired. The goal is to be a learner, above all else.
+I don't make those recommendations out of a particular loyalty to the subjects. I make those recommendations because problem-solving and communication skills will always be desired. The goal is to be a learner above all else.
 
 In addition, you have to learn to be comfortable being uncomfortable. People who don't handle change well are left behind. New technology emerges too fast for anyone to get comfortable with one approach for too long.&nbsp;
 
@@ -45,13 +44,13 @@ There's a lot that's been written about the qualities of great leaders.
 
 ***\[I have a piece about developing good leadership. [Read it here](/leadership-philosophy/)\]***
 
-However, you can go quite far if you simply avoid what Sun Tzu calls "the dangerous faults which may affect a general." Let's dive a little deeper into the 5 qualities of a bad leader or general:
+However, you can go quite far if you simply avoid what Sun Tzu calls "the dangerous faults which may affect a general." Let's dive a little deeper into the five qualities of a bad leader or general:
 
-**Recklessness:&nbsp;**While there are many different leadership and management styles, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
+**Recklessness:&nbsp;**While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
 
 A reckless leader takes uncalculated risks, lacks adaptability, and is controlled by passion and emotions rather than strategy and the mission.
 
-**Cowardice:**&nbsp;Cowardice is probably the single greatest liability a leader can have. In a war, cowards are killed quickly, either by their own side for deserting or the opponents because they're afraid to fight. In less hostile environments, cowards are afraid of confrontation but want the outcome of a confrontation that goes in their favor—and they're willing to do anything to get it.&nbsp;
+**Cowardice:**&nbsp;Cowardice is probably the single greatest liability a leader can have. In a war, cowards are killed quickly, either by their side for deserting or the opponents because they're afraid to fight. In less hostile environments, cowards are afraid of confrontation but want the outcome of a confrontation that goes in their favor—and they're willing to do anything to get it.&nbsp;
 
 This means not enforcing discipline or standing up for their subordinates for less ambitious leaders. More ambitious leaders will rely on deception, subterfuge, and outright dishonesty to control or direct their team members.
 
@@ -67,9 +66,9 @@ First, when the opponent is not honorable. You place yourself and your team at g
 
 When you do this, you have ruled out the use of certain tactics while the opponent knows no such limits. This is fine and acceptable in contests where there is nothing on the line. But when life or liberty or at stake, this is poor leadership.
 
-The second instance where sensitivity to shame is a weakness is when you are facing unfavorable conditions or defeat, and you refuse to back down or change course. If you lead your team to slaughter and you don't have to, and the reason you won't change your mind is because of honor, it becomes a dishonorable decision.&nbsp;
+The second instance where sensitivity to shame is a weakness is when you face unfavorable conditions or defeat and refuse to back down or change course. If you lead your team to slaughter and you don't have to, and you won't change your mind because of honor, it becomes a dishonorable decision.&nbsp;
 
-**Over-solicitude for his men:&nbsp;**Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way that was vital in a state of war.
+**Over-solicitude for his men:&nbsp;**Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way, which was vital in a state of war.
 
 In modern-day company culture, the equivalent of this idea would be a boss who's afraid to ask his employees to stay late, pick up extra work, or come in on their day off.
 
@@ -84,11 +83,11 @@ This can only happen if the boss doesn't care too much.&nbsp;
 Great leaders know how to navigate two interesting facts about human nature:&nbsp;
 
 1. People like who they listen to more than they listen to who they like.
-2. People like who they respect more they respect who they like.
+2. People like who they respect more than they respect who they like.
 
 Good leaders know that trying to be liked before you're respected and obeyed is putting the cart before the horse. They also understand that being liked doesn't usually lead to respect, especially when there is a status difference.
 
-The conclusion of all of this is that to be an effective leader, you can not worry about how much your team likes you. It's nice if they do, but it is inconsequential to the success of the mission. In fact, it's often is a bad thing if they like you.
+The conclusion of all of this is that to be an effective leader, you can not worry about how much your team likes you. It's nice if they do, but it is inconsequential to the success of the mission. It's often a bad thing if they like you.
 
 When the people you're in charge of like you too much, they become attached. When they become attached, they start to view themselves as equal, which makes it hard for them to obey your orders. This leads to a need for discipline, but you become less motivated to enforce discipline because you naturally start to like them in return.
 
@@ -96,9 +95,9 @@ When the people you're in charge of like you too much, they become attached. Whe
 
 In this passage, Sun Tzu is recognizing the danger of becoming too familiar with your subordinates. Anyone who's ever been in the military recognizes this structure today, as there is no fraternizing between officers and enlisted men or between non-commissioned officers and lower enlisted.
 
-Now, this is not to say that you should go out of your way to be unlikable. That's a recipe for failure also. As a team leader, you should simply make the best decisions you can to lead your team members to success. Their feelings towards you aren't unimportant. They're just none of your concern.
+Now, this is not to say that you should go out of your way to be unlikable. That's a recipe for failure also. As a team leader, you should make the best decisions to lead your team members to success. Their feelings towards you aren't unimportant. They're just none of your concern.
 
-Your concern is order and effectiveness. If you do this right, while treating everyone with respect, then you will be respected as well, which naturally leads to being liked anyway.
+Your concern is order and effectiveness. If you do this while treating everyone with respect, you will be respected as well, which naturally leads to being liked anyway.
 
 ## How to plan for a conflict
 
@@ -113,7 +112,7 @@ When I was a professional boxer, I trained hard for every opponent, regardless o
 
 ***\[Read more about my training routine for [professional boxing matches here](/best-porn-blocker/)\]***
 
-By training hard for my opponent, the worst-case scenario is that I was would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
+By training hard for my opponent, the worst-case scenario is that I would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
 
 It doesn't matter what your plans are. You can increase their likelihood of coming to fruition if you consider the ways things can go wrong, then devise a method of preventing or mitigating them.&nbsp;
 
@@ -129,9 +128,9 @@ Though this is not always true, people who talk a lot are not the ones who get t
 
 Talk is cheap. Anyone can do it. Because anyone can say anything, it doesn't have much worth. That's not the only problem with people who spend a lot of time talking about what they're going to do instead of doing it.
 
-They also aren't doing things if they're busy talking about doing things. People who have done things like to show that they've done things, if for no other reason than it distinguishes them from talkers.
+They also aren't doing things if they're busy talking about doing things. People who have done things like to show that they've done things for no reason other than it distinguishes them from talkers.
 
-Here's another way to look at this: if someone is capable of performing a task, you'll either have heard about them or they will show you what they've done. They will not just rely on their own boasts.
+Here's another way to look at this: if someone is capable of performing a task, you'll either have heard about them, or they will show you what they've done. They will not just rely on their boasts.
 
 > Had these ni\*\*as tellin' lies, they just sound true<br>Ni\*\*a if you had it like that I would've found you
 >
@@ -148,7 +147,7 @@ You must train how you plan to perform and prepare under the most difficult and 
 * You introduce random distractions and variables into the practice arena,.
 * You reduce your resources and capabilities.
 
-The goal for practice is not only for you to hone your skills, but to hone them in an environment that most closely resembles the one you'll be using them in.
+The goal for practice is not only for you to hone your skills but to hone them in an environment that most closely resembles the one in which you'll be using them.
 
 This means that you have to handicap yourself and do your best to create an environment that exposes you to the tribulations of combat, whatever your particular type of "combat" is. Performers, athletes, speakers, etc. You must train yourself to execute in all conditions so that you're ready for anything.
 
@@ -162,7 +161,7 @@ This also does wonders for your confidence, making it even easier for you to per
 
 It's easy to give in to your basic nature and urges. This usually results in a negative outcome. As a leader, this can have devastating effects on the morale of your team and their respect for you.
 
-This is how abuses of power take place. The leader uses rank or title to take advantage or take things from his own people. If you are not disciplined enough to keep your desires in check, then you can be manipulated by the enemy and you will lose the support of your allies.
+This is how abuses of power take place. The leader uses rank or title to take advantage or take things from his people. If you are not disciplined enough to keep your desires in check, then you can be manipulated by the enemy and lose your allies' support.
 
 This is something I learned while getting sober. Putting down the bottle made it impossible to manipulate me by offering me free drinks. It kept me out of a lot of places where there could be threats to what I valued in my life.
 
