@@ -7,7 +7,7 @@ tags:
   - dating-and-relationships
 description: >-
   All couples fight, but how much fighting is considered healthy? Find out here
-  according to experts.
+  according to experts. Also find out how to fight less if you fight too much.
 image: /assets/images/thumbnails/how-to-become-in-relationships-ed-latimore.jpg
 ---
 I don’t remember where I learned to argue fairly, but I grew up with plenty of examples of how to do it the wrong way.
