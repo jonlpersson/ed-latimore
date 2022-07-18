@@ -4,7 +4,7 @@ article_type: Article
 title: 'The Tao Te Ching: 19 quotes and big ideas'
 permalink: /tao-te-ching-quotes/
 tags:
-  - quotes-and-summaries
+  - book-quotes-and-summaries
 description: >-
   The Tao Te Ching is a classic text about living according to the "Tao" or "The
   way". Here are some of the passages from the book that will truly change your
