@@ -6,9 +6,9 @@ permalink: /ten-crack-commandments-business-and-life-lessons/
 tags:
   - living-in-the-hood
 description: >-
-  The Ten Crackcommandments is an education in human nature's real, raw,
-  viciousness. The level of street smarts required to survive in an environment
-  like this breeds several lessons for managing competition.
+  The Ten Crackcommandments is an education in the real, raw, viciousness of
+  human nature. This article takes lessons from the song to apply to your entire
+  life.
 image: /assets/images/drafts/10-crack-commandments.jpeg
 ---
 On March 25, 1997, American rapper The Notorious B.I.G. (a.k.a. Biggie Smalls) dropped a song that would become iconic, not just in the hip hop community, but in American culture as a whole.
