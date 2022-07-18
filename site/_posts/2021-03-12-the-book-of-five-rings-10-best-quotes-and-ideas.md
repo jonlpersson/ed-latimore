@@ -4,8 +4,7 @@ article_type: Review
 title: 'The Book Of Five Rings: 10 Best Quotes And Ideas'
 permalink: /the-book-of-five-rings-quotes/
 tags:
-  - boxing-lessons
-  - quotes-and-summaries
+  - book-quotes-and-summaries
 description: >-
   The Book of Five Rings is almost 400 years old, but its lessons are timeless.
   I've collected the ten best quotes and ideas that you can apply today.
