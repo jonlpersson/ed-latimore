@@ -5,7 +5,9 @@ title: How to overcome fear of rejection and meet women
 permalink: /how-to-meet-women/
 tags:
   - dating-and-relationships
-description: Interested in meeting women, but not sure where to start? Start here.
+description: >-
+  Worried about getting rejected when you talk to girls? Interested in meeting
+  women but not sure where to start? Start here.
 image: /assets/images/thumbnails/ed-and-anna-cafe-together.jpg
 ---
 Meeting women has been a conversation and a life pursuit for men for millennia. The only reason you're here is because previous generations of men in your family did it successfully.
@@ -18,25 +20,23 @@ You don’t have to be rich.
 
 You don’t have to have “Mr. Steal Your Girl” looks.
 
-What you do need, however, is to be confident and adopt a few techniques that’ll not only make you a better person but transform you into a man *women* chase after.
+What you do need, however, is to be confident and adopt a few techniques that’ll make you a better person and transform you into a man *women* chase after.
 
-Whether you have an abundance of dating experience or you're new to the game, this article will help you meet women.
-
-{% include widgets/toc.html heading="How to meet women" list-items="This myth needs to die, Expand your circle, Quiet the judgemental fear-fuelled monkey part of your brain, Practice approaching women, Start a conversation, Go places to meet women" list-ids="a-psa-on-a-widely-held-myth, actively-expand-your-social-circle, quiet-the-judgemental-fear-fuelled-monkey-part-of-your-brain, practice-approaching-women, start-a-conversation, see-everywhere-as-a-place-to-meet-women" %}
+Whether you have abundant dating experience or are new to the game, this article will help you meet women.
 
 ## A PSA on a widely held myth…
 
-Before we begin I have to clear up a couple of things…
+Before we begin, I have to clear up a couple of things…
 
-Women want to be approached and women want to have sex.
+Women want to be approached, and women want to have sex.
 
-To some I know this sounds like an obvious statement, but let me explain…
+To some, I know this sounds like an obvious statement, but let me explain…
 
-A striking number of men are under the impression that women hate being hit on and sex is something you have to convince women to give you. I've even heard guys say they thought sex was something women were just doing to be nice.
+A striking number of men are under the impression that women hate being hit on and sex is something you have to convince women to give you. I've even heard guys say they thought sex was something women were doing to be nice.
 
 This simply isn't true.
 
-Women want to be approached and women want to have sex.
+Women want to be approached, and women want to have sex.
 
 What they don't want is to carry the weight of your expectations and creepy vibes. Why? Because you're a much bigger animal than they are, and thus you present a threat.
 
@@ -53,7 +53,7 @@ Announcement over. Now we can get to what you came for… how to meet women.
 
 ## Actively expand your social circle
 
-Growing up, your social circle consists of your classmates, your neighbors, and/or your church.
+Growing up, your social circle consists of your classmates, neighbors, and/or church.
 
 Once you’re an adult, your social circle gets restricted to your workplace—which doesn’t provide many options for meeting women.
 
@@ -61,7 +61,7 @@ That’s why it’s important to expand your surroundings by picking up a hobby.
 
 Hobbies help to cultivate your interests and meet people while having the side benefit of making you a more interesting person.
 
-Join a hobby with the idea of meeting women but do things you enjoy. This’ll help you have easier conversations and ask genuine questions of others because you have similar interests.
+Join a hobby with the idea of meeting women but do things you enjoy. That'll help you have easier conversations and ask genuine questions of others because you have similar interests.
 
 Examples of hobbies to meet single women:
 
@@ -71,13 +71,13 @@ Examples of hobbies to meet single women:
 * Dance classes
 * Personal development communities
 
-Know what kind of girl you want to date up front. This will help you identify that girl and narrow your choices in your circle.
+Know what kind of girl you want to date upfront. This will help you identify that girl and narrow your choices in your circle.
 
 When I was a single man, I developed a framework for [picking hobbies to meet women](https://edlatimore.com/hobbies-to-meet-women/). It’s simply not enough to make a lot of money and work out like a mad man. Those things definitely won't hurt, but they also won’t get you a great girl on their own.
 
 ## Quiet the judgemental, fear-fuelled monkey part of your brain
 
-If you want to approach more women you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
+If you want to approach more women, you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
 
 That voice is fueled by social media, all your external input, and how you were raised. It’s your fear threatening to take the wheel. Don’t let it.
 
@@ -88,13 +88,13 @@ Here are two books that could help you with this:
 * | \*\[Stillness is the Key\]({{ '0525538585'&lt;/td&gt;&lt;td&gt;amazon }})\*, by Ryan Holiday |
 * | \*\[Essentialism: The Disciplined Pursuit of Less\]({{ 'B00IWYP5NI'&lt;/td&gt;&lt;td&gt;amazon }})\*, by Greg McKeown |
 
-Practicing stillness will help you gain your confidence to approach beautiful women without succumbing to the fear of rejection.
+Practicing stillness will help you gain the confidence to approach beautiful women without succumbing to the fear of rejection.
 
 Practicing essentialism will help you reduce stress and other fear-inducing emotions by focusing on what is truly important in life.
 
 ## Practice approaching women
 
-If you never make the approach, you’ve got no chance of ever getting in a relationship. So practice approaching without expectations. Spend more time acting than stuck in your head *thinking about acting.*
+If you never approach, you’ve got no chance of getting in a relationship. So practice approaching without expectations. Spend more time acting than stuck in your head *thinking about acting.*
 
 Talk to the girl sitting alone at the coffee shop or walking in the grocery store. You don’t have to try to get her phone number, you just need to get used to talking to women.
 
@@ -102,13 +102,13 @@ Yes, this can be anxiety-inducing, but you're only facing what millions of men h
 
 Best practices for approaching a woman you don’t know:
 
-* Approach when she appears relaxed and showing open body language
+* Approach when she appears relaxed and shows open body language
 * Approach when she seems to be in a good mood and not overly occupied with something
 * Go speak to women that are smiling and making eye contact. Don’t wait for her to wave you over.
-* Approach from a non-threatening angle, like the side. Coming up from behind or confronting a women straight-on can start her fight-or-flight response.
+* Approach from a non-threatening angle, like the side. Coming up from behind or confronting a woman straight-on can start her fight-or-flight response.
 * Monitor your body language
 
-If she seems uncomfortable at all, back off. In some cases you can salvage the situation by clarifying your intentions. If not, don’t sweat it. Just smile and make your peaceful exit.
+If she seems uncomfortable at all, back off. In some cases, you can salvage the situation by clarifying your intentions. If not, don’t sweat it. Just smile and make your peaceful exit.
 
 ## Start a conversation
 
@@ -124,17 +124,17 @@ You don’t have to have top-shelf social skills to talk to people—women inclu
 * What’s the best thing about working here/this place?
 * What’s your plan if there’s a zombie apocalypse?
 
-Conversation starters don’t have to be complex. Don’t overthink it. The key is to get them talking and giving more than just one word answers.
+Conversation starters don’t have to be complex. Don’t overthink it. The key is to get them talking and giving more than just one-word answers.
 
 But if you’re hopelessly awkward, I wrote an article on [how to not be socially awkward](https://edlatimore.com/how-to-not-be-socially-awkward/)—check it out.
 
 ## See everywhere as a place​ to meet women
 
-The truth is, you can meet women anywhere women are. The movies, coffee shops, gyms, grocery stores, etc… *If* you know what you're doing.
+The truth is, you can meet women anywhere women are. The movies, coffee shops, gyms, grocery stores, etc.… *If* you know what you're doing.
 
 Dating apps like Tinder or Bumble are popular places to meet women. However, endless swiping can induce apathy and make dating feel like a slot machine.
 
-And bars aren’t terrible places to meet women. Some guys swear by them. You can meet high-value women there but I find it more fun to be in a place where we have similar interests and you can actually hear the person in front of you. And being over a decade sober, meeting women in bars isn’t my \#1 go-to.
+And bars aren’t terrible places to meet women. Some guys swear by them. You can meet high-value women there, but I find it more fun to be in a place where we have similar interests, and you can hear the person in front of you. And being over a decade sober, meeting women in bars isn’t my \#1 go-to.
 
 These places are where you can be in your comfort zone:
 
@@ -149,10 +149,10 @@ The secret of meeting women is to [be the type of man that women are attracted t
 
 As the musical philosopher Canibus once noted: *I’d rather be a lion for a day than a lamb that lives forever.* A different dating pool opens up to the man that cultivates himself.
 
-Here’s the quick summary on how to meet women:
+Here’s a quick summary of how to meet women:
 
 * Believe that women are open to being approached
-* Actively expand you interests and your social circle
+* Actively expand your interests and your social circle
 * Practice stillness
 * Practice approaching women
 * Start conversations
