@@ -1,7 +1,9 @@
 ---
 tag: living-in-the-hood
 title: Living in the hood
-description: These posts are a collection of my experiences growing up in the ghetto.
+description: >-
+  These posts are a collection of my experiences growing up in the ghetto. You
+  can find out what it's like to live in the hood without living in the hood.
 hero:
   label: Living in the hood
   heading: My experiences living in the hood
