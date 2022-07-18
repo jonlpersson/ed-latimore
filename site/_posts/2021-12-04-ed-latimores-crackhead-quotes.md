@@ -4,8 +4,8 @@ article_type: Article
 title: 29 top crackhead quotes
 permalink: /crackhead-head-quotes/
 tags:
-  - quotes-and-summaries
   - living-in-the-hood
+  - ed-latimore-original-quotes
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
@@ -44,8 +44,6 @@ Crackheads hustle 4 days straight to get a rock. No sleep and no food. You ever 
 ---
 
 A crackhead is always stuck between a rock and a hard place. ([Tweet it](https://twitter.com/EdLatimore/status/1452405040514224129){: target="_blank" rel="noopener noreferrer"})
-
-&nbsp;
 
 ---
 
