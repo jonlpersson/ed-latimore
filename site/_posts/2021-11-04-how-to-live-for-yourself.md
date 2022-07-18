@@ -7,7 +7,7 @@ tags:
   - how-to-control-your-emotions
 description: >-
   Develop the courage to prioritize yourself, stop people-pleasing, and live a
-  life you love.
+  life you love. Warning: people may hate you for choosing to love yourself. 
 image: /assets/images/thumbnails/ed-training-boxing-hitting-bags.jpg
 ---
 One of the top five regrets of people on their deathbed is, "I wish I’d had the courage to live for myself and not what others thought of me."<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
