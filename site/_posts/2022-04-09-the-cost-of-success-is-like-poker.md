@@ -7,9 +7,8 @@ tags:
   - mental-toughness
   - change-your-perspective
 description: >-
-  Nothing is free in this world. But just because you pay for it is no guarantee
-  that you'll receive it. Read on see why success is like poker and how to play
-  the game.
+  Nothing is free. But just because you pay for it is no guarantee that you’ll
+  receive it. Read on to see why success is like poker and how to play the game.
 image: /assets/images/drafts/cost-of-success.jpeg
 ---
 Professional athletes and celebrities sign an unwritten contract with society.&nbsp;
