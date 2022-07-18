@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
 description: >-
   Discover why it’s so hard to make friends and practical ways to expand your
-  social circle
+  social circle. A must-read for people having trouble connecting with others.
 image: /assets/images/posts/edwithshomobudapest.jpeg
 ---
 Belonging is a fundamental human need.
