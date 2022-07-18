@@ -6,9 +6,8 @@ permalink: /numeracy-skills/
 tags:
   - math-concepts
 description: >-
-  The numeracy skills of people are falling behind. This is bigger than just
-  being good at math. Numbers are essential to life. Learn how to improve your
-  skill in handling them here. 
+  This is bigger than just being good at math. Numbers are essential to life.
+  Learn how to improve your numeracy skills in this lesson.
 image: /assets/images/drafts/cme4.jpg
 ---
 Numeracy is your ability to use mathematics in the real world. It’s being able to use numerical skills to solve actual real-world problems. I believe that the ability to understand and apply math concepts to real life is a literacy skill that's as important as reading.
