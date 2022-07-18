@@ -6,8 +6,8 @@ permalink: /personal-branding-examples/
 tags:
   - how-to-build-an-audience
 description: >-
-  What I’m about to share with you is authentic brand-building. It looks good
-  and works even better.
+  What I’m about to share with you is authentic brand-building. Everyone has a
+  personal brand that they have to manage. Learn how.
 image: /assets/images/thumbnails/screen-shot-2020-09-13-at-11-07-21-pm.png
 ---
 Have you ever had people ask you for advice on something you hate?
