@@ -4,14 +4,12 @@ article_type: Article
 title: How to be physically, emotionally, and mentally strong
 permalink: /how-to-be-physically-emotionally-mentally-strong/
 tags:
-  - how-to-control-your-emotions
-  - mental-toughness
   - change-your-perspective
+  - mental-toughness
+  - how-to-control-your-emotions
 description: >-
-  There’s only one way to build strength and it’s not easy: to push back against
-  entropy. It’s to push back against the big and little things that life throws
-  at you. Building strength means doing what’s hard, out comfort zone, and is
-  completely necessary.
+  Strength is built by pushing back against whatever life throws at you.
+  Strength is built by doing what's hard and leaving your comfort zone.
 image: /assets/images/drafts/cme2jpg.jpg
 ---
 Strength is just a measure of your ability to resist disorder.
