@@ -5,18 +5,20 @@ title: 19 life hacks to make life easier
 permalink: /life-hacks-to-make-life-easier/
 tags:
   - change-your-perspective
-description: Here are 19 life hacks that will help to make your life easier.
+description: >-
+  Here are 19 life hacks that will help you get more out of life. These life
+  hacks are my contribution from learning life the hard way.
 image: /assets/images/thumbnails/lifehacks.jpg
 ---
 If you want to make life easier, then you need to learn a few small things that will have a disproportionately large effect. These are the little things that you can do to cause more big things to happen in your life.
 
 You’re supposed to put in 2 and get out 20.
 
-These little things are often called "life hacks”. These life hacks can save time, reduce stress, automate hard tasks, and save you tons of mental energy. They cause you to sleep better, make more money, eliminate a lot of stress.&nbsp;
+These little things are often called "life hacks”. These life hacks can save time, reduce stress, automate hard tasks, and save you tons of mental energy. They cause you to sleep better, make more money, eliminate a lot of stress.
 
 They are techniques for living that solve existing problems, prevent future ones, and make the process of living more efficient and rewarding.
 
-In other words, they make your life easier and/or more efficient. Oftentimes, a lifehack goes against intuition or commonly accepted solutions for a problem. However, many life hacks are just a combination of intentional living, simplifying life, and hard work.&nbsp;
+In other words, they make your life easier and/or more efficient. Oftentimes, a lifehack goes against intuition or commonly accepted solutions for a problem. However, many life hacks are just a combination of intentional living, simplifying life, and hard work.
 
 In other words, a lifehack helps you get more out of life by helping you to have an easier life.
 
@@ -24,11 +26,11 @@ In other words, a lifehack helps you get more out of life by helping you to have
 
 Everyone has a set of life hacks they’ve learned through trial and error.
 
-Today I bring my own personal collection to you.&nbsp;
+Today I bring my own personal collection to you.
 
 That's the wonderful thing about the internet; we can all learn from one another. We all have different life experiences that allow us each to bring something unique to the table.
 
-Here are 19 simple life hacks I’ve discovered from&nbsp;[over 35 year of living and learning things the hard way](/how-to-be-a-better-man/). None of these are from a list, so any repeating of things you’ve read elsewhere on the internet is purely coincidental. These are simply little things that I’ve picked that have given me a (relatively) unfair advantage in some situations.
+Here are 19 simple life hacks I’ve discovered from [over 35 year of living and learning things the hard way](/how-to-be-a-better-man/). None of these are from a list, so any repeating of things you’ve read elsewhere on the internet is purely coincidental. These are simply little things that I’ve picked that have given me a (relatively) unfair advantage in some situations.
 
 ## 1\. **Unless you have an allergy or a strict dietary restriction, always accept when someone offers you a drink or a meal**.
 
@@ -182,7 +184,7 @@ Improving your credit score is nice and is something that everyone should do, bu
 
 ## 14\. **The best way to get people to stop harassing you is public embarrassment**
 
-Or the threat of it. A screenshot conversation shared on social media is worth 1,000 arguments. Don’t do this if you’re in the least bit wrong or care about the outcome being positive one day.&nbsp;
+Or the threat of it. A screenshot conversation shared on social media is worth 1,000 arguments. Don’t do this if you’re in the least bit wrong or care about the outcome being positive one day.
 
 This is so powerful because it brings shame and embarrassment to a person. It's one thing for a person to carry on when no one can see their behavior. It's a different story when their foolishness is brought to light.
 
@@ -235,5 +237,3 @@ If that fails, you can always try [Gorilla Mind Rush.](https://gorillamind.com/p
 Want to [change your life](/change-your-life/) quickly and reliably? Join the Mormon church. I’m not part of the Mormon church, but they really have their marketing and lifestyle down (except you can’t drink coffee).
 
 I can’t tell you how many times I’ve wondered why this young pretty girl was talking to me (until I learned the signs). You’ll be surrounded by people who follow a strict code of living that will elevate you, a supportive community, and you might even learn a new language.
-
-&nbsp;
