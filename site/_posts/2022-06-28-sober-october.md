@@ -6,9 +6,8 @@ permalink: /sober-october/
 tags:
   - sober-life
 description: >-
-  Alcohol and substance use takes a bigger toll on your health and wellness than
-  you think. This article explains how Sober October can serve as a springboard
-  that changes your life.
+  College drinking culture is dangerous for young women. However, efforts to
+  change it are often resisted by the very people it’s meant to help.
 image: /assets/images/thumbnails/ed-latimore-drinking-beer-from-40-ounce.jpg
 ---
 I wouldn’t know myself to the extent that I do, had I not decided to quit drinking alcohol in 2013. Years of drinking turned alcohol from a social activity to a crutch for me.
