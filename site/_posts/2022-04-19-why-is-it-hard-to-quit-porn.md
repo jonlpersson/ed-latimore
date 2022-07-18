@@ -8,7 +8,7 @@ tags:
 description: >-
   Why is porn such an addictive habit that's so hard to break? Learn why so that
   you can do everything in your power to break the addiction.
-image: /assets/images/thumbnails/ed-hands-out-asking-why.jpg
+image: /assets/images/posts/latimore-sipping-tea.jpeg
 ---
 Many modern conveniences come with some serious downsides on the backend.
 
