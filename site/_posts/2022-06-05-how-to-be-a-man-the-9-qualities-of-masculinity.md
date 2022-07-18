@@ -5,7 +5,9 @@ title: 'How to be a man: The 9 qualities of masculinity'
 permalink: /how-to-be-a-man/
 tags:
   - self-improvement-for-men
-description: "Masculinity is he work of being good at being a man. You can be good at being a man without being a good man.\n\nThe same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.\_"
+description: >-
+  All boys must develop these nine qualities of a masculine man to achieve their
+  greatest potential. They are the passage into manhood.
 image: /assets/images/drafts/weddingphoto.jpeg
 ---
 What is masculinity?
