@@ -4,7 +4,7 @@ article_type: Article
 title: How to write Instagram captions that increase engagement
 permalink: /how-to-write-instagram-captions-that-increase-engagement/
 tags:
-  - how-to-build-an-audience
+  - writing-skills
 description: >-
   Increasing your engagement on Instagram is the secret to getting more
   followers and growing your reach.
@@ -16,19 +16,17 @@ There are only four actions they can take on your post: they can leave a comment
 
 While Instagram users are primarily interested in the quality of your photo, if you have great photos, they are far more likely to read your caption. If they read your caption, a few things will happen that greatly contribute to the likelihood of success on the platform, all of which are related to increasing your engagement.
 
-This article will teach you everything you need to take your instagram engagement to the next level.
-
-{% include widgets/toc.html heading="How to write Instagram captions that increase engagement" list-items="Learn the Instagram Algorithm, Use hashtags, Write long captions, Give value, Have strong opinions, Use common sense, Take advantage of the first sentence" list-ids="learn-the-instagram-algorithm, use-hashtags, write-long-captions, give-value, have-strong-opinions, use-common-sense, take-advantage-of-the-first-sentence" %}
+This article will teach you everything you need to take your Instagram engagement to the next level.
 
 ## Learn the Instagram Algorithm
 
 The number goal for you on Instagram is to increase engagement.
 
-The Instagram algorithm uses your rate of engagement to determine the popularity of a post. The more popular a post, the more it's shown in the user feed of your followers. How exactly does the algorithm figure out your engagement rate and use it to make your posts more popular?
+The Instagram algorithm uses your engagement rate to determine a post's popularity. The more popular a post, the more it's shown in the user feed of your followers. How exactly does the algorithm figure out your engagement rate and use it to make your posts more popular?
 
 The individual engagement metrics (likes, comments, shares, and saves) on a single post are added, then divided by your total number of followers. As the result of this operation increases, more people are shown the post.
 
-This also helps the post appear on various discover pages and be more competitive in the rankings (more on how to do this by choosing relevant hashtags later in the post). This is another reason why engagement is important: it makes your Instagram profile easier to discover and with that ease of discoverability comes&nbsp;
+This also helps the post appear on various discover pages and be more competitive in the rankings (more on how to do this by choosing relevant hashtags later in the post). This is another reason why engagement is important: it makes your Instagram profile easier to discover, and with that ease of discoverability comes&nbsp;
 
 A reasonable engagement rate on a non-promoted post is anywhere from 2-3%. Anything more than 3% is exceptional. I’ve seen 4% a few times. I don’t know anyone who gets 5% on a post or their account without promotion.
 
@@ -36,19 +34,19 @@ This all leads to an increase in your followers and the establishment of the leg
 
 ### **This is a great way to identify fake Instagram profiles**
 
-These are Instagram accounts with an artificially inflated follower count and/or pictures that they’ve stolen. These are accounts that are only followed by other fake accounts. The signs that you're being followed fake accounts:
+These are Instagram accounts with an artificially inflated follower count and/or pictures that they’ve stolen. These are accounts that are only followed by other fake accounts. The signs that you're being followed by fake accounts:
 
 * **Jibberish or non-sensical user names.**&nbsp;These user names usually aren't even words in any language and have numbers and punctuation.
 * **Random assortment of non-related photos**. Since these accounts aren't real, they tend to have an assortment of stolen Instagram photos and screenshots. You can tell the photos are stolen because they aren't of the same person, nor do they match the profile photo.
 * **Empty bio.**&nbsp;There are no legitimate profiles on Instagram that have an empty bio. Even the most unsophisticated Instagram user puts something in their bio.
 * **No Instagram stories or Instagram reels.**&nbsp;These are bot accounts. They never use live features like stories. These bot accounts would never tke the time to video or produce reels.
-* **No captions underneath their photos.**&nbsp;Not only will there be captions underneath the photos, but there were won't be any hashtags either. The stolen photos are just there to prop up the account.
-* **Following a lot of people with very few people following them.**&nbsp;Some people primarily use social media to consume other's content, so they don't have a lot of followers. However, you will almost never see someone following thousands of people with less than 100 Instagram followers. &nbsp;
+* **No captions underneath their photos.**&nbsp;Not only will there not be captions underneath the photos, but there won't be any hashtags. The stolen photos are just there to prop up the account.
+* **Following a lot of people with very few people following them.**&nbsp;Some people primarily use social media to consume others' content, so they don't have a lot of followers. However, you will almost never see someone following thousands of people with less than 100 Instagram followers. &nbsp;
 * **Non-existent or nonsense comments.**&nbsp;Since these accounts are only followed by bots that don’t represent real people, their posts never receive many likes, comments, shares, or saves. The comments tend to be simple emojis or single words. They also&nbsp;
 
-Once you spot them, it’s important to remove these accounts from following you so they don’t mess up your engagement, as these accounts never like or comment on your photos. Whenever you see a scheme claiming to sell followers, this is usually how it's done.
+Once you spot them, removing these accounts from following you is important so they don’t mess up your engagement, as these accounts never like or comment on your photos. Whenever you see a scheme claiming to sell followers, this is usually how it's done.
 
-These bot accounts never engage, and they ruin the credibility of your account. Here’s how to remove them.
+These bot accounts never engage and ruin your account's credibility. Here’s how to remove them.
 
 ![Screenshot of a fake Instagram profile](/assets/images/posts/2021/fakefollowersexample-3.png "A typical fake profile. Nonsense user name, mismatched/stolen pictures, and an outrageous follower to following ratio.")
 
@@ -62,13 +60,13 @@ These bot accounts never engage, and they ruin the credibility of your account. 
 
 ### It helps the algorithm determine what to show
 
-No matter how popular your account is, your posts just aren’t seen by everyone who follows you. This is for various reasons, but the one most relevant to the engagement discussion is because it doesn’t prioritize their feed when they log on.
+No matter how popular your account, your posts aren’t seen by everyone who follows you. This is for various reasons, but the one most relevant to the engagement discussion is because it doesn’t prioritize their feed when they log on.
 
 When you open up Instagram, it \*appears\* to randomly decide what to show you. The reality is that your Instagram feed considers several ranking signals (target audience, hashtag use, geography, perceived relationship with poster, etc.) to determine what content to show you. One of those ranking signals is the engagement of the post.&nbsp;
 
-The more engagement a post gets, the more it tells the algorithm that it’s likely a popular post and should be shown to more people. Engagement is also a key factor in your ranking for how you rank on Instagram hashtag pages. This is important because it's one of the main ways for people to discover your profile and follow.
+The more engagement a post gets, the more it tells the algorithm that it’s likely a popular post and should be shown to more people. Engagement is also a key factor in your ranking for how you rank on Instagram hashtag pages. This is important because it's one of the main ways for people to discover your profile and follow you.
 
-Posts with more engagement make your profile grow and they make it more discoverable. Writing a good caption makes it more likely that your post will be discovered. Before we get to the exact details of writing a perfect instagram caption, there is one last thing about engagement that needs to be mentioned.&nbsp;
+Posts with more engagement make your profile grow, and they make it more discoverable. Writing a good caption makes your post more likely to be discovered. Before we get to the exact details of writing a perfect Instagram caption, there is one last thing about engagement that needs to be mentioned.&nbsp;
 
 ### Measuring engagement
 
@@ -82,7 +80,7 @@ If you want to see the individual stats on a post, the following steps make it e
 
 Once you do that, it’ll present you with a quick menu that shows you the insights of your post. You can scroll up to see more, but at this point, we are mainly concerned with the first bit of information that shows up.&nbsp;
 
-The symbols, from left to right, are your likes, comments, shares, and saves. You get the post’s engagement rate when you add these together and divide them by your follower count. On this particular post, I got an engagement of 3.07%, which is pretty good.
+From left to right, the symbols are your likes, comments, shares, and saves. You get the post’s engagement rate when you add these together and divide them by your follower count. On this particular post, I got an engagement of 3.07%, which is pretty good.
 
 With this brief primer on engagement out of the way, let’s focus on the writing.
 
@@ -90,7 +88,7 @@ With this brief primer on engagement out of the way, let’s focus on the writin
 
 Instagram is unique amongst other social media platforms in that it shares pictures.
 
-Facebook and Twitter use a machine learning SEO algorithm to determine what your post is about and then show it to the appropriate people. Each of those platforms uses words as their primary means of propagation. As a result, SEO algorithms look at the content of the post to determine what it's about.
+Facebook and Twitter use a machine learning SEO algorithm to determine what your post is about and then show it to the appropriate people. Each of those platforms uses words as its primary means of propagation. As a result, SEO algorithms look at the content of the post to determine what it's about.
 
 This is not (yet) possible with pictures alone. Therefore, something else is needed. This is why you must use hashtags.
 
@@ -98,13 +96,13 @@ At this point, it’s appropriate to explain a little more about the Instagram a
 
 The algorithm uses certain signals to determine the likelihood that this post is what someone wants to see. A major signal is how often you interact with the poster. If you regularly like and comment on someone’s posts, the algorithm assumes that you have a relationship and you’d like to see their content.
 
-If you ever stop seeing someone’s content and you want to start having it populate in your, simply go to their profile and comment something on their latest post. The next time you open the platform, their stuff will be part of the posts you immediately see
+If you ever stop seeing someone’s content and want to start having it populate in your, simply go to their profile and comment on their latest post. The next time you open the platform, their stuff will be part of the posts you immediately see
 
 Another major signal is content. The algorithms for Facebook and Twitter are driven by machine learning so powerful that is can figure out what you’re talking about. Every time you discuss something, it figures out what you’re discussing and then shows it to people who are most interested in that subject that follows you.
 
-With Instagram, people can put a caption undeath the picture totally unrelated to the picture. This isn't intentional or malicious. People post photos for several reasons. The captions don't often reflect this. If you doubt that, think of that times you've seen someone post a selfie with a random quote.
+With Instagram, people can put a caption undeath the picture totally unrelated to the picture. This isn't intentional or malicious. People post photos for several reasons. The captions don't often reflect this. If you doubt that, think of the times you've seen someone post a selfie with a random quote.
 
-Because the algorithm has no way to determine what the post is about and who to show it to from the caption alone, instagram relies on the use of hashtags to solve this problem.
+Because the algorithm has no way to determine what the post is about and who to show it to from the caption alone, Instagram relies on the use of hashtags to solve this problem.
 
 Hashtags are phrases that are preceded by the hash (or pound sign). For example; \#Instagram, \#goodlife, \#wordsofwisdom. You’ve seen them. You know what they are, but perhaps you didn’t realize exactly what they’re there for.
 
@@ -122,15 +120,15 @@ This also helps you gain more followers because if the rest of your account cont
 
 ## Write long captions
 
-Don't be afraid to write longer captions. They don't have to be the size of a full blown article, but think of your captions as microblogging. The goal of the caption is to drive engagement. This is the meta-strategy of writing captions.&nbsp;
+Don't be afraid to write longer captions. They don't have to be the size of a full-blown article, but think of your captions as microblogging. The goal of the caption is to drive engagement. This is the meta-strategy of writing captions.&nbsp;
 
 Greater engagement leads to greater exposure to your content and increases the likelihood that you’ll be able to grow your account.
 
-There are two parts of your engagement that your writing influences: the comments and the saves. The caption doesn't really affect the other two measures of engagement.&nbsp;
+There are two parts of your engagement that your writing influences: the comments and the saves. The caption doesn't affect the other two measures of engagement.&nbsp;
 
-People like the image based on the image. It’s a near instinctive reaction to double-tap on a photo. When people share, they’re also sharing based on the content of the image. In fact, a share doesn’t show the entire caption when it’s done through the Instagram stories. It only shows the first sentence.
+People like the image based on the image. It’s a near instinctive reaction to double-tap on a photo. When people share, they also share based on the image’s content. A share doesn’t show the entire caption when it’s done through Instagram stories. It only shows the first sentence.
 
-People will comment on your captions if you write something compelling, engaging, and thought-provoking. They will also save your posts so they can easily return to them for the message you place in your captions. This will boost your engagement levels and, directly and indirectly, leading to more people liking and sharing.
+People will comment on your captions if you write something compelling, engaging, and thought-provoking. They will also save your posts so they can easily return to them for the message you place in your captions. This will boost your engagement levels and, directly and indirectly, lead to more people liking and sharing.
 
 ### Include a call to action (CTA)
 
