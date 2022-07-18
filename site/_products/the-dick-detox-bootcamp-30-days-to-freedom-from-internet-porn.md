@@ -4,7 +4,7 @@ type: Dick Detox 30-Day Bootcamp
 title: 'The Dick Detox Bootcamp: 30 days to freedom from internet porn'
 description: >-
   My proven system to quit internet porn, win with women, and get your sex life
-  back on track.
+  back on track. You will break your porn addiction with this program.
 image: /assets/images/drafts/latimore-high-waist.png
 product_info:
   button_text: Enroll now!
