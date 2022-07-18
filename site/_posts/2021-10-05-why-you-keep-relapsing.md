@@ -8,7 +8,7 @@ tags:
 description: >-
   Overcoming an addiction can be hard. But it doesn't have to be if you
   implement these four strategies for avoiding relapses.
-image: /assets/images/thumbnails/ed-seated-against-wall.jpg
+image: /assets/images/posts/why-you-keep-relapsing.jpeg
 ---
 I'll let you in on a secret. Two in fact.
 
