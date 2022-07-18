@@ -3,9 +3,8 @@ date: 2022-06-13 06:00:00 -0400
 type: Ceramic Mug
 title: Coffee So Black mug (“Lateness”)
 description: >-
-  This sturdy ceramic mug bears my iconic “Coffee So Black” mark on the front,
-  paired with one of my popular Twitter jokes on the back: “Coffee so black
-  drinking it makes you late to everything.”
+  My iconic “Coffee So Black” mark on the front paired with my popular Twitter
+  joke on the back: “Coffee so black drinking it makes you late to everything.”
 image: /assets/images/products/lateness-thumbnail.png
 product_info:
   button_text: Buy now
