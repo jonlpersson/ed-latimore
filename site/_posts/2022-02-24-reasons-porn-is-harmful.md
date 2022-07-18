@@ -43,27 +43,25 @@ Just like alcohol, people are noticing the negative effects in their lives of po
 
 In this article, I detail some of the harmful effects of pornography and what you can do to counteract them.
 
-{% include widgets/toc.html heading="Reasons porn is harmful" list-items="Desensitizes your orgasm, Hurts your long-term relationships, Wreaks havoc on vulnerable groups, It's the perfect candidate for addiction, Porn shrinks your brain" list-ids="porn-makes-it-harder-to-reach-orgasm, porn-drains-the-sexual-intimacy-from-your-relationships, those-with-mental-health-issues-are-at-a-higher-risk-for-addiction, porn-is-the-perfect-storm-for-addiction, porn-shrinks-your-brain" %}
-
 ## Porn makes it harder to reach orgasm
 
-Most of the information relating to sexual dysfunction and porn use studies the effects on male libido and sexual performance. Due to many reasons like, women not watching porn as often as men, the effects of porn on women aren’t extensively documented.
+Most information on sexual dysfunction and porn studies the effects on male libido and sexual performance. Due to many reasons like women not watching porn as often as men, the effects of porn on women aren’t extensively documented.
 
-It’s far more obvious to observe if a man is unable to achieve an erection vs. measuring low sexual desire in both men and women.
+It’s far more obvious to observe if a man cannot achieve an erection vs. measuring low sexual desire in both men and women.
 
 What is true for everyone, however, is that porn desensitizes you to sexual stimuli in real life. This means it decreases your ability to find sexual satisfaction with your partner. Some men even report the loss of the ability to have an orgasm during masturbation coupled with erectile dysfunction.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">3</a></sup>
 
-Masturbation is as natural as a sunny day. However, when you use porn to skip the natural process of arousal, you train your sexual impulses for instant gratification. Try masturbation without porn, or abstain from both altogether. It’ll reverse the desensitizing effects of porn and retrain your ability to be aroused more easily.
+Masturbation is as natural as a sunny day. However, when you use porn to skip the natural arousal process, you train your sexual impulses for instant gratification. Try masturbation without porn, or abstain from both altogether. It’ll reverse the desensitizing effects of porn and retrain your ability to be aroused more easily.
 
 ## Porn drains the sexual intimacy from your relationships
 
-Porn use is more typical of single men as a way to reach easy sexual gratification. In the wild, this lowers your desire for a sex life making it more difficult to go out and meet women you might hit it off with.
+Porn use is typical of single men as a way to obtain easy sexual gratification. In the wild, this lowers your desire for a sex life, making it more difficult to go out and meet women you might hit it off with.
 
-Within the context of a relationship, you stop being present with each other. Solo porn use cuts out the parts of sex that include arousal and intimacy, making it more transactional. After staring at a woman that has been surgically altered and made up for the screen for hours, it’s easy to develop unrealistic expectations of your partner.
+Within a relationship, you stop being present with each other. Solo porn use cuts out the parts of sex that include arousal and intimacy, making it more transactional. After staring at a woman that has been surgically altered and made up for the screen for hours, it’s easy to develop unrealistic expectations of your partner.
 
-Also, although porn scenes take days to film and are heavily edited, they give you the impression that everything went smoothly and was enjoyed by all within the span of an hour. This is just not the reality of sex with a human. Don’t get me wrong, sex is enjoyable, but at some point, you’re going to roll onto someone’s hair or put a knee where it shouldn’t be.
+Also, although porn scenes take days to film and are heavily edited, they give you the impression that everything went smoothly and was enjoyed by all within an hour. This is just not the reality of sex with a human. Don’t get me wrong, sex is enjoyable, but at some point, you’ll roll onto someone’s hair or put a knee where it shouldn’t be.
 
-Sex in a relationship can bring you closer together and build a strong bond. Transactional sex however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.&nbsp;
+Sex in a relationship can bring you closer together and build a strong bond. Transactional sex, however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.&nbsp;
 
 ***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist.&nbsp; Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/d58s6r9){: target="_blank" rel="noopener noreferrer"}***
 
@@ -71,7 +69,7 @@ Sex in a relationship can bring you closer together and build a strong bond. Tra
 
 Compulsive use of internet pornography is strongly associated with poor mental health among college-age young people.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">5</a></sup>
 
-Coming off of a pandemic, anxiety, depression are at an all-time high. These mental states make you more susceptible to addiction as you search for ways to cope and [gain some control in your life](/how-to-take-control-of-your-life/). Porn makes this worse because it creates an unhealthy relationship with stress. You might know this as an addiction loop. You seek to solve the problem, with the problem and spin in an endless, unproductive cycle.
+Coming off of a pandemic, anxiety and depression are at an all-time high. These mental states make you more susceptible to addiction as you search for ways to cope and [gain some control in your life](/how-to-take-control-of-your-life/). Porn makes this worse because it creates an unhealthy relationship with stress. You might know this as an addiction loop. You seek to solve the problem, with the problem and spin in an endless, unproductive cycle.
 
 The average age most people are exposed to porn for the first time is around 14. We then become lifelong porn users, whether casual or excessive. The problem with this is your emotions aren’t fully developed as a teenager. So you never learn what your body should feel like without excessive sexual stimuli. This increases the risk that you’ll suffer the negative effects of porn.
 
