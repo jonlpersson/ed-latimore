@@ -9,7 +9,7 @@ description: >-
   Tired of relationships that blow up in your face? Learn how to break
   self-destructive, self-sabotaging behaviors and build the relationship you
   dream of.
-image: /assets/images/thumbnails/ed-and-anna-on-vacation.jpeg
+image: /assets/images/posts/ed-latimore-on-vacation-with-wife.jpeg
 ---
 Bad romantic relationships can make your life real stupid, real fast.
 
