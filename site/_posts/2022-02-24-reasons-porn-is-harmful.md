@@ -8,7 +8,7 @@ tags:
 description: >-
   There’s a lot of debate on whether porn can actually be harmful, here’s what
   the science has to say.
-image: /assets/images/posts/ed-latimore-back-against-wall.png
+image: /assets/images/posts/dressed-smart-like-a-london-bloke.jpeg
 ---
 The arguments against the effects of porn have always been shot down because they were purely based on religious or moral grounds.
 
@@ -61,9 +61,9 @@ Within a relationship, you stop being present with each other. Solo porn use cut
 
 Also, although porn scenes take days to film and are heavily edited, they give you the impression that everything went smoothly and was enjoyed by all within an hour. This is just not the reality of sex with a human. Don’t get me wrong, sex is enjoyable, but at some point, you’ll roll onto someone’s hair or put a knee where it shouldn’t be.
 
-Sex in a relationship can bring you closer together and build a strong bond. Transactional sex, however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.&nbsp;
+Sex in a relationship can bring you closer together and build a strong bond. Transactional sex, however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.
 
-***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist.&nbsp; Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/d58s6r9){: target="_blank" rel="noopener noreferrer"}***
+***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist. Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/d58s6r9){: target="_blank" rel="noopener noreferrer"}***
 
 ## Those with mental health issues are at a higher risk for addiction
 
