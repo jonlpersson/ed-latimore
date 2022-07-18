@@ -6,8 +6,8 @@ permalink: /how-to-let-go-of-the-past/
 tags:
   - the-power-of-forgiveness
 description: >-
-  Letting go of the past was key to my sobriety and getting my life together.
-  Learn how I did it.
+  Being able to let go of the past was key to my sobriety and getting my life
+  together. Learn how I released the past and made progress.
 image: /assets/images/thumbnails/holding-clock.jpg
 ---
 Why is it so hard to let go of the past?
