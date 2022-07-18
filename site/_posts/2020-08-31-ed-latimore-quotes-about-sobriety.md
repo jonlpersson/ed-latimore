@@ -4,16 +4,16 @@ article_type: Article
 title: 53 original sobriety quotes for addiction recovery
 permalink: /ed-latimore-sobriety-quotes/
 tags:
-  - quotes-and-summaries
   - sober-life
+  - ed-latimore-original-quotes
 description: >-
   This is a collection of personal quotes I've made since getting sober in 2013.
   I hope these help someone struggling with their addiction as well.
 image: /assets/images/thumbnails/ed-smile-pose.jpeg
 ---
-Alcohol abuse and sobriety can affect you for the rest of your life, but both for very different reasons. When I decided to get sober, I knew that it was going to be worth it, but I didn't quite know quite what to expect on my recovery journey. I'm fortunate that it was relatively simple, but I know that's not the case for everyone.
+Alcohol abuse and sobriety can affect you for the rest of your life, but both for very different reasons. When I decided to get sober, I knew it would be worth it, but I didn't quite know what to expect on my recovery journey. I'm fortunate that it was relatively simple, but I know that's not the case for everyone.
 
-If you're working on getting your life right and [free from the grips of alcohol](/how-to-stop-drinking-on-your-own/) or substance abuse, then you're going to have some tough days. You'll need a quick pick-me-up or reminder of why you're doing this. That's why I put together these inspirational quotes to [get recovering addicts through the tough days.](/sobriety-benefits/)
+If you're working on getting your life right and [free from the grips of alcohol](/how-to-stop-drinking-on-your-own/) or substance abuse, you will have some tough days. You'll need a quick pick-me-up or reminder of why you're doing this. That's why I put together these inspirational quotes to [get recovering addicts through the tough days.](/sobriety-benefits/)
 
 I don't care if you're kicking drug addiction, an eating disorder, alcohol, or even just trying to get your social media addiction under control. My demon was alcohol addiction, but anyone going through any type of addiction recovery can find inspiration and daily reminders in these recovery quotes.
 
@@ -21,7 +21,7 @@ I don't care if you're kicking drug addiction, an eating disorder, alcohol, or e
 
 I've taken these quotes from various pieces of my writing on various platforms. All of these quotes are Ed Latimore original statements from a combination of my social media platforms, my website, my newsletter, and my best-selling book ["Sober Letters To My Drunken Self".](/products/sober-letters/)
 
-I don't claim to be an expert on recovery. I'm just a guy who took things one day at a time and [who tries to help others.](/how-to-have-fun-and-socialize-sober/) Getting sober was the best gift I've ever given to myself, so it's my responsibility to give something back to everyone who is struggling.
+I don't claim to be an expert on recovery. I'm just a guy who took things one day at a time and [tries to help others.](/how-to-have-fun-and-socialize-sober/) Getting sober was the best gift I've ever given to myself, so it's my responsibility to give something back to everyone who is struggling.
 
 It doesn't matter how slowly you go. Only that you keep making moves. We don't aim for perfection. Only progress. May these sobriety quotes help you [get up from rock bottom](/how-to-know-if-you-have-a-drinking-problem/) and stay up once you're on your feet.
 
