@@ -6,7 +6,9 @@ permalink: /how-to-not-be-socially-awkward/
 tags:
   - how-to-make-friends
   - dating-and-relationships
-description: Stop overthinking every conversation and learn how to not be socially awkward.
+description: >-
+  If you spend too much time in your lead, you won't be able to live. Stop
+  overthinking every conversation and learn how to not be socially awkward. 
 image: /assets/images/thumbnails/ed-latimore-socializing.jpg
 ---
 Do you throw out a handshake when someone goes for a fistbump?
