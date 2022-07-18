@@ -1,5 +1,5 @@
 ---
-date: 2022-07-18 12:00:00 -0400
+date: 2022-07-18 09:00:00 -0400
 article_type: Review
 title: BlockerX review (2022)
 permalink: /blockerx-review/
