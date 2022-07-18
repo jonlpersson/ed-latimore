@@ -6,7 +6,9 @@ permalink: /unhappiness/
 tags:
   - how-to-control-your-emotions
 image: /assets/images/posts/sadnessatthebeach.jpg
-description: Everyone wants to be happy. Learn why you're unhappy and how to fix it.
+description: >-
+  Everyone wants to be happy. But so few people are. This post explores why you
+  aren't excited about your life and what to do about it.
 ---
 Everyone wants to be happy.
 
