@@ -8,7 +8,7 @@ tags:
 description: >-
   A realistic, non-judgmental view of what happens when you finally give up
   porn. Many don't understand how their brains and hormones heal when they quit.
-image: /assets/images/thumbnails/ed-latimore-hand-out.jpg
+image: /assets/images/posts/latimore-says-quit-porn.jpeg
 ---
 In the current era of constant distraction, addiction is a business model.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
