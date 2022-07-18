@@ -5,7 +5,9 @@ title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
 tags:
   - living-in-the-hood
-description: Learn how to take the unfair lemons in life and make lemonade.
+description: >-
+  Life is fair because it's unfair to everyone. Learn how to take the unfair
+  lemons in life and make lemonade. This is a skill that will change your life.
 image: /assets/images/thumbnails/life's-not-fair-bad-beat-ed-latimore.jpg
 ---
 Life is not fair. It has never been, and it never will be. Despite this, you're better off today than you have been at any other time in history. So the question is, how do you deal with the fact that life isn't fair?
