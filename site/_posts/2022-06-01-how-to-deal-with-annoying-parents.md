@@ -6,10 +6,10 @@ permalink: /how-to-deal-with-annoying-parents/
 tags:
   - change-your-perspective
 description: >-
-  There’s no need to argue, parents just don’t understand. Discover how to cope with annoying parents with compassion and maintain your sanity.
-image: /assets/images/thumbnails/ed-leaning-against-wall.jpg
+  There’s no need to argue, parents just don’t understand. Discover how to cope
+  with annoying parents with compassion and maintain your sanity.
+image: /assets/images/posts/ed-reflecting-in-portugal.jpeg
 ---
-
 At the end of every sitcom in the 90’s, parents had a heart to hearts with their children.
 
 *Queue the sappy music*
@@ -28,7 +28,6 @@ And it doesn’t end simply because you’re a grown-up now.
 
 In this post, you’ll discover how to deal with annoying parents or family members in a way that helps you be a better person.
 
-
 ## Listen to what they mean, not what they say
 
 Communication is an art that many people get wrong. It’s not just about talking about how you feel. Proper communication is speaking to be understood but also in a way the other party can receive the information. The former is easier than the latter. For example, you can tell someone the truth but if you use it to hurt them, you’re not likely to get through.
@@ -37,9 +36,7 @@ Sometimes people say harsh or cruel things out of anger but how they really feel
 
 When someone is an ass to me on Twitter, I just assume they have unresolved childhood trauma. And I could never return ill-will to that kind of trauma.
 
-Similarly, if your parents are nagging you or exhibiting some other annoying behavior, learn to understand what they **aren’t **saying:
-
-
+Similarly, if your parents are nagging you or exhibiting some other annoying behavior, learn to understand what they \*\*aren’t \*\*saying:
 
 * I'm worried you’re ruining your life
 * You’re being inconsiderate of my hard work
@@ -48,7 +45,6 @@ Similarly, if your parents are nagging you or exhibiting some other annoying beh
 * I don’t think you’re telling me the truth
 
 Once you recognize the underlying intention, you can resolve the issue faster.
-
 
 ## Listen more than you talk
 
@@ -62,7 +58,6 @@ Take a second to calm down if you are upset. No matter what, don’t respond out
 
 This comes in handy if you feel convicted about something. Say you’ve decided to choose a career path your parents don’t understand or approve of. If you’ve explained yourself and how far it can take you, there isn’t much else to say. In this instance, you more understand their fears but also gain the opportunity to get their understanding even if they don’t approve.
 
-
 ## Understand your parents’ role
 
 It’s easy to look back over your life and lament over all the things your parents didn’t do for you. As a child, you often never see the sacrifices they made to raise you. And for many, you won’t understand until you have your own children.
@@ -75,8 +70,6 @@ I wrote a post on the [6 markers of adulthood](https://edlatimore.com/how-to-be-
 
 You become an adult when you:
 
-
-
 1. No longer rely on your parents to take care of you
 2. Stop blaming your childhood on how your life has turned out
 3. Take responsibility for yourself and everything in your life
@@ -84,15 +77,13 @@ You become an adult when you:
 5. Keep your emotions in check
 6. Stop flying by the seat of your pants in life
 
-
 ## Create some separation
 
-Parents are more involved in their children’s lives than they were 20 years ago. Studies show that over-involved parents, even when well-meaning, harm children’s ability to self-regulate emotions and function independently.[^1] That being said, even when your parents are loving and well-meaning, they can still be causing harm in your life. During these times setting boundaries is necessary for your mental health and overall well-being. However, cutting off your parents is easier said than done. The emotional toll of not speaking to them may be a lot harder than simply enduring a few short conversations.
+Parents are more involved in their children’s lives than they were 20 years ago. Studies show that over-involved parents, even when well-meaning, harm children’s ability to self-regulate emotions and function independently.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> That being said, even when your parents are loving and well-meaning, they can still be causing harm in your life. During these times setting boundaries is necessary for your mental health and overall well-being. However, cutting off your parents is easier said than done. The emotional toll of not speaking to them may be a lot harder than simply enduring a few short conversations.
 
 So if you live with your parents and you’re an adult, move out. If you’re still in high school, add on a few after-school activities or get a job. These will help build character and confidence but give you a break from your parents’ annoying behaviors.
 
 But don’t move in secret. Be upfront about what you're doing and why to build trust.
-
 
 ## See your parents as individuals
 
@@ -106,12 +97,11 @@ Something invaluable I learned about my mother is that she meant a lot to the pe
 
 My sister and I were in constant danger in the neighborhood we grew up in. And I blamed my mother for our situation. The stories other people shared with me about her helped me see her as a more rounded individual and not just my mother.
 
-Eventually, I learned to accept that my mother was doing the best she could. Read how I learned to forgive my mother in my post, [How to forgive your parents](https://edlatimore.com/how-to-understand-and-forgive-your-parents/). Forgiveness is the type of drug that’s hard to access but can miraculously improve mental and physical well-being.[^2]
+Eventually, I learned to accept that my mother was doing the best she could. Read how I learned to forgive my mother in my post, [How to forgive your parents](https://edlatimore.com/how-to-understand-and-forgive-your-parents/). Forgiveness is the type of drug that’s hard to access but can miraculously improve mental and physical well-being.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 In the end, I much rather remember my mother for the stories people shared over the petty arguments we had.
 
 And pro tip: When you lose a loved one, you’ll even miss the annoying parts.
-
 
 ## Take responsibility for yourself
 
@@ -127,14 +117,11 @@ Taking responsibility also means taking responsibility for the person you are be
 
 When you know yourself better, your conversations with your parents will feel less intense. You’ll have your own thoughts instead of people-pleasing or trying to be who everyone else wants you to be. You’ll also learn to face the fears and challenges that life places in front of us all.
 
-
 ## Final thoughts on dealing with annoying parents
 
 In conclusion, no one has perfect parents. And despite what you read online, no one gets out of childhood without a few bruises. Remember, a hard upbringing teaches you things about yourself and life you just can’t learn elsewhere. It can be the source of your peace or the catalyst to your destruction.
 
 To tip the odds in your favor, try this if you have annoying parents or family members:
-
-
 
 * Learn to understand intention even if it’s coming from an abrasive source
 * Stay calm and listen more than you talk
@@ -149,6 +136,4 @@ To tip the odds in your favor, try this if you have annoying parents or family m
 
 ### References
 
-[^1]: Crawford, Krysten Standford News, March 2021 [https://news.stanford.edu/2021/03/11/study-reveals-impact-much-parental-involvement/](https://news.stanford.edu/2021/03/11/study-reveals-impact-much-parental-involvement/) (accessed May 17, 2022)
-
-[^2]: Weir, Kristen. Forgiveness can improve mental and physical health. _Monitor on Psychology_, _48_(1) (2017, January).. [https://www.apa.org/monitor/2017/01/ce-corner](https://www.apa.org/monitor/2017/01/ce-corner) (accessed May 17, 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Crawford, Krysten Standford News, March 2021 <a href="https://news.stanford.edu/2021/03/11/study-reveals-impact-much-parental-involvement/">https://news.stanford.edu/2021/03/11/study-reveals-impact-much-parental-involvement/</a> (accessed May 17, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Weir, Kristen. Forgiveness can improve mental and physical health. <em>Monitor on Psychology</em>, <em>48</em>(1) (2017, January).. <a href="https://www.apa.org/monitor/2017/01/ce-corner">https://www.apa.org/monitor/2017/01/ce-corner</a> (accessed May 17, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
