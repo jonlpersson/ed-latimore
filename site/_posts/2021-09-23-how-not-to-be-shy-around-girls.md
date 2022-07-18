@@ -6,8 +6,8 @@ permalink: /how-not-to-be-shy-around-girls/
 tags:
   - dating-and-relationships
 description: >-
-  Get nervous and twitchy around women? This is how to stop being shy around
-  girls
+  Get nervous and twitchy around women? You're not alone. In this article, I'll
+  show you how to stop being shy around girls and be an interesting guy.
 image: /assets/images/posts/how-to-not-be-shy-around-girls.jpg
 ---
 Let's get to the heart of what shyness really is…
