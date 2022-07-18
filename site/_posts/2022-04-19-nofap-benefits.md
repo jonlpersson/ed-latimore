@@ -8,7 +8,7 @@ tags:
 description: >-
   Porn addiction has so many men living beneath their potential. These tips will
   teach you the benefits of No Fap so you can get your superpowers
-image: /assets/images/thumbnails/ed-jacket-on-smiling.jpg
+image: /assets/images/posts/benefits-of-nofap.jpeg
 ---
 Success always requires you to pay the cost of admission. This often means giving up things that seem harmless on the surface, but that unwittingly rob you of your potential, one insidious concession at a time.
 
