@@ -137,7 +137,7 @@ The two biggest fears people have—dying and public humiliation—are imminent.
 
 Learning to persevere through your fears and staying committed to your goals will completely change your life in ways you never imagined. It's a skill every man should know, and if you don't, you need to [read this now](https://edlatimore.com/how-to-overcome-fear/).
 
-Nothing has had as much of an impact on my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.
+Nothing has impacted my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.&nbsp;
 
 Before you know it, you’ll be on your way to becoming a version of yourself you never thought was possible.
 
