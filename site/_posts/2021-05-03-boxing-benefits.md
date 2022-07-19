@@ -16,9 +16,7 @@ If you hadn’t already clicked on this article to learn why you should get into
 
 The thing is, boxing gave me all of these things and more. It transformed my life, helped me through the depths of my alcohol addiction, and most importantly, it proved that I was capable of accomplishing anything I could put my mind to.
 
-In this article you’ll learn exactly what makes boxing so great, and if you’re on the fence about starting boxing maybe it’ll help convince you to get started. If you're already conviced then start with my post to [get into boxing the right way](https://edlatimore.com/how-to-get-into-boxing/).
-
-{% include widgets/toc.html heading="The eight greatest benefits of boxing" list-items="Boxing makes your confidence soar, It teaches you that pain doesn't matter, It's a great way to get in shape, You become more disciplined than ever, You learn how to be patient, Boxing instills humility, Boxing reminds you of your own mortality, You discover the true meaning of fear" list-ids="1-boxing-makes-your-confidence-soar, 2-it-teaches-you-that-pain-aint-shit, 3-boxing-is-a-great-way-to-get-in-shape, 4-you-become-more-disciplined-than-ever, 5-you-learn-how-to-be-patient, 6-boxing-will-make-you-more-humble, 7-boxing-reminds-you-of-your-own-mortality, 8-you-discover-the-true-meaning-of-fear" %}
+In this article, you’ll learn exactly what makes boxing so great, and if you’re on the fence about starting boxing, maybe it’ll help convince you to get started. If you're already convinced then start with my post to [get into boxing the right way](https://edlatimore.com/how-to-get-into-boxing/).
 
 ## 1\. Boxing makes your confidence soar
 
@@ -30,7 +28,7 @@ Lifting makes you feel strong. **Boxing makes you feel invincible.**
 
 That confidence—the problem-solver's kind of confidence—can’t be gained any other way than learning how to fight.
 
-I've laid out other things you can do to develop killer confidence in [this article](/how-to-build-confidence/).
+I've outlined other things you can do to develop killer confidence in [this article](/how-to-build-confidence/).
 
 {% include widgets/cta-email.html %}
 
@@ -38,15 +36,15 @@ I've laid out other things you can do to develop killer confidence in [this arti
 
 Here’s a little-known secret outside of boxing circles: **everything in boxing is painful.**
 
-Unless victory is achieved by a devastating knockout, you’ll sustain quite a bit of pain even if you win.
+Unless a devastating knockout achieves victory, you’ll sustain quite a bit of pain even if you win.
 
 This is because a person trained to hurt you is trying to do just that. It’s not like dealing with a hoodlum off the streets. A fighter’s punches have power behind them. But Rocky said it best:
 
 > It ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward; how much you can take and keep moving forward. That’s how winning is done\!
 
-The training in boxing is extremely gruelling and rough. You will experience tremendous pain just getting in fighting shape.
+The training in boxing is extremely grueling and rough. You will experience tremendous pain just getting in fighting shape.
 
-[ESPN ranked boxing the toughest sport](http://www.espn.com/espn/page2/sportSkills) to compete in and for good reason. It’s painful to train, painful to compete, but if you push through the pain then the glory is all yours. If you're not sure how to push through the pain don't worry I got you, read [how to embrace pain](https://edlatimore.com/pushing-through-the-pain/).
+[ESPN ranked boxing the toughest sport](http://www.espn.com/espn/page2/sportSkills) to compete in, for a good reason. It’s painful to train and compete, but if you push through the pain, then the glory is all yours. If you're unsure how to push through the pain, don't worry I got you. Read&nbsp;[how to embrace pain](https://edlatimore.com/pushing-through-the-pain/).
 
 A glimpse at the ESPN rankings where boxing came out on top for toughness:
 
@@ -67,11 +65,11 @@ A glimpse at the ESPN rankings where boxing came out on top for toughness:
 
 There’s an ongoing debate between cardio or weight training and which is best for getting in shape.
 
-Most dudes don’t want to look like a roided up freak show. Nor do they want to look like a skinny Kenyan marathon runner. They want to look ripped and athletic.
+Most dudes don’t want to look like a roided-up freak show. Nor do they want to look like a skinny Kenyan marathon runner. They want to look ripped and athletic.
 
 Boxing training is both anaerobic and aerobic.
 
-You can burn tremendous calories hitting the heavy bag. And if you’re wondering if [boxing can build muscle](https://totalshape.com/fitness/does-boxing-build-muscle/){: target="_blank" rel="noopener noreferrer"} along with burning calories, the answer is yes. It is an effective way to build up back, shoulder, and arm muscles.&nbsp;
+You can burn tremendous calories by hitting the heavy bag. And if you’re wondering if [boxing can build muscle](https://totalshape.com/fitness/does-boxing-build-muscle/){: target="_blank" rel="noopener noreferrer"}&nbsp;and burn calories, the answer is yes. It is an effective way to build up back, shoulder, and arm muscles.&nbsp;
 
 If you compete—and I recommend every man compete in a boxing match at least once—the training will turn you into a beast. To get prepared read up on [everything you need to train for a boxing match](/boxing-training/).
 
@@ -85,9 +83,11 @@ You can fool yourself about how often you run or go to the gym, but fight night 
 
 If you can handle boxing training, you can become whatever you want.
 
-Between the technical training, mental concentration, toughness and physical conditioning, there is no room for laziness or non-commitment.
+Between technical training, mental concentration, toughness, and physical conditioning, there is no room for laziness or non-commitment.
 
 The discipline you develop in boxing can be applied to anything.
+
+#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 ## 5\. You learn how to be patient
 
@@ -109,7 +109,7 @@ The only way to get better at this sport is to suffer.
 
 You’ll suffer through running. You’ll suffer through sparring. Eventually, you’ll lose a fight in front of a crowd. It will be extremely embarrassing. Especially if you get knocked out.
 
-However, if you commit to the sport, you will not only get past these difficulties, but you will become a better person. There’s nothing like a black eye, bloody nose, and sore ribs to build humility.
+However, if you commit to the sport, you will not only get past these difficulties but also become a better person. There’s nothing like a black eye, bloody nose, and sore ribs to build humility.
 
 ![Ed Latimore getting knocked out](/assets/images/posts/ed-knocked-out.jpg "I lost my first televised professional fight, getting knocked out in the process. Talk about getting humbled.")
 
@@ -129,16 +129,18 @@ You appreciate the mental fortitude required to continue in the face of pain.
 
 Most importantly, you learn how to deal with it.
 
-I once heard this phenomenon referred to as “drowning out the noise”.
+I once heard this phenomenon called “drowning out the noise.”
 
-A fighter is always scared before a fight and for good reason. A person is trying to hurt you. He has a good chance of doing it. If he succeeds, it will be in front of everyone.
+A fighter is always scared before a fight. A person is trying to hurt you. He has a good chance of doing it. If he succeeds, it will be in front of everyone.
 
-The two biggest fears people have—dying and public humiliation—are imminent. All fighters experience this, but every weekend they act in spite of it.
+The two biggest fears people have—dying and public humiliation—are imminent. All fighters experience this, but every weekend they act despite it.
 
-Learning to persevere through your fears and staying committed to your goals will completely change your life in ways you never imagined. It's a skill every man should know, and if you don't then you need to [read this now](https://edlatimore.com/how-to-overcome-fear/).
+Learning to persevere through your fears and staying committed to your goals will completely change your life in ways you never imagined. It's a skill every man should know, and if you don't, you need to [read this now](https://edlatimore.com/how-to-overcome-fear/).
 
-Nothing has had as much of an impact on my life than boxing, and if you’re wondering whether you should start my answer will always be yes. Start as soon as you can.
+Nothing has had as much of an impact on my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.
 
-Before you know it you’ll be on your way to becoming a version of yourself you never thought was possible.
+Before you know it, you’ll be on your way to becoming a version of yourself you never thought was possible.
+
+#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/cta-email.html %}
