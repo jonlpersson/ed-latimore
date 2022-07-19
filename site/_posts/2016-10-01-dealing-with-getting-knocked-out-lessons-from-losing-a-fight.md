@@ -15,7 +15,7 @@ Many of you witnessed my obnoxious posting about my fight on Showtime last weeke
 
 I’m hoping you had something better to do than watch. Either way, I’ll fill you in. This was my first fight on television, and I got stopped in the 1st round.
 
-Anytime you have two men over 200 lbs in a boxing ring, someone is likely to get knocked out. It doesn't matter how sharp your footwork is or how much sparring you had in preparation for the fight. Your fists are wrapped liked a cast and placed into boxing gloves designed to multiply and transmit your force.
+Someone is likely to get knocked out whenever you have two men over 200 lbs in a boxing ring. It doesn't matter how sharp your footwork is or how much sparring you had in preparation for the fight. Your fists are wrapped liked a cast and placed into boxing gloves designed to multiply and transmit your force.
 
 My opponent (quite the affable fellow outside the ring) landed a tremendous short right over my jab, and the fight was a short night after that. I tried to fight back, but I couldn't recover from the knockdown in enough time to beat the referee's count.
 
@@ -23,7 +23,7 @@ Losing fights happens to almost every fighter. When fighters think about fight n
 
 It’s a terrible way to lose, and it was live for the whole world to see. My opponent was simply that better fighter that night. It wasn't even a close fight.
 
-Yeah it’s awful, but it’s part of life. I move on and I become better from it. My primary purpose in life, above boxing, is to take what I experience the hard way and break it down so that people may learn from it the easy way.
+Yeah, it’s awful, but it’s part of life. I move on, and I become better from it. Above boxing, my primary purpose in life is to take what I experience the hard way and break it down so that people may learn from it the easy way.
 
 I’ve spent the last week piecing together notes on my reaction to this event.
 
@@ -57,19 +57,21 @@ These are fine emotions to elicit, but we secretly fear that those closest to us
 
 Some people are. There’s nothing you do about that. But in times of distress, the people who love you will be there for you. Though this should be expected, it comes as a most welcome surprise.
 
-## You are never as good as they say you are when you win, and never as bad as they say you are when you lose
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
+
+#### You are never as good as they say you are when you win, and never as bad as they say you are when you lose
 
 It’s impossible to accurately assess your level immediately after you lose, but it is important to figure out where you stand.
 
-You must evaluate yourself and decide whether you merely made a mistake, a different course to the same goal is required, or if it's time to abandon course altogether.
+You must evaluate yourself and decide whether you merely made a mistake, a different course to the same goal is required, or if it's time to abandon the course altogether.
 
-Everyone’s path is different, but it’s impossible to know that while you are still suffering the emotional effects of the loss.
+Everyone’s path is different, but it’s impossible to know that while you still suffer the emotional effects of the loss.
 
 ***(Read: "[How To Think Like A Professional Fighter](/how-to-think-like-a-professional-fighter/)")***
 
 ## Heaven and Hell represent what happens when you die
 
-If you’ve lead a good life helping others, you go to heaven. If you’ve led an evil life and take from others, then you go to hell.
+If you’ve led a good life helping others, you go to heaven. If you’ve led an evil life and taken from others, then you go to hell.
 
 The same can be said of you when your ego dies.
 
@@ -81,15 +83,15 @@ This is often stated in another, less esoteric way: How you treat people on the 
 
 ## Perspective is everything
 
-The morning after the fight, I was moping around and feeling very bad for myself.
+The morning after the fight, I moped around and felt very bad for myself.
 
-Depressed isn’t quite the feeling I experienced, but I was definitely caught up in my own self-pity.
+Depressed isn’t quite the feeling I experienced, but I was definitely caught up in my self-pity.
 
 Then I sat down for breakfast in the hotel, and the news was running a segment on the [bombings in Aleppo, Syria](https://en.wikipedia.org/wiki/Aleppo_bombings_&#40;April%E2%80%93July_2016&#41;){: target="_blank" rel="noopener noreferrer"}. Then it followed up with [police shootings in Tulsa, Oklahoma and Charlotte, North Carolina.](https://www.cnn.com/2016/09/22/us/tulsa-charlotte-shooting-protests/index.html){: target="_blank" rel="noopener"} Finally, I learned that [a guy walked into a mall in Washington State and killed five people](https://en.wikipedia.org/wiki/Cascade_Mall_shooting){: target="_blank" rel="noopener"}, one of which was a 16-year old cancer survivor.
 
 Suddenly everything was put into perspective.
 
-There are REAL problems in the world. I took an embarrassing loss on television and that sucks for me, but there are people in the world dealing with the loss of life and liberty for no other reason than they were in the wrong place at the wrong time.
+There are REAL problems in the world. I took an embarrassing loss on television, which sucks for me, but there are people in the world dealing with the loss of life and liberty for no reason other than they were in the wrong place at the wrong time.
 
 At that point, my mood jumped three levels because I remembered something Randy Couture once told me: “If the worst thing that happens to you in your life is that you lose a fight, then you’re doing alright."
 
@@ -101,7 +103,7 @@ This means that not only are there fewer people who can give you advice, but the
 
 The people who love you try to understand and give you words of encouragement, but in the end, you still feel alone and misunderstood. However, this is another clever ego trap.
 
-As long as you view yourself as different and superior, you are blocking the energy that people offer you out of their love for you and the kindness in their hearts.
+As long as you view yourself as different and superior, you are blocking the energy people offer you out of their love for you and the kindness in their hearts.
 
 ## Identity is a tricky thing
 
@@ -113,9 +115,9 @@ The reality is that there is far more to a person than that.
 
 I suspect that people take on [self-destructive behavior](/lessons-from-the-ghetto-willingness-to-fight/) after a professional setback because they have come to define themselves only by their accomplishments.
 
-Failure ceases to be a learning opportunity for these people and instead becomes the stake at which they burn themselves. This is another trick of the ego, and one you must be vigilant against, for your connection with people is the most important thing.
+Failure ceases to be a learning opportunity for these people and instead becomes the stake at which they burn themselves. This is another ego trick you must be vigilant against, for your connection with people is the most important thing.
 
-The strongest prophylaxis against this is to remember your relationships with others and the other ways you bring value to the world. Also, don't forget that the world will go on spinning with or without your precious identity intact.
+The strongest prophylaxis against this is remembering your relationships with others and the other ways you bring value to the world. Also, don't forget that the world will go on spinning with or without your precious identity intact.
 
 ## What you’re afraid of is worse in your imagination than in reality
 
@@ -126,5 +128,7 @@ The world goes on.
 I’m not dead and the important things in my life are still there.
 
 This is how it is with most of the terrible things you fear. It is either highly unlikely that they will happen or what your imagination makes them is far worse than reality.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/cta-email.html %}
