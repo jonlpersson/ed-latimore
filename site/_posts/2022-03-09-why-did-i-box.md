@@ -32,27 +32,31 @@ Every fighter fights for different reasons, but rarely are those reasons born fr
 
 Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.&nbsp; Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
 
-More generally, happy people have the same things in common, but unhappy people can be unhappy for any number of reasons because there are many ways to be unhappy.
+More generally, happy people have the same things in common, but unhappy people can be unhappy for many reasons because there are many ways to be unhappy.
 
 The Anna Karenina Principle explains why every fighter fights.&nbsp;
 
-All humans have a survival instinct and an aversion to pain. While fighters share this trait with the rest of the population, we believe that we’ll find what we’re missing on the other side of pain.
+All humans have a survival instinct and an aversion to pain. While fighters share this trait with the rest of the population, we believe we’ll find what we’re missing on the other side of pain.
 
 By inflicting pain, we prove that we are worth something in the most primal and recognizable way. By enduring pain, we prove—in the most defiant and discernable manner—that life is not better than us and can not beat us down.
 
-I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like a somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.&nbsp;
+I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.&nbsp;
 
-You might be thinking that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much other pain, hardship, and restriction that surely the cost of admission exceeds the value received. Perhaps there is some truth in this, but this brings me to another reason why I fought.
+I've often said that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much pain, hardship, and restriction that surely the cost of admission exceeds the value received.
+
+Perhaps there is some truth in this, but this brings me to another reason why I fought.
 
 ## Until you have it, you don’t know you want it
 
 Fighting is one of the few athletic avenues that is not closed to people who aren’t enrolled in a university.
 
-There are only two hard age limits in the sport: to compete in amateur boxing, you have to be at least 10 years old. There is technically no age maximum, but any amateur fighter older than 35 will have the choice to compete in the Master's division (35 years and older) and will be forced to compete there once he’s 41. As a professional, there are no such limits.
+There are only two hard age limits in the sport: to compete in amateur boxing, you must be at least 10 years old. There is technically no age maximum, but any amateur fighter older than 35 will have the choice to compete in the Master's division (35 years and older) and will be forced to compete there once he’s 41. As a professional, there are no such limits.
 
-This means that [you can start fighting](/how-to-get-into-boxing/) when most people are ending their athletic careers. There are many notable names in the sport who have had successful careers after not even stepping in the ring for the first time until after their 18th birthday.
+You[&nbsp;can start fighting](/how-to-get-into-boxing/) when most people are ending their athletic careers. Many notable names in the sport have had successful careers after not even stepping in the ring for the first time until after their 18th birthday.
 
-I started as an amateur boxer. Fighting is also unique in that you can start your career as a professional, but I wanted to go as far as I could in the sport. I knew that doing it this way was the right way. As I continued to fight and develop my abilities, I became respected. I had a community that I belonged to that did not rely on drinking as the sole reason for getting together.&nbsp;
+I started as an amateur boxer at the age of 22. Despite [growing up in the hood](https://edlatimore.com/living-in-the-hood) and fighting a lot there, I never formally stepped in the ring until I was an adult.
+
+Fighting is also unique in that you can start your career as a professional, but I wanted to go as far as I could in the sport. I knew that doing it this way was the right way. As I continued to fight and develop my abilities, I became respected. I had a community that I belonged to that did not rely on drinking as the sole reason for getting together.&nbsp;
 
 I was simultaneously someone’s rival, mentor, and protege. I gained respect from other fighters, admiration from those who did not dare step in the ring, and I was legitimately becoming a better human.
 
