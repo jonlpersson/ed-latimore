@@ -14,9 +14,7 @@ image: /assets/images/thumbnails/the-best-way-to-tweet-it---small.png
 
 As Ed Latimore always says, you only need 1% of English speakers buying from you to live better than the other 99%.
 
-In fact, you only need a fraction of a fraction of a fraction of them to engage with your content plus a business with one product, one service, one offer to **tweet your way to a six-figure income**.
-
----
+In fact, you only need a fraction of a fraction of a fraction of them to engage with your content plus a business with one product, one service, one offer to **tweet your way to a six-figure income**
 
 So what’s the difference between someone with 10,000 followers who makes a measly $100 a month from Twitter . . .
 
@@ -80,7 +78,7 @@ and **can't write** for 💩.
 
 In short, **go from crickets 🦗 to cash 💰 without tweeting like someone you’re not.**
 
----
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 ***“So what makes YOU the authorities on Tweeting for the Benjamins?”***
 
@@ -158,8 +156,10 @@ And if you want to leverage persuasive language to make Twitter your personal AT
 
 #### [**Last chance. Get It Here.**](https://gumroad.com/a/204305523/bSGOk){: target="_blank" rel="noopener noreferrer"}
 
----
+&nbsp;
 
 **Master Tweet-Sized Persuasion.** Join *The Best Way To Tweet It* right effing now.
 
-**Price shoots up from $129** to **$199** on Sunday, October 25th at 11:59 p.m. Pacific Standard Time—and the epic bonuses expire.
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
+
+&nbsp;
