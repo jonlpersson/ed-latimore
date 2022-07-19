@@ -69,17 +69,19 @@ When you bring your A-game, regardless of the outcome, you’re able to see wher
 
 One decent challenge in your goldilocks zone is worth 10 practice sessions with no risk if you lose and 100 drills with no risk at all.
 
-Even if you don’t succeed, there tends to be an improvement that would have otherwise not happened. Jay-Z says this best: “I will not lose, for even in defeat there’s a valuable lessons learned, so that evens it up for me.”
+Even if you don’t succeed, there tends to be an improvement that would have otherwise not happened. Jay-Z says this best: “I will not lose, for even in defeat there’s a valuable lesson learned, so that evens it up for me.”
+
+#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 ## 3) Taking risks exposes you to opportunity
 
-You can’t just hope things will get better. Risk taking is how you make things happen. You only get the best things in life if you risk the possibility of getting nothing at all.
+You can’t just hope things will get better. Risk-taking is how you make things happen. You only get the best things in life if you risk the possibility of getting nothing at all.
 
-Boxing set me up for so much in my life, but just getting in the ring is a huge risk. All of the time I invest into myself could not result in progress. Or worse, I could have seriously injured myself and legitimately come out of the sport in a worse position than had I entered.
+Boxing set me up for so much in my life, but getting in the ring is a huge risk. All of the time I invest in myself could not result in progress. Or worse, I could have seriously injured myself and legitimately come out of the sport in a worse position than had I entered.
 
 I continued along with the sport, regardless of the risks. Even though the odds of me becoming a champion in boxing are extremely low, [I knew the benefits of training and networking within the sport were enough to take those risks.](/bet-on-yourself/)
 
-Because of boxing, I was able make enough money to partially fund my education going back to school as an adult. It allowed me to initially build a fanbase that I’ve been able to convert to a living. I’ve got to travel the country for free and be interviewed by some pretty interesting people.
+Because of boxing, I was able to make enough money to partially fund my education while going back to school as an adult. It allowed me to initially build a fanbase that I’ve been able to convert to a living. I’ve got to travel the country for free and be interviewed by some interesting people.
 
 I’ve gotten excellent opportunities for work and made some great friends because I took the risk of training and stepping into the ring.
 
@@ -89,41 +91,43 @@ I’ve gotten excellent opportunities for work and made some great friends becau
 
 No one gets everything they want.
 
-Sometimes, no matter how hard you work and how much you prepared, you still come up short. How you deal with it is what determines how successful you’ll be at anything else.
+Sometimes, no matter how hard you work and how much you prepared, you still come up short. How you deal with it determines how successful you’ll be at anything else.
 
-*So with risk taking, you get first hand experience in facing loss.*
+*So with risk-taking, you get first-hand experience in facing loss.*
 
-Most people are so afraid of losing that they never try to win. They don’t know what it’s like to lose because they avoid any situation where losing is possible. This means that they also avoid situations where winning is possible. As a result, they spend their lives in their comfort zone in a sense of quiet desperation.
+Most people are so afraid of losing that they never try to win. They don’t know what losing is like because they avoid any situation where loss is possible. This means that they also avoid situations where winning is possible. As a result, they spend their lives in their comfort zone in a sense of quiet desperation.
 
 *When you take a risk, you won’t always be successful.*
 
-That’s ok because it’s not usually the end of the world. You’ll have learned something or gained some skill that makes you more capable and resilient. And on the off chance that it actually is the end of the world, then you have nothing to worry about anyway.
+That’s ok because it’s not usually the end of the world. You’ll have learned something or gained some skill that makes you more capable and resilient. And on the off chance that it is the end of the world, you have nothing to worry about anyway.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 ### Defeats teach even more so than victories
 
 [I remember when I lost my first internationally televised fight.](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/)
 
-It was a terrible and embarrassing ordeal, but I distinctly remember telling myself that I would be ok. In fact, as I waited for my check at the end of the night, I remember telling myself that this would be the best thing in the world to ever happen to me.
+It was a terrible and embarrassing ordeal, but I distinctly remember telling myself that I would be ok. As I waited for my check at the end of the night, I remember telling myself that this would be the best thing ever to happen to me.
 
-This didn’t guarantee that it would, but it shifted me from a problem finding mindset to a [problem solving mindset](/problem-solving-process/). Instead of focusing on the pay I’d lost or the swelling over my right eye, I was able to look into the future and start focusing on what I could control and do something about.
+This didn’t guarantee it would, but it shifted me from a problem-finding mindset to a [problem-solving mindset](/problem-solving-process/). Instead of focusing on the pay I’d lost or the swelling over my right eye, I was able to look into the future and start focusing on what I could control and do something about.
 
-This was something I learned to do from dealing with other losses and setbacks in my career.
+I learned to do this from dealing with other losses and setbacks in my career.
 
 ### When taking risks, you win some and lose some
 
-It’s just one strategy I developed for dealing coming up on the short end of risk, but it’s one that I could only have developed if I hadn't taken any risks in the first place.
+It’s just one strategy I developed for dealing with coming up on the short end of risk, but it’s one that I could only have developed if I hadn't taken any risks in the first place.
 
 No one rational seeks situations where the only outcome is loss and hardship. However, dealing with it is inevitable in life, so one must get some experience dealing with it.
 
-The only way to get practice at dealing with loss and hardship is to pursue situations where there is a chance to succeed but you don’t. This is just another way of saying that you must expose yourself to the possibility of losing while trying to win.
+The only way to get practice at dealing with loss and hardship is to pursue situations where there is a chance to succeed, but you don’t. This is just another way of saying that you must expose yourself to the possibility of losing while trying to win.
 
-***[This is just another way to describe risk taking.](https://www.stakeholdermap.com/risk/risk-definition.html){: target="_blank" rel="noopener noreferrer"}***
+***[This is just another way to describe risk-taking.](https://www.stakeholdermap.com/risk/risk-definition.html){: target="_blank" rel="noopener noreferrer"}***
 
-## 5) When you take risk, you never have to wonder “what if?”
+## 5) When you take risks, you never wonder, “what if?”
 
 When you take risks, you never have to wonder what could have been. Instead of getting older, looking back, and wondering what you could have accomplished, that question is put to rest because you already took the risk.
 
-At 36 years old, I don’t ever have to wonder if I could have been a professional athlete. I don’t ever have to wonder what it would have been like to fight on television. I don’t have to wonder would it would be like to get paid to train and work on my body.
+At 36 years old, I never have to wonder if I could have been a professional athlete. I don’t ever have to wonder what it would have been like to fight on television. I don’t have to wonder would it would be like to get paid to train and work on my body.
 
 Let’s pretend that I didn’t start training at the age of 22, but instead I waited until now at the age of 36. While I’d still get points for taking a risk as an old man (by sports standards), I'd then wonder how good I could have been had I started earlier.
 
@@ -136,13 +140,13 @@ Of course, I had that thought when I started at 22. I used to think about how mu
 
 ## 6) Risk leads to peace of mind
 
-In the long term, the most uncomfortable thing you can do is stay in your comfort zone and the safest thing you can do is take more risks. Most people focus on the short term so they behave in the exact opposite manner.
+In the long term, the most uncomfortable thing you can do is stay in your comfort zone, and the safest thing you can do is take more risks. Most people focus on the short term, so they behave in the exact opposite manner.
 
-They want to feel good now so they stay in their comfort zone and they want nothing to change so they don’t take any risks.
+They want to feel good now, so they stay in their comfort zone and want nothing to change, so they don’t take any risks.
 
-For a moment, let’s ignore the long term benefit. That’s easy enough to argue. What I want to focus on is what you gain in the short term by taking risks. Specifically, what you gain in terms of peace of mind and contentment.
+For a moment, let’s ignore the long-term benefit. That’s easy enough to argue. I want to focus on what you gain in the short term by taking risks. Specifically, what you gain in terms of peace of mind and contentment.
 
-When you take risks, you have to be sharp because although you’re facing the possibility of failure, you don’t actually want to fail. You're fighting for something against forces, natural or otherwise, conspiring to keep thwart your success.
+When you take risks, you have to be sharp because although you’re facing the possibility of failure, you don’t want to fail. You're fighting for something against forces, natural or otherwise, conspiring to thwart your success.
 
 ### Following your purpose involves taking risks
 
@@ -150,7 +154,7 @@ With your senses engaged, you have found a purpose.
 
 Even if it’s difficult, having a purpose keeps you from worrying about anything other than what is vital to the success of your mission. Having a purpose alone would do more for mental health than all the therapy and drugs in the world.
 
-I spent the majority of my amateur boxing career making less than $2k/month–before taxes, from various odd jobs. I was so broke that sometimes I didn’t know how I’d get to the gym that month, but I felt so alive and capable because this was a challenge. I wasn’t worried about anything crazy going on around me because I felt alive and motivated by my mission.
+I spent most of my amateur boxing career making less than $2k/month–before taxes, from various odd jobs. I was so broke that sometimes I didn’t know how I’d get to the gym that month, but I felt so alive and capable because this was a challenge. I wasn’t worried about anything crazy because I felt alive and motivated by my mission.
 
 I was happy getting better, taking calculated risks, and staying focused on my purpose for the moment.
 
@@ -170,16 +174,18 @@ Taking action towards a goal where success is not guaranteed but it is worth it.
 
 ## Recap of why you have to embrace risk
 
-1. Failure feels worse than it actually is
+1. Failure feels worse than it is
 2. You learn faster from taking risks
-3. Risk taking exposes you to opportunity
+3. Risk-taking exposes you to opportunity
 4. Taking risks teaches you how to deal with loss
-5. You never have to wonder “what if?”
-6. Risk taking leads to peace of mind
+5. You never have to wonder, “what if?”
+6. Risk-taking leads to peace of mind
 7. Taking risks teaches you how to face your fears
 
-Just because you don’t get what you set out for doesn’t automatically make it a loss. On the flip side, getting what you want is not always a win.
+Just because you don’t get what you set out for doesn’t automatically make it a loss. Conversely, getting what you want is not always a win.
 
-The latter condition is especially true when it comes to staying in your comfort zone to avoid pain. You may avoid temporary discomfort, but in the process, you condemn yourself to long term suffering.
+The latter condition is especially true when staying in your comfort zone to avoid pain. You may avoid temporary discomfort, but in the process, you condemn yourself to long-term suffering.
 
-*This is ultimately what taking risk is all about.* Taking these risks is the only way I could have gotten anywhere close to where I am in my life.
+*This is ultimately what taking risks is all about.* Taking these risks is the only way I could have gotten anywhere close to where I am in my life.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
