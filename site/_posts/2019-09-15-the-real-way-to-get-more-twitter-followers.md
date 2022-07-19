@@ -64,6 +64,8 @@ But first, here is what I&nbsp;*won't*&nbsp;be discussing in this Twitter articl
 
 Now that you know what's not going to be in the article, we can cover what you can do to grow here. After following this advice, who knows what will happen? You might even pass me one day.
 
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
+
 ## 1) Write valuable high-quality content
 
 People always want value.
@@ -77,23 +79,23 @@ Value is a simple concept to understand and easy to deliver via Twitter. To deli
 * Solve the problem yourself
 * Inspire people
 
-If you use your Twitter account to help people laugh, learn, or leverage things, you’ll have no problem getting more followers. When potential followers visit your Twitter feed, they are much more likely to hit the follow button and become a supporter.
+You'll have no problem getting more followers if you use your Twitter account to help people laugh, learn, or leverage things. When potential followers visit your Twitter feed, they are much more likely to hit the follow button and become a supporter.
 
-Most people want to use social media as a place to vent and freely express themselves. This is also why&nbsp;[the average Twitter account only has 707 followers.](https://kickfactory.com/blog/average-twitter-followers-updated-2016/){: target="_blank"}&nbsp;If you act like most people, you’ll get the results that most people have.
+Most people want to use social media as a place to vent and freely express themselves. This is also why&nbsp;[the average Twitter account only has 707 followers.](https://kickfactory.com/blog/average-twitter-followers-updated-2016/){: target="_blank"}&nbsp;If you act like most people, you’ll get the results most people have.
 
 {% twitter https://twitter.com/EdLatimore/status/1144200797703606272 %}
 
-## 2) Post your personal insights
+## 2) Post your insights
 
 In your quest to deliver value, you’ll discover something that is potentially disheartening: there is almost nothing new for you to say or experience. I would even say that there is absolutely nothing new or unique that you’re going to experience, but I like to always leave room for doubt.
 
 This bothers a lot of content creators on Twitter because they think they need to bring something completely new to the table so that they have a chance. But that isn’t the case.
 
-While there are no new singular experiences, there is a nearly infinite amount of combinations of those experiences in a single lifetime. This leads to an almost infinite number of perspectives and ways to express those perspectives.
+While there are no new singular experiences, there is a nearly infinite amount of combinations of those experiences in a single lifetime. This leads to an infinite number of perspectives and ways to express those perspectives.
 
 You don’t need to say something new, but you need to say something unique.
 
-Old insights delivered in a new way is an easy way to quickly get more Twitter followers. Someone can read the same thing in 1000 different ways from 1000 different people, and for whatever reason, when they read it from you, they finally take action.
+Old insights delivered in a new way is easy to quickly get more Twitter followers. Someone can read the same thing in 1000 different ways from 1000 different people, and for whatever reason, they finally take action when they read it from you.
 
 ## 3) Be yourself&nbsp;
 
@@ -109,13 +111,13 @@ No one can compete with you in being you. From this excellent article (Victor sh
 
 > My business is me and I am my business and there is no separation and that's the way you run You, Inc. I'm set for eternity because I lived the "nothing but B&D" mentality.
 
-There is no separation between you and your Twitter content. I live what I write and I write what I live. This ensures that everything I talk about, I talk about with authority and experience.
+There is no separation between you and your Twitter content. I live what I write and I write what I live. This ensures that I talk about everything I talk about with authority and experience.
 
-Expertise is what’s implied when I talk about delivering more value to your followers.
+Expertise is implied when I talk about delivering more value to your followers.
 
 You can only solve a problem if you’ve solved it yourself. You can only teach something if you know it. You can only entertain if you enjoy entertaining.
 
-If you’re living true to yourself, your Twitter will resonate with authority. This authority in being yourself will not only skyrocket your growth, but it’ll make it WAY more difficult for someone to copy you.
+If you’re living true to yourself, your Twitter will resonate with authority. This authority in being yourself will not only skyrocket your growth but also make it WAY more difficult for someone to copy you.
 
 #### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
@@ -125,15 +127,15 @@ If you’re an intelligent and open-minded person, this section is going to anno
 
 That’s OK because reality doesn’t care about how you feel—only what works. The thing that works best for building big engagement on Twitter is speaking as if your opinion is a fact.
 
-This means that you don’t prep your generalizations with “some people” and you don’t even remotely consider the possibility that there are exceptions to the rule, some of which may be major. You speak in an absolute, authoritarian tone about things that are obviously opinions.
+This means that you don’t prep your generalizations with “some people,” and you don’t even remotely consider the possibility that there are exceptions to the rule, some of which may be major. You speak in an absolute, authoritarian tone about things that are opinions.
 
 This is the proper way to be polarizing on Twitter. Polarization forces people to choose one side or another. Speaking in absolutes is the definition of polarization.
 
-In a situation where two different interpretations could be true depending on a variety of variable factors, speaking in absolutes is taking a side and ignoring the merits of the other side.
+In a situation where two different interpretations could be true depending on various variable factors, speaking in absolutes is taking a side and ignoring the merits of the other side.
 
-The naturally open-minded or intelligent will be bothered by this particular Twitter technique because they realize something: the most reasonable answer is neither black nor white, but a gray of varying intensity.
+The naturally open-minded or intelligent will be bothered by this particular Twitter technique because they realize something: the most reasonable answer is neither black nor white but a gray of varying intensity.
 
-But polarization works because people will retweet you in agreement, or quote tweet you to disagree. This exposes you to more people, many of whom will follow you as an absolute authority.
+But polarization works because people will retweet you in agreement or quote tweet you to disagree. This exposes you to more people, many of whom will follow you as an absolute authority.
 
 {% include widgets/summary.html id="Twitter-Threads" %}
 
@@ -141,9 +143,9 @@ But polarization works because people will retweet you in agreement, or quote tw
 
 When you have a tweet that does well, get as much mileage out of it as you can. There are two simple ways to do this:
 
-This is the easiest as Twitter will just pop it back out to the crowd and make it way easier to share. Many people never think about doing this, but Twitter lets you retweet your own content once before you have to undo the retweet and do it again.
+This is the easiest, as Twitter will just pop it back out to the crowd and make it way easier to share. Many people never think about doing this, but Twitter lets you retweet your own content once before you have to undo the retweet and do it again.
 
-This is extremely useful because tweets otherwise have an extremely short half-life. No matter how viral a tweet goes, most of your followers didn’t see it, nor will they ever. Especially if they follow lots of people or are not religiously on Twitter.
+This is extremely useful because tweets otherwise have an extremely short half-life. No matter how viral a tweet goes, most of your followers didn’t see it, nor will they ever; especially if they follow lots of people or are not religiously on Twitter.
 
 There are ways to increase the likelihood that your tweets are seen and thus engaged with, but I’ll cover that in another section. For now, don’t be afraid to hit the retweet button on your own content.
 
@@ -151,7 +153,7 @@ There are ways to increase the likelihood that your tweets are seen and thus eng
 
 Quote tweet your own tweet with commentary to get even more followers
 
-This is a great way to not only re-expose your old material, but it also forces you to create material in a similar vein of something that’s already proven to be popular. People often look at what’s being quote tweeted so they have the context to make sense of the quote tweet.
+This is a great way to not only re-expose your old material but it also forces you to create material in a similar vein of something that’s already proven to be popular. People often look at what’s being quote tweeted so they have the context to make sense of the quote tweet.
 
 Make sure that your quote tweet does not work as a standalone. You want to entice people to see and engage with the original tweet.
 
@@ -161,11 +163,13 @@ If they *also* happen to strongly interact with the quote tweet, that’s a bonu
 
 {% twitter https://twitter.com/EdLatimore/status/1157295313947959296 %}
 
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
+
 ## 6) Use media in your tweets
 
-According to Twitter, posts that make use of gifs or images have engagement rates that are 35% higher than text alone. [You can read more about this on Twitter's blog.](https://blog.twitter.com/official/en_us/a/2014/what-fuels-a-tweets-engagement.html){: target="_blank" rel="noopener noreferrer"}
+According to Twitter, posts that use gifs or images have engagement rates of 35% higher than text alone. [You can read more about this on Twitter's blog.](https://blog.twitter.com/official/en_us/a/2014/what-fuels-a-tweets-engagement.html){: target="_blank" rel="noopener noreferrer"}
 
-This means that people are 3x more likely to retweet, like, comment and share your stuff. Which in turn means that you are more likely to be followed.
+This means that people are 3x more likely to retweet, like, comment, and share your stuff. Which, in turn, means that you are more likely to be followed.
 
 Memes and gifs have the potential to skyrocket your follower count.
 
@@ -179,19 +183,19 @@ Social media is all about being social. One of the most amazing parts of Twitter
 
 You’re simply not using the platform correctly if you don’t interact with people who interact with you. Get in the habit of replying to mentions for two major reasons.
 
-The algorithm likes more chat on Twitter
+The algorithm likes more chats on Twitter
 
 [Twitter’s algorithm notices when you interact with someone, *follower or not*.](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html){: target="_blank" rel="noopener noreferrer"}
 
 When they get on to Twitter and scroll through their timeline, they’re greeted with tweets in the following order: ranked tweets, “In case you missed it”, and reverse-chronological order.
 
-Reverse-chronological order simply shows the tweets based on the order they were tweeted and is why I suggested retweeting your old content.
+Reverse-chronological order simply shows the tweets based on the order they were tweeted, and that is why I suggested retweeting your old content.
 
 As for the other two, Twitter has its own internal algorithm. Based on what and who you interact with, it will show you what it thinks you want to see first. These are the ranked tweets. When everyone gets on Twitter, this is the first thing they see.
 
 If you want to greatly increase the chance that you are the first thing they see, interact more with people.
 
-Twitter also uses the same algorithm when it comes to showing you what you missed.
+Twitter also uses the same algorithm when showing you what you missed.
 
 According to former Twitter engineer Deepak Rao, [the Twitter algorithm decides what to show your followers more of based on 3 primary factors](http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html){: target="_blank" rel="noopener noreferrer"}\:
 
@@ -203,7 +207,7 @@ Notice that two key metrics are related to the nature and frequency of your inte
 
 Directly get into the hearts and minds of your followers
 
-When you consistently reply to your mentions, you’ll have a much greater chance of making a fan of someone who was just delivering commentary.
+When you consistently reply to your mentions, you’ll have a much greater chance of making a fan of someone just delivering commentary.
 
 I've done it with people who chime in to offer words of support or criticism. Because I try to be active in my mentions and reply whenever I can. It becomes more difficult (and less necessary) the more followers you gain, but doing it is well worth the effort.
 
@@ -211,8 +215,8 @@ You’ll get people involved with you who only came to troll, and very often, yo
 
 ## A quick recap of the tips to get you more followers on Twitter:
 
-1. Write valuable high-quality content
-2. Post your personal insights
+1. Write valuable, high-quality content
+2. Post your insights
 3. Be yourself&nbsp;
 4. Be polarizing
 5. Retweet your best tweets
@@ -223,4 +227,6 @@ If you follow these tips, along with the tips in my other article about growing 
 
 These tips are guaranteed to get you more Twitter followers
 
-If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need a number of followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.&nbsp;
+If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.&nbsp;
+
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
