@@ -58,11 +58,11 @@ Even if you have fewer abilities and less experience. Even if your opponent beat
 
 [Boxing is painful](/boxing-benefits/), exhausting, and, contrary to popular belief, not rewarding financially. But if you put yourself through the misery and emerge victorious, you come to understand what I learned as a kid street fighting in the ghetto: **the one who wants to hurt the other person more wins.**
 
-Life hits hard and fast. Most of the punches it throws at you are beyond your current capabilities. At least on the streets I could avoid rough areas where fights often broke out. When they did, I could try to diffuse the situation. But there is no way to outsmart or wait out life.
+Life hits hard and fast. Most of the punches it throws at you are beyond your current capabilities. At least on the streets, I could avoid rough areas where fights often broke out. When they did, I could try to diffuse the situation. But there is no way to outsmart or wait out life.
 
 You have two choices. You can give up, or you can fight with all your might against whatever you face. Do this, and you will emerge victorious from your struggle and become a champion.
 
-Everything else is details, as they say.
+Everything else is in the details, as they say.
 
 But are they?
 
@@ -70,35 +70,37 @@ A lot of times, the details are where we get lost. We miss the forest for the tr
 
 Consider this. ***If fighting for your life is anything like living it, why do you think so many people are going around unfulfilled?***
 
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
+
 ## Going through the motions of life is how you lose
 
 I read recently that [92 percent](https://www.inc.com/marcel-schwantes/science-says-only-8-percent-of-people-actually-achieve-their-goals-here-are-7-things-they-do-differently.html#:~:text=According%20to%20the%20University%20of,elite%20category%20of%20goal%2Dachievers.) of people fail to achieve their goals.
 
-On the streets or in the ring, you can’t lose anywhere near that number of fights and survive. People who know what it’s like to fight to the death, the knockout, or whatever physical victory looks like cannot quit. To fail to push yourself past your limits is to lose everything—even your life.
+You can’t lose anywhere near that number of fights and survive on the streets or in the ring. People who know what it’s like to fight to the death, the knockout, or whatever physical victory looks like cannot quit. To fail to push yourself past your limits is to lose everything—even your life.
 
-The problem with life is that it’s too easy. Our goals aren’t life or death; they’re healthy food or fast food.
+The problem with life is that it’s too easy. Our goals aren’t life or death but healthy or fast food.
 
 A good friend of mine always says that one of the problems guys have today is that they have no idea what it's like to be punched in the face. He's 100 percent correct and in more ways than he probably realizes.
 
-People have no concept of what danger is, so they think everything hurts. Yeah, it’s hard to quit sugar for a while and get your reps in daily. But if *not* eating a certain food is one of the most difficult challenges you’ve ever faced, you’ve never really been pushed. But if you’ve taken a punch, you can take just about anything.
+People have no idea of danger, so they think everything hurts. Yeah, it’s hard to quit sugar for a while and get your reps in daily. But if *not* eating a certain food is one of the most difficult challenges you’ve ever faced, you’ve never really been pushed. But you can take just about anything if you’ve taken a punch.
 
 ## What is like being punched in the face by life
 
-If you've never been punched in the face, let me describe it for you.
+Let me describe it if you've never been punched in the face.
 
-Getting punched in the face hurts. Your first reaction is righteous anger. Your first instinct is rapid revenge. But if you lose your discipline and give into those feelings, you will most likely lose–and in a devastating fashion.
+Getting punched in the face hurts. Your first reaction is righteous anger. Your first instinct is rapid revenge. But if you lose your discipline and give in to those feelings, you will most likely lose–and in a devastating fashion.
 
-When people have a disagreement, this dynamic is also at play. However, when a disagreement gets physical, all parties know they’re beyond solving it with words. If one does not carefully consider the decision to turn a verbal conflict into a physical one, then the decision is usually equally tragic–except you have way more to lose in real life than you do in the ring.
+When people disagree, this dynamic is also at play. However, when a disagreement gets physical, all parties know they’re beyond solving it with words. Suppose one does not carefully consider the decision to turn a verbal conflict into a physical one. In that case, the decision is usually equally tragic–except you have way more to lose in real life than you do in the ring.
 
-***But what if you could channel that fight for survival into your daily objectives and long term plans?***
+***But what if you could channel that fight for survival into your daily objectives and long-term plans?***
 
-Imagine if you brought that rage to your goal to lose fifteen pounds. What if you were willing to slam sugar in the jaw. Think it would be hard to lose some inches off your middle? Hell, with that motivation, you could probably drop *fifty* pounds and feel like you are just getting started.
+Imagine if you brought that rage to your goal to lose fifteen pounds. What if you were willing to slam sugar in the jaw. Think it would be hard to lose some inches off your middle? With that motivation, you could drop *fifty* pounds and feel like you are just getting started.
 
-What about an income goal? Well, whether you’re a 9-5 employee, an entrepreneur, or freelancer, you’re in sales–because everyone is in sales. And the thing about selling is that most people hate it.
+What about an income goal? Well, whether you’re a 9-5 employee, an entrepreneur, or a freelancer, you’re in sales–because everyone is in sales. And the thing about selling is that most people hate it.
 
 Whether you’re selling yourself to your boss to get a raise or selling your product to a customer, these are harrowing experiences. But what if you felt like getting paid more (or getting paid, period) was a matter of life and death? What if you were willing to do whatever it took to reach the income level you wanted, no matter how many times your ego got its jaw broken and teeth knocked out?
 
-This works for whatever you want in life or whoever you find yourself competing with, be they a literal competitor or [your own fear and ego](/how-to-overcome-fear/). Who wants to win more? You or that extra weight? You or the fear that you won’t say the right thing when the customer tries to negotiate price?
+This works for whatever you want in life or whoever you find yourself competing with, be they a literal competitor or [your own fear and ego](/how-to-overcome-fear/). Who wants to win more? You or that extra weight? You or the fear that you won’t say the right thing when the customer tries to negotiate the price?
 
 ### What is winning?
 
@@ -112,4 +114,6 @@ That brings us back to will versus skill.
 
 You may not have the nutrition knowledge of a diet coach or know your way around every price objection customers will throw at you, but you don’t need to. Not if you’re willing to put on your gloves, step in the ring, and do whatever you have to do to be the last one standing.
 
-Because at the end of the day, everything in life is a street fight and we all know how it ends. Might as well give it your best left hook.
+Because at the end of the day, everything in life is a street fight, and we all know how it ends. Might as well give it your best left hook.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
