@@ -64,20 +64,22 @@ The community that I found myself a part of transformed me. It made me a more di
 
 ## You don’t get to choose your rite of passage
 
-I realized that you have to deal with the demons holding you back from escaping the hell of familiarity in becoming someone new. Boxing forced me to face parts of me I never dealt with and tried to drown in alcohol.
+I realized that you must deal with the demons holding you back from escaping the hell of familiarity and becoming someone new. Boxing forced me to face parts of me I never dealt with and tried to drown in alcohol.
 
-I thought I started fighting to become someone special. This may have been a good reason for fighting but it wasn’t the real reason. The real reason was that I never felt like I was good enough, as myself, to simply be desired in a group. Even now, I struggle with this, as I often believe that I’m a burden to others.
+I thought I started fighting to become someone special. This may have been a good reason for fighting, but it wasn’t the real reason. The real reason was that I never felt like I was good enough to simply be desired in a group. Even now, I struggle with this, as I often believe I’m a burden to others.
 
-But one of the things boxing forced me to do was sell myself. My ability to get people to show up to my fights dictated my ability to get amateur fights. As a professional boxer, it wasn't just about [training for the fight](/boxing-training/). My ability to sell myself determined if I got a $1000 check for a fight or barely $100—before trainer fees. This meant that I’d have to get people to support me.
+But one of the things boxing forced me to do was sell myself. My ability to get people to show up to my fights dictated my ability to get amateur fights. It wasn't just about training for the fight as a professional boxer. My ability to sell myself determined if I got a $1000 check for a fight or barely $100—before trainer fees. This meant that I’d have to get people to support me.
 
 This meant confronting my fears of inadequacy.
 
-I believe this is ultimately [why I was pulled to boxing](/boxing-benefits/) and why I started. Boxing served as both a crucible and a distillery, hardening me while removing impurities in my character that kept me from becoming better. I may have chosen to get in the ring, but I did not get to choose the ways the sport would make me a better person and force me to deal with my weaknesses and fears.
+I believe this is why I was pulled to boxing and started. Boxing served as both a crucible and a distillery, hardening me while removing impurities in my character that kept me from improving. I may have chosen to get in the ring, but I did not get to choose the ways the sport would make me a better person and force me to deal with my weaknesses and fears.
 
 I started fighting to become someone. I had an immature idea of what that meant when I started, but as I continued with the process and the training, my incomplete ideas were replaced with a more whole and complete version.&nbsp;
 
-When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize that the desire for respect and attention is what brought me in, but it was a commitment to what the sport did for me that kept me there. I honestly don’t know if anything else like boxing would have challenged and transformed me in all of the ways it did.&nbsp;
+When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize that the desire for respect and attention brought me in, but a commitment to what the sport did for me kept me there. I honestly don’t know if anything like boxing would have challenged and transformed me in all the ways it did.&nbsp;
 
 [Boxing broke me down, built me up, and made me accountable to the world](/how-to-think-like-a-professional-fighter/). It made me a person to be admired and respected. It made me more than I could have ever imagined it would 13 years ago when I first stepped in the ring.
 
 That is why I fought.
+
+[Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
