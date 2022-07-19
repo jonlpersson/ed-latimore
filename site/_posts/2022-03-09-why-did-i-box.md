@@ -46,6 +46,8 @@ I've often said that becoming a fighter to build an identity is like joining the
 
 Perhaps there is some truth in this, but this brings me to another reason why I fought.
 
+**[Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)**
+
 ## Until you have it, you don’t know you want it
 
 Fighting is one of the few athletic avenues that is not closed to people who aren’t enrolled in a university.
@@ -60,7 +62,7 @@ Fighting is also unique in that you can start your career as a professional, but
 
 I was simultaneously someone’s rival, mentor, and protege. I gained respect from other fighters, admiration from those who did not dare step in the ring, and I was legitimately becoming a better human.
 
-The community that I found myself a part of transformed me. It made me a more disciplined individual It gave me a goal. It gave me a group of people to be accountable to and it served to make me aware of my inadequacies and deficiencies as a person.
+The community that I found myself a part of transformed me. It made me a more disciplined individual It gave me a goal. It gave me a group of people to be accountable to and made me aware of my inadequacies and deficiencies as a person.
 
 ## You don’t get to choose your rite of passage
 
@@ -82,4 +84,4 @@ When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize 
 
 That is why I fought.
 
-[Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
+**[Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)**
