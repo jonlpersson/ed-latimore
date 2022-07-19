@@ -47,11 +47,13 @@ They may be meant to read without interruption, but they aren’t structured tha
 
 Twitter threads, on the other hand, are connected.
 
-The content needs to be more clearly related, otherwise the thread doesn’t make much sense. Any single tweet can be made into a Twitter thread by adding additional tweets to it.
+The content needs to be more clearly related. Otherwise, the thread doesn’t make much sense. Any single tweet can be made into a Twitter thread by adding additional tweets to it.
 
 Another notable difference between tweetstorms and Twitter threads is that (as of the publishing of this article) Tweetdeck (and many apps to schedule tweets) do not allow you to schedule Twitter threads.
 
 Tweetstorms, however, are easy to schedule because they’re separate tweets.
+
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 ## Why write Twitter Threads?
 
@@ -59,11 +61,11 @@ I used to be the biggest opponent of Twitter Threads. I looked at the stats and 
 
 However, Twitter decided that it wants to make a push toward encouraging longer-form content, so the algorithm appears to have been tweaked to measure something similar to the dwell time metric on each post.
 
-*[Moves made by Twitter to acquire the newsletter platform "Revue"](https://techcrunch.com/2021/01/26/twitter-acquires-revue/){: target="_blank" rel="noopener noreferrer"} and [their own developments into long-form content](https://techcrunch.com/2022/06/22/twitter-officially-rolls-out-its-long-form-content-notes-feature/){: target="_blank" rel="noopener noreferrer"}point the way towards favoring content that makes people read more and spend more time on the platform.*
+*[Moves made by Twitter to acquire the newsletter platform "Revue"](https://techcrunch.com/2021/01/26/twitter-acquires-revue/){: target="_blank" rel="noopener noreferrer"} and [their own developments into long-form](https://techcrunch.com/2022/06/22/twitter-officially-rolls-out-its-long-form-content-notes-feature/){: target="_blank" rel="noopener noreferrer"}content point the way towards favoring content that makes people read more and spend more time on the platform.*
 
 ![Information about Twitter favoring long form content](/assets/images/drafts/twitter-long-form-threads.jpg "Information about Twitter favoring long form content"){: width="960" height="540"}
 
-Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time that people will read and engage with your Twitter account. This engagement time goes up even more when you add images and gifs.
+Each tweet only takes a few moments to read. Every time you add another tweet to the first tweet, you increase the time people will read and engage with your Twitter account. This engagement time goes up even more when you add images and gifs.
 
 And if you think about how Twitter makes money, this makes perfect sense.
 
@@ -103,10 +105,12 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 2. On the desktop, click the “Tweet” button. On the Twitter app, press the blue “+” button.
 3. Write your usual Tweet.<br>![Twitter Thread First](/assets/images/drafts/screen-shot-2022-06-30-at-5-30-27-pm.png){: width="722" height="616"}
 4. Select the blue “+” button in the lower right hand of the tweet. You’ll get a new tweet box.<br>![Twitter Thread Second](/assets/images/drafts/screen-shot-2022-06-30-at-5-32-04-pm.png){: width="752" height="618"}<br>&nbsp;
-5. Now type what you want to add to the tweet. Continue until the end of the tweet thread.<br>![Complete thread example](/assets/images/drafts/screen-shot-2022-06-30-at-5-29-54-pm.png){: width="616" height="714"}<br><br>***Hint: Just because it’s a thread doesn’t mean that you need to make each new tweet be totally dependent on the last. Your thread will get much more engagement and retweets and each part of the thread can stand alone as its own tweet.***
+5. Now type what you want to add to the tweet. Continue until the end of the tweet thread.<br>![Complete thread example](/assets/images/drafts/screen-shot-2022-06-30-at-5-29-54-pm.png){: width="616" height="714"}<br><br>***Hint: Just because it’s a thread doesn’t mean that you need to make each new tweet be dependent on the last. Your thread will get much more engagement, retweets, and each part of the thread can stand alone as its own tweet.***
 6. Go over it, check for typos, then hit the **Tweet all**. Your Twitter thread will now publish.
 
 Now you know how to join in the fun of creating Twitter threads.
+
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 {% include widgets/summary.html id="Twitter-Threads" %}
 
