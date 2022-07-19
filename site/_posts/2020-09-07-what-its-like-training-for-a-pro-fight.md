@@ -14,39 +14,41 @@ Fighting is easy. Fighting is fun.
 
 What’s hard is training for the fight. What’s miserable is training for the fight.
 
-Most people will never endure a six to eight week training camp in preparation for an event that will push them in every possible way. In many ways, getting ready for a fight ***is*** the real fight.
+Most people will never endure a six to eight-week training camp in preparation for an event that will push them in every possible way. In many ways, getting ready for a fight ***is*** the real fight.
 
-Over the course of my [12 year boxing career with almost 80 fights](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank" rel="noopener noreferrer"} (6 years amateur, 6 years professional), boxing training was more or less a way of life. However, things got taken up a notch when there was a big tournament (amateur) or fight (professional) that I was getting ready for.
+Throughout my [12-year boxing career with almost 80 fights](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank" rel="noopener noreferrer"} (6 years amateur, 6 years professional), boxing training was more or less a way of life. However, things got taken up a notch when there was a big tournament (amateur) or fight (professional) that I was getting ready for.
 
-Every time it was miserable but every time my abilities leveled up and I learned something new about myself.
+Every time it was miserable, but every time my abilities leveled up, and I learned something new about myself.
 
 NFL Hall of Fame Linebacker Ray Lewis once said:
 
 > I’ll do Sunday for free. What you’re paying me for is Monday thru Saturday. The practices, the two-a-days, the film sessions, and lifting weights.
 
-In this quote, the attitude about practice versus performance is exemplified. The training to fight is a lot harder than actually fighting, but it’s like that in all sports.
+In this quote, the attitude about practice versus performance is exemplified. The training to fight is a lot harder than fighting, but it’s like that in all sports.
 
 What’s unique about boxing is the objective of the sport.
 
-## Why Boxing Is Called "The Hurt Business"
+## Why boxing is called "The Hurt Business"
 
 In the 2002 boxing drama Undisputed, boxing champion George “Iceman” Chambers remarks, “People play baseball. Nobody plays boxing. I’m not an athlete, I’m a gladiator.”
 
 ![Nobody plays boxing](/assets/images/posts/2020/undisuputed.jpg "Ving Rhames as George 'Iceman' Chambers talking to Wesley Snipes")
 
-In other sports, you live to fight another day. In boxing, there is always a chance that you could die. In fact, fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
+In other sports, you live to fight another day. In boxing, there is always a chance that you could die. Fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
 
-The end goal of boxing is the same as the end goal of fighting: [to kill your opponent.](/fight-to-the-death/)
+The goal of boxing is the same as that of fighting: [to kill your opponent.](/fight-to-the-death/)
 
-The only reason this doesn't happen is because the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules which modern boxing is based on–forbids striking a man who is already down. However, it's not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he's standing.
+The only reason this doesn't happen is that the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules on which modern boxing is based–forbids striking a man who is already down. However, it's not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he's standing.
 
-This reminds me of something I once witnessed in a gym. Two different boxing clubs had come together to spar. There was some trash talk that was on the verge of escalating to an all out brawl between the two groups until one of the coaches interfered and shouted:
+This reminds me of something I once witnessed in a gym. Two different boxing clubs had come together to spar. There was some trash talk that was on the verge of escalating to an all-out brawl between the two groups until one of the coaches interfered and shouted:
 
 ***"You do this shit on the street, and they'll put you away. But if you do it in the ring, they'll cheer for you and pay your bills\!"***
 
-In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, MMA and boxing not only allow fighting, but it’s also how the score is kept and victory is decided.
+In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, MMA and boxing not only allow fighting, but fighting is also how the score is kept and victory is decided.
 
-This means that you have to develop both your ability to deliver and receive punishment. This requires training not only your body but your mind and heart as well.
+This means that you must develop your ability to deliver and receive punishment. This requires training not only your body but your mind and heart.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 ## Boxing Workouts Are Holistically Effective
 
@@ -59,17 +61,17 @@ A good fighter is composed of 4 attributes:
 
 It’s impossible to properly train for a fight and develop these aspects individually.
 
-The same exercise that makes your body capable of absorbing punch also hones your concentration to stay alert during fatigue and makes you confident that it won’t kill you.
+The exercise that makes your body capable of absorbing punch also hones your concentration to stay alert during fatigue and makes you confident that it won’t kill you.
 
-Each area develops the other so all are developed at once.
+Each area develops the other, so all are developed at once.
 
 What follows is my best attempt to discuss how the characteristics of an effective fighter are developed in training leading up to a fight. It’s important to remember that they do not develop in isolation from the other aspects mentioned.
 
-While a fighter’s development is often uneven, rarely does one of these characteristics improve at the expense of another. Instead, what usually happens is that a rising tide lifts all boats in the harbor.
+While a fighter’s development is often uneven, one of these characteristics rarely improves at the expense of another. Instead, what usually happens is that a rising tide lifts all boats in the harbor.
 
 Improvement in one area spells improvement in another, even if the rate of improvement is markedly different.
 
-## The Physical Side Of Boxing Training
+## The physical side of boxing training
 
 It’s easy to grasp the physical side of boxing. We see the sweat, blood, and tears that accompany the delivery *and* reception of heavy punches.
 
@@ -78,7 +80,7 @@ Thanks to the Rocky franchise, everyone knows about the miles of running and tho
 The motto of the sweet science may be to "hit and not get it", but the reality is that when two people meet who have spent hours working on:
 
 * Punching combinations and techniques on the focus mitts
-* Hand-eye coordination and speed on the double end bag
+* Hand-eye coordination and speed on the double-end bag
 * Hours of shadow boxing and calisthenics
 
 Someone is going to get hit. Even Floyd Mayweather—arguably the best evasive and defensive boxer of all time—[is hit by 16% of the punches thrown at him](https://www.espn.com/boxing/story/_/id/7780088/floyd-mayweather-jr-measures-boxing-greats){: target="_blank" rel="noopener noreferrer"}. If one of the best boxers ever *still* gets hit by approximately once for every six punches thrown at him, then most other fighters get hit \*quite\* a bit more.
@@ -87,9 +89,9 @@ This means that you need to be skilled in both the delivery *and* the reception 
 
 ## The unique demands of boxing
 
-The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity over the course of a long fight. Generally speaking, a fighter's aerobic capacity is needed for defense and his anaerobic capacity is for offense.
+The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity for a long fight. Generally speaking, a fighter's aerobic capacity is needed for defense and his anaerobic capacity is for offense.
 
-Just as a good fighter is strong on offense ***and*** defense–in fact, it's impossible to separate the two–a good fighter has to be a hybrid of an explosive and endurance athlete, and the training is aimed toward that.
+Just as a good fighter is strong on offense ***and*** defense, separating the two is impossible. A good fighter has to be a hybrid of an explosive and endurance athlete, and the training is aimed toward that.
 
 General endurance and explosive ability are trained by distance runs, sprints, and skipping rope.
 
@@ -99,7 +101,7 @@ My particular training plan was running 2-4 miles 5 days a week and keeping my p
 
 Outside of the cruiserweight (175-200 lbs) and heavyweight (201+ lbs) divisions of boxing, weight lifting is generally discouraged in the boxing world. Even in those weight divisions, the attitude toward weight lifting will vary from coach to coach.
 
-No coach denies the benefit of having more muscle, but where the resistance typically comes from is the fact that it takes time to build muscle and that time could be used to develop skills. It's an opportunity cost problem.
+No coach denies the benefit of having more muscle, but where the resistance typically comes from is that it takes time to build muscle and that time could be used to develop skills. It's an opportunity cost problem.
 
 As physical of a sport as boxing is, muscle mass doesn't win fights. Skill and athletic capacity does. If anything, the added muscle comes with a real cost as it places an even greater demand on your cardiovascular system.
 
@@ -109,7 +111,7 @@ These exercises not only condition your body to withstand the energy demands of 
 
 A boxer must also be conditioned to execute specific boxing moves at both high intensity and for a long duration. To train this, a fighter will spend countless rounds doing various types of bag work. Great conditioning is just one of many benefits of boxing—read more benefits [here](/boxing-benefits/).
 
-### Punching speed vs punching power
+### Punching speed vs. punching power
 
 Bag workouts consist of hitting the heavy bag or the speed bag and each serves a unique purpose.
 
@@ -117,7 +119,7 @@ The heavy bag is for developing power and punching techniques. The speed bag dev
 
 Both exercises, when done correctly, also do a pretty decent job of building your cardio and getting you into fighting shape.
 
-For 10 to 12 rounds, 3 to 4 days per week, I’d hit the heavy bag with the same level of intensity that I planned to fight with. This wasn’t just going through the motions. I had to get my aerobic and anaerobic system conditioned to throw punches as hard as I could for as long as I could. This meant not only maxing out my heart rate but being able to sustain that output over the course of multiple 3 minute periods.
+For 10 to 12 rounds, 3 to 4 days per week, I’d hit the heavy bag with the same level of intensity that I planned to fight with. This wasn’t just going through the motions. I had to get my aerobic and anaerobic system conditioned to throw punches as hard as I could for as long as I could. This meant not only maxing out my heart rate but being able to sustain that output for multiple 3-minute periods.
 
 Training this way guaranteed that I’d have the physical constitution to fight, but it didn’t mean that I wouldn’t feel tired. The key to dealing with the inevitable fatigue that you experience in a fight is mental training.
 
@@ -125,11 +127,11 @@ Training this way guaranteed that I’d have the physical constitution to fight,
 
 ![Photo of Ed Latimore shadowboxing before a fight](/assets/images/posts/blackandwhiteboxing.jpg "Getting in the zone before a fight.")
 
-The fatigue is real, but it’s through the extreme physical training that I developed the ability to keep my concentration high through it. If I kept my concentration, it would not only allow me to maintain my intensity during the fight, but it also made me better able to deal with the pain.
+The fatigue is real, but it’s through the extreme physical training that I developed the ability to keep my concentration high through it. If I kept my concentration, it would not only allow me to maintain my intensity during the fight but also make me better able to deal with the pain.
 
 Something that most people don’t realize is that every exchange in a boxing match is painful.
 
-To be a fighter, you have to be able to fight through the pain of a body shot or worse, a broken jaw or bruised kidney. If the punch doesn’t scramble your central nervous system and cause a knockout, then you can fight through it. It will hurt, but dealing with it is a matter of mental strength rather than physical.
+To be a fighter, you have to be able to fight through the pain of a body shot or worse, a broken jaw or bruised kidney. If the punch doesn’t scramble your central nervous system and cause a knockout, you can fight through it. It will hurt, but dealing with it is a matter of mental strength rather than physical.
 
 Much of fight training is as much about conditioning your mind as it is your body. It was not uncommon for me to do 60-90 minutes of hitting the focus mitts with my coach or hitting the heavy bag at as high of intensity as I could. Yes, this trained my body and endurance, but it trained my mind to work through being tired.
 
@@ -143,7 +145,7 @@ This may not sound like much but if used correctly, shadowboxing is the best way
 
 See, a big challenge in fighting is switching from attacking non-aggressive stationary targets (punching bags and mitts) to aggressive mobile ones (other trained fighters). It's frustrating to have great execution of your jabs and uppercuts against a heavy bag, but not have it translate over to actual fighting. Shadowboxing is how this ability is how this transition is made smoothly.
 
-In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute a lot better in the fight.
+In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute better in the fight.
 
 [This builds confidence](/how-to-build-confidence/), which is perhaps the most important part of fighting.
 
@@ -155,23 +157,23 @@ Without the proper mindset, then your physical conditioning is irrelevant. Howev
 
 A fighter has to believe that he can fight.
 
-He may have the skills and conditioning, but if he doesn’t believe that he can do it then it doesn’t matter. Being able to execute while you’re tired and in pain makes you feel powerful, and the only way to develop this inner power is sparring.
+He may have the skills and conditioning, but if he doesn’t believe that he can do it, then it doesn’t matter. Being able to execute while you’re tired and in pain makes you feel powerful, and sparring is the only way to develop this inner power.
 
 Sparring serves two important functions leading up to a fight: it allows you to develop your abilities against a live-moving target that can fight back. In doing so, it achieves the other function, which is to develop confidence in your abilities.
 
-Confidence is important for a fighter because there are many moments that can make him question himself. The confidence built through camp up to a fight is a gradual process. If this process is neglected, then the fighter is more likely to give into these moments of doubt than push through them.
+Confidence is important for a fighter because there are many moments that can make him question himself. The confidence built through camp up to a fight is a gradual process. If this process is neglected, the fighter is more likely to give into these moments of doubt than push through them.
 
-For example, if a fighter never pushes himself through rounds of sparring without needing a breather, he will question himself in sparring. If he questions himself in sparring, he’ll question himself during the actual fight and that’s the \*last\* place you want a fighter questioning his confidence.
+For example, if a fighter never pushes himself through rounds of sparring without needing a breather, he will question himself in sparring. If he questions himself in sparring, he’ll question himself during the actual fight, and that’s the \*last\* place you want a fighter questioning his confidence.
 
 The other important aspect of sparring is that it’s the only part of training where a fighter gets to practice getting hit.
 
 ## Training to barely miss
 
-There is a skill to taking and evading punches. Many people think that punches in boxing are either miss or knockout. The reality is that while knockouts obviously happen, a fighter is often hit several times before he goes down.
+There is a skill to taking and evading punches. Many people think that punches in boxing are either miss or knockout. The reality is that while knockouts happen, a fighter is often hit several times before he goes down.
 
 The body can take many more punches than the head can and there’s really no safe way to practice getting hit in the head. In sparring, a fighter can learn evasive head movement, get used to the impact of blocking, and develop the timing required for deflecting punches.
 
-While there’s nothing that can prepare a man for the impact of a heavily padded fist wrapped in a 12 oz. glove, you can make your body strong and durable with core work, and develop your defensive capabilities while sparring in protective headgear and punching with padded 16-18 oz. sparring gloves.
+While nothing can prepare a man for the impact of a heavily padded fist wrapped in a 12 oz. glove, you can make your body strong and durable with core work and develop your defensive capabilities while sparring in protective headgear and punching with padded 16-18 oz sparring gloves.
 
 ## Developing willpower and the desire to fight: How it all comes together
 
@@ -185,10 +187,12 @@ In both scenarios, your objective and your opponent's objective is still the sam
 
 You can't half-ass any part of your training.
 
-Everything has to be done like you're in a real fight. If you simply go through the motions, it's actually worse than had you not attempted to train at all. Your body will be lulled into a false sense of security because it's not being pushed under the highly stressful circumstances of an actual fight.
+Everything has to be done like you're in a real fight. If you simply go through the motions, it's worse than had you not attempted to train. Your body will be lulled into a false sense of security because it's not being pushed under the highly stressful circumstances of an actual fight.
 
 Let me be clear: there is *nothing* you can do in training camp to stimulate the adrenaline dump and physical output of an \*actual\* fight. Even if you could, you wouldn't want to because it takes \*days\* to recover from a real fight. However, you can prepare for the strain that your body will endure during training camp.
 
 There’s a difference between trying to run a mile in six minutes and jogging. A fighter can merely hit the heavy bag or try to kill it. Even sparring must be undertaken at a competitive intensity, otherwise the fighter will not be prepared for battle.
 
 All parts develop the whole while the development of the whole strengthens each part.
+
+#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
