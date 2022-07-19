@@ -48,6 +48,8 @@ The number of people who add to your follower count.
 
 This is pretty obvious and doesn't need much explaining. If you're worried that someone has "fake followers," get them to tell you their impressions. Bots and fake followers don't leave impressions because they aren't scrolling the timeline.
 
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
+
 ## Examples of common Twitter strategy to increase engagement that I don't do
 
 **I don't pay for retweets.**&nbsp;I have nothing against this strategy, but it can become expensive, and it doesn't help you develop your ability to write engagingly. Also, Twitter's algorithm incorporates many SEO-like features, so you need both retweets AND good writing.
@@ -135,13 +137,13 @@ This level of effort is unacceptable.
 
 Anyone can retweet what they see. To inspire engagement, you need to add value to the things you retweet. I like to quote an important line or give a glowing recommendation when I retweet.
 
-Some tweets stand alone and simply require a retweet. However, this won't cause people to see the value that YOU can add. If they don't see your value, then they aren't likely to follow you.
+Some tweets stand alone and simply require a retweet. However, this won't cause people to see the value that YOU can add. If they don't see your value, they aren't likely to follow you.
 
-When I'm helping people grow their Twitter accounts, I make sure that their content is a good fit for me to retweet. If you decide to pay people to retweet your content, this is one of many things that you need to consider. The following article walks you that other important steps to consider if you buy retweets to help you grow.
+When I'm helping people grow their Twitter accounts, I ensure that their content is a good fit for me to retweet. If you decide to pay people to retweet your content, this is one of many things that you need to consider. The following article walks you that other important steps to consider if you buy retweets to help you grow.
 
-The other reason you need to quote tweet more often is because when people come to your Twitter profile, they're not just going to your profile photo or your Twitter bio:
+The other reason you need to quote tweet more often is that when people come to your Twitter profile, they're not just going to your profile photo or your Twitter bio:
 
-They're also going to see your most recent tweets and activity in your Twitter feed. If that recent activity is only retweets of other people's words and ideas, then there isn't much incentive for them to follow you.
+They're also going to see your most recent tweets and activity in your Twitter feed. If that recent activity is only retweets other people's words and ideas, then there isn't much incentive for them to follow you.
 
 Rather than just retweet the article, I quote the best line before sharing it. This is a practice I follow for tweets and any articles that I share.&nbsp;
 
@@ -161,20 +163,20 @@ You don't want your bio to be the equivalent of a "nice guy."
 
 A “great bio” mentions extraordinary things about yourself. A great bio shows what makes you stand out. A simple test of a great bio is this:
 
-Will people remember what I'm about if they come across my tweet scrolling through their timeline? They won't remember word-for-word, but they should be able to summon an idea of your bio presentation.
+Will people remember what I'm about if they see my tweet scrolling through their timeline? They won't remember word-for-word, but they should be able to summon an idea of your bio presentation.
 
 Get creative, keep it within the theme, and be exceptional. Be honest and authentic. It also helps if your Twitter handle is related to your theme. If you can't come up with anything unique to your Twitter theme, just go with your real name.
 
-If you're worried about being doxxed, I don't have much to say that can persuade you other than these 2 things:
+If you're worried about being doxxed, I don't have much to say that can persuade you other than these two things:
 
 1. Most people are too busy and lack the resources to dox you.
 2. If you treat people with respect on the internet, you never have to worry about someone being motivated to doxx you anyway.&nbsp;
 
-Your Twitter bio and Twitter handle are great if you think they would make great taglines for a resume or a dating profile. Keeping with this same metric, put some thought into selecting your profile picture and header image.
+Your Twitter bio and Twitter handle are great if you think they would make great taglines for a resume or a dating profile. Keeping with this same metric, consider selecting your profile picture and header image.
 
 The header image isn't nearly as important as the profile picture. If you're anonymous, these rules don't matter much, but if you're going to use your real likeness, there are 2 simple rules:
 
-1. Make sure eyes are looking at the screen
+1. Make sure your eyes are looking at the screen
 2. If you can't do rule number 2, then make it an activity shot
 
 Look at various social profiles on multiple platforms. You'll notice that profile pictures that meet these two rules are a lot more attractive and alluring.
@@ -203,7 +205,7 @@ This is the benefit of trolls. Trolls make your followers more engaged. Engaged 
 
 The bad part of trolls is that they force polarization.
 
-A polarized account isn’t a bad thing, but it will niche you down.
+A polarized account isn’t bad, but it will narrow you down.
 
 My theme of self-improvement and self-sufficiency is excellent, but if I get into political spats, I will divide, and that division may not be worth it especially if the topic isn't essential to my goals.
 
@@ -235,7 +237,7 @@ Realize this: unless you are a celebrity, building a following takes time. It ta
 
 It’s like growing a garden. Each tweet is a seed with the potential to bear the delicious fruit known as a “follower.” You can’t rush the process.
 
-This is not the same thing as using something like [Hypefury to schedule tweets](https://hypefury.com/?via=edlatimore){: target="_blank" rel="noopener noreferrer"}. That falls under the real of writing practice. While I don't schedule tweets, I understand
+This is not the same as using something like [Hypefury to schedule tweets](https://hypefury.com/?via=edlatimore){: target="_blank" rel="noopener noreferrer"}. That falls under the real of writing practice. While I don't schedule tweets, I understand
 
 ![Increase Twitter Follower Growth](/assets/images/posts/twitter-growth-time.PNG "My growth over time to today")
 
@@ -250,5 +252,7 @@ Offer a unique perspective—whether through substance or style—on the theme y
 You can grow a decent-sized account as a hater, but you need to be a unique brand of hater. Otherwise, you’re just a rip-off.
 
 No one likes a copycat because copycats lack authenticity and they haven’t done the work.
+
+#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 {% include widgets/summary.html id="Twitter-Threads" %}
