@@ -79,17 +79,19 @@ Do not hide. Embrace your weakness. Recognize that your personal wall is—at be
 
 This process cannot begin until you acknowledge your frailty. Only once you admit that you have a deficiency are you capable of fixing it.
 
+#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
+
 ## 3\. Preparation can help with overcoming fear
 
 Fighters combat fear through preparation.
 
-A training camp for a fight is less about developing skill and getting in shape and more about building the confidence and constitution to handle battle. By the time a fight camp starts, the fighter already knows how to fight. At the very least, he won’t get much better at it within a 6 to 8 week period (the typical length of time between signing a fight contract and the date of the fight) prior to a bout.
+A training camp for a fight is less about developing skill and getting in shape and more about building the confidence and constitution to handle battle. By the time a fight camp starts, the fighter already knows how to fight. At the very least, he won’t get much better at it within a 6 to 8 week period (the typical time between signing a fight contract and the date of the fight) before a bout.
 
-The drilling, sparring, and training that takes place during a camp makes a fighter the best version of himself he can possibly be. It gives him the opportunity to develop the confidence needed to face an opponent trained to hurt him as well.
+The drilling, sparring, and training that takes place during a camp makes a fighter the best version of himself he can be. It allows him to develop the confidence needed to face an opponent trained to hurt him.
 
 #### How can I train my mind to overcome fear?
 
-Fear is nothing more than a sign that you have something important to deal with. For the purpose of this argument, I place anxiety problems and panic attacks in this category as well. The people who have success managing their fear and anxiety are essentially doing what fighters have been forced to figure out by virtue of their profession:
+Fear is nothing more than a sign that you have something important to deal with. For this argument, I also place anxiety problems and panic attacks in this category. The people who have success managing their fear and anxiety are essentially doing what fighters have been forced to figure out by virtue of their profession:
 
 Failing to prepare is preparing to fail. You become aware of that possibility and it terrifies you.
 
@@ -99,7 +101,7 @@ Fighters have the same fight-or-flight fear response, be we don’t think about 
 
 There is a phenomenon known as the “[excitation transfer.](https://www.alleydog.com/glossary/definition.php?term=Excitation-Transfer+Theory#:~:text=The%20excitation%2Dtransfer%20theory%20purports,cognitively%20interpreted%20as%20different%20emotions.){: target="_blank" rel="noopener noreferrer"}” It works like this:
 
-Fear causes an increase in heart rate, blood pressure, and respiration. While these feelings are the markedly unpleasant products of fear, these feelings persist even after you’ve dealt with your fear. However, the moment you overcome whatever you’re fearful of, you likely experience pleasant feelings of triumph and victory.
+Fear causes an increase in heart rate, blood pressure, and respiration. While these feelings are the markedly unpleasant products of fear, these feelings persist even after you’ve dealt with your fear. However, when you overcome whatever you’re fearful of, you likely experience pleasant feelings of triumph and victory.
 
 Now, instead of focusing on the fear and anxiety, you felt before and/or during the encounter, you mainly focus on and remember the satisfaction and growth.
 
@@ -109,7 +111,7 @@ Their fear response is completely different than other people. In other words, t
 
 {% twitter https://twitter.com/EdLatimore/status/1307862548969123840 %}
 
-Therefore, when they think of the event, they feel more excited than terrified, unlike the rest of us. The fear they experience throughout the event is leveraged with positive feelings so they continue to seek out behavior that elicits that response.
+Therefore, when they think of the event, they feel more excited than terrified, unlike the rest of us. The fear they experience throughout the event is leveraged with positive feelings, so they continue to seek out behavior that elicits that response.
 
 #### How to use this to get over fears in your life
 
@@ -119,11 +121,11 @@ There is only learning how to use it to your advantage or, at the very least, le
 
 ## 5\. Use mindfulness to shift your focus
 
-Your mind is so powerful that it can, in vivid detail, imagine all of the ways that fears can inflict harm on you. Once your mind has conjured up the worst possible scenario, it then works overtime to ensure that you can think of nothing but this impending doom. In many cases, your fearful thoughts have more power over you than the actual threat.
+Your mind is so powerful that it can vividly imagine all of the ways that fears can inflict harm on you. Once your mind has conjured up the worst possible scenario, it then works overtime to ensure that you can think of nothing but this impending doom. In many cases, your fearful thoughts have more power over you than the threat.
 
-Research gathered at the Massachusetts Institute of Technology by Earl Miller shows that people generally cannot focus on more than one thing at a time. Of course, the challenge is being able to keep your mind on the same task that is generating your fear without feeling the effects of your fear. This stability (noun) can be accomplished by [focusing on the process rather than the outcome.](/how-to-focus-better/)
+Research gathered at the Massachusetts Institute of Technology by Earl Miller shows that people generally cannot focus on more than one thing at a time. Of course, the challenge is being able to keep your mind on the same task that generates your fear without feeling the effects of your fear. This stability (noun) can be accomplished by [focusing on the process rather than the outcome.](/how-to-focus-better/)
 
-When fighters walk to the ring, it is a truly terrifying moment. It’s a lonely walk, having to face certain pain and possible embarrassment. Fear of these unplesantries is amplified because there seems to be nothing else to think about besides the fight. At the very least, there is nothing else that you should be thinking about because if you don’t keep your mind on the fight, you will focus on the fear instead.
+When fighters walk to the ring, it is a truly terrifying moment. It’s a lonely walk, having to face certain pain and possible embarrassment. Fear of these unpleasantries is amplified because there seems to be nothing else to think about besides the fight. At the very least, there is nothing else that you should be thinking about because if you don’t keep your mind on the fight, you will focus on fear instead.
 
 The problem here is that you’re thinking of the outcome and the uncertainty that comes with it, but fear and uncertainty are products of one another:
 
@@ -136,7 +138,7 @@ Successful people focus on the process instead of the outcome. There are many co
 For example, in a fight:
 
 * I can’t control the outcome, but I can control my level of training.
-* I can’t control the skill of the opponent, but I can control my conditioning.
+* I can’t control the opponent's skill, but I can control my conditioning.
 * I can’t control my environment, but I can control my breathing.
 
 The only thing you're in control of is how you live your life. Once your mind focuses on this, your fear of what you can’t control fades away.
@@ -147,13 +149,13 @@ The first time you do anything is terrifying.
 
 For this reason, familiarity is a great fear reduction agent. If you repeat something enough times–surviving and learning from the mistakes you make along the way–then you stop feeling anxious about doing it.
 
-Anyone who’s taken an exam in college knows that the most valuable practice tests are the old professors exams. It allows you to become familiar with his style of testing WITHOUT incurring the true penalty of making a mistake. It’s why simulators are wonderful training. This is why sparring is so valuable for boxing.
+Anyone who’s taken an exam in college knows that the most valuable practice tests are the old professor's exams. It allows you to become familiar with his style of testing WITHOUT incurring the true penalty of making a mistake. It’s why simulators are wonderful training. This is why sparring is so valuable for boxing.
 
 #### Can a person overcome fear?
 
 Preparation and familiarity feed one another. Your familiarity increases with your preparedness and vice versa. This reduces uncertainty and increases your self-confidence. That is the part we fear; being forced to overcome a problem in real-time that we’ve never faced before.
 
-This is the message of fear: there is uncertainty on the horizon and you must prepare for it, lest your life (or parts of your life) will be in danger. Head that signal and you will master your fears.
+This is the message of fear: there is uncertainty on the horizon, and you must prepare for it, lest your life (or parts of your life) will be in danger. Head that signal and you will master your fears.
 
 ## 7\. Take action for success in the face of your fear
 
@@ -161,7 +163,7 @@ It’s difficult for fear and action to exist in the same domain.
 
 When you’re in motion, fear loses its grip on your life. This is why you grow more fearful and anxious as you wait for something to happen with nothing else to fill the passage of time but your thoughts. However, motion not only removes the feeling of fear, but it often makes you forget what exactly it is that you were afraid of in the first place.
 
-During the fight, any nervousness or pre-fight anxiety a fighter has is erased when he takes the first punch. It doesn’t have to be a big punch, but that first shot lets him know that his fears of crumpling at the first shot are unfounded.
+During the fight, any nervousness or pre-fight anxiety a fighter has is erased when he takes the first punch. It doesn’t have to be a big punch, but that first shot lets him know that his fears of crumbling from a punch are unfounded.
 
 ![power shots let you know there is nothing to be afraid of](/assets/images/posts/2021/amateur-boxing-overcoming-fear.jpeg "That first punch let's you know that there is nothing to fear.")
 
@@ -171,7 +173,7 @@ This reassurance is part of it, but another big reason is that awakens him to th
 
 Yous spend too much time thinking about what can go wrong. Get out of your head.
 
-It doesn't matter what type of fear you're dealing with, all fear lives in the mind and feeds on stagnation. When you take an action, you don’t have the opportunity to be afraid—mainly because you’re too busy facing what you’re afraid of. It’s in this contest that you realize that you have nothing to fear in the first place.
+It doesn't matter what type of fear you're dealing with, all fear lives in the mind and feeds on stagnation. When you take an action, you don’t have the opportunity to be afraid—mainly because you’re too busy facing what you’re afraid of. In this contest, you realize that you have nothing to fear in the first place.
 
 ## Recap of 7 lessons from boxing on fear, anxiety and phobias
 
@@ -183,10 +185,12 @@ It doesn't matter what type of fear you're dealing with, all fear lives in the m
 6. Become more familiar with your fear
 7. Take action in the face of your fear
 
-There’s no way around being afraid. It’s bullshit if someone says they aren’t afraid of something. Maybe it’s low level background anxiety that they’ve learned to manage, but it's always there.
+There’s no way around being afraid. It’s bullshit if someone says they aren’t afraid of something. Maybe it’s low-level background anxiety that they’ve learned to manage, but it's always there.
 
 When you are on the verge of being pushed out of your comfort zone is when you will feel the most fear. New jobs, performing in front of others, meeting new people, risking your life (for entertainment or obligation), etc. These things push you into a realm of uncertainty. This is a place where you are not sure if you will come out better or worse, safe or harmed, or dead or alive.
 
 There will always be something to fear. But because there’s always something to fear, this means ultimately that there is nothing to fear.
 
 Until then, the rest is up to you.
+
+#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
