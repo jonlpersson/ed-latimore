@@ -6,9 +6,8 @@ permalink: /sexual-assault-college-stats/
 tags:
   - sober-life
 description: >-
-  There is a drinking culture that is dangerous and destructive to young women.
-  However, efforts to discuss it and how to change are often resisted by the
-  very people it's meant to help.
+  Drinking culture is especially dangerous for young women. However, efforts to
+  change it are often resisted by the very people it’s meant to help.
 image: /assets/images/drafts/drinkingfemaleregret.jpg
 ---
 I started this line of research because I was originally going to use it for a chapter of my book about recovery, [“Sober Letters To My Drunken Self”](/products/sober-letters/).&nbsp; It was merely born of a curiosity that started to grow as I researched the book. Ultimately, I decided to not include it, as it’s not technically about my personal drinking experiences and is beyond the scope of what I wanted the book to focus on.&nbsp;
