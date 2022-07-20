@@ -30,6 +30,8 @@ I was born poor. I spent my entire childhood and a large portion of my adulthood
 
 I had almost every problem on this list. I was broke but I learned why. Then I fixed them as well.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## 1) The future is a foreign concept to you
 
 If there’s an 80/20 reason why you’re broke, it’s because you can’t conceive this thing called “the future.” The inability to save money or purchase things of value all stem from this basic problem.
@@ -130,6 +132,8 @@ I tell this to everyone who will listen. I tried telling this to my family. Now 
 4. Suffer for what you want
 5. Stay humble and ready to learn from everyone
 
-That’s the easiest way to not be poor. The rest is up to you.
+That’s the easiest way not to be poor. The rest is up to you.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
