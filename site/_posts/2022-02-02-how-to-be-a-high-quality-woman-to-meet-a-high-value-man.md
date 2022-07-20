@@ -62,6 +62,8 @@ Despite my academic knowledge and professional expertise, I was lacking awarenes
 
 My personal experience was no different than most.
 
+***This is an excellent course on being a modern woman who is looking for a traditional relationship. Learn how to avoid the fuck bois, players, and men who will waste your youth and then criticize you for being over 30. Punani Management is the course that all women need, especially young women in this day and age.—&gt;[Punani Management](https://gumroad.com/a/304583795/BkeqV){: target="_blank" rel="noopener"}***
+
 ## **4) Establish a good relationship with work and finances**
 
 You should not be married to your career, but you should be productive, competent and disciplined with life responsibilities.
