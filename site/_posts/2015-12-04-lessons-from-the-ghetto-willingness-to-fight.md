@@ -42,6 +42,8 @@ For starters, there’s the obvious problem: you gained a reputation for weaknes
 
 Secondly, ghettos are small places. Everyone knows where you live. They’d just find you again—either at home or at school—to deal with the “problem”. In many ways, running isn't even a legitimate response. It only delayed the inevitable fight.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## Fighting In The Ghetto Isn't Much Better
 
 Choosing to fight wasn’t much better.
@@ -103,5 +105,7 @@ Even if you don't think you can win the fight, attacking back will make many of 
 Not only do you get a short-term victory, but the long-term psychological advantage is now yours. At that point, [your most powerful weapon is their fear.](/how-to-overcome-fear/)
 
 The best defense is an unintimidated offense.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
