@@ -30,6 +30,8 @@ Most public-housing residents aren’t bad people, but there are enough bad appl
 
 As a result, the projects can be dangerous. Drug-fueled gang violence and poverty-motivated petty theft make most public housing projects a seriously rough place to live in.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## Are ghettos and the projects the same thing?
 
 Most people use these terms interchangeably with “the ghetto” or “the hood.” But not all hoods and ghettos are public housing projects.
@@ -68,7 +70,7 @@ People don’t have a lot to lose, and you never know who gives a fuck and who d
 
 While not everyone has a gun, they might not care about an assault charge to defend their honor. (This assumes you call the cops, which everyone in the ghetto avoids: it just makes things worse.)
 
-Through a powerful negative feedback loop, I learned that it's better to treat people with respect no matter the situation. This is something I continue to do to this day and has rewarded me tenfold throughout my life.
+Through a powerful negative feedback loop, I learned that treating people with respect is better no matter the situation. I continue to do this to this day and has rewarded me tenfold throughout my life.
 
 ***\[Read: ["How to avoid a fight, and what to do if you can't"](/how-to-win-a-street-fight/)\]***
 
@@ -82,7 +84,7 @@ That didn’t keep people from breaking in and stealing shit. When I was 11, I g
 
 How does that help me now? I internalized something at a very young age: **nothing is ever safe.**
 
-People will rob or try to hurt you, even if you didn’t think they ever would.
+People will rob or try to hurt you, even if you never thought they would.
 
 It teaches you to value everything you have and take extra care to protect the things you love the most.
 
@@ -92,11 +94,11 @@ It teaches you to value everything you have and take extra care to protect the t
 
 ## Life can always get worse
 
-My home situation was slightly better than average when compared to the typical ghetto home life.
+My home situation was slightly better than average compared to the typical ghetto home life.
 
-My mom didn’t always work, but she took temp work when she could and I never went hungry.
+My mom didn’t always work, but she took temp work when she could, and I never went hungry.
 
-Life wasn’t good, but I only had to look at some of my classmates to see that it could be *a lot* worse.
+Life wasn’t good, but I only had to look at some of my classmates to see that it could be *much* worse.
 
 The thing about living in the projects is that everyone knows a lot about everyone. You know whose mom is a crackhead, prostitute, or drug dealer. Everyone’s life is pretty fucked up, but some people are way worse off.
 
@@ -112,7 +114,7 @@ Living next to other people with problems can drag you down. But, on the flip si
 
 ## Life is like poker: it’s about how you play the hand you’re dealt
 
-Good starting cards help, but they don’t determine if you’ll win. They don’t even determine if you’ll survive the game.
+Good starting cards help but don’t determine if you’ll win. They don’t even determine if you’ll survive the game.
 
 ![Man shuffling a deck of cards](/assets/images/posts/2021/card-shuffling.jpg)
 
@@ -120,7 +122,7 @@ There are lots of people born in the ghetto every year. Most continue the cycle 
 
 Then there are those who make the ghetto a distant memory. I can proudly say that I am part of this last group.
 
-But that shit ain’t easy. On top of the physical dangers you have to navigate, you also have to undo lots of damaging programming. Like attitudes about money.
+But that shit ain’t easy. On top of the physical dangers, you must navigate, you must also undo lots of damaging programming, like attitudes about money.
 
 I got $55,000 in insurance money when my father died. No one ever taught a broke project kid how to handle money. In 18 months, I was broke as hell and overdrawing my bank account.
 
@@ -134,7 +136,7 @@ When you become successful, nobody sees the hours of hard work you put in along 
 
 “You’re so lucky\!” A phrase you’ll hear time and time again if you make anything of yourself.
 
-Was I lucky to get out of the ghetto? You bet I was. But, I didn’t get this luck from some divine source of power.
+Was I lucky to get out of the ghetto? You bet I was. But, I didn’t get this luck from some divine power source.
 
 I made my own luck.
 
@@ -154,8 +156,10 @@ You’ll never succeed with the mindset that you’re destined to fail no matter
 
 If you believe that anything is possible, the world will open up, and you’ll begin to see opportunities pop up in places you never expected.
 
-This is why I wrote my book “[The Four Confidences](/resources/four-confidences/).” I saw so many guys getting pulled down, living every day like they’re knee-deep in mud.
+This is why I wrote my book “[The Four Confidences](/resources/four-confidences/).” I saw many guys getting pulled down, living every day like knee-deep in mud.
 
 Building unwavering confidence that you’ll succeed is the first step in changing your life. Get it for free by clicking the link below:
+
+[Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
