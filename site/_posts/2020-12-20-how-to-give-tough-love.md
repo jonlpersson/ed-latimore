@@ -48,15 +48,17 @@ You’re placing no conditions on your advice. If that means the other person en
 
 Tough love is rough for both of you.
 
-If you care about someone, it's worth it. Painful truth is sometimes the only way to help them. Tough love will probably make you their enemy before it makes you their friend. You’re going to hurt them, and that risks making them angry—or worse.
+If you care about someone, it's worth it. Painful truth is sometimes the only way to help them. Tough love will probably make you their enemy before it makes you their friend. You’re going to hurt them, which risks making them angry—or worse.
 
 Do not give out tough love expecting to be thanked. Give tough love because you want the other person to be free from their delusions, even if it means you lose the relationship. If you do, it’s their loss more than yours.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## How to Give Tough Love
 
 Once you’re resolved to tell a painful truth, take a tactful approach. Here are some tips to help.
 
-**Use direct and honest language.** This prevents misunderstanding. It also prevents useless follow-up questions. I’m always annoyed by how long it takes for an advice-giver to make their point. For example, “I believe [you should break up with that person](/how-to-get-over-someone/), and here’s why,” is more direct than saying “Well, I’m not sure what you should do, but if I were you, I might reconsider my future with that person. Maybe.”
+**Use direct and honest language.** This prevents misunderstanding. It also prevents useless follow-up questions. I’m always annoyed by how long it takes for an advice-giver to make their point. For example, “I believe [you should break up with that person](/how-to-get-over-someone/), and here’s why,” is more direct than saying, “Well, I’m not sure what you should do, but if I were you, I might reconsider my future with that person. Maybe.”
 
 Make yourself as clear as possible because the other person may bristle up after your opening statement. Get the truth out there in the best way possible—telling it in no uncertain terms.
 
@@ -70,7 +72,7 @@ Logical reasoning is powerful, but ultimately, people are emotional beings. This
 
 “Yeah, I know that person is bad for me. I need to stop seeing them, but what if . . .”
 
-And that’s only if they agree with you. If they disagree with you, they didn't want your advice. There may be a million reasons why a person needs to take action, but they'll only budge when they're ready.
+And that’s only if they agree with you. If they disagree with you, they didn't want your advice. There may be a million reasons a person needs to take action, but they'll only budge when they're ready.
 
 There are a few rules to follow when you decide how to present your painful truth. Obey all these to cut past the logic and make your emotional appeal.
 
@@ -82,7 +84,7 @@ Tailor your arguments to these angles. Point out how the problem makes them appe
 
 **Only say it once.** Give your advice, back it up with a sound argument, touch their emotions, and be done with it. Refuse to discuss the problem any further except to talk about how good the new advice is working.
 
-If the other person respects your time, once a solution is given, you won't hear the same complaint again. Once you give a person advice and they agree that it's the best course to follow, it becomes a dead issue. If someone keeps asking for advice on the same problem but does nothing, you’re both wasting time.
+If the other person respects your time, you won't hear the same complaint again once a solution is given. Once you give a person advice and they agree that it's the best course to follow, it becomes a dead issue. If someone keeps asking for advice on the same problem but does nothing, you’re wasting time.
 
 Even if you’re doing everything else right, the person may still not come around. That’s fine. You can still value your time and theirs. That means don’t repeat yourself. Tell the truth only once.
 
@@ -90,7 +92,7 @@ Even if you’re doing everything else right, the person may still not come arou
 
 **Don’t take it personally.** If someone gets angry at the truth you present, remember that this isn’t about you. People get emotional when they’re afraid of loss or when their addictions are challenged. You may not be able to pull your buddy away from his rude, crude girlfriend because deep down he believes she’s the best he can get. Trying to pry them apart will come across as a threat to his happiness, and he may lash out at you.
 
-**Be willing to lose the relationship.** Don’t go into the talk with the goal of keeping your relationship intact. You might lose this person you love. And yet, you’re giving this painful truth precisely because you love them. Do what’s right for them, but recognize that may exclude you from their future. Do you love them, or do you love keeping them around? Get clear on your answer before you decide to show tough love.
+**Be willing to lose the relationship.** Don’t go into the talk to keep your relationship intact. You might lose this person you love. And yet, you’re giving this painful truth precisely because you love them. Do what’s right for them, but recognize that may exclude you from their future. Do you love them, or do you love keeping them around? Get clear on your answer before you decide to show tough love.
 
 ## How Tough Love Worked out for Me
 
@@ -115,3 +117,5 @@ Giving tough love can be terrifying. But if you truly care about someone, you mu
 If they love you back, you’ll discover a whole new depth of trust with that person—you know they can accept painful truth, and they know you love them enough to share it.
 
 [It’s worth the risk.](/risk-taking/)
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
