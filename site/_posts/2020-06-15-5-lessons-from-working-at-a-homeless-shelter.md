@@ -26,13 +26,15 @@ Notable moments from working at the homeless shelter include:
 
 The job didn’t teach me anything new about human nature, but I did learn a few things about homeless people and myself. Prepare to have most of what you've been told about the homeless population to be challenged.
 
-I'm not saying that my perspective is the most accurate, but between this job and volunteer assignments, I've seen how many of them think and behave. What I've found may surprise what you.
+I'm not saying that my perspective is the most accurate, but between this job and volunteer assignments, I've seen how many think and behave. What I've found may surprise you.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## 1) Time waits for no man: the truth about the homeless
 
 There’s this prevailing myth that most homeless people are military vets or suffer from mental illness. [This simply isn't true](https://policyadvice.net/insurance/insights/homelessness-statistics/){: target="_blank" rel="noopener noreferrer"}.
 
-I watched about 500 different homeless people get processed over my 6 months there. I’m not sure how many had prior service with our military, but I remember only 1 who had a mental illness to the point where someone should have had someone else taking care of him.
+I watched about 500 homeless people get processed over my six months there. I’m not sure how many had prior service with our military, but I remember only 1 who had a mental illness to the point where someone should have had someone else taking care of him.
 
 Most of them were guys [who’d done 5-10+ years in prison](https://www.prisonpolicy.org/reports/housing.html){: target="_blank"} and their friends/family moved on. Since they're convicted felons, the criminal justice system makes it virtually impossible for them to get work. They had simply run out of options to make money and did not have a support system.
 
@@ -48,25 +50,25 @@ Here’s a question to ponder. Imagine that you suddenly lost your place to live
 
 Well if you’re like many of the guys at the homeless shelter, you won’t be able to get a new place when they run background checks. Even if you could get a new place, it’s going to be extremely difficult to get a job to pay rent. So naturally, you’d just stay with friends or relatives until you figure it out.
 
-Except for these guys. They can’t because their friends and relatives have deserted them. I heard in more than a few intake interviews that friends and family deserted these guys after failed promises and multiple imprisonments.
+Except for these guys. They can’t because their friends and relatives have deserted them. In more than a few intake interviews, I heard that friends and family deserted these guys after failed promises and multiple imprisonments.
 
 We’d like to believe that those we care for will be there for us through thick and thin, but EVERYONE has a breaking point. Clearly, the families of these men had reached theirs and were willing to let them live on the street.
 
 ## 3) The difference between minimalism and poverty
 
-I cut up on minimalism a lot because I believe it’s most people justifying a lack of ambition or grit.
+I often cut up on minimalism because I believe it’s most people justifying a lack of ambition or grit.
 
 While I’m a firm believer that everyone should be happy with what they have, “minimalists” often ​highlight​ their lack of modern convenience as a mark of superiority. Rather than just saying they don’t make enough or aren’t ambitious enough to earn more, they make their lifestyle of lack seem preferable.
 
-This is most people. I met two different truckers who decided that it was simply more sensible to stay in homeless encampments and shelters than it was to rent an apartment. These were both guys in their 50's, never married, and didn’t have kids.
+This is most people. I met two different truckers who decided that it was simply more sensible to stay in homeless encampments and shelters than it was to rent an apartment. These were guys in their 50's, never married, and didn’t have kids.
 
 Whichever city they were in, they just found the homeless shelters and tried to get in there first for the night. Truckers make decent money. Certainly enough to not need this. It's not the path I would take, but I get it.
 
 To me, this was a true minimalist lifestyle and is something that has always stuck with me.
 
-## 4) Most of us are one paycheck away from disaster
+## 4) Most of us are one paycheck away from a disaster
 
-I witnessed some tragic scenes at the homeless shelter. I saw more than one guy come in there who got laid off just a few weeks earlier. He couldn’t make the rent, had no savings, and so they evicted him. [Reality is both fair and cruel.](/life-isnt-fair/)
+I witnessed some tragic scenes at the homeless shelter. I saw more than one guy who got laid off just a few weeks earlier. He couldn’t make the rent, had no savings, and so they evicted him. [Reality is both fair and cruel.](/life-isnt-fair/)
 
 This is one of those experiences that is far better to learn vicariously. You don’t need to learn EVERYTHING the hard way. You won’t survive long enough to reap the benefits of the lessons if you do.
 
@@ -91,9 +93,11 @@ So, to recap, the five lessons I learned from working with homeless people are:
 1. Time waits for no one
 2. Don't be unlikable
 3. There's a difference between minimalism and poverty
-4. Most of us are one paycheck away from disaster
+4. Most of us are one paycheck away from a disaster
 5. [Change your life](https://edlatimore.com/change-your-life/) instead of waiting for it to change
 
 I learned from the homeless so you don't have to. The rest is up to you.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
