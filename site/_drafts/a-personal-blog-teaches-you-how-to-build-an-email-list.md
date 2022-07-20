@@ -120,7 +120,7 @@ Once that happens, goodbye to that subscriber. They will be on your list in name
 
 You establish a reputation for delivering value when you regularly email your list.
 
-Yes, your platform establishes you as a valuable content creator, but that’s just what you show everyone else. In your email list, this is where people really see you shine, completely free of SEO, social media algorithm, or monetary motivation.
+Yes, your platform establishes you as a valuable content creator, but that’s what you show everyone else. In your email list, this is where people see you shine, completely free of SEO, social media algorithm, or monetary motivation.
 
 This is where you can be real with your content and connect to their hearts.
 
@@ -156,7 +156,7 @@ Competition is one of the driving forces of evolution. Whether it’s two people
 
 ### Community&nbsp;
 
-Relationships are another natural motivator we can’t shake. Whether it’s being more popular or getting a girl, people will pay attention if they believe you can improve their social status.
+Relationships are another natural motivator we can’t shake. Whether being more popular or getting a girl, people will pay attention if they believe you can improve their social status.
 
 Competition and community appeal to the main goals of any human. When you strip away our fancy technology, humans still operate on their basic desires: to survive and reproduce. This is why headlines and content centered around those ideas do so well.&nbsp;
 
@@ -188,7 +188,7 @@ Twitter is my medium of choice, but the same idea should work for Instagram, You
 
 Use parts of what you’ve already written to promote your list whenever you have an upcoming newsletter.
 
-As much as we’d like to think that just telling our following to sign on to our email list will work, it rarely does, and when it does, it's never better ethically bribing them or promoting with a preview of your content.
+As much as we’d like to think that just telling our following to sign on to our email list will work, it rarely does, and when it does, it's never better than ethically bribing them or promoting with a preview of your content.
 
 People need to be enticed and bribed to take action. Remember: they’re following you on other platforms because it’s passive engagement. When they sign up for your email list, it’s active engagement. People don’t take active engagement without the proper incentives.
 
@@ -196,7 +196,7 @@ People need to be enticed and bribed to take action. Remember: they’re followi
 
 I don’t use paid promotions to build my email list.
 
-I don’t have anything against Google or Facebook ads, but I’ve never tried them.
+I have nothing against Google or Facebook ads, but I’ve never tried them.
 
 My general philosophy is that you pay in time or money. I put a lot of time into building my organic audience rather than money, but that doesn’t mean organic traffic doesn’t have its place. The leads gathered by a strong organic campaign are likely to translate into high-quality leads because they’re so targeted.
 
@@ -205,9 +205,9 @@ This is good if you’re selling, but I question how useful they are for a gener
 ## Summary of building and maintaining your email list
 
 * Give people a reason to sign up for your newsletter with either an ethical bribe or a preview of what you’re writing.
-* Put your writing in a place where it’s going to be easy to see. Use your social media and website to promote it.
+* Put your writing in a place where it will be easy to see. Use your social media and website to promote it.
 * Write your list often. Every message doesn’t have to be a marketing email. It’s a good idea to just communicate with your list and give value.
 * Write authentically to your list. You don’t have to worry about search engines or social media algorithms. You can be honest, raw, and real.
 * Make sure that your headline hits one of the “Four C’s.”
 
-&nbsp;
+#### [Check out my other writing content](https://edlatimore.com/writing-skills)
