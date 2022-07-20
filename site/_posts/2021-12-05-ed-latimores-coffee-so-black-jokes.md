@@ -24,6 +24,8 @@ I'm not explaining most of the jokes, but a few do require a knowledge of histor
 
 Enjoy. Oh, and in case you're wondering: Yes, I am very Black myself.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ![Ed latimore having some coffee so black it drops his credit score](/assets/images/posts/2021/coffe-so-black.jpg "Me enjoying a cup of black coffee in Guimarães, Portugal. See, I'm as black as your favorite cup of joe. Don't try to cancel me. It won't work.")
 
 ## Ed Latimore's "Coffee so black jokes"
@@ -173,3 +175,5 @@ This summary hopefully explains the motivation for my joke. For a more detailed 
 ---
 
 **Coffee so black it can barely fit in my mouth.** ([Tweet it](https://twitter.com/EdLatimore/status/1058137095875768321){: target="_blank" rel="noopener noreferrer"})
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
