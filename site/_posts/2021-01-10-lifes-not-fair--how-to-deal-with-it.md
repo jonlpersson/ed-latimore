@@ -52,15 +52,17 @@ We live in a time where people can change their entire life situation if they wa
 
 Everyone has an unfair advantage at something, even if it's just their ability to work longer, harder, and endure more pain than the average person.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## A poker analogy shows why life's not fair
 
 ![life's not fair poker straight ed latimore](/assets/images/posts/2021/lifes-not-fair-poker-straight-ed-latimore.jpg "life's not fair poker straight ed latimore"){: width="450" height="338"}
 
 There are many analogies for the unfairness of life, but a great one is poker. You can learn many valuable life lessons from this game of skill and chance.
 
-In poker, you play the hand you’re dealt. Given a long enough period,&nbsp;[everyone eventually sees the same cards](http://www.murderousmaths.co.uk/books/bkmm6xch.htm){: target="_blank" rel="noreferrer"}, gets the same sort of unexpected opportunities, and has the same dumb luck. Sometimes things will go your way for a while due to no effort of your own, even if you're playing poorly.
+In poker, you play the hand you’re dealt. Given a long enough period,&nbsp;[everyone eventually sees the same cards](http://www.murderousmaths.co.uk/books/bkmm6xch.htm){: target="_blank" rel="noreferrer"}, gets the same unexpected opportunities, and has the same dumb luck. Sometimes things will go your way for a while due to no effort of your own, even if you're playing poorly.
 
-By simply being in the game, you get a chance to win big, but only if you stay in the game and play your current hand&nbsp;*better*&nbsp;than the other players.
+You get a chance to win big by simply being in the game, but only if you stay in the game and play your current hand&nbsp;*better*&nbsp;than the other players.
 
 On the flip side, you'll also have strings of bad luck. Even when you do things correctly, you'll lose. Every person at the table has the same luck, for better or worse. No matter your belief system, desires, or expectations, the game of poker is fair because it is unfair to everyone.
 
@@ -102,7 +104,7 @@ No number of "good cards" will make up for stupidity and a weak mindset. No numb
 
 But not everyone responds to these events the same way or with the same skill.
 
-Even the same tragedies and traumas affect everyone equally. Some people make lemonade with those lemons, while others stay sour and salty the rest of their lives.
+Even the same tragedies and traumas affect everyone equally. Some people make lemonade with those lemons, while others stay sour and salty for the rest of their lives.
 
 Take sports.&nbsp;
 
@@ -127,3 +129,5 @@ It’s the same with private education or bodybuilders who spend all their time 
 Forget the illusion of fairness. Take the cards you’re dealt, find your angle, and play your best.
 
 Leverage unfairness to your advantage, and you’ll win.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
