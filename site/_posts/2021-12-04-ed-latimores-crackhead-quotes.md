@@ -27,8 +27,6 @@ This list of crackhead quotes is divided into original crackhead quotes from me 
 
 All I ask is that if you use one of my quotes somewhere, given me credit. My handle is @edlatimore on [Twitter](https://twitter.com/edlatimore/), [Instagram](https://www.instagram.com/edlatimore/){: target="_blank" rel="noopener"}, and [Facebook](https://www.facebook.com/edward.latimore/){: target="_blank" rel="noopener"}. Or just share this entire page.
 
-{% include widgets/toc.html heading="The best quotes collection about crackheads" list-items="Ed Latimore original crackhead quotes, Crackhead quotes from others" list-ids="ed-latimore-original-crackhead-quotes, crackhead-quotes-from-others" %}
-
 ## Ed Latimore original crackhead quotes
 
 Everybody want crackhead work ethic. Nobody wanna smoke no damn crack. ([Tweet it](https://twitter.com/EdLatimore/status/1075702778696220674){: target="_blank" rel="noopener noreferrer"})
@@ -66,6 +64,8 @@ No one ever smoked crack planning to become a crackhead. There's a lesson in tha
 Two types of people:
 
 Those who crack under pressure and those who smoke crack under pressure. ([Tweet it](https://twitter.com/EdLatimore/status/1488222837517299713){: target="_blank" rel="noreferrer noopener"})
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ---
 
@@ -151,9 +151,4 @@ Just because you can smoke it doesn't mean that you should smoke it. ([Tweet it]
 
 "Trap house ain't no trap house without crackheads"—K Phils
 
-## Other original quote lists from my writing
-
-* [53 quotes about sobriety and addction](/ed-latimore-sobriety-quotes/)
-* [37 quotes about forgiveness](/Ed-latimore-forgiveness-quotes/)
-* [16 quotes about self-discipline](/ed-latimore-self-discipline-quotes/)
-* [20 quotes about adult and childhood trauma](/trauma-quotes/)
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
