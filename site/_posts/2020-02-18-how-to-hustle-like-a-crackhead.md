@@ -52,11 +52,13 @@ Crackheads just get up, figure out how to get money, and continue to pay the cos
 
 Nothing is free. That includes crackhead work ethic.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## What Can We Learn From The Crackhead Work Ethic?
 
 {% twitter https://twitter.com/EdLatimore/status/1075702778696220674 %}
 
-Everyone talks a big game when it comes to working hard, but that’s all a lot of it is: talk.
+Everyone talks a big game about working hard, but that’s all a lot of it is: talk.
 
 It’s just talk because it’s easier to speak about the moves you’re going to make than it is to actually make those moves. In the social media era, you can feel accomplished by discussing your plans on Facebook and getting a flood of likes and supportive comments.
 
@@ -66,7 +68,7 @@ You got all the accolades and attention without ever executing or accomplishing 
 
 The real hustlers and grinders can tell who is serious and who is a fraud, but the general public–who never do much beyond the bare minimum–have no idea how to tell the real from the fake.
 
-This is similar to what people who haven’t spent a lot of time in the street experience when they encounter various unsavory characters in an urban environment.
+This is similar to what people who haven’t spent much time in the street experience when encountering various unsavory characters in an urban environment.
 
 Your average person can’t tell the difference between a crackhead, a homeless person, a drunk, or a guy just having a bad day. To the uninitiated, all these characters look the same so they must be the same. However, looks are often deceiving.
 
@@ -84,7 +86,7 @@ I have a friend who tried crack once. He said he didn’t like it, and subsequen
 
 ***These people were not interested or not willing to pay the cost to be a crackhead.***
 
-There are people who have been smoking weed for years but won’t step up to crack. Yes, crack is a “harder” drug, but if you’re a pothead, then you’re already doing drugs. You either step it up or stop doing drugs. Anything else is just wasting time.
+Some people have been smoking weed for years but won’t step up to crack. Yes, crack is a “harder” drug, but if you’re a pothead, you’re already doing drugs. You either step it up or stop doing drugs. Anything else is just wasting time.
 
 But look at the attitude of your typical stoner. Lazy, lethargic, and generally unmotivated. You’ve never heard of “pothead hustle” or “stoner drive”. You just hear about them smelling bad, dressing like shit, and having the munchies.
 
@@ -102,7 +104,7 @@ You won't stay a crackhead very long if you don't embrace the crackhead hustle. 
 
 When I talk about crackhead hustle and crackhead motivation, I always have a few people chime in that crackheads have that type of dedication because they’re addicted to crack.
 
-The crux of their argument is that addiction doesn't count as work ethic because the addict has no choice. A crackhead has to either satisfy their fix or they die (or at least the withdrawal makes them wish they were dead) trying.
+The crux of their argument is that addiction doesn't count as work ethic because the addict has no choice. A crackhead must either satisfy their fix or die (or at least the withdrawal makes them wish they were dead) trying.
 
 This is true. It’s no stretch to say that their addiction is so fierce that they are willing to give up everything to satisfy it. However, this is the point.
 
@@ -118,7 +120,7 @@ Here we have a case of a crackhead who took the drive that he had as an addict a
 
 * A carpet cleaning business
 * A lunch wagon business
-* A card counting hustle
+* A card-counting hustle
 * Even raising pigs
 
 Lindell had the crackhead hustle, even before he became a crackhead\!
@@ -139,15 +141,15 @@ There’s a popular motivational clip on the internet by Reverend Eric Thomas te
 
 The boy has his head held underwater and fights for air. Finally, when he breaks free of his master’s grip, the master tells the boy, “You have to want success as badly as you want to breathe.”
 
-You have to want something so badly that it becomes your all-consuming focus. In Reverend Thomas’ story, the boy's “crack” was air. Fortunately, our nervous system doesn’t allow us to just by idly when something threatens our well being. As a result, the boy fought for air.
+You have to want something so badly that it becomes your all-consuming focus. The boy's “crack” in Reverend Thomas' story was air. Fortunately, our nervous system doesn’t allow us to just by idly when something threatens our well-being. As a result, the boy fought for air.
 
 What will make you fight for something you want out of life that is *not* vital for your survival?
 
 Some people’s crack is money. Other’s is respect. A few just want to master something. Maybe it’s all of these things. Maybe it’s none of them. It doesn’t matter what it is. All that matters is that you don’t bullshit yourself about what it is that motivates you.
 
-Author James Altucher [has a great quote concerning motivation in this context.](https://jamesaltucher.com/blog/five-quote-to-make-your-bs-detector-better/){: target="_blank"} When it comes to explaining to yourself and to others why did something, Altucher says “That’s a good reason and the real reason.”
+Author James Altucher [has a great quote concerning motivation in this context.](https://jamesaltucher.com/blog/five-quote-to-make-your-bs-detector-better/){: target="_blank"} When explaining to yourself and others why did something, Altucher says “That’s a good reason and the real reason.”
 
-For example, let’s say that you decide to start working out. A good reason for doing that is to be in optimal health. The real reason is because you want to look good naked. When you harness the real reason why you do something, you harness your crackhead work ethic.
+For example, let’s say that you decide to start working out. A good reason for doing that is to be in optimal health. The real reason is that you want to look good naked. When you harness the real reason for doing something, you harness your crackhead work ethic.
 
 ***(Read: "[How To Get Motivated](/how-to-get-motivated/)")***
 
@@ -157,6 +159,8 @@ I’m not telling you to smoke crack. I’m just telling you that it's a decisio
 
 It may ruin their life, but crack is that important to a crackhead. This is the exchange that this dedication requires.
 
-What's so important that you're willing to do the same? When you find it, you'll have unlocked the secret to your crackhead hustle.
+What's so important that you're willing to do the same? You'll have unlocked the secret to your crackhead hustle when you find it.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
