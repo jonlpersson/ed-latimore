@@ -62,6 +62,8 @@ This is something that book-smart people are uncomfortable with. They would like
 
 You have to not only be comfortable with uncertainty, but you must also accept that an uncertain situation may lead to a confrontation.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## 3) Entertain different points of view
 
 It's important to expose yourself to different ideas.
@@ -88,13 +90,13 @@ But if you are unwilling to do that because we don't have a set formula, or rule
 
 {% twitter https://twitter.com/EdLatimore/status/1456741448943116288 %}
 
-Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider what the most likely motivation is for that action and most likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
+Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider the most likely motivation for that action and most likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
 
 An unfortunate condition of many people is that they would rather turn a blind eye to the truth if the truth makes them uncomfortable or defies a dearly held view of the world.
 
-If someone's actions are confusing but antagonistic towards you, [accept that they mean you harm](/when-someone-hates-you-for-no-reason/) and deal with it. When it comes to threats to your personal safety or reputation, better to assume and be wrong than to be right and do nothing out of fear of appearing presumptuous.&nbsp;
+If someone's actions are confusing but antagonistic towards you, [accept that they mean you harm](/when-someone-hates-you-for-no-reason/) and deal with it. When it comes to threats to your safety or reputation, better to assume and be wrong than to be right and do nothing out of fear of appearing presumptuous.&nbsp;
 
-It may be hard to accept that a person means your harm (physical, mental, social, etc.), but street smart people don't ignore the writing on the wall. They act on their reads of a situation, even if they don't like what it means.
+It may be hard to accept that a person means your harm (physical, mental, social, etc.), but street-smart people don't ignore the writing on the wall. They act on their reads of a situation, even if they don't like what it means.
 
 You don't want to be fooled. You don't want to be naive. So you need to look at people with fresh eyes. And if you don't like what you see, you can't be afraid to confront it and do what's necessary to protect yourself.&nbsp;
 
@@ -114,26 +116,28 @@ Some of that noise is put there to intentionally distract you. Some of that nois
 
 {% twitter https://twitter.com/EdLatimore/status/1328137438724829184 %}
 
-Everyone needs to study marketing so they can understand how powerful words can be.&nbsp;
+Everyone needs to study marketing to understand how powerful words can be.&nbsp;
 
 Good marketing can make people buy things they don't want and do things that aren't in their best interest.&nbsp;
 
-Everyone needs to learn how to sell so they can understand humor behavior as it relates to exchanging value. Selling is the act of trying to get someone to part with something of value, whether it be money, sex, attention, or power.&nbsp;
+Everyone needs to learn how to sell to understand humor behavior as it relates to exchanging value. Selling is the act of trying to get someone to part with something of value, whether it be money, sex, attention, or power.&nbsp;
 
 If you learn the mechanics of selling and marketing, you'll recognize two things:&nbsp;
 
-**When those things are being done to you.** It's only when you can recognize when people are doing something to you that you can form a more effective defense against it. Guarding yourself against manipulation is part of becoming street smart.&nbsp;
+**When those things are being done to you,** it's only when you can recognize when people are doing something to you that you can form a more effective defense against it. Guarding yourself against manipulation is part of becoming street smart.&nbsp;
 
-You realize that all people are engaged in selling and marketing. Whether they want to admit it or not, regardless of how good they are at it.&nbsp;
+You realize that all people are engaged in selling and marketing, whether they want to admit it or not, regardless of how good they are at it.&nbsp;
 
 When you develop your skills to do so, you'll be in a much better place to spot&nbsp;
 
 ### Summing up how to be street smart
 
-Being street smart is about taking what happened to you, good or bad, and learning from it. Then, once you learn from it, applying it to reduce the likelihood of experiencing something negative again.
+Being street smart is about taking what happened to you, good or bad, and learning from it. Then, once you learn from it, apply it to reduce the likelihood of experiencing something negative again.
 
 Street smarts come from a lot of experience. Getting a lot of experience is often the result of bad judgment that you learn from.
 
 As long as you aren't afraid to get your hands dirty and are committed to learning from people and your environment, your street iq will improve.
 
 The rest is up to you.&nbsp;
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
