@@ -32,55 +32,55 @@ Therefore, I took every opportunity I could to explain why it was important that
 
 The following is a collection of reasons I’ve given students on why it’s important to learn math. If only one of these reasons motivates you to be a better student or makes your job as a teacher easier, then curating this list will have been well worth it.
 
-{% include widgets/toc.html heading="Why is math important: 12 practical reasons to develop math skills" list-items="Improves ability to communicate, Teaches the value of the process, Keeps you from being fooled, Math makes you more money, Improves your quality of life, Math sharpens your analytical thinking, Makes your thinking more rigorous, Develops problem-solving skills, Basic math skills are required to survive in this world, The future is mathematical, Learning math makes you better at everything else, Math helps you to navigate uncertainty" list-ids="improves-ability-to-communicate, teaches-the-value-of-the-process, keep-you-from-being-fooled, math-makes-you-more-money, improves-your-quality-of-life, math-sharpens-your-analytical-thinking, makes-your-thinking-mor-rigorous, develops-problem-solving-skills, basic-math-skills-are-require-to-survive-in-this-world, the-future-is-mathematical, learnin-math-makes-you-better-at-everything-else, math-helps-you-to-navigate-uncertainty" %}
-
 ## Improves ability to communicate
 
 Mathematics teaches you to be very precise with your words and definitions.
 
-People don’t think about the connection between their verbal acumen and their mathematical reasoning, but math is a language. Like any other language, there are rules for communication. The difference between math and most other languages is that math has no ambiguity.
+People don’t think about the connection between their verbal acumen and mathematical reasoning, but math is a language. Like any other language, there are rules for communication. The difference between math and most other languages is that math has no ambiguity.
 
 With math, you don't get to use body language or tone of voice to clarify the message. A mathematical message is objective, precise, and has no ambiguity. Nowhere is this more clear than in computer programming.
 
-Programming languages are nothing more than the instructions for computers, written in math because that’s what a computer understands. You may write the program with words, but the compiler sees the words and, because each word is tied to a specific operation, it’s able to tell the computer what to do in a binary math language.
+Programming languages are nothing more than the instructions for computers, written in math because that’s what a computer understands. You may write the program with words, but the compiler sees the words and because each word is tied to a specific operation, it can tell the computer what to do in a binary math language.
 
-This is why it can be so frustrating to spend hours writing code for a program or website that won’t work, only to find that it was something so seemingly minuscule as a missed colon, extra space, or wrong case that kept everything from working.
+This is why it can be so frustrating to spend hours writing code for a program or website that won’t work, only to find that it was so seemingly minuscule as a missed colon, extra space, or wrong case that kept everything from working.
+
+#### [Check out the rest of my articles about mathematics](https://edlatimore.com/math-concepts)
 
 ## Teaches the value of the process
 
-Math is both objective and you have to prove why it works
+Math is objective and you have to prove why it works.
 
 In fact, math is unique in that you need to not only have the correct outcome but also demonstrate the soundness of the process that you used to arrive at that outcome.
 
-Even in lower-level math classes that most of us are familiar with, this is the idea of “showing your work”. Any math teacher worth a damn will not let a student get away with just coming up with the right answer, but arriving at it via a terrible process. In fact, you typically receive more credit if you have a sound process but get the wrong answer than vice-versa.
+Even in lower-level math classes that most are familiar with, this is the idea of “showing your work.” Any math teacher worth a damn will not let a student get away with just coming up with the right answer but arriving at it via a terrible process. You typically receive more credit if you have a sound process but get the wrong answer than vice-versa.
 
 This feature of mathematics is used to verify (or debunk) many experiments in the social sciences because it’s been shown that the processes they used, when repeated, don't produce the same outcome. This is a reformulation of the same question that the scientific method puts to the test: does the process produce the same outcome every time?
 
-If it can't do that, then the conclusion is at best, considered pseudoscientific and at worst, classified as fraudulent.
+If it can't do that, then the conclusion is, at best, considered pseudoscientific and, at worst, classified as fraudulent.
 
 ## Keeps you from being fooled
 
 The stronger your grasp of mathematics, the harder it is for people to take advantage of you.
 
-When you sit in on someone’s pyramid scheme pitch, you'll be able to instantly tell that the numbers simply don’t work. While everyone else is excited about the prospect of going from nothing to 18 months by recruiting 5 people who recruit 5 people who recruit five more people, you will immediately recognize that this only works if each person spends $1000 on something that they can get for $50 elsewhere.
+When you sit in on someone’s pyramid scheme pitch, you'll be able to instantly tell that the numbers simply don’t work. While everyone else is excited about going from nothing to 18 months by recruiting five people who recruit five people who recruit five more people, you will immediately recognize that this only works if each person spends $1000 on something that they can get for $50 elsewhere.
 
 While everyone is being manipulated by the media’s latest rising figure of murder and disease, you’ll be able to immediately recognize that they used the metric that sounds the most terrifying to fit their agenda.
 
 ## Math makes you more money
 
-If you’re wondering what to major in to get the greatest return on your college tuition, here’s a simple test: does the major require you to study at least one level of calculus? If it doesn’t, you’re probably wasting your money in college studying it.
+If you’re wondering what to major in to get the greatest return on your college tuition, here’s a simple test: does the major require you to study at least one calculus level? If it doesn’t, you’re probably wasting your money in college studying it.
 
-A look at the [Glassdoor.com list of the 50 highest paying majors by starting salary](https://www.glassdoor.com/blog/50-highest-paying-college-majors/), Nursing is the only major that doesn’t require Calculus that starts above $50,000/yr. But if you’re thinking about studying nursing to earn a better salary without facing the rigors of mathematics, you’ll still have to take statistics which is just as challenging and academically rigorous.
+A look at the [Glassdoor.com list of the 50 highest paying majors by starting salary](https://www.glassdoor.com/blog/50-highest-paying-college-majors/), Nursing is the only major that doesn’t require Calculus that starts above $50,000/yr. But suppose you’re considering studying nursing to earn a better salary without facing the rigors of mathematics. In that case, you’ll still have to take statistics which is just as challenging and academically rigorous.
 
 ## Improves your quality of life
 
 We live in a world that is run on technology and information.
 
-It’s been said that in the 21st century, “data is the new oil.” It stands to reason that the best jobs—the ones willing to do the most to retain employees as well as pay higher salaries—are in career fields that involve technology and data.
+It’s been said that in the 21st century, “data is the new oil.” It stands to reason that the best jobs—the ones willing to do the most to retain employees and pay higher salaries—are in career fields involving technology and data.
 
 Technology development and data analysis are fields of hands-on applied mathematics.
 
-[Business Insider’s list of 14 High Paying Jobs with Work-Life Balance](https://www.businessinsider.com/high-paying-jobs-work-life-balance-2016-10#-14) includes 10 professions where math is either directly used or mathematical reasoning is used in programming. The future will be dominated by math and technology. This makes math an important subject for anyone who wants to make a lot of money but doesn’t have an interest in working for themselves or starting a business.
+[Business Insider’s list of 14 High Paying Jobs with Work-Life Balance](https://www.businessinsider.com/high-paying-jobs-work-life-balance-2016-10#-14) includes ten professions where math is directly used, or mathematical reasoning is used in programming. The future will be dominated by math and technology. This makes math an important subject for anyone who wants to make a lot of money but doesn’t have an interest in working for themselves or starting a business.
 
 ## Math sharpens your analytical thinking
 
@@ -88,9 +88,9 @@ Math is based on logic.
 
 The word “math” is derived from the Greek word “m&aacute;thēma” meaning “knowledge, study, learning.”
 
-Math forces you to think deeply about what you see and come up with adequate language to explain it. You have to make sure that your reasoning is sharp enough to not only articulate what you know but to frame it in such a way that a person could follow what you’re saying and repeat what you’ve done. That’s the type of clarity that is demanded in mathematics.
+Math forces you to think deeply about what you see and develop adequate language to explain it. You have to make sure that your reasoning is sharp enough to not only articulate what you know but to frame it so that a person could follow what you’re saying and repeat what you’ve done. That’s the type of clarity that is demanded in mathematics.
 
-In fact, this is the basic idea behind a theorem. They’re based on proofs, which try to prove some conclusion by walking through you a set of premises and logical reasoning. Though you will likely never get into mathematical proofing, the idea is still relevant for arguing your ideas and analyzing the arguments of others.
+This is the basic idea behind a theorem. They’re based on proofs, which try to prove some conclusion by walking through a set of premises and logical reasoning. Though you will likely never get into mathematical proofing, the idea is still relevant for arguing your ideas and analyzing the arguments of others.
 
 ## Makes your thinking more rigorous
 
@@ -110,29 +110,29 @@ Most of us will never need to use the Pythagorean theorem or solve a quadratic e
 
 This is not to say that you’ll be a terrible problem solver if you can’t do high school algebra. It only means that the meticulous approach to doing mathematics translates into many other skills.
 
-***\[Further develop your ability to solve problems by following a [sound problem-solving process that I teach here](/problem-solving-process/).\]***
+***\[Further develop your problem-solving ability by following a [sound problem-solving process that I teach here](/problem-solving-process/).\]***
 
 ## Basic math skills are required to survive in this world
 
 {% twitter https://twitter.com/EdLatimore/status/1467513415291875337 %}
 
-No matter how powerful or portable or calculation devices become, we still need to understand math so we avoid issues like the one above.
+No matter how powerful or portable calculation devices become, we still need to understand math to avoid issues like the one above.
 
-You need to understand how to give the correct change; not because you might be working as a cashier one day, but because you will buy things and you need to know if they’re giving you the right amount back.
+You need to understand how to give the correct change, not because you might be working as a cashier one day, but because you will buy things and you need to know if they’re giving you the right amount back.
 
-You need to understand how to follow a recipe. There’s a big difference between ⅓ and ⅔ when it comes to measuring out food. In fact, in 1980 A&W introduced a rival to McDonald’s quarter-pounder (¼ lb) that was a ⅓ pound of meat at a better price, but it failed because people thought ¼ was bigger than ⅓ and they were being overcharged.
+You need to understand how to follow a recipe. There’s a big difference between ⅓ and ⅔ when it comes to measuring out food. In fact, in 1980, A&W introduced a rival to McDonald’s quarter-pounder (¼ lb) that was a ⅓ pound of meat at a better price, but it failed because people thought ¼ was bigger than ⅓, and they were being overcharged.
 
 [Read more about what happens when a population lacks mathematical knowledge here.](https://bettermarketing.pub/the-a-w-third-pounder-failed-because-people-didnt-understand-fractions-a86b966a973a)
 
-In his book, [Threshold Resistance](https://amzn.to/3e4wiGN), Adolph Taubman looked back on this whole situation. He states: *“More than half the participants of the Yankelovich focus groups questioned the price of our burger. “Why,” they asked, “should we pay the same amount for a third-pound of meat as we do for a quarter-pound of meat at McDonald’s? You’re overcharging us.”*
+In his book&nbsp;[Threshold Resistance](https://amzn.to/3e4wiGN), Adolph Taubman looked back on this whole situation. He states: *“More than half the participants of the Yankelovich focus groups questioned the price of our burger. “Why,” they asked, “should we pay the same amount for a third-pound of meat as we do for a quarter-pound of meat at McDonald’s? You’re overcharging us.”*
 
 ## The future is mathematical
 
 As the world becomes more digital, skills like web design, engineering, and programming will continue to rise in value. The ability to analyze data and write algorithms that allow internet marketers and eCommerce stores to make money already command higher salaries than most professions.
 
-Speaking of medicine and science, all advances in communication and technology are based on quantitative reasoning and mathematical understanding. We are now solving complex problems and to do so, we need math.
+Speaking of medicine and science, all advances in communication and technology are based on quantitative reasoning and mathematical understanding. We are now solving complex problems; to do so, we need math.
 
-Even for relatively simple work like the skilled trades, there is heavy reliance on mathematical reasoning. The digital/scientific nature of the world relies on math as well. This leaves few options for a well paying, satisfactory profession moving into the future.
+Mathematical reasoning is heavily relied upon even for simple work like the skilled trades. The digital/scientific nature of the world relies on math as well. This leaves few options for a well-paying, satisfactory profession moving into the future.
 
 ***\[My favorite application of math has been getting my degree in physics. If you're interested in the math needed to learn physics, [this post will tell you everything you need to know](/is-physics-hard-how-to-study-and-learn-basic-physics/).\]***
 
@@ -142,15 +142,17 @@ Studies have shown that students who are better at math have more grey matter in
 
 The grey matter throughout the central nervous system allows enables individuals to control movement, memory, and emotions. Different areas of the brain are responsible for various functions, and grey matter plays a significant role in all aspects of human life.
 
-If you have better control of your body, mind, and emotions, you have better control over your world and you’ll be better able to do everything better.
+If you have better control of your body, mind, and emotions, you have better control over your world, and you’ll be better able to do everything better.
 
 ## Math helps you to navigate uncertainty
 
 Even a basic understanding of odds and probability can help you do better at (or avoid entirely) games of chance and gambling.
 
-It also opens up the world of sports betting and allows you to better assess the safety of an activity. Understanding odds, ratios, and percentages not only opens up a possible income stream in the form of sports betting or financial trading but also gives you a more accurate understanding of how the world works.
+It also opens up the world of sports betting and allows you to better assess the safety of an activity. Understanding odds, ratios, and percentages open up a possible income stream in sports betting or financial trading and give you a more accurate understanding of how the world works.
 
-You begin to understand that the world is more probabilistic than deterministic in nature, and your thinking becomes more nuanced. This makes your predictions more accurate and your decisions more precise.
+***\[I have an entire article about understanding sports betting. You don't need much math. A little goes a long way. Read it here—&gt;[How to understand sports betting](/how-do-betting-odds-work/)\]***
+
+You begin to understand that the world is more probabilistic than deterministic, and your thinking becomes more nuanced. This makes your predictions more accurate and your decisions more precise.
 
 ## A recap of the 12 reasons why math is important
 
@@ -166,3 +168,5 @@ You begin to understand that the world is more probabilistic than deterministic 
 10. The future is mathematical
 11. Learning math makes you better at everything else
 12. Math helps you to navigate uncertainty
+
+#### [Check out the rest of my math articles&nbsp;](https://edlatimore.com/math-concepts)
