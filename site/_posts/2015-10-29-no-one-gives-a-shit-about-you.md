@@ -44,11 +44,13 @@ Maybe that feeling is warm and fuzzy. Maybe it's acceptance by their God. Someti
 
 It's the same with that girl you’re mentally undressing. She doesn’t give a shit that you think she’s sexy. That’s not gonna make her want to date you.
 
-What’s in it for her? Are you good-looking? Are you interesting? Do you have money and status? What do you bring to the table that's valuable to her? Read my [guide to get attractive](/how-to-be-an-attractive-man/) that way you can easily answer these questions.
+What’s in it for her? Are you good-looking? Are you interesting? Do you have money and status? What do you bring to the table that's valuable to her? Read my [guide to get attractive](/how-to-be-an-attractive-man/) so you can easily answer these questions.
 
 If you want more from the world, you have to give more to the world. The world doesn’t owe you shit. No amount of sulking or protesting will ever change this.
 
-Life isn't fair. Well actually, it is fair because it's unfair to everyone. If you're having trouble wrapping your head around that then [reading this](/life-isnt-fair/) might help.
+Life isn't fair. Well actually, it is fair because it's unfair to everyone. If you're having trouble wrapping your head around that, then [reading this](/life-isnt-fair/) might help.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## You can have whatever you want… If you're willing to pay the price
 
@@ -73,5 +75,7 @@ The money you want, the girls you like, the experiences you desire—they don’
 There's no reason why you can’t have anything you want. All you have to do is be willing to pay the price.
 
 The rest is up to you.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
