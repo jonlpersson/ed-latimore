@@ -37,6 +37,8 @@ The rest of this article will show you how to use common sense and an even tempe
 
 With all the shit that can go wrong in a street fight—like you accidentally killing him and catching a manslaughter, or worse, you losing your own life—here's a WAY better plan.
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## Avoid places where assholes hang out
 
 You know where the problem spots are. Even if you aren’t actively looking for trouble, you know that there are certain environments where violence is much more likely to occur. Unless you earn a living by being in these environments—and if you do, I strongly suggest you find another way—then avoid them.
@@ -116,3 +118,5 @@ Don't start no shit won't be no shit.
 Stay away from places shit tends to get started.
 
 The rest is up to you.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
