@@ -162,11 +162,11 @@ Explanation: The material behind this joke is stuff of legend and is one of the 
 
 ![Freeway Rick Ross and Ed latimore](/assets/images/posts/ed-with-rick-ross.jpg "Me with Freeway Rick in 2012")
 
-The gist of the connection is that the CIA funneled cocaine into country, sold it, and used the money to fund it's operations against it's war against the Nicaraguan leftist government. To be fair, the flooding of cocaine into the ghetto just happened to coincide with street level dealers figuring out a way to convert cocaine to crack, a cheaper way to use the drug.
+The gist of the connection is that the CIA funneled cocaine into the country, sold it, and used the money to fund its operations against in the war against the Nicaraguan leftist government. To be fair, the flooding of cocaine into the ghetto just happened to coincide with street-level dealers figuring out a way to convert cocaine to crack, a cheaper way to use the drug.
 
-With that said, there are some alarming parts of the story the point to the CIA at least knowing that the source of their funds were from cocaine sells, specifically from the increased demand as a result of ghetto finally being able to access this market. There were no crackheads before the 1980s. It was only after inner-city drug dealers figured out how to turn powdered cocaine into hard crack the crack epidemic began.
+With that said, some alarming parts of the story point to the CIA at least knowing that the source of their funds was the result of cocaine sales, specifically from the increased demand due to the ghetto finally being able to access this market. There were no crackheads before the 1980s. It was only after inner-city drug dealers figured out how to turn powdered cocaine into hard crack the crack epidemic began.
 
-This summary hopefully explains the motivation for my joke. For a more detailed look this is [a great article for a deeper into the CIA contra crack conspiracy.](https://ips-dc.org/the_cia_contras_gangs_and_crack/){: target="_blank" rel="noopener noreferrer"}
+This summary hopefully explains the motivation for my joke. For a more detailed look, this is [a great article for a deeper into the CIA contra crack conspiracy.](https://ips-dc.org/the_cia_contras_gangs_and_crack/){: target="_blank" rel="noopener noreferrer"}
 
 ---
 
