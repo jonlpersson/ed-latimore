@@ -60,13 +60,15 @@ I’ve had too many people of significant influence, prominence, or fame reach o
 
 A big part of adding value and building good karma (if not the most important part) is NOT being an asshole. When you act like an asshole, you are ruining opportunities for yourself that you didn’t even know existed. You're creating bad karma for yourself.
 
-If you don't believe in the law of karma, perhaps this post will change your mind. At the very least, it will get you to consider the cause and effect relationship between your online and offline presence.
+If you don't believe in the law of karma, perhaps this post will change your mind. At the very least, it will get you to consider the cause-and-effect relationship between your online and offline presence.
 
 If you aren’t going to go full-anon (as opposed to semi-anon, an important distinction for today's post), you don’t know what opportunities you’re repelling or attracting to yourself.
 
 When you create this "bad karma of the internet" for yourself, bad things may happen to you because you taking value instead of building it.
 
 With that said, let’s talk about the concept of karma and how someone interacting with me on the internet learned a hard lesson about "what goes around comes around."
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## 3 lessons from an internet troll
 
@@ -84,27 +86,27 @@ He attached the tweets to jog my memory. Those are the citation numbers that fol
 
 I'm the blue conversation. Even though he sent me a DM, I don't respond negatively to him.
 
-I don’t remember how this started, but I believe he blocked me after saying something disrespectful to me. In response, I screenshot his messages to me and then wrote his handle in a tweet I shared to the public. I did this knowing that his bad manners would be met with harassment from many of my followers.
+I don’t remember how this started, but I believe he blocked me after saying something disrespectful to me. In response, I screenshot his messages to me and then wrote his handle in a tweet I shared with the public. I did this knowing that his bad manners would be met with harassment from many of my followers.
 
-Apparently it worked. This wasn’t the last of the messages.
+It worked. This wasn’t the last of the messages.
 
 ![Bad actions carry bad karma. A real problem](/assets/images/posts/2020/karma-screenshot-twitter-2.png "Bad actions carry bad karma. A real problem.")
 
-I know that the message implies that there are 3 tweets, but the third one is a duplicate. Let’s dig into some of the karma lessons here and answer many of the questions I got when I posted the original message on social media.
+I know that the message implies 3 tweets, but the third one is a duplicate. Let’s dig into some of the karma lessons here and answer many questions I got when I posted the original message on social media.
 
 #### Why didn’t he just delete his Twitter account?
 
-To this guy’s credit, he actually did delete his social media account shortly after. The problem is that he didn’t post tweets. I did. At this point, you’re probably wondering how the job and master’s program discovered this colorful interaction.
+To this guy’s credit, he actually did delete his social media account shortly after. The problem is that he didn’t post tweets. I did. You’re probably wondering how the job and master’s program discovered this colorful interaction.
 
-I was wondering that too, so I asked him in a follow-up email. Well, it turns out that his Twitter handle was the same as the URL of his website. He’d been putting that URL on his applications to show off something related to his work, I’d imagine.
+I was wondering that too, so I asked him in a follow-up email. Well, it turns out that his Twitter handle was the same as the URL of his website. I imagine he’d been putting that URL on his applications to show off something related to his work.
 
-When you google said URL (I’m not putting it here, as I agreed to no longer play a role in messing up his karma), the first thing that comes up are the tweet screenshots linked to my account.
+When you google said URL (I’m not putting it here, as I agreed to no longer play a role in messing up his karma), the first thing that comes up is the tweet screenshots linked to my account.
 
 The lesson here is that there’s no such thing as a “halfway anon”. Either go fully ghost or be fully out in public. Even if you try to be halfway anon, any identifying details can be used to track you. Get on the wrong side of the wrong people, and you’ll quickly find out just how bad karma can be and how easy it is to be doxxed.
 
 For example, if you think you can get away with just putting your face on a profile and nothing else, you’d be sorely disappointed. Image searching and matching algorithms have come a long way.
 
-Do you think you’re safe because your social media is private and therefore ONLY people you allow can see it?
+Do you think you’re safe because your social media is private, and therefore ONLY people you allow can see it?
 
 Do not underestimate the resolve of someone with a lot of time and a little creativity. This goes double for a company that likely employs someone to research people or, at the very least, gives someone that job in addition to other duties so there is a bit of financial compensation.
 
@@ -137,7 +139,7 @@ So, fortunately, this kid realized operating that account or anything related to
 
 *“Both the domain and Twitter have since been deleted. And I've since abandoned any notions of building a personal brand.”*
 
-Consider this though: he was attached enough to the name and what he put behind it that he not only used it for his Twitter handle and website but it was also referenced in his applications for grad school and a job.
+Consider this though: he was attached enough to the name and what he put behind it that he not only used it for his Twitter handle and website but also referenced it in his applications for grad school and a job.
 
 I should point out here that the URL and Twitter handle in question was NOT his actual name.
 
@@ -159,7 +161,7 @@ If my identity got me through a TSA checkpoint faster, this is not completely ou
 
 Despite what he told me and what I’ve observed, his name is still attached to his handle somewhere that’s important enough that an employer might still google and the screenshots come up. Perhaps it’s a middle name or something.
 
-If I was vindictive, I’d just leave everything up to continue causing this kid problems. But I’m not, so I deleted the tweets. I don't want the bad karma.
+If I were vindictive, I’d just leave everything up to continue causing this kid problems. But I’m not, so I deleted the tweets. I don't want bad karma.
 
 But imagine if I wasn’t going to do that. That would mean that this kid made someone his enemy, knowing nothing about the scope of his reach or influence, all so that he could win an internet trash-talking contest. That’s a very poor trade-off.
 
@@ -179,7 +181,7 @@ A few people have made a point that is worth considering.
 
 This guy is only writing to me because he can’t escape the problem that his actions are causing him. He had 2 years to reach out and apologize to me if he *truly* felt bad for how he acted. Instead, I only get an apology when he wants me to delete the tweets.
 
-Some people thought I should leave them there. Well, I’m not, but that’s because I’m of the thought process that maybe this experience has been so painful that moving forward, he will treat people with more respect.
+Some people thought I should leave them there. Well, I’m not, but that’s because I think that maybe this experience has been so painful that moving forward, he will treat people with more respect.
 
 With that said, he’s lucky that I am the way I am. A more vindictive person would have written back telling him to shove his apology while raising the exact point I’m making in this lesson.
 
@@ -200,5 +202,7 @@ While you can’t predict exactly how a situation will turn out, you know if som
 Act towards people in a way that brings out the best in them. It’s not perfect, but it should prevent you from being an asshole. You might even make someone’s day a little brighter.
 
 At the very least, you won’t ever have to worry about your words coming back to keep you out of school or a job.
+
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 {% include widgets/cta-email.html %}
