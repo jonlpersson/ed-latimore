@@ -77,6 +77,8 @@ Many opportunities only present themselves once. Certain vulnerabilities will no
 >
 > —Lil’ Wayne
 
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+
 ## 3\. Trust no one
 
 > *Number 3, never trust no-bo-dy<br>Your moms'll set that ass up, properly gassed up<br>Hoodied and masked up, shit, for that fast buck<br>She be laying in the bushes to light that ass up*
@@ -149,7 +151,7 @@ This is the other side of the 10th commandment. Don’t take on debt you can’t
 
 This might be the only rule in the 10 crack commandments that people disagree with. First, the rule is pretty straightforward: don’t get the family involved with the business.
 
-People typically think of this type of situation as not hiring or working with family members. The pushback is that some of the most profitable and fulfilling businesses in the world have been started with family members.
+People typically think of this situation as not hiring or working with family members. The pushback is that some of the world's most profitable and fulfilling businesses have been started with family members.
 
 Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, ambition, ability, or emotion-wise.
 
@@ -159,7 +161,7 @@ However, if the relationship you have with your family is strong, then you’ll 
 
 This commandment falls into more of a “warning” category than outright advisement against.
 
-If you have someone you’re close with who is going through a tough time, it might seem like the right thing to do to help get them a job with you or hire them, but if things go sour, it will ruin your personal relationship.
+If you have someone you’re close with who is going through a tough time, it might seem like the right thing to do to help get them a job with you or hire them, but if things go sour, it will ruin your relationship.
 
 ## 8\. Protect yourself from liabilities
 
@@ -173,7 +175,7 @@ This is one of those pieces of advice that reads right out of Niccolo Machiavell
 
 As for “them cats that squeeze your guns“, he‘s referring to the “muscle“, “goons“, “shooters“, or bodyguards that a drug dealer must employ to stay safe in the dangerous game of street hustling.
 
-So specific to the drug game, he‘s telling you that there‘s no reason for you ever to have any drugs on your person. As the leader, there‘s no reason for you to risk being picked up by the police and found with any drugs on your person.
+So specific to the drug game, he‘s telling you there‘s no reason for you ever to have drugs on your person. As the leader, there‘s no reason for you to risk being picked up by the police and found with any drugs on your person.
 
 Just like Generals don‘t actually do the fighting, drug dealers shouldn‘t be doing the dealing. The risk is too great.
 
@@ -191,11 +193,11 @@ Do everything you can to protect yourself from the inevitable downside and negat
 
 Specifically, Biggie is warning that if you are seen around the police and you aren’t getting arrested, then your drug-dealing comrades will think you’ve struck some type of deal and are an informant. They aren’t going to wait around to find out if their suspicions are accurate or not, so from that point on, you’re living on borrowed time.
 
-Generally speaking, applied to your life, this is a stern warning about watching the company you keep and maintaining your reputation. There is a saying I live by: “Where there’s smoke, there’s fire.” This means that if there are signs that you did something wrong, then people are going to assume that you did something wrong.
+Generally speaking, applied to your life, this is a stern warning about watching the company you keep and maintaining your reputation. There is a saying I live by: “Where there’s smoke, there’s fire.” This means that if there are signs that you did something wrong, then people will assume that you did something wrong.
 
 They aren’t going to wait until they see the fire. They’re going to use the smoke as a warning system to protect themselves.
 
-If you follow this rule in your personal life, you are far less likely to be accused of something you didn’t do and if you actually did something you don’t want to take responsibility for, living by this code makes it easier for you to evade suspicion.
+Suppose you follow this rule in your personal life. In that case, you are far less likely to be accused of something you didn’t do and if you actually did something you don’t want to take responsibility for, living by this code makes it easier for you to evade suspicion.
 
 {% twitter https://twitter.com/EdLatimore/status/1297579281611132929 %}
 
@@ -205,7 +207,7 @@ If you follow this rule in your personal life, you are far less likely to be acc
 
 If a “plug” or drug supplier has enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give the dealer the product and he will only pay a predetermined fixed price after he's sold it.
 
-This is also known as “fronting work” and is also requested by a dealer who is low on money at the moment but has the clientele or connections to turn a profit on it after he pays back what he owes the plug.
+This is also known as “fronting work” and is also requested by a dealer who is low on money but has the clientele or connections to turn a profit on it after he pays back what he owes the plug.
 
 In and of itself, this isn’t a bad practice. It buys you time, keeps you in the game, and—depending on your business savvy, position in the market, and general know-how—allows you to make more money than you would have if you bought the product upfront.
 
@@ -213,8 +215,8 @@ However, this comes with a danger: if you don’t sell enough of the product to 
 
 This is no different than any other debt you take on.
 
-In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly . The worst case scenario is that you still have to pay it back AND you lose your home or car.
+In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly. The worst case scenario is that you still have to pay it back AND you lose your home or car.
 
 Be honest with yourself. If you know that you don’t have the skillset, resources, or the work ethic to pay back a debt, don’t take it out. You may find yourself dealing with even bigger problems had you just remained without.
 
-&nbsp;
+#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
