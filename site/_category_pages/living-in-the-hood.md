@@ -88,7 +88,7 @@ page_blocks:
       However, just because they had more advantages than me didn’t mean that I
       would let myself underperform and become just another stereotype. I learn
       from that experience that life isn’t fair. I wrote more in-depth about
-      that idea that you can read here—&gt;Life’s not fair
+      that idea that you can read here.
 
 
       ***Read: [Life's not fair](/life-isnt-fair/)***
