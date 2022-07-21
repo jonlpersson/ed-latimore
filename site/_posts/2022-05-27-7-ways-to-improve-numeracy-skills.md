@@ -35,6 +35,8 @@ In each of these scenarios, not only is an exact number not necessary to make pl
 
 Still, just because we don’t need to hit the nail on the head doesn’t mean it’s ok to miss it entirely. We want to be in the general vicinity of the correct answer, even if the correct answer is effectively impossible to find. How do we do this?
 
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
+
 ## Understand fractions
 
 What’s bigger: 7/8 or 9/10?
@@ -123,3 +125,5 @@ It’s a fun game that also improves my budgeting skills as well.
 5. Learn to interpret graphs
 6. Scrutinize media
 7. Play math games
+
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
