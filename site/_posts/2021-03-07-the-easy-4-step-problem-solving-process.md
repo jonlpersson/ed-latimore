@@ -76,6 +76,8 @@ The questions require the same knowledge (trigonometric functions), but the seco
 
 If you understand the problem, finding the solution is much easier. Understanding this, ironically, is the biggest problem for people.
 
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
+
 ### Problem-solving is a universal language
 
 Speaking of people, this method also helps settle disagreements.
@@ -177,3 +179,5 @@ Learning is simply problem-solving. You'll learn faster if you view it this way.
 What was once complicated will become simple.
 
 What was once convoluted will become clear.
+
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
