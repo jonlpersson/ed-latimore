@@ -110,7 +110,7 @@ The goal isn’t to become an expert statistician. It’s simply to become aware
 
 When I was growing up, one of my favorite games was “24”. The game came with cards that had four numbers on them and your goal was to figure out how to get 24 from them by any of the basic arithmetic operations (addition, subtraction, multiplication, and division).
 
-I was always pretty terrible at these types of games, but they made developing math skills more fun. Games like these weren’t necessarily learning activities. They were more like playing and by taking the pressure off gamifying the experience, I was more motivated to at least try.
+I was always pretty terrible at these types of games, but they made developing math skills more fun. Games like these weren’t necessarily learning activities. They were more like playing and by taking the pressure off and gamifying the experience, I was more motivated to at least try.
 
 Any math activity that can be gamified will improve your numeracy skills if for no other reason than you make it fun. One of my favorite math games to play in everyday life takes place when I’m shopping. When I pay with physical money, I try to beat the cash register to figure out what my change will be.
 
