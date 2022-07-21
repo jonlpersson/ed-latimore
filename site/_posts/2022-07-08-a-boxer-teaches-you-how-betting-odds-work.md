@@ -59,7 +59,9 @@ One more thing about risk, and this might be the most important:
 
 Speculative risk and reward scale *at least* directly, but often asymmetrically. In other words, the bigger the risk, the bigger the reward if you’re right and it pays off, and sometimes, the pay of is disproportionately bigger than what you risk.
 
-Lottery and sweepstakes are perfect examples of how asymetrical the some risk can be.
+Lottery and sweepstakes are perfect examples of how asymetrical some risk can be.
+
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 ## How to Read Betting Odds
 
@@ -86,10 +88,10 @@ You don’t have to bet $100. It's just the initial scale that the betting ratio
 
 A standard base for comparison makes it easier to quantify risk and make a speculative decision. The base could have been 50, 200, or even 3. 100 is just easier to work with for many reasons. When we look at the moneyline, can quickly determine a few things.
 
-* **Who’s the favorite.** The odds of the favorites will have the minus sign in front of them. This seems counterintuitive since we feel like the favorite should have a positive amount, but think of it this way:<br><br>If the bet amount is the same, a bet on the person who is more likely to win is *less* risky. Since reward scales with risk, your payout is less, so a minus sign appears next to those odds.
+* **Who’s the favorite.** The odds of the favorites will have the minus sign in front of them. This seems counterintuitive since we feel like the favorite should have a positive amount, but think of it this way:<br><br>If the bet amount is the same, a bet on the person more likely to win is *less* risky. Since reward scales with risk, your payout is less, so a minus sign appears next to those odds.
 * **Who's the underdog.** The odds of the underdog will always have the plus sign in front of them. If this doesn’t make sense, think of it this way: You are taking on a bigger risk betting on them, so your return is always going to be *at least* a little greater than what you paid.<br><br>​​​​If you bet $100 on the underdog, the smallest you could get back is if he was only a slight underdog, say +110 or something like that.
 
-This is the foundation for everything you want to know about the basic reading of the odds. However, taking things a step further, we can use this information to generate another useful value in betting odds: Implied probability
+This is the foundation for everything you want to know about basic odds reading. However, taking things a step further, we can use this information to generate another useful value in betting odds: Implied probability
 
 ## The power of implied probability
 
@@ -123,9 +125,11 @@ Whenever someone asks me who I think will win in a boxing match, I always tell t
 
 That type of answer annoys a basic sports bettor who is just trying to get you to pick a side to bet on without consideration of the odds. However, this is the only proper way to think of betting on sports for two major reasons:
 
-1. Anything can happen and players/fighters/competitors/teams get lucky. Granted, at a high level of skill, the role of luck is *drastically* diminished, but it still exists.<br><br>Furthermore, one part of luck that always exists is the referees, judges, and officials. One bad call can alter the entire outcome of a contest. Especially if it’s close.
-2. How do you generate betting action against an obvious loser if you bet in this fashion? You’d have to be a fool if you bet against the 2007 New England Patriots, 2015 Golden State Warriors, or against Mike Tyson when he fought Buster Douglas.<br><br>But in all three of the scenarios, there were losses but they were unlikely to happen. The format of betting odds entices bettors to take a chance against underdogs. Straight betting on the winner does not.
+1. Anything can happen and players/fighters/competitors/teams get lucky. Granted, at a high level of skill, the role of luck is *drastically* diminished, but it still exists.<br><br>Furthermore, one part of luck that always exists is the referees, judges, and officials. One bad call can alter the entire outcome of a contest especially if it’s close.
+2. How do you generate betting action against an obvious loser if you bet in this fashion? You’d have to be a fool if you bet against the 2007 New England Patriots, 2015 Golden State Warriors, or against Mike Tyson when he fought Buster Douglas.<br><br>But in all three scenarios, there were losses, but they were unlikely to happen. The format of betting odds entices bettors to take a chance against underdogs. Straight betting on the winner does not.
 
 If we apply this type of ["thinking in bets"](/annie-duke-thinking-in-bets-quotes/) to our daily decisions, we would immediately notice a big change: we’re deliberate in our thinking because we view the outcome as an assessment of risk that we are impassionately calculating rather than a bet that we attach to our ego.
 
 Now that you can better understand how to read betting odds, you have another tool for understanding and assessing the world.
+
+#### [Check my other articles about math](https://edlatimore.com/math-concepts)
