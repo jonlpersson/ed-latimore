@@ -31,6 +31,8 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “Somebody asked me once, “How did you lose your humanity?” “I didn’t lose it,” I replied. “I traded it for acceptance and approval until there was nothing left.””
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ## The problem with fighting extreme ideas by censorship and force
 
 “That is the danger with censorship; it creates an enticing mystique around the banned material where there previously was none. When the KKK puts flyers on 100 cars or houses in a community, they do it with the knowledge that those flyers might not help to recruit anybody, but the media reporting it will. The white supremacist movement thrives on conflict and attention, and the media is obliged to report on it, which only helps its cause.”
@@ -85,15 +87,6 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “Toxic shame takes two forms: one is the shame we develop through our individual experiences and the intergenerational transfer of shame in our families (toxic shame cascades intergenerationally until it is healed); the other is collective shame, when we are made to feel shame for who we are and not for what we’ve done.”
 
-## **Other notes and big ideas from books I’ve read**
-
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-* [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
-* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
