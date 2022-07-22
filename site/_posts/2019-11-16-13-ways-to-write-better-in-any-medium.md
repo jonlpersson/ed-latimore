@@ -15,7 +15,7 @@ Here are 15 of the best tips I know that will help you become a better writer. I
 You probably didn't learn any of these in school, but school isn't in the business of teaching you how to
 
 * [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
-* [Start a Medium account](__notset__)
+* [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
 * Craft emails
 * Create marketing campaigns
 * Run book advertising
