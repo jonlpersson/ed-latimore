@@ -161,9 +161,4 @@ I don’t have any magic formula to make it easier for you to swallow the diffic
 
 The truth is that trauma is a part of life. No one escapes it. Yours is not special and neither is mine. for better or worse. **([Tweet it](https://twitter.com/EdLatimore/status/1212824051540004864){: target="_blank" rel="noopener noreferrer"})**
 
-## Other original quote lists from my writing
-
-* [53 quotes about sobriety and addction](/ed-latimore-sobriety-quotes/)
-* [37 quotes about forgiveness](/Ed-latimore-forgiveness-quotes/)
-* [16 quotes about self-discipline](/ed-latimore-self-discipline-quotes/)
-* [29 top crackhead quotes](/crackhead-head-quotes/)
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
