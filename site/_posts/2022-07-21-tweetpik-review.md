@@ -60,7 +60,7 @@ Zapier is an excellent tool for unlocking your ability to become a one-person me
 
 ## Pros & cons
 
-Tweetpik has become one of the staple tools I’ve leveraged to build my online presence to 185k+ Twitter followers and 67k+ Instagram followers. As a routine user, here’s what I’ve found that makes Tweetpik the right tool and where I think there’s still room for improvement.
+Tweetpik has become one of the staple tools I’ve leveraged to build my online presence to 185k+ Twitter followers and 87k+ Instagram followers. As a routine user, here’s what I’ve found that makes Tweetpik the right tool and where I think there’s still room for improvement.
 
 
 ### Pros
