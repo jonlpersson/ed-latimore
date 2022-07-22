@@ -103,6 +103,8 @@ This reminds me of something Patrice O'Neil once said about being in a new relat
 
 A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ## Machiavelli on dealing with problems early
 
 > \*\*When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure. \*\*
@@ -333,19 +335,12 @@ The auxiliaries know how your operation works because you had to reveal it to th
 
 ---
 
-> For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.
+> #### For no man is found so prudent as to know how to adapt himself to these changes, both because he cannot deviate from the course to which nature inclines him, and because, having always prospered while adhering to one path, he cannot be persuaded that it would be well for him to forsake it. And so when occasion requires the cautious man to act impetuously, he cannot do so and is undone: whereas, had he changed his nature with time and circumstances, his fortune would have been unchanged.
 
 ---
 
 > To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.
 
-## Other notes and big ideas from books I’ve read
+## [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
-* [The Hagakure by Yamamoto Tsunetomo](https://edlatimore.com/hagakure-quotes/)
-* [The Book of Five Rings by Miyamoto Musashi](https://edlatimore.com/the-book-of-five-rings-quotes/)
-* [The Cure for Hate by Tony McAleer](https://edlatimore.com/the-cure-for-hate/)
-* [Klandestine Relationships by Daryl Davis](https://edlatimore.com/daryl-davis-book/)
-* [Thinking in Bets by Annie Duke](https://edlatimore.com/annie-duke-thinking-in-bets-quotes/)
-* [The Art of War by Sun Tzu](https://edlatimore.com/art-of-war-quotes-and-summary/)
-* [The Tao of Jeet Kune Do by Bruce Lee](https://edlatimore.com/tao-of-jeet-kune-do-quotes/)
-* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
+&nbsp;
