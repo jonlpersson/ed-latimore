@@ -29,6 +29,8 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 “In most of our decisions, we are not betting against another person. Rather, we are betting against all the future versions of ourselves that we are not choosing.”
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ## The power of truthseeking
 
 “Truthseeking, the desire to know the truth regardless of whether the truth aligns with the beliefs we currently hold, is not naturally supported by the way we process information. We might think of ourselves as open-minded and capable of updating our beliefs based on new information, but the research conclusively shows otherwise. Instead of altering our beliefs to fit new information, we do the opposite, altering our interpretation of that information to fit our beliefs.”
@@ -69,13 +71,4 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 “Remember, the likelihood of positive and negative futures must add up to 100%. The positive space of backcasting and the negative space of a premortem still have to fit in a finite amount of space. When we see how much negative space there really is, we shrink down the positive space to a size that more accurately reflects reality and less reflects our naturally optimistic nature.”
 
-## **Other notes and big ideas from books I’ve read**
-
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
-* [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
-* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
