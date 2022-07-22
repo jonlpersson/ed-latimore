@@ -76,6 +76,8 @@ While there's a lot to be said about cultivating a work/life balance, good leade
 
 This can only happen if the boss doesn't care too much.&nbsp;
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ## How to lead a team
 
 > If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.
@@ -114,7 +116,7 @@ When I was a professional boxer, I trained hard for every opponent, regardless o
 
 By training hard for my opponent, the worst-case scenario is that I would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
 
-It doesn't matter what your plans are. You can increase their likelihood of coming to fruition if you consider the ways things can go wrong, then devise a method of preventing or mitigating them.&nbsp;
+It doesn't matter what your plans are. You can increase their likelihood of coming to fruition if you consider how things can go wrong, then devise a method of preventing or mitigating them.&nbsp;
 
 Most people only focus on the upside of their plans. They imagine that everything will go well, with only minor resistance. However, anything worth doing tends to sprout a major problem that almost acts as a way to weed out the unprepared and unworthy.
 
@@ -141,7 +143,7 @@ Here's another way to look at this: if someone is capable of performing a task, 
 
 > Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
 
-You must train how you plan to perform and prepare under the most difficult and varied conditions that you can create. The goal is to make sure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.&nbsp;
+You must train how you plan to perform and prepare under the most difficult and varied conditions you can create. The goal is to make sure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.&nbsp;
 
 * You practice when you're tired.
 * You introduce random distractions and variables into the practice arena,.
@@ -175,19 +177,19 @@ This is something I learned while getting sober. Putting down the bottle made it
 
 If you take a meta-view of any clash, there are only two factors to consider: you and what stands in your way.
 
-If you know yourself and you know the obstacle well, there's no reason that you shouldn't be successful in getting what you want. This is why we study, practice, and prepare. We need to simultaneously make ourselves as capable as possible while becoming familiar with the challenge at hand before we face it.
+If you know yourself and the obstacle well, there's no reason you shouldn't be successful in getting what you want. This is why we study, practice, and prepare. We must simultaneously make ourselves as capable as possible while becoming familiar with the challenge before we face it.
 
-When I was a boxer, I used to tell people that I didn't worry about what the other guy did because I was in control of my training. I knew that if I put supreme effort into my training regimen, sharpening all of my rough edges and systematically eliminating my flaws, then I'd be very difficult to beat.
+When I was a boxer, I used to tell people that I didn't worry about what the other guy did because I was in control of my training. I knew that if I put supreme effort into my training regimen, sharpening all of my rough edges and systematically eliminating my flaws, I'd be very difficult to beat.
 
-Now don't get me wrong: my coach still studied the fighter and prepared me for any of his specific weaknesses, so in that way, we pool our resources. I learned of myself. He learned of the opponent. This nearly guaranteed victory.
+Don't get me wrong: my coach still studied the fighter and prepared me for any of his specific weaknesses, so we pool our resources in that way. I learned of myself. He learned of the opponent. This nearly guaranteed victory.
 
 ***\[Read some other lessons I took from boxing here—&gt;[48 life lessons from boxing](/how-to-think-like-a-professional-fighter/)\]***
 
-The second passage used reminds me of something I observed in my chess training.
+The second passage reminds me of something I observed during my chess training.
 
-A chess game is usually won by the person who makes the next to the last mistake. This means that until you get to the upper levels of chess, many matches are lost rather than won. I've always felt like this observation applies in many other areas as well.&nbsp;
+A chess game is usually won by the person who makes the next to the last mistake. This means that many matches are lost rather than won until you get to the upper levels of chess. I've always felt like this observation applies in many other areas.&nbsp;
 
-You can do well in life if you focus on trying to reduce the number of mistakes you make. Rather than be brilliant, try to be less stupid.&nbsp; It's amazing how brilliant you appear if you take this approach.&nbsp;
+You can do well in life if you focus on reducing the number of mistakes you make. Rather than be brilliant, try to be less stupid.&nbsp; It's amazing how brilliant you appear if you take this approach.&nbsp;
 
 ## The sign of a good plan
 
@@ -195,13 +197,13 @@ You can do well in life if you focus on trying to reduce the number of mistakes 
 
 Generally speaking, a good plan maximizes your gains, minimizes your losses, and does so as quickly as possible. Though Sun Tzu is specifically talking about preparation for battle here, we can extrapolate this to other types of contests.
 
-Ideally, you'd get what you want without having to risk anything at all. While every action is an investment of time, the idea is that you don't waste too much of it when you go after what you want. Of course, this isn't usually what happens, but it's ideal that we're trying to approach every time we plan.
+Ideally, you'd get what you want without having to risk anything at all. While every action is an investment of time, the idea is that you don't waste too much of it when you go after what you want. Of course, this isn't usually what happens, but, ideally, we're trying to approach every time we plan.
 
-I remember when I first turned pro as a boxer, my coach was explaining our plan for my development. The analogy he used was that developing a fighter was like navigating a boat through a hurricane: you can go through it or you can go around it.
+When I first turned pro as a boxer, my coach explained our plan for my development. He used the analogy that developing a fighter was like navigating a boat through a hurricane: you can go through it or you can go around it.
 
-If I did everything right, we'd get to take the route around the hurricane, but if I had a loss early or marketed myself incorrectly, I'd end up having to a harder route to development, thus going through the hurricane. Life is a lot like this.
+If I did everything right, we'd get to take the route around the hurricane. Still, if I had a loss early or marketed myself incorrectly, I'd have to a harder path to development, thus going through the hurricane. Life is a lot like this.
 
-It becomes remarkably easy to achieve your goal if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.&nbsp;
+Achieving your goal is remarkably easy if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.&nbsp;
 
 ## The use of deception to win
 
@@ -211,19 +213,10 @@ It becomes remarkably easy to achieve your goal if you plan and execute well. If
 
 Whenever you make an error in execution, it's either due to bad technique or insufficient information. You can correct bad technique through training, but if you got the incorrect information, then there is a possibility that you have been deceived.&nbsp;
 
-If you can make someone think you have (or don't have) something, and that influences their actions, then this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they're strong but are actually weak. Likewise, you can prevent them from making strong moves on to your position because they believe you're stronger when the reality is that they'd crush you.
+If you can make someone think you have (or don't have) something that influences their actions, this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they're strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you're stronger when the reality is that they'd crush you.
 
 Ultimately, the power of deception is that it bends your opponent's perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it's often used to make others think they have a higher value.
 
-In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that you aren't fooled by them.&nbsp;
+In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that they don't fool you.&nbsp;
 
-## Other notes and big ideas from books I've read
-
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Book of Five Rings by Miyamoto Musashi](/the-book-of-five-rings-quotes/)
-* [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
-* [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
-* [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
-* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
