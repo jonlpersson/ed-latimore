@@ -34,7 +34,9 @@ When nothing disturbs your emotional center, this is true power.
 > 2. Line your home with treasures and you won't be able to defend it. Amass possessions, establish positions, display your pride: Soon enough disaster drives you to your knees.
 > 3. Favor and disgrace are equally problematic. Hope and fear are phantoms of the body.
 > 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
-> 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.
+> 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.<br>​​​​
+
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 ## **Tao Te Ching Quotes on wisdom**
 
@@ -75,13 +77,6 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
 > 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
 
-## Other notes and big ideas from books I've read
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Book of Five Rings by Miyamoto Musashi](/the-book-of-five-rings-quotes/)
-* [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
-* [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
-* [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
+&nbsp;
