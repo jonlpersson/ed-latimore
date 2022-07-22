@@ -11,9 +11,9 @@ description: >-
   failure and setback.
 image:
 ---
-I’ve seen this book mentioned a few times, but I only became seriously interested in it when I started reading Scott Adams’ blog. While you may not know Scott Adams the blogger, you likely know Scott Adams, the famous cartoonist, from his famous comic strip,&nbsp;*Dilbert*.
+I’ve seen this book mentioned a few times, but I only became seriously interested in it when I started reading Scott Adams’ blog. While you may not know Scott Adams the blogger, you likely know Scott Adams, the famous cartoonist, from his famous comic strip, *Dilbert*.
 
-In his bestseller *How to Fail at Almost Everything and Still Win Big: Kind of the story of my life*, the creator of Dilbert delivers exactly what he promises in the title of the book: a series of strategies from his personal experience that helped him win big despite encountering numerous failures, setbacks, and obstacles.&nbsp;
+In his bestseller *How to Fail at Almost Everything and Still Win Big: Kind of the story of my life*, the creator of Dilbert delivers exactly what he promises in the title of the book: a series of strategies from his personal experience that helped him win big despite encountering numerous failures, setbacks, and obstacles.
 
 This is truly a great book that is simultaneously inspirational, practical, and contains a lot of common sense The writing style is a mix between casual narrative and memoir. He does a good job of getting you to look at things through his worldview that you put the book down, fired up to act on your plan, and better able to plan so that you’re fired up.
 
@@ -29,7 +29,7 @@ To guide you in your pursuit of an ideal life, Adams discusses how to manage you
 
 In short, he thinks setting goals is for losers. Instead, he recommends that you have a system instead. Many of the stories he shares and the lessons he learned from them detail how to build these systems. A natural part of the construction process is acquiring new skills. Adams explains in detail how each added skill increases your chance of succeeding.
 
-He doesn’t simply tell you that adding skills is important; the man devotes an entire chapter, 43 pages, &nbsp;to listing the specific skills you should learn and how those skills will bring you closer to the life of your dreams.
+He doesn’t simply tell you that adding skills is important; the man devotes an entire chapter, 43 pages, to listing the specific skills you should learn and how those skills will bring you closer to the life of your dreams.
 
 One of the most interesting things I took from the book is that a collection of mediocre skills, when combined, can give you an incredible advantage and unique positioning. Adams hammers home the lesson that it’s better to be a C+/B- in many things than an A+ at only one. This type of thinking is counterintuitive, but it’s hard to argue with someone who has had such success.
 
@@ -52,7 +52,7 @@ Some ideas I immediately put into play in my own life were from his sections on 
 
 I’ll summarize Adams's summary in the final chapter to summarize this review.
 
-> *Reading this book, you will learn how to manage your personal energy levels. With these energy levels optimized, you’ll then need to manage your luck. A lot of that work will come down to recognizing and optimizing patterns. You’ll be in a much better position to exploit patterns as you learn different skills. &nbsp;To facilitate all of this, you’ll need to learn how to use affirmations. When it’s all said and done, you will have set aside your goals in favor of employing a system that will run on autopilot and carry you closer to the life you desire to live.*
+> *Reading this book, you will learn how to manage your personal energy levels. With these energy levels optimized, you’ll then need to manage your luck. A lot of that work will come down to recognizing and optimizing patterns. You’ll be in a much better position to exploit patterns as you learn different skills. To facilitate all of this, you’ll need to learn how to use affirmations. When it’s all said and done, you will have set aside your goals in favor of employing a system that will run on autopilot and carry you closer to the life you desire to live.*
 
 And remember this: “Failure is your friend. It is the raw material of success.”
 
