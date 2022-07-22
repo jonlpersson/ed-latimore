@@ -18,13 +18,15 @@ If you want to possess true power, you have to force yourself to be disciplined�
 
 I hope you learn something from these quotes and if one of them resonates with you, share it so that someone else can get something from it.
 
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
+
 ## Ed Latimore's 16 Best Self-Discipline Quotes
 
 ***Self-discipline to get shit done.<br>Self-control to keep you from doing dumb shit.***
 
 ***When they're both developed, anything is possible.*** ([Tweet it](https://twitter.com/EdLatimore/status/1232709622651346945){: target="_blank" rel="noopener noreferrer"})
 
-The difference between self-discipline and self-control is that the former is necessary to make sure you do the hard work required to achieve your goals. The latter is required to keep you from doing things that will knock you off track. You need both to succeed.
+The difference between self-discipline and self-control is that the former is necessary to ensure you do the hard work required to achieve your goals. The latter is required to keep you from doing things that will knock you off track. You need both to succeed.
 
 ---
 
@@ -32,7 +34,7 @@ The difference between self-discipline and self-control is that the former is ne
 
 ***Self-discipline to make you do what needs to be done. Self-control to keep you from doing what you shouldn't.*** ([Tweet it](twitter https://twitter.com/EdLatimore/status/1100114639415857152){: target="_blank" rel="noopener noreferrer"})
 
-Once you realize that no one controls your life but you, then can you start doing what needs to be done to make your life look like your greatest desires. Yes, you will occasionally get lucky and people will give you help, but you determine how your life will turn out.
+Once you realize that no one controls your life but you, then you can start doing what needs to be done to make your life look like your greatest desires. Yes, you will occasionally get lucky, and people will give you help, but you determine how your life will turn out.
 
 ---
 
@@ -40,19 +42,19 @@ Once you realize that no one controls your life but you, then can you start doin
 
 ***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.*** ([Tweet it](https://twitter.com/EdLatimore/status/1206588350456586240){: target="_blank" rel="noopener noreferrer"})
 
-Grenville Kleiser once said that *“By constant self-discipline and self-control you can develop greatness of character.”* This little-known inspirational quote sums the purpose of self-discipline. You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that gets stronger with repeated use and that strength is what makes you great.
+Grenville Kleiser once said, "*By constant self-discipline and self-control, you can develop greatness of character.”* This little-known inspirational quote sums up the purpose of self-discipline. You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that gets stronger with repeated use, which makes you great.
 
 ---
 
 ***Self-discipline is the insurance policy against the failure of the fickle forces of motivation and inspiration.*** ([Tweet it](https://twitter.com/EdLatimore/status/1298020982150569984){: target="_blank" rel="noopener noreferrer"})
 
-You will never have what you want if you only work when you feel like it. People who rely on motivation and inspiration are rely on an emotion. Emotions, by their very nature, are unpredictable and unreliable. You must force yourself to work if you ever want to be free from the whims of motivation and inspiration. Jim Rohn said it best: "We must all suffer one of two things: the pain of discipline or the pain of regret.”
+You will never have what you want if you only work when you feel like it. People who rely on motivation and inspiration rely on emotion. Emotions, by their very nature, are unpredictable and unreliable. You must force yourself to work if you ever want to be free from the whims of motivation and inspiration. Jim Rohn said it best: "We must all suffer one of two things: the pain of discipline or the pain of regret.”
 
 ---
 
 ***Self-discipline and self-control determine the quality of your life more than anything else.*** ([Tweet it](https://twitter.com/EdLatimore/status/1059155306553491457){: target="_blank" rel="noopener noreferrer"})
 
-This is why Lou Holtz said that “Without self-discipline, success is impossible, period.” You don't have to be particularly talented. You just have to work. You can have a fine life if all you do is show up on time and stay out of trouble. Doing those things alone will guarantee that your life is fantastic.&nbsp;
+Lou Holtz said, “Without self-discipline, success is impossible, period.” You don't have to be particularly talented. You just have to work. You can have a fine life if all you do is show up on time and stay out of trouble. Doing those things alone will guarantee that your life is fantastic.&nbsp;
 
 ---
 
@@ -62,7 +64,7 @@ This is why Lou Holtz said that “Without self-discipline, success is impossibl
 
 > I thought of this after reading the following quote by the Dalai Lama:<br><br>Most of our problems are related to the mind, so we have to work to reduce our destructive emotions. Use your human intelligence in the best way you can; transform your emotions in a positive way.
 
-Emotions are a strength, but if you let them get out of a control, you can a lot of damage to yourself and others in a relatively short amount of time. I believe that a secret to success is not to divorce yourself from your emotions, but rather, to integrate them and gain their full powers.
+Emotions are a strength, but if you let them get out of control, you can damage yourself and others in a relatively short amount of time. I believe that a secret to success is not to divorce yourself from your emotions but to integrate them and gain their full powers.
 
 The former makes you weak because you deny your true nature. The latter makes you strong because you hold nothing back: you just don't let it control you either.&nbsp;
 
@@ -74,7 +76,7 @@ The former makes you weak because you deny your true nature. The latter makes yo
 
 ***I don't know. Just do something difficult.<br>You can't learn discipline from texts.*** ([Tweet it](https://twitter.com/EdLatimore/status/1287028777768321029){: target="_blank" rel="noopener noreferrer"})
 
-Discipline orders the disordered, focuses the unfocused, and makes strong the flimsy. It does this by forcing you to do difficult things. Discipline does not demand perfection or even mastery. It only requires effort and consistency. This remind some of what Lao Tzu said of discipline: "*Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength*
+Discipline orders the disordered, focuses the unfocused, and makes strong the flimsy. It does this by forcing you to do difficult things. Discipline does not demand perfection or even mastery. It only requires effort and consistency. This reminds some of what Lao Tzu said of discipline: "*Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength*
 
 ---
 
@@ -86,7 +88,7 @@ It's not a conspiracy. It's just business. ([Tweet it](https://twitter.com/EdLat
 
 ---
 
-The answer to most of your problems is either more self-control or more discipline.
+The answer to most of your problems is more self-control or discipline.
 
 This fixes every long-term problem you might have and almost every short-term one. ([Tweet it](https://twitter.com/EdLatimore/status/1272321993879302144){: target="_blank" rel="noopener noreferrer"})
 
@@ -96,7 +98,7 @@ Emotional discipline is the most important.
 
 When emotional discipline breaks, that's when you do things that change your life for the worst. ([Tweet it](https://twitter.com/EdLatimore/status/1296529542258008064){: target="_blank" rel="noopener noreferrer"})
 
-Prisons and cemetaries are full people who could have avoided a tragedy, but they instead let their emotions get the best of them. The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course.&nbsp;
+Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them. The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course.&nbsp;
 
 ---
 
@@ -104,7 +106,7 @@ Fuck motivation.<br>Either you want it or you don't. ([Tweet it](https://twitter
 
 ---
 
-Young men, if you don't control your dick, your dick will control you. That discipline (or lack there of it) will make or break your life. ([Tweet it](https://twitter.com/EdLatimore/status/1400430019650981896){: target="_blank" rel="noopener noreferrer"})
+Young men, if you don't control your dick, your dick will control you. That discipline (or lack thereof it) will make or break your life. ([Tweet it](https://twitter.com/EdLatimore/status/1400430019650981896){: target="_blank" rel="noopener noreferrer"})
 
 ---
 
@@ -124,9 +126,6 @@ But he hit his head when he fell and died. Lose your emotional discipline for on
 
 Get into the habit of choosing your words carefully. If you don't have the discipline to do that, then at least have the awareness to know when you've chosen poorly, the humility to admit it, and the empathy to try again. ([Tweet it](https://twitter.com/EdLatimore/status/1431640652375265280){: target="_blank" rel="noopener noreferrer"})
 
-## Other original quote lists from my writing
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
 
-* [53 quotes about sobriety and addction](/ed-latimore-sobriety-quotes/)
-* [20 quotes about adult and childhood trauma](/trauma-quotes/)
-* [37 quotes about forgiveness](/Ed-latimore-forgiveness-quotes/)
-* [29 top crackhead quotes](/crackhead-head-quotes/)
+&nbsp;
