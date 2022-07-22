@@ -19,6 +19,8 @@ I practice forgiveness because it heals me. I believe that forgiveness is the on
 
 Because forgiveness is such an important part of my life, I've written several tweets and articles about it on my website. The following is a collection of forgiveness quotes that you can use to recognize and remember the power of forgiveness whenever you are compelled to hold a grudge, seek revenge, or are simply looking for peace.
 
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
+
 ## Forgiveness quotes from Twitter
 
 In the end, you realize that it was never personal.
@@ -257,11 +259,6 @@ Of course this is patently false, but this belief is probably responsible for ma
 
 ***\[If you want to read my entire essay about forgiving your parents, [click here](/how-to-understand-and-forgive-your-parents/).\]***
 
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
+
 &nbsp;
-
-## Other original quote lists from my writing
-
-* [53 quotes about sobriety and addction](/ed-latimore-sobriety-quotes/)
-* [20 quotes about adult and childhood trauma](/trauma-quotes/)
-* [16 quotes about self-discipline](/ed-latimore-self-discipline-quotes/)
-* [29 top crackhead quotes](/crackhead-head-quotes/)
