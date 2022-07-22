@@ -49,6 +49,8 @@ Applied modernly, watch out for people who claim to have a deep general understa
 
 These people aren’t strategists. They’re just sword-fencers.
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ## 3) Teachers need students; students need teachers
 
 > **The teacher is as a needle, the disciple is as thread.**
@@ -134,11 +136,4 @@ It also highlights the importance of speed. This is the most valuable attribute 
 9. **“Because you can win quickly by taking the lead, it is one of the most important things in strategy.”**
 10. **“In strategy, you have effectively won when you forestall the enemy.”**
 
-## **Other notes and big ideas from books I’ve read**
-
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
-* [Klandestine Relationships by Daryl Davis](/daryl-davis-book/)
-* [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
