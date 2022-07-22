@@ -207,9 +207,9 @@ No one should ever be ashamed of the immutable traits they were born with. This 
 
 This is dangerous because pride is supposed to stem from accomplishments. If we start to view our race as an accomplishment, the subtle implication is that everyone not born that way is inferior. This is because pride, by its very nature, is a zero-sum game. Allow me to explain.
 
-If we break events down into their outcomes and the processes that lead to those outcomes, this means people can be proud of either how something turned out (the outcome) or the effort they put forth in pursuit of an outcome (the process). Your race isn't something you put effort into choosing, so that eliminates the process aspect of it. This leaves the outcome.
+If we break events down into their outcomes and the processes that lead to them, people can be proud of either how something turned out (the outcome) or the effort they put forth in pursuit of an outcome (the process). Your race isn't something you put effort into choosing, so that eliminates the process aspect. This leaves the outcome.
 
-If you're proud of being White, then it implies that it's an accomplishment that no one else could accomplish. This is the same for being proud of being Black. If you derive your self-esteem and sense of importance from something that you had no control of, there is a bigger problem at hand: you are ashamed of who you are and the only way to find something to be proud of is to latch on to your race.
+If you're proud of being White, it implies that it's an accomplishment no one else could accomplish. This is the same for being proud of being Black. If you derive your self-esteem and sense of importance from something you had no control over, there is a bigger problem: you are ashamed of who you are, and the only way to find something to be proud of is to latch on to your race.
 
 This reminds me of something Tony McAleer, a former white supremacist, said in his book ["The Cure For Hate"](/the-cure-for-hate/)\:
 
@@ -222,17 +222,17 @@ This reminds me of something Tony McAleer, a former white supremacist, said in h
 >
 > **Perhaps my experiences will shed more understanding and others will be inspired to seek out and eradicate racial prejudice with education, not only the academic type one receives in school, but the kind we attain when we learn about our fellow human beings from one-on-one, non-confrontational encounters.** It is my dream, that through this new discourse, in a new millennium of brotherly love and friendship, we will overcome hatred and prejudice."
 
-Daryl's method, by his own admission, isn't perfect. He doesn't tout it as the cure for racism and hatred. Many Klan members stay in the Klan despite their interactions with Daryl. There is also the perception that some Blacks have of him as a sell-out.
+Daryl's method, by his admission, isn't perfect. He doesn't tout it as the cure for racism and hatred. Many Klan members stay in the Klan despite their interactions with Daryl. There is also the perception that some Blacks have of him as a sell-out.
 
 One interaction from the documentary Accidental Courtesy stands out to me.
 
-Daryl meets with three Baltimore Black Lives Matter activists ([J.C. Faulk](https://www.osibaltimore.org/fellow/jc-faulk/),[Kwame Rose](https://en.wikipedia.org/wiki/Kwame_Rose), & [Tariq Touré](http://www.tariqtoure.com/)) who raise some points about the approach and efficacy of his method. Before a resolution can be met, things get out of hand and the parties never continue talking.
+Daryl meets with three Baltimore Black Lives Matter activists ([J.C. Faulk](https://www.osibaltimore.org/fellow/jc-faulk/),[Kwame Rose](https://en.wikipedia.org/wiki/Kwame_Rose), & [Tariq Touré](http://www.tariqtoure.com/)) who raise some points about the approach and efficacy of his method. Before a resolution can be met, things get out of hand, and the parties never continue talking.
 
-Later, during the premier of the documentary, Kwame and Daryl are on much better terms because they got a chance to talk and connect. Though Kwame doesn't necessary agree with Daryl's approach, they have a much better understanding of one another.
+Later, during the premiere of the documentary, Kwame and Daryl are on much better terms because they got a chance to talk and connect. Though Kwame doesn't necessarily agree with Daryl's approach, they have a much better understanding of one another.
 
-This interaction is important to note because it demonstrates the crux of Daryl's approach. Daryl wants to change the mindsets of people. He is humble enough to recognize that although a lot of legal change that has taken place, our mindsets are changing too slowly.
+This interaction is important to note because it demonstrates the crux of Daryl's approach. Daryl wants to change the mindsets of people. He is humble enough to recognize that although a lot of legal change has occurred, our mindsets are changing too slowly.
 
-The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives aimed at dismantling White supremacy and systemic racism. But Daryl is simply doing what he knows best and making a dent in the scourge of racism along the way.
+The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives to dismantle white supremacy and systemic racism. But Daryl is doing what he knows best and making a dent in the scourge of racism.&nbsp;
 
 *"Well I would hope that by the time I'm gone, things like this would not be as prevalent. But, if they are, perhaps this film will encourage others to do the same and do a better job than I've been able to do."*
 
