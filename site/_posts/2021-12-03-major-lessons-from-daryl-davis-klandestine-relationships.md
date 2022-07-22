@@ -4,7 +4,6 @@ article_type: Article
 title: '“Klandestine Relationships” by Daryl Davis: 12 lessons'
 permalink: /daryl-davis-book/
 tags:
-  - how-to-make-friends
   - book-quotes-and-summaries
 description: >-
   Daryl Davis is a Black man who has friends in the Ku Klux Klan. He wrote about
@@ -25,9 +24,7 @@ He wrote a book about his experiences with neo-Nazis, skinheads, White supremaci
 
 The book is currently out of print, but the few booksellers that have used copies are willing to part with theirs for a hefty sum. I found a relatively cheap copy for $150. I didn't mind paying the price, and it was well worth it.
 
-The bulk of the book is an autobiographical narrative, but the afterward is Daryl's reflections on race relations, clarification of his motives for his mingling with the Klan, and his hopes for the future. I wrote Mr. Davis and got his permission to include parts of the afterward in this post to breakdown and contribute my thoughts here.
-
-{% include widgets/toc.html heading="12 major lessons from Daryl Davis' 'Klandestine Relationships'" list-items="The best way to get people to listen to you is to listen to them first, Fighting fire with fire only creates a bigger fire, You can disagree without being disrespectful, Someone has to make the first move in good faith, Ignorance breeds fear. Fear breeds hate. Hate breeds destruction., Acknowledge the similarities before you address the differences, Time and exposure are the only ways to eliminate racism, The root of racism and prejudice is low self-esteem, Categories create racial division pt. 1, Categories create racial division pt. 2, The problem with racial pride, Improving the blueprint for race relations" list-ids="1-the-best-way-to-get-people-to-listen-to-you-is-to-listen-to-them-first, 2-fighting-fire-with-fire-only-creates-a-bigger-fire, 3-you-can-disagree-without-being-disrespectful, 4-someone-has-to-make-the-first-move-in-good-faith, 5-ignorance-breeds-fear-fear-breeds-hate-hate-breeds-destruction, 6-acknowledge-the-similarities-before-you-address-the-differences, 7-time-and-exposure-are-the-only-ways-to-eliminate-racism, 8-the-root-of-racism-and-prejudice-is-low-self-esteem, 9-categories-create-racial-divisi-pt-1, 10-categories-create-racial-division-pt-2, 11-the-problem-with-racial-pride, 12-improving-the-blueprint-for-race-relations" %}
+The bulk of the book is an autobiographical narrative, but the afterward is Daryl's reflections on race relations, clarification of his motives for his mingling with the Klan, and his hopes for the future. I wrote Mr. Davis and got his permission to include parts of the afterward in this post to break down and contribute my thoughts here.
 
 ## 1) The best way to get people to listen to you is to listen to them first
 
@@ -52,11 +49,13 @@ The bulk of the book is an autobiographical narrative, but the afterward is Dary
 
 When you can disagree with the idea without attacking the person who delivers that idea, only then can real progress can be made.
 
-We tend to forget that although we are the summation of our ideas and the actions we take motivated based on those ideas, we don't feel an attachment to the words we say like we do our ego's.
+We tend to forget that although we are the summation of our ideas and our actions motivated based on those ideas, we don't feel attached to the words we say like we do our egos.
 
-For example, there's a big difference between the reaction you receive when you call what someone said "stupid" versus when you call that person "stupid". You can make great progress with a person if you learn to criticize their thoughts but not their person.
+For example, there's a big difference between the reaction you receive when you call what someone said "stupid" versus when you call that person "stupid". You can make great progress with a person if you learn to criticize their thoughts, not their person.
 
-I'm not saying that it's easy to separate the message from the messenger, but I believe it's a necessary if we ever hope to improve how we communicate with each other. Furthermore, you stand a much better chance of influencing the messenger if you can keep him from becoming defensive, and the fastest way to make someone defensive is to attack them
+I'm not saying that it's easy to separate the message from the messenger, but I believe it's necessary if we ever hope to improve how we communicate. Furthermore, you stand a much better chance of influencing the messenger if you can keep him from becoming defensive, and the fastest way to make someone defensive is to attack them
+
+#### [Check out more of my book summaries and quotes](https://edlatimore.com/book-quotes-and-summaries)
 
 ## 4) Someone has to make the first move in good faith
 
@@ -65,13 +64,13 @@ I'm not saying that it's easy to separate the message from the messenger, but I 
 >
 > **I am not trying to downplay the Klan's atrocities, past or present; however, after more than 130 years of violence and hatred, I felt it was time we get to know one another on a social basis and not under the cover of darkness.**"
 
-If there is one part of Daryl's approach that people have an issue with, it's the fact that he has friendly interactions with an organization that is notorious for inflicting harm on minorities, Blacks especially. It is not the place of this article to convince anyone that his path is the best path. In fact, he often says so himself that his method is just one method and he hopes that people will continue to improve it in the future.
+If there is one part of Daryl's approach that people have an issue with, it's the fact that he has friendly interactions with an organization that is notorious for inflicting harm on minorities, Blacks especially. It is not the place of this article to convince anyone that his path is the best path. In fact, he often says so himself that his method is just one method, and he hopes that people will continue to improve it in the future.
 
 Forgiveness plays a major role in our ability to move forward and eradicate hate.
 
 **\[[In this article](/Ed-latimore-forgiveness-quotes/), I discuss several methods for forgiving people and problems with the world.\]**
 
-While I don't recall Daryl using the term "forgiveness" in his book or articles, his approach is in the spirit of forgiveness. He's aware of the Klan's former atrocities, but he is willing to give them a fresh look once they hold themselves accountable for their actions.
+While I don't recall Daryl using "forgiveness" in his book or articles, his approach is in the spirit of forgiveness. He's aware of the Klan's former atrocities, but he is willing to give them a fresh look once they hold themselves accountable for their actions.
 
 He's gotten many to leave the Ku Klux Klan and likely softened the hearts and perspectives of thousands of others. These conversions are significant in the short term but are truly game-changing in the long run. Every person who leaves the Klan does 4 things simultaneously. They:
 
@@ -80,9 +79,9 @@ He's gotten many to leave the Ku Klux Klan and likely softened the hearts and pe
 3. Make themselves a role model for anyone looking to leave hate behind.
 4. Stop hate from spreading to the next generation.
 
-There are two paths to eliminate racial discord and hate: one is total destruction of one side. The other is forgiveness. Most people don't want the former to happen, even if they're on the other side. However, we seem to be clueless about how to proceed with the latter.
+There are two paths to eliminate racial discord and hate: one is destruction of one side. The other is forgiveness. Most people don't want the former to happen, even if they're on the other side. However, we seem clueless about how to proceed with the latter.
 
-Forgiveness doesn’t mean that you forget the wrongs that have been done. It means that you stop trying to exact equal or greater damage in return because you realize that it will not undo the damage done. It will only perpetuate more in the future.
+Forgiveness doesn’t mean that you forget the wrongs that have been done. It means you stop trying to exact equal or greater damage in return because you realize that it will not undo the damage done. It will only perpetuate more in the future.
 
 ## 5) Ignorance breeds fear. Fear breeds hate. Hate breeds destruction.
 
@@ -95,11 +94,11 @@ The driving question behind Daryl's quest has been "How can you hate me if you d
 
 Throughout the book, Daryl recounts several times where he's the first Black person with whom a Ku Klux Klan member had a conversation, let alone shared a drink. This is important to take note of.
 
-Many members of the Klan were raised in places where they never interacted with someone who looks different from them. This isolation makes it difficult for a person to get an accurate assessment of the reality of things because their formative experiences are filtered and incomplete. Depending on that filter's environment and the incomplete information's narrative, an isolated environment can become a hotbed for racial extremism.
+Many members of the Klan were raised in places where they never interacted with someone who looks different from them. This isolation makes it difficult for a person to get an accurate assessment of the reality of things because their formative experiences are filtered and incomplete. Depending on that filter's environment and the incomplete information narrative, an isolated environment can become a hotbed for racial extremism.
 
 I would imagine that this is why extremism is much more common in poorer, less educated portions of rural America.[In fact, an American county's racial diversity, income, and education level are leading predictors of whether an organized hate group is present there.](https://www.bloomberg.com/news/articles/2018-03-15/the-geography-of-hate-groups-in-the-u-s)
 
-When life is hard (as it tends to be for anyone poor or uneducated), it's easier to blame your problems on an entire group that you aren't exposed to. If all you know is what you're told or see portrayed in the media, then it's not a surprise that you eventually come to hate an entire group of people.
+When life is hard (as it tends to be for anyone poor or uneducated), it's easier to blame your problems on an entire group you aren't exposed to. If all you know is what you're told or see portrayed in the media, it's not surprising that you eventually come to hate an entire group of people.
 
 ## 6) Acknowledge the similarities before you address the differences
 
@@ -116,7 +115,7 @@ But if you can get people who are obsessed with how they're different from you t
 
 However, the goal isn't merely to find common ground. The goal, as ambitious as it sounds, is to abolish racism. At the very least, the goal is to develop an effective protocol that gets people to willingly change their perspective to one of inclusion rather than exclusion. Finding common ground is just a starting point.
 
-The inevitable result of focusing on our differences is conflict. Focusing on our similarities and connecting on them buys us time to see one another as more alike than different. We all want the same things and enjoy the same things. We only forget this when we become obsessed with the superficial differences that only run skin deep.
+The inevitable result of focusing on our differences i conflict. Focusing on our similarities and connecting with them buys us time to see one another as more alike than different. We all want the same things and enjoy the same things. We only forget this when we become obsessed with the superficial differences that only run skin deep.
 
 ## 7) Time and exposure are the only ways to eliminate racism
 
@@ -128,17 +127,17 @@ The inevitable result of focusing on our differences is conflict. Focusing on ou
 >
 > **Time and exposure is a great healer—perhaps the only healer for irrational fear and hatred. Laws can be made to take people out of the Klan, but laws cannon be made to take the Klan mentality out of people. The best way we can learn to respect each other is to know each other.**"
 
-When people talk about fighting racism, they often forget that they're fighting a war on two fronts: a physical one and a mental one.
+When people talk about fighting racism, they often forget that they're fighting a war on a physical and a mental front.
 
-The physical battle is the easiest to fight. We can create anti-discrimination mandates, directives, and laws that make it illegal to treat people differently based on their race. However, these are only as effective as the progress made on the mental front.
+The physical battle is the easiest to fight. We can create anti-discrimination mandates, directives, and laws that make treating people differently based on their race illegal. However, these are only as effective as the progress made on the mental front.
 
-Abolishing Jim Crow laws and the passing of the Civil Rights Act didn't erase a racist mindset. The problem with changing a mindset is that there is nothing that can force it to happen. In fact, when people feel like they're being forced to do or think a certain way, they tend to go in the opposite direction as a matter of principle.
+Abolishing Jim Crow laws and passing the Civil Rights Act didn't erase a racist mindset. The problem with changing a mindset is that nothing can force it to happen. In fact, when people feel like they're being forced to do or think a certain way, they tend to go in the opposite direction as a matter of principle.
 
 Mindset and perspective change cannot be motivated by external decree.
 
-Daryl is changing mindsets via exposure and time. WIth that said, during the screening of Accidental Courtesy, Daryl says about mindset change that "While it's a lot better than having the government force something down your throat, we've been changing mindsets a little too slowly."
+Daryl is changing mindsets via exposure and time. With that said, during the screening of Accidental Courtesy, Daryl says about mindset change "While it's a lot better than having the government force something down your throat, we've been changing mindsets a little too slowly."
 
-Perhaps it's not possible to change a whole generation of mindsets any faster than one person at a time, but the people who criticize the speed and inefficiency of this method are forgetting something important. One person who leaves a hate organization is one less person who spreads hate. Very often, this is a person who breaks the chain of hatred that would be passed down to their family.
+Perhaps it's impossible to change a whole generation of mindsets faster than one person at a time. Still, the people who criticize the speed and inefficiency of this method are forgetting something important. One person who leaves a hate organization is one less person who spreads hate. This person often breaks the chain of hatred that would be passed down to their family.
 
 Maybe there is a faster way to change mindsets. Maybe there isn't. Regardless of how you feel about Daryl's methods, this is a lot better than doing nothing.
 
@@ -162,7 +161,7 @@ Maybe there is a faster way to change mindsets. Maybe there isn't. Regardless of
 >
 > **My ancestors, like the ancestors of most Blacks in this country, got off a boat many centuries ago, thus making the nationality of their descendants just plain American and their race Black. I feel the same way about White Americans who have been here for generations and see no reason to call them Euro-Americans.**"
 
-As long as we stress the idea of a separate identity for people who have the same national origin, we create a new problem: we see ourselves as separate segmented subgroups rather than as a collective whole.
+As long as we stress the idea of a separate identity for people with the same national origin, we create a new problem: we see ourselves as separate segmented subgroups rather than as a collective whole.
 
 In Accidental Courtesy, Daryl says *"At one time, we \[Black people\] had no history. No Black history in this country. All we had was American history, which may as well had been called White history."* Daryl has elaborated on this point further in his interview on the Joe Rogan podcast:
 
@@ -237,15 +236,6 @@ The solution, whatever it is, won't be with Daryl's method or activism alone. It
 
 *"Well I would hope that by the time I'm gone, things like this would not be as prevalent. But, if they are, perhaps this film will encourage others to do the same and do a better job than I've been able to do."*
 
+#### [Check out more of my book summaries and quotes](https://edlatimore.com/book-quotes-and-summaries)
+
 &nbsp;
-
-## **Other notes and big ideas from books I’ve read**
-
-* [The Hagakure by Yamamoto Tsunetomo](/hagakure-quotes/)
-* [The Art of War by Sun Tzu](/art-of-war-quotes-and-summary/)
-* [The Cure for Hate by Tony McAleer](/the-cure-for-hate/)
-* [The Book of Five Rings by Miyamoto Musashi](/the-book-of-five-rings-quotes/)
-* [Thinking in Bets by Annie Duke](/annie-duke-thinking-in-bets-quotes/)
-* [The Prince by Niccol&ograve; Machiavelli](/the-prince-machiavelli-quotes/)
-* [The Tao of Jeet Kune Do by Bruce Lee](/tao-of-jeet-kune-do-quotes/)
-* [The Tao Te Ching by Lao Tzu](/tao-te-ching-quotes/)
