@@ -41,6 +41,8 @@ The way you resolve that is you invite somebody to the table who disagrees with 
 
 If they go beyond that fear and develop a hatred, that’s harder to overcome.”
 
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+
 ---
 
 “Always keep the lines of communication open with your adversary, regardless of what the topic is. When two enemies are talking, they’re not fighting.
@@ -86,3 +88,5 @@ Allow them to air their views. And when you do things like that, there is an exc
 ---
 
 “I never set out to convert anyone. I just set out to get that answer to my question ‘How can you hate me when you don’t even know me?’And in my quest to have that answer, they couldn’t answer it, and some of them ended up converting themselves”
+
+#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
