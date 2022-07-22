@@ -99,3 +99,5 @@ If you want to see how authentic someone is, start looking at what they \*don't\
 ---
 
 The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty. ([Tweet it](https://twitter.com/EdLatimore/status/1100587920203882496){: target="_blank" rel="noopener"})
+
+#### [Check out more Ed Latimore Original Quotes](https://edlatimore.com/ed-latimore-original-quotes)
