@@ -98,4 +98,4 @@ The difference between a bitter hater and an intense rival is how they chose to 
 
 **When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters\! That's what they're *supposed* to do\! It's in the name…** ([Tweet it](https://twitter.com/EdLatimore/status/1440475860880924674){: target="_blank"})
 
-&nbsp;
+#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
