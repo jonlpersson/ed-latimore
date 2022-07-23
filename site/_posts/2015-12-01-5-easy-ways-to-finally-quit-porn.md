@@ -47,7 +47,7 @@ Porn addiction makes a person more likely to cheat, causing emotional distress f
 
 While emotional and spiritual work may help, porn's appeal is simple:
 
-It's not appealing because you're broken, empty, or [have an addictive personality](/sobriety-benefits/){: target="_blank"}. Porn is appealing because orgasms feel good and are the result of giving in to the most powerful drive on the planet; the need to procreate.
+It's not appealing because you're broken, empty, or [have an addictive personality](/sobriety-benefits/){: target="_blank"}. Porn is appealing because orgasms feel good and result from giving in to the most powerful drive on the planet; the need to procreate.
 
 The easy access to internet pornography allows you to get this effect whenever you want with as much variety as you desire.
 
@@ -58,6 +58,8 @@ It's basically impossible to get bored of sexual variety. A man will choose a ne
 The human mind has a surprisingly difficult time distinguishing between real and imagined events. Part of the reason why viewing porn is addictive is why scary movies are scary.
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## **Should you give up porn?**
 
@@ -204,8 +206,10 @@ It doesn’t have to be in person either. I used Whatsapp and telegram to organi
 
 Beating porn addiction falls under the “simple, but not easy” category.
 
-I'm avoiding the argument of whether you should or shouldn’t watch porn. If you want to quit porn, these four steps are all you need. Just remember, the first 3 days are the most difficult because you're overcoming pavlovian conditioning.
+I'm avoiding the argument of whether you should or shouldn’t watch porn. To quit porn, these seven steps are all you need. Just remember, the first 3 days are the most difficult because you're overcoming pavlovian conditioning.
 
 After that, it gets much easier.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/cta-email.html %}
