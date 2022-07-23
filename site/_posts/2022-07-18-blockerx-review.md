@@ -18,6 +18,8 @@ Thankfully, other options exist to help guys break one of the most isolating and
 
 A popular tool that offers both of these features is BlockerX, and its app can help you beat addiction and stop procrastinating.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ## What is BlockerX?
 
 BlockerX is a VPN-based porn-blocking and accountability software that lets you browse the web safely and without distractions by blocking ads, porn sites, gambling sites, social media, and even video games. It also offers a safe search feature by blocking an exhaustive list of adult keywords from appearing in search results.
@@ -84,3 +86,5 @@ BlockerX is free, but the Premium version is available via an annual subscriptio
 BlockerX is a solid option primarily due to its compatibility with Android, iOS, and popular web browsers. If you’re looking for an app that can start blocking unwanted websites and apps for you, BlockerX’s free version is great for getting started. If you’re looking for something more, upgrading to the premium subscription gives you better control with added features like uninstall protection and daily accountability reports.
 
 Overall, I’ve found [Covenant Eyes](/best-porn-blocker/) to be a better product due to its superior accountability reports and 24/7 customer support. But if you’re looking for a more affordable option with a similar set of features, you really [can’t beat BlockerX](https://premium.blockerx.net/affiliate-ed-latimore/?ref=edlatimore). Give it a try and let me know what you think.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
