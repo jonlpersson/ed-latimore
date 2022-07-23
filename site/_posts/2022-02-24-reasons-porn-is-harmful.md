@@ -53,6 +53,8 @@ What is true for everyone, however, is that porn desensitizes you to sexual stim
 
 Masturbation is as natural as a sunny day. However, when you use porn to skip the natural arousal process, you train your sexual impulses for instant gratification. Try masturbation without porn, or abstain from both altogether. It’ll reverse the desensitizing effects of porn and retrain your ability to be aroused more easily.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ## Porn drains the sexual intimacy from your relationships
 
 Porn use is typical of single men as a way to obtain easy sexual gratification. In the wild, this lowers your desire for a sex life, making it more difficult to go out and meet women you might hit it off with.
@@ -110,6 +112,8 @@ There’s a new movement in the alcohol industry called “sober curious”. Bri
 * Compulsive porn use creates a negative loop with stress, anxiety, and depression
 * Porn is a real addiction
 * Porn addiction has the same effects on your frontal lobe as a brain injury
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
