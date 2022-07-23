@@ -34,6 +34,8 @@ It’s not always in our DNA to seek help when we struggle, but sometimes hard p
 
 Knowing that there’s a near-infinite supply of any adult fantasy only a click away is what makes online porn so tough to beat. You have to put up the proper defense to protect yourself, and that’s what Covenant Eyes aims to accomplish.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ## Covenant Eyes' primary features
 
 Covenant Eyes is one of the premier porn blockers and accountability software on the market, thanks to its full suite of features:
@@ -101,4 +103,6 @@ One of the critical lessons I learned as a professional boxer is to always know 
 
 To make it a fair fight, you need to take a play out of the porn industry’s playbook by protecting yourself with a tool that’s also looking to constantly innovate.
 
-That’s what makes [Covenant Eyes my top choice for fighting back](https://covenanteyes.sjv.io/QOzdN9) (I get a small % cut of each sale made through the link, which helps pay my bills). Sure, there’s a handful of apps on the market that can help you break the habit. Still, I haven’t found a better tool that delivers quite the one-two punch of effectively blocking adult content and offering the kind of accountability that gives you the agency to break free from addiction.
+That’s what makes [Covenant Eyes my top choice for fighting back](https://covenanteyes.sjv.io/QOzdN9) (I get a small % cut of each sale made through the link, which helps pay my bills). Sure, there are a handful of apps on the market that can help you break the habit. Still, I haven’t found a better tool that delivers quite the one-two punch of effectively blocking adult content and offering the kind of accountability that gives you the agency to break free from addiction.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
