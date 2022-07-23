@@ -53,6 +53,8 @@ The initial days and weeks without my stress coping mechanisms brought on all of
 
 You may experience these differently depending on your level of addiction. I had to make hard decisions about what I wanted my life to look like, start new habits, and follow through with action to get past my demons.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ### Body aches and pains
 
 Withdrawal symptoms can go far beyond mild discomfort and turn into downright pain. Dopamine’s main role in the body is to substitute pain for pleasure. It makes suffering bearable. That’s why you see opioid addicts literally screaming from the pain of withdrawal because opioids reduce your ability to create dopamine.
@@ -147,6 +149,8 @@ If you’re going to navigate addiction recovery and beat it, don’t forget:
 My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and Addictions](https://edwardlatimore.gumroad.com/l/rvKFC) gives you a headstart in dealing with your withdrawal symptoms. You’ll gain the tools to recover from porn addiction and substance addiction, even if you’ve already relapsed thousands of times.
 
 As I always say, the rest is up to you.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
