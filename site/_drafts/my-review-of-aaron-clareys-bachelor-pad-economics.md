@@ -10,7 +10,7 @@ tags:
 description: >-
   Bachelor Pad Economics: The Financial Advice Bible For Men gives guys
   everything they need to build a life without financial and female stress.
-image:
+image: /assets/images/drafts/bachelor-pad-economics-review.jpeg
 ---
 ## Who is Aaron Clarey?
 
