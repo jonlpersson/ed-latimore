@@ -77,13 +77,15 @@ This one is the most obvious sign, yet it must be stated.
 
 Try to stop watching porn for the next 2 weeks.
 
-This will be close to impossible for anyone who's been a daily porn watcher for 5 -10 years.
+This will be nearly impossible for anyone who's been a daily porn watcher for 5 -10 years.
 
-Years of training your brain to expect pleasure before you go to sleep or feel anxious have doomed you to a reward loop where you might not even realize yourself being triggered.
+Years of training your brain to expect pleasure before you sleep or feel anxious have doomed you to a reward loop where you might not even realize yourself being triggered.
 
 The difference between enjoyment and addiction is one of “want to” versus “need to.” While the underlying cause of your problem might be poor self-control, your addiction isn’t an issue until there are adverse outcomes.
 
 Until then, it’s just a fun process.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## You spend money on porn
 
@@ -184,7 +186,7 @@ The problem is simple, and no pill can fix it:
 
 No human woman will compare to a dozen beautiful naked women performing deviant sexual acts in the best lighting, looking like they're having a blast—especially when endless varieties of that woman can be accessed on-demand.
 
-The levels of reported ED issues among young men have skyrocketed in recent years. To anyone familiar with the porn epidemic this is not surprising at all.
+The levels of reported ED issues among young men have skyrocketed in recent years. To anyone familiar with the porn epidemic, this is not surprising at all.
 
 * In 2012, [Swiss researchers found](https://www.brainblogger.com/2017/10/06/excessive-porn-consumption-can-cause-erectile-dysfunction-myth-or-truth/){: target="_blank"} Erectile Dysfunction (ED) rates of 30% in a cross-section of Swiss men aged 18 to 24.
 * A 2013, [Italian researchers found](https://www.jsm.jsexmed.org/article/S1743-6095&#40;15&#41;30428-8/fulltext){: target="_blank"} that 1 in 4 men under the age of forty have reported some type of erectile dysfunction.
@@ -272,5 +274,7 @@ The shame. The depression. The ED. The late-night hentai sessions. The low energ
 It won’t be easy, but it will be worth it.
 
 You’ll come out the other side better and you’ll thank yourself.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/cta-email.html %}
