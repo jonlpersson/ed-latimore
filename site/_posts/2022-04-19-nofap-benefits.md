@@ -92,11 +92,13 @@ Repurpose your time and energy away from porn to:
 * Practice conversations to become a better communicator
 * Catch up on sleep that you miss staring at blue screens late at night
 
-Pornography addiction exacerbates your worst traits. The personal confidence that you get from NoFap empowers you to be your best self. Fapstronauts call the gains from this journey “superpowers” because they’ve experienced this firsthand.
+Pornography addiction exacerbates your worst traits. The personal confidence you get from NoFap empowers you to be your best self. Fapstronauts call the gains from this journey “superpowers” because they’ve experienced this firsthand.
 
 Lao Tzu said it best in the Tao Te Ching:
 
 “Conquering others is power; conquering the self is strength.”
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## Changing your life with NoFap
 
@@ -115,6 +117,8 @@ Don’t forget to revisit the benefits of NoFap:
 * You’ll find the motivation to tackle your most important goals
 
 It all starts with doing the work.
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
