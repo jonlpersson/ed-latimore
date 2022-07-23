@@ -38,6 +38,8 @@ Young men today have 24/7 access to high-speed hardcore pornography. It’s avai
 
 It’s not a coincidence that 33% of men 18 to 24 reported having had no sexual activity in 2019.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ## 3\. Masturbating to porn warps your brain and creates bad habits
 
 Stoics acknowledge their urges and desires then put them in their proper place. They’re not carried away by them like a raging river. Pornography use forces you to be at the whim of emotions that are already difficult for young men to control. You’re constantly chasing the joy of sex. When you finally quit porn, you learn to allow the feelings to come to you.
@@ -87,7 +89,7 @@ Women shouldn’t be your purpose, but your time with them should be purposeful.
 
 ## 7\. It’s a vicious, time-wasting cycle
 
-Think about all the things you could be doing instead of binging porn. How successful could you become if instead of booting up your computer for easy stimulation you read a book, lifted weights, or worked on your mission? Quitting porn gives you superpowers.
+Think about all the things you could be doing instead of binging porn. How successful could you become if, instead of booting up your computer for easy stimulation, you read a book, lifted weights, or worked on your mission? Quitting porn gives you superpowers.
 
 This is a concept [Napolean Hill talked about in Think and Grow Rich](https://www.indiebound.org/search/book?aff=vijaykum&amp;keys=napoleon%20hill), called sexual transmutation. Essentially it means instead of spending your time and sexual energy chasing sexual satisfaction, use it productively. That could be working on your life goals, increasing intimacy with your partner, or picking up a new hobby.
 
@@ -109,7 +111,7 @@ When you quit porn, you gain freedom from the guilt of having your porn use disc
 
 ## Wrapping up: The real reason you should quit porn
 
-The real reason you should quit porn is because it’s controlling you, you aren’t controlling it. Porn is like an endless tap of cocaine. Only no one will be there to stage an intervention if you need help.
+The real reason you should quit porn is that it’s controlling you; you aren’t controlling it. Porn is like an endless tap of cocaine. Only no one will be there to stage an intervention if you need help.
 
 So if you’re considering that it’s time to give up pornography, remind yourself of these things when temptation sets in:
 
@@ -122,6 +124,8 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * It’s a waste of time
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
