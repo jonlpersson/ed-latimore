@@ -130,6 +130,8 @@ You’ll get a headstart with my [Vicebreakers course](https://edlatimore.com/pr
 
 The rest is up to you.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ---
