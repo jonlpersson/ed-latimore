@@ -1,11 +1,15 @@
 ---
 date: 2022-07-23 17:29:40 -0400
 article_type: Article
-title: My review of Aaron Clarey's "Bachelor Pad Economics"
+title: >-
+  My review of Aaron Clarey's "Bachelor Pad Economics: The Financial Advice
+  Bible For Men""
 permalink: /review-of-aaron-clarey-bachelor-pad-economics/
 tags:
   - book-quotes-and-summaries
-description:
+description: >-
+  Bachelor Pad Economics: The Financial Advice Bible For Men gives guys
+  everything they need to build a life without financial and female stress.
 image:
 ---
 ## Who is Aaron Clarey?
@@ -34,30 +38,36 @@ And what is the truth? In [“Bachelor Pad Economics: The Financial Bible for Me
 
 If books about personal finance have turned you off because of their generic (don’t spend more than you make and trash credit cards) advice, then Clarey’s work will be a breath of fresh air.
 
-The best part of Bachelor Pad Economics is that Clarey begins advising you as if you are a young man. The tone is “older brother giving tough love advice you need to hear”. He details the problems men face if they want to develop financial stability.
+The best part of Bachelor Pad Economics is that Clarey begins advising you as if you are a young man. The tone is “older brother [giving tough love advice](/tough-love/) you need to hear.” He details the problems men face if they want to develop financial stability and have great relationships with women.&nbsp;
 
 Knowing the societal forces working against you is important if you want a chance to survive. Clarey makes it clear that the older generations now have incentives to make sure you don’t become the best version of yourself. Many of us were taught to trust our elders, but they are not qualified to navigate us in this new world.
 
-Clarey doesn’t waste your time hashing out tired budgeting advice. Instead, he gets you to consider the [3 fundamental laws of humanity](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/1480284769/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=1480284769&amp;linkId=e1578013065b09d0b14d13bb1340e565){: target="_blank"}. Understanding these three fundamental laws of humanity and how they play a role in your life will enable you to make sound financial decisions regardless of the resources at your disposal.
+Clarey doesn’t waste your time hashing out tired budgeting advice. Instead, he gets you to consider the 3 fundamental laws of humanity. Understanding these three fundamental laws of humanity and how they play a role in your life will enable you to make sound financial decisions regardless of the resources at your disposal.
 
 While this is largely “easier said than done,” Clarey recognizes their value and relates them to your financial health. If everyone followed these 3 rules of humanity, not only would people have more money, but they’d be happier as well.
 
-The last significant point of the book I want to touch on is the role of education and people. As the old saying goes, “Well begun is half done,” and this is the basic advice that Clarey gives on education.
+The last significant point of the book I want to touch on is the role of education and people. As the old saying goes, “Well begun is half done,” and this is Clarey's basic advice on education.
 
-Pick a STEM major or a trade. Anything else will doom you to a life of just scraping by or outright servitude. He goes into greater depth on this in his book [“Worthless: The Young Person’s Indispensable Guide to Choosing the Right Major](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/1467978302/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=1467978302&amp;linkId=5b188652723df0dde2e5efd06442fe99){: target="_blank"}.”
+Pick a STEM major or a trade. Anything else will doom you to a life of just scraping by or outright servitude. In his book [“Worthless: The Young Person’s Indispensable Guide to Choosing the Right Major](https://amzn.to/3cyW4VW){: target="_blank"}.”
+
+## Bachelor Pad Economics will save you before you need saving
 
 As for dealing with friends and girls, he warns young men about the dangers of selecting the wrong girls or wrong friends. Reading this section made me think about all the bullets I’d dodged and made me fortunate to have made it to age 37 with no arrest record.
 
-Though everyone can benefit from this book, pre-college guys stand to gain the most from it because it addresses two things that often ruin a man's life early on: going in debt to study worthless subjects and getting entangled with the wrong women. I always say that if a man can avoid:
+Though everyone can benefit from this book, pre-college guys stand to gain the most from it because it addresses two things that often ruin a man's life early on: going into debt to study worthless subjects and getting entangled with the wrong women. I always say that if a man can avoid:
 
 * A criminal record
 * Kids with the wrong woman
 * Excessive debt
 
-Then he will always be able to do what he wants. Granted, it’s easier as an 18-year-old than a 30-year-old, but you always have the option to improve your life if you avoid these major mistakes. All of Clarey’s books help you to do that.
+Then he will always be able to do what he wants.
 
-***Checkout all of Aaron Clarey’s books***
+Granted, it’s easier as an 18-year-old than a 30 or 40-year-old, but you always have the option to improve your life if you avoid these major mistakes. All of Clarey’s books help you to do that.
+
+#### [***Checkout all of Aaron Clarey’s books***](https://amzn.to/3Bi8JXP){: target="_blank" rel="noopener"}
 
 The book also has specific advice for other important areas of your life, such as maintaining your health, picking where to live, and retirement planning. However, the most powerful information is in what he gives you about selecting the right mindset, people, and education path.
 
-If you follow Clarey’s advice on these matters, you won’t end up 40 years old and broke. As DMX once warned, “Life is too short to get caught up in some dumb shit. Wake up one day, 40 years old on some bum shit.”
+If you follow Clarey’s advice on these matters, you won’t end up 40 years old and broke. As DMX once warned, *“Life is too short to get caught up in some dumb shit. Wake up one day, 40 years old on some bum shit.”*
+
+#### [Check out my other book quotes, book reviews, and book summaries](https://edlatimore.com/book-quotes-and-summaries)
