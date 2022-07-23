@@ -16,7 +16,7 @@ image: /assets/images/drafts/bachelor-pad-economics-review.jpeg
 
 I’m a big fan of Aaron Clarey.
 
-I think his Youtube channel, podcast, website ([captaincapitalism.blogspot.com](captaincapitalism.blogspot.com){: target="_blank" rel="noopener noreferrer"}), and books are all top-notch, honest, and extremely useful.
+I think his Youtube channel, podcast, website ([https://captaincapitalism.blogspot.com](https://captaincapitalism.blogspot.com){: target="_blank" rel="noopener noreferrer"}), and books are all top-notch, honest, and extremely useful.
 
 They keep young people from [pursuing worthless degrees](https://amzn.to/3cqWei0){: target="_blank" rel="noopener"} (I gifted that book to a high school student. She said it single-handedly kept her from choosing to get a college degree in psychology) while [teaching them how to enjoy the decline.](https://amzn.to/3cCZ2sD){: target="_blank" rel="noopener"}
 
