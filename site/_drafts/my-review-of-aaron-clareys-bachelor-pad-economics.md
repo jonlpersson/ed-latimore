@@ -8,17 +8,27 @@ tags:
 description:
 image:
 ---
-Review of Bachelor Pad Economics: The Financial Advice Bible For Men
+## Who is Aaron Clarey?
 
-I’m a big fan of Aaron Clarey. I think his Youtube channel, podcast, website (captaincapitalism.blogspot.com), and books are all top-notch, honest, and extremely useful. They keep young people from pursuing worthless degrees (I gifted that book to a high school student. She said it single-handedly kept her from choosing to get a college degree in psychology) while teaching them how to enjoy the decline.
+I’m a big fan of Aaron Clarey.
 
-He’s even got a great courses on minimalism an personal finance that will help you to enjoy the decline, enjoy life, and do it without spending much money. Clarey studied economics in college and his financial advice isn’t the typical push towards entrepreneurship and working for yourself. Instead, he tries to get people (in particular, young men) to make intelligent and practical financial decisions.
+I think his Youtube channel, podcast, website ([captaincapitalism.blogspot.com](captaincapitalism.blogspot.com){: target="_blank" rel="noopener noreferrer"}), and books are all top-notch, honest, and extremely useful.
 
-I originally posted this review on my old site as part of a promotion I was doing with him, but I still have the same level of enthusiasm posting this now as I did when I posted it a few years ago. My enthusiasm stems from the fact that I’ve read almost all of his books. Not only do I agree with his message, but he presents it in an entertaining, page-turning manner. You WANT to get closer to the truth.
+They keep young people from pursuing worthless degrees (I gifted that book to a high school student. She said it single-handedly kept her from choosing to get a college degree in psychology) while teaching them how to enjoy the decline.
+
+He’s even got great minimalism and personal finance courses that will help you enjoy the decline, get the most out of life, and do it without spending much money. Clarey studied economics in college; his financial advice isn’t the typical push towards entrepreneurship and working for yourself. Instead, he tries to get people (in particular, young men) to make intelligent and practical financial decisions.
+
+I originally posted this review on my old site as part of a promotion I was doing with him, but I still have the same level of enthusiasm posting this now as I did when I posted it a few years ago. My enthusiasm stems from the fact that I’ve read almost all of his books. Not only do I agree with his message, but he presents it in an entertaining, page-turning manner.
+
+You WANT to get closer to the truth.
+
+#### [Check out my other book quotes, book reviews, and book summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 He didn’t ask me to write a review to accompany the ad, but I wanted to because Clarey is one of the good guys I’ve met in the red pill space. I don’t mean that in some beta way. Rather, he’s one of the guys that see the plight of young men today and offers advice and solutions.
 
 He’s even gone out of his way to write a book called “The Black Man’s Guide Out of Poverty.” I’m a black man (he isn’t, by the way) and I read the book. It’s a masterpiece of no-nonsense love designed to help black men rise and beat the bullshit. The bottom line is that Clarey wants the best for men of all races and hopes they embrace the truth of society.
+
+## Review of Bachelor Pad Economics: The Financial Advice Bible For Men
 
 And what is the truth? In [“Bachelor Pad Economics: The Financial Bible for Men](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/1494463180/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=1494463180&amp;linkId=5a77f47112718b8a49cec2e89ca28716){: target="_blank"},” Clarey gives young men (though older guys can get something from the book) the financial advice their parents and society likely never gave them.
 
