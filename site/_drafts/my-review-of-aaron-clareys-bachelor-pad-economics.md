@@ -14,7 +14,7 @@ I’m a big fan of Aaron Clarey.
 
 I think his Youtube channel, podcast, website ([captaincapitalism.blogspot.com](captaincapitalism.blogspot.com){: target="_blank" rel="noopener noreferrer"}), and books are all top-notch, honest, and extremely useful.
 
-They keep young people from pursuing worthless degrees (I gifted that book to a high school student. She said it single-handedly kept her from choosing to get a college degree in psychology) while teaching them how to enjoy the decline.
+They keep young people from [pursuing worthless degrees](https://amzn.to/3cqWei0){: target="_blank" rel="noopener"} (I gifted that book to a high school student. She said it single-handedly kept her from choosing to get a college degree in psychology) while [teaching them how to enjoy the decline.](https://amzn.to/3cCZ2sD){: target="_blank" rel="noopener"}
 
 He’s even got great minimalism and personal finance courses that will help you enjoy the decline, get the most out of life, and do it without spending much money. Clarey studied economics in college; his financial advice isn’t the typical push towards entrepreneurship and working for yourself. Instead, he tries to get people (in particular, young men) to make intelligent and practical financial decisions.
 
@@ -26,17 +26,17 @@ You WANT to get closer to the truth.
 
 He didn’t ask me to write a review to accompany the ad, but I wanted to because Clarey is one of the good guys I’ve met in the red pill space. I don’t mean that in some beta way. Rather, he’s one of the guys that see the plight of young men today and offers advice and solutions.
 
-He’s even gone out of his way to write a book called “The Black Man’s Guide Out of Poverty.” I’m a black man (he isn’t, by the way) and I read the book. It’s a masterpiece of no-nonsense love designed to help black men rise and beat the bullshit. The bottom line is that Clarey wants the best for men of all races and hopes they embrace the truth of society.
+He’s even gone out of his way to write a book called [“The Black Man’s Guide Out of Poverty.”](https://amzn.to/3yW1NMU){: target="_blank" rel="noopener"} I’m a black man (he isn’t, by the way), and I read the book. It’s a masterpiece of no-nonsense love designed to help black men rise and beat the bullshit. The bottom line is that Clarey wants the best for men of all races and hopes they embrace the truth of society.
 
 ## Review of Bachelor Pad Economics: The Financial Advice Bible For Men
 
-And what is the truth? In [“Bachelor Pad Economics: The Financial Bible for Men](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/1494463180/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=1494463180&amp;linkId=5a77f47112718b8a49cec2e89ca28716){: target="_blank"},” Clarey gives young men (though older guys can get something from the book) the financial advice their parents and society likely never gave them.
+And what is the truth? In [“Bachelor Pad Economics: The Financial Bible for Men,”](https://amzn.to/3aWkRTD){: target="_blank" rel="noopener"} Clarey gives young men (though older guys can get something from the book) the financial advice their parents and society likely never gave them.
 
-If you’ve been turned off to [books about personal finance](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/150100994X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=150100994X&amp;linkId=36d5102c067e590bd2d69a2a2e04a241){: target="_blank"} because of their generic (don’t spend more than you make and trash credit cards) advice, then Clarey’s work will be a breath of fresh air.
+If books about personal finance have turned you off because of their generic (don’t spend more than you make and trash credit cards) advice, then Clarey’s work will be a breath of fresh air.
 
 The best part of Bachelor Pad Economics is that Clarey begins advising you as if you are a young man. The tone is “older brother giving tough love advice you need to hear”. He details the problems men face if they want to develop financial stability.
 
-This is because knowing the societal forces working against you is important if you want a chance to survive. Clarey makes it clear that the older generations now have incentives to make sure you don’t become the best version of yourself. Many of us were taught to trust our elders, but they are not qualified to navigate you in this new world.
+Knowing the societal forces working against you is important if you want a chance to survive. Clarey makes it clear that the older generations now have incentives to make sure you don’t become the best version of yourself. Many of us were taught to trust our elders, but they are not qualified to navigate us in this new world.
 
 Clarey doesn’t waste your time hashing out tired budgeting advice. Instead, he gets you to consider the [3 fundamental laws of humanity](https://web.archive.org/web/20170626174436/https://www.amazon.com/gp/product/1480284769/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=httpedwardc07-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=1480284769&amp;linkId=e1578013065b09d0b14d13bb1340e565){: target="_blank"}. Understanding these three fundamental laws of humanity and how they play a role in your life will enable you to make sound financial decisions regardless of the resources at your disposal.
 
