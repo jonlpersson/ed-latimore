@@ -81,6 +81,8 @@ In truth, the most you have to lose is temporary comfort. But remember, the man 
 
 Let it remind you who you can be, so you can do what you have to do.
 
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
+
 ## Accept the reality of the challenge
 
 > > > Ponder and deliberate before you make a move.
@@ -192,14 +194,16 @@ The benefits of NoFap are backed by anecdotal and scientific evidence, but ultim
 
 Only you truly know the severity of your porn use issues. But these tips will help you confidently start NoFap:
 
-* Know your why
+* Know your "why"
 * Understand the challenge you’re facing
-* Commit to a 30-day reboot, make it non-negotiable
+* Commit to a 30-day reboot. Make it non-negotiable
 * Seek support
 * Start a new hobby
 * Build your physical body
 * Add cold showers to your daily routine
 * Fortify your mind with a meditation practice
+
+#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="Vice-breakers-porn" %}
 
