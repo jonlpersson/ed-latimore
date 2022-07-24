@@ -39,6 +39,8 @@ When you write authentically, the goal isn’t to impress someone or appeal to a
 
 Instead, simply write what you know because the reality is that you can’t do anything else anyway.
 
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
+
 ## Gaining a real audience from your authentic writing
 
 An authentic life is the exposed and examined life.
