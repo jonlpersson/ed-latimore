@@ -22,7 +22,7 @@ Maybe this makes you more likely to trust my information on growing an email lis
 
 The main reason we grow an email list is to execute some type of email marketing campaign. This isn’t to say that it’s the only reason, but everything eventually comes back to the following idea:
 
-Email subscribers = $$$$
+Email subscribers = \\(\\)
 
 Even if the conversion rate of the email you send out for your online business is only 1%, it’s still better to have more email signups than fewer ones. This is why any intelligent business owner collects emails of previous and potential customers (via an email signup form on the website).
 
@@ -55,6 +55,8 @@ Even if you sought out the content or the algorithm looked at search habits and 
 A person has to actively sign up for your mailing list. This means they have decided to think so highly of you and your content that they’re allowing you into their (most likely) already crowded inbox.
 
 To give you an analogy, this is like someone trusting you so much that they give you the keys to their house.&nbsp;
+
+#### [Check out my other articles on developing writing skills](https://edlatimore.com/writing-skills)
 
 Above all others, the first rule of building an email list is to never abuse this sacred relationship. If people sign up to your email list for information, always give them information. Even if you sell to them, do it after giving them the day's information.
 
