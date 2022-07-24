@@ -10,7 +10,6 @@ hero:
   heading: This list of resources will aid you in recovery from your porn addiction.
   text_markdown:
 page_blocks:
-  - _id: posts_relevant
   - _id: block_rich_text
     alignment:
     text_markdown: >-
@@ -194,4 +193,5 @@ page_blocks:
       * [How to start Nofap to gain confidence](/how-to-start-nofap/)
 
       * [The benefits of Nofap](/nofap-benefits/)
+  - _id: posts_relevant
 ---
