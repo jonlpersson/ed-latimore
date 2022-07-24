@@ -104,6 +104,8 @@ Scientific or technical writing demands that your communication is efficient, cl
 
 Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve and the better writer you'll become.
 
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
+
 ## 5) Take free advice you get
 
 If you put your writing out there, you will get feedback. You need to listen to it.
@@ -380,13 +382,13 @@ In the first sentence, I (the subject) walked (the verb) the dog (the object.) I
 
 Now if that wasn't clear, I understand. The difference between active versus passive voice eluded me for quite some time. Then I had a moment of clarity: active and passive voice are grammatical structures rather representations of reality.
 
-Most of the confusion comes from the fact that the subject is still performing the action on the object in both sentences. In sentence one, I walk the dog. In sentence two, the dog is walked by me. The difference is only structurally.
+Most of the confusion comes from the fact that the subject is still acting on the object in both sentences. In sentence one, I walk the dog. In sentence two, the dog is walked by me. The difference is only structurally.
 
 Sentence 1 follows subject-verb-object. That structure makes it active. Sentence 2 follows object-verb-subject. That structure makes it passive.
 
 ### A brief refresher on the subject, verb, and object
 
-* The subject of a sentence is the one that performs the action.
+* The subject of a sentence is the one that acts.
 * The action of the sentence is the verb.
 * The recipient of the action is the object.
 
@@ -394,9 +396,9 @@ Sentences become a little more complex than this and there are some predictable 
 
 ### Why is writing in the active voice better?
 
-The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires the addition of a preposition and the addition of the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
+The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires adding a preposition and adding the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
 
-This word economy makes it easier for your word to be read and it makes your message get through more clearly.
+This word economy makes it easier for your word to be read and your message gets through more clearly.
 
 ## Avoid adverbs whenever possible
 
@@ -411,6 +413,8 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 * "I ***carelessly*** wrote the letter" can be rewritten as "I **scribbled** the letter" or "I **doodled** the letter."
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
+
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
 
 ## A recap of 15 simple tips to write your best content:
 
