@@ -7,7 +7,7 @@ description: >-
   programs. 
 hero:
   label: Porn addiction recovery
-  heading:
+  heading: This list of resources will aid you in recovery from your porn addiction.
   text_markdown:
 page_blocks:
   - _id: posts_relevant
