@@ -50,6 +50,8 @@ In short, he’s a man who knows the game of writing. For obvious reasons, he ca
 
 He offered to edit a chapter of mine in return for using it in the course. This may seem like a win-win, but I assure you that I made out better on the deal.
 
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
+
 ## What’s Taught In The Writing Course?
 
 The premise of the course is that a piece of writing only comes to life in the rewrites and edits.
