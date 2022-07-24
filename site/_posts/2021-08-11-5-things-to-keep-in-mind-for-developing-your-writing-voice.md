@@ -50,6 +50,8 @@ Speaking is a communication tool that is almost identical to writing. The only d
 
 You can do things with speech that you can’t do with the written word and vice-versa. You have to write how you speak, but you also must remember that people read differently than they listen.&nbsp;
 
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
+
 ## Edit like you're writing a high school paper
 
 When it comes to writing how you speak, you can correct differences during the editing process.
@@ -68,9 +70,9 @@ If you don't believe in the power of something, it's difficult for you to write 
 
 **Arguing a point.**&nbsp;Write down all the points you’d make in an argument the way you’d do if you were actually arguing. Challenge your own points and try to argue back against them the best way you know how to.
 
-The trick to coming up [with a persuasive voice](/persuasive-writing/) is to know where the holes in your argument are so that you can avoid them. You can come back to clarify and support later, but for now, you want the points to come out in your own voice.
+The trick to coming up [with a persuasive voice](/persuasive-writing/) is knowing where the holes in your argument are so you can avoid them. You can come back to clarify and support later, but for now, you want the points to come out in your own voice.
 
-**Writing to teach.**&nbsp;Take the Albert Einstein approach to explanation. Einstein is famous for saying, “If you can’t explain it to a six-year-old, you don’t understand it yourself.” Aside from the commentary on the mastery of the subject required to do this, Einstein also implies that you need to speak in the most simple and engaging method possible.
+**Writing to teach.**&nbsp;Take the Albert Einstein approach to explanation. Einstein is famous for saying, “If you can’t explain it to a six-year-old, you don’t understand it yourself.” Aside from the commentary on the mastery of the subject required to do this, Einstein also implies that you must speak in the most simple and engaging method possible.
 
 Think about trying to capture and maintain the attention of your typical six-year-old with just the power of words. Do that in your natural voice, write like that, and you’ll produce instructive content that is also loved and shared.&nbsp;
 
@@ -80,20 +82,22 @@ Imagine that you’re having coffee with a friend. Imagine that they ask how you
 
 **Writing to entertain.**&nbsp;Entertaining writing is a natural channel for your author's voice. What I mean by this is that entertainment is the realm of fiction and creative writing. It's the area that many of us think of when it comes to writing.
 
-There isn’t much to add here but a cliche: stay true to yourself and entertain the way you want to. Write what you want to write the way you want to write. Yes, you still have to be a good writer, but beyond that, it doesn't matter if you want to write a science fiction short story or the next great 400-page novel.
+There isn’t much to add here but a cliche: stay true to yourself and entertain as you want. Write what you want to write the way you want to write. Yes, you still have to be a good writer, but beyond that, it doesn't matter if you want to write a science fiction short story or the next great 400-page novel.
 
-Too many people pursue a genre because it’s profitable, or stay away from one because it’s not. Do what you believe will allow you to be the most expressive. In this way, you’ll make the most money that you possibly can without sacrificing your love of writing.
+Too many people pursue a genre because it’s profitable, or stay away from one because it’s not. Do what you believe will allow you to be the most expressive. In this way, you’ll make the most money possible without sacrificing your love of writing.
 
-Forget whatever commercial environment exists around the medium you want to write in. Your writing will be better and more popular if you write what you want to write.
+Forget whatever commercial environment exists around the medium you want to write in. Your writing will be better and more popular if you write what you want.
 
 ## A consistent voice is a strong voice
 
 Once you start creating first drafts as conversations, your writing will drastically improve.
 
-This will [make you a much better writer](/how-to-write-better-and-be-a-better-writer/) because you'll be able to write easier. We don’t find ourselves at a loss for words to speak nearly as often as we find ourselves staring at a blank page, wondering what to write next.
+This will [make you a much better writer](/how-to-write-better-and-be-a-better-writer/) because you'll be able to write easier. We don’t find ourselves at a loss for words to speak nearly as often as we are staring at a blank page, wondering what to write next.
 
 Writing how you speak simultaneously overcomes writer’s block and allows you to write in your most authentic voice. Developing this authenticity is [why writing is important.&nbsp;](/why-is-writing-important/)
 
 Authenticity is engaging, and engagement is how you build a fanbase as a writer. If you follow these steps, you'll develop a unique writing voice that enables you to stand out as an exceptional writer.&nbsp;
 
 The rest is up to you.
+
+#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
