@@ -87,9 +87,9 @@ And all because you’re seen as smarter.
 
 ## 4\. You believe you can improve
 
-Believing that things can get better is having a growth mindset. The concept of a growth mindset was developed by Dr. Carol Dweck in the study of school children and inherent intelligence. I won’t go into the details here but people who believe that they can work on things to get better, usually improve.
+Believing that things can get better is having a growth mindset. Dr. Carol Dweck developed the concept of a growth mindset in the study of school children and inherent intelligence. I won’t go into the details here but people who believe that they can work on things to get better, usually improve.
 
-You’re more likely to be attractive if you have a growth mindset. [Optimists are more socially appealing](https://www.researchgate.net/publication/233476705_Are_we_looking_for_positivity_or_similarity_in_a_partner's_outlook_on_life_Similarity_predicts_perceptions_of_social_attractiveness_and_relationship_quality) and also have higher-quality relationships. People with growth mindsets do the work necessary to achieve their goals. They believe that talent may play a part, but it’s a booster seat at best.
+You’re more likely to be attractive if you have a growth mindset. [Optimists are more socially appealing](https://www.researchgate.net/publication/233476705_Are_we_looking_for_positivity_or_similarity_in_a_partner's_outlook_on_life_Similarity_predicts_perceptions_of_social_attractiveness_and_relationship_quality) and also have higher-quality relationships. People with growth mindsets do the work necessary to achieve their goals. They believe talent may play a part, but it’s a booster seat at best.
 
 People with fixed mindsets live in scarcity, which brings me to my next point.
 
@@ -101,7 +101,7 @@ Just in case you’ve never seen the movie the Matrix, I’ll walk you through t
 
 You walk through life keeping your head down. You never try to accomplish anything worth having. You seek to please people and never make waves.
 
-The Red Pill is the opposite. It wakes you up from a life of mediocrity and demands that you make something of yourself. It forces you to face hard lessons over and over again until you get them into your head. You are honest with the world and with yourself.
+The Red Pill is the opposite. It wakes you up from a life of mediocrity and demands that you make something of yourself. It forces you to face hard lessons repeatedly until you get them into your head. You are honest with the world and with yourself.
 
 Simply taking the red pill doesn't mean you are immediately attractive. In fact, you're more likely to find people that are turned off or jarred by your honesty.
 
@@ -111,7 +111,7 @@ No one wants to be around a person that operates chiefly from a place of low sel
 
 Do what you can to build your confidence. Not to meet more women, but so you can be the kind of man others rely on.
 
-Believing that life will give you anything you ask of it, as long as you put the work in, is operating in abundance. You believe that if there is money to be made you can make it. You also believe that if there is something you want you can have it—if you are willing to work hard.
+Believing that life will give you anything you ask of it, as long as you put the work in, is operating in abundance. You believe that if there is money to be made you can make it. You also believe that if you want something you can have it—if you are willing to work hard.
 
 ### How to tell if you've taken the Red Pill
 
@@ -131,7 +131,7 @@ Life doesn’t get easier when you finally start to accept the Red Pill. It gets
 
 If you dress well, you’re already ahead of the attractiveness game.
 
-Aside from having symmetrical features and a chiseled jawline, how you dress says a lot about you. People determine your social status, your income, and your personality all from how you dress.
+Aside from having symmetrical features and a chiseled jawline, how you dress says a lot about you. People determine your social status, income, and personality from how you dress.
 
 And it only takes a few seconds.
 
@@ -141,13 +141,13 @@ Which brings me to the next sign.
 
 ## 7\. You understand the other aspect of attractiveness
 
-Attractiveness is a mixture of sex appeal, compatibility, and personality traits. When you understand this and actively do the things that help, that's a good sign you're more attractive than you think you are.
+Attractiveness is a mixture of sex appeal, compatibility, and personality traits. When you understand this and actively do the things that help, that's a good sign that you're more attractive than you think.
 
 For example, if you smell bad, you can hang up any chances of being attractive. Good hygiene is non-negotiable.
 
 Then there is something called magnetism. It’s like charisma. It’s the way you use what you have to your benefit.
 
-Ever wonder why you see the hot girl with the guy that looks like a bum but he’s really confident? That’s magnetism. Guys that don’t fit the normal standard of “hotness” but have no problem dating? That’s magnetism.
+Ever wonder why you see the hot girl with the guy that looks like a bum, but he’s really confident? That’s magnetism. Guys that don’t fit the normal standard of “hotness” but have no problem dating? That’s magnetism.
 
 When you play up your features and invest in yourself, you attract more people and create more success in your life.
 
@@ -159,7 +159,7 @@ A lot of what people find attractive are things you can’t see. Sure, looks hel
 
 The person who builds self-confidence is the one who wins.
 
-The list below should help you out but I’ve written an entire no-BS guide on things you can do right now to be more attractive. Check it out: [How to be an attractive man](https://edlatimore.com/how-to-be-an-attractive-man/).
+The list below should help you out but I’ve written an entire no-BS guide on things you can do right now to be more attractive. Check it out: [How to be an attractive man.](/how-to-be-an-attractive-man/)
 
 ### Self-mastery
 
