@@ -56,43 +56,67 @@ This is significant because any topical or chemical hair loss solutions have not
 ## The features of the Bosley Revitalizer 272
 
 * **FDA cleared device.** This is important. Not every laser cap on the market has been given the clinical seal of approval. This doesn’t stop them from selling the devices, but it does mean that it isn’t been held to an independent clinical and technological standard.
-* **Uses laser diodes. Not LEDs (light emitting diodes).** When this technology first become available, many models use LED lights rather than lasers. The difference between the two is the LED light is not coheret, convergent, or in unison (Read the section of my article on LLLT about these qualities here—&gt;[The 3 qualities that make a laser different from conventional light sources](https://edlatimore.com/low-level-light-therapy-for-hair-loss/#the-3-qualities-that-make-a-laser-different-from-conventional-light-sources)).<br><br>LEDs just provide a type of red light therapy, which is not the same as LLLT. The Bosley Revitalizer 272 uses medical-grade laser emitting diodes (not light emitting diodes) for treatment.
+* **Uses laser diodes. Not LEDs (light emitting diodes).** When this technology first become available, many models use LED lights rather than lasers. The difference between the two is the LED light is not coherent, convergent, or in unison (Read the section of my article on LLLT about these qualities here—&gt;[The 3 qualities that make a laser different from conventional light sources](https://edlatimore.com/low-level-light-therapy-for-hair-loss/#the-3-qualities-that-make-a-laser-different-from-conventional-light-sources)).<br><br>LEDs just provide a type of red light therapy, which is not the same as LLLT. The Bosley Revitalizer 272 uses medical-grade laser emitting diodes (not light emitting diodes) for treatment.
 * **272 medical grade laser emitting diodes.** This is what the 272 in “Bosley Revitalizer 272” stands for. Using 272 laser emitting diodes enables the cap to give your scalp full coverage in the areas where hair loss occurs (hairline, temples, and vertex).
 
 ## Who can use the Bosley Revitalizer 272?
 
-The laser treatment device is ideal for men and women suffering from:
+The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}&nbsp;due to any of the following reasons:
 
 * Androgenic alopecia
-* Hormonal hair loss
-* Postpartum hair loss
-* Hair loss from illness
-* Hair loss from chemotherapy
-* Hair loss from aging
-* People with all hair types
-* Anyone who wants thicker hair, fuller hair, or healthy hair
+* Hormonal imbalances
+* Postpartum&nbsp;
+* Illness
+* [Chemotherapy](https://www.clinicaltrials.gov/ct2/show/NCT01081106){: target="_blank" rel="noopener noreferrer"}
+* Aging
 
-The Bosley Revitalizer 272 can be used by almost anyone suffering from hair loss, caused hormonally or otherwise. While there is always the possibility of failure in treatments like this, the success rate is high, and like all hair loss treatments, the earlier you start, the better.
+It's suitable for eople with all hair types. Anyone who wants thicker hair, fuller hair, or healthy hair can try the hair cap or a even a laser comb.
+
+The Bosley Revitalizer 272 can be used by almost anyone suffering from hair loss, caused hormonally or otherwise.
+
+While there is always the possibility of failure in treatments like this, the success rate is high, and like all hair loss treatments, the earlier you start, the better.
 
 Advanced hair loss (Norwood-Hamilton scale of 5 or greater/Ludwig-Savin scale of 4 or greater) is not automatically a failure. Still, the results may be less impressive and take longer to achieve.
 
 ## What’s included with the laser cap and how does it work
+
+The device comes with the following:
 
 * Laser cap with the laser diodes
 * Sports cap with Bosely logo to cover the sports cap
 * Rechargeable battery pack
 * Controller pod to activate
 
-It’s a basic setup that’s easy to assemble and maintain. The initial charge will take about six hours.
+It’s a basic setup that’s easy to assemble and maintain. You have to charge it up for initial use, but that will only take about six hours.
 
-You can choose to use it for 8 minutes daily or 30 minutes every other day. While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the rate of hair growth is a fixed upper limit.
+You can choose to use it for 8 minutes daily or 30 minutes every other day.
+
+While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"}&nbsp;On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
 
 This Bosley Revitalizer is extremely easy to use. You just put the cap on, turn the switch, and let it do its thing.
 
-If you decide to pick it up, order from Amazon at this link—&gt;order here. I get a small, nearly insignificant commission if you purchase from there. This commission is not from Bosley, but I still figured I’d let you know in case you found my review helpful.
+If you decide to pick it up, order from Amazon at this link—&gt;[order here.](https://amzn.to/3zGGZur){: target="_blank" rel="noopener"}
 
-You clear the inside of the cap as needed with simple alcohol. I imagine that it will get dirty, but using it right after you shower before putting any conditioners or creams in your hair that for style or aid your hair restoration should keep it clean.
+I get a small, nearly insignificant commission if you purchase from there. This commission is not from Bosley, but I still figured I’d let you know if you found my review helpful.
 
-The warranty policy is quite simple. Purchases automatically come with a limited 1-year warranty which can be extended to 2 years. The device needs to be registered at https://www.bosley.com/RevitalizerRegistration.
+Mainteance, storage, and warranty
+
+You clean the inside of the cap as needed with simple alcohol. I imagine that it will get dirty, but using it right after you shower before putting any conditioners or creams in your hair that for style or aid your hair restoration should keep it clean.
+
+You don't need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.&nbsp;
+
+The warranty policy is quite simple. Purchases automatically come with a limited 1-year warranty which can be extended to 2 years. The device needs to be registered at [https://www.bosley.com/RevitalizerRegistration](https://www.bosley.com/RevitalizerRegistration){: target="_blank" rel="noopener noreferrer"}.
 
 This warranty covers defects in materials and workmanship. If Bosely determines that the device suffers from a defect under the warranty period, the parts will be repaired or replaced at no cost to the original purchaser. The warranty only applies to the original purchaser and cannot be transferred.
+
+The final verdict on the Bosley 272 Revitalizer
+
+So far, I'm enjoying the cap. The research is sound, and I'm always looking for things to add to my repertoire of hair maintenance
+
+For guys who aren't responding well to minoxidil, oral/topical finesteride, or any other chemical treatments, this is a good bet for you, as the light works with your biochemistry.
+
+For guys who don't have the money for an expensive FUE transplant, this is a reasonable alterative that has a much higher success rate than any other treatment except a hair transplant at a fraction of its cost.
+
+As long as you're not past level 5 on Norwood-Hamilton or level 4 on Ludwig-Savin scale, you have an excellent chance of seeing significant regrowth.
+
+[Pick up Bosley Revitalizer 272 right here today\!](https://amzn.to/3zGGZur){: target="_blank" rel="noopener"}
