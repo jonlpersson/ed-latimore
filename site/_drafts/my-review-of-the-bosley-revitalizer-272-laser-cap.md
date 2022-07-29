@@ -105,6 +105,8 @@ You clean the inside of the cap as needed with simple alcohol. I imagine that it
 
 You don't need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.&nbsp;
 
+![Box and bag for storage of revitalizer cap](/assets/images/drafts/bosley-box-and-bag-storage.jpg "Box and bag for storage of revitalizer cap"){: width="400" height="300"}
+
 The warranty policy is quite simple. Purchases automatically come with a limited 1-year warranty which can be extended to 2 years. The device needs to be registered at [https://www.bosley.com/RevitalizerRegistration](https://www.bosley.com/RevitalizerRegistration){: target="_blank" rel="noopener noreferrer"}.
 
 This warranty covers defects in materials and workmanship. If Bosely determines that the device suffers from a defect under the warranty period, the parts will be repaired or replaced at no cost to the original purchaser. The warranty only applies to the original purchaser and cannot be transferred.
