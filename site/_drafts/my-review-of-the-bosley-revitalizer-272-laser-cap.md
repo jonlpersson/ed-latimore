@@ -24,9 +24,9 @@ I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completel
 
 In September 2018, at age 33, I got my first FUE hair transplant. **\[Read my experience and see a timeline of my results here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]**
 
-10 months later, I got my second FUE hair transplant.
+Ten months later, I got my second FUE hair transplant.
 
-Not only does my hair look great as a result, but now I’ve got fuller head of hair to preserve. This makes me much more motivated to use Minoxidil daily (as of this writing, I’m on over a year streak of daily application), but it allows me to fully reap the benefits of other hair loss treatments fully.
+Not only does my hair look great as a result, but now I’ve got a fuller head of hair to preserve. This makes me much more motivated to use Minoxidil daily (as of this writing, I’m on over a year streak of daily application), but it allows me to fully reap the benefits of other hair loss treatments.
 
 This brings me nicely to my discovery of laser light technology and my experimentation with Bosley’s Revitalizer 272 laser cap.
 
@@ -41,11 +41,9 @@ With that out of the way, let’s dig into the functions, features, and promises
 
 ## What you need to know about low-level laser therapy (lllt)
 
-I wrote an in-depth article how LLLT works. You can read the whole thing by clicking below:
+I wrote an in-depth article on how LLLT works. You can read the whole thing here—&gt;[How Low-Level Laser Therapy works](/low-level-light-therapy-for-hair-loss/)[&nbsp;for hair loss](/low-level-light-therapy-for-hair-loss/)
 
-How Low-Level Laser Therapy works
-
-The TL:DR summary is that LLLT uses low-power laser at a specific wavelength to stimulate hair growth. If the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization are able to be reversed as a result of LLLT.
+The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to stimulate hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized as a result of LLLT.
 
 When I got my hair transplants back in in 2018 and 2019, I actually had no idea that this technology existed. Apparently it was only in its infancy and was only available at certain locations.
 
