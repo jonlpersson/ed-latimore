@@ -43,19 +43,21 @@ With that out of the way, let’s dig into the functions, features, and promises
 
 I wrote an in-depth article on how LLLT works. You can read the whole thing here—&gt;[How Low-Level Laser Therapy works](/low-level-light-therapy-for-hair-loss/)[&nbsp;for hair loss](/low-level-light-therapy-for-hair-loss/)
 
-The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to stimulate hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized as a result of LLLT.
+The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to stimulate hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized due to LLLT.
 
-When I got my hair transplants back in in 2018 and 2019, I actually had no idea that this technology existed. Apparently it was only in its infancy and was only available at certain locations.
+When I got my hair transplants in 2018 and 2019, I had no idea that lllt technology existed. It was only in its infancy and was only available at certain locations.
 
-With as well as it’s been reported to work, it appears to be a serious cost effective alternative to expensive hair restoration procedures or medications that alter your hormonal profile. It’s a non-invasive way to grow your hair back that has a high success rate.
+It appears to be a serious cost-effective alternative to expensive hair restoration procedures or medications that alter your hormonal profile. It’s a non-invasive way to grow your hair back with a high success rate.
 
-It’s also worth noting that the technology works on both men and women with no adverse side effects. This is significant because any topical or chemical hair loss solutions have not only been off limits women, but there have also been significant side effects for men as well.
+It’s also worth noting that the technology works on both men and women with no adverse side effects.
+
+This is significant because any topical or chemical hair loss solutions have not only been off-limits to, women but there have also been significant side effects for men as well.
 
 ## The features of the Bosley Revitalizer 272
 
 * **FDA cleared device.** This is important. Not every laser cap on the market has been given the clinical seal of approval. This doesn’t stop them from selling the devices, but it does mean that it isn’t been held to an independent clinical and technological standard.
-* **Uses lasers diodes. Not LEDs (light emitting diodes).** When this technology first become available, many models use LED lights rather than lasers. The difference between the two is the LED light is not coheret, convergent, or in unison (Read the section of my article on LLLT about these qualities here—&gt;The 3 qualities that make a laser different from conventional light sources). LEDs just provide a type of red light therapy, which is not the same as LLLT. The Bosley Revitalizer 272 uses medical grade laser emitting diodes (not light emitting diodes) for treatment.
-* **272 medical grade laser emitting diodes.** This is what the 272 in “Bosley Revitalizer 272” stands for. This enables the cap to give your scalp full coverage in the areas where hair loss occurs (hairline, temples, and vertex).
+* **Uses laser diodes. Not LEDs (light emitting diodes).** When this technology first become available, many models use LED lights rather than lasers. The difference between the two is the LED light is not coheret, convergent, or in unison (Read the section of my article on LLLT about these qualities here—&gt;[The 3 qualities that make a laser different from conventional light sources](https://edlatimore.com/low-level-light-therapy-for-hair-loss/#the-3-qualities-that-make-a-laser-different-from-conventional-light-sources)).<br><br>LEDs just provide a type of red light therapy, which is not the same as LLLT. The Bosley Revitalizer 272 uses medical-grade laser emitting diodes (not light emitting diodes) for treatment.
+* **272 medical grade laser emitting diodes.** This is what the 272 in “Bosley Revitalizer 272” stands for. Using 272 laser emitting diodes enables the cap to give your scalp full coverage in the areas where hair loss occurs (hairline, temples, and vertex).
 
 ## Who can use the Bosley Revitalizer 272?
 
