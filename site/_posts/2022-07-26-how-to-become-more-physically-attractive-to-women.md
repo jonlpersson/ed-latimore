@@ -160,7 +160,9 @@ Your skincare kit should include a good:
 * Face oil
 * Exfoliant
 
-Wash your face in the morning and before bed. In between cleanings, apply a few drops of the face oil to your skin by rubbing small circles. I highly recommend Noble Body face oil for men. You can get it [here through my link](https://noble-body.com?aff=33), (I get a small cut of each purchase, it helps to pay the bills).
+Wash your face in the morning and before bed. In between cleanings, apply a few drops of the face oil to your skin by rubbing small circles.
+
+I highly recommend Noble Body face oil for men. You can get it [here through my link](https://noble-body.com?aff=33), (I get a small cut of each purchase, it helps to pay the bills).
 
 Use an exfoliating product twice a week to clean deep into your pores to make your skin clear and healthy.
 
