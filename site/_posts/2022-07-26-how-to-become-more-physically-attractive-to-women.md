@@ -178,7 +178,7 @@ You’ll also improve your skin health and good looks by cleaning up your diet a
 * Bananas
 * Leafy green vegetables
 
-Fix your body language and posture
+## Fix your body language and posture
 
 Body language is one of the most consistent ways to communicate attractiveness to women. Men who maintain an upright posture and open body language denote personality traits like dominance, strength, and confidence.[^7]
 
