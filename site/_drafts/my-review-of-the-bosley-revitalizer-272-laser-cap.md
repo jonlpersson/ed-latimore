@@ -47,6 +47,8 @@ The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength t
 
 When I got my hair transplants in 2018 and 2019, I had no idea that lllt technology existed. It was only in its infancy and was only available at certain locations.
 
+![Right after my first hair transplant](/assets/images/drafts/during-fue-hair-transplant-with-bosley.png "Right after my first hair transplant"){: width="560" height="315"}
+
 It appears to be a serious cost-effective alternative to expensive hair restoration procedures or medications that alter your hormonal profile. It’s a non-invasive way to grow your hair back with a high success rate.
 
 It’s also worth noting that the technology works on both men and women with no adverse side effects.
