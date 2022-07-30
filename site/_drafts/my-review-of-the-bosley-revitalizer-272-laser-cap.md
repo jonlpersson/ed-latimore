@@ -8,7 +8,7 @@ tags:
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really
   worth the price tag. Read my review to see if this product is worth the money.
-image:
+image: /assets/images/drafts/bosley-revitalizer-272.jpg
 ---
 Before I dive into my review of the Bosley Revitalizer 272, I will quickly take you through my hair loss journey. Feel free to skip this part, but I included it here for three reasons:
 
