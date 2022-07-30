@@ -20,11 +20,15 @@ Before I dive into my review of the Bosley Revitalizer 272, I will quickly take 
 
 I think my hair loss started around age 23. At the very least, that’s when people close to me could notice my thinning hair. By 27, I was between level 3 and 4 on the Norwood-Hamilton androgenetic alopecia baldness scale.
 
+![I was 33 in these pictures](/assets/images/drafts/losing-hair-early.png "I was 33 in these pictures"){: width="400" height="225"}
+
 I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it’s not something that usually regrows hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
 
 In September 2018, at age 33, I got my first FUE hair transplant. **\[Read my experience and see a timeline of my results here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]**
 
 Ten months later, I got my second FUE hair transplant.
+
+![Full head of hair now](/assets/images/drafts/approved-headshot.jpeg "Full head of hair now"){: width="400" height="581"}
 
 Not only does my hair look great as a result, but now I’ve got a fuller head of hair to preserve. This makes me much more motivated to use Minoxidil daily (as of this writing, I’m on over a year streak of daily application), but it allows me to fully reap the benefits of other hair loss treatments.
 
