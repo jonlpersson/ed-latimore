@@ -91,6 +91,8 @@ It’s a basic setup that’s easy to assemble and maintain. You have to charge 
 
 You can choose to use it for 8 minutes daily or 30 minutes every other day.
 
+![Controller pad for Bosley Revitalizer 272 cap](/assets/images/drafts/controller-pad-for-revitalizer-cap.jpg "Controller pad for Bosley Revitalizer 272 cap"){: width="300" height="400"}
+
 While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"}&nbsp;On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
 
 This Bosley Revitalizer is extremely easy to use. You just put the cap on, turn the switch, and let it do its thing.
@@ -99,7 +101,7 @@ If you decide to pick it up, order from Amazon at this link—&gt;[order here.](
 
 I get a small, nearly insignificant commission if you purchase from there. This commission is not from Bosley, but I still figured I’d let you know if you found my review helpful.
 
-Mainteance, storage, and warranty
+## Mainteance, storage, and warranty
 
 You clean the inside of the cap as needed with simple alcohol. I imagine that it will get dirty, but using it right after you shower before putting any conditioners or creams in your hair that for style or aid your hair restoration should keep it clean.
 
