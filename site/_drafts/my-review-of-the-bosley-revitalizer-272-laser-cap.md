@@ -87,6 +87,8 @@ The device comes with the following:
 * Rechargeable battery pack
 * Controller pod to activate
 
+![Everything that comes with the Bosley Revitalizer](/assets/images/drafts/bosley-revitalizer-assortment.jpg "Everything that comes with the Bosley Revitalizer"){: width="300" height="400"}
+
 It’s a basic setup that’s easy to assemble and maintain. You have to charge it up for initial use, but that will only take about six hours.
 
 You can choose to use it for 8 minutes daily or 30 minutes every other day.
