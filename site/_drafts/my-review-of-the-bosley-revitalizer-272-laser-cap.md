@@ -84,6 +84,8 @@ While there is always the possibility of failure in treatments like this, the su
 
 Advanced hair loss (Norwood-Hamilton scale of 5 or greater/Ludwig-Savin scale of 4 or greater) is not automatically a failure. Still, the results may be less impressive and take longer to achieve.
 
+![Ludwig-Savin on the top. Norwood-Hamilton on the bottom](/assets/images/drafts/norwood-hamilton-scale.png "Ludwig-Savin on the top. Norwood-Hamilton on the bottom"){: width="400" height="181"}
+
 ## What’s included with the laser cap and how does it work
 
 The device comes with the following:
