@@ -125,7 +125,7 @@ The warranty policy is quite simple. Purchases automatically come with a limited
 
 This warranty covers defects in materials and workmanship. If Bosely determines that the device suffers from a defect under the warranty period, the parts will be repaired or replaced at no cost to the original purchaser. The warranty only applies to the original purchaser and cannot be transferred.
 
-The final verdict on the Bosley 272 Revitalizer
+## The final verdict on the Bosley 272 Revitalizer
 
 So far, I'm enjoying the cap. The research is sound, and I'm always looking for things to add to my repertoire of hair maintenance
 
