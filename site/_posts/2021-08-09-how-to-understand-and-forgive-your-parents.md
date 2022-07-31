@@ -40,13 +40,15 @@ I used to be angry that my mom never tried to better herself to make more money 
 
 Our environment wasn't perfect, but it truly was the best environment should could provide for us.
 
-I don't say this to excuse things that were detrimental and negative. I also don't say this to make it easier to deal with any pain I experienced.&nbsp;
+I don't say this to excuse things that were detrimental and negative. I also don't say this to make dealing with any pain I experienced easier.&nbsp;
 
-I say it because it's true and sometimes the only way you know this is time, personal growth, and experience.&nbsp;
+I say it because it's true, and sometimes the only way you know this is time, personal growth, and experience.&nbsp;
+
+#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 ## The parent-child relationship is a complicated one
 
-It's easy for a kid in his early 20s to be angry because he doesn't really understand how challenging life is. Also, it's easier to focus on the things that you missed out on or made you feel bad.
+It's easy for a kid in his early 20s to be angry because he doesn't really understand how challenging life is. Also, it's easier to focus on the things you missed or made you feel bad.
 
 It's always easier to remember the bad you experienced, the childhood wounds, but it takes perspective and maturity to appreciate the bad that you \*didn't\* experience because of your parents.
 
@@ -58,7 +60,7 @@ It's not until you finally grow up that you realize it could have been a lot wor
 
 ![Ed latimore with father](/assets/images/posts/2021/edasachild.jpg "One of the only pictures I have of my father and I")
 
-One day my mom asked me why I write so much about her and not about my father.
+One day, my mom asked me why I write so much about her, not my father.
 
 He wasn't a saint. He was just hardly around, so I don't have a strong opinion towards him either way. I know that he existed, he wasn't absentee, but the collective time he spent with me is realistically less than 6 months. What's the point of me telling you this?
 
@@ -74,9 +76,9 @@ As you gain self-awareness and awareness of the rest of the world, you start see
 
 Opportunity cost is the value of the best alternative that you miss out on as a result of choosing a different option.
 
-For example, my mom missed out on chances to make more money because of her responsibilities towards us. Attending to obligations isn't exactly an opportunity cost decision, but it's close enough for the purposes of our discussion.
+For example, my mom missed chances to make more money because of her responsibilities to us. Attending to obligations isn't exactly an opportunity cost decision, but it's close enough for the purposes of our discussion.
 
-Opportunity cost is already a fairly abstract concept. Understanding how it applies to human development and the choices people make is also a fairly complex idea. While there is a lot of growth that happens as a result of being a parent, there is a lot that has to be forgone so that you can be a parent.
+Opportunity cost is already a fairly abstract concept. Understanding how it applies to human development and people's choices is also a fairly complex idea. While there is a lot of growth that happens as a result of being a parent, there is a lot that has to be forgone so that you can be a parent.
 
 However, young people foolishly believe that they have figured things out in their limited time on this planet. They know exactly what their parents should have done with them. In terms of opportunity cost, all young adults see is the next best alternative.
 
@@ -90,12 +92,14 @@ Of course, this is patently false, but this belief is probably responsible for m
 
 ## **How to forgive your parents**
 
-While you can't do anything about the time it takes to grow, learn, and appreciate your parents, you can humble yourself and realize that there are things you don't know or can understand without a certain level of experience.
+While you can't do anything about the time it takes to grow, learn, and appreciate your parents, you can humble yourself and realize that there are things you don't know or can understand without experience.
 
-If you can do this, then perhaps it'll be easier for you to see your parent's failings and mistakes for what they likely were–them learning on the fly and doing the best they could. At the very least, it will give you the space to look at what you experienced as a child.
+If you can do this, perhaps it'll be easier for you to see your parent's failings and mistakes for what they likely were–them learning on the fly and doing their best. At the very least, it will give you the space to look at what you experienced as a child.
 
-We tend to see our parents as larger than life because, at the start of our lives, they are. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier&nbsp;[to forgive them](/how-to-forgive-someone/)&nbsp;for anything we can't let go.
+We tend to see our parents as larger than life because they are at the start of our lives. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier&nbsp;[to forgive them](/how-to-forgive-someone/)&nbsp;for anything we can't let go.
 
 The rest is up to you.&nbsp;
 
-***Note: If you were the victim of legitimate abuse at the hands of your parents, then this post does not apply. I don't have all the answers, but I do want to make it clear that this newsletter is not an attempt to teach you how to forgive true scum.***
+#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
+
+***Note: If you were the victim of legitimate abuse at the hands of your parents, then this post does not apply. I don't have all the answers, but I want to clarify that this newsletter is not an attempt to teach you how to forgive true scum.***
