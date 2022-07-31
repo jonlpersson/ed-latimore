@@ -34,7 +34,7 @@ Attend a book launch, and there are almost certainly going to be drinks. Want to
 
 So leaving the bar scene is not enough. You need to do things that will take you to new environments and have an awesome experience without a single drop of booze.
 
-In all likelihood, you already know what those things are. Almost everyone can think of something that they have fun doing while they’re sober.
+In all likelihood, you already know what those things are. Almost everyone can think of something they have fun doing while sober.
 
 Ask yourself:
 
@@ -44,7 +44,7 @@ Ask yourself:
 
 Once you have the answers to these questions, the next question is…
 
-*What do you get out of drinking with people that you don’t get from spending time sober with them?*
+*What do you get from drinking with people you don’t get from spending time sober with them?*
 
 ## 2) Understand what you get out of drinking alcohol
 
@@ -54,19 +54,21 @@ I didn’t think I was interesting or cool enough for people to desire my compan
 
 Soon, drinking became the only way I knew how to connect with people. It wasn’t just a crutch anymore; it had completely wiped out my ability to socialize and connect with people.
 
-Nevertheless, it was clear to see that I enjoyed environments where I got mental stimulation or felt connected with other people—and preferably, some combination of the two.
+Nevertheless, it was clear that I enjoyed environments where I got mental stimulation or felt connected with other people—and preferably, some combination of the two.
 
-What did I do instead of drinking? I started spending more time with my friends individually over coffee, rather than in group settings at the bar, and it made a huge difference in my life.
+What did I do instead of drinking? I started spending more time with my friends individually over coffee rather than in group settings at the bar, and it made a huge difference in my life.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 ## 3) Realize that you've been lied to
 
-If you’ve been led to believe one thing your entire life, chances are you’re going to keep believing that thing is true. Until you learn to take an objective view of your beliefs, you probably won’t think anything is wrong.
+If you’ve been led to believe one thing your entire life, chances are you’re going to keep believing that thing is true. You probably won't think anything is wrong until you learn to take an objective view of your beliefs.
 
 However, what if I told you that everything you know about alcohol, addiction, and sobriety is a lie?
 
 Alcohol has been marketed to you as a way to become confident, charismatic, and cool. Advertisements always show people looking happy, celebrating with a group of friends, or living a high-end lifestyle while drinking premium vodka.
 
-But, what they don’t show you are the hangovers, vomit, financial ruin, regrets, and fights. And although you&nbsp;*know*&nbsp;these things happen when you drink, you still believe that alcohol will somehow cure boredom and make you have more fun than if you were sober.
+But they don’t show you the hangovers, vomit, financial ruin, regrets, and fights. And although you&nbsp;*know*&nbsp;these things happen when you drink, you still believe that alcohol will somehow cure boredom and make you have more fun than if you were sober.
 
 Have you ever spoken to a drunk person? Do they seem like they’re having fun?
 
@@ -80,7 +82,7 @@ Your environment is full of people who don’t support each other’s decisions 
 
 You’re trying to establish a new habit in an older environment, where the numbers are not on your side and—for the moment—you don’t know any other way to fit in.
 
-You’re in a situation where people expect you to drink, and where all your friends are going to drink. That is why you, and most other people who try, fail to socialize sober.
+You’re in a situation where people expect you to drink and where all your friends are going to drink. That is why you, and most other people who try, fail to socialize sober.
 
 Have you ever tried to not drink when you’re out with a group of friends?
 
@@ -92,13 +94,13 @@ The typical interaction goes like this:
 
 **Drinking friend:**&nbsp;What\! Come on, why aren’t you drinking?
 
-At this point, you feel like you need to explain why you’re&nbsp;[not drinking](/sobriety-benefits/). And when you can’t come up with an explanation you feel confident enough to stand by, you cave to peer pressure.
+At this point, you need to explain why you’re&nbsp;[not drinking](/sobriety-benefits/). And when you can’t come up with an explanation, you feel confident enough to stand by. You cave to peer pressure.
 
 Understanding the relationship between your old drinking environment and your own behavior is essential.
 
-You’re a product of your environment, and your daily actions reinforce the power your environment has over you.
+You’re a product of your environment, and your daily actions reinforce your environment's power over you.
 
-Whenever you try to change yourself for the better, there is always going to be friction: internal or external.
+Whenever you try to change yourself for the better, there will always be friction: internal or external.
 
 Usually, it’s both.
 
@@ -106,17 +108,17 @@ And there is only one way to win: by building yourself up.
 
 ## 5) Make new friends
 
-Making new friends is the most difficult part for people who want to quit drinking and lead a sober social life. If you're lucky, you'll have other things in common with your old drinking buddies besides getting drunk. However, this is not a reality for most people. Even if your friends are supportive of your sobriety, things will be different because a major part of your social life is different.
+Making new friends is the most difficult part for people who want to quit drinking and lead a sober social life. If you're lucky, you'll have other things in common with your old drinking buddies besides getting drunk. However, this is not a reality for most people. Even if your friends support your sobriety, things will be different because a major part of your social life is different.
 
-The best thing to do is to make a sober friend or two. At the very least, you need to make friends from different activities that do not involve alcohol. The activity doesn't matter. All that matters is that you find people who can do those activities without alcohol.
+The best thing to do is to make a sober friend or two. At the very least, you need to make friends from different activities that do not involve alcohol. The activity doesn't matter. All that matters is finding people who can do those activities without alcohol.
 
 It also helps if you make friends with someone who also has—or is currently in the process of—overcoming substance abuse. These are the types of people that you'll be able to talk with about the unique feelings and challenges you face, not just in developing a sober social life, but in being sober, in general.
 
 ## 6) Build yourself up
 
-Only once you have become a stronger, better version of yourself, will you be able to feel comfortable in any environment, including your old one.
+Only once you have become a stronger, better version of yourself will you be able to feel comfortable in any environment, including your old one.
 
-The only reason you find it difficult to have fun without drinking is because you haven’t built yourself up into the kind of person that&nbsp;*can*&nbsp;say no.
+The only reason you find it difficult to have fun without drinking is that you haven’t built yourself up into the kind of person that&nbsp;*can*&nbsp;say no.
 
 In order to do that, you’ll need an idea of what kind of person you want to become. What kind of life do you want to build for yourself?
 
@@ -133,7 +135,7 @@ You want to make it as easy as possible to visualize this future for yourself, a
 
 Once you make this vision your priority, it’s much easier to reject anything that goes against it—including trying to socialize without drinking.
 
-It’s a long journey, and not something I can summarize in this article, so make sure you check out my blog post on&nbsp;[fixing your life](/how-to-get-your-life-together/)&nbsp;if you want to get serious about it.
+It’s a long journey and not something I can summarize in this article, so make sure you check out my blog post on&nbsp;[fixing your life](/how-to-get-your-life-together/)&nbsp;if you want to get serious about it.
 
 As you spend more time building an amazing life for yourself and less time in bars, the better you get at saying no to a drink.
 
@@ -147,7 +149,7 @@ This is how you become the master of the environment that once enslaved you.
 
 ## 7) Learn to enjoy non-alcoholic beverages
 
-Prior to giving up alcohol, I didn’t think most places carried a brand of non-alcoholic beer. As long as you tip normally, bars are happy to serve it because It’s one less person likely to act like an asshole.
+Before giving up alcohol, I didn’t think most places carried a brand of non-alcoholic beer. As long as you tip normally, bars are happy to serve it because It’s one less person likely to act like an asshole.
 
 Many times, we drink because it's just a way to not feel like an outsider. There are many non-alcoholic drink alternatives to popular alcoholic beverages. Most places have a menu of "mocktails" that allow you to feel like you're socially fitting in with drinkers, but not dealing with the effects of alcohol yourself.
 
@@ -159,18 +161,22 @@ Me enjoying a nice cool non-alcoholic beer by Gruvi.
 
 I’m happy to say that Gruvi legitimately blew me away with both taste and quality.
 
-If you want to enjoy the taste of a cool lager, stout, or an IPA but you’re no longer a drinker, I highly recommend that you try their line up.&nbsp;**Use discount code Ed10 for a 10% discount.**&nbsp;You will not be disappointed.
+If you want to enjoy the taste of a cool lager, stout, or an IPA, but you’re no longer a drinker, I highly recommend trying their lineup.&nbsp;**Use discount code Ed10 for a 10% discount.**&nbsp;You will not be disappointed.
 
 [Get Gruvi here](https://www.getgruvi.com/drinks)
 
 ## A summary of what to do to have fun without alcohol
 
-It doesn’t matter if you’re addicted to alcohol or just have a couple of drinks a month, if you want to have real success when you stop drinking you need to address three things:
+It doesn’t matter if you’re addicted to alcohol or just have a couple of drinks a month, if you want to have real success when you stop drinking, you need to address three things:
 
 * The social conditioning about alcohol
 * Changing your environment
 * Building a better you
 
-Once you can understand these, and learn to internalize them in your daily life, saying no to a drink from your friends is going to be easy.
+Once you can understand these and learn to internalize them in your daily life, saying no to a drink from your friends will be easy.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
+&nbsp;
 
 {% include widgets/cta-email.html %}
