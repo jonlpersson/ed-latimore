@@ -79,6 +79,8 @@ Alcohol is the response to all of our emotional states. If you grew up in a soci
 
 For example, one of my worst habits was needing to have a drink in my hand. I tried to replace it with water, but it was too easy to drink quickly and lacked flavor. So I started to drink coffee instead.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 I used to drink to celebrate. Once I decided to get sober, I knew that I needed a new habit. That new habit was going to dinner with my girlfriend instead. This is more constructive than getting drunk until I feel terrible because something good happened to me.
 
 When I was feeling stressed, I used to drink. Once this was no longer an option, I started to write instead. I use writing as my personal therapy when something is troubling me and I need to think.
@@ -195,9 +197,9 @@ You could also check into 12-step programs such as [SMART Recovery](https://www.
 
 ### Use resources by the National Institute on Alcohol Abuse and Alcoholism (NIAAA)
 
-The NIAAA is an organization dedicated to helping people overcome alcohol use disorder and alcohol addiction. The difference between two terms is mostly a matter of degree rather than type, but the idea is the same: these are people who want to cut back on or eliminate their alcohol consumption.
+The NIAAA is an organization dedicated to helping people overcome alcohol use disorder and alcohol addiction. The difference between the two terms is mostly a matter of degree rather than type, but the idea is the same: these are people who want to cut back on or eliminate their alcohol consumption.
 
-NIAAA's website is full of practical research, and science based ways to help you stop drinking.&nbsp; Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
+NIAAA's website is full of practical research and science-based methods to help you stop drinking.&nbsp; Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
 
 The site also delivers a list of [sobering statistics about the reality of alcoholism](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/alcohol-facts-and-statistics){: target="_blank" rel="noopener noreferrer"}. These statistics remind you that you're often one bad decision away from completely ruining your life.&nbsp;
 
@@ -207,9 +209,9 @@ But their website is not all doom and gloom. They also give [useful ideas for su
 
 There will be a period of detox. This withdrawal can be physical, mental, or psychological; your level of alcohol dependence will determine the type and severity of your withdrawal symptoms. Fortunately, there aren't any alcohol withdrawal symptoms that are life-threatening or even need medical supervision.
 
-For the physical symptoms, you just need time and a good diet. Time gets your body used to not having alcohol and a good diet will help you&nbsp;
+For the physical symptoms, you just need time and a good diet. Time gets your body used to not having alcohol, and a good diet will help you.&nbsp;
 
-When you quit drinking alcohol, there isn't any way around feeling like you're missing something. Fortunately, it's all in your head. Getting sober should not cause any health problems. You should feel better; not worse.
+When you quit drinking alcohol, there isn't any way around feeling like you're missing something. Fortunately, it's all in your head. Getting sober should not cause any health problems. You should feel better, not worse.
 
 Your worst symptom is going to be boredom. You need to find new hobbies to take the place of things you used to do while drinking. You need to find new activities and people to socialize with if all of your previous social activities revolve around boredom.
 
@@ -221,7 +223,7 @@ There's a joke I tell people who are thinking about embracing a sober lifestyle:
 
 [There is a comprehensive legal, educational, and commercial empire that prefers if you keep drinking.](https://www.knoxnews.com/story/sports/2019/06/26/alcohol-college-football-games-policy-power-5-university/1358400001/){: target="_blank"}&nbsp;Drinkers get into more expensive legal trouble, they spend more money at restaurants, and [schools are often attended based on their reputation as a party school alone.](https://www.usatoday.com/story/money/2019/08/10/the-us-colleges-that-drink-the-most-booze/39929643/){: target="_blank" rel="noopener noreferrer"}
 
-While there is a shift in how society is treating and viewing alcohol, it's big business for everyone–even the people charged with policing its use. You will encounter resistance on all fronts.
+While there is a shift in how society treats and views alcohol, it's big business for everyone–even those charged with policing its use. You will encounter resistance on all fronts.
 
 ### Remember that you won't be alone
 
@@ -236,5 +238,9 @@ Also, [consider giving back along your recovery journey.](https://www.pbinstitut
 Implementing these new habits takes time, but reducing or eliminating your alcohol consumption is worth it. Sobriety is the best gift that I've ever given myself.
 
 The rest is up to you.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
+&nbsp;
 
 {% include widgets/cta-email.html %}
