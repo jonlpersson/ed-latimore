@@ -68,6 +68,8 @@ Got a raise at work? Let’s drink\! It’s my birthday? Let’s drink\! I just 
 
 With alcohol no longer an option, you're forced to deal with all of these emotions — good and bad. And ultimately, you'll be stronger because of your sobriety.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 ## Getting sober makes you more accountable for your actions
 
 I always hated it when people would excuse my shitty behavior by saying, “Oh, you were just drunk”.
@@ -189,6 +191,8 @@ This list could continue ad infinitum, but the main point is that there is *no p
 If you’re reading this looking for an excuse to do what you know you need to do and stop drinking, hopefully, you’ve found it.
 
 Thank you for reading.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 And if you've decided it's time to stop drinking, check out my Vice Breakers program, which helps you kick bad habits and addictions:
 
