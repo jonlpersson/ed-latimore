@@ -8,7 +8,7 @@ tags:
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really
   worth the price tag. Read my review to see if this product is worth the money.
-image: /assets/images/drafts/bosley-revitalizer-272.jpg
+image: /assets/images/ed-latimore-bosley-revitalizer-272.jpeg
 ---
 Before I dive into my review of the Bosley Revitalizer 272, I will quickly take you through my hair loss journey. Feel free to skip this part, but I included it here for three reasons:
 
@@ -60,6 +60,8 @@ It’s also worth noting that the technology works on both men and women with no
 This is significant because any topical or chemical hair loss solutions have not only been off-limits to, women but there have also been significant side effects for men as well.
 
 ## The features of the Bosley Revitalizer 272
+
+![Bosley revitalizer 272 in box](/assets/images/posts/bosley-revitalizer-272.jpg "Bosley revitalizer 272 in box"){: width="400" height="300"}
 
 * **FDA cleared device.** This is important. Not every laser cap on the market has been given the clinical seal of approval. This doesn’t stop them from selling the devices, but it does mean that it isn’t been held to an independent clinical and technological standard.
 * **Uses laser diodes. Not LEDs (light emitting diodes).** When this technology first become available, many models use LED lights rather than lasers. The difference between the two is the LED light is not coherent, convergent, or in unison (Read the section of my article on LLLT about these qualities here—&gt;[The 3 qualities that make a laser different from conventional light sources](https://edlatimore.com/low-level-light-therapy-for-hair-loss/#the-3-qualities-that-make-a-laser-different-from-conventional-light-sources)).<br><br>LEDs just provide a type of red light therapy, which is not the same as LLLT. The Bosley Revitalizer 272 uses medical-grade laser emitting diodes (not light emitting diodes) for treatment.
