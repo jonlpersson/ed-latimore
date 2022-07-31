@@ -102,15 +102,17 @@ Having an accountability partner is proven to make you 95% more likely to accomp
 
 Social drinking is a fun way to blow off steam but consider for a moment how much more rewarding it can be to instead use that same energy to change each other’s lives for the better.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 ## You’ll know you’re in control
 
 Sober October is also worthwhile because you’ll know for sure that you’re the one in control.
 
 I couldn’t say that for a good portion of my life.
 
-Since I now know that choosing to drink or choosing not to drink is completely up to me, it’s easier to take full ownership over the rest of my life.
+Since I know that choosing to drink or not to drink is completely up to me, it’s easier to take full ownership over the rest of my life.
 
-Allowing yourself space to choose sobriety tests your willpower and puts you in full control, even if it means something as simple as declining the happy hour, or going to happy hour and drinking water instead.
+Allowing yourself space to choose sobriety tests your willpower and puts you in full control, even if it means something as simple as declining the happy hour or going to happy hour and drinking water instead.
 
 The break ultimately lets your brain’s prefrontal cortex recover. This is the part of your brain responsible for willpower and putting long-term goals over short-term gratification.<sup id="fnref:7" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:7">7</a></sup>
 
@@ -131,6 +133,8 @@ It’s a physical and mental health rewire that teaches you strength and discipl
 Most importantly, recognize that you can do it any time of the year. Whether you decide to go sober for October or bring in the New Year with Dry January, the same principles and benefits apply.
 
 The rest is up to you.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 {% include widgets/summary.html id="Vice-breakers-booze" %}
 
