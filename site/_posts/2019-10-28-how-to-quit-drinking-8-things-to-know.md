@@ -64,6 +64,8 @@ If there's one thing that will make all the difference, focus on how bad things 
 
 No matter how well things are going, that terror keeps me from ever picking up a drink again and exposing myself to my dark side.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 ## 2\. You don’t need alcoholics anonymous&nbsp;
 
 [When I decided to stop drinking](/how-to-stop-drinking-on-your-own/), I enlisted the power of every tool at my disposal to guarantee success.
@@ -227,7 +229,7 @@ Sobriety is a good way to discover which relationships are important in your lif
 
 The number of people I no longer communicate with is expected, so it’s not that surprising. What is surprising is the fact that I don’t miss the communication at all.
 
-All I know is that it’s very difficult to explore the depths of a connection via bonding over alcoholic consumption.
+I know it’s very difficult to explore the depths of a connection via bonding over alcoholic consumption.
 
 ## If You Think You Want To Get Sober…
 
@@ -243,5 +245,9 @@ All I know is that it’s very difficult to explore the depths of a connection v
 These are the key things that few people warn you about when you get sober. Consider them and make the best decision for your life.
 
 The rest is up to you.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
+&nbsp;
 
 {% include widgets/summary.html id="Sober-Letters" %}
