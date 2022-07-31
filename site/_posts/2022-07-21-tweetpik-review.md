@@ -6,16 +6,16 @@ permalink: /tweetpik-review/
 tags:
   - how-to-build-an-audience
 description: >-
-  Tweetpik is a simple tool that makes it easy to capture and share professional screenshots of your tweets. Here’s my review and how I use it to boost my Twitter and Instagram audiences.
+  Tweetpik is a simple tool that makes it easy to capture and share screenshots
+  of your tweets. Here’s how I use it to boost my Twitter and Instagram
+  audiences.
 image: /assets/images/thumbnails/ed-instagram-post-tweetpik-example.jpg
 ---
-
 Like it or not, having a strong presence online is a key component for building a digital-based business and personal brand. It’s why I stay active on Twitter—and more recently, [Instagram](https://www.instagram.com/edlatimore/)—to grow my audience.
 
 But building an audience isn’t easy when you’re just starting out, and most people do it wrong.
 
 Through trial-and-error and sheer determination to crack the code, I’ve had a lot of success (and fun) building an engaged audience on Twitter. My following has become a cornerstone of my business success, and [my account](https://twitter.com/EdLatimore) proves that I know what I’m talking about. As of this article’s published date:
-
 
 * I’ve grown to 185k+ Twitter followers
 * My tweets get more than 25 million impressions per month
@@ -23,24 +23,19 @@ Through trial-and-error and sheer determination to crack the code, I’ve had a 
 
 I’ve already shared plenty of tips on how to [build an audience on Twitter](https://edlatimore.com/how-to-get-more-twitter-followers/), but the true game-winning formula is a combination of consistent effort and leveraging the right tools. That’s why I’m a big fan of Tweetpik since it’s been the main driver for growing my Instagram audience on the back of what’s already worked well for me on Twitter.
 
-
 ## What is Tweetpik?
 
 Tweetpik is a simple tool that lets you capture and share professional screenshots of your tweets on Twitter and other social media platforms. If growing your social media presence is a vital part of your business or side hustle, a tool like Tweetpik will help you stand out amidst the noise. It’s also a fun tool for those who want to add an artistic touch to their social feeds.
 
-
 ## How Tweetpik works
 
 The [Tweetpik web app](https://gumroad.com/a/917726323/occrm) works by converting your tweets into high-resolution images. The image can then be downloaded as a PNG or JPG file to be shared across Twitter and other social media platforms. Tweetpik gives you professional-looking screenshots with the help of these features:
-
-
 
 * Easily modify the font size and zoom level of your image
 * Choose from light, dim and dark themes
 * Change the background color of any image
 * Customize the color of links and hashtags
 * Option to show/hide the number of replies, retweets, quote tweets, likes, timestamp, and source
-
 
 ### Capture perfect Twitter screenshots
 
@@ -50,40 +45,30 @@ The Pro membership unlocks additional options to perfectly fit your screenshots 
 
 If you're trying to grow on multiple social networks, the Pro membership makes sharing high-quality images across multiple channels quick and seamless.
 
-
 ### Zapier integration
 
 Tweetpik also integrates with the popular workflow automation tool, Zapier. Using Zapier, you can automate your Twitter screenshot flow to have the tool publish the same screenshots on all social media platforms for you.
 
 Zapier is an excellent tool for unlocking your ability to become a one-person media company by automating the tedious steps of publishing and optimizing for each social media channel. Taking advantage of automation helps maximize your outreach so you can focus on what’s important: creating engaging content that helps others.
 
-
 ## Pros & cons
 
 Tweetpik has become one of the staple tools I’ve leveraged to build my online presence to 185k+ Twitter followers and 87k+ Instagram followers. As a routine user, here’s what I’ve found that makes Tweetpik the right tool and where I think there’s still room for improvement.
 
-
 ### Pros
-
-
 
 * Google Chrome browser extension for quick capturing
 * Create professional quote images from past tweets
 * Turn your tweet screenshots into video
 * Zapier and Integromat integrations to automate workflows
 
-
 ### Cons
-
-
 
 * The free version only allows you to optimize images for Twitter and Instagram posts
 * The Pro subscription is a bit expensive at $12/month or $108 for an annual subscription
 * No app for iOS or Android
 
-
 ## Frequently asked questions
-
 
 ### How does Tweetpik compare to other image-capturing apps?
 
@@ -95,19 +80,15 @@ Tweet 2 Image is another one-click image-capturing software available on the App
 
 While all three apps offer a similar product, the additional customization features (like adding custom logos/backgrounds and removing likes, retweets, etc.) provided by Tweetpik are what separates it from the others. If professional-looking images are essential to your brand strategy, then Tweetpik is the clear winner.
 
-
 ### Does Tweetpik offer a free version?
 
 Yes, Tweetpik offers a free version. To get started, head to their [site](https://gumroad.com/a/917726323/occrm) and create an account by entering your name, email address, and password. It’s that simple.
-
 
 ![tweetpik homepage screenshot](/assets/images/drafts/tweetpik-homepage-screenshot.png)
 
 ### How much is Tweetpik?
 
 Tweetpik offers two pricing options, Tweetpik Pro for individual users and Tweetpik Startup for small businesses. The Pro membership costs $12/month or $108/year if you choose the annual subscription option. The Pro membership gives you access to additional features such as:
-
-
 
 * Turning your tweet screenshots into video
 * Twitter threads
@@ -120,11 +101,9 @@ Tweetpik offers two pricing options, Tweetpik Pro for individual users and Tweet
 
 For $24/month or $216/year, the Startup subscription gives you all of the same features as the Pro, but with the addition of 2,500 API requests/month and priority support. The Startup option is great for a small business with multiple users; otherwise, I’d opt for the Pro subscription.
 
-
 ### Should I upgrade to a Pro membership?
 
 Tweetpik Pro is tailored toward professionals who rely on Twitter to grow their business or those serious about building a personal brand. The Pro membership is excellent for making your Tweets look professional by creating hi-res screenshots and videos without the watermark. It also saves you time by automating the boring manual work of editing tweets and sharing them across multiple social networks.
-
 
 ## Final thoughts
 
