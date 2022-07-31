@@ -59,6 +59,8 @@ Eat nutrient-dense foods with protein, fats, and vitamins. Good health and minds
 
 To understand this more deeply, let’s look at 6 ways that proper nutrition helps your body detox after alcohol and substance abuse.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 ## 1\. Protein is brain food
 
 During detoxification, your brain is one of the first things to heal. It's absorbed the brunt of the damage from your drug and alcohol abuse, which explains the mood swings that many people experience while detoxing.
@@ -185,3 +187,5 @@ The Alcohol Detox Diet will help us with
 * Offer relief and healing from diabetes, fatty liver disease, heart disease, poor brain and digestive health and low blood sugar issues
 
 Your sobriety shouldn’t be defined by what you no longer do but by what you’re currently doing to make yourself healthier, stronger, and more confident. Read more about the benefits of getting sober [here](https://edlatimore.com/sobriety-benefits/).
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
