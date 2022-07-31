@@ -6,9 +6,8 @@ permalink: /how-to-fail-at-almost-everything-and-still-win-big
 tags:
   - book-quotes-and-summaries
 description: >-
-  In his bestseller "How to Fail at Almost Everything and Still Win Big: Kind of
-  the story of my life," Scott Adams gives strategies that helped overcome
-  failure and setback.
+  In "How to Fail at Almost Everything and Still Win Big: Kind of the story of
+  my life," Scott Adams shows how to overcome failure and set back.
 image: /assets/images/posts/how-to-fail-at-everything.webp
 ---
 I’ve seen this book mentioned a few times, but I only became seriously interested in it when I started reading Scott Adams’ blog. While you may not know Scott Adams the blogger, you likely know Scott Adams, the famous cartoonist, from his famous comic strip, *Dilbert*.
