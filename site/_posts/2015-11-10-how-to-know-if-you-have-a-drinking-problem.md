@@ -88,6 +88,8 @@ If you put effort into a portion of life but alcohol undoes or impedes that prog
 
 You should take a break, even if it's only temporary. Maybe only drink soft drinks or tea. You may even need to go on a permanent break, but something must change.
 
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
+
 ![Drinking grape juice instead of wine](/assets/images/posts/2015/edgruvi1.jpg "I love drinking Gruvi non-alcoholic drinks now. I get the taste of some of my favorite beers but without the problems of getting drunk. Check them out at the link below and use discount code Ed10")
 
 [Get Gruvi here](https://www.getgruvi.com/drinks).
@@ -107,6 +109,8 @@ If your goal is to just pay rent, watch Netflix, and eat, you don't have a drink
 If you want more from life, a hangover is a waste of time.
 
 Fail because you didn't work hard enough — not because you got a DUI. Lose friends because you're an asshole — not a sloppy drunk. Have control over your life — even over the mistakes.
+
+#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 ---
 
