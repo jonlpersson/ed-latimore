@@ -68,7 +68,7 @@ Here are the steps to get over the negative feelings you have about yourself, yo
 
 ***(Read: "[Why Am I So Unhappy?](/unhappiness/)")***
 
-{% include widgets/toc.html heading="How to forgive yourself and let go of past mistakes in 6 steps" list-items="Accept that you've made mistakes, Acknowledge those mistakes, Accept an uncomfortable truth about forgiving yourself, Respect the role of time, Remember that you're not perfect, Love and respect yourself" list-ids="1-accept-that-youve-made-mistakes-in-the-past, 2-acknowledge-those-mistakes-to-let-go-of-the-past, 3-self-forgiveness-requires-accepting-an-uncomfortable-but-liberating-truth, 4-respect-the-role-of time-in-self-forgiveness, 5-remember-that-you-are-human-and-imperfect, 6-love-and-respect-yourself" %}
+#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 ## 1\. Accept that you've made mistakes in the past
 
@@ -80,11 +80,11 @@ When we make mistakes, we have 3 typical responses. We either:
 
 The first response alleviates blame, the second response shifts it, and the third response absorbs too much. Every mistake you've made is a combination of the things you did, the things you responded to, and the mindset you had when you faced these problems.
 
-The only thing you have control over is the first one–how you responded. Even then, your environment and mentality had a heavy influence, and those two things are important, but they are not within your control.
+The only thing you have control over is the first one–how you responded. Even then, your environment and mentality had a heavy influence, and those two things are important but not within your control.
 
-When it comes to self-forgiveness, there's no reason to focus on who or what is responsible. You merely need to accept that you made a mistake.
+There's no reason to focus on who or what is responsible when it comes to self-forgiveness. You merely need to accept that you made a mistake.
 
-Intellectually, you try to learn from the mistake so that you don't repeat it. Emotionally, you can't begin to forgive yourself until you accept that you made a mistake.
+Intellectually, you try to learn from the mistake so you don't repeat it. Emotionally, you can't begin to forgive yourself until you accept that you made a mistake.
 
 There's no reason to dwell on this fact. All that's required is that you accept it.
 
@@ -94,17 +94,17 @@ The past is a thing that you can't experience with any of your senses.
 
 You can’t see it, touch it, taste it, hear it, or smell it. For all intents and purposes, the past does not exist.
 
-When you look at things that were built and endure, you aren't looking at the past any more than when you put your hand into a river, you're touching old water.
+When you look at things that were built and endured, you aren't looking at the past any more than when you put your hand into a river, you're touching old water.
 
-The water flows to a different location, but you can't touch water from the past. You exist now, but what's done is done. You can't go back and undo it anymore than you can reverse the flow of time.
+The water flows to a different location, but you can't touch water from the past. You exist now, but what's done is done. You can't go back and undo it any more than you can reverse the flow of time.
 
-A big reason why we give ourselves a hard time is because we're unable to let go of the past. We hold on to the past like it's real, but it only exists in our memories and imagination.
+A big reason why we give ourselves a hard time is that we're unable to let go of the past. We hold on to the past like it's real, but it only exists in our memories and imagination.
 
 There's nothing you can do about this, and recognizing that you are powerless to rectify these mistakes is key to forgiving yourself.
 
 ## 3\. Self-forgiveness requires accepting an uncomfortable but liberating truth
 
-I've talked to many people who suffered physical or sexual assault and they often blame themselves.
+I've talked to many people who suffered physical or sexual assault, and they often blame themselves.
 
 What we have to remember is that these things are not our fault. When a person devalues us with violent victimization, the only way we can make sense of such cruelty and disregard for human life is to assume we brought it on ourselves.
 
@@ -118,13 +118,13 @@ If you look around the world, you see how impersonal and unfair the universe can
 
 While I believe that abdicating personal responsibility is always a recipe for disaster, you must never forget that life is probabilistic. In life, the best processes don't always guarantee the best outcomes.
 
-Even taking maximum precautions, it's still sometimes your unlucky day. Don't feel bad if you do your best to protect yourself or loved ones and the impersonal universe still deals them a bad hand.
+Even taking maximum precautions, it's still sometimes your unlucky day. Don't feel bad if you do your best to protect yourself or loved ones; the impersonal universe still deals them a bad hand.
 
 ## 4\. Respect the role of time in self-forgiveness
 
-There is nothing that can survive the onslaught of time. Even the universe will eventually collapse. Fortunately, we can assist the aid of time.
+There is nothing that can survive the onslaught of time. Even the universe will eventually collapse. Fortunately, we can assist with the aid of time.
 
-"Decay theory" is the idea that memories fade over time. A [group of researchers from Boston College](https://www.sciencedaily.com/releases/2019/04/190405080919.htm){: target="_blank"} discovered that memories are like old photographs in that they fade over time. Boston College Assistant Professor of Psychology Maureen Ritchey, a cognitive neuroscientist and co-author of the study has this to say:
+"Decay theory" is the idea that memories fade over time. A [group of researchers from Boston College](https://www.sciencedaily.com/releases/2019/04/190405080919.htm){: target="_blank"} discovered that memories are like old photographs in that they fade over time. Boston College Assistant Professor of Psychology Maureen Ritchey, a cognitive neuroscientist, and co-author of the study, has this to say:
 
 > A simple analogy is what happens when you post a photo on Instagram. You're cued to apply a filter that changes the brightness or color saturation of the image. In our study, we asked if forgetting is like applying a filter to past experience, and whether or not the emotional significance of the event would change which filter you apply.
 
@@ -132,7 +132,7 @@ The negativity of the memory didn't affect how it faded over time. The study als
 
 > We found that memories seem to literally fade: people consistently remembered visual scenes as being less vibrant than they were originally experienced," said Cooper. "We had expected that memories would get less accurate after a delay, but we did not expect that there would be this qualitative shift in the way that they were remembered.
 
-Fortunately, time weakens our memories and gives us the ability to change our interactions with the event that makes us guilty. I remember how often I'd be wracked with guilt in the first 2 years of my sobriety. Now that I'm 6 years in, I experience guilt even less.
+Fortunately, time weakens our memories and allows us to change our interactions with the event that makes us guilty. I remember how often I'd be wracked with guilt in the first two years of my sobriety. Now that I'm six years in, I experience guilt even less.
 
 ***(Read: "[10 Observations From 2 Years Of Sobriety](/sobriety-benefits/)")***
 
@@ -142,27 +142,29 @@ Time is your friend when it comes to getting over things. Respect the role it pl
 
 ## 5\. Remember that you are human and imperfect
 
-If you believe yourself to be perfect, infallible, and invincible, then you're in for a rude surprise.
+If you believe yourself to be perfect, infallible, and invincible, you're in for a rude surprise.
 
 It's one thing to admit to yourself that you made a mistake. It's another thing entirely to accept you are, despite your best efforts, going to mess up.
 
-You have to make peace with the idea that many people–yourself included–are just making life up as they go along. If you get discouraged at yourself for not always having the perfect plan, answer, or course in life, then you're in for a lot of disappointment.
+You have to make peace with the idea that many people–yourself included–are just making life up as they go along. If you get discouraged at yourself for not always having the perfect plan, answer, or life course, you're in for a lot of disappointment.
 
 Everything that happens to you is an opportunity to learn and be better.
 
-If you view what you've experienced through this lens, then it becomes very difficult to feel guilty. The physical world has already dealt with you, but it's up to you to decide how your mind and emotions will react.
+Viewing what you've experienced through this lens makes it very difficult to feel guilty. The physical world has already dealt with you, but it's up to you to decide how your mind and emotions will react.
 
-Will you learn from the experience or will you see it as a reason to put yourself down? Will you get better or will you become bitter?
+Will you learn from the experience or see it as a reason to put yourself down? Will you get better, or will you become bitter?
 
-You have to consciously choose how to interpret your life and choose a lens that gives you the ability to forgive the mistakes you've made if you're in a better place and trying to improve.
+You have to consciously choose how to interpret your life and choose a lens that allows you to forgive your mistakes if you're in a better place and trying to improve.
+
+#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 ## 6\. Love and respect yourself
 
-It's always easier to forgive other people–especially when it's a loved one. Generally speaking, the more we like and care about someone, the more quickly and easily we forgive them. This is why it's important that you also cultivate this type of relationship with yourself.
+It's always easier to forgive others, especially a loved one. Generally speaking, the more we like and care about someone, the more quickly and easily we forgive them. This is why it's important that you also cultivate this type of relationship with yourself.
 
-When you hold yourself in high regard, you're less tolerant of things that take a toll on your mental health.
+When you hold yourself in high regard, you're less tolerant of things that affect your mental health.
 
-When dealing with other people, you always have the option to just separate yourself if you're unable to forgive. When it comes to dealing with ourselves, we don't get the option to separate from our being. We're forced to proceed with self-compassion or we suffer.
+When dealing with other people, you always have the option to separate yourself if you cannot forgive. When dealing with ourselves, we don't get the option to separate from our being. We're forced to proceed with self-compassion or we suffer.
 
 You may not love or think very highly of yourself at this moment, but I have an easy trick that will help to raise your self-esteem so that you start to value yourself enough to forgive yourself.
 
