@@ -12,7 +12,7 @@ image: /assets/images/thumbnails/ed-drinking-coffee-in-morning.png
 ---
 If there’s one thing I preach, it’s knowing how to out hustle the competition. That means putting in the hard work, but also recognizing when to work smarter too. It’s why I’m a fan of taking nootropics to boost my mental focus and productivity to get more done.
 
-For those early morning sprints when I needed some caffeine to jolt my mind into overdrive, I preferred [Gorilla Mind Rush](https://edlatimore.com/review-of-the-gorilla-mind-rush-is-it-effective/). Unfortunately, now that it’s discontinued, I stick to black coffee for my caffeine fix. But for those work sessions that can’t get done until later in the day or when I’m taking a break from caffeine, my go-to nootropic is Gorilla Mind Smooth.
+For those early morning sprints when I needed some caffeine to jolt my mind into overdrive, I preferred [Gorilla Mind Rush](https://edlatimore.com/review-of-the-gorilla-mind-rush-is-it-effective/). Unfortunately, now that it’s discontinued, I stick to black coffee for my caffeine fix. But for those work sessions that can’t get done until later in the day or when I’m taking a break from caffeine, [my go-to nootropic is Gorilla Mind Smooth.](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
 
 ## How it compares to Gorilla Mind Rush
 
@@ -39,6 +39,8 @@ Here’s what I notice after taking it, although your experience may vary:
 **After 6-8 hours:** I slowly return to my baseline state. It’s a smooth transition since there’s no chance of a caffeine crash. If it’s later in the evening, I may even roll straight into bed to get ready to tackle the next day.
 
 Since making Gorilla Mind Smooth a part of my morning ritual, these are the main benefits I’ve experienced.
+
+#### [Pick up a bottle here\!](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
 
 ## Benefits
 
