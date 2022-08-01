@@ -14,8 +14,6 @@ If there’s one thing I preach, it’s knowing how to out hustle the competitio
 
 For those early morning sprints when I needed some caffeine to jolt my mind into overdrive, I preferred [Gorilla Mind Rush](https://edlatimore.com/review-of-the-gorilla-mind-rush-is-it-effective/). Unfortunately, now that it’s discontinued, I stick to black coffee for my caffeine fix. But for those work sessions that can’t get done until later in the day or when I’m taking a break from caffeine, my go-to nootropic is Gorilla Mind Smooth.
 
-{% include widgets/toc.html heading="Gorilla Mind Smooth review" list-items="How it compares to Gorilla Mind Rush, What to expect from Gorilla Mind Smooth, Benefits, Ingredients list, How it compares to other nootropics, Frequently asked questions" list-ids="how-it-compares-to-gorilla-mind-rush, what-to-expect-from-gorilla-mind-smooth, benefits, ingredients, how-it-compares-to-other-nootropics, frequently-asked-questions" %}
-
 ## How it compares to Gorilla Mind Rush
 
 Gorilla Mind Smooth is the stimulant-free successor of Gorilla Mind Rush for when I need that extra dose of concentration without the caffeine. While I’m sad to see Rush go, Smooth has provided a much smoother, less extreme energy while still providing intense focus without the jitters or crashes.
@@ -137,7 +135,7 @@ No side effects. It’s also non-habit forming and doesn't make you feel jittery
 
 Gorilla Mind Smooth has become my go-to nootropic for when I need to knock out hours of deep, focused work—no matter the time of day. It’s the best nootropic I’ve used for achieving heightened levels of focus without the jitters and pretty much the only supplement I take aside from my workout supplements and black coffee.
 
-If you found my review helpful, I’d love for you to use my link, get [Gorilla Mind Smooth here](https://gorillamind.com/collections/nootropics/products/gorilla-mind-smooth?rfsn=4525775.fe5747). (I get a small % cut of each sale made through the link, which helps pay my bills).
+If you found my review helpful, I’d love for you to use my link, get [Gorilla Mind Smooth here](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}. (I get a small % cut of each sale made through the link, which helps pay my bills).
 
 I look forward to hearing your thoughts, reviews, and feedback. And if you’re already using GMS, let me know how it’s helping you.
 
