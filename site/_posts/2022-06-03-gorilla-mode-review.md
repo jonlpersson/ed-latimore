@@ -6,11 +6,11 @@ permalink: /gorilla-mode-review/
 tags:
   - learning-skills
 description: >-
-  A comprehensive review of the Gorilla Mode pre-workout: what I think of it, how I use it, and how it compares to other popular pre-workouts.
+  A comprehensive review of the Gorilla Mode pre-workout: what I think of it,
+  how I use it, and how it compares to other popular pre-workouts.
 image: /assets/images/thumbnails/gorilla-mode-thumbnail.jpg
 ---
-
-[Gorilla Mode](https://gorillamind.com/products/gorilla-mode?rfsn=4525775.fe5747) is the pre-workout claiming to outwork all pre-workouts by providing the maxed-out formula in all aspects compared to anything else you’ll find on the market. It’s a quality product that doesn’t hold back on delivering the perfect blend to help you hit the next level.
+[Gorilla Mode](https://gorillamind.com/r?id=01kb6h) is the pre-workout claiming to outwork all pre-workouts by providing the maxed-out formula in all aspects compared to anything else you’ll find on the market. It’s a quality product that doesn’t hold back on delivering the perfect blend to help you hit the next level.
 
 ## What to expect from Gorilla Mode
 
@@ -28,7 +28,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. If I know that my workout will go longer than usual, GM is a must to maintain my edge throughout.
 
-**After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard]([https://edlatimore.com/pushing-through-the-pain/](https://edlatimore.com/pushing-through-the-pain/)).
+**After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)
 
 ## Benefits
 
@@ -36,7 +36,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 Gorilla Mode provides a massive increase in nitric oxide (NO) levels, intramuscular hydration, energy, focus, and a significant boost in muscle strength and endurance that you’ll be hard pressed to find in any pre-workout.
 
-The massive dose of L-Citrulline, GlycerPump, Agmatine, Creatine, and Betaine saturate your muscles with blood to maximize your pump and performance while balancing your energy levels and focus to complete those [long, grueling workouts]([https://edlatimore.com/boxing-training/](https://edlatimore.com/boxing-training/)).
+The massive dose of L-Citrulline, GlycerPump, Agmatine, Creatine, and Betaine saturate your muscles with blood to maximize your pump and performance while balancing your energy levels and focus to complete those [long, grueling workouts.](/boxing-training/)
 
 ### Increased focus
 
@@ -52,22 +52,22 @@ The 175 mg of caffeine per serving in the product can make you feel jittery if y
 
 ## Gorilla Mode ingredients
 
-I’m a big fan of the Gorilla Mind product line due to the owner [Derek’s transparency]([https://www.youtube.com/watch?v=PSgecUqjxrs&t=1s](https://www.youtube.com/watch?v=PSgecUqjxrs&t=1s)) about what goes into the products, which can’t always be said about other popular nootropic and pre-workout blends. And since I’m strict about what I put in my body, I only take what I recognize and know is healthy for me.
+I’m a big fan of the Gorilla Mind product line due to the owner [Derek’s transparency]([https://www.youtube.com/watch?v=PSgecUqjxrs&amp;t=1s]&#40;https://www.youtube.com/watch?v=PSgecUqjxrs&amp;t=1s&#41;) about what goes into the products, which can’t always be said about other popular nootropic and pre-workout blends. And since I’m strict about what I put in my body, I only take what I recognize and know is healthy for me.
 
 Here’s the list of ingredients found in Gorilla Mode:
 
 ![Supplement fact sheet for Gorilla Mode pre-workout](/assets/images/posts/gorilla-mode-ingredients.png "Supplement fact sheet")
 
-I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine]([https://examine.com/](https://examine.com/)) is a trusted resource for learning more about each ingredient.
+I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine]([https://examine.com/]&#40;https://examine.com/&#41;) is a trusted resource for learning more about each ingredient.
 
 * **L-Citrulline:** An amino acid that can help reduce fatigue, increase power output, and improve endurance in both aerobic and anaerobic exercise.
-* **Creatine Monohydrate:** An organic compound commonly found in meat and fish. When combined with resistance training, [research has shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/)) that it can improve strength, [power output](https://examine.com/topics/power-output/), and lean mass.
+* **Creatine Monohydrate:** An organic compound commonly found in meat and fish. When combined with resistance training, [research has shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/&#41;) that it can improve strength, [power output](https://examine.com/topics/power-output/), and lean mass.
 * **GlycerPump™:** A unique formula consisting of 65% Glycerol powder that hyper-hydrates your muscles to increase muscle pump.
 * **Betaine Anhydrous:** Also known as trimethylglycine (TMG), this naturally occurring compound can potentially enhance strength-based performance and hypertrophy by increasing blood flow and reducing fatigue.
-* **L-Tyrosine:** An amino acid that helps [reduce stress and enhance cognitive function]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/)) by balancing the neurotransmitters in your brain.
-* **Agmatine Sulfate:** A neurotransmitter and neuromodulator with anti-anxiety and antidepressant-like effects to help elevate mood. It can also [manipulate the body’s pain receptors]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/)), allowing you to power through more intense workouts.
-* **Kanna:** A South African herb that [reduces anxiety, increases cognition, and improves reaction time]([https://pubmed.ncbi.nlm.nih.gov/23903032/](https://pubmed.ncbi.nlm.nih.gov/23903032/)).
-* **Caffeine Anhydrous:** A powerful stimulant made using the seeds and stems of the coffee plant and dehydrating for increased concentration. [Caffeine has been shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/)) to improve physical strength and endurance and is classified as a [nootropic](https://examine.com/supplements/nootropic/) because it sensitizes neurons and provides mental stimulation.
+* **L-Tyrosine:** An amino acid that helps [reduce stress and enhance cognitive function]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/&#41;) by balancing the neurotransmitters in your brain.
+* **Agmatine Sulfate:** A neurotransmitter and neuromodulator with anti-anxiety and antidepressant-like effects to help elevate mood. It can also [manipulate the body’s pain receptors]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/&#41;), allowing you to power through more intense workouts.
+* **Kanna:** A South African herb that [reduces anxiety, increases cognition, and improves reaction time]([https://pubmed.ncbi.nlm.nih.gov/23903032/]&#40;https://pubmed.ncbi.nlm.nih.gov/23903032/&#41;).
+* **Caffeine Anhydrous:** A powerful stimulant made using the seeds and stems of the coffee plant and dehydrating for increased concentration. [Caffeine has been shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/&#41;) to improve physical strength and endurance and is classified as a [nootropic](https://examine.com/supplements/nootropic/) because it sensitizes neurons and provides mental stimulation.
 * **N-Phenethyl:** Also known as the “love drug,” this nootropic increases the release of serotonin, dopamine, adrenaline, and noradrenaline.
 * **Bioperine:** A trademarked formula of black pepper extract standardized to 95% Piperine that’s commonly used as an anti-inflammatory agent and antioxidant, capable of eliminating free radicals within the body.
 * **Huperzine A:** A cognitive enhancer that increases cognitive function and memory, helps body composition, and combats aging.
@@ -102,7 +102,7 @@ Before I try any new supplement or product, I always do my research to ensure it
 
 ### Can I stack it with other supplements?
 
-You can stack Gorilla Mode with [Gorilla Mind Smooth]([https://gorillamind.com/products/gorilla-mind-smooth](https://gorillamind.com/products/gorilla-mind-smooth)), a stim-free product that can improve concentration for those more intense workouts that require intense focus. But use as directed and do your research before combining GM with other stim-based supplements, and never exceed your daily serving.
+You can stack [Gorilla Mode](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} with [Gorilla Mind Smooth](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}, a stim-free product that can improve concentration for those more intense workouts that require intense focus. But use as directed and do your research before combining GM with other stim-based supplements, and never exceed your daily serving.
 
 ### Should I ever cycle off Gorilla Mode?
 
@@ -126,7 +126,7 @@ If you’re looking to maximize your mental and physical performance at the gym,
 
 ## Buy Gorilla Mode
 
-If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/products/gorilla-mode?rfsn=4525775.fe5747) (I get a small % cut of each sale made through the link, which helps pay my bills).
+If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} (I get a small % cut of each sale made through the link, which helps pay my bills).
 
 I look forward to hearing your thoughts, reviews, and feedback. And if you’re already using Gorilla Mode, let me know how it’s helping you reach your training goals.
 
