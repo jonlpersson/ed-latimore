@@ -71,7 +71,7 @@ This means that if you have a 16 ounce cup of black coffee—which has 180 mg of
 
 Caffeine reduces the amount of slow wave sleep (SWS) your body gets each night. SWS is one of the [**4 stages of sleep**](https://www.whoop.com/thelocker/average-sleep-stages-time/){: target="_blank"} (along with wake, [**light sleep**](https://www.whoop.com/thelocker/what-is-light-sleep-why-its-important/){: target="_blank"}, and [**REM sleep**](https://www.whoop.com/thelocker/what-is-rem-sleep/){: target="_blank"}) that your body goes through.
 
-“The counteractive effect of *L*\-theanine against caffeine has also been studied in the assessment of sleep quality. Specifically, *L*\-theanine at 75 mg/kg and 150 mg/kg reversed the caffeine-induced wakefulness; and lower dosages (22.5 mg/kg and 37.5 mg/kg) were able to increase the reduction of SWS by caffeine (7.5 mg/kg).” \[[Source](https://www.sciencedirect.com/science/article/pii/S2213453021001324){: target="_blank"}\]
+> “The counteractive effect of *L*\-theanine against caffeine has also been studied in the assessment of sleep quality. Specifically, *L*\-theanine at 75 mg/kg and 150 mg/kg reversed the caffeine-induced wakefulness; and lower dosages (22.5 mg/kg and 37.5 mg/kg) were able to increase the reduction of SWS by caffeine (7.5 mg/kg).” \[[Source](https://www.sciencedirect.com/science/article/pii/S2213453021001324){: target="_blank"}\]
 
 ### **Enhances alpha brain waves**
 
@@ -85,7 +85,9 @@ This highlights another appealing aspects of L-theanine: it relaxes without seda
 
 Magnesium is a element that is responsible for over 300 processes in your body—including sleep. Interestingly enough, scientists aren’t sure exactly how magnesium contributes to sleep, but there is an abundance of evidence which shows how a lack of it disrupts sleep quality.
 
-Magnesium does not present itself in nature unbonded. As a result, there different forms of magnesium (Magnesium l-threonate, magnesium bisglycinate, magnesium orcitrate were the type recommended by Andrew Huberman to take with the cocktail.) to take with various pros and cons. If you’re interested in a list of the most popular magnesium supplements, here is a great list—&gt;[9 Different Types Of Magnesium, Plus What They're Used For](https://www.mindbodygreen.com/articles/magnesium-supplement-types/){: target="_blank"}
+Magnesium does not present itself in nature unbonded. As a result, there different forms of magnesium (Magnesium l-threonate, magnesium bisglycinate, magnesium orcitrate were the type recommended by Andrew Huberman to take with the cocktail.) to take with various pros and cons
+
+If you’re interested in a list of the most popular magnesium supplements, here is a great list—&gt;[9 Different Types Of Magnesium, Plus What They're Used For](https://www.mindbodygreen.com/articles/magnesium-supplement-types/){: target="_blank"}
 
 ### Cortisol and melatonin regulation
 
@@ -105,7 +107,7 @@ One study found that sleep efficiency improved RLS patients took magnesium for 4
 
 ## What is Apigenin and how does it work for sleep?
 
-If you’ve ever drank a cup of chamomille tea to relax before before, then you’ve already been using one of the natures most potent sleep supplements. Apigenin is the active ingredient in chamomille tea that has been shown to not only reduce anxiety and stress, but ease a variety of other conditions as well.
+If you’ve ever drank a cup of chamomille tea to relax before bed, then you’ve already been using one of the natures most potent sleep supplements. Apigenin is the active ingredient in chamomille tea that has been shown to not only reduce anxiety and stress, but ease a variety of other conditions as well.
 
 Now in his instructions for the sleep cocktail, he says that the apigenin is optional because it seems to have properties of estrogen antagonism and may promote cancer in women on any other hormone replacement therapies \[[Source](https://www.sciencedaily.com/releases/2013/11/131120155213.htm){: target="_blank"}\].
 
@@ -115,7 +117,9 @@ Because of this, men should also be careful, though the risk is a lot lower. How
 
 The single best part of Impossible Sleep is that it does not leave you with the groggy feeling the morning after the way melatonin can. It also doesn’t induce sleep, per se. Instead, the ingredients induce relaxation, making it easier to fall asleep.
 
-It’s a powder rather than a capsule, meaning you must mix it in water. Since you’re supposed to take it within an hour of bedtime, this may cause a problem for people who don’t want to wake up and use the bathroom. I haven’t had this issue, and I typically get up to use the bathroom at least once. I suspect it involves getting a deeper sleep (so I’m not as disturbed by slight pressure on my bladder), and deeper sleep increases melatonin levels, which are inversely correlated with nocturnal urinary frequency \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748773/){: target="_blank"}\].
+It’s a powder rather than a capsule, meaning you must mix it in water. Since you’re supposed to take it within an hour of bedtime, this may cause a problem for people who don’t want to wake up and use the bathroom.
+
+I haven’t had this issue, and I typically get up to use the bathroom at least once. I suspect it involves getting a deeper sleep (so I’m not as disturbed by slight pressure on my bladder), and deeper sleep increases melatonin levels, which are inversely correlated with nocturnal urinary frequency \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748773/){: target="_blank"}\].
 
 If you’re a man and don’t have any problems with your estrogen levels, I recommended ordering a bottle of apigenin to take with it. There’s a reason why that’s included in the original stack.
 
