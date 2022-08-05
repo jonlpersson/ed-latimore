@@ -13,7 +13,7 @@ image: /assets/images/drafts/impossible-sleep.jpg
 For the past month, I’ve made a serious effort to improve my sleep. There are multiple reasons for this:
 
 1. **The importance of sleep hygiene increases the older I get.** Melatonin levels decline gradually over the years. This affects the quality and efficiency of my sleep, and low melatonin levels correlate with various chronic health conditions \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377831/){: target="_blank"}\].
-2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up. Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before. ***\[[Check out the Oura Ring here](https://oura.link/gYK4V69-){: target="_blank" rel="noopener"}\]***
+2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up ***\[This article goes over a routine I have for waking up early that anyone can use—&gt;[How to wake up earlier](/how-to-wake-up-earlier/)\].***<br><br>Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before. ***\[[Check out the Oura Ring here](https://oura.link/gYK4V69-){: target="_blank" rel="noopener"}\]***
 3. **I occasionally suffer from night terrors.** I have various theories on why, many dating back to childhood abuse, but I can typically keep them at bay when my sleep quality is on point. I know this because outside of events in my home, I’m most susceptible to night terrors when my body is recovering from jet lag after a long trip.
 
 Nothing in your life gets better if you don’t sleep well. Lack of sleep affects your ability to focus, work out, and it even affects your ability to fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been as rested over the past two years.&nbsp;
@@ -41,6 +41,10 @@ While his contributions to neuroscience have been published in top journals incl
 Along with the recommendations in this tweet, he’s also spoken about the positive effect of these modifications and additions [in this video](https://www.youtube.com/watch?v=aXvDEmo6uS4){: target="_blank"} and in this podcast episode with [Tim Ferriss.](https://tim.blog/2021/07/06/andrew-huberman/){: target="_blank"}
 
 Joel Runyon set out to create a sleep formula based on Huberman’s recommendations, with a slight (but necessary) modification. Huberman recommends theanine, magnesium threonate (or magnesium bisglycinate), and says that apigenin is optional.
+
+![Joel Runyon's Impossible Sleep](/assets/images/drafts/impossible-sleep-1.jpg "Joel Runyon's Impossible Sleep"){: width="450" height="600"}
+
+***If you want to just hop in and get started, go for it. Purchase at the following link. Use discount code "Ed20" —&gt;[Get it here](https://impossible.co/products/sleep?utm_source=sponsorship&amp;utm_medium=email&amp;utm_campaign=ed&amp;utm_term=sleep){: target="_blank" rel="noopener"}***
 
 For reasons explained later in this article, Runyon’s Impossible sleep formula only includes the recommended dosage of theanine and magnesium. There is no apigenin, but that’s alright because the formula works just as well without it.
 
