@@ -8,7 +8,7 @@ tags:
 description: >-
   I haven't been sleeping well, so I tried Impossible Sleep. Learn how this
   supplement can help you sleep as well.
-image:
+image: /assets/images/drafts/impossible-sleep.jpg
 ---
 For the past month, I’ve made a serious effort to improve my sleep. There are multiple reasons for this:
 
@@ -124,6 +124,8 @@ It’s a powder rather than a capsule, meaning you must mix it in water. Since y
 I haven’t had this issue, and I typically get up to use the bathroom at least once. I suspect it involves getting a deeper sleep (so I’m not as disturbed by slight pressure on my bladder), and deeper sleep increases melatonin levels, which are inversely correlated with nocturnal urinary frequency \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748773/){: target="_blank"}\].
 
 If you’re a man and don’t have any problems with your estrogen levels, I recommended ordering a bottle of apigenin to take with it. There’s a reason why that’s included in the original stack.
+
+![Apigenin and Impossible Sleep combo](/assets/images/drafts/apigenin-and-impossible-sleep.jpg "Apigenin and Impossible Sleep combo"){: width="450" height="338"}
 
 #### [Order apigenin here](https://amzn.to/3Jv6L8x){: target="_blank"}
 
