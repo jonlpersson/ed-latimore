@@ -1,5 +1,5 @@
 ---
-date:
+date: 2022-08-05 12:00:00 -0400
 article_type: Article
 title: Impossible Sleep recreates Huberman's sleep cocktail
 permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
