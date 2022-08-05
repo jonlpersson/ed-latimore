@@ -1,5 +1,5 @@
 ---
-date: 2022-08-05 12:00:00 -0400
+date:
 article_type: Article
 title: Impossible Sleep recreates Huberman's sleep cocktail
 permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
@@ -13,7 +13,7 @@ image:
 For the past month, I’ve made a serious effort to improve my sleep. There are multiple reasons for this:
 
 1. **The importance of sleep hygiene increases the older I get.** Melatonin levels decline gradually over the years. This affects the quality and efficiency of my sleep, and low melatonin levels correlate with various chronic health conditions \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377831/){: target="_blank"}\].
-2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up. Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before.
+2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up. Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before. ***\[[Check out the Oura Ring here](https://oura.link/gYK4V69-){: target="_blank" rel="noopener"}\]***
 3. **I occasionally suffer from night terrors.** I have various theories on why, many dating back to childhood abuse, but I can typically keep them at bay when my sleep quality is on point. I know this because outside of events in my home, I’m most susceptible to night terrors when my body is recovering from jet lag after a long trip.
 
 Nothing in your life gets better if you don’t sleep well. Lack of sleep affects your ability to focus, work out, and it even affects your ability to fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been as rested over the past two years.&nbsp;
