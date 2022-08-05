@@ -107,6 +107,8 @@ One study found that sleep efficiency improved RLS patients took magnesium for 4
 
 ## What is Apigenin and how does it work for sleep?
 
+![Standard bottle of apigenin](/assets/images/drafts/apigenin.jpg "Standard bottle of apigenin"){: width="400" height="533"}
+
 If you’ve ever drank a cup of chamomille tea to relax before bed, then you’ve already been using one of the natures most potent sleep supplements. Apigenin is the active ingredient in chamomille tea that has been shown to not only reduce anxiety and stress, but ease a variety of other conditions as well.
 
 Now in his instructions for the sleep cocktail, he says that the apigenin is optional because it seems to have properties of estrogen antagonism and may promote cancer in women on any other hormone replacement therapies \[[Source](https://www.sciencedaily.com/releases/2013/11/131120155213.htm){: target="_blank"}\].
