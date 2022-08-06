@@ -50,12 +50,7 @@ For reasons explained later in this article, Runyon’s Impossible sleep formula
 
 However, if you’ve done your research and want to add apigenin (I do with even better effects), you can easily get it from amazon right here—&gt;[Purchase the apigenin I use](https://amzn.to/3BNaWuB){: target="_blank"}.
 
-Let’s dive deeper into the 3 ingredients of this sleep cocktail. If you don’t care for the science, jump to experience:
-
-* **[L-theanine](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-l-theanine-and-how-does-it-work-for-sleep)**
-* **[Magnesium](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-magnesium-and-how-does-it-work-for-sleep)**
-* **[Apigenin](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-apigenin-and-how-does-it-work-for-sleep)**
-* **[My experience with Impossible Sleep](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#my-experience-with-impossible-sleep)**
+Let’s dive deeper into the 3 ingredients of this sleep cocktail. If you don’t care for the science, jump to "[My experience with Impossible Sleep"](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#my-experience-with-impossible-sleep)
 
 ## What is L-theanine and how does it work for sleep?
 
