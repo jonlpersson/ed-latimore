@@ -195,6 +195,8 @@ Or, my favorite: Tanner Guzy’s comprehensive course, [Dress Like a Man](https:
 
 Find what looks best for your body type, skin tone, and ideal life. Do it today.
 
+{% include widgets/summary.html id="Tanner-Guzy" %}
+
 ### Become a more interesting person
 
 Finally, learning new things makes you more interesting to more people.
