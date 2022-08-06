@@ -10,27 +10,27 @@ description: >-
   supplement can help you sleep as well.
 image: /assets/images/drafts/impossible-sleep.jpg
 ---
-For the past month, I’ve made a serious effort to improve my sleep. There are multiple reasons for this:
+For the past year, I’ve made a serious effort to improve my sleep. There are multiple reasons for this:
 
 1. **The importance of sleep hygiene increases the older I get.** Melatonin levels decline gradually over the years. This affects the quality and efficiency of my sleep, and low melatonin levels correlate with various chronic health conditions \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3377831/){: target="_blank"}\].
 2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up ***\[This article goes over a routine I have for waking up early that anyone can use—&gt;[How to wake up earlier](/how-to-wake-up-earlier/)\].***<br><br>Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before. ***\[[Check out the Oura Ring here](https://oura.link/gYK4V69-){: target="_blank" rel="noopener"}\]***
-3. **I occasionally suffer from night terrors.** I have various theories on why, many [dating back to childhood abuse](/7-benefits-of-having-a-rough-childhood/), but I can typically keep them at bay when my sleep quality is on point. I know this because outside of events in my home, I’m most susceptible to night terrors when my body is recovering from jet lag after a long trip.
+3. **I occasionally suffer from night terrors.** I have various theories on why, many [dating back to childhood abuse](/7-benefits-of-having-a-rough-childhood/), but I can typically keep them at bay when my sleep quality is on point. I know this because I’m most susceptible to night terrors when my body is recovering from jet lag after a long trip.
 
-Nothing in your life gets better if you don’t sleep well. Lack of sleep [affects your ability to focus](/how-to-focus-better/), work out, and it even affects your ability to fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been as rested over the past two years.&nbsp;
+Nothing in your life gets better if you don’t sleep well. Lack of sleep [affects your ability to focus](/how-to-focus-better/), work out, and it even fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been resting well over the past two years.&nbsp;
 
-I mentioned this to my buddy [Joel Runyon of Impossible HQ](https://impossiblehq.com/){: target="_blank" rel="noopener noreferrer"}, and he recommended his product, Impossible Sleep. He even gave a free sample. Well, it works. And I know it’s not just me. My Oura Ring also reflects that I’m sleeping better. [I highly recommend it.](http://impossible.co/ed){: target="_blank"}
+I mentioned this to my buddy [Joel Runyon of Impossible HQ](https://impossiblehq.com/){: target="_blank" rel="noopener noreferrer"}, and he recommended his product, [Impossible Sleep](http://impossible.co/ed){: target="_blank" rel="noopener"}. He even gave a free sample. Well, it works. And I know it’s not just me. My Oura Ring also reflects that I’m sleeping better. [I highly recommend it.](http://impossible.co/ed){: target="_blank"}
 
 You could just take my word for it and click on the link above, but I’m sure you want to know a little more about this product. Well, I’m happy to educate you about Impossible Sleep and how you can use it to sleep better, age better, and feel ready to face the day, every day.
 
-***If you decide to try out Impossible Sleep, use promo code Ed20 to get 20% off the first order of a subscription batch you set up.***
+***If you decide to try out [Impossible Sleep](http://impossible.co/ed){: target="_blank" rel="noopener"}, use promo code Ed20 to get 20% off the first order of a subscription batch you set up.***
 
 ## Dr. Andrew Huberman sleep cocktail
 
 Dr. Huberman is the inspiration for the powerful yet simple combination that Impossible Sleep is based on.
 
-For those not familiar with Dr. Andrew Huberman, the introduction from his Wikipedia page does a great job of introducing you to him:
+For those not familiar with [Dr. Andrew Huberman](https://hubermanlab.com/){: target="_blank" rel="noopener noreferrer"}, the introduction from his Wikipedia page does a great job of introducing you to him:
 
-Andrew D. Huberman is an American neuroscientist and associate professor in the Department of Neurobiology at the Stanford University School of Medicine who has made contributions to the brain development, neuroplasticity, and neural regeneration and repair fields.
+> Andrew D. Huberman is an American neuroscientist and associate professor in the Department of Neurobiology at the Stanford University School of Medicine who has made contributions to the brain development, neuroplasticity, and neural regeneration and repair fields.
 
 Huberman has been a guest on the Joe Rogan Podcast, The Tim Ferriss Show, and even has his own podcast, The Huberman Lab Podcast.
 
