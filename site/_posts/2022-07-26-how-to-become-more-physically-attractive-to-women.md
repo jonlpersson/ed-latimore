@@ -1,5 +1,5 @@
 ---
-date: 2022-07-26 09:00:00 -0500
+date: 2022-07-26 10:00:00 -0400
 article_type: Article
 title: How to become more physically attractive to women
 permalink: /how-to-become-more-physically-attractive-to-women/
@@ -7,7 +7,8 @@ tags:
   - dating-and-relationships
 image: /assets/images/thumbnails/ed-hands-together-posing-outside.jpg
 description: >-
-  Physical attractiveness is cultivated one step at a time. Here are some tips that will help you attract the women that you want in your life.
+  Physical attractiveness is cultivated one step at a time. Here are some tips
+  that will help you attract the women that you want in your life.
 ---
 If you’ve been following the blog, you know that I recently discussed the importance of being physically, mentally, and emotionally strong.
 
@@ -21,16 +22,15 @@ Women provide immediate feedback when you’re at your most attractive. They als
 
 But the results don’t stop with women.
 
-Physically attractive people even earn 15% more in the workforce (men included).[^1]
+Physically attractive people even earn 15% more in the workforce (men included).<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 The tips below will make you a physically attractive man who is committed to resisting mediocrity.
-
 
 ## Get in shape for real
 
 I had to add the qualifier “for real” because men are also good at lying to themselves about their physical condition. Ignore the idea of the “Dad Bod” being the most sought-after body type.
 
-Women in a study were shown photos of shirtless men with their faces obstructed. All 160 of these women ranked men that had muscle-toned bodies the highest.[^2]
+Women in a study were shown photos of shirtless men with their faces obstructed. All 160 of these women ranked men that had muscle-toned bodies the highest.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 You probably didn’t need a double-blind study to know that.
 
@@ -44,8 +44,6 @@ I advise every man to train in a martial art.
 
 If that’s not for you, choose another physical activity that pushes your mental and physical limits. Some good options include:
 
-
-
 * Weight training and kettlebells
 * High-Intensity Interval Training (HIIT) Exercises
 * Rock climbing
@@ -54,19 +52,17 @@ Any workout that strengthens muscle, burns body fat and builds testosterone will
 
 Women are naturally drawn to and follow men with this mixture of magnetism. [Read here to learn how to take the lead in long-term relationships.](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/)
 
-
 ## Build a strong jawline
 
 Sharp, defined jawlines are masculine and inherently attractive to women.
 
 Consistency in the gym will help you accomplish this.
 
-A study found that a Body Mass Index (BMI) of 24 yielded the most attractive facial structure for a man.[^3]
+A study found that a Body Mass Index (BMI) of 24 yielded the most attractive facial structure for a man.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 I’ve also gotten results from chewing mastic gum to build my jaw muscles. This gum is made of thick sap that comes from the mastic tree. This resin is sugar-free, and about ten times harder than any gum you’ve ever chewed.
 
 It strengthens the muscles in your face when you chew it, giving your jaw more contour and definition. It’s not the best tasting gum I've ever tried but it gets results.
-
 
 ## Improve your wardrobe
 
@@ -77,8 +73,6 @@ I’m not going to tell you to visit New York Fashion Week for ideas…
 … But learning how to be a man of style is an important factor for dudes that want to stand out to attractive women.
 
 Wear men’s clothing that is:
-
-
 
 * Timeless and neat
 * Made in colors that fit your skin tone and style
@@ -94,23 +88,21 @@ Tanner Guzy is a masculine style consultant I’m familiar with that offers indi
 
 Never hesitate to invest in something that can change so much about how you look and feel about yourself.
 
+{% include widgets/summary.html id="Tanner-Guzy" %}
 
 ## Invest in fragrance
 
 Your fragrance communicates attractiveness to women on a carnal level. Find a daily-wear bottle of fragrance that blends with your natural body chemistry.
 
-It’s the kind of shopping you have to do in person because we all have an individual-specific scent profile.[^4] This means a cologne that works wonders for you might smell horrible on me, and vice versa.
+It’s the kind of shopping you have to do in person because we all have an individual-specific scent profile.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> This means a cologne that works wonders for you might smell horrible on me, and vice versa.
 
 Get to know the different categories of men’s fragrance:
-
-
 
 * Ouds have a woody, damp, intense smell
 * Eau Fraiche is a lightweight, casual kind of fragrance (It means fresh water)
 * Eau de toilette is a strong, longer-lasting form of fragrance
 
 You don’t have to blow a lot of money on fragrance, but purchase something that is high-quality and age-appropriate. Cologne kits often come with deodorant and other products that help with body odor.
-
 
 ## Take care of your hair
 
@@ -138,9 +130,7 @@ I consider that money well spent when you consider these before and after photos
 
 ![bosley before and after ed latimore fue](/assets/images/posts/2020/16-months-after-fue-hair-transplant.png "bosley before and after ed latimore fue")
 
-
 While you’re at it, check out this post on other tips on [how to reverse hair loss before it’s too late.](https://edlatimore.com/how-to-stop-hair-loss-early/)
-
 
 ## Develop a grooming routine
 
@@ -148,13 +138,11 @@ When I handle my grooming, I feel in control of the details in my life. Caring f
 
 Wear your facial hair in a way that accentuates your facial features and brings the look to life.
 
-It doesn’t mean you have to grow a full beard. Women actually find heavy stubble the most attractive.[^5] Just make sure that it’s well-kept and doesn’t just look like you never shave.
+It doesn’t mean you have to grow a full beard. Women actually find heavy stubble the most attractive.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> Just make sure that it’s well-kept and doesn’t just look like you never shave.
 
-Women also find men with redder, more vibrant skin the most attractive.[^6] This skin tone signifies healthy blood flow, vibrancy, and hormone health. Regularly washing and moisturizing your skin will give it that flush, reddish, natural tone and glow.
+Women also find men with redder, more vibrant skin the most attractive.<sup id="fnref:6" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:6">6</a></sup> This skin tone signifies healthy blood flow, vibrancy, and hormone health. Regularly washing and moisturizing your skin will give it that flush, reddish, natural tone and glow.
 
 Your skincare kit should include a good:
-
-
 
 * Facial cleaner
 * Face oil
@@ -168,8 +156,6 @@ Use an exfoliating product twice a week to clean deep into your pores to make yo
 
 You’ll also improve your skin health and good looks by cleaning up your diet and eating plenty of fruits and leafy green vegetables. These foods will give you healthy, glowing skin:
 
-
-
 * Avocados
 * Blackberries
 * Blueberries
@@ -180,14 +166,13 @@ You’ll also improve your skin health and good looks by cleaning up your diet a
 
 ## Fix your body language and posture
 
-Body language is one of the most consistent ways to communicate attractiveness to women. Men who maintain an upright posture and open body language denote personality traits like dominance, strength, and confidence.[^7]
+Body language is one of the most consistent ways to communicate attractiveness to women. Men who maintain an upright posture and open body language denote personality traits like dominance, strength, and confidence.<sup id="fnref:7" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:7">7</a></sup>
 
 Sitting up straight and standing with your shoulders back and your chin raised can make you feel more outgoing and charismatic. Your ability to maintain eye contact, a sense of humor, and a self-assured smile is an instant turn-on to women.
 
 Visit the chiropractor for an adjustment to make sure your spine is properly aligned and elongated. This makes it far easier to maintain the correct posture.
 
 Check out this post on [how to grow your personal magnetism, self-confidence, and charisma.](https://edlatimore.com/how-to-be-charismatic/)
-
 
 ## Become more physically attractive to women
 
@@ -207,16 +192,4 @@ As a final reminder, if you need help with your fashion sense, you should check 
 
 ### References
 
-[^1]: _IZA World of Labor_. New report: Physically attractive people earn 15% more than plainer colleagues. June 29, 2015. [https://wol.iza.org/press-releases/does-it-pay-to-be-beautiful](https://wol.iza.org/press-releases/does-it-pay-to-be-beautiful). (Accessed May 17, 2022)
-
-[^2]: _Boss Hunting_. Which Male Body Shapes Do Women Find The Most Attractive?. March 10, 2022. [https://www.bosshunting.com.au/lifestyle/relationships/male-body-shapes-most-attractive/](https://www.bosshunting.com.au/lifestyle/relationships/male-body-shapes-most-attractive/) (Accessed May 18, 2022)
-
-[^3]: _Elite Daily_. Here's How Much Weight You'd Need To Lose For Anyone To Even Notice. December 14, 2015. [https://www.elitedaily.com/news/weight-loss-face-study-people-notice/1319310](https://www.elitedaily.com/news/weight-loss-face-study-people-notice/1319310) (Accessed May 18, 2022)
-
-[^4]:  Lenochová, Pavlína. Vohnoutová, Pavla, Roberts, S. Craig. Oberzaucher,Elisabeth. Grammar, Karl. Havlíček, Jan._National Library of Medicine. _Psychology of Fragrance Use: Perception of Individual Odor and Perfume Blends Reveals a Mechanism for Idiosyncratic Effects on Fragrance Choice. March 28, 2012. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314678/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314678/) (Accessed May 17, 2022)
-
-[^5]: Rowland, Hannah. Burriss, Robert. _National Institute of Mental Health_. Human colour in mate choice and competition. May 22, 2017. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5444069/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5444069/) (Accessed May 17, 2022)
-
-[^6]: Vacharkulksemsuk, Tanya. Reit, Emily. Khambatta, Poruz. Eastwick, Paul W. Finkel, Eli J. Carney, Dana R. Proceedings of the National Academy of Sciences of the United States of America (PNAS). Dominant, open nonverbal displays are attractive at zero-acquaintance. March 28, 2016. [https://www.pnas.org/doi/10.1073/pnas.1508932113](https://www.pnas.org/doi/10.1073/pnas.1508932113) (Accessed May 18, 2022)
-
-[^7]: Ohio State University. _Science Daily_. Body Posture Affects Confidence In Your Own Thoughts, Study Finds. October 5, 2009. [https://www.sciencedaily.com/releases/2009/10/091005111627.htm](https://www.sciencedaily.com/releases/2009/10/091005111627.htm) (Accessed May 18, 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p><em>IZA World of Labor</em>. New report: Physically attractive people earn 15% more than plainer colleagues. June 29, 2015. <a href="https://wol.iza.org/press-releases/does-it-pay-to-be-beautiful">https://wol.iza.org/press-releases/does-it-pay-to-be-beautiful</a>. (Accessed May 17, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p><em>Boss Hunting</em>. Which Male Body Shapes Do Women Find The Most Attractive?. March 10, 2022. <a href="https://www.bosshunting.com.au/lifestyle/relationships/male-body-shapes-most-attractive/">https://www.bosshunting.com.au/lifestyle/relationships/male-body-shapes-most-attractive/</a> (Accessed May 18, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p><em>Elite Daily</em>. Here's How Much Weight You'd Need To Lose For Anyone To Even Notice. December 14, 2015. <a href="https://www.elitedaily.com/news/weight-loss-face-study-people-notice/1319310">https://www.elitedaily.com/news/weight-loss-face-study-people-notice/1319310</a> (Accessed May 18, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Lenochov&aacute;, Pavl&iacute;na. Vohnoutov&aacute;, Pavla, Roberts, S. Craig. Oberzaucher,Elisabeth. Grammar, Karl. Havl&iacute;ček, Jan._National Library of Medicine. _Psychology of Fragrance Use: Perception of Individual Odor and Perfume Blends Reveals a Mechanism for Idiosyncratic Effects on Fragrance Choice. March 28, 2012. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314678/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314678/</a> (Accessed May 17, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Rowland, Hannah. Burriss, Robert. <em>National Institute of Mental Health</em>. Human colour in mate choice and competition. May 22, 2017. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5444069/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5444069/</a> (Accessed May 17, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li><li id="fn:6" role="doc-endnote"><p>Vacharkulksemsuk, Tanya. Reit, Emily. Khambatta, Poruz. Eastwick, Paul W. Finkel, Eli J. Carney, Dana R. Proceedings of the National Academy of Sciences of the United States of America (PNAS). Dominant, open nonverbal displays are attractive at zero-acquaintance. March 28, 2016. <a href="https://www.pnas.org/doi/10.1073/pnas.1508932113">https://www.pnas.org/doi/10.1073/pnas.1508932113</a> (Accessed May 18, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:6">↩</a></p></li><li id="fn:7" role="doc-endnote"><p>Ohio State University. <em>Science Daily</em>. Body Posture Affects Confidence In Your Own Thoughts, Study Finds. October 5, 2009. <a href="https://www.sciencedaily.com/releases/2009/10/091005111627.htm">https://www.sciencedaily.com/releases/2009/10/091005111627.htm</a> (Accessed May 18, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:7">↩</a></p></li></ol></div>
