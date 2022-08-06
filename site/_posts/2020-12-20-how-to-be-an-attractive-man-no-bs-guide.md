@@ -213,7 +213,7 @@ If you’re lost when it comes to what clothes to wear, I recommend Tanner Guzy�
 
 It will equip you with the knowledge and skills you need to assemble a killer wardrobe: the science of style, the 35 staples you should have in your closet, “style as storytelling” (i.e. how to use style to communicate your own identity).
 
-[Click here to find out more about Tanner’s course (opens in a new tab).](https://goo.gl/hSjSFC)
+{% include widgets/summary.html id="Tanner-Guzy" %}
 
 As a general rule, a good, manly wardrobe should consist of high-quality, properly sized basics: t-shirts, polo shirts, crewneck sweaters, button-down shirts, chinos, and at least one or two full suits (navy or charcoal for 99% of occasions and black for funerals).
 
