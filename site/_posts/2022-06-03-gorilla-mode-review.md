@@ -30,6 +30,8 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)
 
+#### [If you're ready to hit it hard, get Gorilla Mode Pre-Workout here&nbsp;](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
+
 ## Benefits
 
 ### Increased muscle strength and endurance
@@ -49,6 +51,8 @@ Taking Gorilla Mode has helped me up my intensity and mental clarity in the gym.
 ### Powerful stimulant
 
 The 175 mg of caffeine per serving in the product can make you feel jittery if you take the max recommended dose of two scoops. I’ve also found that it’s not smart to use the product for workouts later in the day, as the caffeine dose can wreck your sleep. But everyone reacts differently, so start with a smaller dose and experiment until you find what works best for you.
+
+#### [If you can deal with this drawback, you may as well grab some. Hey, at least it's not crack\!](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
 
 ## Gorilla Mode ingredients
 
@@ -71,6 +75,10 @@ I’ve also included a short explanation of what each ingredient does—though I
 * **N-Phenethyl:** Also known as the “love drug,” this nootropic increases the release of serotonin, dopamine, adrenaline, and noradrenaline.
 * **Bioperine:** A trademarked formula of black pepper extract standardized to 95% Piperine that’s commonly used as an anti-inflammatory agent and antioxidant, capable of eliminating free radicals within the body.
 * **Huperzine A:** A cognitive enhancer that increases cognitive function and memory, helps body composition, and combats aging.
+
+I do love how in the zone it makes me feel. Even without even if you aren't working out, you could use it to get a lot of mental tasks done.
+
+#### [If you're a mental and physical warrior, grab some here.](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
 
 ## How it compares to other pre-workouts
 
@@ -95,6 +103,8 @@ BULK is another popular pre-workout supplement from the well-trusted brand, Tran
 BULK is offered at the same price-per-serving as Bucked UP, making it a pricier option. Still, Transparent Labs is a quality brand that lives by its name by providing 100% transparency about its ingredients and using third-party testing.
 
 If the cost (and your facing tingling) isn’t a concern, it’s a solid option. But if you're looking for the best value-per-scoop, Gorilla Mind is excellent compared to other pre-workouts—even at just a half dose.
+
+#### [Save money. Stay focused. Train harder. No brainer. Buy some.](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
 
 ## Frequently asked questions
 
@@ -126,7 +136,7 @@ If you’re looking to maximize your mental and physical performance at the gym,
 
 ## Buy Gorilla Mode
 
-If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} (I get a small % cut of each sale made through the link, which helps pay my bills).
+If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} (I get a small % cut of each sale made through the link, which helps cover the cost of running the site).
 
 I look forward to hearing your thoughts, reviews, and feedback. And if you’re already using Gorilla Mode, let me know how it’s helping you reach your training goals.
 
