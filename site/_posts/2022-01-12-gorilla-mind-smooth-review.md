@@ -40,7 +40,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 Since making Gorilla Mind Smooth a part of my morning ritual, these are the main benefits I’ve experienced.
 
-#### [Pick up a bottle here\!](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
+#### [Get your mind right and pick up a bottle](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
 
 ## Benefits
 
@@ -71,6 +71,8 @@ If you consider yourself a competitive athlete or someone looking to take their 
 Because GMS is stim-free, you may have difficulty experiencing any noticeable changes to your mental state. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
 
 If you’re expecting GMS to make you feel like Bradley Cooper in *Limitless*, this ain’t it. The effects are much more subtle. Compared to other stimulant-laden nootropics, it can sometimes be hard to tell if I’m experiencing a mental boost or just the results of a placebo. It’s when I’ve refrained from taking stimulants for a while that I notice the full effects of GMS.
+
+#### [If you can deal with not being hyperstimulated but focused, grab a bottle.](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
 
 ## Ingredients
 
@@ -113,6 +115,8 @@ At $139 per 154-capsule bottle, Qualia Mind comes out to $6.30 per their recomme
 
 I consider both brands to be high quality, but it’s hard to justify paying almost five times as much per serving for the same cognitive benefits. Feel free to experiment with both, but GMS has my vote for the best bang for your buck.
 
+#### [Get smarter, work better, spend less money. No brainer to get a bottle.](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
+
 ## Frequently asked questions
 
 Before I try any new supplement or product, I always do my research to ensure it makes sense to take. With that said, here are some common questions I get about GMS so you can make your own decisions about whether or not it’s right for you.
@@ -137,7 +141,7 @@ No side effects. It’s also non-habit forming and doesn't make you feel jittery
 
 Gorilla Mind Smooth has become my go-to nootropic for when I need to knock out hours of deep, focused work—no matter the time of day. It’s the best nootropic I’ve used for achieving heightened levels of focus without the jitters and pretty much the only supplement I take aside from my workout supplements and black coffee.
 
-If you found my review helpful, I’d love for you to use my link, get [Gorilla Mind Smooth here](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}. (I get a small % cut of each sale made through the link, which helps pay my bills).
+If you found my review helpful, I’d love for you to use my link, get [Gorilla Mind Smooth here](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}. (I get a small % cut of each sale made through the link, which helps cover site costs.
 
 I look forward to hearing your thoughts, reviews, and feedback. And if you’re already using GMS, let me know how it’s helping you.
 
