@@ -74,6 +74,8 @@ Fitted clothing makes you look slimmer for the same reason that losing body fat 
 
 When you carry extra body fat or your clothes are baggy, it creates the appearance of being wider by drawing more attention to the horizontal line across the body. When attention is drawn to horizontal lines, it not only makes you look out of shape, but it takes attention away from the vertical lines and makes you look shorter.
 
+{% include widgets/summary.html id="Tanner-Guzy" %}
+
 Baggy clothing also is generally viewed as low-status. If you want to take full advantage of the halo effect, then it‘s important that your fashion does not look low-class.
 
 This means that it‘s well-fitting, clean, and void of logos. Those things won‘t make you look taller, per se. But because we associate good things in clusters, and being tall is good, dressing well goes a long way in creating the illusion of height. Or, at the very least, it draws attention away from how short you are.
