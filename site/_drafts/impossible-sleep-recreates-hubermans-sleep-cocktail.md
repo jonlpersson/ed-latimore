@@ -28,17 +28,17 @@ You could just take my word for it and click on the link above, but I’m sure y
 
 Dr. Huberman is the inspiration for the powerful yet simple combination that Impossible Sleep is based on.
 
-For those not familiar with [Dr. Andrew Huberman](https://hubermanlab.com/){: target="_blank" rel="noopener noreferrer"}, the introduction from his Wikipedia page does a great job of introducing you to him:
+For those not familiar with Dr. Andrew Huberman, the introduction from his Wikipedia page does a great job of introducing you to him:
 
 > Andrew D. Huberman is an American neuroscientist and associate professor in the Department of Neurobiology at the Stanford University School of Medicine who has made contributions to the brain development, neuroplasticity, and neural regeneration and repair fields.
 
-Huberman has been a guest on the Joe Rogan Podcast, The Tim Ferriss Show, and even has his own podcast, The Huberman Lab Podcast.
+Huberman has been a guest on the Joe Rogan Podcast, The Tim Ferriss Show, and even has his own podcast, [The Huberman Lab Podcast.](https://hubermanlab.com/){: target="_blank" rel="noopener noreferrer"}
 
 While his contributions to neuroscience have been published in top journals including *Nature*, *Science*, and *Cell* and has been featured in *TIME*, *BBC*, *Scientific American*, *Discover*, and other top media outlets, it’s his comments about sleep that have generated quite a buzz and motivated the creation of [Impossible sleep.](http://impossible.co/ed){: target="_blank"}
 
 {% twitter https://twitter.com/hubermanlab/status/1428823974184636429 %}
 
-Along with the recommendations in this tweet, he’s also spoken about the positive effect of these modifications and additions [in this video](https://www.youtube.com/watch?v=aXvDEmo6uS4){: target="_blank"} and in this podcast episode with [Tim Ferriss.](https://tim.blog/2021/07/06/andrew-huberman/){: target="_blank"}
+Along with the recommendations in this tweet, he’s also spoken about the positive effect of these modifications and additions [in this video](https://www.youtube.com/watch?v=aXvDEmo6uS4){: target="_blank" rel="noreferrer"} and in this podcast episode with [Tim Ferriss.](https://tim.blog/2021/07/06/andrew-huberman/){: target="_blank" rel="noreferrer"}
 
 Joel Runyon set out to create a sleep formula based on Huberman’s recommendations, with a slight (but necessary) modification. Huberman recommends theanine, magnesium threonate (or magnesium bisglycinate), and says that apigenin is optional.
 
@@ -46,13 +46,13 @@ Joel Runyon set out to create a sleep formula based on Huberman’s recommendati
 
 ***If you want to just hop in and get started, go for it. Purchase at the following link. Use discount code "Ed20" —&gt;[Get it here](https://impossible.co/products/sleep?utm_source=sponsorship&amp;utm_medium=email&amp;utm_campaign=ed&amp;utm_term=sleep){: target="_blank" rel="noopener"}***
 
-For reasons explained later in this article, Runyon’s Impossible sleep formula only includes the recommended dosage of theanine and magnesium. There is no apigenin, but that’s alright because the formula works just as well without it.
+For reasons explained later in this article, Runyon’s Impossible Sleep formula only includes the recommended dosage of theanine and magnesium. There is no apigenin, but that’s alright because the formula works just as well without it.
 
 However, if you’ve done your research and want to add apigenin (I do with even better effects), you can easily get it from amazon right here—&gt;[Purchase the apigenin I use](https://amzn.to/3BNaWuB){: target="_blank"}.
 
 Let’s dive deeper into the 3 ingredients of this sleep cocktail. If you don’t care for the science, jump to "[My experience with Impossible Sleep"](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#my-experience-with-impossible-sleep)
 
-## What is L-theanine and how does it work for sleep?
+## What is L-theanine and how does it help you sleep better?
 
 L-theanine is an amino acid. It is non-mutagenic or non-carcinogenic and well-tolerated. While tea is L-theanine's most common dietary source, it’s also found in mushrooms. In foods, particularly green tea.
 
@@ -60,7 +60,9 @@ L-theanine can cross the blood-brain barrier within 30 minutes of ingestion \[[s
 
 ### Boosts certain “calming” neurotransmitters
 
-L-theanine elevates levels of GABA, serotonin, and dopamine. These neurotransmitters regulate emotions, mood, concentration, alertness, and sleep, as well as appetite, energy, and other mental abilities. Increasing levels of these neurotransmitters promotes relaxation and helps you get to sleep.
+L-theanine elevates levels of GABA, serotonin, and dopamine. These neurotransmitters regulate emotions, mood, concentration, alertness, and sleep, as well as appetite, energy, and other mental abilities.
+
+Increasing levels of these neurotransmitters promotes relaxation and helps you get to sleep.
 
 ### Reverses the effects of caffeine
 
@@ -80,7 +82,7 @@ L-theanine appears to trigger the release of alpha-waves, which enhances relaxat
 
 This highlights another appealing aspects of L-theanine: it relaxes without sedation. This means you can use it without worrying about becoming sleepy and fatigued during the day.
 
-## What is magnesium and how does it work for sleep?
+## What is magnesium and how does it help you sleep better?
 
 Magnesium is a element that is responsible for over 300 processes in your body—including sleep. Interestingly enough, scientists aren’t sure exactly how magnesium contributes to sleep, but there is an abundance of evidence which shows how a lack of it disrupts sleep quality.
 
@@ -104,13 +106,13 @@ People with RLS experience an uncontrollable urge to move their limbs, often pea
 
 One study found that sleep efficiency improved RLS patients took magnesium for 4 to 6 weeks \[[Source](https://pubmed.ncbi.nlm.nih.gov/9703590/){: target="_blank"}\].
 
-## What is Apigenin and how does it work for sleep?
+## What is Apigenin and how does it help you sleep better?
 
 ![Standard bottle of apigenin](/assets/images/drafts/apigenin.jpg "Standard bottle of apigenin"){: width="400" height="533"}
 
-If you’ve ever drank a cup of chamomille tea to relax before bed, then you’ve already been using one of the natures most potent sleep supplements. Apigenin is the active ingredient in chamomille tea that has been shown to not only reduce anxiety and stress, but ease a variety of other conditions as well.
+If you’ve ever drank a cup of chamomille tea to relax before bed, then you’ve already been using one of the nature's most potent sleep supplements. Apigenin is the active ingredient in chamomille tea that has been shown to not only reduce anxiety and stress, but ease a variety of other conditions as well.
 
-Now in his instructions for the sleep cocktail, he says that the apigenin is optional because it seems to have properties of estrogen antagonism and may promote cancer in women on any other hormone replacement therapies \[[Source](https://www.sciencedaily.com/releases/2013/11/131120155213.htm){: target="_blank"}\].
+Now in his instructions for the sleep cocktail, Huberman says that the apigenin is optional because it seems to have properties of estrogen antagonism and may promote cancer in women on any other hormone replacement therapies \[[Source](https://www.sciencedaily.com/releases/2013/11/131120155213.htm){: target="_blank"}\].
 
 Because of this, men should also be careful, though the risk is a lot lower. However, apigenin gives men a serious health boost by preventing and battling prostate cancer \[[Source](https://www.sciencedaily.com/releases/2005/10/051021021503.htm){: target="_blank"}\].
 
@@ -122,7 +124,7 @@ It’s a powder rather than a capsule, meaning you must mix it in water. Since y
 
 I haven’t had this issue, and I typically get up to use the bathroom at least once. I suspect it involves getting a deeper sleep (so I’m not as disturbed by slight pressure on my bladder), and deeper sleep increases melatonin levels, which are inversely correlated with nocturnal urinary frequency \[[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748773/){: target="_blank"}\].
 
-If you’re a man and don’t have any problems with your estrogen levels, I recommended ordering a bottle of apigenin to take with it. There’s a reason why that’s included in the original stack.
+If you’re a man and don’t have any problems with your estrogen levels, I recommended ordering a bottle of apigenin to take with it. The apeginin will also dramatically reduce your risk for prostate cancer and help with benign prostatic hyperplasia (BPH) \[[Source](https://www.sciencedirect.com/science/article/abs/pii/S0378512206002374){: target="_blank" rel="noopener noreferrer"}\].
 
 ![Apigenin and Impossible Sleep combo](/assets/images/drafts/apigenin-and-impossible-sleep.jpg "Apigenin and Impossible Sleep combo"){: width="450" height="338"}
 
