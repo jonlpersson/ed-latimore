@@ -52,10 +52,10 @@ However, if you’ve done your research and want to add apigenin (I do with even
 
 Let’s dive deeper into the 3 ingredients of this sleep cocktail. If you don’t care for the science, jump to experience:
 
-* L-theanine
-* Magnesium
-* Apigenin
-* My experience with Impossible Sleep
+* **[L-theanine](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-l-theanine-and-how-does-it-work-for-sleep)**
+* **[Magnesium](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-magnesium-and-how-does-it-work-for-sleep)**
+* **[Apigenin](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#what-is-apigenin-and-how-does-it-work-for-sleep)**
+* **[My experience with Impossible Sleep](https://edlatimore.com/impossible-sleep-andrew-huberman-sleep-cocktail/#my-experience-with-impossible-sleep)**
 
 ## What is L-theanine and how does it work for sleep?
 
