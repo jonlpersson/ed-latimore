@@ -12,13 +12,15 @@ image: /assets/images/drafts/why-i-fight.jpeg
 ---
 “Good. You’re too smart for boxing.”
 
-This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing Olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.&nbsp;
+This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.&nbsp;
 
 ![Ed latimore charles martin dominic breazeale boxing](/assets/images/posts/ftcarsonboxing.png "Me in the center, Dominic Breazeale on the far left, Charles Martin to my right. 2012 at Ft. Carson, Co for US Men's National Tournament"){: width="450" height="317"}
 
 Maybe this is true. Then again, how smart am I if I started boxing in the first place?&nbsp;
 
-People often ask me what made me start boxing at the ripe old age of 22. They want to know what would motivate me to put myself in a 16x16 box to fight another human who is trained to inflict significant damage to my person. Most people run away from fights or, at the very least, do not intentionally get into them and they actively avoid situations that are guaranteed to cause pain.
+People often ask me what made me start boxing at the ripe old age of 22. They want to know what would motivate me to put myself in a 16x16 box to fight another human who is trained to inflict significant damage to my person.
+
+Most people run away from fights or, at the very least, do not intentionally get into them and they actively avoid situations that are guaranteed to cause pain.
 
 But not the fighter. In this regard, fighters are built differently than the rest of the population. We are *way* past 3 standard deviations from the average human when it comes to risk aversion, pain tolerance, and self-regard.
 
@@ -28,7 +30,9 @@ More specifically, why did I do it? Why did I live the life of a fighter for 13 
 
 ## The Anna Karenina Principle
 
-Every fighter fights for different reasons, but rarely are those reasons born from a state of abundance and fulfillment. Many people visit the ring for recreation, but those who make it a permanent home do so because they lack something vital, and they feel that they’ll find it in the school of hard knocks.
+Every fighter fights for different reasons, but rarely are those reasons born from a state of abundance and fulfillment.
+
+Many people visit the ring for recreation, but those who make it a permanent home do so because they lack something vital, and they feel that they’ll find it in the school of hard knocks.
 
 Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.&nbsp; Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
 
