@@ -134,6 +134,8 @@ This is why, generally speaking, it's not a good idea to flaunt your success or 
 
 There are few things to be gained and many to be lost by doing so. And before you say that "real friend" would just be happy for you, this is just human nature. [Your friend doesn't want to be a hater, but they can't help it.&nbsp;](https://www.psychologytoday.com/us/blog/anxiety-files/201804/why-it-doesn-t-feel-good-when-someone-else-succeeds){: target="_blank" rel="noopener noreferrer"}
 
+{% include widgets/summary.html id="Blinkist" %}
+
 ## Recap of the 10 best quotes and ideas from The Hagakure: The Book of Shadows by Yamamoto Tsunetomo
 
 1. **"Because we do most things relying only on our own sagacity we become self-interested, turn our backs on reason, and things do not turn out well."**
