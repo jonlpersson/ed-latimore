@@ -4,7 +4,7 @@ article_type: Review
 title: My six months with blue light blocking glasses
 permalink: /blue-light-blocking-glasses/
 tags:
-  - change-your-perspective
+  - how-to-become-superhuman
 image: /assets/images/thumbnails/2020/ed-wearing-carbonshade.jpeg
 description: >-
   I've been using blue light blocking glasses for six months now. Here's why I
@@ -29,6 +29,8 @@ I first learned about how screen usage affects sleep quality (and quantity) when
 At first, I didn’t know what the big deal was. So I started to look for answers.
 
 I’m going to give you the fruits of my research below. Both the dumbed-down, simplified version and the in-depth version.
+
+***Here's an article about an amazing supplement I started taking to help me sleep better. And it doesn't use melatonin, which has questionable effects—especially at higher dose. Read it here—&gt;[Impossible sleep recreates Andrew Huberman's sleep cocktail](/impossible-sleep-andrew-huberman-sleep-cocktail/)***
 
 ## The science: Short and simplified
 
