@@ -135,7 +135,7 @@
   link: https://gum.co/GDlZd
 - id: carbonshade
   heading: In summary...
-  text_markdown: >
+  text_markdown: >-
     If my review of the Carbonshade glasses or my science lesson on the effect
     of light exposure on melatonin helped you make the decision to buy a pair,
     I’d love if you purchased through my link below.
@@ -143,7 +143,6 @@
 
     It’s an affiliate link, which means I get a small commission (at no extra
     cost to you). Not only do you support my writing, but you get a kick ass
-
     pair of glasses that will dramatically improve your quality of sleep and
     life.
   button: Get the shades here
@@ -175,9 +174,10 @@
     collection of quotes.
 
 
-    AND IT'S COMPLETELY FREE to be part of constantly growing hivemind of ideas,
-    thoughts, and perspectives on books that everyone should be reading but are
-    too caught up in what's trendy.
+    No membership or subscription. Just a one time fee to always have access and
+    to be part of constantly growing hivemind of ideas, thoughts, and
+    perspectives on books that everyone should be reading but are too caught up
+    in what's trendy.
   button: Expand your mind!
   link: https://edwardlatimore.gumroad.com/l/HnuKz
 - id: Vice-breakers-porn
