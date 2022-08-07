@@ -4,7 +4,7 @@ article_type: Review
 title: I tried Gorilla Mode pre-workout (this is what happened)
 permalink: /gorilla-mode-review/
 tags:
-  - learning-skills
+  - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Mode pre-workout: what I think of it,
   how I use it, and how it compares to other popular pre-workouts.
