@@ -4,7 +4,7 @@ article_type: Article
 title: I took Gorilla Mind Smooth for 1 year—here’s what happened
 permalink: /gorilla-mind-smooth-review/
 tags:
-  - learning-skills
+  - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Mind Smooth nootropic formula: what I
   think of it, how I use it, and how it compares to other popular nootropics.
