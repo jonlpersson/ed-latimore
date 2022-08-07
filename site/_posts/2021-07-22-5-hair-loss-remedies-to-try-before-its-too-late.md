@@ -4,6 +4,7 @@ article_type: Article
 title: 5 Hair loss remedies to try before it’s too late
 permalink: /how-to-stop-hair-loss-early/
 tags:
+  - how-to-be-a-hot-guy
 description: >-
   Here are a few remedies to slow down, halt, or reverse early hair loss. No man
   wants to lose his hair early—or ever. These will change your life.
