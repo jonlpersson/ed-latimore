@@ -17,9 +17,7 @@ This memoir explored the life of Tony McAleer, tracing his journey from his init
 
 Ultimately, McAleer becomes a powerful advocate of and partner with groups devoted to getting people out of extremist movements, most notably working with [Life After Hate](https://en.wikipedia.org/wiki/Life_After_Hate){: target="_blank" rel="noopener"}, a group dedicated to helping people leave far-right groups, particularly white supremacy groups.
 
-​​​​​​
-
-{% include widgets/toc.html heading="Major Lessons From A Cure For Hate by Tony McAleer" list-items="The power of group acceptance, The problem with censorship, How extreme becomes mainstream, The power of compassion and connection, Ego problems, Harm and healing, Shame" list-ids="the-acceptance-gained-by-being-part-of-an-extreme-group, the-problem-with-fighting-extreme-ideas-by-censorship-and-force, introducing-extreme-ideas-into-mainstream-discourse, on-compassion-and-connection-with-other-people, the-role-of-the-ego, on-harm-and-healing, the-role-of-shame-in-hatred-for-others-and-hatred-of-self" %}
+​​​​​
 
 ## The acceptance gained by being part of an extreme group
 
@@ -86,6 +84,8 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 “Healthy shame is that transitory feeling when we do something wrong, when we’re embarrassed and our cheeks flush; it acts as our moral compass, letting us know when we are operating outside of our personal value system. Toxic shame is not transitory; it is there 24-7, forming part of the subconscious belief system that creates our identity and telling us that we are worthless, not good enough, less than human. Toxic shame is an impaired sense of self that compels us to live our lives.”
 
 “Toxic shame takes two forms: one is the shame we develop through our individual experiences and the intergenerational transfer of shame in our families (toxic shame cascades intergenerationally until it is healed); the other is collective shame, when we are made to feel shame for who we are and not for what we’ve done.”
+
+{% include widgets/summary.html id="Blinkist" %}
 
 #### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
