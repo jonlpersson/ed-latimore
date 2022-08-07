@@ -4,9 +4,7 @@ article_type: Article
 title: How to be physically, emotionally, and mentally strong
 permalink: /how-to-be-physically-emotionally-mentally-strong/
 tags:
-  - change-your-perspective
-  - mental-toughness
-  - how-to-control-your-emotions
+  - how-to-become-superhuman
 description: >-
   Strength is built by pushing back against whatever life throws at you.
   Strength is built by doing what's hard and leaving your comfort zone.
