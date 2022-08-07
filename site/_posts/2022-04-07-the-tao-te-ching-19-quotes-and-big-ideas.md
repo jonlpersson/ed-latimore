@@ -77,6 +77,10 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
 > 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
 
+#### &nbsp;
+
+{% include widgets/summary.html id="Blinkist" %}
+
 #### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
