@@ -10,6 +10,8 @@ description: "A comprehensive review of Mike Cernovich's Gorilla Mind Rush nootr
 ---
 ***For now, Gorilla Mind Rush seems to be discontinued. In place, check out my [review of Gorillia Mind Smooth](/gorilla-mind-smooth-review/). I love it all the same and bet it'll make a worthy addition to your nootropic stack.***
 
+***Or jump right to the site and check out their other offerings as well here—&gt;[Gorillamind.com](https://gorillamind.com/r?id=ggaren){: target="_blank" rel="noopener"}***
+
 If you follow me on Twitter or elsewhere, you know that I am a big proponent of outworking your competition.
 
 If you worked as hard as a crackhead looking for his next hit, you'd be on top of your game.
@@ -91,7 +93,7 @@ Having taken GMR for a number of months now, I've noticed the following main ben
 
 By far the biggest value add that GMR has brought into my life is allowing me to focus on cognitively demanding tasks for very long periods of time.
 
-| I'm a prolific writer. In 2018, I published two new books: \[*Sober Letters To My Drunken Self*\]({{ '1791900798'</td><td>amazon }})\{: target="\_blank"\} and *Engagement is the New Cocaine*. |
+| I'm a prolific writer. In 2018, I published two new books: \[*Sober Letters To My Drunken Self*\]({{ '1791900798'&lt;/td&gt;&lt;td&gt;amazon }})\{: target="\_blank"\} and *Engagement is the New Cocaine*. |
 
 Without Gorilla Mind Rush, I honestly don't know if I could have produced nearly as much writing as I did. With writing, momentum is everything. GMR makes it so much easier to get in the zone and just bang out a few thousand words in one sitting. It won't make you a *better* writer (that takes practice), but it will definitely make you a more *prolific* writer.
 
