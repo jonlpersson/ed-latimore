@@ -71,4 +71,6 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 “Remember, the likelihood of positive and negative futures must add up to 100%. The positive space of backcasting and the negative space of a premortem still have to fit in a finite amount of space. When we see how much negative space there really is, we shrink down the positive space to a size that more accurately reflects reality and less reflects our naturally optimistic nature.”
 
+{% include widgets/summary.html id="Blinkist" %}
+
 #### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
