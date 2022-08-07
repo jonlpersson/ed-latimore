@@ -4,7 +4,7 @@ article_type: Review
 title: My honest Gorilla Mind Rush review
 permalink: /review-of-the-gorilla-mind-rush-is-it-effective/
 tags:
-  - learning-skills
+  - how-to-become-superhuman
 image: /assets/images/posts/gorilla-mind-rush-coffee-mug.jpg
 description: "A comprehensive review of Mike Cernovich's Gorilla Mind Rush nootropic stack:\_what I think of it, how I use it, and how it compares to other products."
 ---
