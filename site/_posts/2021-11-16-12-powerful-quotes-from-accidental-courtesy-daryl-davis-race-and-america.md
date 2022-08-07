@@ -89,4 +89,6 @@ Allow them to air their views. And when you do things like that, there is an exc
 
 “I never set out to convert anyone. I just set out to get that answer to my question ‘How can you hate me when you don’t even know me?’And in my quest to have that answer, they couldn’t answer it, and some of them ended up converting themselves”
 
+{% include widgets/summary.html id="Blinkist" %}
+
 #### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
