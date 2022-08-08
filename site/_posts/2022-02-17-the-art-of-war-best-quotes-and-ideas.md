@@ -155,7 +155,7 @@ This means that you have to handicap yourself and do your best to create an envi
 
 This also does wonders for your confidence, making it even easier for you to perform.
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## The importance of emotional strength
 
