@@ -43,7 +43,7 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “The argument often used to justify a violent response to fascism is Hitler and the force it took to remove him from power. It also cost 70 million lives. Violence often doesn’t work, as witnessed by the Spanish Civil War, which left 500,000 dead.”
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## Introducing extreme ideas into mainstream discourse
 
