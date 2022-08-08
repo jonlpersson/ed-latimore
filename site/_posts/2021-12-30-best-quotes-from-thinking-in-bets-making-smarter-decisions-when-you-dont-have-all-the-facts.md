@@ -45,7 +45,7 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 ---
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## Hindsight bias
 
