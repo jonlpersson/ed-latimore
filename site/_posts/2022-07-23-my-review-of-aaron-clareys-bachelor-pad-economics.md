@@ -48,6 +48,8 @@ The last significant point of the book I want to touch on is the role of educati
 
 Pick a STEM major or a trade. Anything else will doom you to a life of just scraping by or outright servitude. In his book [“Worthless: The Young Person’s Indispensable Guide to Choosing the Right Major](https://amzn.to/3cyW4VW){: target="_blank"}.”
 
+{% include widgets/summary.html id="Blinkist" %}
+
 ## Bachelor Pad Economics will save you before you need saving
 
 As for dealing with friends and girls, he warns young men about the dangers of selecting the wrong girls or wrong friends. Reading this section made me think about all the bullets I’d dodged and made me fortunate to have made it to age 37 with no arrest record.
