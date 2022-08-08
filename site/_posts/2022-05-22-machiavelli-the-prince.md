@@ -181,7 +181,7 @@ To be an effective leader, you must be able to lead in a variety of ways. It's n
 
 If you have to choose between "too cautious" and "too impetuous", it is FAR better to be too impetuous. Opportunity is created expenditure of energy and effort. Not by conservation and prudence. If you don't put yourself out there and take some risks, you'll never see how beautiful your life can become.
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## Machiavelli on managing reputation
 
