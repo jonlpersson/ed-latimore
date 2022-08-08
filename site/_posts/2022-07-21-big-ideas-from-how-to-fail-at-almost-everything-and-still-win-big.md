@@ -34,6 +34,8 @@ He doesn’t simply tell you that adding skills is important; the man devotes an
 
 One of the most interesting things I took from the book is that a collection of mediocre skills, when combined, can give you an incredible advantage and unique positioning. Adams hammers home the lesson that it’s better to be a C+/B- in many things than an A+ at only one. This type of thinking is counterintuitive, but it’s hard to argue with someone who has had such success.
 
+{% include widgets/summary.html id="Blinkist" %}
+
 ## Scott Adams on increasing your odds of success
 
 He also speaks, at length, on the proper mindsets to have.
