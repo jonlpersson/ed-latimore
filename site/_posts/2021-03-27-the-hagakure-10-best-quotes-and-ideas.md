@@ -37,7 +37,7 @@ People want to contribute to the conversation but have nothing meaningful to say
 
 Another idea is also key in this quote: shame and brutal honesty are tools for changing behavior. While there are some cases where this is an effective tactic, it's more often used a means of self-indulgence on the part of the criticizer. Far too many people use unsolicited honesty as an excuse for casual cruelty.&nbsp;
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## 3\. You attract more flies with honey than vinegar<br>&nbsp;
 
