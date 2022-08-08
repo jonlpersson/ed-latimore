@@ -55,7 +55,7 @@ They might be yelling and screaming, and shouting, and beating their fist on the
 
 ---
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 “I did not respect what he had to say. I respected his right to say it. We kept on doing that. He and I became the best of friends. And over time that cement in his mind, that held his ideas together, began to crack.
 
