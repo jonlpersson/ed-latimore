@@ -71,6 +71,8 @@ Also, keep in mind that the difficulty of a task is irrelevant if it’s vital t
 
 The insistence on things being enjoyable is at best, a major weakness and at worst, a fatal liability.
 
+{% include widgets/summary.html id="Blinkist" %}
+
 ## 4) Perception is greater than sight
 
 > **Perception is strong and sight weak.**
@@ -135,5 +137,7 @@ It also highlights the importance of speed. This is the most valuable attribute 
 8. **“Even if you kill an enemy, if it is not based on what you have learned it is not the true Way.”**
 9. **“Because you can win quickly by taking the lead, it is one of the most important things in strategy.”**
 10. **“In strategy, you have effectively won when you forestall the enemy.”**
+
+{% include widgets/summary.html id="Blinkist" %}
 
 #### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
