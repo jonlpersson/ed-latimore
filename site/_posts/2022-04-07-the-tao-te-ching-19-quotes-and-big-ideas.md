@@ -50,7 +50,7 @@ In this way, ordinary people can develop extraordinary wisdom as a result of sim
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
-{% include widgets/summary.html id="book-quotes" %}
+{% include widgets/summary.html id="Blinkist" %}
 
 ## **Tao Te Ching Quotes on self-improvement**
 
