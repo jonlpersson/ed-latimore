@@ -83,7 +83,7 @@ Muscular men typically have broad shoulders. It’s not uncommon to Incredible-H
 
 Your shirts should be wide in the chest and sleek at the waist. The taper provides visual contrast and highlights your strong upper body.
 
-Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/#:~:text=3.-,Personality,interesting%2C%20well%2Drounded%20person.) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,[^2] I also talk a lot about how attractiveness is more than just about the clothes you wear.
+Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,[^2] I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
 
 ## Choose pants with thigh room
