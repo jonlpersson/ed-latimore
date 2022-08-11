@@ -64,7 +64,7 @@ In the beginning, though, you may need to choose neutrals or neutrals with small
 
 The retail business dictates that clothing be standardized to the average body type and size. This saves money on production but hinders your search for flattering attire. Your best bet is to find a clothing brand that makes clothing specifically for muscular men.
 
-Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course _[Dress Like a Man](https://goo.gl/hSjSFC) _and it changed the way I approached dressing.
+Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course _[Dress Like a Man](https://goo.gl/hSjSFC)_ and it changed the way I approached dressing.
 
 Tanner is a men’s style coach that has a three-principal approach to finding the perfect fit for bigger guys:
 
@@ -135,9 +135,8 @@ How to dress when you’re muscular:
 
 How you dress says a lot about you but it’s only one piece of the puzzle. Read my articles on [how to be more likable](https://edlatimore.com/how-to-be-likeable/) and [how to stop caring what other people think](https://edlatimore.com/how-to-stop-worrying-about-what-others-think-of-you/) for more tips. You can drastically change your life in a matter of 6 months if you work at it.
 
-{% include widgets/summary.html id="dress-like-a-man" %}
 
-—--
+---
 
 ### References
 
