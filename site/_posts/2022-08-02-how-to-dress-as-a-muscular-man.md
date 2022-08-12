@@ -141,6 +141,6 @@ How you dress says a lot about you but it’s only one piece of the puzzle. Read
 
 ### References
 
-1. Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. [https://www.britannica.com/biography/William-Sheldon](https://www.britannica.com/biography/William-Sheldon).
+[^1]: Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. [https://www.britannica.com/biography/William-Sheldon](https://www.britannica.com/biography/William-Sheldon).
 
-2.  Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 [http://doi.org/10.1098/rspb.2017.1819](http://doi.org/10.1098/rspb.2017.1819)
+[^2]:  Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 [http://doi.org/10.1098/rspb.2017.1819](http://doi.org/10.1098/rspb.2017.1819)
