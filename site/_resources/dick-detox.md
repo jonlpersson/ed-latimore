@@ -8,7 +8,7 @@ image: /assets/images/thumbnails/dick-detox-cover.jpg
 product_info:
   button_text: Download now
   button_url: https://mind-and-fist.ck.page/6cb98ea66a
-  price: Free
+  price: $79
 hero:
   hero_type: product
   image: /assets/images/thumbnails/dick-detox-cover.jpg
