@@ -19,7 +19,7 @@ hero:
 page_blocks:
   - _id: block_rich_text
     alignment: center
-    text_markdown: >
+    text_markdown: >-
       **Pornhub recently compiled a survey about pornography users' viewing
       habits from 2008-2017…**
 
@@ -124,8 +124,8 @@ page_blocks:
       pull of my pornography addiction.
 
 
-      However, thanks to what I share in this free course, my hands and my
-      conscience are finally clean.
+      However, thanks to what I share in this course, my hands and my conscience
+      are finally clean.
 
 
       The shame. The depression. The ED. The late-night hentai sessions. The low
@@ -168,12 +168,6 @@ page_blocks:
 
       Once you understand the processes that are *keeping* you addicted, you can
       remove the problem at the root (FOREVER).
-
-
-      Best of all?
-
-
-      It's FREE.
 
 
       What are you waiting for?
