@@ -2,7 +2,7 @@
 type: PDF guide
 title: 'Dick Detox: The Ultimate Guide To Quitting Porn'
 description: >-
-  Internet pornography has ruined many lives. This free guide teaches you how to
+  Internet pornography has ruined many lives. This guide teaches you how to
   finally quit porn and get your sex life back on track. 
 image: /assets/images/thumbnails/dick-detox-cover.jpg
 product_info:
