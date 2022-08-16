@@ -56,7 +56,7 @@ The human body is incredibly efficient. It will work to incorporate foreign subs
 
 So you’ll experience strong urges to go back to porn. Don’t do it. You’ll only prolong the withdrawal while adding a new layer of guilt.
 
-You can masturbate during these cravings. Check out my [in-depth guide on quitting porn](https://edlatimore.com/resources/dick-detox/) for more information on surviving without internet porn. In short, the goal isn’t to stop masturbating—unless you’re interested in the [benefits of the No Fap challenge](https://edlatimore.com/nofap-benefits/)—the goal is to break up with the hold porn has over you.
+You can masturbate during these cravings. Check out my [in-depth guide on quitting porn](https://gumroad.com/a/468639571) for more information on surviving without internet porn. In short, the goal isn’t to stop masturbating—unless you’re interested in the [benefits of the No Fap challenge](https://edlatimore.com/nofap-benefits/)—the goal is to break up with the hold porn has over you.
 
 #### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
