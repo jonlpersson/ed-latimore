@@ -91,7 +91,7 @@ For example:
 * For my alcohol addiction, it took me seeing myself for what I was, lonely, broke, and broken, then realizing I needed a change and actively making that change.
 * When I discovered I no longer wanted to follow an academic track, I had to fight the urge to blow off my classes and finish my degree.
 
-Struggling with any addiction saps your self-confidence and makes you lose trust and integrity with yourself. Read my free guide [Dick Detox: The ultimate guide to quitting porn](/resources/dick-detox/), if you’re looking for actionable, step-by-step advice.
+Struggling with any addiction saps your self-confidence and makes you lose trust and integrity with yourself. Check out my course&nbsp;[Dick Detox: The ultimate guide to quitting porn](https://gumroad.com/a/468639571), if you’re looking for actionable, step-by-step advice.
 
 ## Porn shrinks your brain
 
