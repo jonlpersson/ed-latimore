@@ -67,7 +67,7 @@ Maybe you're wondering if you're addicted to porn. Or perhaps you know someone, 
 
 There are a few different ways to know if you have a porn addiction. I’ve compiled a list of the most common and obvious signs that you have a problem with porn.
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can [download here](/resources/dick-detox/).\]***
+***\[Also, I have an excellent guide to help you make even more progress in quitting porn you can [purchase here](https://gumroad.com/a/468639571).\]***
 
 ## You can't stop watching porn
 
