@@ -1,7 +1,7 @@
 ---
 tag: how-to-become-superhuman
-title: How to become superman
-description: Learn how to optimize your body and mind for peak performance.
+title: How to become superhuman
+description: Learn how to optimize your body and mind for peak performance
 hero:
   label:
   heading:
