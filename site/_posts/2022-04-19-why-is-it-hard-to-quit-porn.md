@@ -126,7 +126,7 @@ Hard doesn’t mean impossible. But I’d be lying to you if I said you can just
 
 Start doing the work of learning who you are now, versus who you want to be. From there, it’s a matter of cutting out the behavioral patterns that get in the way.
 
-You’ll get a headstart with my [Vicebreakers course](https://edlatimore.com/products/vicebreakers/), which helps you gain self-respect, self-control, and self-esteem as you kick your bad habits and addictions.
+You’ll get a headstart with my [Vicebreakers course](https://gumroad.com/a/468639571), which helps you gain self-respect, self-control, and self-esteem as you kick your bad habits and addictions.
 
 The rest is up to you.
 
