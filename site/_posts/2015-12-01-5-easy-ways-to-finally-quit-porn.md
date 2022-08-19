@@ -79,7 +79,7 @@ You don’t need professional help. You don’t need an intervention. You just n
 
 Here is the plan I used to quit porn
 
-***\[Also, I have a free guide to help you make even more progress in quitting porn you can \*\**[\*\**download it here.*\*\*](/resources/dick-detox/){: target="_blank"}***\]*\*\*
+***\[Also, I have a excellent course to help you make even more progress in quitting porn you can*[*download it here*](https://gumroad.com/a/468639571){: target="_blank"}\]**
 
 ## 1\. Delete your browser history
 
