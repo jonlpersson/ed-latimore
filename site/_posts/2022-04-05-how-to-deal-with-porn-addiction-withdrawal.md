@@ -146,7 +146,7 @@ If you’re going to navigate addiction recovery and beat it, don’t forget:
 * Quitting porn frees you of compulsive habits, improves your sex life, and gives you real-life confidence
 * It takes a plan of discipline, physical training, and mental growth to fight the symptoms of porn addiction and stop viewing porn for good
 
-My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and Addictions](https://edwardlatimore.gumroad.com/l/rvKFC) gives you a headstart in dealing with your withdrawal symptoms. You’ll gain the tools to recover from porn addiction and substance addiction, even if you’ve already relapsed thousands of times.
+My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and Addictions](https://gumroad.com/a/337122419) gives you a headstart in dealing with your withdrawal symptoms. You’ll gain the tools to recover from porn addiction and substance addiction, even if you’ve already relapsed thousands of times.
 
 As I always say, the rest is up to you.
 
