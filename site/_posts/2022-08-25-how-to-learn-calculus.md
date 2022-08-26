@@ -134,7 +134,7 @@ Understand the purpose of the three tools of calculus brings us to the fundament
 
 You think I'm kidding? The theorem of calculus says otherwise—both of them. Yeah, there are two, however I'm only going to go over the first one because it's the most important:
 
-1. **"Let f be a continuous function on the closed interval \[a, b\] and let A(x) be the area function. Then A′(x) = f(x), for all x ∈ \[a, b\]."**
+**"Let f be a continuous function on the closed interval \[a, b\] and let A(x) be the area function. Then A′(x) = f(x), for all x ∈ \[a, b\]."**
 
 [If you don't speak math](https://edlatimore.com/how-to-get-better-at-math/#4-hot-tip-its-all-simple-when-you-can-read-it), this translated says "if a line called "f(x)" passes the function test between two points "a" and "b", then there is a deriviate that exists for every point between a and b, and that derivative has an integral.
 
@@ -157,7 +157,9 @@ To use this technique to learn calculus, you’ll need to use practice problems 
 
 For more thorough learning, you can also [read my easy 4-step process for problem solving](https://edlatimore.com/problem-solving-process/). It’ll help you better understand any problem you come across.
 
-In my studies, I found working through problems then usings a tool like [Khan Academy](https://www.khanacademy.org/math) helps to check my work. It helped me understand where I went wrong and correct my mistakes for other problems. Here’s a warning though—don’t cheat. Taking the easy way doesn’t form the necessary neurotransmitters in your brain for deep work. And the sooner you learn to use your brain to figure out hard things, the better.
+In my studies, I found working through problems then usings a tool like [Khan Academy](https://www.khanacademy.org/math) helps to check my work. It helped me understand where I went wrong and correct my mistakes for other problems.
+
+Here’s a warning though—don’t cheat. Taking the easy way doesn’t form the necessary neurotransmitters in your brain for deep work. And the sooner you learn to use your brain to figure out hard things, the better.
 
 ## Don’t rely on class alone
 
