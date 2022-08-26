@@ -7,8 +7,8 @@ tags:
   - math-concepts
 image: /assets/images/thumbnails/calculus-problem-written-on-chalkboard.jpg
 description: >-
-  I failed calculus 3 times and still graduated with a BA in Physics. Here’s how
-  I finally learned calculus.
+  I failed calculus three times. On the 4th try, it clicked. I now have a BA in
+  physics and a minor in math. Here’s how I finally learned calculus.
 ---
 I was never naturally good at math.
 
@@ -104,7 +104,11 @@ I used to think "slope of the tangent line" meant the slope of the line that tou
 
 And what are slopes? Just rates of change. Recall your algebra days where you learned "rise over run" or, more mathematically, "(y2-y1)/(x2-x1)." It's how the output changes with respect to the input.&nbsp; The steeper the slope, the greater the rate of change.
 
-It's key to remember that derivatives measure change with respect to a variable.&nbsp;
+Since the value of "x" can change at any given time, you're actually dividing changing quantities. This is why I say that derivatives are about multiplying things that aren't constant.&nbsp;
+
+It's key to remember that derivatives measure change with respect to a variable. This is fairly straight forward when there is only one input (variable), but things become \*slightly\* more complicated when you reach multivariable calculus or differential equations.
+
+Still, this idea is a strong start.
 
 **Integrals**
 
