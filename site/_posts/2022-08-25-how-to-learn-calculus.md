@@ -104,15 +104,23 @@ I used to think "slope of the tangent line" meant the slope of the line that tou
 
 And what are slopes? Just rates of change. Recall your algebra days where you learned "rise over run" or, more mathematically, "(y2-y1)/(x2-x1)." It's how the output changes with respect to the input.&nbsp; The steeper the slope, the greater the rate of change.
 
-Since the value of "x" can change at any given time, you're actually dividing changing quantities. This is why I say that derivatives are about multiplying things that aren't constant.&nbsp;
+***Since the value of "x" can change at any given time, you're actually dividing changing quantities. This is why I say that derivatives are about multiplying things that aren't constant.&nbsp;***
 
 It's key to remember that derivatives measure change with respect to a variable. This is fairly straight forward when there is only one input (variable), but things become \*slightly\* more complicated when you reach multivariable calculus or differential equations.
 
 Still, this idea is a strong start.
 
-**Integrals**
+### **How integrals work**
 
-Integrals work backwards from derivatives. This branch of mathematics also goes by the names of integration or antidiferrentials. Integrals help us find the area of oddly shaped things. Formally, this method is called finding the area under a curve.
+Let's start simply and build from there.
+
+The opposite of division is multiplication. You can get back to the divisor (in fraction form, the numerator) by mulpliying the quotient (the answer) by the dividend (in fraction form, the dividend). In this way, you undo a division problem with multiplication. The inverse is true as well; multiplication problems are undone by division.
+
+Let's apply this calculus.
+
+If derivatives are the division of changing quantities, then to "undo" them, we have to use some operation that is the multiplication of the derivates quotient and dividend. In this case, we need the multiplication of changing quantities. We call this the "Integral."
+
+by the This branch of mathematics also goes by the names of integration or antidiferrentials. Integrals help us find the area of oddly shaped things. Formally, this method is called finding the area under a curve.
 
 Integrals help us calculate:
 
