@@ -120,15 +120,9 @@ Let's apply this calculus.
 
 If derivatives are the division of changing quantities, then to "undo" them, we have to use some operation that is the multiplication of the derivates quotient and dividend. In this case, we need the multiplication of changing quantities. We call this the "Integral."
 
-by the This branch of mathematics also goes by the names of integration or antidiferrentials. Integrals help us find the area of oddly shaped things. Formally, this method is called finding the area under a curve.
+The name tells you exactly what the integral does. "Integral" is from an old latin word meaning "forming a whole" or "whole." This is&nbsp;***exactly***&nbsp;what integrals do. They put back together the division done by differention.&nbsp;
 
-Integrals help us calculate:
-
-* Area
-* Accumulation
-* Probability
-* Volume
-* Distance
+![The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities.](/assets/images/posts/integral-notation-1.svg "The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities."){: width="306" height="121"}
 
 ## Write the steps
 
