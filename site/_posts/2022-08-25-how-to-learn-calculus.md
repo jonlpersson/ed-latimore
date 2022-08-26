@@ -60,7 +60,7 @@ Doing these techniques is relatively simple, though not necessarily easy. In fac
 
 With that said, understand why you need them will go a LONG way in helping you proficiently use them all.&nbsp;
 
-**Limits**
+### **How limits work**
 
 A great technical definition of a limit is "A limit describes how a function behaves near a point but not at that specific point." What exactly does this mean and how does it help understand the "why" of calculus? More specifically, why do we need to understand how functions behave near a point to do anything?
 
@@ -86,9 +86,15 @@ Almost all commercial flights use autopilot for landing. The computer needs a fo
 
 Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.&nbsp;
 
-**Derivatives**
+### **How derivatives work**
 
-Derivatives measure the slope of a curve at a given point, called a tangent line. Put all together, it helps to find how an output will change in respect to an input over time. This is where you get into differential calculus.
+From now on, every time you hear the word "derivative", I want you to replace it with "change." From now on, whenever you see the derivative notation , think "division of a quantity." This is not entirely precise, but it's precise enough to be useful and help you think about calclus in a useful manner.
+
+And more importantly, it's accurate. The definition of derivate is "**the rate of change of a function with respect to a variable**."&nbsp;
+
+![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/derivativenotion.png "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)"){: width="178" height="283"}
+
+"Derivatives measure the slope of a curve at a given point, called a tangent line. Put all together, it helps to find how an output will change in respect to an input over time. This is where you get into differential calculus.
 
 **Integrals**
 
