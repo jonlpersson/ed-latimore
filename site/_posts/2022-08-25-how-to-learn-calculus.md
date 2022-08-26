@@ -1,5 +1,5 @@
 ---
-date: 2022-08-25 09:16:00 -0500
+date: 2022-08-25 10:16:00 -0400
 article_type: Article
 title: How to learn calculus (even if you’re bad at math)
 permalink: /how-to-learn-calculus/
@@ -7,7 +7,8 @@ tags:
   - math-concepts
 image: /assets/images/thumbnails/calculus-problem-written-on-chalkboard.jpg
 description: >-
-  I failed calculus 3 times and still graduated with a BA in Physics. Here’s how I finally learned calculus.
+  I failed calculus 3 times and still graduated with a BA in Physics. Here’s how
+  I finally learned calculus.
 ---
 I was never naturally good at math.
 
@@ -21,14 +22,13 @@ For example, the algorithms that keep you watching more content on social media 
 
 Calculus is the study of rates of change over tiny intervals of time. The problem is, though it has real-world applications, learning calculus is mostly about learning to use it in theory vs application. This turns off beginners and anyone who might have a natural inclination toward it.
 
-
 ## The genius myth
 
 Some people have a different set of mental faculties but what we think of as a genius is rarely inherent brain power. More often, genius is an uncanny/uncommon desire and ability to focus on a subject until it’s learned.
 
 Einstein, Nobel prize winning physicist Richard Feynman, and Newton were all ordinary dudes with extraordinary curiosity. This holds true outside of math and physics as well.
 
-Johann Sebatian Bach famously stated his true talent in music was an inclination to work hard. Some of you might remember the movie _Searching for Bobby Fischer_. It was based on the childhood chess master, Josh Waitzkin. Though revered as one, Waitzkin has since written books about how he wasn’t a genius, but he was a curious, thorough learner.
+Johann Sebatian Bach famously stated his true talent in music was an inclination to work hard. Some of you might remember the movie *Searching for Bobby Fischer*. It was based on the childhood chess master, Josh Waitzkin. Though revered as one, Waitzkin has since written books about how he wasn’t a genius, but he was a curious, thorough learner.
 
 I tell you about these things because even so-called geniuses realize that the biggest hurdle is actually believing it can be done. And your capabilities can blossom from there.
 
@@ -36,12 +36,9 @@ Learning calculus today doesn’t mean you’ll start Space X 2.0. You don’t h
 
 Anyone can learn calculus and the following sections will show you the easiest way I know how.
 
-
 ## Learn the parts
 
 Learning calculus is like the next steps in language learning. You’ve gotten the basic words and sentences down when you learned Algebra and other prerequisites. Now it’s time to write essays and fit larger concepts together. The first thing to know about solving calculus problems is that there are basically three main segments of calculus:
-
-
 
 * Limits
 * Derivatives
@@ -63,14 +60,19 @@ Integrals work backwards from derivatives. This branch of mathematics also goes 
 
 Integrals help us calculate:
 
-
-
 * Area
 * Accumulation
 * Probability
 * Volume
 * Distance
 
+Fundamentally understand why we need calculus
+
+One of the things that finally made calculus click for me was when I finally understood the "why" of the subject. This is a lot different than the "how" or the "what." I'll explain.<br><br>Most students go through calculus and all they learn how to do is take the derivative or integral or figure if a series converges or diverges, but they have no idea why we do it. They have a vague notion of why its important, but most of that boils down to "this is a required class" and "smart people do this, so I must do it to."
+
+Even if they're motivated by the outcome ([like getting a high paying job](/why-is-math-important/)), they won't enjoy the process because they have no idea why they're doing or even most times, what they're doing. They're just repeating methods and not thinking.
+
+Well, after taking calculus 4 times, here's what I figured out on the 4th try that got me no lower than a B afterwards: calculus is the math we use to measure things that are changing.&nbsp;
 
 ## Write the steps
 
@@ -91,7 +93,6 @@ For more thorough learning, you can also [read my easy 4-step process for proble
 
 In my studies, I found working through problems then usings a tool like [Khan Academy](https://www.khanacademy.org/math) helps to check my work. It helped me understand where I went wrong and correct my mistakes for other problems. Here’s a warning though—don’t cheat. Taking the easy way doesn’t form the necessary neurotransmitters in your brain for deep work. And the sooner you learn to use your brain to figure out hard things, the better.
 
-
 ## Don’t rely on class alone
 
 Calculus class should be an intro to new important concepts and to clarify what you’re learning. You shouldn’t be relying on it to do your learning for you. In high school, your teachers will go at your pace until you learn. Calculus courses in college leave it up to you to do the heavy-lifting of learning.
@@ -104,7 +105,6 @@ And because theories can muddy the practicality of a tool, you need to seek help
 
 …which brings us to the next point.
 
-
 ## Repeat, repeat, repeat
 
 Math is not a subject you can coast on learning through listening. You need hands-on work to grasp the important concepts and usefulness. Now, you probably won’t be using trigonometric identities or differential equations on a regular basis in life. But learning to work through these concepts can teach you about yourself.
@@ -113,14 +113,11 @@ When you learn something difficult, you learn perseverance and confidence. These
 
 Put simply, get more practice with more problems. Books like [Calculus by James Stewart](https://www.cengage.com/c/calculus-8e-stewart/9781285740621PF/) (in any addition) is full of practice problems you can work through over and over.
 
-
 ## Use your accumulated knowledge
 
 Calculus ties together other areas of math that you usually learn first. For example, calculus finds equations in nature then uses algebra to solve them.
 
 Math learning typically flows in this manner:
-
-
 
 * Addition, subtracting, multiplication, division
 * Algebra
@@ -132,14 +129,11 @@ Calculus is really Algebra’s big brother. Many of the concepts that seem so da
 
 Before you get to calculus, you usually take a prerequisite called precalculus, which is a more advanced version of Algebra. Master your prerequisite learning, and calculus will be easier to grasp.
 
-
 ## Wrapping up
 
-Now, you  don’t have to be a mathematician, but with these tips you can get good enough at calculus to pursue a career or simply to pass your calc tests.
+Now, you don’t have to be a mathematician, but with these tips you can get good enough at calculus to pursue a career or simply to pass your calc tests.
 
 Here’s the short version of how to learn calculus (the easiest way I know how):
-
-
 
 * Develop a growth mindset. If it can be learned, you can learn it
 * Understand the parts of calculus and what it seeks to accomplish
