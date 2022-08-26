@@ -1,6 +1,6 @@
 ---
 published: false
-date: 2022-08-12 12:00:00
+date: 2022-08-12 08:00:00 -0400
 article_type: Article
 title: Signs you grew up in the hood
 permalink: /signs-you-grew-up-in-the-hood/

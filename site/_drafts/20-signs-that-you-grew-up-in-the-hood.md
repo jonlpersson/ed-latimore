@@ -1,5 +1,5 @@
 ---
-date:
+date: 2022-08-26 12:00:00 -0400
 article_type: Article
 title: 20 signs that you grew up in the hood
 permalink: /20-signs-that-you-grew-up-in-the-hood/
@@ -30,7 +30,7 @@ For everyone else who else somehow stumbled upon this article, use my checklist 
 2. The hood is largely composed of black people. I am a black man. This does not mean that these experiences are unique to African-Americans. As far as I know, there are broke people everywhere and of every race.Growing up in the hood doesn’t mean that you’re black any more than being black means that you grew up in the hood. Sure, there’s a greater probability that things are your experience, but that’s a probabilistic relationship. Not a deterministic one. In other words, you may see yourself in this post and be white as snow. On the flip side, you may be black as the ace of spades and relate to nothing here.
 3. I’m 37 years old. I haven’t lived in the hood since I was 18 and have only been back there a handful of times. All of my first-hand experience—and most of my second-hand experience—was acquired at a young age. This doesn’t make it any more or less valid, but I’m aware enough of things to know that things can change. Whether or not they have is a different question entirely.
 
-***Note: As I started writing this, it turned into a small bit of therapy. ***
+*\*\*Note: As I started writing this, it turned into a small bit of therapy. \*\**
 
 ## Signs you grew up in the hood
 
@@ -40,7 +40,7 @@ For everyone else who else somehow stumbled upon this article, use my checklist 
 4. You were doing active shooter drills in school before they hit the rest of America.My *elementary* school had metal detectors.Gang violence was such a big deal our middle school had uniforms to avoid gang violence over colors.Different reasons for the drills. Same problem
 5. Pizza men came in twos.Back before Uber eats, we used to have pizza delivery boys.In the hood, if yours got delivered to, there were two delivery men—one to carry the pizza and one to carry the gun.
 6. Public transportation didn’t come to your neighborhoodThe buses simply didn’t come to my part of town for a large part of the 90s. Things were so bad that the public transportation company in my city decided to cut routes to a region where everyone is almost guaranteed to need it because poor people live in the hood and poor people don’t have cars.
-7. Cops don't come when they're calledOr they're late as hell.Unless there's a murder, calling the police is a waste of time. And even then...
+7. Cops don't come when they're calledOr they're late as hell.Unless there's a murder, calling the police is a waste of time. And even then…
 8. You survived the summers because of the free lunch programsOnce school was out, two meals of the day were gone—breakfast and lunch. A lot of hoods had free lunch programs, so there was a place to eat during the summer, and kids didn't go hungry.
 9. You've been robbed (bonus points if at gunpoint)I was robbed at knife and gunpoint before I was 18. It's scary, but it's part of life.This also makes you suspicious of everyone around you and keeps you on your toes.
 10. You stop freaking out about the sound of gunshotsAlmost every night of my life growing up, I heard gunfire at night.I eventually just got used to it. I’ve been outside during drive by shootings and had to hit the ground. I’ve seen cars chasing each other shooting at one another.
