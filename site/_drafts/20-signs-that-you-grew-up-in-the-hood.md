@@ -14,15 +14,17 @@ Here are 20 classic signs that you grew up in the hood.
 
 A lot of people have misconceptions about what life is like growing up in this place.
 
-I was born in the projects and lived there until I was 18, so trust me. My elemetary school was in the heart of the public housing project I grew up in and my middle school was a feeder school for kids from the poor neighborhoods and projects around me. I didn’t really interact with people outside of the hood until I got to high school.
+I was born in the projects and lived there until I was 18, so trust me.
+
+My elemetary school was in the heart of the public housing project I where I lived and my middle school was a feeder school for kids from the poor neighborhoods and projects around me. I didn’t really interact with people outside of the hood until I got to high school.
 
 I know the ghetto as well as any crackhead, drug dealer, or cop. This isn’t a good or bad thing. It’s just part of my life.
 
 In this post, I’ll list out the telltale signs that you grew up in the hood. People who grew up in the ghetto don’t need this checklist. We don’t need to be reminded of the robberies, family dysfunctions, drive by shootings, and random (mostly negative) run ins with law enforcement.
 
-However, it’s nice to see how far you’ve come and what you’ve had to go through. I don’t think should glamorizing your trauma or focus on it, but you should never forget that your path has given you advantages and perspectives like no other.
+However, it’s nice to see how far you’ve come and what you’ve had to go through. I don’t think people should glamorize trauma or focus on it, but you should never forget that your path has given you advantages and perspectives like no other.
 
-For everyone else who else somehow stumbled upon this article, use my checklist to try to get a better understanding of the hood and many of the experiences that are typical. I’m not asking for your sympathy or pity, but understanding that the American way of life can be significantly different for poor people in this environment.
+For everyone else who somehow stumbled upon this article, use my checklist to get a better understanding of the hood and many of the typical experiences there. I’m not asking for your sympathy or pity. Just your understanding that the American way of life can be significantly different for poor people—especially poor black people.
 
 ## Warnings, caveats, and disclaimers
 
