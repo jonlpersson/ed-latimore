@@ -4,7 +4,7 @@ article_type: Review
 title: I tried mastic gum. Here’s my honest review
 permalink: /mastic-gum-review/
 tags:
-  - self-improvement-for-men
+  - how-to-be-a-hot-guy
 description: >-
   Want to develop a more masculine, attractive face? Read my review on Greek
   mastic gum.
@@ -51,7 +51,7 @@ Mastic gum has been found to help with:
 
 I treat mastic gum like any other resistance workout. I don’t do it for more than 2-3x a week. You need to rest anyway as you can really feel it working your jawline. Like typical workouts, you’ll need to give it 3-4 weeks before you start to notice any real results.
 
-For me, gym is life. It's [a way to a more stoic, centered life](https://edlatimore.com/how-to-increase-willpower/) and ensuring that I can control my mind, body, and emotions. It also helps me to maintain a level of attractiveness.
+For me, gym is life. [It's a way to a more stoic, centered life](/how-to-increase-willpower/) and ensuring that I can control my mind, body, and emotions. It also helps me to maintain a level of attractiveness.
 
 ## What I liked about mastic gum
 
@@ -59,7 +59,7 @@ The following are a few pros that I found chewing mastic gum:
 
 **It works**
 
-If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/#build-a-strong-jawline). Women are by and large attracted to male physiques that cue strength.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> A strong jawline is a marker of health and physical strength.
+If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women.](/how-to-become-more-physically-attractive-to-women/) Women are by and large attracted to male physiques that cue strength.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> A strong jawline is a marker of health and physical strength.
 
 **It’s discrete**
 
