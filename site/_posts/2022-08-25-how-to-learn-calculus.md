@@ -36,7 +36,7 @@ Learning calculus today doesn’t mean you’ll start Space X 2.0. You don’t h
 
 Anyone can learn calculus and the following sections will show you the easiest way I know how.
 
-## Fundamentally understand why we need calculus
+## The fundamental, simple, main idea of calculus
 
 One of the things that finally made calculus click for me was when I finally understood the "why" of the subject. This is a lot different than the "how" or the "what." I'll explain.<br><br>Most students go through calculus and all they learn how to do is take the derivative or integral or figure if a series converges or diverges, but they have no idea why we do it. They have a vague notion of why its important, but most of that boils down to "this is a required class" and "smart people do this, so I must do it to."
 
@@ -66,11 +66,25 @@ A great technical definition of a limit is "A limit describes how a function beh
 
 First, a simple, brief, and mostly precise (though entirely accurate) definition of a function: A function is a formula that has only one output for every input. Mathematically speaking, functions have one "y" for every "x." You may also remember the vertical line test. As long as you can only pass a vertical intersects a graph once at every point along the graph, it's a function.
 
-&nbsp;
+Another important point about functions, and this may be obvious and seem redundant, but it's important to understand why limits are useful and powerful: functions tell us what happens as the inputs change. You can create a function for anything:
 
-Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness. Otherwise, we’d be left in the black hole of infinite possibilities.
+* The time it will take to make a trip. Input (x axis) is your speed. Output (y axis) is the time.
+* The money you make it. Input (x axis) is what you do to get paid (hourly, event, commission, etc.). Output (y axis) is what you earn.
+* The height of water in a bathtub. Input (x axis) is rate of running water. Output (y axis) is amount in tube
 
-For example, to predict the speed of a vehicle, you need to know the distance traveled divided by the time it took to get there. Limits come into play when you need to find the speed of that same vehicle as it approached a single point along that distance.
+Any past or present calculus students reading those examples will recognize the examples and either shed a tear of nostalgia or a stretch of frustration.&nbsp;
+
+With that out the way, let's recall the main idea of calculus: a math to work with changing quantities. Knowing how something behaves&nbsp;*exactly*&nbsp;at a point doesn't tell us anything about how it got to that point OR what it will do after.
+
+Does it speed up, slow down, stop entirely, or make a quantum leap or drop? Is it even possible for it to make it to that point?
+
+***Limits allows us to figure out the behavior of something as it approaches some fixed point.&nbsp; We can use that behavior to get the most precise measurement of something's output based on \*changing\* inputs.***
+
+Think about airplanes.
+
+Almost all commercial flights use autopilot for landing. The computer needs a formula to calculate what to adjust the plans speed to, every second, as it approaches the fixed point of the airport. Humans do this by feel along with help from instruments. Computers use an equation (a bit more complicated than a limit, but the building block idea still remains).
+
+Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.&nbsp;
 
 **Derivatives**
 
