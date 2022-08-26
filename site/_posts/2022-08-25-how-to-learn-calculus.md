@@ -56,6 +56,10 @@ Learning calculus is like the next steps in language learning. You’ve gotten t
 * Derivatives
 * Integrals
 
+Doing these techniques is relatively simple, though not necessarily easy. In fact, the a large portion of Calculus II is learning different integration techniques and recognizing when to use them.
+
+With that said, understand why you need them will go a LONG way in helping you proficiently use them all.&nbsp;
+
 **Limits**
 
 Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness. Otherwise, we’d be left in the black hole of infinite possibilities.
