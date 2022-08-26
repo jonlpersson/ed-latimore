@@ -128,6 +128,18 @@ They'll teach you that integrals are use to calcuate the area under the curve, v
 
 Integrals allow you to figure out totals. Those totals can tell you if something is converging or diverging, how much space you have based on changing parameters, and there are many applications to sound and light that make today's entertainment and ease of life possible.&nbsp;
 
+The Fundamental Theorem of Calculus
+
+Understand the purpose of the three tools of calculus brings us to the fundamental theorem of calculus. I'll formally state it, but if you got the last section, you understand everything about calculus.
+
+You think I'm kidding? The theorem of calculus says otherwise:
+
+**"Let f be a continuous function on the closed interval \[a, b\] and let A(x) be the area function. Then A′(x) = f(x), for all x ∈ \[a, b\]."**
+
+[If you don't speak math](https://edlatimore.com/how-to-get-better-at-math/#4-hot-tip-its-all-simple-when-you-can-read-it), this translated says "if a line called "f(x)" passes the function test between two points "a" and "b", then there is a deriviate that exists for every point between a and b, and that derivative has an integral.
+
+It's the fundamental theorem of calculus because this is ALL CALCULUS IS. It took me failing calculus 3 times before I understood that. Hopefully, now you don't have to.&nbsp;
+
 ## Write the steps
 
 All learning will involve some rote, repetitive memorizing. But to study calculus more thoroughly, you’ll need to take it a step further.
