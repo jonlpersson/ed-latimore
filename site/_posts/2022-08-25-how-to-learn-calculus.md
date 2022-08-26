@@ -153,5 +153,3 @@ If I can go from seeing dead bodies in the hood to becoming one of the top perfo
 I hope that helps.
 
 The rest is up to you.
-
-{% include widgets/cta-email.html %}
