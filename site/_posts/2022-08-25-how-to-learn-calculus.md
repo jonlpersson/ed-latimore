@@ -36,6 +36,18 @@ Learning calculus today doesn’t mean you’ll start Space X 2.0. You don’t h
 
 Anyone can learn calculus and the following sections will show you the easiest way I know how.
 
+## Fundamentally understand why we need calculus
+
+One of the things that finally made calculus click for me was when I finally understood the "why" of the subject. This is a lot different than the "how" or the "what." I'll explain.<br><br>Most students go through calculus and all they learn how to do is take the derivative or integral or figure if a series converges or diverges, but they have no idea why we do it. They have a vague notion of why its important, but most of that boils down to "this is a required class" and "smart people do this, so I must do it to."
+
+Even if they're motivated by the outcome ([like getting a high paying job](/why-is-math-important/)), they won't enjoy the process because they have no idea why they're doing or even most times, what they're doing. They're just repeating methods and not thinking.
+
+Well, after taking calculus 4 times, here's what I figured out on the 4th try that got me no lower than a B afterwards: calculus is the math we use to measure things that are changing. Whether that change is growth, decay, expansion, or contraction. Calculus is the math we use to plot, predict, calculate, and solve those changes.
+
+Arithmatic and geometry are insufficient because they only use "constants." This means that they remain constant in the formula or calculation. This isn't good for things that change, which is why calculus requires such strong grasp of algebra, where "variables" are used.
+
+Once you understand the "why" of calculus—to measure and calculate change along with all of the implications of that change—then everything makes sense.
+
 ## Learn the parts
 
 Learning calculus is like the next steps in language learning. You’ve gotten the basic words and sentences down when you learned Algebra and other prerequisites. Now it’s time to write essays and fit larger concepts together. The first thing to know about solving calculus problems is that there are basically three main segments of calculus:
@@ -65,14 +77,6 @@ Integrals help us calculate:
 * Probability
 * Volume
 * Distance
-
-## Fundamentally understand why we need calculus
-
-One of the things that finally made calculus click for me was when I finally understood the "why" of the subject. This is a lot different than the "how" or the "what." I'll explain.<br><br>Most students go through calculus and all they learn how to do is take the derivative or integral or figure if a series converges or diverges, but they have no idea why we do it. They have a vague notion of why its important, but most of that boils down to "this is a required class" and "smart people do this, so I must do it to."
-
-Even if they're motivated by the outcome ([like getting a high paying job](/why-is-math-important/)), they won't enjoy the process because they have no idea why they're doing or even most times, what they're doing. They're just repeating methods and not thinking.
-
-Well, after taking calculus 4 times, here's what I figured out on the 4th try that got me no lower than a B afterwards: calculus is the math we use to measure things that are changing. Whether that change is growth, decay, expansion, or contraction. Calculus is the math we use to plot, predict, calculate, and solve those changes.
 
 ## Write the steps
 
