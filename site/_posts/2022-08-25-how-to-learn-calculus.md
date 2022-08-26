@@ -90,6 +90,8 @@ Almost all commercial flights use autopilot for landing. The computer needs a fo
 
 Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.&nbsp;
 
+#### [Check out the rest of my articles about math](/math-concepts/)
+
 ### **How derivatives work**
 
 From now on, every time you hear the word "derivative", I want you to replace it with "change." From now on, whenever you see the derivative notation , think "division of a quantity." This is not entirely precise, but it's precise enough to be useful and help you think about calclus in a useful manner.
@@ -128,7 +130,7 @@ They'll teach you that integrals are use to calcuate the area under the curve, v
 
 Integrals allow you to figure out totals. Those totals can tell you if something is converging or diverging, how much space you have based on changing parameters, and there are many applications to sound and light that make today's entertainment and ease of life possible.&nbsp;
 
-The Fundamental Theorem of Calculus
+### The Fundamental Theorem of Calculus
 
 Understand the purpose of the three tools of calculus brings us to the fundamental theorem of calculus. I'll formally state it, but if you got the last section, you understand everything about calculus.
 
@@ -173,6 +175,8 @@ And because theories can muddy the practicality of a tool, you need to seek help
 
 …which brings us to the next point.
 
+#### [Check out the rest of my articles about math](/math-concepts/)
+
 ## Repeat, repeat, repeat
 
 Math is not a subject you can coast on learning through listening. You need hands-on work to grasp the important concepts and usefulness. Now, you probably won’t be using trigonometric identities or differential equations on a regular basis in life. But learning to work through these concepts can teach you about yourself.
@@ -215,3 +219,5 @@ If I can go from seeing dead bodies in the hood to becoming one of the top perfo
 I hope that helps.
 
 The rest is up to you.
+
+#### [Check out the rest of my articles about math](/math-concepts/)
