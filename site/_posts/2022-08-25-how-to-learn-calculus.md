@@ -62,6 +62,12 @@ With that said, understand why you need them will go a LONG way in helping you p
 
 **Limits**
 
+A great technical definition of a limit is "A limit describes how a function behaves near a point but not at that specific point." What exactly does this mean and how does it help understand the "why" of calculus? More specifically, why do we need to understand how functions behave near a point to do anything?
+
+First, a simple, brief, and mostly precise (though entirely accurate) definition of a function: A function is a formula that has only one output for every input. Mathematically speaking, functions have one "y" for every "x." You may also remember the vertical line test. As long as you can only pass a vertical intersects a graph once at every point along the graph, it's a function.
+
+&nbsp;
+
 Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness. Otherwise, we’d be left in the black hole of infinite possibilities.
 
 For example, to predict the speed of a vehicle, you need to know the distance traveled divided by the time it took to get there. Limits come into play when you need to find the speed of that same vehicle as it approached a single point along that distance.
