@@ -34,7 +34,11 @@ I tell you about these things because even so-called geniuses realize that the b
 
 Learning calculus today doesn’t mean you’ll start Space X 2.0. You don’t have to be destined for MIT or even a career as a mathematician. You simply have to [develop a growth mindset around math.](https://edlatimore.com/how-to-get-better-at-math/)
 
-Anyone can learn calculus and the following sections will show you the easiest way I know how.
+Anyone can learn calculus and the following sections will show you the easiest way I know how. This article won't focus on the "how" of calculus. It will focus mainly on the "why" and the "what".
+
+Despite the title, I'm not teaching you how to take a derivative, integral, calculate a serious or any of that. I'm showing what that stuff means, simply, so you are much better equipped.
+
+Hopefully you won't just understand calculus better, but you'll excel at it.
 
 ## The fundamental, simple, main idea of calculus
 
@@ -92,9 +96,15 @@ From now on, every time you hear the word "derivative", I want you to replace it
 
 And more importantly, it's accurate. The definition of derivate is "**the rate of change of a function with respect to a variable**."&nbsp;
 
-![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/derivativenotion.png "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)"){: width="178" height="283"}
+![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/accuratederivative-notation.webp "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)"){: width="400" height="400"}
 
-"Derivatives measure the slope of a curve at a given point, called a tangent line. Put all together, it helps to find how an output will change in respect to an input over time. This is where you get into differential calculus.
+"Derivatives measure the slope of a curve at a given point, called a tangent line." This is all many of us are told, but what does that mean?&nbsp;
+
+I used to think "slope of the tangent line" meant the slope of the line that touches the function at that specific point. "Tangent" roughly means "touch." When I realized it's the slope of the line made by the tangent of the angle between that line and the x-axis, calc opened up.
+
+And what are slopes? Just rates of change. Recall your algebra days where you learned "rise over run" or, more mathematically, "(y2-y1)/(x2-x1)." It's how the output changes with respect to the input.&nbsp; The steeper the slope, the greater the rate of change.
+
+It's key to remember that derivatives measure change with respect to a variable.&nbsp;
 
 **Integrals**
 
