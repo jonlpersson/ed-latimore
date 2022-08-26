@@ -66,13 +66,13 @@ Integrals help us calculate:
 * Volume
 * Distance
 
-Fundamentally understand why we need calculus
+## Fundamentally understand why we need calculus
 
 One of the things that finally made calculus click for me was when I finally understood the "why" of the subject. This is a lot different than the "how" or the "what." I'll explain.<br><br>Most students go through calculus and all they learn how to do is take the derivative or integral or figure if a series converges or diverges, but they have no idea why we do it. They have a vague notion of why its important, but most of that boils down to "this is a required class" and "smart people do this, so I must do it to."
 
 Even if they're motivated by the outcome ([like getting a high paying job](/why-is-math-important/)), they won't enjoy the process because they have no idea why they're doing or even most times, what they're doing. They're just repeating methods and not thinking.
 
-Well, after taking calculus 4 times, here's what I figured out on the 4th try that got me no lower than a B afterwards: calculus is the math we use to measure things that are changing.&nbsp;
+Well, after taking calculus 4 times, here's what I figured out on the 4th try that got me no lower than a B afterwards: calculus is the math we use to measure things that are changing. Whether that change is growth, decay, expansion, or contraction. Calculus is the math we use to plot, predict, calculate, and solve those changes.
 
 ## Write the steps
 
