@@ -123,7 +123,7 @@ Neck curls are like sit ups except you lift your head instead of engaging your c
 
 For what it does, I’d definitely recommend mastic gum. But if you’re looking for a sugary treat to chop on when you’re bored, this ain't it. A single tin can last you months when used regularly and is fresh for years. Mastic gum is my go-to now for face-building. And Greco Gum is my go-to brand.
 
-If you’d like to give it a try, use my link for Greco Gum [here](https://www.grecogum.com/?via=ed). (I get a small % cut of each sale made through the link, which helps pay my bills)
+If you’d like to give it a try, use my link for Greco Gum [here](https://www.grecogum.com/?via=ed). (I get a small % cut of each sale made through the link, which helps pay my bills)&nbsp;
 
 ---
 
