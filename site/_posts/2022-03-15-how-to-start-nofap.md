@@ -48,7 +48,9 @@ Here’s what we’re covering:
 7. How cold showers strengthen the mind
 8. The value of a meditation practice during your challenge
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
+​​​​​​
 
 ## Know your reason for starting
 
