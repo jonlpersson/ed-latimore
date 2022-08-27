@@ -31,6 +31,8 @@ This article tells you everything you ever wanted to know about getting into box
 
 Because of the movies, too many people have a romantic view of boxing. Before you start training, you should understand what you're getting into. While this is meant for beginners, I urge veterans to weigh in and message me if you see anything I left out that you think someone interested in the serious pursuit of boxing should know.
 
+{% include widgets/summary.html id="Expert-Boxing %}
+
 ## Things you need before your first day at the boxing gym
 
 ### Minimal fitness level to start boxing training
