@@ -79,7 +79,7 @@ You don’t need professional help. You don’t need an intervention. You just n
 
 Here is the plan I used to quit porn
 
-***\[Also, I have a excellent course to help you make even more progress in quitting porn you can*[*download it here*](https://gumroad.com/a/468639571){: target="_blank"}\]**
+***\[Also, I have a excellent course to help you make even more progress in quitting porn you can&nbsp;*[*download it here*](https://gumroad.com/a/468639571){: target="_blank"}\]**
 
 ## 1\. Delete your browser history
 
@@ -113,6 +113,8 @@ Once you've made it impossible to satisfy your pornography habit on your electro
 When it's impossible to browse internet porn on your own and you're constantly in front of other people, then you'll break your internet porn habit by sheer force. It will be impossible for you to watch in private and you'll never get a chance to anyway.
 
 Eventually, the urge will leave you.
+
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ## 3\. Don’t touch your dick
 
