@@ -43,6 +43,8 @@ Just like alcohol, people are noticing the negative effects in their lives of po
 
 In this article, I detail some of the harmful effects of pornography and what you can do to counteract them.
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 ## Porn makes it harder to reach orgasm
 
 Most information on sexual dysfunction and porn studies the effects on male libido and sexual performance. Due to many reasons like women not watching porn as often as men, the effects of porn on women aren’t extensively documented.
