@@ -35,6 +35,8 @@ Like any drug addiction, you get dopamine hits that flood the reward centers of 
 
 If you’ve recently quit porn or have reduced your use, you may experience any of the following symptoms below:
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 ### Heightened anxiety
 
 Porn sends you for a loop where you become more reclusive and less comfortable in your skin – coping with life instead of thriving. That’s when porn becomes a crutch to deal with these negative feelings.
