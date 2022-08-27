@@ -24,7 +24,7 @@ Because most people were afraid of being labeled a pervert, this risk of public 
 
 In the old days, the amount of time it took to find porn was tremendous. Not only that, but it was also a challenge to keep it a secret.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 Then came high-speed, wireless internet, and smartphones. Advances in our information sending capabilities made everyone a big winner.
 
@@ -116,6 +116,8 @@ Even on the low end, that’s a lot of money spent to enjoy something that has m
 If you start to pay for pornography in any way, you are undoubtedly addicted and need to take action now.
 
 ***(Read: "[How To Quit Porn](/how-to-quit-porn/)")***
+
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ## You show symptoms of mental health disorders
 
