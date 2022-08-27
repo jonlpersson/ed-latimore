@@ -54,6 +54,8 @@ Things you may experience when watching too much porn:
 
 While you used to be able to achieve an erection when your girl smiled at you, now, like a drug addict needing better dope, you need more extreme things to get the job done. The paradox of having way too many options at your disposal makes you chase a high that you’ll always be chasing.
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 ## 4\. Today’s porn is extreme and unrealistic
 
 Even “realistic porn” isn’t real. It's common practice to dub in extra moans, fake orgasms, and at times, even use fake ejaculate.<sup id="fnref:6" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:6">5</a></sup>
