@@ -20,6 +20,8 @@ If you haven’t noticed, internet porn is a business. And addiction tactics are
 
 In this post, you’ll discover what happens when you quit porn.
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 ## You go through a period of withdrawal
 
 Addiction doesn’t have to look like the guy prostituting himself to buy drugs…
