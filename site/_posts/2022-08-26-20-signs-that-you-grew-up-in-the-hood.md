@@ -8,7 +8,7 @@ tags:
 description: >-
   Here are 20 signs that you grew up in the hood. But if you grew up in the
   hood, you don't really need these to know.
-image:
+image: /assets/images/posts/boysnthehood-1.jpg
 ---
 Here are 20 classic signs that you grew up in the hood.
 
