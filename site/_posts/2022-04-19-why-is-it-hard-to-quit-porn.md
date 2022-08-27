@@ -46,6 +46,8 @@ This all creates the perfect storm for addiction over a long period of time. And
 
 Read here to learn [science-backed reasons porn is harmful](https://edlatimore.com/reasons-porn-is-harmful/).
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 ## It’s free and widely available
 
 If I asked you where you get your porn, you could probably rattle off two or three go-to porn sites without much thought. If I asked you how much you paid for these sites, you’d probably laugh in my face.
