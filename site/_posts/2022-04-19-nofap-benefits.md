@@ -32,6 +32,8 @@ The habit of masturbating to porn quite literally changes your brain for the wor
 * Masturbating to porn increases the stimuli needed to get the same baseline of pleasure.
 * Pulling up sexual images on-demand creates compulsive sexual behavior, similar to that of drug addicts.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
+{% include widgets/summary.html id="Covenant-Eyes" %}
+
 Check out my article on [how to deal with the withdrawal symptoms of porn](https://edlatimore.com/dealing-with-porn-addiction-withdrawal/) to see how debilitating it can be.
 
 I have the most concern for young men who never knew a world without high-speed internet.
