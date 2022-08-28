@@ -62,7 +62,7 @@ Don’t get me wrong: I don’t mind the hard life of a fighter. I did it for ov
 
 {% twitter https://twitter.com/EdLatimore/status/1123356483197067264 %}
 
-I didn’t get injured nearly as much as some guys I know, nor were any injuries particularly severe. Remember: [boxing has actually claimed lives](https://www.casino.org/blog/10-fighters-who-died-in-the-ring/), even in the modern era of tighter safety protocols are more cautious refereeing. [This never scared me,](/how-to-overcome-fear/) as I figured that I was going to die anyway—the difference is that when I go, I’ll have cool stories and memories.
+I didn’t get injured nearly as much as some guys I know, nor were any injuries particularly severe. Remember: [boxing has actually claimed lives](https://www.casino.org/blog/10-fighters-who-died-in-the-ring/), even in the modern era of tighter safety protocols and more cautious refereeing. [This never scared me,](/how-to-overcome-fear/) as I figured that I was going to die anyway—the difference is that when I go, I’ll have cool stories and memories.
 
 {% twitter https://twitter.com/EdLatimore/status/1365018493767344129 %}
 
