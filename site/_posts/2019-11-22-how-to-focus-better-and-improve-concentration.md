@@ -38,7 +38,7 @@ Whether it be watching TV, making pointless phone calls, or drinking to excess, 
 
 This ruins your ability to concentrate.
 
-This is why there have always been methods, systems, and secrets devoted to teaching people how to better focus, concentrate, and resist the distractions of the world.
+This is why there have always been [methods, systems, and secrets](https://systemsunday.com/systems-habits/){: target="_blank" rel="noopener"}devoted to teaching people how to better focus, concentrate, and resist the distractions of the world.
 
 ## Understand Why You Can't Concentrate
 
@@ -59,8 +59,6 @@ This is why you lack focus. You want it to be fun. You want it to be easy. You w
 If it were any of that stuff, then it wouldn’t be so challenging and valuable.
 
 If you’re willing to push yourself and suffer a little, this article will teach you how to improve your focus so that you can accomplish anything you put your mind to.
-
-{% include widgets/toc.html heading="How to focus better: 7 steps to improve your concentration" list-items="Eliminate distractions and wastes of time, Know the most important task to focus on, Meditation improves your concentration, Franz Bardon And Initiation To The Hermetics, Learn how to visualize, Use Nootropics a.k.a. 'Smart drugs', Deep breathes energize your brain" list-ids="1-eliminat-distractions-and-wastes-of-time, 2-know-the-most-important-task-to-focus-on, 3-meditation-improves-your-concentration, 4-franz-bardon-and-initiation-to-the-hermetics, 5-learn-how-to-visualize, 6-use-nootropics-aka-smart-drug, 7-deep-breathes-energize-your-brain" %}
 
 ## 1\. Eliminate distractions and wastes of time
 
