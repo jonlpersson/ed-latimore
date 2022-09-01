@@ -29,7 +29,7 @@ People rarely talk about personal leadership but without it, you'll never be abl
 
 {% include widgets/cta-email.html %}
 
-## Developing a leadership philosophy
+## How to develop an effective leadership philosophy
 
 I always tell people that they should read books on leadership even if they don't hold a leadership role or have ambitions of holding leadership positions in the future.
 
