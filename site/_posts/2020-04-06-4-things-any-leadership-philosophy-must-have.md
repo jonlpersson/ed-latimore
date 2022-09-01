@@ -23,27 +23,29 @@ Remember: both Gandhi and Hitler were effective leaders. The only difference was
 
 ![Napoleon was a great leader](/assets/images/posts/napolean.jpg "Napoleon Bonaparte was one of the greatest leaders the world has ever known, and we're still divided on whether he was good or bad. We all agree that he was a great leader though.")
 
-Great leaders have used their power for good and evil. But before they conquered the world, they had to conquer themselves and develop their own personal leadership philosophy.
+Great leaders have used their power for good and evil. But before they conquered the world, they had to conquer themselves and develop a leadership philosophy to lead those around them.
 
-People rarely talk about personal leadership but without it, you'll never be able to lead other people. More importantly, without it, you'll never be able to lead yourself.
+Without a leadership philosophy, you'll never be able to lead other people. Without a leadership philosophy, you’ll never be able to lead yourself either.
 
 {% include widgets/cta-email.html %}
 
-## How to develop an effective leadership philosophy
+## Why you should develop an effective leadership philosophy
 
 I always tell people that they should read books on leadership even if they don't hold a leadership role or have ambitions of holding leadership positions in the future.
 
-It doesn't matter if you're a student, employee, or gig worker, you need to learn to develop leadership skills.
+It doesn't matter if you're a student, employee, or gig worker. You need to learn to develop leadership skills which means you’ll need to develop a leadership philosophy.
 
 This is because you need to be good at leading yourself through the world.
 
 You may never be the manager of a team or a general in command of a force, you will always be the CEO of your life and the captain of your destiny.
 
-You're responsible for your actions. You're either punished or rewarded by the quality of your decision-making. You must avoid disaster while simultaneously maximizing the returns on your time and energy.&nbsp;
+You're responsible for your actions.
 
-All of this requires a leadership approach to the decision-making processes of your life.
+You're either punished or rewarded by the quality of your decision-making. You must avoid disaster while maximizing your time and energy returns.&nbsp;
 
-If you want to succeed, applying leadership principles to your life gives you the self-control to commit to actions that will pay off years from now.
+All of this requires a leadership approach to the decision-making processes of your life. This is the tactical application of the strategic principles developed in your leadership philosophy.
+
+If you want to succeed, applying those leadership principles to your life gives you the self-control to commit to actions that will pay off years later.
 
 ## What is a leadership philosophy?
 
