@@ -22,6 +22,8 @@ There are no “quick hacks” or “simple tricks” to magically get more foll
 
 Before I tell you how to get more followers, let me tell you why you should listen to my advice. After all, there are several articles that come up by big companies or brands. What do I know?
 
+{% include widgets/summary.html id="Twitter-Threads" %}
+
 ## Why listen to me about growing a Twitter following?
 
 Why should you listen to what I have to say about getting followers on Twitter?
@@ -120,6 +122,8 @@ You can only solve a problem if you’ve solved it yourself. You can only teach 
 If you’re living true to yourself, your Twitter will resonate with authority. This authority in being yourself will not only skyrocket your growth but also make it WAY more difficult for someone to copy you.
 
 #### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
+
+{% include widgets/summary.html id="Twitter-Threads" %}
 
 ## 4) Be polarizing
 
@@ -230,3 +234,5 @@ These tips are guaranteed to get you more Twitter followers
 If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.&nbsp;
 
 #### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
+
+{% include widgets/summary.html id="Twitter-Threads" %}
