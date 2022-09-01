@@ -14,7 +14,7 @@ People don’t randomly choose who to follow.
 
 Successful leaders have certain traits which enable them to polarize group energy and direct it on an objective. The ability to do this isn’t a matter of right or wrong. It's amoral power.
 
-Remember: both Gandhi and Hitler were effective leaders. The only difference was the core values they operated from and their own leadership style.
+Remember: both Gandhi and Hitler were effective leaders. The only difference was the core values they operated from and their own leadership style born out of a personal leadership philosophy.
 
 > "Who then is a leader? There have been countless people through history that led people but were inhumane and destructive. Does that still make them leaders? In my mind, a leader is someone who does more than just lead people. They have to be driven by the right motivation and make a positive impact on the people around them."
 >
