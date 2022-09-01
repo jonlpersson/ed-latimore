@@ -1,7 +1,7 @@
 ---
 date: 2020-04-06 20:27:00 -0400
 article_type: Article
-title: 4 things any leadership philosophy must have
+title: '4 crucial components of a leadership philosophy '
 permalink: /leadership-philosophy/
 tags:
   - change-your-perspective
