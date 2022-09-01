@@ -53,7 +53,7 @@ In this post, I will explore my own leadership philosophy, how I developed it, a
 
 Each tenant contains some personal leadership philosophy examples from my own life.
 
-{% include widgets/toc.html heading="4 things any leadership philosophy must have" list-items="Direction, Responsibility, Honesty, Decisiveness" list-ids="direction, responsibility, honesty, decisiveness" %}
+## The 4 things you need for developing a leadership philosophy
 
 ![Speaking on leadership](/assets/images/posts/ed-speaking-4.jpg "Speaking on leadership")
 
