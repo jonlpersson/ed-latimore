@@ -102,7 +102,9 @@ I was able to exercise my willpower and it dramatically improved my well-being.
 
 Emotional strength–more than physical or mental strength–saved my life. I suspect that it would save the lives of many other people as well.
 
-***Our collective self-esteem is non-existent. ***Antidepressants are some of the most popular drugs in the United States. According to a new report from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm){: target="_blank"}, close to 13% of people 12 and older said they took an antidepressant in the last month.&nbsp;
+***Our collective self-esteem is non-existent. Everyone needs validation because they lack inner strength.***
+
+Antidepressants are some of the most popular drugs in the United States. According to a new report from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm){: target="_blank"}, close to 13% of people 12 and older said they took an antidepressant in the last month.&nbsp;
 
 The mainstream media survives because they know you can’t help but feel outraged. Not only has it survived, but any network that focuses on divisive politics has flourished.
 
