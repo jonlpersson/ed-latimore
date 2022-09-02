@@ -92,9 +92,9 @@ Emotions become a problem when we pursue feelings rather than allowing them to h
 
 Today’s culture is infected with the “outrage” virus. Life is better today than it was even 50 years ago by every objective marker.
 
-We have greater convenience, better health care, and violent crime and the death rate is at a worldwide historic low. We have it easier, healthier, and safer than all generations before us. Poor people today live better than royalty did 300 years ago.
+We have greater convenience, better health care, and violent crime, and the death rate is at a worldwide historic low. We have it easier, healthier, and safer than all generations before us. Poor people today live better than royalty did 300 years ago.
 
-Yet we are our most dissatisfied, depressed, and divided.
+Yet we are our most dissatisfied, depressed, and divided. We don’t practice gratitude and as a result, we don’t appreciate how wonderful this life is. This is a problem.
 
 There were many things that contributed to my alcoholism, but the biggest issue was my lack of emotional strength. I was dissatisfied with my life, so I turned to alcohol to give it meaning. At first, I wasn’t strong enough to take that feeling of dissatisfaction and channel it toward something greater, but eventually, I was able to.
 
@@ -102,7 +102,7 @@ I was able to exercise my willpower and it dramatically improved my well-being.
 
 Emotional strength–more than physical or mental strength–saved my life. I suspect that it would save the lives of many other people as well.
 
-Antidepressants are some of the most popular drugs in the United States. According to a new report from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm){: target="_blank"}, close to 13% of people 12 and older said they took an antidepressant in the last month.&nbsp;
+***Our collective self-esteem is non-existent. ***Antidepressants are some of the most popular drugs in the United States. According to a new report from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm){: target="_blank"}, close to 13% of people 12 and older said they took an antidepressant in the last month.&nbsp;
 
 The mainstream media survives because they know you can’t help but feel outraged. Not only has it survived, but any network that focuses on divisive politics has flourished.
 
@@ -114,15 +114,15 @@ Pharmaceutical companies bank on you not having the emotional strength to contro
 
 ***Emotional strength is developed by practicing restraint.***
 
-The idea is not to control how you feel. That’s impossible. The idea is to control the outward manifestation of it so that you improve the quality of your decisions.
+The idea is not to control how you feel. That’s impossible. The idea is to control the outward manifestation of your feelings so that you improve the quality of your decisions. Or, at the very least, you don’t make mistakes that could have been avoided.
 
-When you make decisions based on how you feel at the moment, you’re indulging in “instant gratification”. Instant gratification is nothing more than catharsis.
+When you make decisions based on how you feel at the moment, you’re indulging in “instant gratification.” Instant gratification is nothing more than short-term thinking and cathartic action.
 
-The cravings to eat junk food are driven by the same desire to angrily lash out if someone cuts you off on the road. You feel a swell of emotion and releasing it is a way to satisfaction.
+The cravings to eat junk food are driven by the same desire to lash out angrily if someone cuts you off on the road. You feel a swell of emotion, believing that releasing it will make you feel better. You’re not incorrect. You’re only thinking about the next moment and not what could happen due to your actions.
 
 The more you practice restraining the expression of your negative emotions, the more you’ll be able to enjoy your positive emotions. Emotional restraint is how emotional strength is built, and emotional strength is necessary to be free.
 
-***Your first response is rarely the correct one. You can’t help how you initially feel, but you can help how you respond to it. Consistent practice in restraint will strengthen your emotional resolve.***
+***Your first response is rarely the correct one. You can’t help how you initially feel, but you can help how you respond to it. Take a deep breath. Focus on both the future and the present moment. Consistent practice in restraint will strengthen your emotional resolve.***
 
 ## How to be mentally strong
 
@@ -148,9 +148,9 @@ I enjoy writing because in order for me to do it effectively, I have to concentr
 
 This was not easy at first, but the more I did it, the better I got at working without interrupting myself. The better I got at working without interrupting myself, the higher the quality of my work became.&nbsp;
 
-This ability is the hallmark of a mentally strong individual.
+This ability is the hallmark of mentally strong people.
 
-***The longer you’re able to put your mind on something without distraction, the more likely it is you’ll succeed. As with all things, practice makes perfect.***
+***The longer you can put your mind on something without distraction, the more likely you’ll succeed. As with all things, practice makes perfect.***
 
 ## A Summary of Building Total Strength
 
