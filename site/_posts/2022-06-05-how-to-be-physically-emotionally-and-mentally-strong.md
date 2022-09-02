@@ -1,8 +1,8 @@
 ---
 date: 2022-06-05 18:41:04 -0400
 article_type: Article
-title: How to be physically, emotionally, and mentally strong
-permalink: /how-to-be-physically-emotionally-mentally-strong/
+title: How to be strong all areas of life
+permalink: /how--to-be-strong/
 tags:
   - how-to-become-superhuman
 description: >-
