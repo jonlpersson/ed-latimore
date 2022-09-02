@@ -44,27 +44,29 @@ They let themselves go because taking care of themselves requires strength and t
 
 This is not easy. I know because I’ve spent years training:
 
-* My body to box professionally ***\[Learn what it’s like to prepare for a professional fight—&gt;[What it’s like getting ready for a pro fight](/boxing-training/)\]***
-* My mind to learn chess ***\[Learn how to concentrate and focus—&gt;[How to focus and concentrate better](/how-to-focus-better/)\]***
-* My emotions to stay committed to sobriety ***\[Learn what I’ve learned about being sobriety—&gt;[What I’ve learned from 8 years of sobriety](/sobriety-benefits/)\]***
+* My body to box professionally ***\[Learn what it’s like to prepare for a professional fight—&gt;***[***What it’s like getting ready for a pro fight***](/boxing-training/)***\]***
+* My mind to learn chess ***\[Learn how to concentrate and focus—&gt;***[***How to focus and concentrate better***](/how-to-focus-better/)***\]***
+* My emotions to stay committed to sobriety ***\[Learn what I’ve learned about being sobriety—&gt;***[***What I’ve learned from 8 years of sobriety***](/sobriety-benefits/)***\]***
 
 Even if I didn’t tell you this, you know that it’s not easy because if it were, then everyone would be strong. It’s easy to see that most people are not strong in any area of their life. In fact, if you pay attention, you’ll see that they are so weak that they effectively do not exist.
 
 Their thoughts and habits are a product of their environment, rather than their environment being a product of their mindset and actions.
 
-* Most people don’t go to the gym, therefore the weak person follows the crowd and doesn’t physically train themselves.
-* Most people don’t flex their mental muscles and think deeply about an issue, therefore the weak person follows the crowd mindlessly and reacts to everything.
+* Most people don’t go to the gym. Therefore the weak person follows the crowd and doesn’t physically train themselves.
+* Most people don’t flex their mental muscles and think deeply about an issue. Therefore the weak person follows the crowd mindlessly and reacts to everything.
 * Most people do not stand for anything, so the weak person always finds company when he falls for anything.
 
-If you want to be a sovereign, free-thinking, healthy person, you have no choice but to develop strength. If you’re content with fitting in, being told how to think, and you have no regard for your body, then this article isn’t for you.
+If you want to be a sovereign, free-thinking, healthy person, you have no choice but to develop strength. If you’re content with fitting in, being told how to think, and having no regard for your body, this article isn’t for you.
 
-If you want to survive tough times and difficult situations, you need to be strong. The remainder of this article is dedicated to helping you become stronger in all areas of your life.
+To survive tough times and difficult situations, you need to be strong. The remainder of this article is dedicated to helping you become stronger in all areas of your life so that you can face life’s challenges.
 
 What good is being able to bench your body weight if you can’t think for yourself?
 
 What good are powerful deductive reasoning skills if you’re an addict whose life is out of control?
 
-I never wanted to only be an intelligent guy who couldn’t work hard or a fit guy who couldn’t think.&nbsp; You’re only as strong as your weakest link. This post will teach you how to strengthen the entire chain.
+Hard times are part of everyone’s daily life, but the strong meet them head on.
+
+I never wanted only to be an intelligent guy who couldn’t work hard or a fit guy who couldn’t think.&nbsp; You’re only as strong as your weakest link. This post will teach you how to strengthen the entire chain.
 
 ## How to build physical strength
 
@@ -79,6 +81,8 @@ In boxing, I was taught how to strike harder and faster by punching at a slight 
 We develop physical strength so that our bodies can resist our environment for as many years as possible. The goal isn’t to live forever. It’s to live with the highest quality of life possible until you take your last breath.
 
 I’ve seen vibrant and active 70-year-olds. I’ve seen 50-year-olds on a cocktail of medication who couldn’t walk a flight of stairs without getting winded. When you have a strong body, you’re better able to enjoy this world and make an impact on it.
+
+An often overlooked component of developing your physical strength is making sure you get adequate rest. It’s important to get enough sleep, not just as you build your body, but it’s important for building your mental and emotional capacity.
 
 ***Get in motion. The forces of gravity and friction only work to your benefit when you work against them.&nbsp;***
 
