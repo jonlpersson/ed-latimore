@@ -56,29 +56,37 @@ But if this is true, then why think deeply of the world? Your actions (or lack t
 
 ## 5\. Be detached from desire your whole life long
 
-Desire is a funny thing. Without it, the actions in your life would be reduced to only things you need to survive or that you’re forced to do by others. However, if you let desire rule your life, then the opposite problem happens. You avoid doing the things that are necessary and only do what you want to.The ideal position is to be detached from desire. Detachment doesn’t mean that you don’t feel it or even enjoy it. It means that you don’t let your feelings towards something keep from pursuing or retracting from it. You do nothing to prolong the experience nor do you try to cut it short.
+Desire is a funny thing. Without it, the actions in your life would be reduced to only things you need to survive or that you’re forced to do by others. However, if you let desire rule your life, then the opposite problem happens.
 
-6\. Do not regret what you have done.It’s natural to have regrets, but this does not mean that you should live in a state of regret. Many people say that you shouldn’t regret anything, but I think what they mean is that they don’t regret how things have turned out even if they had to go through some difficulty and hardship to get there.So we do not regret the outcomes. We do not regret what we have done. This is only possible if you live intentionally and accept that mistakes happen. Through those mistakes is how learning occurs. Learning is how improvement happens. And how could we ever regret improving our lives.
+You avoid doing the necessary things and only do what you want to. The ideal position is to be detached from desire.
 
-7\. Never be jealous.
+Detachment doesn’t mean you don’t feel or even enjoy it. It means that you don’t let your feelings towards something keep from pursuing or retracting from it. You do nothing to prolong the experience nor do you try to cut it short.
+
+## 6\. Do not regret what you have done
+
+It’s natural to have regrets, but this does not mean that you should live in a state of regret.
+
+Many people say that you shouldn’t regret anything, but I think what they mean is that they don’t regret how things have turned out even if they had to go through some difficulty and hardship to get there. So we do not regret the outcomes.
+
+We do not regret what we have done. This is only possible if you live intentionally and accept that mistakes happen. Learning occurs through those mistakes. Learning is how improvement happens. And how could we ever regret improving our lives.
+
+## 7\. Never be jealous
 
 Jealousy is a natural emotional. You can’t control if you get jealous, but you can control how you see the world and what you do if jealousy if it afflicts you. How you see the world will determine if you view another person’s success or accomplishments through the eyes of envy or motivation.
 
 If you’re willing to do the work to get what another person has, there’s no reason to be jealous. The best way to view jealousy is as a reminder that it’s time to get to work becoming more capable of accomplishing and acquiring.
 
-Your longing for what others have can either spurn jealousy or drive motivation.
+Your longing for what others have can either spurn jealousy or drive motivation. One pushes you to be great while the other ignites hate.
 
-One pushes you to be great while the other ignites hate.
-
-8\. Never let yourself be saddened by a separation.
+## 8\. Never let yourself be saddened by a separation
 
 All things must end. Eventually even you will be separated from the life you have. Nothing is permanent. This includes any relationships you have in your life.
 
-Follow Musashi’s precept on never having an attachment would automatically prevent you experiencing sadness about separation, but I always like to modify some of the more stoic points with the idea that you can be aware of emotions but you never want to be ruled by them.
+Following Musashi’s precept on never having an attachment would automatically prevent you experiencing sadness about separation, but I like to modify some of the more stoic points. The idea that you can be aware of emotions but you never want to be ruled by them.
 
-Keeping this in mind, you’ll experience sadness when you lose something that you’ve inevitably become attached to. This isn’t a negative, as I genuinely believe attachment give life meaning, but if you’re a Ronin like Musashi, then attachments could cost you your life.
+Keeping this in mind, you’ll experience sadness when you lose something that you’ve inevitably become attached to. This isn’t a negative, as I genuinely believe attachment gives life meaning, but if you’re a Ronin like Musashi, then attachments could cost you your life.
 
-9\. Resentment and complaint are appropriate neither for oneself nor others.
+## 9\. Resentment and complaint are appropriate neither for oneself nor other
 
 Complaints are resentment are just like jealousy. They’re negative emotions that should be used as a signalling tool to make yourself into something better. Resentment signals that you believe a person or situation owes you something. Once you realize that no one owes you anything, then it’s the beginning of the end of your resentment.
 
