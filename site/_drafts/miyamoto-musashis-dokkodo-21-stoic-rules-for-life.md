@@ -22,13 +22,19 @@ Musashi’s Dokkodo has a stoic overtone. Like a lot of stoic life advice, The D
 
 In this post, I'll be finding modering meaning and interpretation of The Dokkodo. Not all ideas will require a modern twist while a few will require an undated consideration. Overall, following these principles would still lead you to a stable, content, successful life.
 
-## Miyamoto Musashi’s 21 principles of Dokkodo:
+## Miyamoto Musashi’s 21 principles of Dokkodo
 
-1\. Accept everything just the way it is.People push back against this principle because one reasonable interpretation is that you should not bother to change things. Although reasonable, this is simplistic to the point of inaccuracy and grossly precise.
+## 1\. Accept everything just the way it is
 
-Accepting things as they are means you do not wish for them to be anything other than what they are. When you refuse to accept the world as you see it, then you will refuse to take the necessary action to prepare yourself for the truth of what’s in front of you.
+People push back against this principle because one reasonable interpretation is that you should not bother to change things. Although reasonable, this is simplistic to the point of inaccuracy and grossly imprecise.
 
-2\. Do not seek pleasure for its own sake.Good feelings should come as the side benefit of meaningful action. When you make pleasure the central pursuit, you exchange your time and energy for a feeling that’s only supposed to be a fleeting reward for overcoming challenges.Pursuing pleasure for its own sake is one of the ways people get wrapped up in addiction. Rather than do the hard work of earning dopamine release, taking the easy way to dopamine by drugs, alcohol, or meaningless sex do nothing to develop you.When you take the hard way to happiness by doing something worthwhile, you become better for it. When you take the easy route to happiness for happiness’ sake, you degrade your character and exaggerate your weaknesses.
+Accepting things as they are means you do not wish for them to be anything other than what they are. When you refuse to accept the world as you see it, then you won't take the necessary action to prepare yourself for the truth of what’s in front of you.
+
+## 2\. Do not seek pleasure for its own sake
+
+Good feelings should come as the side benefit of meaningful action. When you make pleasure the central pursuit, you exchange your time and energy for a feeling that’s only supposed to be a fleeting reward for overcoming challenges.
+
+Pursuing pleasure for its own sake is one of the ways people get wrapped up in addiction. When you take the easy way to dopamine release, rather than do the hard work of earning it, taking the easy way to dopamine by drugs, alcohol, or meaningless sex do nothing to develop you.When you take the hard way to happiness by doing something worthwhile, you become better for it. When you take the easy route to happiness for happiness’ sake, you degrade your character and exaggerate your weaknesses.
 
 3\. Do not, under any circumstances, depend on a partial feeling.If you use your feelings as the basis for making decisions, you have to be completely sure. A half-assed commitment is worse than no commitment at all.
 
