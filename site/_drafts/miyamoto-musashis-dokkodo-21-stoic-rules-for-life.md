@@ -48,9 +48,15 @@ This is why acting on partial feelings is worse than not acting at all. A partia
 
 ## 4\. Think lightly of yourself and deeply of the world
 
-If you take yourself too seriously, you miss the biggest joke of all: you’ll die and in under 150 years, there will be no one left who ever remembers interacting with you. If you’re particularly noteworthy, there may be first accounts of your life. But for the most part, your life is a blip in time.But if this is true, then why think deeply of the world? Your actions (or lack there of) will extend far beyond you. Although your life is a localized blip in the river of time, your actions will reverberate down stream and influence events and minds you will never interact with.
+If you take yourself too seriously, you miss the biggest joke of all: you’ll die and in under 150 years, there will be no one left who ever remembers interacting with you.
 
-5\. Be detached from desire your whole life long.Desire is a funny thing. Without it, the actions in your life would be reduced to only things you need to survive or that you’re forced to do by others. However, if you let desire rule your life, then the opposite problem happens. You avoid doing the things that are necessary and only do what you want to.The ideal position is to be detached from desire. Detachment doesn’t mean that you don’t feel it or even enjoy it. It means that you don’t let your feelings towards something keep from pursuing or retracting from it. You do nothing to prolong the experience nor do you try to cut it short.
+If you’re particularly noteworthy, there may be first accounts of your life. But for the most part, your life is a blip in time.
+
+But if this is true, then why think deeply of the world? Your actions (or lack there of) will extend far beyond you. Although your life is a localized blip in the river of time, your actions will reverberate down stream and influence events and minds you will never interact with.
+
+## 5\. Be detached from desire your whole life long
+
+Desire is a funny thing. Without it, the actions in your life would be reduced to only things you need to survive or that you’re forced to do by others. However, if you let desire rule your life, then the opposite problem happens. You avoid doing the things that are necessary and only do what you want to.The ideal position is to be detached from desire. Detachment doesn’t mean that you don’t feel it or even enjoy it. It means that you don’t let your feelings towards something keep from pursuing or retracting from it. You do nothing to prolong the experience nor do you try to cut it short.
 
 6\. Do not regret what you have done.It’s natural to have regrets, but this does not mean that you should live in a state of regret. Many people say that you shouldn’t regret anything, but I think what they mean is that they don’t regret how things have turned out even if they had to go through some difficulty and hardship to get there.So we do not regret the outcomes. We do not regret what we have done. This is only possible if you live intentionally and accept that mistakes happen. Through those mistakes is how learning occurs. Learning is how improvement happens. And how could we ever regret improving our lives.
 
