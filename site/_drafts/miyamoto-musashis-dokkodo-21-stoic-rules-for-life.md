@@ -8,7 +8,7 @@ tags:
 description: >-
   In this post, I'll find modern meaning and interpretation of Miyamoto
   Musashi's short classic "Dokkodo".
-image:
+image: /assets/images/drafts/miyamoto-musashi.webp
 ---
 The Dokkodo ("The Path of Aloneness," The Way to Go Forth Alone," or "The Way of Walking Alone") is a short work written by Miyamoto Musashi shortly before his death. With victory in over 60 duels, Musashi was considered the greatest swordsman of his time. He is not just known for his superior swordsmanship but also for his more popular work, The Book of Five Rings (Go Rin No Sho).
 
