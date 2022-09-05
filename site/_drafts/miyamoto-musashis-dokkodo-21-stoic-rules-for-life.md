@@ -104,25 +104,29 @@ The problem with being led by lust is that the payoff is minuscule.
 
 It’s a feeling that is relieved in one release. If you are lead by something that can be erased in only a second that you will do almost anything to fulfill, then you will likely take unnecessary risks that have a short payoff if successful and can ruin you if they aren’t. In fact, it still has the potential to ruin you even if you succeed.&nbsp;
 
-Where I almost outright disagree with Musashi is the idea of not being guided by love. While I don’t think that you should blindly follow love, I do think there is a tremendous value in the power of love and the courage of protective instinct in foster. Now, I am also not fighting for my life in a hostile land, so I can afford the luxury of attachments and the duty of protecting them, but I can understand why Musashi come to this conclusion.
+Where I almost outright disagree with Musashi is the idea of not being guided by love. While I don’t think that you should blindly follow love, I do think there is a tremendous value in the power of love and the courage of protective instinct in foster.
 
-11\. In all things have no preferences.
+Now, I am also not fighting for my life in a hostile land, so I can afford the luxury of attachments and the duty of protecting them, but I can understand why Musashi come to this conclusion.
+
+## 11\. In all things have no preferences
 
 In this precept, I don’t believe that Musashi is telling us to not care which way the wind blows our lives. I’ve often expressed a similar idea, but it’s based in having a clear set of goals and values.
 
-If you’re living true to yourself and what you want out of life, there you will lack the energy or time to have a preference towards or for most things. In fact, developing certain preferences outside of what you deem most important will set you back and distract you.
+If you’re living true to yourself and what you want out of life, you will lack the energy or time to prefer most things. In fact, developing certain preferences outside of what you deem most important will set you back and distract you.
 
-Now, I may be wrong or self-serving in my interpretation of this precept, but to make this useful to modern life, I believe this is the most viable interpretation that still retains the spirit of a stoic approach to life.
+I may be wrong or self-serving in my interpretation of this precept, but to make this useful to modern life, I believe this is the most viable interpretation that still retains the spirit of a stoic approach to life.
 
-Modern adaptation: Have no preferences after you’ve determined what’s most important for your life
+Have no preferences after you’ve determined what’s most important for your life.
 
-12\. Be indifferent to where you live.
+## 12\. Be indifferent to where you live
 
 Many stoic themes throughout Musashi’s Dokkodo are difficult for us to imagine applying in our modern world. I suspect that this is one of them. In fact, I am certainly not indifferent to where I live, but we have to consider the world of Musashi.
 
 He is wandering through 16th-17th century Japan, without many of the modern luxuries we have at our disposal today. Anyone who was capable of creating a higher standard of comfort likely had to devote a tremendous amount of time and energy to them. To Musashi, this not only represented a distraction from the work at hand but it was also a didn’t represent a significant change in quality of life.
 
-Today, the poorest people in most of the English-speaking world (and beyond) live better than the rich of Musashi’s era. However, they have to continue with issues like crime and violence that often accompany certain places. While I think the advice given is spot on about your life after attaining a certain base level of safety and security, our modern world has too many new dangers to be *completely* indifferent to where you live and influences you’ll allow around your family.
+Today, the poorest people in most of the English-speaking world (and beyond) live better than the rich of Musashi’s era. However, they have to continue with issues like crime and violence that often accompany certain places.
+
+While I think the advice given is spot on about your life after attaining a certain base level of safety and security, our modern world has too many new dangers to be *completely* indifferent to where you live and influences you’ll allow around your family.
 
 13\. Do not pursue the taste of good food.
 
