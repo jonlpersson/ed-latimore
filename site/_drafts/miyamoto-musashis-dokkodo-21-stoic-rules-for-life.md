@@ -108,6 +108,8 @@ Where I almost outright disagree with Musashi is the idea of not being guided by
 
 Now, I am also not fighting for my life in a hostile land, so I can afford the luxury of attachments and the duty of protecting them, but I can understand why Musashi come to this conclusion.
 
+***[Check out my my summary of Sun Tzu's "The Art of War"](/art-of-war-quotes-and-summary/)***
+
 ## 11\. In all things have no preferences
 
 In this precept, I don’t believe that Musashi is telling us to not care which way the wind blows our lives. I’ve often expressed a similar idea, but it’s based in having a clear set of goals and values.
@@ -160,31 +162,43 @@ If you think deeply about something and come to your own conclusions about it, w
 
 But society has also gotten many things wrong. It’s up to you to use your faculties and determine the best course of action. Just don’t let it be determined by popular opinion.
 
+***[Check out my summary of "The Hagakure"](/hagakure-quotes/)***
+
 ## 16\. Do not collect weapons or practice with weapons beyond what is useful
 
-This is advice about efficiency and diligent practice, all rolled into one. Musashi is telling you that to carry more that you need is an unnecessary liability. Everything you bring along with you comes has a cost. The benefit you gain from carrying it with you should outweigh the cost associated with it. This remains true as long as you can use what you have.
+This is advice about efficiency and diligent practice, all rolled into one.
 
-So, when you carry excess, there is still a cost generated. However, now you can’t use what you have and you suffer as a result. Granted, the application of this idea is from a time period where there were no motorized vehicles or methods for storing communication, but the idea still remains: carrying more than you can use will set you back.
+Musashi is telling you that to carry more than you need is an unnecessary liability. Everything you bring along with you comes has a cost. The benefit you gain from carrying it with you should outweigh the cost associated with it. This remains true as long as you can use what you have.
 
-He also speaks of there being a limit to how much you should practice. There is no hard time limit, but instead he simply warns you to not practice beyond what is useful. This looks to be another optimization problem. Once you’ve gotten all you can from a particular practice session, it is wise to move on. There is a point of diminishing returns where the time you put it is less to less improvement or worse, can causes you slip backwards in your development.
+So, when you carry excess, there is still a cost generated. However, now you can’t use what you have and you suffer as a result.
 
-17\. Do not fear death.
+Granted, the application of this idea is from a time period where there were no motorized vehicles or methods for storing communication, but the idea still remains: carrying more than you can use will set you back.
+
+He also speaks of there being a limit to how much you should practice.
+
+There is no hard time limit, but instead he simply warns you to not practice beyond what is useful. This looks to be another optimization problem.
+
+Once you’ve gotten all you can from a particular practice session, it is wise to move on. There is a point of diminishing returns where the time you put it is less to less improvement or worse, can causes you slip backwards in your development.
+
+## 17\. Do not fear death
 
 Everything will die. You will die. It makes no sense to fear the inevitable.
 
-I don’t pretend that the idea of dying isn’t scary. However, the way I combat this fear is by thinking often about it and imagining what the day will be like when I meet the end. I find meditating on death to be calming and it puts many things in perspective.
+I don’t pretend that the idea of dying isn’t scary. However, I combat this fear by thinking often about it and imagining what the day will be like when I meet the end. I find meditating on death to be calming and it puts many things in perspective.
 
 One day, this will all end. Make sure you spend the time you have left in a way that will allow you to leave this planet with no regret. Because no matter what you do, you’re going to leave it.
 
-18\. Do not seek to possess either goods or fiefs for your old age.
+## 18\. Do not seek to possess either goods or fiefs for your old age
 
 This is a great position for this precept, following up on the precept about death.
 
-Any positions you have at old age can not only not be enjoyed, but you can’t take them with you. Of course, there is the argument for passing the wealth on, but this may have eluded Musashi, as he had no biological chidlren and not much of anything to pass on.
+Any posessions you have at old age can not only not be enjoyed, but you can’t take them with you. Of course, there is the argument for passing the wealth on, but this may have eluded Musashi, as he had no biological chidlren and not much of anything to pass on.
 
-19\. Respect Buddha and the gods without counting on their help.
+## 19\. Respect Buddha and the gods without counting on their help
 
-One of my favorite sayings is that “God helps those who help themselves.” I like this saying because it sums up my basic sentiment towards God and all higher powers: they have created this world but it’s up to us to make it livable. God has nothing to do with our daily living habits.
+One of my favorite sayings is that “God helps those who help themselves.”
+
+I like this saying because it sums up my basic sentiment towards God and all higher powers: they have created this world but it’s up to us to make it livable. God has nothing to do with our daily living habits.
 
 You can’t curse God when you get nothing nor give him credit when you do, for God is impersonal in his approach to the world. This is why bad things can happen to good people and vice-versa.
 
@@ -192,7 +206,7 @@ Respect him as your creator, but do not look to him as your savior.
 
 {% twitter https://twitter.com/EdLatimore/status/1283776213811703808 %}
 
-20\. You may abandon your own body, but you must preserve your honor.
+## 20\. You may abandon your own body, but you must preserve your honor
 
 Never do something that would embarrass your family and tarnish your legacy if it came out after you die. Your actions extend beyond you.
 
@@ -200,9 +214,9 @@ There is a saying: “The future is secure when men plant trees whose shade they
 
 If you live a life that meets the conditions of the precept—one that preserves your honor—you’ll never have to worry making the world worse or darkness you did while living coming to light after you pass.
 
-21\. Never stray from the way.
+## 21\. Never stray from the way
 
-Musashi often speaks of “the way” in The Book of Five Rings. While he was specifically to the way that he lived and the ideals that he follow, it’s easy to adapt this to a modern society.
+Musashi often speaks of “the way” in The Book of Five Rings. While he was specifically to the way he lived and the ideals that he followed, it’s easy to adapt this to a modern society.
 
 Whatever way you follow, you must live true to it. There must be a set of values and ideals that you must vow to live your life by. There are certain lines that should never be crossed or things that you won’t do, otherwise you may find yourself giving into temptation and indulging in character-breaking weakness.
 
