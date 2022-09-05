@@ -85,6 +85,8 @@ If you are considered “perceptive”, then you’re capable of seeing more tha
 
 Aim to develop your perception so you aren’t fooled by what the world shows you.
 
+***[Check out Musashi's Dokkodo](/dokkodo/)***
+
 ## 5) Change your perspective to solve problems
 
 > **In strategy it is important to see distant things as if they were close and to take a distanced view of close things.**
