@@ -34,13 +34,21 @@ Accepting things as they are means you do not wish for them to be anything other
 
 Good feelings should come as the side benefit of meaningful action. When you make pleasure the central pursuit, you exchange your time and energy for a feeling that’s only supposed to be a fleeting reward for overcoming challenges.
 
-Pursuing pleasure for its own sake is one of the ways people get wrapped up in addiction. When you take the easy way to dopamine release, rather than do the hard work of earning it, taking the easy way to dopamine by drugs, alcohol, or meaningless sex do nothing to develop you.When you take the hard way to happiness by doing something worthwhile, you become better for it. When you take the easy route to happiness for happiness’ sake, you degrade your character and exaggerate your weaknesses.
+Pursuing pleasure for its own sake is one of the ways people get wrapped up in addiction. When you take the easy way to dopamine release, rather than do the hard work of earning it, taking the easy way to dopamine by drugs, alcohol, or meaningless sex do nothing to develop you.
 
-3\. Do not, under any circumstances, depend on a partial feeling.If you use your feelings as the basis for making decisions, you have to be completely sure. A half-assed commitment is worse than no commitment at all.
+When you take the hard way to happiness by doing something worthwhile, you become better for it. When you take the easy route to happiness for happiness’ sake, you degrade your character and exaggerate your weaknesses.
 
-Emotions are fickle. Ideally, you rely on objective facts and evidence and act on them regardless of any feelings you have about anything. If you decide to go based on feelings, then you have to more certain because you’ll likely have less information supporting your decision. You also need to be prepared for the possibility that you are wrong and the potential consequences of being that way.This is why acting on partial feelings is worse than not acting at all. A partial feeling lacks total committment and absolute conviction; the things needs to face any challenge in your life.
+## 3\. Do not, under any circumstances, depend on a partial feeling
 
-4\. Think lightly of yourself and deeply of the world.If you take yourself too seriously, you miss the biggest joke of all: you’ll die and in under 150 years, there will be no one left who ever remembers interacting with you. If you’re particularly noteworthy, there may be first accounts of your life. But for the most part, your life is a blip in time.But if this is true, then why think deeply of the world? Your actions (or lack there of) will extend far beyond you. Although your life is a localized blip in the river of time, your actions will reverberate down stream and influence events and minds you will never interact with.
+If you use your feelings as the basis for making decisions, you have to be completely sure. A half-assed commitment is worse than no commitment at all.
+
+Emotions are fickle. Ideally, you're objective. If you make decisions based on feelings, you have to be more certain, as there is less objective information supporting your decisions. You also need to be prepared for the possibility of being wrong and the consequences of this outcome.
+
+This is why acting on partial feelings is worse than not acting at all. A partial feeling lacks total committment and absolute conviction; the things needed to face any challenge in your life.
+
+## 4\. Think lightly of yourself and deeply of the world
+
+If you take yourself too seriously, you miss the biggest joke of all: you’ll die and in under 150 years, there will be no one left who ever remembers interacting with you. If you’re particularly noteworthy, there may be first accounts of your life. But for the most part, your life is a blip in time.But if this is true, then why think deeply of the world? Your actions (or lack there of) will extend far beyond you. Although your life is a localized blip in the river of time, your actions will reverberate down stream and influence events and minds you will never interact with.
 
 5\. Be detached from desire your whole life long.Desire is a funny thing. Without it, the actions in your life would be reduced to only things you need to survive or that you’re forced to do by others. However, if you let desire rule your life, then the opposite problem happens. You avoid doing the things that are necessary and only do what you want to.The ideal position is to be detached from desire. Detachment doesn’t mean that you don’t feel it or even enjoy it. It means that you don’t let your feelings towards something keep from pursuing or retracting from it. You do nothing to prolong the experience nor do you try to cut it short.
 
