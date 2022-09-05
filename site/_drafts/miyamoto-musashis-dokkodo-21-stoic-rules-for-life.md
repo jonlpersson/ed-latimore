@@ -10,11 +10,17 @@ description: >-
   Musashi's short classic "Dokkodo".
 image: /assets/images/drafts/miyamoto-musashi.webp
 ---
-The Dokkodo ("The Path of Aloneness," The Way to Go Forth Alone," or "The Way of Walking Alone") is a short work written by Miyamoto Musashi shortly before his death. With victory in over 60 duels, Musashi was considered the greatest swordsman of his time. He is not just known for his superior swordsmanship but also for his more popular work, The Book of Five Rings (Go Rin No Sho).
+The Dokkodo ("The Path of Aloneness," The Way to Go Forth Alone," or "The Way of Walking Alone") is a short work written by Miyamoto Musashi shortly before his death.
 
-Although both books of wisdom were cultivated from his experiences, they cover different aspects of his life and persons. The Book of Five Rings focuses on the applications of the martial arts lessons learned as a bushido practicing “Ronin” (wandering samurai) The Dokkodo condenses the main ideas that Musashi not only believed made him successful but also contributed to a meaningful life.
+With victory in over 60 duels, Musashi was considered the greatest swordsman of his time. He is not just known for his superior swordsmanship but also for his more popular work, The Book of Five Rings (Go Rin No Sho).
+
+***[Read my summary of The Book of Five Rings](/the-book-of-five-rings-quotes/)&nbsp;***
+
+Although both books of wisdom were cultivated from his experiences, they cover different aspects of his life. The Book of Five Rings focuses on the applications of the martial arts lessons learned as a bushido practicing “Ronin” (wandering samurai). The Dokkodo condenses the main ideas that Musashi not only believed made him successful but also contributes to a meaningful life.
 
 Musashi’s Dokkodo has a stoic overtone. Like a lot of stoic life advice, The Dokkodo will give you a new perspective on old problems that modern wisdom often has trouble solving.
+
+In this post, I'll be finding modering meaning and interpretation of The Dokkodo. Not all ideas will require a modern twist while a few will require an undated consideration. Overall, following these principles would still lead you to a stable, content, successful life.
 
 ## Miyamoto Musashi’s 21 principles of Dokkodo:
 
