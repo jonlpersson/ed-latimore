@@ -128,37 +128,39 @@ Today, the poorest people in most of the English-speaking world (and beyond) liv
 
 While I think the advice given is spot on about your life after attaining a certain base level of safety and security, our modern world has too many new dangers to be *completely* indifferent to where you live and influences you’ll allow around your family.
 
-13\. Do not pursue the taste of good food.
+## 13\. Do not pursue the taste of good food
 
 Everyone loves good food, so this one that is likely to receive a lot of push back, but we have to consider who this advice is for and where it comes form. This reminds me of my time in the military and my time being poor.
 
-If you experience luxury, you’ll strive for luxury. This is not a bad thing, as it will make you ambitious and motivated to achieve more, but if you austerity is inescapable or your mind is not sufficiently tough, then run the risk of becoming a distracted complainer.
+If you experience luxury, you’ll strive for luxury. This is not a bad thing, as it will make you ambitious and motivated to achieve more, but if your austerity is inescapable or your mind is not sufficiently tough, then run the risk of becoming a distracted complainer.
 
-This also has an interesting nutrition component. The primary focus of your diet should be to attain and maintain health. While most healthy food is delicious (especially once you stop eating a lot of processed poison that is passed off as food), if you eat simply for taste, then there is a good chance that you’ll eat more things that are bad for and in greater quantities.
+This also has an interesting nutrition component.
 
-Modern adaptation: Do not pursue food for the sake of taste alone.
+The primary focus of your diet should be to attain and maintain health. While most healthy food is delicious (especially once you stop eating a lot of processed poison that is passed off as food), if you eat simply for taste, then there is a good chance that you’ll eat more things that are bad for and in greater quantities.
 
-14\. Do not hold on to possessions you no longer need.
+## 14\. Do not hold on to possessions you no longer need
 
-This is a straightforward idea that does not need a lot of elaboration. Once something has served its purpose, discard it. Everything you keep that serves no purpose comes with a cost. That cost may not be apparent, but it exists and you pay it. Whether it be in reduced time, fewer opportunities, or decreased mobility, everything has a cost.
+This is a straightforward idea that does not need a lot of elaboration. Once something has served its purpose, discard it.
 
-It something is no longer benefitting you, then you owe it to the finiteness of your life to discard it. This idea can be applied to your relationships as well, though I wouldn’t use the verb “need.” Your relationships aren’t merely utilitarian. There are many people you don’t need, but should keep around.
+Everything you keep that serves no purpose comes with a cost. That cost may not be apparent, but it exists, and you pay it. Everything has a cost, whether it be in reduced time, fewer opportunities, or decreased mobility.
+
+It something is no longer benefitting you, then you owe it to the finiteness of your life to discard it. This idea can also be applied to your relationships, though I wouldn’t use the verb “need.” Your relationships aren’t merely utilitarian. There are many people you don’t need, but should keep around.
 
 The problem arises when you remain in relationships that not only no longer serve you, but inhibit you from making progress. Think of how many people you know who have maintained relationships only because of how much time they’ve put in or out of convenience.
 
-Modern adaptation: Do not hold on to things or people that no longer serve you.
+Do not hold on to things or people that no longer serve you.
 
-15\. Do not act following customary beliefs.
+## 15\. Do not act following customary beliefs
 
 Musashi is warning you not to follow how the masses think and behave.
 
 I see this as a reminder to think for yourself and not merely be a sheep. Now, I don’t want people think this means to act in a contrary nature to something just because it’s what everyone else is doing. This means that don’t do something *just* because everyone else is doing it.
 
-If you think deeply about something and come to your own conclusions about it—and it happens to align with what is popular—then this is fine. It happens. After all, society has achieved this level of order by getting many things right.
+If you think deeply about something and come to your own conclusions about it, which happens to align with what is popular, then this is fine. It happens. After all, society has achieved this level of order by getting many things right.
 
 But society has also gotten many things wrong. It’s up to you to use your faculties and determine the best course of action. Just don’t let it be determined by popular opinion.
 
-16\. Do not collect weapons or practice with weapons beyond what is useful.
+## 16\. Do not collect weapons or practice with weapons beyond what is useful
 
 This is advice about efficiency and diligent practice, all rolled into one. Musashi is telling you that to carry more that you need is an unnecessary liability. Everything you bring along with you comes has a cost. The benefit you gain from carrying it with you should outweigh the cost associated with it. This remains true as long as you can use what you have.
 
