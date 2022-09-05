@@ -88,17 +88,21 @@ Keeping this in mind, you’ll experience sadness when you lose something that y
 
 ## 9\. Resentment and complaint are appropriate neither for oneself nor other
 
-Complaints are resentment are just like jealousy. They’re negative emotions that should be used as a signalling tool to make yourself into something better. Resentment signals that you believe a person or situation owes you something. Once you realize that no one owes you anything, then it’s the beginning of the end of your resentment.
+Complaints and resentment are just like jealousy.
+
+They’re negative emotions that should be used as a signaling tool to make yourself into something better. Resentment signals that you believe a person or situation owes you something. Once you realize that no one owes you anything, it’s the beginning and end of your resentment.
 
 Complaints are also worthless, but for a different reason. Complaining does nothing to fix the problem. It highlights it and brings it attention to it, but it makes no progress towards a solutions or offers any ideas to remedy the situation.
 
 Complaining is, in many ways, the most wasteful action you can take in the face of challenge.
 
-10\. Do not let yourself be guided by the feeling of lust or love.
+## 10\. Do not let yourself be guided by the feeling of lust or love
 
-Musashi is again reminding us of the danger of attachment. We have to remember that Musashi’s advice is based on the time’s he lived in and the danger he faced. When in taken in th modern context, part of this advice is still useful and true.
+Musashi is again reminding us of the danger of attachment. We have to remember that Musashi’s advice is based on the time’s he lived in and the danger he faced. When in taken in the modern context, part of this advice is still useful and true.
 
-The problem with being led by lust is that the payoff is minuscule. It’s a feeling that is relieved in one release. If you are lead by something that can be erased in only a second that you will do almost anything to fulfill, then you will likely take unnecessary risks that have a short payoff if successful and can ruin you if they aren’t.
+The problem with being led by lust is that the payoff is minuscule.
+
+It’s a feeling that is relieved in one release. If you are lead by something that can be erased in only a second that you will do almost anything to fulfill, then you will likely take unnecessary risks that have a short payoff if successful and can ruin you if they aren’t. In fact, it still has the potential to ruin you even if you succeed.&nbsp;
 
 Where I almost outright disagree with Musashi is the idea of not being guided by love. While I don’t think that you should blindly follow love, I do think there is a tremendous value in the power of love and the courage of protective instinct in foster. Now, I am also not fighting for my life in a hostile land, so I can afford the luxury of attachments and the duty of protecting them, but I can understand why Musashi come to this conclusion.
 
