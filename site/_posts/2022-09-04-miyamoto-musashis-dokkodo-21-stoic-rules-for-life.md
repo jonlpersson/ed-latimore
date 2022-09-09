@@ -20,7 +20,7 @@ Although both books of wisdom were cultivated from his experiences, they cover d
 
 Musashi’s Dokkodo has a stoic overtone. Like a lot of stoic life advice, The Dokkodo will give you a new perspective on old problems that modern wisdom often has trouble solving.
 
-In this post, I'll be finding modering meaning and interpretation of The Dokkodo. Not all ideas will require a modern twist while a few will require an undated consideration. Overall, following these principles would still lead you to a stable, content, successful life.
+In this post, I'll be finding modering meaning and interpretation of The Dokkodo. Not all ideas will require a modern twist while a few will require an updated reconsideration. Overall, following these principles would still lead you to a stable, content, successful life.
 
 ## Miyamoto Musashi’s 21 principles of Dokkodo
 
