@@ -34,7 +34,7 @@ Andrew D. Huberman is an American neuroscientist and associate professor in the 
 
 Huberman has been a guest on the Joe Rogan Podcast, The Tim Ferriss Show, and even has his own podcast, The Huberman Lab Podcast.
 
-While his contributions to neuroscience have been published in top journals including *Nature*, *Science*, and *Cell* and has been featured in *TIME*, *BBC*, *Scientific American*, *Discover*, and other top media outlets, it’s his comments about sleep that have generated quite a buzz and motivated the creation of [Impossible sleep.](http://impossible.co/ed){: target="_blank"}
+While his contributions to neuroscience have been published in top journals including *Nature*, *Science*, and *Cell* and has been featured in *TIME*, *BBC*, *Scientific American*, *Discover*, and other top media outlets, it’s his comments about sleep that have generated quite a buzz and motivated the creation of [Impossible sleep.](https://impossible.co/?ref=aMnY3Rsu){: target="_blank"}
 
 {% twitter https://twitter.com/hubermanlab/status/1428823974184636429 %}
 
@@ -44,7 +44,7 @@ Joel Runyon set out to create a sleep formula based on Huberman’s recommendati
 
 ![Joel Runyon's Impossible Sleep](/assets/images/drafts/impossible-sleep-1.jpg "Joel Runyon's Impossible Sleep"){: width="450" height="600"}
 
-***If you want to just hop in and get started, go for it. Purchase at the following link. Use discount code "Ed20" —&gt;[Get it here](https://impossible.co/products/sleep?utm_source=sponsorship&amp;utm_medium=email&amp;utm_campaign=ed&amp;utm_term=sleep){: target="_blank" rel="noopener"}***
+***If you want to just hop in and get started, go for it. Purchase at the following link.—&gt;[Get it here](https://impossible.co/?ref=aMnY3Rsu){: target="_blank" rel="noopener"}***
 
 For reasons explained later in this article, Runyon’s Impossible sleep formula only includes the recommended dosage of theanine and magnesium. There is no apigenin, but that’s alright because the formula works just as well without it.
 
@@ -141,4 +141,4 @@ It doesn’t mess with your hormones and it’s impossible to get addicted to. I
 
 With or without the apigenin, I strongly recommend Impossible Sleep. Use discount code Ed20 for 20% off your first subscription order if you decide to pick some up.
 
-### [Order Impossible Sleep here](https://impossible.co/products/sleep?utm_source=sponsorship&amp;utm_medium=email&amp;utm_campaign=ed&amp;utm_term=sleep){: target="_blank"}
+### [Order Impossible Sleep here](https://impossible.co/?ref=aMnY3Rsu){: target="_blank"}
