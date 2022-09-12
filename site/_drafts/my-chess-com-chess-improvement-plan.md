@@ -8,7 +8,7 @@ tags:
 description: >-
   This is a plan that I'll be implementing to improve my rating on Chess.com in
   the rapid and daily games. Not for OTB but could work.
-image:
+image: /assets/images/drafts/ed-latimore-playing-chess.png
 ---
 This post outlines the plan I’ll follow to increase my ELO chess rating on [chess.com](http://chess.com/){: target="_blank"}. While I may play in some over-the-board (OTB) tournaments, I’ll be working this plan on [chess.com](http://chess.com/){: target="_blank"} because I can always log on and get a game at any time control.
 
