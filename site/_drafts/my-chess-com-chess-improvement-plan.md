@@ -224,4 +224,4 @@ The best way to develop this is through constant practice and drilling of the fu
 * Opening training
 * Chess game review
 
-I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}<br>​​​​​​
+I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is&nbsp;[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}<br>​​​​​​
