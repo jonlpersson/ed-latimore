@@ -44,9 +44,10 @@ I’m publishing my training plan here because I want it to be out there ahead o
 
 I suspect this training plan will improve my OTB chess, but I can’t say for certain. All I can confidently proclaim is that this training plan should cause me to improve, and I’ll come back here to adjust and update my strength periodically
 
-Starting (9/8/2022) daily rating: 1298
+![Ed Latimore's Chess.com daily and rapid chess rating](/assets/images/drafts/ed-latimore-chess-stats.png "My stats as of publishing this article"){: width="350" height="847"}
 
-Starting (9/8/2022) rapid rating: 1580
+* **Starting (9/12/2022) daily rating: 1280**
+* **Starting (9/12/2022) rapid rating: 1596**
 
 ## Give each game my undivided attention
 
