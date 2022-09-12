@@ -110,6 +110,8 @@ Since the tactics shown to you won’t be repeated and seem to be matched well t
 
 This is also a way for you to measure the crossover in strength from the static exercises.&nbsp;
 
+![Chess tactics from chess.com](/assets/images/drafts/ed-latimore-chess-com-tactics.png "Do you see the solution?"){: width="2422" height="1364"}
+
 ## Chess Opening training
 
 This part of my training most likely runs against most conventional chess training.
