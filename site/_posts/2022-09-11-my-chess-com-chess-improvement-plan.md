@@ -124,7 +124,7 @@ I am devoting a sizable chunk of my energy to studying the opening. My rationale
 
 For my opening training, I’ll be using [chess.com](http://chess.com/){: target="_blank"} and analyzing the moves for my selected opening repertoire.
 
-***As white, I’ll be studying the variations that arise from 1. d4 (Queen’s Gambit accepted, Queen’s Gambit declined, The Slav, and the King’s Indian) and as black 1. e4 c5 (The Sicilian System) and 1. d4 d5 (The London System).***
+***As white, I’ll be studying the variations that arise from 1. d4 (Queen’s Gambit accepted, Queen’s Gambit declined, The Slav, The Nimzo-Indian, and the King’s Indian) and as black 1. e4 c5 (The Sicilian System) and 1. d4 d5 (The London System).***
 
 I’ll also be using [Chessable.com](http://chessable.com/){: target="_blank"} and its training programs.
 
