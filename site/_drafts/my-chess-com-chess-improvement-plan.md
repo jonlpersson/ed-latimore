@@ -24,7 +24,7 @@ The two ratings on [chess.com](http://chess.com/){: target="_blank"} that I’ll
 
 Daily chess games offer time controls ranging from 1 to 14 days per move.&nbsp; So the game could conceivably last for a year (or more) depending on the actual time per move taken by the players and the total number of moves in the course of the game. **My peak rating in the daily games is 1535.**
 
-## Rapid games
+### Rapid games
 
 Rapid chess games are ones where either all the moves must be completed in a fixed time of more than 10 minutes but less than 60 minutes for each player; or in the time allotted and each player gains a certain number of seconds per each move. This is not to be confused with blitz or bullet chess.
 
@@ -64,6 +64,8 @@ For example, I play a lot of games on my phone when I’m lying down to sleep (t
 My rating should start to reflect my actual playing strength.
 
 I should stop losing games because I ran out of time, rushed a move, or simply missed an obvious tactical opportunity.&nbsp;
+
+![Ed Latimore committing chess blunder](/assets/images/drafts/ed-latimore-committing-chess-blunder.png "This is the type of silly blunder I want to start avoiding"){: width="1116" height="680"}
 
 ## Review each game after it’s played
 
