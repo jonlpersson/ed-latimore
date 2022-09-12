@@ -197,6 +197,8 @@ Endgame principles become applicable when your fighting strength falls below 20 
 
 Based on the standard and common endgame configurations we study, This was the only commonality I could find between all of the end game training exercises on [Chess.com](http://chess.com/){: target="_blank"} or in other chess books like Silman’s Complete Endgame Book.
 
+![Silman's Complete Endgame Course](/assets/images/drafts/silmans-complete-endgame-course.png "One of the best books on chess there is"){: width="446" height="640"}
+
 My definition will likely change as I grow and develop as a player through this training exercise. If you’re a strong player with ideas for my definition or things I might consider adding, please contact me at [ed@edlatimore.com](mailto:ed@edlatimore.com){: target="_blank"}.
 
 ## What isn’t included in my study plan
