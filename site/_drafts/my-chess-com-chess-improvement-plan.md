@@ -130,6 +130,8 @@ I’ll also be using [Chessable.com](http://chessable.com/){: target="_blank"} a
 
 Chessable’s MoveTrainer&reg; turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.&nbsp;
 
+![Ed Latimore using Chessable](/assets/images/drafts/ed-latimore-chessable-sicilian.png "Using Chessable to sharpen my knowledge of the Sicilian Defense as black"){: width="500" height="253"}
+
 I’m a big believer in a rising tide moving all ships, but I’ll likely master only one opening system at a time. With that said, I anticipate that understanding one opening well will increase my overall grasp of opening theory.
 
 I’ll not just be going through the moves, memorizing what the computer says is best, but I’ll be taking notes to understand why the computer thinks something is a good or bad idea. That brings me to the next part of my training.
