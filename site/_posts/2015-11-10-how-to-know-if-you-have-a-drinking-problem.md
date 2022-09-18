@@ -118,4 +118,6 @@ I wrote a book about my transition from an alcoholic degenerate with nothing goi
 
 I wrote this book as if I could go back to 2013, when I decided to get sober, and talk to myself before, during, and after the process. It's the advice I wish I had when everyone around me still drank and couldn't understand what I was dealing with. I did it the hard way so you don't have to.
 
-| \[Get it here\]({{ 'B07LFX335T'&lt;/td&gt;&lt;td&gt;amazon }}) |
+{% include widgets/summary.html id="Sober-Letters" %}
+
+&nbsp;
