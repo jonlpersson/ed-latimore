@@ -145,7 +145,7 @@ The less appealing drinking becomes, the less time you want to spend around drun
 
 This is how you become the master of the environment that once enslaved you.
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ## 7) Learn to enjoy non-alcoholic beverages
 
