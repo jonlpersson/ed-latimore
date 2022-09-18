@@ -34,7 +34,7 @@ In the 2002 boxing drama Undisputed, boxing champion George “Iceman” Chamber
 
 ![Nobody plays boxing](/assets/images/posts/2020/undisuputed.jpg "Ving Rhames as George 'Iceman' Chambers talking to Wesley Snipes")
 
-In other sports, you live to fight another day. In boxing, there is always a chance that you could die. Fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
+In other sports, you live to fight another day. In boxing, there is always a chance or dying. Fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
 
 The goal of boxing is the same as that of fighting: [to kill your opponent.](/fight-to-the-death/)
 
