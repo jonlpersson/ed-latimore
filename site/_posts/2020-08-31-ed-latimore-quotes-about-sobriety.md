@@ -17,6 +17,8 @@ If you're working on getting your life right and [free from the grips of alcohol
 
 I don't care if you're kicking drug addiction, an eating disorder, alcohol, or even just trying to get your social media addiction under control. My demon was alcohol addiction, but anyone going through any type of addiction recovery can find inspiration and daily reminders in these recovery quotes.
 
+{% include widgets/summary.html id="Sober-Letters" %}
+
 ### Where are these inspirational quotes about addiction recovery from?
 
 I've taken these quotes from various pieces of my writing on various platforms. All of these quotes are Ed Latimore original statements from a combination of my social media platforms, my website, my newsletter, and my best-selling book ["Sober Letters To My Drunken Self".](/products/sober-letters/)
@@ -183,6 +185,8 @@ Implementing these new habits takes time, but reducing or eliminating your alcoh
 
 \[[Read more about how to quit drinking on your own here.](/how-to-stop-drinking-on-your-own/)\]
 
+{% include widgets/summary.html id="Sober-Letters" %}
+
 ## Sobriety quotes from "How to socialize and have fun sober"
 
 Ask yourself, "*What do I get out of drinking with people that you don’t get from spending time sober with them?"*
@@ -337,4 +341,4 @@ I felt lonely because this wasn’t where I belonged. I didn’t know what my sc
 
 We live in a society that revolves around alcohol consumption. Many of us get to adulthood and can’t imagine a social event without alcohol. Drinking is both the right of passage and the cost of entry for people in mainstream society.
 
-\[The read more of Sober Letters To My Drunken Self, [check out the book here.](https://amzn.to/3xHyP2t){: target="_blank" rel="noopener noreferrer"}\]
+{% include widgets/summary.html id="Sober-Letters" %}
