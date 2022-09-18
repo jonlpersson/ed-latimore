@@ -76,6 +76,8 @@ Even when alcohol is not deployed as a strategy for sex, its consumption can lea
 
 What I’ve done so far is nothing special. I looked at the data and drew a reasonable conclusion. I did this without referencing any high-profile college sexual assault cases. No matter how you look at the data or which data you use, it’s simple to see that alcohol plays a significant role in many sexual assaults However, we’re in such a time that saying this angers many people.
 
+{% include widgets/summary.html id="Sober-Letters" %}
+
 ## **The backlash to acknowledging alcohol’s role in sexual assault**
 
 This angers people because they see it as blaming the victim. Rather than addressing the common denominator in many of these crimes, society has taken the stance that despite everything we know about alcohol and its prevalence in sexual assault, we can’t discuss how it contributes. At this point, I feel like I need to make myself clear: ***I am not blaming the victim nor am I implying any victim of sexual assault while under the influence of alcohol asked for it or was invited.&nbsp;***
