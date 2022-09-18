@@ -89,7 +89,7 @@ Refined carbohydrates are any foods made with white flour. For example; bagels, 
 
 [Anxiety, stress, and depression are made worse by too much sugar.](https://www.medicalnewstoday.com/articles/318818#Avoiding-the-pitfalls-of-sugar){: target="_blank" rel="noreferrer"}
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ## 3\. Low blood sugar & emotional distress
 
