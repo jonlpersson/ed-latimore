@@ -90,7 +90,7 @@ You can't use alcohol as an excuse if you're always sober. As a result, you put 
 
 If you're looking to quit drinking then there are a few things you should know, read them [here](/8-things-to-know-if-you-want-to-quit-drinking/).
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ## You’ll have a lot more free time available
 
