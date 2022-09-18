@@ -85,7 +85,7 @@ I used to drink to celebrate. Once I decided to get sober, I knew that I needed 
 
 When I was feeling stressed, I used to drink. Once this was no longer an option, I started to write instead. I use writing as my personal therapy when something is troubling me and I need to think.
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ### Don't beat yourself up if you relapse
 
@@ -214,6 +214,8 @@ For the physical symptoms, you just need time and a good diet. Time gets your bo
 When you quit drinking alcohol, there isn't any way around feeling like you're missing something. Fortunately, it's all in your head. Getting sober should not cause any health problems. You should feel better, not worse.
 
 Your worst symptom is going to be boredom. You need to find new hobbies to take the place of things you used to do while drinking. You need to find new activities and people to socialize with if all of your previous social activities revolve around boredom.
+
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ### Understand that society is not on your side
 
