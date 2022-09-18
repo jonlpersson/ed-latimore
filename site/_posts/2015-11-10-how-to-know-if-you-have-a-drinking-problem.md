@@ -70,7 +70,7 @@ It doesn't matter if you're a moderate drinker who only goes out once a week or 
 
 If you have an earnest desire to advance but your drinking is holding you back, then you have a drinking problem and you need to stop drinking.
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ## Your drinking problem will stop you from bettering your life
 
