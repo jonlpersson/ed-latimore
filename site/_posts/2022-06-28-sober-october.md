@@ -44,7 +44,7 @@ Putting the drinks down for an entire month lets your body’s systems work the 
 
 You might find that you’ll wake up with less pain, more energy, and better blood flow. This might make you realize just how much damage alcohol does to you, even if you only drink on the weekends.
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ## A month of clear thoughts can change your life
 
@@ -136,7 +136,7 @@ The rest is up to you.
 
 #### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
-{% include widgets/summary.html id="Vice-breakers-booze" %}
+{% include widgets/summary.html id="Sober-Letters" %}
 
 ---
 
