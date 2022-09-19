@@ -126,7 +126,7 @@ The name tells you exactly what the integral does. "Integral" is from an old lat
 
 ![The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities.](/assets/images/posts/integral-notation-1.svg "The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities."){: width="306" height="121"}
 
-They'll teach you that integrals are use to calcuate the area under the curve, volume, and probability. All of that is true, but it doesn't fundamentally tell you what they do. Those are just applications of it. I believe that if you understand the "why" and "what", the "how" is child's play.
+They'll teach you that integrals are used to calcuate the area under the curve, volume, and probability. All of that is true, but it doesn't fundamentally tell you what they do. Those are just applications of it. I believe that if you understand the "why" and "what", the "how" is child's play.
 
 Integrals allow you to figure out totals. Those totals can tell you if something is converging or diverging, how much space you have based on changing parameters, and there are many applications to sound and light that make today's entertainment and ease of life possible.&nbsp;
 
