@@ -154,6 +154,12 @@ It also opens up the world of sports betting and allows you to better assess the
 
 You begin to understand that the world is more probabilistic than deterministic, and your thinking becomes more nuanced. This makes your predictions more accurate and your decisions more precise.
 
+## Use Math Calculators
+
+As technology has revolutionized different industries, it has improved educational standards as well. Students now have online ways to learn and practice math problems.
+
+[Calculatores](https://calculatores.com/){: target="_blank" rel="noopener noreferrer"} provides a ton of online calculators that can help you learn math and practice online.
+
 ## A recap of the 12 reasons why math is important
 
 1. Improves ability to communicate
