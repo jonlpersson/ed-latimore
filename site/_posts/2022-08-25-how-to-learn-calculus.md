@@ -110,7 +110,7 @@ And what are slopes? Just rates of change. Recall your algebra days where you le
 
 It's key to remember that derivatives measure change with respect to a variable. This is fairly straight forward when there is only one input (variable), but things become \*slightly\* more complicated when you reach multivariable calculus or differential equations.
 
-Still, this idea is a strong start. [This a great site to help you calculate derivates.](https://calculator-derivative.com/){: target="_blank" rel="noopener noreferrer"}
+Still, this idea is a strong start. [This a great site to help you calculate derivates.](https://calculator-derivative.com/)
 
 ### **How integrals work**
 
