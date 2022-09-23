@@ -1,7 +1,7 @@
 ---
 date: 2022-09-08 09:00:00 -0400
 article_type: Review
-title: Gorilla Dream-My go-to sleep & recovery formula
+title: Gorilla Dream Review-My go-to sleep & recovery formula
 permalink: /gorilla-dream-review/
 tags:
   - how-to-become-superhuman
