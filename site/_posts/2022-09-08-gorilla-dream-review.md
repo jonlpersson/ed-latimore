@@ -7,7 +7,7 @@ tags:
   - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Dream sleep & recovery formula: what I think of it, how I use it, and how it compares to other popular sleep aids.
-image: /assets/images/thumbnails/gorilla-mind-dream-bottle.JPG
+image: /assets/images/thumbnails/gorilla-mind-dream-bottle.jpg
 ---
 
 Let me start by saying that relying on supplements to fall asleep each night is not a great idea. It’s just not smart to become reliant on a pill to do something your body is designed to do. If you have trouble sleeping, there are probably other areas of your life that you need to address first.
