@@ -76,7 +76,7 @@ As I’ve stated before, I’m a big fan of the Gorilla Mind product line due to
 
 With that said, here’s the list of the pre-workout ingredients found in Gorilla Mode Nitric:
 
-![Gorilla Mode Nitric ingredients list](/assets/images/thumbnails/gorilla-mode-nitric-ingredients-list.jpg)
+![Gorilla Mode Nitric ingredients list](/assets/images/drafts/gorilla-mode-nitric-ingredients-list.jpg)
 
 I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine](https://examine.com/) is a trusted resource for learning more about each ingredient.
 
