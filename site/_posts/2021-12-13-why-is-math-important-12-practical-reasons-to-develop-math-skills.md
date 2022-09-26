@@ -140,7 +140,7 @@ Mathematical reasoning is heavily relied upon even for simple work like the skil
 
 ## Learning math makes you better at everything else
 
-Studies have shown that students who are better at math have more grey matter in their brains.
+Studies have shown that students who are better at math have more grey matter in their brains ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651751/){: target="_blank" rel="noopener noreferrer"}).
 
 The grey matter throughout the central nervous system allows enables individuals to control movement, memory, and emotions. Different areas of the brain are responsible for various functions, and grey matter plays a significant role in all aspects of human life.
 
