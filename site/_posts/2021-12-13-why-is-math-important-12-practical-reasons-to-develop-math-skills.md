@@ -10,6 +10,8 @@ description: >-
   makes your job as a teacher easier, then this list has done its job,
 image: /assets/images/thumbnails/why-is-math-important.jpg
 ---
+Why is mathematics seen as such an important tool and hold unique place among other subjects? Or put differently, why do we look at math with a sense of awe?
+
 When I was younger, I wanted to be good at math.
 
 I was friends with many smart kids, and it seemed like I was the only one of my friends who couldn't understand and apply basic mathematical concepts. I’ve written about my struggles with math in high school and how I improved my understanding of math to the point of getting a Bachelor's degree in physics with a minor in math.
