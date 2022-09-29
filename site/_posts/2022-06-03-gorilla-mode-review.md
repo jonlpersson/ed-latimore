@@ -62,14 +62,14 @@ Here’s the list of ingredients found in Gorilla Mode:
 
 ![Supplement fact sheet for Gorilla Mode pre-workout](/assets/images/posts/gorilla-mode-ingredients.png "Supplement fact sheet")
 
-I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine]([https://examine.com/]&#40;https://examine.com/&#41;) is a trusted resource for learning more about each ingredient.
+I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine](https://examine.com/) is a trusted resource for learning more about each ingredient.
 
 * **L-Citrulline:** An amino acid that can help reduce fatigue, increase power output, and improve endurance in both aerobic and anaerobic exercise.
-* **Creatine Monohydrate:** An organic compound commonly found in meat and fish. When combined with resistance training, [research has shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/&#41;) that it can improve strength, [power output](https://examine.com/topics/power-output/), and lean mass.
+* **Creatine Monohydrate:** An organic compound commonly found in meat and fish. When combined with resistance training, [research has shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/) that it can improve strength, [power output](https://examine.com/topics/power-output/), and lean mass.
 * **GlycerPump™:** A unique formula consisting of 65% Glycerol powder that hyper-hydrates your muscles to increase muscle pump.
 * **Betaine Anhydrous:** Also known as trimethylglycine (TMG), this naturally occurring compound can potentially enhance strength-based performance and hypertrophy by increasing blood flow and reducing fatigue.
-* **L-Tyrosine:** An amino acid that helps [reduce stress and enhance cognitive function]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/&#41;) by balancing the neurotransmitters in your brain.
-* **Agmatine Sulfate:** A neurotransmitter and neuromodulator with anti-anxiety and antidepressant-like effects to help elevate mood. It can also [manipulate the body’s pain receptors]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/&#41;), allowing you to power through more intense workouts.
+* **L-Tyrosine:** An amino acid that helps [reduce stress and enhance cognitive function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084775/) by balancing the neurotransmitters in your brain.
+* **Agmatine Sulfate:** A neurotransmitter and neuromodulator with anti-anxiety and antidepressant-like effects to help elevate mood. It can also [manipulate the body’s pain receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/), allowing you to power through more intense workouts.
 * **Kanna:** A South African herb that [reduces anxiety, increases cognition, and improves reaction time]([https://pubmed.ncbi.nlm.nih.gov/23903032/]&#40;https://pubmed.ncbi.nlm.nih.gov/23903032/&#41;).
 * **Caffeine Anhydrous:** A powerful stimulant made using the seeds and stems of the coffee plant and dehydrating for increased concentration. [Caffeine has been shown]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/]&#40;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803635/&#41;) to improve physical strength and endurance and is classified as a [nootropic](https://examine.com/supplements/nootropic/) because it sensitizes neurons and provides mental stimulation.
 * **N-Phenethyl:** Also known as the “love drug,” this nootropic increases the release of serotonin, dopamine, adrenaline, and noradrenaline.
