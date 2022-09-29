@@ -56,7 +56,7 @@ The 175 mg of caffeine per serving in the product can make you feel jittery if y
 
 ## Gorilla Mode ingredients
 
-I’m a big fan of the Gorilla Mind product line due to the owner [Derek’s transparency]([https://www.youtube.com/watch?v=PSgecUqjxrs&amp;t=1s]&#40;https://www.youtube.com/watch?v=PSgecUqjxrs&amp;t=1s&#41;) about what goes into the products, which can’t always be said about other popular nootropic and pre-workout blends. And since I’m strict about what I put in my body, I only take what I recognize and know is healthy for me.
+I’m a big fan of the Gorilla Mind product line due to the owner [Derek’s transparency](https://www.youtube.com/watch?v=PSgecUqjxrs&amp;t=1s) about what goes into the products, which can’t always be said about other popular nootropic and pre-workout blends. And since I’m strict about what I put in my body, I only take what I recognize and know is healthy for me.
 
 Here’s the list of ingredients found in Gorilla Mode:
 
