@@ -24,7 +24,7 @@ I hope you learn something from these quotes and if one of them resonates with y
 
 ***Self-discipline to get shit done.<br>Self-control to keep you from doing dumb shit.***
 
-***When they're both developed, anything is possible.*** ([Tweet it](https://twitter.com/EdLatimore/status/1232709622651346945){: target="_blank" rel="noopener noreferrer"})
+***When they're both developed, anything is possible.*** ([Tweet it](https://twitter.com/EdLatimore/status/1232709622651346945))
 
 The difference between self-discipline and self-control is that the former is necessary to ensure you do the hard work required to achieve your goals. The latter is required to keep you from doing things that will knock you off track. You need both to succeed.
 
@@ -32,7 +32,7 @@ The difference between self-discipline and self-control is that the former is ne
 
 ***Self-discipline and self-control will determine the quality of your life more than anything else.***
 
-***Self-discipline to make you do what needs to be done. Self-control to keep you from doing what you shouldn't.*** ([Tweet it](twitter https://twitter.com/EdLatimore/status/1100114639415857152){: target="_blank" rel="noopener noreferrer"})
+***Self-discipline to make you do what needs to be done. Self-control to keep you from doing what you shouldn't.*** ([Tweet it](https://twitter.com/EdLatimore/status/1100114639415857152))
 
 Once you realize that no one controls your life but you, then you can start doing what needs to be done to make your life look like your greatest desires. Yes, you will occasionally get lucky, and people will give you help, but you determine how your life will turn out.
 
@@ -40,19 +40,19 @@ Once you realize that no one controls your life but you, then you can start doin
 
 ***How to "master" self-discipline:***
 
-***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.*** ([Tweet it](https://twitter.com/EdLatimore/status/1206588350456586240){: target="_blank" rel="noopener noreferrer"})
+***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.*** ([Tweet it](https://twitter.com/EdLatimore/status/1206588350456586240))
 
 Grenville Kleiser once said, "*By constant self-discipline and self-control, you can develop greatness of character.”* This little-known inspirational quote sums up the purpose of self-discipline. You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that gets stronger with repeated use, which makes you great.
 
 ---
 
-***Self-discipline is the insurance policy against the failure of the fickle forces of motivation and inspiration.*** ([Tweet it](https://twitter.com/EdLatimore/status/1298020982150569984){: target="_blank" rel="noopener noreferrer"})
+***Self-discipline is the insurance policy against the failure of the fickle forces of motivation and inspiration.*** ([Tweet it](https://twitter.com/EdLatimore/status/1298020982150569984))
 
 You will never have what you want if you only work when you feel like it. People who rely on motivation and inspiration rely on emotion. Emotions, by their very nature, are unpredictable and unreliable. You must force yourself to work if you ever want to be free from the whims of motivation and inspiration. Jim Rohn said it best: "We must all suffer one of two things: the pain of discipline or the pain of regret.”
 
 ---
 
-***Self-discipline and self-control determine the quality of your life more than anything else.*** ([Tweet it](https://twitter.com/EdLatimore/status/1059155306553491457){: target="_blank" rel="noopener noreferrer"})
+***Self-discipline and self-control determine the quality of your life more than anything else.*** ([Tweet it](https://twitter.com/EdLatimore/status/1059155306553491457))
 
 Lou Holtz said, “Without self-discipline, success is impossible, period.” You don't have to be particularly talented. You just have to work. You can have a fine life if all you do is show up on time and stay out of trouble. Doing those things alone will guarantee that your life is fantastic.&nbsp;
 
@@ -60,7 +60,7 @@ Lou Holtz said, “Without self-discipline, success is impossible, period.” Yo
 
 ***The deeper your feel, the more emotional control you need.***
 
-***A special type of self-destruction occurs when you combine high empathy and low self-discipline.*** ([Tweet it](https://twitter.com/EdLatimore/status/1245748194421739520){: target="_blank" rel="noopener noreferrer"})
+***A special type of self-destruction occurs when you combine high empathy and low self-discipline.*** ([Tweet it](https://twitter.com/EdLatimore/status/1245748194421739520))
 
 > I thought of this after reading the following quote by the Dalai Lama:<br><br>Most of our problems are related to the mind, so we have to work to reduce our destructive emotions. Use your human intelligence in the best way you can; transform your emotions in a positive way.
 
@@ -74,7 +74,7 @@ The former makes you weak because you deny your true nature. The latter makes yo
 
 ***Take a fight<br>Change your body<br>Learn a language<br>Learn a musical instrument<br>Run a marathon***
 
-***I don't know. Just do something difficult.<br>You can't learn discipline from texts.*** ([Tweet it](https://twitter.com/EdLatimore/status/1287028777768321029){: target="_blank" rel="noopener noreferrer"})
+***I don't know. Just do something difficult.<br>You can't learn discipline from texts.*** ([Tweet it](https://twitter.com/EdLatimore/status/1287028777768321029))
 
 Discipline orders the disordered, focuses the unfocused, and makes strong the flimsy. It does this by forcing you to do difficult things. Discipline does not demand perfection or even mastery. It only requires effort and consistency. This reminds some of what Lao Tzu said of discipline: "*Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength*
 
@@ -84,19 +84,19 @@ Crime, healthcare, and the media are just businesses.
 
 Self-control is bad for business.<br>Self-discipline is bad for business.<br>Respect is bad for business.<br>Health is bad for business.<br>Independent thinking is bad for business.
 
-It's not a conspiracy. It's just business. ([Tweet it](https://twitter.com/EdLatimore/status/1259813426630705152){: target="_blank" rel="noopener noreferrer"})
+It's not a conspiracy. It's just business. ([Tweet it](https://twitter.com/EdLatimore/status/1259813426630705152))
 
 ---
 
 The answer to most of your problems is more self-control or discipline.
 
-This fixes every long-term problem you might have and almost every short-term one. ([Tweet it](https://twitter.com/EdLatimore/status/1272321993879302144){: target="_blank" rel="noopener noreferrer"})
+This fixes every long-term problem you might have and almost every short-term one. ([Tweet it](https://twitter.com/EdLatimore/status/1272321993879302144))
 
 ---
 
 Emotional discipline is the most important.
 
-When emotional discipline breaks, that's when you do things that change your life for the worst. ([Tweet it](https://twitter.com/EdLatimore/status/1296529542258008064){: target="_blank" rel="noopener noreferrer"})
+When emotional discipline breaks, that's when you do things that change your life for the worst. ([Tweet it](https://twitter.com/EdLatimore/status/1296529542258008064))
 
 Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them. The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course.&nbsp;
 
@@ -110,17 +110,17 @@ Young men, if you don't control your dick, your dick will control you. That disc
 
 ---
 
-Young men, If you can discipline yourself to resist fast money and easy sex, then nothing in this world will break you. It is yours to do what you please with. ([Tweet it](https://twitter.com/EdLatimore/status/1452829102256402432){: target="_blank" rel="noopener noreferrer"})
+Young men, If you can discipline yourself to resist fast money and easy sex, then nothing in this world will break you. It is yours to do what you please with. ([Tweet it](https://twitter.com/EdLatimore/status/1452829102256402432))
 
 ---
 
-The answer to most of your problems is: More money, more time, or more discipline. ([Tweet it](https://twitter.com/EdLatimore/status/1442121815602737154){: target="_blank" rel="noopener noreferrer"})
+The answer to most of your problems is: More money, more time, or more discipline. ([Tweet it](https://twitter.com/EdLatimore/status/1442121815602737154))
 
 ---
 
 Imagine doing 25 to life because someone called you the worst slur and you \*had\* to knock him out.
 
-But he hit his head when he fell and died. Lose your emotional discipline for one moment and it can cost you the rest of your life. ([Tweet it](https://twitter.com/EdLatimore/status/1437963109826695171){: target="_blank" rel="noopener noreferrer"})
+But he hit his head when he fell and died. Lose your emotional discipline for one moment and it can cost you the rest of your life. ([Tweet it](https://twitter.com/EdLatimore/status/1437963109826695171))
 
 ---
 
