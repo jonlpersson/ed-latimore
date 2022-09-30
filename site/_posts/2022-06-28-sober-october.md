@@ -6,8 +6,8 @@ permalink: /sober-october/
 tags:
   - sober-life
 description: >-
-  College drinking culture is dangerous for young women. However, efforts to
-  change it are often resisted by the very people it’s meant to help.
+  Sober October is a chance for many people to try sobriety for the first time
+  in a social setting. Learn how to make it a success.
 image: /assets/images/thumbnails/ed-latimore-drinking-beer-from-40-ounce.jpg
 ---
 I wouldn’t know myself to the extent that I do, had I not decided to quit drinking alcohol in 2013. Years of drinking turned alcohol from a social activity to a crutch for me.
