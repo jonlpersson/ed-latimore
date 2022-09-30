@@ -78,8 +78,6 @@ I’ve also included a short explanation of what each ingredient does—though I
 
 I do love how in the zone it makes me feel. Even without even if you aren't working out, you could use it to get a lot of mental tasks done.
 
-#### [If you're a mental and physical warrior, grab some here.](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
-
 ## How it compares to other pre-workouts
 
 Walk into any gym or commercial nutrition store, and you’ve likely come across a variety of pre-workout supplements packaged with bright colors and bold claims. It can be overwhelming to pick which product is right for you amid the marketing hype and confusing trademarked pre-workout formulas.
@@ -103,8 +101,6 @@ BULK is another popular pre-workout supplement from the well-trusted brand, Tran
 BULK is offered at the same price-per-serving as Bucked UP, making it a pricier option. Still, Transparent Labs is a quality brand that lives by its name by providing 100% transparency about its ingredients and using third-party testing.
 
 If the cost (and your facing tingling) isn’t a concern, it’s a solid option. But if you're looking for the best value-per-scoop, Gorilla Mind is excellent compared to other pre-workouts—even at just a half dose.
-
-#### [Save money. Stay focused. Train harder. No brainer. Buy some.](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
 
 ## Frequently asked questions
 
