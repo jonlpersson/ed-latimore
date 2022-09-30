@@ -5,18 +5,16 @@ title: How to dress a muscular male body
 permalink: /how-to-dress-as-a-muscular-man/
 tags:
   - how-to-be-a-hot-guy
-image: /assets/images/thumbnails/ed-latimore-in-polo-shirt-and-dress-shoes.jpg
+image: /assets/images/posts/ed-latimore-muscular-body.png
 description: >-
-  How muscular men can enhance physical attractiveness with better clothing choices
+  How muscular men can enhance physical attractiveness with better clothing
+  choices
 ---
-
 Making yourself more attractive isn’t just a hack to pick up women. It’s a signal to the world of your level of self-respect and how they should treat you.
 
 Whether you like it or not, how you dress also dictates what other people are willing to believe about you. Clothing choices denote symbols of class, personal taste, earning potential, maturity, fitness level, etc.
 
 The problem is, most men never learn how to dress appropriately. So you might find yourself copying your favorite celeb or letting your significant other choose.
-
-
 
 Men that are very tall, have extra-large body types and limbs, or are muscular are the worst at dressing. This is largely due to the fact that most department store clothes simply aren’t made for you.
 
@@ -26,10 +24,9 @@ Outside of gym clothes, it means ill-fitting shirts and pants you’ll inevitabl
 
 In this guide, you’ll discover the fundamentals of how to dress when you’re muscular.
 
-
 ## Get something that fits
 
-The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.[^1]
+The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Sheldon claimed that there are three main body types that also influence your behavior. While body typing has been widely accepted, the behavioral aspect has been disputed.
 
@@ -39,15 +36,12 @@ Secondarily, knowing your measurements will help you find clothes that actually 
 
 Measurements you should know:
 
-
-
 * Collar at the base of your neck
 * Chest at the widest part
 * Inner and outer leg
 * Arm length measured from the collar down the outside of the arm to the wrist
 * Shoulders
 * Natural waistline
-
 
 ## Buy clothing with intention
 
@@ -59,23 +53,19 @@ Colloquial advice says that muscular dudes shouldn’t wear bright colors. It ca
 
 In the beginning, though, you may need to choose neutrals or neutrals with small patterns. You can pair these with dark and light bottoms that go with dress shirts and casual shirts alike.
 
-
 ## Go brand loyal
 
 The retail business dictates that clothing be standardized to the average body type and size. This saves money on production but hinders your search for flattering attire. Your best bet is to find a clothing brand that makes clothing specifically for muscular men.
 
-Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course _[Dress Like a Man](https://goo.gl/hSjSFC)_ and it changed the way I approached dressing.
+Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course *[Dress Like a Man](https://goo.gl/hSjSFC)* and it changed the way I approached dressing.
 
 Tanner is a men’s style coach that has a three-principal approach to finding the perfect fit for bigger guys:
-
-
 
 * Aesthetic - The role of contrast, color, shape, pattern, proportion, etc
 * Communication - The silent conversation your style has with others about you
 * Self-perception - The way you view yourself and how your way of dress reflects it
 
-He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [State and Liberty.](https://stateandliberty.com/?rfsn=4641457.42a09&utm_source=refersion&utm_medium=affiliate&utm_campaign=4641457.42a09)
-
+He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [State and Liberty.](https://stateandliberty.com/?rfsn=4641457.42a09&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=4641457.42a09)
 
 ## Invest in tapered shirts
 
@@ -83,8 +73,7 @@ Muscular men typically have broad shoulders. It’s not uncommon to Incredible-H
 
 Your shirts should be wide in the chest and sleek at the waist. The taper provides visual contrast and highlights your strong upper body.
 
-Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,[^2] I also talk a lot about how attractiveness is more than just about the clothes you wear.
-
+Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
 ## Choose pants with thigh room
 
@@ -94,13 +83,11 @@ Large hamstrings and quads are terrorists for slim-fit jeans. If you get them on
 
 Like tapered shirts, you have to get your pants just right for your unique body shape. Go for pants that fit snug in the thighs and waist without a belt. You can’t wear the same things as skinny guys so skip the skinny jeans. Your pants should also stop right at your shoes without bunching. Any more and they’re too long.
 
-
 ## Go for stretchy fabric
 
 Stretchy fabric is more forgiving when it comes to muscle contour. It gives you the ideal athletic fit and you don't have to feel like you’re suffocating in your clothes. Plus, excess fabric can make you look sloppy. But I’d be careful. You can quickly look like you’re thirst-trapping with your muscles or simply trying too hard.
 
 If sophisticated and functional design is what you’re going for, choose a fabric that has some stretch. Stay away from things that are mostly spandex, shiny, or look like compression shirts. Also, you want to be careful with dense fabrics like you find in sweaters and blazers. Bulky fabric can make you look more fat than muscular. Choose a lighter material that moves easily.
-
 
 ## Get a tailor
 
@@ -116,14 +103,11 @@ You should expect to pay anywhere from $15 to $35 to have a shirt tailored depen
 
 The waists of your shirts and pants are easier/less expensive to alter than shoulders or thighs. You want to select pieces you like that fit in the neck, chest, shoulders, and thighs.
 
-
 ## Wrapping up
 
 Dressing a muscular body can feel like an elaborate game of Tetris. With these style tips, you can walk into a store with more confidence and avoid that feeling of defeat in the dressing room.
 
 How to dress when you’re muscular:
-
-
 
 * Know your measurements
 * Buy clothing that matches your other clothing
@@ -141,6 +125,4 @@ How you dress says a lot about you but it’s only one piece of the puzzle. Read
 
 ### References
 
-[^1]: Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. [https://www.britannica.com/biography/William-Sheldon](https://www.britannica.com/biography/William-Sheldon).
-
-[^2]:  Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 [http://doi.org/10.1098/rspb.2017.1819](http://doi.org/10.1098/rspb.2017.1819)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. <a href="https://www.britannica.com/biography/William-Sheldon">https://www.britannica.com/biography/William-Sheldon</a>.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 <a href="http://doi.org/10.1098/rspb.2017.1819">http://doi.org/10.1098/rspb.2017.1819</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
