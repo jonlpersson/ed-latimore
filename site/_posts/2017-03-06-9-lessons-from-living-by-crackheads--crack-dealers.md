@@ -5,7 +5,7 @@ title: 9 lessons from living by crackheads & crack dealers
 permalink: /crackhead/
 tags:
   - living-in-the-hood
-image: /assets/images/posts/ed-with-rick-ross.jpg
+image: /assets/images/posts/ed-latimore-freeway-rick-ross-crackhead.png
 description: >-
   I grew up in the projects and learned a lot about crackheads and crack
   dealers. Here are some little known facts about them.
