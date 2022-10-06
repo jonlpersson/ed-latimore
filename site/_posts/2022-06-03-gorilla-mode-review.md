@@ -30,8 +30,6 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)
 
-#### [If you're ready to hit it hard, get Gorilla Mode Pre-Workout here&nbsp;](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
-
 ## Benefits
 
 ### Increased muscle strength and endurance
@@ -51,8 +49,6 @@ Taking Gorilla Mode has helped me up my intensity and mental clarity in the gym.
 ### Powerful stimulant
 
 The 175 mg of caffeine per serving in the product can make you feel jittery if you take the max recommended dose of two scoops. I’ve also found that it’s not smart to use the product for workouts later in the day, as the caffeine dose can wreck your sleep. But everyone reacts differently, so start with a smaller dose and experiment until you find what works best for you.
-
-#### [If you can deal with this drawback, you may as well grab some. Hey, at least it's not crack\!](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"}
 
 ## Gorilla Mode ingredients
 
@@ -108,7 +104,7 @@ Before I try any new supplement or product, I always do my research to ensure it
 
 ### Can I stack it with other supplements?
 
-You can stack [Gorilla Mode](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} with [Gorilla Mind Smooth](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}, a stim-free product that can improve concentration for those more intense workouts that require intense focus. But use as directed and do your research before combining GM with other stim-based supplements, and never exceed your daily serving.
+You can stack [Gorilla Mode](https://gorillamind.com/r?id=01kb6h) with [Gorilla Mind Smooth](https://gorillamind.com/r?id=8q1f8k), a stim-free product that can improve concentration for those more intense workouts that require intense focus. But use as directed and do your research before combining GM with other stim-based supplements, and never exceed your daily serving.
 
 ### Should I ever cycle off Gorilla Mode?
 
@@ -132,7 +128,7 @@ If you’re looking to maximize your mental and physical performance at the gym,
 
 ## Buy Gorilla Mode
 
-If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/r?id=01kb6h){: target="_blank" rel="noopener"} (I get a small % cut of each sale made through the link, which helps cover the cost of running the site).
+If you found my review helpful, I’d love for you to use [my link here](https://gorillamind.com/r?id=01kb6h) (I get a small % cut of each sale made through the link, which helps cover the cost of running the site).
 
 I look forward to hearing your thoughts, reviews, and feedback. And if you’re already using Gorilla Mode, let me know how it’s helping you reach your training goals.
 
