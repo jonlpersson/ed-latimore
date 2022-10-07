@@ -9,7 +9,7 @@ tags:
 description: >-
   Getting punched in the face isn't that bad. In fact, it can be the source of
   some valuable lessons. Here are five things you can learn from the experience.
-image: /assets/images/posts/punched-in-the-face-latimore.jpeg
+image: /assets/images/posts/punched-in-the-face-latimore-1.jpeg
 ---
 For 12 years of my life, I got punched in the face for a living. Well, that’s technically not the most precise way to explain what a boxer does, but it’s accurate enough to get the most miserable and significant parts of the job explained to people.
 
