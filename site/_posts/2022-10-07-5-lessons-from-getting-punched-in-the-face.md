@@ -91,19 +91,9 @@ Passive-aggressive is for the weak. The number of people who rely on it instead 
 
 Passive-aggressive communication tries to get the outcome of winning a confrontation without actually having a confrontation. Classic examples of passive aggression:
 
-The person who disrespects and insults you until you finally say respond, retaliate, or escalate, and then they go, “I was just joking. Chill out.” If you don’t have that joking relationship with a person or it’s over the line (you know if it is or not), check this behavior quickly—even if it means you’ll get punched in the face. Then there’s the person who doesn’t directly use your name. “I can’t stand people who \[insert something you did\].” This is not internet “hit dog” syndrome. This is done in person or in an environment where you’re obviously the subject.
-
-This person is trying to leave themselves plausible deniability. Fuck that. Make them own it—even if you get punched in the face.
-
-Then there are people who seriously use sarcasm
-
-“Sarcasm” is defined as “the use of irony to mock or convey contempt.” “Irony” is defined as “the expression of one’s meaning by using language that normally signifies the opposite”
-
-When you understand this, you see the coward’s plan.
-
-By saying the opposite of what they really mean to mock, demean, or criticize you, they&nbsp;*feel*&nbsp;like they’re standing tough.
-
-Until you really do.
+* The person who disrespects and insults you until you finally say respond, retaliate, or escalate, and then they go, “I was just joking. Chill out.”<br><br>If you don’t have that joking relationship with a person or it’s over the line (you know if it is or not), check this behavior quickly—even if it means you’ll get punched in the face.
+* Then there’s the person who doesn’t directly use your name. “I can’t stand people who \[insert something you did\].” This is not internet “hit dog” syndrome. This is done in person or in an environment where you’re obviously the subject.<br><br>This person is trying to leave themselves plausible deniability. Fuck that. Make them own it—even if you get punched in the face.
+* Then there are people who seriously use sarcasm.<br><br>“Sarcasm” is defined as “the use of irony to mock or convey contempt.” “Irony” is defined as “the expression of one’s meaning by using language that normally signifies the opposite”<br><br>When you understand this, you see the coward’s plan.<br><br>By saying the opposite of what they really mean to mock, demean, or criticize you, they&nbsp;*feel*&nbsp;like they’re standing tough.<br><br>Until you really do.
 
 Then this type of person will try to convince you they were being sincere when their tone and body language said otherwise.
 
