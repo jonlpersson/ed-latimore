@@ -29,6 +29,8 @@ After being on the receiving and delivering end of many ass-kickings and face pu
 
 Getting punched in the face will teach you more about yourself than 10 years of meditation and therapy combined. Here are 4 things that you can only learn from getting punched in the face.
 
+{% twitter https://twitter.com/EdLatimore/status/1578416688932212736 %}
+
 ## You realize you aren’t fragile
 
 When I was a boxer, I wanted to get touched as soon as possible. I didn’t want it to be too vicious of a shot, but I needed it to cause me discomfort and pain. This pain was necessary because it was proof that I wouldn’t crumble from hurting a little.
