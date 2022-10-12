@@ -38,7 +38,7 @@ Writing will simply help you get where you want to be faster and easier.
 
 ## Writing makes it easier to remember good ideas
 
-This highlights another reason you should [try to be a better writer.](/how-to-write-better-and-be-a-better-writer/)
+This highlights another reason you should [try to be a better writer.](/how-to-write-better-and-be-a-better-writer/)&nbsp;You can use paraphrasing tool to [rephrase sentences & articles online](https://smartparaphraser.com)
 
 The average person forgets many more ideas than they ever remember. If the ideas are forgotten, then this means that the ideas can’t be used. These flashes of insight and reflection are captured for later use by writing the ideas down.
 
