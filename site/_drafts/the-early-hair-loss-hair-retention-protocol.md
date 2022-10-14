@@ -135,7 +135,7 @@ Lower SHBG results in higher amounts of unbound free testosterone in the blood. 
 
 ## How to slow down or reverse hair loss: The hair retention protocol
 
-### Reduce concentrations of DHT and inflammation in the scalp
+## Reduce concentrations of DHT and inflammation in the scalp
 
 We don’t want to reduce the amount of DHT circulating by using drugs. [The side effects are well documented](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3481923/). If you have to take the medication for issues related to your prostate, ignore everything I’m saying here. This should go without saying, but let me cover my ass (again): this is not medical advice. I’m not a doctor. I’m just a dude who likes keeping his hair and has discovered some things that work.
 
@@ -143,7 +143,7 @@ We also need to combat inflammation. This means dealing with the causes of the i
 
 So, our first goal is to reduce DHT concentration in the scalp and to do so WITHOUT disrupting our hormone profile. This means topical treatments. Your topical regime will take place with 3 weapons: shampoo, ointment/gel, and topical finasteride/minoxidil:
 
-#### Shampoo
+## Shampoo to deal with DHT and inflammation
 
 Tons of shampoos offer DHT blockers. I’ll tell you the two products that I use and also give you the basic ingredient list you should look for to make sure that you’re getting the real deal. I use Professional Strength Hair Restore Shampoo and Nizoral.
 
@@ -160,7 +160,7 @@ That last ingredient is present in small amounts, so I just went ahead and got t
 
 These are the not only ingredients in the Professional Strength Hair Restore Shampoo, but they are the ingredients that have produced the most significant outcomes in clinical trials.
 
-#### Oilment/Gel
+## Oilment to deal with DHT on scalp
 
 My gel of choice is a fantastic product called “HairMetto.” It’s a simple blend of CO2 extracted Saw Palmetto Oil and cold-pressed Pumpkin Seed Oil.
 
@@ -168,7 +168,7 @@ I’ve cited the research on the efficacy of those two herbal treatments in redu
 
 The only downside is that it’s easy to put on too much in a short amount of time, so your scalp becomes overly greasy. I apply it at night after I shower and shampoo, so this created a messy pillow case, but it’s an easy fix.
 
-#### Topical minoxidil+finasteride combination
+## Topical minoxidil+finasteride combination
 
 This combination is a game changer. This is one of those technologies I wish was around when I got my hair transplant back in 2018 ([Source](https://pubmed.ncbi.nlm.nih.gov/35238144/)). By itself, topical finasteride gives you all of the benefits of oral finasteride with none of the side effects. From a May 2022 review of the research on topical finasteride:
 
