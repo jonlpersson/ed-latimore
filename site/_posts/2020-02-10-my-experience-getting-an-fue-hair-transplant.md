@@ -171,7 +171,7 @@ With that said, depending on your ethnicity and hair texture, things can end up 
 
 These transplanted hairs will not fall out, but it is entirely possible for other hair to fall out that was still on the top of your head.
 
-To deal with this, it is recommended that you continue taking minoxidil and finasteride. Dr. Krenitsky recommended I use finasteride, but [some of the stories I've heard about it freaked me out.](https://www.rxlist.com/propecia-side-effects-drug-center.htm){: target="_blank"} Instead, I just apply minoxidil.
+To deal with this, it is recommended that you continue taking minoxidil and finasteride. Dr. Krenitsky recommended I use finasteride, but [some of the stories I've heard about it freaked me out.](https://www.rxlist.com/propecia-side-effects-drug-center.htm){: target="_blank"} Instead, I follow a protocol I created to keep my hair intact my remaining hair in tact—&gt;[My early hair loss hair retention protocol](/early-hair-loss-hair-retention-method/)
 
 ![15 months after hair transplant](/assets/images/posts/2020/15-months-after-fue-transplant.png){: width="560" height="315"}
 
