@@ -8,7 +8,7 @@ tags:
 description: >-
   Do these things to maintain your hair (and even regrow it) IF you catch the
   loss early. This also works great for post-hair transplant retention.
-image:
+image: /assets/images/drafts/latimore-with-hair-in-spain.jpeg
 ---
 I don’t remember when I started losing my hair. I don’t think most who suffer from male pattern baldness ever do. However, most of us remember when someone else points out that we’re losing hair.
 
