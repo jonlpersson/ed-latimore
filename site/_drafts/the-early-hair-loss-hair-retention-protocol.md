@@ -172,7 +172,7 @@ The only downside is that it’s easy to put on too much in a short amount of ti
 
 This combination is a game changer. This is one of those technologies I wish was around when I got my hair transplant back in 2018 ([Source](https://pubmed.ncbi.nlm.nih.gov/35238144/)). By itself, topical finasteride gives you all of the benefits of oral finasteride with none of the side effects. From a May 2022 review of the research on topical finasteride:
 
-\[**insert image for oral finasteride study\]**
+![The power of topical finasteride](/assets/images/drafts/efficacy-of-topical-finasteride-in-hair-loss.png "The power of topical finasteride"){: width="1466" height="578"}
 
 That study just mentions the effects of topical finasteride and only hints at the power of minoxidil and finasteride combined (“a combination of topical minoxidil and topical finasteride may enhance efficacy”).
 
