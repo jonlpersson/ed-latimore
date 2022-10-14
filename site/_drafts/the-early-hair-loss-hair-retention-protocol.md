@@ -115,7 +115,7 @@ Well, it’s not exactly that fungus but it’s some fungus. And we know that by
 
 *Androgenetic alopecia (AGA) is a common yet poorly understood condition. In particular, the significance of inflammatory cells close to the infrainfundibulum of transitional hairs remains obscure. This study was conducted in 20 men who used a lotion containing the antimicrobials, piroctone olamine and triclosan, regularly for 18 months. At entry, mild pruritus and abnormal hair loss were reported by the volunteers. During treatment, pruritus resolved rapidly. Comparison of clinical photographs and trichograms taken at 3-month intervals suggested signs of hair regrowth with moderate increase in density of transitional hairs.*
 
-### A simple take on the role of insulin resistance in hair loss
+## The role of insulin resistance in androgentic alopecia
 
 Insulin resistance is when your muscles, fat, and liver doesn’t respond well to insulin and can’t easily take up glucose from your blood. As a result, your pancreas makes more insulin to help glucose enter your cells.
 
