@@ -16,7 +16,11 @@ When I was 27, a guy I boxed with pointed out that I was going bald. At age 28, 
 
 I tried minoxidil (Rogaine foam) with hardly any results. I also tried finasteride (Propecia) pills, but I stopped because I got a strange pain in my groin that lined up with a lot of the crazy symptoms I’d read about in regards to Propecia.
 
-Eventually, I got 2 FUE hair transplants and I got back a full head of hair. Except there was only one problem: It’s possible to still lose hair that hadn’t fallen out. This meant that I would need to do something to keep my remaining hair from falling out. From that problem, my hair retention protocol was born.
+Eventually, I got 2 FUE hair transplants and I got back a full head of hair. Except there was only one problem: It’s possible to still lose hair that hadn’t fallen out.
+
+![From 6/21. Hair falling out in areas not affected by the transplant.](/assets/images/drafts/ed-latimore-alaska-hair-loss.png "From 6/21. Hair falling out in areas not affected by the transplant."){: width="450" height="429"}
+
+This meant that I would need to do something to keep my remaining hair from falling out. From that problem, my hair retention protocol was born.
 
 ## Warnings about the hair retention protocol
 
