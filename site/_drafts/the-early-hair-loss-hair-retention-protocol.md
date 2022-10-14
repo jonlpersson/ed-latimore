@@ -53,3 +53,18 @@ I don’t think vanity is a bad thing. Like many traits, it’s only a problem i
 These guys usually just let nature take its course, eventually resorting to just shaving it all off. However, I know the power of appearances and I know that I simply look better with a full crown and sharp hairline.
 
 With all of those things out of the way, here is the routine I use to maintain the hair I have left now that I’ve replaced enough to care about keeping what’s left.
+
+## Wide overview of how this protocol stops early hair loss
+
+The strategic aims of the hair loss prevention/retention plan are as follows:
+
+* Regulate the body’s natural production of DHT (i.e., no ingestion of finasteride/propecia)
+* Neutralize and overpower the effect of DHT in the scalp
+* Address insulin resistance
+* Address inflammation
+
+This will be accomplished for a fraction of the cost of a full-blown FUE transplant.
+
+Even the most expensive version of this protocol will cost less than $100/month and it will \*definitely\* (95-99%) stop your hair loss. It will \*almost certainly” (70-95%) thicken the hair you have remaining (why this program is ideal for catching hair loss early, and it has a \*pretty good chance\* (50-60%) of regrowing your hair.
+
+If you want the scientific reasoning behind this protocol, then the next few sections are for you. However, if just want to get to the protocol, you can skip ahead by clicking here—&gt;The Hair Retention Protocol.
