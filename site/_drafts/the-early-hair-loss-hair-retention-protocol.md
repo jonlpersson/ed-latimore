@@ -54,7 +54,7 @@ These guys usually just let nature take its course, eventually resorting to just
 
 With all of those things out of the way, here is the routine I use to maintain the hair I have left now that I’ve replaced enough to care about keeping what’s left.
 
-## Wide overview of how this protocol stops early hair loss
+## How this protocol stops early hair loss (and can even reverse some intermediate hair loss)
 
 The strategic aims of the hair loss prevention/retention plan are as follows:
 
@@ -69,7 +69,7 @@ Even the most expensive version of this protocol will cost less than $100/month 
 
 If you want the scientific reasoning behind this protocol, then the next few sections are for you. However, if just want to get to the protocol, you can skip ahead by clicking here—&gt;The Hair Retention Protocol.
 
-### How DHT works and why it causes hair loss
+## How DHT works and why it causes hair loss
 
 Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is vital hormone for masculinity.&nbsp;
 
@@ -103,7 +103,7 @@ It’s also worth noting that there are negatives when DHT levels in the body ar
 
 Many guys who are on steroids that increase testosterone (and thus increase DHT conversion) get acne for exactly this reason. Their testosterone levels are elevated so now their bodies have more testosterone to convert to DHT. Those this can happen naturally as well from increases in muscle and lowering body fat (activities which increase testosterone), back acne is typically the result of artificially inflated levels of testosterone being converted to DHT.
 
-### A simple explanation of the role of inflammation and fungus in male pattern baldness
+## The role of inflammation and fungus in male pattern baldness
 
 DHT gets all the attention for male pattern baldness (and rightfully so), so many people are completely unaware of inflammation’s role in hair loss. We know from [research like this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7667670/) that inflammation plays a significant role in hair loss.
 
