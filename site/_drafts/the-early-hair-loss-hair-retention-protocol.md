@@ -132,3 +132,48 @@ Lastly, it is known that studies have shown a “significant reduction in sex ho
 [This study](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.1983.tb03538.x) found that “there was a significant reduction in SHBG levels in bald men, compared with controls.” [This study here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3877475/) also found the same thing. One idea here is that&nbsp; Low levels of SHBG have been strongly correalted to an increase in Homestatic Model Assessment of Insulin Resistance (HOMA-IR) score ([source](https://onlinelibrary.wiley.com/doi/10.1111/cen.12086)).&nbsp;
 
 Lower SHBG results in higher amounts of unbound free testosterone in the blood. From there, the increased free testosterone can be converted into excessive amounts of DHT through 5-alpha reductase. This is the proposed mechanism of low SHGB leading to higher levels of hair loss.&nbsp;
+
+## How to slow down or reverse hair loss: The hair retention protocol
+
+### Reduce concentrations of DHT and inflammation in the scalp
+
+We don’t want to reduce the amount of DHT circulating by using drugs. [The side effects are well documented](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3481923/). If you have to take the medication for issues related to your prostate, ignore everything I’m saying here. This should go without saying, but let me cover my ass (again): this is not medical advice. I’m not a doctor. I’m just a dude who likes keeping his hair and has discovered some things that work.
+
+We also need to combat inflammation. This means dealing with the causes of the inflammation response. Keep in mind that inflammation is a natural response the body has to injury or pathogen to protect you. Therefore, we’ll be dealing with the pathogens that are causing the inflammatory response.&nbsp;
+
+So, our first goal is to reduce DHT concentration in the scalp and to do so WITHOUT disrupting our hormone profile. This means topical treatments. Your topical regime will take place with 3 weapons: shampoo, ointment/gel, and topical finasteride/minoxidil:
+
+#### Shampoo
+
+Tons of shampoos offer DHT blockers. I’ll tell you the two products that I use and also give you the basic ingredient list you should look for to make sure that you’re getting the real deal. I use Professional Strength Hair Restore Shampoo and Nizoral.
+
+Professional Strength Hair Restore Shampoo contains a host of natural ingredients that have been shown to lower DHT concentrations in the scalp and combat inflammation. There are others, but these are the six most effective ingredients:
+
+* Green Tea Extract: Contains Epigallocatechin Gallate (EGCG). This is the main component of green tea that stimulates human hair growth via its proliferative and antiapoptotic (preventing death) function on dermal papilla (hair follicle) cells also affects type I, 5-alpha-reductase activity that converts testosterone to DHT ([Source](https://pubmed.ncbi.nlm.nih.gov/17092697/))
+* Black Seed Oil: Black seed oil is a powerful, natural antifungal, antimicrobial, antiviral, and antiinflammatory agent ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5735686/)). It is particularly effective against Candida albicans, a yeast that causes a scalp infection that can induce hair loss ([Source](https://pubmed.ncbi.nlm.nih.gov/33496068/)).
+* Saw Palmetto: Five randomized clinical trials (RCTs) and 2 prospective cohort studies demonstrated positive effects of topical and oral supplements containing SP (100-320 mg) among patients with androgenetic alopecia ([Source](https://pubmed.ncbi.nlm.nih.gov/33313047/)).&nbsp;
+* Pumpkin Seed Oil: Pumpkin seed oil inhibuits 5-alpha-reductase activity ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017725/)).&nbsp;
+* Rosemary: Rosemary has been shown to work just as well as Minoxidil with fewer adverse effects. “Both groups experienced a significant increase in hair count at the 6-month endpoint compared with the baseline and 3-month endpoint” ([Source](https://pubmed.ncbi.nlm.nih.gov/25842469/)).
+* Ketocanozole: Ketoconazole effectively treats the Pityriasis (also called Malassezia) fungus that commonly inhabits the scalp. It is believed that it may prevent hair loss by reducing inflammation from the fungus, in addition to have some DHT blocking properties ([Source](https://pubmed.ncbi.nlm.nih.gov/9669136/))
+
+That last ingredient is present in small amounts, so I just went ahead and got the Ketocanozole shampoo. I like to alternate between the two. Plus the Nizoral shampoo wonderful anti-dandruff properties.
+
+These are the not only ingredients in the Professional Strength Hair Restore Shampoo, but they are the ingredients that have produced the most significant outcomes in clinical trials.
+
+#### Oilment/Gel
+
+My gel of choice is a fantastic product called “HairMetto.” It’s a simple blend of CO2 extracted Saw Palmetto Oil and cold-pressed Pumpkin Seed Oil.
+
+I’ve cited the research on the efficacy of those two herbal treatments in reducing 5-alpha-reductase activity which leads to a higher concentration of DHT present. I’ve been using this oil as a supplement to the other parts of my hair loss regime for over a year now.
+
+The only downside is that it’s easy to put on too much in a short amount of time, so your scalp becomes overly greasy. I apply it at night after I shower and shampoo, so this created a messy pillow case, but it’s an easy fix.
+
+#### Topical minoxidil+finasteride combination
+
+This combination is a game changer. This is one of those technologies I wish was around when I got my hair transplant back in 2018 ([Source](https://pubmed.ncbi.nlm.nih.gov/35238144/)). By itself, topical finasteride gives you all of the benefits of oral finasteride with none of the side effects. From a May 2022 review of the research on topical finasteride:
+
+\[**insert image for oral finasteride study\]**
+
+That study just mentions the effects of topical finasteride and only hints at the power of minoxidil and finasteride combined (“a combination of topical minoxidil and topical finasteride may enhance efficacy”).
+
+The following study demonstrates that it works just as well (and many cases, better) than taking oral finasteride and topical minoxidil separately ([Study source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)). That study collect photographs, so it’s quite cool to see how it works.
