@@ -89,7 +89,7 @@ If we lower DHT in the whole body, we essentially erase a vital chemical compone
 
 These changes are the reason why I’m against taking Propecia or finasteride to slow down hair loss. I like a nice full of head as much as the next guy, but I’m not willing suffer through those side effects to get my hair back. Put another way, the costs of finesteride exceeds its value.
 
-**\[screenshot of study showing why low DHT makes beard growth impossible\]**
+![Why low DHT can be bad for you](/assets/images/drafts/why-low-dht-is-bad-for-you.png "The study also points out that if DHT is too low, secondary sex characteristics don't develop."){: width="1808" height="1144"}
 
 DHT binds with androgen receptors, and it’s been found that there are both more androgen receptors and DHT in the scalp where balding occurs than in the areas resistant to balding. This is why the hair in these areas almost never falls out and are used as the donor site for hair transplants.
 
