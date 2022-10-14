@@ -177,3 +177,23 @@ This combination is a game changer. This is one of those technologies I wish was
 That study just mentions the effects of topical finasteride and only hints at the power of minoxidil and finasteride combined (“a combination of topical minoxidil and topical finasteride may enhance efficacy”).
 
 The following study demonstrates that it works just as well (and many cases, better) than taking oral finasteride and topical minoxidil separately ([Study source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)). That study collect photographs, so it’s quite cool to see how it works.
+
+## Simple diet to control insulin to deal with SHBG&nbsp;
+
+Our dietary changes and modifications with supplements are done to accomplish 2 primary objectives:
+
+1. Keep insulin levels as low as possible for as long as possible. Ideally, this means that we’re able to keep our insulin levels below 5 uIU/ml when fasting, and they should fall below 30 ulU/ml after 2 hours of eating.
+2. Keep blood sugar from spiking too high or too fast.&nbsp;
+
+The reason behind this is because of what we know about the relationships between hair loss, SHBG, and insulin. A 1994 study aptly titled “The relationship between serum levels of insulin and sex hormone-binding globulin in men” found that SHBG doesn’t affect insulin, but insulin has a desynthesizing affect on SHBG ([Source](https://pubmed.ncbi.nlm.nih.gov/7962291/)).
+
+So we aim to optimize our SHBG by optimizing our insulin. The best part about this part of the plan is that it’s going to naturally get you into better shape as a result.
+
+Let’s start with the general rules that you need to follow, 80% of the time. These don’t need to be unbreakable dogma. Rather, it’s best to look at these guidelines to follow most of the time for most meals. Of course, you can commit to eating like this for the rest of your days,every day. That’d be fine too. The guidelines are:
+
+1. If it has an ingredient label, don’t eat it. The goal here is to avoid added refined sugars and processed seed oils.
+2. If it’s white, don’t eat it. That’s going to eliminate sugar, flour, and bread. It also technically eliminates cauliflower and potatoes. This isn’t intentionally a low-carb diet. It removes refined and processed carbohydrates, as those are the main culprits for keeping our insulin levels elevated constantly.
+3. Don’t drink your calories. Water, diet soda, coffee, or tea. Not only is this another insulin management technique, but it turns out that caffeine has an inhibitory affect on DHT ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500065/)).
+4. Intermittent fasting. Your insulin spikes when you eat. So snacking all day keeps insulin levels elevated all day. When you reduce your window of feeding, you reduce insulin spikes.
+
+This lifestyle has numerous other benefits, but the one we’re primary concerned with is how it will keep the SHBG levels optimal by keeping insuli levels to a minimum, only raising them when necessary (after a delicious, healthy meal).
