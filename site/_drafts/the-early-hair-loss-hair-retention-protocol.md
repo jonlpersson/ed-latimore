@@ -197,3 +197,29 @@ Let’s start with the general rules that you need to follow, 80% of the time. T
 4. Intermittent fasting. Your insulin spikes when you eat. So snacking all day keeps insulin levels elevated all day. When you reduce your window of feeding, you reduce insulin spikes.
 
 This lifestyle has numerous other benefits, but the one we’re primary concerned with is how it will keep the SHBG levels optimal by keeping insuli levels to a minimum, only raising them when necessary (after a delicious, healthy meal).
+
+## Supplementary tools to help slow down or reverse early hair loss
+
+These are tools that will greatly assist you in your journey to keep your hair from falling out too early. They don’t work by reducing inflammation, DHT, or insulin levels. Their mechanism of action is a little more complex and/or not completely understood, but the research shows they work just as well—if not better—than some of these stand alone options.
+
+## Dermarolling/Microneedling
+
+This is the only treatment that will cause you a pain. Granted, it’s not a high level of pain, but it’s the only treatment that comes with it.
+
+It’s a simple procedure. You buy a dermaroller with 1.5 mm needles and 1-3 times a week, roll the over your scalp in a horizontal,&nbsp; vertical, and diagonal directions until your skin feels slightly irritated even when you aren’t rolling.
+
+Scientist have posited a numnber of ways this could work, but no one is quite sure what the mechanism is. It’s just been shown to work.
+
+The research that evaluated the efficacy of this technique conducted the trials with a 5% minoxidil solution to get even more powerful results ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)). Fortunately, using a topical minoxidil solution is part of the hair loss prevention protocol.&nbsp;
+
+## Low level laser therapy (LLLT)
+
+Low level laser therapy is a powerful technology that use low power lasers to stimulate growth. The technology works because low level lasers have been shown to activate mitochondria.
+
+It’s also assumed that low level light therapy shortens the telogen phase so that hair follicles enter the anagen phase more quickly. It’s also assumed to prolong duration of anagen phase by increasing rates of proliferation in active anagen hair follicles and to prevent premature passage into the catagen phase.
+
+I wear my Bosely Low Low Level Light Therapy cap for 8 minutes a day, but there is also a second setting that is just as effective at 30 minutes every two days.
+
+This is the most expensive option on this list (by a fairly significant margin), but it’s also the one with the highest success profile. If you’re willing to cough up the $1500, this is a fantastic entry into your repertoire.
+
+I wrote even more about the technology of the LLLT cap here—&gt;[How LLLT works to regrow hair](https://edlatimore.com/low-level-light-therapy-for-hair-loss/)
