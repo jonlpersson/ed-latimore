@@ -22,6 +22,8 @@ Eventually, I got 2 FUE hair transplants and I got back a full head of hair. Exc
 
 This meant that I would need to do something to keep my remaining hair from falling out. From that problem, my hair retention protocol was born.
 
+![From 8/22. Over a year of following the protocol. Hair has evened out.](/assets/images/drafts/on-mediterranean-sea-with-hair.jpeg "From 8/22. Over a year of following the protocol. Hair has evened out."){: width="450" height="450"}
+
 ## Warnings about the hair retention protocol
 
 Before I tell you what to do, I have to give you a few caveats about this protocol.&nbsp;
