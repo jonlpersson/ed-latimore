@@ -223,3 +223,16 @@ I wear my Bosely Low Low Level Light Therapy cap for 8 minutes a day, but there 
 This is the most expensive option on this list (by a fairly significant margin), but it’s also the one with the highest success profile. If you’re willing to cough up the $1500, this is a fantastic entry into your repertoire.
 
 I wrote even more about the technology of the LLLT cap here—&gt;[How LLLT works to regrow hair](https://edlatimore.com/low-level-light-therapy-for-hair-loss/)
+
+## Implementing the hair loss protocol
+
+1. The diet is daily. Change your eating habits immediately and live by it.
+2. Microneedling with a 1.5 mm dermaroller is only done 1-3 times a week. You really shouldn’t be able to do it more than than IF you’re doing it correctly.
+3. Wait at least 12 hours after dermarolling before you add the minoxidil+finasteride. However, you can use the HairMetto right after. I do, as it won’t sting my head. The solution contains alcohol.
+4. If you get the low level laser therapy cap, you can use that every day. Or every other day, if you follow that setting.&nbsp;
+5. Outside of microneedling days, I typically spray my minoxidil+finasteride combination on in the morning and in the evening. I use the Hairmetto on the days that use the dermaroller.
+6. I recommend shampoo every time I shower. I recommended using the Professional Strength Hair Restore Shampoo shampoo most of the time. I apply before I wash the rest of the body so that it soaks on my scalp. Then I rinse and apply one more time before getting out. On the second go through, I sometimes switch up to the Nizoral.
+
+If you follow this hair loss protocol, you’ve got a great shot at slowing down your hair loss IF it’s caused by androgenetic alopecia. There’s a good chance this is you, so this protocol will do great and buy you some time until you can save up for a more permanent solution—like an FUE.
+
+Until then, the rest is up to you.&nbsp;
