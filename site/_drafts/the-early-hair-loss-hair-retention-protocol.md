@@ -69,7 +69,7 @@ Even the most expensive version of this protocol will cost less than $100/month 
 
 If you want the scientific reasoning behind this protocol, then the next few sections are for you. However, if just want to get to the protocol, you can skip ahead by clicking here—&gt;The Hair Retention Protocol.
 
-### A simple, not too technical, explanation of how DHT works
+### How DHT works and why it causes hair loss
 
 Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is vital hormone for masculinity.&nbsp;
 
@@ -95,7 +95,9 @@ DHT binds with androgen receptors, and it’s been found that there are both mor
 
 Experts believe that hair loss occurs due to increased concentrations of both 5-alpha-reductase and androgen receptions, they are not sure exactly how it works. The probable theory put forth is that the same gene which controls the hair follicles growth cycle is influenced by the androgen DHT([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6989660/)).
 
-While the following is causative, it’s strong correlation and confirms why certain treatments work and others are just snake oil: **\[insert screenshot from study\]**
+While the following is causative, it’s strong correlation and confirms why certain treatments work and others are just snake oil:
+
+![The proof that DHT causes hair loss](/assets/images/drafts/research-proof-dht-causes-hair-loss.png "The proof that DHT causes hair loss"){: width="1822" height="1140"}
 
 It’s also worth noting that there are negatives when DHT levels in the body are too high. High levels of DHT cause acne, a receding hair line, and hair loss at the crown. The last two issues make sense and is what this article is devoted to stopping, but the acne is issue is one that many people outside of the bodybuilding world aren’t familiar with.
 
