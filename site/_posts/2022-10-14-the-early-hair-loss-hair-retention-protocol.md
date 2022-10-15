@@ -73,7 +73,7 @@ This will be accomplished for a fraction of the cost of a full-blown FUE transpl
 
 Even the most expensive version of this protocol will cost less than $100/month and it will \*definitely\* (95-99%) stop your hair loss. It will \*almost certainly” (70-95%) thicken the hair you have remaining (why this program is ideal for catching hair loss early, and it has a \*pretty good chance\* (50-60%) of regrowing your hair.
 
-If you want the scientific reasoning behind this protocol, then the next few sections are for you. However, if just want to get to the protocol, you can skip ahead by clicking here—&gt;The Hair Retention Protocol.
+If you want the scientific reasoning behind this protocol, then the next few sections are for you. However, if just want to get to the protocol, you can skip ahead by clicking here—&gt;[The Hair Retention Protocol.](https://edlatimore.com/early-hair-loss-hair-retention-method/#how-to-slow-down-or-reverse-hair-loss-the-hair-retention-protocol)
 
 ## How DHT works and why it causes hair loss
 
