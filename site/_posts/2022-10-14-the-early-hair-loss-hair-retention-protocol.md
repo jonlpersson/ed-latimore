@@ -153,6 +153,8 @@ So, our first goal is to reduce DHT concentration in the scalp and to do so WITH
 
 Tons of shampoos offer DHT blockers. I’ll tell you the two products that I use and also give you the basic ingredient list you should look for to make sure that you’re getting the real deal. I use Professional Strength Hair Restore Shampoo and Nizoral.
 
+![Professional Strength Hair Restore Shampoo Is my go to shampoo to slow hair loss](/assets/images/posts/professional-strength-hair-restore-shampoo.jpg "Professional Strength Hair Restore Shampoo Is my go to shampoo to slow hair loss"){: width="450" height="600"}
+
 Professional Strength Hair Restore Shampoo contains a host of natural ingredients that have been shown to lower DHT concentrations in the scalp and combat inflammation. There are others, but these are the six most effective ingredients:
 
 * Green Tea Extract: Contains Epigallocatechin Gallate (EGCG). This is the main component of green tea that stimulates human hair growth via its proliferative and antiapoptotic (preventing death) function on dermal papilla (hair follicle) cells also affects type I, 5-alpha-reductase activity that converts testosterone to DHT ([Source](https://pubmed.ncbi.nlm.nih.gov/17092697/))
