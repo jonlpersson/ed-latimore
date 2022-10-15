@@ -166,6 +166,8 @@ Professional Strength Hair Restore Shampoo contains a host of natural ingredient
 
 That last ingredient is present in small amounts, so I just went ahead and got the Ketocanozole shampoo. I like to alternate between the two. Plus the Nizoral shampoo wonderful anti-dandruff properties.
 
+![My bottle of Nizoral anti-DHT shampoo](/assets/images/posts/nizoral-dht-blocking-shampoo.jpg "My bottle of Nizoral anti-DHT shampoo"){: width="350" height="467"}
+
 These are the not only ingredients in the Professional Strength Hair Restore Shampoo, but they are the ingredients that have produced the most significant outcomes in clinical trials.
 
 ## Oilment to deal with DHT on scalp
