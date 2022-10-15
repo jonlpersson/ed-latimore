@@ -176,6 +176,8 @@ My gel of choice is a fantastic product called “HairMetto.” It’s a simple 
 
 I’ve cited the research on the efficacy of those two herbal treatments in reducing 5-alpha-reductase activity which leads to a higher concentration of DHT present. I’ve been using this oil as a supplement to the other parts of my hair loss regime for over a year now.
 
+![My bottle of Hairmetto](/assets/images/posts/hairmetto-dht-blocking-gel.jpg "My bottle of Hairmetto"){: width="450" height="600"}
+
 The only downside is that it’s easy to put on too much in a short amount of time, so your scalp becomes overly greasy. I apply it at night after I shower and shampoo, so this created a messy pillow case, but it’s an easy fix.
 
 ## Topical minoxidil+finasteride combination
@@ -185,6 +187,8 @@ This combination is a game changer. This is one of those technologies I wish was
 ![The power of topical finasteride](/assets/images/drafts/efficacy-of-topical-finasteride-in-hair-loss.png "The power of topical finasteride"){: width="1466" height="578"}
 
 That study just mentions the effects of topical finasteride and only hints at the power of minoxidil and finasteride combined (“a combination of topical minoxidil and topical finasteride may enhance efficacy”).
+
+![My minoxidil+finasteride topical spray](/assets/images/posts/minoxidil-and-finasteride-spray.jpg "My minoxidil+finasteride topical spray"){: width="350" height="467"}
 
 The following study demonstrates that it works just as well (and many cases, better) than taking oral finasteride and topical minoxidil separately ([Study source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)). That study collect photographs, so it’s quite cool to see how it works.
 
@@ -217,6 +221,8 @@ These are tools that will greatly assist you in your journey to keep your hair f
 This is the only treatment that will cause you a pain. Granted, it’s not a high level of pain, but it’s the only treatment that comes with it.
 
 It’s a simple procedure. You buy a dermaroller with 1.5 mm needles and 1-3 times a week, roll the over your scalp in a horizontal,&nbsp; vertical, and diagonal directions until your skin feels slightly irritated even when you aren’t rolling.
+
+![My derma roller with 1.5mm needles to help my hair grow](/assets/images/posts/derma-roller-for-hair-loss.jpg "My derma roller with 1.5mm needles to help my hair grow"){: width="450" height="600"}
 
 Scientist have posited a numnber of ways this could work, but no one is quite sure what the mechanism is. It’s just been shown to work.
 
