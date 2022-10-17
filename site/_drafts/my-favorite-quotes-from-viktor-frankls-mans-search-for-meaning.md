@@ -40,7 +40,11 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 
 "Strangely enough, a blow which does not even find its mark can, under certain circumstances, hurt more than one that finds its mark."
 
-**Note:** Frankl telling a story of how a guard noticed he took a short break to catch his breath and instead of recieving a beating, he merely toss a stone. "That, to me, seemed the way to attract the attention of a beast, to call a domestic animal back to its job, a creature with which you have so little in common that you do not even punish it."
+**Note:** Frankl is telling a story of how a guard noticed he took a short break to catch his breath and instead of recieving a beating, he merely toss a stone. "That, to me, seemed the way to attract the attention of a beast, to call a domestic animal back to its job, a creature with which you have so little in common that you do not even punish it."
+
+---
+
+"The meager pleasures of camp life provided a kind of negative happiness—“freedom from suffering” as Schopenhauer put it—and even that in a relative way only."
 
 ## Losing the illusion of hope in the camps
 
@@ -61,3 +65,7 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "Love goes very far beyond the physical person of the beloved. It finds its deepest meaning in his spiritual being, his inner self. Whether or not he is actually present, whether or not he is still alive at all, ceases somehow to be of importance."
+
+## Frankl on judgement
+
+"No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same."
