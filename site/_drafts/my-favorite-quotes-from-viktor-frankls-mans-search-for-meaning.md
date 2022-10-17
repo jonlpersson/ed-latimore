@@ -161,3 +161,7 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "Once the meaning of suffering had been revealed to us, we refused to minimize or alleviate the camp’s tortures by ignoring them or harboring false illusions and entertaining artificial optimism. Suffering had become a task on which we did not want to turn our backs"
+
+---
+
+A man who for years had thought he had reached the absolute limit of all possible suffering now found that suffering has no limits, and that he could suffer still more, and still more intensely.
