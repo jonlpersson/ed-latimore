@@ -74,6 +74,14 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 
 "These former prisoners often say, “We dislike talking about our experiences. No explanations are needed for those who have been inside, and the others will understand neither how we felt then nor how we feel now.”"
 
+---
+
+“There are things which must cause you to lose your reason or you have none to lose.”
+
+---
+
+"An abnormal reaction to an abnormal situation is normal behavior."
+
 ## Survival mentality in the concentration camps
 
 "But the desperately ill received no medicine. It would not have helped, and besides, it would have deprived those for whom there was still some hope."
@@ -81,6 +89,14 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "It is very difficult for an outsider to grasp how very little value was placed on human life in camp."
+
+---
+
+"As I have mentioned before, we had no documents; everyone was lucky to own his body, which, after all, was still breathing."
+
+---
+
+"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
 
 ---
 
