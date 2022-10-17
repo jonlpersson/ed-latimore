@@ -49,3 +49,11 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "There was neither time nor desire to consider moral or ethical issues. Every man was controlled by one thought only: to keep himself alive for the family waiting for him at home, and to save his friends. With no hesitation, therefore, he would arrange for another prisoner, another “number,” to take his place in the transport."
+
+## The power of love
+
+"The truth—that love is the ultimate and the highest goal to which man can aspire. Then I grasped the meaning of the greatest secret that human poetry and human thought and belief have to impart: The salvation of man is through love and in love. I understood how a man who has nothing left in this world still may know bliss, be it only for a brief moment, in the contemplation of his beloved."
+
+---
+
+"n a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way —an honorable way—in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment. For the first time in my life I was able to understand the meaning of the words, “The angels are lost in perpetual contemplation of an infinite glory.”"
