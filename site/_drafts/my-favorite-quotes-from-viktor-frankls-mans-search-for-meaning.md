@@ -69,3 +69,23 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ## Frankl on judgement
 
 "No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same."
+
+---
+
+"These former prisoners often say, “We dislike talking about our experiences. No explanations are needed for those who have been inside, and the others will understand neither how we felt then nor how we feel now.”"
+
+## Survival mentality in the concentration camps
+
+"But the desperately ill received no medicine. It would not have helped, and besides, it would have deprived those for whom there was still some hope."
+
+---
+
+"It is very difficult for an outsider to grasp how very little value was placed on human life in camp."
+
+---
+
+"All that mattered was that one’s own name and that of one’s friend were crossed off the list of victims, though everyone knew that for each man saved another victim had to be found."
+
+---
+
+"There was neither time nor desire to consider moral or ethical issues. Every man was controlled by one thought only: to keep himself alive for the family waiting for him at home, and to save his friends. With no hesitation, therefore, he would arrange for another prisoner, another “number,” to take his place in the transport."
