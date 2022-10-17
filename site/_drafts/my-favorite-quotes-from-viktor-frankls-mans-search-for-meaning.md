@@ -197,3 +197,11 @@ A man who for years had thought he had reached the absolute limit of all possibl
 ---
 
 "As each situation in life represents a challenge to man and presents a problem for him to solve, the question of the meaning of life may actually be reversed. Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible."
+
+---
+
+"But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering—provided, certainly, that the suffering is unavoidable."
+
+---
+
+"Once an individual’s search for a meaning is successful, it not only renders him happy but also gives him the capability to cope with suffering."
