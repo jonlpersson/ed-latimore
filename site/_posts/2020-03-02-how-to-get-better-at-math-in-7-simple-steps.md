@@ -42,6 +42,8 @@ At the age of 33, I not only graduated from Duquesne University with a B.A. in P
 
 Academically, I didn’t get lower than a B in any of my math classes. Professionally, I was doing such a great job as a tutor that I had a new issue: I had to turn down business. So the question is how did I do it??
 
+![Once I truly understood calculus, it was a breeze from there on out!](/assets/images/posts/finally-passing-calculus-1-2-and-3-1.png "Once I truly understood calculus, it was a breeze from there on out!"){: width="500" height="567"}
+
 ***What did I do to finally handle my issues with math?***
 
 How did I go from being a mediocre student in high school who could barely get basic math concepts to earning a degree that’s so math intensive that you automatically get a math minor by completing it?
