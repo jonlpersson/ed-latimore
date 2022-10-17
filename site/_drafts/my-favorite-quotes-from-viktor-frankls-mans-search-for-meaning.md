@@ -57,3 +57,7 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "n a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way —an honorable way—in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment. For the first time in my life I was able to understand the meaning of the words, “The angels are lost in perpetual contemplation of an infinite glory.”"
+
+---
+
+"Love goes very far beyond the physical person of the beloved. It finds its deepest meaning in his spiritual being, his inner self. Whether or not he is actually present, whether or not he is still alive at all, ceases somehow to be of importance."
