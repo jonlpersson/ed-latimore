@@ -5,7 +5,9 @@ title: My favorite quotes from Viktor Frankl's "Man's Search For Meaning"
 permalink: /quotes-from-mans-search-for-meaning
 tags:
   - book-quotes-and-summaries
-description:
+description: >-
+  In Man's Search For Meaning, Viktor Frankl teaches from his experiences
+  surviving the Nazi Concentration. Here are the powerful quotes. 
 image:
 ---
 I recently finished Viktor Frankl's "Man's Search For Meaning.
