@@ -17,3 +17,15 @@ The book is divided into 2 parts: The first part of the book is about Frankl's e
 According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belongs to a list of "the ten most influential books in the United States." At the time of the Frankl's death in 1997, the book had sold over 10 million copies and had been translated into 24 languages.
 
 "Man's Search For Meaning" has It carries many lessons about stoicism, gratitude, and adaptibility. Here are 17 of the most impactful quotes from the book.
+
+## Getting used to the horror of concentration camp brutality
+
+"Disgust, horror and pity are emotions that our spectator could not really feel any more. The sufferers, the dying and the dead, became such commonplace sights to him after a few weeks of camp life that they could not move him any more."
+
+---
+
+"Apathy, the blunting of the emotions and the feeling that one could not care any more, were the symptoms arising during the second stage of the prisoner’s psychological reactions, and which eventually made him insensitive to daily and hourly beatings. By means of this insensibility the prisoner soon surrounded himself with a very necessary protective shell."
+
+---
+
+&nbsp;
