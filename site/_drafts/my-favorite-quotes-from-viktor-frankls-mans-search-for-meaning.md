@@ -82,6 +82,10 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 
 "A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life."
 
+---
+
+"Love is the only way to grasp another human being in the innermost core of his personality. No one can become fully aware of the very essence of another human being unless he loves him."
+
 ## Frankl on judgement
 
 "No man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same."
@@ -165,3 +169,31 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 A man who for years had thought he had reached the absolute limit of all possible suffering now found that suffering has no limits, and that he could suffer still more, and still more intensely.
+
+## Man's search for meaning
+
+"An active life serves the purpose of giving man the opportunity to realize values in creative work, while a passive life of enjoyment affords him the opportunity to obtain fulfillment in experiencing beauty, art, or nature."
+
+---
+
+"But there is also purpose in that life which is almost barren of both creation and enjoyment and which admits of but one possibility of high moral behavior: namely, in man’s attitude to his existence, an existence restricted by external forces."
+
+---
+
+"Man’s search for meaning may arouse inner tension rather than inner equilibrium."
+
+---
+
+"We should not, then, be hesitant about challenging man with a potential meaning for him to fulfill. It is only thus that we evoke his will to meaning from its state of latency."
+
+---
+
+"What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task."
+
+---
+
+"One should not search for an abstract meaning of life. Everyone has his own specific vocation or mission in life to carry out a concrete assignment which demands fulfillment. Therein he cannot be replaced, nor can his life be repeated. Thus, everyone’s task is as unique as is his specific opportunity to implement it."
+
+---
+
+"As each situation in life represents a challenge to man and presents a problem for him to solve, the question of the meaning of life may actually be reversed. Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible."
