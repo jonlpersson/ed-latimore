@@ -54,6 +54,18 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 
 "There was neither time nor desire to consider moral or ethical issues. Every man was controlled by one thought only: to keep himself alive for the family waiting for him at home, and to save his friends. With no hesitation, therefore, he would arrange for another prisoner, another “number,” to take his place in the transport."
 
+---
+
+"The prisoner who had lost faith in the future—his future—was doomed. With his loss of belief in the future, he also lost his spiritual hold; he let himself decline and became subject to mental and physical decay."
+
+---
+
+"Those who know how close the connection is between the state of mind of a man—his courage and hope, or lack of them—and the state of immunity of his body will understand that the sudden loss of hope and courage can have a deadly effect."
+
+---
+
+"The death rate in the week between Christmas, 1944, and New Year’s, 1945, increased in camp beyond all previous experience. In his opinion, the explanation for this increase did not lie in the harder working conditions or the deterioration of our food supplies or a change of weather or new epidemics. It was simply that the majority of the prisoners had lived in the naïve hope that they would be home again by Christmas. As the time drew near and there was no encouraging news, the prisoners lost courage and disappointment overcame them. This had a dangerous influence on their powers of resistance and a great number of them died."
+
 ## The power of love
 
 "The truth—that love is the ultimate and the highest goal to which man can aspire. Then I grasped the meaning of the greatest secret that human poetry and human thought and belief have to impart: The salvation of man is through love and in love. I understood how a man who has nothing left in this world still may know bliss, be it only for a brief moment, in the contemplation of his beloved."
@@ -65,6 +77,10 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "Love goes very far beyond the physical person of the beloved. It finds its deepest meaning in his spiritual being, his inner self. Whether or not he is actually present, whether or not he is still alive at all, ceases somehow to be of importance."
+
+---
+
+"A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life."
 
 ## Frankl on judgement
 
@@ -81,6 +97,14 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "An abnormal reaction to an abnormal situation is normal behavior."
+
+---
+
+"It is apparent that the mere knowledge that a man was either a camp guard or a prisoner tells us almost nothing. Human kindness can be found in all groups, even those which as a whole it would be easy to condemn."
+
+---
+
+"The feelings of the majority of the guards had been dulled by the number of years in which, in ever-increasing doses, they had witnessed the brutal methods of the camp. These morally and mentally hardened men at least refused to take active part in sadistic measures. But they did not prevent others from carrying them out."
 
 ## Survival mentality in the concentration camps
 
@@ -105,3 +129,35 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 ---
 
 "There was neither time nor desire to consider moral or ethical issues. Every man was controlled by one thought only: to keep himself alive for the family waiting for him at home, and to save his friends. With no hesitation, therefore, he would arrange for another prisoner, another “number,” to take his place in the transport."
+
+## Viktor's thoughts on facing hardship
+
+"Dostoevski said once, “There is only one thing that I dread: not to be worthy of my sufferings.” These words frequently came to my mind after I became acquainted with those martyrs whose behavior in camp, whose suffering and death, bore witness to the fact that the last inner freedom cannot be lost. It can be said that they were worthy of their sufferings; the way they bore their suffering was a genuine inner achievement. It is this spiritual freedom—which cannot be taken away—that makes life meaningful and purposeful."
+
+---
+
+"There is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death. Without suffering and death human life cannot be complete."
+
+---
+
+"On entering camp a change took place in the minds of the men. With the end of uncertainty there came the uncertainty of the end. It was impossible to foresee whether or when, if at all, this form of existence would end."
+
+---
+
+"A man who let himself decline because he could not see any future goal found himself occupied with retrospective thoughts."
+
+---
+
+"It is a peculiarity of man that he can only live by looking to the future—sub specie aeternitatis. And this is his salvation in the most difficult moments of his existence, although he sometimes has to force his mind to the task."
+
+---
+
+"Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it."
+
+---
+
+"When a man finds that it is his destiny to suffer, he will have to accept his suffering as his task; his single and unique task. He will have to acknowledge the fact that even in suffering he is unique and alone in the universe. No one can relieve him of his suffering or suffer in his…"
+
+---
+
+"Once the meaning of suffering had been revealed to us, we refused to minimize or alleviate the camp’s tortures by ignoring them or harboring false illusions and entertaining artificial optimism. Suffering had become a task on which we did not want to turn our backs"
