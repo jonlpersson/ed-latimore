@@ -8,7 +8,7 @@ tags:
 description: >-
   In Man's Search For Meaning, Viktor Frankl teaches from his experiences
   surviving the Nazi Concentration. Here are the powerful quotes. 
-image:
+image: /assets/images/drafts/mans-search-for-meaning.jpeg
 ---
 I recently finished Viktor Frankl's "Man's Search For Meaning.
 
