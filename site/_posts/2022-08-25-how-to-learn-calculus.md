@@ -22,6 +22,8 @@ For example, the algorithms that keep you watching more content on social media 
 
 Calculus is the study of rates of change over tiny intervals of time. The problem is, though it has real-world applications, learning calculus is mostly about learning to use it in theory vs application. This turns off beginners and anyone who might have a natural inclination toward it.
 
+![Finally passed Calculus 1, 2, and 3. Snuck in Statistics as well](/assets/images/posts/finally-passing-calculus-1-2-and-3.png "Finally passed Calculus 1, 2, and 3. Snuck in Statistics as well"){: width="500" height="567"}
+
 ## The genius myth
 
 Some people have a different set of mental faculties but what we think of as a genius is rarely inherent brain power. More often, genius is an uncanny/uncommon desire and ability to focus on a subject until it’s learned.
