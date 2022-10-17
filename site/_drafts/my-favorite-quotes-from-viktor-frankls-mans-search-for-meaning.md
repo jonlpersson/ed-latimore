@@ -28,4 +28,24 @@ According to the Library of Congress,&nbsp;*Man's Search for Meaning*&nbsp;belon
 
 ---
 
-&nbsp;
+"Apathy, the main symptom of the second phase, was a necessary mechanism of self-defense. Reality dimmed, and all efforts and all emotions were centered on one task: preserving one’s own life and that of the other fellow."
+
+## Coping with unreasonable cruelty
+
+"At such a moment it is not the physical pain which hurts the most (and this applies to adults as much as to punished children); it is the mental agony caused by the injustice, the unreasonableness of it all."
+
+**Note:** Frankl telling the story of receiving a beating for being a little out of symmetry in a line for bread rations
+
+---
+
+"Strangely enough, a blow which does not even find its mark can, under certain circumstances, hurt more than one that finds its mark."
+
+**Note:** Frankl telling a story of how a guard noticed he took a short break to catch his breath and instead of recieving a beating, he merely toss a stone. "That, to me, seemed the way to attract the attention of a beast, to call a domestic animal back to its job, a creature with which you have so little in common that you do not even punish it."
+
+## Losing the illusion of hope in the camps
+
+"All that mattered was that one’s own name and that of one’s friend were crossed off the list of victims, though everyone knew that for each man saved another victim had to be found."
+
+---
+
+"There was neither time nor desire to consider moral or ethical issues. Every man was controlled by one thought only: to keep himself alive for the family waiting for him at home, and to save his friends. With no hesitation, therefore, he would arrange for another prisoner, another “number,” to take his place in the transport."
