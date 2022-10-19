@@ -1,8 +1,8 @@
 ---
 date: 2017-07-15 16:33:00 -0400
 article_type: Article
-title: What separates professionals from amateurs
-permalink:
+title: 7 main differences between professionals and amateurs
+permalink: /professional-vs-amateur
 tags:
   - boxing-lessons
 image: /assets/images/posts/chase-jarvis.jpg
@@ -167,7 +167,7 @@ Pros understand that there is enough success to go around. They know that they h
 
 Amateurs, on the other hand, have a scarcity mindset. They don't believe in helping others, because they don't want to create potential competitors.
 
-## Wrapping up…
+## What's the difference between amateurs and professionals?
 
 Again, what separates the pro from the amateur isn't money, success, or talent.
 
