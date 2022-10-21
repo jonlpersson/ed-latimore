@@ -39,7 +39,7 @@ The goal is to minimize your pure risk while maximizing your speculative risk. S
 
 Do more things where you can possibly win and less where you can only lose.
 
-[Professional and amateur](/what-separates-professionals-from-amateurs/) boxing taught me how important it is to be willing to face your fears and take calculated risks. In this post, I teach you how to embody that mindset.
+[Professional and amateur](/professional-vs-amateur) boxing taught me how important it is to be willing to face your fears and take calculated risks. In this post, I teach you how to embody that mindset.
 
 ## 1) Failure feels worse than it actually is
 
