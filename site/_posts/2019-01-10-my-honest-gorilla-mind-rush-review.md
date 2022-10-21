@@ -85,7 +85,7 @@ It's difficult to maintain top energy levels for a long period of time, but GMR 
 
 I get in the zone real quick and I'm able to keep it up for my whole workout session.
 
-If you're looking to get that extra edge in the gym—*especially* if you're a competitive or professional athlete (or just [want to get to the level of one](/what-separates-professionals-from-amateurs/))—GMR is great. For maximum benefits, time your workout so that you work out about an hour and a half after consuming the Gorilla Mind Rush nootropic.
+If you're looking to get that extra edge in the gym—*especially* if you're a competitive or professional athlete (or just [want to get to the level of one](/how-to-get-into-boxing/))—GMR is great. For maximum benefits, time your workout so that you work out about an hour and a half after consuming the Gorilla Mind Rush nootropic.
 
 Having taken GMR for a number of months now, I've noticed the following main benefits:
 
