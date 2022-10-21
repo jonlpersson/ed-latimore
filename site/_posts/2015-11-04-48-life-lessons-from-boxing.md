@@ -53,7 +53,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **8)** Improve the process to improve the outcome, but don’t worry too much if the outcome isn't perfect if you still accomplish the general objective. When you're in a firefight, "ready-fire-aim" will save you faster than "ready-aim-fire." Better to execute effectively than perfectly.
 
-**9)** [Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.](/what-separates-professionals-from-amateurs/) Until you start drilling your techniques to the point of mind-numbing boredom, you're taking the scenic route to mastery rather than the superhighway.
+**9)** [Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.](/how-to-think-like-a-professional-fighter/) Until you start drilling your techniques to the point of mind-numbing boredom, you're taking the scenic route to mastery rather than the superhighway.
 
 ![Professional boxing Ed Latimore](/assets/images/posts/FightingPose.jpg "Not a perfect right hand, but it does the job")
 
