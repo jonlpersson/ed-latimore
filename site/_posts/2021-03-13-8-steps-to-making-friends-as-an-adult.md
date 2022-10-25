@@ -20,7 +20,7 @@ Technology has made distant relationships close but close relationships distant.
 
 We could blame the lockdowns for social isolation, but really, that’s a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem. I’ll tell you why.
 
-## Accept that you're bad at socializing
+## Accept that you're bad at making social connections
 
 This is because most of us have never had someone teach us.
 
