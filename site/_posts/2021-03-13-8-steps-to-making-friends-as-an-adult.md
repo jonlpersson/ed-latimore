@@ -33,7 +33,7 @@ This is because most of us have never had someone teach us.
 * For 36%, popularity peaks before age 21
 * 82% feel like friendships are hard to find
 
-In other words, the research shows that adults are terrible at building and maintaining a social circle.
+In other words, the research shows that adults are terrible at building and maintaining a circle of friends.
 
 Maybe we got used to being casual friends with classmates or teammates. We carried that dynamic into college. But when university life ends, those acquaintanceships fade. [Social media keeps us busy](https://edlatimore.com/how-to-get-more-twitter-followers/) with the illusion of a social life, but it really just distracts us from hunger pangs for real human connection.
 
