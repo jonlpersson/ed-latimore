@@ -10,11 +10,11 @@ description: >-
   this article, I lay out how to make friends as an adult without the bar scene.
 image: /assets/images/thumbnails/friendsafterboxingmatch.jpeg
 ---
-I saw a tweet the other day that read, “haha I'm so lonely lol.” Though the world is coming out of a social distancing protocol that left most people feeling lonely, this was echoed in a deeper sense.
+I saw a tweet the other day that read asking people how they made friends as an adult. Though the world is coming out of a social distancing protocol that left most people feeling lonely, this was echoed in a deeper sense.
 
-I've talked to many adults, and they feel like no true friends or meaningful relationships in their life. Adult lives are hectic and busy, but that's no reason to neglect the most important thing: our social relationships.&nbsp;
+I've talked to many adults, and they feel like they don't have any true friends or meaningful relationships in their life. Adult lives are hectic and busy, but that's no reason to neglect the most important thing: our social relationships.&nbsp;
 
-Public declarations like this reveal the state of society.
+![A tweet asking how you made friends as an adult](/assets/images/posts/how-to-make-friends-as-an-adult-question.png "A tweet asking how you made friends as an adult"){: width="450" height="219"}
 
 Just about every person on the face of the earth is one tweet, one status update, or one email away but we still feel alone.
 
