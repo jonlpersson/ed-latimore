@@ -20,7 +20,13 @@ Just about every person on the face of the earth is one tweet, one status update
 
 Technology has made distant relationships close but close relationships distant.
 
+Over the years, I've learned a thing or two about how to make strong friendships as an adult. I'm talking about becoming friends with the type of people who stick by your side no matter what's going on in your life. I've made adult friendships that are stronger than any bond I had as a teenager.
+
+We were good friends when I was a broke alcoholic who had nothing to offer but my company—and even that wasn't the highest quality.
+
 We could blame the lockdowns for social isolation, but really, that's a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem. I'll tell you why.
+
+I'll tell you a little about the right way to make new meaningful friendships as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
 
 ## Accept that you're bad at making social connections
 
