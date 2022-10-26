@@ -24,26 +24,34 @@ We could blame the lockdowns for social isolation, but really, that's a recent e
 
 ## Accept that you're bad at making social connections
 
-This is because most of us have never had someone teach us.
+This is because most of us have never had someone teach us how to build a social circle. Instead, for most of our lives, we've just made friends with whoever shared a certain life stage with us. Neighborhood kids, people we played on sports teams with, and classmates make up where the typical adults get their friends from.
+
+These people may become lifelong friends, but this is often not the case. Interests change as we grow and many of us start to feel isolated when we no longer have the same thoughts, feelings, and interests as these people—if we ever shared them at all.
 
 [Consider the results from a survey of over 2000 Americans about making friends as an adult](https://www.foxnews.com/lifestyle/american-number-actual-friends-study-determines). Research shows that:
 
-* They haven’t made a new friend in 5 years
+* They haven't made a new friend in 5 years
 * For the majority, popularity peaks at age 23
 * For 36%, popularity peaks before age 21
 * 82% feel like friendships are hard to find
 
 In other words, the research shows that adults are terrible at building and maintaining a circle of friends.
 
-Maybe we got used to being casual friends with classmates or teammates. We carried that dynamic into college. But when university life ends, those acquaintanceships fade. [Social media keeps us busy](https://edlatimore.com/how-to-get-more-twitter-followers/) with the illusion of a social life, but it really just distracts us from hunger pangs for real human connection.
+Maybe we got used to being casual friends with classmates or teammates. We carried that dynamic into college. But when university life ends, those acquaintances fade. We go from seeing our favorite people every day to barely keeping up with our closest friends.
+
+[Social media keeps us busy](https://edlatimore.com/how-to-get-more-twitter-followers/) with the illusion of a social life, but it really just distracts us from hunger pangs for real human connection. Part of having a happy life is having a list of people you see in person regularly that you enjoy.
+
+Seeing your friends in person and having social interactions with them there, not just on a digital screen, is the key to having a happy life in real life.
 
 You want to know that people out there are thinking about you—not because you just posted a cool tweet or Instagram post, but because they genuinely like you.
 
-We miss that as adults. We want it. But we don’t know how to get it.
+We miss that as adults. We want it. But we don't know how to get it.
 
-Over the years, I’ve learned a thing or two about how to make adult friendships. The type of people who stick by your side, no matter what’s going on in your life. We were good friends when I was broke, when I was an alcoholic, and when I had nothing to offer but my company—and even that wasn’t the highest quality.
+Over the years, I've learned a thing or two about how to make strong friendships as an adult. I'm talking about becoming friends with the type of people who stick by your side no matter what's going on in your life. I've made adult friendships that are stronger than any bond I had as a teenager.
 
-I’ll tell you a little about the right way to make new friends and also the wrong way. Because knowing what to do gets you just as far as knowing what you shouldn’t.
+We were good friends when I was a broke alcoholic who had nothing to offer but my company—and even that wasn't the highest quality.
+
+I'll tell you a little about the right way to make new meaningful friendships as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
 
 ## Don't make new friends at the bar
 
