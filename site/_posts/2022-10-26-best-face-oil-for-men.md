@@ -100,3 +100,8 @@ Face oils do a lot more than just moisturize your skin. In fact, most face oils 
 Looking good [doesn’t have to be complicated](https://edlatimore.com/how-to-be-an-attractive-man/). Getting the basics right, like hitting the gym and eating healthy, will get you 95% of the way there. But if you really want to stand out and take care of yourself for the long term, having a proper skincare routine goes a long way. Even better, it costs almost next to nothing to get started and requires little effort.
 
 Taking good care of yourself not only does wonders for your health but also boosts your confidence as you become more desirable to the opposite sex. So take your skincare routine seriously by picking up a bottle of face oil. I recommend Noble Body’s The Original face oil due to its all-natural formula that takes no shortcuts on quality ingredients. Give it a try [here through my link](https://noble-body.com?aff=33) and let me know what you think.(I get a small % of each sale to help pay the bills)
+
+
+### References
+
+[1:] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/
