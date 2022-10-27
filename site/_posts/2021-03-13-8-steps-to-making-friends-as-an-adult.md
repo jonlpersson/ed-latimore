@@ -1,7 +1,7 @@
 ---
 date: 2021-03-13 19:00:00 -0500
 article_type: Article
-title: 8 ways to make friends as an adult
+title: 9 ways to make friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
 tags:
   - how-to-make-friends
@@ -60,6 +60,14 @@ Over the years, I've learned a thing or two about how to make strong friendships
 We were good friends when I was a broke alcoholic who had nothing to offer but my company—and even that wasn't the highest quality.
 
 I'll tell you a little about the right way to make new meaningful friendships as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
+
+## If you have children, use them to help make friends
+
+We often feel overwhelmed by the number of things we need to accomplish during our adult lives. You are not alone if you feel socially isolated because of your children, work, relationships, and other responsibilities.
+
+A study of young people's social networks found that those who were in relationships had, on average, 2 fewer close social ties. Those with children had lost out even more; they'd lost 3 close social ties, including family members. Friendships often because we have other priorities. The title of the paper sums up things well: "[Romance and Reproduction Are Socially Costly](https://psycnet.apa.org/record/2015-16162-001)."
+
+The trick here is to remember that if you're a parent or in a relationship, you're part of a new world. It's hard to be friends with people who live in a different world than you so because they're operating on different priorities. But the nature of being a parent is that you'll end up with a lot of potential friends. The parenting community is one of the most active communities of people in t
 
 ## Don't make new friends at the bar
 
@@ -154,13 +162,14 @@ No matter how you go about finding a community, make an effort to talk to people
 ## Key takeaways for making friends as an adult
 
 1. Accept that you're bad at making social connections
-2. Don't make new friends at the bar
-3. Be passionate about something
-4. Find activities to build a social group around
-5. Be an unselfish expert or an eager newbie
-6. Get people to talk about their favorite things
-7. Transition to socializing outside of the group on a regular basis
-8. Step out of your comfort zone
+2. If you have children, become friends with their friend's parents
+3. Don't make new friends at the bar
+4. Be passionate about something
+5. Find activities to build a social group around
+6. Be an unselfish expert or an eager newbie
+7. Get people to talk about their favorite things
+8. Transition to socializing outside of the group on a regular basis
+9. Step out of your comfort zone
 
 Once you've made new friends, the next step is [to actually be likable](https://edlatimore.com/how-to-be-likeable/). After a while, these new friends will become old friends. For now, these are the basics you need to make friends after you're no longer confined to the social experiment known as “school.”
 
