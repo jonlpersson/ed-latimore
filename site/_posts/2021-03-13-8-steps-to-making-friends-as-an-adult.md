@@ -137,7 +137,7 @@ You’ll get comfortable both as a student and an expert in-the-making. You can 
 
 Whatever you do, don’t be the guy that never listens and only complains. People really hate that guy. Don’t be the newbie who doesn’t really want to learn, who just lurks silently without engaging.
 
-***\[Read: [The 3 biggests reasons that people complain](/why-do-people-complain/)\]***
+***\[Read: [The 3 biggest reasons that people complain](/why-do-people-complain/)\]***
 
 They hate him, too. It’s creepy. People generally can’t stand the selfish expert who refuses to share knowledge and the know-it-all who assumes no one else knows anything either.
 
@@ -149,7 +149,18 @@ If you’re gonna make friends as a full grown adult, there’s no reason to be 
 
 No matter how you go about finding a community, make an effort to talk to people beyond the group’s subject matter. Act like a real person with original thoughts, deeply held values, and genuine sympathy. There are natural ways to transition to different topics and show you care about the other people you want to get to know.
 
-Once you’ve made new friends, the next step is [to actually be likable](https://edlatimore.com/how-to-be-likeable/). After a while, these new friends will become old friends. For now, these are the basics that you need to make friends after you’re no longer confined to social experiment known as “school”.
+## Key takeaways for making friends as an adult
+
+1. Accept that you're bad at making social connections
+2. Don't make new friends at the bar
+3. Be passionate about something
+4. Find activities to build a social group around
+5. Be an unselfish expert or an eager newbie
+6. Get people to talk about their favorite things
+7. Transition to socializing outside of the group on a regular basis
+8. Step out of your comfort zone
+
+Once you've made new friends, the next step is [to actually be likable](https://edlatimore.com/how-to-be-likeable/). After a while, these new friends will become old friends. For now, these are the basics you need to make friends after you're no longer confined to the social experiment known as “school.”
 
 Life is hard. Friends make it easier.
 
