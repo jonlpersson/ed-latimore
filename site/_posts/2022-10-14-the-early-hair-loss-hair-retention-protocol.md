@@ -77,7 +77,7 @@ If you want the scientific reasoning behind this protocol, then the next few sec
 
 ## How DHT works and why it causes hair loss
 
-Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is vital hormone for masculinity.&nbsp;
+Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is a vital hormone for masculinity.&nbsp;
 
 DHT contributes to male secondary sex characteristics such as:
 
