@@ -41,7 +41,9 @@ These people may become lifelong friends, but this is often not the case. Intere
 * For 36%, popularity peaks before age 21
 * 82% feel like friendships are hard to find
 
-In other words, the research shows that adults are terrible at building and maintaining a circle of friends.
+In other words, the research shows that adults are terrible at building and maintaining a circle of friends. In other words, the research shows that adults are terrible at building and maintaining a circle of friends. And it doesn't matter where you are in the world.
+
+A 2013 meta-analysis by researchers in Germany combined data from over 177k participants across 277 studies. They discovered that friendship networks had been shrinking for the past 35 years ([source](https://psycnet.apa.org/record/2012-13785-001)).
 
 Maybe we got used to being casual friends with classmates or teammates. We carried that dynamic into college. But when university life ends, those acquaintances fade. We go from seeing our favorite people every day to barely keeping up with our closest friends.
 
