@@ -104,4 +104,4 @@ Taking good care of yourself not only does wonders for your health but also boos
 
 ### References
 
-[1:] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/
+[^1]: Lin TK, Zhong L, Santiago JL. Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. Int J Mol Sci. 2017 Dec 27;19(1):70. doi: 10.3390/ijms19010070.
