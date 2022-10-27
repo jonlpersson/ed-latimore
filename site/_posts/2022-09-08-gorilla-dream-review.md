@@ -122,7 +122,7 @@ One of the popular brands that I’ve used and trust is [Exhale Wellness](https:
 
 [Impossible Sleep](https://impossible.co/?ref=aMnY3Rsu) is a natural sleep and recovery drink designed for athletes and ultra performers. Impossible Sleep’s blended formula of magnesium, l-theanine, and stevia extract is designed to be a straightforward sleep aid to help you fall asleep quickly and recover deeply.
 
-I appreciate that Impossible Sleep is a simple, no-BS supplement that doesn’t pump their product with a bunch of filler. Besides just the honed-down formula, Impossible Sleep has a bit more magnesium per serving (350mg vs 225mg) than Gorilla Dream but uses Magnesium Citrate instead of Magnesium Bisglycinate that’s found in Gorilla Dream. While that may seem like a minor difference, Magnesium Bisglycinate has been shown to have superior absorption due to [its increased solubility](https://aspenjournals.onlinelibrary.wiley.com/doi/abs/10.1177/0148607194018005430).
+I appreciate that Impossible Sleep is a simple, no-BS supplement that doesn’t pump their product with a bunch of filler. Besides just the honed-down formula, Impossible Sleep has a bit more magnesium per serving (350mg vs 225mg) than Gorilla Dream but uses Magnesium Citrate instead of Magnesium Bisglycinate that’s found in Gorilla Dream. Both forms of Magnesium have been shown to absorb well, with Magnesium Citrate having [marginally better bioavailability](https://pubmed.ncbi.nlm.nih.gov/14596323/).
 
 
 ## Frequently asked questions
