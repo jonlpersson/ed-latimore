@@ -1,7 +1,7 @@
 ---
 date: 2021-03-13 19:00:00 -0500
 article_type: Article
-title: The 8 methods I've used to make friends as an adult
+title: 8 ways to make friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
 tags:
   - how-to-make-friends
@@ -128,6 +128,8 @@ By allowing others to present themselves as experts, you’ll make them feel sma
 People love when a person takes their advice. It’s a way to bond because you’re demonstrating trust and respect. If you respond to other members’ teaching with enthusiasm, you’ll cultivate true friendship. And as you, too, become proficient in your new hobby, you’ll have a range of new activities to enjoy together.
 
 ## Transition to socializing outside of the group
+
+![Me hanging out with new friends in Cafe New York in Budapest](/assets/images/posts/making-friends-as-an-adult-in-cafe-new-york-budapest.jpeg "Me hanging out with new friends in Cafe New York in Budapest"){: width="450" height="338"}
 
 Over time, something cool will happen.
 
