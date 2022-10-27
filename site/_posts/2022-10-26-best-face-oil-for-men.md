@@ -22,7 +22,7 @@ Knowing how to apply face oils is straightforward. It helps to read the bottle�
 
 ### Popular face oils
 
-When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging[^1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/):
+When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging[^1]:
 
 
 
@@ -104,4 +104,4 @@ Taking good care of yourself not only does wonders for your health but also boos
 
 ### References
 
-[^1]: Lin TK, Zhong L, Santiago JL. Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. Int J Mol Sci. 2017 Dec 27;19(1):70. doi: 10.3390/ijms19010070.
+[^1]: Lin TK, Zhong L, Santiago JL. Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. Int J Mol Sci. 2017 Dec 27;19(1):70. doi: [10.3390/ijms19010070](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/).
