@@ -92,8 +92,9 @@ If we lower DHT in the whole body, we essentially erase a vital chemical compone
 * Gynecomastia
 * Decreased libido
 * Increased weight gain
+* Erectile dysfunction
 
-These changes are the reason why I’m against taking Propecia or finasteride to slow down hair loss. I like a nice full of head as much as the next guy, but I’m not willing suffer through those side effects to get my hair back. Put another way, the costs of finesteride exceeds its value.
+These adverse effects are why I'm against taking oral Propecia (1 mg finasteride) or Proscar (5 mg finasteride) to slow down hair loss. I like a nice full of head of hair as much as the next guy, but I’m not willing to suffer through those side effects to get my hair back. Put another way, the costs of finasteride exceeds its value.
 
 ![Why low DHT can be bad for you](/assets/images/drafts/why-low-dht-is-bad-for-you.png "The study also points out that if DHT is too low, secondary sex characteristics don't develop."){: width="1808" height="1144"}
 
