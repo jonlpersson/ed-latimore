@@ -182,7 +182,9 @@ The only downside is that it’s easy to put on too much in a short amount of ti
 
 ## Topical minoxidil+finasteride combination
 
-This combination is a game changer. This is one of those technologies I wish was around when I got my hair transplant back in 2018 ([Source](https://pubmed.ncbi.nlm.nih.gov/35238144/)). By itself, topical finasteride gives you all of the benefits of oral finasteride with none of the side effects. From a May 2022 review of the research on topical finasteride:
+This combination is a game changer.
+
+This is one of those technologies I wish was around when I got my hair transplant back in 2018 ([Source](https://pubmed.ncbi.nlm.nih.gov/35238144/)). By itself, topical finasteride gives you all of the benefits of oral finasteride with none of the side effects. From a May 2022 review of the research on topical finasteride:
 
 ![The power of topical finasteride](/assets/images/drafts/efficacy-of-topical-finasteride-in-hair-loss.png "The power of topical finasteride"){: width="1466" height="578"}
 
@@ -190,7 +192,9 @@ That study just mentions the effects of topical finasteride and only hints at th
 
 ![My minoxidil+finasteride topical spray](/assets/images/posts/minoxidil-and-finasteride-spray.jpg "My minoxidil+finasteride topical spray"){: width="350" height="467"}
 
-The following study demonstrates that it works just as well (and many cases, better) than taking oral finasteride and topical minoxidil separately ([Study source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)). That study collect photographs, so it’s quite cool to see how it works.
+The following study demonstrates that it works just as well (and many cases, better) than taking oral finasteride and topical minoxidil separately ([Study source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)). That study collected photographs, so it’s quite cool to see how it works.
+
+**Because finasteride is an over-the-counter medication, you'll still need a prescription written (If you're in the United States). I use [forhims.com](https://prf.hn/l/vyvenmZ). They have physicians who will interview you, diagnose you, and write the script. Then a 3 months supply will show up at your door step everyday. [Check out their topical finasteride+minoxidil spray here.](https://prf.hn/l/vyvenmZ)**
 
 ## Simple diet to control insulin to deal with SHBG&nbsp;
 
