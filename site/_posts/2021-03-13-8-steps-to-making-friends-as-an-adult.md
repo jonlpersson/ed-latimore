@@ -78,7 +78,7 @@ Adults tend to form relationships based on shared interests. This gives all part
 
 In other words, your two best options are to seek out groups of people with interests like yours or develop interests shared by an existing group. I recommended the first route since it’s a more natural path to enjoyment, but your interests may be too niche to easily find a group sharing them. In that case, take the second path. It’s just faster.
 
-If you assimilate correctly, you’ll end up with new hobbies, skills, and friends you can count on in life. For example, since I started taking daily Spanish lessons, I’ve formed a whole new network of *amigos hispanohablantes*. New interest, new friends. The benefits are many.
+If you assimilate correctly, you’ll end up with new hobbies, skills, and friends you can count on in life. For example, since I started taking daily Spanish lessons, I’ve formed a whole new network of *amigos hispanohablantes*. New interest, new friends, new friends of friends. The benefits are many.
 
 Once you connect with people in a group, you have an automatic topic to discuss that you know they’ll enjoy. Spending time together is easy. If you’re both into visual art, for example, text them and ask, “Hey, you free? Want to get together and sketch?” Meet in person or screenshare what you’re working on over video chat. You practice together. Grow together. Have a blast together.
 
