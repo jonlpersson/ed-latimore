@@ -21,3 +21,40 @@ However, there are three big problems:
 However, there's a new player in the game that has produced much better results than finasteride or minoxidil on their own. It doesn't have \*any\* of the common side effects that have been reported by those who use Propecia. It's also a once-daily application instead of two.
 
 I'm talking about Topical Finasteride+Minoxidil. The rest of this article will talk about my experiences, show some pictures, and break down the science behind one of the most promising (and extremely affordable) hair loss treatment options.
+
+## How finasteride fights against androgenic alopecia (male pattern baldness)
+
+Finasteride belongs to a class of drugs called 5α-reductase inhibitors. These drugs work by inhibiting 5α-reductase, the hormone responsible for converting about 10% of your testosterone to dihydrotestosterone. Drugs in this category are primarily used to treat prostatic hyperplasia by stopping the conversion of testosterone to DHT, as DHT is the main culprit behind the disease.
+
+DHT can also bind to your hair shaft hair follicles and cause them to shrink. While these are obviously undesirable outcomes, DHT is a vital hormone for masculinity.
+
+DHT contributes to male secondary sex characteristics such as:
+
+* a deep voice
+* body hair and muscle growth
+* growth of the penis, scrotum, and testicles
+* Male fat storage patterns
+
+If we lower DHT in the whole body, we essentially erase a vital chemical component of what makes a man a man. Proof of this is what happens when you lower DHT levels. The potential side effects include:
+
+* Loss of body hair
+* Gynecomastia
+* Decreased libido
+* Erectile dysfunction
+* Increased weight gain
+
+Based on how the drug works, it should be no surprise that these are the common finasteride side effects. These adverse effects are why I'm against taking oral Propecia (1 mg finasteride) or Proscar (5 mg finasteride) to slow down hair loss.
+
+I like a nice full of head of hair as much as the next guy, but I’m not willing to suffer through that sexual dysfunction hell to get my hair back. The cost of finasteride greatly exceeds its value.
+
+## How minoxidil works to attack androgenic alopecia
+
+Topical minoxidil increases hair growth by stimulating hair follicle activity. It belongs to a class of drugs known as vasodilators. These drugs work by opening the blood vessels. In fact, minoxidil was originally developed to treat high blood pressure ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109604/)).
+
+When it's applied to the scalp, an enzyme called sulfotransferase converts minoxidil into&nbsp;
+
+However, some people experience unwanted side effects such as itching, burning, redness, swelling, or irritation. minoxidil sulfate. It works by shortening the telogen, or resting phase of the hair, and causes the hair to enter the anagen or growing phase. There is also some evidence that minoxidil can increase the thickness of the hair ([source](https://www.ncbi.nlm.nih.gov/books/NBK482378/)).
+
+The drug is generally well tolerated, though some people have complained of itching, burning, redness, swelling, or irritation.
+
+&nbsp;
