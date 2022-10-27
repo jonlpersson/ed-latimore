@@ -26,7 +26,7 @@ We were good friends when I was a broke alcoholic who had nothing to offer but m
 
 We could blame the lockdowns for social isolation, but really, that's a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem. I'll tell you why.
 
-I'll tell you a little about the right way to make new meaningful friendships as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
+I'll tell you a little about the right way to make new meaningful friendships beyond casual acquaintances, as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
 
 ## Accept that you're bad at making social connections
 
