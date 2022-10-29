@@ -4,7 +4,7 @@ article_type: Article
 title: My experience getting an FUE hair transplant
 permalink: /my-personal-experience-getting-an-fue-hair-transplant/
 tags:
-  - how-to-be-a-hot-guy
+  - hair-loss-treatment
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   I detail my experience getting 3200 grafts of hair transplanted in an FUE hair
