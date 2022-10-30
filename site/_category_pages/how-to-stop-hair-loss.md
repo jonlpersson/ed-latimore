@@ -527,7 +527,7 @@ page_blocks:
       a prescription written (If you're in the United States). I use
       [forhims.com](https://prf.hn/l/vyvenmZ). They have physicians who will
       interview you, diagnose you, and write the script. Then a 3 months supply
-      will show up at your door step everyday. [Check out their topical
+      will show up at your doorstep every day. [Check out their topical
       finasteride+minoxidil spray here.](https://prf.hn/l/vyvenmZ)**
 
 
