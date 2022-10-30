@@ -100,7 +100,9 @@ Either way, now I have a look to maintain (and hopefully enhance), and this 2-in
 
 ## My experience with the combination topical mixture
 
-First, it's easy as hell. I wake up and spray. Then I spray again before I go to sleep. Technically, you only have to do it once, but I have my old rogaine habits are still there. Plus, I figure an extra application couldn't hurt. I've been doing it this way for over a year and I have yet to run out of combination topical solution before my next shipment arrives.
+First, it's easy as hell. I wake up and spray. Then I spray again before I go to sleep.
+
+Technically, you only have to do it once, but I have my old rogaine habits are still there. Plus, I figure an extra application couldn't hurt. I've been doing it this way for over a year and I have yet to run out of combination topical solution before my next shipment arrives.
 
 I've mentioned that I started using this after my hair transplant so I could maintain the hair that hasn't fallen out yet and also, potentially, regrow hair and reactivate follicles that were thinning but weren't replaced during my FUE. The FUE looks great in the first few months, but it will start to look bad if other hair that wasn't transplanted starts to fall out.
 
@@ -126,13 +128,15 @@ According to the Food and Drug Administration, the most common side effects of t
 * Skin rash
 * Irritation
 
-Around the area where the medication is being applied. Most of these side effects are also caused because of one of the inactive ingredients in the combination topical solution, propylene glycol. These symptoms usually go away within several days. Other possible side effects include headache, nausea, and rash. Those are also short and hardly severe.
+The side effects are localized to the application site.
+
+Most of these side effects are also caused because of one of the inactive ingredients in the combination topical solution, propylene glycol. These symptoms usually go away within several days. Other possible side effects include headache, nausea, and rash. Those are also short and hardly severe.
 
 Generally speaking, topical finasteride & minoxidil spray is well tolerated and has a safety profile that's nearly identical to the placebo.&nbsp;
 
 ## Do minoxidil+topical finasteride formulations work for female pattern hair loss?
 
-In theory, sure. Both minoxidil and finasteride have been shown to work as a treatment of hair loss for women, so there's no reason to assume that when they're combined, the effect would be any different. With that said, finasteride is known to have teratogenic effects on women.
+In theory, sure. Both minoxidil and finasteride have been shown to work as a treatment of hair loss for women ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7060023/)), so there's no reason to assume that when they're combined, the effect would be any different. With that said, finasteride is known to have teratogenic effects on women.
 
 I had to look up the word "teratogenic," by the way.
 
