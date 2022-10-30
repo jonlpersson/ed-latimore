@@ -72,7 +72,7 @@ In the neverending hunt for ways to battle back male pattern baldness, scientist
 
 The best part about the topical finasteride solution is that it works locally as opposed to systematically. This means there are WAY fewer side effects compared to oral finasteride.
 
-The topical formulation and application of finasteride have been shown to work just as well as—if not better—than taking an oral tablet of Finasteride. A clinical study comparing oral finasteride to topical finasteride in 24 men demonstrated the following: decreased DHT levels by 67-74% with daily application of topically applied finasteride (in the form of a gel, cream, or spray) for seven days and by 61-71% with oral version taken for the same time period.
+The topical formulation and application of finasteride have been shown to work just as well as—if not better—than taking an oral tablet of Finasteride. A clinical study comparing oral finasteride to topical finasteride in 24 men demonstrated the following: decreased DHT levels by 67-74% with daily application of topically applied finasteride (in the form of a gel, cream, or spray) for seven days and by 61-71% with oral version taken for the same time period ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9297965/)).
 
 As an added bonus, topical finasteride gel shows tenfold less systemic absorption than oral finasteride. This means that topical treatments of finasteride will result in way few systemic effects and reactions.
 
