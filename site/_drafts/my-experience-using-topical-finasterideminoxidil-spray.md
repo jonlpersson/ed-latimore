@@ -150,6 +150,8 @@ I just know that the price is right, the service is tight, and I've had no compl
 
 I get my mix from [Forhims.com](https://prf.hn/l/vyvenmZ). Their mixture is 0.1% minoxidil and 6% topical finasteride. The 2-in-1 spray special costs me $120 for 3 bottles, which is supposed to last about 3 months if used once daily. I believe this is also the price of a subscription, which ships out every 3 months. Your credit card is automatically charged.
 
+![6% minoxidil topical solution fortified with 0.1% Finasteride](/assets/images/drafts/finasteride-plus-minoxidil-combination.jpg "6% minoxidil topical solution fortified with 0.1% Finasteride"){: width="450" height="600"}
+
 If you only buy one bottle at a time, it's $50/month. I have no idea why you'd elect to do it this way since every study indicates that you need at least 2 months of treatment to see results, AND the results last only as long as you use it. This means that for one year, on the subscription model, you'd spend $480 compared to $600 if you bought them on a per-month basis.
 
 The recommended application frequency is only once per day, but I have old habits from using Minoxidil. Plus, I was committed to maintaining my hair after my hair transplant, so I use it twice a day. Even still, I have a bit left over by the time my next shipment arrives. However, the bottle does come with a "use by" date, which seems like a good idea to follow. Either way, this is a fantastic deal.
@@ -157,5 +159,7 @@ The recommended application frequency is only once per day, but I have old habit
 Because finasteride is still a prescription medication, you'll have to go through a quick interview with their doctor. I know some guys worry when they see they need a prescription, but it's fine. For whatever reason, I never could ask my medical provider in person for a prescription to treat my hair loss, but it's much easier to do this over the internet.&nbsp;
 
 [Forhims.com](https://prf.hn/l/vyvenmZ) takes care of all of that for you. Also, in case you're embarrassed about seeking help to spark your hair growth, your topical combination is delivered in discrete packaging.&nbsp;
+
+![Discrete package from Forhims.com](/assets/images/drafts/discrete-packaging-from-forhims-1.jpg "Discrete package from Forhims.com"){: width="450" height="600"}
 
 #### [**Grab your bottle here**](https://prf.hn/l/vyvenmZ)
