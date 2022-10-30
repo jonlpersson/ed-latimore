@@ -16,7 +16,7 @@ Well, I’ve had two Follicular Unit Extraction (FUE) hair transplants for a tot
 
 If you’re losing hair and thinking about a hair restoration procedure (FUE or FUT), then make sure you read this article before you go through with it.
 
-I tell you what to expect, how much it costs, and I show you some before and after pictures so you can see the magic of hair transplantation for yourself. If you're looking how to stop hair loss early, then read my [solutions to hair loss](/how-to-stop-hair-loss-early/).
+I tell you what to expect, how much it costs, and I show you some before and after pictures so you can see the magic of hair transplantation for yourself. If you're looking how to stop hair loss early, then read [my solutions to hair loss.](/how-to-stop-hair-loss/)
 
 ## The Depression And Embarrassment Of Hair Loss
 
