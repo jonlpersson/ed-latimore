@@ -36,7 +36,7 @@ Finasteride is a type of drug referred to as "5α-reductase inhibitors." These d
 
 DHT can also bind to your hair shaft hair follicles and cause them to shrink. While these are obviously undesirable outcomes, DHT is a vital hormone for masculinity.
 
-![](/assets/images/drafts/propecia-to-stop-dht.gif){: width="496" height="403"}
+![How finasteride stops hair loss](/assets/images/drafts/propecia-to-stop-dht.gif "How finasteride stops hair loss"){: width="496" height="403"}
 
 DHT contributes to male secondary sex characteristics such as:
 
@@ -62,7 +62,9 @@ I like a nice full of head of hair as much as the next guy, but I’m not willin
 
 Topical minoxidil increases hair growth by stimulating hair follicle activity. It belongs to a class of drugs known as vasodilators. These drugs work by opening the blood vessels. In fact, minoxidil was originally developed to treat high blood pressure ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109604/)).
 
-When it's applied to the scalp, an enzyme called sulfotransferase converts minoxidil into
+When it's applied to the scalp, an enzyme called sulfotransferase converts minoxidil into minoxidil sulfate, the pro-drug's active form. Lack of this enzyme sulfotransferase in certain people may actually hold the key to why some people don't experience success using Minoxidil.
+
+![How Minoxidil stops hair loss](/assets/images/drafts/how-minoxidil-works-to-stop-hair-loss.jpeg "How Minoxidil stops hair loss"){: width="459" height="459"}
 
 However, some people experience unwanted side effects such as itching, burning, redness, swelling, or irritation. minoxidil sulfate. It works by shortening the telogen, or resting phase of the hair, and causes the hair to enter the anagen or growing phase. There is also some evidence that minoxidil can increase the thickness of the hair ([source](https://www.ncbi.nlm.nih.gov/books/NBK482378/)).
 
