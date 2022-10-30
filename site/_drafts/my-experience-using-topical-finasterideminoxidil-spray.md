@@ -32,7 +32,7 @@ First, let's look at how finasteride and minoxidil work on their own.
 
 ## How finasteride fights against androgenic alopecia (male pattern baldness)
 
-Finasteride is a type of drug called 5α-reductase inhibitors. These drugs work by inhibiting 5α-reductase, the hormone responsible for converting about 10% of your testosterone to dihydrotestosterone. Drugs in this category are primarily used to treat prostatic hyperplasia by stopping the conversion of testosterone to DHT, as DHT is the main culprit behind the disease.
+Finasteride is a type of drug referred to as "5α-reductase inhibitors." These drugs work by inhibiting 5α-reductase, the hormone responsible for converting about 10% of your testosterone to dihydrotestosterone. Drugs in this category are primarily used to treat benign prostatic hyperplasia by stopping the conversion of testosterone to DHT, as DHT is the main culprit behind the disease.
 
 DHT can also bind to your hair shaft hair follicles and cause them to shrink. While these are obviously undesirable outcomes, DHT is a vital hormone for masculinity.
 
