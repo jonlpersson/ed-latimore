@@ -36,6 +36,8 @@ Finasteride is a type of drug referred to as "5α-reductase inhibitors." These d
 
 DHT can also bind to your hair shaft hair follicles and cause them to shrink. While these are obviously undesirable outcomes, DHT is a vital hormone for masculinity.
 
+![](/assets/images/drafts/propecia-to-stop-dht.gif){: width="496" height="403"}
+
 DHT contributes to male secondary sex characteristics such as:
 
 * a deep voice
