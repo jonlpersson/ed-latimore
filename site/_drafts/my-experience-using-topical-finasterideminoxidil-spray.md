@@ -86,11 +86,15 @@ Combining topical finasteride treatment with minoxidil is probably the most powe
 
 Actually, I just wished for a topical application of finasteride since the key behind dealing with hair loss seems to manage hair loss seems to be reducing DHT via 5-alpha reductase inhibitors. But like I said before and thousands have echoed on forums, that comes with ridiculous sexual side effects.
 
-So it works like this. Minoxidil is a powerful vasodilator (it opens up veins and arteries to increase blood flood). Finasteride is one of the most 5-alpha reductase inhibitors and DHT blockers. The efficacy of finasteride as an oral medication, fine-mist spray, or gel is unquestioned.&nbsp; When the two are combined as a topical medication, incredible results occur.
+So it works like this:
 
-Consider this study in which 40 men who were from androgenic alopecia were treated with a topical finasteride and minoxidil solution for 12 months. Hair count analysis was performed at baseline and every 3 months during the follow-up period. The average increase in hair count was 30%, while 10 of them showed an increase of &gt;50%.
+Minoxidil is a powerful vasodilator (it opens up veins and arteries to increase blood flood). Finasteride is one of the most 5-alpha reductase inhibitors and DHT blockers. The efficacy of finasteride as an oral medication, fine-mist spray, or gel is unquestioned.&nbsp; When the two are combined as a topical medication, incredible results occur.
+
+Consider this study in which 40 men who were from androgenic alopecia were treated with a topical finasteride and minoxidil solution for 12 months. Hair count analysis was performed at baseline and every 3 months during the follow-up period. The average increase in hair count was 30%, while 10 of them showed an increase of &gt;50% ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)).
 
 This combination of treatments has made a big difference in my life. Especially in post-fue maintenance. When I got my transplant, this hair loss treatment wasn't available but if it was, perhaps I would have preserved my hair longer.
+
+***\[Read about my FUE transplant here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]***
 
 Either way, now I have a look to maintain (and hopefully enhance), and this 2-in-1 spray gives me the best of both worlds because it works by only affecting the scalp, without any system effects.
 
