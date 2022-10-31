@@ -24,7 +24,7 @@ However, there are three big problems:
 
 However, there's a new player in the game to combat hair loss that has produced much better results than finasteride or minoxidil on their own. It doesn't have \*any\* of the common side effects that have been reported by those who use Propecia. It's also a once-daily application instead of two.
 
-I'm talking about Topical Finasteride+Minoxidil. This is one of the best options for treating androgenetic alopecia that you can find.
+I'm talking about [Topical Finasteride+Minoxidil](https://prf.hn/l/vyvenmZ). This is one of the best options for treating androgenetic alopecia that you can find.
 
 The rest of this article will talk about my experiences, show some pictures, and break down the science behind one of the most promising (and extremely affordable) effective treatments for hair loss.
 
@@ -167,5 +167,13 @@ Because finasteride is still a prescription medication, you'll have to go throug
 [Forhims.com](https://prf.hn/l/vyvenmZ) takes care of all of that for you. Also, in case you're embarrassed about seeking help to spark your hair growth, your topical combination is delivered in discrete packaging.&nbsp;
 
 ![Discrete package from Forhims.com](/assets/images/drafts/discrete-packaging-from-forhims-1.jpg "Discrete package from Forhims.com"){: width="450" height="600"}
+
+## Final verdict on topical minoxidil fortified with finasteride
+
+This is a fantastic product. Once you make it a habit to use, you should see good results. This is especially important if you spent the money on an FUE hair transplant. Then you may as well maintain what you have.
+
+If you're just starting to lose your hair, this—along with other strategies—will make a huge difference in the amount of hair you're able to keep on your head. It's so cheap too.
+
+Definitely pick up a bottle.
 
 #### [**Grab your bottle here**](https://prf.hn/l/vyvenmZ)
