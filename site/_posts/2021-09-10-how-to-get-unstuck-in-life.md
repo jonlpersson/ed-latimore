@@ -1,7 +1,7 @@
 ---
 date: 2021-09-10 09:00:00 -0400
 article_type: Article
-title: 'How to get unstuck in life '
+title: The 5 things you need to do to get unstuck in life
 permalink: /how-to-get-unstuck-in-life/
 tags:
   - change-your-perspective
@@ -10,7 +10,11 @@ description: >-
   act. This is the battle plan I use to get myself out of any and every rut.
 image: /assets/images/thumbnails/running-on-the-beach.jpg
 ---
-Are you wondering how to get unstuck in your life? It helps to think of people as impartial energy obeying the laws of physics. The most important laws to understand and work with are momentum and inertia—otherwise known as Newton’s first law of motion—which state:
+Are you wondering how to get unstuck in your life?
+
+Is your mental health suffering because you feel like you can't get traction in your personal or professional life?
+
+It helps to think of people as impartial energy obeying the laws of physics. The most important laws to understand and work with are momentum and inertia—otherwise known as Newton's first law of motion—which state:
 
 1. An object at rest tends to stay at rest unless acted upon by an outside force
 2. An object in motion tends to stay in motion
