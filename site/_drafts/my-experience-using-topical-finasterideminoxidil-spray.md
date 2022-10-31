@@ -90,6 +90,8 @@ Combining topical finasteride treatment with minoxidil is probably the most powe
 
 Actually, I just wished for a topical application of finasteride since the key behind dealing with hair loss seems to manage hair loss seems to be reducing DHT via 5-alpha reductase inhibitors. But like I said before and thousands have echoed on forums, that comes with ridiculous sexual side effects.
 
+![Hair density remains even after using finasteride+minoxidil to keep post FUE hair](/assets/images/drafts/ed-latimore-hair.jpeg "Hair density remains even after using finasteride+minoxidil to keep post FUE hair"){: width="300" height="450"}
+
 So it works like this:
 
 Minoxidil is a powerful vasodilator (it opens up veins and arteries to increase blood flood). Finasteride is one of the most 5-alpha reductase inhibitors and DHT blockers. The efficacy of finasteride as an oral medication, fine-mist spray, or gel is unquestioned.&nbsp; When the two are combined as a topical medication, incredible results occur.
