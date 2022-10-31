@@ -16,13 +16,15 @@ You can be, do, or have almost anything if you set goals, are patient, and do th
 
 Small steps, taken every day, is the best way to change your life and achieve your goals. Successful people understand this. My boxing coach once told me:
 
-#### ***“Bad things happen quickly. Good things tend to take a while.”***
+#### “Bad things happen quickly. Good things tend to take a while.”
 
-Every “overnight success” story–whether in entrepreneurship, arts, athletics, or otherwise–is usually the result of years of dedicated, deliberate, incremental effort. Any significant, enduring, impactful life change result from tiny decisions that a person makes every day to set themselves up for success in the long run.
+Every “overnight success” story–whether in entrepreneurship, arts, athletics, or otherwise–is usually the result of years of dedicated, deliberate, incremental activity. The vast majority of people never achieve successful outcomes because they don't understand this.
 
-In this article, you'll learn the principles to change any aspect of your life from garbage to great.
+Any significant, enduring, impactful life change result from tiny decisions that a person makes every day to set themselves up for success in the long run.
 
-I know these principles work to make almost anything achievable because I’ve used them to:
+In this article, you'll learn the principles to practice to change any aspect of your life from garbage to great.
+
+I know these principles work to make almost anything achievable because I've used them to:
 
 * [Get sober](/how-to-stop-drinking-on-your-own/)
 * [Quit porn](/how-to-quit-porn/)
