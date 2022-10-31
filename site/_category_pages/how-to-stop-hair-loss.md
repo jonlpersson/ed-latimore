@@ -163,12 +163,6 @@ page_blocks:
       good chance\* (50-60%) of regrowing your hair.
 
 
-      If you want the scientific reasoning behind this protocol, then the next
-      few sections are for you. However, if just want to get to the protocol,
-      you can skip ahead by clicking here—&gt;[The Hair Retention
-      Protocol.](https://edlatimore.com/early-hair-loss-hair-retention-method/#how-to-slow-down-or-reverse-hair-loss-the-hair-retention-protocol)
-
-
       ## How DHT works and why it causes hair loss
 
 
