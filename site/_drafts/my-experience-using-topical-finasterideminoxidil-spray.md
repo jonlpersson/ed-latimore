@@ -8,7 +8,7 @@ tags:
 description: >-
   Propecia has too many adverse effects. Rogaine doesn't work well enough. Hair
   transplants are too expensive. Here is an affordable hair loss solution.
-image:
+image: /assets/images/drafts/ed-latimore-in-tossa-doro.jpeg
 ---
 ***Note: Throughout this article (and my other hair loss articles), I use the terms "androgenetic alopecia," "androgenic alopecia," "hair loss," and "male pattern baldness" interchangeably. They all mean the same thing. You're going bald. You have a receding hairline or a thinning crown. A man's worse nightmare, by any other name, is still a man's worse nightmare."***
 
