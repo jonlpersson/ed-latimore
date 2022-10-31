@@ -19,6 +19,8 @@ It helps to think of people as impartial energy obeying the laws of physics. The
 1. An object at rest tends to stay at rest unless acted upon by an outside force
 2. An object in motion tends to stay in motion
 
+![Your life is the ball in this picture.](/assets/images/posts/newtons-laws-of-mation-applied-to-social-settings.jpeg "Your life is the ball in this picture."){: width="450" height="330"}
+
 Another natural law we can leverage to overcome stagnation is *the path of least resistance.* This law states that energy always takes the path of least effort to avoid wasting energy. In other words, you’re stuck in a rut because it’s easier than getting off your butt (especially if you don’t know where to start).
 
 The formula, then, for getting unstuck in life is:
