@@ -91,6 +91,8 @@ This is the part people get caught up on because they have no imagination. When 
 
 I’m not saying that you have to believe that you’ll be in a better place. You just have to see it. Allow yourself to dream a little.
 
+![Even when I was 20 years old, living like a bum, I dreamed bigger](/assets/images/posts/comealongway.jpeg "Even when I was 20 years old, living like a bum, I dreamed bigger"){: width="450" height="600"}
+
 Make visualizing about the future a regular habit.
 
 Don’t worry about whether it will come true or not. We often don’t think about how much better it can be because we don’t want to suffer disappointment if things don’t pan out.
