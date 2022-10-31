@@ -175,6 +175,8 @@ I don't care what you say;
 
 The problem is when you let these fears keep you from doing things that will change your life for the better. While fear breeds negative thoughts, you aren't forced to stop making progress because of them.
 
+![Stop living in fear to have a better life](/assets/images/posts/without-fear-there-cannot-be-courage-.jpg "Stop living in fear to have a better life"){: width="640" height="336"}
+
 It’s tragic when the only reason you don’t take action is that you fear what people will think. This happens because it's comfortable to know exactly what everyone thinks of you and you don't want to change where you are, for better or worse.
 
 You'll achieve the most personal growth when you get out of your comfort zone. It's only when you face your fears that you can overcome the roadblocks on your path to personal growth.
