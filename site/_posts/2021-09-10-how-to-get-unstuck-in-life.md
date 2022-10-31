@@ -25,8 +25,6 @@ The formula, then, for getting unstuck in life is:
 
 In this article, I will provide you with 5 positive changes you can make to get unstuck in life. You’ll be happy to know that we aren’t making any herculean efforts. Instead, we are aiming to shift the power of momentum in your favor by making incremental shifts in multiple areas.
 
-{% include widgets/toc.html heading="How to get unstuck in life" list-items="Treat your body like a temple, Control your environment, Rediscover your passions, Make the process enjoyable" list-ids="treat-your-body-like-a-temple, control-your-environment, rediscover-what-youre-passionate-about, make-the-process-enjoyable" %}
-
 ## Treat your body like a temple
 
 To get unstuck in life, you need more energy.
