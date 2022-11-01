@@ -90,7 +90,11 @@ When your environment is well-ordered, a sense of flow reduces the need for will
 
 To overcome stagnation and change your life, you need to have something to look forward to and something to work towards. I overcame my alcohol and [pornography addictions](https://edlatimore.com/how-to-quit-porn/) after years of struggle and failure because I rose out of complacency and developed a clear vision for my future.
 
-You don’t need to have your life purpose figured out, but it’s crucial to have both long-term and short-term goals. **Short-term goals motivate you to move at the moment. But long-term goals relieve some of the pressure that can cause procrastination.** The cure for procrastination lies somewhere between urgency and leisure. Too far on either end of the spectrum and your mental circuits jam.
+You don't need to have your life purpose figured out, but it's crucial to have both long-term and short-term goals. **Short-term goals motivate you to move at the moment. But long-term goals relieve some of the pressure that can cause procrastination.**
+
+The ultimate goal is to make moves towards something that is important to you, whether it be a professional or personal goal.
+
+The cure for procrastination lies somewhere between urgency and leisure. Too far on either end of the spectrum, your mental circuits jam.
 
 If you don’t have any important goals yet, here are a few questions you can ask yourself to gain clarity:
 
