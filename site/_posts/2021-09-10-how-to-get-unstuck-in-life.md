@@ -37,6 +37,8 @@ These shifts will remove any self-limiting beliefs and align your body and mind 
 
 ## 5 things you needs to do to get unstuck in your life
 
+![Getting myself in great shape to unstick my life](/assets/images/posts/13-percent-bodyfat-1.jpeg "Getting myself in great shape to unstick my life"){: width="350" height="350"}
+
 ### Get in the best shape that you can
 
 To get unstuck in life, you need more energy.
@@ -53,7 +55,7 @@ This is simple enough that we won’t waste time going into details but FAR too 
 
 Without health, you have no power. Power, by our definition, is the ability to act and influence your surroundings. Power allows us to change a circumstance we don’t like rather than being impotently held hostage by it.
 
-\*\*If you’re stuck in a rut, your power is likely compromised by habits which are well within your control. \*\*
+***If you’re stuck in a rut, your power is likely compromised by habits which are well within your control.&nbsp;***
 
 Moving towards the life you want can be as simple as making a few positive changes in your daily routine:
 
@@ -66,6 +68,8 @@ Moving towards the life you want can be as simple as making a few positive chang
 There’s no secret nootropic or stimulant that you can use to escape the essentials. If you are currently ignoring your foundations, you’ll experience a remarkable shift in your well-being within just a few days when you begin to take them seriously.
 
 For more tips on increasing your energy, I recommend checking out this article I wrote on [how to get more energy](https://edlatimore.com/how-to-get-more-energy/).
+
+&nbsp;
 
 ### Set your environment up for success
 
