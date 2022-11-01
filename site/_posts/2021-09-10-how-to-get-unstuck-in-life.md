@@ -14,14 +14,16 @@ Are you wondering how to get unstuck in your life?
 
 Is your mental health suffering because you feel like you can't get traction in your personal or professional life?
 
-It helps to think of people as impartial energy obeying the laws of physics. The most important laws to understand and work with are momentum and inertia—otherwise known as Newton's first law of motion—which state:
+It helps to think of people as impartial energy obeying the laws of physics. The most important laws to understand and work with are momentum and inertia—otherwise known as Newton's first law of motion—which states:
 
 1. An object at rest tends to stay at rest unless acted upon by an outside force
 2. An object in motion tends to stay in motion
 
 ![Your life is the ball in this picture.](/assets/images/posts/newtons-laws-of-mation-applied-to-social-settings.jpeg "Your life is the ball in this picture."){: width="450" height="330"}
 
-Another natural law we can leverage to overcome stagnation is *the path of least resistance.* This law states that energy always takes the path of least effort to avoid wasting energy. In other words, you’re stuck in a rut because it’s easier than getting off your butt (especially if you don’t know where to start).
+Another natural law we can leverage to overcome stagnation is *the path of least resistance.*
+
+This law states that energy always takes the path of least effort to avoid wasting energy. In other words, you’re stuck in a rut because it’s easier than getting off your butt (especially if you don’t know where to start).
 
 The formula, then, for getting unstuck in life is:
 
@@ -29,7 +31,9 @@ The formula, then, for getting unstuck in life is:
 * increase the resistance to unwanted pathways
 * decrease the resistance to pathways we desire to travel
 
-In this article, I will provide you with 5 positive changes you can make to get unstuck in life. You’ll be happy to know that we aren’t making any herculean efforts. Instead, we are aiming to shift the power of momentum in your favor by making incremental shifts in multiple areas.
+In this article, I will provide you with 5 positive changes you can make to get unstuck in life. You'll be happy to know that we aren't making any herculean efforts. Instead, we aim to shift the power of momentum in your favor by making incremental shifts in multiple areas.
+
+These shifts will remove any self-limiting beliefs and align your body and mind to make it possible to accomplish your biggest goals.&nbsp;
 
 ## Treat your body like a temple
 
