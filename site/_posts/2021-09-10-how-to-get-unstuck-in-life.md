@@ -79,6 +79,8 @@ It’s much easier to control your environment than it is to control your reacti
 
 **Tidy up your living and work spaces.** There’s an old saying that goes: *As within, so without; As without, so within*. In other words, a messy house can create stress, negative thoughts, self-doubt, and even decrease your self-esteem. Additionally, studies show that an unorganized work space increases distraction and stress and also costs you time and enjoyment. <sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
+<sup role="doc-noteref"><img src="/assets/images/posts/comealongway-1.jpeg" width="450" height="600" alt="My environment was not particularly tiddy...and the rest of my life was a mess" title="My environment was not particularly tiddy...and the rest of my life was a mess" /></sup>
+
 You want to remove everything that can steal your time, energy, or positivity. If you’re in a rut, don’t have alcohol and weed lying around your house. Put any video games in the closet or get rid of them altogether. Remove the TV from your bedroom.
 
 Instead, increase the availability of things that can increase your energy and lead to positive outcomes:
