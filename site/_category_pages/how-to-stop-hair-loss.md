@@ -31,6 +31,11 @@ page_blocks:
       that hadn’t fallen out.
 
 
+      *<u><strong>Read about my experience getting an <a
+      href="/my-personal-experience-getting-an-fue-hair-transplant/">FUE hair
+      transplant</a></strong></u>*
+
+
       ![From 6/21. Hair falling out in areas not affected by the
       transplant.](/assets/images/drafts/ed-latimore-alaska-hair-loss.png "From
       6/21. Hair falling out in areas not affected by the transplant."){:
