@@ -197,4 +197,4 @@ He can take over when he finds you, but by then, you'll have proven you're a wor
 
 This is how you build a healthy foundation for an Ideal Relationship with your Ideal Partner…by becoming your Ideal Self.
 
-*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**Youtube,**[Twitter,](https://twitter.com/taylorburrowes) or**Instagram.*
+*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**[Youtube](https://www.youtube.com/c/DrTaylorBurrowes),**[Twitter,](https://twitter.com/taylorburrowes) or*[*Instagram.*](https://www.instagram.com/taylorburrowes/)
