@@ -1,8 +1,8 @@
 ---
 date: 2022-02-02 10:26:41 -0500
 article_type: Article
-title: How to be a high-value woman to meet a high-value man
-permalink: /how-to-meet-quality-men/
+title: 9 ways to be a high-value woman to meet a high-value man
+permalink: /how-to-be-a-high-value-woman/
 tags:
   - dating-and-relationships
 description: >-
