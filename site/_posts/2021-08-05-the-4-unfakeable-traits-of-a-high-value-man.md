@@ -21,7 +21,7 @@ They're useful for categorizing general masculine behaviors, but they're also a 
 
 I’ve met guys who are high-powered, 7 figure earning alpha men in their career, but are meek, subservient beta males in their relationships.
 
-I’ve known guys who are alpha males when it comes to [hooking up with beautiful women](/how-to-meet-quality-men/), but they share a barely livable apartment with 4 guys, sleep on a mattress on the floor, and can barely make rent.
+I’ve known guys who are alpha males when it comes to [hooking up with beautiful women](/how-to-be-a-high-value-woman/), but they share a barely livable apartment with 4 guys, sleep on a mattress on the floor, and can barely make rent.
 
 Then there are fit-bros who have their physique on point, but they turn into church mice around women and they barely make $15/hr training people at the gym.
 
