@@ -263,7 +263,7 @@ If you’re a young woman raised without a father, you almost certainly desire a
 
 Even if the statistics didn’t show this in the number of teen pregnancies of fatherless girls compared to girls with their father around, the phrase “daddy issues” didn’t come out of nowhere.
 
-***Read: [How to be a high-value woman](/how-to-meet-quality-men/)***
+***Read: [How to be a high-value woman](/how-to-be-a-high-value-woman/)***
 
 The challenge that a young girl raised without a father in her life is learning how to feel loved and accepted without getting it from a guy who is only using her. She has to do this while not closing herself off to love or men who mean well.
 
