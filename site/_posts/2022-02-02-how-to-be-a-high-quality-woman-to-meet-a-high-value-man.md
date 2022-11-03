@@ -10,7 +10,7 @@ description: >-
   able to meet and be with a high-value man.
 image: /assets/images/thumbnails/highvaluewoman.jpg
 ---
-*I have a lot of content about becoming a better man and meeting women, but I don't have any content about being a woman. Mainly, because I'm not one. But I've gotten some demand, so I asked matchmaker and relationship consultant* *Dr. Taylor Burrowes* *to write a guest post on becoming a high-value woman. *
+*I have a lot of content about becoming a better man and meeting women, but I don't have any content about being a woman. Mainly, because I'm not one. But I've gotten some demand, so I asked matchmaker and relationship consultant* [*Dr. Taylor Burrowes*](https://drtaylorburrowes.com/) *to write a guest post on becoming a high-value woman. *
 
 What should you be doing to put yourself in a position to meet the right kind of man for a serious romantic relationship?
 
@@ -64,7 +64,7 @@ We just weren't the right match. I made a mistake. He made a mistake. We each ma
 
 It unraveled quickly after the wedding until one day, three years later, I left. Then it took us three years to finalize the divorce, and I learned a lot about myself during that time.
 
-*\[Definitely read this list, so you know all the red flags a man shows before his true colors come out—&gt; Red flags in men list here\]*
+***\[Definitely read this list, so you know all the red flags a man shows before his true colors come out—&gt; [Red flags in men list here](/red-flags-in-men/)\]***
 
 Ladies, you have to remember that our time is precious. Even if you don't want to get married, you have to remember that it gets harder to date and evoke genuine desire in a man the older we get. This isn't just about aging, though that's part of it.
 
