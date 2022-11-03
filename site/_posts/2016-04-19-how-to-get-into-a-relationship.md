@@ -128,7 +128,7 @@ Is this girl really what she seems or are you in for a world of trouble?
 
 Never mention your standards. Never mention what you expect or won't tolerate. Simply live true to yourself. This is the best way to gauge a potential partner’s integrity and intentions.
 
-Just evaluate the girl and at the end of the date decide if you’ll see her again. Keep this behavior up, not only for your first few dates but for a while into the relationship.
+Just evaluate the girl and at the end of the date decide if you’ll see her again. Keep this behavior up, not only for your first few dates but for a while into the relationship. This is how you'll find out if she's a [high-quality, high-value woman](/how-to-be-a-high-value-woman/).
 
 Don’t lie about what’s important to you if she asks. However, don’t go out of your way to volunteer the information either.
 
