@@ -70,8 +70,6 @@ Ladies, you have to remember that our time is precious. Even if you don't want t
 
 Every moment spent in a relationship you know has no real potential is energy towards habits, expectations, and baggage that you'll carry into the dating market when you inevitably return. This will make it harder for you to meet someone because you'll be FAR less likely to approach dating with positive energy, clear-minded desire, and a willingness to be open.
 
-&nbsp;
-
 ## 3) Don't mistake attachment for compatibility
 
 Many assume emotional intensity is a substitute for relationship compatibility, but it's not. Sexual attraction is only a supplement to emotional attraction, not a replacement.
@@ -171,8 +169,6 @@ You might not recognize him now if you came across him because you're not the ki
 * Get your personal/financial affairs in order
 * Work on improving your personal health, fitness, aesthetics, and emotional regulation
 
-&nbsp;
-
 ## 9) Find your calling
 
 There are an endless amount of ways to explore the life you want, you have to have courage, commitment, and clarity on your “why” or purpose.
@@ -201,4 +197,4 @@ He can take over when he finds you, but by then, you'll have proven you're a wor
 
 This is how you build a healthy foundation for an Ideal Relationship with your Ideal Partner…by becoming your Ideal Self.
 
-*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**Youtube,**Twitter, or**Instagram.*
+*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**Youtube,**[Twitter,](https://twitter.com/taylorburrowes) or**Instagram.*
