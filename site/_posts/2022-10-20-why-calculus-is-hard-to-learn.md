@@ -94,7 +94,7 @@ The same applies to calculus. Before you can jump into differentation and integr
 
 Algebra. Trigonometry. Geometry.
 
-For Algebra, make sure you understand things like:
+**For Algebra, make sure you understand things like:**
 
 
 
@@ -102,7 +102,7 @@ For Algebra, make sure you understand things like:
 * Quadratic equations – 11x² + 6x - 1 = 0
 * Logarithms – bx = a ⇔ logb a = x
 
-Trigonometry skills that are essential to calculus include:
+**Trigonometry skills that are essential to calculus include:**
 
 
 
@@ -110,7 +110,7 @@ Trigonometry skills that are essential to calculus include:
 * Graphing trigonometric functions
 * Solving for triangular angles
 
-Some Geometry skills that you need for calculus include:
+**Some Geometry skills that you need for calculus include:**
 
 
 
@@ -121,6 +121,8 @@ Some Geometry skills that you need for calculus include:
 Find out what areas you’re weak in and become a sponge figuring it out. Many mathematicians before you have developed systems and methods to make learning easier for them.
 
 As mathematician Paul Halmos said, mathematics is not a spectator sport. These are skills that you gain passively or just by listening to someone talk about them. Solve problems and break them down step by step to know the method and reason.
+
+## Use the Feynman Technique
 
 My understanding of calculus really took off when I began using the Feynman Technique. This technique was created by Richard Feynman, a Nobel-winning physicist, and can be used to learn and understand practically anything…
 
