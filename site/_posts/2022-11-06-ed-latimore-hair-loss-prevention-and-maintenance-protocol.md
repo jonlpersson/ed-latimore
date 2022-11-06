@@ -1,5 +1,5 @@
 ---
-date:
+date: 2022-11-06 18:48:00 -0500
 article_type: Article
 title: Ed Latimore hair loss prevention and maintenance protocol
 permalink: /how-to-prevent-hair-loss/
