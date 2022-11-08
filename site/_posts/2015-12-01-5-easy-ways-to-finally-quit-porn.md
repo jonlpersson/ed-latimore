@@ -27,10 +27,6 @@ Most literature on the internet talks about inner healing, dopamine, figuring ou
 
 Feeling complete and whole is good, but it doesn't exactly help you solve the problem. They give advice like this because they either lack experience with porn addiction (or any addiction, for that matter) or they're fakes who are trying to sell you something.
 
-**I gave a Ted Talk about addiction and identity. It's not exactly about quitting porn, but it definitely can help.**
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
 ## **The negative consequences of internet porn**
 
 You wouldn't tell a crackhead to do some soul searching.
