@@ -8,7 +8,7 @@
       </div>
       <div class="flex flex-col gap-2">
         <label for="formEmail">Email Address (*)</label>
-        <input class="px-4 py-6 w-full border border-gray-light text-lg" id="formEmail" name="email" placeholder="Your email address" required="" type="email">
+        <input class="px-4 py-6 w-full border border-gray-light text-lg" id="formEmail" name="_replyto" placeholder="Your email address" required="" type="email">
       </div>
       <div class="flex flex-col gap-2">
         <label for="formPhone">Phone Number (optional, only for U.S. inquirers)</label>
@@ -20,6 +20,7 @@
       </div>
       <input type="hidden" name="_subject" value="{{ item.heading | default:'Contact form submission' }}">
       <input type="hidden" name="_to" value="ed@edlatimore.com">
+      <input type="hidden" name="_cc" value="jon@edlatimore.com">
       <input type="text" name="_gotcha" style="display: none;">
       <div class="g-recaptcha" data-sitekey="6LcPy_0UAAAAAMrP77bLb3RkyhLTZWN7vt-ZJ36o"></div>
       <input type="submit" value="Submit" class="btn btn-coral">
