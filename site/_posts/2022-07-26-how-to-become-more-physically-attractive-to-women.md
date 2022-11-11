@@ -130,7 +130,7 @@ I consider that money well spent when you consider these before and after photos
 
 ![bosley before and after ed latimore fue](/assets/images/posts/2020/16-months-after-fue-hair-transplant.png "bosley before and after ed latimore fue")
 
-While you’re at it, check out this post on other tips on [how to reverse hair loss before it’s too late.](https://edlatimore.com/how-to-stop-hair-loss-early/)
+While you’re at it, check out this post on other tips on [how to reverse hair loss before it’s too late.](/how-to-prevent-hair-loss/)
 
 ## Develop a grooming routine
 
