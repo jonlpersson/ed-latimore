@@ -10,7 +10,7 @@ description: >-
   able to meet and be with a high-value man.
 image: /assets/images/thumbnails/highvaluewoman.jpg
 ---
-*I have a lot of content about becoming a better man and meeting women, but I don't have any content about being a woman. Mainly, because I'm not one. But I've gotten some demand, so I asked matchmaker and relationship consultant* [*Dr. Taylor Burrowes*](https://drtaylorburrowes.com/) *to write a guest post on becoming a high-value woman. *
+*I have a lot of content about becoming a better man and meeting women, but I don't have any content about being a woman. Mainly, because I'm not one. But I've gotten some demand, so I asked matchmaker and relationship consultant* [*Dr. Taylor Burrowes*](https://drtaylorburrowes.com/) \*to write a guest post on becoming a high-value woman. \*
 
 What should you be doing to put yourself in a position to meet the right kind of man for a serious romantic relationship?
 
@@ -40,7 +40,7 @@ To meet the love of your life that also meets your standards, you need to hone y
 
 It should go without saying that you need to stop entertaining any intimate relationship with "fuckbois" and losers who take your time. These are the obvious things you need to do, but what else is necessary to make you into the caliber of woman that is both highly respected and desire, and for more than just her looks?
 
-The rest of this article are specific steps to follow to become a high-value woman that can meet and be with a [high-value man](edlatimore.com/high-value-man/). I learned these lessons the hard way and now I'm teaching them to you so you don't have to.
+The rest of this article are specific steps to follow to become a high-value woman that can meet and be with a [high-value man.](/high-value-man/) I learned these lessons the hard way and now I'm teaching them to you so you don't have to.
 
 ## 9 traits of a high-value woman
 
@@ -84,7 +84,7 @@ If you have to put a number on it to help guide yourself, consider 8 out of 10 a
 
 In the case of my first marriage, all three areas were lacking significantly.
 
-I should have known better, but no one [gets into marriage hoping for divorce](edlatimore.com/how-to-get-into-a-relationship/). Many are just naive and ill-prepared.
+I should have known better, but no one gets into [marriage hoping for divorce](/how-to-get-into-a-relationship/). Many are just naive and ill-prepared.
 
 Despite my academic knowledge and professional expertise, I lacked awareness in some important areas that mainstream relationship advice and well-intentioned parents neglect to warn us all about.
 
@@ -197,4 +197,4 @@ He can take over when he finds you, but by then, you'll have proven you're a wor
 
 This is how you build a healthy foundation for an Ideal Relationship with your Ideal Partner…by becoming your Ideal Self.
 
-*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**[Youtube](https://www.youtube.com/c/DrTaylorBurrowes),**[Twitter,](https://twitter.com/taylorburrowes) or*[*Instagram.*](https://www.instagram.com/taylorburrowes/)
+*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**[Youtube](https://www.youtube.com/c/DrTaylorBurrowes),&nbsp;**[Twitter,](https://twitter.com/taylorburrowes) or*[*Instagram.*](https://www.instagram.com/taylorburrowes/)
