@@ -25,18 +25,20 @@ It's also used for the general maintenance of your skin. It can treat acne scarr
 
 It works by creating micro-injuries within the skin. These micro-punctures cause blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat:
 
-* Alopecia totalis
-* Alopecia universalis
-* Scarring alopecia
-* Androgenetic alopecia
-* Telogen effluvium
-* Trichotillomania
+* Alopecia totalis (**complete hair loss of the scalp)**
+* Alopecia universalis (complete loss of all hair on the body)
+* Scarring alopecia (**inflammatory condition that destroys hair follicles, causing scarring and permanent hair loss**.)
+* Androgenetic alopecia (the most common form of hair loss that affects most men and even some women)
+* Telogen effluvium (excessive shedding of hair)
+* Trichotillomania (the irresistable urge to pull your hair out)
 * Tinea capitis
 * Pretty much any hair loss.
 
 The best part is that this is a scientifically verified method for regrowing hair. It's also technically a topical treatment, meaning you don't have to worry about hormonal side effects that come with something like finasteride.
 
-A Randomized Evaluator Blinded Study of the Effect of Microneedling in Androgenetic Alopecia
+Another benefit of derma rolling is that works just as for men and women. This is similar to other non-chemical treatments, like low-level laser light therapy.
+
+## A Randomized Evaluator Blinded Study of the Effect of Microneedling in Androgenetic Alopecia
 
 A 2013 study titled "[A Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/) In that study, they compared hair growth between a group that just used a 5% minoxidil solution and one that used a 5% minoxidil solution along with weekly microneedling sessions.
 
