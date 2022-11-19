@@ -4,7 +4,7 @@ article_type: Article
 title: How to learn calculus (even if you’re bad at math)
 permalink: /how-to-learn-calculus/
 tags:
-  - math-concepts
+  - learning-skills
 image: /assets/images/thumbnails/calculus-problem-written-on-chalkboard.jpg
 description: >-
   I failed calculus three times. On the 4th try, it clicked. I now have a BA in
@@ -64,7 +64,7 @@ Learning calculus is like the next steps in language learning. You’ve gotten t
 
 Doing these techniques is relatively simple, though not necessarily easy. In fact, the a large portion of Calculus II is learning different integration techniques and recognizing when to use them.
 
-With that said, understand why you need them will go a LONG way in helping you proficiently use them all.&nbsp;
+With that said, understand why you need them will go a LONG way in helping you proficiently use them all.
 
 ### **How limits work**
 
@@ -78,19 +78,19 @@ Another important point about functions, and this may be obvious and seem redund
 * The money you make it. Input (x axis) is what you do to get paid (hourly, event, commission, etc.). Output (y axis) is what you earn.
 * The height of water in a bathtub. Input (x axis) is rate of running water. Output (y axis) is amount in tube
 
-Any past or present calculus students reading those examples will recognize the examples and either shed a tear of nostalgia or a stretch of frustration.&nbsp;
+Any past or present calculus students reading those examples will recognize the examples and either shed a tear of nostalgia or a stretch of frustration.
 
-With that out the way, let's recall the main idea of calculus: a math to work with changing quantities. Knowing how something behaves&nbsp;*exactly*&nbsp;at a point doesn't tell us anything about how it got to that point OR what it will do after.
+With that out the way, let's recall the main idea of calculus: a math to work with changing quantities. Knowing how something behaves *exactly* at a point doesn't tell us anything about how it got to that point OR what it will do after.
 
 Does it speed up, slow down, stop entirely, or make a quantum leap or drop? Is it even possible for it to make it to that point?
 
-***Limits allows us to figure out the behavior of something as it approaches some fixed point.&nbsp; We can use that behavior to get the most precise measurement of something's output based on \*changing\* inputs.***
+***Limits allows us to figure out the behavior of something as it approaches some fixed point. We can use that behavior to get the most precise measurement of something's output based on \*changing\* inputs.***
 
 Think about airplanes.
 
 Almost all commercial flights use autopilot for landing. The computer needs a formula to calculate what to adjust the plans speed to, every second, as it approaches the fixed point of the airport. Humans do this by feel along with help from instruments. Computers use an equation (a bit more complicated than a limit, but the building block idea still remains).
 
-Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.&nbsp;
+Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.
 
 #### [Check out the rest of my articles about math](/math-concepts/)
 
@@ -98,17 +98,17 @@ Limits form the foundation of calculus and help us predict an unknown number to 
 
 From now on, every time you hear the word "derivative", I want you to replace it with "change." From now on, whenever you see the derivative notation , think "division of a quantity." This is not entirely precise, but it's precise enough to be useful and help you think about calclus in a useful manner.
 
-And more importantly, it's accurate. The definition of derivate is "**the rate of change of a function with respect to a variable**."&nbsp;
+And more importantly, it's accurate. The definition of derivate is "**the rate of change of a function with respect to a variable**."
 
 ![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/accuratederivative-notation.webp "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)"){: width="400" height="400"}
 
-"Derivatives measure the slope of a curve at a given point, called a tangent line." This is all many of us are told, but what does that mean?&nbsp;
+"Derivatives measure the slope of a curve at a given point, called a tangent line." This is all many of us are told, but what does that mean?
 
 I used to think "slope of the tangent line" meant the slope of the line that touches the function at that specific point. "Tangent" roughly means "touch." When I realized it's the slope of the line made by the tangent of the angle between that line and the x-axis, calc opened up.
 
-And what are slopes? Just rates of change. Recall your algebra days where you learned "rise over run" or, more mathematically, "(y2-y1)/(x2-x1)." It's how the output changes with respect to the input.&nbsp; The steeper the slope, the greater the rate of change.
+And what are slopes? Just rates of change. Recall your algebra days where you learned "rise over run" or, more mathematically, "(y2-y1)/(x2-x1)." It's how the output changes with respect to the input. The steeper the slope, the greater the rate of change.
 
-***Since the value of "x" can change at any given time, you're actually dividing changing quantities. This is why I say that derivatives are about multiplying things that aren't constant.&nbsp;***
+***Since the value of "x" can change at any given time, you're actually dividing changing quantities. This is why I say that derivatives are about multiplying things that aren't constant. ***
 
 It's key to remember that derivatives measure change with respect to a variable. This is fairly straight forward when there is only one input (variable), but things become \*slightly\* more complicated when you reach multivariable calculus or differential equations.
 
@@ -124,13 +124,13 @@ Let's apply this calculus.
 
 If derivatives are the division of changing quantities, then to "undo" them, we have to use some operation that is the multiplication of the derivates quotient and dividend. In this case, we need the multiplication of changing quantities. We call this the "Integral."
 
-The name tells you exactly what the integral does. "Integral" is from an old latin word meaning "forming a whole" or "whole." This is&nbsp;***exactly***&nbsp;what integrals do. They put back together the division done by differention.&nbsp;
+The name tells you exactly what the integral does. "Integral" is from an old latin word meaning "forming a whole" or "whole." This is ***exactly*** what integrals do. They put back together the division done by differention.
 
 ![The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities.](/assets/images/posts/integral-notation-1.svg "The &quot;dx&quot; is the change in x. The function is a changing &quot;y&quot; as the x changes. The integration sign tells us to multiply those quantities."){: width="306" height="121"}
 
 They'll teach you that integrals are used to calcuate the area under the curve, volume, and probability. All of that is true, but it doesn't fundamentally tell you what they do. Those are just applications of it. I believe that if you understand the "why" and "what", the "how" is child's play.
 
-Integrals allow you to figure out totals. Those totals can tell you if something is converging or diverging, how much space you have based on changing parameters, and there are many applications to sound and light that make today's entertainment and ease of life possible.&nbsp;
+Integrals allow you to figure out totals. Those totals can tell you if something is converging or diverging, how much space you have based on changing parameters, and there are many applications to sound and light that make today's entertainment and ease of life possible.
 
 ### The Fundamental Theorem of Calculus
 
@@ -142,7 +142,7 @@ You think I'm kidding? The theorem of calculus says otherwise—both of them. Ye
 
 [If you don't speak math](https://edlatimore.com/how-to-get-better-at-math/#4-hot-tip-its-all-simple-when-you-can-read-it), this translated says "if a line called "f(x)" passes the function test between two points "a" and "b", then there is a deriviate that exists for every point between a and b, and that derivative has an integral.
 
-It's the fundamental theorem of calculus because this is ALL CALCULUS IS. It took me failing calculus 3 times before I understood that. Hopefully, now you don't have to.&nbsp;
+It's the fundamental theorem of calculus because this is ALL CALCULUS IS. It took me failing calculus 3 times before I understood that. Hopefully, now you don't have to.
 
 ## Write the steps
 
