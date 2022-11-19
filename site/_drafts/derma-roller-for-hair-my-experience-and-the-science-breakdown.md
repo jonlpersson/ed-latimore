@@ -79,9 +79,9 @@ When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae ce
 
 These include the suppression of stimulatory pathways of:
 
-Wnt (shown to grow hair follicles when elevated https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/)
+Wnt: Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
 
-Stat 3 (role in hair growth https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/)
+Stat 3: Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
 
 Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
 
