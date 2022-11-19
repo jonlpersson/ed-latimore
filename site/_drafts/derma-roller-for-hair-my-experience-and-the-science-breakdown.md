@@ -79,11 +79,15 @@ When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae ce
 
 These include the suppression of stimulatory pathways of:
 
-Wnt
+Wnt (shown to grow hair follicles when elevated https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/)
 
 Stat 3 (role in hair growth https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/)
 
 Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
+
+Beta-catenin
+
+Lef1
 
 As well as the up-regulation of suppressive the suppressive
 
@@ -103,7 +107,7 @@ Researchers have demonstrated the importance of Wnt proteins and wound growth fa
 
 Microneedling causes wounds, which triggers various growth factors (https://pubmed.ncbi.nlm.nih.gov/8676414/). The growth factors are triggered in response to the micro-injuries to the scalp's outer layer.
 
-Wound growth factors stimulate dermal papillae-associated stem cells. Our specific interest is in mesenchymal stem cells. Wnt (shown to grow hair follicles when elevated https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/), beta-catenin/Lef1 (the Chinese show this is upregulated when microneedling (https://pubmed.ncbi.nlm.nih.gov/32412314/) are the growth factors.
+Wound growth factors stimulate dermal papillae-associated stem cells. Our specific interest is in mesenchymal stem cells. Wnt , (the Chinese show this is upregulated when microneedling (https://pubmed.ncbi.nlm.nih.gov/32412314/) are the growth factors.
 
 One of those stem cells is mesenchyme.
 
