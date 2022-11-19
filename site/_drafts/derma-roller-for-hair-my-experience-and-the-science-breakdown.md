@@ -113,7 +113,7 @@ One of those stem cells is mesenchyme.
 
 Microneedling stimulates the mesenchyme stem cells.
 
-This stem cell starts the hair follicle cycle by sending a single to the bulge region Most of the hair follicle stem cells reside in this area bulge. The bulge region is where BMP-4 suppresses the creation of new hair follicles. Mensynchymal cells secret a BMP-4 antagonist, thus shutting off their supression and causing new hair follicles to grow. (it must work antagonistically on Wnt or whatever is used to send the signal—shown here https://pubmed.ncbi.nlm.nih.gov/33108903/)
+This stem cell starts the hair follicle cycle by sending a single to the bulge region. The bulge region of a hair follicle is&nbsp;**located between the opening of sebaceous gland and the attachment site of the arrector pili muscle**. Most of the hair follicle stem cells reside in this area bulge. The bulge region is where BMP-4 suppresses the creation of new hair follicles. Mensynchymal cells secret a BMP-4 antagonist, thus shutting off their supression and causing new hair follicles to grow. (it must work antagonistically on Wnt or whatever is used to send the signal—shown here https://pubmed.ncbi.nlm.nih.gov/33108903/)
 
 Now, with all of this good, let's get to some of the downsides of dermarolling.
 
