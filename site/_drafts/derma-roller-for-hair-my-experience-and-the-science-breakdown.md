@@ -112,13 +112,17 @@ Now, with all of this good, let's get to some of the downsides of dermarolling.
 
 ## What are the cons of microneedling?
 
-Well, it can hurt. After all, you're causing an injury to your skin. Not a lot, and it's something you get used to (I have), but it's never going to be comfortable. Remember what you're doing: You are rolling a cylinder with 540 1.5mm titanium micro needles over the top of your scalp. That's already a sensitive area, and you're aggravating it even further.
+Well, it can hurt. After all, you're causing an injury to your skin. Not a lot, and it's something you get used to (I have), but it's never going to be comfortable.
 
-The pain is necessary, as causing micro-injuries stimulates hair follicles and collagen production. You can use a shorter needle length if the pain and discomfort are too much for you. I currently use a derma roller with 1.5mm length needles, but I started with one that was .5mm long. It hurts less, but it's not as effective.
+Remember what you're doing: You are rolling a cylinder with 540 1.5mm stainless steel/titanium micro needles over the top of your scalp. That's already a sensitive area, and you're aggravating it even further.
+
+The pain is necessary, as causing micro-injuries stimulates the growth factor, mesenchymal cells, and collagen production. You can use a shorter needle length if the pain and discomfort are too much for you. I currently use a derma roller with 1.5mm length needles, but I started with one that was .5mm long. It hurts less, but it's not as effective.
 
 Needle size matters because the needles need to be long enough to pierce the other layer of skin and induce collagen production. You must use the same protocol to achieve the same results as the study. You need to use 1.5mm length needles for the best results.
 
-There are many different kinds of products available. Most are FDA approved while some aren't. However, there isn't enough research out there to know whether or not they're safe. In other words, do your own reason (like you're doing now with this article), don't be reckless, and take none of this as medical advice.
+There are many microneedlers available. Most are FDA approved while some aren't. However, there isn't enough research out there to know whether or not they're safe.
+
+In other words, do your own reason (like you're doing now with this article), don't be reckless, and take none of this as medical advice.
 
 ## What to look for in a derma roller
 
