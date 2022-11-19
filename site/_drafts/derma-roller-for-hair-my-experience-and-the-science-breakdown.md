@@ -73,7 +73,7 @@ All of these contribute to hair growth.
 
 ### Stem cell and growth factor production
 
-Dermal papillae are embedded in a laminin and collagen IV-rich extracellular matrix at the base of the hair follicles. These cells are also considered a reservoir of multi-potent stem cells called mesenchymal cells. Dermal papillae are essential for the induction and maintenance of hair growth.
+Dermal papillae are essential for the induction and maintenance of hair growth. They are embedded in a laminin and collagen IV-rich extracellular matrix at the base of the hair follicles. These cells are also considered a reservoir of multi-potent stem cells called mesenchymal cells.
 
 Wnt protein, Stat 3, and Shh signaling are activated by wounding and participate in every stage of the healing process, from controlling inflammation and programmed cell death to mobilizing stem cell reservoirs within the wound site. This includes the life and death cycle of the hair follicle.
 
