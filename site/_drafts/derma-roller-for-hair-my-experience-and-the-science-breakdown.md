@@ -1,5 +1,5 @@
 ---
-date:
+date: 2022-11-19 11:25:00 -0500
 article_type: Article
 title: 'Derma roller for hair: My experience and the science breakdown'
 permalink: /derma-roller-for-hair/
@@ -11,7 +11,11 @@ description: >-
   non-transplanted hair.
 image:
 ---
-Dermaroller for hair growth: Does it work?
+One of the most effective ways to reverse hair loss (not just slow down or halt) is the dermaroller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. For as little as $40, you can be well on your way to making a serious difference in your hair loss.&nbsp;
+
+I wish I had known about this before I got my hair transplant. While it wouldn't have produced the same results, you'll see well this can work. It's truly a cheap hair loss solution.
+
+## Using a derma roller for hair growth: Does it work?
 
 A derma roller is a skincare device that is, quite possibly, the most certain way to regrow hair lost to androgenic alopecia. . The act of using a derma roller is referred to as "derma rolling" or "micro needling." Throughout this article, the two terms will be used interchangeably.
 
