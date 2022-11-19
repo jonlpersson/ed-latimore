@@ -46,7 +46,11 @@ The results were incredible.&nbsp; Directly from the study:
 
 > "(1) **Hair counts** – The mean change in hair count at week 12 was significantly greater for the Microneedling group compared to the Minoxidil group (91.4 vs 22.2 respectively). (2) **Investigator evaluation** – Forty patients in Microneedling group had +2 to +3 response on a 7-point visual analogue scale, while none showed the same response in the Minoxidil group. (3) **Patient evaluation** – In the Microneedling group, 41 (82%) patients reported more than 50% improvement versus only 2 (4.5%) patients in the Minoxidil group. Unsatisfied patients to conventional therapy for AGA got good response with Microneedling treatment."
 
-TL; DR: Microneedling with a derma roller combined with minoxidil resulted in almost 5x as much hair growth and almost everyone who used a derma roller experienced significant growth. There are two things particularly notable about the results of the derma roller group:
+TL; DR: Microneedling with a derma roller combined with minoxidil resulted in almost 5x as much hair growth and almost everyone who used a derma roller experienced significant growth.
+
+![Minoxidil vs. Minoxidil+Dermaroller](/assets/images/drafts/dermaroller-vs-dermaroller-plus-minoxidil.png "Minoxidil vs. Minoxidil+Dermaroller"){: width="450" height="274"}
+
+There are two things particularly notable about the results of the derma roller group:
 
 1. Using visual assessment, the derma roller + minoxidil group had 22 patients who experienced "moderate improvement" and 18 who experienced "marked improvement." This means that 36 of 50 patients experienced enough hair growth that it was visibly obvious to people. There were none who experienced this type of growth in the minoxidil-only group.
 2. Twelve men, unsatisfied with Finasteride and Minoxidil alone in the past, experienced mild or moderate improvement.
