@@ -144,9 +144,11 @@ Because derma rolling originated as a skin care practice, there are three differ
 
 Again, I just followed what the study recommended. From the study:
 
-"A dermaroller of 1.5 mm sized needles was rolled over the affected areas of the scalp in a longitudinal, vertical, and diagonal directions until mild erythema was noted, which was considered as the end point of the procedure. All patients were instructed not to apply Minoxidil on the day of procedure and to resume its application only 24 h after the Microneedling procedure."
+> "A dermaroller of 1.5 mm sized needles was rolled over the affected areas of the scalp in a longitudinal, vertical, and diagonal directions until mild erythema was noted, which was considered as the end point of the procedure. All patients were instructed not to apply Minoxidil on the day of procedure and to resume its application only 24 h after the Microneedling procedure."
 
-Translation: Go over the area on your scalp where you're losing hair in an "up and down," "left and right," "side to side" pattern until your skin is moderately red and irritated. Don't use minoxidil on the day you microneedle. For my brothas out there (or anyone with a darker skin tone), you won't be able to see your skin turn red. Just got by how irritated it feels, as that will be enough to tell you.
+Translation: Go over the area on your scalp where you're losing hair in an "up and down," "left and right," "side to side" pattern until your skin is moderately red and irritated.
+
+For my brothas out there (or anyone with a darker skin tone), you won't be able to see your skin turn red. Just got by how irritated it feels, as that will be enough to tell you.
 
 One of the caveats the study warns is that you don't want to use the minoxidil (or finasteride+minoxidil solution) within 24 hrs of the derma rolling procedure. This is mainly to avoid irritation. This is not medical advice, but I never wait 24 hours after derma rolling to apply my minoxidil+finasteride solution.
 
