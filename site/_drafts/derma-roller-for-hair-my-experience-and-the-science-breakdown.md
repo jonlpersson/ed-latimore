@@ -13,7 +13,7 @@ image: /assets/images/drafts/dermaroller-for-hair-loss.jpeg
 ---
 One of the most effective ways to reverse hair loss (not just slow down or halt) is the dermaroller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. For as little as $40, you can be well on your way to making a serious difference in your hair loss.&nbsp;
 
-I wish I had known about this before I got my hair transplant. While it wouldn't have produced the same results, you'll see well this can work. It's truly a cheap hair loss solution.
+I wish I had known about this [before I got my hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/). While it wouldn't have produced the same results, you'll see well this can work. It's truly a cheap hair loss solution.
 
 ## Using a derma roller for hair growth: Does it work?
 
@@ -36,7 +36,7 @@ It works by creating micro-injuries within the skin. These micro-punctures cause
 
 The best part is that this is a scientifically verified method for regrowing hair. It's also technically a topical treatment, meaning you don't have to worry about hormonal side effects that come with something like finasteride.
 
-Another benefit of derma rolling is that works just as for men and women. This is similar to other non-chemical treatments, like low-level laser light therapy.
+Another benefit of derma rolling is that works just as for men and women. This is similar to other non-chemical treatments, like l[ow-level laser light therapy.](/low-level-light-therapy-for-hair-loss/)
 
 ## A Randomized Evaluator Blinded Study of the Effect of Microneedling in Androgenetic Alopecia
 
@@ -57,7 +57,7 @@ There are two things particularly notable about the results of the derma roller 
 
 This means that micro-needling, combined with minoxidil, is a serious contender for regrowing hair. It's been proven to work, it's cheap, and its results are visibly noticeable. Seriously, check out some of the images from the study in the before and after.
 
-That's why dermarolling is part of my hair retention protocol.
+That's why dermarolling is part of my [hair retention protocol.](/how-to-prevent-hair-loss/)
 
 ## How does dermarolling cause hair regrowth?
 
