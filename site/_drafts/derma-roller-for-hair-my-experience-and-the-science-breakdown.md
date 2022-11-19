@@ -130,7 +130,7 @@ In other words, do your own reason (like you're doing now with this article), do
 
 ## What to look for in a derma roller
 
-I have no particular loyalty to any one derma roller. Here is the link to the one I use, but as long as they meet the following criteria, any derma roller will do.
+I have no particular loyalty to any one derma roller. Here is the link to the one I use, but as long as they meet the following criteria, any derma roller will do. \[[Microneedle Roller with 540, 1.5mm Titanium Needles](https://amzn.to/3GvZ4PW)\]
 
 There are only 2 things you need to look for when picking on a derma roller.&nbsp;
 
