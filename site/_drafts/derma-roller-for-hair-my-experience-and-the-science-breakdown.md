@@ -25,13 +25,13 @@ It's also used for the general maintenance of your skin. It can treat acne scarr
 
 It works by creating micro-injuries within the skin. These micro-punctures cause blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat:
 
-* Alopecia totalis (**complete hair loss of the scalp)**
+* Alopecia totalis (complete hair loss of the scalp)
 * Alopecia universalis (complete loss of all hair on the body)
-* Scarring alopecia (**inflammatory condition that destroys hair follicles, causing scarring and permanent hair loss**.)
+* Scarring alopecia (inflammatory condition that destroys hair follicles, causing scarring and permanent hair loss.)
 * Androgenetic alopecia (the most common form of hair loss that affects most men and even some women)
 * Telogen effluvium (excessive shedding of hair)
 * Trichotillomania (the irresistable urge to pull your hair out)
-* Tinea capitis
+* Tinea capitis (a fungal infection that causes hair loss)
 * Pretty much any hair loss.
 
 The best part is that this is a scientifically verified method for regrowing hair. It's also technically a topical treatment, meaning you don't have to worry about hormonal side effects that come with something like finasteride.
