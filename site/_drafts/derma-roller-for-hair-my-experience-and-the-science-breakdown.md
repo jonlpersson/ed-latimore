@@ -126,19 +126,17 @@ In other words, do your own reason (like you're doing now with this article), do
 
 ## What to look for in a derma roller
 
-I have no particular loyalty to any one derma roller. Here is the link to the one I use, but as long as they meet the following criteria, any derma roller will do. I've seen some of the fancy electric ones or the ones with changeable heads.
-
-You don't need an electric derma roller. It will do the same thing but cost you a bit more money. I've seen derma rollers that have replaceable heads. This is a nice feature, but as long as you keep it clean and stored in the cast that it comes in, this shouldn't be such a problem that you're going through derma rollers.
+I have no particular loyalty to any one derma roller. Here is the link to the one I use, but as long as they meet the following criteria, any derma roller will do.
 
 There are only 2 things you need to look for when picking on a derma roller.&nbsp;
 
-Length of needles
+### Length of roller needles
 
-Follow the protocol from the study and try to use a 1.5 mm length titanium or stainless steel needles. Your goal to stimulate hair growth. If you read the science, you know that you need to puncture the skin surface. If you skipped it, maybe go back. I swear it's not that thick.
+Follow the study protocol and try using a 1.5 mm length titanium or stainless steel needles. Your goal to stimulate hair growth. If you read the explanation of the how microneedling works, you know that you need to puncture the skin surface. If you skipped it, maybe go back. I swear it's not that thick.
 
 A 1.5mm needle will penetrate deeper into the skin, stimulating blood flow, triggering more growth factor, and causing more of the signaling changes in your scalp to stimulate hair regrowth.&nbsp;
 
-3\. Size of Rollers
+### Size of rollers
 
 Because derma rolling originated as a skin care practice, there are three different sizes of rollers, all designed for different parts of your face. Get the largest roller you can, as they are excellent for your head.
 
