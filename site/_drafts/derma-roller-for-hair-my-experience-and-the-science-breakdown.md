@@ -85,29 +85,25 @@ Stat 3 (role in hair growth https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480
 
 Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
 
-Wnt protein, Stat 3, and Shh signaling are activated by wounding and participate in every stage of the healing process, from controlling inflammation and programmed cell death to mobilizing stem cell reservoirs within the wound site. This includes the life and death cycle of the hair follicle.
-
 As well as the up-regulation of suppressive the suppressive
 
-BMP-4
+BMP-4: The growth factor bone morphogenic protein (BMP)-4, also appears to play an important role in suppressing follicular growth and differentiation during the telogen phase by inhibiting anagen induction.&nbsp;
 
 Dkk-1 which is secreted from DP cells in response to DHT pathway, is also potent inhibitor of Wnt pathway.\[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/#ref1)\] BMP 4 protein also acts through the activation of DKK pathway, thereby inhibiting hair follicular growth
 
-&nbsp;
+Dermal papilae cells are also considered a reservoir of multi-potent stem cells called mesenchymal cells.
 
-These cells are also considered a reservoir of multi-potent stem cells called mesenchymal cells.
+### Step-by-step breakdown of how microneedling works to stop hair loss
 
 Wnt protein, Stat 3, and Shh signaling are activated by wounding and participate in every stage of the healing process, from controlling inflammation and programmed cell death to mobilizing stem cell reservoirs within the wound site. This includes the life and death cycle of the hair follicle.
 
-Hair follicle regeneration starts with signals from the mesenchyme-derived dermal papillae cells. The transition of telogen follicles into anagen is associated with activating Wnt, Stat 3, and Shh proteins. The growth factor bone morphogenic protein (BMP)-4, also appears to play an important role in suppressing follicular growth and differentiation during the telogen phase by inhibiting anagen induction.&nbsp;
+Hair follicle regeneration starts with signals from the mesenchyme-derived dermal papillae cells. The transition of telogen follicles into anagen is associated with activating Wnt, Stat 3, and Shh proteins.
 
-Researchers have demonstrated the importance of Wnt proteins and wound growth factors in stimulating dermal papillae-associated stem cells. However, dermal papillae cells are also androgen receptors.
+Researchers have demonstrated the importance of Wnt proteins and wound growth factors in stimulating dermal papillae-associated stem cells.&nbsp;
 
-When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae cells, it binds to the androgen receptors, causing two notable things to happen: downregulation of processes vital to hair growth and upregulation of processes that stop hair growth.&nbsp;
+Microneedling causes wounds, which triggers various growth factors (https://pubmed.ncbi.nlm.nih.gov/8676414/). The growth factors are triggered in response to the micro-injuries to the scalp's outer layer.
 
-These include the suppression of stimulatory pathways of Wnt, Stat 3 (role in hair growth https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/) and Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/ and up-regulation of suppressive the suppressive BMP-4. Dkk-1, which is secreted from DP cells in response to DHT pathway, is also potent inhibitor of Wnt pathway.\[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/#ref1)\] BMP 4 protein also acts through the activation of DKK pathway, thereby inhibiting hair follicular growth
-
-Microneedling causes wounds, which triggers various growth factors (https://pubmed.ncbi.nlm.nih.gov/8676414/). The growth factors are triggered in response to the micro-injuries to the scalp's outer layer. Wound growth factors stimulate dermal papillae-associated stem cells. Wnt (shown to grow hair follicles when elevated https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/), beta-catenin/Lef1 (the Chinese show this is upregulated when microneedling (https://pubmed.ncbi.nlm.nih.gov/32412314/) are the growth factors.
+Wound growth factors stimulate dermal papillae-associated stem cells. Our specific interest is in mesenchymal stem cells. Wnt (shown to grow hair follicles when elevated https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/), beta-catenin/Lef1 (the Chinese show this is upregulated when microneedling (https://pubmed.ncbi.nlm.nih.gov/32412314/) are the growth factors.
 
 One of those stem cells is mesenchyme.
 
