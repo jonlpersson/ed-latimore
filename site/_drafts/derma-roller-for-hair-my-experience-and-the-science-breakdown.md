@@ -40,15 +40,13 @@ Another benefit of derma rolling is that works just as for men and women. This i
 
 ## A Randomized Evaluator Blinded Study of the Effect of Microneedling in Androgenetic Alopecia
 
-A 2013 study titled "[A Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/) In that study, they compared hair growth between a group that just used a 5% minoxidil solution and one that used a 5% minoxidil solution along with weekly microneedling sessions.
-
-"Hundred cases of mild to moderate (III vertex or IV) androgenetic alopecia (AGA) were recruited into 2 groups. After randomization one group was offered weekly microneedling treatment with twice daily 5% minoxidil lotion (Microneedling group); other group was given only 5% minoxidil lotion."
+A 2013 study titled "[A Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)&nbsp;compared hair growth between a group that just used a 5% minoxidil solution and one that used a 5% minoxidil solution along with weekly microneedling sessions.
 
 The results were incredible.&nbsp; Directly from the study:
 
-"(1) Hair counts – The mean change in hair count at week 12 was significantly greater for the Microneedling group compared to the Minoxidil group (91.4 vs 22.2 respectively). (2) Investigator evaluation – Forty patients in Microneedling group had +2 to +3 response on a 7-point visual analogue scale, while none showed the same response in the Minoxidil group. (3) Patient evaluation – In the Microneedling group, 41 (82%) patients reported more than 50% improvement versus only 2 (4.5%) patients in the Minoxidil group. Unsatisfied patients to conventional therapy for AGA got good response with Microneedling treatment."
+> "(1) **Hair counts** – The mean change in hair count at week 12 was significantly greater for the Microneedling group compared to the Minoxidil group (91.4 vs 22.2 respectively). (2) **Investigator evaluation** – Forty patients in Microneedling group had +2 to +3 response on a 7-point visual analogue scale, while none showed the same response in the Minoxidil group. (3) **Patient evaluation** – In the Microneedling group, 41 (82%) patients reported more than 50% improvement versus only 2 (4.5%) patients in the Minoxidil group. Unsatisfied patients to conventional therapy for AGA got good response with Microneedling treatment."
 
-TL; DR: Microneedling with a derma roller combined with minoxidil resulted in almost 5x as much hair growth, and almost everyone who used a derma roller experienced significant growth. There are two things particularly notable about the results of the derma roller group:
+TL; DR: Microneedling with a derma roller combined with minoxidil resulted in almost 5x as much hair growth and almost everyone who used a derma roller experienced significant growth. There are two things particularly notable about the results of the derma roller group:
 
 1. Using visual assessment, the derma roller + minoxidil group had 22 patients who experienced "moderate improvement" and 18 who experienced "marked improvement." This means that 36 of 50 patients experienced enough hair growth that it was visibly obvious to people. There were none who experienced this type of growth in the minoxidil-only group.
 2. Twelve men, unsatisfied with Finasteride and Minoxidil alone in the past, experienced mild or moderate improvement.
@@ -59,7 +57,7 @@ That's why dermarolling is part of my hair retention protocol.
 
 ## How does dermarolling cause hair regrowth?
 
-There are several proposed mechanisms as to why derma dermarolling causes such rapid growth of hair. If you aren't interested in science, skip ahead to the next section. This is for my nerds who want to learn a little more.
+There are several proposed mechanisms as to why derma dermarolling causes such rapid growth of hair. If you aren't interested in the science, skip ahead to the next section. This is for my nerds who want to learn a little more.
 
 ### Production of collagen
 
@@ -67,7 +65,9 @@ We know that dermarolling causes collagen production. Numerous studies have foun
 
 Collagen is the most abundant protein in your body and helps makeup tendons, ligaments, and skin
 
-Your body produces collagen, but you can also get it from supplements and foods like bone broth. One of the most recent popular protein supplements is specifically made from collagen peptides. Collagen does several things for your hair, but the one most relevant to thinning is that it can help repair damaged hair follicles, [protect them from free radical damage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853751/), and improve scalp elasticity.
+Your body produces collagen, but you can also get it from supplements and foods like bone broth. One of the most recent popular protein supplements is specifically made from collagen peptides.
+
+Collagen does several things for your hair, but the one most relevant to thinning is that it can help repair damaged hair follicles, [protect them from free radical damage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853751/), and improve scalp elasticity.
 
 All of these contribute to hair growth.
 
