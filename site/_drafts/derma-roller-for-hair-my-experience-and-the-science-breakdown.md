@@ -19,7 +19,9 @@ I wish I had known about this before I got my hair transplant. While it wouldn't
 
 A derma roller is a skincare device that is, quite possibly, the most certain way to regrow hair lost to androgenic alopecia. . The act of using a derma roller is referred to as "derma rolling" or "micro needling." Throughout this article, the two terms will be used interchangeably.
 
-Well, that's not the only thing it does. It's also used for the general maintenance of your skin. It can treat acne scarring, reduce signs of aging, and of greatest importance to men dealing with male pattern baldness, it can stimulate hair growth and regrowth.
+Well, that's not the only thing it does.
+
+It's also used for the general maintenance of your skin. It can treat acne scarring, reduce signs of aging, and of greatest importance to men dealing with male pattern baldness, it can stimulate hair growth and regrowth.
 
 It works by creating micro-injuries within the skin. These micro-punctures allow for increased blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat alopecia totalis, alopecia universalis, scarring alopecia, androgenetic alopecia, telogen effluvium, trichotillomania, and tinea capitis—pretty much any hair loss.
 
