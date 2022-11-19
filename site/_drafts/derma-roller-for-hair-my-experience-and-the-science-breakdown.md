@@ -160,6 +160,8 @@ One of the caveats the study warns is that you don't want to use the minoxidil (
 
 It works. Every man in every study had great responses, but you've gotta make sure you combine it with minoxidil. I combine mine with the topical finasteride/minoxidil combination. I feel like this has supercharged my results.
 
+![From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:](/assets/images/drafts/12-week-growth-before-and-after-microneedling.png "From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:"){: width="450" height="338"}
+
 Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. I've got my hair thickness pretty high adding this tactic to my reservoir.
 
 If you want to see the rest of my hair loss prevention and retention protocol, check it out here. Otherwise, the rest is up to you.&nbsp;
