@@ -23,7 +23,16 @@ Well, that's not the only thing it does.
 
 It's also used for the general maintenance of your skin. It can treat acne scarring, reduce signs of aging, and of greatest importance to men dealing with male pattern baldness, it can stimulate hair growth and regrowth.
 
-It works by creating micro-injuries within the skin. These micro-punctures allow for increased blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat alopecia totalis, alopecia universalis, scarring alopecia, androgenetic alopecia, telogen effluvium, trichotillomania, and tinea capitis—pretty much any hair loss.
+It works by creating micro-injuries within the skin. These micro-punctures cause blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat:
+
+* Alopecia totalis
+* Alopecia universalis
+* Scarring alopecia
+* Androgenetic alopecia
+* Telogen effluvium
+* Trichotillomania
+* Tinea capitis
+* Pretty much any hair loss.
 
 The best part is that this is a scientifically verified method for regrowing hair. It's also technically a topical treatment, meaning you don't have to worry about hormonal side effects that come with something like finasteride.
 
