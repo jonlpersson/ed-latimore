@@ -85,7 +85,7 @@ These include the suppression of stimulatory pathways of:
 
 **Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):**&nbsp;Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
 
-Beta-catenin
+**Beta-catenin:**&nbsp;β-Catenin signaling is specifically responsible for hair follicle development, regeneration, and growth, and is expressed in the dermis and promotes anagen induction, duration, keratinocyte regulation and differentiaton
 
 Lef1
 
