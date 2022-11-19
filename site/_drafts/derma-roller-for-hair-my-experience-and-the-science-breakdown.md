@@ -99,22 +99,14 @@ Wnt protein, Stat 3, Beta-Catenin, Lef1, and Shh signaling are activated by woun
 
 This includes the life and death cycle of the hair follicle.
 
-1. Normally, hair follicle regeneration starts with signals from the mesenchyme-derived dermal papillae cells. The transition of telogen follicles into anagen is associated with activating Wnt, Stat 3, and Shh proteins.
+1. Normally, hair follicle regeneration starts with signals from the mesenchyme-derived dermal papillae cells. The transition of telogen follicles into anagen is associated with activating Wnt, Stat 3, and Shh proteins. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC316619/))
 2. Microneedling stimulates the mesenchyme stem cells. This stem cell starts the hair follicle cycle by sending a single to the bulge region. . Most of the hair follicle stem cells reside in this area bulge.
 3. The bulge region is where BMP-4 suppresses the creation of new hair follicles. Mesenchymal cells secrete a BMP-4 antagonist, thus shutting off their supression and causing new hair follicles to grow. This makes sense, as research shows that Wnt works antagonistically on BMP-4. ([Source](https://pubmed.ncbi.nlm.nih.gov/33108903/))
 4. Microneeding causes an uptick in signalling factors associate with hair growth. Specifically beta-catenin and Lef1 ([source](https://pubmed.ncbi.nlm.nih.gov/32412314/)).
 
 &nbsp;
 
-Microneedling causes wounds, which triggers various growth factors (https://pubmed.ncbi.nlm.nih.gov/8676414/). The growth factors are triggered in response to the micro-injuries to the scalp's outer layer.
-
-&nbsp;
-
-One of those stem cells is called mesenchyme.
-
-&nbsp;
-
-&nbsp;
+The most notable thing about this process is that it's capable of causing the scalp to generate new hair follicles from the mesenchymal stem cells as well motivate growth of existing hair follicles.
 
 Now, with all of this good, let's get to some of the downsides of dermarolling.
 
