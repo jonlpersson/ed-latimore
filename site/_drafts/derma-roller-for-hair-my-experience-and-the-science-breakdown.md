@@ -79,11 +79,11 @@ When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae ce
 
 These include the suppression of stimulatory pathways of:
 
-Wnt: Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
+**Wnt:** Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
 
-Stat 3: Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
+**Stat 3:** Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
 
-Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
+**Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):**&nbsp;Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
 
 Beta-catenin
 
