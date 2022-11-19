@@ -79,15 +79,11 @@ When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae ce
 
 These include the suppression of stimulatory pathways of:
 
-**Wnt:** Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
-
-**Stat 3:** Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
-
-**Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):**&nbsp;Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
-
-**Beta-catenin:**&nbsp;β-Catenin signaling is specifically responsible for hair follicle development, regeneration, and growth, and is expressed in the dermis and promotes anagen induction, duration, keratinocyte regulation and differentiaton
-
-Lef1
+* **Wnt:** Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
+* **Stat 3:** Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
+* **Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):**&nbsp;Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
+* **Beta-catenin:**&nbsp;β-Catenin signaling is specifically responsible for hair follicle development, regeneration, and growth, and is expressed in the dermis and promotes anagen induction, duration, keratinocyte regulation and differentiaton.
+* **Lef1:**&nbsp;Lef1 is a key transcription factor in developing fibroblasts that supports hair follicle formation in adult wounds. ([Source](https://elifesciences.org/articles/60066))
 
 As well as the up-regulation of suppressive the suppressive
 
