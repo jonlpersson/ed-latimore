@@ -85,7 +85,13 @@ Stat 3 (role in hair growth https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480
 
 Shh (**Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation**. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
 
-As well as the up-regulation of suppressive the suppressive BMP-4. Dkk-1, which is secreted from DP cells in response to DHT pathway, is also potent inhibitor of Wnt pathway.\[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/#ref1)\] BMP 4 protein also acts through the activation of DKK pathway, thereby inhibiting hair follicular growth
+Wnt protein, Stat 3, and Shh signaling are activated by wounding and participate in every stage of the healing process, from controlling inflammation and programmed cell death to mobilizing stem cell reservoirs within the wound site. This includes the life and death cycle of the hair follicle.
+
+As well as the up-regulation of suppressive the suppressive
+
+BMP-4
+
+Dkk-1 which is secreted from DP cells in response to DHT pathway, is also potent inhibitor of Wnt pathway.\[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/#ref1)\] BMP 4 protein also acts through the activation of DKK pathway, thereby inhibiting hair follicular growth
 
 &nbsp;
 
