@@ -4,7 +4,7 @@ article_type: Article
 title: A boxer teaches you how betting odds work
 permalink: /how-do-betting-odds-work/
 tags:
-  - math-concepts
+  - learning-skills
 description: >-
   Betting odds look perplexing to most people who are not involved in the sports
   betting or gambling scene. However, they are actually quite simple.
