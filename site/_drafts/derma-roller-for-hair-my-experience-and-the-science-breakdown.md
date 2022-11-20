@@ -144,6 +144,8 @@ A 1.5mm needle will penetrate deeper into the skin, stimulating blood flow, trig
 
 Because derma rolling originated as a skin care practice, there are three different sizes of rollers, all designed for different parts of your face. Get the largest roller you can, as they are excellent for your head.
 
+![My derma roller. This one one costs 10 bucks.](/assets/images/drafts/1-5mm-titanium-derma-roller-for-hair-loss.jpg "My derma roller. This one one costs 10 bucks."){: width="400" height="533"}
+
 ## The microneedling procedure to cause hair re-growth
 
 Again, I just followed what the study recommended. From the study:
