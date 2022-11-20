@@ -4,7 +4,7 @@ article_type: Article
 title: 6 signs you're definitely addicted to porn
 permalink: /6-signs-that-youre-definitely-addicted-to-porn/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 image: /assets/images/posts/pornaddiction-illustration-libertyantoniasadler-metro.png
 description: >-
   Maybe you’re wondering if you’re addicted to porn. I’ve compiled a list of the
