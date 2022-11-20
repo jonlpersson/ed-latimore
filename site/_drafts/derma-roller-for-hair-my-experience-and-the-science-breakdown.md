@@ -152,6 +152,8 @@ Again, I just followed what the study recommended. From the study:
 
 Translation: Go over the area on your scalp where you're losing hair in an "up and down," "left and right," "side to side" pattern until your skin is moderately red and irritated.
 
+![Derma rolling is really this simple. Just do this until your scalp is mildly irritated.](/assets/images/drafts/directions-for-derma-rolling-for-hair-loss.png "Derma rolling is really this simple. Just do this until your scalp is mildly irritated."){: width="800" height="450"}
+
 For my brothas out there (or anyone with a darker skin tone), you won't be able to see your skin turn red. Just got by how irritated it feels, as that will be enough to tell you.
 
 One of the caveats the study warns is that you don't want to use the minoxidil (or finasteride+minoxidil solution) within 24 hrs of the derma rolling procedure. This is mainly to avoid irritation. This is not medical advice, but I never wait 24 hours after derma rolling to apply my minoxidil+finasteride solution.
