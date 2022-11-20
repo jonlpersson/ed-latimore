@@ -4,7 +4,7 @@ article_type: Article
 title: Why it's so hard to quit porn
 permalink: /why-is-it-hard-to-quit-porn/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 description: >-
   Why is porn such an addictive habit that's so hard to break? Learn why so that
   you can do everything in your power to break the addiction.
