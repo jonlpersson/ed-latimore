@@ -4,7 +4,7 @@ article_type: Article
 title: The 5 most important qualities of a good teacher
 permalink: /qualities-of-a-good-teacher/
 tags:
-  - math-concepts
+  - learning-skills
 description: >-
   Being a great teacher boils down to 5 non-negotiable qualities. From my
   experience teaching and watching other teachers, I present them to you here.
