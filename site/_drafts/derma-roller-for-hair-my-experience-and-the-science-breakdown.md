@@ -65,6 +65,8 @@ There are several proposed mechanisms as to why derma dermarolling causes such r
 
 ### Production of collagen
 
+![Derma rolling produces collagen and also allows minoxidil to work better](/assets/images/drafts/derma-roller-collagen-production.png "Derma rolling produces collagen and also allows minoxidil to work better"){: width="400" height="249"}
+
 We know that dermarolling causes collagen production. Numerous studies have found that dermarolling increases collagen production ([source](https://www.sciencedirect.com/science/article/pii/S2352647515000295#bbb0025)). What is collagen, and how does it help with hair growth?
 
 Collagen is the most abundant protein in your body and helps makeup tendons, ligaments, and skin
