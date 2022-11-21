@@ -4,13 +4,12 @@ article_type: Review
 title: BlockerX review (2022)
 permalink: /blockerx-review/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 description: >-
   BlockerX bills itself as the “#1 self-control app,” but does it live it up to
   its own claims? Here’s my review.
 image: /assets/images/thumbnails/blockerx-review.jpg
 ---
-
 Let’s be honest; online porn is everywhere. Even when you’re not searching for it, there’s a decent chance you’ll find an explicit image or video pop up while browsing Twitter, Reddit, or a message board. A considerable chunk of the internet is devoted to porn and porn sites, and it’s no surprise that [viewership among adults and minors is rising](https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/).
 
 The easy access to porn has enabled a generation of men to become porn addicts, making treatment challenging. Although it’s becoming increasingly evident that porn addiction can [interfere with your life and ruin relationships](/reasons-porn-is-harmful/), the social stigma of admitting addiction can make it difficult to speak out or seek treatment.
@@ -67,6 +66,6 @@ For example, Canopy intelligently detects blocks explicit images and videos in r
 
 ## Final thoughts
 
-Overall, I’ve found [Covenant Eyes](/covenant-eyes-review/) to be a far superior product due to its accountability reports, AI-driven monitoring technology, and helpful companion courses. Read my comprehensive review on it by clicking the link above, or check out their website by clicking the link below. 
+Overall, I’ve found [Covenant Eyes](/covenant-eyes-review/) to be a far superior product due to its accountability reports, AI-driven monitoring technology, and helpful companion courses. Read my comprehensive review on it by clicking the link above, or check out their website by clicking the link below.
 
 {% include widgets/summary.html id="Covenant-Eyes" %}
