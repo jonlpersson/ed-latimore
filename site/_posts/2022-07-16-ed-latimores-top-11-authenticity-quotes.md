@@ -3,10 +3,10 @@ date: 2022-07-16 23:48:11 -0400
 article_type: Article
 title: Ed Latimore's top 11 authenticity quotes
 permalink: /authenticity-quotes/
-tags: 
+tags:
   - ed-latimore-original-quotes
-categories: 
-  - ed-latimore-original-quotes
+categories:
+  - book-quotes-and-summaries
 description: >-
   This is a collection of Ed Latimore original quotes on authenticity.  These
   will remind you to live an authentic life you can be proud of. 
