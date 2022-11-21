@@ -3,10 +3,10 @@ date: 2022-07-18 20:12:11 -0400
 article_type: Article
 title: A personal blog teaches you how to build an email list
 permalink: /how-to-build-and-manage-an-email-list/
-tags: 
+tags:
   - writing-skills
-categories: 
-  - writing-skills
+categories:
+  - learning-skills
 description: >-
   Social media platforms are fickle. Algorithms change and people get censored,
   but your email list is always yours. Learn why you should build an email list.
