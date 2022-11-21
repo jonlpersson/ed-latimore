@@ -59,7 +59,7 @@ In the beginning, though, you may need to choose neutrals or neutrals with small
 
 The retail business dictates that clothing be standardized to the average body type and size. This saves money on production but hinders your search for flattering attire. Your best bet is to find a clothing brand that makes clothing specifically for muscular men.
 
-Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course *[Dress Like a Man](https://goo.gl/hSjSFC)* and it changed the way I approached dressing.
+Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course *[Dress Like a Man](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq)* and it changed the way I approached dressing.
 
 Tanner is a men’s style coach that has a three-principal approach to finding the perfect fit for bigger guys:
 

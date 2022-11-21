@@ -193,7 +193,7 @@ Dressing well also helps your confidence. When you look better you feel better. 
 
 If knowing what clothes to wear are outside your comfort zone, get help. There are tons of videos on YouTube that explain how a proper man should dress to increase his appeal.
 
-Or, my favorite: Tanner Guzy’s comprehensive course, [Dress Like a Man](https://goo.gl/hSjSFC). Click the link to find out more about it.
+Or, my favorite: Tanner Guzy’s comprehensive course, [Dress Like a Man](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq). Click the link to find out more about it.
 
 Find what looks best for your body type, skin tone, and ideal life. Do it today.
 

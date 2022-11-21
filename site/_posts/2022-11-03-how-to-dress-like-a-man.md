@@ -60,7 +60,7 @@ These are general guidelines, and aren’t literally exclusive to any profession
 
 Learning the archetypes gives you such an advantage because it helps you get strategic with your dress code instead of winging it. The style advice of Tanner Guzy revolutionized not only how I dress, but how I approach appearance as a whole.
 
-Check out his [“Dress Like a Man” course](http://shop.masculine-style.com/dress-like-a-man-launch/) to learn how to dress well, while staying true to your personality and strengths.
+Check out his [“Dress Like a Man” course](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq) to learn how to dress well, while staying true to your personality and strengths.
 
 
 ## Go for fit and quality

@@ -86,7 +86,7 @@ Develop a mix of casual, dressy, and dress casual outfits. Jeans and t-shirts ar
 
 For a lot of guys, branching out of comfort and sports clothing is like pulling teeth.
 
-Tanner Guzy is a masculine style consultant I’m familiar with that offers individual coaching. His website and comprehensive course: [Dress Like a Man](https://goo.gl/hSjSFC), will teach you how your style choices help your confidence, attractiveness, and success.
+Tanner Guzy is a masculine style consultant I’m familiar with that offers individual coaching. His website and comprehensive course: [Dress Like a Man](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq), will teach you how your style choices help your confidence, attractiveness, and success.
 
 Never hesitate to invest in something that can change so much about how you look and feel about yourself.
 
