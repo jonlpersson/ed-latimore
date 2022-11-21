@@ -4,7 +4,7 @@ article_type: Article
 title: The benefits of NoFap
 permalink: /nofap-benefits/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 description: >-
   Porn addiction has so many men living beneath their potential. These tips will
   teach you the benefits of No Fap so you can get your superpowers
