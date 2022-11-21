@@ -3,10 +3,10 @@ date: 2021-08-11 18:04:41 -0400
 article_type: Article
 title: 5 ways to develop your writing voice
 permalink: /voice-in-writing/
-tags: 
+tags:
   - writing-skills
-categories: 
-  - writing-skills
+categories:
+  - learning-skills
 description: "Authentic writing has a\_unique voice. Your voice\_is what makes your\_writing\_unique from\_someone else's. Read on to learn how to build yours."
 image: /assets/images/thumbnails/ed-at-computer.jpg
 ---
