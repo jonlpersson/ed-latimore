@@ -3,10 +3,10 @@ date: 2020-02-24 11:11:00 -0500
 article_type: Article
 title: The alcohol detox diet I used to get sober
 permalink: /the-alcohol-detox-diet/
-tags: 
+tags:
   - sober-life
-categories: 
-  - sober-life
+categories:
+  - how-to-break-an-addiction
 image: /assets/images/posts/ed-eating.png
 description: >-
   A healthy diet can make it easier for you to get and stay sober. Learn the
