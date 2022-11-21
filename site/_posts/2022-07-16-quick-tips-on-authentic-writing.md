@@ -3,10 +3,10 @@ date: 2022-07-16 16:43:16 -0400
 article_type: Article
 title: Quick tips on authentic writing
 permalink: /authentic-writing/
-tags: 
+tags:
   - writing-skills
-categories: 
-  - writing-skills
+categories:
+  - learning-skills
 description: >-
   Every writer wants to make a deep impact. The way to do this is through
   authentically real writing. This article gives a few tips on crafting
