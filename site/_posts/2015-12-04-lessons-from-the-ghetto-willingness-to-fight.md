@@ -3,7 +3,9 @@ date: 2015-12-04 19:00:00 -0500
 article_type: Article
 title: 'Lessons from the ghetto: willingness to fight'
 permalink:
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 image: /assets/images/posts/projects.jpg
 description: >-

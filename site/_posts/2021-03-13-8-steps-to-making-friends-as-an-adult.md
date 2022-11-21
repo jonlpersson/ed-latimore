@@ -3,7 +3,9 @@ date: 2021-03-13 19:00:00 -0500
 article_type: Article
 title: 9 ways to make friends as an adult
 permalink: /how-to-make-friends-as-an-adult/
-tags:
+tags: 
+  - how-to-make-friends
+categories: 
   - how-to-make-friends
 description: >-
   Most peope have no idea how to make friends as an adult without alcohol.  In

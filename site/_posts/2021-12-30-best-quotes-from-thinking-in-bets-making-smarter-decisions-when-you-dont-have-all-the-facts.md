@@ -3,7 +3,9 @@ date: 2021-12-30 19:23:59 -0500
 article_type: Article
 title: 12 great quotes from Annie Duke's “Thinking in Bets”
 permalink: /annie-duke-thinking-in-bets-quotes/
-tags:
+tags: 
+  - book-quotes-and-summaries
+categories: 
   - book-quotes-and-summaries
 description: >-
   Here are 12 great quotes from “Thinking in Bets: Making Smarter Decisions When

@@ -3,7 +3,9 @@ date: 2017-07-15 16:33:00 -0400
 article_type: Article
 title: 7 main differences between professionals and amateurs
 permalink: /professional-vs-amateur
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-

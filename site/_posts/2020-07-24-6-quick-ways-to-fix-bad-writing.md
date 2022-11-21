@@ -3,7 +3,9 @@ date: 2020-07-24 13:09:00 -0400
 article_type: Article
 title: 6 quick ways to fix bad writing
 permalink: /bad-writing/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 description: >-
   Here are some great tips to make you a better writer. Following these will fix

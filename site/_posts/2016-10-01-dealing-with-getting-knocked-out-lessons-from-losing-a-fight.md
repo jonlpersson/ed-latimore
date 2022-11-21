@@ -3,7 +3,9 @@ date: 2016-10-01 06:36:00 -0400
 article_type: Article
 title: 8 lessons from losing a fight
 permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-television/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 image: /assets/images/posts/ed-knocked-out.jpg
 description: >-

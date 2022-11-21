@@ -3,7 +3,9 @@ date: 2022-04-05 09:00:47 -0400
 article_type: Article
 title: Strategies to be patient in a relationship
 permalink: /how-to-be-patient-in-a-relationship/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   If you lose your cool, you can ruin your relationship. Win in love, overcome

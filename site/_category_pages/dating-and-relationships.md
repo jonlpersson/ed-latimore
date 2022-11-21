@@ -1,5 +1,5 @@
 ---
-tag: dating-and-relationships
+category: dating-and-relationships
 title: Dating and relationships
 description:
 hero:

@@ -3,7 +3,9 @@ date: 2022-07-03 18:31:00 -0400
 article_type: Article
 title: 10 ways for any man to look taller
 permalink: /how-to-look-taller/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 description: >-
   These style tips will not only make you look taller, but some of them may

@@ -3,7 +3,9 @@ date: 2015-12-01 19:00:00 -0500
 article_type: Article
 title: 7 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 image: /assets/images/posts/watching porn.PNG
 description: >-

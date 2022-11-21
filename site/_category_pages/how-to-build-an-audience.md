@@ -1,5 +1,5 @@
 ---
-tag: how-to-build-an-audience
+category: how-to-build-an-audience
 title: How to build an audience
 description:
 hero:

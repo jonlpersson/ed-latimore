@@ -3,7 +3,9 @@ date: 2022-02-08 09:40:00 -0500
 article_type: Article
 title: The best porn blocker for 2022
 permalink: /best-porn-blocker/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   Kick the bad habit of watch porn for good by using a porn blocker. Here's the

@@ -1,5 +1,5 @@
 ---
-tag: quotes-and-summaries
+category: quotes-and-summaries
 title: Quotes and summaries
 description:
 hero:

@@ -1,5 +1,5 @@
 ---
-tag: porn-addiction-recovery
+category: porn-addiction-recovery
 title: Porn addiction recovery
 description: >-
   This list of resources will aid you in recovery from your porn addiction.

@@ -3,7 +3,9 @@ date: 2021-10-03 11:49:29 -0400
 article_type: Article
 title: Understanding toxic relationships
 permalink: /toxic-relationships/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   Toxic relationships can be dangerous. Especially if you don't know that you're

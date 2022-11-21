@@ -3,7 +3,9 @@ date: 2022-09-11 16:50:00 -0400
 article_type: Article
 title: My Chess.com Chess Improvement Plan
 permalink: /chess-improvement-plan/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 description: >-
   This is a plan that I'll be implementing to improve my rating on Chess.com in

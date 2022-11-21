@@ -1,5 +1,5 @@
 ---
-tag: how-to-control-your-emotions
+category: how-to-control-your-emotions
 title: How to control your emotions
 description:
 hero:

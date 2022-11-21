@@ -1,5 +1,5 @@
 ---
-tag: how-to-become-superhuman
+category: how-to-become-superhuman
 title: How to become superhuman
 description: Learn how to optimize your health for peak performance.
 hero:

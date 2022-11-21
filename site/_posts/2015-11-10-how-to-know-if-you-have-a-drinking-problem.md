@@ -3,7 +3,9 @@ date: 2015-11-10 19:00:00 -0500
 article_type: Article
 title: How to know if you have a drinking problem
 permalink: /how-to-know-if-you-have-a-drinking-problem/
-tags:
+tags: 
+  - sober-life
+categories: 
   - sober-life
 image: /assets/images/posts/ed-with-grape-juice.jpg
 description: >-

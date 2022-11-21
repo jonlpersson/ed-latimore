@@ -3,7 +3,9 @@ date: 2020-08-29 23:00:00 -0400
 article_type: Article
 title: 16 best self-discipline quotes
 permalink: /ed-latimore-self-discipline-quotes/
-tags:
+tags: 
+  - ed-latimore-original-quotes
+categories: 
   - ed-latimore-original-quotes
 description: >-
   This is a collection of my best quotes about self-discipline. These will help

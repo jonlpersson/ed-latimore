@@ -3,7 +3,9 @@ date: 2017-11-27 00:00:00 -0500
 article_type: Article
 title: 8 ways to stop caring about what people think
 permalink: /how-to-stop-worrying-about-what-others-think-of-you/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 image: /assets/images/posts/ed-chilling-boat.jpg
 description: >-

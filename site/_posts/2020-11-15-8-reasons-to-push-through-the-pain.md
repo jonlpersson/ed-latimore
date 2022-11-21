@@ -3,7 +3,9 @@ date: 2020-11-15 18:29:00 -0500
 article_type: Article
 title: 8 reasons to push through the pain
 permalink: /pushing-through-the-pain/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 description: >-
   You learn the most about yourself when you push through pain. These are some

@@ -1,5 +1,5 @@
 ---
-tag: living-in-the-hood
+category: living-in-the-hood
 title: Living in the hood
 description: >-
   These posts are a collection of my experiences growing up in the ghetto. You

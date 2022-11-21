@@ -3,7 +3,9 @@ date: 2019-04-09 16:06:00 -0400
 article_type: Article
 title: How to make money online for beginners
 permalink: /a-basic-bro-beginners-guide-to-making-money-online/
-tags:
+tags: 
+  - how-to-build-an-audience
+categories: 
   - how-to-build-an-audience
 image: /assets/images/posts/ed-pool.jpg
 description: >-

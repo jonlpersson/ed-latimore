@@ -3,7 +3,9 @@ date: 2020-06-15 17:42:00 -0400
 article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   I once worked at a men’s homeless shelter. Here are five powerful lessons I

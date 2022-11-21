@@ -1,5 +1,5 @@
 ---
-tag: how-to-stop-hair-loss
+category: how-to-stop-hair-loss
 title: How to stop hair loss
 description:
 hero:

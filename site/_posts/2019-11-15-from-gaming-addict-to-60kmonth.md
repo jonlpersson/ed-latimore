@@ -3,7 +3,9 @@ date: 2019-11-15 23:48:00 -0500
 article_type: Article
 title: From gaming addict to $60k/month
 permalink: /gaming-addiction/
-tags:
+tags: 
+  - sober-life
+categories: 
   - sober-life
 image: /assets/images/posts/ camadair.jpg
 description: >-

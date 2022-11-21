@@ -3,7 +3,9 @@ date: 2020-03-02 14:16:00 -0500
 article_type: Article
 title: How to get better at math in 7 simple steps
 permalink: /how-to-get-better-at-math/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 image: /assets/images/posts/teachingmath.jpg
 description: >-

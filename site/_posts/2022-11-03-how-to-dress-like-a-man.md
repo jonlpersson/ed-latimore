@@ -3,7 +3,9 @@ date: 2022-11-03 09:00:00 -0400
 article_type: Article
 title: How to dress like a man (beginner's guide)
 permalink: /how-to-dress-like-a-man/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 image: /assets/images/thumbnails/ed-dressed-in-business-casual-attire.jpg
 description: >-

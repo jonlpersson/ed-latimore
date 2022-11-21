@@ -3,7 +3,9 @@ date: 2019-12-08 00:00:00 -0500
 article_type: Article
 title: How to forgive someone who hurt you in 5 steps
 permalink: /how-to-forgive-someone/
-tags:
+tags: 
+  - the-power-of-forgiveness
+categories: 
   - the-power-of-forgiveness
 image: /assets/images/posts/forgiveness-prayer.jpeg
 description: >-

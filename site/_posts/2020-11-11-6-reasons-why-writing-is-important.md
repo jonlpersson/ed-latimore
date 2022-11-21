@@ -3,7 +3,9 @@ date: 2020-11-11 19:20:00 -0500
 article_type: Article
 title: 7 reasons why writing is important
 permalink: /why-is-writing-important/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 description: >-
   There is no more effective method for organizing your thoughts than writing.

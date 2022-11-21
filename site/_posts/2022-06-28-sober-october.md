@@ -3,7 +3,9 @@ date: 2022-06-28 10:00:01 -0400
 article_type: Article
 title: How Sober October can change your life
 permalink: /sober-october/
-tags:
+tags: 
+  - sober-life
+categories: 
   - sober-life
 description: >-
   Sober October is a chance for many people to try sobriety for the first time

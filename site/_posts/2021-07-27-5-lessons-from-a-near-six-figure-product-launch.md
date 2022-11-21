@@ -3,7 +3,9 @@ date: 2021-07-27 23:00:33 -0400
 article_type: Article
 title: 5 lessons from a near six-figure product launch
 permalink: /new-product-launch-lessons/
-tags:
+tags: 
+  - how-to-build-an-audience
+categories: 
   - how-to-build-an-audience
 description: >-
   I’m going to cover some things that I learned from this launch that I think

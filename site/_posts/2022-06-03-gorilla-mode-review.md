@@ -3,7 +3,9 @@ date: 2022-06-03 12:00:00 -0400
 article_type: Review
 title: I tried Gorilla Mode pre-workout (this is what happened)
 permalink: /gorilla-mode-review/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Mode pre-workout: what I think of it,

@@ -3,7 +3,10 @@ date: 2021-06-13 22:19:07 -0400
 article_type: Article
 title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
-tags:
+tags: 
+  - how-to-make-friends
+  - book-quotes-and-summaries
+categories: 
   - how-to-make-friends
   - book-quotes-and-summaries
 description: >-

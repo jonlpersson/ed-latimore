@@ -1,5 +1,5 @@
 ---
-tag:
+category:
 title:
 description:
 hero:

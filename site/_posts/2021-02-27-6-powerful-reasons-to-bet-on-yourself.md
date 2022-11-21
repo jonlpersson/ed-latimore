@@ -3,7 +3,10 @@ date: 2021-02-27 13:32:00 -0500
 article_type: Article
 title: 6 powerful reasons to bet on yourself
 permalink: /bet-on-yourself/
-tags:
+tags: 
+  - change-your-perspective
+  - mental-toughness
+categories: 
   - change-your-perspective
   - mental-toughness
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."

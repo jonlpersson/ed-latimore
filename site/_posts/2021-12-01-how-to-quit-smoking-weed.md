@@ -3,7 +3,9 @@ date: 2021-12-01 08:00:00 -0500
 article_type: Article
 title: How to quit smoking weed
 permalink: /how-to-quit-smoking-weed/
-tags:
+tags: 
+  - sober-life
+categories: 
   - sober-life
 description: >-
   If you find yourself struggling to quit weed despite obvious consequences,

@@ -3,7 +3,9 @@ date: 2022-07-21 09:00:00 -0400
 article_type: Review
 title: TweetPik Review—How I use it to grow my audience (2022)
 permalink: /tweetpik-review/
-tags:
+tags: 
+  - how-to-build-an-audience
+categories: 
   - how-to-build-an-audience
 description: >-
   Tweetpik is a simple tool that makes it easy to capture and share screenshots

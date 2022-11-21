@@ -1,5 +1,5 @@
 ---
-tag: book-quotes-and-summaries
+category: book-quotes-and-summaries
 title: Book quotes and summaries
 description:
 hero:

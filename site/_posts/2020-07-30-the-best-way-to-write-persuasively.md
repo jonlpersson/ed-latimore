@@ -3,7 +3,9 @@ date: 2020-07-30 22:47:00 -0400
 article_type: Review
 title: The best way to write persuasively
 permalink: /persuasive-writing/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 description: >-
   The #1 ghostwriter in the world has an amazing course on persuasive writing.
@@ -46,7 +48,7 @@ In short, he’s a man who knows the game of writing. For obvious reasons, he ca
 
 ![Persuasive writing proof](/assets/images/posts/2020/the-worst-case-scenario-for-writing-a-nonfiction-b-1-1.png "Persuasive writing proof"){: width="500" height="213"}
 
-| I originally connected with him because I saw that he followed me on Twitter. He has an excellent website on writing and I’m always looking to get better with words. I discovered his course because he found out that I was editing an \[old book of mine\]({{ '1542628806'&lt;/td&gt;&lt;td&gt;amazon }}) to reflect my improved writing abilities. |
+I originally connected with him because I saw that he followed me on Twitter. He has an excellent website on writing and I’m always looking to get better with words. I discovered his course because he found out that I was editing an [old book of mine]({{ '1542628806' | amazon }}) to reflect my improved writing abilities.
 
 He offered to edit a chapter of mine in return for using it in the course. This may seem like a win-win, but I assure you that I made out better on the deal.
 

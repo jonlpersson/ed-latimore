@@ -3,7 +3,9 @@ date: 2021-03-07 09:17:00 -0500
 article_type: Article
 title: The easy 4 step problem-solving process (+ examples)
 permalink: /problem-solving-process/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 description: >-
   This is the 4 step problem-solving process that I taught to my students for

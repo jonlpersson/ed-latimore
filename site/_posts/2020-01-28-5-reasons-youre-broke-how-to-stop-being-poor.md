@@ -3,7 +3,9 @@ date: 2020-01-28 19:52:00 -0500
 article_type: Article
 title: '5 reasons you''re broke: How to stop being poor'
 permalink: /stop-being-poor/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 image: /assets/images/posts/beingbroke.jpg
 description: >-

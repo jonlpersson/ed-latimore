@@ -3,7 +3,9 @@ date: 2021-02-14 09:09:00 -0500
 article_type: Article
 title: 5 life lessons I learned from lifting iron
 permalink: /life-lessons-from-gym/
-tags:
+tags: 
+  - self-improvement-for-men
+categories: 
   - self-improvement-for-men
 description: >-
   Over the years I’ve learned some valuable lessons from training. I have a lot

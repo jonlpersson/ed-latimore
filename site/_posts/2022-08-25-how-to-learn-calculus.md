@@ -3,7 +3,9 @@ date: 2022-08-25 10:16:00 -0400
 article_type: Article
 title: How to learn calculus (even if you’re bad at math)
 permalink: /how-to-learn-calculus/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 image: /assets/images/thumbnails/calculus-problem-written-on-chalkboard.jpg
 description: >-

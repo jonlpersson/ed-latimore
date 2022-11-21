@@ -3,7 +3,9 @@ date: 2015-10-29 20:00:00 -0400
 article_type: Article
 title: No one gives a shit about you
 permalink:
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 image: /assets/images/posts/morpheus.jpeg
 description: >-

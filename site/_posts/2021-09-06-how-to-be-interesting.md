@@ -3,7 +3,9 @@ date: 2021-09-06 09:00:00 -0400
 article_type: Article
 title: How to be the most interesting man in any room
 permalink: /how-to-be-interesting/
-tags:
+tags: 
+  - self-improvement-for-men
+categories: 
   - self-improvement-for-men
 description: >-
   Discover actionable steps you can take to be more interesting, expand your

@@ -3,7 +3,9 @@ date: 2020-10-06 02:00:00 -0400
 article_type: Review
 title: Review of the Wim Hof Breathing Method
 permalink: /wim-hof-method-review/
-tags:
+tags: 
+  - mental-toughness
+categories: 
   - mental-toughness
 image: /assets/images/thumbnails/ed-latimore-ice-bath-submerged.jpg
 description: >-

@@ -3,7 +3,10 @@ date: 2022-01-11 09:00:00 -0500
 article_type: Article
 title: How to win an argument (without losing your temper)
 permalink: /how-to-win-an-argument/
-tags:
+tags: 
+  - change-your-perspective
+  - how-to-control-your-emotions
+categories: 
   - change-your-perspective
   - how-to-control-your-emotions
 description: >-

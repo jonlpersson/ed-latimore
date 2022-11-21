@@ -3,7 +3,9 @@ date: 2020-05-01 15:42:00 -0400
 article_type: Article
 title: How to get more energy in 10 steps
 permalink: /how-to-get-more-energy/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 image: /assets/images/posts/ed-working-out-lisbon.jpg
 description: >-

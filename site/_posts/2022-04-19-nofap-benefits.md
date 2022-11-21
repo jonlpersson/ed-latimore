@@ -3,7 +3,9 @@ date: 2022-04-19 09:00:00 -0400
 article_type: Article
 title: The benefits of NoFap
 permalink: /nofap-benefits/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   Porn addiction has so many men living beneath their potential. These tips will

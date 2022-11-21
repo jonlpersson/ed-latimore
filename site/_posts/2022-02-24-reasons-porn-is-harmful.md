@@ -3,7 +3,9 @@ date: 2022-02-24 09:00:00 -0500
 article_type: Article
 title: Science-backed reasons porn is harmful
 permalink: /reasons-porn-is-harmful/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   There’s a lot of debate on whether porn can actually be harmful, here’s what

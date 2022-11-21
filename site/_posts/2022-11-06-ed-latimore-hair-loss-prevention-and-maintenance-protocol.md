@@ -3,7 +3,9 @@ date: 2022-11-06 18:48:00 -0500
 article_type: Article
 title: Ed Latimore hair loss prevention and maintenance protocol
 permalink: /how-to-prevent-hair-loss/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 description: >-
   After my FUE transplant, I needed to put together a program to keep the hair I

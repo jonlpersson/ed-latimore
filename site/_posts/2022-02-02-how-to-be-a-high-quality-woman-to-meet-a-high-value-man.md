@@ -3,7 +3,9 @@ date: 2022-02-02 10:26:41 -0500
 article_type: Article
 title: 9 ways to be a high-value woman to meet a high-value man
 permalink: /how-to-be-a-high-value-woman/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   Here are some specific steps to follow to become a high-value woman that is

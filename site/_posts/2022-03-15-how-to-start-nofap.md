@@ -3,7 +3,9 @@ date: 2022-03-15 11:00:47 -0400
 article_type: Article
 title: How to start NoFap to gain more personal confidence
 permalink: /how-to-start-nofap/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   Learn how to control your impulses, strengthen your focus, and harness your

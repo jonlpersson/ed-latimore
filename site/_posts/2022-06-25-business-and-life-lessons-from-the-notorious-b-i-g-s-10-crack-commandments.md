@@ -3,7 +3,9 @@ date: 2022-06-25 08:21:01 -0400
 article_type: Article
 title: Business and life lessons The Notorious B.I.G. 10 crack commandments
 permalink: /ten-crack-commandments-business-and-life-lessons/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   The Ten Crackcommandments is an education in the real, raw, viciousness of

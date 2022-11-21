@@ -3,7 +3,9 @@ date: 2020-03-06 05:39:00 -0500
 article_type: Article
 title: 'Going back to school at 30: 4 things to know'
 permalink: /going-back-to-school-at-30/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 image: /assets/images/posts/ed-chemistry.png
 description: >-

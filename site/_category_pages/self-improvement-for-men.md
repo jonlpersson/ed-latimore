@@ -1,5 +1,5 @@
 ---
-tag: self-improvement-for-men
+category: self-improvement-for-men
 title: Self improvement for men
 description: >-
   This is where you learn how to become a better man. I'm not the best, but I've

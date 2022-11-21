@@ -3,7 +3,9 @@ date: 2019-12-06 19:00:00 -0500
 article_type: Review
 title: My six months with blue light blocking glasses
 permalink: /blue-light-blocking-glasses/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 image: /assets/images/thumbnails/2020/ed-wearing-carbonshade.jpeg
 description: >-

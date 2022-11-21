@@ -3,7 +3,9 @@ date: 2022-04-07 09:21:18 -0400
 article_type: Article
 title: 'The Tao Te Ching: 19 quotes and big ideas'
 permalink: /tao-te-ching-quotes/
-tags:
+tags: 
+  - book-quotes-and-summaries
+categories: 
   - book-quotes-and-summaries
 description: >-
   The Tao Te Ching teaches how to live according to the “Tao” or “The way”. Here

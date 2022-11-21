@@ -3,7 +3,9 @@ date: 2022-03-18 06:51:01 -0400
 article_type: Article
 title: 'The Tao of Jeet Kune Do: 21 quotes & 6 big ideas'
 permalink: /tao-of-jeet-kune-do-quotes/
-tags:
+tags: 
+  - book-quotes-and-summaries
+categories: 
   - book-quotes-and-summaries
 description: >-
   These are the quotes and big ideas I've collected from Bruce Lee's "The Tao of

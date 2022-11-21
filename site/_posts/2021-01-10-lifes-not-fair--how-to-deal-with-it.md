@@ -3,7 +3,9 @@ date: 2021-01-10 14:30:00 -0500
 article_type: Article
 title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   Life is fair because it's unfair to everyone. Learn how to take the unfair

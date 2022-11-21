@@ -3,7 +3,9 @@ date: 2022-01-12 08:00:00 -0500
 article_type: Article
 title: I took Gorilla Mind Smooth for 1 year—here’s what happened
 permalink: /gorilla-mind-smooth-review/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Mind Smooth nootropic formula: what I

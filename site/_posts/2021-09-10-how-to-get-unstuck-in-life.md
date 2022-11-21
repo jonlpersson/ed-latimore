@@ -3,7 +3,9 @@ date: 2021-09-10 09:00:00 -0400
 article_type: Article
 title: The 5 things you need to do to get unstuck in life
 permalink: /how-to-get-unstuck-in-life/
-tags:
+tags: 
+  - change-your-perspective
+categories: 
   - change-your-perspective
 description: >-
   Discover how to get unstuck in life by increasing your motivation and power to

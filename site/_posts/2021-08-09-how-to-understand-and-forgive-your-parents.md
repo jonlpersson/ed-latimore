@@ -3,7 +3,10 @@ date: 2021-08-09 20:29:48 -0400
 article_type: Article
 title: How to forgive your parents
 permalink: /how-to-understand-and-forgive-your-parents/
-tags:
+tags: 
+  - the-power-of-forgiveness
+  - living-in-the-hood
+categories: 
   - the-power-of-forgiveness
   - living-in-the-hood
 description: >-

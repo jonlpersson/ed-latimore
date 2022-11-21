@@ -3,7 +3,9 @@ date: 2022-07-18 20:12:11 -0400
 article_type: Article
 title: A personal blog teaches you how to build an email list
 permalink: /how-to-build-and-manage-an-email-list/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 description: >-
   Social media platforms are fickle. Algorithms change and people get censored,

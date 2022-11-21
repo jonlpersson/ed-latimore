@@ -3,7 +3,9 @@ date: 2020-04-04 17:19:00 -0400
 article_type: Article
 title: 6 signs of mental and emotional maturity
 permalink: /signs-of-maturity/
-tags:
+tags: 
+  - change-your-perspective
+categories: 
   - change-your-perspective
 image: /assets/images/posts/signs-of-maturity-growth.jpg
 description: >-

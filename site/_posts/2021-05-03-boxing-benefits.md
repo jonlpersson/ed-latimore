@@ -3,7 +3,9 @@ date: 2021-05-03 05:00:00 -0400
 article_type: Article
 title: 8 ways boxing will transform your life
 permalink: /boxing-benefits/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 image: /assets/images/posts/webp-net-resizeimage-42.jpg
 description: >-

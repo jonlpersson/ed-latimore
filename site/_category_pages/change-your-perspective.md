@@ -1,5 +1,5 @@
 ---
-tag: change-your-perspective
+category: change-your-perspective
 title: Change your perspective
 description:
 hero:

@@ -3,7 +3,9 @@ date: 2021-02-19 10:00:00 -0500
 article_type: Article
 title: 15 ways to finally get over someone you loved
 permalink: /how-to-get-over-someone/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
 description: >-

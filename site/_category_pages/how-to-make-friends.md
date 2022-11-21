@@ -1,5 +1,5 @@
 ---
-tag: how-to-make-friends
+category: how-to-make-friends
 title: How to make friends
 description: >-
   Making friends doesn’t have to be difficult. If you follow these steps, then

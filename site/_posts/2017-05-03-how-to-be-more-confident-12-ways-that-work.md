@@ -3,7 +3,9 @@ date: 2017-05-03 20:00:00 -0400
 article_type: Article
 title: 'How to be more confident: 12 ways that work'
 permalink: /how-to-build-confidence/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 image: /assets/images/thumbnails/2020/ed-press-conference.png
 description: >-

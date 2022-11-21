@@ -3,7 +3,9 @@ date: 2022-10-17 13:25:00 -0400
 article_type: Article
 title: My favorite quotes from Viktor Frankl's "Man's Search For Meaning"
 permalink: /quotes-from-mans-search-for-meaning
-tags:
+tags: 
+  - book-quotes-and-summaries
+categories: 
   - book-quotes-and-summaries
 description: >-
   In Man's Search For Meaning, Viktor Frankl teaches from his experiences

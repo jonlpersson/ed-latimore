@@ -3,7 +3,9 @@ date: 2022-05-27 13:33:47 -0400
 article_type: Article
 title: 7 ways to improve numeracy skills
 permalink: /numeracy-skills/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 description: >-
   This is bigger than just being good at math. Numbers are essential to life.

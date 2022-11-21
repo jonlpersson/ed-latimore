@@ -3,7 +3,9 @@ date: 2022-06-01 09:00:00 -0400
 article_type: Article
 title: A better way to deal with annoying parents
 permalink: /how-to-deal-with-annoying-parents/
-tags:
+tags: 
+  - change-your-perspective
+categories: 
   - change-your-perspective
 description: >-
   There’s no need to argue, parents just don’t understand. Discover how to cope

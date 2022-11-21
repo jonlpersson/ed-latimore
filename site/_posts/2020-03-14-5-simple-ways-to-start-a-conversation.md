@@ -3,7 +3,10 @@ date: 2020-03-14 14:21:00 -0400
 article_type: Article
 title: 5 ways to communicate and start a conversation
 permalink: /how-to-start-a-conversation/
-tags:
+tags: 
+  - dating-and-relationships
+  - how-to-make-friends
+categories: 
   - dating-and-relationships
   - how-to-make-friends
 image: /assets/images/posts/ed-holding-court.jpg

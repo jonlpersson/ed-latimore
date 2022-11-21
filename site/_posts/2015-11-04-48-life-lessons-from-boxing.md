@@ -3,7 +3,9 @@ date: 2015-11-04 19:00:00 -0500
 article_type: Article
 title: 48 life lessons from boxing
 permalink: /how-to-think-like-a-professional-fighter/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 image: /assets/images/posts/Amateur uppercut.jpg
 description: >-

@@ -1,5 +1,5 @@
 ---
-tag: the-power-of-forgiveness
+category: the-power-of-forgiveness
 title: The power of forgiveness
 description:
 hero:

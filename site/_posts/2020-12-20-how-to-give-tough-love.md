@@ -3,7 +3,9 @@ date: 2020-12-20 23:36:00 -0500
 article_type: Article
 title: How to give tough love
 permalink: /tough-love/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   Giving tough love can be terrifying. But if you truly care about someone, you

@@ -3,7 +3,9 @@ date: 2020-02-23 17:47:00 -0500
 article_type: Article
 title: How to forgive yourself in 6 steps
 permalink: /how-to-forgive-yourself-6-steps-to-let-the-past-go/
-tags:
+tags: 
+  - the-power-of-forgiveness
+categories: 
   - the-power-of-forgiveness
 image: /assets/images/posts/Forgiveness Post.jpg
 description: >-

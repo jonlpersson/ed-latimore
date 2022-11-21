@@ -3,7 +3,9 @@ date: 2020-05-17 23:22:00 -0400
 article_type: Article
 title: How to get sh*t done when you have no motivaiton
 permalink: /lack-of-motivation/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 image: /assets/images/posts/ed-hitting-the-speedbag.jpg
 description: >

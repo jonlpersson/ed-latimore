@@ -3,7 +3,9 @@ date: 2021-06-04 22:35:00 -0400
 article_type: Article
 title: 5 ways to instantly have good luck
 permalink: /how-to-get-good-luck/
-tags:
+tags: 
+  - change-your-perspective
+categories: 
   - change-your-perspective
 description: >-
   In this article, I give you 5 quick tricks that will help you not only have

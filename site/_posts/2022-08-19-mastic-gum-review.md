@@ -3,7 +3,9 @@ date: 2022-08-19 09:00:00 -0400
 article_type: Review
 title: I tried mastic gum. Here’s my honest review
 permalink: /mastic-gum-review/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 description: >-
   Want to develop a more masculine, attractive face? Read my review on Greek

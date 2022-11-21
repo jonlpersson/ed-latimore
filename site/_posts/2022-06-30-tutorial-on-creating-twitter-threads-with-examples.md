@@ -3,7 +3,9 @@ date: 2022-06-30 15:25:57 -0400
 article_type: Article
 title: Easy tutorial for creating Twitter Threads (with examples)
 permalink: /how-to-make-twitter-threads/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 description: >-
   This is a post teaching the basics of how to create Twitter threads. Many

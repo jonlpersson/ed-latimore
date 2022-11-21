@@ -3,7 +3,9 @@ date: 2021-05-03 06:00:00 -0400
 article_type: Article
 title: '8 years of sobriety: observations and benefits'
 permalink: /sobriety-benefits/
-tags:
+tags: 
+  - sober-life
+categories: 
   - sober-life
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-

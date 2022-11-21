@@ -3,7 +3,9 @@ date: 2022-06-23 09:00:04 -0400
 article_type: Article
 title: Here’s what happens when you finally quit porn
 permalink: /what-happens-when-you-quit-porn/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   A realistic, non-judgmental view of what happens when you finally give up

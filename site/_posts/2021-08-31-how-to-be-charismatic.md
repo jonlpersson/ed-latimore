@@ -3,7 +3,10 @@ date: 2021-08-31 09:00:00 -0400
 article_type: Article
 title: 'Personal magnetism: How to be more charismatic'
 permalink: /how-to-be-charismatic/
-tags:
+tags: 
+  - how-to-make-friends
+  - dating-and-relationships
+categories: 
   - how-to-make-friends
   - dating-and-relationships
 description: >-

@@ -3,7 +3,9 @@ date: 2022-10-20 09:00:00 -0400
 article_type: Article
 title: Why is calculus hard?
 permalink: /why-is-calculus-hard/
-tags:
+tags: 
+  - learning-skills
+categories: 
   - learning-skills
 image: /assets/images/thumbnails/calculus-problems-on-paper.jpg
 description: >-

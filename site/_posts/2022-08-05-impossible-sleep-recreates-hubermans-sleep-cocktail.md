@@ -3,7 +3,9 @@ date: 2022-08-05 14:22:00 -0400
 article_type: Article
 title: Impossible Sleep recreates Huberman's sleep cocktail
 permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 description: >-
   I haven't been sleeping well, so I tried Impossible Sleep. Learn how this

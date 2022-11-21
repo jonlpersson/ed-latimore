@@ -1,5 +1,5 @@
 ---
-tag: boxing-lessons
+category: boxing-lessons
 title: Boxing lessons
 description: >-
   Boxing teaches you more than just how to fight. It teaches you about life.

@@ -3,7 +3,9 @@ date: 2020-12-20 23:00:00 -0500
 article_type: Article
 title: How to be an attractive man (no-BS guide)
 permalink: /how-to-be-an-attractive-man/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 image: /assets/images/thumbnails/2020/ed-attractive.jpg
 description: >-
@@ -321,7 +323,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \[*How to Make Friends and Influence People*\]({{ '0671027034'&lt;/td&gt;&lt;td&gt;amazon }}). It’s a must-read if you want to improve your social skills. |
+But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, *[How to Make Friends and Influence People]({{ '0671027034' | amazon }}).* It’s a must-read if you want to improve your social skills.
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 

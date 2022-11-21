@@ -3,7 +3,10 @@ date: 2015-11-06 19:00:00 -0500
 article_type: Article
 title: 8 secrets to being way more competitive
 permalink: /how-to-be-competitive/
-tags:
+tags: 
+  - boxing-lessons
+  - how-to-control-your-emotions
+categories: 
   - boxing-lessons
   - how-to-control-your-emotions
 image: /assets/images/thumbnails/2021/ed-knocking-out-cam.jpg

@@ -3,7 +3,9 @@ date: 2022-03-09 10:14:47 -0500
 article_type: Article
 title: Why did I start boxing?
 permalink: /why-did-I-start-boxing/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 description: >-
   In this essay, I explain why I started boxing. I think all fighters will see a

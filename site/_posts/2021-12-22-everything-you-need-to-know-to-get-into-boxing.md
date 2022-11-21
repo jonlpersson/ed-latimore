@@ -3,7 +3,9 @@ date: 2021-12-22 12:25:03 -0500
 article_type: Article
 title: How to get into amateur or professional boxing
 permalink: /how-to-get-into-boxing/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 description: >-
   From my 12-year boxing career (6 years an amateur boxer, 6 years a

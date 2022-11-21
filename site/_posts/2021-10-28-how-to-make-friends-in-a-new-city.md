@@ -3,7 +3,9 @@ date: 2021-10-28 10:00:00 -0400
 article_type: Article
 title: 7 ways to make friends in a new city
 permalink: /how-to-make-friends-in-a-new-city/
-tags:
+tags: 
+  - how-to-make-friends
+categories: 
   - how-to-make-friends
 description: >-
   If you want to make new friends, you’re going to have to get out of your

@@ -3,7 +3,9 @@ date: 2019-11-16 15:55:00 -0500
 article_type: Article
 title: 15 ways to write better in any medium
 permalink: /how-to-write-better-and-be-a-better-writer/
-tags:
+tags: 
+  - writing-skills
+categories: 
   - writing-skills
 image: /assets/images/posts/ed-writing.jpg
 description: >-

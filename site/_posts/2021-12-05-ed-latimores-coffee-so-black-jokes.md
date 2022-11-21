@@ -3,7 +3,9 @@ date: 2021-12-05 14:16:38 -0500
 article_type: Article
 title: Ed Latimore's “coffee so black” jokes
 permalink: /black-coffee-jokes-puns/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   This collection of coffee jokes will leave you laughing and you might learn

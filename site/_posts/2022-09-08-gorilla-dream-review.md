@@ -3,7 +3,9 @@ date: 2022-09-08 09:00:00 -0400
 article_type: Review
 title: Gorilla Dream Review-My go-to sleep & recovery formula
 permalink: /gorilla-dream-review/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 description: >-
   A comprehensive review of the Gorilla Dream sleep & recovery formula: what I think of it, how I use it, and how it compares to other popular sleep aids.

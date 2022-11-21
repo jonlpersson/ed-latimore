@@ -3,7 +3,9 @@ date: 2019-11-22 02:54:00 -0500
 article_type: Article
 title: How to focus better and improve concentration
 permalink: /how-to-focus-better/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 image: /assets/images/posts/ed-inversion-table.jpg
 description: "Do you have trouble focusing\_one thing? Do you easily get distracted by social media? I’ll teach you how to focus better."
@@ -134,7 +136,7 @@ You learn how to properly meditate, focus your mind on one thing, visualize, and
 
 There are PDFs of the training all over the internet, but if you want to support my website, I’d love it if you picked up a copy through my affiliate link below.
 
-| Franz Bardon’s \[“Initiation To The Hermetics”\]({{ '1885928122'&lt;/td&gt;&lt;td&gt;amazon }})\{: target="\_blank"\} |
+Franz Bardon’s [“Initiation To The Hermetics”]({{ '1885928122' | amazon }})
 
 ## 5\. Learn how to visualize
 

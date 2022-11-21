@@ -1,5 +1,5 @@
 ---
-tag: twitter-tips
+category: twitter-tips
 title: Twitter tips
 description:
 hero:

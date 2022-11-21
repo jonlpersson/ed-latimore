@@ -3,7 +3,9 @@ date: 2022-04-28 22:25:54 -0400
 article_type: Article
 title: How to seduce a woman, the ethical way
 permalink: /how-to-seduce-a-woman/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   If you're tired of reading stuff written by sleazy pick-up artists, this is an

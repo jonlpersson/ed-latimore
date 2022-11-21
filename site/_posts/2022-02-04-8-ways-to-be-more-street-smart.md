@@ -3,7 +3,9 @@ date: 2022-02-04 21:40:00 -0500
 article_type: Article
 title: 7 ways to be more street smart
 permalink: /how-to-be-street-smart/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   You don't have to be in the streets to be street smart, but you'll get taken

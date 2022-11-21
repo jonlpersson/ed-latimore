@@ -3,7 +3,9 @@ date: 2022-07-25 12:33:28 -0400
 article_type: Article
 title: My review of the Bosley Revitalizer 272 Laser Cap
 permalink: /bosley-revitzlizer-272-laser-cap-review/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really

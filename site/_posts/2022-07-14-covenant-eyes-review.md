@@ -3,7 +3,9 @@ date: 2022-07-14 09:00:00 -0400
 article_type: Review
 title: Covenant Eyes review (2022)
 permalink: /covenant-eyes-review/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   I tested Covenant Eyes, one of the top porn blocking softwares on the market.

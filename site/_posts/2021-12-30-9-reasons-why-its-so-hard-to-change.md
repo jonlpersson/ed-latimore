@@ -3,7 +3,9 @@ date: 2021-12-30 22:20:46 -0500
 article_type: Article
 title: 9 reasons why it's so hard to change
 permalink: /why-its-so-hard-to-change/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 description: >-
   Change is hard, but once you understand why we resist it, then it's no

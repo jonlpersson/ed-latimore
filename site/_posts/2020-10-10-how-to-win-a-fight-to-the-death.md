@@ -3,7 +3,9 @@ date: 2020-10-10 15:30:00 -0400
 article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 description: >-
   Fighting to the death teaches you a lot about life. Violence has a lot to

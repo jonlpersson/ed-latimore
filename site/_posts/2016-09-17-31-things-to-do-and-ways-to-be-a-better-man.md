@@ -3,7 +3,9 @@ date: 2016-09-17 11:00:00 -0400
 article_type: Article
 title: The 31 ways to be a better man
 permalink: /how-to-be-a-better-man/
-tags:
+tags: 
+  - self-improvement-for-men
+categories: 
   - self-improvement-for-men
 image: /assets/images/posts/ed-30th-birthday.jpg
 description: >-

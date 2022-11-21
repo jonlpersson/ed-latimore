@@ -3,7 +3,9 @@ date: 2022-06-06 16:37:46 -0400
 article_type: Article
 title: Problems growing up with an absent father(and how to fix them)
 permalink: /absent-fathers/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   Fatherless homes lack examples for boys to follow into becoming men. This

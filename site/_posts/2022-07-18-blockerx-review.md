@@ -3,7 +3,9 @@ date: 2022-07-18 09:00:00 -0400
 article_type: Review
 title: BlockerX review (2022)
 permalink: /blockerx-review/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   BlockerX bills itself as the “#1 self-control app,” but does it live it up to

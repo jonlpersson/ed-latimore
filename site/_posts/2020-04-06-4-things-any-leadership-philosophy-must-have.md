@@ -3,7 +3,9 @@ date: 2020-04-06 20:27:00 -0400
 article_type: Article
 title: '4 crucial components of a leadership philosophy '
 permalink: /leadership-philosophy/
-tags:
+tags: 
+  - change-your-perspective
+categories: 
   - change-your-perspective
 image: /assets/images/posts/leadshipspeaking1.jpg
 description: >-

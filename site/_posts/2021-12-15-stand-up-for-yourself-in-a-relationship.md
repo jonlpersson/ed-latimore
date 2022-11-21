@@ -3,7 +3,9 @@ date: 2021-12-15 08:00:00 -0500
 article_type: Article
 title: How to stand up for yourself in a relationship
 permalink: /stand-up-for-yourself-in-a-relationship/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   If you stand for nothing, you’ll fall for anything, even in your romantic

@@ -1,5 +1,5 @@
 ---
-tag: ed-latimore-original-quotes
+category: ed-latimore-original-quotes
 title: Ed Latimore Original Quotes
 description:
 hero:

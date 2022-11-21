@@ -3,7 +3,9 @@ date: 2022-06-05 18:41:04 -0400
 article_type: Article
 title: How to be strong in all areas of life
 permalink: /how-to-be-strong/
-tags:
+tags: 
+  - how-to-become-superhuman
+categories: 
   - how-to-become-superhuman
 description: >-
   Strength is built by pushing back against whatever life throws at you.

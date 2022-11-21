@@ -3,7 +3,9 @@ date: 2022-07-07 09:00:00 -0400
 article_type: Review
 title: ConvertKit for creators—Is it worth the hype?
 permalink: /convertkit-review/
-tags:
+tags: 
+  - how-to-build-an-audience
+categories: 
   - how-to-build-an-audience
 description: >-
   I tested ConvertKit for my email list of over 29k subscribers. Here are the best features and the main drawbacks I discovered.

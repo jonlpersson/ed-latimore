@@ -1,5 +1,5 @@
 ---
-tag: learning-skills
+category: learning-skills
 title: Learning skills
 description:
 hero:

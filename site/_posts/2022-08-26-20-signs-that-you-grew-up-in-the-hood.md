@@ -3,7 +3,9 @@ date: 2022-08-26 12:00:00 -0400
 article_type: Article
 title: 20 signs that you grew up in the hood
 permalink: /20-signs-that-you-grew-up-in-the-hood/
-tags:
+tags: 
+  - living-in-the-hood
+categories: 
   - living-in-the-hood
 description: >-
   Here are 20 signs that you grew up in the hood. But if you grew up in the

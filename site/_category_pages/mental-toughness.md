@@ -1,5 +1,5 @@
 ---
-tag: mental-toughness
+category: mental-toughness
 title: Mental toughness
 description:
 hero:

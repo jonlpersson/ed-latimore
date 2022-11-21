@@ -1,5 +1,5 @@
 ---
-tag: sober-life
+category: sober-life
 title: Sober life
 description:
 hero:

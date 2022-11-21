@@ -1,5 +1,5 @@
 ---
-tag: math-concepts
+category: math-concepts
 title: Math concepts
 description: >-
   My exploration of math and physics ideas that I consider to be fundamental to

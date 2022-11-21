@@ -3,7 +3,9 @@ date: 2022-03-08 10:00:47 -0500
 article_type: Article
 title: How to cope with losing someone you love
 permalink: /losing-someone-you-love/
-tags:
+tags: 
+  - how-to-control-your-emotions
+categories: 
   - how-to-control-your-emotions
 description: >-
   Losing someone you love can leave you feeling lost. Here’s what to do when

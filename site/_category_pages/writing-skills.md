@@ -1,5 +1,5 @@
 ---
-tag: writing-skills
+category: writing-skills
 title: Writing skills
 description:
 hero:

@@ -3,7 +3,9 @@ date: 2020-02-10 18:14:00 -0500
 article_type: Article
 title: My experience getting an FUE hair transplant
 permalink: /my-personal-experience-getting-an-fue-hair-transplant/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-

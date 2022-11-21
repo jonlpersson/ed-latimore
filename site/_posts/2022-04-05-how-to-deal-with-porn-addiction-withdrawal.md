@@ -3,7 +3,9 @@ date: 2022-04-05 09:00:00 -0400
 article_type: Article
 title: How to deal with porn addiction withdrawal
 permalink: /dealing-with-porn-addiction-withdrawal/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   Porn addiction withdrawal symptoms are shockingly similar to alcohol

@@ -3,7 +3,9 @@ date: 2022-07-26 10:00:00 -0400
 article_type: Article
 title: How to become more physically attractive to women
 permalink: /how-to-become-more-physically-attractive-to-women/
-tags:
+tags: 
+  - how-to-be-a-hot-guy
+categories: 
   - how-to-be-a-hot-guy
 image: /assets/images/thumbnails/ed-hands-together-posing-outside.jpg
 description: >-

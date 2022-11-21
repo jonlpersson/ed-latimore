@@ -3,7 +3,10 @@ date: 2022-03-17 05:14:34 -0400
 article_type: Article
 title: Why real self-improvement sucks
 permalink: /why-self-improvement-sucks/
-tags:
+tags: 
+  - mental-toughness
+  - change-your-perspective
+categories: 
   - mental-toughness
   - change-your-perspective
 description: >-

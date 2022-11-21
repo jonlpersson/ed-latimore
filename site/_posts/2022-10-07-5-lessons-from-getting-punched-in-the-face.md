@@ -1,9 +1,12 @@
 ---
 date: 2022-10-07 17:14:00 -0400
 article_type: Article
-title: 5 Lessons from getting punched in the face
+title: 5 lessons from getting punched in the face
 permalink: /5-lessons-from-getting-punched-in-the-face/
 tags:
+  - living-in-the-hood
+  - boxing-lessons
+categories: 
   - living-in-the-hood
   - boxing-lessons
 description: >-

@@ -3,7 +3,9 @@ date: 2022-06-14 09:41:04 -0400
 article_type: Article
 title: How to stop self-sabotaging your relationships
 permalink: /how-to-stop-self-sabotaging-your-relationships/
-tags:
+tags: 
+  - dating-and-relationships
+categories: 
   - dating-and-relationships
 description: >-
   Tired of relationships that blow up in your face? Learn how to break

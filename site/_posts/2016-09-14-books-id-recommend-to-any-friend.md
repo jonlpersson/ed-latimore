@@ -3,7 +3,9 @@ date: 2016-09-14 20:00:00 -0400
 article_type: Article
 title: Best books on the mental and emotional side of fighting
 permalink: /books-about-mental-side-of-fighting/
-tags:
+tags: 
+  - boxing-lessons
+categories: 
   - boxing-lessons
 image: /assets/images/posts/ReadingImage.png
 description: >-

@@ -3,7 +3,9 @@ date: 2021-10-11 09:00:00 -0400
 article_type: Article
 title: How to increase willpower (the easiest way to break bad habits)
 permalink: /how-to-increase-willpower/
-tags:
+tags: 
+  - how-to-break-an-addiction
+categories: 
   - how-to-break-an-addiction
 description: >-
   Learn how to increase willpower so you can break bad habits, build new habits,

@@ -3,7 +3,9 @@ date: 2021-08-04 16:36:14 -0400
 article_type: Article
 title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
-tags:
+tags: 
+  - self-improvement-for-men
+categories: 
   - self-improvement-for-men
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
