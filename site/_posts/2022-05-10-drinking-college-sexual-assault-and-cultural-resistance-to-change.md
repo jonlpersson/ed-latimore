@@ -4,7 +4,7 @@ article_type: Article
 title: Drinking, college sexual assault, and cultural resistance to change
 permalink: /sexual-assault-college-stats/
 tags:
-  - sober-life
+  - how-to-break-an-addiction
 description: >-
   Drinking culture is especially dangerous for young women. However, efforts to
   change it are often resisted by the very people it’s meant to help.
