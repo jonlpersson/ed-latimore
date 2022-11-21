@@ -4,7 +4,7 @@ article_type: Article
 title: Here’s what happens when you finally quit porn
 permalink: /what-happens-when-you-quit-porn/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 description: >-
   A realistic, non-judgmental view of what happens when you finally give up
   porn. Many don't understand how their brains and hormones heal when they quit.
