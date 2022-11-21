@@ -4,7 +4,7 @@ article_type: Article
 title: How to start NoFap to gain more personal confidence
 permalink: /how-to-start-nofap/
 tags:
-  - porn-addiction-recovery
+  - how-to-break-an-addiction
 description: >-
   Learn how to control your impulses, strengthen your focus, and harness your
   sexual energy to get anything you want from life with No Fap.
