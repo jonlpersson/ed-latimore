@@ -144,7 +144,7 @@ Weak intent gives up when things don’t go easily and as planned. Strong intent
 
 Intent is a way of thinking and this way of thinking will give you the power to take control of your life.
 
-As Mike Cernovich says in *[Gorilla Mindset]({{ '1514672111' | amazon }}),* “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.”
+As Mike Cernovich says in *[Gorilla Mindset]({{ "1514672111" | amazon }}),* “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.”
 
 ## Physical training helps you take control
 

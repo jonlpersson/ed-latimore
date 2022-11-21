@@ -87,8 +87,8 @@ Quiet that voice through meditation, time spent alone, journaling, etc.
 
 Here are two books that could help you with this:
 
-- *[Stillness is the Key]({{ '0525538585' | amazon }})*, by Ryan Holiday
-- *[Essentialism: The Disciplined Pursuit of Less]({{ 'B00IWYP5NI' | amazon }})*, by Greg McKeown
+- *[Stillness is the Key]({{ "0525538585 | amazon }})*, by Ryan Holiday
+- *[Essentialism: The Disciplined Pursuit of Less]({{ "B00IWYP5NI" | amazon }})*, by Greg McKeown
 
 Practicing stillness will help you gain the confidence to approach beautiful women without succumbing to the fear of rejection.
 
