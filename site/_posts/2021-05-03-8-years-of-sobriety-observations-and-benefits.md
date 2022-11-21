@@ -3,10 +3,10 @@ date: 2021-05-03 06:00:00 -0400
 article_type: Article
 title: '8 years of sobriety: observations and benefits'
 permalink: /sobriety-benefits/
-tags: 
+tags:
   - sober-life
-categories: 
-  - sober-life
+categories:
+  - how-to-break-an-addiction
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   A lot of things happen when you stop drinking alcohol. Here are 8 benefits
