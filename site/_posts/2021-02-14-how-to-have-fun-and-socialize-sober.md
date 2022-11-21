@@ -3,10 +3,10 @@ date: 2021-02-14 23:00:00 -0500
 article_type: Article
 title: How to have fun and socialize sober
 permalink: /how-to-have-fun-and-socialize-sober/
-tags: 
+tags:
   - sober-life
-categories: 
-  - sober-life
+categories:
+  - how-to-break-an-addiction
 image: /assets/images/posts/ed-doing-karaoke.jpg
 description: >-
   Most people have no idea how to socialize without the aid of alcohol and have
