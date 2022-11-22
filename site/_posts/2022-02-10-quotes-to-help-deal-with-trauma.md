@@ -3,12 +3,11 @@ date: 2022-02-10 18:27:24 -0500
 article_type: Article
 title: 20 quotes to help with adult and childhood trauma
 permalink: /trauma-quotes/
-tags: 
+tags:
   - the-power-of-forgiveness
   - ed-latimore-original-quotes
-categories: 
-  - the-power-of-forgiveness
-  - ed-latimore-original-quotes
+categories:
+  - quotes-and-book-summaries
 description: >-
   It’s not therapy, but these quotes to help deal with trauma are collected from
   my writings, Twitter, and other social media accounts.
