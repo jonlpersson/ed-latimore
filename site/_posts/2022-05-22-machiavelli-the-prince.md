@@ -3,10 +3,10 @@ date: 2022-05-22 21:28:08 -0400
 article_type: Article
 title: Quotes and big ideas from Niccolò Machiavelli's "The Prince"
 permalink: /the-prince-machiavelli-quotes/
-tags: 
+tags:
   - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   I’ve collected the big ideas from Machiavelli’s classic treatise on political
   philosophy and political theory. These are pragmatic ideas to seize power.
