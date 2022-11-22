@@ -3,12 +3,11 @@ date: 2021-12-04 18:31:17 -0500
 article_type: Article
 title: 29 top crackhead quotes
 permalink: /crackhead-head-quotes/
-tags: 
+tags:
   - living-in-the-hood
   - ed-latimore-original-quotes
-categories: 
-  - living-in-the-hood
-  - ed-latimore-original-quotes
+categories:
+  - quotes-and-book-summaries
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
