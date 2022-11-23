@@ -30,8 +30,6 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 “In most of our decisions, we are not betting against another person. Rather, we are betting against all the future versions of ourselves that we are not choosing.”
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 ## The power of truthseeking
 
 “Truthseeking, the desire to know the truth regardless of whether the truth aligns with the beliefs we currently hold, is not naturally supported by the way we process information. We might think of ourselves as open-minded and capable of updating our beliefs based on new information, but the research conclusively shows otherwise. Instead of altering our beliefs to fit new information, we do the opposite, altering our interpretation of that information to fit our beliefs.”
@@ -74,4 +72,4 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 {% include widgets/summary.html id="Blinkist" %}
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+#### &nbsp;
