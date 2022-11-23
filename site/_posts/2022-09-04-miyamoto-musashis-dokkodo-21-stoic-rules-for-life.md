@@ -3,10 +3,9 @@ date: 2022-09-04 00:00:00 -0400
 article_type: Article
 title: 'Miyamoto Musashi''s Dokkodo: 21 Stoic rules for life'
 permalink: /dokkodo/
-tags: 
-  - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+tags:
+categories:
+  - quotes-and-book-summaries
 description: >-
   In this post, I'll find modern meaning and interpretation of Miyamoto
   Musashi's short classic "Dokkodo".
