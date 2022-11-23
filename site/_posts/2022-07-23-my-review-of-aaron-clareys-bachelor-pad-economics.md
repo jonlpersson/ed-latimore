@@ -3,10 +3,10 @@ date: 2022-07-23 17:29:40 -0400
 article_type: Article
 title: My review of Aaron Clarey's "Bachelor Pad Economics:"
 permalink: /review-of-aaron-clarey-bachelor-pad-economics/
-tags: 
+tags:
   - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   Bachelor Pad Economics: The Financial Advice Bible For Men gives guys
   everything they need to build a life without financial and female stress.
