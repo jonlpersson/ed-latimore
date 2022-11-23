@@ -3,10 +3,10 @@ date: 2019-04-09 16:06:00 -0400
 article_type: Article
 title: How to make money online for beginners
 permalink: /a-basic-bro-beginners-guide-to-making-money-online/
-tags: 
+tags:
   - how-to-build-an-audience
-categories: 
-  - how-to-build-an-audience
+categories:
+  - how-to-make-money-on-social-media
 image: /assets/images/posts/ed-pool.jpg
 description: >-
   In reality, there is no such thing as "making money online". There are merely
