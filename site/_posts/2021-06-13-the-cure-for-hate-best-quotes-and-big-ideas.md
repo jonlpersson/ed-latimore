@@ -3,12 +3,11 @@ date: 2021-06-13 22:19:07 -0400
 article_type: Article
 title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
-tags: 
+tags:
   - how-to-make-friends
   - book-quotes-and-summaries
-categories: 
-  - how-to-make-friends
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.
