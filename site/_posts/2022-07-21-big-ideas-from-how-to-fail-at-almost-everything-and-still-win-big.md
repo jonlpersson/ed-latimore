@@ -3,10 +3,10 @@ date: 2022-07-21 20:20:05 -0400
 article_type: Article
 title: Big ideas from How to Fail at Almost Everything and Still Win Big
 permalink: /how-to-fail-at-almost-everything-and-still-win-big
-tags: 
+tags:
   - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   In "How to Fail at Almost Everything and Still Win Big: Kind of the story of
   my life," Scott Adams shows how to overcome failure and set back.
