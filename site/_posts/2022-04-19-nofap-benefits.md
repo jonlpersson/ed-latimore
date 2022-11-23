@@ -3,9 +3,9 @@ date: 2022-04-19 09:00:00 -0400
 article_type: Article
 title: The benefits of NoFap
 permalink: /nofap-benefits/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Porn addiction has so many men living beneath their potential. These tips will
@@ -17,6 +17,8 @@ Success always requires you to pay the cost of admission. This often means givin
 NoFap, a movement in which men are choosing to abstain from masturbating to porn, is more of a lifestyle than a simple online discussion forum. Men are using NoFap as a springboard to bigger goals and greater fulfillment.
 
 Porn is a $97 billion industry globally.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Many of its watchers are men in their sexual prime, exploring their sexuality and seeking a dopamine and serotonin release. Men that go NoFap and swear by it wouldn’t quit something that feels good and is available in droves without compelling reasons.
+
+***Discover more benefits of NoFap on&nbsp;[Mr. Mind Blowing blog](https://mrmindblowing.com/25-crazy-benefits-of-nofap-the-superpowers-of-nofap/){: target="_blank"}.***
 
 Even in the years that I was religiously getting drunk, I never actually considered myself an alcoholic. It wasn’t until I realized what alcohol was taking from me in my life that I decided to become sober and stay sober.
 
