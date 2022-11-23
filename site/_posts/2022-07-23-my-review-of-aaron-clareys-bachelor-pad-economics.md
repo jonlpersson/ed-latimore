@@ -26,8 +26,6 @@ I originally posted this review on my old site as part of a promotion I was doin
 
 You WANT to get closer to the truth.
 
-#### [Check out my other book quotes, book reviews, and book summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 He didn’t ask me to write a review to accompany the ad, but I wanted to because Clarey is one of the good guys I’ve met in the red pill space. I don’t mean that in some beta way. Rather, he’s one of the guys that see the plight of young men today and offers advice and solutions.
 
 He’s even gone out of his way to write a book called [“The Black Man’s Guide Out of Poverty.”](https://amzn.to/3yW1NMU){: target="_blank" rel="noopener"} I’m a black man (he isn’t, by the way), and I read the book. It’s a masterpiece of no-nonsense love designed to help black men rise and beat the bullshit. The bottom line is that Clarey wants the best for men of all races and hopes they embrace the truth of society.
@@ -71,5 +69,3 @@ Granted, it’s easier as an 18-year-old than a 30 or 40-year-old, but you alway
 The book also has specific advice for other important areas of your life, such as maintaining your health, picking where to live, and retirement planning. However, the most powerful information is in what he gives you about selecting the right mindset, people, and education path.
 
 If you follow Clarey’s advice on these matters, you won’t end up 40 years old and broke. As DMX once warned, *“Life is too short to get caught up in some dumb shit. Wake up one day, 40 years old on some bum shit.”*
-
-#### [Check out my other book quotes, book reviews, and book summaries](https://edlatimore.com/book-quotes-and-summaries)
