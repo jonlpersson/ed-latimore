@@ -7,8 +7,7 @@ tags:
   - the-power-of-forgiveness
   - ed-latimore-original-quotes
 categories:
-  - book-quotes-and-summaries
-  - the-power-of-forgiveness
+  - quotes-and-book-summaries
 description: >-
   These quotes about forgiveness will help you let go of the painful past, live
   better in the present, and approach the future without trauma and guilt.
@@ -16,7 +15,7 @@ image: /assets/images/thumbnails/forgivenessimage.jpeg
 ---
 The power of forgiveness has changed my life. It's allowed me to repair relationships, cope with childhood trauma, and help others release the emotional weight that was holding them back and down.
 
-I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace.&nbsp;
+I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace.
 
 I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined by those trespasses. True forgiveness does not even seek an explanation or apology. It recognizes that we're all imperfect and all we can do is try to improve our daily lives.
 
@@ -263,5 +262,3 @@ Of course this is patently false, but this belief is probably responsible for ma
 ***\[If you want to read my entire essay about forgiving your parents, [click here](/how-to-understand-and-forgive-your-parents/).\]***
 
 #### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
-
-&nbsp;
