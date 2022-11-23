@@ -3,10 +3,10 @@ date: 2020-10-21 23:15:00 -0400
 article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
-tags: 
+tags:
   - writing-skills
-categories: 
-  - writing-skills
+categories:
+  - learning-skills
 description: >-
   The Best Way to Tweet It merges Ed Latimore’s Twitter income generation
   strategies and Joshua Lisec’s persuasive writing system.
