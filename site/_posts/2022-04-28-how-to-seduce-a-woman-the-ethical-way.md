@@ -3,9 +3,9 @@ date: 2022-04-28 22:25:54 -0400
 article_type: Article
 title: How to seduce a woman, the ethical way
 permalink: /how-to-seduce-a-woman/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
+categories:
   - dating-and-relationships
 description: >-
   If you're tired of reading stuff written by sleazy pick-up artists, this is an
@@ -80,7 +80,7 @@ Men that are more physically attractive will find it much easier to be seductive
 
 It ties into the biological urge for women to select a ‘healthy’ mate. If you’re naturally good-looking and in good shape, you’re at a major advantage.
 
-Women will be more receptive to light touches on dates and escalation after, and are even more likely to orgasm with you, strengthening their emotional bond with you.
+Women will be more receptive to light touches on dates and escalation after, and are even more likely to orgasm with you, strengthening their emotional bond with you. ([Check this site out for more details on this](https://www.schoolofsquirt.com/how-to-give-a-girl-an-orgasm/))
 
 If you’re not blessed with natural good looks, don’t worry. Dressing well, staying in good shape, and fixing your hair nicely, can get you 90% of the way, and self-confidence will get you the rest of the way there.
 
