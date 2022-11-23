@@ -3,10 +3,10 @@ date: 2021-03-27 20:44:00 -0400
 article_type: Article
 title: 'The Hagakure: 10 best quotes and ideas'
 permalink: /hagakure-quotes/
-tags: 
+tags:
   - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   The Hagakure: The Book of The Samurai was written in the 1700s by Yamamoto
   Tsunetomo as a guide for samurai. These are the 10 best quotes and ideas from
