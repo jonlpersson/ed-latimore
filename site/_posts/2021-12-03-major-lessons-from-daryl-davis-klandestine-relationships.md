@@ -3,10 +3,10 @@ date: 2021-12-03 21:18:21 -0500
 article_type: Article
 title: '“Klandestine Relationships” by Daryl Davis: 12 lessons'
 permalink: /daryl-davis-book/
-tags: 
+tags:
   - book-quotes-and-summaries
-categories: 
-  - book-quotes-and-summaries
+categories:
+  - quotes-and-book-summaries
 description: >-
   Daryl Davis is a Black man who has friends in the Ku Klux Klan. He wrote about
   his experiences. This post explores the big ideas he discusses.
