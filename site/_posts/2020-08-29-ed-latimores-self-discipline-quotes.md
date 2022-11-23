@@ -6,7 +6,7 @@ permalink: /ed-latimore-self-discipline-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - book-quotes-and-summaries
+  - quotes-and-book-summaries
 description: >-
   This is a collection of my best quotes about self-discipline. These will help
   you remember what it takes to develop self-discipline and self-control.
@@ -19,8 +19,6 @@ Successful people understand that real power comes from the ability to resist yo
 If you want to possess true power, you have to force yourself to be disciplined—especially in this world of constant distraction and promises of shortcuts. The following are things I've learned about self-discipline throughout my life as a professional athlete, student, former alcoholic, and writer.
 
 I hope you learn something from these quotes and if one of them resonates with you, share it so that someone else can get something from it.
-
-#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
 
 ## Ed Latimore's 16 Best Self-Discipline Quotes
 
@@ -127,7 +125,5 @@ But he hit his head when he fell and died. Lose your emotional discipline for on
 ---
 
 Get into the habit of choosing your words carefully. If you don't have the discipline to do that, then at least have the awareness to know when you've chosen poorly, the humility to admit it, and the empathy to try again. ([Tweet it](https://twitter.com/EdLatimore/status/1431640652375265280){: target="_blank" rel="noopener noreferrer"})
-
-#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
 
 &nbsp;
