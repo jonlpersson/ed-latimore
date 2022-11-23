@@ -3,10 +3,10 @@ date: 2016-07-02 20:00:00 -0400
 article_type: Article
 title: 11 algorithm proof ways to grow on Twitter
 permalink: /how-to-grow-your-twitter-following/
-tags: 
+tags:
   - writing-skills
-categories: 
-  - writing-skills
+categories:
+  - learning-skills
 image: /assets/images/posts/Twitter.jpeg
 description: >-
   I've got over 100k Twitter followers. I follow less than 1k people back. I
