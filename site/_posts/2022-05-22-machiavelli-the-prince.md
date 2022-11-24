@@ -105,8 +105,6 @@ This reminds me of something Patrice O'Neil once said about being in a new relat
 
 A similar sentiment is echoed when it comes to why a man shouldn't move into his girlfriend's house and it's much better to either have her move in with him or get a new place entirely.
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 ## Machiavelli on dealing with problems early
 
 > \*\*When you are on the spot, disorders are detected in their beginnings and remedies can be readily applied; but when you are at a distance, they are not heard of until they have gathered strength and the case is past cure. \*\*
@@ -342,7 +340,5 @@ The auxiliaries know how your operation works because you had to reveal it to th
 ---
 
 > To be brief, I say that since Fortune changes and men stand fixed in their old ways, they are prosperous so long as there is congruity between them, and the reverse when there is not.
-
-## [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
