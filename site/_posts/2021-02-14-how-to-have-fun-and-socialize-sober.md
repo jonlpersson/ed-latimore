@@ -60,8 +60,6 @@ Nevertheless, it was clear that I enjoyed environments where I got mental stimul
 
 What did I do instead of drinking? I started spending more time with my friends individually over coffee rather than in group settings at the bar, and it made a huge difference in my life.
 
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
-
 ## 3) Realize that you've been lied to
 
 If you’ve been led to believe one thing your entire life, chances are you’re going to keep believing that thing is true. You probably won't think anything is wrong until you learn to take an objective view of your beliefs.
@@ -176,9 +174,5 @@ It doesn’t matter if you’re addicted to alcohol or just have a couple of dri
 * Building a better you
 
 Once you can understand these and learn to internalize them in your daily life, saying no to a drink from your friends will be easy.
-
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
-
-&nbsp;
 
 {% include widgets/cta-email.html %}
