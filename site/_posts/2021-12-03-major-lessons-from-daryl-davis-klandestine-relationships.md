@@ -57,8 +57,6 @@ For example, there's a big difference between the reaction you receive when you 
 
 I'm not saying that it's easy to separate the message from the messenger, but I believe it's necessary if we ever hope to improve how we communicate. Furthermore, you stand a much better chance of influencing the messenger if you can keep him from becoming defensive, and the fastest way to make someone defensive is to attack them
 
-#### [Check out more of my book summaries and quotes](https://edlatimore.com/book-quotes-and-summaries)
-
 ## 4) Someone has to make the first move in good faith
 
 > "We are all human beings, though we may have some physical, cultural, sexual, and religious differences. Often these differences seem monumental to those of us who are only accustomed to being around our own kind. We are ignorant in understanding that these differences are only superficial. Though we are influenced by our backgrounds and our environments, as human beings, we are fundamentally the same.
@@ -237,7 +235,5 @@ This interaction is important to note because it demonstrates the crux of Daryl'
 The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives to dismantle white supremacy and systemic racism. But Daryl is doing what he knows best and making a dent in the scourge of racism.&nbsp;
 
 *"Well I would hope that by the time I'm gone, things like this would not be as prevalent. But, if they are, perhaps this film will encourage others to do the same and do a better job than I've been able to do."*
-
-#### [Check out more of my book summaries and quotes](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
