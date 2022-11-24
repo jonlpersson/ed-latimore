@@ -26,8 +26,6 @@ These chapters are early on in the book, and for a good reason. Once he has esta
 
 To guide you in your pursuit of an ideal life, Adams discusses how to manage your personal energy. Adams believes that your personal energy is the most important metric to track, and he discusses how to do this in several chapters. He also discusses his strategy for setting goals.
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 ## Scott Adams’ criticism of goal-oriented people
 
 In short, he thinks setting goals is for losers. Instead, he recommends that you have a system instead. Many of the stories he shares and the lessons he learned from them detail how to build these systems. A natural part of the construction process is acquiring new skills. Adams explains in detail how each added skill increases your chance of succeeding.
@@ -62,5 +60,3 @@ I’ll summarize Adams's summary in the final chapter to summarize this review.
 And remember this: “Failure is your friend. It is the raw material of success.”
 
 Get the book audiobook, paperback, or kindle here on Amazon—&gt;[**How to fail at almost everything and still win big**](https://amzn.to/3RRZ4gl){: target="_blank" rel="noopener"}
-
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
