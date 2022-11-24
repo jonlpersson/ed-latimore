@@ -78,8 +78,6 @@ While there's a lot to be said about cultivating a work/life balance, good leade
 
 This can only happen if the boss doesn't care too much.&nbsp;
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 ## How to lead a team
 
 > If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.
@@ -222,5 +220,3 @@ If you can make someone think you have (or don't have) something that influences
 Ultimately, the power of deception is that it bends your opponent's perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it's often used to make others think they have a higher value.
 
 In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that they don't fool you.&nbsp;
-
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
