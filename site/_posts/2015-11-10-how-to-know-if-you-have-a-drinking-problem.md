@@ -84,7 +84,7 @@ If you're doing all the right things in your relationships – romantic, platoni
 
 I used to *brag* that 95% of all my problems were either caused or exacerbated by alcohol. Since I wasn't interested in doing more with my life, I was fine with getting drunk and ruining my life.
 
-There are people with a shitty personality when both sober and drunk. These people are assholes, but they don’t have problems. If you're cool [when you're sober](/how-to-know-if-you-have-a-drinking-problem/) but you've lost friendships while intoxicated, you have a drinking problem.
+There are people with a shitty personality when both sober and drunk. These people are assholes, but they don’t have problems. If you're cool [when you're sober](/how-to-have-fun-and-socialize-sober/) but you've lost friendships while intoxicated, you have a drinking problem.
 
 If you put effort into a portion of life but alcohol undoes or impedes that progress, then you have a drinking problem.
 
