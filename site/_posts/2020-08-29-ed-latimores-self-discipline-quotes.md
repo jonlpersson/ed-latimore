@@ -98,7 +98,13 @@ Emotional discipline is the most important.
 
 When emotional discipline breaks, that's when you do things that change your life for the worst. ([Tweet it](https://twitter.com/EdLatimore/status/1296529542258008064))
 
-Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them. The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course.&nbsp;
+---
+
+Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them. ([Tweet it](https://twitter.com/EdLatimore/status/1595828414036017152))
+
+---
+
+The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course. ([Tweet it](https://twitter.com/EdLatimore/status/1595828468377427968))
 
 ---
 
