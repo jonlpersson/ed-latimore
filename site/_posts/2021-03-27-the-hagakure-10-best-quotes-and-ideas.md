@@ -51,8 +51,6 @@ This takes more skill, tact, and diplomacy than simply pointing out faults, but 
 
 ***"A man convinced against his will, is of the same opinion still." - Benjamin Franklin***
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
-
 ## 4\. The path from novice to master
 
 > "In one's life. there are levels in the pursuit of study. In the lowest level, a person studies but nothing comes of it, and he feels that both he and others are unskillful. At this point he is worthless. In the middle level he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others. At a higher level, he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows. This man has worth. At the highest level a man has the look of knowing nothing."
@@ -150,7 +148,5 @@ There are few things to be gained and many to be lost by doing so. And before yo
 8. **"There is surely nothing other than the single purpose of the present moment."**
 9. **"Human life is truly a short affair. It is better to live doing the things that you like…"**
 10. **"People will become your enemies if you become eminent too quickly in life…"**
-
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
