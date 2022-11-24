@@ -3,9 +3,9 @@ date: 2022-02-24 09:00:00 -0500
 article_type: Article
 title: Science-backed reasons porn is harmful
 permalink: /reasons-porn-is-harmful/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   There’s a lot of debate on whether porn can actually be harmful, here’s what
@@ -56,8 +56,6 @@ It’s far more obvious to observe if a man cannot achieve an erection vs. measu
 What is true for everyone, however, is that porn desensitizes you to sexual stimuli in real life. This means it decreases your ability to find sexual satisfaction with your partner. Some men even report the loss of the ability to have an orgasm during masturbation coupled with erectile dysfunction.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">3</a></sup>
 
 Masturbation is as natural as a sunny day. However, when you use porn to skip the natural arousal process, you train your sexual impulses for instant gratification. Try masturbation without porn, or abstain from both altogether. It’ll reverse the desensitizing effects of porn and retrain your ability to be aroused more easily.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## Porn drains the sexual intimacy from your relationships
 
@@ -116,8 +114,6 @@ There’s a new movement in the alcohol industry called “sober curious”. Bri
 * Compulsive porn use creates a negative loop with stress, anxiety, and depression
 * Porn is a real addiction
 * Porn addiction has the same effects on your frontal lobe as a brain injury
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
