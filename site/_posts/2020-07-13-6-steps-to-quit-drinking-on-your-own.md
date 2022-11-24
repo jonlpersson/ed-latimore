@@ -3,9 +3,9 @@ date: 2020-07-13 20:51:00 -0400
 article_type: Article
 title: 6 steps to quit drinking on your own
 permalink: /how-to-stop-drinking-on-your-own/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Tired of struggling with alcohol? This post will show you how to take a break
@@ -80,8 +80,6 @@ Most of us drink for one of the big C’s:
 Alcohol is the response to all of our emotional states. If you grew up in a society where this is the norm, then it’s already an expectation that you’ll drink in response to nearly every situation imaginable.
 
 For example, one of my worst habits was needing to have a drink in my hand. I tried to replace it with water, but it was too easy to drink quickly and lacked flavor. So I started to drink coffee instead.
-
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 I used to drink to celebrate. Once I decided to get sober, I knew that I needed a new habit. That new habit was going to dinner with my girlfriend instead. This is more constructive than getting drunk until I feel terrible because something good happened to me.
 
@@ -242,9 +240,5 @@ Also, [consider giving back along your recovery journey.](https://www.pbinstitut
 Implementing these new habits takes time, but reducing or eliminating your alcohol consumption is worth it. Sobriety is the best gift that I've ever given myself.
 
 The rest is up to you.
-
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
-
-&nbsp;
 
 {% include widgets/cta-email.html %}
