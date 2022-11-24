@@ -68,8 +68,6 @@ But first, here is what I&nbsp;*won't*&nbsp;be discussing in this Twitter articl
 
 Now that you know what's not going to be in the article, we can cover what you can do to grow here. After following this advice, who knows what will happen? You might even pass me one day.
 
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
-
 ## 1) Write valuable high-quality content
 
 People always want value.
@@ -169,8 +167,6 @@ If they *also* happen to strongly interact with the quote tweet, that’s a bonu
 
 {% twitter https://twitter.com/EdLatimore/status/1157295313947959296 %}
 
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
-
 ## 6) Use media in your tweets
 
 According to Twitter, posts that use gifs or images have engagement rates of 35% higher than text alone. [You can read more about this on Twitter's blog.](https://blog.twitter.com/official/en_us/a/2014/what-fuels-a-tweets-engagement.html){: target="_blank" rel="noopener noreferrer"}
@@ -234,7 +230,5 @@ If you follow these tips, along with the tips in my other article about growing 
 These tips are guaranteed to get you more Twitter followers
 
 If you have content you want to share, whether it be for fun or profit, then you need Twitter followers. Not only do you need followers to start with, but you also need to continually gain followers. These suggestions will shake your flatlined Twitter growth back to life.&nbsp;
-
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 {% include widgets/summary.html id="Twitter-Threads" %}
