@@ -6,7 +6,7 @@ permalink: /how-to-build-and-manage-an-email-list/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 description: >-
   Social media platforms are fickle. Algorithms change and people get censored,
   but your email list is always yours. Learn why you should build an email list.
