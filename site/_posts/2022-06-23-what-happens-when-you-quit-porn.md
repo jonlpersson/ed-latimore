@@ -3,9 +3,9 @@ date: 2022-06-23 09:00:04 -0400
 article_type: Article
 title: Here’s what happens when you finally quit porn
 permalink: /what-happens-when-you-quit-porn/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   A realistic, non-judgmental view of what happens when you finally give up
@@ -61,8 +61,6 @@ The human body is incredibly efficient. It will work to incorporate foreign subs
 So you’ll experience strong urges to go back to porn. Don’t do it. You’ll only prolong the withdrawal while adding a new layer of guilt.
 
 You can masturbate during these cravings. Check out my [in-depth guide on quitting porn](https://gumroad.com/a/468639571) for more information on surviving without internet porn. In short, the goal isn’t to stop masturbating—unless you’re interested in the [benefits of the No Fap challenge](https://edlatimore.com/nofap-benefits/)—the goal is to break up with the hold porn has over you.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## You regain your natural sexual rhythm
 
@@ -142,8 +140,6 @@ So here’s what to expect when you decide to quit porn:
 * You seek less temporary distractions
 * Your overall mental health improves
 * You lose unrealistic expectations about yourself and others
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
