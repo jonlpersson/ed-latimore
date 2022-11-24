@@ -3,10 +3,10 @@ date: 2020-09-13 23:10:00 -0400
 article_type: Article
 title: How to be a good personal branding example
 permalink: /personal-branding-examples/
-tags: 
+tags:
   - how-to-build-an-audience
-categories: 
-  - how-to-build-an-audience
+categories:
+  - how-to-make-money-on-social-media
 description: >-
   What I’m about to share with you is authentic brand-building. Everyone has a
   personal brand that they have to manage. Learn how.
