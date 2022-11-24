@@ -3,9 +3,9 @@ date: 2022-07-14 09:00:00 -0400
 article_type: Review
 title: Covenant Eyes review (2022)
 permalink: /covenant-eyes-review/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   I tested Covenant Eyes, one of the top porn blocking softwares on the market.
@@ -35,8 +35,6 @@ I’ll be honest, [breaking free from the grasp of online porn is hard](https://
 It’s not always in our DNA to seek help when we struggle, but sometimes hard problems require unique solutions. If life were always good, breaking bad habits would be easy. But you’ve got to protect yourself when you’re most vulnerable, like when you’re tired, bored, or stressed from work.
 
 Knowing that there’s a near-infinite supply of any adult fantasy only a click away is what makes online porn so tough to beat. You have to put up the proper defense to protect yourself, and that’s what Covenant Eyes aims to accomplish.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## Covenant Eyes' primary features
 
@@ -106,5 +104,3 @@ One of the critical lessons I learned as a professional boxer is to always know 
 To make it a fair fight, you need to take a play out of the porn industry’s playbook by protecting yourself with a tool that’s also looking to constantly innovate.
 
 That’s what makes [Covenant Eyes my top choice for fighting back](https://covenanteyes.sjv.io/QOzdN9) (I get a small % cut of each sale made through the link, which helps pay my bills). Sure, there are a handful of apps on the market that can help you break the habit. Still, I haven’t found a better tool that delivers quite the one-two punch of effectively blocking adult content and offering the kind of accountability that gives you the agency to break free from addiction.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
