@@ -3,9 +3,9 @@ date: 2015-12-01 19:00:00 -0500
 article_type: Article
 title: 7 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 image: /assets/images/posts/watching porn.PNG
 description: >-
@@ -56,8 +56,6 @@ It's basically impossible to get bored of sexual variety. A man will choose a ne
 The human mind has a surprisingly difficult time distinguishing between real and imagined events. Part of the reason why viewing porn is addictive is why scary movies are scary.
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## **Should you give up porn?**
 
@@ -209,7 +207,5 @@ Beating porn addiction falls under the “simple, but not easy” category.
 I'm avoiding the argument of whether you should or shouldn’t watch porn. To quit porn, these seven steps are all you need. Just remember, the first 3 days are the most difficult because you're overcoming pavlovian conditioning.
 
 After that, it gets much easier.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/cta-email.html %}
