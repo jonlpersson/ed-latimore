@@ -3,10 +3,10 @@ date: 2018-11-04 00:34:00 -0400
 article_type: Article
 title: How to brand yourself to get paid
 permalink: /how-to-build-a-personal-brand/
-tags: 
+tags:
   - how-to-build-an-audience
-categories: 
-  - how-to-build-an-audience
+categories:
+  - how-to-make-money-on-social-media
 image: /assets/images/posts/boxingchess.jpg
 description: >-
   Learn how to build a personal brand that can allows you to make money being
