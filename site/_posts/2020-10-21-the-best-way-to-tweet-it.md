@@ -80,8 +80,6 @@ and **can't write** for 💩.
 
 In short, **go from crickets 🦗 to cash 💰 without tweeting like someone you’re not.**
 
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
-
 ***“So what makes YOU the authorities on Tweeting for the Benjamins?”***
 
 **Ed Latimore** is a best-selling author, former professional heavyweight boxer, and competitive chess player. His writing focuses on self-improvement and a practical approach to stoic philosophy. He has over 132,000 followers on Twitter and does 40M+ impressions per month.
@@ -161,7 +159,5 @@ And if you want to leverage persuasive language to make Twitter your personal AT
 &nbsp;
 
 **Master Tweet-Sized Persuasion.** Join *The Best Way To Tweet It* right effing now.
-
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 &nbsp;
