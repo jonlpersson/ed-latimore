@@ -3,9 +3,9 @@ date: 2022-05-10 23:34:32 -0400
 article_type: Article
 title: Drinking, college sexual assault, and cultural resistance to change
 permalink: /sexual-assault-college-stats/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Drinking culture is especially dangerous for young women. However, efforts to
@@ -51,8 +51,6 @@ According to a 2001 report, 97,000 people ages 18-24 reported experiencing alcoh
 Before we draw those conclusions, let’s apply two filters to the data: under-reporting and false rape claims.
 
 We do this to get an idea of how much the data reflects in reality. As stated earlier, it’s been estimated that 80% of sexual assault cases are never reported to the police. While this may or may not be reflected in the survey data, we know it has been reflected in the BJS information because, for it to get there, it has to be reported to the police. So worst case, we’re dealing with 501,875 sexual assaults that have occurred. ***This is the upper range.***
-
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
 
 To arrive at the lower range, we rely on data from an analysis of reports of sexual assaults over a 10 years period where&nbsp;[5\.9% were found to be false allegations](https://pubmed.ncbi.nlm.nih.gov/21164210/). Once again, this applies to ones that are reported so we can apply this number to the BJS data. This means that in the worst case, we’re dealing with 93,248 cases of sexual assault.&nbsp;
 
@@ -135,5 +133,3 @@ The bottom line to remember is that nothing good comes from heavy drinking.
 Every time you binge drink, there's a chance of permanently changing your life for the worse. This is one of the most serious risks that you can take. If you’re a woman, you risk the physical and emotional pain of being assaulted. If you’re a man, you risk arrest, loss of freedom, and a lifetime of guilt and shame.
 
 &nbsp;It’s clear that society is not interested in dealing with the problem so you’ll have to deal with it yourself.
-
-#### [Check out my other articles on sober living](https://edlatimore.com/sober-life)
