@@ -38,7 +38,7 @@ When nothing disturbs your emotional center, this is true power.
 > 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
 > 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.<br>​​​​
 
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
+#### &nbsp;
 
 ## **Tao Te Ching Quotes on wisdom**
 
@@ -52,7 +52,7 @@ In this way, ordinary people can develop extraordinary wisdom as a result of sim
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
-{% include widgets/summary.html id="Blinkist" %}
+&nbsp;
 
 ## **Tao Te Ching Quotes on self-improvement**
 
@@ -78,11 +78,5 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [
 > 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
 > 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
-
-#### &nbsp;
-
-{% include widgets/summary.html id="Blinkist" %}
-
-#### [Check out my other book quotes and summaries](https://edlatimore.com/book-quotes-and-summaries)
 
 &nbsp;
