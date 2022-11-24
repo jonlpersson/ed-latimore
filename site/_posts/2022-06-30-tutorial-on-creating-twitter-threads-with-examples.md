@@ -6,7 +6,7 @@ permalink: /how-to-make-twitter-threads/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 description: >-
   This is a post teaching the basics of how to create Twitter threads. Many
   people don't know how, so I wrote this article.
