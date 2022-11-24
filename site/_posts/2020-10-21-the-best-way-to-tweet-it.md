@@ -6,7 +6,7 @@ permalink: /how-to-tweet/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 description: >-
   The Best Way to Tweet It merges Ed Latimore’s Twitter income generation
   strategies and Joshua Lisec’s persuasive writing system.
