@@ -6,7 +6,7 @@ permalink: /how-to-get-more-twitter-followers/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 image: /assets/images/posts/Howtogetmorefollowersontwitter.jpg
 description: >-
   I've learned a lot about the Twitter algorithm by study, trial, and error. Now
