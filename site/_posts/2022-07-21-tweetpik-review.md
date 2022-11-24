@@ -6,7 +6,7 @@ permalink: /tweetpik-review/
 tags:
   - how-to-build-an-audience
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 description: >-
   Tweetpik is a simple tool that makes it easy to capture and share screenshots
   of your tweets. Here’s how I use it to boost my Twitter and Instagram
