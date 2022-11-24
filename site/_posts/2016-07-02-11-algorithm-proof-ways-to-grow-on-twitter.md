@@ -6,7 +6,7 @@ permalink: /how-to-grow-your-twitter-following/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - how-to-make-money-on-social-media
 image: /assets/images/posts/Twitter.jpeg
 description: >-
   I've got over 100k Twitter followers. I follow less than 1k people back. I
