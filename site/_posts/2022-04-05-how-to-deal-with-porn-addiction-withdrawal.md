@@ -3,9 +3,9 @@ date: 2022-04-05 09:00:00 -0400
 article_type: Article
 title: How to deal with porn addiction withdrawal
 permalink: /dealing-with-porn-addiction-withdrawal/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Porn addiction withdrawal symptoms are shockingly similar to alcohol
@@ -56,8 +56,6 @@ The initial days and weeks without my stress coping mechanisms brought on all of
 * Tightness in the chest and stomach
 
 You may experience these differently depending on your level of addiction. I had to make hard decisions about what I wanted my life to look like, start new habits, and follow through with action to get past my demons.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ### Body aches and pains
 
@@ -153,8 +151,6 @@ If you’re going to navigate addiction recovery and beat it, don’t forget:
 My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and Addictions](https://gumroad.com/a/337122419) gives you a headstart in dealing with your withdrawal symptoms. You’ll gain the tools to recover from porn addiction and substance addiction, even if you’ve already relapsed thousands of times.
 
 As I always say, the rest is up to you.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
