@@ -55,8 +55,6 @@ Another notable difference between tweetstorms and Twitter threads is that (as o
 
 Tweetstorms, however, are easy to schedule because they’re separate tweets.
 
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
-
 ## Why write Twitter Threads?
 
 I used to be the biggest opponent of Twitter Threads. I looked at the stats and saw that engagement on a thread just kept decreasing as you went further down.
@@ -111,8 +109,6 @@ That’s why I recommend using Twitter’s built-in thread feature, which lets y
 6. Go over it, check for typos, then hit the **Tweet all**. Your Twitter thread will now publish.
 
 Now you know how to join in the fun of creating Twitter threads.
-
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 {% include widgets/summary.html id="Twitter-Threads" %}
 
