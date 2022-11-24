@@ -162,5 +162,3 @@ Don't take it personally but don't take it laying down either. **([Tweet it](htt
 I don’t have any magic formula to make it easier for you to swallow the difficult parts of life. I merely have the truth, and I hope that’s enough.
 
 The truth is that trauma is a part of life. No one escapes it. Yours is not special and neither is mine. for better or worse. **([Tweet it](https://twitter.com/EdLatimore/status/1212824051540004864){: target="_blank" rel="noopener noreferrer"})**
-
-#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
