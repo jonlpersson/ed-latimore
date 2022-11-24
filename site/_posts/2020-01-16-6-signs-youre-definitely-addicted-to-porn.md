@@ -3,9 +3,9 @@ date: 2020-01-16 06:45:00 -0500
 article_type: Article
 title: 6 signs you're definitely addicted to porn
 permalink: /6-signs-that-youre-definitely-addicted-to-porn/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 image: /assets/images/posts/pornaddiction-illustration-libertyantoniasadler-metro.png
 description: >-
@@ -82,8 +82,6 @@ Years of training your brain to expect pleasure before you sleep or feel anxious
 The difference between enjoyment and addiction is one of “want to” versus “need to.” While the underlying cause of your problem might be poor self-control, your addiction isn’t an issue until there are adverse outcomes.
 
 Until then, it’s just a fun process.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## You spend money on porn
 
@@ -194,7 +192,7 @@ The levels of reported ED issues among young men have skyrocketed in recent year
 
 While erectile dysfunction has multivariate causes, it is not an issue that young men typically encounter. However, we already know that pornography wreaks havoc on the brain’s response to dopamine. Sexual desire and getting an erection are all related to dopamine sensitivity.
 
-In the book *[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationship\]({{ '1556438095' | amazon }}),* the authors state:
+| In the book \*\[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationship\]({{ '1556438095'</td><td>amazon }}),\* the authors state: |
 
 > In the last decade or so, addiction researchers have discovered that too much dopamine stimulation has a paradoxical effect. The brain decreases its ability to respond to dopamine signals (desensitization). This occurs with all addictions, both chemical and natural. In some porn users, the response to dopamine is dropping so low that they can’t achieve an erection without constant hits of dopamine via the Internet.
 
@@ -274,7 +272,5 @@ The shame. The depression. The ED. The late-night hentai sessions. The low energ
 It won’t be easy, but it will be worth it.
 
 You’ll come out the other side better and you’ll thank yourself.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/cta-email.html %}
