@@ -3,9 +3,9 @@ date: 2022-02-15 09:26:39 -0500
 article_type: Article
 title: 9 good reasons why it’s time to quit watching porn
 permalink: /reasons-to-quit-porn/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Even if you’re not addicted to porn, it still isn’t doing you any favors. Here
@@ -39,8 +39,6 @@ Pornography creates a reward system, offering you dopamine for none of the work 
 Young men today have 24/7 access to high-speed hardcore pornography. It’s available on your computer, your tablet, your phone, your gaming system, and anything else with internet access. The side-effect of this much dopamine for no work is that you lose the desire for real relationships and connections.
 
 It’s not a coincidence that 33% of men 18 to 24 reported having had no sexual activity in 2019.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## 3\. Masturbating to porn warps your brain and creates bad habits
 
@@ -128,8 +126,6 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * It’s a waste of time
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="The-Freedom-Specialists" %}
 
