@@ -3,9 +3,9 @@ date: 2022-03-15 11:00:47 -0400
 article_type: Article
 title: How to start NoFap to gain more personal confidence
 permalink: /how-to-start-nofap/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Learn how to control your impulses, strengthen your focus, and harness your
@@ -84,8 +84,6 @@ From there, write down the pros and cons of NoFap. This will help you focus on w
 In truth, the most you have to lose is temporary comfort. But remember, the man who seeks comfort finds weakness. Tape your reasons for going NoFap to the mirror. Make it your phone’s home screen.
 
 Let it remind you who you can be, so you can do what you have to do.
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 ## Accept the reality of the challenge
 
@@ -206,8 +204,6 @@ Only you truly know the severity of your porn use issues. But these tips will he
 * Build your physical body
 * Add cold showers to your daily routine
 * Fortify your mind with a meditation practice
-
-#### [Check out my other articles on porn addiction recovery](https://edlatimore.com/porn-addiction-recovery)
 
 {% include widgets/summary.html id="Vice-breakers-porn" %}
 
