@@ -50,8 +50,6 @@ The number of people who add to your follower count.
 
 This is pretty obvious and doesn't need much explaining. If you're worried that someone has "fake followers," get them to tell you their impressions. Bots and fake followers don't leave impressions because they aren't scrolling the timeline.
 
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
-
 ## Examples of common Twitter strategy to increase engagement that I don't do
 
 **I don't pay for retweets.**&nbsp;I have nothing against this strategy, but it can become expensive, and it doesn't help you develop your ability to write engagingly. Also, Twitter's algorithm incorporates many SEO-like features, so you need both retweets AND good writing.
@@ -254,7 +252,5 @@ Offer a unique perspective—whether through substance or style—on the theme y
 You can grow a decent-sized account as a hater, but you need to be a unique brand of hater. Otherwise, you’re just a rip-off.
 
 No one likes a copycat because copycats lack authenticity and they haven’t done the work.
-
-#### [Read my other content on growing on Twitter](https://edlatimore.com/twitter-tips)
 
 {% include widgets/summary.html id="Twitter-Threads" %}
