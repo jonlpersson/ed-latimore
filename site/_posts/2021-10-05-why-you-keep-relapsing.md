@@ -3,10 +3,10 @@ date: 2021-10-05 09:00:00 -0400
 article_type: Article
 title: Why do I keep relapsing? (how to stop for good)
 permalink: /why-you-keep-relapsing/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
-  - how-to-break-an-addiction
+categories:
+  - connecting-with-people
 description: >-
   Overcoming an addiction can be hard. But it doesn't have to be if you
   implement these four strategies for avoiding relapses.
