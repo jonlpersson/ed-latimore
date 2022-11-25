@@ -3,10 +3,10 @@ date: 2021-08-27 09:00:00 -0400
 article_type: Article
 title: 'How to be more likeable: 5 strategies that worked for me'
 permalink: /how-to-be-likeable/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 description: >-
   Likeability is the ultimate form of social currency, both in personal and
   romantic relationships and in business. Here are 5 ways to become more
