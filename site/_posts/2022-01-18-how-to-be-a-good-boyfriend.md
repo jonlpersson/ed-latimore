@@ -3,10 +3,10 @@ date: 2022-01-18 09:00:00 -0500
 article_type: Article
 title: How to be a better boyfriend
 permalink: /how-to-be-a-good-boyfriend/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   What always works isn't always what's obvious. This article gives an
   unconventional look at how to be a good boyfriend. 
