@@ -3,10 +3,10 @@ date: 2020-06-14 16:06:00 -0400
 article_type: Article
 title: 4 signs it's time to end a friendship
 permalink: /when-to-end-a-friendship/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 description: >-
   Wondering if it's time to end a friendship? This article will tell you the 4
   times when you absolutely have to cut it loose.
