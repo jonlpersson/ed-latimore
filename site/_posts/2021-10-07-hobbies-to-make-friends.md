@@ -3,10 +3,10 @@ date: 2021-10-07 09:00:00 -0400
 article_type: Article
 title: Hobbies to make friends (and what to do once you're there)
 permalink: /hobbies-to-make-friends/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 description: >-
   How to stop being lonely and use hobbies to make new friends. Using hobbies
   and interests is—by far—the best way to meet new people.
