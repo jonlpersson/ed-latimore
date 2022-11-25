@@ -3,10 +3,10 @@ date: 2017-02-21 19:00:00 -0500
 article_type: Article
 title: 'How to change your life in 10 months: 10 steps'
 permalink: /change-your-life/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 image: /assets/images/posts/ed-speaking-2.jpg
 description: >-
   I was once a broke alcoholic. Then I changed my life. Now I'm a sober top 1%
