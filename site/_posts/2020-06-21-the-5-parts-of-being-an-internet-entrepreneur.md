@@ -3,10 +3,10 @@ date: 2020-06-21 20:50:00 -0400
 article_type: Article
 title: The 5 parts of being an internet entrepreneur
 permalink: /how-to-become-an-internet-entrepreneur/
-tags: 
+tags:
   - how-to-build-an-audience
-categories: 
-  - how-to-build-an-audience
+categories:
+  - how-to-make-money-on-social-media
 description: >-
   Whichever way you go with building your own online business, you'll find
   something here that will help you make strides.
@@ -21,7 +21,7 @@ He wanted to understand how I've used social media, SEO, and blogging to build a
 
 He felt stuck at his level of progress and wanted to know some new business ideas to&nbsp;[build a successful online business](https://coachfoundation.com/blog/start-coaching-business/).
 
-## Becoming an internet entrepreneurship
+## Becoming an internet entrepreneur
 
 I've always been reluctant to call myself an internet entrepreneur.
 
