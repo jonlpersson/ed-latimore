@@ -3,10 +3,10 @@ date: 2020-12-20 23:00:00 -0500
 article_type: Article
 title: How to be an attractive man (no-BS guide)
 permalink: /how-to-be-an-attractive-man/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - how-to-be-a-hot-guy
 image: /assets/images/thumbnails/2020/ed-attractive.jpg
 description: >-
   What are the 20% of things responsible for 80% of your attractiveness and
@@ -58,8 +58,6 @@ Women find charismatic, somewhat extroverted, self-confident men attractive. Be 
 Most women aren’t gold diggers, but women do care about social status and wealth to a much greater extent than men do. Make sure you’ve got your shit put together. Be ambitious, work hard, and apply yourself.
 
 These are the birds-eye view recommendations for each major pillar. I will go into far more detail—and make concrete, actionable recommendations that will get you noticeable results in 3-6 months.
-
-&nbsp;
 
 ---
 
@@ -323,7 +321,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, *[How to Make Friends and Influence People]({{ '0671027034' | amazon }}).* It’s a must-read if you want to improve your social skills.
+| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \*\[How to Make Friends and Influence People\](\{\{ '0671027034'  | amazon \}\}).\* It’s a must-read if you want to improve your social skills. |
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 
