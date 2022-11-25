@@ -3,10 +3,10 @@ date: 2020-04-04 17:19:00 -0400
 article_type: Article
 title: 6 signs of mental and emotional maturity
 permalink: /signs-of-maturity/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 image: /assets/images/posts/signs-of-maturity-growth.jpg
 description: >-
   How do you become more mature and improve your quality of life? Here are 6
