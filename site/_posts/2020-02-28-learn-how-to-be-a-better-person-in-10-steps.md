@@ -3,10 +3,10 @@ date: 2020-02-28 18:30:00 -0500
 article_type: Article
 title: Learn how to be a better person in 10 steps
 permalink: /10-ways-to-quickly-become-a-better-person/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 image: /assets/images/posts/how-to-be-a-better-person-ed-latimore.jpg
 description: >-
   If you want to be someone who people look up to and respect, then I develop
