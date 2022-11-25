@@ -3,10 +3,10 @@ date: 2021-12-21 08:00:00 -0500
 article_type: Article
 title: How to argue less in your relationship
 permalink: /how-to-stop-arguing-in-relationships/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   Arguments can ruin a relationship before it even starts. Discover how to stop
   frequent, ineffective arguments and build a healthy, happy relationship.
