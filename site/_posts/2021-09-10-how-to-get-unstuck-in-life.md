@@ -3,10 +3,10 @@ date: 2021-09-10 09:00:00 -0400
 article_type: Article
 title: The 5 things you need to do to get unstuck in life
 permalink: /how-to-get-unstuck-in-life/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 description: >-
   Discover how to get unstuck in life by increasing your motivation and power to
   act. This is the battle plan I use to get myself out of any and every rut.
@@ -81,7 +81,7 @@ It’s much easier to control your environment than it is to control your reacti
 
 **Tidy up your living and work spaces.** There’s an old saying that goes: *As within, so without; As without, so within*. In other words, a messy house can create stress, negative thoughts, self-doubt, and even decrease your self-esteem. Additionally, studies show that an unorganized work space increases distraction and stress and also costs you time and enjoyment. <sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
-<sup role="doc-noteref"><img src="/assets/images/posts/comealongway-1.jpeg" width="450" height="600" alt="My environment was not particularly tiddy...and the rest of my life was a mess" title="My environment was not particularly tiddy...and the rest of my life was a mess" /></sup>
+<sup role="doc-noteref"><img width="450" height="600" alt="My environment was not particularly tiddy...and the rest of my life was a mess" title="My environment was not particularly tiddy...and the rest of my life was a mess" src="/assets/images/posts/comealongway-1.jpeg" /></sup>
 
 You want to remove everything that can steal your time, energy, or positivity. If you’re in a rut, don’t have alcohol and weed lying around your house. Put any video games in the closet or get rid of them altogether. Remove the TV from your bedroom.
 
