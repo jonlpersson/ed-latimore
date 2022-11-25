@@ -3,10 +3,10 @@ date: 2021-01-11 00:00:00 -0500
 article_type: Article
 title: 10 actionable steps to get your life together in 2022
 permalink: /how-to-get-your-life-together/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
   Is it possible to turn your shitty life around? I'm living proof that you can.
