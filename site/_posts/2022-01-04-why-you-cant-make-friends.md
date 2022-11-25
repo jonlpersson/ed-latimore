@@ -3,10 +3,10 @@ date: 2022-01-04 09:00:00 -0500
 article_type: Article
 title: This is why you don’t have friends (and how to make some)
 permalink: /why-you-cant-make-friends/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 description: >-
   Despite more connectivity, everyone is lonely. Here are some practical reasons
   why you don’t have friends and how to change that.
