@@ -3,10 +3,10 @@ date: 2021-08-09 12:00:00 -0400
 article_type: Article
 title: 7 hobbies to meet women (effective)
 permalink: /hobbies-to-meet-women/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   To date successfully, you need hobbies that make you seem confident and
   interesting to women. Here's my framework for picking hobbies to meet women.
