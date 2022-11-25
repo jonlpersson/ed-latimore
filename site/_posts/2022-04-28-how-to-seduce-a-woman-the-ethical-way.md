@@ -6,7 +6,7 @@ permalink: /how-to-seduce-a-woman/
 tags:
   - dating-and-relationships
 categories:
-  - dating-and-relationships
+  - connecting-with-people
 description: >-
   If you're tired of reading stuff written by sleazy pick-up artists, this is an
   ethical guide with no tricks or manipulation.
