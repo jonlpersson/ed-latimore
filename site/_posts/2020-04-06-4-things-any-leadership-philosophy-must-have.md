@@ -3,10 +3,10 @@ date: 2020-04-06 20:27:00 -0400
 article_type: Article
 title: '4 crucial components of a leadership philosophy '
 permalink: /leadership-philosophy/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 image: /assets/images/posts/leadshipspeaking1.jpg
 description: >-
   There are 4 core values that make up a successful personal leadership
