@@ -3,10 +3,10 @@ date: 2021-09-23 09:00:00 -0400
 article_type: Article
 title: 'How to not be shy around girls: 7 ways that work'
 permalink: /how-not-to-be-shy-around-girls/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   Get nervous and twitchy around women? You're not alone. In this article, I'll
   show you how to stop being shy around girls and be an interesting guy.
