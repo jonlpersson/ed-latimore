@@ -3,12 +3,11 @@ date: 2020-03-14 14:21:00 -0400
 article_type: Article
 title: 5 ways to communicate and start a conversation
 permalink: /how-to-start-a-conversation/
-tags: 
+tags:
   - dating-and-relationships
   - how-to-make-friends
-categories: 
-  - dating-and-relationships
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 image: /assets/images/posts/ed-holding-court.jpg
 description: >-
   If you want to know how to talk to people, this article teaches five ways to
@@ -34,7 +33,7 @@ The good news is that even if you're shy and have difficulty connecting with peo
 
 As reported in a new [Tendermeets](https://www.tendermeets.com/experts-talk/celebrities-who-use-online-dating.html){: target="_blank"} article, it is easier than ever to find a lover in this modern world with everyone being just a click or a swipe away. Even if you're just looking to find like-minded friends, the following tips will also work to build your platonic social network as well. If you want to know how to start a good conversation, just follow these steps.
 
-##
+\#\#
 
 ![Making connections and conversation in Colombia](/assets/images/posts/ed-speaking-spanish.jpg "Making connections and conversation in Colombia")
 
