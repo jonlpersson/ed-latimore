@@ -3,12 +3,11 @@ date: 2020-10-29 18:05:00 -0400
 article_type: Article
 title: Don't do what makes you happy. Do this instead
 permalink: /do-what-makes-you-happy/
-tags: 
+tags:
   - change-your-perspective
   - how-to-build-an-audience
-categories: 
-  - change-your-perspective
-  - how-to-build-an-audience
+categories:
+  - how-to-make-money-on-social-media
 description: >-
   Most of us can't do what we love for money. That means we need a different way
   to find happiness through work. Read this to learn how.
