@@ -3,12 +3,11 @@ date: 2021-08-09 20:29:48 -0400
 article_type: Article
 title: How to forgive your parents
 permalink: /how-to-understand-and-forgive-your-parents/
-tags: 
+tags:
   - the-power-of-forgiveness
   - living-in-the-hood
-categories: 
-  - the-power-of-forgiveness
-  - living-in-the-hood
+categories:
+  - connecting-with-people
 description: >-
   Your parents are only human. Your challenge is remembering that despite the
   mistakes they may have made, they did the best they could with you.
