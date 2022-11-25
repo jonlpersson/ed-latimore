@@ -3,10 +3,10 @@ date: 2021-09-30 09:00:00 -0400
 article_type: Article
 title: How to get closer to a friend
 permalink: /how-to-get-closer-to-a-friend/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
 description: >-
   Tired of surface-level relationships? Want to be closer to the friends you
   have? This article shows you how to be closer with friends & loved ones
