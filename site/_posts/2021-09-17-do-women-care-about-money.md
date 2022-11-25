@@ -3,10 +3,10 @@ date: 2021-09-17 09:00:00 -0400
 article_type: Article
 title: Do women care about money? 7 reasons the answer is yes
 permalink: /do-women-care-about-money/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   Are all women gold-diggers? Not exactly, but they don't want to date broke
   men. Here’s why money is so important to the opposite sex
