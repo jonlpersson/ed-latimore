@@ -3,12 +3,11 @@ date: 2022-04-09 19:02:17 -0400
 article_type: Article
 title: The cost of success is like poker
 permalink: /the-cost-of-success/
-tags: 
+tags:
   - mental-toughness
   - change-your-perspective
-categories: 
-  - mental-toughness
-  - change-your-perspective
+categories:
+  - the-inner-work
 description: >-
   Nothing is free. But just because you pay for it is no guarantee that you’ll
   receive it. Read on to see why success is like poker and how to play the game.
