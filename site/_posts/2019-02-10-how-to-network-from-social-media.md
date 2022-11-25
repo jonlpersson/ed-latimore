@@ -3,10 +3,11 @@ date: 2019-02-10 23:00:00 -0500
 article_type: Article
 title: How to network from social media
 permalink: /how-to-network/
-tags: 
+tags:
   - how-to-make-friends
-categories: 
-  - how-to-make-friends
+categories:
+  - connecting-with-people
+  - how-to-make-money-on-social-media
 image: /assets/images/posts/ed-with-friends-networking.jpg
 description: >-
   If you want to build a great professional network, don't follow traditional
