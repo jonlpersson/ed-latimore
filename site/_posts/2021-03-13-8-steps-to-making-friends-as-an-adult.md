@@ -14,7 +14,7 @@ image: /assets/images/thumbnails/friendsafterboxingmatch.jpeg
 ---
 I saw a tweet the other day that read asking people how they made friends as an adult. Though the world is coming out of a social distancing protocol that left most people feeling lonely, this was echoed in a deeper sense.
 
-I've talked to many adults, and they feel like they don't have any true friends or meaningful relationships in their life. Adult lives are hectic and busy, but that's no reason to neglect the most important thing: our social relationships.&nbsp;
+I've talked to many adults, and they feel like they don't have any true friends or meaningful relationships in their life. Adult lives are hectic and busy, but that's no reason to neglect the most important thing: our social relationships.
 
 ![A tweet asking how you made friends as an adult](/assets/images/posts/how-to-make-friends-as-an-adult-question.png "A tweet asking how you made friends as an adult"){: width="450" height="219"}
 
@@ -26,7 +26,7 @@ Over the years, I've learned a thing or two about how to make strong friendships
 
 We were good friends when I was a broke alcoholic who had nothing to offer but my company—and even that wasn't the highest quality.
 
-We could blame the lockdowns for social isolation, but really, that's a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem.&nbsp;
+We could blame the lockdowns for social isolation, but really, that's a recent excuse. Go back to early 2020. Or 2019. Struggling to make friends was still a problem.
 
 I'll tell you a little about the right way to make new meaningful friendships beyond casual acquaintances, as well as the wrong way to go about it. Because knowing what to do gets you just as far as knowing what you shouldn't.
 
@@ -77,7 +77,7 @@ Too many adults, especially those socially stunted from college dorm life, think
 
 I get it. I used to try and meet people just like this, but you’re not going to build fulfilling or lasting relationships by meeting [random drinkers at bars](/sobriety-benefits/). Acting like an adult means forming your relationships with intention, with purpose. You know what you want from friendship and you know what you have to offer.
 
-True friendship starts with spending a lot of time around people who are good candidates for building lasting bonds with.&nbsp; This means finding people who have similar interests. However small that may be, that shared interest binds you together. That’s why you need something in your life that you are passionate about. It’s common ground on which you can build new friendships.
+True friendship starts with spending a lot of time around people who are good candidates for building lasting bonds with. This means finding people who have similar interests. However small that may be, that shared interest binds you together. That’s why you need something in your life that you are passionate about. It’s common ground on which you can build new friendships.
 
 ## Be passionate about something
 
@@ -155,7 +155,7 @@ They hate him, too. It’s creepy. People generally can’t stand the selfish ex
 
 ## Step out of your comfort zone
 
-This is huge for my introverts and people with social anxiety.&nbsp;
+This is huge for my introverts and people with social anxiety.
 
 If you’re gonna make friends as a full grown adult, there’s no reason to be intimidated. These approaches will get you started, but they’re not the entirety of friendship.
 
