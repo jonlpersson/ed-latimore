@@ -3,10 +3,10 @@ date: 2022-06-05 14:36:53 -0400
 article_type: Article
 title: 'How to be a man: The 9 qualities of masculinity'
 permalink: /how-to-be-a-man/
-tags: 
+tags:
   - self-improvement-for-men
-categories: 
-  - self-improvement-for-men
+categories:
+  - how-to-be-a-hot-guy
 description: >-
   All boys must develop these nine qualities of a masculine man to achieve their
   greatest potential. They are the passage into manhood.
