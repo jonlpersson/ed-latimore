@@ -3,12 +3,11 @@ date: 2022-04-10 14:45:06 -0400
 article_type: Article
 title: 'How to be an adult: 6 major markers of adulthood'
 permalink: /how-to-be-an-adult/
-tags: 
+tags:
   - change-your-perspective
   - mental-toughness
-categories: 
-  - change-your-perspective
-  - mental-toughness
+categories:
+  - the-inner-work
 description: >-
   If you stop doing just these 6 things, you'll be an adult by default. Learn
   which things to not do if you want to be taken seriously as a grown-up. 
