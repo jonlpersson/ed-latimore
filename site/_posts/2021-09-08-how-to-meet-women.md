@@ -3,10 +3,10 @@ date: 2021-09-08 09:00:00 -0400
 article_type: Article
 title: How to overcome fear of rejection and meet women
 permalink: /how-to-meet-women/
-tags: 
+tags:
   - dating-and-relationships
-categories: 
-  - dating-and-relationships
+categories:
+  - connecting-with-people
 description: >-
   Worried about getting rejected when you talk to girls? Interested in meeting
   women but not sure where to start? Start here.
@@ -87,8 +87,8 @@ Quiet that voice through meditation, time spent alone, journaling, etc.
 
 Here are two books that could help you with this:
 
-- *[Stillness is the Key]({{ "0525538585 | amazon }})*, by Ryan Holiday
-- *[Essentialism: The Disciplined Pursuit of Less]({{ "B00IWYP5NI" | amazon }})*, by Greg McKeown
+* | \*\[Stillness is the Key\]({{ "0525538585</td><td>&nbsp;amazon }})\*, by Ryan Holiday |
+* | \*\[Essentialism: The Disciplined Pursuit of Less\]({{ "B00IWYP5NI"</td><td>amazon }})\*, by Greg McKeown |
 
 Practicing stillness will help you gain the confidence to approach beautiful women without succumbing to the fear of rejection.
 
