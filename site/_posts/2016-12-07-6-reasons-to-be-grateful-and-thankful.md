@@ -24,8 +24,6 @@ If all you've ever known are good times and ease, you never really get a chance 
 
 {% include widgets/cta-email.html %}
 
-{% include widgets/toc.html heading="6 ways gratitude can change your life" list-items="Being grateful makes you unselfish, Gratitude lightens up your day, Gratitude increases your pain tolerance, The scientific benefits of gratitude, It makes you thankful, Gratefulness and thankfulness make you a creator in your life" list-ids="1-being-grateful-makes-you-unselfish, 2-gratitude-lightens-up-your-day, 3-it-increases-your-pain-tolerance, 4-the-scientific-benefits-of-gratitude, 5-it-makes-you-thankful-for-the-things-you-have, 6-gratefulness-and-thankfulness-make-you-a-creator-in-your-life" %}
-
 ## 1\. Being grateful makes you unselfish
 
 Expressing gratitude doesn't heal your wounds, fix your problems, or [undo your mistakes](/how-to-forgive-yourself-6-steps-to-let-the-past-go/). Gratitude doesn't make people suddenly respect you, like you, or love you.
