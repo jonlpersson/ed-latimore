@@ -3,10 +3,10 @@ date: 2021-11-10 08:00:00 -0500
 article_type: Article
 title: 'How to stand up for yourself: Practical solutions that work'
 permalink: /how-to-stand-up-for-yourself/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - connecting-with-people
 description: >-
   Don't be a pushover. Follow these practical steps to standing up for yourself
   and take back control of your life.
