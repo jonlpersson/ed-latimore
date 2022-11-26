@@ -3,10 +3,10 @@ date: 2021-03-10 13:14:00 -0500
 article_type: Article
 title: The 3 biggest reasons why people complain
 permalink: /why-do-people-complain/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - connecting-with-people
 description: >-
   The problem with complaining is that it makes you focus on the problem rather
   than the solution. Learn how to fix this fatal flaw.
