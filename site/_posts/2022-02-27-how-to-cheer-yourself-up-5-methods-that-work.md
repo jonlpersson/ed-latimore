@@ -1,10 +1,10 @@
 ---
 date: 2022-02-27 16:09:24 -0500
 article_type: Article
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 title: 'How to cheer yourself up: 6 methods that work'
 permalink: /how-to-cheer-yourself-up/
 description: >-
