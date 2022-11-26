@@ -3,10 +3,10 @@ date: 2020-08-26 16:13:00 -0400
 article_type: Article
 title: 19 life hacks to make life easier
 permalink: /life-hacks-to-make-life-easier/
-tags: 
+tags:
   - change-your-perspective
-categories: 
-  - change-your-perspective
+categories:
+  - the-inner-work
 description: >-
   Here are 19 life hacks that will help you get more out of life. These life
   hacks are my contribution from learning life the hard way.
