@@ -3,10 +3,10 @@ date: 2020-02-27 03:48:00 -0500
 article_type: Article
 title: Key mindset shifts to take control of your life
 permalink: /how-to-take-control-of-your-life/
-tags: 
+tags:
   - mental-toughness
-categories: 
-  - mental-toughness
+categories:
+  - the-inner-work
 image: /assets/images/posts/ed-speaking-3.jpg
 description: >-
   Taking control of your life relies on knowing exactly what you can control.
@@ -144,7 +144,7 @@ Weak intent gives up when things don’t go easily and as planned. Strong intent
 
 Intent is a way of thinking and this way of thinking will give you the power to take control of your life.
 
-As Mike Cernovich says in *[Gorilla Mindset]({{ "1514672111" | amazon }}),* “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.”
+| As Mike Cernovich says in \*\[Gorilla Mindset\]({{ "1514672111"</td><td>amazon }}),\* “It’s easier to act yourself into a new way of thinking than it is to think yourself into a new way of acting.” |
 
 ## Physical training helps you take control
 
