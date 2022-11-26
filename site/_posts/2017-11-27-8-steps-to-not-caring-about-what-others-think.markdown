@@ -3,10 +3,10 @@ date: 2017-11-27 00:00:00 -0500
 article_type: Article
 title: 8 ways to stop caring about what people think
 permalink: /how-to-stop-worrying-about-what-others-think-of-you/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - connecting-with-people
 image: /assets/images/posts/ed-chilling-boat.jpg
 description: >-
   I used to care what everyone else thought about me. Getting over the fear of
@@ -21,8 +21,6 @@ And the more we care, the worse off we are for it.
 But most of us are severely underachieving in life because we’re worried about other people's opinions. Instead of trying to live our own lives, we become self-conscious and worry more about fitting in and looking good. We all *want* to find our own version of greatness and fulfillment — we want to be true to ourselves — but a lot of us are held back by the opinions of others.
 
 In this article, I'll teach you how to stop caring what other people think so you can stop worrying about fitting in and start living the life you personally want to live.
-
-{% include widgets/toc.html heading="8 ways to stop caring about what other people think" list-items="Develop the self-confidence to accept who you are, Remember that what other people think of you is none of your business, Stop trying to be 'normal' and fit in, Focus on living your best life, Remember that no one really cares about you, Develop self-awareness, Focus on what you can control, Stop overthinking and take action" list-ids="1-develop-the-self-confidence-to-accept-who-you-are, 2-remember-that-what-other-people-think-of-you-is-none-of-your-business, 3-stop-trying-to-be-normal-and-fit-in, 4-focus-on-living-your-best-life, 5-remember-that-no-one-really-cares-about-you, 6-develop-self-awareness-humble-yourself-and-kill-your-ego, 7-focus-on-what-you-can-control, 8-stop-overthinking-and-take-action" %}
 
 ## 1) Develop the self-confidence to accept who you are
 
