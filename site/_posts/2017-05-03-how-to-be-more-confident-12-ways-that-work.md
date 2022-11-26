@@ -3,10 +3,10 @@ date: 2017-05-03 20:00:00 -0400
 article_type: Article
 title: 'How to be more confident: 12 ways that work'
 permalink: /how-to-build-confidence/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 image: /assets/images/thumbnails/2020/ed-press-conference.png
 description: >-
   Learn how to raise your self-esteem and eliminate self-doubt. If you follow
@@ -23,10 +23,6 @@ In fact, I'd say that a lack of confidence–not lack of ability–is the reason
 However, you're more successful when you have high self-esteem. But you only get high self-esteem from being successful. This is a classic "chicken and the egg" type of problem.
 
 In this post, I will teach you how to raise your self-esteem, become more self-confident, and eliminate self-doubt. If you follow these suggestions, you should have no problem becoming more confident.
-
-{% include widgets/toc.html heading="12 ways to be more confident" list-items="Stop the negative self-talk, Learn one new skill, Believe that nothing is impossible, Remember that your're insignificant, Take risks and expand your comfort zone, Do what makes you feel happy, Make more money to have more time, Use negative thoughts to your advantage, Fake it til you make it, Lie to yourself, Do not give up, Always give back to the world" list-ids="1-stop-the-negative-self-talk, 2-learn-one-new-skill, 3-believe-that-nothing-is-impossible-for-your-life, 4-remember-that-your-life-is-insignificant, 5-take-risks-and-expand-your-comfort-zone, 6-do-what-makes-you-feel-happy, 7-make-more-money-to-have-more-time, 8-use-negative-thoughts-to-your-advantage, 9-use-the-fake-it-til-you-make-it-mentality, 10-lie-to-yourself, 11-do-not-give-up, 12-always-give-back-to-the-world" %}
-
----
 
 ## 1\. Stop the negative self-talk
 
