@@ -20,8 +20,6 @@ And he’s showing people how it is possible to improve your immune system, incr
 
 Sound outlandish? Keep reading.
 
-{% include widgets/toc.html heading="Table of contents" list-items="Who is Wim Hof, The science, How to do it, The video course, Personal changes and benefits, Conclusion" list-ids="who-is-wim-hof, the-science-behind-the-method, full-body-breathing-power, the-wim-hof-method-online-course&ndash;app, personal-changes&ndash;benefits, conclusion" %}
-
 ## Who is Wim Hof?
 
 I first learned about Wim Hof from a friend of mine.
