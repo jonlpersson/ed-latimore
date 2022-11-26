@@ -3,12 +3,14 @@ date: 2019-11-22 02:54:00 -0500
 article_type: Article
 title: How to focus better and improve concentration
 permalink: /how-to-focus-better/
-tags: 
+tags:
   - how-to-become-superhuman
-categories: 
-  - how-to-become-superhuman
+categories:
+  - learning-skills
 image: /assets/images/posts/ed-inversion-table.jpg
-description: "Do you have trouble focusing on one thing? Do you easily get distracted by social media? I’ll teach you how to focus better."
+description: >-
+  Do you have trouble focusing on one thing? Do you easily get distracted by
+  social media? I’ll teach you how to focus better.
 ---
 Do you have trouble keeping your mind on one thing?
 
@@ -134,7 +136,7 @@ You don’t need to know what hermetic science is to make use of the book. You d
 
 You learn how to properly meditate, focus your mind on one thing, visualize, and truly turn your mind into a highly functional weapon. These exercises aren’t difficult, per se, but you will quickly realize the weakness of your ability to focus on one thing
 
-There are PDFs of the training all over the internet, but if you want to support my website, I’d love it if you picked up a copy through my affiliate link: Franz Bardon’s *[Initiation To The Hermetics]({{ "1885928122" | amazon }})*.
+| There are PDFs of the training all over the internet, but if you want to support my website, I’d love it if you picked up a copy through my affiliate link: Franz Bardon’s \*\[Initiation To The Hermetics\](\{\{ "1885928122"  | amazon \}\})\*. |
 
 ## 5\. Learn how to visualize
 
@@ -185,7 +187,7 @@ Caffeine improves reaction time, alertness, memory, and mood. This all translate
 
 In fact, from a mental perspective, [there isn’t much that caffeine doesn’t do.](https://nootropicsexpert.com/caffeine/){: target="_blank" rel="noopener"}
 
-### Modafinil&nbsp;
+### Modafinil
 
 Modafinil is a prescription medication used to promote wakefulness and treat excessive sleepiness.
 
