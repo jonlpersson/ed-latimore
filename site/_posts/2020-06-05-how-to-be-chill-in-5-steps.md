@@ -3,10 +3,10 @@ date: 2020-06-05 16:09:00 -0400
 article_type: Article
 title: How to be chill in 5 steps
 permalink: /how-to-be-chill/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - connecting-with-people
 description: "This article will teach the techniques I use to remain\_\"super chill\" and calm even when things get crazy."
 image: >-
   /assets/images/misc/how-to-be-chill-in-5-steps/how-to-be-chill-relaxing-ed-latimore.jpg
