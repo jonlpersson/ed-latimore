@@ -18,8 +18,6 @@ We can also end up being treated in a way that we feel is unacceptable. If we do
 
 Standing up for yourself means more than just standing up to thugs on the street or bullies at your workplace. It means standing up to our friends, co-workers, and loved ones. Be an assertive person, not a pushover.
 
-{% include widgets/toc.html heading="How to stand up for yourself" list-items="Know your red lines, Let your friends know the consequences of overstepping those red lines, Standing up to your enemies, Standing up for yourself is about creating the life you want" list-ids="know-your-red-lines, let-your-friends-know-the-consequences-of-overstepping-those-red-lines, standing-up-to-your-enemies, standing-up-for-yourself-is-about-creating-the-life-you-want" %}
-
 ## Know your red lines
 
 How can you stand up for yourself if you don’t know what is and isn’t behavior you’re prepared to tolerate?
