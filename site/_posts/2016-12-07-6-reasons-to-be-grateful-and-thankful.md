@@ -3,10 +3,10 @@ date: 2016-12-07 19:00:00 -0500
 article_type: Article
 title: 6 reasons to be grateful
 permalink: /6-reasons-to-be-grateful/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 image: /assets/images/posts/ed-beach.jpg
 description: >-
   Gratitude can make any situation better, but only if you understand it. Learn
