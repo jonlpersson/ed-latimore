@@ -3,10 +3,10 @@ date: 2021-11-04 09:00:00 -0400
 article_type: Article
 title: How to develop the courage to live for yourself
 permalink: /how-to-live-for-yourself/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 description: >-
   Develop the courage to prioritize yourself, stop people-pleasing, and live a
   life you love. Warning: people may hate you for choosing to love yourself. 
