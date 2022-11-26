@@ -3,10 +3,10 @@ date: 2019-07-20 00:00:00 -0400
 article_type: Article
 title: 5 tips for dealing with imposter syndrome
 permalink: /imposter-syndrome-test/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 image: /assets/images/posts/ed-signing-books.jpg
 description: >-
   I've struggled with imposter syndrome for a long time. Here are the five
