@@ -3,10 +3,10 @@ date: 2022-01-17 12:19:24 -0500
 article_type: Article
 title: 9 thoughts to help deal with the loss of a parent
 permalink: /dealing-with-the-loss-of-a-parent/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - connecting-with-people
 description: >-
   Having lost both of my parents, in different ways at different parts of my
   life, I wrote this to help anyone going through the same thing.
