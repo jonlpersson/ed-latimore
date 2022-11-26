@@ -3,11 +3,10 @@ date: 2020-10-14 13:53:00 -0400
 article_type: Article
 title: The difference between intuition and instinct
 permalink: /intuition-vs-instinct/
-tags: 
+tags:
   - mental-toughness
   - boxing-lessons
-categories: 
-  - mental-toughness
+categories:
   - boxing-lessons
 description: >-
   Intuition is the result of knowledge and knowledge is the result of
