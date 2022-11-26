@@ -3,10 +3,10 @@ date: 2019-10-16 00:00:00 -0400
 article_type: Article
 title: Why am I so unhappy? (5 reasons and real solutions)
 permalink: /unhappiness/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 image: /assets/images/posts/sadnessatthebeach.jpg
 description: >-
   Everyone wants to be happy. But so few people are. This post explores why you
