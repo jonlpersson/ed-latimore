@@ -3,10 +3,10 @@ date: 2017-01-11 19:00:00 -0500
 article_type: Article
 title: How to wake up earlier
 permalink: /how-to-wake-up-earlier/
-tags: 
+tags:
   - how-to-become-superhuman
-categories: 
-  - how-to-become-superhuman
+categories:
+  - boxing-lessons
 image: /assets/images/posts/ed-running.jpg
 description: >-
   This article will teach you a simple but powerful method to wake up earlier.
