@@ -3,10 +3,10 @@ date: 2020-02-13 16:14:00 -0500
 article_type: Article
 title: 'How to be happy again: 5 actionable steps'
 permalink: /how-to-be-happy-again/
-tags: 
+tags:
   - how-to-control-your-emotions
-categories: 
-  - how-to-control-your-emotions
+categories:
+  - the-inner-work
 image: /assets/images/posts/ed-happy-with-fish.jpg
 description: >-
   I've figured out how to be a happy person despite dealing with setbacks. Learn
