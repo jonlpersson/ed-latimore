@@ -3,10 +3,10 @@ date: 2022-09-22 09:00:00 -0400
 article_type: Review
 title: My all-too-honest Gorilla Mode Nitric review
 permalink: /gorilla-mode-nitric-review/
-tags: 
+tags:
   - how-to-become-superhuman
-categories: 
-  - how-to-become-superhuman
+categories:
+  - how-to-be-a-hot-guy
 description: >-
   A comprehensive review of the Gorilla Mode Nitric stim-free pre-workout: what
   I think of it, how I use it, and how it compares to other pre-workouts.
