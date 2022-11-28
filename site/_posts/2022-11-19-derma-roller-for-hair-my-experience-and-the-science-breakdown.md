@@ -3,9 +3,9 @@ date: 2022-11-19 11:25:00 -0500
 article_type: Article
 title: 'Derma roller for hair: My experience and the science breakdown'
 permalink: /derma-roller-for-hair/
-tags: 
-  - how-to-be-a-hot-guy
-categories: 
+tags:
+  - how-to-stop-balding
+categories:
   - how-to-be-a-hot-guy
 description: >-
   This article breaks down the research on how derma rolling works to reverse
