@@ -45,3 +45,9 @@ Herbal formulations today have become more attractive because of some particular
 This is significant because although the most comparable product is topical finasteride+minoxidil. That competitor is topical and much safe, but it's still not something you should have around pregnant women, and it can have smaller—albeit less severe—side effects.
 
 Let's dig into these powerful ingredients and why this product is a potent weapon in your fight to reduce hair loss.&nbsp;
+
+### Topical Saw Palmetto
+
+Saw palmetto is a plant native to North America that grows in swamps and marshes. It was used traditionally in folk medicine to treat urinary tract infections, prostate problems, and other conditions. Today, saw palmetto is commonly used to treat symptoms associated with an enlarged prostate gland, benign prostatic hyperplasia (BPH), and erectile dysfunction.
+
+Saw Palmetto is also a natural remedy for hair loss because it's a powerful, competitive, non-selective inhibitor of 5 alpha-reductase. This means it has the same DHT-reducing power as Propecia (finasteride). Saw Palmetto blocks the nuclear uptake of DHT in target cells and decreases DHT binding to androgen receptors by approximately 50%. Because it is naturally occurring, it doesn't have side effects of the same severity as finasteride ([Source](https://pubmed.ncbi.nlm.nih.gov/26010505/)). Side effects are rare and light, mainly **headache, nausea, diarrhea, and dizziness.**
