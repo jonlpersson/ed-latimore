@@ -85,3 +85,13 @@ Allantoin also works as a keratinocyte activator, promoting the proliferation of
 Rosemary is at least as effective as a 2% minoxidil solution for regrowing hair ([Source](https://pubmed.ncbi.nlm.nih.gov/25842469/)). It also motivates healthy hair growth by improving blood circulation and vascularity, helping the regeneration of follicles similar effect that is shown by minoxidil.
 
 If Rosemary is taken orally, it's safe at low doses. However, higher doses can cause coma, muscle spasms, vomiting, and miscarriage; therefore, pregnant women should avoid using rosemary products. Because Hairmetto is a topical solution, you avoid these medical conditions.&nbsp;
+
+### Lavender
+
+Lavender has been tested on the hair follicles of mice and has been shown to significantly increased the number of hair follicles, deepened hair follicle depth, and thickened the dermal layer ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843973/)).
+
+### Cedarwood
+
+Cedarwood gives the oil a nice smell but is also functional.&nbsp;
+
+This is the only ingredient on the list that does not have a scientific study behind it. What I found out about it is that it works by increasing circulation to the scalp, which is never a bad thing.&nbsp;
