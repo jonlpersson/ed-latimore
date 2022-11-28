@@ -51,3 +51,15 @@ Let's dig into these powerful ingredients and why this product is a potent weapo
 Saw palmetto is a plant native to North America that grows in swamps and marshes. It was used traditionally in folk medicine to treat urinary tract infections, prostate problems, and other conditions. Today, saw palmetto is commonly used to treat symptoms associated with an enlarged prostate gland, benign prostatic hyperplasia (BPH), and erectile dysfunction.
 
 Saw Palmetto is also a natural remedy for hair loss because it's a powerful, competitive, non-selective inhibitor of 5 alpha-reductase. This means it has the same DHT-reducing power as Propecia (finasteride). Saw Palmetto blocks the nuclear uptake of DHT in target cells and decreases DHT binding to androgen receptors by approximately 50%. Because it is naturally occurring, it doesn't have side effects of the same severity as finasteride ([Source](https://pubmed.ncbi.nlm.nih.gov/26010505/)). Side effects are rare and light, mainly **headache, nausea, diarrhea, and dizziness.**
+
+&nbsp;
+
+### Pumpkin Seed Oil
+
+Pumpkin seed oil comes from the seeds of the pumpkin plant. It contains high levels of unsaturated fatty acids, including linoleic acid, an essential omega-6 fatty acid. It also contains beta-sitosterol, which has inhibitory effects on the 5α-reductase enzyme ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6823528/#B3)). Linoleic acid also has inhibitory activity against 5α-reductase, the enzyme that converts testosterone into dihydrogen testosterone (DHT).
+
+Linoleic acid helps maintain healthy skin and hair follicles and improves blood circulation. It also reduces inflammation and swelling, making it useful for treating acne and psoriasis. This is due to its antimicrobial, antioxidant, cytoprotective, and anti-inflammatory properties.&nbsp;
+
+Oral administration of 400 mg of pumpkin seed oil has been shown to regrow hair.&nbsp; Along with inhibiting the effect of 5-alpha-reductase, pumpkin seed oil has been shown to inhibit the number of hair follicles in the telogen phase and increase the ones in the anagen phase.&nbsp;
+
+Pumpkin seed oil is also a fantastic DHT blocker. It inhibits the conversion of testosterone to dihydrotestosterone (DHT), which causes hair loss. In fact, it's one of the strongest inhibitors of DHT ever tested.
