@@ -63,3 +63,11 @@ Linoleic acid helps maintain healthy skin and hair follicles and improves blood 
 Oral administration of 400 mg of pumpkin seed oil has been shown to regrow hair.&nbsp; Along with inhibiting the effect of 5-alpha-reductase, pumpkin seed oil has been shown to inhibit the number of hair follicles in the telogen phase and increase the ones in the anagen phase.&nbsp;
 
 Pumpkin seed oil is also a fantastic DHT blocker. It inhibits the conversion of testosterone to dihydrotestosterone (DHT), which causes hair loss. In fact, it's one of the strongest inhibitors of DHT ever tested.
+
+### Castor Oil
+
+Castor oil is derived from the castor bean plant. As a little piece of random trivia, castor beans are poisonous due to the high level of ricin found in the plant. However, castor oil is not poisonous because the extraction process uses such high heat that the poison is denatured and inactivated.
+
+The data-driven studies on castor oil are somewhat inconclusive, but the anecdotal evidence is strong. After investigating it myself, I found castor oil seems to work by attacking the non-DHT-related causes of hair loss, mainly as an antimicrobial, anti-inflammatory, and anti-fungal agent.&nbsp;
+
+It's rich in ricinoleic acid, which has been shown to improve hair growth and prevent hair loss. It reduces inflammation, allows blood to flow to the hair root, and delivers nutrients. Ricinoleic acid is also a potent prostaglandin D2 inhibitor. This hormone-like substance is elevated in men suffering from male pattern baldness ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982925/)).
