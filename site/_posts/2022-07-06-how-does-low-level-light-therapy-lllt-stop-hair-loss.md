@@ -3,9 +3,9 @@ date: 2022-07-06 14:38:04 -0400
 article_type: Article
 title: How does Low-Level Light Therapy (lllt) stop hair loss?
 permalink: /low-level-light-therapy-for-hair-loss/
-tags: 
-  - how-to-be-a-hot-guy
-categories: 
+tags:
+  - how-to-stop-balding
+categories:
   - how-to-be-a-hot-guy
 description: >-
   Low-level laser (light) is a gamechanger for men losing their hair. But how
