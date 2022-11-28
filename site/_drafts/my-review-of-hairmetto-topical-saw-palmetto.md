@@ -1,5 +1,5 @@
 ---
-date:
+date: 2022-11-28 17:30:00 -0500
 article_type: Article
 title: My review of Hairmetto Topical Saw Palmetto
 permalink: /hairmetto-topical-saw-palmetto/
