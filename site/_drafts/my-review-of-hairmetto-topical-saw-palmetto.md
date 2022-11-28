@@ -71,3 +71,17 @@ Castor oil is derived from the castor bean plant. As a little piece of random tr
 The data-driven studies on castor oil are somewhat inconclusive, but the anecdotal evidence is strong. After investigating it myself, I found castor oil seems to work by attacking the non-DHT-related causes of hair loss, mainly as an antimicrobial, anti-inflammatory, and anti-fungal agent.&nbsp;
 
 It's rich in ricinoleic acid, which has been shown to improve hair growth and prevent hair loss. It reduces inflammation, allows blood to flow to the hair root, and delivers nutrients. Ricinoleic acid is also a potent prostaglandin D2 inhibitor. This hormone-like substance is elevated in men suffering from male pattern baldness ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982925/)).
+
+### Stinging Nettle
+
+Nettles are members of the nettle family, Urticaceae. They contain saponins, which have mild antiseptic properties.
+
+Nettles contain a compound called sesquiterpene lactones, or SLs. These compounds have been known to effectively prevented hair loss since the 1970s ([Source](https://pubmed.ncbi.nlm.nih.gov/29808617/)). The active ingredient in nettles is called allantoin, and it's thought to stimulate hair growth by increasing nitric oxide production.&nbsp;
+
+Allantoin also works as a keratinocyte activator, promoting the proliferation of cells that make up your hair follicle. Allantoin also has anti-inflammatory properties, so it can help reduce redness and irritation caused by dandruff and other conditions.&nbsp;
+
+### Rosemary
+
+Rosemary is at least as effective as a 2% minoxidil solution for regrowing hair ([Source](https://pubmed.ncbi.nlm.nih.gov/25842469/)). It also motivates healthy hair growth by improving blood circulation and vascularity, helping the regeneration of follicles similar effect that is shown by minoxidil.
+
+If Rosemary is taken orally, it's safe at low doses. However, higher doses can cause coma, muscle spasms, vomiting, and miscarriage; therefore, pregnant women should avoid using rosemary products. Because Hairmetto is a topical solution, you avoid these medical conditions.&nbsp;
