@@ -110,7 +110,7 @@ I apply Hairmetto on the days I use my derma roller because it doesn't aggravate
 
 ***Learn more about my experience with topical finasteride+minoxidil spray here—&gt;[My experience using topical finasteride+minoxidil spray](/topical-finasteride-and-minoxidil-spray/)***
 
-If you're confused about why I use a derma roller, I suggest you read this article about the powerful derma rolling procedure to stop hair loss—&gt;Derma roller for hair: My experience and the science breakdown
+If you're confused about why I use a derma roller, I suggest you read this article about the powerful derma rolling procedure to stop hair loss—&gt;[Derma roller for hair: My experience and the science breakdown](/derma-roller-for-hair/)
 
 It's easy to go overboard the first time you use the Harimetto oil because you have to get a feel for how much it expands. It has a great cedarwood smell, but it is oily. If you use it before you go to bed at night, don't be surprised if you get oil stains on your pillowcase. I'd imagine this is why it's primarily recommended for daytime wear.&nbsp;
 
