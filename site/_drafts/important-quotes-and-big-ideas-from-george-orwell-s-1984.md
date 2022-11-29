@@ -19,3 +19,17 @@ After seeing the book constantly mentioned on Twitter to describe how social med
 I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.&nbsp;
 
 ## Quotes About Control of Information
+
+"The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed--if all records told the same tale--then the lie passed into history and became truth."
+
+---
+
+“Who controls the past controls the future. Who controls the present controls the past.”
+
+---
+
+"In Newspeak there is no word for 'Science.'"
+
+---
+
+“Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”&nbsp;
