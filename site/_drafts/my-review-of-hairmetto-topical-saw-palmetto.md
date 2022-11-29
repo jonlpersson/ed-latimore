@@ -26,6 +26,8 @@ It's been part of my hair loss prevention and retention protocol for about 2 yea
 
 There are many ways to tackle male pattern baldness, such as surgery and medication, but most people don't know about this hair regrowth product or how it works. The best part is that it's simple and has no drug-related side effects, mainly because it's not a drug
 
+#### [**Purchase Hairmetto**](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-oil-prevent-hair-loss-restore-hair-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)
+
 ## Product details: Natural ingredients in Hairmetto
 
 The natural ingredients are:
@@ -134,4 +136,4 @@ This is a nice addition for any man looking to slow or reverse hair loss.&nbsp;
 
 If this article was helpful, I'd love for you to use my affiliate link to purchase it. It goes a long way in helping me create excellent current for my website.&nbsp;
 
-[**Purchase Hairmetto**](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-oil-prevent-hair-loss-restore-hair-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)
+#### [**Purchase Hairmetto**](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-oil-prevent-hair-loss-restore-hair-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)
