@@ -54,7 +54,9 @@ Let's dig into these powerful ingredients and why this product is a potent weapo
 
 Saw palmetto is a plant native to North America that grows in swamps and marshes. It was used traditionally in folk medicine to treat urinary tract infections, prostate problems, and other conditions. Today, saw palmetto is commonly used to treat symptoms associated with an enlarged prostate gland, benign prostatic hyperplasia (BPH), and erectile dysfunction.
 
-Saw Palmetto is also a natural remedy for hair loss because it's a powerful, competitive, non-selective inhibitor of 5 alpha-reductase. This means it has the same DHT-reducing power as Propecia (finasteride). Saw Palmetto blocks the nuclear uptake of DHT in target cells and decreases DHT binding to androgen receptors by approximately 50%. Because it is naturally occurring, it doesn't have side effects of the same severity as finasteride ([Source](https://pubmed.ncbi.nlm.nih.gov/26010505/)). Side effects are rare and light, mainly **headache, nausea, diarrhea, and dizziness.**
+Saw Palmetto is also a natural remedy for hair loss because it's a powerful, competitive, non-selective inhibitor of 5 alpha-reductase. This means it has the same DHT-reducing power as Propecia (finasteride). S
+
+aw Palmetto blocks the nuclear uptake of DHT in target cells and decreases DHT binding to androgen receptors by approximately 50%. Because it is naturally occurring, it doesn't have side effects of the same severity as finasteride ([Source](https://pubmed.ncbi.nlm.nih.gov/26010505/)).&nbsp;
 
 &nbsp;
 
@@ -106,7 +108,7 @@ This is the only ingredient on the list that does not have a scientific study be
 
 I apply Hairmetto on the days I use my derma roller because it doesn't aggravate the fresh puncture wounds from the roller. Normally I use my finasteride + minoxidil spray, but on the mornings that use the derma roller, I prefer to use Hairmetto because it doesn't have alcohol, so it doesn't sting.
 
-***Learn more about my experience with topical finasteride+minoxidil spray here—&gt;My experience using topical finasteride+minoxidil spray***
+***Learn more about my experience with topical finasteride+minoxidil spray here—&gt;[My experience using topical finasteride+minoxidil spray](/topical-finasteride-and-minoxidil-spray/)***
 
 If you're confused about why I use a derma roller, I suggest you read this article about the powerful derma rolling procedure to stop hair loss—&gt;Derma roller for hair: My experience and the science breakdown
 
