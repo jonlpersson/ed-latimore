@@ -107,3 +107,23 @@ If you're confused about why I use a derma roller, I suggest you read this artic
 It's easy to go overboard the first time you use the Harimetto oil because you have to get a feel for how much it expands. It has a great cedarwood smell, but it is oily. If you use it before you go to bed at night, don't be surprised if you get oil stains on your pillowcase. I'd imagine this is why it's primarily recommended for daytime wear.&nbsp;
 
 If the oil is a big deal, there is also an anti-hair loss serum. I've never used it, but the ingredient profile gives me no reason to think it wouldn't work.&nbsp;
+
+## My results with Hairmetto
+
+Hairmetto is a mainstay in my hair loss prevention and retention stack. I don't use it alone, so I don't know how it works alone. However, I did use it for quite some time until I got a subscription of topical minoxidil+finasteride. As far as I can tell, my hair thickness and density were great while I used it.
+
+At $60 a bottle, it's not much more expensive than what I pay for my finasteride+minoxidil, and it will last just as long.&nbsp;
+
+## Hairmetto's guarantee
+
+Because it takes a while for hair to grow, Hairmetto offer's a 180-day "Happiness guarantee." After 180 days of use, you can return the product directly to Hairmetto Industries if you see no results. This policy does not hold if you purchased from Amazon. You'll have to contact Amazon for their return policy.
+
+## Final thoughts on Hairmetto
+
+This is a fantastic product that will not only produce noticeable hair growth, but its organic ingredients will make your hair shine beautifully. It's also got a nice smell and is not any more expensive than any other topical hair treatment.
+
+There is a nice synergistic effect from derma rolling along with Hairmetto, but it's the same effect you'd gain derma rolling and using finasteride+minoxidil. The only difference is that you won't experience the sting from the alcohol content of the spray.
+
+This is a nice addition for any man looking to slow or reverse hair loss.&nbsp;
+
+If this article was helpful, I'd love for you to use my affiliate link to purchase it. It goes a long way in helping me create excellent current for my website.&nbsp;
