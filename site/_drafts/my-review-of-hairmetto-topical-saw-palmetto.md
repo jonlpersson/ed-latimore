@@ -116,6 +116,8 @@ It's easy to go overboard the first time you use the Harimetto oil because you h
 
 If the oil is a big deal, there is also an anti-hair loss serum. I've never used it, but the ingredient profile gives me no reason to think it wouldn't work.&nbsp;
 
+#### [&nbsp;Check out serum](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-serum-non-oily-for-daytime-wear-prevent-hair-loss-restore-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)
+
 ## My results with Hairmetto
 
 Hairmetto is a mainstay in my hair loss prevention and retention stack. I don't use it alone, so I don't know how it works alone. However, I did use it for quite some time until I got a subscription of topical minoxidil+finasteride. As far as I can tell, my hair thickness and density were great while I used it.
