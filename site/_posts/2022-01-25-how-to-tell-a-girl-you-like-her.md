@@ -30,8 +30,6 @@ In this article, I’ll give you my best tips on how to tell a girl you like her
 
 Keep reading to find out why.
 
-{% include widgets/toc.html heading="How to tell a girl you like her" list-items="Show don&rsquo;t tell, Fly clear of the friend zone, Don&rsquo;t obsess, Focus on yourself, Read the room, Determine if she&rsquo;s even interested" list-ids="show-dont-tell, fly-clear-of-the-friend-zone, dont-obsess, focus-on-yourself, read-the-room, determine-if-shes-even-interested" %}
-
 ## Show, don’t tell
 
 By the time you tell a girl you like her, it shouldn’t be a surprise.
