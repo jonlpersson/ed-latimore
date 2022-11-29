@@ -62,6 +62,10 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
+“Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.”
+
+---
+
 "The weaker the opposition, the tighter the despotism."
 
 ## Quotes about propaganda
