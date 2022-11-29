@@ -46,6 +46,8 @@ This is significant because although the most comparable product is topical fina
 
 Let's dig into these powerful ingredients and why this product is a potent weapon in your fight to reduce hair loss.&nbsp;
 
+![Hairmetto ingredients](/assets/images/drafts/hairmetto-ingredient-bottle.jpg "Hairmetto ingredients"){: width="450" height="600"}
+
 ### Topical Saw Palmetto
 
 Saw palmetto is a plant native to North America that grows in swamps and marshes. It was used traditionally in folk medicine to treat urinary tract infections, prostate problems, and other conditions. Today, saw palmetto is commonly used to treat symptoms associated with an enlarged prostate gland, benign prostatic hyperplasia (BPH), and erectile dysfunction.
