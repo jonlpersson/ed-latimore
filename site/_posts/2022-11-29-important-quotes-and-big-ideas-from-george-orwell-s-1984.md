@@ -88,4 +88,8 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
+“What can you do, thought Winston, against the lunatic who is more intelligent than yourself; who gives your arguments a fair hearing and simply persists in his lunacy?”
+
+---
+
 &nbsp;
