@@ -7,7 +7,9 @@ tags:
   - book-quotes-and-summaries
 categories:
   - quotes-and-book-summaries
-description:
+description: >-
+  Some people say that 2022 is more like the world of George Orwell's "1984." I
+  read the book and collected quotes so you can see for yourself. 
 image:
 ---
 George Orwell's novel 1984 was written as a warning about the dangers of an increasingly powerful government controlling people through propaganda and censorship. In particular, he feared that the new techniques being developed would allow governments to "turn off" individual minds and make them believe whatever they wanted.
