@@ -11,7 +11,7 @@ description: >-
   Hairmetto Topical Saw Palmetto is an all-natural alternative to topical
   finasteride+minoxidil solutions on the market. I've been using it in my hair
   loss stack for over a year. 
-image:
+image: /assets/images/drafts/approved-headshot.jpeg
 ---
 Hairmetto Hair Serum For Hair Loss is an all-natural solution hair loss treatment for men who want fuller hair and combat hair loss without:
 
