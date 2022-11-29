@@ -95,3 +95,15 @@ Lavender has been tested on the hair follicles of mice and has been shown to sig
 Cedarwood gives the oil a nice smell but is also functional.&nbsp;
 
 This is the only ingredient on the list that does not have a scientific study behind it. What I found out about it is that it works by increasing circulation to the scalp, which is never a bad thing.&nbsp;
+
+## How I use Hairmetto&nbsp;
+
+I apply Hairmetto on the days I use my derma roller because it doesn't aggravate the fresh puncture wounds from the roller. Normally I use my finasteride + minoxidil spray, but on the mornings that use the derma roller, I prefer to use Hairmetto because it doesn't have alcohol, so it doesn't sting.
+
+***Learn more about my experience with topical finasteride+minoxidil spray here—&gt;My experience using topical finasteride+minoxidil spray***
+
+If you're confused about why I use a derma roller, I suggest you read this article about the powerful derma rolling procedure to stop hair loss—&gt;Derma roller for hair: My experience and the science breakdown
+
+It's easy to go overboard the first time you use the Harimetto oil because you have to get a feel for how much it expands. It has a great cedarwood smell, but it is oily. If you use it before you go to bed at night, don't be surprised if you get oil stains on your pillowcase. I'd imagine this is why it's primarily recommended for daytime wear.&nbsp;
+
+If the oil is a big deal, there is also an anti-hair loss serum. I've never used it, but the ingredient profile gives me no reason to think it wouldn't work.&nbsp;
