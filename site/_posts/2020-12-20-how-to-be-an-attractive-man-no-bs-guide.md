@@ -201,9 +201,11 @@ This guide to dressing to help you look taller will make a big difference if you
 
 The middle group is the group that will benefit tremendously from shoes and insols that will add 2-3” of height. In the winter, this is easy because boots naturally add height. For the rest of the year, or for guys who live somewhere without a cold winter, these shoes will allow you to discretely add height.
 
-* [Shoe insoles to make you taller](https://amzn.to/3AnOIyk){: target="_blank" rel="noopener"}
-* [Sneakers to make you taller](https://amzn.to/3NFPvh2){: target="_blank" rel="noopener"}
-* [Dress shoes to make you taller](https://amzn.to/3NF2TCe){: target="_blank" rel="noopener"}
+The leader in shoes that make you taller for all sizes is [Conzuri](https://www.conzuri.com/). You discretely and easily add up to 2.5 inches to your height. That is significant enough for any man to change his dating prospects and business opporturnities.
+
+* Use discount code "EDWARD25477" to 15% off your order.
+
+#### [Get Conzuri shoes to become taller here](https://www.conzuri.com/)
 
 ### What clothes to wear
 
@@ -321,7 +323,7 @@ There are lots of resources that can help you hone your social skills. The YouTu
 
 {% include widgets/youtube.html id="kFsgTa17Xwo" caption="If you feel awkward during small talk you might want to watch this one." %}
 
-| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \*\[How to Make Friends and Influence People\]({{ '0671027034'</td><td>amazon }}).\* It’s a must-read if you want to improve your social skills. |
+| But as great as YouTube may be, very few things can beat a solid, battle-tested book. If you haven’t done so already, you need to pick up and read Dale Carnegie’s famed classic, \*\[How to Make Friends and Influence People\]({{ '0671027034'&lt;/td&gt;&lt;td&gt;amazon }}).\* It’s a must-read if you want to improve your social skills. |
 
 Take the knowledge you gain from that book and apply it to whatever groups of people you plan to make friends within.
 
