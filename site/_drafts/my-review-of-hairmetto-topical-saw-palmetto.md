@@ -100,6 +100,8 @@ This is the only ingredient on the list that does not have a scientific study be
 
 ## How I use Hairmetto&nbsp;
 
+![Using Hairmetto after dermarolling](/assets/images/drafts/more-hairmetto-for-ed-latimore.jpg "Using Hairmetto after dermarolling"){: width="450" height="338"}
+
 I apply Hairmetto on the days I use my derma roller because it doesn't aggravate the fresh puncture wounds from the roller. Normally I use my finasteride + minoxidil spray, but on the mornings that use the derma roller, I prefer to use Hairmetto because it doesn't have alcohol, so it doesn't sting.
 
 ***Learn more about my experience with topical finasteride+minoxidil spray here—&gt;My experience using topical finasteride+minoxidil spray***
