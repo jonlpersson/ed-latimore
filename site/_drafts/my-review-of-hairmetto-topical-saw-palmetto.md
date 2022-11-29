@@ -122,6 +122,8 @@ At $60 a bottle, it's not much more expensive than what I pay for my finasteride
 
 Because it takes a while for hair to grow, Hairmetto offer's a 180-day "Happiness guarantee." After 180 days of use, you can return the product directly to Hairmetto Industries if you see no results. This policy does not hold if you purchased from Amazon. You'll have to contact Amazon for their return policy.
 
+![Hairmetto's Guarantee Policy](/assets/images/drafts/hairmetto-guarantee-policy.png "Hairmetto's Guarantee Policy"){: width="450" height="278"}
+
 ## Final thoughts on Hairmetto
 
 This is a fantastic product that will not only produce noticeable hair growth, but its organic ingredients will make your hair shine beautifully. It's also got a nice smell and is not any more expensive than any other topical hair treatment.
