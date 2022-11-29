@@ -18,7 +18,7 @@ After seeing the book constantly mentioned on Twitter to describe how social med
 
 I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.&nbsp;
 
-## Quotes About Control of Information
+## Quotes about control of information
 
 "The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed--if all records told the same tale--then the lie passed into history and became truth."
 
@@ -33,3 +33,31 @@ I've collected the most impactful quotes and organized them according to their t
 ---
 
 “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”&nbsp;
+
+---
+
+"If the facts say otherwise, the facts must be altered."
+
+## Quotes about totalitariansim
+
+“All beliefs, habits, tastes, emotions, mental attitudes that characterize our time are really designed to sustain the mystique of the Party and prevent the true nature of present-day society from being perceived.”
+
+---
+
+"We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship."
+
+---
+
+"By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. Even the Catholic Church of the Middle Ages was tolerant by modern standards."
+
+---
+
+"To keep them in control was not difficult. All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working hours or shorter rations."
+
+---
+
+"The weaker the opposition, the tighter the despotism."
+
+---
+
+&nbsp;
