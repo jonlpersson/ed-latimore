@@ -3,9 +3,9 @@ date: 2022-07-03 18:31:00 -0400
 article_type: Article
 title: 10 ways for any man to look taller
 permalink: /how-to-look-taller/
-tags: 
+tags:
   - how-to-be-a-hot-guy
-categories: 
+categories:
   - how-to-be-a-hot-guy
 description: >-
   These style tips will not only make you look taller, but some of them may
@@ -31,11 +31,11 @@ Some guys scoff at this idea, thinking that they’ll be exposed when they take 
 1. Most of the time you’re around people, you have your shoes on. Until you’re in someone’s home or they visit yours, this won’t really matter. And if you’re in someone else‘s home, you’re almost certainly going to be wearing your shoes. If you aren’t, that brings me to the second worry.
 2. Increasing the appearance of being taller is just to get past human bias so people have a real chance to get to know you. Humans can’t help their programming. You might be the perfect match for someone, but because they feel a mismatch in attraction because you’re a little shorter, it never works out. This tactic can get you past that until they fall for you completely and a difference in two inches not only doesn’t matter, but it is unlikely to even be noticed.
 
-Here are some great recommendations for men’s footwear to make you look taller.
+The leader in shoes that make you taller for all sizes is [Conzuri](https://www.conzuri.com/). You discretely and easily add up to 2.5 inches to your height. That is significant enough for any man to change his dating prospects and business opporturnities.
 
-* [Shoe insoles to make you taller](https://amzn.to/3AnOIyk){: target="_blank"}
-* [Sneakers to make you taller](https://amzn.to/3NFPvh2){: target="_blank"}
-* [Dress shoes to make you taller](https://amzn.to/3NF2TCe){: target="_blank"}
+Use discount code "EDWARD25477" to 15% off your order.
+
+#### [Buy shoes to make you taller here at Conzuri](https://www.conzuri.com/)
 
 ## Lose body fat
 
