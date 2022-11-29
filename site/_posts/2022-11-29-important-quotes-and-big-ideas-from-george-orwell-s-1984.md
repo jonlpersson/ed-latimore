@@ -22,7 +22,7 @@ I've collected the most impactful quotes and organized them according to their t
 
 ## Quotes about control of information
 
-"The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed--if all records told the same tale--then the lie passed into history and became truth."
+"The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth."
 
 ---
 
@@ -58,6 +58,10 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
+“The masses never revolt of their own accord, and they never revolt merely because they are oppressed. Indeed, so long as they are not permitted to have standards of comparison, they never even become aware that they are oppressed."
+
+---
+
 "The weaker the opposition, the tighter the despotism."
 
 ## Quotes about propaganda
@@ -80,7 +84,7 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
-"They could only become dangerous if the advancement of industrial technique made it necessary to educate them more highly... but since military and commercial rivalry are no longer important, the level of popular education is declining."
+"They could only become dangerous if the advancement of industrial technique made it necessary to educate them more highly… but since military and commercial rivalry are no longer important, the level of popular education is declining."
 
 ---
 
