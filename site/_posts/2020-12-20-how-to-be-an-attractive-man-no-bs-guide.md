@@ -92,6 +92,15 @@ The principles are universal, however: your haircut should look clean. 99% of gu
 
 Only shave your head if you’re black or if you’re balding. If you are balding and have money, consider a hair transplant. I got one and it gave me a huge self-confidence boost. If you’re interested in learning more about the hair transplant process and my experience with it, read my article about [getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/).
 
+If an FUE transplant is too expensive, consider using:
+
+* [Topical finasteride+Minoxidil Spray](/topical-finasteride-and-minoxidil-spray/)
+* [Hairmetto Topical Saw Palmetto](/hairmetto-topical-saw-palmetto/)
+* [Derma Rolling](/derma-roller-for-hair/)
+* [Low-level laser therapy](/how-to-prevent-hair-loss/)
+
+All of these work pretty well to regrow your hair, but you have to catch it early (read my early hair loss prevention guide). If you're already too far gone, you may as well shave your head.&nbsp;
+
 ### Clean-shaven, light stubble, heavy stubble, or full beard?
 
 Facial hair is a signifier of age and social dominance. It can age you up or down and make you look more dominant or less dominant.
