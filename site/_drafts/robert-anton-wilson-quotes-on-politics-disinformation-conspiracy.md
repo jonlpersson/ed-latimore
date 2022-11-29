@@ -42,3 +42,15 @@ It's easy to attack people for being election deniers, but it's a heavy enough i
 > "The more omnipresent the secret police, the more likely it is that intelligent men and women will regard the government with fear and loathing."
 
 If this sounds like the general zeitgeist right now in America regarding law enforcement, it's not a coincidence.
+
+---
+
+> "The government, on discovering that growing numbers of citizens regard it with fear and loathing, will increase the size and powers of the secret police, to protect itself."
+
+Every reaction has an equal and opposite reaction. 2A people have good cause to be worried, perhaps?
+
+---
+
+> "Every conspiracy regards itself as an affinity group--men and women who share the same goals and work together. When you and I do it, it's just an affinity group. When the gang over there does it, it's a damnable conspiracy."
+
+Everyone thinks their version of reality is correct
