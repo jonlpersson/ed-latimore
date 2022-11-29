@@ -133,3 +133,5 @@ There is a nice synergistic effect from derma rolling along with Hairmetto, but 
 This is a nice addition for any man looking to slow or reverse hair loss.&nbsp;
 
 If this article was helpful, I'd love for you to use my affiliate link to purchase it. It goes a long way in helping me create excellent current for my website.&nbsp;
+
+[**Purchase Hairmetto**](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-oil-prevent-hair-loss-restore-hair-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)
