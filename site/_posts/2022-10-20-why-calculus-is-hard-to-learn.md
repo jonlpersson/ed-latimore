@@ -3,9 +3,9 @@ date: 2022-10-20 09:00:00 -0400
 article_type: Article
 title: Why is calculus hard?
 permalink: /why-is-calculus-hard/
-tags: 
-  - learning-skills
-categories: 
+tags:
+  - math-concepts
+categories:
   - learning-skills
 image: /assets/images/thumbnails/calculus-problems-on-paper.jpg
 description: >-
@@ -93,7 +93,7 @@ Algebra. Trigonometry. Geometry.
 **For Algebra, make sure you understand things like:**
 
 * Polynomial expressions – i.e. (x+15)(7x−12)
-* Quadratic equations – 11x&sup2; + 6x - 1 = 0
+* Quadratic equations – 11x² + 6x - 1 = 0
 * Logarithms – bx = a ⇔ logb a = x
 
 **Trigonometry skills that are essential to calculus include:**
