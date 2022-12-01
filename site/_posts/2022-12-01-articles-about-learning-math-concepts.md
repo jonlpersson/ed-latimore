@@ -11,7 +11,7 @@ description: >-
   These articles explain my unique approach to learning math and physics, along
   with discussing many of the real-world applications of mathematics, physics,
   probability, and the problem-solving mindset that comes along with it.
-image:
+image: /assets/images/drafts/math-concepts.jpg
 ---
 I am not a mathematician.
 
