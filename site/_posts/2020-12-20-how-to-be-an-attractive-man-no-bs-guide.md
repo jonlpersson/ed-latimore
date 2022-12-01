@@ -99,7 +99,7 @@ If an FUE transplant is too expensive, consider using:
 * [Derma Rolling](/derma-roller-for-hair/)
 * [Low-level laser therapy](/how-to-prevent-hair-loss/)
 
-All of these work pretty well to regrow your hair, but you have to catch it early (read my early hair loss prevention guide). If you're already too far gone, you may as well shave your head.&nbsp;
+All of these work pretty well to regrow your hair, but you have to catch it early (read my early hair loss prevention guide). If you're already too far gone, you may as well shave your head.
 
 ### Clean-shaven, light stubble, heavy stubble, or full beard?
 
