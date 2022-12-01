@@ -10,11 +10,17 @@ categories:
 description:
 image:
 ---
-Like most men, I suffer from hair loss. I’m not sure when it started exactly, but I know that other people were able to notice the top missing by the time I was 26, my receding hairline was easily visible by age 28, at 29 my drill sargent at basic training made fun of me, and when my barber suggested it might be time to shave my head when I was 30.
+Like most men, I suffer from hair loss.
 
-I never started shaving my head with a razor, but I did start to give myself a buzz cut with clippers on the lowest grade possible. The first time I did it, I got a pretty uneven cut, but I kept with it (and invested in a hair trimmer) until it didn’t look too bad. I didn’t mind it, but ultimately I spent the money and got a hair transplant.
+I’m not sure when it started exactly, but I know that other people were able to notice the top missing by the time I was 26. My receding hairline was easily visible by 28, at 29 my drill sargent at basic training made fun of me, and 30 is when my barber suggested it might be time to shave my head.
 
-This article uses my experience and observations to help answer whether you should shave your head. Or, at the very least, use an electric shaver to give yourself a buzzcut. After you go through this article, you should have a pretty good idea if shaving your head is the right move for you.
+I never started shaving my head with a razor, but I did start to give myself a buzz cut with clippers on the lowest grade possible.
+
+The first time I did it, I got a pretty uneven cut, missing a lot of the hair on the back of my head, but I kept with it (and invested in a hair trimmer) until it didn’t look too bad. I didn’t mind it, but ultimately I spent the money and got a hair transplant.
+
+This article uses my experience and observations to help answer whether you should shave your head. Or, at the very least, use an electric shaver to give yourself a buzzcut.
+
+After you go through this article, you should have a pretty good idea if shaving your head is the right move for you.
 
 ## You’re probably going to lose your hair
 
