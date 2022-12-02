@@ -3,13 +3,14 @@ date: 2022-11-03 09:00:00 -0400
 article_type: Article
 title: How to dress like a man (beginner's guide)
 permalink: /how-to-dress-like-a-man/
-tags: 
+tags:
   - how-to-be-a-hot-guy
-categories: 
+categories:
   - how-to-be-a-hot-guy
-image: /assets/images/thumbnails/ed-dressed-in-business-casual-attire.jpg
+image: /assets/images/posts/dress-like-a-man.jpeg
 description: >-
-  The way you dress tells a lot about you. These tips will teach you how to dress like the man you want to be.
+  The way you dress tells a lot about you. These tips will teach you how to
+  dress like the man you want to be.
 ---
 The majority of men today dress like their psychological growth was stunted somewhere between 15 years old and their early twenties.
 
@@ -19,18 +20,17 @@ Playing low-effort games gets you low-effort prizes. Putting some effort and del
 
 As men, we can’t afford to be laissez-faire in this department or any other area of importance, since our value is graded on how we carry ourselves and the respect we command.
 
-I get it...
+I get it…
 
 New York Fashion Week isn’t your thing. I’ll let you in on a secret…
 
 It’s not mine either.
 
-But what _is_ my thing is consciously communicating my value through the little details. Unless you intend to communicate with the world that your mom fixes your Hot Pockets while you game all night with your friends in the basement that she pays for, it’s time to elevate your wardrobe and start dressing like a grown-up.
+But what *is* my thing is consciously communicating my value through the little details. Unless you intend to communicate with the world that your mom fixes your Hot Pockets while you game all night with your friends in the basement that she pays for, it’s time to elevate your wardrobe and start dressing like a grown-up.
 
 The beautiful thing is that it’s not hard.
 
-**This article will provide you with actionable steps to start dressing like a man, so you can raise your status and win in the game of life. **
-
+\*\*This article will provide you with actionable steps to start dressing like a man, so you can raise your status and win in the game of life. \*\*
 
 ## Find your Personal Style
 
@@ -41,8 +41,6 @@ Dressing like a man does **not** mean that you have to start wearing business su
 As a matter of fact, wearing a suit every day works against you as a man if it’s not congruent with your natural personal style. This is the style of dress that fits your sensibilities as a man.
 
 Your personal style is linked to the three foundational archetypes of masculinity:
-
-
 
 * **Refined** – These men are more clean-cut and thrive in a world of structure and hierarchy. Think businessmen, professionals, and men who prefer order and status.
 * **Rakish** – These men operate well outside of the confines of convention and are deeply in touch with the nature of human beings. Think artists, rebels, and philosophers.
@@ -62,17 +60,13 @@ Learning the archetypes gives you such an advantage because it helps you get str
 
 Check out his [“Dress Like a Man” course](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq) to learn how to dress well, while staying true to your personality and strengths.
 
-
 ## Go for fit and quality
 
 Men’s fashion also doesn’t mean buying up trendy fashion brands to keep up with what’s cool. Fashion trends have their place, but the best thing you can do is buy well-made clothes that fit your body type.
 
 Here’s how your main styling choices should fit:
 
-
 ### Shirts
-
-
 
 * Your t-shirt sleeves should stop mid-bicep. Use the two-finger test – get a different size if you can fit more than two fingers inside the sleeve without stretching the fabric. It should fit snug, but loose enough to pinch an inch or two on both sides of your torso.
 * Turtlenecks should stretch to fit your body during the fall and winter months.
@@ -80,9 +74,7 @@ Here’s how your main styling choices should fit:
 * Choose shirts that are made with high-quality materials, like cotton, suede, wool, and cashmere.
 * Stock up on options like well-fitting polo shirts, crewnecks, button-down shirts, button-up shirts, dress shirts, and sweaters.
 
-
 ### Pants
-
 
 * Buy pants that fit snugly, not too baggy and not too tight, without needing a belt. They should stop at your shoes without bunching up.
 * Choose high-quality, durable, well-made jeans that are black or blue. Avoid wearing super trendy jeans.
@@ -90,21 +82,15 @@ Here’s how your main styling choices should fit:
 * Wear pants made from quality materials like denim, corduroy, and cotton fabric.
 * Avoid skinny jeans and sweatpants. Instead, go for pant options like chinos, or a pair of jeans in the carpenter, boot cut, or tapered fit styles.
 
-
 ### Smart Casual and Business Casual
 
 Every man needs a mix of some smart casual and business casual outfits.
-
-
 
 * Stock up on no fewer than two quality suits – navy blue for business casual and formal occasions. Purchase at least one black for funerals. Get a blazer that you can mix and match with outfits of different styles.
 * Buy suits made with materials like wool, sharkskin, tweed, and herringbone.
 * Consider suit styles like modern fit and notch lapel. Try to avoid the super slim tie and lapel trend that’s plagued modern suiting.
 
-
 ### Footwear
-
-
 
 * Know the size of your dress shoes so that your feet and toes aren’t scrunched up.
 * Ditch the dirty sneakers and flip flops, and look into casual footwear, like Converse All-Stars, loafers, and chelsea boots.
@@ -117,7 +103,6 @@ Once you master these fundamentals, put some meat on the bones by creating a sty
 
 If you want an all-encompassing guide to being attractive as a man, check out this guide [here](https://edlatimore.com/how-to-be-an-attractive-man/).
 
-
 ## Visit the tailor
 
 Professional tailoring is the best investment you can make if you want your clothing to have the best fit.
@@ -128,20 +113,16 @@ Quality tailors know how to accentuate everything from your face shape to your h
 
 Your tailor can also suggest some style choices based on your body type.
 
-
 ## Final Thoughts
 
 Dressing like a man can unlock your personality and charisma and can change the way the world reacts to you. Like it or not, you tell people how to judge you based on these sorts of details.
 
 Let’s recap what you need to know…
 
-
-
 * Refined, Rakish, or Rugged… Which one are you? When you understand your masculine archetype, it clears the way for you to build your ideal wardrobe.
 * Learn the correct way for your shirts and pants to fit. Choose quality materials, and ditch baggy or sloppy attire. Invest in some stylish, comfortable shoes, and get a couple of different suits that are perfect for business casual or formal occasions.
 * Hire a tailor to give your clothing the perfect fit for your body type.
 
 As men, we’re obligated to create our value. Start with these men’s fashion tips, and while you’re at it, learn about the [9 qualities of masculinity](https://edlatimore.com/how-to-be-a-man/), and ways you can [become more physically attractive to women](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/).
-
 
 {% include widgets/summary.html id="dress-like-a-man" %}
