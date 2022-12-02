@@ -84,8 +84,6 @@ It’s impossible to read a book AND zone out or fall asleep. The moment you clo
 
 You can’t draw any meaning from the words without focusing. This means that reading even the worst book automatically demands concentration from you. This means that writing will also be an effective medium for transmitting information. It’s impossible to read something without at least engaging in some mode of critical thinking, even if it’s just to determine the sensibility of what is being said.
 
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
-
 ## Writing makes you mentally tougher
 
 If you want to do anything with your writing other than express your thoughts, you have to share your writing. Sharing your writing does two things for you: it gets you to face your fears about being criticized and exposes you to criticism. This is an important right of passage for anyone who wants to build a following.
@@ -121,5 +119,3 @@ Ultimately, I think you should write if you have something to say.
 Your personality will steer you towards the appropriate genre for your expression or whatever idea you feel is important enough to put out in the world. Still, if you’re called to share your experiences and perspectives with people, you have no choice but to write.
 
 To do anything else is to deprive the world of your unique perspective
-
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
