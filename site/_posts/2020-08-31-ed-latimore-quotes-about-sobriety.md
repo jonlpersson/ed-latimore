@@ -262,8 +262,6 @@ You’re no longer afraid to connect with other people, but you’re more likely
 
 It’s tough to build a new social life if you stop drinking, but the quality of your friendships will be much higher if you can overcome social anxiety without relying on alcohol.
 
-#### [Check out more Ed Latimore original quotes](https://edlatimore.com/ed-latimore-original-quotes)
-
 ---
 
 Getting drunk is like putting on a pair of sunglasses.
