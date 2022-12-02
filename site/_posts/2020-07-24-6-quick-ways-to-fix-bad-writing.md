@@ -54,8 +54,6 @@ By reading what's already been written and reflecting on what you enjoyed about 
 
 If you don't enjoy creating it, your writing career will be over before it gets started.
 
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
-
 ## 3) Live and build a life
 
 If you haven't done anything in your life, what the hell could you possibly write about?
@@ -131,5 +129,3 @@ There is nothing you can't correct. All you need to do in the first draft is get
 6. Don't worry about finding the best words in your first draft
 
 These tips aren't exhaustive, but they get you started in improving a lot of your writing. My other article here covers even more tips to improve your ability to express yourself with the written word.
-
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
