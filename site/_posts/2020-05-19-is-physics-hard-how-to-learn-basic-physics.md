@@ -3,9 +3,9 @@ date: 2020-05-19 19:46:00 -0400
 article_type: Article
 title: Is physics hard? How to learn basic physics
 permalink: /is-physics-hard-how-to-study-and-learn-basic-physics/
-tags: 
-  - learning-skills
-categories: 
+tags:
+  - math-concepts
+categories:
   - learning-skills
 image: /assets/images/posts/ed-graduation-day.png
 description: >-
