@@ -3,11 +3,11 @@ date: 2022-08-02 09:00:00 -0400
 article_type: Article
 title: How to dress a muscular male body
 permalink: /how-to-dress-as-a-muscular-man/
-tags: 
+tags:
   - how-to-be-a-hot-guy
-categories: 
+categories:
   - how-to-be-a-hot-guy
-image: /assets/images/posts/ed-latimore-muscular-body.png
+image: /assets/images/posts/ed-dressed-musclar.png
 description: >-
   How muscular men can enhance physical attractiveness with better clothing
   choices
