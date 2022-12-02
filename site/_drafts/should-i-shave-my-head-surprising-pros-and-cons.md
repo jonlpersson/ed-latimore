@@ -78,7 +78,7 @@ It can make you look way worse than other guys at a similar level of hair loss. 
 2. This is typically when men try commercially promoted, FDA-approved solutions like Rogaine (minoxidil) or Propecia (oral finasteride). The problem (aside from the horrendous side effects of finasteride) is that these treatments are pretty good at stopping any more hair from falling out but not so great at regrowing it.<br><br>Also, because of the growth cycle of hair, it will take 8-12 weeks to know if it’s working. And even then, “working” usually just means your hair stops falling out, not regrowing.
 3. Related to the last point, finasteride is a prescription-only medication (at least in the United States) because it treats benign prostate hyperplasia.<br><br>Guys who don’t feel comfortable talking about their balding conversation with their dermatologist but still want to try it will resort to buying from [shady internet pharmacies that might send them garbage.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736&#40;15&#41;00394-3/fulltext){: target="_blank" rel="noopener"}
 
-If you are level 3 and have the discipline to follow a daily routine and the patience to see it through, my early hair loss protocol is what you should follow at this point. It directs you how to use
+If you are level 3 and have the discipline to follow a daily routine and the patience to see it through, my [early hair loss protocol](/how-to-prevent-hair-loss/) is what you should follow at this point. It directs you how to use
 
 * [Derma rolling](/derma-roller-for-hair/)
 * [Topical minoxidil+finasteride](/topical-finasteride-and-minoxidil-spray/)
@@ -89,7 +89,7 @@ To reverse hair loss. If you’re already pretty advanced in your balding, this 
 
 The only caveat is that you’ll have to continue to do it. If you’re looking for something a little more permanent, the next option is for you.
 
-You’re level 4 on the Norwood, you hate discipline, and you have disposable income
+### You’re level 4 on the Norwood, you hate discipline, and you have disposable income
 
 At level 4, you have two stylistic choices: shave your head or get a hair transplant. For the first choice, if that’s what you want to do, your appearance will dramatically improve—even if you’re under-muscled, overfat, pale, or under age 30. Unlike level 3, there is no drawback to shaving it now.
 
