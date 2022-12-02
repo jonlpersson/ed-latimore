@@ -38,7 +38,7 @@ At the age of 35, this figure is up to 66%.
 
 That’s 2/3rds of men who will have to deal with a receding hairline, thinning crown, or disappearing temples before they’re officially considered middle age.
 
-Losing your hair may be natural, but that doesn’t mean it looks great. There isn’t a single man alive whose appearance improves when his hairline starts to run away from his forehead or the top of his head starts to reflect light, and he needs to use sunscreen on it.
+Losing your hair may be natural, but that doesn’t mean it looks great. There isn’t a single man alive whose appearance improves when his hairline starts to run away from his forehead or the top of his head starts to reflect light.
 
 As a result, several solutions have sprung up to help men combat the ugliness of shrinking hair follicles. Of all the options available, the cheapest one—by far— is shaving your head. However, you may not have to if you dread shaving your head.
 
@@ -48,11 +48,13 @@ So far, it’s only been implied, but let me explicitly state something importan
 
 If you’re in this article looking for that information, I can’t help you. This article by Allure handles the questions for women—&gt;[11 Things I Learned From Shaving My Head](https://www.allure.com/story/what-i-learned-from-shaving-my-head){: target="_blank" rel="noopener"}
 
-I’m also assuming that you don’t want to shave your head. You enjoy having long hair and have no desire to rock a buzz or crew cut. This article is strictly for men who are suffering from hair loss and are on the fence about whether to rock the bald look.
+I’m also assuming that you don’t ***want*** to shave your head. You enjoy having long hair and have no desire to rock a buzz or crew cut. This article is strictly for men who are suffering from hair loss and are on the fence about whether to rock the bald look.
 
 Here are the reasons why, as a man, you should not shave your head.
 
 ### You’re Level 2 on the Hamilton-Norwood scale
+
+![If you're only at level 2, don't worry](/assets/images/drafts/norwood-hamilton-baldness-scale.jpeg "If you're only at level 2, don't worry"){: width="450" height="453"}
 
 The Hamilton-Norwood scale is s a seven-type scale used to measure and categorize the stages of male pattern baldness. The difference between level 3 is when you start to see a thinning crown, and your hairline is no longer completely even. Level 2 is hardly noticeable balding.
 
