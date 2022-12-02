@@ -106,8 +106,6 @@ Scientific or technical writing demands that your communication is efficient, cl
 
 Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve and the better writer you'll become.
 
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
-
 ## 5) Take free advice you get
 
 If you put your writing out there, you will get feedback. You need to listen to it.
@@ -170,7 +168,7 @@ This is similar to the effect that SEO has on blog posts.
 
 While a writer's popularity is not the sole judge of their talent, the number of likes and retweets you receive, and the followers you gain at least tell you if your writing is engaging and interesting.
 
-#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
+***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## 8) Start a blog to learn the basics of SEO
 
@@ -415,8 +413,6 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 * "I ***carelessly*** wrote the letter" can be rewritten as "I **scribbled** the letter" or "I **doodled** the letter."
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
-
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
 
 ## A recap of 15 simple tips to write your best content:
 
