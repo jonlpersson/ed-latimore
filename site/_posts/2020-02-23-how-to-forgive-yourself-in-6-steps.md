@@ -70,8 +70,6 @@ Here are the steps to get over the negative feelings you have about yourself, yo
 
 ***(Read: "[Why Am I So Unhappy?](/unhappiness/)")***
 
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
-
 ## 1\. Accept that you've made mistakes in the past
 
 When we make mistakes, we have 3 typical responses. We either:
@@ -157,8 +155,6 @@ Viewing what you've experienced through this lens makes it very difficult to fee
 Will you learn from the experience or see it as a reason to put yourself down? Will you get better, or will you become bitter?
 
 You have to consciously choose how to interpret your life and choose a lens that allows you to forgive your mistakes if you're in a better place and trying to improve.
-
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 ## 6\. Love and respect yourself
 
