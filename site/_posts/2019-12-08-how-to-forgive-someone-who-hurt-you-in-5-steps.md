@@ -92,8 +92,6 @@ However, the next step in forgiving them is realizing that their ugliness is no 
 
 I know that it's a stretch to imagine that you have the same desires as a rapist or murderer, but humans are–despite the technology, law, and order–just one blown power grid away from returning to our true nature.
 
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
-
 For most of human history, we have been savages towards one another.
 
 It's only modern convenience that allows us to transcend our base nature. Anyone who's ever been to a dense, inner-city, low-income area can attest to the fact that people are only as evolved as their options.
@@ -206,7 +204,5 @@ Forgiving someone doesn’t mean that anything in the world or the person has ch
 It just means they no longer command real estate in your mind and heart. Only a sucker would forget why a person required forgiveness in the first place.
 
 In this way, it's the only way we can learn from our mistakes.
-
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 {% include widgets/cta-email.html %}
