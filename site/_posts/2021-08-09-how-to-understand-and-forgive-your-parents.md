@@ -46,8 +46,6 @@ I don't say this to excuse things that were detrimental and negative. I also don
 
 I say it because it's true, and sometimes the only way you know this is time, personal growth, and experience.&nbsp;
 
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
-
 ## The parent-child relationship is a complicated one
 
 It's easy for a kid in his early 20s to be angry because he doesn't really understand how challenging life is. Also, it's easier to focus on the things you missed or made you feel bad.
@@ -101,7 +99,5 @@ If you can do this, perhaps it'll be easier for you to see your parent's failing
 We tend to see our parents as larger than life because they are at the start of our lives. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier&nbsp;[to forgive them](/how-to-forgive-someone/)&nbsp;for anything we can't let go.
 
 The rest is up to you.&nbsp;
-
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
 
 ***Note: If you were the victim of legitimate abuse at the hands of your parents, then this post does not apply. I don't have all the answers, but I want to clarify that this newsletter is not an attempt to teach you how to forgive true scum.***
