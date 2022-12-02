@@ -26,13 +26,13 @@ After you go through this article, you should have a pretty good idea if shaving
 
 Even if neither of your parents lost their hair, the numbers aren’t on your side.
 
-More than 4 in 5 men suffer from some type of male pattern baldness. This is not to be confused with baldness related to health issues or nutritional deficiencies. This is androgenic alopecia.
+More than 4 in 5 men suffer from some type of male pattern baldness. This is not to be confused with baldness related to health issues or nutritional deficiencies. The type of baldness that you're going to suffer from is the dreaded "androgenic alopecia."
 
-This type of hair loss is due to genetics and can’t be fixed with a simple diet fix or detox—although you can try.
+This hair loss is due to genetics and can’t be fixed with a simple diet fix or detox—although you can try.
 
 By the age of 50, nearly 85% of men will have to confront the question of whether or not to shave their heads.
 
-25% percent of men are will have some type of thinning hair.
+By 25, 25% of men are will have some type of thinning hair.
 
 At the age of 35, this figure is up to 66%.
 
