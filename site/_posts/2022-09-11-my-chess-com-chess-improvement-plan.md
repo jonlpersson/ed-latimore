@@ -3,14 +3,14 @@ date: 2022-09-11 16:50:00 -0400
 article_type: Article
 title: My Chess.com Chess Improvement Plan
 permalink: /chess-improvement-plan/
-tags: 
+tags:
   - learning-skills
-categories: 
+categories:
   - learning-skills
 description: >-
   This is a plan that I'll be implementing to improve my rating on Chess.com in
   the rapid and daily games. Not for OTB but could work.
-image: /assets/images/drafts/ed-latimore-playing-chess.png
+image: /assets/images/posts/ed-latimore-chess-improvement-plan.png
 ---
 This post outlines the plan I’ll follow to increase my ELO chess rating on [chess.com](http://chess.com/){: target="_blank"}. While I may play in some over-the-board (OTB) tournaments, I’ll be working this plan on [chess.com](http://chess.com/){: target="_blank"} because I can always log on and get a game at any time control.
 
