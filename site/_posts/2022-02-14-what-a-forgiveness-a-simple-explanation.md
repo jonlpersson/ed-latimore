@@ -56,8 +56,6 @@ They have taken your peace and safety so now you have to "get them back" or "get
 
 When you say that you're getting "payback" for an offense, what you're really saying—almost literally—is that this person owes you back pay for the distress they caused you and you're coming to collect it.
 
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
-
 ## What does an act of forgiveness accomplish?
 
 When you forgive someone, you're no longer interested in getting paid back what they owe you in emotional distress. Like when a creditor forgives a monetary debt, the victim forgives an emotional debt.
@@ -141,5 +139,3 @@ Forgiveness gives you a set of tools to keep each problem self-contained and sol
 [**How to let go of the past:**](/how-to-let-go-of-the-past/)&nbsp;Letting go of the past is a valuable skill you need to master. It's vital to forgiveness and healthy life, in general. When you're shackled to the past, you can't live fully in the present, which means you can't create a better future.
 
 **[37 Quotes about forgiveness:](/Ed-latimore-forgiveness-quotes/)** These are original quotes I've written about forgiveness. They will help you let go of the painful past, live better in the present, and approach the future without trauma and guilt.
-
-#### [Read more of my articles about forgiveness](https://edlatimore.com/the-power-of-forgiveness)
