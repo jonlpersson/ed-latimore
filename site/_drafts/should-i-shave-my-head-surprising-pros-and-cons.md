@@ -60,7 +60,9 @@ The Hamilton-Norwood scale is s a seven-type scale used to measure and categoriz
 
 At this level, it doesn’t look bad, especially if you’re a white guy. This is not to say it won’t get worse, but level 2 still has an even, albeit somewhat receding, hairline and little to no thinning in the crown.
 
-Level 2 is likely where you notice your hair loss, but no one else can. Technically speaking,Class 2 on the Norwood Scale marks the beginning of a receding hairline and the appearance of a more triangular “widow's peak” on the forehead. This early phase may be unsettling to some, and there’s a good chance you will move up the Hamilton-Norwood scale, but if you’re just there, there’s no reason to panic. You look fine.
+Level 2 is likely where you notice your hair loss, but no one else can.
+
+Technically speaking,Class 2 on the Norwood Scale marks the beginning of a receding hairline and the appearance of a more triangular “widow's peak” on the forehead. This early phase may be unsettling to some, and there’s a good chance you will move up the Hamilton-Norwood scale, but if you’re just there, there’s no reason to panic. You look fine.
 
 ### You’re Level 3 on the Hamilton-Norwood scale and you’re disciplined
 
