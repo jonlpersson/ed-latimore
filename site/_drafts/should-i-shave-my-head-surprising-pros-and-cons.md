@@ -72,18 +72,18 @@ This is the level where it becomes clear that you’re losing hair. Depending on
 * Age: under 23 years old
 * Muscularity: no man looks good being under-muscled—especially a balding man
 
-it can make you look way worse than other guys at a similar level of hair loss. Level 3 is a problematic place for a lot of men for 3 main reasons:
+It can make you look way worse than other guys at a similar level of hair loss. Level 3 is a problematic place for a lot of men for 3 main reasons:
 
-1. Approaching this level under 30 will make you look older than you are, but shaving it can make you (potentially) look younger. However, a guy with a shaved head at 28 will look aged, regardless. Unless you have dark skin of a certain shade and dark hair, a buzz will exacerbate the appearance of hair loss.
-2. This is typically when men try commercially promoted, FDA-approved solutions like Rogaine (minoxidil) or Propecia (oral finasteride). The problem (aside from the horrendous side effects of finasteride) is that these treatments are pretty good at stopping any more hair from falling out but not so great at regrowing it. Also, because of the growth cycle of hair, it will take 8-12 weeks to know if it’s working. And even then, “working” usually just means your hair stops falling out, not regrowing.
-3. Related to the last point, finasteride is a prescription-only medication (at least in the United States) because it treats benign prostate hyperplasia. Guys who don’t feel comfortable talking about their balding conversation with their dermatologist but still want to try it will resort to buying from [shady internet pharmacies that might send them garbage.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736&#40;15&#41;00394-3/fulltext){: target="_blank" rel="noopener"}
+1. Approaching this level under 30 will make you look older than you are, but shaving it can make you (potentially) look younger. However, a guy with a shaved head at 28 will look aged, regardless.<br><br>Unless you have dark skin of a certain shade and dark hair, a buzz will exacerbate the appearance of hair loss.
+2. This is typically when men try commercially promoted, FDA-approved solutions like Rogaine (minoxidil) or Propecia (oral finasteride). The problem (aside from the horrendous side effects of finasteride) is that these treatments are pretty good at stopping any more hair from falling out but not so great at regrowing it.<br><br>Also, because of the growth cycle of hair, it will take 8-12 weeks to know if it’s working. And even then, “working” usually just means your hair stops falling out, not regrowing.
+3. Related to the last point, finasteride is a prescription-only medication (at least in the United States) because it treats benign prostate hyperplasia.<br><br>Guys who don’t feel comfortable talking about their balding conversation with their dermatologist but still want to try it will resort to buying from [shady internet pharmacies that might send them garbage.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736&#40;15&#41;00394-3/fulltext){: target="_blank" rel="noopener"}
 
 If you are level 3 and have the discipline to follow a daily routine and the patience to see it through, my early hair loss protocol is what you should follow at this point. It directs you how to use
 
-* Derma rolling
-* Topical minoxidil+finasteride
-* Topical saw palmetto
-* Low-level light therapy
+* [Derma rolling](/derma-roller-for-hair/)
+* [Topical minoxidil+finasteride](/topical-finasteride-and-minoxidil-spray/)
+* [Topical saw palmetto](/hairmetto-topical-saw-palmetto/)
+* [Low-level light therapy](/low-level-light-therapy-for-hair-loss/)
 
 To reverse hair loss. If you’re already pretty advanced in your balding, this protocol will just be an exercise in futility, as it’s likely that your hair follicles are miniaturized past the point of no return. But if you’re only at Norwood stages late 3-early 4, this protocol will work to get your hair back in 3-6 months.
 
