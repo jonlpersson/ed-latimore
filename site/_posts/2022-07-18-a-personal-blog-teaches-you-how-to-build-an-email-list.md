@@ -58,8 +58,6 @@ A person has to actively sign up for your mailing list. This means they have dec
 
 To give you an analogy, this is like someone trusting you so much that they give you the keys to their house.&nbsp;
 
-#### [Check out my other articles on developing writing skills](https://edlatimore.com/writing-skills)
-
 Above all others, the first rule of building an email list is to never abuse this sacred relationship. If people sign up to your email list for information, always give them information. Even if you sell to them, do it after giving them the day's information.
 
 One thing that I have learned (the hard way) is that people don’t mind when you sell things on your email list. They mind if your email list sells in every email without any accompanying “free” information.
@@ -213,5 +211,3 @@ This is good if you’re selling, but I question how useful they are for a gener
 * Write your list often. Every message doesn’t have to be a marketing email. It’s a good idea to just communicate with your list and give value.
 * Write authentically to your list. You don’t have to worry about search engines or social media algorithms. You can be honest, raw, and real.
 * Make sure that your headline hits one of the “Four C’s.”
-
-#### [Check out my other writing content](https://edlatimore.com/writing-skills)
