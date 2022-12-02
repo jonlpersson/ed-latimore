@@ -70,8 +70,6 @@ The more engagement a post gets, the more it tells the algorithm that it’s lik
 
 Posts with more engagement make your profile grow, and they make it more discoverable. Writing a good caption makes your post more likely to be discovered. Before we get to the exact details of writing a perfect Instagram caption, there is one last thing about engagement that needs to be mentioned.&nbsp;
 
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
-
 ### Measuring engagement
 
 Now we understand not only why we want engagement, but we have a goal for each post: Within the first few hours, you want an engagement rate of .05-1%, with engagement rate being defined as the number of likes, comments, shares, or saves divided by your total following.&nbsp;
@@ -234,5 +232,3 @@ These four play on biological needs we can’t shake. Your engagement will skyro
 Your captions can elevate your IG experience. You will notice that even girls who take pictures of themselves in provocative poses still use captions. Sex sells, but words are indispensable.&nbsp;
 
 The rest is up to you.
-
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
