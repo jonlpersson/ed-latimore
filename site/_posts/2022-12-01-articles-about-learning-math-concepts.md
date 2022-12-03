@@ -1,7 +1,7 @@
 ---
 date: 2022-12-01 18:10:00 -0500
 article_type: Article
-title: Articles about learning math concepts
+title: Math concepts to learn
 permalink: /math-concepts/
 tags:
   - math-concepts
@@ -29,7 +29,7 @@ This is the general issue people have before they move on to conceptual math ski
 
 In this article, I give a few ways to help develop your numeracy skills so you can solve harder math problems.
 
-[***Read ******7 ways to improve your numeracy skills***](/numeracy-skills/)
+[***Read \*\*****7 ways to improve your numeracy skills*\*\*](/numeracy-skills/)
 
 ## 12 reasons why math is important (and how to get better)
 
@@ -39,7 +39,7 @@ Number sense is money sense and it goes a long way in opening many doors for you
 
 But those aren’t the reasons to become proficient at math. This article breaks down the 12 reasons why math is important and tells you some ways you can get better at math.
 
-[***Read ******12 reasons why math is important***](/why-is-math-important/)
+[***Read \*\*****12 reasons why math is important*\*\*](/why-is-math-important/)
 
 ## 8 unexpected reasons why math is so hard
 
@@ -47,7 +47,7 @@ I wrote this article because I was contemplating what made math so difficult for
 
 This new understanding of how to approach math also made me appreciate why a lot of people find even basic math difficult. I wrote this article to dig into the main reasons I’ve found that people find math so hard. I also give some solutions to help you approach the subject with more confidence.
 
-[***Read ******8 unexpected reasons why math is so hard***](/why-is-math-so-hard/)
+[***Read \*\*****8 unexpected reasons why math is so hard*\*\*](/why-is-math-so-hard/)
 
 ## A boxer teaches how betting odds work
 
@@ -63,7 +63,7 @@ I taught students how to think during my 3 years as a full-time math and physics
 
 This article goes through the 4-step problem-solving process that I taught to all of them. It worked to not only get them through school but to make them better thinkers in life.
 
-[***Read ******The easy 4 step problem-solving process***](/problem-solving-process/)
+[***Read \*\*****The easy 4 step problem-solving process*\*\*](/problem-solving-process/)
 
 ## Is physics hard? How to learn basic physics
 
@@ -73,7 +73,7 @@ I suppose they aren’t wrong, per se. The real challenge with physics is that y
 
 It’s also a discipline that requires quantitative reasoning, a strong vocabulary, and the ability to visualize things. This article talks about all the things you have to do to successfully navigate a physics class.
 
-[***Read ******Is physics hard? How to learn basic physics***](/is-physics-hard-how-to-study-and-learn-basic-physics/)
+[***Read \*\*****Is physics hard? How to learn basic physics*\*\*](/is-physics-hard-how-to-study-and-learn-basic-physics/)
 
 ## How to get better at math in 7 simple steps
 
@@ -83,7 +83,7 @@ I walk you through how I—[at the age of 30](https://www.clearscope.io/going-ba
 
 Here you will not only find inspiration (I show my high school transcripts to prove how hopeless I was) but you’ll also get real techniques to help you become a more effective mathematician.
 
-[***Read ******How to get better at math in 7 simple steps***](/how-to-get-better-at-math/)
+[***Read \*\*****How to get better at math in 7 simple steps*\*\*](/how-to-get-better-at-math/)
 
 ## Why is calculus so hard?
 
