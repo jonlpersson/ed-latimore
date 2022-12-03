@@ -154,6 +154,8 @@ Look the list of Hollywood celebrities who have made the bald look sexy are all 
 
 All of these guys are in at least great shape. Some of even former athletes. You can’t control your genetics but you can control your work ethic.
 
+![Jason Statham, The Rock, and Vin Diesel all have have physiques and they're bald](/assets/images/drafts/jacked-and-bald.png "Jason Statham, The Rock, and Vin Diesel all have have physiques and they're bald"){: width="960" height="540"}
+
 ### Your confidence has taken a hit
 
 Hair loss can affect anyone's confidence level and self-confidence. Shaving your head may feel strange initially, but many men feel less stressed and more confident after no longer trying to disguise undisguisable balding with stupid comb-over hairstyles.
