@@ -132,6 +132,8 @@ Brothas have been the unofficial spokesmen for bald heads for as long as I can r
 
 If you aren’t black, the next best thing is having a darker complexion. Generally speaking, the darker you are, the better you’ll look if you rock the bald head. Granted, I’m black and decided not to rock it, but it didn’t look too bad when I decided to do it. I suspect my dark skin and the next feature played along with this.
 
+![Brothas have always been more accepted with bald heads](/assets/images/drafts/black-bald-men-1.png "Brothas have always been more accepted with bald heads"){: width="960" height="540"}
+
 ### You’re jacked
 
 Numerically, my guidelines for being jacked are simultaneously having:
