@@ -109,9 +109,11 @@ First, I want to get something somewhat controversial out of the way: there’s 
 
 It only looks weird to you because you're used ot seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.&nbsp;
 
-If you can’t grow facial hair, then try applying minoxidil on your face. It’s been proven to cause hair growth when applied to the face.
+If you can’t grow facial hair, then try applying minoxidil on your face. [It’s been proven to cause hair growth when applied to the face.](https://www.fatherly.com/style/does-minoxidil-work-for-beard-growth-what-men-need-to-know)
 
-If you’re out of shape, then hit the gym and start to muscle up and reduce fat. If you look at all the sex symbols in the media who are bald, they put tremendous energy into their physiques. It’s as if to compensate for the genetics they can’t control, they make up for it by becoming total physical units.
+If you’re out of shape, then hit the gym and start to muscle up and reduce fat.
+
+If you look at all the sex symbols in the media who are bald, they put tremendous energy into their physiques. It’s as if to compensate for the genetics they can’t control, they make up for it by becoming total physical units.
 
 ## When should I shave my head?
 
