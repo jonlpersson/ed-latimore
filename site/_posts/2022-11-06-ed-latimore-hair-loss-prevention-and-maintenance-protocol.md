@@ -237,6 +237,8 @@ Scientist have posited a numnber of ways this could work, but no one is quite su
 
 The research that evaluated the efficacy of this technique conducted the trials with a 5% minoxidil solution to get even more powerful results ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)). Fortunately, using a topical minoxidil solution is part of the hair loss prevention protocol.&nbsp;
 
+Check out my article that goes more in-depth into dermarolling and how it works here—&gt;[Dermarolling for hair loss](/derma-roller-for-hair/)
+
 ## Low level laser therapy (LLLT)
 
 Low level laser therapy is a powerful technology that use low power lasers to stimulate growth. The technology works because low level lasers have been shown to activate mitochondria.
