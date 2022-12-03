@@ -7,8 +7,11 @@ tags:
   - how-to-stop-balding
 categories:
   - how-to-be-a-hot-guy
-description:
-image:
+description: >-
+  To shave your head or not to shave your head? As someone who has rocked the
+  bald head but currently chooses not to, I give you my opinion on when you
+  should—or shouldn't. 
+image: /assets/images/drafts/latimore-shaved-head-without-glasses.jpg
 ---
 Like most men, I suffer from hair loss.
 
