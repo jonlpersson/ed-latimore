@@ -91,19 +91,25 @@ The only caveat is that you’ll have to continue to do it. If you’re looking 
 
 ### You’re level 4 on the Norwood, you hate discipline, and you have disposable income
 
-At level 4, you have two stylistic choices: shave your head or get a hair transplant. For the first choice, if that’s what you want to do, your appearance will dramatically improve—even if you’re under-muscled, overfat, pale, or under age 30. Unlike level 3, there is no drawback to shaving it now.
+![Ed Latimore at Norwood 4 but hair cut short](/assets/images/drafts/bearded-jacked-balding.jpeg "This was shortly before I decided to a hair transplant. I'm Norwood 3-4 ish."){: width="450" height="450"}
 
-So, if you don’t want to do that—or you’re objectively better looking with hair—then you’ll have to get a hair transplant. On top of that, once you get the hair transplant, you’ll have to follow the hair loss protocol. I initially developed the protocol to keep the hair that wasn’t transplanted from falling out later.
+At level 4, you have two stylistic choices: shave your head or get a hair transplant.
+
+For the first choice, if that’s what you want to do, your appearance will dramatically improve—even if you’re under-muscled, overfat, pale, or under age 30. Unlike level 3, there is no drawback to shaving it now.
+
+So, if you don’t want to do that—or you’re objectively better looking with hair—then you’ll have to get a hair transplant. Once you get the hair transplant, you’ll have to follow the [hair loss protocol](/how-to-prevent-hair-loss/). I initially developed the protocol to keep the hair that wasn’t transplanted from falling out later.
 
 The good thing about following the protocol after you get a transplant is that you’re much more motivated to keep up the simple routine in the protocol because you aren’t trying to regrow a barren head of hair. In many ways, it’s a fresh start for hair growth journey.
 
-To read the details of my transplant and the science of why you need to follow the protocol after you get a hair transplant, read my experience—&gt;My experience getting an FUE hair transplant.
+To read the details of my transplant and the science of why you need to follow the protocol after you get a hair transplant, read my experience—&gt;[My experience getting an FUE hair transplant.](/my-personal-experience-getting-an-fue-hair-transplant/)
 
 ### You can’t grow facial hair or you’re terribly out of shape
 
 First, I want to get something somewhat controversial out of the way: there’s no such thing as a weird-shaped head. Some guys think they’ll look strange with a bald head, but I assure you that you look even worse with splotches of missing hair all over your scalp.
 
-Consider this reason more of a sign of things you need to do. If you can’t grow facial hair, then try applying minoxidil on your face. It’s been proven to cause hair growth when applied to the face.
+It only looks weird to you because you're used ot seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.&nbsp;
+
+If you can’t grow facial hair, then try applying minoxidil on your face. It’s been proven to cause hair growth when applied to the face.
 
 If you’re out of shape, then hit the gym and start to muscle up and reduce fat. If you look at all the sex symbols in the media who are bald, they put tremendous energy into their physiques. It’s as if to compensate for the genetics they can’t control, they make up for it by becoming total physical units.
 
