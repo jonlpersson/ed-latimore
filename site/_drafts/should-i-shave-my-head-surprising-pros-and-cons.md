@@ -114,7 +114,7 @@ To read the details of my transplant and the science of why you need to follow t
 
 First, I want to get something somewhat controversial out of the way: there’s no such thing as a weird-shaped head. Some guys think they’ll look strange with a bald head, but I assure you that you look even worse with splotches of missing hair all over your scalp.
 
-It only looks weird to you because you're used ot seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.&nbsp;
+It only looks weird to you because you're used to seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.&nbsp;
 
 If you can’t grow facial hair, then try applying minoxidil on your face. [It’s been proven to cause hair growth when applied to the face.](https://www.fatherly.com/style/does-minoxidil-work-for-beard-growth-what-men-need-to-know)
 
