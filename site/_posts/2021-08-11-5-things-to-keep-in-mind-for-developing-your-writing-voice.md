@@ -52,8 +52,6 @@ Speaking is a communication tool that is almost identical to writing. The only d
 
 You can do things with speech that you can’t do with the written word and vice-versa. You have to write how you speak, but you also must remember that people read differently than they listen.&nbsp;
 
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
-
 ## Edit like you're writing a high school paper
 
 When it comes to writing how you speak, you can correct differences during the editing process.
@@ -101,5 +99,3 @@ Writing how you speak simultaneously overcomes writer’s block and allows you t
 Authenticity is engaging, and engagement is how you build a fanbase as a writer. If you follow these steps, you'll develop a unique writing voice that enables you to stand out as an exceptional writer.&nbsp;
 
 The rest is up to you.
-
-#### [Check out my other articles about developing your writing skills](https://edlatimore.com/writing-skills)
