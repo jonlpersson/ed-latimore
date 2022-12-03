@@ -69,6 +69,8 @@ Technically speaking,Class 2 on the Norwood Scale marks the beginning of a reced
 
 ### You’re Level 3 on the Hamilton-Norwood scale and you’re disciplined
 
+![Norwood level 3. It's clear I'm losing my hair](/assets/images/drafts/norwood-level-3-latimore.jpeg "Norwood level 3. It's clear I'm losing my hair"){: width="250" height="250"}
+
 This is the level where it becomes clear that you’re losing hair. Depending on your
 
 * Skin tone: you look like you need to get some sun
