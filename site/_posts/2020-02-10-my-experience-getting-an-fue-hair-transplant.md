@@ -18,7 +18,7 @@ Well, I’ve had two Follicular Unit Extraction (FUE) hair transplants for a tot
 
 If you’re losing hair and thinking about a hair restoration procedure (FUE or FUT), then make sure you read this article before you go through with it.
 
-I tell you what to expect, how much it costs, and I show you some before and after pictures so you can see the magic of hair transplantation for yourself. If you're looking how to stop hair loss early, then read [my solutions to hair loss.](/how-to-prevent-hair-loss/)
+I tell you what to expect, how much it costs, and I show you some before and after pictures so you can see the magic of hair transplantation for yourself. If you're looking how to stop hair loss early, then read my [solutions to hair loss](/how-to-prevent-hair-loss/).
 
 ## The Depression And Embarrassment Of Hair Loss
 
@@ -173,7 +173,7 @@ With that said, depending on your ethnicity and hair texture, things can end up 
 
 These transplanted hairs will not fall out, but it is entirely possible for other hair to fall out that was still on the top of your head.
 
-To deal with this, it is recommended that you continue taking minoxidil and finasteride. Dr. Krenitsky recommended I use finasteride, but [some of the stories I've heard about it freaked me out.](https://www.rxlist.com/propecia-side-effects-drug-center.htm){: target="_blank"} Instead, I follow a protocol I created to keep my hair intact my remaining hair in tact—&gt;[How to stop hair loss](/how-to-stop-hair-loss/)
+To deal with this, it is recommended that you continue taking minoxidil and finasteride. Dr. Krenitsky recommended I use finasteride, but [some of the stories I've heard about it freaked me out.](https://www.rxlist.com/propecia-side-effects-drug-center.htm){: target="_blank"} Instead, I follow a protocol I created to keep my hair intact my remaining hair in tact—&gt;[How to stop hair loss](/how-to-prevent-hair-loss/)
 
 ![15 months after hair transplant](/assets/images/posts/2020/15-months-after-fue-transplant.png){: width="560" height="315"}
 
