@@ -90,7 +90,9 @@ If you are level 3 and have the discipline to follow a daily routine and the pat
 * [Topical saw palmetto](/hairmetto-topical-saw-palmetto/)
 * [Low-level light therapy](/low-level-light-therapy-for-hair-loss/)
 
-To reverse hair loss. If you’re already pretty advanced in your balding, this protocol will just be an exercise in futility, as it’s likely that your hair follicles are miniaturized past the point of no return. But if you’re only at Norwood stages late 3-early 4, this protocol will work to get your hair back in 3-6 months.
+To reverse hair loss.
+
+If you’re already pretty advanced in your balding, this protocol will just be an exercise in futility, as it’s likely that your hair follicles are miniaturized past the point of no return. But if you’re only at Norwood stages late 3-early 4, this protocol will work to get your hair back in 3-6 months.
 
 The only caveat is that you’ll have to continue to do it. If you’re looking for something a little more permanent, the next option is for you.
 
