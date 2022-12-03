@@ -183,6 +183,8 @@ I’ve cited the research on the efficacy of those two herbal treatments in redu
 
 The only downside is that it’s easy to put on too much in a short amount of time, so your scalp becomes overly greasy. I apply it at night after I shower and shampoo, so this created a messy pillow case, but it’s an easy fix.
 
+***If you want to try out Hairmetto's Topical Saw Palmetto, go here—&gt;[Hairmetto Topical Saw Palmetto](https://myhairmetto.com/collections/featured-collection/products/hairmetto-topical-oil-prevent-hair-loss-restore-hair-growth?sca_ref=2891415.6uKNGBDyri&amp;utm_source=instagram&amp;utm_medium=socialmedia&amp;utm_campaign=affiliate)***
+
 ## Topical minoxidil+finasteride combination
 
 This combination is a game changer.
