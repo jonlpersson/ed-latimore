@@ -42,7 +42,7 @@ However, the people who bite on your “call to action” (CTA) and sign up for 
 
 Because the internet is always changing, this article follows the most general strategy you can adapt for building your email list. It won’t matter what tools you have at your disposal.
 
-If you have an internet connection and the ability to write ([here are some articles to help you improve your writing ability](https://edlatimore.com/writing-skills)), you’ll always be able to use these list-building strategies.
+If you have an internet connection and the ability to write (Learn how to become better writer here—&gt;[15 ways to become a better writer](/how-to-write-better-and-be-a-better-writer/)), you’ll always be able to use these list-building strategies.
 
 ## The power of email marketing
 
