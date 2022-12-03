@@ -135,6 +135,8 @@ Numerically, my guidelines for being jacked are simultaneously having:
 
 If you hit these numbers, you might experience an increase in attractiveness because it exacerbates your masculinity and physicality. At the very least, you won’t suffer an attractiveness penalty.
 
+***\[Read more in my guide on becoming a more attractive man here—&gt;[How to become an attractive man](/how-to-be-an-attractive-man/)\]***
+
 Look the list of Hollywood celebrities who have made the bald look sexy are all athletic specimens. They include:
 
 * Dwayne “The Rock” Johnson
