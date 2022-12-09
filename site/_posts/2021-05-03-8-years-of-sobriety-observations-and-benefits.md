@@ -1,7 +1,7 @@
 ---
 date: 2021-05-03 06:00:00 -0400
 article_type: Article
-title: '8 years of sobriety: observations and benefits'
+title: '9 years of sobriety: observations and benefits'
 permalink: /sobriety-benefits/
 tags:
   - sober-life
@@ -10,7 +10,7 @@ categories:
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   A lot of things happen when you stop drinking alcohol. Here are 8 benefits
-  I've observed from 8 years of sobriety.
+  I've observed from 9 years of sobriety.
 ---
 My last drink was on December 22nd, 2013. I've been completely sober for almost eight years and while it wasn't easy, the benefits I've gained from not drinking have far exceeded my expectations.
 
