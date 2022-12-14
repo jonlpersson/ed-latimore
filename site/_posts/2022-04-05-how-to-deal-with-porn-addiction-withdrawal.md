@@ -4,7 +4,7 @@ article_type: Article
 title: How to deal with porn addiction withdrawal
 permalink: /dealing-with-porn-addiction-withdrawal/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-
