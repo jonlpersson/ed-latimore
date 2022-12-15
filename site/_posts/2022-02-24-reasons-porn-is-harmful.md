@@ -4,7 +4,7 @@ article_type: Article
 title: Science-backed reasons porn is harmful
 permalink: /reasons-porn-is-harmful/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-
