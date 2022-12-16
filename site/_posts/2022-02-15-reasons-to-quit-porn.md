@@ -4,7 +4,7 @@ article_type: Article
 title: 9 good reasons why it’s time to quit watching porn
 permalink: /reasons-to-quit-porn/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-
