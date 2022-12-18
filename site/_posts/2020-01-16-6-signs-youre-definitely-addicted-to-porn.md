@@ -4,7 +4,7 @@ article_type: Article
 title: 6 signs you're definitely addicted to porn
 permalink: /6-signs-that-youre-definitely-addicted-to-porn/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 image: /assets/images/posts/pornaddiction-illustration-libertyantoniasadler-metro.png
@@ -192,7 +192,7 @@ The levels of reported ED issues among young men have skyrocketed in recent year
 
 While erectile dysfunction has multivariate causes, it is not an issue that young men typically encounter. However, we already know that pornography wreaks havoc on the brain’s response to dopamine. Sexual desire and getting an erection are all related to dopamine sensitivity.
 
-| In the book \*\[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationship\]({{ '1556438095'</td><td>amazon }}),\* the authors state: |
+| In the book \*\[Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationship\]({{ '1556438095'&lt;/td&gt;&lt;td&gt;amazon }}),\* the authors state: |
 
 > In the last decade or so, addiction researchers have discovered that too much dopamine stimulation has a paradoxical effect. The brain decreases its ability to respond to dopamine signals (desensitization). This occurs with all addictions, both chemical and natural. In some porn users, the response to dopamine is dropping so low that they can’t achieve an erection without constant hits of dopamine via the Internet.
 
