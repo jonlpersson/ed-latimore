@@ -4,7 +4,7 @@ article_type: Article
 title: 7 easy ways to finally quit porn
 permalink: /how-to-quit-porn/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 image: /assets/images/posts/watching porn.PNG
