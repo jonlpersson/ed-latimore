@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to stand up for yourself: Practical solutions that work'
 permalink: /how-to-stand-up-for-yourself/
 tags:
-  - how-to-control-your-emotions
+  - how-to-make-friends
 categories:
   - connecting-with-people
 description: >-
