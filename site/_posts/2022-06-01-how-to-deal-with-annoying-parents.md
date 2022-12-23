@@ -4,7 +4,7 @@ article_type: Article
 title: A better way to deal with annoying parents
 permalink: /how-to-deal-with-annoying-parents/
 tags:
-  - change-your-perspective
+  - living-in-the-hood
 categories:
   - connecting-with-people
 description: >-
