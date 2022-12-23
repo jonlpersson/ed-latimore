@@ -4,7 +4,7 @@ article_type: Article
 title: How to cope with losing someone you love
 permalink: /losing-someone-you-love/
 tags:
-  - how-to-control-your-emotions
+  - building-family-relationships
 categories:
   - connecting-with-people
 description: >-
