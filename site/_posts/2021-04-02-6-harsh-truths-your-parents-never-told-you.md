@@ -3,9 +3,10 @@ date: 2021-04-02 16:45:00 -0400
 article_type: Article
 title: 6 harsh truths your parents never told you
 permalink: /harsh-truths/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+  - building-family-relationships
+categories:
   - living-in-the-hood
 description: >-
   Here are 6 harsh truths that your parents should have told you about to
