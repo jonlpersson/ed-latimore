@@ -5,7 +5,7 @@ title: How to forgive your parents
 permalink: /how-to-understand-and-forgive-your-parents/
 tags:
   - the-power-of-forgiveness
-  - living-in-the-hood
+  - building-family-relationships
 categories:
   - connecting-with-people
 description: >-
