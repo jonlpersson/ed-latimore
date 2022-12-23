@@ -4,8 +4,7 @@ article_type: Article
 title: How to win an argument (without losing your temper)
 permalink: /how-to-win-an-argument/
 tags:
-  - change-your-perspective
-  - how-to-control-your-emotions
+  - how-to-make-friends
 categories:
   - connecting-with-people
 description: >-
