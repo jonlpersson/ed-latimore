@@ -4,7 +4,7 @@ article_type: Article
 title: 9 thoughts to help deal with the loss of a parent
 permalink: /dealing-with-the-loss-of-a-parent/
 tags:
-  - how-to-control-your-emotions
+  - building-family-relationships
 categories:
   - connecting-with-people
 description: >-
