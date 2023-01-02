@@ -7,7 +7,7 @@ description: >-
   booze and now I’m teaching the system I used.
 image: /assets/images/products/vicebreakers-1.png
 product_info:
-  button_text: Buy now
+  button_text: 'Buy now '
   button_url: https://gumroad.com/a/337122419
   price: $50
 hero:
