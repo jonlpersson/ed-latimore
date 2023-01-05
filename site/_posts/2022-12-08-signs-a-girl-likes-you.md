@@ -9,7 +9,7 @@ categories:
   - connecting-with-people
 description: >-
   Want to know if you’re more than friends? Here are the signs a girl likes you romantically
-image: /assets/images/thumbnails/ed-with-anna-touching-him-close.jpg
+image: /assets/images/thumbnails/ed-with-anna-touching-him-close.jpeg
 ---
 
 Most women won’t immediately tell you they’re not into you.
