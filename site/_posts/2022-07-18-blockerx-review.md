@@ -12,6 +12,8 @@ description: >-
   its own claims? Here’s my review.
 image: /assets/images/thumbnails/blockerx-review.jpg
 ---
+***The verdict is in. [Covenant Eyes]({% include widgets/summary.html id=&quot;Covenant-Eyes&quot; %}) is a MUCH better option. I strongly recommend you go with them. Still, I'm leaving this review up because I did try the service.&nbsp;***
+
 Let’s be honest; online porn is everywhere. Even when you’re not searching for it, there’s a decent chance you’ll find an explicit image or video pop up while browsing Twitter, Reddit, or a message board. A considerable chunk of the internet is devoted to porn and porn sites, and it’s no surprise that [viewership among adults and minors is rising](https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/).
 
 The easy access to porn has enabled a generation of men to become porn addicts, making treatment challenging. Although it’s becoming increasingly evident that porn addiction can [interfere with your life and ruin relationships](/reasons-porn-is-harmful/), the social stigma of admitting addiction can make it difficult to speak out or seek treatment.
