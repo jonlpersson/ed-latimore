@@ -126,8 +126,6 @@ This is pavlovian conditioning rearing its ugly head again.
 
 Touching your penis outside of showering or pissing makes you want to watch porn. Stop touching your dick beyond essential functions. This will also make actual sex even better.
 
-***This is one technique of many that are taught by The Freedom Specialists team, a group dedicated to helping you with a 1-on-1 custom plan to deal with porn addiction. Check out the guys they've helped not only stop touching their dick, but build a whole new porn free life here—&gt;[The Freedom Specialists](https://rebrand.ly/hnppga3){: target="_blank" rel="noopener noreferrer"}***
-
 ## 4\. Get physical & get away from the computer
 
 I write this under the assumption that you ingest all of your porn through a computer with an internet connection. Porn addiction is just like any other addiction in that part of what you are addicted to is the ritual.
@@ -148,7 +146,7 @@ The point is to burn off energy, get moving and get away from the computer. You'
 
 This also has the side benefit of getting you in shape, which will make the next step that much easier.
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ## 5\. Talk to some women
 
