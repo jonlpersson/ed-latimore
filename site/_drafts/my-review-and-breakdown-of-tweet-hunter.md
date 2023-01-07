@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-01-07 00:00:00 -0500
 article_type: Article
 title: My review and breakdown of Tweet Hunter
 permalink: /review-of-tweet-hunter/
