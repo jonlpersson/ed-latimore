@@ -87,8 +87,6 @@ For a woman to reach sexual satisfaction, she has to be in the moment. That’s 
 
 Women shouldn’t be your purpose, but your time with them should be purposeful. Good relationships enhance the quality of your life and improve your overall mental health. Outside of the bedroom, you’re able to develop real relationships when your focus isn’t on porn.
 
-***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist.&nbsp; Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/vf2xi99){: target="_blank" rel="noopener noreferrer"}***
-
 ## 7\. It’s a vicious, time-wasting cycle
 
 Think about all the things you could be doing instead of binging porn. How successful could you become if, instead of booting up your computer for easy stimulation, you read a book, lifted weights, or worked on your mission? Quitting porn gives you superpowers.
@@ -127,7 +125,7 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
