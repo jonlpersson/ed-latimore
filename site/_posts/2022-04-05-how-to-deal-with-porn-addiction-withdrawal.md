@@ -118,8 +118,6 @@ Expect these life-changing benefits once you quit porn:
 * The ability to focus and think with logic and strategy, rather than compulsiveness
 * Self-respect and self-esteem gained by your willingness to stick with something difficult
 
-***There is a better life waiting for you on the other side of porn addiction. If you're worried that you won't make it there, check out the coaching offered by The Freedom Specialists. They will hook you up with a custom plan and provide accountability so that you finally shake the internet porn monkey off of your back. Check them out here—&gt;[The Freedom Specialists](https://rebrand.ly/bnuzmae){: target="_blank" rel="noopener noreferrer"}***
-
 ## How to quit porn
 
 Beating your porn addiction can be your greatest victory, but you need a plan. Addicts are called addicts, and not “former addicts” for a reason – you never get to stop putting in the work.
@@ -152,7 +150,7 @@ My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and A
 
 As I always say, the rest is up to you.
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
