@@ -98,8 +98,6 @@ If you’re serious about quitting porn, start by reading [this guide](https://e
 
 If you’re on a budget and don’t think you need accountability, I’d start with AdGuard. If you’ve struggled with quitting in the past, then accountability is what you need. I recommend more advanced software that includes content for helping you quit, like Covenant Eyes or X3. If you want to protect other family members too, I’d check out Qustodio.
 
-***No matter which blocker you use, you'll still need a plan for dealing with the urges, resetting your brain chemistry, and getting on with your life without worrying that you'll relapse the first chance you get. That's where The Freedom Specialists come in. They can help you craft a custom plan that guarantees you make the transition to a porn-free lifestyle as long as you do the work. Check them out here—&gt;[The Freedom Specialists](https://rebrand.ly/xyf59h7){: target="_blank" rel="noopener noreferrer"}***
-
 ## Frequently asked questions
 
 ### Are there ways around porn blocking software?
@@ -112,4 +110,4 @@ Browsing porn is often a solo activity, which makes it such an easy addiction to
 
 The purpose of installing a porn blocker is to make browsing adult websites less private so that you aren’t incentivized to maintain the habit. Having a trusted accountability partner that can view your browsing data safely and securely is a surefire way to help you break free from one of the most destructive isolating activities.
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
