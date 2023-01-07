@@ -22,7 +22,7 @@ High-def video, virtual reality, and AI-based search recommendations are all tec
 
 Sure, you may be someone who has what it takes to break free from addiction without help, but it's increasingly becoming an uphill battle with how real and prevalent online porn has become. Relying on self-discipline may not always be enough.
 
-Instead, you need to learn how to fight technology with technology,[like using Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9) to help.
+Instead, you need to learn how to fight technology with technology,&nbsp;[like using Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9) to help.
 
 ## What is Covenant Eyes?
 
