@@ -122,8 +122,6 @@ These problems also don’t show up right away because men are increasingly isol
 
 When you’re not approaching women, there’s no real-life social feedback to correct your course. This means you have no motivating factors to quit porn use.
 
-***It's never too late to do something about addiction to porn. It may feel like it's too late, but you're never out of the game. Especially if put together a solid coaching plan with guys like The Freedom Specialists. There aren't many guys I trust in the "help guys get off of porn space", but I dig their approach. They put together a tailored program, complete with 1-on-1 guidance and accountability. I write a lot about helping guys with porn and I trust the method they've got. Check them out—[The Freedom Specialists](https://rebrand.ly/6wcckyh){: target="_blank" rel="noopener noreferrer"}.***
-
 ## Why is it so hard to quit porn?
 
 Hard doesn’t mean impossible. But I’d be lying to you if I said you can just flip a switch and break such an addictive porn habit.
@@ -134,7 +132,7 @@ You’ll get a headstart with my [Vicebreakers course](https://gumroad.com/a/468
 
 The rest is up to you.
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
