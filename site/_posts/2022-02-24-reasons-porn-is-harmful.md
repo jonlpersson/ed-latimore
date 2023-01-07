@@ -67,8 +67,6 @@ Also, although porn scenes take days to film and are heavily edited, they give y
 
 Sex in a relationship can bring you closer together and build a strong bond. Transactional sex, however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.
 
-***If real women aren't doing it for you, but you can't quit porn, you aren't alone. One of the members of The Freedom Specialists went through this because he was addicted to porn. But he broke free and founded The Freedom Specialists to help guys break free and stop wasting their essence on digital women who don't even know they exist. Check out what they can do for you here—[The Freedom Specialists](https://rebrand.ly/d58s6r9){: target="_blank" rel="noopener noreferrer"}***
-
 ## Those with mental health issues are at a higher risk for addiction
 
 Compulsive use of internet pornography is strongly associated with poor mental health among college-age young people.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">5</a></sup>
@@ -115,7 +113,7 @@ There’s a new movement in the alcohol industry called “sober curious”. Bri
 * Porn is a real addiction
 * Porn addiction has the same effects on your frontal lobe as a brain injury
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
