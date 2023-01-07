@@ -4,7 +4,7 @@ article_type: Review
 title: Covenant Eyes review (2022)
 permalink: /covenant-eyes-review/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-
@@ -22,7 +22,7 @@ High-def video, virtual reality, and AI-based search recommendations are all tec
 
 Sure, you may be someone who has what it takes to break free from addiction without help, but it's increasingly becoming an uphill battle with how real and prevalent online porn has become. Relying on self-discipline may not always be enough.
 
-Instead, you need to learn how to fight technology with technology, like using Covenant Eyes to help.
+Instead, you need to learn how to fight technology with technology,[like using Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9) to help.
 
 ## What is Covenant Eyes?
 
@@ -65,7 +65,7 @@ Covenant Eyes is one of the original porn blocking and accountability software t
 * The app doesn’t let you set screen time limits
 * The app isn’t compatible with Chromebook and Kindle Fire devices
 
-Overall, Covenant Eyes does a solid job of blocking adult content. However, if you’re [someone with a serious porn addiction](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/), there are always workarounds to getting access to your next cheap dopamine hit.
+Overall, [Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9) does a solid job of blocking adult content. However, if you’re [someone with a serious porn addiction](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/), there are always workarounds to getting access to your next cheap dopamine hit.
 
 But I’ve found that the software's true value lies in its powerful combo of content blocking and partner accountability. The content blocker provides enough friction to accessing porn that you’ll eventually get frustrated and forget that you were even horny, and the accountability feature uses your sense of shame as a powerful tool to make sure you stop.
 
@@ -95,7 +95,7 @@ The accountability feature takes screenshots and uses their specialized AI softw
 
 ### How much is Covenant Eyes?
 
-Covenant Eyes offers a simple $16.99/month subscription for all your devices and up to 10 users. The subscription includes full-time customer support and access to their knowledge base, including blog posts, videos, and ebooks. If, for whatever reason, you aren’t completely satisfied with the product, they offer a 30-day money-back guarantee.
+[Covenant Eyes offers a simple $16.99/month subscription](https://covenanteyes.sjv.io/QOzdN9) for all your devices and up to 10 users. The subscription includes full-time customer support and access to their knowledge base, including blog posts, videos, and ebooks. If, for whatever reason, you aren’t completely satisfied with the product, they offer a 30-day money-back guarantee.
 
 ## Final thoughts
 
