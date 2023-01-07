@@ -48,8 +48,6 @@ In the first few weeks after quitting porn you may experience:
 * Brain fog
 * Anxiety
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
-
 ## You may relapse
 
 The first four weeks right after quitting porn are the most difficult. And you may relapse. In fact, relapse is so common after addiction that it’s considered a phase of the recovery cycle.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> The period of time it takes you to recover from the withdrawal phase depends on how much and how long you spent watching porn.
@@ -141,7 +139,7 @@ So here’s what to expect when you decide to quit porn:
 * Your overall mental health improves
 * You lose unrealistic expectations about yourself and others
 
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
+{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
