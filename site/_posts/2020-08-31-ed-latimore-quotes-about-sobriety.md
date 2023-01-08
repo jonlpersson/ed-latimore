@@ -4,6 +4,7 @@ article_type: Article
 title: 53 original sobriety quotes for addiction recovery
 permalink: /ed-latimore-sobriety-quotes/
 tags:
+  - getting-sober
 categories:
   - how-to-break-an-addiction
   - quotes-and-book-summaries
