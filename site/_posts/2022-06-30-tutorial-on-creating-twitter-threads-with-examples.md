@@ -4,7 +4,7 @@ article_type: Article
 title: Easy tutorial for creating Twitter Threads (with examples)
 permalink: /how-to-make-twitter-threads/
 tags:
-  - writing-skills
+  - twitter-tips
 categories:
   - how-to-make-money-on-social-media
 description: >-
