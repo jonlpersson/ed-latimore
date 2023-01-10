@@ -92,11 +92,15 @@ This is a great way to streamline your Twitter marketing efforts and really turn
 
 ## Tweet Inspiration and AI Writing
 
-If you have writers block, not only will Tweet Hunter help you demolish it, you might even end up with a viral tweet.
+If you have writers block, not only will Tweet Hunter help you demolish it, you might even end up with a viral tweet. Simply tell Tweethunter what topics you need inspiration around and it will deliver the highest performing tweets from around the Twitterverse for you to be inspired by.
+
+![Daily inspirational tweets to help you write](/assets/images/drafts/inspiration-tweets-ai.png "Daily inspirational tweets to help you write"){: width="450" height="253"}
 
 With a library of over 2 million high-performing tweets and a staff-curated list of over 4,000 tweets across ten categories, you’ll always have a tweet to inspire you to create something better—and it will be.
 
 Simply search for tweets by account, category, or keyword to find out what's trending, or create lists of your favorite accounts to draw inspiration from. And if you're struggling to come up with content on your own, Tweet Hunter's AI-generated tweets and prompts can help spark your creativity.
+
+![My list of inspiring tweets. Seems right for my keywords.](/assets/images/drafts/updated-tweets-for-inspiration.png "My list of inspiring tweets. Seems right for my keywords."){: width="450" height="422"}
 
 Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate innovative ideas for your tweets. With such a wealth of resources at your fingertips, you'll be well on your way to using AI writing to create the next viral tweet
 
