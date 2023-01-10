@@ -102,6 +102,20 @@ With this powerful tool, you can send automated direct messages to users who fol
 
 As a marketer, the Auto DM function is also a fantastic way to offer freebies and resources to your followers. Simply set up your pre-written DM and designate the actions that will trigger it to be sent, and let Tweet Hunter take care of the rest. No more tedious copy-pasting – just sit back and watch your subscriptions and website traffic grow.
 
+It's important to note in the image above that the Twitter API will only you to send 750 DMs per day. After that, it simply won't send.
+
+It also won't send to locked accounts or accounts that aren't following you. Everytime I do this, I get at least one person who retweets looking for the freebie who either:
+
+* Doesn't follow me
+* Has their account private
+* Was one who retweeted after the first 750 people in 24 hours
+
+As far as I'm concerned, that last one is technically a good problem. Still, it's something to be aware.&nbsp;
+
+![Instructions clear for people to receive the DM](/assets/images/drafts/tweethunter-tweet-for-retweeting.png "Instructions clear for people to receive the DM"){: width="450" height="872"}
+
+Make sure you tell people that they will receive a DM if they retweet the tweet. Failure to do so is violation of Twitter Spam policy and WILL get your account reported and most likely suspended.&nbsp;
+
 I’ve used this feature to help grow my followers and make a post go viral. I’ve done this by setting the freebie to auto-dm and letting people know that the only way to get it is to retweet the tweet. This works amazingly well if you position it the tweet that triggers the auto-dm as part of a thread.
 
 This is a great way to streamline your Twitter marketing efforts and really turn your Twitter account into a cash cow.
