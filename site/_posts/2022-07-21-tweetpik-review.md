@@ -4,7 +4,7 @@ article_type: Review
 title: TweetPik Review—How I use it to grow my audience (2022)
 permalink: /tweetpik-review/
 tags:
-  - how-to-build-an-audience
+  - twitter-tips
 categories:
   - how-to-make-money-on-social-media
 description: >-
