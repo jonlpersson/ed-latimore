@@ -4,7 +4,7 @@ article_type: Review
 title: The best way to tweet it
 permalink: /how-to-tweet/
 tags:
-  - writing-skills
+  - twitter-tips
 categories:
   - how-to-make-money-on-social-media
 description: >-
