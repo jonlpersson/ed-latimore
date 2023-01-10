@@ -18,6 +18,8 @@ Are you looking for a way to monetize your Twitter following and effectively man
 
 [Tweethunter.io](http://tweethunter.io/?via=edward) is more than just another SaaS to schedule tweets or automation tool. It also uses AI writing to help you create more engaging Twitter threads, get more Twitter followers, and help you better play—and win—the Twitter Game.
 
+![Tweethunter Home Screen](/assets/images/drafts/tweethunter-homescreen.png "Tweethunter Home Screen"){: width="450" height="303"}
+
 I was originally wary of Tweethunter because I like to write organically. I’m not a big fan of scheduling content ahead of time. Sure, that may be inefficient, but I consider writing more of an art than a business. However, Tweethunter is a lot more than just a scheduling tool.
 
 The biggest selling point of Tweethunter is its library of over 2 million viral tweets. They’ve been indexed by category, allowing for some fascinating features that allow you to get the most out of Twitter.
