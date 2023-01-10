@@ -98,6 +98,8 @@ Twitter marketing is very easy with Tweet Hunter's Auto DM feature.
 
 With this powerful tool, you can send automated direct messages to users who follow your account, retweet your content, or leave comments on your tweets. This is an excellent way to promote your products, grow your email list, and redirect users to your website or other content.
 
+![Tweet Hunter advanced option in green box, message to be sent when action is fulfilled in red](/assets/images/drafts/tweethunter-retweet-screen.png "Tweet Hunter advanced option in green box, message to be sent when action is fulfilled in red"){: width="450" height="814"}
+
 As a marketer, the Auto DM function is also a fantastic way to offer freebies and resources to your followers. Simply set up your pre-written DM and designate the actions that will trigger it to be sent, and let Tweet Hunter take care of the rest. No more tedious copy-pasting – just sit back and watch your subscriptions and website traffic grow.
 
 I’ve used this feature to help grow my followers and make a post go viral. I’ve done this by setting the freebie to auto-dm and letting people know that the only way to get it is to retweet the tweet. This works amazingly well if you position it the tweet that triggers the auto-dm as part of a thread.
