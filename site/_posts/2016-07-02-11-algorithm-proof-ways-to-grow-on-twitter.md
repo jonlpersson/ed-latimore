@@ -4,7 +4,7 @@ article_type: Article
 title: 11 algorithm proof ways to grow on Twitter
 permalink: /how-to-grow-your-twitter-following/
 tags:
-  - writing-skills
+  - twitter-tips
 categories:
   - how-to-make-money-on-social-media
 image: /assets/images/posts/Twitter.jpeg
