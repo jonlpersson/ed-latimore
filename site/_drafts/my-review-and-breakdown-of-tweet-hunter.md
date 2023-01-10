@@ -32,6 +32,8 @@ Tweet Hunter also includes several AI-powered features to help optimize your con
 
 Tweethunter is founded by Tibo Louis-Lucas and Thomas Jacquesson. Their idea was to analyze and index popular tweets, then store them in a "swipe file" for users to browse and draw inspiration from.
 
+![Tibo Louis-Lucas and Thomas Jacquesson, Tweethunter Founders](/assets/images/drafts/tweethunter-founders.jpg "Tibo Louis-Lucas and Thomas Jacquesson, Tweethunter Founders"){: width="500" height="281"}
+
 The product was founded in May 2021 when Louis-Lucas and Jacquesson wanted to create a tool to help struggling writers create engaging content for social media.
 
 They saw a need for a tool like Tweet Hunter in the crowded world of Twitter, where standing out from the competition can be difficult. With its focus on helping users write their own viral tweets, Tweet Hunter aims to give content creators the tools they need to succeed in the fast-paced world of social media.
