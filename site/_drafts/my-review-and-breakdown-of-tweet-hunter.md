@@ -16,7 +16,7 @@ Tweet Hunter Review: The All-in-One Tool for Managing and Growing Your Twitter P
 
 Are you looking for a way to monetize your Twitter following and effectively manage your social media presence? Tweet Hunter is one of the newest Twitter growth tools on the market.
 
-Tweethunter.io is more than just another SaaS to schedule tweets or automation tool. It also uses AI writing to help you create more engaging Twitter threads, get more Twitter followers, and help you better play—and win—the Twitter Game.
+[Tweethunter.io](http://tweethunter.io/?via=edward) is more than just another SaaS to schedule tweets or automation tool. It also uses AI writing to help you create more engaging Twitter threads, get more Twitter followers, and help you better play—and win—the Twitter Game.
 
 I was originally wary of Tweethunter because I like to write organically. I’m not a big fan of scheduling content ahead of time. Sure, that may be inefficient, but I consider writing more of an art than a business. However, Tweethunter is a lot more than just a scheduling tool.
 
@@ -96,7 +96,7 @@ Simply search for tweets by account, category, or keyword to find out what's tre
 
 Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate innovative ideas for your tweets. With such a wealth of resources at your fingertips, you'll be well on your way to using AI writing to create the next viral tweet
 
-***If you’ve never used AI to write tweets, take 7 days to try it out for free. ***
+*\*\*If you’ve never used AI to write tweets, take 7 days to try it out for free. \*\**
 
 ## Auto-Plug
 
