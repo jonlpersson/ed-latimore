@@ -50,7 +50,7 @@ The Thread Ideas feature also helps you develop ideas for tweet threads that hav
 
 TweetPredict™ predicts how well your tweet will perform based on the wording you’re using and how similar tweets before have performed. I’ve always maintained that how you write on Twitter is *just* as important as what you write about, and this addition of this tool strongly supports that assertion.
 
-***Overall, Tweet Hunter's AI-powered features make it an efficient and effective tool for finding and sharing the best content on Twitter. Take a free 7-day trial of this feature to see for yourself.***
+***Overall, Tweet Hunter's AI-powered features make it an efficient and effective tool for finding and sharing the best content on Twitter. [Take a free 7-day trial of this feature to see for yourself.](http://tweethunter.io/?via=edward)***
 
 ## Fantastic Customer Relationship Management (CRM) system
 
@@ -62,7 +62,7 @@ The AI technology even assists you in generating the best replies and allows you
 
 You no longer have to waste time sifting through irrelevant tweets. Tweet Hunter helps you find the most relevant tweets from the most engaging users and specifically respond to them. This is a powerful tactic for boosting your impressions and engagement.
 
-***Stop wasting time and energy on to find the most relevant accounts on Twitter to engage with. Try a free 7-day trial today.***
+***Stop wasting time and energy on to find the most relevant accounts on Twitter to engage with. [Try a free 7-day trial today.](http://tweethunter.io/?via=edward)***
 
 ## Tweet Hunter analytics
 
@@ -74,7 +74,7 @@ You can monitor daily follower growth and individual tweet performance, includin
 
 But that's not all – Tweet Hunter also offers ghostwriting options for multiple clients from a single account, a tweet preview link feature that automatically redirects to Twitter once published, and the ability to add as many Twitter accounts as you need, all at no additional cost. Upgrade your Twitter strategy with Tweet Hunter's analytics tools.
 
-***Get next level insights into your Twitter analytics with this free 7-day trial.***
+***Get next level insights into your Twitter analytics with this [free 7-day trial.](http://tweethunter.io/?via=edward)***
 
 ## Auto DM for Twitter Marketing
 
@@ -88,19 +88,19 @@ I’ve used this feature to help grow my followers and make a post go viral. I�
 
 This is a great way to streamline your Twitter marketing efforts and really turn your Twitter account into a cash cow.
 
-***Try Tweet Hunter's Auto DM feature on a free 7-day trial today and start seeing results immediately.***
+***Try Tweet Hunter's Auto DM feature on a free [7-day trial today](http://tweethunter.io/?via=edward) and start seeing results immediately.***
 
 ## Tweet Inspiration and AI Writing
 
 If you have writers block, not only will Tweet Hunter help you demolish it, you might even end up with a viral tweet.
 
-With a library of over 2 million high-performing tweets and a staff-curated list of over 4,000 tweets across ten categories, you’ll always have a tweet to inspire you to create something better—and it will be
+With a library of over 2 million high-performing tweets and a staff-curated list of over 4,000 tweets across ten categories, you’ll always have a tweet to inspire you to create something better—and it will be.
 
 Simply search for tweets by account, category, or keyword to find out what's trending, or create lists of your favorite accounts to draw inspiration from. And if you're struggling to come up with content on your own, Tweet Hunter's AI-generated tweets and prompts can help spark your creativity.
 
 Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate innovative ideas for your tweets. With such a wealth of resources at your fingertips, you'll be well on your way to using AI writing to create the next viral tweet
 
-*\*\*If you’ve never used AI to write tweets, take 7 days to try it out for free. \*\**
+***If you’ve never used AI to write tweets, take [7 days to try it out for free.](http://tweethunter.io/?via=edward)***
 
 ## Auto-Plug
 
@@ -118,7 +118,7 @@ This tactic is how I’ve continuously made 6-figures selling my products and gr
 
 This is a game-changer for those looking to grow their email list or sell a product on Twitter. No more worrying about your reach being limited. Your message can finally get out to a wider audience.
 
-Try out a free 7-day trial of this feature to make you more money in the upcoming year.
+***Try out a free 7-day trial of this feature to make you more money in the upcoming year—&gt;[Tweet Hunter Free Trial](http://tweethunter.io/?via=edward)***
 
 ## Auto-Retweet
 
@@ -140,4 +140,4 @@ It’s a little price than some of the other options, but this is money well spe
 
 The ONLY downside is that there isn’t and Android or iPhone app, but I hear this will soon be remedied.
 
-***Try out Tweet Hunter for free for 7 days to see if it’s right for you***
+[***Try out Tweet Hunter for free for 7 days to see if it’s right for you***](http://tweethunter.io/?via=edward)
