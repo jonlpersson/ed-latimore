@@ -76,20 +76,6 @@ But that's not all – Tweet Hunter also offers ghostwriting options for multipl
 
 ***Get next level insights into your Twitter analytics with this [free 7-day trial.](http://tweethunter.io/?via=edward)***
 
-## Auto DM for Twitter Marketing
-
-Twitter marketing is very easy with Tweet Hunter's Auto DM feature.
-
-With this powerful tool, you can send automated direct messages to users who follow your account, retweet your content, or leave comments on your tweets. This is an excellent way to promote your products, grow your email list, and redirect users to your website or other content.
-
-As a marketer, the Auto DM function is also a fantastic way to offer freebies and resources to your followers. Simply set up your pre-written DM and designate the actions that will trigger it to be sent, and let Tweet Hunter take care of the rest. No more tedious copy-pasting – just sit back and watch your subscriptions and website traffic grow.
-
-I’ve used this feature to help grow my followers and make a post go viral. I’ve done this by setting the freebie to auto-dm and letting people know that the only way to get it is to retweet the tweet. This works amazingly well if you position it the tweet that triggers the auto-dm as part of a thread.
-
-This is a great way to streamline your Twitter marketing efforts and really turn your Twitter account into a cash cow.
-
-***Try Tweet Hunter's Auto DM feature on a free [7-day trial today](http://tweethunter.io/?via=edward) and start seeing results immediately.***
-
 ## Tweet Inspiration and AI Writing
 
 If you have writers block, not only will Tweet Hunter help you demolish it, you might even end up with a viral tweet. Simply tell Tweethunter what topics you need inspiration around and it will deliver the highest performing tweets from around the Twitterverse for you to be inspired by.
@@ -106,6 +92,20 @@ Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate 
 
 ***If you’ve never used AI to write tweets, take [7 days to try it out for free.](http://tweethunter.io/?via=edward)***
 
+## Auto DM for Twitter Marketing
+
+Twitter marketing is very easy with Tweet Hunter's Auto DM feature.
+
+With this powerful tool, you can send automated direct messages to users who follow your account, retweet your content, or leave comments on your tweets. This is an excellent way to promote your products, grow your email list, and redirect users to your website or other content.
+
+As a marketer, the Auto DM function is also a fantastic way to offer freebies and resources to your followers. Simply set up your pre-written DM and designate the actions that will trigger it to be sent, and let Tweet Hunter take care of the rest. No more tedious copy-pasting – just sit back and watch your subscriptions and website traffic grow.
+
+I’ve used this feature to help grow my followers and make a post go viral. I’ve done this by setting the freebie to auto-dm and letting people know that the only way to get it is to retweet the tweet. This works amazingly well if you position it the tweet that triggers the auto-dm as part of a thread.
+
+This is a great way to streamline your Twitter marketing efforts and really turn your Twitter account into a cash cow.
+
+***Try Tweet Hunter's Auto DM feature on a free [7-day trial today](http://tweethunter.io/?via=edward) and start seeing results immediately.***
+
 ## Auto-Plug
 
 Have youe ever noticed that Twitter limits your reach when you try to promote your newsletter or product to your followers? Well, that’s because Twitter down ranks tweets which contain links that take people off of the site.
@@ -114,9 +114,8 @@ It doesn’t matter if the link is to CNN, Wikipedia, or your membership site. A
 
 Tweet Hunter helps get around that with automatic plugs to tweets after they reach a certain amount of engagements (likes or retweets). With this automated plugin feature, the original tweet will go far and wide, as there is no link in the tweet. The additional tweet containing the link will only be added, as if it’s a conversation, so as not to affect the reach. This is a double bonus:
 
-1) People will see your product, service, or newsletter as it’s added to the main tweet being shared and hopefully going viral.
-
-2) When the tweet is added, it will also be partial visible on your timeline as a new tweet.
+1. People will see your product, service, or newsletter as it’s added to the main tweet being shared and hopefully going viral.
+2. When the tweet is added, it will also be partial visible on your timeline as a new tweet.
 
 This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 30k subscribers.
 
