@@ -1,5 +1,5 @@
 ---
-date: 2022-11-18 09:00:01 -0400
+date: 2022-11-18 08:00:01 -0500
 article_type: Article
 title: What happens when you quit alcohol? A realistic view
 permalink: /what-happens-when-you-quit-drinking/
@@ -8,11 +8,10 @@ tags:
 categories:
   - how-to-break-an-addiction
 description: >-
-  Quitting alcohol can change your life if you let it. Here’s what to expect when you finally give up drinking
+  Quitting alcohol can change your life if you let it. Here’s what to expect
+  when you finally give up drinking
 image: /assets/images/thumbnails/sober-ed-drinking-coffee-happy.jpg
 ---
-
-
 Alexander the Great, one of history’s most notorious conquerors, killed his best friend after a night of heavy drinking.
 
 His best friend.
@@ -25,11 +24,11 @@ Soandso suffered a fall…
 
 People shooting their friends or family members over card games and petty arguments. And usually, they were all drunk at the time.
 
-Despite the fact that alcohol is implicated in more than 140,000 deaths per year,[^1] it continues to be a cultural staple. One that people find strange if you’re NOT doing.
+Despite the fact that alcohol is implicated in more than 140,000 deaths per year,<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> it continues to be a cultural staple. One that people find strange if you’re NOT doing.
 
 And if you decide to give it up, others will still ask, “Why aren’t you drinking, bro?”
 
-Even if you don’t have an alcohol addiction (like I did), deciding to stop drinking can take tremendous effort. And the longer you’ve been drinking, the harder it’ll be to go cold turkey.
+Even if you don’t have an [alcohol addiction](https://pbinstitute.com/alcohol/psychology/) (like I did), deciding to stop drinking can take tremendous effort. And the longer you’ve been drinking, the harder it’ll be to go cold turkey.
 
 Like Seneca said, “Alcohol tempts the body to disobey the spirit.”
 
@@ -39,8 +38,7 @@ So, if you decide to try Sober October and flirt with sobriety for a while or qu
 
 Here’s what happens when you finally decide to give up alcohol.
 
-
-## You’ll feel like sh*t
+## You’ll feel like sh\*t
 
 Withdrawal is what we view as the ill feeling people experience during detox from a substance. Alcohol withdrawal can range from mild headaches and fatigue to cardiac arrest in very serious cases.
 
@@ -56,7 +54,6 @@ Non-negotiable means you don’t even consider another alternative. You know som
 
 The decision to go non-negotiable makes alcohol no longer a choice. Before making this decision you are always at risk of reaching for the bottle anytime you feel a little off.
 
-
 ## You worry about screwing up
 
 In the first 24 hours after I stopped drinking alcohol, I was worried about screwing up. I thought maybe I was just, once again, reacting to another hard night of heavy drinking where I made a fool of myself. Like the bargains, you make with God if he will just take the hangover away.
@@ -65,14 +62,11 @@ The first few weeks of sobriety are the hardest. You constantly feel like you’
 
 For me, the days kept adding up. 24 months in, I felt like I had unlocked a superpower and a life hack. Not drinking has changed my life for the better in every possible way. But overcoming an alcohol use disorder is different for everyone. Here are some things to try if you’re worried about relapse:
 
-
-
 * [Get a hobby](https://edlatimore.com/hobbies-to-make-friends/)
 * Don’t hang out in bars
 * Join a support group
 
 It's challenging to get over any kind of addiction, especially when you're overcoming a vice like alcohol. I created a course called [Vicebreakers](https://edlatimore.com/products/vicebreakers/) using my personal experience with alcohol and porn addiction to give you practical and effective advice to finally quit for good.
-
 
 ## Your body starts to recover
 
@@ -80,9 +74,7 @@ Alcohol is the 3rd leading cause of preventable death after tobacco and poor die
 
 Alcohol dependence also:
 
-
-
-* actively damages your brain[^2]
+* actively damages your brain<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 * reduces liver function
 * increases your cancer risk and chances of liver disease
 * suppresses your immune system
@@ -95,7 +87,6 @@ The good news is once you give it up, your body immediately starts healing.
 Even for heavy drinkers, your body (and liver) starts to heal around week four. You get better sleep so you’re more rested. This means your body can recover from workouts, illness, and injury more quickly.
 
 One effect of alcohol is anxiety. Though anxiety is a multi-dimensional issue, alcohol-induced anxiety also starts to disappear around week four.
-
 
 ## Your friends change
 
@@ -115,7 +106,6 @@ But once I started improving my life, their leverage to boost their own self-est
 
 Remember, once you start working on yourself it becomes a mirror others hold up to their own life. Losing people that don’t care about you is a mental health benefit. If they don’t like what they see, they’ll blame you before they ever think to change.
 
-
 ## You realize it's a commitment, not a fling
 
 I’ve been sober since December 23, 2013 and have zero desire to start drinking alcohol again. The person I am sober is far better than when I was trying to drink my way into more confidence and likability. That being said…
@@ -123,7 +113,6 @@ I’ve been sober since December 23, 2013 and have zero desire to start drinking
 I do miss the occasional glass of wine.
 
 When you commit to stop drinking alcohol, you start to understand challenge and commitment in a real way. It no longer becomes something you’re trying out for a while. It transforms your lifestyle and identity. Before long, you realize that the effort required to say ‘yes’ outweighs the ease with which you say “No, thank you.”
-
 
 ## Things to remember about quitting alcohol
 
@@ -133,8 +122,6 @@ I’m not saying going sober means you’re going to build a successful business
 
 Here’s what happens when you finally quit alcohol:
 
-
-
 * You may feel like trash for a few days to a few weeks
 * You’ll be afraid of breaking your promise to yourself
 * Your body does a 180
@@ -143,11 +130,8 @@ Here’s what happens when you finally quit alcohol:
 
 I hope that helps. The work is up to you.
 
-
 ---
 
 ### References
 
-[^1]: Centers for Disease Control and Prevention (CDC). _Alcohol and Public Health: Alcohol-Related Disease Impact (ARDI). Annual Average for United States 2015-2019 [Alcohol-Attributable Deaths Due to Excessive Alcohol Use, All Ages](https://nccd.cdc.gov/DPH_ARDI/default/default.aspx) _(accessed November 10, 2022)
-
-[^2]: National Institute on Alcohol Abuse and Alcoholism. _[NIAAA: Understanding the impact of alcohol on human health and well-being](https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-and-brain-overview)_ (accessed November 10, 2022)
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Centers for Disease Control and Prevention (CDC). _Alcohol and Public Health: Alcohol-Related Disease Impact (ARDI). Annual Average for United States 2015-2019 <a href="https://nccd.cdc.gov/DPH_ARDI/default/default.aspx">Alcohol-Attributable Deaths Due to Excessive Alcohol Use, All Ages</a> _(accessed November 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>National Institute on Alcohol Abuse and Alcoholism. <em><a href="https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-and-brain-overview">NIAAA: Understanding the impact of alcohol on human health and well-being</a></em> (accessed November 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
