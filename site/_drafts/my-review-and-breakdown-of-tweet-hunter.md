@@ -149,6 +149,8 @@ Tweet Hunter helps get around that with automatic plugs to tweets after they rea
 
 This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 31k subscribers.
 
+![Automatically plugging a link to my newsletter after 40 likes](/assets/images/drafts/auto-plug-example-tweethunter.jpg "Automatically plugging a link to my newsletter after 40 likes"){: width="500" height="281"}
+
 This is a game-changer for those looking to grow their email list or sell a product on Twitter. No more worrying about your reach being limited. Your message can finally get out to a wider audience.
 
 ***Try out a free 7-day trial of this feature to make you more money in the upcoming year—&gt;[Tweet Hunter Free Trial](http://tweethunter.io/?via=edward)***
