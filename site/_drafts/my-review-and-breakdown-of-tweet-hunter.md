@@ -58,7 +58,9 @@ Tweet Hunter is also a powerful Twitter marketing tool to help you manage your a
 
 ![This makes it easy to figure out who to engage with based on certain factors.](/assets/images/drafts/tweet-hunter-crm-section.png "This makes it easy to figure out who to engage with based on certain factors."){: width="492" height="630"}
 
-The app has a nice set of fairly advanced CRM features to make it very easy to track the habits and patterns of your target audience. You can easily extract data from users who have liked and interacted with trending tweets in your niche, view and reply to them, and nurture relationships with potential leads.
+The app has a nice set of fairly advanced CRM features to make it very easy to track the habits and patterns of your target audience. You can make it easy to engage with specific people, keywords, or those who have mentioned you in their tweets. This feature allows you to get the most out of your time on the app because you'll now longer have to scroll through your feed to find out who to respond to.
+
+You can easily extract data from users who have liked and interacted with trending tweets in your niche, view and reply to them, and nurture relationships with potential leads.
 
 The AI technology even assists you in generating the best replies and allows you to respond easily to all of your mentions from one convenient location. Plus, you can import and organize accounts into lists and add personal notes to each contact to better keep track of your interactions.
 
@@ -145,7 +147,7 @@ Tweet Hunter helps get around that with automatic plugs to tweets after they rea
 1. People will see your product, service, or newsletter as it’s added to the main tweet being shared and hopefully going viral.
 2. When the tweet is added, it will also be partial visible on your timeline as a new tweet.
 
-This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 30k subscribers.
+This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 31k subscribers.
 
 This is a game-changer for those looking to grow their email list or sell a product on Twitter. No more worrying about your reach being limited. Your message can finally get out to a wider audience.
 
