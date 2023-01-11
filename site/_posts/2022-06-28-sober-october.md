@@ -112,7 +112,7 @@ I couldn’t say that for a good portion of my life.
 
 Since I know that choosing to drink or not to drink is completely up to me, it’s easier to take full ownership over the rest of my life.
 
-Allowing yourself space to choose sobriety tests your willpower and puts you in full control, even if it means something as simple as declining the happy hour or going to happy hour and drinking water instead.
+Allowing yourself space to choose [sobriety](https://pbinstitute.com/blog/how-to-rebuild-trust-after-you-get-sober/) tests your willpower and puts you in full control, even if it means something as simple as declining the happy hour or going to happy hour and drinking water instead.
 
 The break ultimately lets your brain’s prefrontal cortex recover. This is the part of your brain responsible for willpower and putting long-term goals over short-term gratification.<sup id="fnref:7" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:7">7</a></sup>
 
