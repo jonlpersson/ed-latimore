@@ -10,7 +10,7 @@ categories:
 description: >-
   Are you looking for a way to monetize your Twitter following and effectively
   manage your social media presence? Tweet Hunter is for you.
-image:
+image: /assets/images/drafts/tweethunter-logo.png
 ---
 Tweet Hunter Review: The All-in-One Tool for Managing and Growing Your Twitter Presence
 
