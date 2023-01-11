@@ -54,7 +54,9 @@ TweetPredict™ predicts how well your tweet will perform based on the wording y
 
 ## Fantastic Customer Relationship Management (CRM) system
 
-Tweet Hunter is also a powerful Twitter marketing tool to help you manage your account and grow your business.
+Tweet Hunter is also a powerful Twitter marketing tool to help you manage your account and grow your followers.
+
+![This makes it easy to figure out who to engage with based on certain factors.](/assets/images/drafts/tweet-hunter-crm-section.png "This makes it easy to figure out who to engage with based on certain factors."){: width="492" height="630"}
 
 The app has a nice set of fairly advanced CRM features to make it very easy to track the habits and patterns of your target audience. You can easily extract data from users who have liked and interacted with trending tweets in your niche, view and reply to them, and nurture relationships with potential leads.
 
