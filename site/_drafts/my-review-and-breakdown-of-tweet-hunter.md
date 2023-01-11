@@ -42,6 +42,8 @@ They saw a need for a tool like Tweet Hunter in the crowded world of Twitter, wh
 
 With its library of over 2 million high-performing tweets (and it’s constantly updated), as well as a collection of curated tweets across ten different categories, it’s easy to search for similar tweets themed around specific topics, keywords, accounts, or even @handles. You can even set filters to exclude certain keywords and people.
 
+![Topics for Twitter from Tweet Hunter](/assets/images/drafts/tweet-motivations.png "Topics for Twitter from Tweet Hunter"){: width="500" height="134"}
+
 This feature makes it easy to find inspiration to create. However, the app also offers automatic inspiration suggestions, daily custom and ready-to-publish tweets, thread ideas, and thread hook generators.
 
 One of my favorite tools in this category is its Tweet Rewriter. Tweet Hunter uses artificial intelligence to help users optimize their content by generating new versions of your tweet based on popular SEO keywords. If you didn’t know, Twitter uses an SEO-like algorithm to determine what you see on your timeline, so this is a great feature.
