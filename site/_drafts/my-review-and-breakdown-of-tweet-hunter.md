@@ -70,7 +70,11 @@ You can’t improve something if you don’t measure it.
 
 Every Twitter user wants more impressions and engagement. Tweet Hunter offers a range of powerful analytics to help you track the metrics most relevant to your Twitter growth. You can easily track the top tweets with the most followers, engagement, and reach, and organize your tweets by date and performance.
 
-You can monitor daily follower growth and individual tweet performance, including impressions, clicks, engagement, and retweets. You can publish your stats publicly and track your overall Twitter performance over the past week, month, or quarter. This is an excellent tool for selling retweets to someone to tell them that your account is the real deal. Or, sometimes, you just want to post your metrics for bragging rites.
+![Tweet Hunter Analytics](/assets/images/drafts/analytics-for-tweet-hunter.png "Tweet Hunter Analytics"){: width="600" height="543"}
+
+You can monitor daily follower growth and individual tweet performance, including impressions, clicks, engagement, and retweets. You can publish your stats publicly and track your overall Twitter performance over the past week, month, or quarter.
+
+This is an excellent tool for selling retweets to someone to tell them that your account is the real deal. Or, sometimes, you just want to post your metrics for bragging rites.
 
 But that's not all – Tweet Hunter also offers ghostwriting options for multiple clients from a single account, a tweet preview link feature that automatically redirects to Twitter once published, and the ability to add as many Twitter accounts as you need, all at no additional cost. Upgrade your Twitter strategy with Tweet Hunter's analytics tools.
 
