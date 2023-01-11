@@ -118,6 +118,8 @@ Make sure you tell people that they will receive a DM if they retweet the tweet.
 
 I’ve used this feature to help grow my followers and make a post go viral. I’ve done this by setting the freebie to auto-dm and letting people know that the only way to get it is to retweet the tweet. This works amazingly well if you position it the tweet that triggers the auto-dm as part of a thread.
 
+![Message sent to people who retweet to download my ebook](/assets/images/drafts/four-confidences-tweethunter-download.png "Message sent to people who retweet to download my ebook"){: width="450" height="410"}
+
 This is a great way to streamline your Twitter marketing efforts and really turn your Twitter account into a cash cow.
 
 ***Try Tweet Hunter's Auto DM feature on a free [7-day trial today](http://tweethunter.io/?via=edward) and start seeing results immediately.***
