@@ -92,7 +92,11 @@ Simply search for tweets by account, category, or keyword to find out what's tre
 
 ![My list of inspiring tweets. Seems right for my keywords.](/assets/images/drafts/updated-tweets-for-inspiration.png "My list of inspiring tweets. Seems right for my keywords."){: width="450" height="422"}
 
-Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate innovative ideas for your tweets. With such a wealth of resources at your fingertips, you'll be well on your way to using AI writing to create the next viral tweet
+Use Tweet Hunter as your personal ghostwriter. The ai writer will help generate innovative ideas for your tweets. After you plug in the keywords you want the AI ghostwriter to create around, it then pops out a few tweets that are actually pretty decent.&nbsp;
+
+![Some tweets TweetHunter generated for me based on my keywords](/assets/images/drafts/ai-generated-tweets-tweethunter.png "Some tweets TweetHunter generated for me based on my keywords"){: width="500" height="452"}
+
+With such a wealth of resources at your fingertips, you'll be well on your way to using AI writing to create the next viral tweet
 
 ***If you’ve never used AI to write tweets, take [7 days to try it out for free.](http://tweethunter.io/?via=edward)***
 
