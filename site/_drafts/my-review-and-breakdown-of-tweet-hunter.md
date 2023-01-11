@@ -50,6 +50,10 @@ The Thread Ideas feature also helps you develop ideas for tweet threads that hav
 
 TweetPredict™ predicts how well your tweet will perform based on the wording you’re using and how similar tweets before have performed. I’ve always maintained that how you write on Twitter is *just* as important as what you write about, and this addition of this tool strongly supports that assertion.
 
+![Tweet Predict gives a successful tweet just an &quot;ok&quot; rating](/assets/images/drafts/twitter-stats-hypefury-comparison.jpg "Tweet Predict gives a successful tweet just an &quot;ok&quot; rating"){: width="960" height="540"}
+
+This feature is nice, but I wouldn't put&nbsp;*too*&nbsp;much stock into it. I ran some of my more popular tweets through it, and it only came back with an "ok" rating on a few of them.&nbsp;
+
 ***Overall, Tweet Hunter's AI-powered features make it an efficient and effective tool for finding and sharing the best content on Twitter. [Take a free 7-day trial of this feature to see for yourself.](http://tweethunter.io/?via=edward)***
 
 ## Fantastic Customer Relationship Management (CRM) system
