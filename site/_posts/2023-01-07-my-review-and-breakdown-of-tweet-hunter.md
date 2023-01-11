@@ -44,11 +44,13 @@ With its library of over 2 million high-performing tweets (and it’s constantly
 
 ![Topics for Twitter from Tweet Hunter](/assets/images/drafts/tweet-motivations.png "Topics for Twitter from Tweet Hunter"){: width="500" height="134"}
 
+The Thread Ideas feature also helps you develop ideas for tweet threads that have the highest probability of engaging your users and getting shared, but that’s not even Tweet Hunter’s most unique feature.
+
+![The threads are heavy on money ideas, but that's more a result of users than Tweet Hunter. Still useful](/assets/images/drafts/thrad-starters.png "The threads are heavy on money ideas, but that's more a result of users than Tweet Hunter. Still useful"){: width="550" height="430"}
+
 This feature makes it easy to find inspiration to create. However, the app also offers automatic inspiration suggestions, daily custom and ready-to-publish tweets, thread ideas, and thread hook generators.
 
 One of my favorite tools in this category is its Tweet Rewriter. Tweet Hunter uses artificial intelligence to help users optimize their content by generating new versions of your tweet based on popular SEO keywords. If you didn’t know, Twitter uses an SEO-like algorithm to determine what you see on your timeline, so this is a great feature.
-
-The Thread Ideas feature also helps you develop ideas for tweet threads that have the highest probability of engaging your users and getting shared, but that’s not even Tweet Hunter’s most unique feature.
 
 TweetPredict™ predicts how well your tweet will perform based on the wording you’re using and how similar tweets before have performed. I’ve always maintained that how you write on Twitter is *just* as important as what you write about, and this addition of this tool strongly supports that assertion.
 
