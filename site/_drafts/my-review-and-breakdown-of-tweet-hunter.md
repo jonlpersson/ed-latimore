@@ -76,7 +76,7 @@ You can monitor daily follower growth and individual tweet performance, includin
 
 This is an excellent tool for selling retweets to someone to tell them that your account is the real deal. Or, sometimes, you just want to post your metrics for bragging rites.
 
-But that's not all – Tweet Hunter also offers ghostwriting options for multiple clients from a single account, a tweet preview link feature that automatically redirects to Twitter once published, and the ability to add as many Twitter accounts as you need, all at no additional cost. Upgrade your Twitter strategy with Tweet Hunter's analytics tools.
+The analytics measurements aren't that different the ones you get from Twitter automatically, but seeing your top tweets broken down by those categories is useful for knowing [which pieces of content to repurpose.](/tweetpik-review/)
 
 ***Get next level insights into your Twitter analytics with this [free 7-day trial.](http://tweethunter.io/?via=edward)***
 
