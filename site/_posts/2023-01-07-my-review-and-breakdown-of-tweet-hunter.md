@@ -30,7 +30,7 @@ Tweet Hunter also includes several AI-powered features to help optimize your con
 
 ## A brief history of Tweet Hunter’s creation (skip ahead if you just want the review)
 
-Tweethunter is founded by Tibo Louis-Lucas and Thomas Jacquesson. Their idea was to analyze and index popular tweets, then store them in a "swipe file" for users to browse and draw inspiration from.
+TweetHunter is founded by Tibo Louis-Lucas and Thomas Jacquesson. Their idea was to analyze and index popular tweets, then store them in a "swipe file" for users to browse and draw inspiration from.
 
 ![Tibo Louis-Lucas and Thomas Jacquesson, Tweethunter Founders](/assets/images/drafts/tweethunter-founders.jpg "Tibo Louis-Lucas and Thomas Jacquesson, Tweethunter Founders"){: width="500" height="281"}
 
@@ -40,23 +40,23 @@ They saw a need for a tool like Tweet Hunter in the crowded world of Twitter, wh
 
 ## Tweet hunter helps you create content
 
-With its library of over 2 million high-performing tweets (and it’s constantly updated), as well as a collection of curated tweets across ten different categories, it’s easy to search for similar tweets themed around specific topics, keywords, accounts, or even @handles. You can even set filters to exclude certain keywords and people.
+With its library of over 2 million high-performing tweets (and it's constantly updated), as well as a collection of curated tweets across ten different categories, it's easy to search for similar tweets themed around specific topics, keywords, accounts, or even @handles. You can even set filters to exclude certain keywords and people.
 
 ![Topics for Twitter from Tweet Hunter](/assets/images/drafts/tweet-motivations.png "Topics for Twitter from Tweet Hunter"){: width="500" height="134"}
 
-The Thread Ideas feature also helps you develop ideas for tweet threads that have the highest probability of engaging your users and getting shared, but that’s not even Tweet Hunter’s most unique feature.
+The Thread Ideas feature also helps you develop ideas for tweet threads that have the highest probability of engaging your users and getting shared, but that's not even TweetHunter's most unique feature.
 
 ![The threads are heavy on money ideas, but that's more a result of users than Tweet Hunter. Still useful](/assets/images/drafts/thrad-starters.png "The threads are heavy on money ideas, but that's more a result of users than Tweet Hunter. Still useful"){: width="550" height="430"}
 
 This feature makes it easy to find inspiration to create. However, the app also offers automatic inspiration suggestions, daily custom and ready-to-publish tweets, thread ideas, and thread hook generators.
 
-One of my favorite tools in this category is its Tweet Rewriter. Tweet Hunter uses artificial intelligence to help users optimize their content by generating new versions of your tweet based on popular SEO keywords. If you didn’t know, Twitter uses an SEO-like algorithm to determine what you see on your timeline, so this is a great feature.
+One of my favorite tools in this category is its Tweet Rewriter. TweetHunter uses artificial intelligence to help users optimize their content by generating new versions of your tweet based on popular SEO keywords. If you didn't know, Twitter uses an SEO-like algorithm to determine what you see on your timeline, so this is a great feature.
 
-TweetPredict™ predicts how well your tweet will perform based on the wording you’re using and how similar tweets before have performed. I’ve always maintained that how you write on Twitter is *just* as important as what you write about, and this addition of this tool strongly supports that assertion.
+TweetPredict™ predicts how well your tweet will perform based on the wording you're using and how similar tweets before have performed. I've always maintained that how you write on Twitter is just as important as what you write about, and this addition of this tool strongly supports that assertion.
 
 ![Tweet Predict gives a successful tweet just an &quot;ok&quot; rating](/assets/images/drafts/twitter-stats-hypefury-comparison.jpg "Tweet Predict gives a successful tweet just an &quot;ok&quot; rating"){: width="960" height="540"}
 
-This feature is nice, but I wouldn't put&nbsp;*too*&nbsp;much stock into it. I ran some of my more popular tweets through it, and it only came back with an "ok" rating on a few of them.&nbsp;
+This feature is nice, but I wouldn't put too much stock into it. I ran some of my more popular tweets through it, and it only came back with an "ok" rating on a few of them.
 
 ***Overall, Tweet Hunter's AI-powered features make it an efficient and effective tool for finding and sharing the best content on Twitter. [Take a free 7-day trial of this feature to see for yourself.](http://tweethunter.io/?via=edward)***
 
