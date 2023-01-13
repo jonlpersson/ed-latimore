@@ -9,7 +9,7 @@ categories:
   - connecting-with-people
 description: >-
   Wondering about your first girlfriend? Here’s what happens when you get a girlfriend.
-image: /assets/images/thumbnails/ed-with-girlfriend-anna-in-snow.jpg
+image: /assets/images/thumbnails/ed-with-girlfriend-anna-in-snow.JPG
 ---
 
 Most people start dating around 12 or 13 but plenty of adults, about 42% of singles under 40, have never been in a committed relationship.[^1] [^2]
