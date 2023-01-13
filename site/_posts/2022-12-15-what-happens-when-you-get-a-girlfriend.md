@@ -66,7 +66,7 @@ Mental toughness is a measure of your resilience and confidence. In real life, i
 
 I took up boxing because I was not emotionally or mentally tough. I drank all the time and complained about how stupid college was to anyone that would listen. Never mind the fact that my best friends at the time only saw me as the drunk guy who worked at Starbucks. Today, I am a former boxer, hold a degree in physics, and have amassed a substantial [Twitter following](https://twitter.com/EdLatimore).
 
-I mention Twitter because you _have _to be mentally tough to thrive on social media.
+I mention Twitter because you _have_ to be mentally tough to thrive on social media.
 
 Relationships make you mentally tough if you let them. You and your new girlfriend are individuals. This means you’re going to face difficulty and conflict and sometimes you both will be right.
 
