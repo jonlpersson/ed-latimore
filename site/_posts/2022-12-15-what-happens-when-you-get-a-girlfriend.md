@@ -121,9 +121,7 @@ Here’s what to expect when you get a girlfriend at any age:
 
 [^1]: _Healthy Children  _When to Let Your Teenager Start Dating. Caring for Your Teenager. Copyright © 2003 American Academy of Pediatrics. [https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating](https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating) (Accessed Dec. 7, 2022)
 
-[^2]:  Brown, Anna. _Pew Research Center _A profile of Single Americans _ _(2022)
-
-[https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/](https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/)  (Accessed Dec. 7, 2022)
+[^2]:  Brown, Anna. _Pew Research Center _A profile of Single Americans _ _(2022) [https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/](https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/)  (Accessed Dec. 7, 2022)
 
 [^3]: Do Social Ties Affect Our Health? _NIH News in Health  _Exploring the Biology of Relationships (2017)  [https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health](https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health) (Accessed Dec. 7, 2022)
 
