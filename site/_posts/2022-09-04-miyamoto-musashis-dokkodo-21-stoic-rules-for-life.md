@@ -4,6 +4,7 @@ article_type: Article
 title: 'Miyamoto Musashi''s Dokkodo: 21 Stoic rules for life'
 permalink: /dokkodo/
 tags:
+  - book-quotes-and-summaries
 categories:
   - quotes-and-book-summaries
 description: >-
