@@ -1,7 +1,7 @@
 ---
 date: 2019-11-16 15:55:00 -0500
 article_type: Article
-title: How to be a better writer in 15 steps
+title: How to become a better writer in 15 steps
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - writing-skills
