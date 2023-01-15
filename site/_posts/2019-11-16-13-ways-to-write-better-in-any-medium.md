@@ -26,7 +26,7 @@ You probably didn't learn any of these in school, but school isn't in the busine
 
 Or do any of the things that a career writer does. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you a good writer is like learning how to punch and hoping that it makes you a good fighter.
 
-Follow the simple tips below and you'll be able to get paid for your words.
+Follow the simple tips below and you'll be well on your way to becoming a better writer and you'll be able to get paid for your words.
 
 ## 1) Have something to say
 
@@ -151,7 +151,9 @@ We never learn it this way in English, but it’s present. Becoming aware of whe
 
 If English is your native language, you likely use these forms without even thinking about it. [Learning them in a foreign language will force you to understand how they work in English.](https://awordsmith.com/learning-another-language-makes-you-a-better-writer/#:~:text=Foreign%20languages%20give%20new%20insight,children%20recognize%20and%20use%20it.){: target="_blank" rel="noopener noreferrer"}
 
-This understanding will make your writing more clear and purposeful.
+If you aren't sure which language to study, pick the one with a culture you have a legitimate interest in. The popularity of the language doesn't matter. Only that you care about enough to learn the in's and out's.
+
+This will drive you to develop an understanding that will make your writing more clear and purposeful.
 
 ## 7) [Use Twitter, Facebook, and other social media](/how-to-get-more-twitter-followers/)
 
