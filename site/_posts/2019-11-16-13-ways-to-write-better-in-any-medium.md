@@ -128,7 +128,7 @@ But your job is to listen, take what is useful, and discard the rest.
 
 {% include widgets/summary.html id="Crackhead-Writing-Method" %}
 
-## 6) Learn another language
+## 6) Learn another language to improve your writing skills
 
 I’ve always had a strong interest in foreign languages. It wasn’t until I really [took the time to learn Spanish grammar that I developed an appreciation for communication in my own language.](https://www.fluentu.com/blog/social-benefits-of-learning-a-second-language/){: target="_blank" rel="noopener noreferrer"}
 
@@ -226,7 +226,7 @@ My best ideas come when I’m "in the zone" writing. Proofreading happens later.
 
 At best, my words are guided by a theme. My fingers are inspired by an idea and I keep writing until I’ve exhausted all that I’ve got to say.
 
-## 10) Learn the rules of grammar and punctuation
+## 10) A writer must know the rules of grammar and punctuation&nbsp;
 
 ![follow simple grammar tips makes reading your content easier ed latimore](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "follow simple grammar tips makes reading your content easier ed latimore"){: width="640" height="640"}
 
@@ -284,7 +284,7 @@ Above all things, always improve your writing skills. Post on social media, writ
 
 Always find a way to improve your technical mastery and stylistic expression.
 
-## 12) Read as much as you can
+## 12) Read as much as you can to improve the writing process
 
 You're probably not reading enough so start reading more.
 
