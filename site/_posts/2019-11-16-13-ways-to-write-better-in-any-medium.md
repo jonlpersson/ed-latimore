@@ -14,7 +14,7 @@ description: >-
 ---
 Here are 15 of the best tips I know that will help you become a better writer. I've used them to increase sales and improve the marketing of my writing program and book.
 
-You probably didn't learn any of these in school, but school isn't in the business of teaching you how to
+You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:
 
 * [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
 * [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
@@ -22,6 +22,7 @@ You probably didn't learn any of these in school, but school isn't in the busine
 * Create marketing campaigns
 * Run book advertising
 * Plan books
+* How to become a better writer, in general
 
 Or do any of the things that a career writer does. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you a good writer is like learning how to punch and hoping that it makes you a good fighter.
 
