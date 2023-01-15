@@ -414,6 +414,14 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
 
+## 16) Get a writing instructor/coach
+
+No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A good writing coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
+
+You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
+
+Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a better writer quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
+
 ## A recap of 15 simple tips to write your best content:
 
 1. Have something to say
