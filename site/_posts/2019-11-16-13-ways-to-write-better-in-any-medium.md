@@ -1,7 +1,7 @@
 ---
 date: 2019-11-16 15:55:00 -0500
 article_type: Article
-title: 15 ways to write better in any medium
+title: How to be a better writer in 15 steps
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - writing-skills
@@ -400,7 +400,7 @@ The biggest reason is that the active voice is a more efficient use of words. To
 
 This word economy makes it easier for your word to be read and your message gets through more clearly.
 
-## Avoid adverbs whenever possible
+## 15) Avoid adverbs whenever possible
 
 *\*\*Grammar recap: \*\**An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.
 
