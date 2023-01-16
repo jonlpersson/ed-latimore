@@ -55,7 +55,7 @@ My secondary purpose is to spread my message as far and as wide as possible. I�
 
 On the rare occasion that my secondary goal and primary goal conflict, the primary goal always wins.
 
-## 2) Treat writing like a labor of love
+## 2) Treat it like a labor of love
 
 Writing is a skill. Like any other skill, it requires consistent practice to improve.
 
@@ -77,7 +77,7 @@ It doesn’t matter what you write. It doesn’t matter how much you write. If y
 
 These are all ideas that will get your mental juices going and can sometimes be used to overcome the dreaded "writer's block". If none of these appeal to you, there's always your life and experiences. This brings me to my next lesson…
 
-## 3) Write about your life experiences first
+## 3) Talk about your life experiences first
 
 Writing about your experiences is powerful.
 
@@ -97,7 +97,7 @@ The best writers force people to form an emotional connection with the material.
 
 Your story might be cool and inspiring, but if you can’t tell it in a way that resonates with people then your writing will underperform.
 
-## 4) Science and math make you better with words
+## 4) Science and math make you a better communicator
 
 The wonderful thing about [mathematics](/math-concepts/) and the [sciences](/is-physics-hard-how-to-study-and-learn-basic-physics/) is that you NEED a large vocabulary to discuss things. This might surprise people, but some of the best writers have a background in math and science.
 
