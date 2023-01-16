@@ -1,7 +1,7 @@
 ---
 date: 2022-07-18 20:12:11 -0400
 article_type: Article
-title: A personal blog teaches you how to build an email list
+title: The personal brand way to build an email list
 permalink: /how-to-build-and-manage-an-email-list/
 tags:
   - writing-skills
@@ -34,7 +34,7 @@ An email list proves that you’ll be able to get a message out and sell to peop
 
 Social media platforms come and go. Websites are much more stable, but I’ve even heard of those coming under fire. However, the list of emails you collect is yours to import to any email marketing provider.
 
-***I use Convertkit. I migrated from Mailchimp a few years back and have been happy ever since. They have a lot of built-in features that I’ll discuss later that make email list building easy. [You can read my review of them here.&nbsp;](/convertkit-review/)***
+***I use Convertkit. I migrated from Mailchimp a few years back and have been happy ever since. They have a lot of built-in features that I’ll discuss later that make email list building easy. [You can read my review of them here.](/convertkit-review/)***
 
 In many ways, growing your email list is easier than growing any other marketing platform on the internet. You may see your Twitter, Instagram, Facebook (and any other social media account), or Youtube subscribers increase quickly, but the quality and value of those followers greatly vary.
 
@@ -56,7 +56,7 @@ Even if you sought out the content or the algorithm looked at search habits and 
 
 A person has to actively sign up for your mailing list. This means they have decided to think so highly of you and your content that they’re allowing you into their (most likely) already crowded inbox.
 
-To give you an analogy, this is like someone trusting you so much that they give you the keys to their house.&nbsp;
+To give you an analogy, this is like someone trusting you so much that they give you the keys to their house.
 
 Above all others, the first rule of building an email list is to never abuse this sacred relationship. If people sign up to your email list for information, always give them information. Even if you sell to them, do it after giving them the day's information.
 
@@ -96,7 +96,7 @@ You’ll need something to store hundreds of email addresses and send out your m
 
 **Gumroad:** Gumroad is technically a platform for selling digital products, but it also allows you to email anyone who buys what you’re selling or downloads anything you decide to give away. I understand this is a function common to all seller platforms, but my experience is with Gumroad. It’s very simple to set up and extremely simple to use.
 
-It doesn’t matter which one of these you start with you. All email clients allow you to export your email list and easily upload it to whichever new client you select. The answer to all of your technical questions can be easily found with a Google search.&nbsp;
+It doesn’t matter which one of these you start with you. All email clients allow you to export your email list and easily upload it to whichever new client you select. The answer to all of your technical questions can be easily found with a Google search.
 
 ## Regularly communicate with your email list
 
@@ -138,29 +138,29 @@ If they don’t open too many of your emails in a row, you may end up in the spa
 
 The easiest way to avoid this problem is by ensuring that your subject lines make people want to open your emails. The easiest way to do this is to ensure that your subject lines touch on one of the Four C’s.
 
-### Cheap&nbsp;
+### Cheap
 
 People are more motivated by the avoidance of loss rather than the potential of gain. In psychology, this is called “Loss aversion bias.” Your headlines will generally do better if you show people how to shield themselves from suffering rather than increase their level of enjoyment.
 
-“How To Avoid Dehydration” will get more viewers than “How To Stay Hydrated” even though they express the same idea. &nbsp;
+“How To Avoid Dehydration” will get more viewers than “How To Stay Hydrated” even though they express the same idea.
 
-### Comfort&nbsp;
+### Comfort
 
-This is the natural extension of pain avoidance. It’s not so much that people would rather avoid loss than chase gain. It’s more so that both take energy, and only one is coupled with an immediate benefit—relieving pain felt.&nbsp;
+This is the natural extension of pain avoidance. It’s not so much that people would rather avoid loss than chase gain. It’s more so that both take energy, and only one is coupled with an immediate benefit—relieving pain felt.
 
 People’s loss aversion decreases in direct proportion to how quickly the benefits of potential gain are experienced. People will pay attention if you can promise to make something easier, faster, and more pleasant without additional risk or effort.
 
 “The Easiest Way To Lose 10 Lbs in 10 Days” will get more readers than “The Slow And Steady Way To Lose 10 Lbs in 10 Weeks,” although the latter is likely much safer and more reasonable.
 
-### Competition&nbsp;
+### Competition
 
 Competition is one of the driving forces of evolution. Whether it’s two people competing for a mate or a promotion, there’s always the desire to outperform and dominate others. Make your headlines appear that you have the secret to victory.
 
-### Community&nbsp;
+### Community
 
 Relationships are another natural motivator we can’t shake. Whether being more popular or getting a girl, people will pay attention if they believe you can improve their social status.
 
-Competition and community appeal to the main goals of any human. When you strip away our fancy technology, humans still operate on their basic desires: to survive and reproduce. This is why headlines and content centered around those ideas do so well.&nbsp;
+Competition and community appeal to the main goals of any human. When you strip away our fancy technology, humans still operate on their basic desires: to survive and reproduce. This is why headlines and content centered around those ideas do so well.
 
 These four play on biological needs we can’t shake. Your engagement will skyrocket if you understand your niche and play your cards right.
 
@@ -170,9 +170,9 @@ What’s the worst-case scenario for someone trying to build an email list?
 
 That would be that they don’t have a website to reach their target audience, or they have a small social media presence. In putting together this worst-case scenario, I’ve assumed that you have something worth saying and teaching, but you’re low on an audience. If you don’t have a skillset or something to share, you’ll need to take care of that first.
 
-With that out of the way, now the problem is exposure.&nbsp;
+With that out of the way, now the problem is exposure.
 
-## Advertisement and promotion&nbsp;
+## Advertisement and promotion
 
 The “ethical bribe” is the most effective tactic for using your website to increase your mailing list. However, the tactic is not limited to your website. It’s effective anywhere you can place a static banner of text.
 
