@@ -1,7 +1,7 @@
 ---
 date: 2019-11-16 15:55:00 -0500
 article_type: Article
-title: How to become a better writer in 15 steps
+title: How to become a better writer in 16 steps
 permalink: /how-to-write-better-and-be-a-better-writer/
 tags:
   - writing-skills
@@ -123,7 +123,7 @@ Sometimes the criticism is just jealousy. Other times, it’s legitimate informa
 
 Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) If you want to be a great writer, there will be times when you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
 
-However, not all criticism is equal.
+However, [not all criticism is equa](/why-you-have-haters-even-if-you-arent-an-asshole/)l.
 
 Some of it will be valid. Some of it will be malice. Some of it will be downright spiteful.
 
@@ -357,10 +357,6 @@ In the two examples, it might seem justified to just cut my ideas off at the fir
 
 Your success as a writer (regardless of the medium) depends on your ability to keep people hooked on your words. The more time they spend engaged with your content, the more likely they are to come back for more. It's not a coincidence that I titled my first book on writing for Twitter ["Engagement Is The New Cocaine".](https://engagementisthenewcocaine.com/)
 
-Good writing is like a drug.
-
-Since good writing is rewarded by engagement, it pays to write longer prose.
-
 Why would you only write 140 characters worth of tweets when you have 280 to work with? Google's SEO algorithm ​*strongly*​ rewards the time a reader spends on the page ingesting content. Computers and humans alike enjoy longer content.
 
 The problem is that the longer the content is, the greater risk you run of being redundant and causing your audience to suffer word fatigue.
@@ -421,9 +417,9 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
 
-## 16) Get a writing instructor/coach
+## 16) Get writing instructors/coaches
 
-No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A good writing coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
+No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A writing coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
 
 You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
 
@@ -446,3 +442,4 @@ Nothing improved my writing faster than getting feedback on it. Whether that fee
 13. Learn the power of pronouns, synonyms, and implication
 14. Use active voice
 15. Avoid adverbs
+16. Get writing instructors
