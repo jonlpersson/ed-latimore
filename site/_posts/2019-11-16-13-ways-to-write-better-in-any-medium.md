@@ -12,7 +12,7 @@ description: >-
   Tired of being a starving artist? Discover 15 simple ways on how to be a
   better writer and develop the writing skills you've always dreamed of.
 ---
-In the era of making money online, so many people want to know how to become a better writer.
+In the era of making money online, so many people want to know writer better.
 
 Here are 16 tips I know that will help you become a better written content creator. I've used them to increase sales and improve my writing program and book marketing.
 
@@ -24,7 +24,6 @@ You probably didn't learn any of these in school, but school isn't in the busine
 * Create marketing campaigns
 * Run book advertising
 * Plan books
-* How to become a better writer, in general
 
 Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.
 
@@ -131,7 +130,7 @@ But your job is to listen, take what is useful, and discard the rest.
 
 {% include widgets/summary.html id="Crackhead-Writing-Method" %}
 
-## 6) Learn another language
+## 6) Learn another language&nbsp;
 
 I’ve always had a strong interest in foreign languages. It wasn’t until I really [took the time to learn Spanish grammar that I developed an appreciation for communication in my own language.](https://www.fluentu.com/blog/social-benefits-of-learning-a-second-language/){: target="_blank" rel="noopener noreferrer"}
 
@@ -231,7 +230,7 @@ My best ideas come when I’m "in the zone" writing. Proofreading happens later.
 
 At best, my words are guided by a theme. My fingers are inspired by an idea and I keep writing until I’ve exhausted all that I’ve got to say.
 
-## 10) Know the rules of grammar and punctuation
+## 10) Know the rules of grammar and punctuation&nbsp;
 
 ![follow simple grammar tips makes reading your content easier ed latimore](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "follow simple grammar tips makes reading your content easier ed latimore"){: width="640" height="640"}
 
@@ -309,7 +308,7 @@ The only way to develop this skill is by reading. Practice reading something eve
 
 ## 13) Learn the power of pronouns, synonyms, and implication
 
-When other writers ask me how to become a better writer, this is the one step that can often make all the difference. It will take good prose to great, and does not take much effort at all.
+When other writers ask me improve their writing, this is the one step that can often make all the difference. It will take good prose to great, and does not take much effort at all.
 
 The use of pronouns can help you avoid something known as "word fatigue".
 
@@ -327,7 +326,7 @@ While the idea I express in this tweet is sound, it would never take off in its 
 
 ![Good example of pronoun, synonym, and implication](/assets/images/posts/2019/waste-a-year.png "Good example of pronoun, synonym, and implication"){: width="640" height="373"}
 
-### Why This Worked Better
+### Why This Worked Better&nbsp;
 
 I only use the word "year" once. That's all I need to do, because the audience knows that I'm not talking about any other noun. This allows me to create a sharper tweet that better resonates with the audience.
 
@@ -423,7 +422,7 @@ No matter how much natural talent you have, there is always more to learn and th
 
 You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
 
-Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.
+Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
 
 ## Becoming a better writer recap:
 
