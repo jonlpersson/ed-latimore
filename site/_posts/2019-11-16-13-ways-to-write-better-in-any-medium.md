@@ -186,7 +186,7 @@ SEO seems to be largely about readability and categorization. It obviously is mo
 
 Google is in the business of providing people with easy-to-read content that solves their problems. This is also what writing with a purpose does. This is not a coincidence.
 
-### Computers versus people: SEO doing the work for you
+### Computers versus people: Search Engine Optimization&nbsp;
 
 [On writing content for SEO](https://www.stevepavlina.com/blog/2010/12/how-i-write/){: target="_blank" rel="noopener noreferrer"}, Steve Pavlina once said, “Write for people first, search engines second.” Intellectually, this always made sense. However, it wasn’t until I started trying to drive traffic to my site that I really came to understand it.
 
