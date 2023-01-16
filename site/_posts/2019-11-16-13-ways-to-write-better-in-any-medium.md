@@ -20,7 +20,7 @@ You probably didn't learn any of these in school, but school isn't in the busine
 
 * [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
 * [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
-* Craft emails
+* [Craft emails](/how-to-build-and-manage-an-email-list/)
 * Create marketing campaigns
 * Run book advertising
 * Plan books
@@ -49,7 +49,7 @@ My official purpose for writing is “To take what I’ve learned the hard way a
 
 ### Achieving this goal drives 100% of my blogging decisions.
 
-My secondary purpose is to spread my message as far and as wide as possible. I’ve had to learn networking, marketing, and SEO. I have a mix of e-books to promote myself on social media and books I've self-published on Amazon because Amazon is a massive sales-driven SEO machine.
+My secondary purpose is to spread my message as far and as wide as possible. I’ve had [to learn networking](/how-to-network/), marketing, and SEO. I have a mix of e-books to promote myself on social media and books I've self-published on Amazon because Amazon is a massive sales-driven SEO machine.
 
 [The internet is wonderful and allows me to expose my content to more people.](/how-to-build-a-personal-brand/)
 
@@ -99,7 +99,7 @@ Your story might be cool and inspiring, but if you can’t tell it in a way that
 
 ## 4) Science and math make you better with words
 
-The wonderful thing about mathematics and the sciences is that you NEED a large vocabulary to discuss things. This might surprise people, but some of the best writers have a background in math and science.
+The wonderful thing about [mathematics](/math-concepts/) and the [sciences](/is-physics-hard-how-to-study-and-learn-basic-physics/) is that you NEED a large vocabulary to discuss things. This might surprise people, but some of the best writers have a background in math and science.
 
 The world is a large place with many things that behave in many different ways under many different conditions. I’d argue that one finishes a physics or chemistry degree with a more robust lexicon than an English or literature student.
 
@@ -119,9 +119,9 @@ This is because ultimately, writers are in service to their audience.
 
 You only do the writing. They do the reading. This means that you need to at least consider what they’re saying.
 
-Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will improve the quality of your writing. You’ll have to be the judge, but automatically writing off criticism is one of the major barriers to success.
+Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will [improve the quality of your writing](/bad-writing/). You’ll have to be the judge, but automatically writing off criticism is one of the major barriers to success.
 
-Not everyone who gives you criticism is a hater and not every hater is wrong. If you want to be a great writer, there will be times when you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
+Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) If you want to be a great writer, there will be times when you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
 
 However, not all criticism is equal.
 
