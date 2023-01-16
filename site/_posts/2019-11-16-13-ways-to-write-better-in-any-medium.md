@@ -14,39 +14,39 @@ description: >-
 ---
 In the era of making money online, so many people want to know how to become a better writer.
 
-Here are 16 tips I know that will help you become a better written content creator. I've used them to increase sales and improve my writing program and book marketing.
+Here are 16 tips I know that will help you become a better written content creator. I've **used them to increase sales and improve my writing program and book marketing.**
 
-You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:
+**You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:**
 
-* [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
-* [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
-* [Craft emails](/how-to-build-and-manage-an-email-list/)
-* Create marketing campaigns
-* Run book advertising
-* Plan books
+* **[Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)**
+* **[Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)**
+* **[Craft emails](/how-to-build-and-manage-an-email-list/)**
+* **Create marketing campaigns**
+* **Run book advertising**
+* **Plan books**
 
-Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.
+**Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.**
 
-Follow the simple tips below and you'll be well on your way to writing so well you'll be able to get paid for your words.
+**Follow the simple tips below and you'll be well on your way to writing so well you'll be able to get paid for your words.**
 
-## 1) Have something to say
+## **1) Have something to say**
 
-![Ed latimore books signing](/assets/images/posts/2019/how-to-become-a-better-writer-write-better-ed-latimore-2.jpg "Ed latimore books signing"){: width="450" height="600"}
+**![Ed latimore books signing](/assets/images/posts/2019/how-to-become-a-better-writer-write-better-ed-latimore-2.jpg "Ed latimore books signing"){: width="450" height="600"}**
 
-Good writers create content to either entertain or teach. Great writers manage to do both. It's easy to do this when you have something valuable to say.
+**Good writers create content to either entertain or teach. Great writers manage to do both. It's easy to do this when you have something valuable to say.**
 
-I don't want to merely be a good writer. I want to say things in a way that makes people think about things differently and change the world while doing so.
+**I don't want to merely be a good writer. I want to say things in a way that makes people think about things differently and change the world while doing so.**
 
-This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional writer.
+**This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional writer.**
 
-My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.*
+**My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.***
 
 > **“Either write something worth reading or do something worth writing about"**
 >
 >
 > **\-Benjamin Franklin**
 
-### Achieving this goal drives 100% of my blogging decisions.
+**Achieving this goal drives 100% of my blogging decisions.**
 
 My secondary purpose is to spread my message as far and as wide as possible. I’ve had [to learn networking](/how-to-network/), marketing, and SEO. I have a mix of e-books to promote myself on social media and books I've self-published on Amazon because Amazon is a massive sales-driven SEO machine.
 
@@ -62,7 +62,7 @@ There isn't a day that goes by where I don't try to write ***something***. You s
 
 It doesn’t matter what you write. It doesn’t matter how much you write. If you want to become a better writer, you need to write every day.
 
-### Here's a shortlist of things to write to improve your skills:
+<u><strong>Here's a shortlist of things to write to improve your skills:</strong></u>
 
 * "How to" guides
 * Fiction
@@ -214,9 +214,7 @@ The problem with this method is that it’s *boring as hell.* Many of the best w
 
 > \*\*The first draft is about you and the story. Nothing else, and no one else. \*\*Make it what you want, and don’t worry about how others will perceive it.
 
-I completely agree with it.
-
-### Content creation needs action more than a plan
+I completely agree with it. Content creation needs action more than a plan
 
 [I haven’t produced any content on this blog with an outline.](/bad-writing/)
 
@@ -240,7 +238,7 @@ If you don’t, Google it. The best writers love it because it makes everything 
 
 Basic grammar and punctuation go a long way in helping you share your ideas. Even if your readers don’t have a sophisticated grasp of the language rules, they’ll know when you’ve broken them and this *will* have a [negative impact on communication.](https://bodhih.com/training-and-development/grammar-important-communication/){: target="_blank" rel="noreferrer noopener"}
 
-### The only goal
+<u><strong>The only goal</strong></u>
 
 Writing has one simple goal: put your ideas into the minds of other people. Since humanity hasn't figured out how to harness telepathy, we have to use a language and writing system.
 
@@ -269,8 +267,6 @@ Your brand voice is what makes your writing unique and allows you to stand out d
 Your age doesn’t matter but your experience does. If you want to connect with your audience, you need life experience.
 
 You don't need to be an expert. You don't even need to have a lot of things figured out. But you need to have a range of experiences from which you can draw.
-
-### Why experience matters
 
 Experience is necessary because your readers are other humans. These humans have human experiences that have taught them universal lessons. Lessons that can't be taught in a book and can only be learned in the school of hard knocks we call "life".
 
