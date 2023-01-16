@@ -131,7 +131,7 @@ But your job is to listen, take what is useful, and discard the rest.
 
 {% include widgets/summary.html id="Crackhead-Writing-Method" %}
 
-## 6) Learn another language&nbsp;
+## 6) Learn another language
 
 I’ve always had a strong interest in foreign languages. It wasn’t until I really [took the time to learn Spanish grammar that I developed an appreciation for communication in my own language.](https://www.fluentu.com/blog/social-benefits-of-learning-a-second-language/){: target="_blank" rel="noopener noreferrer"}
 
@@ -231,7 +231,7 @@ My best ideas come when I’m "in the zone" writing. Proofreading happens later.
 
 At best, my words are guided by a theme. My fingers are inspired by an idea and I keep writing until I’ve exhausted all that I’ve got to say.
 
-## 10) Know the rules of grammar and punctuation&nbsp;
+## 10) Know the rules of grammar and punctuation
 
 ![follow simple grammar tips makes reading your content easier ed latimore](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "follow simple grammar tips makes reading your content easier ed latimore"){: width="640" height="640"}
 
@@ -327,7 +327,7 @@ While the idea I express in this tweet is sound, it would never take off in its 
 
 ![Good example of pronoun, synonym, and implication](/assets/images/posts/2019/waste-a-year.png "Good example of pronoun, synonym, and implication"){: width="640" height="373"}
 
-### Why This Worked Better&nbsp;
+### Why This Worked Better
 
 I only use the word "year" once. That's all I need to do, because the audience knows that I'm not talking about any other noun. This allows me to create a sharper tweet that better resonates with the audience.
 
@@ -423,7 +423,7 @@ No matter how much natural talent you have, there is always more to learn and th
 
 You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
 
-Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
+Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.
 
 ## Becoming a better writer recap:
 
