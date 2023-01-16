@@ -109,7 +109,7 @@ Scientific or technical writing demands that your communication is efficient, cl
 
 Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve and the better writer you'll become.
 
-## 5) Take free advice you get
+## 5) Take free advice
 
 If you put your writing out there, you will get feedback. You need to listen to it.
 
@@ -131,7 +131,7 @@ But your job is to listen, take what is useful, and discard the rest.
 
 {% include widgets/summary.html id="Crackhead-Writing-Method" %}
 
-## 6) Learn another language to improve your writing skills
+## 6) Learn another language&nbsp;
 
 I’ve always had a strong interest in foreign languages. It wasn’t until I really [took the time to learn Spanish grammar that I developed an appreciation for communication in my own language.](https://www.fluentu.com/blog/social-benefits-of-learning-a-second-language/){: target="_blank" rel="noopener noreferrer"}
 
@@ -187,7 +187,7 @@ SEO seems to be largely about readability and categorization. It obviously is mo
 
 Google is in the business of providing people with easy-to-read content that solves their problems. This is also what writing with a purpose does. This is not a coincidence.
 
-### Writing for computers versus people: SEO doing the work for you
+### Computers versus people: SEO doing the work for you
 
 [On writing content for SEO](https://www.stevepavlina.com/blog/2010/12/how-i-write/){: target="_blank" rel="noopener noreferrer"}, Steve Pavlina once said, “Write for people first, search engines second.” Intellectually, this always made sense. However, it wasn’t until I started trying to drive traffic to my site that I really came to understand it.
 
@@ -231,7 +231,7 @@ My best ideas come when I’m "in the zone" writing. Proofreading happens later.
 
 At best, my words are guided by a theme. My fingers are inspired by an idea and I keep writing until I’ve exhausted all that I’ve got to say.
 
-## 10) A writer must know the rules of grammar and punctuation&nbsp;
+## 10) Know the rules of grammar and punctuation&nbsp;
 
 ![follow simple grammar tips makes reading your content easier ed latimore](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "follow simple grammar tips makes reading your content easier ed latimore"){: width="640" height="640"}
 
@@ -259,7 +259,7 @@ Good grammar and punctuation will improve the quality and clarity of your writin
 
 [For help with grammar, check out Grammarly; a helpful piece of software that has a free and paid program to improve your content.](https://www.grammarly.com/){: target="_blank" rel="noopener noreferrer"}
 
-## 11) The best writers live and learn from life
+## 11) Live and learn from life
 
 All of the best writers have taken from rich and varied life experiences to create stories and prose that we can't help but love.
 
@@ -289,7 +289,7 @@ Above all things, always improve your writing skills. Post on social media, writ
 
 Always find a way to improve your technical mastery and stylistic expression.
 
-## 12) Read as much as you can to improve the writing process
+## 12) Read as much as you can
 
 You're probably not reading enough so start reading more.
 
@@ -397,7 +397,7 @@ Sentence 1 follows subject-verb-object. That structure makes it active. Sentence
 
 Sentences become a little more complex than this and there are some predictable types of variations, but all sentences fall under this category.
 
-### Why is writing in the active voice better?
+### Why the active voice better?
 
 The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires adding a preposition and adding the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
 
@@ -417,7 +417,7 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 
 The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
 
-## 16) Get writing instructors/coaches
+## 16) Get instructors/coaches
 
 No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A writing coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
 
