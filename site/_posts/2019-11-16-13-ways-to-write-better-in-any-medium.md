@@ -12,7 +12,7 @@ description: >-
   Tired of being a starving artist? Discover 15 simple ways on how to be a
   better writer and develop the writing skills you've always dreamed of.
 ---
-In the era of making money online, so many people want to know writer better.
+In the era of making money online, so many people want to know how to become a better writer.
 
 Here are 16 tips I know that will help you become a better written content creator. I've used them to increase sales and improve my writing program and book marketing.
 
@@ -39,7 +39,7 @@ I don't want to merely be a good writer. I want to say things in a way that make
 
 This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional writer.
 
-My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my writing style, word choice, and content.
+My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.*
 
 > **“Either write something worth reading or do something worth writing about"**
 >
