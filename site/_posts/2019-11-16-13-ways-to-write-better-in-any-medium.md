@@ -31,7 +31,7 @@ Follow the simple tips below and you'll be well on your way to writing so well y
 
 ## 1) Have something to say
 
-![how become better writer write ed latimore books signing](/assets/images/posts/2019/how-to-become-a-better-writer-write-better-ed-latimore-2.jpg "how to become a better writer and write better ed latimore books signing"){: width="450" height="600"}
+![Ed latimore books signing](/assets/images/posts/2019/how-to-become-a-better-writer-write-better-ed-latimore-2.jpg "Ed latimore books signing"){: width="450" height="600"}
 
 Good writers create content to either entertain or teach. Great writers manage to do both. It's easy to do this when you have something valuable to say.
 
