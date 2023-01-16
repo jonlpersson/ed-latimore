@@ -14,7 +14,7 @@ description: >-
 ---
 In the era of making money online, so many people want to know how to become a better writer.
 
-Here are 15 of the best tips I know that will help you become a better writer. I've used them to increase sales and improve my writing program and book marketing.
+Here are 16 tips I know that will help you become a better written content creator. I've used them to increase sales and improve my writing program and book marketing.
 
 You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:
 
@@ -26,9 +26,9 @@ You probably didn't learn any of these in school, but school isn't in the busine
 * Plan books
 * How to become a better writer, in general
 
-Or do any of the things that a career writer does. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you a good writer is like learning how to punch and hoping that it makes you a good fighter.
+Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.
 
-Follow the simple tips below and you'll be well on your way to becoming a better writer and you'll be able to get paid for your words.
+Follow the simple tips below and you'll be well on your way to writing so well you'll be able to get paid for your words.
 
 ## 1) Have something to say
 
@@ -423,7 +423,7 @@ No matter how much natural talent you have, there is always more to learn and th
 
 You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
 
-Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a better writer quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
+Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
 
 ## How to become a better writer recap:
 
