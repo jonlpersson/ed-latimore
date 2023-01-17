@@ -118,9 +118,9 @@ This is because ultimately, you are in service to their audience.
 
 You only do the writing. They do the reading. This means that you need to at least consider what they’re saying.
 
-Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will [improve the quality of your writing](/bad-writing/). You’ll have to be the judge, but automatically writing off criticism is one of the major barriers to success.
+Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will [improve the quality of your writing](/bad-writing/). You’ll must be the judge, but automatically writing off criticism is one of the major barriers to success.
 
-Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) If you want to be a great, there will be times when you have to put your ego aside and listen to criticism. You have to be open to the possibility that your content can be better.
+Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) To achieve greatness, there will be times when you have to put your ego aside and listen to criticism. You must be open to the possibility that your content can be better.
 
 However, [not all criticism is equa](/why-you-have-haters-even-if-you-arent-an-asshole/)l.
 
@@ -160,9 +160,9 @@ This will drive you to develop an understanding that will make your writing more
 
 Twitter forces you to express your message in 280 characters or less. That's two–maybe three–short sentences you get to make your point.
 
-It's a platform that rewards effeciency. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out there and to be engaged.
+It's a platform that rewards effeciency. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out/
 
-If you want to be excellent at it – and I am – then you have to get better at expressing meaningful ideas in these short sentences. When proofreading blog posts, I often take a long sentence and condense it into a Twitter post.
+Excellence comes from getting good at expressing meaningful ideas in these short sentences. When proofreading blog posts, I often take a long sentence and condense it into a Twitter post.
 
 This improves clarity. It also provides a solid tweet and allows you to market your writing more effectively.
 
@@ -182,7 +182,7 @@ I know just enough so that the search engines–even with the new updates that G
 
 I’ve learned enough to work with the system rather than against it. The following is a beginner's perspective on SEO and how it's made me better at this.
 
-SEO seems to be largely about readability and categorization. It obviously is more technical than this, but the meta-idea is what's important.
+SEO is largely about readability and categorization. It obviously is more technical than this, but the meta-idea is what's important.
 
 Google is in the business of providing people with easy-to-read content that solves their problems. This is also what writing with a purpose does. This is not a coincidence.
 
@@ -262,11 +262,11 @@ You must take from a rich and varied life experiences to create stories and pros
 
 A richly lived life full of tragedy and triumph is how you develop your "brand voice".
 
-Your brand voice is what makes your writing unique and allows you to stand out despite out. You don't have to be highly skilled if you write authentically and from your life.
+Your brand voice is what makes your writing unique and allows you to stand out despite out. You don't need a high level of skill if you write authentically and from your life.
 
 Your age doesn’t matter but your experience does. If you want to connect with your audience, you need life experience.
 
-You don't need to be an expert. You don't even need to have a lot of things figured out. But you need to have a range of experiences from which you can draw.
+Expertise is not necessary. You don't even need to have a lot of things figured out. But you need to have a range of experiences from which you can draw.
 
 Experience is necessary because your readers are other humans. These humans have human experiences that have taught them universal lessons. Lessons that can't be taught in a book and can only be learned in the school of hard knocks we call "life".
 
@@ -326,7 +326,7 @@ While the idea I express in this tweet is sound, it would never take off in its 
 
 I only use the word "year" once. That's all I need to do, because the audience knows that I'm not talking about any other noun. This allows me to create a sharper tweet that better resonates with the audience.
 
-They don't need to be reminded that I'm talking about years. If I repeated the word year each time, it would seriously break up engagement and reading flow.
+They don't need a reminder that I'm talking about years. If I repeated the word year each time, it would seriously break up engagement and reading flow.
 
 People might agree with what I'm saying, but they won't have that knee-jerk reaction to share my tweet. If they're reading an article that is redundant with its nouns, they will almost certainly get bored. This GREATLY decreases the likelihood of them reading to the end or sharing. Word fatigue literally tires the reader out.
 
@@ -396,13 +396,13 @@ Sentences are often more complex than this and there are some predictable types 
 
 The biggest reason is that the active voice is a more efficient use of words. To make a sentence passive almost always requires adding a preposition and adding the "to be" verb.<br><br>"I'm reading the book" **(active)** vs. "The book is read by me." **(passive)**
 
-This word economy makes it easier for your word to be read and your message gets through more clearly.
+This word economy makesyour work easier to read and your message gets through more clearly.
 
 ## 15) Avoid adverbs whenever possible
 
 *\*\*Grammar recap: \*\**An adverb is a word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc.
 
-Adverbs of time and place tend to be non-admissible, but they are still unnecessary with a strong (not to be interpreted as "little" or "small" vocabulary).
+Adverbs of time and place are non-admissible, but they are still unnecessary with a strong vocabulary.
 
 Adverbs are words that typically end in "*\-ly"* when they modify a verb. These are ***always*** useless. Or, at the very least, the two words used to create an adverbial clause can (and should) be replaced with another stronger word. For example:
 
@@ -410,7 +410,7 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 * "I ***thought*** intensely about the problem" can be rewritten as "I **focused** on the problem" or "I **concentrated** on the problem."
 * "I ***carelessly*** wrote the letter" can be rewritten as "I **scribbled** the letter" or "I **doodled** the letter."
 
-The over-use of adjectives represents is lazy. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but the written word gives you a chance to be precise and measured.
+The over-use of adjectives represents is lazy. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but the written word gives you a chance create with measured precision
 
 ## 16) Get instructors/coaches
 
