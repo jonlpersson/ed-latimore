@@ -14,7 +14,7 @@ description: >-
 ---
 In the era of making money online, so many people want to know how to become a better writer.
 
-Here are 16 tips I know that will help you become a better written content creator. I've **used them to increase sales and improve my writing program and book marketing.**
+Here are 16 tips I know that will help you create better written content creator. I've **used them to increase sales and improve my writing program and book marketing.**
 
 **You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:**
 
@@ -60,7 +60,7 @@ Writing is a skill. Like any other skill, it requires consistent practice to imp
 
 There isn't a day that goes by where I don't try to write ***something***. You should do the same.
 
-It doesn’t matter what you write. It doesn’t matter how much you write. If you want to become a better writer, you need to write every day.
+It doesn’t matter what you write. It doesn’t matter how much you write. You need to write every day.
 
 <u><strong>Here's a shortlist of things to write to improve your skills:</strong></u>
 
@@ -106,13 +106,13 @@ However, it’s not the size of the vocabulary that matters most. It’s the eff
 
 Scientific or technical writing demands that your communication is efficient, clear, and precise. Word choice is important. Precise language is required to exactly describe an equation or phenomena.
 
-Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve and the better writer you'll become.
+Precise writing makes it easier to cogently express your ideas. The better you can do this, the more your writing skills will improve.
 
 ## 5) Take free advice
 
 If you put your writing out there, you will get feedback. You need to listen to it.
 
-Good writing can always improve. Good writers can become great writers by listening to feedback. You must always be open to suggestions and advice.
+Good writing can always improve. Good writers can develop into great writers by listening to feedback. You must always be open to suggestions and advice.
 
 This is because ultimately, writers are in service to their audience.
 
@@ -234,7 +234,7 @@ At best, my words are guided by a theme. My fingers are inspired by an idea and 
 
 Those of us educated in the American school system probably hate the Oxford comma. This assumes that most of us even know what it is.
 
-If you don’t, Google it. The best writers love it because it makes everything easier. It's like all points of grammar; you don't need to become obsessive about it. Rather you need to know just enough to make sure that the rules don't work against you.
+If you don’t, Google it. The best writers love it because it makes everything easier. It's like all points of grammar; you don't need to obsess about it. Rather you need to know just enough to make sure that the rules don't work against you.
 
 Basic grammar and punctuation go a long way in helping you share your ideas. Even if your readers don’t have a sophisticated grasp of the language rules, they’ll know when you’ve broken them and this *will* have a [negative impact on communication.](https://bodhih.com/training-and-development/grammar-important-communication/){: target="_blank" rel="noreferrer noopener"}
 
@@ -390,7 +390,7 @@ Sentence 1 follows subject-verb-object. That structure makes it active. Sentence
 * The action of the sentence is the verb.
 * The recipient of the action is the object.
 
-Sentences become a little more complex than this and there are some predictable types of variations, but all sentences fall under this category.
+Sentences are often more complex than this and there are some predictable types of variations, but all sentences fall under this category.
 
 ### Why the active voice better?
 
