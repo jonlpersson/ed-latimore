@@ -420,7 +420,7 @@ You may not always enjoy their feedback, but that's usually a sign that you need
 
 Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
 
-## Becoming a better writer recap:
+## Summary of written content creation tips:
 
 1. Have something to say
 2. Write every day
