@@ -346,7 +346,7 @@ In the last sentence, I could have just as easily said "someone's had it even wo
 
 It doesn't force me to come up with a different ​*synonymous*​ way to say what I've already said. The reader would suffer fatigue, get bored, and lose all interest in further enjoyment or sharing of my work.
 
-### Why not just avoid word fatigue by writing less?
+### Easier ways to avoid word fatigue?
 
 In the two examples, it might seem justified to just cut my ideas off at the first go around. You might be asking yourself why you can't just keep your tweets or writing short, without rephrasing the same thing in different ways. The simple answer to that is "engagement".
 
