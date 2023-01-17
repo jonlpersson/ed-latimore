@@ -289,4 +289,4 @@ This is the general strategy I used to go from a failing math student to getting
 
 #### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
-#### {% include widgets/cta-email.html %}
+{% include widgets/cta-email.html %}
