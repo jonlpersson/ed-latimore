@@ -14,20 +14,20 @@ description: >-
 ---
 In the era of making money online, so many people want to know how to become a better writer.
 
-Here are 16 tips I know that will help you create better written content creator. I've **used them to increase sales and improve my writing program and book marketing.**
+Here are 16 tips I know that will help you create better written content creator. I've used them to increase sales and improve my writing program and book marketing.
 
-**You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:**
+You probably didn't learn any of these in school, but school isn't in the business of teaching you how to:
 
-* **[Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)**
-* **[Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)**
-* **[Craft emails](/how-to-build-and-manage-an-email-list/)**
-* **Create marketing campaigns**
-* **Run book advertising**
-* **Plan books**
+* [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
+* [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
+* [Craft emails](/how-to-build-and-manage-an-email-list/)
+* Create marketing campaigns
+* Run book advertising
+* Plan books
 
-**Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.**
+Or do any of the things that writing today on the internet demands. At best, you learned grammar and structure. However, just learning those things and hoping they'll make you write well is like learning how to punch and hoping that it makes you a good fighter.
 
-**Follow the simple tips below and you'll be well on your way to writing so well you'll be able to get paid for your words.**
+Follow the simple tips below and you'll be well on your way to writing so well you'll be able to get paid for your words.
 
 ## **1) Have something to say**
 
@@ -138,7 +138,7 @@ When learning the romance languages, you begin to appreciate subtle things about
 
 Learning the distinctions between your language and another will make you a better communicator. Many great writers have spoken more than one language and it's no doubt played a role in sharpening their ability.
 
-![how become a better writer write ed latimore colombia](/assets/images/posts/ed-speaking-spanish.jpg "Me having a Spanish conversation in Colombia")
+![Conversation in Colombia](/assets/images/posts/ed-speaking-spanish.jpg "Me having a Spanish conversation in Colombia")
 
 For example, French and Spanish have a sharp distinction between actions in the past which continue and those with a definite end (past imperfect vs perfect).
 
@@ -160,7 +160,7 @@ This will drive you to develop an understanding that will make your writing more
 
 Twitter forces you to express your message in 280 characters or less. That's two–maybe three–short sentences you get to make your point.
 
-It's a platform that rewards effeciency. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out/
+It's a platform that rewards effeciency. It forces you to approach your writing with business-like efficiency. The goal isn't to spend a long time on your content. It's to quickly get your ideas out/
 
 Excellence comes from getting good at expressing meaningful ideas in these short sentences. When proofreading blog posts, I often take a long sentence and condense it into a Twitter post.
 
@@ -230,7 +230,7 @@ At best, my words are guided by a theme. My fingers are inspired by an idea and 
 
 ## 10) Know the rules of grammar and punctuation&nbsp;
 
-![follow simple grammar tips makes reading your content easier ed latimore](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "follow simple grammar tips makes reading your content easier ed latimore"){: width="640" height="640"}
+![The Oxford Comma helps improves clarity](/assets/images/posts/how-to-become-a-better-writer-write-better-oxford-comma-ed-latimore.jpg "The Oxford Comma helps improves clarity"){: width="640" height="640"}
 
 Those of us educated in the American school system probably hate the Oxford comma. This assumes that most of us even know what it is.
 
@@ -332,7 +332,7 @@ People might agree with what I'm saying, but they won't have that knee-jerk reac
 
 If you can't feel the difference that avoiding word fatigue makes, I'll give you another example:
 
-![writing better tweets about your life](/assets/images/posts/2019/your-situation-isnt-unique.png "writing better tweets about your life"){: width="640" height="333"}
+![Tweets are great to improve your craft](/assets/images/posts/2019/your-situation-isnt-unique.png "Tweets are great to improve your craft"){: width="640" height="333"}
 
 I use this example to show you how I carefully avoided word fatigue in some of the more unsuspecting places that it lurks. A crafty way to avoid noun repetition is by use of synonyms and alternative phrasing.
 
