@@ -340,7 +340,7 @@ In the first two sentences, "not unique" = "aren't so different no one understan
 
 In the last two sentences, you see me avoiding a similar trap.
 
-"Just as bad and made it" ≈ "even worse and flourished". This trap is a little more inconspicuous, but I avoid it by the usage of stylistic parallelism. Don't worry if that last sentence brought back nightmares of high school English. I explain more in my ebook “[Engagement Is The New Cocaine: The Art and Science Of Writing Awesomely Addictive Tweets](https://engagementisthenewcocaine.com/).”
+"Just as bad and made it" ≈ "even worse and flourished". This trap is a little more inconspicuous, but I avoid it by the usage of stylistic parallelism. Don't worry if that last sentence brought back nightmares of high school English. I explain more in my ebook “[Engagement Is The New Cocaine](https://engagementisthenewcocaine.com/)."
 
 In the last sentence, I could have just as easily said "someone's had it even worse and made it". Once again, this lazy.
 
