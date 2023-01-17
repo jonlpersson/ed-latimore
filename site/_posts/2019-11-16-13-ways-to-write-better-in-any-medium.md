@@ -33,13 +33,13 @@ Here are 16 tips I know that will help you create better written content creator
 
 **![Ed latimore books signing](/assets/images/posts/2019/how-to-become-a-better-writer-write-better-ed-latimore-2.jpg "Ed latimore books signing"){: width="450" height="600"}**
 
-**Good writers create content to either entertain or teach. Great writers manage to do both. It's easy to do this when you have something valuable to say.**
+Good writers create content to either entertain or teach. Great ones manage to do both. It's easy to do this when you have something valuable to say.
 
-**I don't want to merely be a good writer. I want to say things in a way that makes people think about things differently and change the world while doing so.**
+I don't want to merely be good. I want to say things in a way that makes people think about things differently and change the world while doing so.
 
-**This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional writer.**
+This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional.
 
-**My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.***
+My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.*
 
 > **“Either write something worth reading or do something worth writing about"**
 >
@@ -112,15 +112,15 @@ Precise writing makes it easier to cogently express your ideas. The better you c
 
 If you put your writing out there, you will get feedback. You need to listen to it.
 
-Good writing can always improve. Good writers can develop into great writers by listening to feedback. You must always be open to suggestions and advice.
+Good writing can always improve by listening to feedback. You must always be open to suggestions and advice.
 
-This is because ultimately, writers are in service to their audience.
+This is because ultimately, you are in service to their audience.
 
 You only do the writing. They do the reading. This means that you need to at least consider what they’re saying.
 
 Sometimes the criticism is just jealousy. Other times, it’s legitimate information that will [improve the quality of your writing](/bad-writing/). You’ll have to be the judge, but automatically writing off criticism is one of the major barriers to success.
 
-Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) If you want to be a great writer, there will be times when you have to put your ego aside and listen to criticism. As writers, we have to be open to the possibility that we can do better.
+Not everyone who [gives you criticism is a hater](/tough-love/) and not [every hater is wrong.](/ed-latimore-hater-quotes/) If you want to be a great, there will be times when you have to put your ego aside and listen to criticism. You have to be open to the possibility that your content can be better.
 
 However, [not all criticism is equa](/why-you-have-haters-even-if-you-arent-an-asshole/)l.
 
@@ -160,7 +160,7 @@ This will drive you to develop an understanding that will make your writing more
 
 Twitter forces you to express your message in 280 characters or less. That's two–maybe three–short sentences you get to make your point.
 
-It's a platform that rewards efficient writers. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out there and to be engaged.
+It's a platform that rewards effeciency. ***It forces you to approach your writing with business-like efficiency.*** The goal isn't to spend a long time on your content. It's to quickly get your ideas out there and to be engaged.
 
 If you want to be excellent at it – and I am – then you have to get better at expressing meaningful ideas in these short sentences. When proofreading blog posts, I often take a long sentence and condense it into a Twitter post.
 
@@ -170,7 +170,7 @@ Using Twitter to improve your writing also has another major benefit: the size o
 
 This is similar to the effect that SEO has on blog posts.
 
-While a writer's popularity is not the sole judge of their talent, the number of likes and retweets you receive, and the followers you gain at least tell you if your writing is engaging and interesting.
+While popularity is not the sole judge of talent, the number of likes and retweets you receive, and the followers you gain at least tell you if your writing is engaging and interesting.
 
 ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
@@ -208,7 +208,7 @@ We pick a topic, list points in support of that topic, and turn those into sente
 
 It structures your thoughts, which makes writing easier. You can produce a good article this way. The ones I’ve done with this process don’t turn out too badly.
 
-The problem with this method is that it’s *boring as hell.* Many of the best writers simply prefer to create and edit later.
+The problem with this method is that it’s *boring as hell.*&nbsp;
 
 [The Writing Cooperative offers this piece of advice when it comes to writing an outline for content:](https://writingcooperative.com/famous-authors-on-outlining-a-novel-should-you-do-it-de6f1a93eedc){: target="_blank" rel="noopener noreferrer"}
 
@@ -234,7 +234,7 @@ At best, my words are guided by a theme. My fingers are inspired by an idea and 
 
 Those of us educated in the American school system probably hate the Oxford comma. This assumes that most of us even know what it is.
 
-If you don’t, Google it. The best writers love it because it makes everything easier. It's like all points of grammar; you don't need to obsess about it. Rather you need to know just enough to make sure that the rules don't work against you.
+If you don’t, Google it. This punctuation mark makes everything easier. It's like all points of grammar; you don't need to obsess about it. Rather you need to know just enough to make sure that the rules don't work against you.
 
 Basic grammar and punctuation go a long way in helping you share your ideas. Even if your readers don’t have a sophisticated grasp of the language rules, they’ll know when you’ve broken them and this *will* have a [negative impact on communication.](https://bodhih.com/training-and-development/grammar-important-communication/){: target="_blank" rel="noreferrer noopener"}
 
@@ -258,7 +258,7 @@ Good grammar and punctuation will improve the quality and clarity of your writin
 
 ## 11) Live and learn from life
 
-All of the best writers have taken from rich and varied life experiences to create stories and prose that we can't help but love.
+You must take from a rich and varied life experiences to create stories and prose that we can't help but love.
 
 A richly lived life full of tragedy and triumph is how you develop your "brand voice".
 
@@ -304,7 +304,7 @@ The only way to develop this skill is by reading. Practice reading something eve
 
 ## 13) Learn the power of pronouns, synonyms, and implication
 
-When other writers ask me improve their writing, this is the one step that can often make all the difference. It will take good prose to great, and does not take much effort at all.
+When others ask me improve their writing, this is the one step that can often make all the difference. It will take good prose to great, and does not take much effort at all.
 
 The use of pronouns can help you avoid something known as "word fatigue".
 
@@ -350,7 +350,7 @@ It doesn't force me to come up with a different ​*synonymous*​ way to say wh
 
 In the two examples, it might seem justified to just cut my ideas off at the first go around. You might be asking yourself why you can't just keep your tweets or writing short, without rephrasing the same thing in different ways. The simple answer to that is "engagement".
 
-Your success as a writer (regardless of the medium) depends on your ability to keep people hooked on your words. The more time they spend engaged with your content, the more likely they are to come back for more. It's not a coincidence that I titled my first book on writing for Twitter ["Engagement Is The New Cocaine".](https://engagementisthenewcocaine.com/)
+Your success depends on your ability to keep people hooked on your words. The more time they spend engaged with your content, the more likely they are to come back for more. It's not a coincidence that I titled my first book on writing for Twitter ["Engagement Is The New Cocaine".](https://engagementisthenewcocaine.com/)
 
 Why would you only write 140 characters worth of tweets when you have 280 to work with? Google's SEO algorithm ​*strongly*​ rewards the time a reader spends on the page ingesting content. Computers and humans alike enjoy longer content.
 
