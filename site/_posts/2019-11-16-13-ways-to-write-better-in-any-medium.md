@@ -10,7 +10,7 @@ categories:
 image: /assets/images/posts/ed-writing.jpg
 description: >-
   Tired of being a starving artist? Discover 15 simple ways on how to be a
-  better writer and develop the writing skills you've always dreamed of.
+  better writer and develop the skills you've always dreamed of.
 ---
 In the era of making money online, so many people want to know how to become a better writer.
 
@@ -350,7 +350,7 @@ It doesn't force me to come up with a different ​*synonymous*​ way to say wh
 
 In the two examples, it might seem justified to just cut my ideas off at the first go around. You might be asking yourself why you can't just keep your tweets or writing short, without rephrasing the same thing in different ways. The simple answer to that is "engagement".
 
-Your success depends on your ability to keep people hooked on your words. The more time they spend engaged with your content, the more likely they are to come back for more. It's not a coincidence that I titled my first book on writing for Twitter ["Engagement Is The New Cocaine".](https://engagementisthenewcocaine.com/)
+Your success depends on your ability to keep people hooked on your words. The more time they spend engaged with your content, the more likely they are to come back for more. It's not a coincidence that I titled my first book for Twitter ["Engagement Is The New Cocaine".](https://engagementisthenewcocaine.com/)
 
 Why would you only write 140 characters worth of tweets when you have 280 to work with? Google's SEO algorithm ​*strongly*​ rewards the time a reader spends on the page ingesting content. Computers and humans alike enjoy longer content.
 
@@ -365,7 +365,7 @@ To keep this short lesson short, let me summarize.
 * Find different ways to express the same idea to make your point. Repetition drives the main idea home, but only when you avoid fatigue.
 * Longer content is more engaging, but only if you avoid fatigue.
 
-If you follow these short tips, you'll greatly improve your writing in everything from Twitter to long-form content.
+If you follow these short tips, you'll greatly improve in everything from Twitter to long-form content.
 
 ## 14) Use active sentences whenever possible
 
@@ -410,15 +410,15 @@ Adverbs are words that typically end in "*\-ly"* when they modify a verb. These 
 * "I ***thought*** intensely about the problem" can be rewritten as "I **focused** on the problem" or "I **concentrated** on the problem."
 * "I ***carelessly*** wrote the letter" can be rewritten as "I **scribbled** the letter" or "I **doodled** the letter."
 
-The use of adjectives represents lazy writing. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but writing gives you a chance to be precise and measured.
+The over-use of adjectives represents is lazy. They're fine (and in many cases, preferable) for colloquial spoken dialogue, but the written word gives you a chance to be precise and measured.
 
 ## 16) Get instructors/coaches
 
-No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A writing coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
+No matter how much natural talent you have, there is always more to learn and there are things you don't know that you don'tknow. A coach can help you improve the abilities your current skills, navigate you around obstacles, and bring out the best in your craft.
 
 You may not always enjoy their feedback, but that's usually a sign that you need it. And remember, the feedback doesn't have to come from a coach, in the purest sense of the word.
 
-Nothing improved my writing faster than getting feedback on it. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
+Nothing improved my skills faster than getting feedback. Whether that feedback came from an editor or a group, I've written tons of content and I still dread getting my content back with marks and suggestions on it. But nothing has made me a write better quite like someone spotting run on sentences, poorly formed arguments, or when I use the same words repeatedly.&nbsp;
 
 ## Summary of written content creation tips:
 
@@ -437,4 +437,4 @@ Nothing improved my writing faster than getting feedback on it. Whether that fee
 13. Learn the power of pronouns, synonyms, and implication
 14. Use active voice
 15. Avoid adverbs
-16. Get writing instructors
+16. Get instructors
