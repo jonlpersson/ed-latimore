@@ -10,11 +10,11 @@ categories:
 description: >-
   Forget following trendy topics using hashtags. I have over 200k followed on
   Twitter. I'll show you how to go viral. 
-image:
+image: /assets/images/drafts/how-to-go-viral-twitter.png
 ---
 Twitter is still a popular social media platform, despite the rise of Instagram. TikTok, new found popularity of Linkedin, and other social networks.
 
-In fact, 82% of B2B content marketers use Twitter marketing as part of their content marketing strategy, according to research from the Content Marketing Institute.
+Many content markets use Twitter marketing as part of their content strategy, according to research from the Content Marketing Institute. This makes sense, as Twitter gives you an unparalleled ability to propagate ideas through the written word.
 
 In the past, going viral on Twitter seemed to be a matter of luck. A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to crafting a viral tweet, and it seemed that only the most gifted writers could do it. Well, those days are over.
 
