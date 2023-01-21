@@ -1,0 +1,122 @@
+---
+date: 2023-01-21 15:10:00 -0500
+article_type: Article
+title: 'How to make.a tweet go viral: The definitive guide'
+permalink: /how-to-make-a-tweet-go-viral/
+tags:
+  - twitter-tips
+categories:
+  - how-to-make-money-on-social-media
+description: >-
+  Forget following trendy topics using hashtags. I have over 200k followed on
+  Twitter. I'll show you how to go viral. 
+image:
+---
+Twitter is still a popular social media platform, despite the rise of Instagram. TikTok, new found popularity of Linkedin, and other social networks.
+
+In fact, 82% of B2B content marketers use Twitter marketing as part of their content marketing strategy, according to research from the Content Marketing Institute.
+
+In the past, going viral on Twitter seemed to be a matter of luck. A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to crafting a viral tweet, and it seemed that only the most gifted writers could do it. Well, those days are over.
+
+Nowadays, crafting a viral tweet has almost become a science. People invest serious time into their crafting content and money programs like Hypefury and Tweet Hunter, all with the hope of creating viral content.
+
+However, with around 6,000 tweets being sent per second, around 500 million tweets can go viral daily. Most don’t ever go viral. It takes a special blend of strong content, good timing, and a great understanding of the Twitter algorithm to make it happen.
+
+So, what makes one tweet more likely to go viral than others? In this article, I’ll teach you what I’ve learned over the past ten years and 200k followers about going viral on Twitter. I’ve done it several times, and I learn something new each time.
+
+If you want to take your Twitter engagement to the next level, Continue reading to learn how to increase your chances of making a tweet go viral and driving traffic to your website to your business or website.
+
+## What does “going viral” on Twitter mean?
+
+Generally speaking, a viral tweet is a tweet that gets a lot of retweets and quote tweets. The tweet is shared by a lot of people, and it’s shared VERY quickly. There doesn’t seem to be a super-strict definition of what constitutes a viral tweet versus one that’s just popular.
+
+Still, I've developed a few guidelines from my experience creating several popular tweets. The tweet must hit all of these guidelines without relying on Twitter Ads. All of this information can be found in your Twitter analytics:
+
+1. The tweet generates at least 3% of your impressions for the month. A Twitter impression is simply how many people see your tweet
+2. The tweet has an engagement rate of at least 5%, but it’s often as high as 10%
+3. The tweet outperforms its half-life
+
+## How to go viral
+
+## Get retweets
+
+This might sound obvious, but I want to get the most basic step out of the way. Yes, producing good content helps, but if no one shares it, it has zero chance of going viral. Have you ever seen something on Twitter that’s gone viral but it’s absolute standard, basic, bullshit? That’s because they managed to get a few retweets from their own Twitter followers and other users. You can:
+
+1. Directly ask for users to retweet the tweet.
+2. Pay for retweets. The accounts don’t have to be big, but they should have a different audience that you. The tool I use to determine the overlap of someones audience with mine is called FollowerWonk. I also help here, so feel free to hit me up.
+3. Ask a question in the tweet.
+4. Ask for feedback.
+
+All of these methods work to increase the likelihood of your tweet going viral because they get seen by more people.
+
+## Reply to every comment on the tweet
+
+Take a look at your Twitter feed. You will notice that you don’t see the tweets of every account that you’re following. If you check the time stamp, you’ll also notice that you don’t see them at the time they were tweeted either. The same thing happens to your tweets on other Twitter accounts. Why is this?
+
+The algorithm uses a variety of metrics to determine how many people see your content. Two of the most important metrics are “relationship” and “engagement.”
+
+### Social relationship
+
+The stronger the relationship you have with a person, the more likely they are to see your content. In terms of the algorithm, relationship is defined as communication between you. So, every time someone replies to your content and you reply back, this signals to Twitter that it should show more of your content to them. This makes it more likely that they’ll share it.
+
+### Engagement rate
+
+The engagement rate on each post determines how many more people will see it. If you can increase the engagement rate, your post will be shown to more people. Engagement rate is the formula (likes+retweets+comments+quote tweets+clicks on the tweet)/(impressions).
+
+Impressions are the number of times a Twitter account sees a tweet.
+
+If you want to increase your engagement rate, you increase the number of engagements. I typically accomplish this by conversing with people who respond to the comments, then retweeting my replies to entice more people to engage.
+
+Another useful way to increase the engagement rate is to have a call to action in the tweet. For example, asking someone to retweet is a call to action as well as posing an interesting question that gets people to give responses. Most viral tweets include some CTA.
+
+Most people think of the call to action as something that’s only used as part of a social media marketing strategy, but the reality is that you can use it to get people to share your tweets, clink a link or sign up to your newsletter.
+
+Higher engagement rates mean that the tweet is showing to more of your followers and to people who are potentially interested in the topic of the tweet, so it’s important to include this when you can.
+
+## Teach from personal stories
+
+If you see people talking about the same old stuff on Twitter and you want to talk about it as well, then it helps a lot if you teach from personal stories.
+
+Rather making a generic post about discipline or mindset, you can make a Twitter thread about what you’ve personally done to develop and hone your mindset. In this way, you’re not only establishing clout, you’re also making your story more relatable and, therefore, your tweet more shareable.
+
+This sharability is key to making sure that it goes viral.
+
+## Give Value
+
+There are only 3 ways to give value:
+
+1. **Educate.** Teach people things they didn’t know or get them to think about things differently.
+2. **Entertain.** Make them laugh or captivate them with a story.
+3. **Inspire.** Make people feel good, capable, and like they can do anything.
+
+It doesn’t matter whether you’re polarizing, trolling, or “shitposting.” Tweets that get retweeted heavily enough to go viral do at least one of these things, but most do two or three of them.
+
+Another way I like to put this is that your tweets need to either show people how to solve a problem or distract them from it.
+
+## Give your perspective on popular/trending topics
+
+When there is a trending topic, giving what is known as a “hot take” can help you go viral. Even if you don’t use a hashtag, Twitter uses an SEO-like functionality to figure out what your tweet is about and show it to the people who are potentially most interested in what you’re talking about.
+
+If your writing is sharp and your perspective is interesting, then it’s evitable that your content will get shared and promoted around Twitter to the point of going viral.
+
+## Uses memes, gifs, and visuals
+
+Tweets with images and gifs are engaged at a much higher rate than purely written content. I believe this is because you have to click on a tweet with an image or gif to see the entire thing. This creates an engagement. The more engagements you have, the more your tweet is shown to your followers, and the more likely it is that it go viral.
+
+This is, fundamentally, the same reason why Twitter Threads work so well.
+
+## Write a Twitter Thread with a great headline
+
+If you don’t know, a Twitter Thread is a string of tweets that are all the comments from the one main tweet. They’re great for expressing longer ideas that would not fit in Twitter’s 280 character limit.
+
+To read the rest of the thread, you *have to* engage with the tweet. This means that if you write a good first tweet that gets people reading, then you have an excellent chance of drawing people down the thread which will require them to engage with (click on) the first tweet.
+
+The best way to do this is by using a strong, engaging headline that compels people to start reading. The best headlines to start a Twitter thread are those that promise people a way to improve their life by taking a unexpected or contrarian approach.
+
+Also, headlines that promise to teach from unique experiences tend to do well. I hesitate here to tell you to write to a target audience, but there are certain themes and ideas that, if you make a thread around them, are more likely to go viral.
+
+## In conclusion
+
+Creating a viral tweet is mostly about creating great content that compels people to engage. When you can trigger an engagement, you tweet will be shown to more people, which makes it more likely to be retweeted. Images, memes, gifs, and strong headlines make it more likely that people will engage with your tweet.
+
+Good luck and the rest is up to you.
