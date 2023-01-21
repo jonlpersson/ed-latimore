@@ -16,7 +16,9 @@ Twitter is still a popular social media platform, despite the rise of Instagram.
 
 Many content markets use Twitter marketing as part of their content strategy, according to research from the Content Marketing Institute. This makes sense, as Twitter gives you an unparalleled ability to propagate ideas through the written word.
 
-In the past, going viral on Twitter seemed to be a matter of luck. A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to crafting a viral tweet, and it seemed that only the most gifted writers could do it. Well, those days are over.
+In the past, going viral on Twitter seemed to be a[matter of luck](/how-to-get-lucky/).
+
+A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to crafting a viral tweet, and it seemed that only the most gifted writers could do it. Well, those days are over.
 
 Nowadays, crafting a viral tweet has almost become a science. People invest serious time into their crafting content and money programs like Hypefury and Tweet Hunter, all with the hope of creating viral content.
 
