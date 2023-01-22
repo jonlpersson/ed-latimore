@@ -42,7 +42,9 @@ Still, I've developed a few guidelines from my experience creating several popul
 2. **The tweet has an engagement rate of at least 3%, but it’s often as high as 10%.** Engagements are the actions taken on your tweet. Because of the way the Twitter algorithm works, high engagement is mandatory and is the only way that your tweet will be able to fulfill both the previous and the next condition.&nbsp;
 3. **The tweet outperforms the average half-life.** The average half-life of a tweet is 21 minutes. This means that for all of the engagement that a tweet will get, it gets about half in the first 21 minutes. A tweet goes viral when it has the same or greater engagement on it's second half life (42 minutes).&nbsp;
 
-## How to go viral
+## How to go viral on Twitter
+
+\{% https://twitter.com/EdLatimore/status/1542592624799924226 % \}
 
 ## Get retweets
 
