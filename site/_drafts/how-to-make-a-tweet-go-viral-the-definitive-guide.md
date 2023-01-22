@@ -84,7 +84,11 @@ If your writing is sharp and your perspective is interesting, then it’s evitab
 
 ## Uses memes, gifs, and visuals
 
-Tweets with images and gifs are engaged at a much higher rate than purely written content. I believe this is because you have to click on a tweet with an image or gif to see the entire thing. This creates an engagement. The more engagements you have, the more your tweet is shown to your followers, and the more likely it is that it go viral.
+{% https://twitter.com/EdLatimore/status/1547379847760171008 %}
+
+Tweets with images and gifs are engaged at a much higher rate than purely written content.
+
+I believe this is because you have to click on a tweet with an image or gif to see the entire thing. This creates an engagement. The more engagements you have, the more your tweet is shown to your followers, and the more likely it is that it go viral.
 
 This is, fundamentally, the same reason why Twitter Threads work so well.
 
@@ -93,6 +97,8 @@ This is, fundamentally, the same reason why Twitter Threads work so well.
 If you don’t know, a Twitter Thread is a string of tweets that are all the comments from the one main tweet. They’re great for expressing longer ideas that would not fit in Twitter’s 280 character limit.
 
 To read the rest of the thread, you *have to* engage with the tweet. This means that if you write a good first tweet that gets people reading, then you have an excellent chance of drawing people down the thread which will require them to engage with (click on) the first tweet.
+
+{% https://twitter.com/EdLatimore/status/1516170816219668482 %}
 
 The best way to do this is by using a strong, engaging headline that compels people to start reading. The best headlines to start a Twitter thread are those that promise people a way to improve their life by taking a unexpected or contrarian approach.
 
