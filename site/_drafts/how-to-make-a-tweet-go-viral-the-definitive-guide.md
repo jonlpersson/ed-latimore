@@ -18,13 +18,15 @@ Many content markets use Twitter marketing as part of their content strategy, ac
 
 In the past, going viral on Twitter seemed to be a[matter of luck](/how-to-get-lucky/).
 
-A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to crafting a viral tweet, and it seemed that only the most gifted writers could do it. Well, those days are over.
+A Twitter user would tweet something and later find that it had thousands of retweets, replies, comments, and follows. There was a certain art to writing a viral tweet, and it seemed that only [the most gifted writers](/how-to-write-better-and-be-a-better-writer/) could do it. Well, those days are over.
 
-Nowadays, crafting a viral tweet has almost become a science. People invest serious time into their crafting content and money programs like Hypefury and Tweet Hunter, all with the hope of creating viral content.
+Nowadays, crafting a viral tweet has almost become a science. People invest serious time into their crafting content and money programs like Hypefury and [Tweet Hunter,](/review-of-tweet-hunter/) all with the hope of creating viral content.
 
-However, with around 6,000 tweets being sent per second, around 500 million tweets can go viral daily. Most don’t ever go viral. It takes a special blend of strong content, good timing, and a great understanding of the Twitter algorithm to make it happen.
+However, with around 6,000 tweets being sent per second, around 500 million tweets can go viral daily, but most never do. It takes a special blend of strong content, good timing, and a great understanding of the Twitter algorithm to make it happen.
 
-So, what makes one tweet more likely to go viral than others? In this article, I’ll teach you what I’ve learned over the past ten years and 200k followers about going viral on Twitter. I’ve done it several times, and I learn something new each time.
+So, what makes one tweet more likely to go viral than others?
+
+In this article, I’ll teach you what I’ve learned over the past ten years and amassing [200k followers](https://www.twitter.com/edlatimore) about going viral on Twitter. I’ve done it several times, and I learn something new each time.
 
 If you want to take your Twitter engagement to the next level, Continue reading to learn how to increase your chances of making a tweet go viral and driving traffic to your website to your business or website.
 
