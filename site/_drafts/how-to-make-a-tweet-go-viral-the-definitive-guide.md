@@ -32,13 +32,15 @@ If you want to take your Twitter engagement to the next level, Continue reading 
 
 ## What does “going viral” on Twitter mean?
 
-Generally speaking, a viral tweet is a tweet that gets a lot of retweets and quote tweets. The tweet is shared by a lot of people, and it’s shared VERY quickly. There doesn’t seem to be a super-strict definition of what constitutes a viral tweet versus one that’s just popular.
+Generally speaking, a viral tweet is a tweet that gets a lot of retweets and quote tweets.
+
+The tweet is shared by a lot of people, and it’s shared VERY quickly. There doesn’t seem to be a super-strict definition of what constitutes a viral tweet versus one that’s just popular.
 
 Still, I've developed a few guidelines from my experience creating several popular tweets. The tweet must hit all of these guidelines without relying on Twitter Ads. All of this information can be found in your Twitter analytics:
 
-1. The tweet generates at least 3% of your impressions for the month. A Twitter impression is simply how many people see your tweet
-2. The tweet has an engagement rate of at least 5%, but it’s often as high as 10%
-3. The tweet outperforms its half-life
+1. **The tweet generates at least 3% of your impressions for the month.** A Twitter impression is simply how many people see your tweet. Viral tweets, by definition, are tweets that are seen by a lot of people.&nbsp;
+2. **The tweet has an engagement rate of at least 3%, but it’s often as high as 10%.** Engagements are the actions taken on your tweet. Because of the way the Twitter algorithm works, high engagement is mandatory and is the only way that your tweet will be able to fulfill both the previous and the next condition.&nbsp;
+3. **The tweet outperforms the average half-life.** The average half-life of a tweet is 21 minutes. This means that for all of the engagement that a tweet will get, it gets about half in the first 21 minutes. A tweet goes viral when it has the same or greater engagement on it's second half life (42 minutes).&nbsp;
 
 ## How to go viral
 
