@@ -52,6 +52,8 @@ Higher engagement rates mean that the tweet is showing to more of your followers
 
 ## Teach from personal stories
 
+{% https://twitter.com/EdLatimore/status/1520482249468166146 %}
+
 If you see people talking about the same old stuff on Twitter and you want to talk about it as well, then it helps a lot if you teach from personal stories.
 
 Rather making a generic post about discipline or mindset, you can make a Twitter thread about what you’ve personally done to develop and hone your mindset. In this way, you’re not only establishing clout, you’re also making your story more relatable and, therefore, your tweet more shareable.
@@ -65,6 +67,8 @@ There are only 3 ways to give value:
 1. **Educate.** Teach people things they didn’t know or get them to think about things differently.
 2. **Entertain.** Make them laugh or captivate them with a story.
 3. **Inspire.** Make people feel good, capable, and like they can do anything.
+
+{% https://twitter.com/EdLatimore/status/1363647885057867778 %}
 
 It doesn’t matter whether you’re polarizing, trolling, or “shitposting.” Tweets that get retweeted heavily enough to go viral do at least one of these things, but most do two or three of them.
 
