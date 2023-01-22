@@ -81,6 +81,8 @@ So, every time someone replies to your content and you reply back, this signals 
 
 The engagement rate on each post determines how many more people will see it. If you can increase the engagement rate, your post will be shown to more people. Engagement rate is the formula (likes+retweets+comments+quote tweets+clicks on the tweet)/(impressions).
 
+![Engagement metrics from my account](/assets/images/drafts/engagements-analytics-on-twitter.png "Engagement metrics from my account"){: width="466" height="1744"}
+
 Impressions are the number of times a Twitter account sees a tweet.
 
 If you want to increase your engagement rate, you increase the number of engagements. I typically accomplish this by conversing with people who respond to the comments, then retweeting my replies to entice more people to engage.
