@@ -78,6 +78,8 @@ Another way I like to put this is that your tweets need to either show people ho
 
 When there is a trending topic, giving what is known as a “hot take” can help you go viral. Even if you don’t use a hashtag, Twitter uses an SEO-like functionality to figure out what your tweet is about and show it to the people who are potentially most interested in what you’re talking about.
 
+{% https://twitter.com/EdLatimore/status/1505563606804578307 %}
+
 If your writing is sharp and your perspective is interesting, then it’s evitable that your content will get shared and promoted around Twitter to the point of going viral.
 
 ## Uses memes, gifs, and visuals
