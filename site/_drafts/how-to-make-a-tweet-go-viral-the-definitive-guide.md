@@ -98,6 +98,8 @@ This is, fundamentally, the same reason why Twitter Threads work so well.
 
 If you don’t know, a Twitter Thread is a string of tweets that are all the comments from the one main tweet. They’re great for expressing longer ideas that would not fit in Twitter’s 280 character limit.
 
+***Read here for a detailed post on how to create Twitter Threads—&gt;[How to create Twitter Threads](/how-to-make-twitter-threads/)***
+
 To read the rest of the thread, you *have to* engage with the tweet. This means that if you write a good first tweet that gets people reading, then you have an excellent chance of drawing people down the thread which will require them to engage with (click on) the first tweet.
 
 {% https://twitter.com/EdLatimore/status/1516170816219668482 %}
@@ -108,6 +110,8 @@ Also, headlines that promise to teach from unique experiences tend to do well. I
 
 ## In conclusion
 
-Creating a viral tweet is mostly about creating great content that compels people to engage. When you can trigger an engagement, you tweet will be shown to more people, which makes it more likely to be retweeted. Images, memes, gifs, and strong headlines make it more likely that people will engage with your tweet.
+Creating a viral tweet is mostly about creating great content that compels people to engage.
+
+When you can trigger an engagement, you tweet will be shown to more people, which makes it more likely to be retweeted. Images, memes, gifs, and strong headlines make it more likely that people will engage with your tweet.
 
 Good luck and the rest is up to you.
