@@ -44,50 +44,7 @@ Still, I've developed a few guidelines from my experience creating several popul
 
 ## How to go viral on Twitter
 
-\{% https://twitter.com/EdLatimore/status/1542592624799924226 % \}
-
-## Get retweets
-
-This might sound obvious, but I want to get the most basic step out of the way. Yes, producing good content helps, but if no one shares it, it has zero chance of going viral.
-
-Have you ever seen something on Twitter that’s gone viral but it’s absolute standard, basic, bullshit? That’s because they managed to get a few retweets from their own Twitter followers and other users. You can:
-
-1. Directly ask for users to retweet the tweet.
-2. Pay for retweets. The accounts don’t have to be big, but they should have a different audience that you. The tool I use to determine the overlap of someones audience with mine is called FollowerWonk. I also help here, so feel free to hit me up.
-3. Ask a question in the tweet.
-4. Ask for feedback.
-
-All of these methods work to increase the likelihood of your tweet going viral because they elicit retweets. The rest of this article is effectively a masterclass in gaining retweets.&nbsp;
-
-## Reply to every comment on the tweet
-
-Take a look at your Twitter feed. You will notice that you don’t see the tweets of every account that you’re following. If you check the time stamp, you’ll also notice that you don’t see them at the time they were tweeted either. The same thing happens to your tweets on other Twitter accounts. Why is this?
-
-The algorithm uses a variety of metrics to determine how many people see your content. Two of the most important metrics are “relationship” and “engagement.”
-
-![Me replying to every comment to boost engagement](/assets/images/drafts/replying-to-twitter-comments.png "Me replying to every comment to boost engagement"){: width="600" height="1133"}
-
-Rather than spend all of your time scrolling accounts to do this, there is a great tool called "Black Magic" that allows you to quickly go through and comment on the most recent tweet of your people you follow, your followers, or a curated list of your favorite people.&nbsp;
-
-[Check it out here.](https://blackmagic.so/?aff=EDLATIMORE_C3EC46C5)&nbsp;
-
-### Social relationship
-
-The stronger the relationship you have with a person, the more likely they are to see your content. In terms of the algorithm, relationship is defined as communication between you.
-
-So, every time someone replies to your content and you reply back, this signals to Twitter that it should show more of your content to them. This makes it more likely that they’ll share it.
-
-### Engagement rate
-
-The engagement rate on each post determines how many more people will see it. If you can increase the engagement rate, your post will be shown to more people. Engagement rate is the formula (likes+retweets+comments+quote tweets+clicks on the tweet)/(impressions).
-
-![Engagement metrics from my account](/assets/images/drafts/engagements-analytics-on-twitter.png "Engagement metrics from my account"){: width="466" height="1744"}
-
-Impressions are the number of times a Twitter account sees a tweet.
-
-If you want to increase your engagement rate, you increase the number of engagements. I typically accomplish this by conversing with people who respond to the comments, then retweeting my replies to entice more people to engage.
-
-Another useful way to increase the engagement rate is to have a call to action in the tweet. For example, asking someone to retweet is a call to action as well as posing an interesting question that gets people to give responses. Most viral tweets include some CTA.
+{% https://twitter.com/EdLatimore/status/1542592624799924226 % }</p><h2>Get retweets</h2><p>This might sound obvious, but I want to get the most basic step out of the way. Yes, producing good content helps, but if no one shares it, it has zero chance of going viral.</p><p>Have you ever seen something on Twitter that’s gone viral but it’s absolute standard, basic, bullshit? That’s because they managed to get a few retweets from their own Twitter followers and other users. You can:</p><ol><li>Directly ask for users to retweet the tweet.</li><li>Pay for retweets. The accounts don’t have to be big, but they should have a different audience that you. The tool I use to determine the overlap of someones audience with mine is called FollowerWonk. I also help here, so feel free to hit me up.</li><li>Ask a question in the tweet.</li><li>Ask for feedback.</li></ol><p>All of these methods work to increase the likelihood of your tweet going viral because they elicit retweets. The rest of this article is effectively a masterclass in gaining retweets.&nbsp;</p><h2>Reply to every comment on the tweet</h2><p>Take a look at your Twitter feed. You will notice that you don’t see the tweets of every account that you’re following. If you check the time stamp, you’ll also notice that you don’t see them at the time they were tweeted either. The same thing happens to your tweets on other Twitter accounts. Why is this?</p><p>The algorithm uses a variety of metrics to determine how many people see your content. Two of the most important metrics are “relationship” and “engagement.”</p><p><img src="blob:https://app.cloudcannon.com/e1bcceda-6ce2-4dcf-95ab-d69cc3afc7d3" data-cms-popout-id="image-0" data-cms-original-src="/assets/images/drafts/replying-to-twitter-comments.png" width="600" height="1133" alt="Me replying to every comment to boost engagement" title="Me replying to every comment to boost engagement" /></p><p>Rather than spend all of your time scrolling accounts to do this, there is a great tool called "Black Magic" that allows you to quickly go through and comment on the most recent tweet of your people you follow, your followers, or a curated list of your favorite people.&nbsp;</p><p><a href="https://blackmagic.so/?aff=EDLATIMORE_C3EC46C5">Check it out here.</a>&nbsp;</p><h3>Social relationship</h3><p>The stronger the relationship you have with a person, the more likely they are to see your content. In terms of the algorithm, relationship is defined as communication between you.</p><p>So, every time someone replies to your content and you reply back, this signals to Twitter that it should show more of your content to them. This makes it more likely that they’ll share it.</p><h3>Engagement rate</h3><p>The engagement rate on each post determines how many more people will see it. If you can increase the engagement rate, your post will be shown to more people. Engagement rate is the formula (likes+retweets+comments+quote tweets+clicks on the tweet)/(impressions).</p><p><img src="blob:https://app.cloudcannon.com/f7c704a5-06ed-4d5c-b433-ac66c980938c" data-cms-popout-id="image-2" data-cms-original-src="/assets/images/drafts/engagements-analytics-on-twitter.png" width="466" height="1744" alt="Engagement metrics from my account" title="Engagement metrics from my account" /></p><p>Impressions are the number of times a Twitter account sees a tweet.</p><p>If you want to increase your engagement rate, you increase the number of engagements. I typically accomplish this by conversing with people who respond to the comments, then retweeting my replies to entice more people to engage.</p><p>Another useful way to increase the engagement rate is to have a call to action in the tweet. For example, asking someone to retweet is a call to action as well as posing an interesting question that gets people to give responses. Most viral tweets include some CTA.</p><p>{% https://twitter.com/EdLatimore/status/1608547239600979968 %}
 
 Most people think of the call to action as something that’s only used as part of a social media marketing strategy, but the reality is that you can use it to get people to share your tweets, clink a link or sign up to your newsletter.
 
