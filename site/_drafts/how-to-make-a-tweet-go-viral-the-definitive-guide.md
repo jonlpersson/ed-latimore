@@ -65,9 +65,17 @@ Take a look at your Twitter feed. You will notice that you don’t see the tweet
 
 The algorithm uses a variety of metrics to determine how many people see your content. Two of the most important metrics are “relationship” and “engagement.”
 
+![Me replying to every comment to boost engagement](/assets/images/drafts/replying-to-twitter-comments.png "Me replying to every comment to boost engagement"){: width="600" height="1133"}
+
+Rather than spend all of your time scrolling accounts to do this, there is a great tool called "Black Magic" that allows you to quickly go through and comment on the most recent tweet of your people you follow, your followers, or a curated list of your favorite people.&nbsp;
+
+[Check it out here.](https://blackmagic.so/?aff=EDLATIMORE_C3EC46C5)&nbsp;
+
 ### Social relationship
 
-The stronger the relationship you have with a person, the more likely they are to see your content. In terms of the algorithm, relationship is defined as communication between you. So, every time someone replies to your content and you reply back, this signals to Twitter that it should show more of your content to them. This makes it more likely that they’ll share it.
+The stronger the relationship you have with a person, the more likely they are to see your content. In terms of the algorithm, relationship is defined as communication between you.
+
+So, every time someone replies to your content and you reply back, this signals to Twitter that it should show more of your content to them. This makes it more likely that they’ll share it.
 
 ### Engagement rate
 
