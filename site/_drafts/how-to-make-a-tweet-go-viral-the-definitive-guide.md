@@ -30,6 +30,8 @@ In this article, I’ll teach you what I’ve learned over the past ten years an
 
 If you want to take your Twitter engagement to the next level, Continue reading to learn how to increase your chances of making a tweet go viral and driving traffic to your website to your business or website.
 
+![Ed Latimore is the real deal on Twitter](/assets/images/drafts/ed-latimore-twitter-account.png "Ed Latimore is the real deal on Twitter"){: width="600" height="478"}
+
 ## What does “going viral” on Twitter mean?
 
 Generally speaking, a viral tweet is a tweet that gets a lot of retweets and quote tweets.
