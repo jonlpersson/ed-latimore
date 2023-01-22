@@ -48,14 +48,16 @@ Still, I've developed a few guidelines from my experience creating several popul
 
 ## Get retweets
 
-This might sound obvious, but I want to get the most basic step out of the way. Yes, producing good content helps, but if no one shares it, it has zero chance of going viral. Have you ever seen something on Twitter that’s gone viral but it’s absolute standard, basic, bullshit? That’s because they managed to get a few retweets from their own Twitter followers and other users. You can:
+This might sound obvious, but I want to get the most basic step out of the way. Yes, producing good content helps, but if no one shares it, it has zero chance of going viral.
+
+Have you ever seen something on Twitter that’s gone viral but it’s absolute standard, basic, bullshit? That’s because they managed to get a few retweets from their own Twitter followers and other users. You can:
 
 1. Directly ask for users to retweet the tweet.
 2. Pay for retweets. The accounts don’t have to be big, but they should have a different audience that you. The tool I use to determine the overlap of someones audience with mine is called FollowerWonk. I also help here, so feel free to hit me up.
 3. Ask a question in the tweet.
 4. Ask for feedback.
 
-All of these methods work to increase the likelihood of your tweet going viral because they get seen by more people.
+All of these methods work to increase the likelihood of your tweet going viral because they elicit retweets. The rest of this article is effectively a masterclass in gaining retweets.&nbsp;
 
 ## Reply to every comment on the tweet
 
