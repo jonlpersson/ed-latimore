@@ -3,9 +3,9 @@ date: 2021-03-21 09:58:00 -0400
 article_type: Article
 title: 'How to overcome fear: 7 lessons from boxing'
 permalink: /how-to-overcome-fear/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   A boxing match exposes you to the possibility of death, dismemberment, and
@@ -29,7 +29,7 @@ All of our fears center around what life would be like if we were unable to reac
 
 The first thing you have to understand is that it’s impossible to erase fear; you simply learn to perform despite it. Fighting not only forces us to confront all of these fears, but to excel in the face of them.
 
-[Every fighter naturally feels scared at some point](/risk-taking/) or another because every fighter is human. At times our approach and performance may lead you to believe otherwise, however the man in the ring is mortal, flawed, and human just like you.
+Every fighter naturally feels scared at some point or another because every fighter is human. At times our approach and performance may lead you to believe otherwise, however the man in the ring is mortal, flawed, and human just like you.
 
 I figured out a number of strategies that helped me to perform well despite facing real fear and danger inside the boxing ring. I think that many of them can be used by you to help you manage your fears, phobias, and anxieties as well.
 
