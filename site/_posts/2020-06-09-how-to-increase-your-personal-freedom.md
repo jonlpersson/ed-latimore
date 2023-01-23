@@ -67,7 +67,7 @@ We need law enforcement, physicians, engineers, and service professionals. Every
 
 ![personal freedom using your eyes](/assets/images/misc/whydomyeyeshurt.jpg)
 
-Congratulations\!
+Congratulations!
 
 Even though it’s only the first level, getting here is a significant accomplishment.
 
