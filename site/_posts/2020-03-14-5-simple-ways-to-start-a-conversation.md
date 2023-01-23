@@ -33,7 +33,7 @@ The good news is that even if you're shy and have difficulty connecting with peo
 
 As reported in a new [Tendermeets](https://www.tendermeets.com/experts-talk/celebrities-who-use-online-dating.html){: target="_blank"} article, it is easier than ever to find a lover in this modern world with everyone being just a click or a swipe away. Even if you're just looking to find like-minded friends, the following tips will also work to build your platonic social network as well. If you want to know how to start a good conversation, just follow these steps.
 
-\#\#
+\##
 
 ![Making connections and conversation in Colombia](/assets/images/posts/ed-speaking-spanish.jpg "Making connections and conversation in Colombia")
 
