@@ -136,5 +136,3 @@ Play the right game so that you have a decent chance of winning. Win the right w
 If you want a chance to win, you have to bet. If you want the opportunity to play, you have to pay.
 
 Nothing is free. Especially if it seems so.&nbsp;
-
-&nbsp;
