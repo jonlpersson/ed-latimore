@@ -41,8 +41,6 @@ Before I give you my definition of luck, let me warn you: it’s probably going 
 
 I’m also a [slight math nerd](/how-to-get-better-at-math/), but you don’t need to be a numbers junkie to understand or apply this groundbreaking formula for getting luckier.&nbsp;
 
-{% include widgets/toc.html heading="9 ways to get lucky in life" list-items="Have a goal, Always be ready to take advantage of opportunities, Take more chances, Help people when it costs little or nothing to do so, Be likeable, Take advantage of life by using leverage, Take calculated risks, Nurture your relationships, Control your perspective" list-ids="have-a-goal, always-be-read-to-take-advantage-of-opportunities, take-more-chances, help-people-when-it-costs-little-or-nothing-to-do-so, be-likeable, take-advantage-of-life-by-using-leverage, take-calculated-risks, nurture-your-relationships, choose-your-perspective" %}
-
 ## Have a goal
 
 Trying to accomplish something makes it more likely you'll get lucky by at least a factor of ten.
@@ -69,7 +67,7 @@ Preparation is a result of dedication to your craft. By constantly improving, yo
 
 ## Take more chances
 
-| There is a great book I recommend called \*\[Hustle\]({{ '1623367166'</td><td>amazon }})\* (written by Neil Patel, Patrick Vlaskovits, and Jonas Koffler). In the book, they compare getting lucky to getting up at bat in baseball. The level of skill or preparation you have is your batting average. |
+| There is a great book I recommend called \*\[Hustle\]({{ '1623367166'&lt;/td&gt;&lt;td&gt;amazon }})\* (written by Neil Patel, Patrick Vlaskovits, and Jonas Koffler). In the book, they compare getting lucky to getting up at bat in baseball. The level of skill or preparation you have is your batting average. |
 
 > If your batting average is .400 in major league baseball, apparently this is excellent (please forgive me baseball fans. I don’t know the game well at all). This means that if you got up to bat 10 times, you’d hit the ball 4 times.
 >
@@ -122,7 +120,7 @@ People never think of this as a way to get lucky, but it always pays off. When y
 
 The safest path is the surest path. It’s the one most people go down and it’s the reason most people, almost by definition, aren’t lucky. This is because most people do not expose themselves to volatile events. They prefer a life with little chance to mess up, but with little chance to excel as well.
 
-[Lucky people always take risks.](/risk-taking/)&nbsp;Unlucky people don't.
+Lucky people always take risks. Unlucky people don't.
 
 One of the things that I love about entrepreneurship is the thrill of bet everyone on myself and my abilities. Some people feel it's too risky to live like this, but taking calculated risks is a defining trait of entrepreneurs.
 
