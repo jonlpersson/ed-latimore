@@ -1,7 +1,7 @@
 ---
 date: 2023-01-21 15:10:00 -0500
 article_type: Article
-title: 'How to make.a tweet go viral: The definitive guide'
+title: 'How to make a tweet go viral: The definitive guide'
 permalink: /how-to-make-a-tweet-go-viral/
 tags:
   - twitter-tips

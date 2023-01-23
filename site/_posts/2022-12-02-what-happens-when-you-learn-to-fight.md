@@ -1,7 +1,7 @@
 ---
 date: 2022-12-02 09:00:00 -0400
 article_type: Article
-title: What happens when you learn to fight(+benefits)
+title: What happens when you learn to fight (+ benefits)
 permalink: /what-happens-when-you-learn-to-fight/
 tags:
   - boxing-lessons
