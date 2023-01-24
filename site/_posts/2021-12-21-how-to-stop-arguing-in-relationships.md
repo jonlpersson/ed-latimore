@@ -36,8 +36,6 @@ This means that you aren’t taking the time to hear each other’s side and fig
 
 If you’re stuck in a loop of constant fighting with your significant other, this article covers 5 tips to stop having unnecessary arguments and get back on the same page.
 
-{% include widgets/toc.html heading="How to stop arguing in relationships" list-items="When you try to be right everyone loses, Do you even have boundaries bro?, Is it an argument or a misunderstanding?, Communicate like an adult, Defuse the fire before it starts" list-ids="1-stop-trying-to-be-right, 2-define-what-isnt-okay, 3-understand-most-arguments-are-misunderstandings, 4-learn-what-communication-really-means, 5-learn-how-to-defuse-the-situation" %}
-
 ## 1\. Stop trying to be right
 
 The best way to stop arguing, overall, is to set yourself up to not need to argue in the first place. The first step in that direction is to stop trying to be right. When you fight to win, you miss an opportunity to tackle the real problem and grow from any resolution you reach. Which means you’re simply going to continue the cycle.
@@ -54,7 +52,7 @@ Frequent arguing increases the chances that you’re going to behave in a less t
 
 We typically learn these fundamental ways of handling conflict by growing up and witnessing how our parents handled conflict.
 
-You have the definite signs your relationship is toxic from [this article](https://edlatimore.com/toxic-relationships/), and veering on emotional abuse if these behaviors are present:
+You have the definite signs your relationship is toxic from this article, and veering on emotional abuse if these behaviors are present:
 
 * Name-calling
 * Shutting down or stonewalling
