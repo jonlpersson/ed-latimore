@@ -22,7 +22,7 @@ There are ways to increase the odds in your favor. Improving your luck isn't mag
 
 ## How can I become lucky?
 
-[I think luck](/how-to-get-good-luck/) plays a significant role in the life of any successful person.
+I think luck plays a significant role in the life of any successful person.
 
 Hard work is important, but a little good fortune goes a long way in being successful.
 
