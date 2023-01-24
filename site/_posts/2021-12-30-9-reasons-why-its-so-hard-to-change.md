@@ -197,7 +197,7 @@ If you’re having trouble starting, figure out the smallest possible step you c
 
 The other thing you can do to make your brain more malleable to change is to try and embrace confusion.
 
-No matter what you’re learning or building, you’ll eventually hit a wall where things aren’t making sense anymore. And that’s great\! Because confusion is a feature of self-improvement, not a bug.
+No matter what you’re learning or building, you’ll eventually hit a wall where things aren’t making sense anymore. And that’s great! Because confusion is a feature of self-improvement, not a bug.
 
 Confusion is a signal that you’re growing. It’s uncomfortable and frustrating, but it’s the clearest sign that you are changing your life.
 

@@ -104,7 +104,7 @@ Making new friends may not be as easy as being the encourager in your group but 
 
 If you find that you lose friends when you get into relationships, you’re not alone. When you’re single, you reach out to a friend when lonely or bored. In a relationship, your partner fulfills that role.
 
-I’ve written more on how this affects both men and women in my post, [this is why you don’t have friends](/why-you-cant-make-friends/). The bottom line, relationships make meeting new people more difficult. And it becomes more difficult if you have young children.
+The bottom line, relationships make meeting new people more difficult. And it becomes more difficult if you have young children.
 
 Here’s how to make friends and expand your social circle if you’re in a relationship:
 
