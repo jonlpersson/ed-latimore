@@ -3,9 +3,9 @@ date: 2020-05-20 12:59:00 -0400
 article_type: Article
 title: Is karma real? 3 life lessons from a troll
 permalink: /is-karma-real/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 image: /assets/images/thumbnails/ugly-internet-troll-vector-14784097.jpeg
 description: >-
@@ -129,7 +129,7 @@ And for goodness sakes–and I know that I already said this–DON’T USE AN AC
 
 Use the internet to your advantage. You want to make sure that when people google you, stuff comes up that makes you look better. Not worse.
 
-There are many ways to do this, but it basically boils down to creating stuff. If [you're using your real information and YOU aren’t trying to work for yourself](/personal-branding-examples/) (or you’re already in a power position), you’re asking for trouble.
+There are many ways to do this, but it basically boils down to creating stuff. If you're using your real information and YOU aren’t trying to work for yourself (or you’re already in a power position), you’re asking for trouble.
 
 The moment you say something disparaging and someone decides to archive it, that’s what’s going to come up on the first page when people search for you.
 
