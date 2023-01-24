@@ -108,7 +108,7 @@ Likewise, they know how obnoxious an "I-told-you-so" type of personality is.
 
 Benefit and burden walk hand-in-hand. If you can’t admit when things going wrong is your fault, you also don’t get to take credit for things when they go right.
 
-[Risk and reward](/risk-taking/) are inexorably intertwined. Only the weak, naive, and immature believe that they can have it all without risking anything. A sign of maturity is understanding that anything in life worth having is a risky endeavor.
+Risk and reward are inexorably intertwined. Only the weak, naive, and immature believe that they can have it all without risking anything. A sign of maturity is understanding that anything in life worth having is a risky endeavor.
 
 ## You accept the harsh truths about life
 
