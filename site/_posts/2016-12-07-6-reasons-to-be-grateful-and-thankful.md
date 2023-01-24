@@ -42,7 +42,7 @@ Think about all of the terrible things that can happen to you over the course of
 
 How does practicing gratitude protect my eyes from this dangerously blinding beam of light?
 
-Don't think of gratitude as a pair of sunglasses protecting your eyes. Rather, think of gratitude as the neck which turns your head to look away. Even with protection, we don't [want to risk staring down the problems in our life](/risk-taking/). After all, they may fall off, break, or be just downright ineffective. To reduce the risk of any of these issues, we simply look away.
+Don't think of gratitude as a pair of sunglasses protecting your eyes. Rather, think of gratitude as the neck which turns your head to look away. Even with protection, we don't want to risk staring down the problems in our life. After all, they may fall off, break, or be just downright ineffective. To reduce the risk of any of these issues, we simply look away.
 
 This isn't the same as ignoring our problems.
 
@@ -102,7 +102,7 @@ Gratitude is the perfect gift because as you give it, you get a host of health b
 
 {% twitter https://twitter.com/EdLatimore/status/1281648925401899008 %}
 
-I can hear the objections. “What if there is nothing good in my life? My life is terrible and everything is painful to look at\! How can this gratitude practice work for me if my life is miserable?”
+I can hear the objections. “What if there is nothing good in my life? My life is terrible and everything is painful to look at! How can this gratitude practice work for me if my life is miserable?”
 
 **Gratitude works for everyone. [The problem is that you're being selfish](/unhappiness/).**
 
@@ -110,7 +110,7 @@ If you're alive, then you're part of a fantastic world. There are so many things
 
 Once in my life, things were getting bad. To combat my feelings of self-pity, I admired all the pretty girls around me. There are blind people in the world and I focused on the fact that I get to enjoy this part of nature.
 
-You might say, “That’s just eyesight\! There’s nothing special about that\!”
+You might say, “That’s just eyesight! There’s nothing special about that!”
 
 Then you’re missing the point. Your eyesight, like all things in the world, is a privilege.
 
