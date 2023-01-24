@@ -3,9 +3,9 @@ date: 2020-06-15 17:42:00 -0400
 article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 description: >-
   I once worked at a men’s homeless shelter. Here are five powerful lessons I
@@ -42,7 +42,7 @@ Most of them were guys [who’d done 5-10+ years in prison](https://www.prisonpo
 
 This is a difficult situation for people to imagine who have never been incarcerated or had someone close to them do time. While there are resources in prison to better yourself, imagine how difficult it can be to do that in an environment with other criminals. Sure, there are the exceptions who make it out but for the most part, what happens is exactly what you’d expect.
 
-If you avoid going to prison, your life is going to be mostly alright. It may not be spectacular, but you’ll always be [in a position to improve](/personal-freedom/). Of course, you have to consider what type of person you’re typically dealing with when you talk about people who get jail time of this nature.
+If you avoid going to prison, your life is going to be mostly alright. It may not be spectacular, but you’ll always be in a position to improve. Of course, you have to consider what type of person you’re typically dealing with when you talk about people who get jail time of this nature.
 
 ***\[Note: If you're looking to get into a home after doing time in prison and you're having difficulty, this is a great resource on [securing housing after incarceration.](https://www.bankrate.com/insurance/homeowners-insurance/secure-housing-after-incarceration/&#41;){: target="_blank" rel="noopener"}\]***
 
