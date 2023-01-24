@@ -3,9 +3,9 @@ date: 2022-02-09 17:14:10 -0500
 article_type: Article
 title: The 7 benefits of having a rough childhood
 permalink: /7-benefits-of-having-a-rough-childhood/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 description: >-
   This is for the kids growing up in broken homes, dangerous neighborhoods, and
@@ -65,8 +65,6 @@ I came away with certain advantages. And a lot of disadvantages.
 In this article, I'll break down everything I learned coming from a rough childhood that I think has set me up for success today.&nbsp;
 
 ## The 7 benefits of having a rough childhood
-
-&nbsp;
 
 ### You're resilient&nbsp;
 
@@ -128,7 +126,7 @@ Growing up, I could never understand some of my friends and their obsession with
 
 I was never obligated to any one particular religion. [College wasn't an expectation for me.](/4-reasons-why-you-shouldnt-go-to-college/)
 
-With no expectations other than to not become a statistic, I got to sort out my life path on my own. And I'm not saying that this is ideal or that most people succeed growing up without guidance. I'm just saying that [it's a freedom that many people never get to embrace.](/personal-freedom/)
+With no expectations other than to not become a statistic, I got to sort out my life path on my own. And I'm not saying that this is ideal or that most people succeed growing up without guidance. I'm just saying that it's a freedom that many people never get to embrace.
 
 This freedom is one of the things that saved me from majoring in something stupid in college because I didn't have a stable environment telling me to go to college immediately because "any degree is a good degree."&nbsp;
 
