@@ -92,7 +92,7 @@ Fasting, intermittent or otherwise, can also offer huge benefits in terms of spi
 
 Small actions create entire perspective changes that lead to lasting self-improvement.
 
-Don’t wait around for it to feel good. Read here to learn [why real self-improvement sucks](https://edlatimore.com/why-self-improvement-sucks/).
+Don’t wait around for it to feel good.&nbsp;
 
 ## It’s the perfect accountability project
 
