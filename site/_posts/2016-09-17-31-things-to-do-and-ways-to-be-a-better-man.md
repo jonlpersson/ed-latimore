@@ -56,8 +56,6 @@ All the people I’ve met who never do better and continually fail had the follo
 
 If you only have one of these traits, or even two, there is hope. But if you think you’re always right (no humility), don’t know when you’re wrong to correct (no self-awareness), can’t do hard things for a long amount of time (inability to suffer), and always blame others (inability to take responsibility), you may as well be dead.
 
-***Learn the 8 mindset shifts to improve your life [here](/how-to-take-control-of-your-life/).***
-
 ## 5\. Build self-discipline
 
 I grew up poor and I learned something valuable from it.
@@ -389,7 +387,7 @@ One step down is giving them access to your resources. Way down the line is mone
 
 The progression of value looks like this:
 
-#### **Time &gt; Reputation &gt; Energy &raquo;&gt; Money**
+#### **Time &gt; Reputation &gt; Energy »&gt; Money**
 
 The trend here is that the more easily something can be renewed, the less important it is.
 
