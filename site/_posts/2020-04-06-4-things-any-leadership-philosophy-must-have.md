@@ -79,7 +79,7 @@ I wanted to be respected and admired. I wanted to be clean and healthy. I wanted
 
 The leader who won't take responsibility won't be the leader for very long.
 
-To lead yourself is&nbsp;[to control yourself](/how-to-take-control-of-your-life/)&nbsp;and this can only be accomplished when you blame no one but yourself.
+To lead yourself is to control yourself and this can only be accomplished when you blame no one but yourself.
 
 As a leader, you must always take responsibility. Even if it isn’t your fault. In fact, those are the times that it's even more important for you to take responsibility. When leading yourself, never blame anything for your situation but yourself.
 
