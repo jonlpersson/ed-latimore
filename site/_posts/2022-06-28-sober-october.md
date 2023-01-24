@@ -78,8 +78,6 @@ Binge drinking aside, I found that people who smoke too much weed have low impul
 
 I like to think of positive changes in my life as moves that generate compound interest, or as bets on myself that continuously pay off.
 
-Read here to learn how the [cost of success is like poker](https://edlatimore.com/the-cost-of-success/).
-
 Building these positive habits will make you shine a light on other areas of your life that need improvement. Nutrition is a great place to start for most people. Making healthier decisions at the lunch and dinner table can have tremendous effects, such as:
 
 * Lowering your blood pressure and cholesterol
