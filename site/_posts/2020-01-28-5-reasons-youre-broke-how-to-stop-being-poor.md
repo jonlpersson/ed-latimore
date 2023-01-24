@@ -3,9 +3,9 @@ date: 2020-01-28 19:52:00 -0500
 article_type: Article
 title: '5 reasons you''re broke: How to stop being poor'
 permalink: /stop-being-poor/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 image: /assets/images/posts/beingbroke.jpg
 description: >-
@@ -64,7 +64,7 @@ Of course, he defaulted on the loan and got the car repossessed both times.
 
 There’s nothing wrong with believing you deserve nice things. The problem is when you refuse to do the work to get them and take shortcuts instead.
 
-This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You'll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire [what you think you deserve](/personal-freedom/).
+This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You'll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire what you think you deserve.
 
 ## 3) You think you know it all
 
