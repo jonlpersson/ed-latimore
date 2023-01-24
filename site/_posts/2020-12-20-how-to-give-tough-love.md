@@ -3,9 +3,9 @@ date: 2020-12-20 23:36:00 -0500
 article_type: Article
 title: How to give tough love
 permalink: /tough-love/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 description: >-
   Giving tough love can be terrifying. But if you truly care about someone, you
@@ -118,6 +118,6 @@ Giving tough love can be terrifying. But if you truly care about someone, you mu
 
 If they love you back, you’ll discover a whole new depth of trust with that person—you know they can accept painful truth, and they know you love them enough to share it.
 
-[It’s worth the risk.](/risk-taking/)
+It’s worth the risk.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
