@@ -3,9 +3,9 @@ date: 2022-03-09 10:14:47 -0500
 article_type: Article
 title: Why did I start boxing?
 permalink: /why-did-I-start-boxing/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   In this essay, I explain why I started boxing. I think all fighters will see a
@@ -26,7 +26,7 @@ Most people run away from fights or, at the very least, do not intentionally get
 
 But not the fighter. In this regard, fighters are built differently than the rest of the population. We are *way* past 3 standard deviations from the average human when it comes to risk aversion, pain tolerance, and self-regard.
 
-We seek hardship while the masses seek comfort. We confront pain while everyone else pursues pleasure. We walk side-by-side [with uncertainty](/risk-taking/) and [fear](/how-to-overcome-fear/) while most people embrace the safe and sure path. But why do it? Why do we fight?
+We seek hardship while the masses seek comfort. We confront pain while everyone else pursues pleasure. We walk side-by-side with uncertainty and [fear](/how-to-overcome-fear/) while most people embrace the safe and sure path. But why do it? Why do we fight?
 
 More specifically, why did I do it? Why did I live the life of a fighter for 13 years?&nbsp;
 
