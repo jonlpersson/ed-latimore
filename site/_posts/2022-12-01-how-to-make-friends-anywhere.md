@@ -29,8 +29,6 @@ Social media friends and co-workers don’t count—at least not initially. You 
 
 [**How to make friends in a new city:**](/how-to-make-friends-in-a-new-city/) Making friends in a new city is one of the most difficult things to do. A lot of people imagine that it’s easy, but stepping out of your comfort zone and exerting so much energy on something you never had to think about is difficult. This post teaches you tactics and strategies for making friends in a new city and how to handle the social anxiety and mental health strain that this endeavor can cause.
 
-[**Why you don’t have any friends:**](/why-you-cant-make-friends/) This post explores why, despite your best efforts, you can’t seem to make any friends. Then you learn how to make lasting friendships, not just drinking buddies or people on social media.
-
 ## How to improve social skills
 
 [**How to be the most interesting man in the room:**](/how-to-be-interesting/)Interesting people have an advantage when it comes to making friends. More people want to be around them so they’re rarely without an invite to meet up, which gives them an opportunity to make new friends. This article shows you how to become a more interesting person and give off that cool mysterious vibe.
