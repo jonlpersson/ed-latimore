@@ -143,7 +143,7 @@ It’s easy to become your best self when what you pursue aligns with your passi
 
 The moment you begin to live for another’s desires is the moment you lose authenticity. This is the moment when many of us, in an attempt to be cooler and fit in, lose the very thing that gives us our edge.
 
-| I always tell people that I’m a more interesting and engaging person \[since I stopped drinking\]({{ 'B07LFX335T'</td><td>amazon }}). |
+| I always tell people that I’m a more interesting and engaging person \[since I stopped drinking\]({{ 'B07LFX335T'&lt;/td&gt;&lt;td&gt;amazon }}). |
 
 I get to live life on my own terms instead of the way most people expect me to. I can interact with people who drink and those who don’t because I’m always myself, engaged in life, and having fun.
 
@@ -169,7 +169,7 @@ It’s the plan that your culture and society has had for you since your birth. 
 
 ![NPCs don't want you to be likable, authentic, or take risks.](/assets/images/posts/npcmemerightsize.jpg "The goal is to make you think and act just like everyone else. Resist.")
 
-If you live an authentic life where you’re truly yourself, then you'll have admirers. But you’ll also have haters. These haters will be the people who are too afraid to take risks. Since they [won’t take risks themselves](/risk-taking/), they are jealous of the ones who do.
+If you live an authentic life where you’re truly yourself, then you'll have admirers. But you’ll also have haters. These haters will be the people who are too afraid to take risks. Since they won’t take risks themselves, they are jealous of the ones who do.
 
 Prepare yourself for this, but remember that these people are just paper tigers.
 
