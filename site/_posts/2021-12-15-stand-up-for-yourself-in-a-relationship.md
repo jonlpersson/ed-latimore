@@ -30,11 +30,11 @@ I've already written extensively on [how to avoid being a pushover.](https://edl
 
 This article will go deeper into standing up for yourself in your relationship.
 
-{% include widgets/toc.html heading="How to stand up for yourself in a relationship" list-items="Paint won&rsquo;t fix a broken-down car, We over me, Eat a regular diet of tough conversations, Don&rsquo;t be passive-aggressive, Don&rsquo;t belittle or criticize, Know what you want, Heed the third agreement, When it&rsquo;s time to leave&mdash;leave with dignity" list-ids="paint-wont-fix-a-broken-down-car, value-the-relationship-over-the-individual, have-tough-conversations, check-your-passive-aggressiveness, dont-belittle-or-criticize, know-thyself, follow-the-third-agreement, when-is-it-time-to-walk" %}
+{% include widgets/toc.html heading="How to stand up for yourself in a relationship" list-items="Paint won’t fix a broken-down car, We over me, Eat a regular diet of tough conversations, Don’t be passive-aggressive, Don’t belittle or criticize, Know what you want, Heed the third agreement, When it’s time to leave—leave with dignity" list-ids="paint-wont-fix-a-broken-down-car, value-the-relationship-over-the-individual, have-tough-conversations, check-your-passive-aggressiveness, dont-belittle-or-criticize, know-thyself, follow-the-third-agreement, when-is-it-time-to-walk" %}
 
 ## Paint won’t fix a broken-down car
 
-I can't emphasize enough how important it is that you choose well. All the relationship advice in the world won't help you if you're in a toxic relationship. Read my post on [understanding toxic relationships](https://edlatimore.com/toxic-relationships/) to discover if you’re in one and how to escape.
+I can't emphasize enough how important it is that you choose well. All the relationship advice in the world won't help you if you're in a toxic relationship. Read my post on understanding toxic relationships to discover if you’re in one and how to escape.
 
 Relationship conflict is unavoidable. But toxic relationships are going to cause more stress than any normal relationship and make life unnecessarily hard. The quality of your relationship depends on how well you manage your differences.
 
