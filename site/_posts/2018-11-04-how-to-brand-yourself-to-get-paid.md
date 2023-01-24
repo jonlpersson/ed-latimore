@@ -28,7 +28,7 @@ I learned how to brand myself through trial, error, blood, sweat, and tears.
 
 **The best way to brand yourself is to become a thought leader**. The best way to become a thought leader is by using your online presence and social media to build an audience and to teach.
 
-In fact, the motto of my website is to take what I've learned the hard way and break it down so that you can learn it the easy way. I make myself a living example of what I teach. I recommend that everyone take this approach. That is, using their real-life experience to build an **[online personal brand.](/personal-branding-examples/)**
+In fact, the motto of my website is to take what I've learned the hard way and break it down so that you can learn it the easy way. I make myself a living example of what I teach. I recommend that everyone take this approach. That is, using their real-life experience to build an online personal brand.
 
 Most, if not all, of the points I raise here are based on my own experiences getting:
 
