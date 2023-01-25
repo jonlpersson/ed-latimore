@@ -33,7 +33,7 @@ Don’t sell yourself short. I thought the exact same thing. The change was some
 
 If you’ve had loved ones threaten to disown you if you didn’t [check into a treatment program](https://stonegatecenter.com/when-seek-medical-detox-treatment/){: target="_blank" rel="noopener noreferrer"}, attend AA, or start going to therapy, you can probably relate to what I’m saying. It's a special type of hell when your life comes down to the ability to stick with recovery.
 
-I realized that the most difficult thing to change isn’t your alcohol consumption, drug abuse, or negative emotions. The hardest thing to change is your mindset, perspective, and habits. If you want to quit drinking check out my [8 things you should know to quit](/8-things-to-know-if-you-want-to-quit-drinking/).
+I realized that the most difficult thing to change isn’t your alcohol consumption, drug abuse, or negative emotions. The hardest thing to change is your mindset, perspective, and habits.&nbsp;
 
 Understanding the link between sobriety and healthy eating is one of the least often discussed keys to a successful recovery. Healthy eating can help your detox from alcohol proceed a lot more easily.
 
@@ -51,7 +51,7 @@ Since they feel like it’s in their heads, they feel like they must “think”
 
 [The key is understanding that mental health IS physical health](https://www.inverse.com/mind-body/microbiome-mental-health-study-links-gut-bacteria-personality){: target="_blank" rel="noreferrer"}; the two cannot be separated. The detox process is as much in the mind as it is in the body. Drug and alcohol cravings have both a physiological *and* psychological component.
 
-[The gut-brain connection](https://www.sciencedaily.com/releases/2016/10/161020114611.htm){: target="_blank" rel="noreferrer"} is one of the most important issues for good health and sobriety. Your “feel good” neurotransmitters like dopamine, serotonin, and GABA are created in your gut. In fact, over [90% of your serotonin is created there\!](https://www.scientificamerican.com/article/gut-second-brain/){: target="_blank" rel="noreferrer"}
+[The gut-brain connection](https://www.sciencedaily.com/releases/2016/10/161020114611.htm){: target="_blank" rel="noreferrer"} is one of the most important issues for good health and sobriety. Your “feel good” neurotransmitters like dopamine, serotonin, and GABA are created in your gut. In fact, over [90% of your serotonin is created there!](https://www.scientificamerican.com/article/gut-second-brain/){: target="_blank" rel="noreferrer"}
 
 These neurotransmitters affect your mood, which is why it’s so important to understand this gut-brain connection. You are, in many ways, *exactly* what you eat.
 
@@ -75,7 +75,7 @@ From a nutritional standpoint, one of the best ways to manage these [emotional a
 
 Dietary protein converts into amino acids. Amino acids are converted into neurotransmitters like [dopamine and serotonin](https://healthfully.com/431600-what-minerals-convert-amino-acids-to-dopamine-serotonin.html){: target="_blank" rel="noreferrer"}. This aids in recovery and reduces the emotional side[&nbsp;effects of drug and alcohol detox.](https://pbinstitute.com/withdrawal/alcohol/){: target="_blank" rel="noopener noreferrer"}
 
-Protein is also essential for healing damaged organs, rebuilding lost muscle tissue, and healing the digestive system. Sobriety and steaks make a great team\!
+Protein is also essential for healing damaged organs, rebuilding lost muscle tissue, and healing the digestive system. Sobriety and steaks make a great team!
 
 ## 2\. Avoiding sugar is key to the alcohol detox diet
 
@@ -105,7 +105,7 @@ Supplements like **Chromium** can help with this issue as well.
 
 **Chromium** is lost through chronic alcohol intake and by consuming too much-refined carbs and sugar. [Supplementing with Chromium can help with carbohydrate metabolism and reduce sugar cravings](https://draxe.com/nutrition/what-is-chromium/){: target="_blank" rel="noreferrer"}.
 
-This is exactly what we want in our new life without alcohol\!
+This is exactly what we want in our new life without alcohol!
 
 ## 4\. Healing fatty liver disease from alcohol abuse
 
@@ -115,7 +115,7 @@ Removing sugar and processed foods, in particular seed oils, is huge for liver h
 
 Nearly 35% of long-term drinkers will suffer from fatty liver disease. The Alcohol Detox Diet is crucial to maintaining liver health. Additionally, these supplements and herbs are also well studied and effective when combating fatty liver disease.
 
-| \!\[Fatty Liver Disease\](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: &lt;em&gt;ID 161876895 &copy; Horillaz | Dreamstime.com&lt;/em&gt;") |
+| !\[Fatty Liver Disease\](/assets/images/posts/fatty-liver-disease.jpg "Fatty liver on the left. Healthy liver on the right. Credit: &lt;em&gt;ID 161876895 © Horillaz | Dreamstime.com&lt;/em&gt;") |
 
 **Omega 3** helps with brain and nervous system function, reduces stress and cortisol levels, can improve sleep and help with fatty liver disease. Since alcohol disrupts the body's ability to metabolize essential fatty acids, [it’s a great idea to take this supplement.](https://healthfully.com/527278-can-omega-3-supplements-contribute-to-a-fatty-liver.html){: target="_blank" rel="noreferrer"}
 
@@ -143,7 +143,7 @@ Popular fermented foods which help to heal the digestive tract are:
 * **Kombucha**
 * **Apple Cider Vinegar&nbsp;**
 
-[Even traditionally made sourdough bread is an amazing fermented food\!](https://www.healthline.com/nutrition/sourdough-bread#section1){: target="_blank" rel="noreferrer"}
+[Even traditionally made sourdough bread is an amazing fermented food!](https://www.healthline.com/nutrition/sourdough-bread#section1){: target="_blank" rel="noreferrer"}
 
 [Apple Cider Vinegar is great for increasing stomach acid](https://nutrineat.com/vinegar-ph-value){: target="_blank" rel="noreferrer"} which helps you to break down your food and absorb all those good vitamins and minerals. [It can also aid in heartburn and acid reflux.](https://www.healthline.com/health/how-to-increase-stomach-acid){: target="_blank" rel="noreferrer"}
 
