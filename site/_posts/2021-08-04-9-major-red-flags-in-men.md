@@ -161,8 +161,6 @@ This is important because generally speaking, a guy doesn’t have friends becau
 
 His family doesn’t count. He must have people who have chosen to be around him (preferably for an extended period of time) of their own free will. Not familial obligation.
 
-*Sidenote: If you know someone struggling to make friends as an adult, then send them my guide on [how to make friends as an adult](/how-to-make-friends-as-an-adult/) to help them out.*
-
 ## Always late
 
 Yes, things happen. With that said, we live in the 21st century with cellular devices. Not only can you call if something comes up, but you can also text. Hell, you can even send a message through various social media and dating apps.
