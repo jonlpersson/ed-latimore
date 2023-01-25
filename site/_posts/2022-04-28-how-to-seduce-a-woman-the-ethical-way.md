@@ -234,8 +234,6 @@ Tell a story. Ask open-ended questions. Comment on your drink or something inter
 * **Pick-up lines.** Even if their funny and obviously exaggerated, you likely don’t have the sense of humor to pull them off. And for that matter, she probably doesn’t have it to know they’re jokes.
 * **Comments on her body.** You can comment on her clothing, that’s about it. But if she didn’t have control over it, avoid commenting on it—until you’re more comfortable. Eyes, hair, ass, boobs, legs, whatever.
 
-***\[Read: [5 ways to communicate and start a conversation](/how-to-start-a-conversation/)\]***
-
 ## Non-verbal communication
 
 While you’re talking, think about your non-verbal language too. Conversational skills are essential, but you need to be able to use non-verbal communication, as it is one of the most powerful tools of seduction.
@@ -334,4 +332,4 @@ That concludes this guide on how to be seductive. Follow the tips above and lear
 
 Remember though, seducing her is only half of the battle. If you want to convince her to stick around, you’ll need to satisfy her in the bedroom too.
 
-Good luck and have fun\!
+Good luck and have fun!
