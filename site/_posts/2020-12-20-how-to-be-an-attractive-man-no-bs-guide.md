@@ -378,8 +378,6 @@ You need to be able to just *befriend* women:
 
 Befriending a girl isn’t the same as settling for the friendzone, mind you. If you are into a girl but she’s not into you, **it’s better to just move on.**
 
-With all that said, if you struggle with approaching women and need a crutch, my article on [five simple ways to start a conversation](/how-to-start-a-conversation/) will come in handy.
-
 ### Build social capital
 
 Your goal in all your social endeavors should be to build social capital, plain and simple. That’s what you’re doing when you befriend women. It’s also what you’re doing when you befriend other guys.
