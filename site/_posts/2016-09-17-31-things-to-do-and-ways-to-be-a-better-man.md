@@ -211,8 +211,6 @@ I generally don't recommend a passive approach to things, but there are times wh
 
 Your personal judgment and experience will tell you which and when.
 
-***[I teach you the four signs it's absolutely time to end a friendship here.](/when-to-end-a-friendship/)***
-
 ## 15\. Try to understand and forgive your parents
 
 If everything goes according to plan, your parents will die before you.
