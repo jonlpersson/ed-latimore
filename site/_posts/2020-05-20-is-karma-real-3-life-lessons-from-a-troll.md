@@ -171,7 +171,7 @@ Here’s a secret to how I keep such a cool head with people on social media:
 
 I recognize that it’s a tool to connect me to money and power. I know that every enemy I make is an entire network I close myself off to in the present and one that I potentially exclude myself from in the future.
 
-It’s selfish, but it produces a positive result. Because I’m out for me, [I’m motivated](/how-to-get-motivated/) to treat everyone around me right–even when they don’t deserve it. My ruthless adherence to my self-interest is responsible for building my good karma on the internet.
+It’s selfish, but it produces a positive result. Because I’m out for me, I’m motivated to treat everyone around me right–even when they don’t deserve it. My ruthless adherence to my self-interest is responsible for building my good karma on the internet.
 
 ## 3) A good apology is one that you don't have to make in the first place
 
