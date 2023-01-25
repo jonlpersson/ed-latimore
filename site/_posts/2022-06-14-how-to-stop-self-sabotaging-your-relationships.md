@@ -96,7 +96,7 @@ Another addition to that series is *[How often do couples fight](https://edlatim
 
 ### Find someone to grow with
 
-Always choosing the wrong person is a form of self-sabotage. We all seem to know that one person that’s always with someone who cheats on or belittles them. When you begin to [understand the pattern of toxic relationships](https://edlatimore.com/toxic-relationships/) you can start to avoid this pattern.
+Always choosing the wrong person is a form of self-sabotage. We all seem to know that one person that’s always with someone who cheats on or belittles them. When you begin to understand the pattern of toxic relationships you can start to avoid this pattern.
 
 What you want is to find someone you can grow and build a healthy relationship with. Start by determining what type of relationship you want and working to build it. Keep a journal about these intentions and set them with your significant other as well.
 
