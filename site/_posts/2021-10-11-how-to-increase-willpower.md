@@ -3,9 +3,9 @@ date: 2021-10-11 09:00:00 -0400
 article_type: Article
 title: How to increase willpower (the easiest way to break bad habits)
 permalink: /how-to-increase-willpower/
-tags: 
+tags:
   - how-to-break-an-addiction
-categories: 
+categories:
   - how-to-break-an-addiction
 description: >-
   Learn how to increase willpower so you can break bad habits, build new habits,
@@ -129,10 +129,8 @@ Here’s a quick recap of the tips we discussed to build willpower:
 
 The rest is up to you.
 
-**PS: If you still need some motivation to put all of this into action, I recommend reading this article next: [11 top performer secrets to motivate someone](https://edlatimore.com/how-to-get-motivated/).**
-
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Mischel, W., &amp; Ebbesen, E. B. (1970). <a href="https://content.apa.org/doi/10.1037/h0029815">Attention in delay of gratification</a>. <em>Journal of Personality and Social Psychology, 16</em>(2), 329&ndash;337.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Muraven, M., &amp; Baumeister, R. F. (2000). <a href="https://psycnet.apa.org/doi/10.1037/0033-2909.126.2.247">Self-regulation and depletion of limited resources: Does self-control resemble a muscle?</a> <em>Psychological Bulletin, 126</em>(2), 247&ndash;259.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Harvard Health (2020). <a href="https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response">Understanding the stress response</a>. _Harvard Health Publishing _&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Kelly McGonigal Ph.D. (2009). <a href="https://www.psychologytoday.com/us/blog/the-science-willpower/200910/in-defense-good-nights-sleep">In defense of a good night&rsquo;s sleep</a>. <em>Psychology Today</em>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>June J. Pilcher, Drew M. Morris, Janet Donnelly, and Hayley B. Feigl (2015). <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2015.00284/full">Interactions between sleep habits and self-contro</a>l. Frontiers in Human Neuroscience, PMC4426706.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Mischel, W., &amp; Ebbesen, E. B. (1970). <a href="https://content.apa.org/doi/10.1037/h0029815">Attention in delay of gratification</a>. <em>Journal of Personality and Social Psychology, 16</em>(2), 329–337.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Muraven, M., &amp; Baumeister, R. F. (2000). <a href="https://psycnet.apa.org/doi/10.1037/0033-2909.126.2.247">Self-regulation and depletion of limited resources: Does self-control resemble a muscle?</a> <em>Psychological Bulletin, 126</em>(2), 247–259.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Harvard Health (2020). <a href="https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response">Understanding the stress response</a>. _Harvard Health Publishing _&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Kelly McGonigal Ph.D. (2009). <a href="https://www.psychologytoday.com/us/blog/the-science-willpower/200910/in-defense-good-nights-sleep">In defense of a good night’s sleep</a>. <em>Psychology Today</em>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>June J. Pilcher, Drew M. Morris, Janet Donnelly, and Hayley B. Feigl (2015). <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2015.00284/full">Interactions between sleep habits and self-contro</a>l. Frontiers in Human Neuroscience, PMC4426706.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
