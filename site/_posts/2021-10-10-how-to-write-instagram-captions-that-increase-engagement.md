@@ -159,8 +159,6 @@ All value stems from the ability to help people handle their problems. To be val
 * Persuade them to feel better about their problems
 * Entertain them in such a way that they forget about them
 
-&nbsp;
-
 Value is the ability to do one of these things. This is the meta-rule that guides all of the captions you create.
 
 If you notice, there is a growing trend of accounts that don’t even bother posting pictures in the traditional sense. Instead, they post infographics and text. These posts do great because they stick to the principles of delivering value.
