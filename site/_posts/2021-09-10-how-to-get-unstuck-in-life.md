@@ -71,8 +71,6 @@ There’s no secret nootropic or stimulant that you can use to escape the essent
 
 For more tips on increasing your energy, I recommend checking out this article I wrote on [how to get more energy](https://edlatimore.com/how-to-get-more-energy/).
 
-&nbsp;
-
 ### Set your environment up for success
 
 If we continue with the path of least resistance, our immediate environments are the paths most travelled. Since we are constantly immersed in them, we have to cultivate the right paths to take.
@@ -138,7 +136,7 @@ A 2018 study done by the American Psychological Association showed that an effor
 
 Here’s one way I personally leverage this: When I occasionally struggle with writer's block, I make the task of writing more enjoyable by allowing myself to drink coffee and listen to music while I write. Additionally, I’ll often go to a cafe for a nice atmosphere which I wouldn’t do if I weren’t writing.
 
-By adding three of my favorite things to the routine, it no longer seems burdensome. It can be quite pleasant once I get in a flow\!
+By adding three of my favorite things to the routine, it no longer seems burdensome. It can be quite pleasant once I get in a flow!
 
 A few ways you can increase the enjoyment of your efforts include:
 
@@ -147,7 +145,7 @@ A few ways you can increase the enjoyment of your efforts include:
 * Going somewhere with a great atmosphere to do the work
 * Getting friends to do it with you
 
-This list is not exhaustive. Find out what works best to motivate you and increase your positivity (My other two posts on motivation here will help: A) [How to get sh\*t done when you have no motivation](https://edlatimore.com/lack-of-motivation/) and B) [How to get motivated](https://edlatimore.com/how-to-get-motivated/))
+This list is not exhaustive. Find out what works best to motivate you and increase your positivity.
 
 After a few days or weeks of doing this, you’re going to start craving your routine. While it was hard initially, momentum soon makes it harder to avoid doing the act than it is to do it (Especially when you begin to taste the fruits of your efforts).
 
@@ -166,7 +164,7 @@ You accomplish this by:
 * Becoming increasing clear about what you want and why it is worth the effort
 * Learning to have a little fun along the way
 
-This process of personal growth doesn’t require any great effort or might. Instead, if you follow these tips, minor changes in your daily routine can lead to massive shifts in a relatively short time\!
+This process of personal growth doesn’t require any great effort or might. Instead, if you follow these tips, minor changes in your daily routine can lead to massive shifts in a relatively short time!
 
 **PS:** If you liked this article and want to read more like it, I recommend continuing with this article: [How to get your life together](https://edlatimore.com/how-to-get-your-life-together/).
 
@@ -176,4 +174,4 @@ This process of personal growth doesn’t require any great effort or might. Ins
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Kamarulzaman, N., Saleh, A.A., Hashim, S.Z., Hashim, H., Abdul-Ghani, A.A. (2011). <a href="https://doi.org/10.1016/j.proeng.2011.11.164">An Overview of the Influence of Physical Office Environments Towards Employee</a>. Procedia Engineering 20 (2011) 262 &ndash; 268.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Woolley, K., &amp; Fishbach, A. (2018). <a href="https://marketing.wharton.upenn.edu/wp-content/assets/images/2019/04/04.11.2019-Fishbach-Ayelet-PAPER-Its-About-Time.pdf">It&rsquo;s about time: Earlier rewards increase intrinsic motivation</a>. <em>Journal of Personality and Social Psychology, 114</em>(6), 877&ndash;890.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Kamarulzaman, N., Saleh, A.A., Hashim, S.Z., Hashim, H., Abdul-Ghani, A.A. (2011). <a href="https://doi.org/10.1016/j.proeng.2011.11.164">An Overview of the Influence of Physical Office Environments Towards Employee</a>. Procedia Engineering 20 (2011) 262 – 268.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Woolley, K., &amp; Fishbach, A. (2018). <a href="https://marketing.wharton.upenn.edu/wp-content/assets/images/2019/04/04.11.2019-Fishbach-Ayelet-PAPER-Its-About-Time.pdf">It’s about time: Earlier rewards increase intrinsic motivation</a>. <em>Journal of Personality and Social Psychology, 114</em>(6), 877–890.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
