@@ -3,9 +3,9 @@ date: 2020-02-18 13:05:00 -0500
 article_type: Article
 title: How to hustle like a crackhead
 permalink: /how-to-hustle-like-a-crackhead/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 image: /assets/images/posts/real-tyrone-biggums-1.jpeg
 description: >-
@@ -100,7 +100,7 @@ Your problem is that you want it both ways. You want all the accolades of hard w
 
 Whatever you want, you gotta be willing to pay the price. Crackheads want to get high. Crackheads are terrible at holding a job, so they don't have money to get high every day, but they damn sure figure it out.
 
-You won't stay a crackhead very long if you don't embrace the crackhead hustle. You won't be able to afford it\!
+You won't stay a crackhead very long if you don't embrace the crackhead hustle. You won't be able to afford it!
 
 ## Do You Want It As Bad As A Crackhead Wants Crack?
 
@@ -110,7 +110,7 @@ The crux of their argument is that addiction doesn't count as work ethic because
 
 This is true. It’s no stretch to say that their addiction is so fierce that they are willing to give up everything to satisfy it. However, this is the point.
 
-Whether they arrived at this level of desire by externally triggered motivation or internally inspired addiction, the point is that they’re willing to do whatever it takes to get crack–and crack is bad for them\!
+Whether they arrived at this level of desire by externally triggered motivation or internally inspired addiction, the point is that they’re willing to do whatever it takes to get crack–and crack is bad for them!
 
 Imagine what a crackhead could accomplish if it took one-tenth of that drive and applied it to something positive or constructive. This reminds me of MyPillow CEO Michael J. Lindell.
 
@@ -125,7 +125,7 @@ Here we have a case of a crackhead who took the drive that he had as an addict a
 * A card-counting hustle
 * Even raising pigs
 
-Lindell had the crackhead hustle, even before he became a crackhead\!
+Lindell had the crackhead hustle, even before he became a crackhead!
 
 He wanted success so badly that even when he started smoking crack, he was still running the MyPillow brand. It wasn’t until he lost his home and marriage due to his addiction that he got clean.
 
@@ -152,8 +152,6 @@ Some people’s crack is money. Other’s is respect. A few just want to master 
 Author James Altucher [has a great quote concerning motivation in this context.](https://jamesaltucher.com/blog/five-quote-to-make-your-bs-detector-better/){: target="_blank"} When explaining to yourself and others why did something, Altucher says “That’s a good reason and the real reason.”
 
 For example, let’s say that you decide to start working out. A good reason for doing that is to be in optimal health. The real reason is that you want to look good naked. When you harness the real reason for doing something, you harness your crackhead work ethic.
-
-***(Read: "[How To Get Motivated](/how-to-get-motivated/)")***
 
 ## Don't Smoke Crack, But Be Like The Crackhead
 
