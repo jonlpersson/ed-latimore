@@ -33,8 +33,6 @@ Every fighter naturally feels scared at some point or another because every figh
 
 I figured out a number of strategies that helped me to perform well despite facing real fear and danger inside the boxing ring. I think that many of them can be used by you to help you manage your fears, phobias, and anxieties as well.
 
-{% include widgets/toc.html heading="How to overcome fear: 7 lessons from boxing on facing fears, phobias, and anxieties" list-items="Understand what you're really afraid of, Facing fear is easier than ignoring it, Prepare to face your fears, Learn to use fear to your advantage, Be mindful of your fears, Become familiar with your fears, Take action in the face of your fears" list-ids="1-our-biggest-fear-in-life-is-being-vulnerable, 2-facing-fear-is-easier-than-ignoring-it, 3-preparation-can-help-with-overcoming-fear, 4-learn-how-to-use-fear-to-your-advantage, 5-use-mindfulness-to-shift-your-focus, 6-make-yourself-familiar-with-the-danger, 7-take-action-for-success-in-the-face-of-your-fear" %}
-
 ## 1\. Our biggest fear in life is being vulnerable
 
 All of your fears come back to vulnerability.
@@ -53,7 +51,7 @@ It’s not the burning, the drowning, the spiders, the snakes or the heights tha
 
 You don't have a fear of public speaking or talking to strangers. You’re really afraid of being vulnerable.
 
-This is because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Talking to strangers can be a great way to get over fears. Here's [how to start a conversation with a stranger](/how-to-start-a-conversation/).
+This is because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Talking to strangers can be a great way to get over fears.&nbsp;
 
 #### What is the difference between fear and anxiety?
 
