@@ -114,7 +114,7 @@ Making one million dollars is an outcome. There are many processes for accomplis
 
 Your purpose transcends your goal and makes you think about what you really want. Maybe achieving your goal will get you there, but the process is completely against everything you stand for.
 
-[The best way to live better is to find goals that motivate you](/how-to-get-motivated/), processes that don't require moral or ethical sacrifice, and an overarching purpose to guide everything that you do.
+The best way to live better is to find goals that motivate you, processes that don't require moral or ethical sacrifice, and an overarching purpose to guide everything that you do.
 
 ## 5) Sort your priorities
 
