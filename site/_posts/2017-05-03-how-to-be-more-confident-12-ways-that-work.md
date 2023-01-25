@@ -108,7 +108,7 @@ As long as you obey the law and, don't try to do anything malicious, and you sta
 
 "Happiness" is what psychologists like to describe as "[subjective well-being](http://positivepsychology.org.uk/subjective-well-being/){: target="_blank"}". I'm not a fan of subjective life advice, so I'll make this more concrete. According to Positive Psychology:
 
-A person who has a high level of satisfaction with their life, and who experiences a greater positive affect and little or less negative affect, would be deemed to have a high level of SWB \[or in simpler terms, [be very happy](/how-to-be-happy-again/)\]
+A person who has a high level of satisfaction with their life, and who experiences a greater positive affect and little or less negative affect, would be deemed to have a high level of SWB \[or in simpler terms, be very happy\]
 
 Research shows that there is a [significant relationship between self-esteem and happiness](http://ijme.mui.ac.ir/browse.php?a_id=3160&amp;slc_lang=en&amp;sid=1&amp;printcase=1&amp;hbnr=1&amp;hmb=1){: target="_blank"}. There's also research that shows that [happiness is a significant predictor of self-esteem](https://paperity.org/p/59061564/the-role-of-self-esteem-psychological-well-being-emotional-self-efficacy-and-affect){: target="_blank"}. What's the lesson here?
 
