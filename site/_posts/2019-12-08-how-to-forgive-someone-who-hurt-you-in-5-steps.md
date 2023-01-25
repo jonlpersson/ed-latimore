@@ -19,7 +19,7 @@ People more easily hold grudges than forgive trespasses against them. It's catha
 Most people have misunderstandings and misconceptions about the process of forgiveness. They don't know what forgiveness means. Forgiveness is not:
 
 * A truce with someone
-* A friendship with the one who wronged you (Read: "[When to end a friendship](/when-to-end-a-friendship/)")
+* A friendship with the one who wronged you&nbsp;
 * Letting the anger subside
 * Getting even with the person who hurt you
 * Letting go
