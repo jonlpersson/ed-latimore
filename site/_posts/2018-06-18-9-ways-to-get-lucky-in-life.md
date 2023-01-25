@@ -136,7 +136,7 @@ At the end of the day, people are the most important thing.
 
 It’s important to be likable with the public, but your friends require a higher degree of authenticity. They’ll be there with you through thick and thin and they want to see you win.
 
-This is, of course, assuming you [pick the right friends](/how-to-make-friends-as-an-adult/). Selecting the right friends is beyond this article, but know that doing so makes you incredibly lucky. They will come through for you when you really need it and are least expecting it.
+This is, of course, assuming you pick the right friends. Selecting the right friends is beyond this article, but know that doing so makes you incredibly lucky. They will come through for you when you really need it and are least expecting it.
 
 ## Choose your perspective
 
