@@ -51,7 +51,7 @@ My point is you only know what you’re doing once you’ve done it a lot. I’v
 
 This may seem obvious for athletic skills, but what about “soft” skills where progress is more difficult to measure?
 
-Think developing a sense of humor, [flirting](/how-to-start-a-conversation/), or even cooking. You can study these subjects until your eyes fall out, but you will be no closer to acquiring intuition. Intuition alone tells you when to hit the punchline for maximum effect, how to chat up the cutie without being creepy, and which ingredients to substitute mid-meal prep.
+Think developing a sense of humor, flirting, or even cooking. You can study these subjects until your eyes fall out, but you will be no closer to acquiring intuition. Intuition alone tells you when to hit the punchline for maximum effect, how to chat up the cutie without being creepy, and which ingredients to substitute mid-meal prep.
 
 In any context, intuition means you’re able to do the right thing without prior extensive analysis. It’s not a mystical force or whisper inside your head telling you the answer to a problem. Rather, intuition is a strong urge in the direction of the correct solution way faster than you can reason through the problem.
 
