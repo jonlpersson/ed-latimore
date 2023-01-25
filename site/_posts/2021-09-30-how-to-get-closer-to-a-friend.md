@@ -151,8 +151,6 @@ Here’s how:
 * Find out what their interests are
 * Set boundaries. Be authentic. Be brave enough to have hard conversations
 
-If you liked this article, try reading [8 steps to make friends as an adult](https://edlatimore.com/how-to-make-friends-as-an-adult/).
-
 I hope that helps. The rest is up to you.
 
 ---
