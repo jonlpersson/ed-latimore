@@ -64,7 +64,7 @@ We lose the ability to assess and deal with negative emotions outside of getting
 
 I had no idea how to celebrate the good things in life without drinking for a long time.
 
-Got a raise at work? Let’s drink\! It’s my birthday? Let’s drink\! I just won a fight\!? I have to drink.
+Got a raise at work? Let’s drink! It’s my birthday? Let’s drink! I just won a fight!? I have to drink.
 
 **Alcohol prevents you from truly feeling the positive things in life.**
 
@@ -87,8 +87,6 @@ I used to say, “95% of my problems are started or agitated while drunk”. So,
 Just stop drinking.
 
 You can't use alcohol as an excuse if you're always sober. As a result, you put more thought into what you say and do, elevating your life to higher standards than ever before.
-
-If you're looking to quit drinking then there are a few things you should know, read them [here](/8-things-to-know-if-you-want-to-quit-drinking/).
 
 {% include widgets/summary.html id="Sober-Letters" %}
 
