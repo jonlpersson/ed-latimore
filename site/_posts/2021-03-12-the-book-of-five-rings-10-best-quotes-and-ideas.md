@@ -79,7 +79,7 @@ Just because you have eyes doesn’t mean you really see any more than having ea
 
 This is not just a semantic difference.
 
-If you are considered “perceptive”, then you’re capable of seeing more than what others see. If you’re a good listener, [you absorb more from the same conversation than other people do](/how-to-start-a-conversation/). We aim for perception because it allows us to read between the lines, discover intent, and discern the true essence of things.
+If you are considered “perceptive”, then you’re capable of seeing more than what others see. If you’re a good listener, you absorb more from the same conversation than other people do. We aim for perception because it allows us to read between the lines, discover intent, and discern the true essence of things.
 
 Aim to develop your perception so you aren’t fooled by what the world shows you.
 
