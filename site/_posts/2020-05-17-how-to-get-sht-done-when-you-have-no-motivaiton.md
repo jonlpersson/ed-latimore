@@ -16,7 +16,7 @@ I see so many people talking about their lack of motivation.
 
 They feel unmotivated, not only because of everything happening with Covid-19 but also because of the stress of constant decision-making in their personal life. It seems like in the past few months, everyone has felt their motivation levels fall, and their self-doubt rise.
 
-In this post, I want to teach everyone [how to get motivated](/how-to-get-motivated/). I've used it for my own personal development when I was exhausted from the hard work of boxing training, studying physics, writing for my blog, and numerous other stressful activities.
+In this post, I want to teach everyone how to get motivated. I've used it for my own personal development when I was exhausted from the hard work of boxing training, studying physics, writing for my blog, and numerous other stressful activities.
 
 I've failed and succeeded in all of these areas, and with each failure, I took hits to my self-esteem that affected my progress. However, I figured out how to squash those negative thoughts, take control of my own life, and motivate myself without relying on motivational videos or motivational porn on social media.
 
