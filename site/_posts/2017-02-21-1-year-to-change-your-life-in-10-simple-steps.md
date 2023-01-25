@@ -133,7 +133,7 @@ Remember: no one is obliged to help you. People's lives are already busy enough.
 
 They have their own problems and issues to deal with. To have the best chance at getting help, you need to give people a good reason to help you. At the very least, you need to communicate in such a way that you don’t make enemies.
 
-This means you’ll have to get control of [how you express yourself.](/how-to-be-happy-again/) You'll have to make sure that any questions you ask and any answers give are with a confident, relaxed, non-agitated tone of voice.
+This means you’ll have to get control of how you express yourself. You'll have to make sure that any questions you ask and any answers give are with a confident, relaxed, non-agitated tone of voice.
 
 You don't have to be a ball of constant positivity, but your well-being and success will depend on whether people like you or not.
 
@@ -254,7 +254,7 @@ Remember: Rome wasn’t built in a day, but Hiroshima was wiped out overnight.
 9. Prepare for it to be difficult
 10. Have patience
 
-> It's a new dawn, it's a new day, it's a new life for me and I'm feeling good\!
+> It's a new dawn, it's a new day, it's a new life for me and I'm feeling good!
 >
 >
 > \-Nina Simone
