@@ -68,7 +68,7 @@ As you take the time to improve your ability to express yourself with high level
 
 Effective communicators are effective writers. Effective writing is powerful because communication can be a force that causes things to happen.
 
-[The more precise your communication](/how-to-start-a-conversation/), the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
+The more precise your communication, the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
 
 #### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
