@@ -3,9 +3,9 @@ date: 2017-07-15 16:33:00 -0400
 article_type: Article
 title: 7 main differences between professionals and amateurs
 permalink: /professional-vs-amateur
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 image: /assets/images/posts/chase-jarvis.jpg
 description: >-
@@ -69,8 +69,6 @@ This ties into my previous point. Because pros develop habits and systems to hel
 That is the source of their patience. They know that the best outcome is a by-product of the best process. By focusing on the process, you're able to wait as long as it takes because you aren't chasing an outcome.
 
 Amateurs, however, are extremely impatient. Because they're so dependent on motivation and because they seldom manage to do anything consistently over a long time period, they're way more concerned about short-term progress.
-
-***\[However, motivation can be a good thing. [Click here to read different ways to get motivated](/how-to-get-motivated/)\]***
 
 The problem with short-term progress, of course, is that it's harder to come by reliably — and unlike long-term progress, it doesn't build up exponentially.
 
