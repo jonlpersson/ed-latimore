@@ -53,8 +53,6 @@ Assuming the emotions are of the same amplitude or intensity:
 
 As Charles Darwin [once said](https://www.psychologytoday.com/us/blog/science-choice/201803/what-is-loss-aversion), “Everyone feels blame more acutely than praise.” Put differently, avoiding the loss of $5 motivates us more than making an extra $5. People work harder to avoid a $20 penalty than they do to receive a $20 bonus.
 
-It's all part of how we get motivated to do things, and if you struggle with that then read up on [how you can get motivated](/how-to-get-motivated/).
-
 It’s been theorized that this behavior evolved as a survival mechanism. If food is scarce, missing a day’s worth of calories could end your life, but getting an extra day’s worth of calories doesn’t guarantee you’ll gain a full extra day of life. A bird in the hand is worth two in the bush.
 
 Today we no longer have to deal with such extreme trade-offs, but this doesn’t mean we don’t have our own version of loss aversion-inspired survival mechanisms. If you’re paid an hourly wage, losing 5 hours can mean not having enough money to pay all your bills. On the flip side, an extra 5 hours won’t give you more utilities or a nicer place to live.
