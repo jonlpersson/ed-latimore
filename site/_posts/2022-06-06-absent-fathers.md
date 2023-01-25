@@ -3,9 +3,9 @@ date: 2022-06-06 16:37:46 -0400
 article_type: Article
 title: Problems growing up with an absent father(and how to fix them)
 permalink: /absent-fathers/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 description: >-
   Fatherless homes lack examples for boys to follow into becoming men. This
@@ -237,8 +237,6 @@ I have no friends from my childhood neighborhood. I don’t even keep in contact
 
 All of my current friends are made through sports, chess, or my academic pursuits–not just school buddies. These people pushed me to be better and I learned a lot about life merely by being in their presence and continuing to behave in a manner that made me worthy of their friendship
 
-***\[Most adults are terrible at making friends. If you want to change your social circle as an adult but are lost, read my article about this—&gt;[How to make friends as an adult](/how-to-make-friends-as-an-adult/)\]***
-
 ## Train, don’t just work out
 
 As far as working out, it’s great for getting in shape. However, young men can train AND get in shape as well.
@@ -284,5 +282,3 @@ The deck is stacked against you, but if you follow these suggestions, you’ve g
 The rest is up to you.&nbsp;
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
-
-&nbsp;
