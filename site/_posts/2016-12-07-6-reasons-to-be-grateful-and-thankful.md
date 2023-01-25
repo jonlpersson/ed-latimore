@@ -80,7 +80,7 @@ Whenever you think that you're holding many thoughts simultaneously, all you're 
 
 If you think about something good, it’s impossible to think about the bad. When you focus on your blessings, it's impossible to dwell on your misfortunes. When you're busy expressing gratitude, it's impossible to feel pity for yourself.
 
-You refocus on the constructive and [positive forces in your life](/how-to-be-happy-again/); not on the destructive and negative agents.
+You refocus on the constructive and positive forces in your life; not on the destructive and negative agents.
 
 ## 4\. The scientific benefits of gratitude
 
