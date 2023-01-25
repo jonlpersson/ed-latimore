@@ -19,7 +19,7 @@ Looking at some people from afar, you might think they were superhuman.
 * [Their social media](/how-to-get-more-twitter-followers/)\: popping.
 * Their podcast: full of interesting guests.
 
-[They know how to network.](/how-to-make-friends-as-an-adult/) We know this because they seem to be connected to everyone.
+They know how to network. We know this because they seem to be connected to everyone.
 
 Whatever they try their hands at, they quickly rise to the top.
 
