@@ -54,8 +54,6 @@ While I wouldn't necessarily call myself a "bad person", my behavior certainly m
 
 It wasn't until I stopped drinking that I could properly feel bad about how I carried myself and interacted with other people. I couldn't forgive myself until I started feeling bad.
 
-***(Read: [8 Things To Know If You Want To Quit Drinking](/8-things-to-know-if-you-want-to-quit-drinking/))***
-
 This guilt is crucial to the forgiveness process.
 
 After all, if you don't have anything to feel guilty about, then there is no need to forgive yourself. To feel bad is natural and expected. This is how we know that we've done something that goes against our personal values. No one goes their entire life without making mistakes, so as a human being, it's expected that you'll experience some guilt in your life.
