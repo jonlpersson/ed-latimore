@@ -65,7 +65,7 @@ Break down complex tasks into simple parts with simple goals. Break down simple 
 
 Sometimes when I write a post or a newsletter, my only goal is to write one sentence that day. If I have to continue this until it's finished, that's fine, but I almost never do because the progress is motivating. That motivation drives to write even more.
 
-The most important thing about keeping your energy and enthusiasm high is this: each accomplishment snowballs and makes you feel like you can accomplish more. This is [how to get motivated](/how-to-get-motivated/) to push past your limits and try to accomplish more.
+The most important thing about keeping your energy and enthusiasm high is this: each accomplishment snowballs and makes you feel like you can accomplish more. This is how to get motivated to push past your limits and try to accomplish more.
 
 ## 3) Shut up to get ahead
 
