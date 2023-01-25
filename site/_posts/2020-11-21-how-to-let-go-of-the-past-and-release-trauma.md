@@ -30,13 +30,13 @@ It is done, and now it exists in no other place but your mind.
 
 In this post, I give you a 6 part, step-by-step process to help you let go of the past that will allow you to leave trauma behind and move on. This will be life-changing if your personal growth has stalled because you can't forgive yourself for past mistakes.
 
-{% include widgets/toc.html heading="6 simple steps to let go of the past and move on with your life" list-items="Understand that the past isn&rsquo;t real, Today make the decision to let go, Focus on the present moment, Question your feelings, Learn how to forgive, Choose your own story" list-ids="1-understand-that-the-past-isnt-real, 2-today-make-the-decision-to-let-go, 3-focus-on-this-present-moment-in-time, 4-question-your-feelings, 5-learn-how-to-forgive, 6-choose-your-own-story" %}
+{% include widgets/toc.html heading="6 simple steps to let go of the past and move on with your life" list-items="Understand that the past isn’t real, Today make the decision to let go, Focus on the present moment, Question your feelings, Learn how to forgive, Choose your own story" list-ids="1-understand-that-the-past-isnt-real, 2-today-make-the-decision-to-let-go, 3-focus-on-this-present-moment-in-time, 4-question-your-feelings, 5-learn-how-to-forgive, 6-choose-your-own-story" %}
 
 ## 1) Understand that the past isn’t real
 
 Some people wonder why anyone would want to let go of the past if it’s full of good memories.
 
-Understand that it’s [impossible to have a positive relationship](/when-to-end-a-friendship/) with anything that keeps you from taking action and making progress in the present. It doesn’t matter whether you’re holding a grudge or you’re reliving a victory. In either case, you are chained to something that is no longer a factor in the real world.
+Understand that it’s impossible to have a positive relationship with anything that keeps you from taking action and making progress in the present. It doesn’t matter whether you’re holding a grudge or you’re reliving a victory. In either case, you are chained to something that is no longer a factor in the real world.
 
 There is effectively no difference between someone who rests on their laurels and someone who can't let something go. In both cases, they believe that what happened in the past is real enough to attach a significant amount of their present energy.
 
