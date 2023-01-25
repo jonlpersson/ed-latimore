@@ -172,8 +172,6 @@ Humans are social creatures so much so that solitary confinement is used as a pu
 
 Men need good friends. Unfortunately, the modern man has been shunned and shamed away from nurturing emotionally deep male friendships.
 
-***\[Read: [How to make friends as an adult](/how-to-make-friends-as-an-adult/)\]***
-
 Male friendship has been reduced to a caricature of out-of-shape guys who just drink beer and watch sports. Our role models for male friendships in the media center around these stereotypes.
 
 When you combine this with the fact that a record number of men are growing up in fatherless homes, the average man has never seen a healthy male friendship anyway.
@@ -236,7 +234,7 @@ This is part of the reason men are apprehensive about connecting with one anothe
 
 ## Fitness
 
-You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to [give up alcohol](/8-things-to-know-if-you-want-to-quit-drinking/)&nbsp;or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
+You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to give up alcohol or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
 
 **Body mass index (BMI) &gt; 24:** A lot of people hate BMI and claim that it’s only for [certain races](https://www.washingtonpost.com/lifestyle/wellness/healthy-bmi-obesity-race-/2021/05/04/655390f0-ad0d-11eb-acd3-24b44a57093a_story.html){: target="_blank"} or that it excludes people who lift weights or that it’s plain outdated. The reality is this: as measured by BMI, the percentage of the population who is considered obese or overweight has continually risen in the last 30 years as have the correlated diseases that come with it.
 
@@ -267,5 +265,3 @@ This is one of those things that separates boys from men. Boys don’t have to w
 This means they can’t afford to just live for the moment. At the end of the day, they need a vision and a plan to achieve it.
 
 {% twitter https://twitter.com/EdLatimore/status/1070414717947129857 %}
-
-&nbsp;
