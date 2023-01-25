@@ -3,9 +3,9 @@ date: 2020-11-15 18:29:00 -0500
 article_type: Article
 title: 8 reasons to push through the pain
 permalink: /pushing-through-the-pain/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   You learn the most about yourself when you push through pain. These are some
@@ -51,7 +51,7 @@ I can defend his shots, but I still have nerves in my arms and hands. As the fig
 
 This is a powerful analogy and lesson for life. If you want to make more money, you have to experience the discomfort of pushing your mind and body to the limit to acquire skills and log hours as you create a product, launch a business, or win a competition.
 
-To make friends and meet lovers, you have to endure [the pain of social awkwardness](/how-to-start-a-conversation/) and push forward even though it may not work out. To be healthy, you have to endure the pain of self-discipline in your workout routine and moderation in your consumption.
+To make friends and meet lovers, you have to endure the pain of social awkwardness and push forward even though it may not work out. To be healthy, you have to endure the pain of self-discipline in your workout routine and moderation in your consumption.
 
 To have a noteworthy life, you must accomplish noteworthy things. Accomplishing noteworthy things means you must endure noteworthy pain because it’s the only way to acquire noteworthy rewards.
 
