@@ -39,7 +39,7 @@ There is no neutrality.
 
 You’re either getting better or you’re getting worse. The competition doesn’t rest and time waits for no man.
 
-Competitive people never dwell on the past. Competitors don't care about past laurels because for them, it was never about the winning. It was about ***competing\!***
+Competitive people never dwell on the past. Competitors don't care about past laurels because for them, it was never about the winning. It was about ***competing!***
 
 Non-competitive people always reference their past success because they care only about winning.
 
@@ -74,7 +74,7 @@ There is an old saying: “It’s not whether you win or lose. It’s how you pl
 
 Competitive people still think winning is important, but they are critical of their performance and they take every opportunity to improve it. It doesn’t matter whether they’re smoking the field or woefully behind.
 
-A true competitor always gives 110% of themselves because even if they don’t win, they still care how they play–and finish–the game. If you're struggling to motivate yourself then read up on [how to motivate yourself](/how-to-get-motivated/)
+A true competitor always gives 110% of themselves because even if they don’t win, they still care how they play–and finish–the game. If you're struggling to motivate yourself then read up on how to motivate yourself
 
 ## 3) Compare yourself only to yourself
 
