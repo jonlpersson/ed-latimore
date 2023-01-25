@@ -38,7 +38,7 @@ Even if you write for a blog and you're competing for clicks, reading books will
 
 Also, audiobooks don't count.
 
-Because you're hearing the words rather than reading them, you don't experience text the way it was produced to be consumed. Even if you plan to write a book that will be turned into an audiobook, you still have to write it in the first place\! This means that you need to get a feel for how words are put together so that you can skillfully put them together as well.
+Because you're hearing the words rather than reading them, you don't experience text the way it was produced to be consumed. Even if you plan to write a book that will be turned into an audiobook, you still have to write it in the first place! This means that you need to get a feel for how words are put together so that you can skillfully put them together as well.
 
 Bad writers never read other writers so they have no chance of becoming good writers themselves.
 
@@ -66,7 +66,7 @@ If you plan to produce creative writing, then you need to understand people and 
 
 When you've experienced pain, overcome it, and built something out of it, then you've lived a life that enhances your writing. Until then, your writing will be a formulaic mess, void of any heart or personality.
 
-> "Writing isn't about making money, getting famous, getting dates, getting laid, or [making friends](/how-to-make-friends-as-an-adult/). In the end, it's about enriching the lives of those who will read your work, and enriching your own life, as well. It's about getting up, getting well, and getting over. Getting happy, okay? Getting happy.”― Stephen King, On Writing: A Memoir of the Craft
+> "Writing isn't about making money, getting famous, getting dates, getting laid, or making friends. In the end, it's about enriching the lives of those who will read your work, and enriching your own life, as well. It's about getting up, getting well, and getting over. Getting happy, okay? Getting happy.”― Stephen King, On Writing: A Memoir of the Craft
 
 ## 4) Optimize your communication
 
@@ -82,7 +82,7 @@ To be a good writer, you must always assume that the reason you aren't understoo
 
 [Simplify your communication to the point where it's easily understood by most, but simplify it no further than that.](/persuasive-writing/)
 
-## 5) Write\!\!
+## 5) Write!!
 
 I saved the most obvious piece of advice for last. Seriously, it's amazing how many people want to be writers but haven't written a damn thing.
 
