@@ -40,7 +40,7 @@ Here’s how to make friends when you don’t have a ton of time in your schedul
 
 When you’re younger, it’s easy to fall into friendships because your social network is laid out in front of you. It’s far more normal to start a conversation in a classroom than a grocery store or gas station.
 
-In my article, [8 steps to making friends as an adult](/how-to-make-friends-as-an-adult/), I talk more about how your social life changes after high school and college. The gist of it is, most relationships you make when you’re young are casual.
+Your social life changes after high school and college. The gist of it is, most relationships you make when you’re young are casual.
 
 And that’s simply because you had more opportunities for them either on sports teams or via classmates. Think of where you met your best friend. It was probably during a time where having a social life was easier and expected.
 
@@ -73,7 +73,7 @@ Insert more play into your schedule with these activities:
 
 Another reason adults have trouble making friends is simply that the older you get, the more jaded you become. You learn that other people can let you down. Maybe you had someone you considered a good friend but you grew apart or had a falling out.
 
-In my opinion, there are always obvious signs it's time to let a relationship die (like the four signs I wrote about [here](/when-to-end-a-friendship/)). But the more you succumb to the belief that "it’s not worth it” to make new friends, the more likely you are to avoid meeting people. You become more insecure and learn to fear rejection.
+In my opinion, there are always obvious signs it's time to let a relationship die. But the more you succumb to the belief that "it’s not worth it” to make new friends, the more likely you are to avoid meeting people. You become more insecure and learn to fear rejection.
 
 Here’s how to make friends even if you’re jaded:
 
