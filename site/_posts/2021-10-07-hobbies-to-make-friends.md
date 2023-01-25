@@ -32,11 +32,7 @@ But finding friends doesn’t have to be this hard…or sad.
 
 Expanding your social circle comes down to expanding your experiences and interests. And that’s what you’ll learn today in this post on hobbies to make friends.
 
-This is part of a series on friendship I started a while back with an article called *[8 steps to make friends as an adult](https://edlatimore.com/how-to-make-friends-as-an-adult/)*. In that, we go over why making adult friends is so hard and what to do if you’re looking to meet new people.
-
 Try at least one of the things I’ve listed here and watch great things start to happen.
-
-{% include widgets/toc.html heading="Hobbies to make friends" list-items="Hobbies for your mental health, Hobbies that make you smarter (and more fun too), Meaningful hobbies, Hobbies every man should have, How to make friends once you&rsquo;re there" list-ids="creative-hobbies, intellectual-and-adventurous-hobbies, contribution-based-hobbies, active-hobbies, what-to-do-once-youve-actually-started-these-hobbies" %}
 
 ## Hobbies to make friends
 
