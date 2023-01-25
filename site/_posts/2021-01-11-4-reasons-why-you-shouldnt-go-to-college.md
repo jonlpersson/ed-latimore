@@ -3,9 +3,9 @@ date: 2021-01-11 21:47:00 -0500
 article_type: Article
 title: The 4 secret reasons why college is a huge waste of time
 permalink: /4-reasons-why-you-shouldnt-go-to-college/
-tags: 
+tags:
   - learning-skills
-categories: 
+categories:
   - learning-skills
 description: >-
   In this day and age, college is a bad idea for so many reasons. In this
@@ -76,7 +76,7 @@ Think about it. If everyone goes to college, degree holders no longer stand out.
 
 If you’re still determined to attend college, your degree needs to be in something rare and difficult (like STEM). Otherwise, you’ll end up competing for the low-paying jobs left over. And those jobs now have two pools of applicants—those without degrees and those with.
 
-The slim bright side here is that applicants with college degrees are more highly desired. Usually employers see a degree as proof you can stick to busywork without too much supervision. It’s like a gold star at the top of your sheet. Can complete tasks\! Congratulations . . . your degree helped you get the job. It’s still a shitty job though. Stay on that career path for the next two decades, and you might have a shot at earning the kind of money that STEM kids do right out of school.
+The slim bright side here is that applicants with college degrees are more highly desired. Usually employers see a degree as proof you can stick to busywork without too much supervision. It’s like a gold star at the top of your sheet. Can complete tasks! Congratulations . . . your degree helped you get the job. It’s still a shitty job though. Stay on that career path for the next two decades, and you might have a shot at earning the kind of money that STEM kids do right out of school.
 
 ## 3) You don't develop technical skills
 
@@ -92,7 +92,7 @@ Focus on building your skills, and you’ll be miles ahead of college graduates 
 
 ## 4) You don't develop social skills
 
-Here’s the harsh reality on most college campuses today. Everybody drinks. Parties. Fucks. Your entire peer group lives in close proximity four or more years, but no one really learns to be social. It’s an extension of the high school social dynamic except nobody is sober. People stumble into one another, hang out, and drink or do drugs together. [And they imagine this is legitimate friendship.](/when-to-end-a-friendship/)
+Here’s the harsh reality on most college campuses today. Everybody drinks. Parties. Fucks. Your entire peer group lives in close proximity four or more years, but no one really learns to be social. It’s an extension of the high school social dynamic except nobody is sober. People stumble into one another, hang out, and drink or do drugs together. And they imagine this is legitimate friendship.
 
 It’s amazing how weak most people’s social skills are when you get them away from the college bar scene. College will only make you great at being semi-functional while holding your liquor. It won’t improve your networking with important people, help you build meaningful friendships, or teach you how to successfully hit on girls.
 
