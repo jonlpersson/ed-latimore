@@ -137,7 +137,7 @@ Here’s what approval-seeking looks like:
 
 ## Go where you're celebrated
 
-Making friends as an adult is a mystery that eludes many far into adulthood. Side note, if you struggle with this then check out my eight steps to making friends as an adult [here](https://edlatimore.com/how-to-make-friends-as-an-adult/).
+Making friends as an adult is a mystery that eludes many far into adulthood.&nbsp;
 
 So my last piece of advice is to limit your contact with people that dislike you. Not always possible I know, but your mental-health will thank you for it.
 
@@ -147,7 +147,7 @@ Spend time with those that lift you up and make you feel appreciated. If you don
 
 Meet people through trying new hobbies or diving into shared interests. If you have to be with people that dislike you on a daily basis, balance it out by increasing the time you spend with those that celebrate you.
 
-Jim Rohn once said, “If you don’t like where you are, change it, you’re not a tree\!”
+Jim Rohn once said, “If you don’t like where you are, change it, you’re not a tree!”
 
 Truer words were never spoken.
 
@@ -173,4 +173,4 @@ I hope that helps. The rest is up to you.
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Roberts, Nicole F. <em><a href="https://www.forbes.com/sites/nicolefisher/2015/12/25/rejection-and-physical-pain-are-the-same-to-your-brain/?sh=21b0ba844f87">Fobes: Rejection And Physical Pain Are The Same To Your Brain</a> _Dec 25, 2015</em> _(accessed Oct. 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Wang, X., Zheng, L., Li, L., Zheng, Y., Sun, P., Zhou, F. A., &amp; Guo, X. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439270/">Immune to Situation: The Self-Serving Bias in Unambiguous Contexts. Frontiers in psychology</a>, (2017) <em>8</em>, 822. https://doi.org/10.3389/fpsyg.2017.00822 self-serving bias&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Leary M. R. (2015). Emotional responses to interpersonal rejection.<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734881/"> Dialogues in clinical neuroscience</a>, (2015) 17(4), 435&ndash;441. https://doi.org/10.31887/DCNS.2015.17.4/mleary (accessed Oct 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Roberts, Nicole F. <em><a href="https://www.forbes.com/sites/nicolefisher/2015/12/25/rejection-and-physical-pain-are-the-same-to-your-brain/?sh=21b0ba844f87">Fobes: Rejection And Physical Pain Are The Same To Your Brain</a> _Dec 25, 2015</em> _(accessed Oct. 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Wang, X., Zheng, L., Li, L., Zheng, Y., Sun, P., Zhou, F. A., &amp; Guo, X. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439270/">Immune to Situation: The Self-Serving Bias in Unambiguous Contexts. Frontiers in psychology</a>, (2017) <em>8</em>, 822. https://doi.org/10.3389/fpsyg.2017.00822 self-serving bias&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Leary M. R. (2015). Emotional responses to interpersonal rejection.<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734881/"> Dialogues in clinical neuroscience</a>, (2015) 17(4), 435–441. https://doi.org/10.31887/DCNS.2015.17.4/mleary (accessed Oct 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
