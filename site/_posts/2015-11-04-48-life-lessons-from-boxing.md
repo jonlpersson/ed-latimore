@@ -3,9 +3,9 @@ date: 2015-11-04 19:00:00 -0500
 article_type: Article
 title: 48 life lessons from boxing
 permalink: /how-to-think-like-a-professional-fighter/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 image: /assets/images/posts/Amateur uppercut.jpg
 description: >-
@@ -105,7 +105,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **26)** Some rules you can break once and plead ignorance. Make the infraction count for something. You may not be so lucky the next time.
 
-**27)** Right before your fights, you will get nervous. You can manage this, but the moment you stop getting completely nervous, you either don’t care enough or you have mastered the sport. Since the latter is probably not likely, it is most likely the former and [you need to get motivated.](/how-to-get-motivated/)
+**27)** Right before your fights, you will get nervous. You can manage this, but the moment you stop getting completely nervous, you either don’t care enough or you have mastered the sport. Since the latter is probably not likely, it is most likely the former and you need to get motivated.
 
 **28**)Nervousness is a good sign. Remember: [the courageous man and the coward both feel fear](/how-to-overcome-fear/) but the difference is how they react to it.
 
