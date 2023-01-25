@@ -42,13 +42,13 @@ Do you want to win or do you want to be right?
 
 When you’re focused on being right, you waste a lot of energy trying to prove others wrong. This almost guarantees that you’re the one who loses.
 
-This ruins many potential friendships as well. [I’ve put relationships under undue stress because I wanted to be right](/when-to-end-a-friendship/). Nothing changed. Even if I was “right”, it’s not like I was going to gloat and say “I told you so.”
+This ruins many potential friendships as well. I’ve put relationships under undue stress because I wanted to be right. Nothing changed. Even if I was “right”, it’s not like I was going to gloat and say “I told you so.”
 
 ![communication problems in relationships are never solved by fighting and arguing](/assets/images/posts/2021/stop-arguing-man-woman.jpeg "The is exhausting and nothing productive happens")
 
 Now there are some things worth arguing for. If someone close to you is making a fundamentally bad decision that puts their safety and freedom at risk, you have a duty and obligation to try to and talk them out of it. But if the wrong outcome of their decision doesn’t definitely put their livelihood at risk, you gain nothing but [*wasted time and a strained relationship.*](/relationship-advice/)
 
-Hell, even if their [health and freedom are at risk,](/8-things-to-know-if-you-want-to-quit-drinking/) people don’t listen. I’ve been arguing with mom about her health for years. Not only has she not listened, her health has gotten *worse*. I’m not gonna be the asshole who mentions that I was right all along. Instead, I just put myself in a position where her decisions don’t affect me. This leads nicely into the other response.
+Hell, even if their health and freedom are at risk, people don’t listen. I’ve been arguing with mom about her health for years. Not only has she not listened, her health has gotten *worse*. I’m not gonna be the asshole who mentions that I was right all along. Instead, I just put myself in a position where her decisions don’t affect me. This leads nicely into the other response.
 
 ## Don't argue. Just get wins in life.
 
@@ -74,7 +74,7 @@ Many things in life are zero-sum until you get to the next level. You don’t ge
 
 ### You become happier
 
-[You’re happier because you’re no longer stressed.](/how-to-be-happy-again/) You’re happier because people want to be around you. You’re happier because you aren’t arguing. It’s really that simple. No matter how innocent the debate is, your mind and body view it as a conflict and you physiologically react as such.
+You’re happier because you’re no longer stressed. You’re happier because people want to be around you. You’re happier because you aren’t arguing. It’s really that simple. No matter how innocent the debate is, your mind and body view it as a conflict and you physiologically react as such.
 
 That last point is something that most people don’t consider. [Here’s a great study on the physiological effects of arguing on your relationships.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3800024/) If you don’t want to read the findings, this line from it sums it up:
 
