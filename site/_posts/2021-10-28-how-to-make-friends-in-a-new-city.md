@@ -52,7 +52,7 @@ Answer these questions:
 
 After writing the answer to these questions, go through your list of old friends and decide if they are casual or proximity friendships, friendships to build on, or people you can grow toward your ideal life with.
 
-Then set out to meet people. Learning to make friends as an adult doesn’t have to be difficult, but it will take actual effort on your part. If you’re not sure where to start, check out my [8 steps to making friends as an adult](https://edlatimore.com/how-to-make-friends-as-an-adult/).
+Then set out to meet people. Learning to make friends as an adult doesn’t have to be difficult, but it will take actual effort on your part.&nbsp;
 
 ## 2\. Start conversations about the area
 
