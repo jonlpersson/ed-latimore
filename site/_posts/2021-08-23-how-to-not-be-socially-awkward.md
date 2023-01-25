@@ -133,9 +133,7 @@ See? Easy.
 
 I had an awful experience with this once with an uber driver. I’m not sure what he was missing but the whole time he just kept asking me questions without responding to any of them. It was like he was reading a chart that said “100 things to ask riders.”
 
-In the end, it was more awkward than if he’d just said nothing. I wrote an article about it. When social gatherings are back in full swing, try it out: [5 simple ways to start a conversation](https://edlatimore.com/how-to-start-a-conversation/)
-
-It’s great for introverts too.
+In the end, it was more awkward than if he’d just said nothing.
 
 ## How to beat feeling socially awkward
 
