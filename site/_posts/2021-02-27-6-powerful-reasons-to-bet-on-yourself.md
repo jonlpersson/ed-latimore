@@ -34,8 +34,6 @@ This typically means that they’ve learned something valuable along the way tha
 
 If they don’t succeed and you bet on their success, then you have to find another person or group to bet on. You’ll constantly be drifting from dreamer to dreamer, never striking out on your own. You’ll always be the person looking for jobs and never the one offering them.
 
-Take your own risks and if you're not sure how to do that yet [read this](https://edlatimore.com/risk-taking).
-
 ## 2) You take calculated risk to pursue opportunities
 
 Your mindset changes when you start to bet on yourself.
