@@ -82,7 +82,7 @@ The point isn’t to run your friendships and relationships the way pimps do.
 
 The point is to have a clear set of rules for handling exes that all involved understand. The idea is to behave with integrity towards your friends and there are few things that lack more integrity than setting your sights on a current or former lover of someone you call a friend.
 
-This is just one of many reasons why you should end a friendship. To learn more read my in-depth article on [when to end a friendship](/when-to-end-a-friendship/).
+This is just one of many reasons why you should end a friendship.&nbsp;
 
 ## 7\. Don't be friends with girlfriends of your friends
 
