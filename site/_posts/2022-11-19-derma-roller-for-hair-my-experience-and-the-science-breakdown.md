@@ -8,9 +8,8 @@ tags:
 categories:
   - how-to-be-a-hot-guy
 description: >-
-  This article breaks down the research on how derma rolling works to reverse
-  hair loss and my experience using it post-FUE transplant to keep
-  non-transplanted hair.
+  This article discusses how derma rolling works to reverse hair loss and my
+  experience using it post-FUE transplant to keep non-transplanted hair.
 image: /assets/images/drafts/dermaroller-for-hair-loss.jpeg
 ---
 One of the most effective ways to reverse hair loss (not just slow down or halt) is the dermaroller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. For as little as $40, you can be well on your way to making a serious difference in your hair loss.&nbsp;
@@ -111,8 +110,6 @@ This includes the life and death cycle of the hair follicle.
 2. Microneedling stimulates the mesenchyme stem cells. This stem cell starts the hair follicle cycle by sending a single to the bulge region. . Most of the hair follicle stem cells reside in this area bulge.
 3. The bulge region is where BMP-4 suppresses the creation of new hair follicles. Mesenchymal cells secrete a BMP-4 antagonist, thus shutting off their supression and causing new hair follicles to grow. This makes sense, as research shows that Wnt works antagonistically on BMP-4. ([Source](https://pubmed.ncbi.nlm.nih.gov/33108903/))
 4. Microneeding causes an uptick in signalling factors associate with hair growth. Specifically beta-catenin and Lef1 ([source](https://pubmed.ncbi.nlm.nih.gov/32412314/)).
-
-&nbsp;
 
 The most notable thing about this process is that it's capable of causing the scalp to generate new hair follicles from the mesenchymal stem cells as well motivate growth of existing hair follicles.
 
