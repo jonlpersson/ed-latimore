@@ -8,9 +8,8 @@ tags:
 categories:
   - quotes-and-book-summaries
 description: >-
-  I've been reading Prometheus Rising by Robert Anton Wilson. Despite being
-  written in 1984, some solid predictions about the next 30 years are
-  startlingly accurate.
+  Despite being written in 1984, Prometheus Rising by Robert Anton Wilson has
+  some solid predictions about the next 30 years that are startlingly accurate.
 image: /assets/images/drafts/prometheus-rising.jpg
 ---
 I've been reading Promethus Rising by Robert Anton Wilson. Despite the book being written in 1984, there are some solid predictions about the next 30 years that are startlingly accurate.
@@ -51,6 +50,6 @@ Every reaction has an equal and opposite reaction. 2A people have good cause to 
 
 ---
 
-> "Every conspiracy regards itself as an affinity group--men and women who share the same goals and work together. When you and I do it, it's just an affinity group. When the gang over there does it, it's a damnable conspiracy."
+> "Every conspiracy regards itself as an affinity group–men and women who share the same goals and work together. When you and I do it, it's just an affinity group. When the gang over there does it, it's a damnable conspiracy."
 
 Everyone thinks their version of reality is correct
