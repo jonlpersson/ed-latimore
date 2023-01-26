@@ -9,8 +9,7 @@ categories:
   - how-to-be-a-hot-guy
 description: >-
   Hairmetto Topical Saw Palmetto is an all-natural alternative to topical
-  finasteride+minoxidil solutions on the market. I've been using it in my hair
-  loss stack for over a year. 
+  finasteride. I've been using it in my hair loss stack for over a year. 
 image: /assets/images/drafts/approved-headshot.jpeg
 ---
 Hairmetto Hair Serum For Hair Loss is an all-natural solution hair loss treatment for men who want fuller hair and combat hair loss without:
@@ -57,8 +56,6 @@ Saw palmetto is a plant native to North America that grows in swamps and marshes
 Saw Palmetto is also a natural remedy for hair loss because it's a powerful, competitive, non-selective inhibitor of 5 alpha-reductase. This means it has the same DHT-reducing power as Propecia (finasteride). S
 
 aw Palmetto blocks the nuclear uptake of DHT in target cells and decreases DHT binding to androgen receptors by approximately 50%. Because it is naturally occurring, it doesn't have side effects of the same severity as finasteride ([Source](https://pubmed.ncbi.nlm.nih.gov/26010505/)).&nbsp;
-
-&nbsp;
 
 ### Pumpkin Seed Oil
 
