@@ -59,7 +59,7 @@ I think logic flows that if I can reach more people with easier tools, then the 
 
 ### Ease of use
 
-The ease of use of the platform and the easily readable metrics cause less headaches for me and my team. I primarily make my money online through several courses, cohorts, books, affiliate links etc. ConvertKit is a great tool for getting up a landing page for a project in no time. This way I can easily track how new subscribers are coming into my funnels. I can even segment my audience if I want to send half of them [tools on quitting porn](https://edlatimore.com/why-is-it-hard-to-quit-porn/) and the other half information on [improving your engagement as a writer.](https://edlatimore.com/how-to-write-instagram-captions-that-increase-engagement/)
+The ease of use of the platform and the easily readable metrics cause less headaches for me and my team. I primarily make my money online through several courses, cohorts, books, affiliate links etc. ConvertKit is a great tool for getting up a landing page for a project in no time. This way I can easily track how new subscribers are coming into my funnels. I can even segment my audience if I want to send half of them [tools on quitting porn](https://edlatimore.com/why-is-it-hard-to-quit-porn/) and the other half information on improving your engagement as a writer.
 
 They’ve also got amazing backend creator tools to help their customers make more money by not just being an email service provider, but an education and inspiration hub for creators. They have their own options for processing payments, but they also easily integrate with other content creation platforms and plugins.
 
