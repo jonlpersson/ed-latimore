@@ -70,7 +70,7 @@ If you don't believe in the power of something, it's difficult for you to write 
 
 **Arguing a point.**&nbsp;Write down all the points you’d make in an argument the way you’d do if you were actually arguing. Challenge your own points and try to argue back against them the best way you know how to.
 
-The trick to coming up [with a persuasive voice](/persuasive-writing/) is knowing where the holes in your argument are so you can avoid them. You can come back to clarify and support later, but for now, you want the points to come out in your own voice.
+The trick to coming up with a persuasive voice is knowing where the holes in your argument are so you can avoid them. You can come back to clarify and support later, but for now, you want the points to come out in your own voice.
 
 **Writing to teach.**&nbsp;Take the Albert Einstein approach to explanation. Einstein is famous for saying, “If you can’t explain it to a six-year-old, you don’t understand it yourself.” Aside from the commentary on the mastery of the subject required to do this, Einstein also implies that you must speak in the most simple and engaging method possible.
 
