@@ -80,7 +80,7 @@ If you can't explain it simply, you either don't understand it or your communica
 
 To be a good writer, you must always assume that the reason you aren't understood is because you weren't clear in your explanation. Yes, stupid people exist, but you can't control them. By virtue of their limited intellect, they aren't your target audience anyway.
 
-[Simplify your communication to the point where it's easily understood by most, but simplify it no further than that.](/persuasive-writing/)
+Simplify your communication to the point where it's easily understood by most, but simplify it no further than that.
 
 ## 5) Write!!
 
