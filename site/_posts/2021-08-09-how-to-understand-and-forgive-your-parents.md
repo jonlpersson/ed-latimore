@@ -70,8 +70,6 @@ You likely won't share the same space with another human for that long until you
 
 As you gain self-awareness and awareness of the rest of the world, you start seeing things that you think they should have done differently—not just in raising you, but with their whole life, in general.
 
-***\[My father died when I was 18. My mother passed when I was 36. Dealing with grief at two different times in life taught me a lot. Read my reflections on this if you need help&nbsp;[dealing with the loss of a parent.](/dealing-with-the-loss-of-a-parent/)\]***
-
 ## The opportunity cost of raising children
 
 Opportunity cost is the value of the best alternative that you miss out on as a result of choosing a different option.
