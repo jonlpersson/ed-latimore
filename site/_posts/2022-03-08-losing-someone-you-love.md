@@ -72,8 +72,6 @@ Though it’s natural to feel, it steals your mind away from the present moment 
 
 One or two hours a day is plenty to laugh about old memories or talk about nonsense. It’s up to you to use your time wisely.
 
-Read more about how I spent the final days with my mom in [9 thoughts on losing a parent.](https://edlatimore.com/dealing-with-the-loss-of-a-parent/)
-
 ## Maintain your habits as much as you can
 
 Death isn’t always sudden. Sometimes it lingers and your loved one goes into hospice care for a few days and comes home. Or they may be in and out of the hospital the last year of their lives. Your loved one may get a diagnosis of a few days to live and end up living for several more years.
