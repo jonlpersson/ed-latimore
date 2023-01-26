@@ -8,9 +8,9 @@ tags:
 categories:
   - how-to-be-a-hot-guy
 description: >-
-  To shave your head or not to shave your head? As someone who has rocked the
-  bald head but currently chooses not to, I give you my opinion on when you
-  should—or shouldn't. 
+  To shave your head or not? As someone who has rocked the bald head but
+  currently chooses not to, I give you my opinion on when you should—or
+  shouldn't. 
 image: /assets/images/drafts/latimore-shaved-head-without-glasses.jpg
 ---
 Like most men, I suffer from hair loss.
