@@ -184,7 +184,7 @@ You must understand that an unfortunate side effect of living in the universe is
 
 People are merely agents in the universe.
 
-Sometimes you meet good people and sometimes you meet bad people. By not taking any of it personally, you can always make the best decisions and [learn from your interactions with them.](/how-to-forgive-yourself-6-steps-to-let-the-past-go/)
+Sometimes you meet good people and sometimes you meet bad people. By not taking any of it personally, you can always make the best decisions and learn from your interactions with them.
 
 ## 10) Always give value
 
