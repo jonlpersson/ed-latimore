@@ -199,8 +199,6 @@ You have to practice forgiveness because the other person may not even be aware 
 
 We have justice to minimize the need for forgiveness. We have forgiveness to minimize the need for justice. Both are equally important, but justice doesn’t heal trauma.
 
-***\[[Read my complete essay on how to forgive someone here](/how-to-forgive-someone/).\]***
-
 ## Quotes from "How to forgive yourself"
 
 The hardest person to forgive is often ourselves.
