@@ -66,7 +66,7 @@ You're able to look around and see that things are, for the most part fine. You 
 
 The most grateful people understand that pain brings focus and clarity.
 
-Often this is a positive, but when you can't focus on anything else but the accompanying misery, you're no longer living. You can't let your pain or your problems cause you to retreat from the world. You have to persist, even when you think the [world is unfair or unforgiving.](/how-to-forgive-someone/)
+Often this is a positive, but when you can't focus on anything else but the accompanying misery, you're no longer living. You can't let your pain or your problems cause you to retreat from the world. You have to persist, even when you think the [world is unfair or unforgiving](/life-isnt-fair/).
 
 Gratitude puts things in perspective so you realize that although the pain is miserable enough to make you want to quit, there are other great things that give your life meaning.
 
