@@ -235,8 +235,6 @@ You have to make peace with the idea that many people–yourself included–are 
 
 If you get discouraged at yourself for not always having the perfect plan, answer, or course in life, then you’re in for a lot of disappointment.
 
-***\[To read my entire essay on forgiving yourself, [click here](/how-to-forgive-yourself-6-steps-to-let-the-past-go/).\]***
-
 ## Quotes from "How to understand and forgive your parents"
 
 We more easily remember the times our parents let us down and hurt our feelings than the times they went out of their way to make sure that we were provided for.
