@@ -94,7 +94,7 @@ While you can't do anything about the time it takes to grow, learn, and apprecia
 
 If you can do this, perhaps it'll be easier for you to see your parent's failings and mistakes for what they likely were–them learning on the fly and doing their best. At the very least, it will give you the space to look at what you experienced as a child.
 
-We tend to see our parents as larger than life because they are at the start of our lives. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier&nbsp;[to forgive them](/how-to-forgive-someone/)&nbsp;for anything we can't let go.
+We tend to see our parents as larger than life because they are at the start of our lives. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier to forgive them for anything we can't let go.
 
 The rest is up to you.&nbsp;
 
