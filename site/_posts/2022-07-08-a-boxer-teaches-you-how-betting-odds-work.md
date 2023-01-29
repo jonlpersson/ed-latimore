@@ -1,7 +1,7 @@
 ---
 date: 2022-07-08 20:01:50 -0400
 article_type: Article
-title: A boxer teaches you how betting odds work
+title: How to do betting odds work
 permalink: /how-do-betting-odds-work/
 tags:
   - math-concepts
