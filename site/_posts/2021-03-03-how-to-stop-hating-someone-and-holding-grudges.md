@@ -102,7 +102,7 @@ Here’s the thing: the punishment is **never** enough because the hatred is the
 
 Not only is this not possible, but you only hurt your life when you try. You don’t release your hatred because if you do that, then you have to accept that what that person did to you has passed. This makes you hate even more because there is nothing you can do about it in the present.
 
-Part of this is also learning to forgive yourself. To learn how to do that read [how to let go and forgive yourself](https://edlatimore.com/how-to-forgive-yourself-6-steps-to-let-the-past-go/).
+Part of this is also learning to forgive yourself.&nbsp;
 
 ### 6) Understanding leads to compassion; Compassion leads to forgiveness; Forgiveness stops hate
 
