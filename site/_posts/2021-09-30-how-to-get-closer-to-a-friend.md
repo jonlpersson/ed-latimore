@@ -87,7 +87,7 @@ What you learn from these conversations benefit your relationships but also make
 
 ## 4\. Practice forgiveness
 
-Forgiveness is a much-talked-about but often overlooked method of bringing people closer together. So much so that I wrote an article on it. You can [read it here](https://edlatimore.com/how-to-forgive-someone/).
+Forgiveness is a much-talked-about but often overlooked method of bringing people closer together.&nbsp;
 
 Forgiveness helps to alleviate the past tension people feel in relationships and avoids the inevitable resentment. Most people say “forgive but don’t forget.” However, if thinking about something in the past still makes you angry and resentful, you haven’t fully forgiven the other person.
 
