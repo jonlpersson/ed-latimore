@@ -129,10 +129,7 @@ Forgiveness is about healing emotional wounds. Unlike physical wounds, they don�
 
 Forgiveness is a complicated process that I’ve written about and linked to below. If you want a shortcut to quickly start to forgive, learn to accept that there’s nothing you can do about the past. Whatever has been done is done and can’t be undone.
 
-* [**How to forgive someone**](https://edlatimore.com/how-to-forgive-someone/)
 * **[How to forgive your parents](/how-to-understand-and-forgive-your-parents/)**
-* [**How to forgive yourself**](/how-to-forgive-someone/)
-* [**How to say "I forgive you"**](/how-to-forgive-yourself-6-steps-to-let-the-past-go/)
 * [**Quotes about forgiveness**](/Ed-latimore-forgiveness-quotes/)
 
 You must also accept that no one set out to harm you specifically. They are merely [acting in their own self-interest and you are collateral damage](/no-one-gives-a-shit-about-you/). It’s not a personal attack. It just appears that way because of your perspective.
