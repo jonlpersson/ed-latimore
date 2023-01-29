@@ -69,8 +69,6 @@ Moving towards the life you want can be as simple as making a few positive chang
 
 There’s no secret nootropic or stimulant that you can use to escape the essentials. If you are currently ignoring your foundations, you’ll experience a remarkable shift in your well-being within just a few days when you begin to take them seriously.
 
-For more tips on increasing your energy, I recommend checking out this article I wrote on [how to get more energy](https://edlatimore.com/how-to-get-more-energy/).
-
 ### Set your environment up for success
 
 If we continue with the path of least resistance, our immediate environments are the paths most travelled. Since we are constantly immersed in them, we have to cultivate the right paths to take.
