@@ -175,7 +175,7 @@ Rather than bitch, moan, and get in your emotions, use it to your advantage. ***
 
 ## 12\. Learn how to forgive
 
-The most important skill to develop is the ability to forgive. More on that in my step-by-step [guide on forgiveness](/how-to-forgive-someone/).
+The most important skill to develop is the ability to forgive.&nbsp;
 
 ***Holding grudges and being angry only hurts you.***
 
