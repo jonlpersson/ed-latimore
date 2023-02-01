@@ -28,7 +28,7 @@ If all you've ever known are good times and ease, you never really get a chance 
 
 Expressing gratitude doesn't heal your wounds, fix your problems, or undo your mistakes. Gratitude doesn't make people suddenly respect you, like you, or love you.
 
-Expressions of gratitude won't allow you to violate the laws of the universe to travel back through time to undo transgressions. While feelings of gratitude may help you deal with new problems that disrupt your well-being, don't expect them to alleviate old guilt or [get people to forgive you](/how-to-forgive-someone/).
+Expressions of gratitude won't allow you to violate the laws of the universe to travel back through time to undo transgressions. While feelings of gratitude may help you deal with new problems that disrupt your well-being, don't expect them to alleviate old guilt or get people to forgive you.
 
 Even the deepest gratitude doesn't reduce the emotional impact of negative events and feelings in your life. This is not the power or the purpose of gratitude.
 
