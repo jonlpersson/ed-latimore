@@ -1,7 +1,7 @@
 ---
 date: 2022-02-17 22:19:51 -0500
 article_type: Article
-title: 'The Art of War: 10 best quotes and ideas'
+title: The best The Art of War quotes and ideas
 permalink: /art-of-war-quotes-and-summary/
 tags:
   - book-quotes-and-summaries
@@ -12,7 +12,7 @@ description: >-
   today. In this post, I cover 10 lessons with modern applications.
 image: /assets/images/thumbnails/the-art-of-war.jpeg
 ---
-The Art of War is an ancient Chinese military guide by Sun Tzu that was penned sometime around the 5th century B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
+The Art of War is an ancient Chinese military guide by military strategist Sun Tzu that was penned sometime around the 5th century B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
 
 It's a surprisingly short read. I read it on my kindle, and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
 
