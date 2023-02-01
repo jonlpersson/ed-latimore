@@ -88,9 +88,9 @@ The use of this realization, or other anchoring thoughts, is a lightweight, ofte
 
 ![understanding beats negative thoughts](/assets/images/posts/2021/understanding.jpg "understanding beats negative thoughts"){: width="480" height="320"}
 
-### 5) We can't find freedom in the past until we stop obsessing over it
+### 5) We can't find freedom from the past until we stop obsessing over it
 
-Forgiveness is a simple solution to a difficult problem that’s complicated because it’s counter-intuitive. That's why I've layed out 5 easy steps to forgive someone another article, [read it here](/how-to-forgive-someone/).
+Forgiveness is a simple solution to a difficult problem that’s complicated because it’s counter-intuitive.&nbsp;
 
 When you forgive a person for what they’ve done, you aren’t forgetting it nor are you excusing it. You’re simply restoring what that person broke within you without waiting for them to take responsibility for breaking it.
 
