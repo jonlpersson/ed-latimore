@@ -220,3 +220,12 @@ If you can make someone think you have (or don't have) something that influences
 Ultimately, the power of deception is that it bends your opponent's perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it's often used to make others think they have a higher value.
 
 In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that they don't fool you.&nbsp;
+
+## Summary of the best The Art of War Quotes and ideas from military strategy
+
+1. Know your enemy
+2. The acme of skill is to win battles without fighting
+3. Victorious warriors are always able to adapt to change
+4. Disorganization is a sign of bad leadership
+5. Train in the worst conditions so you can perform in the midst of chaos
+6. Real intent is rarely revealed by words alone
