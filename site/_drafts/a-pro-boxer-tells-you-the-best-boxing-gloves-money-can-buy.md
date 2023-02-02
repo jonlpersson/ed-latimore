@@ -174,9 +174,20 @@ You don’t have to take my recommendations, but I strongly recommend only takin
 
 #### **Winning Pro Gloves**
 
-One of the things that motivated me to write this article is that there wasn’t a single article that recommended Winning boxing gloves. If you aren’t serious about your training, this doesn’t mean anything. But if you’re a real fighter or someone who takes pride in the equipment he has for the sport, this should strike you as odd.Winning boxing products are hands down, the best in the business. They’re so good that each Winning Glove is authenticated. The reason why other sites don’t mention them is that Winning doesn’t do affiliates.
+One of the things that motivated me to write this article is that there wasn’t a single article that recommended Winning boxing gloves.
 
-Hell, they don’t even do partnerships or endorsements with famous boxers. They simply produce a superior product and have let quality and word of mouth speak for themselves. But they are, by far, the most expensive glove on the market. The cheapest place to get them is from the Winning’s site, and they start in the $300 range. No other glove will crack the $300 range.***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because 1) A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. 2) I’ve never worn one or even seen one. It’d be dishonest to write about them. ******Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. ***
+If you aren’t serious about your training, this doesn’t mean anything. But if you’re a real fighter or someone who takes pride in the equipment he has for the sport, this should strike you as odd.
+
+Winning boxing products are hands down, the best in the business. They’re so good that each Winning Glove is authenticated. The reason why other sites don’t mention them is that Winning doesn’t do affiliates.
+
+Hell, they don’t even do partnerships or endorsements with famous boxers. They simply produce a superior product and have let quality and word of mouth speak for themselves. But they are, by far, the most expensive glove on the market. The cheapest place to get them is from the Winning’s site, and they start in the $300 range. No other glove will crack the $300 range.
+
+***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because***
+
+1. ***A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. ***
+2. ***I’ve never worn one or even seen one. It’d be dishonest to write about them. ***
+
+***Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. ***
 
 #### Rival RS 100 Series
 
