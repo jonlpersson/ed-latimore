@@ -96,3 +96,74 @@ Vinyl is frequently used in boxing and MMA gloves since it's inexpensive, simple
 In addition, vinyl tends to accumulate unpleasant smells with time because the material is less breathable. In fact, if you aren’t careful, these gloves can actually grow mold and mildew quite easily, as there is quite a lot of bacteria that floats around the boxing gym.
 
 These are not smells that will easily come out. Also, mold is a real issue that synthetic of genuine leather simply doesn’t have to contend with. Combine this with the fact that they crack easily under heavy use, and you can see why these gloves are priced cheaply.
+
+### Glove weight and size
+
+I will not cover the official weights and sizes for amateur or professional competition gloves. Not only have I covered that information in this article, but the gloves for any officially sanctioned competition are regulated and issued by the commission overseeing that bout. An amateur or professional fighter will never have to supply his own gloves, so discussing that here is out of place.
+
+Now, fighters do have to provide their own sparring gloves and gloves to hit the heavy bag. If you plan to take the sport seriously and you don’t want to share gloves with someone else, you’ll need to purchase at least two sets of training boxing gloves: one for hitting the heavy bag or focus mitts and another pair for sparring.
+
+Sparring gloves are bigger to provide more protection for the fighters.
+
+The lightest weight I’ve ever seen used is a 16 oz glove. These and 18 oz gloves are the most common, but I’ve seen them go all the way up to 22 ounces. This heavier glove weight is all in extra padding to protect the fighters as they work on skills against each other.
+
+Bag gloves are lighter weight and have less padding, so you can feel the strikes against the bag, and the placement of your hand on the bag. The lighter gloves also allow you to work more on your skills without getting tired.
+
+### Padding in the boxing glove
+
+This might be the most important thing to consider when you’re evaluating which gloves to get. Padding provides the cushioning needed to protect a boxer’s fists, wrists, and knuckles from any blow.
+
+Padding also protects your training partner from getting too beat up, hence the need for bigger gloves during sparring. At this point, you may wonder why you’d want to protect your opponent’s face in an actual boxing match. Well, you don’t. In fact, it’s typical practice for a professional fighter “break-in” the gloves he gets before a fight.
+
+That is, he tries to (within the rules) wear down the padding in the front of the glove so there is less padding between your knuckles and his face (this practice is strictly for professionals and is very much against the rules for amateur boxers).
+
+Check the padding out on any glove to ensure that it not only keeps your hands safe but will keep you from getting banned from the boxing gym for sparring with dangerously small gloves.
+
+### Closure style
+
+In this regard, there are only two types of boxing gloves: lace-up and velcro/hook and loop closure. They function exactly as they sound. The lace-up gloves need to be tied up for a secure fit, while the velcro/hook and loop closure stay on with just a velcro strap attachment.
+
+Each has its pros and cons. It’s essential to consider your needs and goals relating to your training sessions before deciding which type of glove to get.
+
+#### **Velcro strap/Hook and loop gloves**
+
+These are technically the same type of glove. Until I started researching for this article to make sure that I got everything right, I’d actually never heard the phrase “hook and loop gloves.”
+
+These gloves are quick to put on and provide good overall support and fit. Even when it comes to sparring, I’ve used and seen these types of gloves used by amateurs, professionals, and hobbyists alike
+
+**Pros**
+
+* **Quick to put on and take off.** Good if you’re short on time.
+* **You don’t need anyone else to help put them on.** This is great for solo training sessions.
+* **There are different styles for different levels of support.** Every company has a version of this glove.
+* **Cheaper than lace-ups**. If you’re not quite ready to invest in top-level gear, these are fine for everything you need in the gym.
+
+**Cons**
+
+* **Less wrist support than lace-up gloves**. Even the best velcro strap glove can’t provide as much stabilization and support as a good lace-up glove.
+* **Less padding around the wrist.** If you have good punching technique, this isn’t usually much of an issue. However, there came a point in my career where I was punching the heavy bag so hard that I needed the shock absorption that comes with lace-up gloves.
+* **Can scratch opponents.** This is a biggie. any gym worth its salt will make you put tape around the velcro strap. This is common practice for lace-up gloves as well.
+* **Durability in the velcro strap.** If you spend the money on a good pair of gloves, it will take a very long time and a bit of “overuse” before this is a problem. With that said, the strap can start to tear. The only way to avoid this is to not get the budget options.
+
+**Lace-up gloves**
+
+Lace-up boxing gloves have been available longer than their velcro counterparts and are either made from later (cowhide or buffalo) or synthetic leather (faux leather). As mentioned earlier, this means that they last longer but will be more expensive.
+
+These are the gloves of top-level amateurs, professionals, and anyone who takes their training seriously.
+
+**Pros**
+
+* **They provide the best protection and the snuggest fit.** The fit of lace-up gloves is so tight I’ve had to loosen mine several times before sparring or a fight.
+* **Opponents are much safer.** On the chance that you don’t wrap the wrist with tap, these gloves are designed to be used in competition, so little scratches don’t happen so easily.
+* **Extra padding and wrist protection.** While good punching technique and hand wrapping already stabilize the wrist, these go a step further.
+
+**Cons**
+
+* **You can’t put these gloves on alone.** At least not well. Solo training sessions are done.
+* **They take longer to put on than lace and hoop gloves.** Someone has put your hand in and tie the gloves up.
+
+A final word on boxing glove recommendations
+
+This list is far from complete. It’s simply born from my experience as a high-level amateur and professional heavyweight boxer.
+
+You don’t have to take my recommendations, but I strongly recommend only taking the recommendations of another fighter or coach.
