@@ -191,11 +191,25 @@ Hell, they don’t even do partnerships or endorsements with famous boxers. They
 
 #### Rival RS 100 Series
 
-These are my preferred sparring gloves. They fit well, are durable, and they protect your hand. I will say they aren’t the softest 16 oz gloves, but no one will ever feel like they got hit by a 10 oz competition glove.High-quality boxing gloves are one of those things you can’t really appreciate until you’ve had some low-quality ones. Throughout my 12-year career, I’ve used some pretty bad sparring gloves. My main complaints were that they were either too tight or didn’t feel tight enough around my hand. The Rival RS 100 Series has none of those problems.This is likely due to a combination of features. First, the laces are naturally angled, allowing for a tighter tie that doesn’t require as much force. The inside has a layered foam system, which comforts your hand (though, to support my observation that it’s not the most sparring partner-friendly glove that allows for greater force transmission). Lastly, there is a mesh palm interior to make them feel soft and breathable.At $189, these gloves represent a decent investment, but I can’t give you any better recommendation that doesn’t put you into the $300+ range. Fortunately, I can tell you that the glove lasts, and cleans well, doesn’t hold odors, and the strings are long and thick so they don’t break.
+These are my preferred sparring gloves.
+
+They fit well, are durable, and they protect your hand. I will say they aren’t the softest 16 oz gloves, but no one will ever feel like they got hit by a 10 oz competition glove.
+
+High-quality boxing gloves are one of those things you can’t really appreciate until you’ve had some low-quality ones. Throughout my 12-year career, I’ve used some pretty bad sparring gloves. My main complaints were that they were either too tight or didn’t feel tight enough around my hand. The Rival RS 100 Series has none of those problems. This is likely due to a combination of features.
+
+First, the laces are naturally angled, allowing for a tighter tie that doesn’t require as much force. The inside has a layered foam system, which comforts your hand (though, to support my observation that it’s not the most sparring partner-friendly glove that allows for greater force transmission). Lastly, there is a mesh palm interior to make them feel soft and breathable.
+
+At $189, these gloves represent a decent investment, but I can’t give you any better recommendation that doesn’t put you into the $300+ range. Fortunately, I can tell you that the glove lasts, and cleans well, doesn’t hold odors, and the strings are long and thick so they don’t break.
 
 #### Cleto Reyes
 
-In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them. I’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good. I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way.I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
+In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them. I
+
+’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
+
+I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way.I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.T
+
+he wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
 
 ## Best bag gloves
 
