@@ -1,7 +1,7 @@
 ---
 date: 2022-02-08 09:40:00 -0500
 article_type: Article
-title: The best porn blocker for 2022
+title: The best porn blocker for 2023
 permalink: /best-porn-blocker/
 tags:
   - how-to-stop-watching-porn
