@@ -207,9 +207,9 @@ In my opinion, the single biggest difference between these two is that Cleto Rey
 
 ’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
 
-I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way.I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.T
+I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way. I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.
 
-he wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
+The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
 
 ## Best bag gloves
 
