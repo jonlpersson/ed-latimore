@@ -14,7 +14,7 @@ image:
 ---
 I’m a former National Champion amateur boxer and top-level professional heavyweight boxer who still regularly has intense training sessions, sparring sessions, and coaches aspiring amateur fighters. I even work with people who just want to try the sport out&nbsp; Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
 
-I put this list together under the assumption that you will take your training seriously.
+I put this list together assuming that you take your training seriously. Otherwise, spending money on a pair of boxing gloves—especially quality ones—is just a waste.
 
 I’m not saying that you have to become a professional boxer. I just don’t see any difference between beginner’s boxing gloves and training gloves that experienced boxers practice in.
 
