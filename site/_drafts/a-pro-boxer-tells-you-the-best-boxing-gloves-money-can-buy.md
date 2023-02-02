@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-02-02 07:38:00 -0500
 article_type: Article
 title: A pro boxer tells you the best boxing gloves money can buy
 permalink: /pro-boxer-best-boxing-glove-recommendation/
