@@ -167,3 +167,70 @@ A final word on boxing glove recommendations
 This list is far from complete. It’s simply born from my experience as a high-level amateur and professional heavyweight boxer.
 
 You don’t have to take my recommendations, but I strongly recommend only taking the recommendations of another fighter or coach.
+
+## Best sparring gloves
+
+### Best sparring gloves
+
+#### **Winning Pro Gloves**
+
+One of the things that motivated me to write this article is that there wasn’t a single article that recommended Winning boxing gloves. If you aren’t serious about your training, this doesn’t mean anything. But if you’re a real fighter or someone who takes pride in the equipment he has for the sport, this should strike you as odd.Winning boxing products are hands down, the best in the business. They’re so good that each Winning Glove is authenticated. The reason why other sites don’t mention them is that Winning doesn’t do affiliates.
+
+Hell, they don’t even do partnerships or endorsements with famous boxers. They simply produce a superior product and have let quality and word of mouth speak for themselves. But they are, by far, the most expensive glove on the market. The cheapest place to get them is from the Winning’s site, and they start in the $300 range. No other glove will crack the $300 range.***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because 1) A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. 2) I’ve never worn one or even seen one. It’d be dishonest to write about them. ******Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. ***
+
+#### Rival RS 100 Series
+
+These are my preferred sparring gloves. They fit well, are durable, and they protect your hand. I will say they aren’t the softest 16 oz gloves, but no one will ever feel like they got hit by a 10 oz competition glove.High-quality boxing gloves are one of those things you can’t really appreciate until you’ve had some low-quality ones. Throughout my 12-year career, I’ve used some pretty bad sparring gloves. My main complaints were that they were either too tight or didn’t feel tight enough around my hand. The Rival RS 100 Series has none of those problems.This is likely due to a combination of features. First, the laces are naturally angled, allowing for a tighter tie that doesn’t require as much force. The inside has a layered foam system, which comforts your hand (though, to support my observation that it’s not the most sparring partner-friendly glove that allows for greater force transmission). Lastly, there is a mesh palm interior to make them feel soft and breathable.At $189, these gloves represent a decent investment, but I can’t give you any better recommendation that doesn’t put you into the $300+ range. Fortunately, I can tell you that the glove lasts, and cleans well, doesn’t hold odors, and the strings are long and thick so they don’t break.
+
+#### Cleto Reyes
+
+In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them. I’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good. I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way.I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
+
+## Best bag gloves
+
+#### Winning Velcro Gloves
+
+I’ve already waxed poetically about the quality of the Winning boxing products. Their velcro bag gloves are no different. If you have the money and are willing to spend it, you should absolutely invest in these gloves.
+
+The only potential problem you’ll face with Winning Gear is getting it stolen. I’ve seen more than a few guys have their Winning gear disappear if they got careless with it at a fight or visiting another gym. However, I’m going to assume that if you spend $300 on a piece of boxing equipment, you’ll keep a close watch over it.
+
+With that said, all I can see that winning is that they’re the best and you should get them if you can. I don’t care I don’t get any affiliate commission. I couldn’t do you the dishonor of telling you anything different.
+
+#### Rival RB2 Super Bag Gloves
+
+These are my favorite gloves. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
+
+I like these gloves because they are everything a good bag glove should be. First starters, they’re easy to take on and off. After three years of relatively constant use, the velcro has remained strong with no signs of weakening. The glove does not hold sweat and does not hold odors either—and with how frequently I clean my gear, I’d know if they did.
+
+The fit around the hand is excellent. Specifically, the glove is small enough to be a decent bag glove, but big enough to protect your knuckles and support your wrist. This is a delicate balance that most boxing gloves miss. However, the Rival RB2 Super Bag Glove is right on the money.
+
+#### Venum Bangkok Spirit Nappa Leather Hook and Loop Sparring Boxing Gloves
+
+I grabbed these gloves on a recommendation. I talked to some boxing friends about what they thought was a decent alternative to the Rival RB2 Super Bag Gloves that I’ve been using for quite some time.
+
+For the most part, I’m not disappointed with their recommendation. First, these are a great price without going into the bargain bin section. Boxing gear, more than most things, is a “you get what you pay for” type of industry. These gloves are cheaper than the Rival RB2’s, but the quality isn’t a big drop-off.
+
+The single most impressive part of these gloves is the wrist strap. Really, they did a great job making your wrist feel secure. The ergonomics (how it fits around your hand) of the glove are pretty nice as well. The only place you notice the difference in price is in the fist padding.
+
+I personally like my bag gloves to have as little padding in the first as possible so that I can get a good crack on the bag. You know, the type of punch that sounds like a shotgun. It’s difficult to accomplish that sound with too much padding.
+
+The extra padding in the fist is the main difference between sparring and bag gloves. These gloves have a little too much padding in the fist, but if you’re a beginner, you probably won’t even hit hard enough to even notice.
+
+## Best cheap boxing gloves
+
+Boxing is a poor man’s sport, but you still need to pick up some equipment. When I first started fighting, I hardly had any money to get any decent gear. In memory of those days, I put together this Amazon list of bag and sparring gloves under $50.
+
+I didn’t bother doing research into boxing gloves in this price range because any glove that you spend less than $50 won’t be suitable for high level training, but they will serve as an introduction.
+
+The three companies I recognize in this group are RDX, Everlast, and Title. I’m not overly familiar with RDX, but they seem to have plenty of good reviews and I’ve seen them in the gym. I obviously recommended spending more on any of the recommendations above, but I get it if you can’t.
+
+* [Budget friendly bag gloves](https://amzn.to/3HQ9UR3){: target="_blank" rel="noopener"}
+* [Budget friendly sparring gloves](https://amzn.to/3HQ9UR3){: target="_blank" rel="noopener"}
+
+## Best gel-**hand protection**/wrist support
+
+#### Everlast Evergel Handwraps
+
+Rather than using traditional hand wraps, I’ve always preferred to use these. Now, don’t get me wrong. I have nothing but love for traditional cloth wraps, and I think every fighter should know how to wrap their hands, but these are faster and easier to use. Not only that, but they provide extra padding for your knuckles.Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it’s easy to see where the money is spent. they’re a tight fight around your hand and they’re held in place with a velcro strap. They don’t hold on to odors and they’re pretty durable and long-lasting, as they should be at $27 a pair.
+
+Sanabul Essential Gel Quick Hand Wraps for Boxing
