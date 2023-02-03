@@ -247,7 +247,7 @@ The fit around the hand is excellent. Specifically, the glove is small enough to
 
 #### Venum Bangkok Spirit Nappa Leather Boxing Gloves
 
-I grabbed these gloves on a recommendation. I talked to some boxing friends about what they thought was a decent alternative to the Rival RB2 Super Bag Gloves that I’ve been using for quite some time.
+![Venum Boxing Gloves](/assets/images/drafts/venum-bag-gloves.jpg){: width="960" height="540"}I grabbed these gloves on a recommendation. I talked to some boxing friends about what they thought was a decent alternative to the Rival RB2 Super Bag Gloves that I’ve been using for quite some time.
 
 For the most part, I’m not disappointed with their recommendation. First, these are a great price without going into the bargain bin section. Boxing gear, more than most things, is a “you get what you pay for” type of industry. These gloves are cheaper than the Rival RB2’s, but the quality isn’t a big drop-off.
 
