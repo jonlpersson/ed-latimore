@@ -233,6 +233,8 @@ With that said, all I can see that winning is that they’re the best and you sh
 
 These are my favorite gloves. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
 
+![Ed Latimore and Roy Jones Jr.](/assets/images/drafts/ed-latimore-and-roy-jones-jr.jpeg "Me after sparring with Roy Jones Jr."){: width="500" height="333"}
+
 I like these gloves because they are everything a good bag glove should be. First starters, they’re easy to take on and off. After three years of relatively constant use, the velcro has remained strong with no signs of weakening. The glove does not hold sweat and does not hold odors either—and with how frequently I clean my gear, I’d know if they did.
 
 The fit around the hand is excellent. Specifically, the glove is small enough to be a decent bag glove, but big enough to protect your knuckles and support your wrist. This is a delicate balance that most boxing gloves miss. However, the Rival RB2 Super Bag Glove is right on the money.
