@@ -184,12 +184,14 @@ Hell, they don’t even do partnerships or endorsements with famous boxers. They
 
 ***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because***
 
-1. ***A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. ***
-2. ***I’ve never worn one or even seen one. It’d be dishonest to write about them. ***
+1. *\*\*A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. \*\**
+2. *\*\*I’ve never worn one or even seen one. It’d be dishonest to write about them. \*\**
 
-***Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. ***
+*\*\*Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. \*\**
 
 #### Rival RS 100 Series
+
+![My trusty Rivals Sparring Gloves](/assets/images/drafts/rivals-rs-100-16oz-sparring-gloves.jpg "My trusty Rivals Sparring Gloves"){: width="960" height="540"}
 
 These are my preferred sparring gloves.
 
