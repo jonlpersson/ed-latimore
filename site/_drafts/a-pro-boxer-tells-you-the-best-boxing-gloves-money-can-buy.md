@@ -22,6 +22,8 @@ I put this list together assuming that you take your training seriously. Otherwi
 
 I’m not saying that you have to become a professional boxer. I just don’t see any difference between beginner’s boxing gloves and training gloves that experienced boxers practice in.
 
+## High-quality boxing gear is a non-negotiable
+
 If you take up the sport of boxing, you should have high-quality gear. This means owning some excellent gloves. With this in mind and from looking over other articles (not written by professional boxers, mind you), this article is organized as follows:
 
 I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price. I've said it already, but I’ll repeat it because I feel that it’s THAT important:
