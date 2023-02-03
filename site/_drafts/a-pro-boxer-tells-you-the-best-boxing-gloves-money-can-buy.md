@@ -184,8 +184,8 @@ Hell, they don’t even do partnerships or endorsements with famous boxers. They
 
 ***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because***
 
-1. *\*\*A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive. \*\**
-2. *\*\*I’ve never worn one or even seen one. It’d be dishonest to write about them. \*\**
+1. ***A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive.&nbsp;***
+2. ***I’ve never worn one or even seen one. It’d be dishonest to write about them.&nbsp;***
 
 *\*\*Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. \*\**
 
@@ -275,8 +275,6 @@ Don’t get me wrong. I have nothing but love for traditional cloth wraps, and I
 Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it’s easy to see where the money is spent. they’re a tight fight around your hand and they’re held in place with a velcro strap. They don’t hold on to odors and they’re pretty durable and long-lasting, as they should be at $27 a pair.
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzYW5kYm94PSJhbGxvdy1wb3B1cHMgYWxsb3ctc2NyaXB0cyBhbGxvdy1tb2RhbHMgYWxsb3ctZm9ybXMgYWxsb3ctc2FtZS1vcmlnaW4iIHN0eWxlPSJ3aWR0aDoxMjBweDsgaGVpZ2h0OjI0MHB4OyIgbWFyZ2lud2lkdGg9IjAiIG1hcmdpbmhlaWdodD0iMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIHNyYz0iLy93cy1uYS5hbWF6b24tYWRzeXN0ZW0uY29tL3dpZGdldHMvcT9TZXJ2aWNlVmVyc2lvbj0yMDA3MDgyMiZPbmVKUz0xJk9wZXJhdGlvbj1HZXRBZEh0bWwmTWFya2V0UGxhY2U9VVMmc291cmNlPXNzJnJlZj1hc19zc19saV90aWwmYWRfdHlwZT1wcm9kdWN0X2xpbmsmdHJhY2tpbmdfaWQ9aHR0cGVkd2FyZGMwNy0yMCZsYW5ndWFnZT1lbl9VUyZtYXJrZXRwbGFjZT1hbWF6b24mcmVnaW9uPVVTJnBsYWNlbWVudD1CMDBSNk5ZVzZXJmFzaW5zPUIwMFI2TllXNlcmbGlua0lkPTY1ZTE1NmM3YTQ5OTEzZmE5MGU1YmFkZjhjYjYxZThjJnNob3dfYm9yZGVyPXRydWUmbGlua19vcGVuc19pbl9uZXdfd2luZG93PXRydWUiPjwvaWZyYW1lPg=="><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00R6NYW6W&amp;asins=B00R6NYW6W&amp;linkId=65e156c7a49913fa90e5badf8cb61e8c&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
-
-Sanabul Essential Gel Quick Hand Wraps for Boxing
 
 ## The final word on boxing glove recommendations
 
