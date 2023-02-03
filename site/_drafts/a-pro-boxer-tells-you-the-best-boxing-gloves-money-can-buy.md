@@ -199,6 +199,8 @@ They fit well, are durable, and they protect your hand. I will say they aren’t
 
 High-quality boxing gloves are one of those things you can’t really appreciate until you’ve had some low-quality ones. Throughout my 12-year career, I’ve used some pretty bad sparring gloves. My main complaints were that they were either too tight or didn’t feel tight enough around my hand. The Rival RS 100 Series has none of those problems. This is likely due to a combination of features.
 
+![Me sparring in my Rival Gloves and Winning Headgear](/assets/images/drafts/sparring-with-rival-gloves.jpeg "Me sparring in my Rival Gloves and Winning Headgear"){: width="500" height="769"}
+
 First, the laces are naturally angled, allowing for a tighter tie that doesn’t require as much force. The inside has a layered foam system, which comforts your hand (though, to support my observation that it’s not the most sparring partner-friendly glove that allows for greater force transmission). Lastly, there is a mesh palm interior to make them feel soft and breathable.
 
 At $189, these gloves represent a decent investment, but I can’t give you any better recommendation that doesn’t put you into the $300+ range. Fortunately, I can tell you that the glove lasts, and cleans well, doesn’t hold odors, and the strings are long and thick so they don’t break.
