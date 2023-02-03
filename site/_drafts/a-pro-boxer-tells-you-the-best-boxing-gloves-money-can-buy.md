@@ -12,7 +12,11 @@ description: >-
   suggestions, I also teach you how to pick your own fight gloves.
 image:
 ---
-I’m a former National Champion amateur boxer and top-level professional heavyweight boxer who still regularly has intense training sessions, sparring sessions, and coaches aspiring amateur fighters. I even work with people who just want to try the sport out&nbsp; Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
+I’m a former National Champion amateur boxer and top-level professional heavyweight boxer who still regularly has intense training sessions, sparring sessions, and coaches aspiring amateur fighters.
+
+![Ed Latimore's Pro boxing record](/assets/images/drafts/ed-latimore-professional-boxing-1.png "A real fighter about to make real glove recommendations"){: width="500" height="291"}
+
+I even work with people who just want to try the sport out&nbsp; Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
 
 I put this list together assuming that you take your training seriously. Otherwise, spending money on a pair of boxing gloves—especially quality ones—is just a waste.
 
