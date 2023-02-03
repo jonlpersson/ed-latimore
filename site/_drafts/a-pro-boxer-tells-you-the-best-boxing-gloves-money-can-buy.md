@@ -231,6 +231,8 @@ With that said, all I can see that winning is that they’re the best and you sh
 
 #### Rival RB2 Super Bag Gloves
 
+![Rivals bag gloves](/assets/images/drafts/rivals-bag-gloves.jpg){: width="960" height="540"}
+
 These are my favorite gloves. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
 
 ![Ed Latimore and Roy Jones Jr.](/assets/images/drafts/ed-latimore-and-roy-jones-jr.jpeg "Me after sparring with Roy Jones Jr."){: width="500" height="333"}
