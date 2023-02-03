@@ -209,6 +209,8 @@ At $189, these gloves represent a decent investment, but I can’t give you any 
 
 #### Cleto Reyes
 
+![Cleto Reyes for sparring](/assets/images/drafts/cleto-reyes.jpg){: width="960" height="540"}
+
 In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them. I
 
 ’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
