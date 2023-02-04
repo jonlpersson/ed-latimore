@@ -18,15 +18,17 @@ I’m a former National Champion amateur boxer and top-level professional heavyw
 
 I even work with people who just want to try the sport out&nbsp; Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
 
+***\[Read about why I decided to start fighting in the first place—&gt;[Why I Started Boxing](/why-did-I-start-boxing/)\]***
+
 I put this list together assuming that you take your training seriously. Otherwise, spending money on a pair of boxing gloves—especially quality ones—is just a waste.
 
 I’m not saying that you have to become a professional boxer. I just don’t see any difference between beginner’s boxing gloves and training gloves that experienced boxers practice in.
 
 ## High-quality boxing gear is a non-negotiable
 
-If you take up the sport of boxing, you should have high-quality gear. This means owning some excellent gloves. With this in mind and from looking over other articles (not written by professional boxers, mind you), this article is organized as follows:
+If you take up the sport of boxing, you should have high-quality gear. This means owning some excellent gloves. With this in mind and from looking over other articles (not written by professional boxers, mind you), this article is organized as follows.
 
-I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price. I've said it already, but I’ll repeat it because I feel that it’s THAT important:
+I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price. I've said it already, but I’ll repeat it because I feel that it’s THAT important.
 
 Anyone in the boxing gym needs high-quality pair of boxing gloves. Or, at the very least, you have to ensure that you have the best gloves they can afford. It doesn’t matter whether you’re:
 
@@ -55,7 +57,9 @@ Also, this article was written with teenagers and older in mind.
 
 As I’m writing this article by testing bag and fighting gloves and my own collection, I don’t have any recommendations for children’s gloves. That said, most fighting gloves don’t work based on age but rather on hand size.
 
-Most of my recommendations here have a sizing option for children. At the very least, a basic sizing chart can help determine the best size. **\[put in sizing chart\]**
+Most of my recommendations here have a sizing option for children. At the very least, a basic sizing chart can help determine the best size.&nbsp;
+
+![Boxing Glove Sizing Chart](/assets/images/drafts/boxing-glove-sizing-chart.png "This chart is courtesy of https://www.titleboxing.com/size-chart"){: width="550" height="270"}
 
 For everyone else, I know that buying boxing gloves for the first time is a daunting task. There are so many brands and so many recommendations. So, I don’t claim that my recommendations are the best, but they come from my experience as a boxer and some feedback from other legit fighters.
 
