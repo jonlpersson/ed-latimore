@@ -75,17 +75,23 @@ On top of that, rather than just putting together a list of fighting gloves for 
 
 Though this article gives my recommendations, perhaps you want to try something different.
 
-You may be in a gym with an exclusive deal with a company like Everlast, Ringside, or Title Boxing, so you have to use gear with only that logo.
-
-Or, you saw some gloves, and you really like them, but you want to be sure you’re gonna get your money’s worth.
+You may be in a gym with an exclusive deal with a company like Everlast, Ringside, or Title Boxing, so you have to use gear with only that logo. Or, you saw some gloves, and you really like them, but you want to be sure you’re gonna get your money’s worth.
 
 The following criteria are all that you need to consider when picking a good boxing glove.
 
 ### Material
 
-Boxing gloves can be made of real leather, synthetic leather, or vinyl. Those materials are listed from most to least expensive. The material the glove is constructed with is the single greatest determinant of the glove’s price.
+Boxing gloves are made from:
 
-Notice that two of the three materials contain the word “leather.” In case you don’t know, leather is produced through the tanning or chemical curing of animal hides and skins to prevent decomposition. I used to think leather only came from alligators, but it can come from almost any animal.
+* Real leather
+* Synthetic leather
+* Vinyl
+
+Those materials are listed from most to least expensive. The material the glove is constructed with is the single greatest determinant of the glove’s price.
+
+Notice that two of the three materials contain the word “leather.”
+
+In case you don’t know, leather is produced through the tanning or chemical curing of animal hides and skins to prevent decomposition. I used to think leather only came from alligators, but it can come from almost any animal.
 
 The most widely used hides are sourced from cattle, sheep, goats, horses, buffalo, pigs, and hogs, as well as aquatic animals like seals and alligators. Leather is a high-quality material for boxing gloves because the curing process makes them sturdy, flexible, and incredibly resistant to decay and damage.
 
@@ -113,11 +119,13 @@ PU gloves are lightweight, making them ideal for sparring or punching bag work. 
 
 ![Vinyl Boxing Gloves](/assets/images/drafts/vinyl-boxing-gloves.jpeg "Shiny and cheap? Probably vinyl. Especially if they're cheap"){: width="225" height="225"}
 
-Vinyl is frequently used in boxing and MMA gloves since it's inexpensive, simple to make, and easy to keep looking its best. They don’t stand up to the beatdowns of heavy bag workouts, as vinyl is more vulnerable to cracks and less durable than other materials. It’s also not as comfortable.
+Vinyl is frequently used in boxing and MMA gloves since it's inexpensive, simple to make, and easy to maintain. They don’t stand up to the beatdowns of heavy bag workouts, as vinyl is more vulnerable to cracks and less durable than other materials. It’s also not as comfortable.
 
 In addition, vinyl tends to accumulate unpleasant smells with time because the material is less breathable. In fact, if you aren’t careful, these gloves can actually grow mold and mildew quite easily, as there is quite a lot of bacteria that floats around the boxing gym.
 
-These are not smells that will easily come out. Also, mold is a real issue that synthetic of genuine leather simply doesn’t have to contend with. Combine this with the fact that they crack easily under heavy use, and you can see why these gloves are priced cheaply.
+[Here's a great Reddit to read about the problem of mold and mildew on boxing gloves.](https://www.reddit.com/r/MuayThai/comments/q5r17j/tips_for_getting_rid_of_mold_growing_under_velcro/)
+
+These are not smells that will easily come out. Mold is a real issue that synthetic of genuine leather simply doesn’t have to contend with. Combine this with the fact that they crack easily under heavy use, and you can see why these gloves are priced cheaply.
 
 ### Glove weight and size
 
