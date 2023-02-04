@@ -10,7 +10,7 @@ categories:
 description: >-
   My professional recommendations for boxing gloves. In case you don't like my
   suggestions, I also teach you how to pick your own fight gloves.
-image:
+image: /assets/images/drafts/best-boxing-gloves-recommended-by-a-boxer.jpeg
 ---
 I’m a former National Champion amateur boxer and top-level professional heavyweight boxer who still regularly has intense training sessions, sparring sessions, and coaches aspiring amateur fighters.
 
