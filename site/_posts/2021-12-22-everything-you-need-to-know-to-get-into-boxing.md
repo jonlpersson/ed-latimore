@@ -43,7 +43,7 @@ I understand that many people use boxing to lose weight and get in shape. Howeve
 
 While nothing gets you in shape for fighting but fighting, the following is a list of the things you should be able to do before you enter the gym. An explanation will follow.
 
-* **Run 2 miles in under 16 minutes.** Boxing is an aerobic sport and you’ll need the cardio to train for hours.
+* **Run 2 miles in under 15 minutes.** Boxing is an aerobic sport and you’ll need the cardio to train for hours.
 * **At least 6 100-meter sprints with no more than a 30-second break in between.** This trains the body’s anaerobic system and improves your [body’s ability to use oxygen under intense duress.](https://www.healthline.com/health/vo2-max#increasing-vo%E2%82%82-max)
 * **Jump rope for at least 15 minutes straight.** This is more mental than physical. We’re concerned with your ability to do something physical without a break in concentration.
 * **Do 50 sit-ups in a row and push-ups in a row.** You need strong abs to deal with body blows, transfer force, and help you keep your balance. Strong arms help transfer force from your core into your fist and make you better able to defend. We test the strength this way because everything in boxing is about endurance instead of raw strength.
@@ -117,6 +117,8 @@ Lastly, regardless of how comfortable you are with community gear, there are som
 This is for protection, as that weight is composed of extra padding. Bag gloves shouldn’t be heavier than 14 oz., but when I turned pro, I started hitting the bag with 10 oz. gloves to mimic competition.
 
 You don’t spar in bag gloves but you can hit the bag in sparring gloves. A quick way to get kicked out of a gym is to wear sparring gloves smaller than 16 oz. without permission. Yes, highly skilled guys will sometimes spar in lighter gloves to mimic competition, but that’s not you.
+
+[Here are my specific boxing glove recommendations](/pro-boxer-best-boxing-glove-recommendation/)
 
 Because I don’t have a preference or loyalty to a specific brand, my amazon store affiliate link is below. If these suggestions help you, I’d appreciate if you bought through the link so I can get a small (and I do mean ***small***) commission.
 
