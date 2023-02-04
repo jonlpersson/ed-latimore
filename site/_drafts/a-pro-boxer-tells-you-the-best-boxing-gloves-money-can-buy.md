@@ -145,6 +145,10 @@ Each has its pros and cons. It’s essential to consider your needs and goals re
 
 These are technically the same type of glove. Until I started researching for this article to make sure that I got everything right, I’d actually never heard the phrase “hook and loop gloves.”
 
+Just to make sure I wasn't crazy, I went to look this up. According to [HookandLoop.com](https://www.hookandloop.com/what-is-hook-and-loop)\:
+
+> Essentially, hook and loop is the generic name for VELCRO® Brand-type materials. Hook and loop is the name given to the fastening system which uses two sides of material, hook and loop. The hook is the rough, scratchy side and the loop is the soft, fuzzy side. When brought together, the sides of the hook and loop fabric attach and create a super strong bond, that can still be pulled apart when needed.
+
 These gloves are quick to put on and provide good overall support and fit. Even when it comes to sparring, I’ve used and seen these types of gloves used by amateurs, professionals, and hobbyists alike
 
 **Pros**
