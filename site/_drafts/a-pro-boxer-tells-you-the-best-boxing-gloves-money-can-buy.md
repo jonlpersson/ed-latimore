@@ -101,6 +101,8 @@ PU gloves are lightweight, making them ideal for sparring or punching bag work. 
 
 #### Vinyl
 
+![Vinyl Boxing Gloves](/assets/images/drafts/vinyl-boxing-gloves.jpeg "Shiny and cheap? Probably vinyl. Especially if they're cheap"){: width="225" height="225"}
+
 Vinyl is frequently used in boxing and MMA gloves since it's inexpensive, simple to make, and easy to keep looking its best. They don’t stand up to the beatdowns of heavy bag workouts, as vinyl is more vulnerable to cracks and less durable than other materials. It’s also not as comfortable.
 
 In addition, vinyl tends to accumulate unpleasant smells with time because the material is less breathable. In fact, if you aren’t careful, these gloves can actually grow mold and mildew quite easily, as there is quite a lot of bacteria that floats around the boxing gym.
