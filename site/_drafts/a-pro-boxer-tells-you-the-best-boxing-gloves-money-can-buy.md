@@ -81,7 +81,7 @@ The most widely used hides are sourced from cattle, sheep, goats, horses, buffal
 
 #### Real leather
 
-![](/assets/images/drafts/leather-boxing-gloves.jpeg){: width="397" height="435"}
+![Old school real leather gloves](/assets/images/drafts/leather-boxing-gloves.jpeg "Old school real leather gloves. They last forever."){: width="397" height="435"}
 
 Boxing gloves that use real leather universally use cowhide leather. Cowhide leather’s most significant advantage is that it’s resistant to smells and odors that come from hours of keeping sweaty hands inside. When you need to clean them to deal with any odors, it’s easy because leather does not absorb water easily.
 
