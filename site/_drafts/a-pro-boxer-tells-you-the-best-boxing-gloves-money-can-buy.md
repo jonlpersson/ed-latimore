@@ -45,6 +45,8 @@ This article has my recommendations, but I also devoted a lot of space devoted t
 
 And lastly, if my recommendations help you to make a decision, I’d love for you to purchase through my link. I’ll get a small affiliate commission at no extra cost to you.
 
+***\[Learn more about my boxing training—&gt;[How To Train For A Professional Fight](/boxing-training/)\]***
+
 ## A word to other combat sports athletes and legit fighters
 
 I’m not an MMA guy, but I’ve worked with enough legit fighters to tell you that this list works for you as well, but with a small caveat. MMA gloves are small and are open-palm. While I wouldn’t recommend hitting the heavy bag with MMA gloves, some guys do.
@@ -115,7 +117,9 @@ These are not smells that will easily come out. Also, mold is a real issue that 
 
 ### Glove weight and size
 
-I will not cover the official weights and sizes for amateur or professional competition gloves. Not only have I covered that information in this article, but the gloves for any officially sanctioned competition are regulated and issued by the commission overseeing that bout. An amateur or professional fighter will never have to supply his own gloves, so discussing that here is out of place.
+I will not cover the official weights and sizes for amateur or professional competition gloves. Not only have I covered that information [in this article](/how-to-get-into-boxing/), but the gloves for any officially sanctioned competition are regulated and issued by the commission overseeing that bout.
+
+An amateur or professional fighter will never have to supply his own gloves, so discussing that here is out of place.
 
 Now, fighters do have to provide their own sparring gloves and gloves to hit the heavy bag. If you plan to take the sport seriously and you don’t want to share gloves with someone else, you’ll need to purchase at least two sets of training boxing gloves: one for hitting the heavy bag or focus mitts and another pair for sparring.
 
