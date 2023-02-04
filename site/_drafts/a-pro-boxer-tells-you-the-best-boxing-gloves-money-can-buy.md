@@ -292,7 +292,7 @@ Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzYW5kYm94PSJhbGxvdy1wb3B1cHMgYWxsb3ctc2NyaXB0cyBhbGxvdy1tb2RhbHMgYWxsb3ctZm9ybXMgYWxsb3ctc2FtZS1vcmlnaW4iIHN0eWxlPSJ3aWR0aDoxMjBweDsgaGVpZ2h0OjI0MHB4OyIgbWFyZ2lud2lkdGg9IjAiIG1hcmdpbmhlaWdodD0iMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIHNyYz0iLy93cy1uYS5hbWF6b24tYWRzeXN0ZW0uY29tL3dpZGdldHMvcT9TZXJ2aWNlVmVyc2lvbj0yMDA3MDgyMiZPbmVKUz0xJk9wZXJhdGlvbj1HZXRBZEh0bWwmTWFya2V0UGxhY2U9VVMmc291cmNlPXNzJnJlZj1hc19zc19saV90aWwmYWRfdHlwZT1wcm9kdWN0X2xpbmsmdHJhY2tpbmdfaWQ9aHR0cGVkd2FyZGMwNy0yMCZsYW5ndWFnZT1lbl9VUyZtYXJrZXRwbGFjZT1hbWF6b24mcmVnaW9uPVVTJnBsYWNlbWVudD1CMDBSNk5ZVzZXJmFzaW5zPUIwMFI2TllXNlcmbGlua0lkPTY1ZTE1NmM3YTQ5OTEzZmE5MGU1YmFkZjhjYjYxZThjJnNob3dfYm9yZGVyPXRydWUmbGlua19vcGVuc19pbl9uZXdfd2luZG93PXRydWUiPjwvaWZyYW1lPg=="><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00R6NYW6W&amp;asins=B00R6NYW6W&amp;linkId=65e156c7a49913fa90e5badf8cb61e8c&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
 
-Sanabul Gel Quick Hand Wraps
+#### Sanabul Gel Quick Hand Wraps
 
 These wraps are a nice budget friendly alternative. They're still more expensive than your basic cloth wraps, but at only $10, they aren't much more expensive.
 
