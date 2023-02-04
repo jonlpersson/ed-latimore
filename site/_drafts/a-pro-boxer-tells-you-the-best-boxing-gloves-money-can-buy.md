@@ -294,6 +294,8 @@ Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it
 
 #### Sanabul Gel Quick Hand Wraps
 
+![Sanubal Gel Wraps](/assets/images/drafts/sanubal-pair-gel-wraps.jpg "A nice cheaper alternative to Everlast Gel Wraps"){: width="450" height="338"}
+
 These wraps are a nice budget friendly alternative. They're still more expensive than your basic cloth wraps, but at only $10, they aren't much more expensive.
 
 These wraps are just ok. They provide less cushion around the knuckles, but it's still protect. Also, there is no protection around the thumb. You don't typically have that part of your hand making contact, but it is a nice feature of the Everlast Gel Wraps.
