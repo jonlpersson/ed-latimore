@@ -93,7 +93,7 @@ Real leather boxing gloves are the gold standard because they’re long-lasting,
 
 #### Polyurethane leather (synthetic leather)
 
-![](/assets/images/drafts/pu-leather-boxing-glove.jpeg){: width="500" height="500"}
+![Polyurethane leather gloves](/assets/images/drafts/pu-leather-boxing-glove.jpeg "Most boxing gloves in the $100-200 range are made of PU Leather."){: width="500" height="500"}
 
 Polyurethane (PU) is the most common synthetic material that MMA and boxing gloves are made of these days. It's a cost-effective alternative to leather, has superior durability to vinyl, and provides an excellent combination of flexibility, comfort, and aesthetics.
 
