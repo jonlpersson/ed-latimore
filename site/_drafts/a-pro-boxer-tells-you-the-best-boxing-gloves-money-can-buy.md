@@ -22,6 +22,8 @@ I put this list together assuming that you take your training seriously. Otherwi
 
 I’m not saying that you have to become a professional boxer. I just don’t see any difference between beginner’s boxing gloves and training gloves that experienced boxers practice in.
 
+## High-quality boxing gear is a non-negotiable
+
 If you take up the sport of boxing, you should have high-quality gear. This means owning some excellent gloves. With this in mind and from looking over other articles (not written by professional boxers, mind you), this article is organized as follows:
 
 I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price. I've said it already, but I’ll repeat it because I feel that it’s THAT important:
@@ -178,6 +180,8 @@ You don’t have to take my recommendations, but I strongly recommend only takin
 
 #### **Winning Pro Gloves**
 
+**![Winning Sparring Gloves](/assets/images/drafts/winning-sparring-gloves.jpeg "The softest and most protective gloves you can get your hands into"){: width="399" height="378"}**
+
 One of the things that motivated me to write this article is that there wasn’t a single article that recommended Winning boxing gloves.
 
 If you aren’t serious about your training, this doesn’t mean anything. But if you’re a real fighter or someone who takes pride in the equipment he has for the sport, this should strike you as odd.
@@ -185,6 +189,8 @@ If you aren’t serious about your training, this doesn’t mean anything. But i
 Winning boxing products are hands down, the best in the business. They’re so good that each Winning Glove is authenticated. The reason why other sites don’t mention them is that Winning doesn’t do affiliates.
 
 Hell, they don’t even do partnerships or endorsements with famous boxers. They simply produce a superior product and have let quality and word of mouth speak for themselves. But they are, by far, the most expensive glove on the market. The cheapest place to get them is from the Winning’s site, and they start in the $300 range. No other glove will crack the $300 range.
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzYW5kYm94PSJhbGxvdy1wb3B1cHMgYWxsb3ctc2NyaXB0cyBhbGxvdy1tb2RhbHMgYWxsb3ctZm9ybXMgYWxsb3ctc2FtZS1vcmlnaW4iIHN0eWxlPSJ3aWR0aDoxMjBweDsgaGVpZ2h0OjI0MHB4OyIgbWFyZ2lud2lkdGg9IjAiIG1hcmdpbmhlaWdodD0iMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIHNyYz0iLy93cy1uYS5hbWF6b24tYWRzeXN0ZW0uY29tL3dpZGdldHMvcT9TZXJ2aWNlVmVyc2lvbj0yMDA3MDgyMiZPbmVKUz0xJk9wZXJhdGlvbj1HZXRBZEh0bWwmTWFya2V0UGxhY2U9VVMmc291cmNlPXNzJnJlZj1hc19zc19saV90aWwmYWRfdHlwZT1wcm9kdWN0X2xpbmsmdHJhY2tpbmdfaWQ9aHR0cGVkd2FyZGMwNy0yMCZsYW5ndWFnZT1lbl9VUyZtYXJrZXRwbGFjZT1hbWF6b24mcmVnaW9uPVVTJnBsYWNlbWVudD1CMDBDVE0zQ0VTJmFzaW5zPUIwMENUTTNDRVMmbGlua0lkPTZiYTgzNmVkODhhYTJiNWEzZjI2YWM3NGI2MjdlNGVhJnNob3dfYm9yZGVyPXRydWUmbGlua19vcGVuc19pbl9uZXdfd2luZG93PXRydWUiPjwvaWZyYW1lPg=="><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00CTM3CES&amp;asins=B00CTM3CES&amp;linkId=6ba836ed88aa2b5a3f26ac74b627e4ea&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
 
 ***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because***
 
@@ -229,15 +235,11 @@ The wrist feels a little on the flimsy side, at least compared to the Rival RS 1
 
 #### Winning Velcro Gloves
 
-![Winning Velcro Bag Gloves](/assets/images/drafts/winning-velcro-gloves.jpeg "The legendary winning bag gloves"){: width="399" height="352"}
-
 I’ve already waxed poetically about the quality of the Winning boxing products. Their velcro bag gloves are no different. If you have the money and are willing to spend it, you should absolutely invest in these gloves.
 
 The only potential problem you’ll face with Winning Gear is getting it stolen. I’ve seen more than a few guys have their Winning gear disappear if they got careless with it at a fight or visiting another gym. However, I’m going to assume that if you spend $300 on a piece of boxing equipment, you’ll keep a close watch over it.
 
 With that said, all I can see that winning is that they’re the best and you should get them if you can. I don’t care I don’t get any affiliate commission. I couldn’t do you the dishonor of telling you anything different.
-
-[Get them from Winning for the best price](https://store.winning-usa.com/product16.html)
 
 #### Rival RB2 Super Bag Gloves
 
