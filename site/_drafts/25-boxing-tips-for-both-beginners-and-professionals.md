@@ -74,7 +74,21 @@ Boxing training makes little allowance for weight training for the following rea
 4. **Doesn't actually help anything.** Boxers will lift because they believe that it makes them more powerful. If a fighter lacks power, lifting weights won’t make a difference. He needs to take that time to improve his skills and ability to deliver shots.<br><br>The general boxing community thinks punchers are born rather than made, but the reality is that anyone can learn to deliver with world-class power by learning how to punch effectively. Lifting weights won’t help.&nbsp;
 5. **Better ways to use the time.** Time spent lifting weights can almost ALWAYS be used on some skill element. Whether it be film study, shadowboxing, pad work, footwork, or technique training, there is an element that a fighter is deficient in. The time spent on one of those elements during your training session will always yield a better routine on time invested than lifting weights.
 
-Here is the best and fastest way to get into boxing shape. If you follow this simple boxing workout, you’ll be in better shape than nearly every boxer, regardless of weight class. When I followed this routine (combined with the running routine I gave above), I never got tired during a fight, regardless of how hard I pushed myself.5x50 push-ups5x50 sit-ups5x50 bodyweight lunges10-20 pull-ups30 minutes of shadowboxing6-8 rounds of high-intensity work on the heavy bag20 minutes of jumping ropeIf you do this routine 3-4 times per week, it will be difficult for you to become exhausted during a fight.
+### The fastest way to get into boxing shape
+
+If you follow this simple boxing workout, you’ll be in better shape than nearly every boxer, regardless of weight class.
+
+When I followed this routine (combined with the running routine I gave above), I never got tired during a fight, regardless of how hard I pushed myself.
+
+* 5x50 push-ups
+* 5x50 sit-ups
+* 5x50 bodyweight lunges
+* 10-20 pull-ups
+* 30 minutes of shadowboxing
+* 6-8 rounds of high-intensity work on the heavy bag
+* 20 minutes of jumping rope
+
+If you do this routine 3-4 times per week, it will be difficult for you to become exhausted during a fight.
 
 1. Mobility and flexibility are often overcomplicated and underrated. You don’t need a crazy system or spend years trying to do a split. You just need shoulder mobility, the ability to rotate your core, and have strength through a wide range of hip motions. Every other sport recognizes the importance of hip mobility and core flexibility, but boxing is woefully behind in this (and many other) regards. Do not neglect this. It will be impossible for you to maximize throw powerful punches if you do not have strength through these ranges of motion.
 2. While the skill aspect of footwork is often taught well enough, I’ve rarely seen gyms emphasize the athletic components. Aside from understanding where to place your feet for optimal positioning, good footwork is comprised of agility, balance, and quickness. I believe that boxers don’t work on these, largely because they have no idea how to improve these traits because coaches have no idea how to. This is another way that boxing is woefully behind other sports.
