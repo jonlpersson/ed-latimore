@@ -165,6 +165,8 @@ While it’s important to be in shape, boxing training combined with the workout
 
 ### 11) Your coach should study film with you
 
+![Study the fights of the greats](/assets/images/drafts/studying-boxing-film.png "Study the fights of the greats"){: width="500" height="298"}
+
 If a coach did this one thing, he’d probably figure out a lot of techniques, tactics, and strategies for fighting that the great fighters used to dominate in a much more competitive era.
 
 However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
