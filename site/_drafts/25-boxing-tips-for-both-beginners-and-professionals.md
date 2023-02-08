@@ -241,6 +241,8 @@ If you ever turn your head away from what you’re aiming to hit, you have no id
 
 ### 23) How to spar
 
+![When you should spar?](/assets/images/drafts/should-you-spar.jpg "This handy chart for when you should spar"){: width="500" height="508"}
+
 Unless you’re getting ready for a professional fight, sparring is school. It’s not a place for you to try and kill your opponent. It’s where you practice your craft in a live environment.
 
 Speed bags and heavybags don’t hit back and shadowboxing is against an opponent that only exists in your imagination, but sparring is where you pull it all together. No one gets anything for winning sparring.
