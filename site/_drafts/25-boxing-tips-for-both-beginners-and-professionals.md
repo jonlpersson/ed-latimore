@@ -215,7 +215,7 @@ The arms have almost nothing to do with it. I tell fighters all the time that bo
 
 ### 18) Punch with your entire body
 
-![The shoulder turn on a level plane tells you that his body is into the punch](/assets/images/drafts/punching-bag-training.jpeg "The shoulder turn on a level plane tells you that his body is into the punch"){: width="500" height="333"}
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvRXN0ZWVtZWRSZWFkeUpvaG5kb3J5IiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNTI0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2VzdGVlbWVkcmVhZHlqb2huZG9yeSI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/EsteemedReadyJohndory" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/esteemedreadyjohndory">via Gfycat</a></p></div>
 
 When throwing punches, learn to put your back into the punch, rotate your core, and keep your hips level by using muscular tension to hold your knees level.
 
