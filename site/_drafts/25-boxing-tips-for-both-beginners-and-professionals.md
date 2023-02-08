@@ -143,6 +143,32 @@ If your coach has not fought to at least an intermediate amateur level, then his
 
 My advice is not meant for the club fighter, nor is it meant to disparage the many men who coach at the local boxing gym to keep kids out of the street. Keep these things in mind when evaluating everything said in this article.
 
-1. Some fighters would have success regardless of who was in their corner. Sometimes a coach gets lucky and builds his entire career off that. They can’t coach their way out of a paper bag, and if you aren’t a natural talent, you may give up because you aren’t learning anything, but you also aren’t being taught a thing either. Or worse, you’ll be taught the wrong things that are keeping you behind.
-2. Tom Yankello always used to tell me “Telling ain’t teaching.” Bernard Hopkins has famously said “Boxing is 99% trainers and 1% teachers.” Both of these sentiments reflect a significant problem in boxing.There are two reasons why someone is a bad teacher: either they don’t know the subject or they don’t know how to teach it to another person. My experience has been that most boxing coaches don’t really know anything about boxing. They don’t know how to teach the strategic, tactical, or physical elements of the sport.A telltale sign that your boxing coach doesn’t know much about boxing is that he focuses on conditioning over skills development. While it’s extremely important to be in shape, boxing training combined with the workout routine I gave above takes care 90% of conditioning requirements.
-3. Your coach should watch film with you. If a coach did this one thing, he’d probably figure out a lot of techniques, tactics, and strategies for fighting that the great fighters used to dominate in a much more competitive era. However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
+### 9) Beware of this common trap
+
+Some fighters would have been successful regardless of who was in their corner.
+
+Sometimes a coach gets lucky and builds his entire career off that. They can’t coach their way out of a paper bag, and if you aren’t a natural talent, you may give up because you aren’t learning anything, but you also aren’t being taught a thing either.
+
+Or worse, you’ll be taught the wrong things that are keeping you behind.
+
+### 10) A good boxing coach is a teacher first
+
+Tom Yankello always used to tell me “Telling ain’t teaching.”
+
+Bernard Hopkins has famously said “Boxing is 99% trainers and 1% teachers.”
+
+Both of these sentiments reflect a significant problem in boxing. There are two reasons why someone is a bad teacher: either they don’t know the subject or they don’t know how to teach it to another person.
+
+My experience has been that most boxing coaches don’t really know anything about boxing. They don’t know how to teach the strategic, tactical, or physical elements of the sport. A telltale sign that your boxing coach doesn’t know much about boxing is that he focuses on conditioning over skills development.
+
+While it’s important to be in shape, boxing training combined with the workout routine I gave above takes care 90% of conditioning requirements. Over emphasis on that or sparring signifies a serious knowledge gap.&nbsp;
+
+### 11) Your coach should study film with you
+
+If a coach did this one thing, he’d probably figure out a lot of techniques, tactics, and strategies for fighting that the great fighters used to dominate in a much more competitive era.
+
+However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
+
+12) Don't forget that your coach is making a huge sacrifice
+
+Most fighters don't make any money. Coaches are paid a small percentage of an already small amount. Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively* volunteers.&nbsp;
