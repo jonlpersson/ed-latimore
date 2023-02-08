@@ -183,6 +183,8 @@ Do not disappoint them or waste your coach's time.&nbsp;&nbsp;
 
 ### 13) How to use the heavy bag
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvRWFnZXJBbGxDZXJvIiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNDA0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2VhZ2VyYWxsY2VybyI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/EagerAllCero" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="404"></iframe><p><a href="https://gfycat.com/eagerallcero">via Gfycat</a></p></div>
+
 The heavy bag is for conditioning and learning how to throw every punch with bad intentions. You need to push yourself to the max for the entire 3-minute round that you’re on the bag. Any other use is a waste.
 
 ### 14) How to hit mitts
