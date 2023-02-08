@@ -153,6 +153,8 @@ Or worse, you’ll be taught the wrong things that are keeping you behind.
 
 ### 10) A good boxing coach is a teacher first
 
+![Jamal Abdullah coaching Ed Latimore in Los Angeles](/assets/images/drafts/cornerinlosangeles.jpg "Jamal Abdullah coaching me in Los Angeles"){: width="500" height="333"}
+
 Tom Yankello always used to tell me “Telling ain’t teaching.”
 
 Bernard Hopkins has famously said “Boxing is 99% trainers and 1% teachers.”
