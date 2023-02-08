@@ -193,6 +193,8 @@ You can train this against the heavy bag, but for reasons related to Newton’s 
 
 ### 15) How to shadowbox
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSW5kb2xlbnRCaW9kZWdyYWRhYmxlQW1ldGh5c3RpbmVweXRob24iIGZyYW1lYm9yZGVyPSIwIiBzY3JvbGxpbmc9Im5vIiBhbGxvd2Z1bGxzY3JlZW4gd2lkdGg9IjY0MCIgaGVpZ2h0PSI1MjQiPjwvaWZyYW1lPjxwPiA8YSBocmVmPSJodHRwczovL2dmeWNhdC5jb20vaW5kb2xlbnRiaW9kZWdyYWRhYmxlYW1ldGh5c3RpbmVweXRob24iPnZpYSBHZnljYXQ8L2E+PC9wPg=="><iframe src="https://gfycat.com/ifr/IndolentBiodegradableAmethystinepython" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/indolentbiodegradableamethystinepython">via Gfycat</a></p></div>
+
 Shadowboxing is for working on your footwork, defensive maneuvers, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
 
 You need to see create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
