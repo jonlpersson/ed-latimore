@@ -115,3 +115,34 @@ Your center of gravity is the place on your body where, if your body were perfec
 Maintaining this balance not only ensures that the boxer is always in position to deliver maximum power, but also that he doesn't waist energy regaining balance.&nbsp;
 
 It's beyond the scope of this article to give you a complete breakdown on a balance training method. What I will tell you is that your general balance is composed of your vestibular, proprioceptive, and occular system. You'll also need a strong core and hip mobility.
+
+## How to find a good boxing gym and boxing coach
+
+As an amateur boxer, I had over 10 different coaches. At one point in time or the other, I was coached by
+
+* Tom Yankello
+* Manny Robles
+* Jamal Abdullah
+* John Hernandez Bray
+* Henry Tillman
+* Courage Tshabalala
+
+For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career. There, with the money they had, I was surrounded by an assortment of high-quality coaches. Tom Yankello was not part of the program, but he was the coach that got me in a position to get recruited by them, and he was my professional coach as well.
+
+Each of these coaches taught me something that added to my understanding of the sport, increased my skill level, made me a better teacher, and made me a better person. The following list is comprised of their best traits. It’s likely impossible to find all of these traits in one coach, but the more boxes they check, the better.
+
+### 8) Should your boxing coach have experience fighting?
+
+Your coach needs to have fought. Preferably to at least an intermediate amateur level (for all intents and purposes, let’s say he’s won a state-level tournament in at least a moderately competitive state or region of the country).
+
+Your coach doesn’t need to have been a top-level world championship boxer, but you can’t be effectively coached by someone who doesn’t even know what it’s like to fight at a competitive level.
+
+A coach has to mentally and emotionally prepare you for battle. That’s difficult to do if he’s never been in battles himself. Also, lacking in experience means that he'll lack sufficient recognition of and solution to tactical (how to properly throw and defend various punches) and strategic (ring generalship, game-planning, fight preparation, etc.) problems because he simply has never experienced them.
+
+If your coach has not fought to at least an intermediate amateur level, then his resume needs to reflect experience teaching and building multiple fighters. At this point, I need to make it clear that these points are for people serious about fighting and giving themselves the best chance of going far in the sport.
+
+My advice is not meant for the club fighter, nor is it meant to disparage the many men who coach at the local boxing gym to keep kids out of the street. Keep these things in mind when evaluating everything said in this article.
+
+1. Some fighters would have success regardless of who was in their corner. Sometimes a coach gets lucky and builds his entire career off that. They can’t coach their way out of a paper bag, and if you aren’t a natural talent, you may give up because you aren’t learning anything, but you also aren’t being taught a thing either. Or worse, you’ll be taught the wrong things that are keeping you behind.
+2. Tom Yankello always used to tell me “Telling ain’t teaching.” Bernard Hopkins has famously said “Boxing is 99% trainers and 1% teachers.” Both of these sentiments reflect a significant problem in boxing.There are two reasons why someone is a bad teacher: either they don’t know the subject or they don’t know how to teach it to another person. My experience has been that most boxing coaches don’t really know anything about boxing. They don’t know how to teach the strategic, tactical, or physical elements of the sport.A telltale sign that your boxing coach doesn’t know much about boxing is that he focuses on conditioning over skills development. While it’s extremely important to be in shape, boxing training combined with the workout routine I gave above takes care 90% of conditioning requirements.
+3. Your coach should watch film with you. If a coach did this one thing, he’d probably figure out a lot of techniques, tactics, and strategies for fighting that the great fighters used to dominate in a much more competitive era. However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
