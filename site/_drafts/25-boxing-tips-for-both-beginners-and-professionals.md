@@ -92,7 +92,20 @@ If you do this routine 3-4 times per week, it will be difficult for you to becom
 
 ### 5) Mobility and flexibility are overcomplicated and underrated
 
-You don’t need a crazy system or spend years trying to do a split. You just need shoulder mobility, the ability to rotate your core, and have strength through a wide range of hip motions. Every other sport recognizes the importance of hip mobility and core flexibility, but boxing is woefully behind in this (and many other) regards. Do not neglect this. It will be impossible for you to maximize throw powerful punches if you do not have strength through these ranges of motion.
+You don’t need a crazy system or spend years trying to do a split.
 
-1. While the skill aspect of footwork is often taught well enough, I’ve rarely seen gyms emphasize the athletic components. Aside from understanding where to place your feet for optimal positioning, good footwork is comprised of agility, balance, and quickness. I believe that boxers don’t work on these, largely because they have no idea how to improve these traits because coaches have no idea how to. This is another way that boxing is woefully behind other sports.
-2. In recovering from various concussions and post-concussive syndrome, I learned a lot about the importance of balance. Most people don’t understand what balance means in terms of athletic performance. In terms of
+You just need shoulder mobility, the ability to rotate your core, and have strength through a wide range of hip motions.
+
+Every other sport recognizes the importance of hip mobility and core flexibility, but boxing is woefully behind in this (and many other) regards. Do not neglect this. It will be impossible for you to maximize throw powerful punches if you do not have strength through these ranges of motion.
+
+### 6) Footwork has an athletic component
+
+While the skill aspect of footwork is often taught well enough, I’ve rarely seen gyms emphasize the athletic components.
+
+Aside from understanding where to place your feet for optimal positioning, good footwork is comprised of agility, balance, and quickness. I believe that boxers don’t work on these, largely because they have no idea how to improve these traits because coaches have no idea how to.
+
+This is another way that boxing is woefully behind other sports.
+
+7) Train your balance
+
+In recovering from various concussions and post-concussive syndrome, I learned a lot about the importance of balance. Most people don’t understand what balance means in terms of athletic performance. Athletically speaking, balance is the ability to maintain your center of gravity over your base of support, specifically while in motion.
