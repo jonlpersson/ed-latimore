@@ -235,6 +235,8 @@ Athleticism and brawling power help, but you must rely on your mind and creativi
 
 ### 22) You can only hit what you can see
 
+![Looking away from punch](/assets/images/drafts/jab-to-the-head-small.jpeg "The guy on the left got countered and didn't see it because he was looking away"){: width="400" height="230"}
+
 Never look away from your target.
 
 If you ever turn your head away from what you’re aiming to hit, you have no idea if it’s moved at the last second. You might be able to get away with this bad habit on the heavy bag.
