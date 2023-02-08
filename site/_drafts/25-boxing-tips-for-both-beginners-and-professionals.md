@@ -175,7 +175,7 @@ However, most would be boxing coaches don’t even watch the old fights, let alo
 
 ### 12) Don't forget that your coach is making a huge sacrifice
 
-![Coach Tom Yankello and Ed Latimore after winning 2011 Pennsylvania Golden Gloves](/assets/images/drafts/winning-2011-pennsylvania-golden-gloves-201.jpeg "Me and Coach Tom Yankello after winning 2011 PA Golden Gloves"){: width="500" height="375"}
+![Tom Yankello and Ed Latimore after his first victory](/assets/images/drafts/tom-yankello-and-ed-latimore-after-victory.jpeg "Tom Yankello and I after my first victory"){: width="700" height="394"}
 
 Most fighters don't make any money. Coaches are paid a small percentage of an already small amount. Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively*&nbsp;volunteers.&nbsp;
 
