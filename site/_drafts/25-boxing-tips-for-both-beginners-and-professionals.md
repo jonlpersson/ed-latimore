@@ -223,6 +223,8 @@ Constant head movement is unnatural and must be trained. Even when you think you
 
 ### 20) You can’t separate offense and defense
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvR3JhbnVsYXJUaG91Z2h0ZnVsQm9iY2F0IiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNDA0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2dyYW51bGFydGhvdWdodGZ1bGJvYmNhdCI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/GranularThoughtfulBobcat" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="404"></iframe><p><a href="https://gfycat.com/granularthoughtfulbobcat">via Gfycat</a></p></div>
+
 A properly thrown punch defends you, and a well-executed defensive movement puts you into the optimal position to take advantage of an opening or strike back with a counter punch.If you only punch, you’ll wear yourself and leave yourself open for a counterattack. If you only defend, you’ll discover that there is no such thing that there is no way to completely defend yourself.
 
 Offense and defense are dynamically intertwined and wholly interdependent. The sooner you stop thinking of them as two different skills to learn, the sooner your capabilities at both will increase.
