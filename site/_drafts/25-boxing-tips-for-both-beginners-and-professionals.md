@@ -213,7 +213,11 @@ The arms have almost nothing to do with it. I tell fighters all the time that bo
 
 ### 18) Punch with your entire body
 
-When throwing punches, learn to put your back into the punch, rotate your core, and keep your hips level by using muscular tension to hold your knees level. Doing this with your weight on your back foot and pushing into the floor with your front foot is the secret to incredible punching power.
+![The shoulder turn on a level plane tells you that his body is into the punch](/assets/images/drafts/punching-bag-training.jpeg "The shoulder turn on a level plane tells you that his body is into the punch"){: width="500" height="333"}
+
+When throwing punches, learn to put your back into the punch, rotate your core, and keep your hips level by using muscular tension to hold your knees level.
+
+Doing this with your weight on your back foot and pushing into the floor with your front foot is the secret to incredible punching power.
 
 ### 19) Don't stop moving your head
 
