@@ -217,6 +217,8 @@ When throwing punches, learn to put your back into the punch, rotate your core, 
 
 ### 19) Don't stop moving your head
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSWxsdXN0cmlvdXNGcmlnaWRBbWVyaWNhbnF1YXJ0ZXJob3JzZSIgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjY4NCI+PC9pZnJhbWU+PHA+IDxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pbGx1c3RyaW91c2ZyaWdpZGFtZXJpY2FucXVhcnRlcmhvcnNlLWJveGluZyI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/IllustriousFrigidAmericanquarterhorse" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="684"></iframe><p><a href="https://gfycat.com/illustriousfrigidamericanquarterhorse-boxing">via Gfycat</a></p></div>
+
 Constant head movement is unnatural and must be trained. Even when you think you are moving your head, you’re not moving it. So always practice it, even when you’re just using the punching bag.
 
 ## General boxing tips
