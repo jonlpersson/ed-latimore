@@ -106,6 +106,12 @@ Aside from understanding where to place your feet for optimal positioning, good 
 
 This is another way that boxing is woefully behind other sports.
 
-7) Train your balance
+### 7) Train your balance
 
-In recovering from various concussions and post-concussive syndrome, I learned a lot about the importance of balance. Most people don’t understand what balance means in terms of athletic performance. Athletically speaking, balance is the ability to maintain your center of gravity over your base of support, specifically while in motion.
+In recovering from various concussions and post-concussive syndrome, I learned a lot about the importance of balance. Most people don’t understand what balance means in terms of athletic performance. Athletically speaking, balance is the ability to maintain your center of gravity directly over your base of support, specifically while in motion.
+
+Your center of gravity is the place on your body where, if your body were perfectly rigid, where you'd balance. Your base of support is the point and position that your body makes contact with the ground. An optimial boxing stance, with the hips lowered and hinged and weight on the back foot, attemps to make the boxer as balanced as possible.
+
+Maintaining this balance not only ensures that the boxer is always in position to deliver maximum power, but also that he doesn't waist energy regaining balance.&nbsp;
+
+It's beyond the scope of this article to give you a complete breakdown on a balance training method. What I will tell you is that your general balance is composed of your vestibular, proprioceptive, and occular system. You'll also need a strong core and hip mobility.
