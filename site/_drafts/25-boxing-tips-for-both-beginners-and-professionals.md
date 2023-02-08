@@ -169,6 +169,10 @@ If a coach did this one thing, he’d probably figure out a lot of techniques, t
 
 However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
 
-12) Don't forget that your coach is making a huge sacrifice
+### 12) Don't forget that your coach is making a huge sacrifice
 
-Most fighters don't make any money. Coaches are paid a small percentage of an already small amount. Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively* volunteers.&nbsp;
+Most fighters don't make any money. Coaches are paid a small percentage of an already small amount. Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively*&nbsp;volunteers.&nbsp;
+
+Most fighters will never see a significant payday. You probably won't either. That's why the most important thing you can do to repay your coach is to be a dedicated student of the game.&nbsp;
+
+Work hard, be fearless, and stay in shape. Stay out of trouble with the law and always carry yourself as if you are a representative for your community and an extension of the people who put their faith in you. But virtue of who you are and what you do, people will look up to you. Do not disappoint them or waste your coach's time.&nbsp;&nbsp;
