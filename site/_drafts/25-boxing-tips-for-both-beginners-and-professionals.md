@@ -271,6 +271,8 @@ Speed bags and heavybags don’t hit back and shadowboxing is against an opponen
 
 ### 24) Get your own gear
 
+![Winning headgear](/assets/images/drafts/boxing-headgear-winning.jpeg "This head gear is top the line and costs over $200. Definitely not letting anyone borrow it."){: width="500" height="500"}
+
 This tip is more for beginner boxers.
 
 You need your own gear. No one is expecting to have everything the first time you come in the gym. but you want to have your own boxing gear before at least your first amateur fight.
