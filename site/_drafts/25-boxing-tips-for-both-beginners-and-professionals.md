@@ -8,7 +8,7 @@ tags:
 categories:
   - boxing-lessons
 description:
-image:
+image: /assets/images/drafts/boxing-against-cam.jpeg
 ---
 These are a collection of tips and I ideas I put together from my 12-years of boxing experience as both an amateur and professional. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.&nbsp;
 
