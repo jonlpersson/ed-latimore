@@ -301,11 +301,11 @@ You need your own gear. No one is expecting to have everything the first time yo
 
 With that said, I understand this may be difficult to do. In order of importance, here is the gear you need to get.
 
-* **Mouthpiece.** Preferably a custom-fit mouth guard that uses putty molds of your teeth. However, in the beginning, any generic mouthpiece from a sporting goods store will suffice.
+* **Mouthpiece.** Preferably a custom-fit mouth guard that uses putty molds of your teeth. However, in the beginning, any generic mouthpiece from a sporting goods store will suffice.<br><br>***Much like Winning is for boxing equipment, The Mouthpiece Guy is the company for mouthguards. Used by all the top boxers. No affiliate commission. Just a solid product. [Get it here.&nbsp;](https://www.mouthpieceguy.com/)***
 * **Boxing shoes.** This took second place to the mouthpiece because this is the only other piece of gear that you can’t really borrow. While there are no rules against boxing in your tennis shoes, boxing shoes are specifically made for boxing. Wrestling shoes also serve the same purpose.
 * **Hand wraps.** While there will be community wraps at most gyms, this is a very easy way to catch an infection. Very rarely will the community wraps be washed. This is also the least expensive item on the list even if you got fancy gel wraps.
 * **Headgear.** From a safety perspective, this should be second behind a mouthpiece. A decent headgear is also not particularly expensive. This is why most gyms tend to have a few that you can use, but you’ll definitely want to get your own, as it’s just more sanitary.
-* **Boxing gloves**. I may seem weird that these came last, but I’ve never been to a boxing gym that didn’t have a few pairs of gloves. Furthermore, boxing gloves are supplied to you for both amateur and professional fights. When you do purchase some gloves, here’s my list of the best ones at various price points.
+* **Boxing gloves**. I may seem weird that these came last, but I’ve never been to a boxing gym that didn’t have a few pairs of gloves. Furthermore, boxing gloves are supplied to you for both amateur and professional fights. When you do purchase some gloves, here’s my list of the best ones at various price points.<br><br>***[Here are my recommendations on the best boxing gloves to get](/pro-boxer-best-boxing-glove-recommendation/)***
 * **Groin protector.** Ok, so this piece of equipment is extremely important, but you can usually get one off of someone. As a heavyweight, I occasionally had problems procuring one, which is why I just bought my own. They don’t need to be fancy. They just have to protect your balls. Hip protection is nice but optional until you get into competition.
 
 ### 25) Boxing is not self-defense
