@@ -141,7 +141,7 @@ As an amateur boxer, I had over 10 different coaches. At one point in time or th
 * Jamal Abdullah.&nbsp;
 * [John Hernandez Bray.](https://www.myboxingfans.com/2010/07/california-boxing-hall-of-fame-2/) 2018 California Boxing Hall of inductee.
 * [Henry Tillman.](https://en.wikipedia.org/wiki/Henry_Tillman) 1984 Heavyweight Olympic Gold Medalist and co trainer of former IBF Heavyweight champion Charles Martin.
-* Courage Tshabalala
+* [Courage Tshabalala.](https://www.boxing247.com/boxing-news/courage-tshabalala-looks-back-on-his-career/164890) Top South African amateur with 26-4 professional record.
 
 For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career.
 
