@@ -52,6 +52,8 @@ The best device to measure for measuring your heart rate is a pulse oximeter. Th
 
 ### 2) Boxers need to incorporate sprints into their workout routine
 
+![Sprinting makes you jacked](/assets/images/drafts/sprinters.jpeg "Sprinting makes you jacked"){: width="500" height="366"}
+
 You need to sprint.
 
 Most boxers I’ve met do not incorporate sprint training into their workouts and, as a result, are leaving several benefits on the table.
