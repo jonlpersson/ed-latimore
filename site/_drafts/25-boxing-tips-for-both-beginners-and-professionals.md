@@ -312,4 +312,6 @@ With that said, I understand this may be difficult to do. In order of importance
 
 Once you really learn how to hit someone, you could kill them. However, what’s for more likely is that you’ll overestimate how powerful you are, not stop the guy, and he’ll probably pull out a gun or something.
 
-Don’t get into fights because now that you can fight, the stakes are higher.
+Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn't mean that you're bulletproof.&nbsp;
+
+***Read: [How to avoid a streetfight and what to do if you can't](/how-to-win-a-street-fight/)***
