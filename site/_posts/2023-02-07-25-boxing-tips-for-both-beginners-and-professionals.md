@@ -205,7 +205,9 @@ Most fighters will never see a significant payday. You probably won't either. Th
 
 Work hard, be fearless, and stay in shape. Stay out of trouble with the law and always carry yourself as if you are a representative for your community and an extension of the people who put their faith in you. But virtue of who you are and what you do, people will look up to you.
 
-Do not disappoint them or waste your coach's time.&nbsp;&nbsp;
+Do not disappoint them or waste your coach's time.&nbsp;
+
+***Read: [48 life lessons from boxing&nbsp;](/how-to-think-like-a-professional-fighter/)***
 
 ## Learning how to fight
 
