@@ -135,6 +135,8 @@ Each of these coaches taught me something that added to my understanding of the 
 
 ### 8) Should your boxing coach have experience fighting?
 
+![Tom Yankello wrapping Ed Latimore's hands](/assets/images/drafts/tom-wrapping-my-hands.jpeg "Tom Yankello wrapping my hands before my 2nd pro fight"){: width="500" height="333"}
+
 Your coach needs to have fought. Preferably to at least an intermediate amateur level (for all intents and purposes, let’s say he’s won a state-level tournament in at least a moderately competitive state or region of the country).
 
 Your coach doesn’t need to have been a top-level world championship boxer, but you can’t be effectively coached by someone who doesn’t even know what it’s like to fight at a competitive level.
