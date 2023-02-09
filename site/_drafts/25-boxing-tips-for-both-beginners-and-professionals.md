@@ -140,7 +140,7 @@ As an amateur boxer, I had over 10 different coaches. At one point in time or th
 * [Manny Robles.](https://boxrec.com/wiki/index.php/Manny_Robles_&#40;Trainer&#41;) Trained world champion Andy Ruiz Jr. and 2012 Heavyweight Olympian Dominic Breazeale.
 * Jamal Abdullah.&nbsp;
 * [John Hernandez Bray.](https://www.myboxingfans.com/2010/07/california-boxing-hall-of-fame-2/) 2018 California Boxing Hall of inductee.
-* Henry Tillman.&nbsp;
+* [Henry Tillman.](https://en.wikipedia.org/wiki/Henry_Tillman) 1984 Heavyweight Olympic Gold Medalist and co trainer of former IBF Heavyweight champion Charles Martin.
 * Courage Tshabalala
 
 For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career.
