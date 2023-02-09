@@ -62,6 +62,8 @@ Sprinting, especially up a hill, helps you improve the amount of energy you can 
 
 ### 3) Should boxers lift weights?
 
+![Lifting weights for boxing](/assets/images/drafts/ed-latimore-lifting-weights.jpg "Lifting weights for boxing"){: width="500" height="558"}
+
 In theory, weight training is an excellent idea. In application, it almost always negates a fighter’s abilities.
 
 In terms of health, fitness, and athleticism, there is no downside to weight training. I don’t want people to think I’m saying that boxing is somehow immune to the myriad benefits of weight training.
