@@ -145,6 +145,6 @@ Also check out my course [Dick Detox: The Ultimate Guide to Quitting Porn.](http
 
 [^3]: Hilton, Donald L, and Clark Watts. “Pornography addiction: A neuroscience perspective.” Surgical neurology international vol. 2 19. 21 Feb. 2011, doi:10.4103/2152-7806.76977 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/) (accessed January 16, 2023)
 
-[4:] Solano, I., Eaton, N. R., & O'Leary, K. D. (2020). Pornography Consumption, Modality and Function in a Large Internet Sample. Journal of sex research, 57(1), 92–103. [https://doi.org/10.1080/00224499.2018.1532488](https://doi.org/10.1080/00224499.2018.1532488) (accessed Jan 2023)
+[^4]: Solano, I., Eaton, N. R., & O'Leary, K. D. (2020). Pornography Consumption, Modality and Function in a Large Internet Sample. Journal of sex research, 57(1), 92–103. [https://doi.org/10.1080/00224499.2018.1532488](https://doi.org/10.1080/00224499.2018.1532488) (accessed Jan 2023)
 
-[5:] Vedantam, Shankar._NPR.org: _Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017 [https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships](https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships) (accessed Jan 2023)
+[^5]: Vedantam, Shankar._NPR.org: _Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017 [https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships](https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships) (accessed Jan 2023)
