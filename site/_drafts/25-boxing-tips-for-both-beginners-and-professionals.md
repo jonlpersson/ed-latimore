@@ -76,6 +76,8 @@ Boxing training makes little allowance for weight training for the following rea
 
 ### 4) The fastest way to get into boxing shape
 
+![Getting into boxing shape](/assets/images/drafts/boxing-in-shape.jpeg "Getting into boxing shape"){: width="500" height="625"}
+
 If you follow this simple boxing workout, you’ll be in better shape than nearly every boxer, regardless of weight class.
 
 When I followed this routine (combined with the running routine I gave above), I never got tired during a fight, regardless of how hard I pushed myself.
