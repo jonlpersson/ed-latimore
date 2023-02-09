@@ -98,6 +98,8 @@ When I followed this routine (combined with the running routine I gave above), I
 
 If you do this routine 3-4 times per week, it will be difficult for you to become exhausted during a fight.
 
+***Read more about how I trained for fights here—&gt;[What it's like training for a professional boxing match](/boxing-training/)***
+
 ### 5) Mobility and flexibility are overcomplicated and underrated
 
 ![Flexibility and mobility for boxing](/assets/images/drafts/flexibility-and-mobility.jpeg "Me warning for sparring"){: width="527" height="564"}
