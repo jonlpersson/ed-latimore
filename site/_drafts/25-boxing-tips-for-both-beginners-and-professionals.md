@@ -7,7 +7,9 @@ tags:
   - boxing-lessons
 categories:
   - boxing-lessons
-description:
+description: >-
+  This article is my collection of suggestions for anyone who wants to become a
+  better boxer. The 25 tips are broken down into four categories.
 image: /assets/images/drafts/boxing-against-cam.jpeg
 ---
 These are a collection of tips and I ideas I put together from my 12-years of boxing experience as both an amateur and professional. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.&nbsp;
