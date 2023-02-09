@@ -139,9 +139,13 @@ As an amateur boxer, I had over 10 different coaches. At one point in time or th
 * Henry Tillman
 * Courage Tshabalala
 
-For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career. There, with the money they had, I was surrounded by an assortment of high-quality coaches. Tom Yankello was not part of the program, but he was the coach that got me in a position to get recruited by them, and he was my professional coach as well.
+For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career.
+
+There, with the money they had, I was surrounded by an assortment of high-quality coaches. Tom Yankello was not part of the program, but he was the coach that got me in a position to get recruited by them, and he was my professional coach as well.
 
 Each of these coaches taught me something that added to my understanding of the sport, increased my skill level, made me a better teacher, and made me a better person. The following list is comprised of their best traits. It’s likely impossible to find all of these traits in one coach, but the more boxes they check, the better.
+
+***For further reading, [click here learn how to get into amateur and professional boxing](/how-to-get-into-boxing/)***
 
 ### 8) Should your boxing coach have experience fighting?
 
