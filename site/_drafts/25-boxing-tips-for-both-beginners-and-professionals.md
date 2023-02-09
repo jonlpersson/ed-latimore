@@ -136,11 +136,11 @@ It's beyond the scope of this article to give you a complete breakdown on a bala
 
 As an amateur boxer, I had over 10 different coaches. At one point in time or the other, I was coached by
 
-* Tom Yankello
-* Manny Robles
-* Jamal Abdullah
-* John Hernandez Bray
-* Henry Tillman
+* Tom Yankello. 2022 Pennsylvania Boxing Hall of Fame inductee.&nbsp;
+* Manny Robles. Trained world champion Andy Ruiz Jr. and 2012 Heavyweight Olympian Dominic Breazeale.
+* Jamal Abdullah.&nbsp;
+* John Hernandez Bray. 2018 California Boxing Hall of inductee.
+* Henry Tillman.&nbsp;
 * Courage Tshabalala
 
 For any skeptics of my experience with so many coaches, the reason this happened is because of the unique circumstance of my training. I managed to get recruited to All-American Heavyweights during the final 2 years of my amateur career.
