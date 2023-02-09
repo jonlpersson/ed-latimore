@@ -10,7 +10,7 @@ categories:
 description: >-
   This article is my collection of suggestions for anyone who wants to become a
   better boxer. The 25 tips are broken down into four categories.
-image: /assets/images/drafts/boxing-against-cam.jpeg
+image: /assets/images/drafts/latimore-doing-boxing.jpeg
 ---
 These are a collection of tips and I ideas I put together from my 12-years of boxing experience as both an amateur and professional. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.&nbsp;
 
@@ -21,6 +21,8 @@ This article is my collection of suggestions for anyone who wants to become a be
 This post is merely guidance for how you should approach the aspects of your training. You can't learn how to box by reading about it, but if you are already training, you can quickly improve.
 
 I know this because when I started fighting, I was awkward and clumsy. I went on to capture a amateur national title and achieve a peak rating of \#4 by USA boxing in 2011.&nbsp;
+
+![Ed Latimore boxing Cam Awesome](/assets/images/drafts/boxing-against-cam-1.jpeg "Me Boxing Cam Awesome in Ringside National Tournament"){: width="618" height="411"}
 
 ## How to get in shape for boxing
 
