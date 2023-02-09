@@ -92,6 +92,8 @@ If you do this routine 3-4 times per week, it will be difficult for you to becom
 
 ### 5) Mobility and flexibility are overcomplicated and underrated
 
+![Flexibility and mobility for boxing](/assets/images/drafts/flexibility-and-mobility.jpeg "Me warning for sparring"){: width="527" height="564"}
+
 You don’t need a crazy system or spend years trying to do a split.
 
 You just need shoulder mobility, the ability to rotate your core, and have strength through a wide range of hip motions.
