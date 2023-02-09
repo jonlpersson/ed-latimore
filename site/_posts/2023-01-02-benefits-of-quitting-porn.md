@@ -37,7 +37,7 @@ A positive effect of quitting porn is an improved self-image, less social anxiet
 
 ## Honor your time and attention
 
-No loss should be more regrettable to us than losing our time, for it’s irretrievable. - Zeno
+> No loss should be more regrettable to us than losing our time, for it’s irretrievable. - Zeno
 
 Giving up your porn habit requires rerouting your time and energy to other things. Things like building yourself into a better man, [learning a skill](https://edlatimore.com/how-to-build-confidence/), building a business, etc. Time used more wisely helps you build better relationships which in turn, improves your self-esteem and overall sense of wellness.
 
