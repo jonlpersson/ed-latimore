@@ -138,7 +138,7 @@ As an amateur boxer, I had over 10 different coaches. At one point in time or th
 
 * [Tom Yankello.](https://en.wikipedia.org/wiki/Thomas_Yankello) 2022 Pennsylvania Boxing Hall of Fame inductee.&nbsp;
 * [Manny Robles.](https://boxrec.com/wiki/index.php/Manny_Robles_&#40;Trainer&#41;) Trained world champion Andy Ruiz Jr. and 2012 Heavyweight Olympian Dominic Breazeale.
-* Jamal Abdullah.&nbsp;
+* [Jamal Abdullah.](https://www.sweetsciencegym.com/more-trainers) Co-trainer of former world champion Charles Martin.
 * [John Hernandez Bray.](https://www.myboxingfans.com/2010/07/california-boxing-hall-of-fame-2/) 2018 California Boxing Hall of inductee.
 * [Henry Tillman.](https://en.wikipedia.org/wiki/Henry_Tillman) 1984 Heavyweight Olympic Gold Medalist and co trainer of former IBF Heavyweight champion Charles Martin.
 * [Courage Tshabalala.](https://www.boxing247.com/boxing-news/courage-tshabalala-looks-back-on-his-career/164890) Top South African amateur with 26-4 professional record.
