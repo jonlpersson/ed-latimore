@@ -9,7 +9,7 @@ categories:
   - how-to-break-an-addiction
 description: >-
   Discover the benefits of quitting porn through taking control of your emotions.
-image: /assets/images/posts/ed-thinking-pose.jpg
+image: /assets/images/thumbnails/ed-thinking-pose.jpg
 ---
 The emotion of sex has been causing men trouble for centuries.
 
