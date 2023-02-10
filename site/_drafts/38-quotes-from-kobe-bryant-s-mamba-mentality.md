@@ -4,7 +4,9 @@ article_type: Article
 title: 38 Quotes from Kobe Bryant's Mamba Mentality
 permalink: /kobe-bryant-mamba-mentality-quotes-and-summary/
 tags:
+  - book-quotes-and-summaries
 categories:
+  - quotes-and-book-summaries
 description: >-
   38 Mamba Mentality Quotes on learning, dealing with pressure, work ethic,
   relating to people, and developing an indomitable will
