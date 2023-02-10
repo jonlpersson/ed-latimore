@@ -24,7 +24,7 @@ The mindset tips are top-notch and are useful for both athletes and non-athletes
 
 Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
 
-## 38 Mamba Mentality Quotes on learning, dealing with pressure, work ethic, relating to people, and developing an indomitable will
+## 38 Mamba Mentality Quotes&nbsp;
 
 ## Learning
 
@@ -112,6 +112,6 @@ Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
 
 “When you dunk the ball, it lets the opposition know your mentality. It lets them know you’re there to humiliate them. It also sets an emotional tone with your teammates. It lets them know you’re going to climb mountains this game and inspires them to want to climb with you.
 
-Like always, you want to be the one dishing out the punishment. And the dunks.”
+"Like always, you want to be the one dishing out the punishment. And the dunks.”
 
 “THE AGONY OF DEFEAT IS AS LOW AS THE JOY OF WINING IS HIGH. However, they’re the exact same to me. I’m at the gym at the same time after losing 50 games as I am after winning a championship. It doesn’t change for me.”
