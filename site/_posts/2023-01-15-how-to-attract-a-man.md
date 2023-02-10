@@ -180,7 +180,7 @@ In short, here’s how to attract a man:
 9. Live with intention
 
 
-## References
+### References:
 
 
 
