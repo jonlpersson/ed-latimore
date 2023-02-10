@@ -10,7 +10,7 @@ categories:
 description: >-
   38 Mamba Mentality Quotes on learning, dealing with pressure, work ethic,
   relating to people, and developing an indomitable will
-image:
+image: /assets/images/drafts/mamba-mentality-how-i-play.webp
 ---
 Kobe Bryant was one of the most famous basketball players in history and definitely one of the most famous people in the world during both the 20th and 21st centuries. Even if you weren’t a fan of the NBA and had never seen see him play, you either knew his name or his nickname, “The Black Mamba.”
 
