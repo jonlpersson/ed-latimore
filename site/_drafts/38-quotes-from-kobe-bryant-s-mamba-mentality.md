@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-02-09 20:06:00 -0500
 article_type: Article
 title: 38 Quotes from Kobe Bryant's "Mamba Mentality"
 permalink: /kobe-bryant-mamba-mentality-quotes-and-summary/
