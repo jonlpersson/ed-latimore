@@ -9,7 +9,7 @@ categories:
   - how-to-make-money-on-social-media
 description: >-
   Forget following trendy topics using hashtags. I have over 200k followed on
-  Twitter. I'll show you how to go viral. 
+  Twitter. I'll show you how to go viral.
 image: /assets/images/drafts/how-to-go-viral-twitter.png
 ---
 Twitter is still a popular social media platform, despite the rise of Instagram. TikTok, new found popularity of Linkedin, and other social networks.
