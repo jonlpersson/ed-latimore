@@ -12,7 +12,7 @@ description: >-
   interesting to women. Here's my framework for picking hobbies to meet women.
 image: /assets/images/thumbnails/ed-archery.png
 ---
-If you're a high-value man, you won't need to try hard to meet the right woman.
+If you're a [high-value man](/high-value-man/), you won't need to try hard to meet the [right woman.](/how-to-be-a-high-value-woman/)
 
 As you live your life and devote yourself to your hobbies, you'll something interesting will happen…
 
@@ -62,7 +62,7 @@ Some activities, like painting, might purely be for recreation, whereas joining 
 
 Hobbies are recreational and have almost no practical use beyond enjoyment. Skills are developed to solve a problem or gain an advantage in the real world. All skills can be hobbies but not hobbies can be skills.
 
-* If you can fight, that's a skill. If you like playing fighting games on Xbox, that's a hobby.
+* [If you can fight](/boxing-training/), that's a skill. If you like playing fighting games on Xbox, that's a hobby.
 * If you can fix cars, that's a skill. If you like taking road trips, that's a hobby.
 * If you can grow food, that's a skill. If you're a "foodie", that's a hobby (and an unhealthy one, at that).
 
