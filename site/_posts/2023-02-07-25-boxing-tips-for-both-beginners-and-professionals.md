@@ -1,7 +1,7 @@
 ---
 date: 2023-02-07 00:00:00 -0500
 article_type: Article
-title: 25 boxing tips for both beginners and professionals
+title: 25 boxing tips for both amateurs and professionals
 permalink: /25-boxing-tips/
 tags:
   - boxing-lessons
