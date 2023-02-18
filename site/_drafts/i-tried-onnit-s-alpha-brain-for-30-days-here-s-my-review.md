@@ -67,3 +67,15 @@ In other words, Alpha Brain works.
 The word around the internet is that this study was self-funded, and the results of another self-funded study did not return such significant claims. That’s not to say the results are bogus or anything, but it’s always good to be aware of potential sponsorship bias.
 
 Even if the study results don’t influence your decision, the individual ingredients have been tested, and they more or less all contribute to improved mental performance.
+
+## **Alpha Brain Ingredients**
+
+Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
+
+I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within.
+
+From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
+
+***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total ***
+
+The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
