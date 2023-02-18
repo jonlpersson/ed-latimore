@@ -22,10 +22,20 @@ Given that I'm currently in the state of constant sleep deprevation that all new
 
 The rest of this article goes into detail and gives a little background into the supplement, but I'll give you a small spoiler alert:&nbsp;
 
-his is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
+This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
 I also give you information on the history of the company, its founder Marcus Aubrey, and what lead him to create Onnit Labs and help thousands improve their physical and mental performance.
 
 Let’s get into it!
+
+## What is Alpha Brain and where did it come from?
+
+Alpha Brain is a nootropic supplement created by Onnit, a health and wellness company founded by Aubrey Marcus in 2010. The idea for Alpha Brain originated when Marcus began experimenting with various cognitive-enhancing supplements and nootropics in order to improve his own mental performance.
+
+After being unimpressed and dissatisfied with the available options on the market at the time, he figured it was just time to make his own.
+
+To develop Alpha Brain, Marcus worked with a team of scientists and experts in neuroscience, nutrition, and biochemistry. They researched various natural compounds that could enhance cognitive function and memory and eventually developed a formula that doesn’t include anything new on the market but combines them in a way that is synergistically more effective than any combination on the market.
+
+In 2011, Onnit released Alpha Brain to the public, and it quickly gained a following among individuals looking to improve their cognitive performance. The supplement has been very well covered by the media and is one of the best-known and most popular nootropic supplements on the market.
