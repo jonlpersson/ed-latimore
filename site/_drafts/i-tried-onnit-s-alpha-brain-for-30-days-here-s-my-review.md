@@ -79,3 +79,13 @@ From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-doc
 ***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total ***
 
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
+
+### Onnit Flow Blend
+
+During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state.
+
+Alpha waves are produced when the brain is in wakeful relaxation and are associated with a relaxed yet alert mental state. This mental state is often characterized by a feeling of calm and focus, similar to the state experienced during meditation. Alpha waves are believed to help enhance creativity, improve memory, and promote mental clarity.
+
+Theta waves are produced during light sleep and daydreaming and are associated with deep relaxation and inward focus. This mental state is often characterized by creativity, intuition, and inspiration. Theta waves are believed to help enhance visualization, improve memory, and promote mental and emotional balance.
+
+During the flow state, the brain produces a unique combination of alpha and theta waves, which help to create a relaxed and focused mental state ideal for achieving a state of flow. These brainwaves are thought to play a key role in the ability to focus, maintain attention, and perform at a high level while feeling calm and in control.
