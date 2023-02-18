@@ -39,3 +39,13 @@ After being unimpressed and dissatisfied with the available options on the marke
 To develop Alpha Brain, Marcus worked with a team of scientists and experts in neuroscience, nutrition, and biochemistry. They researched various natural compounds that could enhance cognitive function and memory and eventually developed a formula that doesn’t include anything new on the market but combines them in a way that is synergistically more effective than any combination on the market.
 
 In 2011, Onnit released Alpha Brain to the public, and it quickly gained a following among individuals looking to improve their cognitive performance. The supplement has been very well covered by the media and is one of the best-known and most popular nootropic supplements on the market.
+
+## Who is Aubrey Marcus, and why does it matter
+
+Aubrey Marcus is an American entrepreneur, author, and podcast host and founder/CEO of Austin, TX based Onnit, a health and wellness company.
+
+Marcus is known for his focus on optimizing human performance. His philosophy is based on the idea that we can all achieve our full potential by focusing on various aspects of our health and well-being, including nutrition, fitness, mindfulness, and personal development.
+
+Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men's Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
+
+When I did some more research into Aubrey Marcus, I also discovered he’s a poet and a filmmaker. If there was ever someone you’d consider a “Renaissance Man”, Aubrey Marcus would fit the bill.
