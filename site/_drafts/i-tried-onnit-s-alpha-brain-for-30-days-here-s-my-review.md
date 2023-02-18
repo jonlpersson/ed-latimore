@@ -94,3 +94,11 @@ During the flow state, the brain produces a unique combination of alpha and thet
 * **L-Theanine:** L-theanine is an amino acid found in tea leaves and has been shown to promote relaxation and reduce stress. It has been proven to increase the production of alpha brain waves. ([Source](https://pubmed.ncbi.nlm.nih.gov/18296328/))
 * **Oat Straw Extract:** Oat straw extract is an herbal supplement that redues anxiety and stress, promotes relaxation, improves cognitive function, and reduces mental fatigue. This is accomplished by increasing blood flow to the brain and heart and allowing you to breathe more deeply. ([Source](https://pubmed.ncbi.nlm.nih.gov/23221935/){: target="_blank"})
 * **Phosphatidylserine:** Phosphatidylserine (PS) is a phospholipid found in high concentrations in the brain that enhances memory, improves attention, and reduces stress. It’s also involved in the production of dopamine. It’s got a host of neuroprotective benefits, but it also boosts moods, lowers cortisol, and helps you to relax. These are all things required to get into the flow. ([Source](https://lipidworld.biomedcentral.com/articles/10.1186/1476-511X-13-121){: target="_blank"})
+
+### Onnit Focus Blend
+
+Acetylcholine is a neurotransmitter that is important for cognitive function, including focus and attention. It is critical in regulating various cognitive processes, including attention, learning, and memory. By increasing the availability of acetylcholine in the brain, it is believed that cognitive function, focus, and attention can be enhanced.
+
+In addition, acetylcholine is believed to play a role in the regulation of the thalamus, which is a part of the brain that is important for attention and sensory processing. By modulating the activity of the thalamus, acetylcholine can help to regulate attention and focus.
+
+The goal of the focus blend is to increase the amount of acetylcholine in the brain to improve your ability to focus while in flow state.
