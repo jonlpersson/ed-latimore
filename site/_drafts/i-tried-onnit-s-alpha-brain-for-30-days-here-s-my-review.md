@@ -49,3 +49,21 @@ Marcus is known for his focus on optimizing human performance. His philosophy is
 Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men's Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
 
 When I did some more research into Aubrey Marcus, I also discovered he’s a poet and a filmmaker. If there was ever someone you’d consider a “Renaissance Man”, Aubrey Marcus would fit the bill.
+
+## Alpha Brain has been tested in clinical trials
+
+The entire supplement was tested. Not a few of the individual ingredients, but the whole thing. This is relatively rare in the supplement world, where the FDA has no regulatory power. Supplements are not required to pass rigorous standards to be sold.
+
+This means that your supplement could be full of sawdust. Supplement companies know that there are no regulations, so they have no real incentive to be honest because no one is checking and good marketing, and a few well-placed anecdotes largely the result of the placebo effect is the hustle du jour.
+
+A 2016 study gave Alpha Brain or a placebo to 63 participants ages 18-35 for six weeks. The people who took Alpha Brain had better verbal recall and cognitive function than the placebo group.
+
+[From the study:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595564/){: target="_blank"}
+
+> At six weeks, significant improvement was noted in tasks of delayed verbal recall and executive functioning for the Alpha BRAIN® group compared to placebo (p &lt; 0.05)...Analysis of variance (ANOVA) was utilized to assess the impact of randomization on neuropsychological outcome measures across time points. Results indicated significant interaction effects for improvement in delayed verbal recall for the AlphaBrain(TM) group, *F* (1.61) = 4.07, p &lt; 0.05, partial eta squared =0.06.
+
+In other words, Alpha Brain works.
+
+The word around the internet is that this study was self-funded, and the results of another self-funded study did not return such significant claims. That’s not to say the results are bogus or anything, but it’s always good to be aware of potential sponsorship bias.
+
+Even if the study results don’t influence your decision, the individual ingredients have been tested, and they more or less all contribute to improved mental performance.
