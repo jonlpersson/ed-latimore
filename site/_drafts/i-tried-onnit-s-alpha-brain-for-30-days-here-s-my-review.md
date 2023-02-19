@@ -177,6 +177,8 @@ It’s also worth noting that the brain is primarily producing alpha waves and t
 
 Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves while on Alpha Brain.
 
+![Alpha and Theta waves for flow state](/assets/images/drafts/brain-wave-chart-flow-state.png "Alpha and Thea waves are most present during flow state. Pic courtesy of https://www.diygenius.com/"){: width="600" height="323"}
+
 I’d say the biggest payoff for my Spanish is that I could listen to the language longer without getting overwhelmed as tried to translate in real time. Anyone who regularly uses a foreign language knows that there is a real limit to how long you can keep the translation efforts going before you need a rest. I found that Alpha brain helped slow the language down and increase the time I could spend before I got lost in translation.
 
 Alpha Brain isn't going to magically boost your memory overnight, but it has a positive effect on information retention, I've noticed from early on. This benefit was especially evident when it came to recalling the vocabulary that I’d learned without doing nearly as much repetition as usual.
