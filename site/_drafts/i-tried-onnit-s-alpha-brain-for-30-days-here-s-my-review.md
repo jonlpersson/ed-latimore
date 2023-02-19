@@ -102,6 +102,8 @@ Theta waves are produced during light sleep and daydreaming and are associated w
 
 During the flow state, the brain produces a unique combination of alpha and theta waves, which help to create a relaxed and focused mental state ideal for achieving a state of flow. These brainwaves are thought to play a key role in the ability to focus, maintain attention, and perform at a high level while feeling calm and in control.
 
+![Alpha brain Onnit Flow blend ingredients](/assets/images/drafts/onnit-flow-blend.png "List of ingredients to help get into flow state"){: width="500" height="667"}
+
 * **L-Tyrosine:** L-Tyrosine is an amino acid that helps to produce the neurotransmitters dopamine and norepinephrine, which are involved in cognitive function. mood, and reward-seeking behavior. ([Source](https://pubmed.ncbi.nlm.nih.gov/10230711/))
 * **L-Theanine:** L-theanine is an amino acid found in tea leaves and has been shown to promote relaxation and reduce stress. It has been proven to increase the production of alpha brain waves. ([Source](https://pubmed.ncbi.nlm.nih.gov/18296328/))
 * **Oat Straw Extract:** Oat straw extract is an herbal supplement that redues anxiety and stress, promotes relaxation, improves cognitive function, and reduces mental fatigue. This is accomplished by increasing blood flow to the brain and heart and allowing you to breathe more deeply. ([Source](https://pubmed.ncbi.nlm.nih.gov/23221935/){: target="_blank"})
