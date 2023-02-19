@@ -202,6 +202,8 @@ During deep sleep, a variety of functions take place in the mind and body:
 
 Without deep sleep, you begin to show the symptoms of sleep deprivation. I was honestly not expecting this benefit, but it’s been a bit of a lifesaver as I’ve got a lot of work, but my sleep is often interrupted because of my new child.
 
+![Oura Ring Sleep Data while on Alpha Brain](/assets/images/drafts/sleep-chart-alpha-brain.png "Forgive the Spanish. In the red box are my hours slept. In the green is how much was spent in deep sleep. I'm getting fewer hours but more out of them."){: width="960" height="540"}
+
 This benefit is interesting because, according to the research, I should theoretically be spending less time in deep sleep but more time in REM. This is clearly not happening. Even if the Oura Ring is inaccurate, I know how I feel.
 
 I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylcholinesterase, the enzyme that breaks down acetylcholine, acts very quickly. So, if I take the supplement at 8 am, by midnight, half is left in my body, and it is presumably half as effective at staving off Acetylcholinesterase.
