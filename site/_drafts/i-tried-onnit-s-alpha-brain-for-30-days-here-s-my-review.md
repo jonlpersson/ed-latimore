@@ -157,6 +157,8 @@ It takes about 90 minutes for it fully kick in, but you're aware that something 
 
 Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
 
+![Ed Latimore Chess Rating](/assets/images/drafts/1800-chess-rating.png "Got up to 1800 in my Chess.com rating using Alpha Brain"){: width="1674" height="310"}
+
 Alpha Brain has also helped me restart my newsletter, produce content for my website, and complete my book proposal while in this serious state of sleep deprivation (and general lack of an environment conducive to focus).
 
 While I’m no stranger to nootropics, there’s a part of me that wondered if this was merely a placebo. This led me to dig deeply into the ingredients. That information is listed in the next section, but I discovered something interesting along the way.
