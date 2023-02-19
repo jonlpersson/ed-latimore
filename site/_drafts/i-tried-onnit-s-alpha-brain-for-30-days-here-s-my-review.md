@@ -173,21 +173,17 @@ Writing is so much easier using Alpha Brain. I suspect it’s a combination of i
 
 I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also making you feel like you need to do anything else.
 
-If you want to sleep, it may be difficult to get your mind to stop racing after a few days on this stuff. I suspect this is related to the increase of blood flow, dopamine, and acetylcholine to the brain.
-
 It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
 
 Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves while on Alpha Brain.
 
 I’d say the biggest payoff for my Spanish is that I could listen to the language longer without getting overwhelmed as tried to translate in real time. Anyone who regularly uses a foreign language knows that there is a real limit to how long you can keep the translation efforts going before you need a rest. I found that Alpha brain helped slow the language down and increase the time I could spend before I got lost in translation.
 
-### **Increased information retention and utilization**
-
 Alpha Brain isn't going to magically boost your memory overnight, but it has a positive effect on information retention, I've noticed from early on. This benefit was especially evident when it came to recalling the vocabulary that I’d learned without doing nearly as much repetition as usual.
 
 Now, I fully recognize this could result from naturally developing a feel for the language, but I’m just reporting my personal experiences on the supplement.
 
-I need less sleep but function at a higher level.
+### I need less sleep but function at a higher level
 
 I use an Oura Ring to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep. During deep sleep, a variety of functions take place in the mind and body:
 
