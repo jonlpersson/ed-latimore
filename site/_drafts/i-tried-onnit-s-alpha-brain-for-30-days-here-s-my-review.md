@@ -185,7 +185,7 @@ Now, I fully recognize this could result from naturally developing a feel for th
 
 ### I need less sleep but function at a higher level
 
-I use an Oura Ring to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep. During deep sleep, a variety of functions take place in the mind and body:
+I use an [Oura Ring](https://oura.link/bJ6o__WO) to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep. During deep sleep, a variety of functions take place in the mind and body:
 
 * memories are consolidated
 * learned information and emotional experiences are processed
