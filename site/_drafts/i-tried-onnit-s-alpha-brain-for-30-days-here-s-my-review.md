@@ -191,10 +191,12 @@ Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written e
 
 In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the acetylcholine.
 
-## Side effects
+## Side effects, warnings, and disclaimers&nbsp;
 
 Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
 
 I personally didn’t experience any of these side effects. I’m just reporting on what other people have reported.. In fact, I’m sleeping better now that I’m on it. That may be because of the neuroprotective and neuro-regenerative effects of many of Alpha Brain’s ingredients. It may also be because I don’t take the supplement any later than 9 am.
+
+Also, it's been recommended that you don't take this supplement everyday, as you can build a tolerance, making it far less effective.&nbsp;
 
 As a disclaimer, I have to state the obvious: if you have any type of medical condition, you should probably consult your doctor before taking this. This post isn’t medical advice. It’s just my experience with a product.
