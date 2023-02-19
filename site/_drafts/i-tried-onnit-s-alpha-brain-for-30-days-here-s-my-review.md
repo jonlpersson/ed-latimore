@@ -128,3 +128,56 @@ These two ingredients appear to be supplementary to the rest of the primary ingr
 
 * **Vitamin B6 (Pyridoxine HCI):** One of the key roles of Vitamin B6 is in the production of neurotransmitters serotonin, dopamine, and norepinephrine. By increasing the availability of these neurotransmitters, Vitamin B6 may enhance cognitive function and promote mental alertness and focus. ([Source](https://pubmed.ncbi.nlm.nih.gov/29685187/){: target="_blank"})
 * **Cat's Claw Extract:** Cat's Claw extract is a natural compound that is derived from the bark and roots of the Uncaria tomentosa plant. It has been used traditionally in South American medicine for its anti-inflammatory and immune-boosting properties.Recent research suggests that Cat's Claw extract may also have cognitive benefits. It contains several bioactive compounds, including oxindole alkaloids, which have been shown to improve cognitive function and memory. ([Source](https://www.drlamcoaching.com/blog/cats-claw-and-the-brain/){: target="_blank"})
+
+## **My overall experience with Alpha Brain**
+
+I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on how much work I have to do and how well I slept the night before. As I write this, my son is a few days shy of 3 months, and as all new parents know, my sleep has been trash.
+
+It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.&nbsp;
+
+Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
+
+Alpha Brain has also helped me restart my newsletter, produce content for my website, and complete my book proposal while in this serious state of sleep deprivation (and general lack of an environment conducive to focus).
+
+While I’m no stranger to nootropics, there’s a part of me that wondered if this was merely a placebo. This led me to dig deeply into the ingredients. That information is listed in the next section, but I discovered something interesting along the way.
+
+## **Biggest Benefits of Alpha Brain**
+
+### **A longer flow state that’s easier to get into**
+
+This has so far been the primary benefit of Alpha Brain.
+
+Writing is so much easier using Alpha Brain. I suspect it’s a combination of intense focus and the ability to express myself clearly. Using this supplement daily also functioned as “motivation in a bottle.” I had so many ideas clearly produced in my mind and such an urge to do them, I regularly stayed up until 2 in the morning working on them.
+
+I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also making you feel like you need to do anything else.
+
+If you want to sleep, it may be difficult to get your mind to stop racing after a few days on this stuff. I suspect this is related to the increase of blood flow, dopamine, and acetylcholine to the brain.
+
+It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
+
+Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves while on Alpha Brain.
+
+I’d say the biggest payoff for my Spanish is that I could listen to the language longer without getting overwhelmed as tried to translate in real time. Anyone who regularly uses a foreign language knows that there is a real limit to how long you can keep the translation efforts going before you need a rest. I found that Alpha brain helped slow the language down and increase the time I could spend before I got lost in translation.
+
+### **Increased information retention and utilization**
+
+Alpha Brain isn't going to magically boost your memory overnight, but it has a positive effect on information retention, I've noticed from early on. This benefit was especially evident when it came to recalling the vocabulary that I’d learned without doing nearly as much repetition as usual.
+
+Now, I fully recognize this could result from naturally developing a feel for the language, but I’m just reporting my personal experiences on the supplement.
+
+I need less sleep but function at a higher level.
+
+I use an Oura Ring to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep. During deep sleep, a variety of functions take place in the mind and body:
+
+* memories are consolidated
+* learned information and emotional experiences are processed
+* growth hormone is released, and physical recovery occurs
+* blood sugar levels and metabolism balance out
+* the immune system is rebuilt
+* the brain detoxifies
+
+Without deep sleep, you begin to show the symptoms of sleep deprivation. I was honestly not expecting this benefit, but it’s been a bit of a lifesaver as I’ve got a lot of work, but my sleep is often interrupted because of my new child.
+
+This benefit is interesting because, according to the research, I should theoretically be spending less time in deep sleep but more time in REM. This is clearly not happening. Even if the Oura Ring is inaccurate, I know how I feel.
+
+I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylcholinesterase, the enzyme that breaks down acetylcholine, acts very quickly. So, if I take the supplement at 8 am, by midnight, half is left in my body, and it is presumably half as effective at staving off Acetylcholinesterase.
