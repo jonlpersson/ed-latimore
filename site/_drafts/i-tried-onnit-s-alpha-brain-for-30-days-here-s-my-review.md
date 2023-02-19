@@ -34,6 +34,8 @@ Let’s get into it!
 
 ## What is Alpha Brain and where did it come from?
 
+![Onnit logo](/assets/images/drafts/onnitlogo.png){: width="306" height="165"}
+
 Alpha Brain is a nootropic supplement created by Onnit, a health and wellness company founded by Aubrey Marcus in 2010. The idea for Alpha Brain originated when Marcus began experimenting with various cognitive-enhancing supplements and nootropics in order to improve his own mental performance.
 
 After being unimpressed and dissatisfied with the available options on the market at the time, he figured it was just time to make his own.
