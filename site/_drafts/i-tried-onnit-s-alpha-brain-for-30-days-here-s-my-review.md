@@ -52,6 +52,8 @@ Aubrey Marcus is an American entrepreneur, author, and podcast host and founder/
 
 Marcus is known for his focus on optimizing human performance. His philosophy is based on the idea that we can all achieve our full potential by focusing on various aspects of our health and well-being, including nutrition, fitness, mindfulness, and personal development.
 
+![Aubrey Marcus founder of Onnit](/assets/images/drafts/aubrey-marcus.jpeg "Aubrey Marcus training"){: width="183" height="275"}![](/assets/images/drafts/aubrey-marcus-1.tiff)
+
 Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men's Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
 
 When I did some more research into Aubrey Marcus, I also discovered he’s a poet and a filmmaker. If there was ever someone you’d consider a “Renaissance Man”, Aubrey Marcus would fit the bill.
