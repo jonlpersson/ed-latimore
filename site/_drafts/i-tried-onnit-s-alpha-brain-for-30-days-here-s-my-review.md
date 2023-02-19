@@ -210,7 +210,9 @@ I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylc
 
 ## **Gorilla Mind Smooth is a possible alternative**
 
-Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written extensively about. Gorilla Mind Smooth effectively does the same thing and even has an identical ingredient profile. There are two notable differences between them, one good and one bad.
+Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written extensively about. ([Read my review here](/gorilla-mind-smooth-review/))
+
+Gorilla Mind Smooth effectively does the same thing and even has an identical ingredient profile. There are two notable differences between them, one good and one bad.
 
 1. **Positive.** Because Gorilla Mind Smooth doesn’t mix the ingredients in a proprietary blend, you know the exact amounts you’re taking. This may not matter to most people, but I know there are some biohackers out there who need the numbers.<br><br>If that’s you, or you just care about knowing the exact numbers, Gorilla Mind Smooth is probably better for you.
 2. **Negative.** Gorilla Mind Smooth has a serving size of 6 capsules. That’s a lot of capsules. Furthermore, it’s my opinion that the effect Gorilla Mind Smooth is not as intense nor does it last as long.<br><br>This tells us that Alpha Brain likely has the exact amounts of the ingredients hidden in a propriety blend to keep competitors from knowing how to do more with less.
