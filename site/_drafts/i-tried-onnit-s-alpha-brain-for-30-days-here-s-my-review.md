@@ -185,7 +185,13 @@ Now, I fully recognize this could result from naturally developing a feel for th
 
 ### I need less sleep but function at a higher level
 
-I use an [Oura Ring](https://oura.link/bJ6o__WO) to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep. During deep sleep, a variety of functions take place in the mind and body:
+I use an [Oura Ring](https://oura.link/bJ6o__WO) to track my sleep. According to the ring, I’ve only been sleeping 4-6 hours a night, but I’m getting more than my recommended deep sleep.
+
+Deep sleep is a specific phase of sleep where a lot of restorative activity takes place. ([Source](https://www.sleepfoundation.org/stages-of-sleep/deep-sleep))
+
+It's agreed that you need to spend between 13 and 23% of your sleeping time in deep sleep. To put that in perspective, this means that if I got 7 hours of sleep, I should expect to spend 55 and 97 minutes in deep sleep. Well, I'm not getting 7 hours of sleep, but I'm spending well over 97 minutes in deep sleep.&nbsp;
+
+During deep sleep, a variety of functions take place in the mind and body:
 
 * memories are consolidated
 * learned information and emotional experiences are processed
