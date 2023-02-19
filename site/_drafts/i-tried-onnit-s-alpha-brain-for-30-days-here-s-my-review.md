@@ -189,4 +189,12 @@ Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written e
 1. **Positive.** Because Gorilla Mind Smooth doesn’t mix the ingredients in a proprietary blend, you know the exact amounts you’re taking. This may not matter to most people, but I know there are some biohackers out there who need the numbers.<br><br>If that’s you, or you just care about knowing the exact numbers, Gorilla Mind Smooth is probably better for you.
 2. **Negative.** Gorilla Mind Smooth has a serving size of 6 capsules. That’s a lot of capsules. Furthermore, it’s my opinion that the effect Gorilla Mind Smooth is not as intense nor does it last as long.<br><br>This tells us that Alpha Brain likely has the exact amounts of the ingredients hidden in a propriety blend to keep competitors from knowing how to do more with less.
 
-In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the neurotransmitter acetylcholine in the brain.
+In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the acetylcholine.
+
+## Side effects
+
+Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
+
+I personally didn’t experience any of these side effects. I’m just reporting on what other people have reported.. In fact, I’m sleeping better now that I’m on it. That may be because of the neuroprotective and neuro-regenerative effects of many of Alpha Brain’s ingredients. It may also be because I don’t take the supplement any later than 9 am.
+
+As a disclaimer, I have to state the obvious: if you have any type of medical condition, you should probably consult your doctor before taking this. This post isn’t medical advice. It’s just my experience with a product.
