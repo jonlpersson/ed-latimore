@@ -10,7 +10,7 @@ categories:
 description: >-
   A comprehensive review of Onnit's Alpha Brain nootropic supplement: what I
   think of it, how I take it, and how it compares to other brain supplements.
-image:
+image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
 I tried the Alpha Brain supplement for 30 days. To test out its efficacy, I watched my progress on 3 of my regular cognitive tasks:
 
@@ -79,6 +79,8 @@ The word around the internet is that this study was self-funded, and the results
 Even if the study results don’t influence your decision, the individual ingredients have been tested, and they more or less all contribute to improved mental performance.
 
 ## **Alpha Brain Ingredients**
+
+**![Alpha Brain ingredients](/assets/images/drafts/alpha-brain-ingredients.jpg "The Alpha Brain ingredients"){: width="600" height="800"}**
 
 Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
 
