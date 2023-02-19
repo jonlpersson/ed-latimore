@@ -182,7 +182,7 @@ This benefit is interesting because, according to the research, I should theoret
 
 I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylcholinesterase, the enzyme that breaks down acetylcholine, acts very quickly. So, if I take the supplement at 8 am, by midnight, half is left in my body, and it is presumably half as effective at staving off Acetylcholinesterase.
 
-## **How it compares to Gorilla Mind Smooth**
+## **Gorilla Mind Smooth is a possible alternative**
 
 Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written extensively about. Gorilla Mind Smooth effectively does the same thing and even has an identical ingredient profile. There are two notable differences between them, one good and one bad.
 
