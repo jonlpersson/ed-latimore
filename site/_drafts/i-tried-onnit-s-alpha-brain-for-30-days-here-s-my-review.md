@@ -44,6 +44,8 @@ To develop Alpha Brain, Marcus worked with a team of scientists and experts in n
 
 In 2011, Onnit released Alpha Brain to the public, and it quickly gained a following among individuals looking to improve their cognitive performance. The supplement has been very well covered by the media and is one of the best-known and most popular nootropic supplements on the market.
 
+![Joe Rogan and Marcus Aubrey](/assets/images/drafts/joe-rogan-and-marcus-aubry.jpeg "Joe Rogan has been a big campaigner of the supplement"){: width="450" height="253"}
+
 ## Who is Aubrey Marcus, and why does it matter
 
 Aubrey Marcus is an American entrepreneur, author, and podcast host and founder/CEO of Austin, TX based Onnit, a health and wellness company.
