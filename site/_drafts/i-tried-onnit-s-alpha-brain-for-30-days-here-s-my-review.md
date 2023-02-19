@@ -60,7 +60,7 @@ A 2016 study gave Alpha Brain or a placebo to 63 participants ages 18-35 for six
 
 [From the study:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595564/){: target="_blank"}
 
-> At six weeks, significant improvement was noted in tasks of delayed verbal recall and executive functioning for the Alpha BRAIN® group compared to placebo (p &lt; 0.05)...Analysis of variance (ANOVA) was utilized to assess the impact of randomization on neuropsychological outcome measures across time points. Results indicated significant interaction effects for improvement in delayed verbal recall for the AlphaBrain(TM) group, *F* (1.61) = 4.07, p &lt; 0.05, partial eta squared =0.06.
+> At six weeks, significant improvement was noted in tasks of delayed verbal recall and executive functioning for the Alpha BRAIN® group compared to placebo (p &lt; 0.05)…Analysis of variance (ANOVA) was utilized to assess the impact of randomization on neuropsychological outcome measures across time points. Results indicated significant interaction effects for improvement in delayed verbal recall for the AlphaBrain(TM) group, *F* (1.61) = 4.07, p &lt; 0.05, partial eta squared =0.06.
 
 In other words, Alpha Brain works.
 
@@ -76,7 +76,7 @@ I imagine this is done to defend against competitors looking to emulate their sp
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
 
-***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total ***
+*\*\*According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total \*\**
 
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
 
