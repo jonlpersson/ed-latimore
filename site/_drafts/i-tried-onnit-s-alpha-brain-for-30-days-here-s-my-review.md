@@ -60,6 +60,8 @@ When I did some more research into Aubrey Marcus, I also discovered he’s a poe
 
 ## Alpha Brain has been tested in clinical trials
 
+![Alpha Brain tested in clinical trials](/assets/images/drafts/alpha-brain-clinical-trials.jpeg "Alpha Brain tested in clinical trials"){: width="500" height="238"}
+
 The entire supplement was tested. Not a few of the individual ingredients, but the whole thing. This is relatively rare in the supplement world, where the FDA has no regulatory power. Supplements are not required to pass rigorous standards to be sold.
 
 This means that your supplement could be full of sawdust. Supplement companies know that there are no regulations, so they have no real incentive to be honest because no one is checking and good marketing, and a few well-placed anecdotes largely the result of the placebo effect is the hustle du jour.
