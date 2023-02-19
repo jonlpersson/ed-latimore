@@ -86,7 +86,7 @@ I imagine this is done to defend against competitors looking to emulate their sp
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
 
-*\*\*According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total \*\**
+***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total&nbsp;***
 
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
 
