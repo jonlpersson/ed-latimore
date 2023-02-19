@@ -125,6 +125,8 @@ With your brain working a higher level, it needs to be fueled. Intense focus is 
 
 These ingredients make it easier for your brain to ensure the calories in your body so that it can keep up with the demand you’re now placing on it.
 
+![](/assets/images/drafts/onnit-fuel-blend.png){: width="550" height="733"}
+
 * **L-Leucine:** L-Leucine is an essential amino acid that plays a vital role in brain function and cognition. It is one of the three branched-chain amino acids (BCAAs) important for healthy brain function.<br><br>L-Leucine enhances cognitive function by increasing the availability of certain neurotransmitters, including dopamine, norepinephrine, and serotonin, which are important for mood, motivation, and cognitive function. These neurotransmitters play a key role in regulating attention, focus, and memory.<br><br>In addition, L-Leucine has been shown to improve glucose uptake by cells, which can provide a steady source of energy for the brain. Glucose is a primary fuel source for the brain, and by improving its uptake, L-Leucine fuels cognitive function during arduous mental tasks. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4446786/){: target="_blank"})
 * **Pterostilbene:** Pterostilbene is a natural compound that belongs to the stilbene family of compounds. Stilbenes are a small family of phenylpropanoids produced in many plant species that have several pharmacological benefits. The most well-known of these stilbenes is resveratrol, the anti-aging antioxidant in wine and grapes. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4446786/){: target="_blank"})
 
