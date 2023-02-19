@@ -102,3 +102,5 @@ Acetylcholine is a neurotransmitter that is important for cognitive function, in
 In addition, acetylcholine is believed to play a role in the regulation of the thalamus, which is a part of the brain that is important for attention and sensory processing. By modulating the activity of the thalamus, acetylcholine can help to regulate attention and focus.
 
 The goal of the focus blend is to increase the amount of acetylcholine in the brain to improve your ability to focus while in flow state.
+
+* **Alpha-GPC:** Alpha-GPC is believed to work by increasing levels of acetylcholine. In addition, it’s also been shown to increase blood flow to the brain, improving oxygen and nutrient delivery to brain cells. This leads to improved brain function and focus.<br><br>In addition, Alpha-GPC also increases the production of phosphatidylcholine, the ingredient found in the flow blend. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595381/){: target="_blank"})
