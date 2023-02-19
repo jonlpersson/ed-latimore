@@ -212,6 +212,8 @@ I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylc
 
 ## **Gorilla Mind Smooth is a possible alternative**
 
+![Gorilla mind smooth alternative to alpha brain](/assets/images/drafts/gorilla-mind-smooth-1200.png "An alternative to alpha brain that I've written about"){: width="500" height="500"}
+
 Gorilla Mind Smooth is another caffeine-free nootropic I’ve used and written extensively about. ([Read my review here](/gorilla-mind-smooth-review/))
 
 Gorilla Mind Smooth effectively does the same thing and even has an identical ingredient profile. There are two notable differences between them, one good and one bad.
