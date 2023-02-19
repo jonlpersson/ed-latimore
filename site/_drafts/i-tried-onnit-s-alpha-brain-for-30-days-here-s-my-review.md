@@ -138,6 +138,8 @@ These ingredients make it easier for your brain to ensure the calories in your b
 
 These two ingredients appear to be supplementary to the rest of the primary ingredients of the 3 blends. They likely work synergistically, promoting an even greater ability to focus.
 
+![Vitamin B6 and Cats Claw Alpha Brain Ingredients](/assets/images/drafts/other-alpha-brain-ingredients.png "Other ingredients that contribute to Alpha Brain"){: width="450" height="600"}
+
 * **Vitamin B6 (Pyridoxine HCI):** One of the key roles of Vitamin B6 is in the production of neurotransmitters serotonin, dopamine, and norepinephrine. By increasing the availability of these neurotransmitters, Vitamin B6 may enhance cognitive function and promote mental alertness and focus. ([Source](https://pubmed.ncbi.nlm.nih.gov/29685187/){: target="_blank"})
 * **Cat's Claw Extract:** Cat's Claw extract is a natural compound that is derived from the bark and roots of the Uncaria tomentosa plant. It has been used traditionally in South American medicine for its anti-inflammatory and immune-boosting properties.Recent research suggests that Cat's Claw extract may also have cognitive benefits. It contains several bioactive compounds, including oxindole alkaloids, which have been shown to improve cognitive function and memory. ([Source](https://www.drlamcoaching.com/blog/cats-claw-and-the-brain/){: target="_blank"})
 
