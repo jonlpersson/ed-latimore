@@ -16,7 +16,7 @@ image: /assets/images/drafts/ed-latimore-in-tossa-doro.jpeg
 
 There are only two FDA-approved measures for treating the most common type of hair loss, Androgenetic Alopecia (male pattern baldness): Minoxidil (Rogaine) and Finasteride (Propecia).
 
-Though I've written about other powerful remedies you can use and effective measures you can take to regrow hair (read about them here—&gt;How to stop hair loss), these are the only medications that have produced enough evidence of efficacy in stopping or reversing hair loss to be approved by the Food and Drug Administration.
+Though I've written about other powerful remedies you can use and effective measures you can take to regrow hair (read about them here—&gt;[How to stop hair loss](/how-to-prevent-hair-loss/)), these are the only medications that have produced enough evidence of efficacy in stopping or reversing hair loss to be approved by the Food and Drug Administration.
 
 However, there are three big problems:
 
@@ -117,8 +117,6 @@ I've mentioned that I started using this after my hair transplant so I could mai
 That started to happen to me. If I let my hair grow out, I could see my hair thinning in areas where the donor hair follicles weren't placed. After a few months of continuous treatment, my hair density and thickness have clearly increased.
 
 Full transparency, I have an entire early hair loss prevention protocol that considers my diet and uses dermarolling. So, while I can't say that the results are ONLY from the finasteride+minoxidil spray, it has played a big role in my hair regrowth journey.
-
-&nbsp;
 
 ## Does the topical finasteride+topical minoxidil combination have any side effects?
 
