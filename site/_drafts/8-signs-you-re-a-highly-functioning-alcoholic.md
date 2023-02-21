@@ -112,3 +112,19 @@ My top priority was drinking.
 That meant I’d call off work to drink, and the little bit of money that I did have, I’d use it for drinking. Now, this might seem to fly in the face of the conditions set forth to be a high-functioning alcoholic, but I was still excelling at my craft, boxing.
 
 In many ways, I was fortunate here because I was so broke that I did even have credit cards. Plenty of addicts have gotten into serious trouble by financing their habit with money they didn’t have. And fortunately, I was also surrounded by people who wouldn’t loan me money for alcohol, though I’d never ask because that would leave me open to being attacked as an alcoholic.
+
+## **Unsuccessful Quitting Attempts**
+
+The average person gets sober after two attempts, but the median is five. This means that what they say is true: part of being in recovery is going through a relapse.
+
+This is a common trope, but there is some truth behind it.
+
+I honestly can’t count the number of times I tried to quit drinking alcohol before I finally went to Alcoholics Anonymous (AA). If you or someone you know has tried to quit, then they at least know that their drinking is out of control.
+
+Even if they’re publically in denial, their behavior speaks louder than anything they could say.
+
+Alcoholism is a neurological disorder. You can't stop drinking because alcohol addiction has transformed your brain, making you dependent on alcohol even if you know it’s bad for you.
+
+There are numerous treatment options and support groups.
+
+People typically think AA is the only option, but several inpatient and outpatient treatment programs exist to help you get sober and stay that way.
