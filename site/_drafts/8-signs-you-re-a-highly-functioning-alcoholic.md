@@ -100,3 +100,15 @@ A high-functioning alcoholic tends to act differently when drinking than when th
 Or their mood will suddenly change completely, beyond becoming a little more talkative and social.
 
 It’s hard to recognize these changes if a person's mood changes slightly, but a slight change isn’t what we’re looking for here. If a generally peaceful person suddenly starts throwing things and starting fights, they need help. This is especially true if the person is in denial about the behavior or becomes defensive.
+
+## **Financial Struggles**
+
+Alcohol and other substance abuse can be expensive, but not for obvious reasons.
+
+Honestly, most alcohol is cheap. Even when I was working at T-Mobile for $9.28/hr, I could manage to find money to drink. The problem is that I couldn’t find the money for much else. I could barely afford rent and my car payments, but I always had the money for drinking.
+
+My top priority was drinking.
+
+That meant I’d call off work to drink, and the little bit of money that I did have, I’d use it for drinking. Now, this might seem to fly in the face of the conditions set forth to be a high-functioning alcoholic, but I was still excelling at my craft, boxing.
+
+In many ways, I was fortunate here because I was so broke that I did even have credit cards. Plenty of addicts have gotten into serious trouble by financing their habit with money they didn’t have. And fortunately, I was also surrounded by people who wouldn’t loan me money for alcohol, though I’d never ask because that would leave me open to being attacked as an alcoholic.
