@@ -118,7 +118,7 @@ This is for protection, as that weight is composed of extra padding. Bag gloves 
 
 You don’t spar in bag gloves but you can hit the bag in sparring gloves. A quick way to get kicked out of a gym is to wear sparring gloves smaller than 16 oz. without permission. Yes, highly skilled guys will sometimes spar in lighter gloves to mimic competition, but that’s not you.
 
-[Here are my specific boxing glove recommendations](/pro-boxer-best-boxing-glove-recommendation/)
+***[Here are my specific boxing glove recommendations](/pro-boxer-best-boxing-glove-recommendation/)***
 
 Because I don’t have a preference or loyalty to a specific brand, my amazon store affiliate link is below. If these suggestions help you, I’d appreciate if you bought through the link so I can get a small (and I do mean ***small***) commission.
 
@@ -209,7 +209,7 @@ Fighters tend to get press for winning major amateur tournaments a professional 
 
 Boxers love Instagram. I've yet to meet one without an Instagram presence. Fortunately, Instagram makes it easier to send people messages to people than any other platform. You just have to follow them.
 
-***\[If you dig this article, [give me a follow on Instagram](https://www.instagram.com/edlatimore/){: target="_blank" rel="noopener noreferrer"}. I post useful bits of wisdom related to more than just boxing.\]***
+***In this article, I tell you how to find a good boxing gym along with some other boxing tips—&gt;[25 boxing tips for amateurs and professionals](/25-boxing-tips/)***
 
 ### Make sure the gym is easy to get to
 
