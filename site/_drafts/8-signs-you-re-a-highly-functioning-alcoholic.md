@@ -119,6 +119,8 @@ Honestly, most alcohol is cheap. Even when I was working at T-Mobile for $9.28/h
 
 My top priority was drinking.
 
+![Homeless and drinking](/assets/images/drafts/homeless-ed2.jpg "I was playing homeless, but I was also broke"){: width="450" height="680"}
+
 That meant I’d call off work to drink, and the little bit of money that I did have, I’d use it for drinking. Now, this might seem to fly in the face of the conditions set forth to be a high-functioning alcoholic, but I was still excelling at my craft, boxing.
 
 In many ways, I was fortunate here because I was so broke that I did even have credit cards. Plenty of addicts have gotten into serious trouble by financing their habit with money they didn’t have. And fortunately, I was also surrounded by people who wouldn’t loan me money for alcohol, though I’d never ask because that would leave me open to being attacked as an alcoholic.
