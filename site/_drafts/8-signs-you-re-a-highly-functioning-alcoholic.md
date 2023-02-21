@@ -128,3 +128,15 @@ Alcoholism is a neurological disorder. You can't stop drinking because alcohol a
 There are numerous treatment options and support groups.
 
 People typically think AA is the only option, but several inpatient and outpatient treatment programs exist to help you get sober and stay that way.
+
+## **What should you do if you’re a high-functioning alcoholic or know one?**
+
+Ultimately, the biggest sign of a substance use disorder is that you continue to use that substance despite suffering negative consequences.
+
+The only reason high-functioning addicts and alcoholics get away with it for so long before anyone says anything is because their life manages to continue with the same type of normalcy as they did before.
+
+No matter what, you can’t make someone quit if they don’t want to.
+
+If they don’t want to, they won’t. If they do but don’t want to check into a treatment facility, I highly recommend this free chapter of “Sober Letters To My Drunken Self”.
+
+The rest is up to you.
