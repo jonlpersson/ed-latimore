@@ -22,7 +22,7 @@ This post is merely guidance for how you should approach the aspects of your tra
 
 I know this because when I started fighting, I was awkward and clumsy. I went on to capture a amateur national title and achieve a peak rating of \#4 by USA boxing in 2011.&nbsp;
 
-![Ed Latimore boxing Cam Awesome](/assets/images/drafts/boxing-against-cam-1.jpeg "Me Boxing Cam Awesome in Ringside National Tournament"){: width="618" height="411"}
+![Ed Latimore boxing Cam Awesome](/assets/images/drafts/boxing-against-cam-1.jpeg "Me Boxing 5x national champion Cam Awesome in Ringside National Tournament"){: width="618" height="411"}
 
 ## How to get in shape for boxing
 
@@ -38,7 +38,7 @@ You don’t need to run far, long, or frequently.
 
 "Road work" or running is vital because boxing is an activity that taxes your cardiovascular system. You need to get in shape to box. Running helps, but the best way to get in shape for boxing is to box.
 
-This doesn’t mean that you shouldn’t run. It just means that most fighters spend WAY too much time doing roadwork. It wears down their legs and, past a certain point, doesn’t help them in the ring.I
+This doesn’t mean that you shouldn’t run. It just means that most fighters spend WAY too much time doing roadwork. It wears down their legs and, past a certain point, doesn’t help them in the ring.
 
 I like to think of running routines in terms of 2-week intervals rather than one. I believe this gives your body more time to recover. Here is a sample running routine I’ve used to get in shape for a fight:
 
