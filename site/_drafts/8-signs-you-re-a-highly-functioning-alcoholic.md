@@ -92,3 +92,11 @@ I don’t even mean when you just want a cold beer after a long day. Especially 
 I mean the people who get the urge to have hard liquor on multiple nights of the week because otherwise, they start showing alcohol withdrawal symptoms. If you don’t feel normal unless you’re a little intoxicated, you’re a high-level alcoholic.
 
 You might even just be a regular alcoholic, but this behavior is easily disguised as normal.
+
+## **Sober behavior is different**
+
+A high-functioning alcoholic tends to act differently when drinking than when they're not. For example, many get overly argumentative or aggressive after a few drinks.
+
+Or their mood will suddenly change completely, beyond becoming a little more talkative and social.
+
+It’s hard to recognize these changes if a person's mood changes slightly, but a slight change isn’t what we’re looking for here. If a generally peaceful person suddenly starts throwing things and starting fights, they need help. This is especially true if the person is in denial about the behavior or becomes defensive.
