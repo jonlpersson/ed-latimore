@@ -118,7 +118,7 @@ Every other sport recognizes the importance of hip mobility and core flexibility
 
 While the skill aspect of footwork is often taught well enough, I’ve rarely seen gyms emphasize the athletic components.
 
-Aside from understanding where to place your feet for optimal positioning, good footwork is comprised of agility, balance, and quickness. I believe that boxers don’t work on these, largely because they have no idea how to improve these traits because coaches have no idea how to.
+Aside from understanding where to place your feet for optimal positioning, good footwork is comprised of agility, balance, and quickness. I believe that boxers don’t work on these, largely because they have no idea how to improve these traits because most coaches have no idea how to.
 
 This is another way that boxing is woefully behind other sports.
 
@@ -155,7 +155,7 @@ Each of these coaches taught me something that added to my understanding of the 
 
 ![Tom Yankello wrapping Ed Latimore's hands](/assets/images/drafts/tom-wrapping-my-hands.jpeg "Tom Yankello wrapping my hands before my 2nd pro fight"){: width="500" height="333"}
 
-Your coach needs to have fought. Preferably to at least an intermediate amateur level (for all intents and purposes, let’s say he’s won a state-level tournament in at least a moderately competitive state or region of the country).
+Your coach needs to have fought. Preferably to at least an intermediate amateur level (I'll define "intermediate amateur level" as having won a state-level amateur tournament in at least a moderately competitive state or region of the country).
 
 Your coach doesn’t need to have been a top-level world championship boxer, but you can’t be effectively coached by someone who doesn’t even know what it’s like to fight at a competitive level.
 
