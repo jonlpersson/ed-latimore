@@ -38,6 +38,8 @@ The National Institute on Alcohol Abuse and Alcoholism [categorizes drinking beh
 
 Functional types tend to have a mid-to-high level income, a steady job, are well-educated, and have families and steady relationships. These are not the traits you think about when you typically imagine an alcoholic.
 
+![Functional alcoholic](/assets/images/drafts/functioning-alcoholic.jpg){: width="500" height="461"}
+
 When your life isn’t falling apart, no one thinks of your drinking as a problem. But I know from experience that it is very much a problem.
 
 Alcoholism is a complex health issue that doesn’t look the same in everyone. In my book “Sober Letters to My Drunken Self,” I said that *“there are people who have a drinking problem and people who have problems when they drink.”*
