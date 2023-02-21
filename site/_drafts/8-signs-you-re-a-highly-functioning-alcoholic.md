@@ -58,3 +58,25 @@ I drank by myself, I binge drank, I drove drunk, and my personal life was a mess
 When everything is going well, it’s easy to hide behind things.
 
 Denial is the most common sign of a high-functioning alcoholic.
+
+Not only do they become defensive, but there is always an excuse to explain their drinking or behavior. I actually used to say that it was other people’s fault for not being able to get along with me while I was drunk because if we didn’t get along drunk, we probably wouldn’t get along sober either. That’s the level of denial I had as a high-functioning alcoholic.
+
+And then there’s the issue of my behavior while I was drunk.
+
+It’s easy to blame all of your bad behavior on drinking. It’s even easier when you’re an alcoholic, and it’s second nature when you’re high-functioning. The worst part is that everyone will just excuse your behavior because you were drinking, but if you’re like most high-functioning alcoholics, you’ll still feel guilty.
+
+## **Increased Tolerance**
+
+The ability to drink a large amount of alcohol and still function with little to no signs of intoxication is a big sign of a heavy drinker. This appearance of sobriety is one of the reasons that high-functioning alcoholics can go so long before someone catches on.
+
+Even when they binge drink, they rarely get visibly drunk. However, they still suffer from negative health effects of alcohol: liver, heart, and brain damage.
+
+I used to take pride in how much I could drink compared to everyone else.
+
+Because of how people imagine an alcoholic behaving, it’s hard to imagine someone who drinks but doesn’t get out of control, but my experience has shown me that these are the people who suffer the most from alcoholism.
+
+If staying in control after heavy drinking seems counterintuitive as a sign of high-functioning alcoholism, consider this: how much does a person have to regularly consume to learn how to control themselves after drinking an amount of alcohol that puts many people in the hospital?
+
+Alcoholics develop a higher tolerance for alcohol over time and need to drink more to achieve the same effects. While some people have a genetically higher tolerance for alcohol, you most likely don’t know any of those people.
+
+If someone can drink so much that they should but obviously drunk but they still seem fine, you can be certain that they drink heavily, frequently, and often by themselves.
