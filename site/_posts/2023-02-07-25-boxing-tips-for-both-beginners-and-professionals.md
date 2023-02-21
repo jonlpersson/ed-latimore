@@ -187,7 +187,7 @@ Aside from that, there are two reasons why someone is an ineffective teacher or 
 
 My experience has been that most boxing coaches don’t really know anything about boxing. They don’t know how to teach the strategic, tactical, or physical elements of the sport. A telltale sign that your boxing coach doesn’t know much about boxing is that he focuses on conditioning over skills development.
 
-While it’s important to be in shape, boxing training combined with the workout routine I gave above takes care 90% of conditioning requirements. Over emphasis on that or sparring signifies a serious knowledge gap.&nbsp;
+While it’s important to be in shape, boxing training combined with the workout routine I gave above takes care 90% of conditioning requirements. Over emphasis on conditioning or sparring signifies a serious knowledge gap.&nbsp;
 
 ### 11) Your coach should study film with you
 
@@ -201,7 +201,9 @@ However, most would be boxing coaches don’t even watch the old fights, let alo
 
 ![Tom Yankello and Ed Latimore after his first victory](/assets/images/drafts/tom-yankello-and-ed-latimore-after-victory.jpeg "Tom Yankello and I after my first victory"){: width="700" height="394"}
 
-Most fighters don't make any money. Coaches are paid a small percentage of an already small amount. Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively*&nbsp;volunteers.&nbsp;
+Most fighters don't make any money. Coaches are paid a small percentage of an already small amount.
+
+Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively*&nbsp;volunteers.&nbsp;
 
 Most fighters will never see a significant payday. You probably won't either. That's why the most important thing you can do to repay your coach is to be a dedicated student of the game.&nbsp;
 
@@ -233,7 +235,7 @@ You can train this against the heavy bag, but for reasons related to Newton’s 
 
 Shadowboxing is for working on your footwork, defensive maneuvers, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
 
-You need to see create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
+You need to create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
 
 ### 16) Learn the fundamentals of boxing
 
