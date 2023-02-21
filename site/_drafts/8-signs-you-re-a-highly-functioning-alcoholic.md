@@ -80,3 +80,15 @@ If staying in control after heavy drinking seems counterintuitive as a sign of h
 Alcoholics develop a higher tolerance for alcohol over time and need to drink more to achieve the same effects. While some people have a genetically higher tolerance for alcohol, you most likely don’t know any of those people.
 
 If someone can drink so much that they should but obviously drunk but they still seem fine, you can be certain that they drink heavily, frequently, and often by themselves.
+
+## Withdrawal symptoms and cravings
+
+When you reach a point where you feel like you HAVE to drink, you’re definitely an alcoholic.
+
+And when I say this, I don’t mean that the boys are going out to party and you want to go too. That’s normal craving for social belonging.
+
+I don’t even mean when you just want a cold beer after a long day. Especially if you’re a large man. One or two beers aren’t going to do much.
+
+I mean the people who get the urge to have hard liquor on multiple nights of the week because otherwise, they start showing alcohol withdrawal symptoms. If you don’t feel normal unless you’re a little intoxicated, you’re a high-level alcoholic.
+
+You might even just be a regular alcoholic, but this behavior is easily disguised as normal.
