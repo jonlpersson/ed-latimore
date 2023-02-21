@@ -127,6 +127,8 @@ In many ways, I was fortunate here because I was so broke that I did even have c
 
 ## **Unsuccessful Quitting Attempts**
 
+**![Average number of attempts to get sober](/assets/images/drafts/stats-for-recovery.png "Average number of attempts to get sober"){: width="550" height="347"}**
+
 The average person gets sober after two attempts, but the median is five. This means that what they say is true: part of being in recovery is going through a relapse.
 
 This is a common trope, but there is some truth behind it.
