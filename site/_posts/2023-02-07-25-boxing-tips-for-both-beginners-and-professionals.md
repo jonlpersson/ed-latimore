@@ -281,7 +281,9 @@ Offense and defense are dynamically intertwined and wholly interdependent. The s
 
 Boxing is called “The sweet science” because it’s more than just about hitting and not getting hit. There is a beautiful dance taking place that requires technique, tactics, and strategy.
 
-Athleticism and brawling power help, but you must rely on your mind and creativity to win at the higher levels. Weight classes mean that in theory, no one has a significant advantage (of course, this vanishes at the heavyweight division. I explain the implications of that [in this snippet](https://edlatimore.com/why-I-quit-boxing/#4-i-am-too-small-to-be-a-heavyweight-boxer)). This means that boxing skills will take you the furthest in the fastest way.
+Athleticism and brawling power help, but you must rely on your mind and creativity to win at the higher levels.
+
+Weight classes mean that in theory, no one has a significant advantage (of course, this vanishes at the heavyweight division. I explain the implications of that [in this snippet](https://edlatimore.com/why-I-quit-boxing/#4-i-am-too-small-to-be-a-heavyweight-boxer)). This means that boxing skills will take you the furthest in the fastest way.
 
 ### 22) You can only hit what you can see
 
@@ -289,13 +291,15 @@ Athleticism and brawling power help, but you must rely on your mind and creativi
 
 Never look away from your target.
 
-If you ever turn your head away from what you’re aiming to hit, you have no idea if it’s moved at the last second. You might be able to get away with this bad habit on the heavy bag.
+If you ever turn your head away from what you’re aiming to hit, you have no idea if it’s moved at the last second. You might be able to get away with this bad habit on the heavy bag, but a real human is dynamic, reacting, and is trying to avoid your punches.
 
 ### 23) How to spar
 
 ![When you should spar?](/assets/images/drafts/should-you-spar.jpg "This handy chart for when you should spar"){: width="500" height="508"}
 
-Unless you’re getting ready for a professional fight, sparring is school. It’s not a place for you to try and kill your opponent. It’s where you practice your craft in a live environment.
+Unless you’re getting ready for a professional fight, sparring is school.
+
+It’s not a place for you to try and kill your opponent. It’s where you practice your craft in a live environment.
 
 Speed bags and heavybags don’t hit back and shadowboxing is against an opponent that only exists in your imagination, but sparring is where you pull it all together. No one gets anything for winning sparring.
 
@@ -307,18 +311,20 @@ This tip is more for beginner boxers.
 
 You need your own gear. No one is expecting to have everything the first time you come in the gym. but you want to have your own boxing gear before at least your first amateur fight.
 
-With that said, I understand this may be difficult to do. In order of importance, here is the gear you need to get.
+With that said, I understand this may be financially difficult to do. So, in order of importance, here is the gear you need to get [if your funds don't allow you to purchase everything.](/stop-being-poor/)
 
 * **Mouthpiece.** Preferably a custom-fit mouth guard that uses putty molds of your teeth. However, in the beginning, any generic mouthpiece from a sporting goods store will suffice.<br><br>***Much like Winning is for boxing equipment, The Mouthpiece Guy is the company for mouthguards. Used by all the top boxers. No affiliate commission. Just a solid product. [Get it here.&nbsp;](https://www.mouthpieceguy.com/)***
-* **Boxing shoes.** This took second place to the mouthpiece because this is the only other piece of gear that you can’t really borrow. While there are no rules against boxing in your tennis shoes, boxing shoes are specifically made for boxing. Wrestling shoes also serve the same purpose.
+* **Boxing shoes.** This took second place to the mouthpiece because this is the only other piece of gear that you can’t really borrow. While there are no rules against boxing in your tennis shoes, boxing shoes are specifically made for boxing. Wrestling shoes will also suffice.
 * **Hand wraps.** While there will be community wraps at most gyms, this is a very easy way to catch an infection. Very rarely will the community wraps be washed. This is also the least expensive item on the list even if you got fancy gel wraps.
 * **Headgear.** From a safety perspective, this should be second behind a mouthpiece. A decent headgear is also not particularly expensive. This is why most gyms tend to have a few that you can use, but you’ll definitely want to get your own, as it’s just more sanitary.
 * **Boxing gloves**. I may seem weird that these came last, but I’ve never been to a boxing gym that didn’t have a few pairs of gloves. Furthermore, boxing gloves are supplied to you for both amateur and professional fights. When you do purchase some gloves, here’s my list of the best ones at various price points.<br><br>***[Here are my recommendations on the best boxing gloves to get](/pro-boxer-best-boxing-glove-recommendation/)***
-* **Groin protector.** Ok, so this piece of equipment is extremely important, but you can usually get one off of someone. As a heavyweight, I occasionally had problems procuring one, which is why I just bought my own. They don’t need to be fancy. They just have to protect your balls. Hip protection is nice but optional until you get into competition.
+* **Groin protector.** Ok, so this piece of equipment is extremely important, but you can usually get one off of someone. As a heavyweight, I occasionally had problems procuring one that fit, which is why I just bought my own. They don’t need to be fancy. They just have to protect your balls. Hip protection is nice but optional until you get into competition.
 
 ### 25) Boxing is not self-defense
 
-Once you really learn how to hit someone, you could kill them. However, what’s for more likely is that you’ll overestimate how powerful you are, not stop the guy, and he’ll probably pull out a gun or something.
+Once you really learn how to hit someone, you could kill them.
+
+However, what’s for more likely is that you’ll underestimate how powerful you are, not stop the guy, and he’ll probably pull out a gun or something.
 
 Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn't mean that you're bulletproof.&nbsp;
 
