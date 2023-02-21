@@ -179,9 +179,11 @@ Or worse, you’ll be taught the wrong things that are keeping you behind.
 
 Tom Yankello always used to tell me “Telling ain’t teaching.”
 
-Bernard Hopkins has famously said “Boxing is 99% trainers and 1% teachers.”
+Bernard Hopkins has been famously critical of the modern state of boxing, saying ***“Boxing is 99% trainers and 1% teachers.”***
 
-Both of these sentiments reflect a significant problem in boxing. There are two reasons why someone is a bad teacher: either they don’t know the subject or they don’t know how to teach it to another person.
+Both of these sentiments reflect a significant problem in boxing. Unlike the other sports, anyone can throw a towel over their shoulder and claim to be a boxing coach. There is no independent certifying body that says this person is good enough to coach.
+
+Aside from that, there are two reasons why someone is an ineffective teacher or coach: either they don’t know the subject or they don’t know how to teach it to another person.
 
 My experience has been that most boxing coaches don’t really know anything about boxing. They don’t know how to teach the strategic, tactical, or physical elements of the sport. A telltale sign that your boxing coach doesn’t know much about boxing is that he focuses on conditioning over skills development.
 
