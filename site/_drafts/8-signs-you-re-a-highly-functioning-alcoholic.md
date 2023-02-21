@@ -8,8 +8,8 @@ tags:
 categories:
   - how-to-break-an-addiction
 description: >-
-  In this article, I mention both the obvious and subtle signs someone will show
-  if they are secretly an alcoholic, high-functioning or otherwise.
+  In this article, I mention the obvious and subtle signs someone will show if
+  they are secretly an alcoholic, high-functioning or otherwise.
 image: /assets/images/thumbnails/holiday-drunk.jpeg
 ---
 When I was an alcoholic, one of the ways I could trick people was with my success in boxing.
