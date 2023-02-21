@@ -52,7 +52,7 @@ Just because you don’t walk like a duck doesn’t mean you don’t quack when 
 
 If you or someone you know is exhibiting any of these signs. symptoms, or red flags, act fast. It might save your life or the life of someone that you love.
 
-## **Denial and Defensiveness**
+## **1) Denial and Defensiveness**
 
 Whenever someone suggested that I might drink too much, I either ignored them or convinced myself that we weren’t meant to get along. That’s the most obvious form of denial, but I could also fool myself. That form of denial is the most dangerous.
 
@@ -73,7 +73,7 @@ And then there’s the issue of my behavior while I was drunk.
 
 It’s easy to blame all of your bad behavior on drinking. It’s even easier when you’re an alcoholic, and it’s second nature when you’re high-functioning. The worst part is that everyone will just excuse your behavior because you were drinking, but if you’re like most high-functioning alcoholics, you’ll still feel guilty.
 
-## **Increased Tolerance**
+## **2) Increased Tolerance**
 
 The ability to drink a large amount of alcohol and still function with little to no signs of intoxication is a big sign of a heavy drinker. This appearance of sobriety is one of the reasons that high-functioning alcoholics can go so long before someone catches on.
 
@@ -82,6 +82,8 @@ Even when they binge drink, they rarely get visibly drunk. However, they still s
 I used to take pride in how much I could drink compared to everyone else.
 
 Because of how people imagine an alcoholic behaving, it’s hard to imagine someone who drinks but doesn’t get out of control, but my experience has shown me that these are the people who suffer the most from alcoholism.
+
+![Drinking lots with a high tolerance](/assets/images/drafts/ed-drunk.jpeg){: width="494" height="452"}
 
 If staying in control after heavy drinking seems counterintuitive as a sign of high-functioning alcoholism, consider this: how much does a person have to regularly consume to learn how to control themselves after drinking an amount of alcohol that puts many people in the hospital?
 
