@@ -22,6 +22,10 @@ In this article, I mention both the obvious and subtle signs someone will show i
 
 Whether it’s for yourself or a loved one, I’ve included some resources at the end to help you. You can also download a free chapter of my book “Sober Letters To My Drunken Self,” which I wrote to help people who need help but weren’t interested in going to alcohol rehab.
 
+![Sober Letters To My Drunken Self](/assets/images/drafts/sober-letters.jpeg "Sober Letters To My Drunken Self"){: width="183" height="275"}
+
+***Get a free chapter of [Sober Letter's To My Drunken Self](/resources/sober-letters-chapter/)***
+
 ## High-functioning alcoholic versus typical alcoholic
 
 If you ask the average person to describe the life of someone with a drinking problem, they usually imagine someone who can’t hold a job, has a DUI or few, and can’t step foot in a bar without losing their mind and getting blackout drunk.
