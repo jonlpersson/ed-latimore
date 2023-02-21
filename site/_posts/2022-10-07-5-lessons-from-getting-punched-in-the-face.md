@@ -6,7 +6,7 @@ permalink: /5-lessons-from-getting-punched-in-the-face/
 tags:
   - living-in-the-hood
   - boxing-lessons
-categories: 
+categories:
   - living-in-the-hood
   - boxing-lessons
 description: >-
@@ -44,6 +44,8 @@ Getting punched in the face is a great way to realize how strong and durable you
 
 Yes, you might get a bloody nose or a black eye, but unless you get sucker punched and you fall and hit your head, there is minimal chance of death from getting punched in the face. You won’t even lose consciousness MOST of the time. It will just hurt, but you’ll still be here.
 
+***Read some mindset tips from boxing—&gt;[48 life lessons from boxing](/how-to-think-like-a-professional-fighter/)***
+
 ## You learn to stand up for yourself
 
 Although I fought a lot as a kid, I never started those fights. I’m a pacifist, almost to a fault. I just refused to take anyone’s shit.
@@ -66,11 +68,15 @@ The best self-defense is often a preemptive offense. The hunter is usually ill-p
 
 There is nothing in life worth having that comes without pain and discomfort. Suffering is the price of admission for a life of contentment and satisfaction. If you’re unhappy with your life, you probably need to get punched in the face a few times.
 
-Not literally, in this case—though I always tell guys that the best way to improve your life is to train for a boxing or MMA fight. The reasons why relates to this principle. Training to take a fight is a miserable time. The training isn’t particularly fun, and getting hit is even less fun. Also, while the environment isn’t abusive, I wouldn’t exactly describe it as supportive either.
+Not literally, in this case—though I always tell guys that the best way to improve your life is to train for a boxing or MMA fight. The reasons why relates to this principle. Training to take a fight is a miserable time.
+
+The training isn’t particularly fun, and getting hit is even less fun. Also, while the environment isn’t abusive, I wouldn’t exactly describe it as supportive either.
 
 But by training and competing, you earn the respect of people who have done and the admiration of those who wish they could. Fighting isn’t the only arena to gain respect and admiration because you persisted in the face of adversity.
 
 Getting hit in the face isn’t the only way to prove to yourself that you’re made of something. It’s just the most accessible and the one with an immediate negative feedback mechanism to act as a corrective measure.
+
+But you probably [shouldn't get hit in the face too much if you box](/25-boxing-tips/).
 
 ## You learn the power of respect
 
