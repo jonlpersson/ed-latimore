@@ -43,3 +43,18 @@ Some are in and out of jail, others are high-powered businessmen or professional
 Just because you don’t walk like a duck doesn’t mean you don’t quack when you open your mouth. This is why it’s important to understand the signs of a high-functioning alcoholic. High-functioning alcoholism is like any other problem. You have to recognize it before you can do something about it.
 
 If you or someone you know is exhibiting any of these signs. symptoms, or red flags, act fast. It might save your life or the life of someone that you love.
+
+## **Denial and Defensiveness**
+
+Whenever someone suggested that I might drink too much, I either ignored them or convinced myself that we weren’t meant to get along. That’s the most obvious form of denial, but I could also fool myself. That form of denial is the most dangerous.
+
+> "**The first principle is that you must not fool yourself, and you are the easiest person to fool**."
+>
+>
+> \-RIchard Feynman
+
+I drank by myself, I binge drank, I drove drunk, and my personal life was a mess. But I convinced myself that everything was all good because I hadn’t been arrested, I held down a job, and I was still going to practice every day and winning boxing matches.
+
+When everything is going well, it’s easy to hide behind things.
+
+Denial is the most common sign of a high-functioning alcoholic.
