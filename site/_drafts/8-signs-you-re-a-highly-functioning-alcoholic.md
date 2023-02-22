@@ -73,7 +73,7 @@ Denial is the most common sign of a high-functioning alcoholic.
 
 Not only do they become defensive, but there is always an excuse to explain their drinking or behavior. I actually used to say that it was other people’s fault for not being able to get along with me while I was drunk because if we didn’t get along drunk, we probably wouldn’t get along sober either. That’s the level of denial I had as a high-functioning alcoholic.
 
-And then there’s the issue of my behavior while I was drunk.
+[And then there’s the issue of my behavior while I was drunk.](/how-to-know-if-you-have-a-drinking-problem/)
 
 It’s easy to blame all of your bad behavior on drinking. It’s even easier when you’re an alcoholic, and it’s second nature when you’re high-functioning. The worst part is that everyone will just excuse your behavior because you were drinking, but if you’re like most high-functioning alcoholics, you’ll still feel guilty.
 
