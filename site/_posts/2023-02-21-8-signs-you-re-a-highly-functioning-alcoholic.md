@@ -2,7 +2,7 @@
 date: 2023-02-21 14:08:00 -0500
 article_type: Article
 title: 8 signs you're a highly-functioning alcoholic
-permalink: /signs-of-a-highly-funcitoning-alcoholic/
+permalink: /signs-of-a-high-functioning-alcoholic/
 tags:
   - getting-sober
 categories:
