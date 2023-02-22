@@ -18,7 +18,7 @@ As long as I kept winning fights, people either looked the other way, made excus
 
 A highly functioning alcoholic whose alcohol abuse nearly cost him everything.
 
-In this article, I mention both the obvious and subtle signs someone will show if they are secretly an alcoholic, high-functioning or otherwise. If you found this article inquiring about your own condition, you may discover things are worse than you thought.
+In this article, I mention the obvious and subtle signs someone will show if they are secretly an alcoholic, high-functioning or otherwise. If you found this article inquiring about your own condition, you may discover things are worse than you thought.
 
 Whether it’s for yourself or a loved one, I’ve included some resources at the end to help you. You can also download a free chapter of my book “Sober Letters To My Drunken Self,” which I wrote to help people who need help but weren’t interested in going to alcohol rehab.
 
@@ -45,6 +45,10 @@ When your life isn’t falling apart, no one thinks of your drinking as a proble
 Alcoholism is a complex health issue that doesn’t look the same in everyone. In my book “Sober Letters to My Drunken Self,” I said that *“there are people who have a drinking problem and people who have problems when they drink.”*
 
 The idea is that while every alcoholic is the same, every alcoholic is also different.
+
+***My Tedx Talk about the role that identity plays in addiction***
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmU7IHdlYi1zaGFyZSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 Some are in and out of jail, others are high-powered businessmen or professional athletes, and then there are those struggling with alcohol dependence in secret. Not all alcoholics look like the stereotype of an addict.
 
