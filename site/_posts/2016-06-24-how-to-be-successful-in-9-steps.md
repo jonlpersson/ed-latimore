@@ -161,7 +161,7 @@ A large hurdle for me to overcome in my 20s was multitasking.
 
 I’d always have three or four projects in the works, thinking that working on many things at once was better than working only on one. However, multitasking is the most comfortable lie we tell ourselves.
 
-You can only work on one thing at a time. Each time you switch tasks, you lose time and momentum in the act of switching. You interrupt the state of flow you were [in the process of achieving](/review-of-the-gorilla-mind-rush-is-it-effective/).
+You can only work on one thing at a time. Each time you switch tasks, you lose time and momentum in the act of switching. You interrupt the [state of flow you were in the process of achieving.](/alpha-brain-review/)
 
 As a result, your complete work is low quantity AND quality. If you must do multiple projects, you chunk them into 1-2 hour blocks of time and remove access to all distractions. Your cellphone, internet, and changing music are the three big ones you have to deal with.
 
