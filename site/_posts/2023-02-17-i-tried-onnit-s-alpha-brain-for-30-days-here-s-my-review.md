@@ -46,6 +46,8 @@ To develop Alpha Brain, Marcus worked with a team of scientists and experts in n
 
 In 2011, Onnit released Alpha Brain to the public, and it quickly gained a following among individuals looking to improve their cognitive performance. The supplement has been very well covered by the media and is one of the best-known and most popular nootropic supplements on the market.
 
+***[Get it here](https://onnit.sjv.io/c/2316453/347302/5155)***
+
 ![Joe Rogan and Marcus Aubrey](/assets/images/drafts/joe-rogan-and-marcus-aubry.jpeg "Joe Rogan has been a big campaigner of the supplement"){: width="450" height="253"}
 
 ## Who is Aubrey Marcus, and why does it matter
@@ -151,6 +153,10 @@ These two ingredients appear to be supplementary to the rest of the primary ingr
 * **Vitamin B6 (Pyridoxine HCI):** One of the key roles of Vitamin B6 is in the production of neurotransmitters serotonin, dopamine, and norepinephrine. By increasing the availability of these neurotransmitters, Vitamin B6 may enhance cognitive function and promote mental alertness and focus. ([Source](https://pubmed.ncbi.nlm.nih.gov/29685187/){: target="_blank"})
 * **Cat's Claw Extract:** Cat's Claw extract is a natural compound that is derived from the bark and roots of the Uncaria tomentosa plant. It has been used traditionally in South American medicine for its anti-inflammatory and immune-boosting properties.Recent research suggests that Cat's Claw extract may also have cognitive benefits. It contains several bioactive compounds, including oxindole alkaloids, which have been shown to improve cognitive function and memory. ([Source](https://www.drlamcoaching.com/blog/cats-claw-and-the-brain/){: target="_blank"})
 
+The ingredients in Alpha Brain are safe and effective. With that said, I'm not your doctor. I'm not a doctor at all. None of this is medical advice. Just my experiences.
+
+If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/c/2316453/347302/5155), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.&nbsp;](/how-to-get-into-boxing/)
+
 ## **My overall experience with Alpha Brain**
 
 I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on how much work I have to do and how well I slept the night before. As I write this, my son is a few days shy of 3 months, and as all new parents know, my sleep has been trash.
@@ -177,7 +183,7 @@ I can honestly say that this is the first nootropic to make me feel more product
 
 It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
 
-Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves while on Alpha Brain.
+Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves [while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ![Alpha and Theta waves for flow state](/assets/images/drafts/brain-wave-chart-flow-state.png "Alpha and Thea waves are most present during flow state. Pic courtesy of https://www.diygenius.com/"){: width="600" height="323"}
 
