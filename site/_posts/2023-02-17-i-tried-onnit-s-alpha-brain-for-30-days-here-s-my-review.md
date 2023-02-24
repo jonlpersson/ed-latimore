@@ -28,6 +28,8 @@ This is one of the best nootropics you can buy that is not a neuropeptide or ove
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
+***Though if you do just want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/c/2316453/347302/5155).***
+
 I also give you information on the history of the company, its founder Marcus Aubrey, and what lead him to create Onnit Labs and help thousands improve their physical and mental performance.
 
 Let’s get into it!
