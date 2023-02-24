@@ -8,7 +8,7 @@ tags:
 categories:
   - the-inner-work
 description: >-
-  Discover how to build resilience in life by asking yourself specific questions on a daily basis, and following the works of these philosphers.
+  Discover how to build resilience in life by asking yourself specific questions on a daily basis, and following the works of these philosophers.
 image: /assets/images/thumbnails/ed-with-arms-crossed.jpg
 ---
 
