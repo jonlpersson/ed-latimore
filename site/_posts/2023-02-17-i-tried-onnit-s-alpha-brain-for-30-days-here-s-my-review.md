@@ -218,7 +218,7 @@ Without deep sleep, you begin to show the symptoms of sleep deprivation. I was h
 
 This benefit is interesting because, according to the research, I should theoretically be spending less time in deep sleep but more time in REM. This is clearly not happening. Even if the Oura Ring is inaccurate, I know how I feel.
 
-I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylcholinesterase, the enzyme that breaks down acetylcholine, acts very quickly. So, if I take the supplement at 8 am, by midnight, half is left in my body, and it is presumably half as effective at staving off Acetylcholinesterase.
+I suspect it’s because the half-life of Huperzine A is 10-14 hours and Acetylcholinesterase, the enzyme that breaks down acetylcholine, acts very quickly. So, if I take the supplement at 8 am, by midnight, half is left in my body, and it is presumably half as effective at staving off acetylcholinesterase.
 
 ## **Gorilla Mind Smooth is a possible alternative**
 
@@ -232,6 +232,8 @@ Gorilla Mind Smooth effectively does the same thing and even has an identical in
 2. **Negative.** Gorilla Mind Smooth has a serving size of 6 capsules. That’s a lot of capsules. Furthermore, it’s my opinion that the effect Gorilla Mind Smooth is not as intense nor does it last as long.<br><br>This tells us that Alpha Brain likely has the exact amounts of the ingredients hidden in a propriety blend to keep competitors from knowing how to do more with less.
 
 In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the acetylcholine.
+
+I'll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.&nbsp;](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ## Side effects, warnings, and disclaimers&nbsp;
 
