@@ -244,3 +244,11 @@ I personally didn’t experience any of these side effects. I’m just reporting
 Also, it's been recommended that you don't take this supplement everyday, as you can build a tolerance, making it far less effective.&nbsp;
 
 As a disclaimer, I have to state the obvious: if you have any type of medical condition, you should probably consult your doctor before taking this. This post isn’t medical advice. It’s just my experience with a product.
+
+## In closing
+
+If this review helped you decide to buy some Alpha Brain, I'd love if you purchased through one of my affiliate links on this page. It costs you nothing and helps me out.
+
+Much love and the rest is up to you!
+
+***[Buy here](https://onnit.sjv.io/c/2316453/347302/5155)***
