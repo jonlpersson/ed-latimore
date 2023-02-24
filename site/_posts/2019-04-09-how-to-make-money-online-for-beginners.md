@@ -169,7 +169,7 @@ What I'm about to say may seem obvious, but I've learned that common sense isn't
 
 It can be a digital good, a physical good, or a service. It can be yours or someone else's.
 
-In my case, I sell all of the above. I write and sell books that are available as physical copies and as e-books. I help promote the products I use (like the [Wim Hof breathing course](/wim-hof-method-review/) or the [Gorilla Mind Rush nootropic stack](/review-of-the-gorilla-mind-rush-is-it-effective/)) and in exchange, I receive a small sales commission. I offer my services as a social media consultant, specifically on Twitter.
+In my case, I sell all of the above. I write and sell books that are available as physical copies and as e-books. I help promote the products I use (like the [Wim Hof breathing course](/wim-hof-method-review/) or the [Onnit's Alpha Brain](/alpha-brain-review/)) and in exchange, I receive a small sales commission. I offer my services as a social media consultant, specifically on Twitter.
 
 ![Content I make money online with](/assets/images/posts/4packrightsize.png "Products of mine that I've sold to make a decent living online")
 
