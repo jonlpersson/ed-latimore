@@ -22,7 +22,7 @@ Given that I'm currently in the state of constant sleep deprevation that all new
 
 ![Ed Latimore with his son 3 month old that causes sleep deprivation](/assets/images/drafts/ed-and-his-son.jpeg "I'm smiling, but I'm secretly exhausted haha"){: width="400" height="531"}
 
-The rest of this article goes into detail and gives a little background into the supplement, but I'll give you a small spoiler alert:&nbsp;
+The rest of this article goes into detail and gives a little background into the supplement, but I'll give you a small spoiler alert:
 
 This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
 
@@ -92,7 +92,7 @@ I imagine this is done to defend against competitors looking to emulate their sp
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
 
-***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total&nbsp;***
+***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total ***
 
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
 
@@ -155,13 +155,13 @@ These two ingredients appear to be supplementary to the rest of the primary ingr
 
 The ingredients in Alpha Brain are safe and effective. With that said, I'm not your doctor. I'm not a doctor at all. None of this is medical advice. Just my experiences.
 
-If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/c/2316453/347302/5155), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.&nbsp;](/how-to-get-into-boxing/)
+If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/c/2316453/347302/5155), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.](/how-to-get-into-boxing/)
 
 ## **My overall experience with Alpha Brain**
 
 I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on how much work I have to do and how well I slept the night before. As I write this, my son is a few days shy of 3 months, and as all new parents know, my sleep has been trash.
 
-It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.&nbsp;
+It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.
 
 Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
 
@@ -201,7 +201,7 @@ I use an [Oura Ring](https://oura.link/bJ6o__WO) to track my sleep. According to
 
 Deep sleep is a specific phase of sleep where a lot of restorative activity takes place. ([Source](https://www.sleepfoundation.org/stages-of-sleep/deep-sleep))
 
-It's agreed that you need to spend between 13 and 23% of your sleeping time in deep sleep. To put that in perspective, this means that if I got 7 hours of sleep, I should expect to spend 55 and 97 minutes in deep sleep. Well, I'm not getting 7 hours of sleep, but I'm spending well over 97 minutes in deep sleep.&nbsp;
+It's agreed that you need to spend between 13 and 23% of your sleeping time in deep sleep. To put that in perspective, this means that if I got 7 hours of sleep, I should expect to spend 55 and 97 minutes in deep sleep. Well, I'm not getting 7 hours of sleep, but I'm spending well over 97 minutes in deep sleep.
 
 During deep sleep, a variety of functions take place in the mind and body:
 
@@ -233,15 +233,15 @@ Gorilla Mind Smooth effectively does the same thing and even has an identical in
 
 In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the acetylcholine.
 
-I'll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.&nbsp;](https://onnit.sjv.io/c/2316453/347302/5155)
+I'll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.](https://onnit.sjv.io/c/2316453/347302/5155)
 
-## Side effects, warnings, and disclaimers&nbsp;
+## Side effects, warnings, and disclaimers
 
 Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
 
 I personally didn’t experience any of these side effects. I’m just reporting on what other people have reported.. In fact, I’m sleeping better now that I’m on it. That may be because of the neuroprotective and neuro-regenerative effects of many of Alpha Brain’s ingredients. It may also be because I don’t take the supplement any later than 9 am.
 
-Also, it's been recommended that you don't take this supplement everyday, as you can build a tolerance, making it far less effective.&nbsp;
+Also, it's been recommended that you don't take this supplement everyday, as you can build a tolerance, making it far less effective.
 
 As a disclaimer, I have to state the obvious: if you have any type of medical condition, you should probably consult your doctor before taking this. This post isn’t medical advice. It’s just my experience with a product.
 
