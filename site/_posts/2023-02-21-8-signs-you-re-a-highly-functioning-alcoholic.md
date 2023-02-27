@@ -145,7 +145,7 @@ Alcoholism is a neurological disorder. You can't stop drinking because alcohol a
 
 There are numerous treatment options and support groups.
 
-People typically think AA is the only option, but several inpatient and outpatient treatment programs exist to help you get sober and stay that way.
+People typically think AA is the only option, but several inpatient and [outpatient treatment programs exist](https://archstonerecovery.com/rehab-blog/how-to-choose-an-addiction-treatment-program/)to help you get sober and stay that way.
 
 ## **What should you do if you’re a high-functioning alcoholic or know one?**
 
