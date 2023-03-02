@@ -11,9 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-include-cache"
   gem "jekyll-responsive-image"
-  gem "jekyll-last-modified-at"
   gem "jekyll-twitter-plugin"
-  gem "jekyll-cloudcannon-schedule"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
