@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-include-cache"
   gem "jekyll-responsive-image"
+  gem "jekyll-last-modified-at"
   gem "jekyll-twitter-plugin"
 end
 
