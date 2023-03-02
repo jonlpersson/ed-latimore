@@ -56,7 +56,7 @@ Aubrey Marcus is an American entrepreneur, author, and podcast host and founder/
 
 Marcus is known for his focus on optimizing human performance. His philosophy is based on the idea that we can all achieve our full potential by focusing on various aspects of our health and well-being, including nutrition, fitness, mindfulness, and personal development.
 
-![Aubrey Marcus founder of Onnit](/assets/images/drafts/aubrey-marcus.jpeg "Aubrey Marcus training"){: width="183" height="275"}![](/assets/images/drafts/aubrey-marcus-1.tiff)
+![Aubrey Marcus founder of Onnit](/assets/images/drafts/aubrey-marcus.jpeg "Aubrey Marcus training"){: width="183" height="275"}
 
 Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men's Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
 
@@ -92,7 +92,7 @@ I imagine this is done to defend against competitors looking to emulate their sp
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
 
-***According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total ***
+*\*\*According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total \*\**
 
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
 
