@@ -55,7 +55,6 @@ plugins:
   - jekyll-responsive-image
   - jekyll-last-modified-at
   - jekyll-twitter-plugin
-  - jekyll-cloudcannon-schedule
 
 # Plugin settings
 responsive_image:
