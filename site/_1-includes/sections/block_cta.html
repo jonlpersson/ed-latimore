@@ -3,12 +3,14 @@
     <div class="grid gap-6 md:grid-cols-2">
       <div class="w-full">
         <div class="w-full aspect-w-16 aspect-h-10">
+          {% unless item.image == nil or item.image == "" %}
           {% responsive_image_block %}
             path: {{ item.image | remove_first:"/" }}
             alt: {{ page.title }}
             class: "object-contain h-full"
             sizes: "620px"
           {% endresponsive_image_block %}
+        {% endunless %}
         </div>
       </div>
       <div class="space-y-8">

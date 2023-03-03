@@ -19,11 +19,11 @@ hero:
 page_blocks:
   - _id: block_rich_text
     alignment: center
-    text_markdown: >-
+    text_markdown: |
       **Pornhub recently compiled a survey about pornography users' viewing
       habits from 2008-2017…**
 
-
+      
       * In 2008, 134 hours of pornography were uploaded to Pornhub. In 2017, it
       was 476,291 hours.
 
