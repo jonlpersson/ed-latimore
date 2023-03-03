@@ -154,7 +154,4 @@ page_blocks:
       * Every heavy drinker has feelings of guilt and regret. You’ll discover
       the specific methods I’ve used to process these powerful emotions so you
       can have a positive, healthy future.
-
-
-      {% include widgets/summary.html id="gorilla-mode" %}
 ---
