@@ -23,7 +23,7 @@ page_blocks:
       **Pornhub recently compiled a survey about pornography users' viewing
       habits from 2008-2017…**
 
-      
+
       * In 2008, 134 hours of pornography were uploaded to Pornhub. In 2017, it
       was 476,291 hours.
 
@@ -176,7 +176,7 @@ page_blocks:
       Download *Dick Detox: The ultimate guide to quitting porn* and restore
       your confidence, vitality, and sex life today!
   - _id: block_cta
-    image: ''
+    image: '/assets/images/thumbnails/dick-detox-cover.jpg'
     heading: Beat your porn habit today
     text: Get your free guide to beating porn
 ---
