@@ -81,9 +81,9 @@ I’ve also included a short explanation of what each ingredient does—though I
 * **GlycerPump™:** A unique formula consisting of 65% Glycerol powder that hyper-hydrates your muscles to increase muscle pump.
 * **Malic Acid:** An alpha hydroxy acid commonly found in fruit that can counter lactic acid buildup during workouts to enhance athletic performance.
 * **Agmatine Sulfate:** A neurotransmitter and neuromodulator with antianxiety and antidepressant-like effects to help elevate mood. It can also [manipulate the body’s pain receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27068/), allowing you to power through more intense workouts.
-* **Nitrosigine&reg;:** An inositol-stabilized arginine silicate that causes flow-mediated dilation to increase muscle pump. It has also been shown to be a much more effective vasodilator per serving than other common formulas at increasing NO levels.
+* **Nitrosigine®:** An inositol-stabilized arginine silicate that causes flow-mediated dilation to increase muscle pump. It has also been shown to be a much more effective vasodilator per serving than other common formulas at increasing NO levels.
 * **Sodium Nitrate:** A salt commonly used to preserve foods, pharmaceuticals, and dietary supplements.
-* **VasoDrive-AP&reg;:** Also known as AmealPeptide&reg;, VasoDrive-AP is used to improve arterial flexibility by increasing the production of endothelial nitric oxide synthase (eNOS). VasoDrive-AP is a naturally occurring blood-pressure support ingredient derived from milk protein through a proprietary enzymatic process.
+* **VasoDrive-AP®:** Also known as AmealPeptide®, VasoDrive-AP is used to improve arterial flexibility by increasing the production of endothelial nitric oxide synthase (eNOS). VasoDrive-AP is a naturally occurring blood-pressure support ingredient derived from milk protein through a proprietary enzymatic process.
 
 ## Frequently asked questions
 
