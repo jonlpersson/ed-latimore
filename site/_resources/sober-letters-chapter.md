@@ -154,6 +154,9 @@ page_blocks:
       * Every heavy drinker has feelings of guilt and regret. You’ll discover
       the specific methods I’ve used to process these powerful emotions so you
       can have a positive, healthy future.
+
+
+      This is the book I wish I had when I was at the mercy of alcohol.&nbsp;
   - _id: block_cta
     image: >-
       /assets/images/resources/the-3-things-keeping-you-from-getting-sober-3d-1.png
