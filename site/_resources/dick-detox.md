@@ -176,7 +176,7 @@ page_blocks:
       Download *Dick Detox: The ultimate guide to quitting porn* and restore
       your confidence, vitality, and sex life today!
   - _id: block_cta
-    image: /assets/images/thumbnails/dick-detox-cover.jpg
+    image: ''
     heading: Beat your porn habit today
     text: Get your free guide to beating porn
 ---
