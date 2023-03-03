@@ -154,4 +154,9 @@ page_blocks:
       * Every heavy drinker has feelings of guilt and regret. You’ll discover
       the specific methods I’ve used to process these powerful emotions so you
       can have a positive, healthy future.
+  - _id: block_cta
+    image: >-
+      /assets/images/resources/the-3-things-keeping-you-from-getting-sober-3d-1.png
+    heading: 'The 3 Things Keeping You From Getting Sober: And How to Beat Them'
+    text: Download your free chapter
 ---
