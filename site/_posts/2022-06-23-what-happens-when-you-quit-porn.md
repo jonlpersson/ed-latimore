@@ -85,8 +85,6 @@ If you’re in a relationship, you’ll notice you are more capable of giving an
 
 When you stop watching porn, you train your sexual behavior to respond to artificial stimuli. This can ruin your sex life. So when you quit porn you rewire your sex drive to help you get close to your significant other again. You start to see each other as a source of sexual gratification again.
 
-{% include widgets/summary.html id=“Dick-Detox” %}
-
 ## The brain fog clears
 
 Brain fog isn’t always easily detectable. Sometimes, it’s simply not feeling like yourself. Other times, it shows up as forgetfulness or a lack of focus.
