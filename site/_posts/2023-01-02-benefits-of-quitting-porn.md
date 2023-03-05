@@ -69,8 +69,6 @@ Men and women who quit pornography often report better, more respectful relation
 
 When your relationships improve, you are less stressed and your overall mental health and sense of wellness improve.
 
-{% include widgets/summary.html id=“Dick-Detox” %}
-
 ## Appreciate things for the way they are
 
 It’s not a surprise that porn is sensationalized. It’s documented that the porn industry routinely uses fake penises and fake ejaculate. They also film sessions over several days but edit scenes to look like the actors could go for hours.
