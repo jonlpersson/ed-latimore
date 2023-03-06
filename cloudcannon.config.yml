@@ -63,6 +63,20 @@ _editables:
     embed: true
     image: true
     link: true
+  text_markdown:
+    format: p h2 h3 h4
+    removeformat: true
+    bold: true
+    italic: true
+    strike: true
+    blockquote: true
+    horizontalrule: true
+    numberedlist: true
+    bulletedlist: true
+    table: true
+    embed: true
+    image: true
+    link: true
 
 _structures:
   page_blocks:
