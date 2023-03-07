@@ -141,7 +141,7 @@ When done explicitly, it looks like a typical sales letter you've seen all over 
 
 When done implicitly, this is the art of becoming a walking billboard for the power of whatever you're touting. The solution speaks for itself in the testimony that is your existence.
 
-I'm only average at writing copy. [Where I excel is showing how a product affects my life](/review-of-the-gorilla-mind-rush-is-it-effective/). My entire strategy for income generation is based around a simple idea: if I don't use it, I don't sell it. The beauty of implicit selling is that it forces you to be authentic.
+I'm only average at writing copy. [Where I excel is showing how a product affects my life](/alpha-brain-review/). My entire strategy for income generation is based around a simple idea: if I don't use it, I don't sell it. The beauty of implicit selling is that it forces you to be authentic.
 
 ![Using your body to nake money online](/assets/images/posts/ed-12-percent-bodyfat.jpg "My body is a great billboard for anything I want to sale related to fitness")
 
