@@ -26,6 +26,8 @@ Outside of addiction, porn encourages poor mental habits and reinforces unrealis
 
 In this post, you’ll discover the benefits of quitting porn through my favorite method of emotional control—Stoicism.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Feel more in control of your emotions
 
 Because of the availability of internet porn, watching porn easily becomes a compulsion. You end up watching because you’re bored or have free time rather than because you have a craving for sex. This is much like eating because it’s lunchtime instead of because you feel hungry.
