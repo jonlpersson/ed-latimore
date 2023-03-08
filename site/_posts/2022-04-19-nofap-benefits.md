@@ -104,6 +104,8 @@ Lao Tzu said it best in the Tao Te Ching:
 
 “Conquering others is power; conquering the self is strength.”
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Changing your life with NoFap
 
 You don’t get the rewards of NoFap through information alone. It’s a path that requires you to constantly say no to instant gratification and instead raise your standards. Since we’re fundamentally wired to respond to sexual stimuli, it’s also not a challenge you should ever take lightly.
