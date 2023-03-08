@@ -57,6 +57,8 @@ The human mind has a surprisingly difficult time distinguishing between real and
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## **Should you give up porn?**
 
 I’m not anti-porn. I’m anti-porn addiction. It just so happens that porn is incredibly easy to get addicted to and I am *very* anti-addiction.
@@ -74,8 +76,6 @@ Or maybe you're just a guy who's healthy now but knows that his pornography view
 You don’t need professional help. You don’t need an intervention. You just need this article.
 
 Here is the plan I used to quit porn
-
-***\[Also, I have a excellent course to help you make even more progress in quitting porn you can&nbsp;*[*download it here*](https://gumroad.com/a/468639571){: target="_blank"}\]**
 
 ## 1\. Delete your browser history
 
@@ -206,4 +206,4 @@ I'm avoiding the argument of whether you should or shouldn’t watch porn. To qu
 
 After that, it gets much easier.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Dick-Detox" %}
