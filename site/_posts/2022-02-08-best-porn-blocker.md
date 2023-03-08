@@ -28,6 +28,8 @@ Deep down, you recognize some of the harmful effects it's having on your life, s
 
 But dealing with porn addiction—no matter how severe—doesn’t have to be a losing battle. Instead of relying on sheer willpower, you can kick the bad habit for good by making it impossible to look at it in the first place by using a tool called a porn blocker. Note, I do recieve a small commission if you sign up with the links below.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## What is a porn blocker
 
 Porn blockers are accountability software designed to block particular apps and websites known for hosting pornographic content. The software’s blacklist and safe search features make it impossible for you to browse porn on your laptop, smartphone or accidentally stumble upon it while surfing the web.
