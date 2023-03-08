@@ -132,7 +132,7 @@ You’ll get a headstart with my [Vicebreakers course](https://gumroad.com/a/468
 
 The rest is up to you.
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ---
 
