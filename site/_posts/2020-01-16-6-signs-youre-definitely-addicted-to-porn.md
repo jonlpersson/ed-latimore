@@ -65,7 +65,7 @@ Maybe you're wondering if you're addicted to porn. Or perhaps you know someone, 
 
 There are a few different ways to know if you have a porn addiction. I’ve compiled a list of the most common and obvious signs that you have a problem with porn.
 
-***\[Also, I have an excellent guide to help you make even more progress in quitting porn you can [purchase here](https://gumroad.com/a/468639571).\]***
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ## You can't stop watching porn
 
@@ -103,7 +103,7 @@ Indeed, if you somehow managed to do NOTHING but watch videos (not even sleep) u
 
 This means there would be over 2000 hours of unviewed footage remaining. And Pornhub also boasts that users uploaded 476,291 hours of video alone in 2016. That is almost double what it was the year before.
 
-That is an astonishing amount of porn, but more spectacular is that&nbsp;***ALL of it is free\!\!***
+That is an astonishing amount of porn, but more spectacular is that&nbsp;***ALL of it is free!!***
 
 And Pornhub is only 1 of many free streaming sites. There is no *logical* reason to spend money on pornography. And yet, it’s estimated that [pornography generates $6-$15 billion annually.](https://fightthenewdrug.org/how-free-porn-industry-growing-in-fast-paced-digitized/){: target="_blank"}
 
@@ -221,6 +221,8 @@ At first, you might have watched some people having sex, and that was great. But
 Porn tastes have evolved because people have [desensitized their brains](https://www.yourbrainonporn.com/tools-for-change-recovery-from-porn-addiction/rebooting-basics-start-here/desensitization-a-numbed-pleasure-response/){: target="_blank"} to just *regular stuff*. Furthermore, the combined powers of the Coolidge Effect along with the amount and variety of porn ensures that you’ll never be without a video to satisfy your cravings.
 
 A regular woman having regular sex can never compare to dolled up, edited women all performing exactly what you want, the way you want it, when you want it. Even if they aren’t actually in front of you.
+
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ## You have brain fog and low energy
 
