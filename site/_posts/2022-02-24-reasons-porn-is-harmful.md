@@ -77,6 +77,8 @@ The average age most people are exposed to porn for the first time is around 14.
 
 Without learning to cope in a healthy way with rejection, self-confidence issues, and tough emotions, you are more vulnerable in general to low self-worth and more illicit addictions.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Porn is the perfect storm for addiction
 
 There’s debate over whether porn is an addiction or a compulsion. But the studies are clear, a biological addiction, like eating and sex, is still an addiction.<sup id="fnref:1:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Internet porn is the perfect candidate for addiction because it has the trifecta needed to really do damage: Accessibility, affordability, and anonymity.
@@ -113,7 +115,7 @@ There’s a new movement in the alcohol industry called “sober curious”. Bri
 * Porn is a real addiction
 * Porn addiction has the same effects on your frontal lobe as a brain injury
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ---
 
