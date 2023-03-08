@@ -73,6 +73,8 @@ Physical withdrawals from porn can cause any stress-related symptoms, including:
 
 These pains, especially when mild, can go completely over the head of porn users. But treating the symptoms, rather than the root cause keeps you in the vicious addiction cycle.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ### Brain fog and poor mental health
 
 Porn teaches you to seek rewards that become harder to obtain.
@@ -117,6 +119,8 @@ Expect these life-changing benefits once you quit porn:
 * Healthy and productive relationships with women, family members, and loved ones
 * The ability to focus and think with logic and strategy, rather than compulsiveness
 * Self-respect and self-esteem gained by your willingness to stick with something difficult
+
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ## How to quit porn
 
