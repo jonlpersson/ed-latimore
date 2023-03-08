@@ -69,6 +69,8 @@ Overall, [Covenant Eyes](https://covenanteyes.sjv.io/QOzdN9) does a solid job of
 
 But I’ve found that the software's true value lies in its powerful combo of content blocking and partner accountability. The content blocker provides enough friction to accessing porn that you’ll eventually get frustrated and forget that you were even horny, and the accountability feature uses your sense of shame as a powerful tool to make sure you stop.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Frequently asked questions
 
 ### Is Covenant Eyes compatible with iOS?
@@ -104,3 +106,5 @@ One of the critical lessons I learned as a professional boxer is to always know 
 To make it a fair fight, you need to take a play out of the porn industry’s playbook by protecting yourself with a tool that’s also looking to constantly innovate.
 
 That’s what makes [Covenant Eyes my top choice for fighting back](https://covenanteyes.sjv.io/QOzdN9) (I get a small % cut of each sale made through the link, which helps pay my bills). Sure, there are a handful of apps on the market that can help you break the habit. Still, I haven’t found a better tool that delivers quite the one-two punch of effectively blocking adult content and offering the kind of accountability that gives you the agency to break free from addiction.
+
+{% include widgets/summary.html id="Dick-Detox" %}
