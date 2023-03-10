@@ -84,6 +84,8 @@ It costs $16.99/month for protection on unlimited devices (Mac, Windows, iOS, An
 
 Check out Covenant Eyes [here](https://covenanteyes.sjv.io/QOzdN9).
 
+***Here is a fantastic free video course on quitting porn by former student of mine, Devin McDermott. This is worth checking out if you continue to struggle with porn and all it's related challenges: [7 Steps to Living Porn Free](https://7steps.devinmcdermott.com/)***
+
 ### X3 Watch
 
 X3 Watch is another popular blocker that offers online accountability and monitoring. The software lets you send your tracked activity report to anyone you trust to hold you accountable. Attempts to uninstall the software or view blacklisted sites will send instant alerts to your accountability partner.
