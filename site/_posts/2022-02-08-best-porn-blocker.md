@@ -84,7 +84,7 @@ It costs $16.99/month for protection on unlimited devices (Mac, Windows, iOS, An
 
 Check out Covenant Eyes [here](https://covenanteyes.sjv.io/QOzdN9).
 
-{% include widgets/summary.html id="7-Steps" %}
+{% include widgets/summary.html id="7-steps" %}
 
 ### X3 Watch
 

@@ -60,7 +60,7 @@ So you’ll experience strong urges to go back to porn. Don’t do it. You’ll 
 
 You can masturbate during these cravings. Check out my [in-depth guide on quitting porn](https://gumroad.com/a/468639571) for more information on surviving without internet porn. In short, the goal isn’t to stop masturbating—unless you’re interested in the [benefits of the No Fap challenge](https://edlatimore.com/nofap-benefits/)—the goal is to break up with the hold porn has over you.
 
-{% include widgets/summary.html id="7-Steps" %}
+{% include widgets/summary.html id="7-steps" %}
 
 ## You regain your natural sexual rhythm
 
