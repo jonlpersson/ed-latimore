@@ -84,7 +84,7 @@ It costs $16.99/month for protection on unlimited devices (Mac, Windows, iOS, An
 
 Check out Covenant Eyes [here](https://covenanteyes.sjv.io/QOzdN9).
 
-***Here is a fantastic free video course on quitting porn by former student of mine, Devin McDermott. This is worth checking out if you continue to struggle with porn and all it's related challenges: [7 Steps to Living Porn Free](https://7steps.devinmcdermott.com/)***
+{% include widgets/summary.html id="7-Steps" %}
 
 ### X3 Watch
 
