@@ -251,11 +251,11 @@ At $189, these gloves represent a decent investment, but I can’t give you any 
 
 ![Cleto Reyes for sparring](/assets/images/drafts/cleto-reyes.jpg){: width="960" height="540"}
 
-In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them. I
+In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them.
 
-’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove.I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
+I’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove. I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
 
-I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way. I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. And that’s exactly the case.
+I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way. I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. ***And that’s exactly the case.***
 
 The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
 
@@ -279,7 +279,7 @@ These are my favorite gloves. I swear I’m not some secret Rival fanboy. It jus
 
 ![Ed Latimore and Roy Jones Jr.](/assets/images/drafts/ed-latimore-and-roy-jones-jr.jpeg "Me after sparring with Roy Jones Jr."){: width="500" height="333"}
 
-I like these gloves because they are everything a good bag glove should be. First starters, they’re easy to take on and off. After three years of relatively constant use, the velcro has remained strong with no signs of weakening. The glove does not hold sweat and does not hold odors either—and with how frequently I clean my gear, I’d know if they did.
+I like these gloves because they are everything a good bag glove should be. For starters, they’re easy to take on and off. After three years of relatively constant use, the velcro has remained strong with no signs of weakening. The glove does not hold sweat and does not hold odors either—and with how frequently I clean my gear, I’d know if they did.
 
 The fit around the hand is excellent. Specifically, the glove is small enough to be a decent bag glove, but big enough to protect your knuckles and support your wrist. This is a delicate balance that most boxing gloves miss. However, the Rival RB2 Super Bag Glove is right on the money.
 
