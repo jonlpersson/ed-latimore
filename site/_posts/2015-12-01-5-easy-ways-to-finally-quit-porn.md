@@ -29,7 +29,7 @@ Most literature on the internet talks about inner healing, dopamine, figuring ou
 
 Feeling complete and whole is good, but it doesn't exactly help you solve the problem. They give advice like this because they either lack experience with porn addiction (or any addiction, for that matter) or they're fakes who are trying to sell you something.
 
-***Here is a fantastic free video course on quitting porn by former student of mine, Devin McDermott. This is worth checking out if you continue to struggle with porn and all it's related challenges: [7 Steps to Living Porn Free](https://7steps.devinmcdermott.com/)***
+% include widgets/summary.html id="7-Steps" %\}
 
 ## **The negative consequences of internet porn**
 
