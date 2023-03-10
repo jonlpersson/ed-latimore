@@ -20,7 +20,9 @@ But for those work sessions that can’t get done until later in the day or when
 
 ## How it compares to Gorilla Mind Rush
 
-Gorilla Mind Smooth is the stimulant-free successor of Gorilla Mind Rush for when I need that extra dose of concentration without the caffeine. While I’m sad to see Rush go, Smooth has provided a much smoother, less extreme energy while still providing intense focus without the jitters or crashes.
+Some people thought Gorilla Mind Rush was too extreme, with many uses complaining of feelings of jitters and shakes. I personally did not have any of these issues, but given them ingredient profile (it's similar to Onnit's Alpha Brain), I can understand the complaints because I actually find myself feeling more easily annoyed on use Alpha Brain.
+
+Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement. While I’m sad to see Rush go, Smooth has provided a much smoother, less extreme energy while still providing intense focus without the jitters or crashes.
 
 It’s the best stim-free nootropic I’ve used. It has been a gamechanger for when I shift my work to later in the day but don’t want to pull an all-nighter due to the caffeine.
 
