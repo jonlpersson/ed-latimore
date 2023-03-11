@@ -38,7 +38,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. An interesting benefit of Gorilla Mode is that it simultaneously motivates you and actually gives you more energy. It's not just motivation and placebo. The malic acid, betaine anhydrous, agmatine sulfate, and huperzine-A are giving you more energy and focus.
 
-**After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)
+**After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)&nbsp;The only ingredient that has a long half-life is Huperzine A, but there is such a small amount that you'll be pretty much back to normal.&nbsp;
 
 ## Benefits
 
