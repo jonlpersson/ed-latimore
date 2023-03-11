@@ -12,7 +12,7 @@ description: >-
   think of it, how I take it, and how it compares to other brain supplements.
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
-I tried the Alpha Brain supplement for 30 days. To test out its efficacy, I watched my progress on 3 of my regular cognitive tasks:
+I tried the Onnit Alpha Brain supplement for 30 days. To test out its efficacy, I watched my progress on 3 of my regular cognitive tasks:
 
 * **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site.
 * **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)
@@ -64,7 +64,7 @@ Marcus has also been recognized for his leadership and entrepreneurship. He has 
 
 When I did some more research into Aubrey Marcus, I also discovered he’s a poet and a filmmaker. If there was ever someone you’d consider a “Renaissance Man”, Aubrey Marcus would fit the bill.
 
-## Alpha Brain has been tested in clinical trials
+## Onnit Alpha Brain has been tested in clinical trials
 
 ![Alpha Brain tested in clinical trials](/assets/images/drafts/alpha-brain-clinical-trials.jpeg "Alpha Brain tested in clinical trials"){: width="500" height="238"}
 
@@ -72,7 +72,7 @@ The entire supplement was tested. Not a few of the individual ingredients, but t
 
 This means that your supplement could be full of sawdust. Supplement companies know that there are no regulations, so they have no real incentive to be honest because no one is checking and good marketing, and a few well-placed anecdotes largely the result of the placebo effect is the hustle du jour.
 
-A 2016 study gave Alpha Brain or a placebo to 63 participants ages 18-35 for six weeks. The people who took Alpha Brain had better verbal recall and cognitive function than the placebo group.
+A 2016 study gave Onnit Alpha Brain or a placebo to 63 participants ages 18-35 for six weeks. The people who took Onnit Alpha Brain had better verbal recall and cognitive function than the placebo group.
 
 [From the study:](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595564/){: target="_blank"}
 
@@ -88,7 +88,7 @@ Even if the study results don’t influence your decision, the individual ingred
 
 **![Alpha Brain ingredients](/assets/images/drafts/alpha-brain-ingredients.jpg "The Alpha Brain ingredients"){: width="600" height="800"}**
 
-Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
+Onnit Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
 
 I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within.
 
