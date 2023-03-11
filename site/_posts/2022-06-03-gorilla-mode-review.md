@@ -32,9 +32,7 @@ My tolerate is absolutely ridiculous for caffeine because of how much caffeine I
 
 Here’s what I notice after taking it, although your experience may vary:
 
-**Within 15 minutes:** I start to feel more alert and focused, although it could just be the placebo effect since the caffeine hasn’t hit just yet.
-
-**Within 30 minutes:** My brain is on fire, and I can feel the blood coursing through my veins. My body is ready to hit the weights or speed bag if I haven't already.
+**Within 15-30 minutes:** I start to feel more alert and focused, although it could just be the placebo effect since the caffeine hasn’t hit just yet.My brain is on fire, and I can feel the blood coursing through my veins. My body is ready to hit the weights or speed bag if I haven't already.
 
 **Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. An interesting benefit of Gorilla Mode is that it simultaneously motivates you and actually gives you more energy. It's not just motivation and placebo. The malic acid, betaine anhydrous, agmatine sulfate, and huperzine-A are giving you more energy and focus.
 
