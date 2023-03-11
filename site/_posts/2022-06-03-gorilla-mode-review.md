@@ -80,7 +80,7 @@ Here’s the list of ingredients found in Gorilla Mode:
 
 I’ve also included a short explanation of what each ingredient does—though I encourage you to do your research. [Examine](https://examine.com/) is a trusted resource for learning more about each ingredient.
 
-* **L-Citrulline:** An amino acid that can help reduce fatigue, increase power output, and improve endurance in both aerobic and anaerobic exercise.
+* **L-Citrulline:** An amino acid that can help reduce fatigue, increase power output, and improve endurance in both aerobic and anaerobic exercise. ([Source](https://pubmed.ncbi.nlm.nih.gov/21908948/))
 * **Creatine Monohydrate:** An organic compound commonly found in meat and fish. When combined with resistance training, [research has shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/) that it can improve strength, [power output](https://examine.com/topics/power-output/), and lean mass.
 * **GlycerPump™:** A unique formula consisting of 65% Glycerol powder that hyper-hydrates your muscles to increase muscle pump.
 * **Betaine Anhydrous:** Also known as trimethylglycine (TMG), this naturally occurring compound can potentially enhance strength-based performance and hypertrophy by increasing blood flow and reducing fatigue.
