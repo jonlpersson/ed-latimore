@@ -20,9 +20,9 @@ But for those work sessions that can’t get done until later in the day or when
 
 ## How it compares to Gorilla Mind Rush
 
-Some people thought Gorilla Mind Rush was too extreme, with many uses complaining of feelings of jitters and shakes. I personally did not have any of these issues, but given them ingredient profile (it's similar to Onnit's Alpha Brain), I can understand the complaints because I actually find myself feeling more easily annoyed on use Alpha Brain.
+Some people thought Gorilla Mind Rush was too extreme, with many users complaining of feelings of jitters and shakes. I personally did not have any of these issues, but given them ingredient profile (it's similar to Onnit's Alpha Brain), I can understand the complaints because I actually find myself feeling more easily annoyed on use Alpha Brain.
 
-Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement. While I’m sad to see Rush go, Smooth has provided a much smoother, less extreme energy while still providing intense focus without the jitters or crashes.
+Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement.&nbsp;
 
 It’s the best stim-free nootropic I’ve used. It has been a gamechanger for when I shift my work to later in the day but don’t want to pull an all-nighter due to the caffeine.
 
@@ -36,13 +36,11 @@ Most days, I take Gorilla Mind Smooth first thing in the morning before tackling
 
 Here’s what I notice after taking it, although your experience may vary:
 
-**Within 15 minutes:** I can feel my mind start to zone in on the task at hand. I also begin to notice a slight uptick in focus and concentration.
+**Within 15 minutes:** I can feel my mind start to zone in on the task at hand. I also begin to notice a slight uptick in focus and concentration. This might be placebo, many of the ingredients increase acetylcholine and that causes increased blood flow and heightened concentration. So it's likely not in my head.
 
-**Within 1 hour:** My brain is on fire as I’ve reached flow state. I’ve achieved peak focus and concentration.
+**Within 1 hour:**&nbsp; Every ingredient in Gorillia Mind Smooth is at peak concentration in my blood stream. It's at this point that I generally feel in a great mood. The mood enhancement is one of the least discussed aspects of any nootropic supplement, and this one Gorilla Mind Rush is a great pick-me-up.
 
-**Within 90 minutes:** I’m still maintaining peak focus and concentration. I also feel slight euphoria from being in this elevated state.
-
-**After 6-8 hours:** I slowly return to my baseline state. It’s a smooth transition since there’s no chance of a caffeine crash. If it’s later in the evening, I may even roll straight into bed to get ready to tackle the next day.
+**After 6-8 hours:** I slowly return to my baseline state. And I mean slow.&nbsp; It’s a smooth transition since there’s no chance of a caffeine crash. Also, Huzeprine-A (one of the active ingredients) has a half-life of 10-14 hours. This means that it's going to continue to have a noticable acetylcholine boosting effect hours after you take it. However, sine there are no stimulants, you never feel too anxious.&nbsp;
 
 Since making Gorilla Mind Smooth a part of my morning ritual, these are the main benefits I’ve experienced.
 
