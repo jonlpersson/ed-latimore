@@ -84,13 +84,13 @@ The word around the internet is that this study was self-funded, and the results
 
 Even if the study results don’t influence your decision, the individual ingredients have been tested, and they more or less all contribute to improved mental performance.
 
-## **Alpha Brain Ingredients**
+## **Onnit Alpha Brain Ingredients**
 
 **![Alpha Brain ingredients](/assets/images/drafts/alpha-brain-ingredients.jpg "The Alpha Brain ingredients"){: width="600" height="800"}**
 
 Onnit Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
 
-I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within.
+I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within. I can only assume the ingredients are from.a verified, vetted, and trusted source.&nbsp;
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
 
@@ -100,7 +100,7 @@ The list of Alpha Brain ingredients, its three 3 proprietary blends, and their f
 
 ### Onnit Flow Blend
 
-During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state.
+During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state. The ingredients in the Onnit Flow Blend proprietary mixture help you express the combination alpha and theta waves more easily.&nbsp;
 
 Alpha waves are produced when the brain is in wakeful relaxation and are associated with a relaxed yet alert mental state. This mental state is often characterized by a feeling of calm and focus, similar to the state experienced during meditation. Alpha waves are believed to help enhance creativity, improve memory, and promote mental clarity.
 
