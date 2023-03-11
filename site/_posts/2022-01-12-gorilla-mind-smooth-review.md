@@ -20,7 +20,11 @@ But for those work sessions that can’t get done until later in the day or when
 
 ## How it compares to Gorilla Mind Rush
 
-Some people thought Gorilla Mind Rush was too extreme, with many users complaining of feelings of jitters and shakes. I personally did not have any of these issues, but given them ingredient profile (it's similar to Onnit's Alpha Brain), I can understand the complaints because I actually find myself feeling more easily annoyed on use Alpha Brain.
+Some people thought Gorilla Mind Rush was too extreme, with many users complaining of feelings of jitters and shakes.
+
+I personally did not have any of these issues, but given them ingredient profile (it's similar to Onnit's Alpha Brain), I can understand the complaints because I actually find myself feeling more easily annoyed on use Alpha Brain.
+
+![Coffee lovers](/assets/images/posts/coffee-so-black.jpeg "I drink a lot of coffee, so might be a bit of resistance"){: width="500" height="503"}
 
 Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement.&nbsp;
 
@@ -78,7 +82,7 @@ GMS is not only stimulant free, but the main difference between GMS and Gorilla 
 
 If you're a harder stimulant or nootropic veteran, you may simply not feel any effects from it. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
 
-This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system.
+This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system. I wouldn't take this before a chess match if I was looking for an edge, but I WOULD take it to keep my mood high while I'm playing.&nbsp;
 
 If you’re expecting GMS to make you feel like Bradley Cooper in *Limitless*, this ain’t it. The effects are much more subtle. Compared to other stimulant-laden nootropics, it can sometimes be hard to tell if I’m experiencing a mental boost or just the results of a placebo. It’s when I’ve refrained from taking stimulants for a while that I notice the full effects of GMS.
 
