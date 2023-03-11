@@ -54,9 +54,11 @@ I think a lot of people underestimate how well preworkouts can help you with end
 
 Gorilla Mode isn’t just a powerful strength enhancer; it also provides a significant cognitive boost thanks to its nootropic formula of L-Tyrosine, Kanna, and Huperzine A. Combined, this formula significantly increases energy, focus, and overall mental sharpness.
 
-While it's a bit ridiculous to use this \*strictly\* as a nootropic,&nbsp;
+While it's a bit ridiculous to use this \*strictly\* as a nootropic, but it does create a nice synergistic effect if you take Gorilla Mind Smooth after you get a workout in using Gorilla Mode.&nbsp;
 
-Taking Gorilla Mode has helped me up my intensity and mental clarity in the gym. It's much easier to stay locked in and push for those extra reps without feeling distracted or wanting to give up.
+Aside from that, Gorilla Mode has increased my intensity and mental clarity in the gym. It's easier to stay focused and locked in while using it. The caffeine provides energy, bt the supporting L-Tyrosine, Kanna, and Huperzine-A drive support your focus and energy.&nbsp;
+
+It's much easier push for those extra reps or run an extra mile or two without feeling distracted or wanting to give up.
 
 ## Drawbacks
 
