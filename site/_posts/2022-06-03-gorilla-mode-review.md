@@ -92,13 +92,11 @@ I’ve also included a short explanation of what each ingredient does—though I
 * **Bioperine:** A trademarked formula of black pepper extract standardized to 95% Piperine that’s commonly used as an anti-inflammatory agent and antioxidant, capable of eliminating free radicals within the body.
 * **Huperzine A:** A cognitive enhancer that increases cognitive function and memory, helps body composition, and combats aging.
 
-I do love how in the zone it makes me feel. Even without even if you aren't working out, you could use it to get a lot of mental tasks done.
-
 ## How it compares to other pre-workouts
 
 Walk into any gym or commercial nutrition store, and you’ve likely come across a variety of pre-workout supplements packaged with bright colors and bold claims. It can be overwhelming to pick which product is right for you amid the marketing hype and confusing trademarked pre-workout formulas.
 
-To help you out, here’s how Gorilla Mode performs against some of the most popular pre-workouts on the market.
+Since I haven't tried many preworkout personally, I did the next best thing: I compared the ingredient profiles of some of the most popular pre-workouts. To help you out, here’s how Gorilla Mode performs against some of the most popular pre-workouts on the market.
 
 ### Gorilla Mode vs. DAS LABS Bucked Up
 
