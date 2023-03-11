@@ -48,7 +48,7 @@ In particular, the L-Citrulline, GlycerPump, Agmatine, Creatine, and Betaine sat
 
 Now, I'm not typically a weight lifter, but since I've stopped competing professionally, it's something that I've started doing to stay in shape. The effect it has on me hitting the bag and running is just as awesomel
 
-I think a lot of people underestimate how well preworkouts can help you wi
+I think a lot of people underestimate how well preworkouts can help you with endurance training. While the energy boost is artificial and temporary, the adaptations that your cardiovascular system makes will last after the training.&nbsp;
 
 ### Increased focus
 
