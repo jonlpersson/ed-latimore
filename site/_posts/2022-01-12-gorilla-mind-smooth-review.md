@@ -58,9 +58,11 @@ Both of these ingredients aid in the production of dopamine and seratonin. This 
 
 ### Improve reaction times and athletic performance
 
-While I'm not longer a professional fighter, I still make it a point to stay in shape. I also never miss a workout. But like trying to maintain any daily routine, there will be days when you wake up ready to crush it and days where you’ll have no motivation. Struggling with daily motivation might be a sign of a deeper issue, more on [lack of motivation here](https://edlatimore.com/lack-of-motivation/).
+While I'm not longer a professional fighter, I still make it a point to stay in shape. I also never miss a workout. With my routine, I'd like to think that it wouldn't take too long to get back into fighting shape.
 
-The key to never missing a workout is getting in the right mental state, no matter how tired or lazy I might feel. On days when I just don’t have it, I take GMS about an hour before I hit the gym so I’m good to go once there.
+While I love the gym, I don't have the same type of burning motivation I had to get in there when I was doing it for a living. That's where GMS comes in handy, as it boosts my mood and motivation.&nbsp;
+
+Since I also still spar, I noticed that GMS helps with my reaction time and explosiveness. Now to be fair, the ingredients that seem to responsible for that are pretty standard when it comes to nootropic supplements, but as far as I can tell, what makes GMS unique is that it doesn't have any other ingredients in it that are banned by the World Anti Doping Agency (WADA).&nbsp;
 
 The 100mg dose of L-Theanine helps me [maintain my reaction time and mental sharpness](https://www.sciencedirect.com/science/article/pii/S1756464611000351) to get the most out of those long grueling sessions. Couple that with the 600mg of Alpha GPC for [boosting my growth hormone and fat oxidation](https://pubmed.ncbi.nlm.nih.gov/22673596/), and it’s how I stay in peak physical form.
 
