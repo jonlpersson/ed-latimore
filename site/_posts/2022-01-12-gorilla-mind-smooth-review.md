@@ -66,7 +66,7 @@ Since I also still spar, I noticed that GMS helps with my reaction time and expl
 
 The 100mg dose of L-Theanine helps me [maintain my reaction time and mental sharpness](https://www.sciencedirect.com/science/article/pii/S1756464611000351) to get the most out of those long grueling sessions. Couple that with the 600mg of Alpha GPC for [boosting my growth hormone and fat oxidation](https://pubmed.ncbi.nlm.nih.gov/22673596/), and it’s how I stay in peak physical form.
 
-Getting just 5% more out of each workout may not seem like much in the short term, but compound those training sessions for one, two, or even five years, and your body and mind will be in an unrecognizable place from where you are now.
+It doesn't turn me into superman, it does allow me to get a bit extra out of my body. Getting just 5% more out of each workout may not seem like much in the short term, but compound those training sessions for one, two, or even five years, and your body and mind will be in an unrecognizable place from where you are now.
 
 If you consider yourself a competitive athlete or someone looking to take their training sessions to the next level, I can’t recommend GMS enough.
 
