@@ -56,9 +56,9 @@ I would never describe this as euphoria. It's more of an undeterrable optimism a
 
 Both of these ingredients aid in the production of dopamine and seratonin. This is a very nice addition, as both of these are naturally occurring are missing in most nootropics. GMS seems to take the stance that a good mood is essential for productivity, and I'm here for it.&nbsp;
 
-### Better training sessions
+### Improve reaction times and athletic performance
 
-Writing isn’t the only habit I do every day. I also never miss a workout. But like trying to maintain any daily routine, there will be days when you wake up ready to crush it and days where you’ll have no motivation. Struggling with daily motivation might be a sign of a deeper issue, more on [lack of motivation here](https://edlatimore.com/lack-of-motivation/).
+While I'm not longer a professional fighter, I still make it a point to stay in shape. I also never miss a workout. But like trying to maintain any daily routine, there will be days when you wake up ready to crush it and days where you’ll have no motivation. Struggling with daily motivation might be a sign of a deeper issue, more on [lack of motivation here](https://edlatimore.com/lack-of-motivation/).
 
 The key to never missing a workout is getting in the right mental state, no matter how tired or lazy I might feel. On days when I just don’t have it, I take GMS about an hour before I hit the gym so I’m good to go once there.
 
