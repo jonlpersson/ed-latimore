@@ -44,7 +44,11 @@ Here’s what I notice after taking it, although your experience may vary:
 
 Gorilla Mode provides a massive increase in nitric oxide (NO) levels, intramuscular hydration, energy, focus, and a significant boost in muscle strength and endurance that you’ll be hard pressed to find in any pre-workout.
 
-The massive dose of L-Citrulline, GlycerPump, Agmatine, Creatine, and Betaine saturate your muscles with blood to maximize your pump and performance while balancing your energy levels and focus to complete those [long, grueling workouts.](/boxing-training/)
+In particular, the L-Citrulline, GlycerPump, Agmatine, Creatine, and Betaine saturate synergistically work together to give your muscles more energy and the ability to generate more strength. muscles with blood to maximize your pump and performance while balancing your energy levels and focus to complete those [long, grueling workouts.](/boxing-training/)
+
+Now, I'm not typically a weight lifter, but since I've stopped competing professionally, it's something that I've started doing to stay in shape. The effect it has on me hitting the bag and running is just as awesomel
+
+I think a lot of people underestimate how well preworkouts can help you wi
 
 ### Increased focus
 
