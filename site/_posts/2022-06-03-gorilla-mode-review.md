@@ -12,7 +12,13 @@ description: >-
   how I use it, and how it compares to other popular pre-workouts.
 image: /assets/images/thumbnails/gorilla-mode-thumbnail.jpg
 ---
-[Gorilla Mode](https://gorillamind.com/r?id=01kb6h) is the pre-workout claiming to outwork all pre-workouts by providing the maxed-out formula in all aspects compared to anything else you’ll find on the market. It’s a quality product that doesn’t hold back on delivering the perfect blend to help you hit the next level.
+[Gorilla Mode](https://gorillamind.com/r?id=01kb6h) is the pre-workout claiming to outwork all pre-workouts by providing the maxed-out formula in all aspects compared to anything else you’ll find on the market.
+
+I don't have a lot of experience using pre-workouts, so I went and tried a few to compare how they could potentially prework help with my training. To summarize everything you'll read in the rest of this article:
+
+Gorilla Mode is a legitimately good product that combines ingredients that enhance your strength AND gives you more energy to get extra reps in when you're lifting OR allow you to push harder when you're doing any endurance training. In fact, it's really allowed me to push harder when I'm hitting the heavybag or distance running.&nbsp;
+
+Let's dive in so you can get a more in-depth look at what this supplement can do and what it can do it for you.&nbsp;
 
 ## What to expect from Gorilla Mode
 
