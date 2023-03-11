@@ -135,7 +135,7 @@ Before I try any new supplement or product, I always do my research to ensure it
 
 ### Can I take it at night before bed?
 
-Yes, because it’s stimulant-free, it won’t affect your ability to fall asleep. I will use this for evening work sessions to easily fall asleep afterward.
+Yes, because it’s stimulant-free, it won’t affect your ability to fall asleep. In fact, Huperzine-A is often taken to induced lucid dreaming because it emabbles the brain to hit a theta brain wave state while sleeping ([Source](https://luciddreaming.blog/huperzine-a-lucid-dreaming/)).
 
 ### Can I take it as a pre-workout supplement?
 
