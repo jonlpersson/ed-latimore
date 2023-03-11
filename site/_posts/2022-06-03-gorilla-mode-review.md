@@ -24,9 +24,11 @@ Let's dive in so you can get a more in-depth look at what this supplement can do
 
 ![One tub of Gorilla Mode pre-workout formula](/assets/images/posts/gorilla-mode.jpg "My favorite flavor, Tiger’s Blood")
 
-I mix 1-2 scoops of Gorilla Mode with 12-14 ounces of water 30 minutes before my training sessions to get the best results. If I want my pre-workout to hit harder, I’ll take the full two-scoop dose on an empty stomach before a morning workout.
+I mix 1-2 scoops of Gorilla Mode with 12-14 ounces of water 30 minutes before my training sessions to get the best results. Like many products of this nature, it's more intense on an empty stomach. However, taking this and training breaks fasted training if this was your goal.&nbsp;
 
-If you’re somewhat sensitive to caffeine or new to pre-workout supplements, I recommend starting with half a scoop and observing how well your body handles it. Once you build up a tolerance, you can adjust your serving as needed.
+If you’re sensitive to caffeine or new to pre-workout supplements, I recommend starting with half a scoop and observing how well your body handles it. Once you build up a tolerance, you can adjust your serving as needed.
+
+My tolerate is absolutely ridiculous for caffeine because of how much caffeine I drink on a daily basis.&nbsp;
 
 Here’s what I notice after taking it, although your experience may vary:
 
@@ -34,7 +36,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **Within 30 minutes:** My brain is on fire, and I can feel the blood coursing through my veins. My body is ready to hit the weights or speed bag if I haven't already.
 
-**Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. If I know that my workout will go longer than usual, GM is a must to maintain my edge throughout.
+**Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. An interesting benefit of Gorilla Mode is that it simultaneously motivates you and actually gives you more energy. It's not just motivation and placebo. The malic acid, betaine anhydrous, agmatine sulfate, and huperzine-A are giving you more energy and focus.
 
 **After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)
 
