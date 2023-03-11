@@ -80,6 +80,8 @@ With that said, if you consider yourself a competitive athlete or someone lookin
 
 GMS is not only stimulant free, but the main difference between GMS and Gorilla Mind Rush is that GMS lacks the ingredient DMAE (a potent acetylcholine booster) and 2-aminoisoheptane, a potent stimulant that is considered a synthetic version of the banned ephedra. As a result, this supplement is noticeably less intense than GMR.
 
+![Banned ingredient 2-aminoisoheptane](/assets/images/posts/gorilla-mind-rush-banned-ingredients.png "The banned 2-aminoisoheptane in the old Gorilla Mind Rush"){: width="500" height="500"}
+
 If you're a harder stimulant or nootropic veteran, you may simply not feel any effects from it. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
 
 This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system. I wouldn't take this before a chess match if I was looking for an edge, but I WOULD take it to keep my mood high while I'm playing.&nbsp;
