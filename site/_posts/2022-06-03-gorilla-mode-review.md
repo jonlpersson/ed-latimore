@@ -18,7 +18,7 @@ I don't have a lot of experience using pre-workouts, so I went and tried a few t
 
 Gorilla Mode is a legitimately good product that combines ingredients that enhance your strength AND gives you more energy to get extra reps in when you're lifting OR allow you to push harder when you're doing any endurance training. In fact, it's really allowed me to push harder when I'm hitting the heavybag or distance running.&nbsp;
 
-Let's dive in so you can get a more in-depth look at what this supplement can do and what it can do it for you.&nbsp;
+Let's dive in so you can get a more in-depth look at what this supplement can do and what it can do it for you. ([Grab some here](https://gorillamind.com/r?id=01kb6h))
 
 ## What to expect from Gorilla Mode
 
