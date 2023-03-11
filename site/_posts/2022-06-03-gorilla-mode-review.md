@@ -20,7 +20,7 @@ Gorilla Mode is a legitimately good product that combines ingredients that enhan
 
 Let's dive in so you can get a more in-depth look at what this supplement can do and what it can do it for you. ([Grab some here](https://gorillamind.com/r?id=01kb6h))
 
-## What to expect from Gorilla Mode
+## How I use Gorilla Mode and what to expect
 
 ![One tub of Gorilla Mode pre-workout formula](/assets/images/posts/gorilla-mode.jpg "My favorite flavor, Tiger’s Blood")
 
