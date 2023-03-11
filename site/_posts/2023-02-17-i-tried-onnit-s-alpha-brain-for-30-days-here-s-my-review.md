@@ -165,7 +165,7 @@ I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on
 
 It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.
 
-Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
+Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. I was also better able to study and learn from a loss (the few I had) while on Onnit Alpha Brain.&nbsp; Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
 
 ![Ed Latimore Chess Rating](/assets/images/drafts/1800-chess-rating.png "Got up to 1800 in my Chess.com rating using Alpha Brain"){: width="1674" height="310"}
 
@@ -249,8 +249,10 @@ As a disclaimer, I have to state the obvious: if you have any type of medical co
 
 ## In closing
 
-If this review helped you decide to buy some Alpha Brain, I'd love if you purchased through one of my affiliate links on this page. It costs you nothing and helps me out.
+If this review helped you decide to buy some Alpha Brain, I'd love if you purchased through one of my affiliate links on this page. You can even set it up to be a recurring subscription.
+
+It costs you nothing and helps me out.
 
 Much love and the rest is up to you!
 
-***[Buy here](https://onnit.sjv.io/c/2316453/347302/5155)***
+### ***[Buy here](https://onnit.sjv.io/c/2316453/347302/5155)***
