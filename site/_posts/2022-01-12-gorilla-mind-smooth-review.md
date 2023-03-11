@@ -46,15 +46,15 @@ Since making Gorilla Mind Smooth a part of my morning ritual, these are the main
 
 #### [Get your mind right and pick up a bottle](https://gorillamind.com/r?id=8q1f8k){: target="_blank" rel="noopener"}
 
-## Benefits
+## Benefits of taking Gorilla Mind Smooth
 
-### Improved flow state
+### Overall mood boost
 
-Now that I’m retired from professional boxing, my income depends on how well—and how much—I write. Since 2018, I’ve published two books along with countless articles, emails, and tweets to grow my brand and business.
+This is the most surprising benefit of taking this supplement. I legitimately feel happy, more upbeat, and productive. Now granted, I'm a generally cheerful person and I don't experience anxiety, but GMS provided a noticeable boost to my mood.
 
-The primary benefit is GMS’s ability to help me quickly enter flow state for when I need to bang out a few thousand words before I tackle other essential tasks during the day.
+I would never describe this as euphoria. It's more of an undeterrable optimism and higher levels of patience. This contrasts \*sharply\* to my experience with some other nootropics. I don't have a temper, but I have experienced less patient on Gorilla Mind Rush or Onnit Alpha Brain. I suspect it's due to GMS using a health dose of L-Tyrosine and Saffron Extract.
 
-The heightened focus and mental clarity make it easy to get in the zone so that I can turn my ideas into valuable content. It has also been essential for training other skills, such as practicing competitive chess or studying Spanish and Portuguese.
+Both of these ingredients aid in the production of dopamine and seratonin. This is a very nice addition, as both of these are naturally occurring are missing in most nootropics. GMS seems to take the stance that a good mood is essential for productivity, and I'm here for it.&nbsp;
 
 ### Better training sessions
 
