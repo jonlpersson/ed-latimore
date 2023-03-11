@@ -68,13 +68,17 @@ The 100mg dose of L-Theanine helps me [maintain my reaction time and mental shar
 
 It doesn't turn me into superman, it does allow me to get a bit extra out of my body. Getting just 5% more out of each workout may not seem like much in the short term, but compound those training sessions for one, two, or even five years, and your body and mind will be in an unrecognizable place from where you are now.
 
-If you consider yourself a competitive athlete or someone looking to take their training sessions to the next level, I can’t recommend GMS enough.
+With that said, if you consider yourself a competitive athlete or someone looking to take their training sessions to the next level, I can’t recommend GMS enough.
 
 ## Drawbacks
 
 ### Subtle effects
 
-Because GMS is stim-free, you may have difficulty experiencing any noticeable changes to your mental state. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
+GMS is not only stimulant free, but the main difference between GMS and Gorilla Mind Rush is that GMS lacks the ingredient DMAE (a potent acetylcholine booster) and 2-aminoisoheptane, a potent stimulant that is considered a synthetic version of the banned ephedra. As a result, this supplement is noticeably less intense than GMR.
+
+If you're a harder stimulant or nootropic veteran, you may simply not feel any effects from it. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
+
+This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system.
 
 If you’re expecting GMS to make you feel like Bradley Cooper in *Limitless*, this ain’t it. The effects are much more subtle. Compared to other stimulant-laden nootropics, it can sometimes be hard to tell if I’m experiencing a mental boost or just the results of a placebo. It’s when I’ve refrained from taking stimulants for a while that I notice the full effects of GMS.
 
@@ -112,6 +116,8 @@ Onnit’s Alpha Brain may be the most popular nootropic on the market, thanks in
 The most disappointing finding with Alpha Brain is that it lumps some of its most beneficial ingredients into proprietary blends. Unlike Gorilla Mind Smooth, you have no way of knowing how much L-Theanine or Alpha-GPC you’re getting from each recommended serving.
 
 Typically when manufacturers advertise proprietary blends, they’re trying to hide behind a poor formula or cover up the fact that they’ve copied someone else. Either way, a lack of transparency isn’t something I look for in my supplements.
+
+With that said, whatever they're mixing in Alpha Brain is effective. [I've used it and written about it.](/alpha-brain-review/) They're just not transparent about it.&nbsp;
 
 ### Vs. Qualia Mind
 
