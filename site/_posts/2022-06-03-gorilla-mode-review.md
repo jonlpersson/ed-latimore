@@ -64,7 +64,9 @@ It's much easier push for those extra reps or run an extra mile or two without f
 
 ### Powerful stimulant
 
-The 175 mg of caffeine per serving in the product can make you feel jittery if you take the max recommended dose of two scoops. I’ve also found that it’s not smart to use the product for workouts later in the day, as the caffeine dose can wreck your sleep. But everyone reacts differently, so start with a smaller dose and experiment until you find what works best for you.
+The 175 mg of caffeine per serving in the product can make you feel jittery if you take the max recommended dose of two scoops. To put that in perspective, a 12 ounce cup of coffee has about 145 mgs in it. So it's not a crazy amount, but this is something to keep in mind if you're sensitive to caffeine or you just had a cup of coffee.&nbsp;
+
+I’ve also found that it’s not smart to use the product for workouts later in the day, as the caffeine dose can wreck your sleep. But everyone reacts differently, so start with a smaller dose and experiment until you find what works best for you.
 
 ## Gorilla Mode ingredients
 
