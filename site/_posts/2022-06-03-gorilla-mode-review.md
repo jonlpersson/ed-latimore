@@ -126,6 +126,8 @@ When you look at the ingredients and feel the effect, you really notice where th
 
 ### **Gorilla mode nitric ingredients**
 
+**![Gorilla Mode Nitric Ingredients](/assets/images/posts/gorilla-mode-nitric-ingredients.png "The Gorilla Mode Nitric Ingreidents"){: width="550" height="323"}**
+
 For the most part, Gorilla Mode Nitric has the same ingredients as Gorilla Mode. However, the quantities per serving of some have been increased. The follow ingredients are found in greater amounts in Gormilla Mode Nitric:
 
 * L-Citrulline (5000 mg vs 4500 mg)
