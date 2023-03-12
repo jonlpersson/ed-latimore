@@ -116,6 +116,33 @@ BULK is offered at the same price-per-serving as Bucked UP, making it a pricier 
 
 If the cost (and your facing tingling) isn’t a concern, it’s a solid option. But if you're looking for the best value-per-scoop, Gorilla Mind is excellent compared to other pre-workouts—even at just a half dose.
 
+## Gorilla Mode Nitric Review
+
+If you want a little more bang for your buck, you can also try Gorilla Mode Nitric.
+
+This is Gorilla Mind's latest stimulant-free pre-workout. It's got a few extra ingredients that give it an extra kick.&nbsp;It also carries a higher price tag of $59 per container compared to Gorilla Mode's $49 price tag.
+
+When you look at the ingredients and feel the effect, you really notice where that $10 goes.&nbsp;
+
+### **Gorilla mode nitric ingredients**
+
+For the most part, Gorilla Mode Nitric has the same ingredients as Gorilla Mode. However, the quantities per serving of some have been increased. The follow ingredients are found in greater amounts in Gormilla Mode Nitric:
+
+* L-Citrulline (5000 mg vs 4500 mg)
+* Betaine Anhydrous (2500 mg vs 1250 mg)
+* GlyrcerPump (2000 mg vs 1250 mg)
+* Agmatine Sulfate (750 mg vs 500 mg)
+
+The new ingredients are interesting blend designed to dramatically increase muscle pump and energy levels compared to Gorilla mode. Those ingredients are as follows.&nbsp;
+
+* **Nitrosigine®:** An inositol-stabilized arginine silicate that causes flow-mediated dilation to increase muscle pump. It has also been shown to be a much more effective vasodilator per serving than other common formulas at increasing NO levels.
+* **Sodium Nitrate:**&nbsp;When most people think of sodium nitrate, they think of its use to preserve foods, pharmaceuticals, and dietary supplements. However, nitrate supplementation, either in the form of nitrate salts (e.g., sodium nitrate) or food&nbsp;**increases plasma nitrite concentrations**, a marker for nitric oxide, which have been shown to enhance endurance capacity and performance. ([Source](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00521.2011))
+* **VasoDrive-AP®:** Also known as AmealPeptide®, VasoDrive-AP is used to improve arterial flexibility by increasing the production of endothelial nitric oxide synthase (eNOS). VasoDrive-AP is a naturally occurring blood-pressure support ingredient derived from milk protein through a proprietary enzymatic process. ([Source](https://www.michigansthumb.com/news/article/A-New-Approach-To-Hypertension-Treatment-7267461.php))
+
+For the extra $10, you get more of the ingredients in Gorilla Mode along with some extra benefits. One of those benefits can be of great assistance if you're dealing with hypertension.
+
+**[Grab Gorilla Mode Nitric here](https://gorillamind.com/r?id=b4ir68)**
+
 ## Frequently asked questions
 
 Before I try any new supplement or product, I always do my research to ensure it makes sense to take. Here are some common questions I get about GM so you can make your own decisions about whether or not it’s right for you.
