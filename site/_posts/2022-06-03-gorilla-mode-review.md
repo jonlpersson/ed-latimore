@@ -118,6 +118,8 @@ If the cost (and your facing tingling) isn’t a concern, it’s a solid option.
 
 ## Gorilla Mode Nitric Review
 
+![Gorilla Mode Nitric](/assets/images/posts/gorilla-mode-nitric-bottle.jpg "My Gorilla Mode Nitric bottle."){: width="560" height="747"}
+
 If you want a little more bang for your buck, you can also try Gorilla Mode Nitric.
 
 This is Gorilla Mind's latest stimulant-free pre-workout. It's got a few extra ingredients that give it an extra kick.&nbsp;It also carries a higher price tag of $59 per container compared to Gorilla Mode's $49 price tag.
