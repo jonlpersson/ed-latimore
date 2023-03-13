@@ -120,7 +120,7 @@ Expect these life-changing benefits once you quit porn:
 * The ability to focus and think with logic and strategy, rather than compulsiveness
 * Self-respect and self-esteem gained by your willingness to stick with something difficult
 
-{% include widgets/summary.html id="Dick-Detox" %}
+{% include widgets/summary.html id="7-steps" %}
 
 ## How to quit porn
 
