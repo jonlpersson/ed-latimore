@@ -48,7 +48,7 @@ This all creates the perfect storm for addiction over a long period of time. And
 
 Read here to learn [science-backed reasons porn is harmful](https://edlatimore.com/reasons-porn-is-harmful/).
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="7-steps" %}
 
 ## It’s free and widely available
 
