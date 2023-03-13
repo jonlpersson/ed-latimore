@@ -67,6 +67,8 @@ Also, although porn scenes take days to film and are heavily edited, they give y
 
 Sex in a relationship can bring you closer together and build a strong bond. Transactional sex, however can’t give you this satisfaction. The effects of porn on romantic relationships increase the risk of divorce.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">4</a></sup> The increase in porn use within a relationship is correlated with the ending of relationships. It doesn’t mean using porn causes them to end, but you might be seeking satisfaction from false scenarios rather than your significant other.
 
+{% include widgets/summary.html id="7-steps" %}
+
 ## Those with mental health issues are at a higher risk for addiction
 
 Compulsive use of internet pornography is strongly associated with poor mental health among college-age young people.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">5</a></sup>
