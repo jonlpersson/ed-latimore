@@ -89,6 +89,8 @@ For a woman to reach sexual satisfaction, she has to be in the moment. That’s 
 
 Women shouldn’t be your purpose, but your time with them should be purposeful. Good relationships enhance the quality of your life and improve your overall mental health. Outside of the bedroom, you’re able to develop real relationships when your focus isn’t on porn.
 
+{% include widgets/summary.html id="7-steps" %}
+
 ## 7\. It’s a vicious, time-wasting cycle
 
 Think about all the things you could be doing instead of binging porn. How successful could you become if, instead of booting up your computer for easy stimulation, you read a book, lifted weights, or worked on your mission? Quitting porn gives you superpowers.
