@@ -26,7 +26,7 @@ Because most people were afraid of being labeled a pervert, this risk of public 
 
 In the old days, the amount of time it took to find porn was tremendous. Not only that, but it was also a challenge to keep it a secret.
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="7-steps" %}
 
 Then came high-speed, wireless internet, and smartphones. Advances in our information sending capabilities made everyone a big winner.
 
