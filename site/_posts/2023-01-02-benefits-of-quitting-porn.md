@@ -121,7 +121,7 @@ Stoicism requires that you take the red pill in life. It requires that you see t
 
 Sex is a difficult emotion to control, but once controlled you can foster better relationships with others and more respect for yourself.
 
-Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers&nbsp;*[here](https://edlatimore.com/products/vicebreakers/).
+Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers*[here](https://edlatimore.com/products/vicebreakers/).
 
 Also check out my course [Dick Detox: The Ultimate Guide to Quitting Porn.](https://edlatimore.com/resources/dick-detox/)
 
