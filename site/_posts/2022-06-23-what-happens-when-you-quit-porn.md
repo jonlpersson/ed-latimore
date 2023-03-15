@@ -103,6 +103,8 @@ Things that are easy to access like social apps, games, or internet porn are eas
 
 Plus, a side effect of constantly viewing porn is that you use it as a coping mechanism for boredom or confusion. When you don’t have porn hijacking your daily life, you can fill that time with [activities that actually matter.](https://edlatimore.com/how-to-build-confidence/)
 
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
+
 ## Your overall mental health improves
 
 Nowadays, more college students, men and women, are using internet porn to cope with feelings of loneliness and depression. This kind of use is a dangerous breeding ground for addiction.
@@ -140,8 +142,6 @@ So here’s what to expect when you decide to quit porn:
 * You seek less temporary distractions
 * Your overall mental health improves
 * You lose unrealistic expectations about yourself and others
-
-{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ---
 
