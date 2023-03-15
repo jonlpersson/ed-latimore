@@ -26,7 +26,7 @@ Outside of addiction, porn encourages poor mental habits and reinforces unrealis
 
 In this post, you’ll discover the benefits of quitting porn through my favorite method of emotional control—Stoicism.
 
-{% include widgets/summary.html id="Dick-Detox" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ## Feel more in control of your emotions
 
