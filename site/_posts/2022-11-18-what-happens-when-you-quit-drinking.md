@@ -88,6 +88,8 @@ Even for heavy drinkers, your body (and liver) starts to heal around week four. 
 
 One effect of alcohol is anxiety. Though anxiety is a multi-dimensional issue, alcohol-induced anxiety also starts to disappear around week four.
 
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
+
 ## Your friends change
 
 You don’t have to have alcohol use disorder to suffer the negative side effects alcohol can have on your life.
