@@ -40,8 +40,6 @@ Young men today have 24/7 access to high-speed hardcore pornography. It’s avai
 
 It’s not a coincidence that 33% of men 18 to 24 reported having had no sexual activity in 2019.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
-{% include widgets/summary.html id="Dick-Detox" %}
-
 ## 3\. Masturbating to porn warps your brain and creates bad habits
 
 Stoics acknowledge their urges and desires then put them in their proper place. They’re not carried away by them like a raging river. Pornography use forces you to be at the whim of emotions that are already difficult for young men to control. You’re constantly chasing the joy of sex. When you finally quit porn, you learn to allow the feelings to come to you.
@@ -129,7 +127,7 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
 
-{% include widgets/summary.html id="Dick-Detox" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ---
 
