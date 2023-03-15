@@ -104,6 +104,8 @@ Stanford University, where the [infamous sexual assault case involving swimmer B
 
 The page quickly came under fire because [it was seen as blaming women’s bodies rather than the actions of men for sexual assault](https://www.usatoday.com/story/news/nation-now/2016/08/25/stanford-takes-sexist-female-bodies-and-alcohol-webpage-down/89331436/). We look at the numbers and see the relationship between alcohol consumption and sexual assault. Still, in a society that refuses to accept responsibility, the reaction to information like this is as follows: *“The website focused on stopping women from drinking hard alcohol. Why doesn’t Stanford focus on discouraging rapists from raping?”*
 
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
+
 We understand that people who commit vehicular homicide under the influence don’t usually harbor murderous impulses. Alcohol makes a person more reckless and degrades their reaction time and awareness. Unfortunately, sometimes this results in the loss of innocent life.
 
 We know that alcohol makes men more aggressive, less empathetic, and less considerate of the future consequences of their actions. Additionally, we know that it incapacitates women more quickly than men. Unfortunately, sometimes the result of these two things together is sexual assault.
