@@ -135,3 +135,5 @@ The bottom line to remember is that nothing good comes from heavy drinking.
 Every time you binge drink, there's a chance of permanently changing your life for the worse. This is one of the most serious risks that you can take. If you’re a woman, you risk the physical and emotional pain of being assaulted. If you’re a man, you risk arrest, loss of freedom, and a lifetime of guilt and shame.
 
 &nbsp;It’s clear that society is not interested in dealing with the problem so you’ll have to deal with it yourself.
+
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
