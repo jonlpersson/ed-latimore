@@ -28,8 +28,6 @@ Deep down, you recognize some of the harmful effects it's having on your life, s
 
 But dealing with porn addiction—no matter how severe—doesn’t have to be a losing battle. Instead of relying on sheer willpower, you can kick the bad habit for good by making it impossible to look at it in the first place by using a tool called a porn blocker. Note, I do recieve a small commission if you sign up with the links below.
 
-{% include widgets/summary.html id="Dick-Detox" %}
-
 ## What is a porn blocker
 
 Porn blockers are accountability software designed to block particular apps and websites known for hosting pornographic content. The software’s blacklist and safe search features make it impossible for you to browse porn on your laptop, smartphone or accidentally stumble upon it while surfing the web.
@@ -101,6 +99,8 @@ Get X3 Watch [here](https://x3watch.com/).
 If you’re serious about quitting porn, start by reading [this guide](https://edlatimore.com/how-to-quit-porn/). Each blocker has a different suite of features (and price points), but they’re all designed to block pornography so you can break the bad habit and get back to living a happier and healthier life.
 
 If you’re on a budget and don’t think you need accountability, I’d start with AdGuard. If you’ve struggled with quitting in the past, then accountability is what you need. I recommend more advanced software that includes content for helping you quit, like Covenant Eyes or X3. If you want to protect other family members too, I’d check out Qustodio.
+
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ## Frequently asked questions
 
