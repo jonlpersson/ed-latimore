@@ -54,7 +54,7 @@ Here are some brain benefits that come with NoFap:
 * Stronger willpower and sense of priorities
 * A higher sense of direction
 
-***There aren't many guys I take seriously in the "help guys get off of porn" community, but The Freedom Specialists are one of them. They've got loads of experience helping guys in a direct, 1-on-1 fashion that includes a custom plan, unlimited support, and a real commitment to seeing you kick the habit. I don't do 1-on-1 coaching, but these are the guys I recommended. Check them out—&gt;[The Freedom Specialists](https://rebrand.ly/dl0pix3){: target="_blank" rel="noopener noreferrer"}***
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ## NoFap can lead to a sexual awakening
 
@@ -104,7 +104,7 @@ Lao Tzu said it best in the Tao Te Ching:
 
 “Conquering others is power; conquering the self is strength.”
 
-{% include widgets/summary.html id="Dick-Detox" %}
+{% include widgets/summary.html id="7-steps" %}
 
 ## Changing your life with NoFap
 
@@ -123,8 +123,6 @@ Don’t forget to revisit the benefits of NoFap:
 * You’ll find the motivation to tackle your most important goals
 
 It all starts with doing the work.
-
-{% include widgets/summary.html id="The-Freedom-Specialists" %}
 
 ### References
 
