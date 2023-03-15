@@ -114,6 +114,4 @@ I wrote a book about my transition from an alcoholic degenerate with nothing goi
 
 I wrote this book as if I could go back to 2013, when I decided to get sober, and talk to myself before, during, and after the process. It's the advice I wish I had when everyone around me still drank and couldn't understand what I was dealing with. I did it the hard way so you don't have to.
 
-{% include widgets/summary.html id="Sober-Letters" %}
-
-&nbsp;
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
