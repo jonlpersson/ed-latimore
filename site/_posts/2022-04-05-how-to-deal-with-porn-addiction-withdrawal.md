@@ -73,7 +73,7 @@ Physical withdrawals from porn can cause any stress-related symptoms, including:
 
 These pains, especially when mild, can go completely over the head of porn users. But treating the symptoms, rather than the root cause keeps you in the vicious addiction cycle.
 
-{% include widgets/summary.html id="Dick-Detox" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ### Brain fog and poor mental health
 
