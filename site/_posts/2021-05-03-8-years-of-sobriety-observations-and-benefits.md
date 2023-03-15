@@ -88,7 +88,7 @@ Just stop drinking.
 
 You can't use alcohol as an excuse if you're always sober. As a result, you put more thought into what you say and do, elevating your life to higher standards than ever before.
 
-{% include widgets/summary.html id="Sober-Letters" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
 
 ## You’ll have a lot more free time available
 
