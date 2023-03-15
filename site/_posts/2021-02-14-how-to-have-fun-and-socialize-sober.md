@@ -92,7 +92,7 @@ The typical interaction goes like this:
 
 **You:**&nbsp;Nah, I’m good. Thanks though.
 
-**Drinking friend:**&nbsp;What\! Come on, why aren’t you drinking?
+**Drinking friend:**&nbsp;What! Come on, why aren’t you drinking?
 
 At this point, you need to explain why you’re&nbsp;[not drinking](/sobriety-benefits/). And when you can’t come up with an explanation, you feel confident enough to stand by. You cave to peer pressure.
 
@@ -145,7 +145,7 @@ The less appealing drinking becomes, the less time you want to spend around drun
 
 This is how you become the master of the environment that once enslaved you.
 
-{% include widgets/summary.html id="Sober-Letters" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
 
 ## 7) Learn to enjoy non-alcoholic beverages
 
