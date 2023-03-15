@@ -19,7 +19,7 @@ If you're working on getting your life right and [free from the grips of alcohol
 
 I don't care if you're kicking drug addiction, an eating disorder, alcohol, or even just trying to get your social media addiction under control. My demon was alcohol addiction, but anyone going through any type of addiction recovery can find inspiration and daily reminders in these recovery quotes.
 
-{% include widgets/summary.html id="Sober-Letters" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
 
 ### Where are these inspirational quotes about addiction recovery from?
 
@@ -341,4 +341,4 @@ I felt lonely because this wasn’t where I belonged. I didn’t know what my sc
 
 We live in a society that revolves around alcohol consumption. Many of us get to adulthood and can’t imagine a social event without alcohol. Drinking is both the right of passage and the cost of entry for people in mainstream society.
 
-{% include widgets/summary.html id="Sober-Letters" %}
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
