@@ -26,8 +26,6 @@ Outside of addiction, porn encourages poor mental habits and reinforces unrealis
 
 In this post, you’ll discover the benefits of quitting porn through my favorite method of emotional control—Stoicism.
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
-
 ## Feel more in control of your emotions
 
 Because of the availability of internet porn, watching porn easily becomes a compulsion. You end up watching because you’re bored or have free time rather than because you have a craving for sex. This is much like eating because it’s lunchtime instead of because you feel hungry.
@@ -125,7 +123,7 @@ Sex is a difficult emotion to control, but once controlled you can foster better
 
 Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers*[here](https://edlatimore.com/products/vicebreakers/).
 
-Also check out my course [Dick Detox: The Ultimate Guide to Quitting Porn.](https://edlatimore.com/resources/dick-detox/)
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ### References:
 
