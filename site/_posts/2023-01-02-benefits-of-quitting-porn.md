@@ -123,7 +123,7 @@ Sex is a difficult emotion to control, but once controlled you can foster better
 
 Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers*[here](https://edlatimore.com/products/vicebreakers/).
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iNmNiOThlYTY2YSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS82Y2I5OGVhNjZhL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="6cb98ea66a" src="https://mind-and-fist.ck.page/6cb98ea66a/index.js"></script></div>
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ### References:
 
