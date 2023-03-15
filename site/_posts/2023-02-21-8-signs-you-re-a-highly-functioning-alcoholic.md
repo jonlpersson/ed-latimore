@@ -95,6 +95,8 @@ Alcoholics develop a higher tolerance for alcohol over time and need to drink mo
 
 If someone can drink so much that they should but obviously drunk but they still seem fine, you can be certain that they drink heavily, frequently, and often by themselves.
 
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
+
 ## Withdrawal symptoms and cravings
 
 When you reach a point where you feel like you HAVE to drink, you’re definitely an alcoholic.
