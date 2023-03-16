@@ -52,7 +52,7 @@ First, the biggest problem is that neither of these [actually regrow hair in mos
 
 A minority of men may experience regrowth using minoxidil and finasteride, but in the majority of men, these drugs simply halt hair loss. Any "regrowth" that you see is the result of more hairs remaining in the Anagen (growth) hair phase rather than prematurely entering the Telogen (resting - after shedding) hair phase.
 
-![Hair loss cycle](/assets/images/posts/hair-cycle.jpg "Hair loss cycle")
+![Hair loss cycle](/assets/images/posts/hair-growth-cycle.jpeg "Hair loss cycle"){: width="550" height="241"}
 
 This is great if you catch it early, but if you’re in denial or lazy, then there won’t be much left to salvage by the time you start.
 
