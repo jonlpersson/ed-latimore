@@ -34,21 +34,17 @@ The [American Hair Loss Association](https://www.americanhairloss.org/men_hair_l
 
 > By the age of thirty-five two-thirds of American men will experience some degree of appreciable hair loss, and by the age of fifty approximately 85% of men have significantly thinning hair. Approximately twenty-five percent of men who suffer from male pattern baldness begin the painful process before they reach the age of twenty-one.
 
-To put that in perspective, 1 in 4 guys will start balding while they’re still in college\!
+To put that in perspective, 1 in 4 guys will start balding while they’re still in college!
 
 I didn’t start losing my hair that early, but you can’t outrun your genetics.
 
-Though I kept my hair cut low in my early twenties to hide the thinning I was already experiencing, I’ll never forget the day after I’d let my hair grow out a little longer than usual, that a friend exclaimed, “You're balding dude\!"
+Though I kept my hair cut low in my early twenties to hide the thinning I was already experiencing, I’ll never forget the day after I’d let my hair grow out a little longer than usual, that a friend exclaimed, “You're balding dude!"
 
 It wasn’t said as a joke or a taunt, but it still cut me. It was at that moment that I started researching solutions. Minoxidil and finasteride are the only two FDA approved treatments for hair loss, so I tried them out.
 
-With minoxidil, I got good results, but I hated having to remember to apply it twice a day, every day.
-
-With finasteride, I got good results, but I got spooked after I experienced a weird throbbing pain in my balls.
-
 For a while, I used the two together. I got ok results, but it was a hassle to remember to do it every day. Especially when it takes up to a year to really see the effects of these drugs on your crown and hairline.
 
-Although both of these hair loss treatments are cheap and effective, they have two MAJOR disadvantages.
+Although both of these hair loss treatments are cheap and effective, they weren’t a good fit for my needs because they couldn’t provide me with the growth I wanted to achieve.
 
 ## Disadvantages to Minoxidil and Finasteride
 
@@ -199,7 +195,7 @@ Your results may vary, which is why it’s important to do research on your doct
 
 Make sure you research your doctor and ask what type of results you can expect for your hair texture, level of hair loss, and skin tone.
 
-If you do all of this, then your hair transplant should be a success\!
+If you do all of this, then your hair transplant should be a success!
 
 Having a full head of hair is one thing that makes you an attractive man, read my guide with countless more tips on [how to become a more attractive man](https://edlatimore.com/how-to-be-an-attractive-man/).
 
