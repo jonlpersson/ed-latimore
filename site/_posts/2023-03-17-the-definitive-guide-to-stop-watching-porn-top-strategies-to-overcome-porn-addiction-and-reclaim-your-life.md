@@ -2,7 +2,7 @@
 date: 2023-03-17 08:34:00 -0400
 article_type: Article
 title: >-
-  The definitive guide to stop watching porn | Top strategies to overcome porn
+  The definitive guide to stop watching porn: 9 strategies to overcome porn
   addiction and reclaim your life
 permalink: /how-to-stop-watching-porn/
 tags:
