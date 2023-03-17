@@ -13,7 +13,13 @@ description: >-
   and clarity.
 image: /assets/images/thumbnails/running-on-the-beach.jpg
 ---
-Are you wondering how to get unstuck in your life?
+Are you wondering how to get unstuck in your life?&nbsp;
+
+Do you feel like you're in a rut and that every day seems feels the same, never getting better and only getting worse?
+
+Then this article is one you need to read. I've taken my experience dealing with a similar issue and put together 5 powerful tips to help you move forward when you're feeling stuck. If you follow these steps, then you'll find new satisfaction in life and will forever be motivated.&nbsp;
+
+## Why you're stuck in life in the first place
 
 Is your mental health suffering because you feel like you can't get traction in your personal or professional life?
 
