@@ -1,7 +1,7 @@
 ---
 date: 2022-09-08 09:00:00 -0400
 article_type: Review
-title: Gorilla Dream Review-My go-to sleep & recovery formula
+title: My experience using Gorilla Mode Dream
 permalink: /gorilla-dream-review/
 tags:
   - how-to-become-superhuman
@@ -91,7 +91,7 @@ I’ve also included a short explanation of what each ingredient does—though I
 * **Hops extract:** The dried, flowering part of the hop plant commonly used to treat anxiety, sleep disorders, and restlessness, although evidence of its effectiveness is weak.
 * **Skullcap extract:** Scutellaria baicalensis, or Chinese Skullcap, is a traditional Chinese medicine commonly used for cardiovascular and cognitive health and increasing longevity.
 * **Melatonin:** A neurohormone secreted by the pineal gland in the brain that your body uses to help you fall asleep.
-* **MicroActive&reg; melatonin:** A lab-developed melatonin formula that uses a micronized, sustained-release technology that releases melatonin gradually over 7 hours to provide a longer, more-consistent sleep.
+* **MicroActive® melatonin:** A lab-developed melatonin formula that uses a micronized, sustained-release technology that releases melatonin gradually over 7 hours to provide a longer, more-consistent sleep.
 
 ## How it compares to other sleep aids
 
