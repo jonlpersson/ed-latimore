@@ -13,7 +13,7 @@ description: >-
   Discover my proven techniques to stop watching porn, overcome addiction, and
   regain control of your life. Learn how to replace harmful habits with positive
   ones for lasting change.
-image:
+image: /assets/images/posts/teenager-online-addiction.jpeg
 ---
 Pornography has become increasingly accessible and prevalent in today's digital age.&nbsp;
 
@@ -104,8 +104,10 @@ Watching online porn has a host of negative impacts on your mental and physical 
 * Need for more extreme stimuli to get aroused
 * Lack of sexual satisfaction from real life sexual relationships
 * Dopamine depletion
-* Viscious withdrawal symptoms
+* [Viscious withdrawal symptoms](/dealing-with-porn-addiction-withdrawal/)
 
 ## Final word about these strategies for escaping porn addiction
 
-Overcoming porn addiction and stopping the habit of watching porn requires dedication, self-awareness, and persistence. By following these strategies and seeking support from others, you can regain control of your life and experience lasting change. Remember, the journey may be challenging, but the rewards of a porn-free life are well worth the effort.
+Overcoming porn addiction and stopping the habit of watching porn requires dedication, self-awareness, and persistence. By following these strategies and seeking support from others, you can regain control of your life and experience lasting change.
+
+Remember, the journey may be challenging, but the rewards of a porn-free life are well worth the effort.
