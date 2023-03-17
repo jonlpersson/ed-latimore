@@ -17,11 +17,15 @@ image:
 ---
 Pornography has become increasingly accessible and prevalent in today's digital age.&nbsp;
 
-Porn today is not like what it was when I was growing up. I'm born in 1985, which means that for most of my childhood, the internet didn't even exist. And even when it finally started making its way into our homes, it wasn't the hi-speed, hand-held, wireless behemoth it is today. Because it's so easy to access and there is so much variety, it's become addictive to the point where 12-step programs are popping up to help guys stop watching porn.
+Porn today is not like what it was when I was growing up. I'm born in 1985, which means that for most of my childhood, the internet didn't even exist. And even when it finally started making its way into our homes, it wasn't the hi-speed, hand-held, wireless behemoth it is today.
 
-For many, what starts as a casual indulgence or curiosity can turn into a harmful addiction. Especially if you start watching porn as a young man, which is happening more and these technological access is available for everyone.&nbsp;
+Because it's so easy to access and there is so much variety, it's become addictive to the point where 12-step programs are popping up to help guys stop watching porn.
+
+For many, what starts as a casual indulgence or curiosity can turn into a harmful addiction. Especially if you start watching porn as a young man, which is happening more and this technological access is available for everyone.&nbsp;
 
 If you're looking to stop watching porn and regain control of your life, you're in the right place. This short but comprehensive guide will teach you effective strategies that I've used to help guys overcome porn addiction and replace it with healthier habits.
+
+## 9 strategies to help you stop watching porn
 
 1\. Acknowledge the problem
 
