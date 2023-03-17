@@ -83,7 +83,7 @@ If you’re tired of being a slave to porn sites, read my article about the best
 
 ***Read: [How to start Nofap](/how-to-start-nofap/)***
 
-## 6\. Don't be afraid to seek outside help
+## 6\. Don't be afraid to talk to friends
 
 You don't have to fight this battle alone. Seek support from friends, family, or support groups. Sharing your experiences and struggles with others can provide valuable insights and encouragement.
 
@@ -93,13 +93,15 @@ Another benefit of support is that you have someone to check in on you. Sometime
 
 Especially if you don’t want anyone to know about your pornography addiction or you don’t have anyone who cares about your well-being in the first place.
 
-## 7\. Consider professional help
+## 7\. But if you can't talk to friends, consider professional help
 
 If you're struggling to stop watching porn alone, consider seeing a mental health professional. A therapist or counselor specializing in addiction recovery can provide tailored guidance and support to help you overcome your addiction.
 
 Cognitive behavioral therapy (CBT) and sex addiction counseling can make a huge difference in cutting back on your porn use. There are even 12-step programs modeled off of alcoholics anonymous to help you curb your porn use and get your sexual behavior in order.
 
 Remember: the goal isn’t to be perfect. It’s merely to get better.
+
+***Read: [6 signs you're addicted to porn](/6-signs-that-youre-definitely-addicted-to-porn/)***
 
 ## 8\. Have more real sex&nbsp;
 
