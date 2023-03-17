@@ -107,6 +107,8 @@ You only have so much energy. I’ve read many articles that claim to teach you 
 
 I’m not claiming that this is easy. In fact, I know it’s a lot easier to blow your load to an infinite variety of digital women that meet one in real life, but real sex is better for you than fake sex. And getting laid for real will cut dramatically decrease your pornography use.
 
+***Read: [How to become more physically attractive to women](/how-to-become-more-physically-attractive-to-women/)***
+
 ## 9\. Let the negative consequences of porn addiction scare you
 
 Watching online porn has a host of negative impacts on your mental and physical well-being. It helps to remember them as a method to scare yourself out of wanting to watch porn. Don’t forget that you’ll likely suffer from the following:
