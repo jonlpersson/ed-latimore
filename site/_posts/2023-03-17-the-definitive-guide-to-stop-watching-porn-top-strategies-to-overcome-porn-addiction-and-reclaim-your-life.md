@@ -61,6 +61,8 @@ When the goal is small, it’s easier to manage and easier to reach. While every
 
 So our objective is to have clear, small goals. For example, to go 72 hours without watching porn might be a small goal for some and a huge goal for others. Find your small goal and knock it out. In this way, you’ll develop the confidence necessary to tackle bigger goals and get your porn habit under more control.
 
+***Read: [9 good reasons it's time to quit porn](/reasons-to-quit-porn/)***
+
 ## 4\. Establish healthy habits for avoiding explicit material
 
 Replace the time spent on porn with healthier activities that promote personal growth, such as exercise, meditation, hobbies, or volunteering. Engaging in these positive behaviors will help you build self-esteem and reduce the urge to watch porn.
@@ -69,6 +71,8 @@ You need a hobby that gets you away from a screen and develops you as a person. 
 
 It’s even better if your hobby forces you to interact with different people. That’s how real change happens and progress is made in the face of porn addiction, because porn addiction is a lonely disease. Unlike drugs and alcohol, there is no social ritual to get addicted to. Socializing with other people builds a protective barrier between you and pornography.
 
+***Read: [The benefits of Nofap](/nofap-benefits/)***
+
 ## 5\. Limit exposure to what triggers you to watch porn
 
 Eliminate or reduce exposure to triggers that lead to porn consumption. This may involve installing content filters on your devices, deleting bookmarks or accounts, and avoiding websites or social media platforms where you'll likely encounter pornographic content.
@@ -76,6 +80,8 @@ Eliminate or reduce exposure to triggers that lead to porn consumption. This may
 This is where using porn blockers and building good habits comes into play. Many porn blockers have features that make it easy for you to find an accountability partner as well. It’s easy to break bad habits when you know that you’ll have to answer to someone.
 
 If you’re tired of being a slave to porn sites, read my article about the best porn blockers to help you quit porn. I personally recommend Covenant Eyes, but I also cover many other popular pieces of software that do a decent job keeping you from viewing porn.
+
+***Read: [How to start Nofap](/how-to-start-nofap/)***
 
 ## 6\. Don't be afraid to seek outside help
 
