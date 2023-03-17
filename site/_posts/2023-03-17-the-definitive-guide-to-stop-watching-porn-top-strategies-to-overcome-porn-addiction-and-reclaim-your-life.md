@@ -93,6 +93,8 @@ Another benefit of support is that you have someone to check in on you. Sometime
 
 Especially if you don’t want anyone to know about your pornography addiction or you don’t have anyone who cares about your well-being in the first place.
 
+<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
+
 ## 7\. But if you can't talk to friends, consider professional help
 
 If you're struggling to stop watching porn alone, consider seeing a mental health professional. A therapist or counselor specializing in addiction recovery can provide tailored guidance and support to help you overcome your addiction.
