@@ -39,6 +39,8 @@ You hate that every day, you have intrusive thoughts about masturbating to women
 
 That’s ok. The journey of 1000 days clean begins with day one and a little self-discipline.
 
+***Read: [Why it's so hard to quit porn](/why-is-it-hard-to-quit-porn/)***
+
 ## 2\. Identify what triggers you to watch porn
 
 Recognize the situations, emotions, or locations that lead to porn consumption. Identifying these triggers will help you develop strategies to avoid or cope with them in healthy ways.
@@ -48,6 +50,8 @@ You know the stressors that make you more likely to watch porn. Some guys use po
 While it’s true that many guys get so hooked on internet porn that they’re always thinking about it, many aren’t like this. Instead, there is always some inciting incident or ritual that leads them to visit their favorite sites.
 
 Take the time to get clear on why you watch porn so that you can, at the very least, avoid the things that weaken your willpower and makes it easy for you to resort to porn.
+
+***Read: [Why do I keep relapsing?](/why-you-keep-relapsing/)***
 
 ## 3\. Set clear goals to end pornography dependence
 
