@@ -27,6 +27,8 @@ If you're looking to stop watching porn and regain control of your life, you're 
 
 ## 9 strategies to help you stop watching porn
 
+{% twitter https://twitter.com/EdLatimore/status/1502479500214517764 %}
+
 ## 1\. Acknowledge your problem with watching adult content
 
 The first step to overcoming porn addiction is admitting you have a problem. By acknowledging the issue, you can begin to address its root causes and seek the necessary support to create lasting change.
