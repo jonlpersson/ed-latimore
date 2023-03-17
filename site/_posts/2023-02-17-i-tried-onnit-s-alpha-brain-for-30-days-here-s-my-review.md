@@ -1,7 +1,7 @@
 ---
 date: 2023-02-17 00:00:00 -0500
 article_type: Article
-title: The most detailed Onnit Alpha Brain Reviews you'll read
+title: 'My experience using Onnit Alpha Brain '
 permalink: /alpha-brain-review/
 tags:
   - how-to-become-superhuman
