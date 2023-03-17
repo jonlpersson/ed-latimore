@@ -118,8 +118,8 @@ I’m not claiming that this is easy. In fact, I know it’s a lot easier to blo
 Watching online porn has a host of negative impacts on your mental and physical well-being. It helps to remember them as a method to scare yourself out of wanting to watch porn. Don’t forget that you’ll likely suffer from the following:
 
 * Erectile dysfunction
-* General sexual dysfunction
-* Need for more extreme stimuli to get aroused
+* [General sexual dysfunction](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/#you-have-sexual-dysfunction-you-cant-get-it-up)
+* [Need for more extreme stimuli to get aroused](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/#your-taste-in-porn-has-escalated)
 * Lack of sexual satisfaction from real life sexual relationships
 * Dopamine depletion
 * [Viscious withdrawal symptoms](/dealing-with-porn-addiction-withdrawal/)
