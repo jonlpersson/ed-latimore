@@ -1,7 +1,9 @@
 ---
 date: 2021-01-11 00:00:00 -0500
 article_type: Article
-title: 10 actionable steps to get your life together in 2022
+title: >-
+  How to get your life together: 10 Practical steps to organize, improve, and
+  transform your life
 permalink: /how-to-get-your-life-together/
 tags:
   - change-your-perspective
@@ -9,8 +11,9 @@ categories:
   - the-inner-work
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
-  Is it possible to turn your shitty life around? I'm living proof that you can.
-  If you're unhappy with where you're at in life, keep reading.
+  Struggling to get your life together? Discover actionable tips and strategies
+  to help you organize, improve, and transform your life for lasting success and
+  happiness.
 ---
 I used to be a sad human being.
 
