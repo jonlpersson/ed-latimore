@@ -43,51 +43,71 @@ page_blocks:
       best version of myself.
 
 
-      1. Embracing Adversity: The First Step in The Inner Work begins with
-      overcoming adversity.I grew up in poverty, raised by a single mom, in
-      public housing. This eventually lead to a battle with alcoholism. By
-      acknowledging and confronting these challenges, I set the stage for my own
-      personal hero’s journey. We all start somewhere, and I start out almost as
-      bad as you can.
-
-      2. The Inner Work Principle: Focusing on Self-ImprovementSelf-improvement
-      has been a driving force in my life. I returned to school at age 29 to get
-      my degree in physics despite being a failing math student. I’ve developed
-      my abilities as a writer and social media marketer. I had the
-      self-awareness to know where I was weak and, thanks to boxing, developed
-      the growth mindset mindset necessay to do the inner work.
-
-      3. Cultivating Emotional IntelligenceMy journey from boxing to public
-      speaking and writing forced me to develop emotional intelligence. I
-      learned how to manage my emotions in high-pressure situations as well as
-      make new friends and make people feel comfortable. You can never over
-      estimate the value of being likable. Being likeable has kept me out of
-      prison and given me extra opportunities when I made mistakes. As long as
-      people want to help you, you’re never too far good. As long as you’re not
-      too far gone, there will also be a chance. This is the power of
-      cultivating emotional intelligence.
+      Embracing Adversity: The First Step in The Inner Work
 
 
-      1. Building Self-Awareness: A Cornerstone of The Inner WorkI have an
-      unwavering commitment to self-awareness. I know where my strengths,
-      weaknesses, and motivations are. This has allowed me to identify
-      opportunities for personal growth and pursue different avenues of success.
-      Doors open for are typically closed to otherwise more talented
-      individuals.
+      This journey begins with overcoming adversity.I grew up in poverty, raised
+      by a single mom, in public housing. This eventually lead to a battle with
+      alcoholism. By acknowledging and confronting these challenges, I set the
+      stage for my own personal hero’s journey. We all start somewhere, and I
+      start out almost as bad as you can.
 
-      2. Embracing VulnerabilitySharing personal stories and insights requires
-      vulnerability. I firmly believe that your life is a waste if you don’t use
-      what you’ve gone through to . Through his writing and speaking
-      engagements, he openly discusses his experiences, fostering connections
-      with his audience and creating opportunities for others to learn from his
-      journey.
 
-      3. The Inner Work: Cultivating Empathy and Compassion In his interactions
-      with others, Ed Latimore demonstrates empathy and compassion, essential
-      qualities in the inner work journey. By understanding people's experiences
-      and feelings on a deeper level, he can connect with them more
-      authentically and make a positive impact on their lives.Here are some
-      practical steps to start your own inner work journey:
+      The Inner Work Principle: Focusing on Self-Improvemen
+
+
+      tSelf-improvement has been a driving force in my life. I returned to
+      school at age 29 to get my degree in physics despite being a failing math
+      student. I’ve developed my abilities as a writer and social media
+      marketer. I had the self-awareness to know where I was weak and, thanks to
+      boxing, developed the growth mindset mindset necessay to do the inner
+      work.
+
+
+      Cultivating Emotional Intelligence
+
+
+      My journey from boxing to public speaking and writing forced me to develop
+      emotional intelligence. I learned how to manage my emotions in
+      high-pressure situations as well as make new friends and make people feel
+      comfortable. You can never over estimate the value of being likable. Being
+      likeable has kept me out of prison and given me extra opportunities when I
+      made mistakes. As long as people want to help you, you’re never too far
+      good. As long as you’re not too far gone, there will also be a chance.
+      This is the power of cultivating emotional intelligence.
+
+
+      Building Self-Awareness:
+
+
+      A cornerstone of The Inner WorkI have an unwavering commitment to
+      self-awareness. I know where my strengths, weaknesses, and motivations
+      are. This has allowed me to identify opportunities for personal growth and
+      pursue different avenues of success. Doors open for are typically closed
+      to otherwise more talented individuals.
+
+
+      Embracing Vulnerability
+
+
+      Sharing personal stories and insights requires vulnerability. I firmly
+      believe that your life is a waste if you don’t use what you’ve gone
+      through to . Through his writing and speaking engagements, he openly
+      discusses his experiences, fostering connections with his audience and
+      creating opportunities for others to learn from his journey.
+
+
+      The Inner Work: Cultivating Empathy and Compassion
+
+
+      In my interactions with others, I try to demonstrate empathy and
+      compassion, essential qualities in the inner work journey. By
+      understanding people's experiences and feelings on a deeper level, I can
+      connect with them more authentically and make a positive impact on their
+      lives.
+
+
+      Here are some practical steps to start your own inner work journey:
 
 
       * Reflect on your past experiences and challenges, and acknowledge how
