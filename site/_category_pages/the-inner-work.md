@@ -43,17 +43,22 @@ page_blocks:
       best version of myself.
 
 
-      Embracing Adversity: The First Step in The Inner Work
+      ## Embracing Adversity: The First Step in The Inner Work
 
 
-      This journey begins with overcoming adversity.I grew up in poverty, raised
-      by a single mom, in public housing. This eventually lead to a battle with
-      alcoholism. By acknowledging and confronting these challenges, I set the
-      stage for my own personal hero’s journey. We all start somewhere, and I
-      start out almost as bad as you can.
+      This journey begins with overcoming adversity. I grew up in poverty,
+      raised by a single mom, in public housing. This eventually lead to a
+      battle with alcoholism. By acknowledging and confronting these challenges,
+      I set the stage for my own personal hero’s journey. We all start
+      somewhere, and I start out almost as bad as you can.
 
 
-      The Inner Work Principle: Focusing on Self-Improvemen
+      * [Living in the hood](/living-in-the-hood/)
+
+      * [Getting sober](/how-to-break-an-addiction/)
+
+
+      ## The Inner Work Principle: Focusing on Self-Improvement
 
 
       tSelf-improvement has been a driving force in my life. I returned to
@@ -64,7 +69,12 @@ page_blocks:
       work.
 
 
-      Cultivating Emotional Intelligence
+      * [How to make money on social media](/how-to-make-money-on-social-media/)
+
+      * [Learning skills](/learning-skills/)
+
+
+      ## Cultivating Emotional Intelligence
 
 
       My journey from boxing to public speaking and writing forced me to develop
