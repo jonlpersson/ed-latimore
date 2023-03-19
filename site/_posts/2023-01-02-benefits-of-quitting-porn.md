@@ -91,7 +91,7 @@ Here are some notes you’ll find when you read that article:
 
 * Tools that make quitting porn easier
 * Daily practices that keep you focused and improve your life
-* Methods to improve your sexual life outside of watching porn
+* Methods to improve your sexual life [outside of watching porn](/how-to-stop-watching-porn/)
 
 ## A note on quitting porn and masturbation
 
