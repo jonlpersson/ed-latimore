@@ -50,7 +50,7 @@ In the first few weeks after quitting porn you may experience:
 
 ## You may relapse
 
-The first four weeks right after quitting porn are the most difficult. And you may relapse. In fact, relapse is so common after addiction that it’s considered a phase of the recovery cycle.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> The period of time it takes you to recover from the withdrawal phase depends on how much and how long you spent watching porn.
+The first four weeks right after quitting porn are the most difficult. And you may relapse. In fact, relapse is so common after addiction that it’s considered a phase of the recovery cycle.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> The period of time it takes you to recover from the withdrawal phase depends on how much and [how long you spent watching porn.](/how-to-stop-watching-porn/)
 
 Now, you may not relapse, but don’t be blind to the possibility.
 
