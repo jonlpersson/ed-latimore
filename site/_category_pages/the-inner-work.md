@@ -94,24 +94,25 @@ page_blocks:
       ## Building Self-Awareness
 
 
-      A cornerstone of The Inner Work is having an unwavering commitment to
+      A cornerstone of Inner Work is having an unwavering commitment to
       self-awareness. I know where my strengths, weaknesses, and motivations
       are. This has allowed me to identify opportunities for personal growth and
       pursue different avenues of success. Doors open for are typically closed
       to otherwise more talented individuals.
 
 
-      Embracing Vulnerability
+      ## Embracing Vulnerability
 
 
       Sharing personal stories and insights requires vulnerability. I firmly
       believe that your life is a waste if you don’t use what you’ve gone
-      through to . Through his writing and speaking engagements, he openly
-      discusses his experiences, fostering connections with his audience and
-      creating opportunities for others to learn from his journey.
+      through to teach and inspire. Through his writing and speaking
+      engagements, he openly discusses his experiences, fostering connections
+      with his audience and creating opportunities for others to learn from his
+      journey.
 
 
-      The Inner Work: Cultivating Empathy and Compassion
+      ## Cultivating Empathy and Compassion
 
 
       In my interactions with others, I try to demonstrate empathy and
