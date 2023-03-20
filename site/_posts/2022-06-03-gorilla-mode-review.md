@@ -1,7 +1,7 @@
 ---
 date: 2022-06-03 12:00:00 -0400
 article_type: Review
-title: I tried Gorilla Mode pre-workout (this is what happened)
+title: Ed Latimore's Gorilla Mode Pre-Workout Review
 permalink: /gorilla-mode-review/
 tags:
   - how-to-become-superhuman
@@ -12,6 +12,8 @@ description: >-
   how I use it, and how it compares to other popular pre-workouts.
 image: /assets/images/thumbnails/gorilla-mode-thumbnail.jpg
 ---
+This is my Gorilla Mode Pre-Workout review. I answer questions you have the efficacy, taste, and price, along with giving you some information on the ingredients.&nbsp;
+
 [Gorilla Mode](https://gorillamind.com/r?id=01kb6h) is the pre-workout claiming to outwork all pre-workouts by providing the maxed-out formula in all aspects compared to anything else you’ll find on the market.
 
 I don't have a lot of experience using pre-workouts, so I went and tried a few to compare how they could potentially prework help with my training. To summarize everything you'll read in the rest of this article:
@@ -122,7 +124,7 @@ If the cost (and your facing tingling) isn’t a concern, it’s a solid option.
 
 If you want a little more bang for your buck, you can also try Gorilla Mode Nitric.
 
-This is Gorilla Mind's latest stimulant-free pre-workout. It's got a few extra ingredients that give it an extra kick.&nbsp;It also carries a higher price tag of $59 per container compared to Gorilla Mode's $49 price tag.
+This is Gorilla Mind's latest stimulant-free pre-workout. It's got a few extra ingredients that give it an extra kick. It also carries a higher price tag of $59 per container compared to Gorilla Mode's $49 price tag.
 
 When you look at the ingredients and feel the effect, you really notice where that $10 goes.&nbsp;
 
