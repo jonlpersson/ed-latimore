@@ -1,7 +1,7 @@
 ---
 date: 2015-12-01 19:00:00 -0500
 article_type: Article
-title: 7 easy ways to finally quit porn
+title: How to quit porn in 7 steps
 permalink: /how-to-quit-porn/
 tags:
   - how-to-stop-watching-porn
@@ -12,7 +12,7 @@ description: >-
   This is the plan I used to stop my porn addiction. This is a real, battle
   tested, science backed, reality based plan to stop your porn addiction.
 ---
-This is the plan I used to quit porn and improve my sex life.
+This is the plan I used to quit porn and improve my sex life. If you want to learn how to quit porn, let me first tell you what you won't find here.
 
 This isn't:
 
