@@ -1,7 +1,7 @@
 ---
 date: 2020-01-16 06:45:00 -0500
 article_type: Article
-title: 6 signs you're definitely addicted to porn
+title: Am I addicted to porn? 6 ways to know from an addict
 permalink: /6-signs-that-youre-definitely-addicted-to-porn/
 tags:
   - how-to-stop-watching-porn
