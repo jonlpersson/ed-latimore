@@ -46,7 +46,7 @@ For a while, I used the two together. I got ok results, but it was a hassle to r
 
 Although both of these hair loss treatments are cheap and effective, they weren’t a good fit for my needs because they couldn’t provide me with the growth I wanted to achieve.
 
-## Disadvantages of Minoxidil and Finasteride
+## Minoxidil and Finasteride
 
 First, the biggest problem is that neither of these [actually regrow hair in most men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691938/){: target="_blank" rel="noopener noreferrer"}*.*
 
