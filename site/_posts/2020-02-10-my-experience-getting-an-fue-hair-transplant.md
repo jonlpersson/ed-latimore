@@ -48,8 +48,6 @@ Although both of these hair loss treatments are cheap and effective, they werenâ
 
 ## Minoxidil and Finasteride
 
-First, the biggest problem is that neither of these [actually regrow hair in most men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6691938/){: target="_blank" rel="noopener noreferrer"}*.*
-
 A minority of men may experience regrowth using minoxidil and finasteride, but in the majority of men, these drugs simply halt hair loss. Any "regrowth" that you see is the result of more hairs remaining in the Anagen (growth) hair phase rather than prematurely entering the Telogen (resting - after shedding) hair phase.
 
 ![Hair loss cycle](/assets/images/posts/hair-growth-cycle.jpeg "Hair loss cycle"){: width="550" height="241"}
