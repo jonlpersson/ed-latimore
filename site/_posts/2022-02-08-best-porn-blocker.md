@@ -9,7 +9,7 @@ categories:
   - how-to-break-an-addiction
 description: >-
   Kick the bad habit of watch porn for good by using a porn blocker. Here's the
-  top porn blockers reviewed for 2022.
+  top porn blockers reviewed for 2023.
 image: /assets/images/thumbnails/ed-on-laptop.jpg
 ---
 The internet is an incredible tool. Hell, it has played a significant role in helping me reach my goals as an entrepreneur and creator. But like most powerful tools, it can also be a double-edged sword.
