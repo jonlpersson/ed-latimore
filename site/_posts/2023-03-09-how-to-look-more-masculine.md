@@ -9,7 +9,7 @@ categories:
   - learning-skills
 description: >-
   Discover how to look more masculine and effortlessly exude masculinity from your wardrobe to your conversations
-image: /assets/images/drafts/ed-looking-masculine.jpg
+image: /assets/images/thumbnails/ed-looking-masculine.jpg
 ---
 
 Not everyone is born with a chiseled physique or a face that could make angels swoon.

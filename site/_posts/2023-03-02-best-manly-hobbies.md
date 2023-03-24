@@ -9,7 +9,7 @@ categories:
   - learning-skills
 description: >-
   The ultimate list of hobbies for men: 18 ideas for how to use your time to be more unique, attractive, and creative during your downtime.
-image: /assets/images/drafts/ed-latimore-doing-archery.jpg
+image: /assets/images/thumbnails/ed-latimore-doing-archery.jpg
 ---
 
 A man isn’t defined by what he says; instead, he’s defined by his actions. If you want to be someone your friends look up to and women pay attention to, you must live a life worth noticing.
