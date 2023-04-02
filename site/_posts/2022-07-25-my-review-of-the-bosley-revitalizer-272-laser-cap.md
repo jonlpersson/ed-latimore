@@ -22,6 +22,8 @@ Before I dive into my review of the Bosley Revitalizer 272, I will quickly take 
 
 I think my hair loss started around age 23. At the very least, that’s when people close to me could notice my thinning hair. By 27, I was between level 3 and 4 on the Norwood-Hamilton androgenetic alopecia baldness scale.
 
+In other words, I was falling victim to the dreaded male pattern baldness.
+
 ![I was 33 in these pictures](/assets/images/drafts/losing-hair-early.png "I was 33 in these pictures"){: width="400" height="225"}
 
 I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it doesn't quickly regrow hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
