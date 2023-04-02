@@ -64,13 +64,13 @@ I like a nice full of head of hair as much as the next guy, but I’m not willin
 
 Topical minoxidil increases hair growth by stimulating hair follicle activity. It belongs to a class of drugs known as vasodilators. These drugs work by opening the blood vessels. In fact, minoxidil was originally developed to treat high blood pressure ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109604/)).
 
-When it's applied to the scalp, an enzyme called sulfotransferase converts minoxidil into minoxidil sulfate, the pro-drug's active form. Lack of this enzyme sulfotransferase in certain people may actually hold the key to why some people don't experience success using Minoxidil.
+When it's applied to thinning hair on the scalp, an enzyme called sulfotransferase converts minoxidil into minoxidil sulfate, the pro-drug's active form. Lack of this enzyme sulfotransferase in certain people may actually hold the key to why some people don't experience success using Minoxidil.
 
 ![How Minoxidil stops hair loss](/assets/images/drafts/how-minoxidil-works-to-stop-hair-loss.jpeg "How Minoxidil stops hair loss"){: width="459" height="459"}
 
 However, some people experience unwanted side effects such as itching, burning, redness, swelling, or irritation. minoxidil sulfate. It works by shortening the telogen, or resting phase of the hair, and causes the hair to enter the anagen or growing phase. There is also some evidence that minoxidil can increase the thickness of the hair ([source](https://www.ncbi.nlm.nih.gov/books/NBK482378/)).
 
-The drug is generally well tolerated, though some people have complained of itching, burning, redness, swelling, or irritation.
+The drug works well enough to treat hair lossis generally well tolerated, though some people have complained of itching, burning, redness, swelling, or irritation.
 
 ## Finasteride in a topical solution: The solution to oral finasteride
 
@@ -166,9 +166,11 @@ If you only buy one bottle at a time, it's $50/month. I have no idea why you'd e
 
 The recommended application frequency is only once per day, but I have old habits from using Minoxidil. Plus, I was committed to maintaining my hair after my hair transplant, so I use it twice a day. Even still, I have a bit left over by the time my next shipment arrives. However, the bottle does come with a "use by" date, which seems like a good idea to follow. Either way, this is a fantastic deal.
 
-Because finasteride is still a prescription medication, you'll have to go through a quick interview with their doctor. I know some guys worry when they see they need a prescription, but it's fine. For whatever reason, I never could ask my medical provider in person for a prescription to treat my hair loss, but it's much easier to do this over the internet.&nbsp;
+Because Hims finasteride spray is still a Rx (prescription) hair loss spray, you'll have to go through a quick interview with their doctor. I know some guys worry when they see they need a prescription, but it's fine. For whatever reason, I never could ask my medical provider in person for a prescription to treat my hair loss, but it's much easier to do this over the internet.&nbsp;
 
 [Forhims.com](https://prf.hn/l/vyvenmZ) takes care of all of that for you. Also, in case you're embarrassed about seeking help to spark your hair growth, your topical combination is delivered in discrete packaging.&nbsp;
+
+There are other great Hims hair loss products, including [styling gels and thickening shampoos](https://prf.hn/l/vyvenmZ) you should check out.
 
 ![Discrete package from Forhims.com](/assets/images/drafts/discrete-packaging-from-forhims-1.jpg "Discrete package from Forhims.com"){: width="450" height="600"}
 
