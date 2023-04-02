@@ -83,7 +83,7 @@ The [laser treatment device is ideal for men and women suffering from hair loss]
 * [Chemotherapy](https://www.clinicaltrials.gov/ct2/show/NCT01081106){: target="_blank" rel="noopener noreferrer"}
 * Aging
 
-It's suitable for eople with all hair types. Anyone who wants thicker hair, fuller hair, or healthy hair can try the hair cap or a even a laser comb.
+It's suitable for eople with all hair types. Based on my research, it also appears to be effective in people who are battle alopecia areta, the disease where the immune system attacks the hair follicles. Anyone who wants thicker hair, fuller hair, or healthy hair can try the hair cap or a even a laser comb.
 
 The Bosley Revitalizer 272 can be used by almost anyone suffering from hair loss, caused hormonally or otherwise.
 
