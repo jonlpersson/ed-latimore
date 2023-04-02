@@ -154,7 +154,11 @@ I can only speak to the place that I use. There are a few players in this space,
 
 I just know that the price is right, the service is tight, and I've had no complaints at all.&nbsp;
 
-I get my mix from [Forhims.com](https://prf.hn/l/vyvenmZ). Their mixture is 0.1% minoxidil and 6% topical finasteride. The 2-in-1 spray special costs me $120 for 3 bottles, which is supposed to last about 3 months if used once daily. I believe this is also the price of a subscription, which ships out every 3 months. Your credit card is automatically charged.
+I get my mix from [Forhims.com](https://prf.hn/l/vyvenmZ).
+
+### My Hims finasteride spray review
+
+Their mixture is topical 0.3% finasteride & 6% minoxidil solution. The 2-in-1 spray special costs me $120 for 3 bottles, which is supposed to last about 3 months if used once daily. I believe this is also the price of a subscription, which ships out every 3 months. Your credit card is automatically charged.
 
 ![6% minoxidil topical solution fortified with 0.1% Finasteride](/assets/images/drafts/finasteride-plus-minoxidil-combination.jpg "6% minoxidil topical solution fortified with 0.1% Finasteride"){: width="450" height="600"}
 
