@@ -3,9 +3,9 @@ date: 2022-07-25 12:33:28 -0400
 article_type: Article
 title: My review of the Bosley Revitalizer 272 Laser Cap
 permalink: /bosley-revitzlizer-272-laser-cap-review/
-tags: 
+tags:
   - how-to-be-a-hot-guy
-categories: 
+categories:
   - how-to-be-a-hot-guy
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really
@@ -24,7 +24,7 @@ I think my hair loss started around age 23. At the very least, that’s when peo
 
 ![I was 33 in these pictures](/assets/images/drafts/losing-hair-early.png "I was 33 in these pictures"){: width="400" height="225"}
 
-I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it’s not something that usually regrows hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
+I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it doesn't quickly regrow hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
 
 In September 2018, at age 33, I got my first FUE hair transplant. **\[Read my experience and see a timeline of my results here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]**
 
@@ -43,7 +43,7 @@ Before we dig into this section, I have to give you two major disclaimers:
 1. While Bosley hasn’t paid me for this review, they did supply me with a free laser cap to try. This doesn’t misalign my incentives or affect my review because they aren’t paying me any affiliate commission for any sold. Also, I already paid them about $20k for my two hair transplants.
 2. I haven’t tried other lllt technologies or laser hair growth therapy caps. I know other companies make competing devices (Hairmax, Irestore, Illumiflow, etc.), but I haven’t used them. This is one customer review of one specific brand. Don’t take this as an indictment against or an endorsement of laser hair restoration technology. It’s only an assessment of Bosley’s Revitalizer 272.
 
-With that out of the way, let’s dig into the functions, features, and promises of the Bosley Revitalizer 272
+With that out of the way, let’s dig into the functions, features, and promises of the Bosley Revitalizer 272. From my limited experience, it does appear to be one of the best laser hair growth devices on the market.
 
 ## What you need to know about low-level laser therapy (lllt)
 
@@ -74,6 +74,7 @@ This is significant because any topical or chemical hair loss solutions have not
 The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}&nbsp;due to any of the following reasons:
 
 * Androgenic alopecia
+* Alopecia areata
 * Hormonal imbalances
 * Postpartum&nbsp;
 * Illness
@@ -137,4 +138,4 @@ For guys who don't have the money for an expensive FUE transplant, this is a rea
 
 As long as you're not past level 5 on Norwood-Hamilton or level 4 on Ludwig-Savin scale, you have an excellent chance of seeing significant regrowth.
 
-[Pick up Bosley Revitalizer 272 right here today\!](https://amzn.to/3zGGZur){: target="_blank" rel="noopener"}
+[Pick up Bosley Revitalizer 272 right here today!](https://amzn.to/3zGGZur){: target="_blank" rel="noopener"}
