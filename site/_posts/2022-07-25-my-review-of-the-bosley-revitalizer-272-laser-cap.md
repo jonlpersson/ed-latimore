@@ -51,7 +51,7 @@ With that out of the way, let’s dig into the functions, features, and promises
 
 I wrote an in-depth article on how LLLT works. You can read the whole thing here—&gt;[How Low-Level Laser Therapy works](/low-level-light-therapy-for-hair-loss/)[&nbsp;for hair loss](/low-level-light-therapy-for-hair-loss/)
 
-The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to stimulate hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized due to LLLT.
+The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to promote hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized due to LLLT.
 
 When I got my hair transplants in 2018 and 2019, I had no idea that lllt technology existed. It was only in its infancy and was only available at certain locations.
 
