@@ -72,7 +72,7 @@ The 100mg dose of L-Theanine helps me [maintain my reaction time and mental shar
 
 It doesn't turn me into superman, it does allow me to get a bit extra out of my body. Getting just 5% more out of each workout may not seem like much in the short term, but compound those training sessions for one, two, or even five years, and your body and mind will be in an unrecognizable place from where you are now.
 
-With that said, if you consider yourself a competitive athlete or someone looking to take their training sessions to the next level, I can’t recommend GMS enough.
+With that said, if you consider yourself a competitive athlete or someone looking to take their training sessions to the next level, I can’t recommend GMS enough. For a serious boost of energy and focus, take with [Gorilla Mode Pre-Workout.](/gorilla-mode-review/)
 
 ## Drawbacks
 
