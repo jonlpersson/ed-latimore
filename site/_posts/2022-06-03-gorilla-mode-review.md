@@ -28,7 +28,7 @@ Let's dive in so you can get a more in-depth look at what this supplement can do
 
 I mix 1-2 scoops of Gorilla Mode with 12-14 ounces of water 30 minutes before my training sessions to get the best results. Like many products of this nature, it's more intense on an empty stomach. However, taking this and training breaks fasted training if this was your goal.&nbsp;
 
-If you’re sensitive to caffeine or new to pre-workout supplements, I recommend starting with half a scoop and observing how well your body handles it. Once you build up a tolerance, you can adjust your serving as needed.
+If you’re sensitive to caffeine or new to pre-workout supplements, I recommend starting with half a scoop and observing how well your body handles it. Once you build up a tolerance, you can adjust your serving as needed. It's a caffeine-free pre-workout, but access your tolerance.
 
 My tolerate is absolutely ridiculous for caffeine because of how much caffeine I drink on a daily basis.&nbsp;
 
@@ -36,7 +36,7 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **Within 15-30 minutes:** I start to feel more alert and focused, although it could just be the placebo effect since the caffeine hasn’t hit just yet.My brain is on fire, and I can feel the blood coursing through my veins. My body is ready to hit the weights or speed bag if I haven't already.
 
-**Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. An interesting benefit of Gorilla Mode is that it simultaneously motivates you and actually gives you more energy. It's not just motivation and placebo. The malic acid, betaine anhydrous, agmatine sulfate, and huperzine-A are giving you more energy and focus.
+**Within 90 minutes:** I’m still going strong, thanks to the muscular endurance and cognitive boost. An interesting benefit of Gorilla Mode is that it simultaneously motivates you and actually gives you more energy. It's not just motivation and placebo. The malic acid, betaine anhydrous, agmatine sulfate, and huperzine-A are giving you more energy and focus. This energy boost should make it easier to put on muscle mass.
 
 **After 6-8 hours:** By this point, I’ve already hit the half-life of caffeine and observe no noticeable effects from the pre-workout. If anything, I may feel somewhat fatigued from the training session, but that’s because [I choose to hit it hard.](/pushing-through-the-pain/)&nbsp;The only ingredient that has a long half-life is Huperzine A, but there is such a small amount that you'll be pretty much back to normal.&nbsp;
 
