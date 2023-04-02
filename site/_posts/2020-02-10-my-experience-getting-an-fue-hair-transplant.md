@@ -58,7 +58,9 @@ The second problem is that you have to take the drugs every day or lose the bene
 
 I won’t dive into the science here, but [minoxidil works by stimulating hair growth](https://www.bosley.com/blog/minoxidil-101-everything-you-need-to-know-about-generic-rogaine/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"}, and [finasteride works by reducing the DHT levels in your body](https://www.bosley.com/blog/finasteride-101-everything-you-need-to-know-about-generic-propecia-2/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"}. Miss one day and your hair follicles stop being stimulated and your DHT levels rise back to levels that cause hair loss.
 
-That took me to the third solution. The one the rest of this article will discuss. Hair transplant surgery.
+When I started loosing my hair, platelet rich plasma (PRP) or [laser cap technology](/bosley-revitzlizer-272-laser-cap-review/) wasn't commercially affordable, but their available now.&nbsp; That took me to the third solution.
+
+The one the rest of this article will discuss. Hair transplant surgery.
 
 ## How Surgical Hair Restoration Works
 
