@@ -101,7 +101,7 @@ To fully appreciate how low-level light therapy works for hair loss, we have to 
 
 [Male androgentic alopecia](https://www.bosley.com/blog/types-of-alopecia/){: target="_blank" rel="noopener"}(MAA), male pattern baldness, or "going bald" happens when the anagen phase decreases while the telogen phase remains the same length or gets longer. Ultimately, anagen duration becomes so short that the growing hair fails to achieve sufficient length to reach the surface of the skin, leaving an empty follicular pore.
 
-All of this is thought to be caused by the DHT, a useful hormone with the unfortunate side effect of causing the hair follicles to shrink, which simultaneously extends the amount of time hair spends in the telegen and exogen phase and reduces the growth that occurs in the anagen phase.
+All of this is thought to be caused by the DHT, a useful hormone with the unfortunate side effect of causing the hair follicles to shrink, which simultaneously extends the amount of time hair spends in the telogen and exogen phase and reduces the growth that occurs in the anagen phase.
 
 Analogously, think of this like trying to fill a bucket with a tiny hole in the side that is growing.
 
@@ -111,7 +111,7 @@ Male androgenetic alopecia simultaneously causes the rate of the water coming in
 
 Eventually, not only will the water rate slow to barely a trickle, but the hole in the side of the bucket will be so big that any water still running in won’t be able to go above a certain level.
 
-Then enters low level laser therapy. Think of low level laser therapy as both a construction worker patching up the hole in the wall and the plumber unclogging hose that is supplying water to the bucket.
+Then enters [low-level laser therapy](/bosley-revitzlizer-272-laser-cap-review/). Think of low level laser therapy as both a construction worker patching up the hole in the wall and the plumber unclogging hose that is supplying water to the bucket.
 
 Low level light therapy is assumed to shorten the telogen phase so that hair follicles enter the anagen phase more quickly. It’s also assumed to prolong duration of anagen phase by increasing rates of proliferation in active anagen hair follicles and to prevent premature passage into the catagen phase \[[source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}\].
 
