@@ -16,7 +16,7 @@ navigation_links:
       - header
       - footer
     group:
-      - about
+      - articles
   - url: /products/
     name: Products
     visible:
@@ -45,6 +45,12 @@ navigation_links:
       - about
   - url: /speaking/
     name: Speaking
+    visible:
+      - footer
+    group:
+      - about
+  - url: /sponsor/
+    name: Advertise with me
     visible:
       - footer
     group:
