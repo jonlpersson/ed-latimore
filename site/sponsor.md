@@ -11,13 +11,13 @@ page_blocks:
   - _id: block_rich_text
 ---
 
-Over 32,000 men and women subscribe to my emails about self-growth. Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential.
+Over 35,000 men and women subscribe to my emails about self-growth. Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential.
 
 ## Details
 
 Want to sponsor my newsletter? Here are a few details:
 
-- 32,000+ readers
+- 35,000+ readers
 - 38–42% open rate
 - Audience made up of relentless self-improvers
 - Sent once per week

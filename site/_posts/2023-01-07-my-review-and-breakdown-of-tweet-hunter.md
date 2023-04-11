@@ -155,7 +155,7 @@ Tweet Hunter helps get around that with automatic plugs to tweets after they rea
 1. People will see your product, service, or newsletter as it’s added to the main tweet being shared and hopefully going viral.
 2. When the tweet is added, it will also be partial visible on your timeline as a new tweet.
 
-This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 31k subscribers.
+This tactic is how I’ve continuously made 6-figures selling my products and grown my newsletter to over 35K subscribers.
 
 ![Automatically plugging a link to my newsletter after 40 likes](/assets/images/drafts/auto-plug-example-tweethunter.jpg "Automatically plugging a link to my newsletter after 40 likes"){: width="500" height="281"}
 

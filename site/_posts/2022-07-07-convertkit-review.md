@@ -8,11 +8,11 @@ tags:
 categories:
   - how-to-make-money-on-social-media
 description: >-
-  I tested ConvertKit for my email list of over 29k subscribers. Here are the
+  I tested ConvertKit for my email list of over 35K subscribers. Here are the
   best features and the main drawbacks I discovered.
 image: /assets/images/thumbnails/ed-working-coffee-on-laptop.jpg
 ---
-There are many reasons to love ConvertKit but it may not be for everyone. I’ve been using ConvertKit to keep in touch with my over 29k email subscribers, make a living from my writing and digital products, and grow my email list. I love it because I’m a creator that teaches emotional intelligence and self-improvement through [hard-won life lessons.](https://edlatimore.com/7-benefits-of-having-a-rough-childhood/) And I feel that ConvertKit is a great fit for my creative projects.
+There are many reasons to love ConvertKit but it may not be for everyone. I’ve been using ConvertKit to keep in touch with my over 35K email subscribers, make a living from my writing and digital products, and grow my email list. I love it because I’m a creator that teaches emotional intelligence and self-improvement through [hard-won life lessons.](https://edlatimore.com/7-benefits-of-having-a-rough-childhood/) And I feel that ConvertKit is a great fit for my creative projects.
 
 Overall, I love the intuitive, easy-to-track stats, improved deliverability, and the ease of creating landing pages. Pricing is on a sliding scale, so whether you have 20 thousand followers or 2, you’ll pay a reasonable price for your level of business.
 

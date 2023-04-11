@@ -35,7 +35,7 @@ Most, if not all, of the points I raise here are based on my own experiences get
 * [160,000+ followers on Twitter](https://twitter.com/EdLatimore){: target="_blank" rel="noopener noreferrer"} (On of the best social media platforms for building a brand)
 * [44,000 followers on Instagram](https://www.instagram.com/edlatimore/) (Better for posting pictures than Snapchat because the content lasts)
 * 100k pageviews per month on my personal website (Done with the magic of SEO)
-* [25,000+ email subscribers](/newsletter) (A great place to teach what you're most passionate about, not just what ranks well in the search engines)
+* [35,000+ email subscribers](/newsletter) (A great place to teach what you're most passionate about, not just what ranks well in the search engines)
 
 I'm far from a branding expert, but I know more than the average person about what it takes to develop and execute via a personal branding strategy.
 

@@ -4,9 +4,9 @@ image: /assets/images/thumbnails/2-newsletter.png
 title: Newsletter
 hero:
   hero_type: email
-  heading: Over 30,000 men and women subscribe to my weekly emails about self-growth.
+  heading: Over 35,000 men and women subscribe to my weekly emails about self-growth.
   text_markdown: |
-    Join a community of over 30,000 men and women who receive my weekly newsletter about mental, physical, emotional, and financial self-improvement.
+    Join a community of over 35,000 men and women who receive my weekly newsletter about mental, physical, emotional, and financial self-improvement.
 
     You'll get:
 
