@@ -1,7 +1,7 @@
 ---
 date: 2023-02-10 09:00:00 -0400
 article_type: Article
-title: 7 Ways to develop an ironclad growth mindset
+title: 7 ways to develop an ironclad growth mindset
 permalink: /how-to-develop-a-growth-mindset/
 tags:
   - change-your-perspective
