@@ -4,7 +4,7 @@ article_type: Article
 title: The benefits of NoFap
 permalink: /nofap-benefits/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-

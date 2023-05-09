@@ -4,7 +4,7 @@ article_type: Article
 title: How to start NoFap to gain more personal confidence
 permalink: /how-to-start-nofap/
 tags:
-  - how-to-break-an-addiction
+  - how-to-stop-watching-porn
 categories:
   - how-to-break-an-addiction
 description: >-
