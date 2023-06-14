@@ -27,8 +27,8 @@ page_blocks:
       and trying to emerge victorious.
 
 
-      If a fight is violent enough, even the winner will take enough damage to
-      feel like they've lost.
+      If a fight is violent enough, even the winner will take so much damage
+      they'll feel like they've lost.
 
 
       <div class="cms-embed"
@@ -111,8 +111,8 @@ page_blocks:
       growing up in public housing raised without my father around.
 
 
-      I hope that with these lessons, you'll be better able to make it through
-      any personal hardships, trials, or tribulations that you are facing.&nbsp;
+      I hope that with these lessons, you'll be better able to overcome any
+      personal hardships, trials, or tribulations you face.&nbsp;
 
 
       If you don't have any immediate challenges, I hope this guide helps you
