@@ -53,6 +53,28 @@ page_blocks:
 
       Things happen that will keep you from achieving what you want. The ability
       to survive setbacks is what sets you up for success in life.
+
+
+      Throughout my amateur and professional career, I've had over 80 fights
+      against other trained men whose only intent was to hurt me.
+
+
+      I've been hit way more times than I've hit.
+
+
+      I've been hurt.<br>I've been stopped.<br>I've been disappointed.<br>I've
+      been "robbed" (A fighter is "robbed" when they obviously won a fight, but
+      because they didn't win by knockout, the bout is decided by the judge's
+      decision, and they lose.)
+
+
+      But despite all this, I managed to win a state title (2011 Pennsylvania
+      Golden Gloves 3-201 lbs+) and a national title (2011 National PAL 201+
+      lbs). But most importantly, I kept fighting and won way more fights than I
+      lost.
+
+
+      This aligns perfectly with my life.
   - _id: block_cta
     image: /assets/images/thumbnails/dick-detox-cover.jpg
     heading: Beat your porn habit today
