@@ -87,6 +87,17 @@ page_blocks:
       Despite this, I've made friendships that will last a lifetime, gotten
       sober while helping others do the same, helped many, and even saved a few
       lives.
+
+
+      My life isn't perfect. It's a work in progress.&nbsp;
+
+
+      The last battle I fought won't be the last one because I understand that
+      part of life is the struggle. It's always going to be a fight. No matter
+      how hard you train for it, it will knock you down.
+
+
+      **But will you get back up?**
   - _id: block_cta
     image: /assets/images/thumbnails/dick-detox-cover.jpg
     heading: Beat your porn habit today
