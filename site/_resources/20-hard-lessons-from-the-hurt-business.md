@@ -103,8 +103,6 @@ page_blocks:
       <u><strong>But will you get back up?</strong></u>
 
 
-
-
       This email course contains 20 short lessons from the hurt business of life
       and boxing.&nbsp;
 
