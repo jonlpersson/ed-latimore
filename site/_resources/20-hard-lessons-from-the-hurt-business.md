@@ -68,13 +68,25 @@ page_blocks:
       decision, and they lose.)
 
 
-      But despite all this, I managed to win a state title (2011 Pennsylvania
-      Golden Gloves 3-201 lbs+) and a national title (2011 National PAL 201+
-      lbs). But most importantly, I kept fighting and won way more fights than I
-      lost.
+      But despite all this, I won a state title (2011 Pennsylvania Golden Gloves
+      3-201 lbs+) and a national title (2011 National PAL 201+ lbs). But most
+      importantly, I kept fighting and won way more fights than I lost.
 
 
       This aligns perfectly with my life.
+
+
+      Throughout my 38 years, I've been beaten, betrayed, abandoned,
+      disappointed, and robbed (literally).
+
+
+      I've lost friends, battled addiction, come back from poverty, and had my
+      heart broken before it was stomped on.
+
+
+      Despite this, I've made friendships that will last a lifetime, gotten
+      sober while helping others do the same, helped many, and even saved a few
+      lives.
   - _id: block_cta
     image: /assets/images/thumbnails/dick-detox-cover.jpg
     heading: Beat your porn habit today
