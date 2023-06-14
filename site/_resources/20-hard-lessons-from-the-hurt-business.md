@@ -133,6 +133,6 @@ page_blocks:
       The rest is up to you.
   - _id: block_cta
     image: /assets/images/thumbnails/dick-detox-cover.jpg
-    heading: Beat your porn habit today
-    text: Get your free guide to beating porn
+    heading: Learn how to KO your problems in this free email course
+    text: Sign up for the course
 ---
