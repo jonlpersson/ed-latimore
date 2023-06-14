@@ -70,8 +70,11 @@ page_blocks:
 
 
       But despite all this, I won a state title (2011 Pennsylvania Golden Gloves
-      201 lbs+) and a national title (2011 National PAL 201+ lbs). But most
-      importantly, I kept fighting and won way more fights than I lost.
+      201 lbs+) and a national title (2011 National PAL 201+ lbs) and went on to
+      have a professional career of 13-1-1.
+
+
+      But most importantly, I kept fighting and won way more fights than I lost.
 
 
       <u><strong>This aligns perfectly with the rest of my life.</strong></u>
@@ -81,13 +84,12 @@ page_blocks:
       (literally).
 
 
-      I've lost friends, battled addiction, come back from poverty, and had my
-      heart broken before it was stomped on.
+      I've lost friends, battled addiction, and had my heart broken before it
+      was stomped on.
 
 
       Throughout it all,&nbsp; I made friendships that will last a lifetime, got
-      sober while helping others do the same, helped many, and even saved a few
-      lives.
+      sober while helping others do the same, and even saved a few lives.
 
 
       My life isn't perfect. It's a work in progress.&nbsp;
@@ -107,7 +109,7 @@ page_blocks:
       and boxing.&nbsp;
 
 
-      These observations I took from my time in boxing also apply to the various
+      These are observations from boxing that also apply to the various
       challenges I faced in my life, like battling alcoholism and growing up in
       public housing raised without my father around.
 
