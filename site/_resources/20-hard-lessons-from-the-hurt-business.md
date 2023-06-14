@@ -24,7 +24,7 @@ page_blocks:
     text_markdown: >-
       One of my favorite metaphors for life is boxing, "The hurt business," as
       Mike Tyson once called it, is the business of causing pain, enduring it,
-      and trying to emerge victorious.
+      all while trying to emerge victorious.
 
 
       If a fight is violent enough, even the winner will take so much damage
