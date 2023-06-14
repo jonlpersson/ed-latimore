@@ -23,8 +23,8 @@ page_blocks:
     alignment: center
     text_markdown: >-
       One of my favorite metaphors for life is boxing, "The hurt business," as
-      Mike Tyson once called it, is the business of causing pain, enduring it,
-      all while trying to emerge victorious.
+      Mike Tyson once called it, is the business of causing pain and enduring
+      it, all while trying to emerge victorious.
 
 
       If a fight is violent enough, even the winner will take so much damage
@@ -47,12 +47,13 @@ page_blocks:
 
 
       In that one line, Rocky, the fictional heavyweight champion of the world,
-      makes a powerful commentary about the nature of boxing and the essence of
+      makes a powerful commentary on the nature of boxing and the essence of
       life:
 
 
-      Things happen that will keep you from achieving what you want. The ability
-      to survive setbacks is what sets you up for success in life.
+      <u><strong>Things happen that will keep you from achieving what you want.
+      The ability to survive setbacks is what sets you up for success in
+      life.</strong></u>
 
 
       Throughout my amateur and professional career, I've had over 80 fights
