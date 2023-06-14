@@ -1,5 +1,5 @@
 ---
-type: Email course
+type: Free email course
 title: 20 Hard Lessons From The Hurt Business
 description: >-
   A free email course to teach you what I learned the hard way—from growing up
