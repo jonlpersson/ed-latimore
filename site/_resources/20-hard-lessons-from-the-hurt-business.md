@@ -56,11 +56,11 @@ page_blocks:
       life.</strong></u>
 
 
-      Throughout my amateur and professional career, I've had over 80 fights
-      against other trained men whose only intent was to hurt me.
+      Throughout my amateur and professional boxing career, I've had over 80
+      fights against other trained men whose only intent was to hurt me.
 
 
-      I've been hit way more times than I've hit.
+      I've been hit *way* more times than I've hit.
 
 
       I've been hurt.<br>I've been stopped.<br>I've been disappointed.<br>I've
@@ -70,22 +70,22 @@ page_blocks:
 
 
       But despite all this, I won a state title (2011 Pennsylvania Golden Gloves
-      3-201 lbs+) and a national title (2011 National PAL 201+ lbs). But most
+      201 lbs+) and a national title (2011 National PAL 201+ lbs). But most
       importantly, I kept fighting and won way more fights than I lost.
 
 
-      This aligns perfectly with my life.
+      <u><strong>This aligns perfectly with the rest of my life.</strong></u>
 
 
-      Throughout my 38 years, I've been beaten, betrayed, abandoned,
-      disappointed, and robbed (literally).
+      I've been beaten, betrayed, abandoned, disappointed, and robbed
+      (literally).
 
 
       I've lost friends, battled addiction, come back from poverty, and had my
       heart broken before it was stomped on.
 
 
-      Despite this, I've made friendships that will last a lifetime, gotten
+      Throughout it all,&nbsp; I made friendships that will last a lifetime, got
       sober while helping others do the same, helped many, and even saved a few
       lives.
 
@@ -93,9 +93,9 @@ page_blocks:
       My life isn't perfect. It's a work in progress.&nbsp;
 
 
-      The last battle I fought won't be the last one because I understand that
-      part of life is the struggle. It's always going to be a fight. It will
-      knock you down no matter how hard you train for it.
+      The last battle I fought won't be the last one because part of life is the
+      struggle. It's always going to be a fight. It will knock you down no
+      matter how hard you train for it.
 
 
       <u><strong>But will you get back up?</strong></u>
