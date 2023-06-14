@@ -46,9 +46,9 @@ page_blocks:
       ***\- Rocky Balboa***
 
 
-      In that one line, Rocky, the fictional heavyweight champion of the world,
-      makes a powerful commentary on the nature of boxing and the essence of
-      life:
+      In that one line, Rocky Balboa, the fictional heavyweight champion of the
+      world, makes a powerful commentary on the nature of boxing AND the essence
+      of life:
 
 
       <u><strong>Things happen that will keep you from achieving what you want.
@@ -107,9 +107,9 @@ page_blocks:
       and boxing.&nbsp;
 
 
-      These are observations I took from my time in boxing that also apply to
-      the various challenges I faced in my life, like battling alcoholism and
-      growing up in public housing raised without my father around.
+      These observations I took from my time in boxing also apply to the various
+      challenges I faced in my life, like battling alcoholism and growing up in
+      public housing raised without my father around.
 
 
       I hope that with these lessons, you'll be better able to overcome any
