@@ -15,8 +15,9 @@ hero:
   image: /assets/images/resources/20-hard-lessons-cover.png
   heading: 20 Hard Lessons From The Hurt Business
   text: >-
-    This is a free guide that teaches you how to finally quit porn and get your
-    sex life back on track.
+    A free email course to teach you what I learned the hard way—from growing up
+    in the projects, boxing, and overcoming addiction—and I break it down so you
+    can learn it the easy way.
 page_blocks:
   - _id: block_rich_text
     alignment: center
