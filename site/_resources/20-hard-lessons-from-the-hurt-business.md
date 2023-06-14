@@ -93,11 +93,41 @@ page_blocks:
 
 
       The last battle I fought won't be the last one because I understand that
-      part of life is the struggle. It's always going to be a fight. No matter
-      how hard you train for it, it will knock you down.
+      part of life is the struggle. It's always going to be a fight. It will
+      knock you down no matter how hard you train for it.
 
 
-      **But will you get back up?**
+      <u><strong>But will you get back up?</strong></u>
+
+
+
+
+      This email course contains 20 short lessons from the hurt business of life
+      and boxing.&nbsp;
+
+
+      These are observations I took from my time in boxing that also apply to
+      the various challenges I faced in my life, like battling alcoholism and
+      growing up in public housing raised without my father around.
+
+
+      I hope that with these lessons, you'll be better able to make it through
+      any personal hardships, trials, or tribulations that you are facing.&nbsp;
+
+
+      If you don't have any immediate challenges, I hope this guide helps you
+      become the most mentally tough, antifragile version of yourself.
+
+
+      Life is the hurt business.&nbsp;
+
+
+      Stop hoping that it will stop hurting and, instead, get tougher and learn
+      to fight back. Eventually, you'll get stronger and better. Only then will
+      things become easier.
+
+
+      The rest is up to you.
   - _id: block_cta
     image: /assets/images/thumbnails/dick-detox-cover.jpg
     heading: Beat your porn habit today
