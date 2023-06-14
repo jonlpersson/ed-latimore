@@ -12,8 +12,8 @@ product_info:
   price: Free
 hero:
   hero_type: product
-  image: /assets/images/thumbnails/dick-detox-cover.jpg
-  heading: 'Dick Detox: The Ultimate Guide To Quitting Porn'
+  image: /assets/images/resources/20-hard-lessons-cover.png
+  heading: 20 Hard Lessons From The Hurt Business
   text: >-
     This is a free guide that teaches you how to finally quit porn and get your
     sex life back on track.
