@@ -5,7 +5,7 @@ description: >-
   A free email course to teach you what I learned the hard way—from growing up
   in the projects, boxing, and overcoming addiction—and I break it down so you
   can learn it the easy way.
-image: /assets/images/thumbnails/dick-detox-cover.jpg
+image: /assets/images/resources/20-hard-lessons-cover.png
 product_info:
   button_text: Download now
   button_url: https://mind-and-fist.ck.page/6cb98ea66a
