@@ -7,8 +7,8 @@ description: >-
   can learn it the easy way.
 image: /assets/images/resources/20-hard-lessons-cover.png
 product_info:
-  button_text: Download now
-  button_url: https://mind-and-fist.ck.page/6cb98ea66a
+  button_text: Enroll now!
+  button_url: https://mind-and-fist.ck.page/57e64fc094
   price: Free
 hero:
   hero_type: product
