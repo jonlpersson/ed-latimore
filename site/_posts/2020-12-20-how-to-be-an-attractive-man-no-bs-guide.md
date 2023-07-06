@@ -180,19 +180,23 @@ Your sleeves should end at the middle of your biceps, and you should be able to 
 
 The goal of a man’s shirt is to show off the work he’s put in. I find that a good-fitting V-neck or high-quality polo will do a great job in the summer.
 
-* [Good fitting, easily affordable v-neck shirts](https://www.amazon.com/s?k=v+neck+shirt&amp;i=fashion&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;linkId=fb318d7a3fa8c08d3327287cb957c136&amp;tag=httpedwardc07-20){: target="_blank" rel="noopener"}
-* [Turtlenecks that stretch and form to your body for good winter fashion](https://www.amazon.com/s?k=turtle+neck+sweaters+men&amp;i=fashion&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;linkId=27cc3c9fa83501126dbc70b264ce22bc&amp;tag=httpedwardc07-20){: target="_blank" rel="noopener"}
+* Good fitting, easily affordable v-neck shirts
+* Turtlenecks that stretch and form to your body for good winter fashion
 
 In the winter, go for anything that fits and shapes your body.
 
 This will largely come down to the fabric. Wool, cotton, and cashmere are great fabrics. Especially if they’ve got a touch of Lycra or micro fabric to help it stretch
 
+***Tappered Menswear is the brand I've recently started wearing. They have an assortment of v-necks and polo shirts that look great. Especially if you've been hitting the gym.***
+
+***[Check them out here!](https://taperedmenswear.com?ref=12)***
+
 #### How should pants fit?
 
 Your pants should fit snugly around your waist with no need for a belt to hold them up, and they should gently hug your butt. They should be slim around your legs, without clinging to them: you should be able to pinch 1 inch of fabric on both sides of your thigh. Your pants should not bunch up around your shoes: if they do, they’re too long.
 
-* [Slimfit jeans for men](https://amzn.to/3yDO12B){: target="_blank" rel="noopener"}
-* [Slimfit khakis for men](https://amzn.to/3OXCtg2){: target="_blank" rel="noopener"}
+* Slimfit jeans for men
+* Slimfit khakis for men
 
 ### Wear clothes that make you look taller and leaner
 
