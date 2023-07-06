@@ -26,6 +26,8 @@ Outside of gym clothes, it means ill-fitting shirts and pants you’ll inevitabl
 
 In this guide, you’ll discover the fundamentals of how to dress when you’re muscular.
 
+***This, by the way, is my favorite place to buy shirts. It's high quality material that feels even better than how it looks.—&gt;[Tappered Men'swear](https://taperedmenswear.com?ref=12)***
+
 ## Get something that fits
 
 The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup><a class="footnote" href="#fn:1">1</a></sup>
@@ -77,6 +79,8 @@ Your shirts should be wide in the chest and sleek at the waist. The taper provid
 
 Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup><a class="footnote" href="#fn:2">2</a></sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
+***Again, this is [Tappered Menswear](https://taperedmenswear.com?ref=12) is the single best place to get these types of clothes. It's in the name!.***
+
 ## Choose pants with thigh room
 
 Large hamstrings and quads are terrorists for slim-fit jeans. If you get them on they either don't fit your waist or get shredded in the process. This leaves men with muscular bodies wearing ridiculously baggy pants.
@@ -121,7 +125,9 @@ How to dress when you’re muscular:
 
 How you dress says a lot about you but it’s only one piece of the puzzle. Read my articles on [how to be more likable](https://edlatimore.com/how-to-be-likeable/) and [how to stop caring what other people think](https://edlatimore.com/how-to-stop-worrying-about-what-others-think-of-you/) for more tips. You can drastically change your life in a matter of 6 months if you work at it.
 
-{% include widgets/summary.html id="dress-like-a-man" %}
+***If this article helped you out and you decide to buy something my shirt recommendations, then I'd love if you purchased from the link. I make an affiliate commission on every sale, you get a quality piece of clothing, and you help the site out.***
+
+***[Tappered Menswear](https://taperedmenswear.com?ref=12)***
 
 ---
 
