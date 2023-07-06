@@ -28,7 +28,7 @@ In this guide, you’ll discover the fundamentals of how to dress when you’re 
 
 ## Get something that fits
 
-The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup><a class="footnote" href="#fn:1">1</a></sup>
 
 Sheldon claimed that there are three main body types that also influence your behavior. While body typing has been widely accepted, the behavioral aspect has been disputed.
 
@@ -67,7 +67,7 @@ Tanner is a men’s style coach that has a three-principal approach to finding t
 * Communication - The silent conversation your style has with others about you
 * Self-perception - The way you view yourself and how your way of dress reflects it
 
-He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [State and Liberty.](https://stateandliberty.com/?rfsn=4641457.42a09&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=4641457.42a09)
+He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [Tapered Men's Fashion.](https://taperedmenswear.com?ref=12)
 
 ## Invest in tapered shirts
 
@@ -75,7 +75,7 @@ Muscular men typically have broad shoulders. It’s not uncommon to Incredible-H
 
 Your shirts should be wide in the chest and sleek at the waist. The taper provides visual contrast and highlights your strong upper body.
 
-Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
+Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup><a class="footnote" href="#fn:2">2</a></sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
 ## Choose pants with thigh room
 
@@ -127,4 +127,4 @@ How you dress says a lot about you but it’s only one piece of the puzzle. Read
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. <a href="https://www.britannica.com/biography/William-Sheldon">https://www.britannica.com/biography/William-Sheldon</a>.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 <a href="http://doi.org/10.1098/rspb.2017.1819">http://doi.org/10.1098/rspb.2017.1819</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Bernard, T. J.. "William Sheldon." Encyclopedia Britannica, November 15, 2021. <a href="https://www.britannica.com/biography/William-Sheldon">https://www.britannica.com/biography/William-Sheldon</a>.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 <a href="http://doi.org/10.1098/rspb.2017.1819">http://doi.org/10.1098/rspb.2017.1819</a>&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
