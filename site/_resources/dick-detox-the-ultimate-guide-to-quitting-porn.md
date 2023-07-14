@@ -1,23 +1,21 @@
 ---
 type: PDF guide
-title: 'The Fighter''s Mindset: Boxing Lesson''s On Grit, Resilience, and Anti-Fragility'
+title: 'Dick Detox: The Ultimate Guide To Quitting Porn'
 description: >-
-  I teach you the mindset lessons I learned from my 13-1-1 professional
-  heavyweight boxing career. Learn how to develop the mindset of a fighter, from
-  a fighter, so you can win the battles you face. 
-image: /assets/images/resources/the-fighters-mindset-cover.jpg
+  Internet pornography has ruined many lives. This free guide teaches you how to
+  finally quit porn and get your sex life back on track. 
+image: /assets/images/thumbnails/dick-detox-cover.jpg
 product_info:
   button_text: Download now
   button_url: https://mind-and-fist.ck.page/6cb98ea66a
   price: Free
 hero:
   hero_type: product
-  image: /assets/images/resources/the-fighters-mindset-cover-1.jpg
+  image: /assets/images/thumbnails/dick-detox-cover.jpg
   heading: 'Dick Detox: The Ultimate Guide To Quitting Porn'
   text: >-
-    I teach you the mindset lessons I learned from my 13-1-1 professional
-    heavyweight boxing career. Learn how to develop the mindset of a fighter,
-    from a fighter, so you can win the battles you face. 
+    This is a free guide that teaches you how to finally quit porn and get your
+    sex life back on track.
 page_blocks:
   - _id: block_rich_text
     alignment: center
