@@ -8,7 +8,7 @@ description: >-
 image: /assets/images/resources/the-fighters-mindset-cover.jpg
 product_info:
   button_text: Download now
-  button_url: https://mind-and-fist.ck.page/6cb98ea66a
+  button_url: https://mind-and-fist.ck.page/fffe6279bf
   price: Free
 hero:
   hero_type: product
@@ -259,7 +259,7 @@ page_blocks:
 
       your confidence, vitality, and sex life today!
   - _id: block_cta
-    image: /assets/images/thumbnails/dick-detox-cover.jpg
-    heading: Beat your porn habit today
-    text: Get your free guide to beating porn
+    image: /assets/images/resources/the-fighters-mindset-cover-2.jpg
+    heading: 'Learn The Fighter''s Mindset '
+    text: Start hitting life back!
 ---
