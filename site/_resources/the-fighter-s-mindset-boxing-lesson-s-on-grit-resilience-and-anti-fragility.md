@@ -23,241 +23,113 @@ hero:
 page_blocks:
   - _id: block_rich_text
     alignment: center
-    text_markdown: >
-      **Pornhub recently compiled a survey about pornography users' viewing
+    text_markdown: >-
+      One of my favorite metaphors for life is boxing, "The hurt business," as
+      Mike Tyson once called it, is the business of causing pain and enduring
+      it, all while trying to emerge victorious.
 
-      habits from 2008-2017…**
 
+      If a fight is violent enough, even the winner will take so much damage
+      they'll feel like they've lost.
 
 
-      * In 2008, 134 hours of pornography were uploaded to Pornhub. In 2017, it
+      <div class="cms-embed"
+      data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2lwaHkuY29tL2VtYmVkLzExSVJmQlhZdzY0Z1pXIiB3aWR0aD0iNDgwIiBoZWlnaHQ9IjI3MCIgZnJhbWVib3JkZXI9IjAiIGNsYXNzPSJnaXBoeS1lbWJlZCIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPjxwPjxhIGhyZWY9Imh0dHBzOi8vZ2lwaHkuY29tL2dpZnMvbG92ZS1tb3ZpZS1saWZlLTExSVJmQlhZdzY0Z1pXIj52aWEgR0lQSFk8L2E+PC9wPg=="><iframe
+      src="https://giphy.com/embed/11IRfBXYw64gZW" width="480" height="270"
+      frameborder="0" class="giphy-embed" allowfullscreen=""></iframe><p><a
+      href="https://giphy.com/gifs/love-movie-life-11IRfBXYw64gZW">via
+      GIPHY</a></p></div>
 
-      was 476,291 hours.
 
+      ***"It ain't about how hard you can hit. It's about how hard you can get
+      hit and keep going."&nbsp;***
 
-      * In 2008, Pornhub saw *1 million* daily visitors to the site. In 2017,
 
-      **75 million daily visitors**.
+      ***\- Rocky Balboa***
 
 
+      In that one line, Rocky Balboa, the fictional heavyweight champion of the
+      world, makes a powerful commentary on the nature of boxing AND the essence
+      of life:
 
-      Considering this is just one of the countless thousands of free online
 
-      porn sites, the porn industry appears to be doing well…
+      **Things happen that will keep you from achieving what you want. The
+      ability to survive setbacks is what sets you up for success in life.**
 
 
+      Throughout my amateur and professional boxing career, I've had over 80
+      fights against other trained men whose only intent was to hurt me.
 
-      **But out of the growth of internet porn has also come a vast number of
 
-      guys whose lives have been damaged by porn addiction.**
+      I've been hit *way* more times than I've hit.
 
 
+      I've been hurt.I've been stopped.I've been disappointed.I've been "robbed"
+      (A fighter is "robbed" when they obviously won a fight, but because they
+      didn't win by knockout, the bout is decided by the judge's decision, and
+      they lose.)
 
-      Online communities, forums, and support groups like r/nofap on Reddit are
 
-      popping up everywhere. For the first time ever, men all over the world are
+      But despite all this, I won a state title (2011 Pennsylvania Golden Gloves
+      201 lbs+) and a national title (2011 National PAL 201+ lbs) and went on to
+      have a professional career of 13-1-1.
 
-      realizing that even though pornography is fun in the short term, there are
 
-      debilitating long-term consequences to heavy porn use and chronic
+      But most importantly, I kept fighting and won way more fights than I lost.
 
-      masturbation.
 
+      **This aligns perfectly with the rest of my life.**
 
 
-      For example:
+      I've been beaten, betrayed, abandoned, disappointed, and robbed
+      (literally).
 
 
+      I've lost friends, battled addiction, and had my heart broken before it
+      was stomped on.
 
-      * In 2012, [Swiss researchers
 
-      found](https://www.brainblogger.com/2017/10/06/excessive-porn-consumption-can-cause-erectile-dysfunction-myth-or-truth/){:
+      Throughout it all,&nbsp; I made friendships that will last a lifetime, got
+      sober while helping others do the same, and even saved a few lives.
 
-      target="_blank"} Erectile Dysfunction (ED) rates of 30% in 18 to 24
 
-      year-old Swiss men.
+      My life isn't perfect. It's a work in progress.&nbsp;
 
 
-      * In 2013, [Italian researchers
+      The last battle I fought won't be the last one because part of life is the
+      struggle. It's always going to be a fight. It will knock you down no
+      matter how hard you train for it.
 
-      found](https://www.jsm.jsexmed.org/article/S1743-6095&#40;15&#41;30428-8/fulltext){:
 
-      target="_blank"} that 1 in 4 men under the age of forty have reported some
+      **But will you get back up?**
 
-      type of erectile dysfunction.
 
+      This email course contains 20 short lessons from the hurt business of life
+      and boxing.&nbsp;
 
 
-      A few decades ago, young men having performance problems was *unheard of.*
+      These are observations from boxing that also apply to the various
+      challenges I faced in my life, like battling alcoholism and growing up in
+      public housing raised without my father around.
 
 
+      I hope that with these lessons, you'll be better able to overcome any
+      personal hardships, trials, or tribulations you face.&nbsp;
 
-      Now, thanks to the abundance of free pornographic content available,
 
-      erectile dysfunction is only the tip of the problem (pun intended).
+      If you don't have any immediate challenges, I hope this guide helps you
+      become the most mentally tough, antifragile version of yourself.
 
 
+      Life is the hurt business.&nbsp;
 
-      Chronic internet pornography use and excessive masturbation can also lead
 
-      to…
+      Stop hoping that it will stop hurting and, instead, get tougher and learn
+      to fight back. Eventually, you'll get stronger and better. Only then will
+      things become easier.
 
 
-
-      * Destroyed marriages and relationships
-
-
-      * Disturbing fetishes and sex addictions
-
-
-      * Mental health problems like depression and anxiety
-
-
-      * Crippling social anxiety and inability to talk to girls
-
-
-      * Chronic lethargy and lack of motivation
-
-
-      * Guilt and shame that follows you like a shadow
-
-
-
-      Thankfully, all of this is fixable…
-
-
-
-      ## How to stop watching porn and fix your sex life
-
-
-
-      You’re here because you’re suspicious about your porn habit. You think you
-
-      might have a problem with porn, but you aren’t sure.
-
-
-
-      Here’s an easy test…
-
-
-
-      Does the following sound at all like you?
-
-
-
-      1. You’re spending money on porn
-
-
-      2. You’re depressed
-
-
-      3. Your d\*ck doesn’t work
-
-
-      4. Your porn taste has escalated
-
-
-      5. You have brain fog and low energy
-
-
-      6. You're choosing porn instead of girls in real life
-
-
-      7. You can’t stop watching porn despite the consequences
-
-
-
-      If you–or a loved one–are suffering from one or more of the 7 major
-
-      effects of porn addiction, then you’re in the right place.
-
-
-
-      **I used to be so addicted to porn that I couldn't go more than a few
-
-      hours without fapping.** I wasn't sure I'd ever escape the gravitational
-
-      pull of my pornography addiction.
-
-
-
-      However, thanks to what I share in this course, my hands and my conscience
-
-      are finally clean.
-
-
-
-      The shame. The depression. The ED. The late-night hentai sessions. The low
-
-      energy.
-
-
-
-      **All of this can be undone.** You might have developed this bad habit
-
-      from a young age, but you have the power to undo it as well.
-
-
-
-      At least you recognize the problem and plan to do something about it. In
-
-      my experience dealing with both alcohol and porn addiction, admitting that
-
-      you have a problem is the first step in overcoming it.
-
-
-
-      With the information and strategies provided in *Dick Detox: the ultimate
-
-      guide to quitting porn*, you can finally conquer the porn habit and…
-
-
-
-      * Rewire your brain to crave real sex rather than digital daydreams
-
-
-      * Develop healthy relationships with real human beings
-
-
-      * Release guilt and fear caused by a shameful browser history
-
-
-      * Heal your brain's dopamine reward center for better motivation and focus
-
-
-      * Crush cravings on the spot by replacing porn with healthier alternatives
-
-
-      * Develop absolute self-control without the need for an accountability
-
-      partner
-
-
-      * Dramatically improve your sex life whether you are single or married
-
-
-      * Improve your self-esteem knowing you belong to the minority of men who
-
-      live porn free
-
-
-      * And so much more
-
-
-
-      Once you understand the processes that are *keeping* you addicted, you can
-
-      remove the problem at the root (FOREVER).
-
-
-
-      What are you waiting for?
-
-
-
-      Download *Dick Detox: The ultimate guide to quitting porn* and restore
-
-      your confidence, vitality, and sex life today!
+      The rest is up to you.
   - _id: block_cta
     image: /assets/images/resources/the-fighters-mindset-cover-2.jpg
     heading: 'Learn The Fighter''s Mindset '
