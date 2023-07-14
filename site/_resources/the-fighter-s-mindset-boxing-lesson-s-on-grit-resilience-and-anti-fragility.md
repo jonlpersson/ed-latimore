@@ -13,7 +13,9 @@ product_info:
 hero:
   hero_type: product
   image: /assets/images/resources/the-fighters-mindset-cover-1.jpg
-  heading: 'Dick Detox: The Ultimate Guide To Quitting Porn'
+  heading: >-
+    The Fighter's Mindset: Boxing Lesson's On Grit, Resilience, and
+    Anti-Fragility
   text: >-
     I teach you the mindset lessons I learned from my 13-1-1 professional
     heavyweight boxing career. Learn how to develop the mindset of a fighter,
