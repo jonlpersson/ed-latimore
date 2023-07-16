@@ -63,8 +63,6 @@ Maybe you're wondering if you're addicted to porn. Or perhaps you know someone, 
 
 There are a few different ways to know if you have a porn addiction. I’ve compiled a list of the most common and obvious signs that you have a problem with porn.
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
-
 ## You can't stop watching porn
 
 ![Trying to quit porn](/assets/images/posts/trying-to-quit-porn.jpg "Try as you might, the porn owns your soul &#40;credit: https://www.christianpost.com/&#41;")
