@@ -12,7 +12,7 @@ description: >-
   porn. Many don't understand how their brains and hormones heal when they quit.
 image: /assets/images/posts/latimore-says-quit-porn.jpeg
 ---
-In the current era of constant distraction, addiction is a business model.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+In the current era of constant distraction, addiction is a business model.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Companies know exactly what buttons to push so you naturally assimilate an activity into your life. Before you know it, you’re picking up your phone, clicking on an app or an ad, and you can’t click away from the next video. Anything to create that dopamine overload so you repeat the habit they want you to.
 
@@ -34,7 +34,7 @@ Porn addiction can simply look like the mom who’s stopped having sex in favor 
 
 Addiction is more of a gradual process that takes hold over time. Once you’re ready to say, “I’m addicted,” your body has already gotten used to the dopamine overload or chemical dependence.
 
-On the road to addiction, you develop patterns of behavior that ingrain addictive habits. These are called triggers. Triggers are typically psychological events that ‘trigger’ you to respond. That’s why the most successful forms of addiction treatment are based on relearning how to respond to triggers.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+On the road to addiction, you develop patterns of behavior that ingrain addictive habits. These are called triggers. Triggers are typically psychological events that ‘trigger’ you to respond. That’s why the most successful forms of addiction treatment are based on relearning how to respond to triggers.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 But this relearning process takes time. The dopamine overload created by watching porn leads your body to crave it and pattern your natural urges around it. The lack of the previous levels of dopamine forces your body to reorganize your hormones leading to physical withdrawal symptoms.
 
@@ -50,7 +50,7 @@ In the first few weeks after quitting porn you may experience:
 
 ## You may relapse
 
-The first four weeks right after quitting porn are the most difficult. And you may relapse. In fact, relapse is so common after addiction that it’s considered a phase of the recovery cycle.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> The period of time it takes you to recover from the withdrawal phase depends on how much and [how long you spent watching porn.](/how-to-stop-watching-porn/)
+The first four weeks right after quitting porn are the most difficult. And you may relapse. In fact, relapse is so common after addiction that it’s considered a phase of the recovery cycle.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> The period of time it takes you to recover from the withdrawal phase depends on how much and [how long you spent watching porn.](/how-to-stop-watching-porn/)
 
 Now, you may not relapse, but don’t be blind to the possibility.
 
@@ -59,8 +59,6 @@ The human body is incredibly efficient. It will work to incorporate foreign subs
 So you’ll experience strong urges to go back to porn. Don’t do it. You’ll only prolong the withdrawal while adding a new layer of guilt.
 
 You can masturbate during these cravings. Check out my [in-depth guide on quitting porn](https://gumroad.com/a/468639571) for more information on surviving without internet porn. In short, the goal isn’t to stop masturbating—unless you’re interested in the [benefits of the No Fap challenge](https://edlatimore.com/nofap-benefits/)—the goal is to break up with the hold porn has over you.
-
-{% include widgets/summary.html id="7-steps" %}
 
 ## You regain your natural sexual rhythm
 
@@ -83,7 +81,7 @@ Finally, you’ll start to reconnect with others in more meaningful ways when yo
 
 Read my article on [how to be more charismatic](https://edlatimore.com/how-to-be-charismatic/) to learn how to naturally attract more people.
 
-If you’re in a relationship, you’ll notice you are more capable of giving and receiving love. Porn use has been directly correlated with divorce.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> This may not mean that porn is a cause of a breakup, but it doesn’t help things.
+If you’re in a relationship, you’ll notice you are more capable of giving and receiving love. Porn use has been directly correlated with divorce.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> This may not mean that porn is a cause of a breakup, but it doesn’t help things.
 
 When you stop watching porn, you train your sexual behavior to respond to artificial stimuli. This can ruin your sex life. So when you quit porn you rewire your sex drive to help you get close to your significant other again. You start to see each other as a source of sexual gratification again.
 
@@ -97,13 +95,11 @@ Once the brain fog clears, however, you begin to notice that you regain the abil
 
 ## You become more productive
 
-With great focus comes great productivity. Sexual dysfunction isn’t the only worry you have to be mindful of when it comes to excessive porn use. Porn, like other addictions, reduces your ability to resist impulsive behavior.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> This makes you more prone to distraction once it’s time to get some real work done.
+With great focus comes great productivity. Sexual dysfunction isn’t the only worry you have to be mindful of when it comes to excessive porn use. Porn, like other addictions, reduces your ability to resist impulsive behavior.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> This makes you more prone to distraction once it’s time to get some real work done.
 
 Things that are easy to access like social apps, games, or internet porn are easy to turn to for random distractions. The problem with this is a few seconds turn into a few hours and now you’re playing catch up.
 
 Plus, a side effect of constantly viewing porn is that you use it as a coping mechanism for boredom or confusion. When you don’t have porn hijacking your daily life, you can fill that time with [activities that actually matter.](https://edlatimore.com/how-to-build-confidence/)
-
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
 
 ## Your overall mental health improves
 
@@ -147,4 +143,4 @@ So here’s what to expect when you decide to quit porn:
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>May, Daniel Psychological Addiction Is the New American Business Model. <em>Antidote</em> Oct 18, 2019<a href="https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r">https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>NIDA. "Evidence-Based Approaches to Drug Addiction Treatment." _National Institute on Drug _Abuse, 3 Jun. 2020 <a href="https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment">https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment</a> Accessed 14 Jun. 2022.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Hartney Elizabeth BSc, MSc, MA, Ph.D. Updated on June 05, 2020. The Stages of Change Model of Overcoming Addiction <a href="https://www.verywellmind.com/the-stages-of-change-model-of-overcoming-addiction-21961">https://www.verywellmind.com/the-stages-of-change-model-of-overcoming-addiction-21961</a> Accessed 14 Jun. 2022.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Vedantam, Shankar. <em>NPR.org</em>: Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017. <a href="https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships">https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships</a> (accessed June 14, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Hilton, Donald L, and Clark Watts. “Pornography addiction: A neuroscience perspective.” Surgical neurology international vol. 2 19. 21 Feb. 2011, doi:10.4103/2152-7806.76977 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/</a> (accessed June 14, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>May, Daniel Psychological Addiction Is the New American Business Model. <em>Antidote</em> Oct 18, 2019<a href="https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r">https://antidote.substack.com/p/psychological-addiction-is-the-new?s=r</a>&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>NIDA. "Evidence-Based Approaches to Drug Addiction Treatment." _National Institute on Drug _Abuse, 3 Jun. 2020 <a href="https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment">https://nida.nih.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment</a> Accessed 14 Jun. 2022.&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Hartney Elizabeth BSc, MSc, MA, Ph.D. Updated on June 05, 2020. The Stages of Change Model of Overcoming Addiction <a href="https://www.verywellmind.com/the-stages-of-change-model-of-overcoming-addiction-21961">https://www.verywellmind.com/the-stages-of-change-model-of-overcoming-addiction-21961</a> Accessed 14 Jun. 2022.&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>Vedantam, Shankar. <em>NPR.org</em>: Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017. <a href="https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships">https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships</a> (accessed June 14, 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li><li><p>Hilton, Donald L, and Clark Watts. “Pornography addiction: A neuroscience perspective.” Surgical neurology international vol. 2 19. 21 Feb. 2011, doi:10.4103/2152-7806.76977 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/</a> (accessed June 14, 2022)&nbsp;<a class="reversefootnote" href="#fnref:5">↩</a></p></li></ol></div>
