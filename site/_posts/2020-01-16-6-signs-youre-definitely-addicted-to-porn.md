@@ -26,8 +26,6 @@ Because most people were afraid of being labeled a pervert, this risk of public 
 
 In the old days, the amount of time it took to find porn was tremendous. Not only that, but it was also a challenge to keep it a secret.
 
-{% include widgets/summary.html id="7-steps" %}
-
 Then came high-speed, wireless internet, and smartphones. Advances in our information sending capabilities made everyone a big winner.
 
 But there was perhaps no bigger winner than the pornography industry. To celebrate their 10th anniversary, Pornhub, one of the internet’s largest streaming porn sites,&nbsp;[compiled a survey about user’s viewing habits from 2008-2017.](https://www.pornhub.com/insights/10-years){: target="_blank"}
@@ -69,7 +67,7 @@ There are a few different ways to know if you have a porn addiction. I’ve comp
 
 ## You can't stop watching porn
 
-![Trying to quit porn](/assets/images/posts/trying-to-quit-porn.jpg "Try as you might, the porn owns your soul (credit: https://www.christianpost.com/)")
+![Trying to quit porn](/assets/images/posts/trying-to-quit-porn.jpg "Try as you might, the porn owns your soul &#40;credit: https://www.christianpost.com/&#41;")
 
 This one is the most obvious sign, yet it must be stated.
 
