@@ -1,7 +1,7 @@
 ---
 date: 2022-07-14 09:00:00 -0400
 article_type: Review
-title: Covenant Eyes review (2023)
+title: My experience with Covenant Eyes Software (2023)
 permalink: /covenant-eyes-review/
 tags:
   - how-to-stop-watching-porn
