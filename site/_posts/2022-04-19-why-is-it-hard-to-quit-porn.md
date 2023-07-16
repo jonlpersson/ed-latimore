@@ -18,7 +18,7 @@ If you watch internet porn, you’d be considered the epitome of normal by most 
 
 But the downside is that it’s incredibly hard to quit.
 
-About 40 million people in the United States watch porn regularly. Another 200,000 are considered addicts.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+About 40 million people in the United States watch porn regularly. Another 200,000 are considered addicts.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 However, you’d be hard-pressed to find someone that readily calls themselves a porn addict.
 
@@ -34,7 +34,7 @@ Your brain starts producing dopamine every time you search for your favorite sce
 
 With online porn, you can pretty much find footage of humans (and other species’) performing any sexual act your mind can imagine. It’s way more sexual stimuli than anyone could reasonably experience in a lifetime.
 
-When you wash, rinse, and repeat this cycle, habitual porn watching eventually deactivates your brain’s frontal lobe,<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> which is responsible for:
+When you wash, rinse, and repeat this cycle, habitual porn watching eventually deactivates your brain’s frontal lobe,<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> which is responsible for:
 
 * Social interactions
 * Problem-solving
@@ -48,13 +48,11 @@ This all creates the perfect storm for addiction over a long period of time. And
 
 Read here to learn [science-backed reasons porn is harmful](https://edlatimore.com/reasons-porn-is-harmful/).
 
-{% include widgets/summary.html id="7-steps" %}
-
 ## It’s free and widely available
 
 If I asked you where you get your porn, you could probably rattle off two or three go-to porn sites without much thought. If I asked you how much you paid for these sites, you’d probably laugh in my face.
 
-Porn is a $97 billion industry, but the average user watches porn on free sites that have massive archives of scenes and categories.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Porn is a $97 billion industry, but the average user watches porn on free sites that have massive archives of scenes and categories.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 When you’re hooked on booze, cigarettes, or hard drugs, there’s a motivation to quit once it starts hurting your pockets. That’s non-existent for internet porn, so you have to find your own reasons.
 
@@ -64,9 +62,9 @@ When you’re hooked on booze, cigarettes, or hard drugs, there’s a motivation
 
 Porn is the ultimate coping mechanism for men…
 
-Today, 9% of men live with daily feelings of depression.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
+Today, 9% of men live with daily feelings of depression.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
 
-About 21 million adults experienced a depressive episode in a recent year.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup>
+About 21 million adults experienced a depressive episode in a recent year.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup>
 
 Any mental health issue you’re going through requires significant effort to overcome. It starts with making a decision to work through it. Coping with these problems with porn-induced dopamine hits keeps you from ever making that decision, let alone doing the work to fix your life.
 
@@ -86,11 +84,11 @@ In practical reality, it becomes a crutch that robs you of feelings you naturall
 
 Check out [this post](https://edlatimore.com/how-to-start-nofap/) to learn how many men are taking the NoFap challenge and joining the online support group to regain their natural sexual feelings that pornography addiction hijacked.
 
-Men who commit to a 30-day NoFap reboot often experience a flatline period, during which they have no sex drive. This happens because your brain is rewiring the damage porn did to your brain by hijacking your natural cycle of desire, arousal, orgasm, and resolution <sup id="fnref:6" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:6">6</a></sup>.
+Men who commit to a 30-day NoFap reboot often experience a flatline period, during which they have no sex drive. This happens because your brain is rewiring the damage porn did to your brain by hijacking your natural cycle of desire, arousal, orgasm, and resolution <sup><a class="footnote" rel="footnote" href="#fn:6">6</a></sup>.
 
 But masturbating to porn three times a day is proof that you just have a really high sex drive, right? Not quite.
 
-Science shows that this level of hypersexuality is closer linked to avoidant behavior, and will likely lead to erection issues or delayed ejaculation.<sup id="fnref:7" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:7">7</a></sup> You become desensitized to sexual situations, so you need more intense sexual situations to feel those feelings.
+Science shows that this level of hypersexuality is closer linked to avoidant behavior, and will likely lead to erection issues or delayed ejaculation.<sup><a class="footnote" rel="footnote" href="#fn:7">7</a></sup> You become desensitized to sexual situations, so you need more intense sexual situations to feel those feelings.
 
 Read up on the [withdrawal symptoms of porn](https://edlatimore.com/dealing-with-porn-addiction-withdrawal/) and how these cravings make quitting a struggle.
 
@@ -118,7 +116,7 @@ The negatives of pornography don’t become obvious until much later:
 
 By the time you experience these side effects, you’re likely already addicted.
 
-These problems also don’t show up right away because men are increasingly isolated and less likely to interact with real women they find attractive. A study showed that 33% of young men reported not having sex in a recent calendar year.<sup id="fnref:8" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:8">8</a></sup>
+These problems also don’t show up right away because men are increasingly isolated and less likely to interact with real women they find attractive. A study showed that 33% of young men reported not having sex in a recent calendar year.<sup><a class="footnote" rel="footnote" href="#fn:8">8</a></sup>
 
 When you’re not approaching women, there’s no real-life social feedback to correct your course. This means you have no motivating factors to quit porn use.
 
@@ -132,10 +130,8 @@ You’ll get a headstart with my [Vicebreakers course](https://gumroad.com/a/468
 
 The rest is up to you.
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
-
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p><em>The Recovery Village</em>. Pornography Facts and Statistics. September 29, 2021. <a href="https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/">https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/</a>. (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p><em>Queensland Government – Queensland Health</em>. Brain Map Frontal Lobes. January 21, 2021. <a href="https://www.health.qld.gov.au/abios/asp/bfrontal">https://www.health.qld.gov.au/abios/asp/bfrontal</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p><em>NBC News</em>. Things Are Looking Up in America's Porn Industry. January 20, 2015. <a href="https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431">https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p><em>American Psychological Association.</em> By the Numbers, Men and Depression. December 2015. <a href="https://www.apa.org/monitor/2015/12/numbers">https://www.apa.org/monitor/2015/12/numbers</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p><em>National Institute of Mental Health</em>. Major Depression. January 2022. <a href="https://www.nimh.nih.gov/health/statistics/major-depression">https://www.nimh.nih.gov/health/statistics/major-depression</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li><li id="fn:6" role="doc-endnote"><p><em>Cleveland Clinic</em>. Sexual Response Cycle. March 8, 2021. <a href="https://my.clevelandclinic.org/health/articles/9119-sexual-response-cycle">https://my.clevelandclinic.org/health/articles/9119-sexual-response-cycle</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:6">↩</a></p></li><li id="fn:7" role="doc-endnote"><p>Sutton, Katherine. Stratton, Natalie. Pytcyk, Jennifer. Kolla, Nathan. Cantor, James. <em>National Library of Medicine</em>. Patient Characteristics by Type of Hypersexuality Referral: A Quantitative Chart Review of 115 Consecutive Male Cases. September 2, 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/25032736/">https://pubmed.ncbi.nlm.nih.gov/25032736/</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:7">↩</a></p></li><li id="fn:8" role="doc-endnote"><p><em>Indiana University</em>. Nearly 1 in 3 young men in the US report having no sex, study finds. June 15, 2020. <a href="https://news.iu.edu/stories/2020/06/iub/releases/15-sexual-inactivity-young-men-united-states-no-sex-debby-herbenick.html">https://news.iu.edu/stories/2020/06/iub/releases/15-sexual-inactivity-young-men-united-states-no-sex-debby-herbenick.html</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:8">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p><em>The Recovery Village</em>. Pornography Facts and Statistics. September 29, 2021. <a href="https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/">https://www.therecoveryvillage.com/process-addiction/porn-addiction/pornography-statistics/</a>. (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p><em>Queensland Government – Queensland Health</em>. Brain Map Frontal Lobes. January 21, 2021. <a href="https://www.health.qld.gov.au/abios/asp/bfrontal">https://www.health.qld.gov.au/abios/asp/bfrontal</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p><em>NBC News</em>. Things Are Looking Up in America's Porn Industry. January 20, 2015. <a href="https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431">https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p><em>American Psychological Association.</em> By the Numbers, Men and Depression. December 2015. <a href="https://www.apa.org/monitor/2015/12/numbers">https://www.apa.org/monitor/2015/12/numbers</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li><li><p><em>National Institute of Mental Health</em>. Major Depression. January 2022. <a href="https://www.nimh.nih.gov/health/statistics/major-depression">https://www.nimh.nih.gov/health/statistics/major-depression</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:5">↩</a></p></li><li><p><em>Cleveland Clinic</em>. Sexual Response Cycle. March 8, 2021. <a href="https://my.clevelandclinic.org/health/articles/9119-sexual-response-cycle">https://my.clevelandclinic.org/health/articles/9119-sexual-response-cycle</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:6">↩</a></p></li><li><p>Sutton, Katherine. Stratton, Natalie. Pytcyk, Jennifer. Kolla, Nathan. Cantor, James. <em>National Library of Medicine</em>. Patient Characteristics by Type of Hypersexuality Referral: A Quantitative Chart Review of 115 Consecutive Male Cases. September 2, 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/25032736/">https://pubmed.ncbi.nlm.nih.gov/25032736/</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:7">↩</a></p></li><li><p><em>Indiana University</em>. Nearly 1 in 3 young men in the US report having no sex, study finds. June 15, 2020. <a href="https://news.iu.edu/stories/2020/06/iub/releases/15-sexual-inactivity-young-men-united-states-no-sex-debby-herbenick.html">https://news.iu.edu/stories/2020/06/iub/releases/15-sexual-inactivity-young-men-united-states-no-sex-debby-herbenick.html</a> (Accessed April 22, 2022)&nbsp;<a class="reversefootnote" href="#fnref:8">↩</a></p></li></ol></div>
