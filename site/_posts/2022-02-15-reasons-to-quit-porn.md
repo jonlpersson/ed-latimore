@@ -125,8 +125,6 @@ So if you’re considering that it’s time to give up pornography, remind yours
 * You’ll sleep better
 * You’re freed from the guilt of living a double life
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
-
 ---
 
 ### References:
