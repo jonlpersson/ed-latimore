@@ -20,7 +20,7 @@ Sex can seriously screw up your life if not controlled.
 
 Today, we have so much sexual media coming at us from all angles that it seems impossible to avoid, and almost encouraged to indulge in sex addiction and sexual dysfunction. Sex is used to sell everything from perfume to hamburgers to haircuts.
 
-Is it any wonder then that pornography use would become commonplace in society? Fifteen years ago, roughly 87% of college males watched porn, and 31% of college women. Today that number has climbed to 91% and 60% respectively with no indicator of slowing down.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">1</a></sup>
+Is it any wonder then that pornography use would become commonplace in society? Fifteen years ago, roughly 87% of college males watched porn, and 31% of college women. Today that number has climbed to 91% and 60% respectively with no indicator of slowing down.<sup><a class="footnote" rel="footnote" href="#fn:4">1</a></sup>
 
 Outside of addiction, porn encourages poor mental habits and reinforces unrealistic ideas about life.
 
@@ -44,11 +44,9 @@ The principle behind this is when you use your time and energy levels with more 
 
 I took up boxing because I wanted people to remember me for something other than being the drunk guy that worked at Starbucks. What impression are you leaving on others with how you’re spending your life?
 
-{% include widgets/summary.html id="7-steps" %}
-
 ## Face difficulty with more resilience
 
-Addiction physically alters your brain. It doesn’t matter if that addiction is to food or crack. Your brain reacts to addiction as it does to physical trauma.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">2</a></sup> Over time, it shrinks making you more susceptible to your impulses.
+Addiction physically alters your brain. It doesn’t matter if that addiction is to food or crack. Your brain reacts to addiction as it does to physical trauma.<sup><a class="footnote" rel="footnote" href="#fn:3">2</a></sup> Over time, it shrinks making you more susceptible to your impulses.
 
 Excessive porn users train their brains to have a hard time enduring difficulty. Facing difficulty relies on your ability to control your emotions.
 
@@ -65,7 +63,7 @@ As you become more resilient with avoiding porn, you start to notice other sympt
 
 ## Build more rewarding relationships
 
-Going porn-free reboots your natural arousal, helps you enjoy sex more, and improves your sex life overall, helping you build healthy relationships. Enriching relationships improve your overall quality of life. Porn use, however, has a direct relationship with the end of long-term relationships. Studies show as porn use goes up, the more likely your relationship is to end.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">3</a></sup>
+Going porn-free reboots your natural arousal, helps you enjoy sex more, and improves your sex life overall, helping you build healthy relationships. Enriching relationships improve your overall quality of life. Porn use, however, has a direct relationship with the end of long-term relationships. Studies show as porn use goes up, the more likely your relationship is to end.<sup><a class="footnote" rel="footnote" href="#fn:5">3</a></sup>
 
 Men and women who quit pornography often report better, more respectful relationships with the opposite sex. Both their platonic and romantic relationships improve. Porn, among other mainstream media, makes you feel like you're missing out on some big sexual adventure. But random sexual encounters are overrated and are more likely to fill your life with drama than excitement.
 
@@ -121,10 +119,8 @@ Stoicism requires that you take the red pill in life. It requires that you see t
 
 Sex is a difficult emotion to control, but once controlled you can foster better relationships with others and more respect for yourself.
 
-Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers*[here](https://edlatimore.com/products/vicebreakers/).
-
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
+Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers&nbsp;*[here](https://edlatimore.com/products/vicebreakers/).
 
 ### References:
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:4" role="doc-endnote"><p>Solano, I., Eaton, N. R., &amp; O'Leary, K. D. (2020). Pornography Consumption, Modality and Function in a Large Internet Sample. Journal of sex research, 57(1), 92–103. <a href="https://doi.org/10.1080/00224499.2018.1532488">https://doi.org/10.1080/00224499.2018.1532488</a> (accessed Jan 2023)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Hilton, Donald L, and Clark Watts. “Pornography addiction: A neuroscience perspective.” Surgical neurology international vol. 2 19. 21 Feb. 2011, doi:10.4103/2152-7806.76977 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/</a> (accessed January 16, 2023)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Vedantam, Shankar._NPR.org: _Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017 <a href="https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships">https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships</a> (accessed Jan 2023)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Solano, I., Eaton, N. R., &amp; O'Leary, K. D. (2020). Pornography Consumption, Modality and Function in a Large Internet Sample. Journal of sex research, 57(1), 92–103. <a href="https://doi.org/10.1080/00224499.2018.1532488">https://doi.org/10.1080/00224499.2018.1532488</a> (accessed Jan 2023)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li><li><p>Hilton, Donald L, and Clark Watts. “Pornography addiction: A neuroscience perspective.” Surgical neurology international vol. 2 19. 21 Feb. 2011, doi:10.4103/2152-7806.76977 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050060/</a> (accessed January 16, 2023)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>Vedantam, Shankar._NPR.org: _Researchers Explore Pornography’s effect on long-term relationships Oct. 9, 2017 <a href="https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships">https://www.npr.org/2017/10/09/556606108/research-explores-the-effect-pornography-has-on-long-term-relationships</a> (accessed Jan 2023)&nbsp;<a class="reversefootnote" href="#fnref:5">↩</a></p></li></ol></div>
