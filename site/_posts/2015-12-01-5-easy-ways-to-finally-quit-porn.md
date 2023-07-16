@@ -59,8 +59,6 @@ The human mind has a surprisingly difficult time distinguishing between real and
 
 We know it's not in front of us, but we have a hormonal and physiological response anyway.
 
-<div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iODNiMTgxZGEwNSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS84M2IxODFkYTA1L2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="83b181da05" src="https://mind-and-fist.ck.page/83b181da05/index.js"></script></div>
-
 ## **Should you give up porn?**
 
 I’m not anti-porn. I’m anti-porn addiction. It just so happens that porn is incredibly easy to get addicted to and I am *very* anti-addiction.
