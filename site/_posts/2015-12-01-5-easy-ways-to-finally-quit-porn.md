@@ -29,8 +29,6 @@ Most literature on the internet talks about inner healing, dopamine, figuring ou
 
 Feeling complete and whole is good, but it doesn't exactly help you solve the problem. They give advice like this because they either lack experience with porn addiction (or any addiction, for that matter) or they're fakes who are trying to sell you something.
 
-{% include widgets/summary.html id="7-steps" %}
-
 ## **The negative consequences of internet porn**
 
 You wouldn't tell a crackhead to do some soul searching.
