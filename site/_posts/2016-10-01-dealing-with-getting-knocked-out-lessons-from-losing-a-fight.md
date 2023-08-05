@@ -3,9 +3,9 @@ date: 2016-10-01 06:36:00 -0400
 article_type: Article
 title: 8 lessons from losing a fight
 permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-television/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 image: /assets/images/posts/ed-knocked-out.jpg
 description: >-
@@ -31,7 +31,7 @@ I’ve spent the last week piecing together notes on my reaction to this event.
 
 In many ways, I’ve learned more from this in 3 minutes (technically speaking, the referee called a stop to the contest sometime after the 2-minute mark) than I did from the rest of my 9-year career in boxing. Life is funny this way.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 If you can look at things the right way, you learn more from failure than success. It was the great Jay-Z who said:
 
@@ -133,4 +133,4 @@ This is how it is with most of the terrible things you fear. It is either highly
 
 #### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
