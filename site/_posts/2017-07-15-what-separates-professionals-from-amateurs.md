@@ -44,7 +44,7 @@ If you want to learn how to spot the fakes and separate the wheat from the chaff
 
 From growing up in the ghetto to being a high-ranking professional fighter for Jay-Z's sports agency.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Professionals rely on habits and systems; amateurs depend on motivation
 
@@ -138,6 +138,8 @@ This is something pros tend to be really good at. They identify what is within t
 
 The amateurs of the world love to talk and worry about things they have no stake or influence in.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Professionals respect luck; Amateurs rely on it
 
 If you can't identify what is within and outside of your control, you can never take steps to improve it. Some things are the result of luck. Some things are. If you don't know which outcomes belong to which group, you're an amateur.
@@ -185,4 +187,4 @@ But in the end, it will all be worth it.
 
 I should know.&nbsp;[I grew up in the hood](/the-projects/)&nbsp;and managed to get away. I fucked around all throughout my twenties and then I joined the National Guard, pursued a degree in Physics, and became a successful professional athlete. So in other words, I know a thing or two about overcoming both internal and external obstacles.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
