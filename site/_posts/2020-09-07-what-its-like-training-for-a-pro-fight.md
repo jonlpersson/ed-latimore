@@ -3,9 +3,9 @@ date: 2020-09-07 19:25:00 -0400
 article_type: Article
 title: 'How to train for a boxing match: Insights from a pro'
 permalink: /boxing-training/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   Fighting is easy. Fighting is fun. What’s hard is training for the fight.
@@ -44,7 +44,7 @@ The only reason this doesn't happen is that the [Marquess of Queensbury rules](h
 
 This reminds me of something I once witnessed in a gym. Two different boxing clubs had come together to spar. There was some trash talk that was on the verge of escalating to an all-out brawl between the two groups until one of the coaches interfered and shouted:
 
-***"You do this shit on the street, and they'll put you away. But if you do it in the ring, they'll cheer for you and pay your bills\!"***
+***"You do this shit on the street, and they'll put you away. But if you do it in the ring, they'll cheer for you and pay your bills!"***
 
 In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, MMA and boxing not only allow fighting, but fighting is also how the score is kept and victory is decided.
 
@@ -72,6 +72,8 @@ What follows is my best attempt to discuss how the characteristics of an effecti
 While a fighter’s development is often uneven, one of these characteristics rarely improves at the expense of another. Instead, what usually happens is that a rising tide lifts all boats in the harbor.
 
 Improvement in one area spells improvement in another, even if the rate of improvement is markedly different.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## The physical side of boxing training
 
@@ -139,6 +141,8 @@ Much of fight training is as much about conditioning your mind as it is your bod
 
 Read more about [how to think like a fighter](/how-to-think-like-a-professional-fighter/).
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Shadowboxing and using your imagination to train
 
 Shadowboxing is sparring against an imaginary opponent.
@@ -198,3 +202,5 @@ There’s a difference between trying to run a mile in six minutes and jogging. 
 All parts develop the whole while the development of the whole strengthens each part.
 
 #### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
