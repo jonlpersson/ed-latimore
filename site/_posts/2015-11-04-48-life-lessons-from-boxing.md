@@ -98,6 +98,8 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **25)** A corollary to lifestyle choices: choose how to have women involved in your life or they will choose for you. It most likely won't be in your best interest.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ![Boxing training forms respect](/assets/images/posts/ed-after-sparring.jpg "Boxing training forms respect")
 
 ## The boxing mindset applied to life
