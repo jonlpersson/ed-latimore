@@ -3,9 +3,9 @@ date: 2016-09-14 20:00:00 -0400
 article_type: Article
 title: Best books on the mental and emotional side of fighting
 permalink: /books-about-mental-side-of-fighting/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 image: /assets/images/posts/ReadingImage.png
 description: >-
@@ -26,7 +26,7 @@ The Book of Five Rings is almost 400 years old, but its lessons are timeless.
 
 The book is a text on sword fighting strategy written by Japanese swordsman Miyamoto Musashi in the year 1643.
 
-Although we are well beyond the age of swords, the strategic sabidur&iacute;a laid out in The Book of Five Rings is timeless and has a wide array of applications in the modern world.
+Although we are well beyond the age of swords, the strategic sabiduría laid out in The Book of Five Rings is timeless and has a wide array of applications in the modern world.
 
 ***Read my collection of notes and big ideas here—&gt; [Book of Five Rings notes and summary](/the-book-of-five-rings-quotes/)***
 
@@ -41,6 +41,8 @@ It was written by Yamamoto Tsunetomo. a samurai in the early 18th century. After
 A younger samurai that visited Yamamoto many times over the years wrote down his words in The Hagakure: The Book of The Samurai. After reading the book, I’ve collected the 10 most useful and instructive quotes from it.
 
 ***Read my collection of notes and big ideas here—&gt;[The Hagakure notes and summary](/hagakure-quotes/)***
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## The Art of War by Sun Tzu
 
@@ -69,3 +71,5 @@ As a result, the book doesn’t read like a narrative or even a complete work. R
 This book is a must-have for any martial artist or philosopher out there. Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do, along with my extrapolations and explanations.<br><br>***Read my collection of notes, and big ideas here—&gt;[The Tao of Jeet Kune Do notes and summary](/tao-of-jeet-kune-do-quotes/)***
 
 #### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
