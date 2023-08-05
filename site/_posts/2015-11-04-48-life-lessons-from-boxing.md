@@ -34,7 +34,6 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 > If we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? You're not going to out-work me.
 >
->
 > \-Will Smith
 
 **2)** Film your training. Study it to see what you’re doing wrong. One objective viewing of yourself practicing is worth ten fights. It's worth even more if you go over it with someone better than you. They will see mistakes you didn’t even know existed.
@@ -163,4 +162,4 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 #### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
