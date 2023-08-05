@@ -61,6 +61,8 @@ To develop this ability, you first need extensive experience making decisions an
 
 Good judgment comes from experience. To get a lot of that requires bad judgement.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Improving Your Intuition (When Giving Up Is Easier)
 
 **The trick to improving your intuition is surviving those bad judgments.**
@@ -120,3 +122,5 @@ It doesn’t matter how fast a punch is thrown if you’re always in the best po
 This applies to everything in life. If you want to improve your intuition, get more experience in the field you wish to improve. It requires sustained effort, an appetite for risk, and a desire to improve. Pass the tests and intuition is yours—it will serve you for the rest of your life.
 
 And one day, intuition may save it.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
