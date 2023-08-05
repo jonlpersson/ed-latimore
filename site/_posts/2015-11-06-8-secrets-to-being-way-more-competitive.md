@@ -76,6 +76,8 @@ Competitive people still think winning is important, but they are critical of th
 
 A true competitor always gives 110% of themselves because even if they don’t win, they still care how they play–and finish–the game. If you're struggling to motivate yourself then read up on how to motivate yourself
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## 3) Compare yourself only to yourself
 
 To be competitive, you have to come to grips with a simple truth: **you are only ever competing against yourself**.
@@ -199,4 +201,4 @@ No matter what happens, a true competitor never takes away from the winner when 
 
 Now you know, so the rest is up to you.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
