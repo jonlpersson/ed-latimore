@@ -3,9 +3,9 @@ date: 2020-10-10 15:30:00 -0400
 article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   Fighting to the death teaches you a lot about life. Violence has a lot to
@@ -55,6 +55,8 @@ Who wants it more? Who is willing to take their desire for victory unreasonably 
 Skill can take you pretty far as long as the problems you face [look like problems you've already learned to solve](/problem-solving-process/). But no two street fighters, boxing opponents, or competitors are the same. If you have greater willpower, you will always find a way to win.
 
 Even if you have fewer abilities and less experience. Even if your opponent beats you on speed, strength, height, power, and stance. Will to win alone allows you to make up for disadvantages, endure powerful punches, and grind down a fighter who is not willing to die.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Why boxing is the best analogy for life
 
@@ -119,3 +121,5 @@ You may not have the nutrition knowledge of a diet coach or know your way around
 Because at the end of the day, everything in life is a street fight, and we all know how it ends. Might as well give it your best left hook.
 
 #### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
