@@ -75,6 +75,8 @@ You don’t need professional help. You don’t need an intervention. You just n
 
 Here is the plan I used to quit porn
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## 1\. Delete your browser history
 
 This is one of those popular tips for dealing with a porn addiction that has real merit.
@@ -143,8 +145,6 @@ Go for a run, [lift some weights](http://anymanfitness.com/no-squats-no-deadlift
 The point is to burn off energy, get moving and get away from the computer. You'll return to the computer in a refreshed state of mind and less interested in porn.
 
 This also has the side benefit of getting you in shape, which will make the next step that much easier.
-
-{% include widgets/summary.html id="Covenant-Eyes" %}
 
 ## 5\. Talk to some women
 
