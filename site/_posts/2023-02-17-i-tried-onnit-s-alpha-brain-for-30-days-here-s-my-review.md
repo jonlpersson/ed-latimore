@@ -28,7 +28,7 @@ This is one of the best nootropics you can buy that is not a neuropeptide or ove
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
-***Though if you do just want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/c/2316453/347302/5155).***
+***Though if you do just want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/ZQKJYk).***
 
 I also give you information on the history of the company, its founder Marcus Aubrey, and what lead him to create Onnit Labs and help thousands improve their physical and mental performance.
 
@@ -48,7 +48,7 @@ To develop Alpha Brain, Marcus worked with a team of scientists and experts in n
 
 In 2011, Onnit released Alpha Brain to the public, and it quickly gained a following among individuals looking to improve their cognitive performance. The supplement has been very well covered by the media and is one of the best-known and most popular nootropic supplements on the market.
 
-***[Get it here](https://onnit.sjv.io/c/2316453/347302/5155)***
+***[Get it here](https://onnit.sjv.io/ZQKJYk)***
 
 ![Joe Rogan and Marcus Aubrey](/assets/images/drafts/joe-rogan-and-marcus-aubry.jpeg "Joe Rogan has been a big campaigner of the supplement"){: width="450" height="253"}
 
@@ -157,7 +157,7 @@ These two ingredients appear to be supplementary to the rest of the primary ingr
 
 The ingredients in Alpha Brain are safe and effective. With that said, I'm not your doctor. I'm not a doctor at all. None of this is medical advice. Just my experiences.
 
-If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/c/2316453/347302/5155), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.](/how-to-get-into-boxing/)
+If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/ZQKJYk), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.](/how-to-get-into-boxing/)
 
 ## **My overall experience with Alpha Brain**
 
@@ -255,4 +255,4 @@ It costs you nothing and helps me out.
 
 Much love and the rest is up to you!
 
-### ***[Buy here](https://onnit.sjv.io/c/2316453/347302/5155)***
+### ***[Buy here](https://onnit.sjv.io/ZQKJYk)***
