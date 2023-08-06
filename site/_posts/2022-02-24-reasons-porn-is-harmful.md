@@ -24,6 +24,8 @@ You don’t have to be a religious moralist or a porn activist to admit that tha
 
 With its prevalence and widespread acceptance, more studies are available that offer a similar perspective: porn use isn’t as harmless as we once thought.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## When does viewing porn become a problem?
 
 Porn is a lot like alcohol.
