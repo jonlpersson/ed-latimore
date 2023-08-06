@@ -14,11 +14,11 @@ image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
 I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improved my brain function, I watched my progress on 3 of my regular cognitive tasks:
 
-* **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site.
-* **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)
-* **Practicing Spanish.** By the end of the year, the goal is to take the D.E.L.E. [exam for Spanish](https://imp.i271380.net/XxzxXX) level B2.
+* **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site. Creativity is associated with alpha brain waves, and one of Alpha Brain's claims is to increase alpha brain wave activity.
+* **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)&nbsp;Chess activates many of the same regions of the brain that Alpha brain is reported to enhance, Alpha brain also improves cerebral blood flow, something that's crucial in chess ability. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7411872/))
+* **Practicing Spanish.** By the end of the year, the goal is to take the D.E.L.E. [exam for Spanish](https://imp.i271380.net/XxzxXX) level B2. In clinical trials, this is the area I was expecting the supplement to shine.&nbsp;
 
-I'm currently in constant sleep deprivation that all new parents go through, so I figured I'd be a perfect candidate to see how this supplement stacks up as a brain-boosting nootropic.
+I'm currently in constant sleep deprivation that all new parents go through, so I figured I'd be a perfect candidate to see how this supplement stacks up as a brain-boosting nootropic. Another claim this allowed me to investigate is its ability to eliminate brain fog.
 
 Given my goals and the effect of stress, I'm in a perfect position to test the claims about Alpha Brain's ability to improve alertness, focus, brain function, and verbal fluency.
 
