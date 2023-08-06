@@ -98,6 +98,8 @@ When you get past the sexual addiction and temporary withdrawal symptoms, quitti
 
 Check out my article on [How to start no fap](https://edlatimore.com/how-to-start-nofap/), to learn how to retrain your sexual response.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Good things to expect when you quit porn
 
 It’s not all brain fog and physical pain, overcoming addiction comes with life lessons, self-reflection, and hardwon skill. Every life change I’ve ever made started with me getting honest with myself.
@@ -150,7 +152,7 @@ My course, [Vicebreakers: The Complete Program For Kicking Your Bad Habits and A
 
 As I always say, the rest is up to you.
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ---
 
