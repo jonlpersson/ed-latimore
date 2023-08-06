@@ -49,6 +49,8 @@ And lastly, if my recommendations help you to make a decision, I’d love for yo
 
 ***\[Learn more about my boxing training—&gt;[How To Train For A Professional Fight](/boxing-training/)\]***
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## A word to other combat sports athletes and legit fighters
 
 I’m not an MMA guy, but I’ve worked with enough legit fighters to tell you that this list works for you as well, but with a small caveat. MMA gloves are small and are open-palm. While I wouldn’t recommend hitting the heavy bag with MMA gloves, some guys do.
@@ -140,6 +142,8 @@ Sparring gloves are bigger to provide more protection for the fighters.
 The lightest weight I’ve ever seen used is a 16 oz glove. These and 18 oz gloves are the most common, but I’ve seen them go all the way up to 22 ounces. This heavier glove weight is all in extra padding to protect the fighters as they work on skills against each other.
 
 Bag gloves are lighter weight and have less padding, so you can feel the strikes against the bag, and the placement of your hand on the bag. The lighter gloves also allow you to work more on your skills without getting tired.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ### Padding in the boxing glove
 
@@ -329,3 +333,5 @@ Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it
 This list is far from complete. It’s simply born from my experience as a high-level amateur and professional heavyweight boxer.
 
 You don’t have to take my recommendations, but I strongly recommend only taking the recommendations of another fighter or coach.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
