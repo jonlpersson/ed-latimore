@@ -59,6 +59,8 @@ Logically, you understand that rejection is meaningless, humiliation is temporar
 
 You worry that your life is so fragile that your fears have control over it. Once you realize that most people don't care about you, the worst-case scenario never happens, and the world will go on when you die, your social anxiety will cease and you can enjoy your daily life to its full potential.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## 2\. Facing fear is easier than ignoring it
 
 The only way to free yourself from fear is to accept that you are afraid. It is only by acknowledging this that you can become courageous.
@@ -143,6 +145,8 @@ For example, in a fight:
 
 The only thing you're in control of is how you live your life. Once your mind focuses on this, your fear of what you can’t control fades away.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## 6\. Make yourself familiar with the danger
 
 The first time you do anything is terrifying.
@@ -194,3 +198,5 @@ There will always be something to fear. But because there’s always something t
 Until then, the rest is up to you.
 
 #### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
