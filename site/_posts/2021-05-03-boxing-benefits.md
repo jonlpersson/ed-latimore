@@ -3,9 +3,9 @@ date: 2021-05-03 05:00:00 -0400
 article_type: Article
 title: 8 ways boxing will transform your life
 permalink: /boxing-benefits/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 image: /assets/images/posts/webp-net-resizeimage-42.jpg
 description: >-
@@ -32,7 +32,7 @@ That confidence—the problem-solver's kind of confidence—can’t be gained an
 
 I've outlined other things you can do to develop killer confidence in [this article](/how-to-build-confidence/).
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## 2\. It teaches you that pain ain’t shit
 
@@ -42,7 +42,7 @@ Unless a devastating knockout achieves victory, you’ll sustain quite a bit of 
 
 This is because a person trained to hurt you is trying to do just that. It’s not like dealing with a hoodlum off the streets. A fighter’s punches have power behind them. But Rocky said it best:
 
-> It ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward; how much you can take and keep moving forward. That’s how winning is done\!
+> It ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward; how much you can take and keep moving forward. That’s how winning is done!
 
 The training in boxing is extremely grueling and rough. You will experience tremendous pain just getting in fighting shape.
 
@@ -145,4 +145,4 @@ Before you know it, you’ll be on your way to becoming a version of yourself yo
 
 #### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
