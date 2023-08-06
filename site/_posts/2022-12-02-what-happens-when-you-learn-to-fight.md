@@ -1,5 +1,5 @@
 ---
-date: 2022-12-02 09:00:00 -0400
+date: 2022-12-02 08:00:00 -0500
 article_type: Article
 title: What happens when you learn to fight (+ benefits)
 permalink: /what-happens-when-you-learn-to-fight/
@@ -9,17 +9,16 @@ categories:
   - boxing-lessons
 image: /assets/images/thumbnails/ed-warming-up-hitting-the-speedbag.jpg
 description: >-
- Learning to fight is transformative to your mind, body, and confidence. In this article you’ll understand the undeniable benefits.
+  Learning to fight is transformative to your mind, body, and confidence. In
+  this article you’ll understand the undeniable benefits.
 ---
-
 The greatest rewards in life are enjoyed on the other side of the hardest challenges you’ll ever face.
 
 Learning how to fight demands everything of you.
 
-Most men erroneously assume they’re capable of two things – pleasing a woman in bed and _winning a fight_. Dedicating yourself to learning the latter can fundamentally change you in ways that you can’t comprehend.
+Most men erroneously assume they’re capable of two things – pleasing a woman in bed and *winning a fight*. Dedicating yourself to learning the latter can fundamentally change you in ways that you can’t comprehend.
 
 Thankfully, most of us who learn self-defense never have to actually ever get into a street fight. In this article, you’ll learn about the gifts and lessons that are unlocked when you learn to fight.
-
 
 ## Pain and discomfort become your friend and teacher
 
@@ -43,6 +42,7 @@ This carries into your regular life as well.
 
 Facing the real pain of training a martial art makes it easier to weed out the noise your mind creates when facing the supposed danger of missing a deadline, having a tough conversation, or dealing with your anxiety.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## The confidence you gain will carry over into other parts of life
 
@@ -52,14 +52,13 @@ The all-time great former world champion boxer said he wasn’t ready to hit the
 
 He needed the mirror to serve as a reminder of the confidence he had earned with all of the rounds of hard sparring and hitting the heavy bag, or the mornings he’d gotten up to run 5 miles at 5 a.m. since he was 14 years old.
 
-Mythical level of confidence comes _after_ you put the work in.
+Mythical level of confidence comes *after* you put the work in.
 
-Renowned psychologist Albert Bandura called “mastery experiences” a fundamental building block for authentic confidence.[^1]
+Renowned psychologist Albert Bandura called “mastery experiences” a fundamental building block for authentic confidence.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Learning to fight brings a litany of challenges that you must overcome with your skill, will, and toughness.
 
 Becoming a martial artist is how you earn your confidence—nerves and self-doubt won’t get in your way as much in other parts of life. That little naysaying voice in your head gets quieter when you know you can count on yourself in something as scary and grueling as a fight.
-
 
 ## You will sharpen your mind and harden your body
 
@@ -77,7 +76,7 @@ Fighters are most vulnerable after getting hurt by a shot. It’s because they�
 
 Most trainers say you’re not a true fighter until you’ve gotten hurt and kept fighting. I go into detail about lessons I learned from getting punched in the face [here](https://edlatimore.com/5-lessons-from-getting-punched-in-the-face/).
 
-Parrying and slipping punches, mixing up your head movement, and maintaining impeccable footwork, while managing your cardio and delivering precise punches with accuracy builds neuroplasticity, coordination, and muscle memory.[^2]
+Parrying and slipping punches, mixing up your head movement, and maintaining impeccable footwork, while managing your cardio and delivering precise punches with accuracy builds neuroplasticity, coordination, and muscle memory.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 Constantly thinking your way through danger to the point that you can remember your fundamentals and execute, trains you to stay calm and think your way through any real life situation.
 
@@ -87,7 +86,6 @@ It builds tremendous cardio, which means a healthy heart and better blood flow.
 
 The more physical rewards you experience, the more you’ll want to stick to your regimen.
 
-
 ## Your relationship with fear and danger will change
 
 Nothing shuts down your mind like fear. But if you can face it, you can face anything.
@@ -96,14 +94,13 @@ Fear exists and is a necessary component of life, and learning to fight helps yo
 
 Fighting another human being who is trying their hardest to hurt you demands that you find and trust your courage out of pure survival. It teaches you to control what you can while not freezing in fear of the things you can’t control.
 
-It means finding peace in a simple, uncomfortable fact – _this can go really bad_.
+It means finding peace in a simple, uncomfortable fact – *this can go really bad*.
 
 Danger is a fact of life that you must always be willing to face when called upon.
 
 Willingly facing death and injury in a fight changes your perspective on danger. Imagine how many times you face danger on the road to earning a BJJ black belt, or getting your Muay Thai shorts.
 
 We’re wired as human beings to be able to do this, so training this part of yourself allows you to walk the streets with less fear and more awareness.
-
 
 ## Dedicate yourself to the purest art of war
 
@@ -123,12 +120,10 @@ Before you jump online to debate fight styles, the effectiveness of stand-up vs.
 
 Read more on [how boxing changed my life](https://edlatimore.com/boxing-benefits/), and use this article as the nudge you need to put in the sweat equity required for becoming your best self.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ---
 
 ### References
 
-[^1]: Akil, Bakari. _Psychology Today_. The Science of Confidence. May 1, 2010. [https://www.psychologytoday.com/us/blog/communication-central/201005/the-science-confidence](https://www.psychologytoday.com/us/blog/communication-central/201005/the-science-confidence). (Accessed November 12, 2022)
-
-[^2]: Cho, Su-Youn, So, Wi-Young, Roh, Hee-Tae. _National Library of Medicine_. The Effects of Taekwondo Training on Peripheral Neuroplasticity-Related Growth Factors, Cerebral Blood Flow Velocity, and Cognitive Functions in Healthy Children: A Randomized Controlled Trial. April 25, 2014. [https://pubmed.ncbi.nlm.nih.gov/28441325/](https://pubmed.ncbi.nlm.nih.gov/28441325/) (Accessed November 12, 2022)
+<div class="footnotes"><ol><li><p>Akil, Bakari. <em>Psychology Today</em>. The Science of Confidence. May 1, 2010. <a href="https://www.psychologytoday.com/us/blog/communication-central/201005/the-science-confidence">https://www.psychologytoday.com/us/blog/communication-central/201005/the-science-confidence</a>. (Accessed November 12, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Cho, Su-Youn, So, Wi-Young, Roh, Hee-Tae. <em>National Library of Medicine</em>. The Effects of Taekwondo Training on Peripheral Neuroplasticity-Related Growth Factors, Cerebral Blood Flow Velocity, and Cognitive Functions in Healthy Children: A Randomized Controlled Trial. April 25, 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/28441325/">https://pubmed.ncbi.nlm.nih.gov/28441325/</a> (Accessed November 12, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
