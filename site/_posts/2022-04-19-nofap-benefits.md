@@ -16,7 +16,7 @@ Success always requires you to pay the cost of admission. This often means givin
 
 NoFap, a movement in which men are choosing to abstain from masturbating to porn, is more of a lifestyle than a simple online discussion forum. Men are using NoFap as a springboard to bigger goals and greater fulfillment.
 
-Porn is a $97 billion industry globally.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Many of its watchers are men in their sexual prime, exploring their sexuality and seeking a dopamine and serotonin release. Men that go NoFap and swear by it wouldn’t quit something that feels good and is available in droves without compelling reasons.
+Porn is a $97 billion industry globally.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Many of its watchers are men in their sexual prime, exploring their sexuality and seeking a dopamine and serotonin release. Men that go NoFap and swear by it wouldn’t quit something that feels good and is available in droves without compelling reasons.
 
 ***Discover more benefits of NoFap on&nbsp;[Mr. Mind Blowing blog](https://mrmindblowing.com/25-crazy-benefits-of-nofap-the-superpowers-of-nofap/){: target="_blank"}.***
 
@@ -32,9 +32,9 @@ It’s the Porn Masturbation Orgasm (PMO) cycle that creates the downward spiral
 
 The habit of masturbating to porn quite literally changes your brain for the worse:
 
-* High porn use correlates with decreases in dorsal striatum, the gray matter in the prefrontal cortex responsible for rewards.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> In other words, it makes your brain smaller.
+* High porn use correlates with decreases in dorsal striatum, the gray matter in the prefrontal cortex responsible for rewards.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> In other words, it makes your brain smaller.
 * Masturbating to porn increases the stimuli needed to get the same baseline of pleasure.
-* Pulling up sexual images on-demand creates compulsive sexual behavior, similar to that of drug addicts.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+* Pulling up sexual images on-demand creates compulsive sexual behavior, similar to that of drug addicts.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 {% include widgets/summary.html id="Covenant-Eyes" %}
 
@@ -42,7 +42,7 @@ Check out my article on [how to deal with the withdrawal symptoms of porn](https
 
 I have the most concern for young men who never knew a world without high-speed internet.
 
-Just 45% of Gen Zers today report having good mental health.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> Anxiety and depression are rampant, and on the rise due to isolation. Porn becomes a coping mechanism during hard times, and this cycle continues.
+Just 45% of Gen Zers today report having good mental health.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> Anxiety and depression are rampant, and on the rise due to isolation. Porn becomes a coping mechanism during hard times, and this cycle continues.
 
 Going cold turkey with NoFap breaks the habit and allows your brain to reset and regain mental clarity. Once you go on a NoFap streak, you undo the reward system shortcuts that porn use created and become less compulsive. Overworking your brain’s reward system makes it crave the pleasure source and increases negative feelings when you can’t get it.
 
@@ -62,7 +62,7 @@ It’s hard to have high-level, fulfilling sex when your brain is hijacked by po
 
 And sexual dysfunction is on the rise…
 
-…Men under 40 are dealing with sharp increases in delayed ejaculation, erectile dysfunction, low libido, and overall dissatisfaction with sex.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup>
+…Men under 40 are dealing with sharp increases in delayed ejaculation, erectile dysfunction, low libido, and overall dissatisfaction with sex.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup>
 
 …Porn is causing more unusual fetishes and masturbation habits, which are harming men’s sex lives.\[6\]
 
@@ -104,7 +104,7 @@ Lao Tzu said it best in the Tao Te Ching:
 
 “Conquering others is power; conquering the self is strength.”
 
-{% include widgets/summary.html id="7-steps" %}
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ## Changing your life with NoFap
 
@@ -126,4 +126,4 @@ It all starts with doing the work.
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p><em>Enough Is Enough</em>. Porn Industry Archives. <a href="https://enough.org/stats_porn_industry_archives">https://enough.org/stats_porn_industry_archives</a>. (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Kuhn, Simone. Gallinat, Jurgen. <em>JAMA Psychiatry</em>. <a href="https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574">Brain Structure and Functional Connectivity Associated With Pornography Consumption: The Brain on Porn</a>. July 2014.(Accessed April 18, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Voon, Valerie. <em>Cambridge University</em>. <a href="https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction">Neural Correlates of Sexual Cue Reactivity in Individuals with and without Compulsive Sexual Behaviours</a> (Accessed April 19, 2022). July 2014.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p><em>The Annie E. Casey Foundation.</em> Generation Z and Mental Health. October 16, 2021. <a href="https://www.aecf.org/blog/generation-z-and-mental-health">https://www.aecf.org/blog/generation-z-and-mental-health</a> (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Park, Brian. Wilson, Gary. Berger, Jonathan. Christman, Matthew. Reina, Bryn. Bishop, Frank. Klam, Warren. Doan, Andrew. <em>National Library of Medicine</em>. Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. September 6, 2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/</a> (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p><em>Enough Is Enough</em>. Porn Industry Archives. <a href="https://enough.org/stats_porn_industry_archives">https://enough.org/stats_porn_industry_archives</a>. (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Kuhn, Simone. Gallinat, Jurgen. <em>JAMA Psychiatry</em>. <a href="https://web.archive.org/web/20180712233848/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574">Brain Structure and Functional Connectivity Associated With Pornography Consumption: The Brain on Porn</a>. July 2014.(Accessed April 18, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Voon, Valerie. <em>Cambridge University</em>. <a href="https://web.archive.org/web/20181011094233/https://www.yourbrainonporn.com/cambridge-university-brain-scans-find-porn-addiction">Neural Correlates of Sexual Cue Reactivity in Individuals with and without Compulsive Sexual Behaviours</a> (Accessed April 19, 2022). July 2014.&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p><em>The Annie E. Casey Foundation.</em> Generation Z and Mental Health. October 16, 2021. <a href="https://www.aecf.org/blog/generation-z-and-mental-health">https://www.aecf.org/blog/generation-z-and-mental-health</a> (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li><li><p>Park, Brian. Wilson, Gary. Berger, Jonathan. Christman, Matthew. Reina, Bryn. Bishop, Frank. Klam, Warren. Doan, Andrew. <em>National Library of Medicine</em>. Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports. September 6, 2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/</a> (Accessed April 19, 2022)&nbsp;<a class="reversefootnote" href="#fnref:5">↩</a></p></li></ol></div>
