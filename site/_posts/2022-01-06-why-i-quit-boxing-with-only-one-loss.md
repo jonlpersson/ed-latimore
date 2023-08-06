@@ -3,9 +3,9 @@ date: 2022-01-06 10:11:42 -0500
 article_type: Article
 title: 5 reasons why I quit boxing with only one loss
 permalink: /why-I-quit-boxing/
-tags: 
+tags:
   - boxing-lessons
-categories: 
+categories:
   - boxing-lessons
 description: >-
   I explain the harsh truth of the boxing game and the factors that lead me to
@@ -59,6 +59,8 @@ I just talked to a friend who fought on television in the big money division, th
 To put this in perspective, I clear $100k with relatively little effort, all online, without permanent physical damage. I'm also doing it in a way that helps many more people than myself (more on this point later in the article).
 
 Don’t get me wrong: I don’t mind the hard life of a fighter. I did it for over a decade. I just wouldn’t do it if I had a safer alternative.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## 2) I got tired of being in constant pain
 
@@ -137,7 +139,6 @@ To better illustrate this, I’ve referenced an article aptly titled “[The Evo
 
 > *“As the research shows, there has been a steady increase in the height of heavyweight champions from the early days of Jack Johnson in the 1910s up to the current climate, which will soon see two mammoth competitors Wilder and Fury collide.*
 >
->
 > *Without an upper limit, heavyweights have simply got bigger and bigger throughout time, and the age of the ‘super-heavyweight’ evidently began around the 1990s when giants such as Lennox Lewis entered the fray.”*
 
 ![How the heights of heavyweight boxers has changed over time](/assets/images/posts/2022/evolution-of-the-height-of-heavyweight-boxers.jpeg "The evolution of the heavyweight boxing champions by decade, courtesy of casino.org")
@@ -181,3 +182,5 @@ I stopped boxing because I’d realistically gone as far as I could with my phys
 I enjoyed my life as a fighter and am extremely grateful for everything&nbsp;[I got from boxing](/how-to-think-like-a-professional-fighter/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
 
 #### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
