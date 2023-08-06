@@ -30,6 +30,8 @@ We seek hardship while the masses seek comfort. We confront pain while everyone 
 
 More specifically, why did I do it? Why did I live the life of a fighter for 13 years?&nbsp;
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## The Anna Karenina Principle
 
 Every fighter fights for different reasons, but rarely are those reasons born from a state of abundance and fulfillment.
@@ -91,3 +93,5 @@ When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize 
 That is why I fought.
 
 **[Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)**
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
