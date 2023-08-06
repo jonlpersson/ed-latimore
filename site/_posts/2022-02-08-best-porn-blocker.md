@@ -34,6 +34,8 @@ Porn blockers are accountability software designed to block particular apps and 
 
 Some porn blocking software also has an accountability feature that shares your browsing activity with a trusted accountability partner and provides alerts when you try to delete the software or view explicit content. Eventually, by sheer force, the blocker will help reduce your urge to watch porn so that you can free yourself from addiction.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Best porn blockers apps
 
 There are a lot of popular softwares and porn blocking apps out there designed to help, but these are the five best blockers I’ve found. It comes down to personal preference (and budget) for which blocker will work best for you.
@@ -110,4 +112,4 @@ Browsing porn is often a solo activity, which makes it such an easy addiction to
 
 The purpose of installing a porn blocker is to make browsing adult websites less private so that you aren’t incentivized to maintain the habit. Having a trusted accountability partner that can view your browsing data safely and securely is a surefire way to help you break free from one of the most destructive isolating activities.
 
-{% include widgets/summary.html id="Covenant-Eyes" %}
+{% include widgets/summary.html id="Dick-Detox" %}
