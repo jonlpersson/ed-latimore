@@ -26,6 +26,8 @@ Porn Masturbation Orgasm (PMO) creates nearly identical addictive patterns that 
 
 That honesty has allowed me to build a lifestyle around staying sober, which I’ve done for the last 8 years. In this article, I’ll provide you with the insight you need to know on why porn is so hard to quit so you can do the work and make changes in your life.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Porn today is inherently addictive
 
 The first reason porn is hard to quit is that it’s designed to be that way. It’s an instant gratification piece of digital candy that touches on our brain’s pleasure centers and lights up the reward system.
@@ -130,7 +132,7 @@ You’ll get a headstart with my [Vicebreakers course](https://gumroad.com/a/468
 
 The rest is up to you.
 
----
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ### References
 
