@@ -44,6 +44,8 @@ The principle behind this is when you use your time and energy levels with more 
 
 I took up boxing because I wanted people to remember me for something other than being the drunk guy that worked at Starbucks. What impression are you leaving on others with how you’re spending your life?
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## Face difficulty with more resilience
 
 Addiction physically alters your brain. It doesn’t matter if that addiction is to food or crack. Your brain reacts to addiction as it does to physical trauma.<sup><a class="footnote" rel="footnote" href="#fn:3">2</a></sup> Over time, it shrinks making you more susceptible to your impulses.
@@ -120,6 +122,8 @@ Stoicism requires that you take the red pill in life. It requires that you see t
 Sex is a difficult emotion to control, but once controlled you can foster better relationships with others and more respect for yourself.
 
 Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers&nbsp;*[here](https://edlatimore.com/products/vicebreakers/).
+
+{% include widgets/summary.html id="Dick-Detox" %}
 
 ### References:
 
