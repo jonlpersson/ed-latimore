@@ -185,11 +185,11 @@ This has so far been the primary benefit of Alpha Brain.
 
 Writing is so much easier using Alpha Brain. I suspect it’s a combination of intense focus and the ability to express myself clearly. Using this supplement daily also functioned as “motivation in a bottle.” I had so many ideas clearly produced in my mind and such an urge to do them, I regularly stayed up until 2 in the morning working on them.
 
-I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also making you feel like you need to do anything else.
+I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also not making you feel like you&nbsp; need to do anything else.
 
 It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
 
-Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves [while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
+Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves and mental speed increases&nbsp;[while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ![Alpha and Theta waves for flow state](/assets/images/drafts/brain-wave-chart-flow-state.png "Alpha and Thea waves are most present during flow state. Pic courtesy of https://www.diygenius.com/"){: width="600" height="323"}
 
@@ -241,9 +241,9 @@ In comparing the two products, Alpha Brain is closer to a more intense product t
 
 I'll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.](https://onnit.sjv.io/c/2316453/347302/5155)
 
-## Side effects, warnings, and disclaimers
+## Potential side effects, warnings, and disclaimers
 
-Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
+Most nootropics have ingredients that lack long term research, but Alpha Brain's ingredient list is doesn't contain anything that's been linked with any side effects. Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
 
 I personally didn’t experience any of these side effects. I’m just reporting on what other people have reported.. In fact, I’m sleeping better now that I’m on it. That may be because of the neuroprotective and neuro-regenerative effects of many of Alpha Brain’s ingredients. It may also be because I don’t take the supplement any later than 9 am.
 
