@@ -18,7 +18,9 @@ I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improve
 * **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)
 * **Practicing Spanish.** By the end of the year, the goal is to take the D.E.L.E. [exam for Spanish](https://imp.i271380.net/XxzxXX) level B2.
 
-Given that I'm currently in the state of constant sleep deprevation that all new-parents go through, I figured that I'd be a perfect candidate to see just how this supplement stacks up a brain boosting nootropic.
+I'm currently in constant sleep deprivation that all new parents go through, so I figured I'd be a perfect candidate to see how this supplement stacks up as a brain-boosting nootropic.
+
+Given my goals and the effect of stress, I'm in a perfect position to test the claims about Alpha Brain's ability to improve alertness, focus, brain function, and verbal fluency.
 
 ![Ed Latimore with his son 3 month old that causes sleep deprivation](/assets/images/drafts/ed-and-his-son.jpeg "I'm smiling, but I'm secretly exhausted haha"){: width="400" height="531"}
 
