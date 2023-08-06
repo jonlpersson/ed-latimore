@@ -1,7 +1,7 @@
 ---
 date: 2023-02-17 00:00:00 -0500
 article_type: Article
-title: Research and review of Alpha Brain. Does it work?
+title: Alpha Brain Review by Chess Player - Does it really work?
 permalink: /alpha-brain-review/
 tags:
   - how-to-become-superhuman
@@ -12,7 +12,7 @@ description: >-
   think of it, how I take it, and how it compares to other brain supplements.
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
-I tried the Onnit Alpha Brain supplement for 30 days. To test out its efficacy, I watched my progress on 3 of my regular cognitive tasks:
+I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improved my brain function, I watched my progress on 3 of my regular cognitive tasks:
 
 * **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site.
 * **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)
