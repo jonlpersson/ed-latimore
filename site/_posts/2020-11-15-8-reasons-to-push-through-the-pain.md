@@ -26,8 +26,9 @@ The idea is that practice is miserable but performance is fun. In a perfect worl
 
 > **“You don’t rise to the level of the competition. You fall to the level of your training.”**
 >
->
 > **\-U.S. Navy Seals**
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## **1) Fulfilling experiences require suffering**
 
@@ -56,7 +57,6 @@ To make friends and meet lovers, you have to endure the pain of social awkwardne
 To have a noteworthy life, you must accomplish noteworthy things. Accomplishing noteworthy things means you must endure noteworthy pain because it’s the only way to acquire noteworthy rewards.
 
 > **"The pain you feel today will be the strength you feel tomorrow."**
->
 >
 > **\-****Arnold Schwarzenegger**
 
@@ -113,7 +113,6 @@ In the first scenario, you push too hard and you still don't have any new friend
 Only in the last scenario, where you gave into fear and embraced comfort, that nothing happens. There is no growth, change, or learning.
 
 > "No pain, no gain"
->
 >
 > \-Unknown
 
@@ -177,3 +176,5 @@ What’s important is keeping the pain in perspective.
 Some things merely hurt you–a lot–but they don’t destroy you. Many times, the pain actually makes you more capable in the future–if you react to it with the proper perspective. But it does not debilitate you. When you’re injured–when you truly have been broken–this is not time for despair and melodramma either.
 
 Then it’s time to rest and to heal up for another day of fighting.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
