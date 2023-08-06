@@ -30,9 +30,9 @@ This is one of the best nootropics you can buy that is not a neuropeptide or ove
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
-***Though if you do just want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/ZQKJYk).***
+***Though if you do want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/ZQKJYk).***
 
-I also give you information on the history of the company, its founder Marcus Aubrey, and what lead him to create Onnit Labs and help thousands improve their physical and mental performance.
+I also give you information on the company's history, its founder Marcus Aubrey, and what led him to create Onnit Labs and help thousands improve their physical and mental performance.
 
 This is one of the most thorough Onnit Alpha Brain reviews out there. I left no observation or research point unchecked.
 
@@ -101,6 +101,8 @@ From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-doc
 The list of Alpha Brain ingredients, its three 3 proprietary blends, and their functions are as follows:
 
 ### Onnit Flow Blend
+
+The Onnit Flow Blend is formulated to promote alpha brain wave production. This is the only nootropic I've seen that claims to be able to do this. This is a powerful marketing tactic, as alpha brain waves are associated with flow state.
 
 During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state. The ingredients in the Onnit Flow Blend proprietary mixture help you express the combination alpha and theta waves more easily.&nbsp;
 
