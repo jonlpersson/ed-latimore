@@ -267,4 +267,4 @@ It won’t be easy, but it will be worth it.
 
 You’ll come out the other side better and you’ll thank yourself.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Dick-Detox" %}
