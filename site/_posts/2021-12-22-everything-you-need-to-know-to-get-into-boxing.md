@@ -54,6 +54,8 @@ Remember: being in general shape is important, but being in fight shape matters.
 
 ***\[You can learn more about the training routine I put myself through as an amateur and professional boxer here—&gt;[How to train for a boxing match: Insights from a pro](/boxing-training/)\]***
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ### The right attitude
 
 Boxing is difficult.
@@ -129,12 +131,13 @@ With the prerequisites out of the way, let’s get into the various ways you can
 
 #### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Amateur boxing vs Professional boxing
 
 You must know the difference between amateur boxing and professional boxing. Something I’ve learned over the years is that the average person (i.e. most people) doesn’t even know that amateur boxing exists, let alone the difference between “the pros and ammys”.
 
 > Most people don't know shit about boxing.
->
 >
 > \-Roger Mayweather
 
@@ -286,3 +289,5 @@ Like the wise sage, former heavyweight champion Mike Tyson once said, *“Everyo
 The rest is up to you.
 
 #### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
