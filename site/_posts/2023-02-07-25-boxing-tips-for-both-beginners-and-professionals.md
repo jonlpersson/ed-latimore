@@ -84,6 +84,8 @@ Boxing training makes little allowance for weight training for the following rea
 4. **Doesn't actually help anything.** Boxers will lift because they believe that it makes them more powerful. If a fighter lacks power, lifting weights won’t make a difference. He needs to take that time to improve his skills and ability to deliver shots.<br><br>The general boxing community thinks punchers are born rather than made, but the reality is that anyone can learn to deliver with world-class power by learning how to punch effectively. Lifting weights won’t help.&nbsp;
 5. **Better ways to use the time.** Time spent lifting weights can almost ALWAYS be used on some skill element. Whether it be film study, shadowboxing, pad work, footwork, or technique training, there is an element that a fighter is deficient in. The time spent on one of those elements during your training session will always yield a better return than time invested in weight lifting.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ### 4) The fastest way to get into boxing shape
 
 ![Getting into boxing shape](/assets/images/drafts/boxing-in-shape.jpeg "Getting into boxing shape"){: width="500" height="625"}
@@ -213,6 +215,8 @@ Do not disappoint them or waste your coach's time.&nbsp;
 
 ***Read: [48 life lessons from boxing&nbsp;](/how-to-think-like-a-professional-fighter/)***
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Learning how to fight
 
 ### 13) How to use the heavy bag
@@ -264,6 +268,8 @@ Doing this with your weight on your back foot and pushing into the floor with yo
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSWxsdXN0cmlvdXNGcmlnaWRBbWVyaWNhbnF1YXJ0ZXJob3JzZSIgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjY4NCI+PC9pZnJhbWU+PHA+IDxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pbGx1c3RyaW91c2ZyaWdpZGFtZXJpY2FucXVhcnRlcmhvcnNlLWJveGluZyI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/IllustriousFrigidAmericanquarterhorse" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="684"></iframe><p><a href="https://gfycat.com/illustriousfrigidamericanquarterhorse-boxing">via Gfycat</a></p></div>
 
 Constant head movement is unnatural and must be trained. Even when you think you are moving your head, you’re not moving it. So always practice it, even when you’re just using the punching bag.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## General boxing tips
 
@@ -329,3 +335,5 @@ However, what’s for more likely is that you’ll underestimate how powerful yo
 Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn't mean that you're bulletproof.&nbsp;
 
 ***Read: [How to avoid a streetfight and what to do if you can't](/how-to-win-a-street-fight/)***
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
