@@ -25,6 +25,8 @@ For many, what starts as a casual indulgence or curiosity can turn into a harmfu
 
 If you're looking to stop watching porn and regain control of your life, you're in the right place. This short but comprehensive guide will teach you effective strategies that I've used to help guys overcome porn addiction and replace it with healthier habits.
 
+{% include widgets/summary.html id="Dick-Detox" %}
+
 ## 9 strategies to help you stop watching porn
 
 {% twitter https://twitter.com/EdLatimore/status/1502479500214517764 %}
@@ -127,3 +129,5 @@ Watching online porn has a host of negative impacts on your mental and physical 
 Overcoming porn addiction and stopping the habit of watching porn requires dedication, self-awareness, and persistence. By following these strategies and seeking support from others, you can regain control of your life and experience lasting change.
 
 Remember, the journey may be challenging, but the rewards of a porn-free life are well worth the effort.
+
+{% include widgets/summary.html id="Dick-Detox" %}
