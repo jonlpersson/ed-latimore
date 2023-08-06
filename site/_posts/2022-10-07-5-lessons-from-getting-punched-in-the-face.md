@@ -46,6 +46,8 @@ Yes, you might get a bloody nose or a black eye, but unless you get sucker punch
 
 ***Read some mindset tips from boxing—&gt;[48 life lessons from boxing](/how-to-think-like-a-professional-fighter/)***
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## You learn to stand up for yourself
 
 Although I fought a lot as a kid, I never started those fights. I’m a pacifist, almost to a fault. I just refused to take anyone’s shit.
@@ -121,3 +123,5 @@ Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my
 That’s a safe, legal, controlled way to get exposure to violence.
 
 Until then, the rest is up to you.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
