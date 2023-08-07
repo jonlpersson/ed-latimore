@@ -85,9 +85,9 @@ Interestingly enough, this stagnation seems to start in the late 20s. By 30, you
 
 ***But as long as you tie your income to hours worked, it’ll be limited. After all, you can only work so many hours. The way to make it unlimited is to remove time from the equation completely. Once you do this, you can start to see all the potential ways to make more money.”&nbsp;***
 
-While I don’t think everyone [needs to be an entrepreneur](/how-to-become-an-internet-entrepreneur/), I think everyone needs to have a least one time-independent form of income. Everyone makes a big deal about location-independent income, but time-independent income is where real freedom is found
+While I don’t think everyone needs to be an entrepreneur, I think everyone needs to have a least one time-independent form of income. Everyone makes a big deal about location-independent income, but time-independent income is where real freedom is found
 
-Working 20-30 hrs a week is still the same, no matter where you are. [Making money while you do something else](/a-basic-bro-beginners-guide-to-making-money-online/)is how you really set yourself up to live life. Working from home is nice, but if you can figure out how to get a job that pays on commission or assignment, then you get a chance to be semi-time-independent.&nbsp;
+Working 20-30 hrs a week is still the same, no matter where you are. Making money while you do something elseis how you really set yourself up to live life. Working from home is nice, but if you can figure out how to get a job that pays on commission or assignment, then you get a chance to be semi-time-independent.&nbsp;
 
 Working on commission to get a taste of time-independent income may sound counterintuitive, but it does two things:&nbsp;
 
@@ -120,7 +120,7 @@ Are there people out there who care about your plight and will go to extraordina
 
 Sure, but you likely won’t meet them. Sorry, that’s just the way probability works. Better to plan for no help and get it than count on it and be left in a really bad spot.
 
-&nbsp;
+
 
 ## Harsh Truth \#5: Be Wary Of Advice From Your Parents
 
