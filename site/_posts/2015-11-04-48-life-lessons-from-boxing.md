@@ -20,7 +20,7 @@ Being a fighter forces you to think and approach problems differently than most 
 
 In fighting, you either learn or perish–and you better learn fast, because the damage you sustain is cumulative. Everyone thinks of the knockout blow that ends the fight, but the punishment to the body that you take over time is far more damaging.
 
-No one beats the fight the game. It eventually defeats everyone who takes it on. The best you can hope for is wisdom and [to make a little bit of money.](/a-basic-bro-beginners-guide-to-making-money-online/)
+No one beats the fight the game. It eventually defeats everyone who takes it on. The best you can hope for is wisdom and to make a little bit of money.
 
 In this post, I don't have any cash for you. However, I will give you some of the wisdom I picked up from the fight game that will help you in whatever fight you're personally in.
 
