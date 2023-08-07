@@ -72,8 +72,6 @@ If you tell me that you played a professional sport, there will surely be proof 
 
 If you tell me that you run a marketing agency and I can’t find anything about you or your agency when I try to look you up, you’ve put me in a position of having to trust your word. I don’t know if you’re telling the truth or not, but part of being a high-value man is that people should not have to worry about that.
 
-Building up your personal brand fixes this, learn how to do that by reading [this article](https://edlatimore.com/how-to-build-a-personal-brand/).
-
 ## Strong network of other high-value men
 
 No one becomes high-value on an island.
@@ -91,8 +89,6 @@ This doesn’t mean that a high-value man doesn’t have friends who don’t mee
 Between this metric and verifiability, it’s nearly impossible for a man to fake his way into high-value status. If a man is a doctor, for example, then not only will you be able to look him up somewhere on a website, other doctors and health professionals will be able to vouch for him.
 
 If he claims to be an entrepreneur, then not only must other successful businessmen vouch for him, but you should be able to find satisfied customers and consumers of his business.
-
-High-value men are part of a network of other high-value men. If you haven't built up your network yet don't worry I got you [here](/how-to-network/).
 
 ## Physical optimization
 
