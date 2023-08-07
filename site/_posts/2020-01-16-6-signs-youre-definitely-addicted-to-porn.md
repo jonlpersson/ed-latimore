@@ -143,7 +143,7 @@ Remember, your primitive brain is happy because it thinks that the naked woman y
 
 All that dopamine released by the artificial but intense stimulus is so overpowering that the rest of your life will *seem pale in comparison.* Not only is it not real, but you can also release it on command without doing any of the challenging work required to earn sexual release with a woman.
 
-* [You didn’t make any more money.](/a-basic-bro-beginners-guide-to-making-money-online/)
+* You didn’t make any more money.
 * You didn’t improve your physique.
 * You didn’t get intelligent.
 * [You didn’t become more attractive.](/how-to-be-an-attractive-man/)
