@@ -33,7 +33,6 @@ I know these principles work to make almost anything achievable because I've use
 * Get in shape
 * [Compete in professional boxing](/boxing-training/)
 * [Get a Bachelor’s degree in Physics](/is-physics-hard-how-to-study-and-learn-basic-physics/)
-* [Make a passive 6-figure, location-independent income](/a-basic-bro-beginners-guide-to-making-money-online/)
 
 > #### We overestimate what we can do in the short term, and underestimate what we can do in the long term.
 >
@@ -255,7 +254,6 @@ Remember: Rome wasn’t built in a day, but Hiroshima was wiped out overnight.
 10. Have patience
 
 > It's a new dawn, it's a new day, it's a new life for me and I'm feeling good!
->
 >
 > \-Nina Simone
 
