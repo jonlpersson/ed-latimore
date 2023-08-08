@@ -128,7 +128,7 @@ Instead, try your hand (or mind) at something challenging. Or pick up where you 
 
 I had a knack for writing as a kid but thought nothing of it until I went back to school for physics. Writing long, complex essays on topics sharpened my dulled abilities. If I wanted my degree, quitting wasn’t an option.&nbsp;[So I kept writing.](/why-is-writing-important/)
 
-My professors complimented my papers. A few encouraged me to write outside of school. I did. Yesterday, 2.000 people visited my website to read what I’ve written about breaking free from addiction, [supporting their dreams with a side hustle,](/a-basic-bro-beginners-guide-to-making-money-online/) taming destructive thoughts and emotions, and more.
+My professors complimented my papers. A few encouraged me to write outside of school. I did. Yesterday, 2.000 people visited my website to read what I’ve written about breaking free from addiction, supporting their dreams with a side hustle, taming destructive thoughts and emotions, and more.
 
 Yesterday, like every day, several people reached out to me thanking me for what I wrote. It’s great that my website makes money, but to read how something I wrote changed a person’s life for the better is the real reward.&nbsp;
 
