@@ -58,7 +58,7 @@ If you don't enjoy creating it, your writing career will be over before it gets 
 
 If you haven't done anything in your life, what the hell could you possibly write about?
 
-This is the most common folly I see people commit when they attempt to build a "[personal brand](https://edlatimore.com/how-to-build-a-personal-brand/)" . You can't build a personality and life through your writing. Your writing is a secondary pursuit to the life you live.
+This is the most common folly I see people commit when they attempt to build a "personal brand" . You can't build a personality and life through your writing. Your writing is a secondary pursuit to the life you live.
 
 If you're writing non-fiction, you need experience in whatever you're writing about.
 
@@ -109,7 +109,6 @@ A lot of people think that they need to produce excellent writing from the start
 Your first time writing anything simply needs to be expressed. It doesn't even need to be readable; you can go back and edit it later.&nbsp;
 
 > "The first draft of anything is shit."
->
 >
 > \-Ernest Hemingway
 
