@@ -20,7 +20,7 @@ You probably didn't learn any of these in school, but school isn't in the busine
 
 * [Start a blog](https://impossiblehq.com/how-to-start-a-blog-guide/)
 * [Start a Medium account](https://www.ayothewriter.com/medium-writing-tips/)
-* [Craft emails](/how-to-build-and-manage-an-email-list/)
+* Craft emails
 * Create marketing campaigns
 * Run book advertising
 * Plan books
@@ -37,20 +37,19 @@ Good writers create content to either entertain or teach. Great ones manage to d
 
 I don't want to merely be good. I want to say things in a way that makes people think about things differently and change the world while doing so.
 
-This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like it was written by a professional.
+This is why I started a blog. Each day, [I invest the time to get better and build a writing career](/hard-work-beats-talent/) so that everything you read by me feels like a professional wrote it.
 
 My official purpose for writing is “To take what I’ve learned the hard way and break it down so that you can learn it the easy way”. If I can do this with a little bit of humor–or at the very last, engagement–then I've accomplished something great. If you look at the articles on my site, you can see this is reflected in my *writing style, word choice, and content.*
 
 > **“Either write something worth reading or do something worth writing about"**
 >
->
 > **\-Benjamin Franklin**
 
 **Achieving this goal drives 100% of my blogging decisions.**
 
-My secondary purpose is to spread my message as far and as wide as possible. I’ve had [to learn networking](/how-to-network/), marketing, and SEO. I have a mix of e-books to promote myself on social media and books I've self-published on Amazon because Amazon is a massive sales-driven SEO machine.
+My secondary purpose is to spread my message as far and as wide as possible. I’ve had to learn networking, marketing, and SEO. I have a mix of e-books to promote myself on social media and books I've self-published on Amazon because Amazon is a massive sales-driven SEO machine.
 
-[The internet is wonderful and allows me to expose my content to more people.](/how-to-build-a-personal-brand/)
+The internet is wonderful and allows me to expose my content to more people.
 
 On the rare occasion that my secondary goal and primary goal conflict, the primary goal always wins.
 
@@ -156,7 +155,7 @@ If you aren't sure which language to study, pick the one with a culture you have
 
 This will drive you to develop an understanding that will make your writing more clear and purposeful.
 
-## 7) [Use Twitter, Facebook, and other social media](/how-to-get-more-twitter-followers/)
+## 7) Use Twitter, Facebook, and other social media
 
 Twitter forces you to express your message in 280 characters or less. That's two–maybe three–short sentences you get to make your point.
 
@@ -166,13 +165,11 @@ Excellence comes from getting good at expressing meaningful ideas in these short
 
 This improves clarity. It also provides a solid tweet and allows you to market your writing more effectively.
 
-Using Twitter to improve your writing also has another major benefit: the size of your audience is a proxy indicator of the effectiveness of your writing. Generally speaking, if you know h[ow to get more followers on Twitter or generate engagement on Facebook](/how-to-grow-your-twitter-following/), this means that you are expressing yourself with words in an engaging manner.
+Using Twitter to improve your writing also has another major benefit: the size of your audience is a proxy indicator of the effectiveness of your writing. Generally speaking, if you know how to get more followers on Twitter or generate engagement on Facebook, this means that you are expressing yourself with words in an engaging manner.
 
 This is similar to the effect that SEO has on blog posts.
 
 While popularity is not the sole judge of talent, the number of likes and retweets you receive, and the followers you gain at least tell you if your writing is engaging and interesting.
-
-***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
 
 ## 8) Start a blog to learn the basics of SEO
 
@@ -198,7 +195,7 @@ If your writing is organized, purposeful, and helps many people, then there's a 
 
 If no one can find you, then you need a leg up.
 
-SEO improves your writing, not just for the internet, but for all purposes and types of content as well. On top of that, adhering to best SEO practices makes your writing more popular so in this way, [it's like free advertising.](/a-basic-bro-beginners-guide-to-making-money-online/)
+SEO improves your writing, not just for the internet, but for all purposes and types of content as well. On top of that, adhering to best SEO practices makes your writing more popular so in this way, it's like free advertising.
 
 ## 9) Just create content. Stop making outlines
 
