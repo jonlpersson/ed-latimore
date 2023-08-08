@@ -68,8 +68,6 @@ page_blocks:
       boxing, developed the growth mindset necessary to do the inner work.
 
 
-      * [How to make money on social media](/how-to-make-money-on-social-media/)
-
       * [Learning skills](/learning-skills/)
 
 
