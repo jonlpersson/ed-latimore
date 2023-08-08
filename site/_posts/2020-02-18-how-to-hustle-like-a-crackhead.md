@@ -20,7 +20,7 @@ There were only 3 of them, but they only closed the restaurant on New Year's Day
 
 This is how you set your family up for a better life in the future. This is noteworthy, but it's nothing compared to crackhead hustle.
 
-You've seen the type of hustle that your favorite motivational guru says changed his life and will change yours too if you do the same. I changed my life by cutting out all the bullshit from life, going "monk mode", and going from making [$9.28/hr to $10k/month online](/a-basic-bro-beginners-guide-to-making-money-online/) in 4 years.
+You've seen the type of hustle that your favorite motivational guru says changed his life and will change yours too if you do the same. I changed my life by cutting out all the bullshit from life, going "monk mode", and going from making $9.28/hr to $10k/month online in 4 years.
 
 This is inspiring to anyone on a quest for a better life. This is inspiring, but it's nothing compared to crackhead hustle.
 
