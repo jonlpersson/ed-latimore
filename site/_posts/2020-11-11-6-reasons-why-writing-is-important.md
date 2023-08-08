@@ -70,8 +70,6 @@ Effective communicators are effective writers. Effective writing is powerful bec
 
 The more precise your communication, the closer your eventual reality will resemble what you’re trying to accomplish in your mind. Writing allows you to continuously refine and polish your message, choosing the words with the most impact to use at the right times. There is no substitute for this practice.
 
-#### ***I have a great free guide that teaches you how to write using Twitter, the social media platform built for writers. [Download The Breakdown here.](/resources/the-breakdown/)***
-
 ## Writing improves your critical thinking skills
 
 Even with podcasts and streaming video services, writing is still the best way to share your experiences and thoughts about a subject. This is because it’s impossible to read something passively.
@@ -90,7 +88,7 @@ If you want to do anything with your writing other than express your thoughts, y
 
 While I don’t think that writers should aim to be popular, if you want to write for the public to read, you'll eventually face public scrutiny. No matter what people say about your writing, the best advice I can give you is this:
 
-They aren’t investing in building a body of work and taking the [necessary risks to grow.](/how-to-build-a-personal-brand/) They wish they dared to do something like put their writing out there. As the musician, Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
+They aren’t investing in building a body of work and taking [the necessary risks to grow.](/bet-on-yourself/) They wish they dared to do something like put their writing out there. As the musician, Gnarls Barkley once said in his hit song “Crazy,” *My heroes have the heart to live the life I wanna live.*
 
 ## Writing gives you a platform
 
