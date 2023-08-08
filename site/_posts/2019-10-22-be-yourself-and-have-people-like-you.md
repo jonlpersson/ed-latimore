@@ -35,8 +35,6 @@ When you finally learn how to be yourself, you’ll live in a constant of realne
 
 This article gives you the step-by-step guide to get out of your comfort zone, get in touch with your real self, and get the most out of life.
 
-{% include widgets/toc.html heading="How to be your authentic self" list-items="Don't try to make people like you, Focus on self-improvement and live life on your own terms, Don't worry what others think, Do what you love no matter what, Embrace polarity" list-ids="1-dont-try-to-make-people-like-you, 2-focus-on-self-improvement-and-live-life-on-your-own-terms, 3-dont-worry-what-others-think, 4-do-what-you-love-no-matter-what, 5-embrace-polarity" %}
-
 ## 1) Don't try to make people like you
 
 The hardest thing for many people to do is to be selfish. When you start caring more about yourself and stop being a people pleaser, it's amazing how many negative and toxic people leave your life.
