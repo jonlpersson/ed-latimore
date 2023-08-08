@@ -151,7 +151,7 @@ That means that somehow, this is still causing him problems. I have two theories
 
 #### **The first feeds my ego**
 
-I’m more well-known than the average person. If we went by nothing else than the quantity and quality of people who [follow me on Twitter](/how-to-get-more-twitter-followers/), that would be enough to make the case. Depending on which SEO tool you use, my name receives between 1800 and 4500 searches on the internet per month. [I even have a Wikipedia page.](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank"}
+I’m more well-known than the average person. If we went by nothing else than the quantity and quality of people who follow me on Twitter, that would be enough to make the case. Depending on which SEO tool you use, my name receives between 1800 and 4500 searches on the internet per month. [I even have a Wikipedia page.](https://en.wikipedia.org/wiki/Ed_Latimore){: target="_blank"}
 
 ![I really want to believe my fame energy is causing karma problems](/assets/images/posts/2020/ed-wikipedia-article.png "My small piece of internet fame.")
 
