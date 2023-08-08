@@ -24,7 +24,7 @@ Unfortunately, most people find this out the hard way. Especially on the interne
 
 ## Avoiding bad karma
 
-If you [follow me on Twitter](/how-to-get-more-twitter-followers/), you know that I’m one of the more polite people you’ll ever meet on the internet.
+[If you follow me on Twitter](https://twitter.com/edlatimore), you know that I’m one of the more polite people you’ll ever meet on the internet.
 
 Even when I troll, it’s poking fun at myself and making people think I’m a [crackhead](/crackhead/) or that I was someone’s prison bitch. I don’t intentionally antagonize or insult anyone.
 
