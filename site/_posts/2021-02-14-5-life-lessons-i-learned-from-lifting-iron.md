@@ -26,7 +26,7 @@ So, without further ado, here’s five life lessons I learned from lifting heavy
 
 ## **1\. Nothing in Life Comes Fast**
 
-We live in a world of instant gratification. [Twitter](https://edlatimore.com/how-to-grow-your-twitter-following/), Facebook, YouTube, Instagram, and all other forms of social media – there’s a multi-billion dollar industry that’s literally built around one thing: instant gratification.
+We live in a world of instant gratification. Twitter, Facebook, YouTube, Instagram, and all other forms of social media – there’s a multi-billion dollar industry that’s literally built around one thing: instant gratification.
 
 The entire internet is based around instant hits of dopamine, and everything built around it embodies this concept.
 
@@ -38,7 +38,7 @@ The truth is, however, that nothing in life comes fast. Rome wasn’t built in a
 
 I had someone tell me that he wanted a refund for my fitness product recently, because the workout routine was “too hard,” and he didn’t see results in two weeks of trying my routine.
 
-This mindset embodies everything I’m talking about here today. Millions of people expect to [get shredded](https://www.masculinedevelopment.com/6-tips-how-to-shred-body-fat/) by just taking the latest fat burning pill, or to burn 50 pounds of fat by following some fad diet that allows you to “eat all your favorite foods.” Yeah, right.
+This mindset embodies everything I’m talking about here today. Millions of people expect to [get shredded](https://www.masculinedevelopment.com/6-tips-how-to-shred-body-fat/) by just taking the latest fat-burning pill, or to burn 50 pounds of fat by following some fad diet that allows you to “eat all your favorite foods.” Yeah, right.
 
 The truth is that if you want something in life, and if it’s *really worth having*, it’s going to take a lot of fucking work. I didn’t get to a 405 pound deadlift by taking a pill, or by skipping the gym every time I felt like it.
 
@@ -80,6 +80,6 @@ For the gym, it’s using [muscle building supplements](https://www.masculinedev
 
 For being happy and having peace of mind, it’s meditating on a regular basis, finding hobbies you enjoy, and doing some form of journaling each day.
 
-For making money online, it’s [building a powerful network](/how-to-network/) that can help you increase the rate of your progress, learning from the experts, and applying what you learn as fast as humanly possible.
+For making money online, it’s building a robust network that can help you increase the rate of your progress, learning from the experts, and applying what you learn as fast as humanly possible.
 
 Everything in life has its shortcuts – and that doesn’t mean that you can avoid putting in the work, but it *does* mean that you can get what you want a lot faster if you just learn to accept this, and use these shortcuts to your advantage.
