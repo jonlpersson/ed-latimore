@@ -46,7 +46,7 @@ When you rely on one weapon, you haven’t embraced strategy. You’ve only embr
 
 Applied modernly, watch out for people who claim to have a deep general understanding, but they only have shallow specific skills or—even worse—[temporarily visiting luck](/how-to-get-lucky/). We see this in a few commercial spaces on the internet. For example:
 
-* Someone [makes money online](/a-basic-bro-beginners-guide-to-making-money-online/) with one product. Now they market themselves as an entrepreneur teaching you entrepreneurship.
+* Someone makes money online with one product. Now they market themselves as an entrepreneur teaching you entrepreneurship.
 * Someone got laid a few times in college at a frat party. Now they market themselves as [a dating coach teaching you how to get laid.](/relationship-advice/)
 
 These people aren’t strategists. They’re just sword-fencers.
