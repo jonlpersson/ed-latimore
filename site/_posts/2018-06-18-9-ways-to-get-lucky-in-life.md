@@ -30,7 +30,6 @@ Everyone's gotten a lucky break or two, but people don’t like to admit this fo
 
 > 1) People believe that it takes away from the effort they put in. After all, even people who are OBVIOUSLY lucky don’t like to hear that’s why they have a good life. If you reduce all success down to “right place, right time”, then how are you supposed to seriously teach someone [how to be successful](/10-secrets-to-success/)?
 >
->
 > 2) They severely misunderstand what luck ACTUALLY is. Most people think it’s picking the right numbers or winning the “genetic lottery”. These things help you excel, but they don’t really matter
 
 Dealing with the first misunderstanding is a natural result of dealing with the second.
@@ -71,7 +70,6 @@ Preparation is a result of dedication to your craft. By constantly improving, yo
 
 > If your batting average is .400 in major league baseball, apparently this is excellent (please forgive me baseball fans. I don’t know the game well at all). This means that if you got up to bat 10 times, you’d hit the ball 4 times.
 >
->
 > We don’t know which of those 4 hits will be home-runs or base-hits. You still have to swing to make something happen.
 
 Your "batting average" is–more or less–fixed. Since you’ve maxed out on skill and preparation, the only way to get more opportunities is to swing more often. Instead of 10 times, get up to bat 100 times.
@@ -110,7 +108,7 @@ People are more likely to make exceptions, give you bonus points, or help you su
 
 When you don’t have anything to your name, you still have your name. Make sure it’s worth a damn. In some circles, your reputation is the only currency accepted.
 
-This is an excellent base for building any number of skills. When you have a solid reputation, you will get opportunities to be around people. With this exposure, y[ou can build networks](/how-to-network/) and build your value in a variety of ways.
+This is an excellent base for building any number of skills. When you have a solid reputation, you will get opportunities to be around people. With this exposure, you can build networks and build your value in a variety of ways.
 
 If you’re only good at one thing, don’t worry about it. This is what you will use to leverage your money and time. The better you are at your skill, the more ways you can leverage it into money and manpower.
 
