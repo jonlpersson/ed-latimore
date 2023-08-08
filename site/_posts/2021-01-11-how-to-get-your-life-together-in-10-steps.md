@@ -215,7 +215,7 @@ Not only will you earn more cash, but [you’ll also boost your self-esteem.](/h
 
 You’ll finally develop the unique confidence that stems from knowing you will always be able to put food on the table and pay your bills.
 
-**Action small step \#7:** Read my [Beginner’s Guide To Making Money Online](/a-basic-bro-beginners-guide-to-making-money-online/) and come up with a plan for building a skill set and making some extra money.
+**Action small step \#7:**&nbsp;Come up with a plan for building a skill set and making some extra money.
 
 ## 8) Learn from your past
 
