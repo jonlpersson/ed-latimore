@@ -20,7 +20,6 @@ Remember: both Gandhi and Hitler were effective leaders. The only difference was
 
 > "Who then is a leader? There have been countless people through history that led people but were inhumane and destructive. Does that still make them leaders? In my mind, a leader is someone who does more than just lead people. They have to be driven by the right motivation and make a positive impact on the people around them."
 >
->
 > \-[Chieflearningofficer.com, "What is leadership, and who is a leader?"](https://www.chieflearningofficer.com/2020/01/06/what-is-leadership-and-who-is-a-leader/){: target="_blank" rel="noopener noreferrer"}
 
 ![Napoleon was a great leader](/assets/images/posts/napolean.jpg "Napoleon Bonaparte was one of the greatest leaders the world has ever known, and we're still divided on whether he was good or bad. We all agree that he was a great leader though.")
@@ -91,7 +90,6 @@ I did the same thing with my alcoholism. I blamed genetics, my background, and m
 
 > "They all say you shouldn’t be afraid to fail, since failure is an integral part of success; **if you want to succeed, you simply have to go from failure to failure without giving up.** Next to that, we can also find a very popular view on failure saying that you can usually learn much more from your failures than you can from your successes. Both statements are true in a way."
 >
->
 > \-[Agileleanlife.com, "What I have learned from my biggest failures in life"](https://agileleanlife.com/what-i-have-learned-from-my-biggest-failures-in-life/){: target="_blank" rel="noopener noreferrer"}
 
 ## Honesty
@@ -136,9 +134,7 @@ Maybe some good things did happen without you trying, but it’s much more likel
 
 > "Every day we make series of choices that **lead us closer to our goals o**r even further away. Making better, healthier choices, may lead to better results in the long run. But we shouldn’t forget that we don’t have control over the circumstances.
 >
->
 > Bad things happen, unexpected things happen, and no matter how carefully we make decisions, there’s still risk involved. Instead of being paralyzed by it, we can choose to feel liberated and **understand that life can never be predicted**."
->
 >
 > \-[Coach Simona, "How to Make Fast Decisions"](https://coachsimona.com/blog/make-fast-decisions/){: target="_blank" rel="noopener noreferrer"}
 
