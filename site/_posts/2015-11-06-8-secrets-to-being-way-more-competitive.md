@@ -54,8 +54,6 @@ Competitive people know two harsh truths:
 1. If you aren’t getting better, you’re getting worse.
 2. If you aren’t getting better, someone is getting better than you.
 
-You can read more harsh truths about reality in [6 harsh truths about reality.](/harsh-truths/)
-
 ## 2) Always give 110%
 
 This is the most telling trait of someone who likes to compete rather than just win.
