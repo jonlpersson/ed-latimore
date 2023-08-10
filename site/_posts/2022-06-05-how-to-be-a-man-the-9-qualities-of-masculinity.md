@@ -42,7 +42,6 @@ It goes beyond superficial metrics, but those metrics are proxy indicators for s
 
 > Masculinity (adj.)
 >
->
 > Any behavior that attempts to reduce entropy and/or break homeostasis by direct force (1st degree or order of action) Contrast with femininity, any behavior that attempts to reduce entropy and/or break homeostasis by indirect (2 degrees or orders of action) action.
 
 In my opinion, this is the most general definition. If you need a refresher on entropy, a good jargon-free definition is “lack of order or predictability; gradual decline into disorder.”
@@ -74,7 +73,7 @@ A strong man is strong because he is able to resist change, natural or intention
 This means that masculinity stands resolute in the face of peer pressure and social influences. This requires strength, therefore a defining feature of masculinity is strength.
 
 * **What is the purpose of physical training?** To resist the natural decay of our bodies in the face of nature.
-* **What is the purpose of mental training?** To resist forces that seek to influence us for their personal gain. \[Check out a good mental training program I wrote by clicking here—&gt;[How to focus better and improve concentration](/how-to-focus-better/)\]
+* **What is the purpose of mental training?** To resist forces that seek to influence us for their personal gain.&nbsp;
 * **What is the purpose of emotional training?** To resist the persuasive manipulations of those who would lead us astray.
 
 Masculinity resists entropy. Masculinity resists change for change’s sake alone.
@@ -118,7 +117,6 @@ So they lie to themselves. If you want to be a better man, must never lie to you
 ***\[This article also gives 31 tips to be a better man—&gt;[How to be a better man](/how-to-be-a-better-man/)\]***
 
 > "The first principle is that you must not fool yourself, and you are the easiest person to fool."
->
 >
 > \-Richard Feynman
 
