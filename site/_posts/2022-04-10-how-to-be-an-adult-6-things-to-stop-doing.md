@@ -84,8 +84,6 @@ Children get to believe that Santa Claus delivers gifts. Adults know that it's t
 
 If you blame bad luck for any chronic misfortune in your life, you’re operating from the mindset of someone who is incapable of taking responsibility.
 
-***\[If your luck is bad, I have some practical advice on how to improve it—&gt;[How to get lucky](/how-to-get-lucky/)\]***
-
 Yes, shit happens.
 
 Yes, some of it’s not going to be in your favor.
