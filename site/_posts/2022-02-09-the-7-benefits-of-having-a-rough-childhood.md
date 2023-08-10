@@ -114,7 +114,7 @@ A great thing about coming from the bottom is that you aren't in the middle. At 
 
 They won't let themselves fall out of the lifestyle they grew up in, but they won't do anything dramatically different that might endanger their stability. Coming from the bottom means that you don't have this problem. There is no stability or comfort to maintain.
 
-Everything can be improved when you [aren't afraid to take risks.](/why-its-so-hard-to-change/)
+Everything can be improved when [you aren't afraid to take risks](/bet-on-yourself/).
 
 ### You don't have anyone telling you how to live
 
