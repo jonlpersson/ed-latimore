@@ -26,8 +26,6 @@ These inspirational quotes in terms of this metaphor:
 
 They won’t make you a painter, but they will show you how to paint and give you a glimpse into the thought process of a person who lives an authentic life. I've collected these from various tweets and blog posts I’ve put out over the years.
 
-***\[Read: [How to be yourself](/how-to-be-your-authentic-self/)\]***
-
 ## Ed Latimore’s Authenticity Quotes
 
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
@@ -102,4 +100,4 @@ If you want to see how authentic someone is, start looking at what they \*don't\
 
 The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty. ([Tweet it](https://twitter.com/EdLatimore/status/1100587920203882496){: target="_blank" rel="noopener"})
 
-#### &nbsp;
+####
