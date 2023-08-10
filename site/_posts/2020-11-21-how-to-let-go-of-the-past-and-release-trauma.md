@@ -54,7 +54,6 @@ Everything that follows tells you exactly how to let go of the past. It doesn’
 
 > Nothing real can be threatened. Nothing unreal exists
 >
->
 > \-A Course In Miracles
 
 ## 2) Today make the decision to let go
@@ -67,7 +66,7 @@ If you want to be right, hold on to the past and all of the emotional pain that 
 
 ***However, remember rule zero: the past does not exist. What's done is done and can't be undone.***
 
-If you want to be happy, you have no choice but to decide to leave the past behind. This doesn’t mean that you’ll [be successful](/10-secrets-to-success/) on your first attempt. It just means that you no longer want to be a slave to the past.
+If you want to be happy, you have no choice but to decide to leave the past behind. This doesn’t mean that you’ll be successful on your first attempt. It just means that you no longer want to be a slave to the past.
 
 It may seem like no one in their right mind wants to be stuck in the past, but I assure you that this is not true.
 
@@ -83,7 +82,7 @@ When you’ve been trapped in the past, living in the moment is a challenge. How
 
 See, it’s not enough for me to tell you to stop focusing on the past. You also need something new in your daily life to put your mind on. If you can do that, then it becomes difficult to focus on the past, since the past and the present do not simultaneously exist for the same observer.
 
-The easiest way to focus on the present is to stay mindful of what’s going on right in front of you. [Focus on what you can control](/how-to-focus-better/) and the challenges you currently face. Become mindful of how you feel and be engaged in the act of building your future.
+The easiest way to focus on the present is to stay mindful of what’s going on right in front of you. Focus on what you can control and the challenges you currently face. Become mindful of how you feel and be engaged in the act of building your future.
 
 ***Take note of [how you breathe](/wim-hof-method-review/) because breathing is the key to mindfulness.***
 
@@ -96,7 +95,6 @@ If you focused on strengthening your current relationships and building a hopefu
 If you pay attention to the now, past events lose their grip on you. This means that you will lose your grip over them.
 
 > “Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.”
->
 >
 > ― Eckhart Tolle, The Power of Now: A Guide to Spiritual Enlightenment
 
@@ -137,7 +135,6 @@ You must also accept that no one set out to harm you specifically. They are mere
 When you internalize those two ideas, then you’re in a better position to let go of anger about the past and live in the future.
 
 > “Real forgiveness in healthy relationships is never easy. It can’t be rushed or engineered.”
->
 >
 > ― Sharon Salzberg, Real Love: The Art of Mindful Connection
 
