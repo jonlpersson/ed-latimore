@@ -11,9 +11,8 @@ categories:
   - the-inner-work
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
-  Struggling to get your life together? Discover actionable tips and strategies
-  to help you organize, improve, and transform your life for lasting success and
-  happiness.
+  Actionable tips and strategies to help you organize, improve, and transform
+  your life for lasting success and happiness.
 ---
 I used to be a sad human being.
 
