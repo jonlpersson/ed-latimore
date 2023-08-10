@@ -36,13 +36,11 @@ If you read no further than the introduction, remember the following: “Happy l
 
 Get it wrong and you’ll hate your life and wonder why none of your relationships last.
 
-{% include widgets/toc.html heading="12 pieces of relationship and dating advice for men" list-items="Understand and prepare for hypergamy, Have a life, Make sure she proves her worth, Learn from the past, Drop the fairly tale romance ideas, Check the relationship with her father, Don't date smokers, Observe her diet, Look at the quality of her friends, Learn her romantic history, Date a girl with hobbies, Don't date women with major body modifications" list-ids="1-a-man-must-become-more-than-what-he-wants, 2-outside-of dating-have-a-life-have-some-goals-know-your-priorities, 3-dont-be-afraid-to-dump-her-quick-and-early, 4-learn-from-your-experiences, 5-drop-the-fairy-tale-about-dating-and-face-reality, 6-make-sure-she-has-a-strong-relationship-with-her-father, 7-dont-seriously-date-smokers, 8-diet-discipline-corresponds-with-relationship-suitability, 9-look-at-the-quality-of-her-friends, 10-learn-her-romantic-history, 11-make-sure-she-has-some-hobbies-and-accomplishments, 12-avoid-women-with-major-physical-modifications" %}
-
 ## 1\.&nbsp; A man must become more than what he wants
 
 You have to be the type of man a woman wishes to attract. Actually, due to the effects of hypergamy, you need to be even more.
 
-What is hypergamy? Here's the definition from Wikipedia (saved you from googling it\!):
+What is hypergamy? Here's the definition from Wikipedia (saved you from googling it!):
 
 > **Hypergamy** (colloquially referred to as **"marrying up"** or **"gold-digging"**) is a term used in social science for the act or practice of a person marrying a spouse of higher caste or social status than themselves.
 
@@ -199,7 +197,7 @@ The moment you deny reality, it begins to–by definition–work against you.
 
 We live in a different world than the one our parents grew up in. The rules and expectations are different. Understanding this is the difference between confusion and anger. Understanding it is the difference between happiness and contentment.
 
-Force yourself to confront human nature so you can predict it. You must face uncomfortable truths about the world to face uncomfortable truths about yourself. Read 6 more harsh truths about reality [here](/harsh-truths/)
+Force yourself to confront human nature so you can predict it. You must face uncomfortable truths about the world to face uncomfortable truths about yourself.&nbsp;
 
 ## 6\. Make sure she has a strong relationship with her father
 
