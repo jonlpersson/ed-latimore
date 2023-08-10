@@ -46,7 +46,7 @@ The main benefits I’ve discovered from supplementing with Gorilla Dream are fa
 
 ### Fall asleep quick
 
-Gorilla Dream’s potent sleep induction blend of GABA, magnesium, melatonin, and chamomile tea extract helps you fall asleep quickly—like 30 minutes or less quick. Not only will it help you fall asleep quickly, but it also helps you stay asleep. Being able to dial in your sleep schedule to where you can get into a routine is a great way to start your day earlier so you can get more done. You can read more about how to wake up earlier [here](https://edlatimore.com/how-to-wake-up-earlier).
+Gorilla Dream’s potent sleep induction blend of GABA, magnesium, melatonin, and chamomile tea extract helps you fall asleep quickly—like 30 minutes or less quick. Not only will it help you fall asleep quickly, but it also helps you stay asleep. Dialing in your sleep schedule to where you can get into a routine is a great way to start your day earlier so you can get more done.
 
 ### Better recovery
 
