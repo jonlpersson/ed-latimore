@@ -8,8 +8,7 @@ tags:
 categories:
   - learning-skills
 image: /assets/images/thumbnails/physics-textbook-open.jpg
-description: >-
-  Here’s why you shouldn’t major in physics from someone who’s done it.
+description: Here’s why you shouldn’t major in physics from someone who’s done it.
 ---
 During the final year of my physics degree, I decided I wasn’t going to be a physicist.
 
@@ -24,7 +23,6 @@ Though I didn’t pursue a career in physics, I don’t regret my education.
 Learning physics makes you arguably smarter than the rest of the population. However, a physics degree is NOT for everyone.
 
 In this post, you’ll discover 4 reasons not to follow the physics path.
-
 
 ## What a career in physics looks like
 
@@ -48,8 +46,6 @@ Another reason I chose physics is that all of the highest-paying jobs and the jo
 
 Job examples for physics graduates include:
 
-
-
 * Patent agent
 * Quantitative analyst
 * Data scientist
@@ -59,22 +55,19 @@ Job examples for physics graduates include:
 * Software engineer
 * Systems engineer
 
-
 ## 4 Ways to tell if studying physics is a bad idea
 
 Below are four ways to tell if studying physics is a mistake.
 
-
-### 1. You hate math
+### 1\. You hate math
 
 I wouldn’t claim to be ‘good’ at math but I enjoyed it. I took calculus 4 times before I passed. When I chose physics, all I knew was that it was fascinating and required me to learn a lot of math (so much math that all physics majors automatically get a math minor).
 
-You don’t have to be a math genius to get better at math. In fact, I used to tutor other students and kids to do just that. There are fundamental math concepts that, [if you learn them](https://edlatimore.com/math-concepts/), you’ll enjoy math far more.
+You don’t have to be a math genius to get better at math. In fact, I used to tutor other students and kids to do just that. There are fundamental math concepts that, if you learn them, you’ll enjoy math far more.
 
 Math is the fundamental building blocks of physics. It’s a common language. So if spending your life using it on a daily basis sounds daunting, a physics degree may not be for you.
 
-
-### 2. You want to impress people
+### 2\. You want to impress people
 
 If no one knew you were studying physics, would you still pursue it?
 
@@ -84,8 +77,7 @@ People tend to look at physics majors in a state of awe and assume they’re int
 
 Learning physics is intellectually humbling. If you aren’t doing it because you genuinely desire it, discovering you aren’t as smart as your peers can put you in a dark place. This is important because you’re entering a field that is difficult for more than 99.7% of the population to grasp. You will always be in the company of intellectual giants. And if your field requires you to publish, like theoretical physics or academia, you’ll have to stand up to the scrutiny of others.
 
-
-### 3. You crumble at the sign of a challenge
+### 3\. You crumble at the sign of a challenge
 
 Physics courses are weed-out difficult.
 
@@ -97,12 +89,9 @@ When physics students start talking about changing their undergraduate degree, I
 
 It’s true that all professors are not gifted physics teachers but looking at your academic career this way is the same as an artist saying people don’t like my art because they don’t “get it.”
 
-Humans reach goals when we can see a path for achievement and believe that achievement is possible for you.[^1] If you believe the homework sets are beyond you, your professors don’t care, or are out to get you, you’ll likely become a self-fulfilling prophecy.
+Humans reach goals when we can see a path for achievement and believe that achievement is possible for you.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> If you believe the homework sets are beyond you, your professors don’t care, or are out to get you, you’ll likely become a self-fulfilling prophecy.
 
-Read my article on how to [get things done even when you lack motivation](https://edlatimore.com/lack-of-motivation/).
-
-
-### 4. You’re uncomfortable with its broad nature
+### 4\. You’re uncomfortable with its broad nature
 
 You’ll need creativity to apply your physics degree to your desired career path.
 
@@ -116,7 +105,6 @@ Whereas a computer engineer is obviously going to become a computer engineer, th
 
 Even in a master’s degree program, you may not have a clear path to a field you’ll enjoy. This is why it’s important to work on yourself and [get a hobby](https://edlatimore.com/hobbies-to-meet-women/). The more you know what your likes and dislikes are, the closer you are to a fulfilling career path.
 
-
 ## Final thoughts about ‘Should I study physics?'
 
 Changing a degree program is difficult because of the effects it has on the next 10-20 years of your life. If you’re smart enough and hard-working enough to do physics, your guaranteed salary is likely higher in most engineering fields.
@@ -129,4 +117,4 @@ Changing a degree program is difficult because of the effects it has on the next
 
 ### Reference:
 
-[^1]: Gollwitzer, Peter & Oettingen, Gabriele.  Motivation and Actions, Psychology of. _ResearchGate.net._(2015).10.1016/B978-0-08-097086-8.26040-6. [https://www.researchgate.net/publication/323838799_Motivation_and_Actions_Psychology_of](https://www.researchgate.net/publication/323838799_Motivation_and_Actions_Psychology_of)
+<div class="footnotes"><ol><li><p>Gollwitzer, Peter &amp; Oettingen, Gabriele. Motivation and Actions, Psychology of. <em>ResearchGate.net.</em>(2015).10.1016/B978-0-08-097086-8.26040-6. <a href="https://www.researchgate.net/publication/323838799_Motivation_and_Actions_Psychology_of">https://www.researchgate.net/publication/323838799_Motivation_and_Actions_Psychology_of</a>&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
