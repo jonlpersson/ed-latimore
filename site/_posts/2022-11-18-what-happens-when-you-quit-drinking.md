@@ -24,7 +24,7 @@ Soandso suffered a fall…
 
 People shooting their friends or family members over card games and petty arguments. And usually, they were all drunk at the time.
 
-Despite the fact that alcohol is implicated in more than 140,000 deaths per year,<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> it continues to be a cultural staple. One that people find strange if you’re NOT doing.
+Despite the fact that alcohol is implicated in more than 140,000 deaths per year,<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> it continues to be a cultural staple. One that people find strange if you’re NOT doing.
 
 And if you decide to give it up, others will still ask, “Why aren’t you drinking, bro?”
 
@@ -74,7 +74,7 @@ Alcohol is the 3rd leading cause of preventable death after tobacco and poor die
 
 Alcohol dependence also:
 
-* actively damages your brain<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+* actively damages your brain<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 * reduces liver function
 * increases your cancer risk and chances of liver disease
 * suppresses your immune system
@@ -100,7 +100,7 @@ My main friends, the ones I’ve known my entire life, the ones I had before I s
 
 People can deal with how you think as long as they see you as inferior. The moment you become their equal or better, they have to stop socializing with you.
 
-I’ve built a business where I can work from anywhere with a wifi connection and reliably make 6-figures+ using techniques I taught myself. I’m simply not the broken guy I used to be. Once I had my last drink, I started learning how I could gain confidence in other ways, learn more about those ways [here](https://edlatimore.com/how-to-build-confidence/).
+I’ve built a business where I can work from anywhere with a wifi connection and reliably make 6-figures+ using techniques I taught myself. I’m simply not the broken guy I used to be. Once I had my last drink, I started learning how I could gain confidence in other ways, learn more about those ways [here.](/resources/four-confidences/)
 
 The reasons I lost that wave of friends can be attributed to my change in status and the fact that I was no longer a loser drunk. As long as I was that drunk, they were okay with my perceived differences because, in essence, I was ‘just a drunk’ so what did I know?
 
@@ -136,4 +136,4 @@ I hope that helps. The work is up to you.
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Centers for Disease Control and Prevention (CDC). _Alcohol and Public Health: Alcohol-Related Disease Impact (ARDI). Annual Average for United States 2015-2019 <a href="https://nccd.cdc.gov/DPH_ARDI/default/default.aspx">Alcohol-Attributable Deaths Due to Excessive Alcohol Use, All Ages</a> _(accessed November 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>National Institute on Alcohol Abuse and Alcoholism. <em><a href="https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-and-brain-overview">NIAAA: Understanding the impact of alcohol on human health and well-being</a></em> (accessed November 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Centers for Disease Control and Prevention (CDC). _Alcohol and Public Health: Alcohol-Related Disease Impact (ARDI). Annual Average for United States 2015-2019 <a href="https://nccd.cdc.gov/DPH_ARDI/default/default.aspx">Alcohol-Attributable Deaths Due to Excessive Alcohol Use, All Ages</a> _(accessed November 10, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>National Institute on Alcohol Abuse and Alcoholism. <em><a href="https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-and-brain-overview">NIAAA: Understanding the impact of alcohol on human health and well-being</a></em> (accessed November 10, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
