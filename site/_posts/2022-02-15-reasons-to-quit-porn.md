@@ -101,7 +101,7 @@ Start a [hobby that forces you to be social](https://edlatimore.com/hobbies-to-m
 
 Aside from the drain of ejaculation, porn often involves sitting in dark rooms staring at bright screens exposed to blue light. You’re often viewing porn at the expense of sleep, decreasing the likelihood you’ll get the hours you need. All of this is a recipe to throw your sleep cycles and quality out of whack.
 
-Blue light affects your circadian rhythm<sup><a class="footnote" rel="footnote" href="#fn:4">6</a></sup> and prevents you from getting restful sleep. Though many use porn and masturbation as a way to fall asleep, not staring into a blue screen for hours before bed will help you fall asleep more easily. Check out how blue light blocking glasses helped me and the ones I recommend [here](https://edlatimore.com/blue-light-blocking-glasses/).
+Blue light affects your circadian rhythm<sup><a class="footnote" rel="footnote" href="#fn:4">6</a></sup> and prevents you from getting restful sleep. Though many use porn and masturbation as a way to fall asleep, not staring into a blue screen for hours before bed will help you fall asleep more easily.&nbsp;
 
 ## 9\. You won’t be paranoid when people use your devices
 
