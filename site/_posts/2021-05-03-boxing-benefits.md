@@ -30,7 +30,7 @@ Lifting makes you feel strong. **Boxing makes you feel invincible.**
 
 That confidence—the problem-solver's kind of confidence—can’t be gained any other way than learning how to fight.
 
-I've outlined other things you can do to develop killer confidence in [this article](/how-to-build-confidence/).
+[In this guide, I've outlined other things you can do to develop killer confidence.](/resources/four-confidences/)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
