@@ -54,8 +54,6 @@ It’s a matter of social status. When we act overconfident, we confer a magical
 
 This is true regardless of whether that self-confidence is justified or not. A loser who thinks he’s a king is more attractive than a king who thinks he’s a loser.
 
-***\[Read: [How to be more confident: 12 ways that work](/how-to-build-confidence/)\]***
-
 This seems paradoxical because very often, a woman’s gut reaction to overconfident guys is to think they’re jerks. However, studies show they’re more likely to climb into bed with an overconfident jerk than with a man who is realistically modest.
 
 Their sexual desire goes against their better judgment. It seems that we *can* be both repulsed and seduced by the same thing at the same time.
