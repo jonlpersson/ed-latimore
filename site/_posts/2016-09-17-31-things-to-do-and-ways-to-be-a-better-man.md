@@ -339,8 +339,6 @@ Life is the sum of infinitely many opportunities. The only way to take advantage
 
 Your life will make significant improvements if you increase your skillset and put yourself in positions where your skillset will be noticed. As another old cliché goes, the harder you work the luckier you get.
 
-I go more in-depth about how to get luckier in your life [here](/how-to-get-lucky/).
-
 ## 26\. Believe in something
 
 I have no idea if there is a higher power or not.
