@@ -3,9 +3,9 @@ date: 2021-05-26 06:00:00 -0400
 article_type: Article
 title: 5 things I learned growing up in the projects
 permalink: /the-projects/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - living-in-the-hood
 image: /assets/images/posts/housing-projects.jpg
 description: >-
@@ -136,7 +136,7 @@ Overcoming these challenges takes time, but once you beat them, you are invincib
 
 When you become successful, nobody sees the hours of hard work you put in along the way.
 
-“You’re so lucky\!” A phrase you’ll hear time and time again if you make anything of yourself.
+“You’re so lucky!” A phrase you’ll hear time and time again if you make anything of yourself.
 
 Was I lucky to get out of the ghetto? You bet I was. But, I didn’t get this luck from some divine power source.
 
@@ -146,7 +146,7 @@ Through discipline, grit, and the determination to escape the hellhole I was liv
 
 Once you get on this path of self-improvement, something funny starts to happen.
 
-**The harder you work, the luckier you get.** Read my blog post to learn more about [how to make your own luck](/how-to-get-lucky/).
+**The harder you work, the luckier you get.**&nbsp;
 
 As you become a high-value man, get more money, and stop thinking life is out to get you, things start to magically improve.
 
