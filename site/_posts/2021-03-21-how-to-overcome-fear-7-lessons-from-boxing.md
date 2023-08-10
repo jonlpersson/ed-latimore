@@ -125,7 +125,7 @@ There is only learning how to use it to your advantage or, at the very least, le
 
 Your mind is so powerful that it can vividly imagine all of the ways that fears can inflict harm on you. Once your mind has conjured up the worst possible scenario, it then works overtime to ensure that you can think of nothing but this impending doom. In many cases, your fearful thoughts have more power over you than the threat.
 
-Research gathered at the Massachusetts Institute of Technology by Earl Miller shows that people generally cannot focus on more than one thing at a time. Of course, the challenge is being able to keep your mind on the same task that generates your fear without feeling the effects of your fear. This stability (noun) can be accomplished by [focusing on the process rather than the outcome.](/how-to-focus-better/)
+Research gathered at the Massachusetts Institute of Technology by Earl Miller shows that people generally cannot focus on more than one thing at a time. Of course, the challenge is being able to keep your mind on the same task that generates your fear without feeling the effects of your fear. This stability (noun) can be accomplished by focusing on the process rather than the outcome.
 
 When fighters walk to the ring, it is a truly terrifying moment. It’s a lonely walk, having to face certain pain and possible embarrassment. Fear of these unpleasantries is amplified because there seems to be nothing else to think about besides the fight. At the very least, there is nothing else that you should be thinking about because if you don’t keep your mind on the fight, you will focus on fear instead.
 
