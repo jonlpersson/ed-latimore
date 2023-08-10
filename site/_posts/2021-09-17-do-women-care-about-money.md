@@ -20,7 +20,7 @@ As a man, if this bothers you, you’re going to have a tough time in the dating
 
 I’m going to tell you something that will help you feel better: you should care about money, too.
 
-If that doesn’t help, it’s likely you have less money than you want or need, and that bothers you. It should. Use this as a motivator to find [ways to increase your income and net worth](https://edlatimore.com/how-to-build-confidence/#7-make-more-money-to-have-more-time).
+If that doesn’t help, it’s likely you have less money than you want or need, and that bothers you. It should. Use this as a motivator to find ways to increase your income and net worth.
 
 That being said, money isn’t the only thing women care about. In fact, the reasons most women care about money have less to do with money itself and more to do with what it tells them about you.
 
@@ -46,7 +46,7 @@ It might sound counter-intuitive, but trust me on this. You’ve probably heard 
 
 Almost everyone has heard this already.
 
-It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
+It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
 
 Today, the landscape is different but the principle is the same. You eat what you kill.
 
@@ -176,4 +176,4 @@ Here are those traits again:
 
 ### References:
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Buss, David M., Shackelford, Todd K., <em>Sage Journals</em>, Published 1/1/2008, <a href="https://journals.sagepub.com/doi/10.1177/147470490800600116">https://journals.sagepub.com/doi/10.1177/147470490800600116</a>, accessed Sep 13, 2021&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Buss, David M., Shackelford, Todd K., <em>Sage Journals</em>, Published 1/1/2008, <a href="https://journals.sagepub.com/doi/10.1177/147470490800600116">https://journals.sagepub.com/doi/10.1177/147470490800600116</a>, accessed Sep 13, 2021&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
