@@ -71,7 +71,7 @@ Anything that hints at avoiding responsibility is a red flag, personal or otherw
 
 Goals and plans are powerful because they keep a guy from behaving recklessly.
 
-At the very least, they force him to act in a way that gets him closer to his goals than further away from them. That's one of my secrets to success. You can read nine more of my [secrets to success here](/10-secrets-to-success/).
+At the very least, they force him to act in a way that gets him closer to his goals than further away from them. That's one of my secrets to success.&nbsp;
 
 They don’t have to be massive, change the world type goals. They don’t even need to be altruistic, ambitious, and selfless. The goals only need to satisfy 5 criteria:
 
