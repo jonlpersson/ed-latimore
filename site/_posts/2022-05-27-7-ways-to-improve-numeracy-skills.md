@@ -3,9 +3,9 @@ date: 2022-05-27 13:33:47 -0400
 article_type: Article
 title: 7 ways to improve numeracy skills
 permalink: /numeracy-skills/
-tags: 
+tags:
   - learning-skills
-categories: 
+categories:
   - learning-skills
 description: >-
   This is bigger than just being good at math. Numbers are essential to life.
@@ -36,8 +36,6 @@ It’s useful to know approximately:
 In each of these scenarios, not only is an exact number not necessary to make plans, it’s usually impossible to get one anyway. Too many variables are out of your control to make an exact calculation possible.
 
 Still, just because we don’t need to hit the nail on the head doesn’t mean it’s ok to miss it entirely. We want to be in the general vicinity of the correct answer, even if the correct answer is effectively impossible to find. How do we do this?
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 ## Understand fractions
 
@@ -128,4 +126,4 @@ It’s a fun game that also improves my budgeting skills as well.
 6. Scrutinize media
 7. Play math games
 
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
+####
