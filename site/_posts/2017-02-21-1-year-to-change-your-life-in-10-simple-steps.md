@@ -42,8 +42,6 @@ If you want your life to look completely different in 2 years, the following hab
 
 {% include widgets/cta-email.html %}
 
-{% include widgets/toc.html heading="How to change your life in 10 months" list-items="Decide that you want better, Learn how to suffer, Visualize a better future, Avoid avoidable problems, Be more likable, Lose the entitlement, Face your fears, Always take action, Prepare for it to be difficult, Be patient" list-ids="decide-that-you-want-your-life-to-be-better, learn-how-to-suffer, use-your-imagination-to-visualize-a-successful-life, avoid-avoidable-problems, be-more-likable, lose-the-entitlement, face-your-fears, always-take-action, prepare-for-it-to-be-difficult, be-patient" %}
-
 ## Decide that you want your life to be better
 
 I’ve never met anyone who wants to change their life that hasn’t. All it takes is a decision.
@@ -72,7 +70,7 @@ Our food is plentiful, our water is potable, our homes are climate controlled, a
 
 The ease of life we have today has made people allergic to the idea of being uncomfortable.
 
-Why take up exercise to get in shape when 70% of the population is overweight? Why learn more to get paid more when Ramen noodles are $1 for a 4 pack and Netflix is $9.99 a month? [Why improve your life for better](/10-ways-to-quickly-become-a-better-person/) dating prospects when there is the low-hanging fruit of Tinder and Pornhub?
+Why take up exercise to get in shape when 70% of the population is overweight? Why learn more to get paid more when Ramen noodles are $1 for a 4 pack and Netflix is $9.99 a month? Why improve your life for better dating prospects when there is the low-hanging fruit of Tinder and Pornhub?
 
 Why build a good habit when bad habits are not only accepted but celebrated. However, if you want to improve your position in life, you have to embrace doing the hard things. The only way you'll become the best version of yourself is by going through some of the worst things that life has to offer.
 
