@@ -40,7 +40,7 @@ Writing will simply help you get where you want to be faster and easier.
 
 ## Writing makes it easier to remember good ideas
 
-This highlights another reason you should [try to be a better writer.](/how-to-write-better-and-be-a-better-writer/)&nbsp;You can use paraphrasing tool to [rephrase sentences & articles online](https://smartparaphraser.com)
+This highlights another reason you should try to be a better writer. You can use paraphrasing tool to [rephrase sentences & articles online](https://smartparaphraser.com)
 
 The average person forgets many more ideas than they ever remember. If the ideas are forgotten, then this means that the ideas can’t be used. These flashes of insight and reflection are captured for later use by writing the ideas down.
 
@@ -102,7 +102,7 @@ Write for humans. That’s it.
 
 All SEO and marketing boil down to taking advantage of what makes a person find something engaging. If you can trigger that in your writing, then you’re well on your way to having a tremendous impact and building a following.
 
-You won’t need to stuff your pieces with keywords to the point where it sounds awkward, nor will you need to dumb it down so that it’s more palatable to a wider audience. You won’t [need to focus](/how-to-focus-better/) on the hottest topics and trends, nor will you need to write about things you have no interest in simply because they’re popular topics.
+You won’t need to stuff your pieces with keywords to the point where it sounds awkward, nor will you need to dumb it down so that it’s more palatable to a wider audience. You won’t need to focus on the hottest topics and trends, nor will you need to write about things you have no interest in simply because they’re popular topics.
 
 If you write about what you care about, what you’re an expert in, or what you’re passionate about, the audience will naturally build itself around you.
 
