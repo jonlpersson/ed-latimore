@@ -58,8 +58,6 @@ This article details the simple step-by-step method I used to handle my issues w
 
 This article will take your abilities to the next level if you want to get better at math. You'll feel more confident when you solve problems with numbers.
 
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
-
 ## 1) Believe that you can get it
 
 If you're like the typical student, you don't think your brain can understand the concepts. You simply don't think you can do it.
@@ -286,7 +284,5 @@ If you work on solving problems and avoid memorizing everything but the basics, 
 The major lesson I learned from my journey is that you can learn anything given enough time.
 
 This is the general strategy I used to go from a failing math student to getting a degree in physics. I believe that you can be a great math student with similar improvement if you follow these step-by-step instructions.
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 {% include widgets/cta-email.html %}
