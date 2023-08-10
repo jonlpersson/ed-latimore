@@ -44,8 +44,6 @@ This changing world will leave behind anyone who can't manage change.
 
 There's a lot that's been written about the qualities of great leaders.
 
-***\[I have a piece about developing good leadership. [Read it here](/leadership-philosophy/)\]***
-
 However, you can go quite far if you simply avoid what Sun Tzu calls "the dangerous faults which may affect a general." Let's dive a little deeper into the five qualities of a bad leader or general:
 
 **Recklessness:&nbsp;**While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
@@ -135,7 +133,6 @@ They also aren't doing things if they're busy talking about doing things. People
 Here's another way to look at this: if someone is capable of performing a task, you'll either have heard about them, or they will show you what they've done. They will not just rely on their boasts.
 
 > Had these ni\*\*as tellin' lies, they just sound true<br>Ni\*\*a if you had it like that I would've found you
->
 >
 > \-Young Jeezy, "This one's for you"
 
