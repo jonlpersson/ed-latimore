@@ -135,7 +135,7 @@ The first test of your commitment is obtaining perspective from an outside party
 
 Self-awareness is important, but introspection will only get you halfway.
 
-Others are much better at judging us truthfully, and in self-improvement, the truth really will set you free (Read more [harsh turths of reality](/harsh-truths/)). It’s a bitter pill to swallow, but it’s necessary.
+Others are much better at judging us truthfully, and in self-improvement, the truth really will set you free. It’s a bitter pill to swallow, but it’s necessary.
 
 You’ve admitted to yourself you have a problem. Now it’s time to prove that you’re serious about fixing it.
 
@@ -211,7 +211,7 @@ If boxing didn’t work out, I didn’t want to be stuck working as a customer s
 
 It doesn’t have to be fancy, elaborate, or rare. It could entail [working on a side business](https://founderu.selz.com/side-business/) or [learning a trade](https://www.artofmanliness.com/articles/reviving-blue-collar-work-5-benefits-of-working-in-the-skilled-trades/). The specifics don’t matter, so long as you’re learning something people are willing to pay money for.
 
-Not only will you earn more cash, but [you’ll also boost your self-esteem.](/how-to-build-confidence/)
+Not only will you earn more cash, but you’ll also boost your self-esteem.
 
 You’ll finally develop the unique confidence that stems from knowing you will always be able to put food on the table and pay your bills.
 
