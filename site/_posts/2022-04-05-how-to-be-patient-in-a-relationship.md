@@ -12,7 +12,7 @@ description: >-
   differences, and master life by learning how to be patient in a relationship.
 image: /assets/images/thumbnails/ed-and-anna-in-budapest.jpeg
 ---
-A good relationship can actually help you live longer.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+A good relationship can actually help you live longer.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 But if you have a lack of patience, you’re almost always the one who loses.
 
@@ -51,8 +51,6 @@ What it will do, however, is help you build a lasting, more fulfilling relations
 I’m starting here because controlling your reactions starts with intentional self-reflection and self-improvement. Under perfect scenarios, we’re all the picture of patience. In a relationship, it’s easy to lose patience when you butt heads over a point of view, are baited into meaningless arguments, or experience an inconsiderate action.
 
 People usually become impatient when they feel like they have no control over their environment. The only way to control your emotions when all hell breaks loose in a relationship is to focus on the only thing you can control, which is yourself.
-
-Read my article on [how to stop arguing in your relationship](https://edlatimore.com/how-to-stop-arguing-in-relationships/) if you’re stuck in endless loops of bickering.
 
 There are always factors outside of yourself at play. Prioritize your own standard of a successful life and constantly make sure your relationship fits that standard. The next time the woman you’re with decides to turn a disagreement into an argument, instead of reacting emotionally, ask yourself, “How does this serve my life?”.
 
@@ -100,14 +98,14 @@ Here are some practices that can help you become a more patient person:
 * Journal your thoughts to work through past traumas and hangups
 * Practice yoga so you can recognize when emotions arise in your body and learn to let go
 * Take time out to celebrate and appreciate yourself
-* Practice meditation to help with calmness, stress relief, and decision making<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+* Practice meditation to help with calmness, stress relief, and decision making<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 * Use prayer and affirmations to train faith and belief in a purpose larger than yourself.
 
 ## Work your body to work your mind
 
 Every grown man should be in a sport or activity that trains the body.
 
-In fact, men that train experience lower stress hormones like adrenaline and cortisol.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> A reduction of these hormones can make you more patient, less fearful, and less reactive. Working out also produces neurochemicals that help you think your way through problems:
+In fact, men that train experience lower stress hormones like adrenaline and cortisol.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> A reduction of these hormones can make you more patient, less fearful, and less reactive. Working out also produces neurochemicals that help you think your way through problems:
 
 * Neurotransmitters that help your thinking
 * Endorphins that improve your mood
@@ -117,7 +115,7 @@ Exercise trains deep breathing, which is essential for patience and calmness. Th
 
 These vital seconds of clarity teach you to notice your emotions before you react to them. You will create immeasurable patience and discipline that you can carry into every other area of life.
 
-A sedentary lifestyle makes for a lazy body and mind that don’t work optimally. Men who sit down too much and aren’t active also lose testosterone.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You don’t have to become a bodybuilder overnight, and a little bit of consistency with your health care goes a long way.
+A sedentary lifestyle makes for a lazy body and mind that don’t work optimally. Men who sit down too much and aren’t active also lose testosterone.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You don’t have to become a bodybuilder overnight, and a little bit of consistency with your health care goes a long way.
 
 The key is finding a physical activity that makes you better and that you’ll actually stick with. Weight training, martial arts, and high-intensity interval training (HIIT) are great choices for any man wanting a strong body and a peaceful mind because they require you to work through stress and adversity.
 
@@ -140,4 +138,4 @@ Remember this when learning how to be patient in a relationship:
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Harvard Medical School. <em><a href="https://www.health.harvard.edu/healthbeat/strengthen-relationships-for-longer-healthier-life">Harvard Health Publishing</a>.</em> Strengthen relationships for longer, healthier life. January 18, 2011. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Sai Sun, Ziqing Yao, Jaixin Wei, and Rongjun Yu. <em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4513203/">National Library of Medicine</a></em>. Calm and smart? A selective review of meditation effects on decision making. July 24, 2015. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Harvard Health Publishing. <em><a href="https://www.health.harvard.edu/staying-healthy/exercising-to-relax">Harvard Medical School</a></em>. Exercising to relax. July 7, 2020. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Vann, Madeline R. <em><a href="https://www.everydayhealth.com/news/ways-youre-ruining-your-testosterone/">Everyday Health</a></em>. 6 Ways You&rsquo;re Ruining Your Testosterone. July 23, 2015. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Harvard Medical School. <em><a href="https://www.health.harvard.edu/healthbeat/strengthen-relationships-for-longer-healthier-life">Harvard Health Publishing</a>.</em> Strengthen relationships for longer, healthier life. January 18, 2011. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Sai Sun, Ziqing Yao, Jaixin Wei, and Rongjun Yu. <em><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4513203/">National Library of Medicine</a></em>. Calm and smart? A selective review of meditation effects on decision making. July 24, 2015. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Harvard Health Publishing. <em><a href="https://www.health.harvard.edu/staying-healthy/exercising-to-relax">Harvard Medical School</a></em>. Exercising to relax. July 7, 2020. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>Vann, Madeline R. <em><a href="https://www.everydayhealth.com/news/ways-youre-ruining-your-testosterone/">Everyday Health</a></em>. 6 Ways You’re Ruining Your Testosterone. July 23, 2015. (accessed March 28, 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li></ol></div>
