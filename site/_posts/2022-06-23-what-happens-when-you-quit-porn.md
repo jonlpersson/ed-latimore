@@ -99,7 +99,7 @@ With great focus comes great productivity. Sexual dysfunction isn’t the only w
 
 Things that are easy to access like social apps, games, or internet porn are easy to turn to for random distractions. The problem with this is a few seconds turn into a few hours and now you’re playing catch up.
 
-Plus, a side effect of constantly viewing porn is that you use it as a coping mechanism for boredom or confusion. When you don’t have porn hijacking your daily life, you can fill that time with [activities that actually matter.](https://edlatimore.com/how-to-build-confidence/)
+Plus, a side effect of constantly viewing porn is that you use it as a coping mechanism for boredom or confusion. When you don’t have porn hijacking your daily life, you can fill that time with activities that actually matter.
 
 {% include widgets/summary.html id="Dick-Detox" %}
 
