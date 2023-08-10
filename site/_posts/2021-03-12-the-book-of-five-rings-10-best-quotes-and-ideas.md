@@ -44,7 +44,7 @@ Musashi speaks often in The Book of Five Rings about the problem with favoring o
 
 When you rely on one weapon, you haven’t embraced strategy. You’ve only embraced the tactics that allow you to demonstrate skill with that particular weapon in a relatively limited surrounding.
 
-Applied modernly, watch out for people who claim to have a deep general understanding, but they only have shallow specific skills or—even worse—[temporarily visiting luck](/how-to-get-lucky/). We see this in a few commercial spaces on the internet. For example:
+Applied modernly, watch out for people who claim to have a deep general understanding, but they only have shallow specific skills or—even worse—temporarily visiting luck. We see this in a few commercial spaces on the internet. For example:
 
 * Someone makes money online with one product. Now they market themselves as an entrepreneur teaching you entrepreneurship.
 * Someone got laid a few times in college at a frat party. Now they market themselves as [a dating coach teaching you how to get laid.](/relationship-advice/)
