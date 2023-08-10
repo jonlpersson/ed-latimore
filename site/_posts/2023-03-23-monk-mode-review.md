@@ -54,7 +54,7 @@ Other benefits of Monk Mode include:
 
 * Ability to focus for a longer period of time
 * Improved mental health because you have fewer distractions and are able to make tangible life improvements
-* Improved physical health because you break your addictions to [porn](https://edlatimore.com/resources/dick-detox/), [video games](https://edlatimore.com/gaming-addiction/), or [alcohol](https://edlatimore.com/how-to-stop-drinking-on-your-own/)
+* Improved physical health because you break your addictions to [porn](https://edlatimore.com/resources/dick-detox/), video games, or [alcohol](https://edlatimore.com/how-to-stop-drinking-on-your-own/)
 
 There are 5 pillars of a good Monk Mode plan that are non-negotiables:
 
