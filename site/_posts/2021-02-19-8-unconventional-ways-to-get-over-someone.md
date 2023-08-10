@@ -46,14 +46,14 @@ In the presence of danger, we prepare ourselves to fight.
 
 The study participants experienced a sudden response of their nervous system. What does this mean?
 
-&nbsp;
+
 
 * The vagus nerve sends a signal to the heart and stomach.
 * The butterflies we feel in our gut are the contractions of our digestive muscles.
 * Our airways constrict, making it harder to breathe.
 * Our heart rate slows down so much that it*literally*feels like our heart is breaking.
 
-&nbsp;
+
 
 The more unexpected the dumping, the more severe this reaction is, and the greater the physical pain.
 
@@ -69,7 +69,7 @@ Maybe you're still experiencing the regret of breaking up with someone, and are 
 
 Whatever the reason is for you being here, these 7 post-breakup tips will help you move on.
 
-&nbsp;
+
 
 ## 1\. Leave with dignity
 
@@ -151,7 +151,7 @@ Jewelry, games, pictures, clothing, underwear, and the like; put all that shit i
 
 Either way, you have to systematically remove any reminder of the person from your life until you're able to deal with them without the intense, parasympathetic reaction.
 
-Controlling your environment is one of the keys to getting unstuck in life and also applies in this situation, check that blog out [here](https://edlatimore.com/how-to-get-unstuck-in-life/).
+Controlling your environment is one of the keys to getting unstuck in life and also applies in this situation.
 
 ## 5\. Don't have sex with your ex
 
@@ -275,11 +275,11 @@ When you’re ready to move on, don’t put off making plans. You won’t regret
 
 If you’re still thinking about him or her, try talking to someone else. This could be a friend or family member who knows what you’re going through. Or maybe you can talk to a professional therapist. Whatever works best for you.
 
-&nbsp;
+
 
 ## Recap of how to get over someone and move on from a breakup
 
-&nbsp;
+
 
 * Break up with dignity
 * Talk to people
@@ -292,7 +292,7 @@ If you’re still thinking about him or her, try talking to someone else. This c
 * Give your broken heart the amount of time it needs to heal
 * Don't let a breakup determine your self-worth
 
-&nbsp;
+
 
 I'm not a relationship expert, but my philosophy on getting over someone—and I've got more experience than I'd like to admit on both ends of the spectrum—has served me and others well.
 
