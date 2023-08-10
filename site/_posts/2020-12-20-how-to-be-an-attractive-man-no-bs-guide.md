@@ -236,7 +236,7 @@ If you can afford it, it’s better to pay more for high-quality products—they
 
 ![Ed Latimore wearing a dress shirt](/assets/images/posts/2020/ed-wearing-liberty.jpg "Muscular and lean guys can show off their bodies with athletic-fit clothes from State and Liberty.")
 
-If you’ve got an athletic build like me, I recommend [State and Liberty](https://stateandliberty.com/?rfsn=4641457.42a09&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=4641457.42a09) (use my discount code, EDWARDLATIMORE, for 10% off).
+If you’ve got an athletic build like me, I recommend [Tapered Menswear](https://taperedmenswear.com?ref=12).
 
 ### Style don’ts
 
@@ -444,7 +444,7 @@ Women are attracted to men who are confident. They love an alpha male who will t
 
 Learn how to hold eye contact, strike up conversations, and be assertive. Once you do that and stop second-guessing yourself, you’ll appear a lot more attractive to women.
 
-If you struggle with self-confidence, I have written a very actionable article for you, talking about the root causes of self-confidence and how to attain it. Check out my article on [how to build self-confidence](https://edlatimore.com/how-to-build-confidence/).
+If you struggle with self-confidence, I have written a very actionable guide for you, talking about the root causes of self-confidence and how to attain it. Check out [The Four Confidences.](/resources/four-confidences/)
 
 ![Ed Latimore singing karaoke](/assets/images/posts/ed-doing-karaoke.jpg "Once you're confident in yourself you'll have no problem serenading your girl during karaoke night.")
 
