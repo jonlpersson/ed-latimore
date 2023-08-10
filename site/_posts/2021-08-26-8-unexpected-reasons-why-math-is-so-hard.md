@@ -29,7 +29,7 @@ The following is a list of reasons [why students typically think that math is so
 
 Because everyone who’s taken a math class before you and struggled, you think this will be your fate as well.
 
-This can be especially crippling for students with [low self-esteem and self-confidence](/how-to-build-confidence/). Either they hear it from students they think are brighter than them or they hear it from students they feel marginally superior to but still place themselves in the same general category of ability.
+This can be especially crippling for students with low self-esteem and self-confidence. Either they hear it from students they think are brighter than them or they hear it from students they feel marginally superior to but still place themselves in the same general category of ability.
 
 ## Math is terribly taught
 
@@ -40,8 +40,6 @@ They had merely been teaching kids to memorize this. This means that they themse
 Most basic math teachers (especially the type of teachers you have in elementary school and middle school) were not mathematics majors. Instead, [they got a teaching degree, took some continuing education to specialize in teaching math](https://www.alleducationschools.com/teaching-degrees/elementary-education/){: target="_blank" rel="noopener noreferrer"}, and got placed into the position of teaching math.
 
 While teaching is a skill and all educators are valuable, there are a lot of teachers ruining the hopes of their students ever understanding math concepts because they didn’t study them before teaching.&nbsp;
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 ## You believe the myth of a “math person”
 
@@ -117,5 +115,3 @@ Math skills are just a tool to make your life a little easier. Calculators just 
 If you see yourself on this list, now you know why math seems so hard, and you can do something about it.
 
 The rest is up to you.&nbsp;
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
