@@ -81,7 +81,7 @@ Consider wisely.
 
 {% twitter https://twitter.com/EdLatimore/status/1238056132716965888 %}
 
-This isn't about your ability to move weight or your actual ability to defend yourself. This is about not looking like you're not a soft target. This deters \*a lot\* of bullshit. [So lift](/life-lessons-from-gym/), walk with your head up, have strong body language, and never ever look lost or distracted.
+This isn't about your ability to move weight or your actual ability to defend yourself. This is about not looking like you're not a soft target. This deters \*a lot\* of bullshit. So lift, walk with your head up, have strong body language, and never ever look lost or distracted.
 
 If you are confronted, speak strongly as well. Notice I said strongly, not condescendingly. Please learn the difference in tone. It's the difference between dudes thinking twice and them escalating because you pissed them off
 
