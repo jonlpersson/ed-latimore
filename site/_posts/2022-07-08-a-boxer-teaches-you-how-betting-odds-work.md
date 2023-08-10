@@ -63,8 +63,6 @@ Speculative risk and reward scale *at least* directly, but often asymmetrically.
 
 Lottery and sweepstakes are perfect examples of how asymetrical some risk can be.
 
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
-
 ## How to Read Betting Odds
 
 Understanding how the odds are displayed is fairly simple. The math isn't too complicated. Because I’m an American and have only been into American betting establishments, we’re going to focus on American odds in this post.
@@ -133,5 +131,3 @@ That type of answer annoys a basic sports bettor who is just trying to get you t
 If we apply this type of ["thinking in bets"](/annie-duke-thinking-in-bets-quotes/) to our daily decisions, we would immediately notice a big change: we’re deliberate in our thinking because we view the outcome as an assessment of risk that we are impassionately calculating rather than a bet that we attach to our ego.
 
 Now that you can better understand how to read betting odds, you have another tool for understanding and assessing the world.
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
