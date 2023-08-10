@@ -14,7 +14,7 @@ image: /assets/images/posts/tao-te-ching-notes-1.png
 ---
 The main idea of the Tao Te Ching (also known as Dao De Jing) is to live in harmony and peace. No matter what your craft, vocation, or lifestyle, the wisdom from this 6th century BC Chinese classic can be applied to help you live a life in sync with the universe. This makes sense, as this book and the Zhuangzi are considered the fundamental texts of philosophical and religious Taoism.
 
-Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; d&agrave;o means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
+Taoism is the idea that everything in the world stems from the “Tao”. Tao (道; dào means "**way**", but can also be interpreted as road, channel, path, doctrine, or line. All of these interpretations carry the same meaning:
 
 The combination of yin and yang principles and signifying the way, or code of behavior, is in harmony with the natural order. The interpretation of Tao in the Tao te Ching developed into the philosophical religion of Taoism.
 
@@ -38,7 +38,7 @@ When nothing disturbs your emotional center, this is true power.
 > 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
 > 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.<br>​​​​
 
-#### &nbsp;
+####
 
 ## **Tao Te Ching Quotes on wisdom**
 
@@ -52,7 +52,7 @@ In this way, ordinary people can develop extraordinary wisdom as a result of sim
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
-&nbsp;
+
 
 ## **Tao Te Ching Quotes on self-improvement**
 
@@ -71,12 +71,10 @@ It doesn’t mean you're the best in the whole world. It only means that you’v
 
 It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes were an interesting complement to some of the ideas I’d read on leadership in [The Art of War](/art-of-war-quotes-and-summary/) and [The Hagakure](/hagakure-quotes/).
 
-Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and [leadership qualities](/leadership-philosophy/). There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
+Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and leadership qualities. There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
 
 > 1. The best leader is one whose existence is barely known. Next best is one who is loved and praised. After that, one who is feared. Worst of all is a leader who is despised.
 > 2. If you fail to trust people, you won’t inspire their trust.
 > 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
 > 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
-
-&nbsp;
