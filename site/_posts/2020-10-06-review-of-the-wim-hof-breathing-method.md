@@ -192,7 +192,7 @@ In fighting, we call this “turning down the noise”. It takes a little practi
 
 And when you master the breathwork that is taught in the Wim Hof’s course, you realize that the cold can do amazing things for your body’s ability to heal itself. You will no longer feel apprehensive toward it because you’re in control of your body’s shivering response.
 
-Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure. This also helps with concetration, and if you're struggling with that grab more concentration quick tips [here](/how-to-focus-better/).
+Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure.&nbsp;
 
 ## Conclusion
 
