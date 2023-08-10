@@ -20,7 +20,7 @@ People aren’t getting any smarter. Wisdom gained the hard way needs to be shar
 
 The term “tough love” makes a lot of people cringe.
 
-They picture imagine being assaulted with ultimatums, demands, and heartless direction. While quality advice does often force you to pick between two paths and this choice is motivated with tough love, many people go about it the wrong way. Both family and friends [dish out the truth so harshly](/harsh-truths/) that people dread it for the rest of their lives.
+They picture imagine being assaulted with ultimatums, demands, and heartless direction. While quality advice does often force you to pick between two paths and this choice is motivated with tough love, many people go about it the wrong way. Both family and friends dish out the truth so harshly that people dread it for the rest of their lives.
 
 It doesn’t have to be that way.
 
