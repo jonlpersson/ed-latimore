@@ -50,7 +50,7 @@ A sign of maturity is the ability to suffer embarrassment without having an emba
 
 Embarrassment is an interesting emotion. Many things that make us feel embarrassed aren’t even noticed by other people. They may laugh at our misfortune, but it’s only when you’re worried about what other people think that you can suffer from embarrassment.
 
-As you mature, you stop worrying about what everyone thinks and you [focus on yourself](/how-to-focus-better/). This keeps you from falling victim to the oppressive forces of peer pressure and feeling like a failure when you fail to meet them.
+As you mature, you stop worrying about what everyone thinks and you focus on yourself. This keeps you from falling victim to the oppressive forces of peer pressure and feeling like a failure when you fail to meet them.
 
 If you can learn to laugh at yourself, then you won't ever worry if other people are laughing at you.
 
@@ -94,7 +94,7 @@ It takes tremendous emotional and mental maturity to start a tough conversation,
 
 All growth is the result of initial discomfort. You can accelerate your personal growth by anticipating and leaning into it.
 
-This level of maturity will always make you a valuable person and put you in [a position to lead](/leadership-philosophy/). The world is sorely lacking when it comes to finding people who are willing to lead from the front and never pass off blame to those in the back. We demand maturity from our leaders for this very reason.
+This level of maturity will always make you a valuable person and put you in a position to lead. The world is sorely lacking when it comes to finding people who are willing to lead from the front and never pass off blame to those in the back. We demand maturity from our leaders for this very reason.
 
 Immature leaders only take responsibility when things go well and shift the blame when they don't. The mature leader gives credit to everyone else when things go well and shoulder the blame if it all goes to hell.
 
