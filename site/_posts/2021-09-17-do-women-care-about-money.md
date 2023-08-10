@@ -152,7 +152,7 @@ And it can cause stress if you're looking for a potential mate and not simply a 
 Here are few tips to help you out if your paper is a little tight:
 
 * Learn a new skill to increase your income potential. This will also improve your status, ambition, and personal growth
-* [Work on your confidence.](https://edlatimore.com/how-to-build-confidence/) Lacking funds can make you think less of yourself and ruin your confidence which is the fastest way to turn off the majority of women. When you work on yourself you build up your attractiveness and additionally, your confidence.
+* [Work on your confidence.](/resources/four-confidences/) Lacking funds can make you think less of yourself and ruin your confidence which is the fastest way to turn off the majority of women. When you work on yourself you build up your attractiveness and additionally, your confidence.
 * Take on a new hobby or interest. This will make you more interesting and put you in a position to meet single women.
 * Always be improving - Work on your personal style, your conversation, your mindset, etc. You'll signal the growth, security, ambition, and potential women value when you're always improving.
 
