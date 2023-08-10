@@ -137,8 +137,6 @@ The key is understanding that mental health IS physical health; the two cannot b
 
 Your sobriety shouldn’t be defined by what you no longer do but by what you’re currently doing to make yourself healthier, stronger, and more confident.
 
-***\[[Learn more about the alcohol detox diet here.](/the-alcohol-detox-diet/)\]***
-
 ## Motivational quotes from "6 steps to quit drinking on your own"
 
 I admitted that I was an alcoholic, that I was scared, and that I needed to make a change. If I couldn’t first accept this, then there was no chance I would ever fix it.
