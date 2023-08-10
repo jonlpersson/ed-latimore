@@ -3,9 +3,9 @@ date: 2021-03-07 09:17:00 -0500
 article_type: Article
 title: The easy 4 step problem-solving process (+ examples)
 permalink: /problem-solving-process/
-tags: 
+tags:
   - learning-skills
-categories: 
+categories:
   - learning-skills
 description: >-
   This is the 4 step problem-solving process that I taught to my students for
@@ -21,8 +21,7 @@ Every problem may be different, but effective problem solving asks the same four
 
 When I used to tutor kids in [math and physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), I would drill this problem-solving process into their heads. This methodology works for any problem, regardless of its complexity or difficulty. In fact, if you look at the various advances in society, you'll see they all follow some variation of this problem-solving technique.
 
-> “The gap between understanding and misunderstanding can best be bridged by thought\!”
->
+> “The gap between understanding and misunderstanding can best be bridged by thought!”
 >
 > ― Ernest Agyemang Yeboah
 
@@ -68,7 +67,7 @@ Word problems are not always clear about what needs to be solved. They also have
 
 ![solving simple trig problem](/assets/images/posts/2021/solvingsimpletrigproblem-1.png "solving simple trig problem"){: width="800" height="489"}
 
-**A radio station tower was built in two sections. From a point 87 feet from the base of the tower, the angle of elevation of the top of the first section is 25&ordm;, and the angle of elevation of the top of the second section is 40&ordm;. To the nearest foot, what is the height of the top section of the tower?**
+**A radio station tower was built in two sections. From a point 87 feet from the base of the tower, the angle of elevation of the top of the first section is 25º, and the angle of elevation of the top of the second section is 40º. To the nearest foot, what is the height of the top section of the tower?**
 
 ![solving complex trig problem](/assets/images/posts/2021/solvingcomplextrigproblem-1.jpg "solving complex trig problem"){: width="640" height="400"}
 
@@ -77,8 +76,6 @@ The first is a simple problem. The second is a complex problem. The end goal in 
 The questions require the same knowledge (trigonometric functions), but the second is more difficult for students. Why? The second problem does not make it clear what the exact problem is. Before mathematics can even begin, you must know the problem, or else you risk solving the wrong one.
 
 If you understand the problem, finding the solution is much easier. Understanding this, ironically, is the biggest problem for people.
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 ### Problem-solving is a universal language
 
@@ -181,5 +178,3 @@ Learning is simply problem-solving. You'll learn faster if you view it this way.
 What was once complicated will become simple.
 
 What was once convoluted will become clear.
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
