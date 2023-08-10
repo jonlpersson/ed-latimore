@@ -259,25 +259,6 @@ page_blocks:
       them)](/absent-fathers/)***
 
 
-      ### 6 harsh truths your parents never told you
-
-
-      One of the unintended perks of growing up in a dysfunctional family is
-      that you never have to worry about your parents misleading you. You
-      eventually realize that everything they tell you is either lies, nonsense,
-      or excuses so you learn to take none of it seriously.
-
-
-      This is obviously not the case for everyone. There are some harsh truths
-      about the world that your parents didn’t tell you that are essential to
-      know. However, I suppose I wasn't much better off because not knowing and
-      never being told resulted in the same outcome.
-
-
-      ***Read&nbsp;[6 harsh truths your parents never told
-      you](/harsh-truths/)***
-
-
       ### How to forgive your parents
 
 
@@ -378,8 +359,5 @@ page_blocks:
 
       ***Read [Lessons from the ghetto: willingness to
       fight](/lessons-from-the-ghetto-willingness-to-fight/)***
-
-
-      &nbsp;
   - _id: posts_relevant
 ---
