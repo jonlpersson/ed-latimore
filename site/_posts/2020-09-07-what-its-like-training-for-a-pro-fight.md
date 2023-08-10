@@ -153,7 +153,7 @@ See, a big challenge in fighting is switching from attacking non-aggressive stat
 
 In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute better in the fight.
 
-[This builds confidence](/how-to-build-confidence/), which is perhaps the most important part of fighting.
+[This builds confidence,](/resources/four-confidences/) which is perhaps the most important part of fighting.
 
 Without the proper mindset, then your physical conditioning is irrelevant. However, the most focused fighter can still have his willpower and courage tested. This is why emotional strength is also important to develop.
 
