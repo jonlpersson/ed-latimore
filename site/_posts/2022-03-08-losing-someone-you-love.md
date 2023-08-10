@@ -66,7 +66,7 @@ While someone is alive and thriving, we put off spending quality time and seeing
 
 But the truth is, death is a part of life. And later might never come.
 
-Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Basically, you start going through the early stages of grief in anticipation of the loss.
+Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Basically, you start going through the early stages of grief in anticipation of the loss.
 
 Though it’s natural to feel, it steals your mind away from the present moment and the fact that you still have time to spend with your loved one.
 
@@ -88,7 +88,7 @@ Don’t wait around for it to be over before you resume your life. Grief doesn�
 
 When I lost my dad at 18, grief was a slow process. I was fine for several months then all of a sudden I was sobbing in a conversation about him.
 
-Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
+Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
 
 Grief manifests in many forms with everyone having a different grief experience. Mental and physical symptoms of grieving include:
 
@@ -103,7 +103,7 @@ Grief manifests in many forms with everyone having a different grief experience.
 
 ## Recognize if you're not dealing with it
 
-There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
+There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
 
 Complicated grief is a sign that you are not coping with reality. Though many experience intense sadness during grief, depression is actually a sign that you are not coping well. For others, you may feel completely detached from a loss then have an explosion that is out of character for you.
 
@@ -139,12 +139,10 @@ If you’re struggling with losing someone you love and don’t know what to do,
 5. Don’t wait around for grief to be over
 6. Know the signs that you’re not coping and seek help
 
-Losing a loved one can leave you feeling down, here are [6 ways to cheer yourself up.](https://edlatimore.com/how-to-cheer-yourself-up/)
-
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Eldridge, Lynne MD Medically reviewed by Adjoa Smalls-Mantey, MD, DPhil. <em>VeryWell Health: _How Anticipatory Grief Differs From Grief After Death</em>. _Updated on November 05, 2021 <a href="https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855">https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Hairston, Stephanie. Medically Reviewed by Neha Pathak, MD.<em>WebMD:</em> How Grief Shows Up In Your Body. July 11, 2019 <a href="https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind">https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>June 19, 2021: Mayo Clinic Staff; Mayo Clinic: Complicated Grief <a href="https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374">https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374</a> (accessed March 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Eldridge, Lynne MD Medically reviewed by Adjoa Smalls-Mantey, MD, DPhil. <em>VeryWell Health: _How Anticipatory Grief Differs From Grief After Death</em>. _Updated on November 05, 2021 <a href="https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855">https://www.verywellhealth.com/understanding-anticipatory-grief-and-symptoms-2248855</a>&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Hairston, Stephanie. Medically Reviewed by Neha Pathak, MD.<em>WebMD:</em> How Grief Shows Up In Your Body. July 11, 2019 <a href="https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind">https://www.webmd.com/special-reports/grief-stages/20190711/how-grief-affects-your-body-and-mind</a>&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>June 19, 2021: Mayo Clinic Staff; Mayo Clinic: Complicated Grief <a href="https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374">https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374</a> (accessed March 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
