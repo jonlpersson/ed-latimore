@@ -94,15 +94,13 @@ Almost all commercial flights use autopilot for landing. The computer needs a fo
 
 Limits form the foundation of calculus and help us predict an unknown number to a reasonable level of closeness—best speed for the airplane at any moment as it approaches the airport. Otherwise, the computer would be left to guess (since it can't go by feel or sight) and that would be disastrous.
 
-#### [Check out the rest of my articles about math](/math-concepts/)
-
 ### **How derivatives work**
 
 From now on, every time you hear the word "derivative", I want you to replace it with "change." From now on, whenever you see the derivative notation , think "division of a quantity." This is not entirely precise, but it's precise enough to be useful and help you think about calclus in a useful manner.
 
 And more importantly, it's accurate. The definition of derivate is "**the rate of change of a function with respect to a variable**."
 
-![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/accuratederivative-notation.webp "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)"){: width="400" height="400"}
+![The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; (the output) with respect to the change in &quot;x&quot; (the input)](/assets/images/posts/accuratederivative-notation.webp "The &quot;d&quot; stands for &quot;derivate, which just means &quot;change&quot;. So the change in &quot;y&quot; &#40;the output&#41; with respect to the change in &quot;x&quot; &#40;the input&#41;"){: width="400" height="400"}
 
 "Derivatives measure the slope of a curve at a given point, called a tangent line." This is all many of us are told, but what does that mean?
 
@@ -179,8 +177,6 @@ And because theories can muddy the practicality of a tool, you need to seek help
 
 …which brings us to the next point.
 
-#### [Check out the rest of my articles about math](/math-concepts/)
-
 ## Repeat, repeat, repeat
 
 Math is not a subject you can coast on learning through listening. You need hands-on work to grasp the important concepts and usefulness. Now, you probably won’t be using trigonometric identities or differential equations on a regular basis in life. But learning to work through these concepts can teach you about yourself.
@@ -224,4 +220,4 @@ I hope that helps.
 
 The rest is up to you.
 
-#### [Check out the rest of my articles about math](/math-concepts/)
+####
