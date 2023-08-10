@@ -46,8 +46,6 @@ Here is a list of things you must practice and skills you need to develop to giv
 
 While physics demands that you generally have high numerical literacy, there are some specific mathematical ideas that you will see so often that it’s important that you make sure you master them. The following is a list of the most frequently used math ideas in basic physics.
 
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
-
 ### Trigonometry
 
 You should be very comfortable taking an angle's sine, cosine, and tangent. You’ll need this in both mechanics and electromagnetics. You’ll primarily use this to figure out the sum of force vectors and the angle at which they point.
@@ -210,7 +208,5 @@ Physics is not something you do in your head. It’s something you experience da
 7. Draw what you can't easily visualize
 
 If you follow these steps, you should have no problem being able to study and learn physics.
-
-#### [Check my other articles about math](https://edlatimore.com/math-concepts)
 
 {% include widgets/cta-email.html %}
