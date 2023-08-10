@@ -74,7 +74,7 @@ You don’t get to come up with excuses and reasons why your life is the way it 
 
 This level of control scares most people because this level of control comes with personal responsibility. This is ultimately what betting on yourself comes down to—absolute control over your destiny. I’m convinced that you can’t discover your purpose until you take the responsibility necessary to bet on yourself. Until then, you’ll just be adrift.
 
-People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world. Find out 6 more harsh truths your parents never told you [here](https://edlatimore.com/harsh-truths/).
+People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world.&nbsp;
 
 ## 6) It's the only way to get information from your intuition
 
