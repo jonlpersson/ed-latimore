@@ -48,8 +48,6 @@ Programming languages are nothing more than the instructions for computers, writ
 
 This is why it can be so frustrating to spend hours writing code for a program or website that won’t work, only to find that it was so seemingly minuscule as a missed colon, extra space, or wrong case that kept everything from working.
 
-#### [Check out the rest of my articles about mathematics](https://edlatimore.com/math-concepts)
-
 ## Teaches the value of the process
 
 Math is objective and you have to prove why it works.
@@ -90,7 +88,7 @@ Technology development and data analysis are fields of hands-on applied mathemat
 
 Math is based on logic.
 
-The word “math” is derived from the Greek word “m&aacute;thēma” meaning “knowledge, study, learning.”
+The word “math” is derived from the Greek word “máthēma” meaning “knowledge, study, learning.”
 
 Math forces you to think deeply about what you see and develop adequate language to explain it. You have to make sure that your reasoning is sharp enough to not only articulate what you know but to frame it so that a person could follow what you’re saying and repeat what you’ve done. That’s the type of clarity that is demanded in mathematics.
 
@@ -162,7 +160,7 @@ You begin to understand that the world is more probabilistic than deterministic,
 
 As technology has revolutionized different industries, it has improved educational standards as well. Students now have online ways to learn and practice math problems.
 
-[Calculatores](https://calculatores.com/) provides a ton of online calculators that can help you learn math and practice online.
+[Calculators](https://calculatores.com/) provides a ton of online calculators that can help you learn math and practice online.
 
 ## A recap of the 12 reasons why math is important
 
@@ -178,5 +176,3 @@ As technology has revolutionized different industries, it has improved education
 10. The future is mathematical
 11. Learning math makes you better at everything else
 12. Math helps you to navigate uncertainty
-
-#### [Check out the rest of my math articles&nbsp;](https://edlatimore.com/math-concepts)
