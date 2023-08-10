@@ -76,7 +76,7 @@ Regardless of its type, duration or severity, gratitude works because it forces 
 
 No two things can occupy the same space at the same time. Your thoughts, though you are unable to physically interact with them, are not exempt from this rule.
 
-Whenever you think that you're holding many thoughts simultaneously, all you're doing is [quickly switching your focus between them](/how-to-focus-better/). Gratitude practice relies on the fact that you can't hold more than one thought at a time in your mind.
+Whenever you think that you're holding many thoughts simultaneously, all you're doing is quickly switching your focus between them. Gratitude practice relies on the fact that you can't hold more than one thought at a time in your mind.
 
 If you think about something good, it’s impossible to think about the bad. When you focus on your blessings, it's impossible to dwell on your misfortunes. When you're busy expressing gratitude, it's impossible to feel pity for yourself.
 
