@@ -136,23 +136,6 @@ page_blocks:
       [**Hard work beats talent**](/hard-work-beats-talent/)
 
 
-      ## Beauty is boredom
-
-
-      You won't become good at something until you're practicing it to
-      boredom–and then keep practicing. No one becomes talented if they only
-      practice when motivated or excited–because most practice is boring.
-
-
-      This is a feature to weed people out. Not a bug.
-
-
-      Read this article to learn how to focus, even if you’re bored:
-
-
-      **[How to focus better](/how-to-focus-better/)**
-
-
       ## Control your emotions
 
 
