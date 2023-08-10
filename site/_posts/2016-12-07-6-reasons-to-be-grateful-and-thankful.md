@@ -58,7 +58,7 @@ It just makes it so that you can see that none of this is personal.
 
 Back to the analogy. Now, if your eyes have already been damaged by looking at the beam of light, then looking away from it won’t undo the damage you've sustained. Looking away won’t make it heal faster. It won’t even reduce the pain.
 
-But what looking away does is it allows you to [focus on the parts of you that are still alright](/do-what-makes-you-happy/). You're able to see, even with damaged eyesight, that the rest of your body is ok. Furthermore, it's just a beam of light. As you look away, you may feel the heat on your neck, but the rest of your body is fine.
+But what looking away does is it allows you to focus on the parts of you that are still alright. You're able to see, even with damaged eyesight, that the rest of your body is ok. Furthermore, it's just a beam of light. As you look away, you may feel the heat on your neck, but the rest of your body is fine.
 
 You're able to look around and see that things are, for the most part fine. You are grateful because, in this moment, you realize that things could be worse.
 
@@ -119,7 +119,6 @@ You aren’t promised eye-sight any more than you're promised a hot meal or a pl
 ## 6\. Gratefulness and thankfulness make you a creator in your life
 
 > Give thanks in all circumstances; for this is God’s will for you in Christ Jesus.
->
 >
 > Thessalonians 5:18
 
