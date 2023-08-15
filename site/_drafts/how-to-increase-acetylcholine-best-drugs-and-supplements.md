@@ -10,3 +10,10 @@ description: >-
   enhanced learning and focus. 
 image: /assets/images/drafts/qbs-psychology-human-brain-activities-featured-1.webp
 ---
+As a professional boxer, I'm always looking for any advantage that I can get—especially since, as of the time of this writing, I'm less than 18 months away from my 40th birthday.
+
+In the fight against Father Time, no one is undefeated. And because of the rules of World Anti-Doping Agency (WADA) that govern the sport of boxing, there are many substances that would give me an edge and are not criminally illegal, but they are forbidden for competitive athletes.
+
+As a result, I've devoted a significant amount of time and energy to researching ways to beat the competition without breaking the rules. Most athletes are focused on increasing their testosterone, muscle mass, breathing, or decreasing their recovery time.
+
+However, one of the most overlooked ways to gain an advantage is to increase quickly you think, process, learn, and react. Enter acteylcholine.&nbsp;
