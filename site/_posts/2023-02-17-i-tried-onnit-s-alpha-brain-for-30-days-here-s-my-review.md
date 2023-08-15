@@ -1,6 +1,6 @@
 ---
 date: 2023-02-17 00:00:00 -0500
-article_type: Article
+article_type: Review
 title: Alpha Brain Review by Chess Player - Does it really work?
 permalink: /alpha-brain-review/
 tags:
