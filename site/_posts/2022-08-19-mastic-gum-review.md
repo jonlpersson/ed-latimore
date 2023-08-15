@@ -3,9 +3,9 @@ date: 2022-08-19 09:00:00 -0400
 article_type: Review
 title: I tried mastic gum. Here’s my honest review
 permalink: /mastic-gum-review/
-tags: 
+tags:
   - how-to-be-a-hot-guy
-categories: 
+categories:
   - how-to-be-a-hot-guy
 description: >-
   Want to develop a more masculine, attractive face? Read my review on Greek
@@ -37,7 +37,7 @@ I use mastic gum in the chewable resin pieces but as a dietary supplement, you c
 
 ## Other uses and health benefits of mastic gum
 
-Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
+Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
 
 Mastic gum has been found to help with:
 
@@ -61,7 +61,7 @@ The following are a few pros that I found chewing mastic gum:
 
 **It works**
 
-If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women.](/how-to-become-more-physically-attractive-to-women/) Women are by and large attracted to male physiques that cue strength.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> A strong jawline is a marker of health and physical strength.
+If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women.](/how-to-become-more-physically-attractive-to-women/) Women are by and large attracted to male physiques that cue strength.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> A strong jawline is a marker of health and physical strength.
 
 **It’s discrete**
 
@@ -131,4 +131,4 @@ If you’d like to give it a try, use my link for Greco Gum [here](https://www.g
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Soulaidopoulos, S., Tsiogka, A., Chrysohoou, C., Lazarou, E., Aznaouridis, K., Doundoulakis, I., Tyrovola, D., Tousoulis, D., Tsioufis, K., Vlachopoulos, C., &amp; Lazaros, G. (2022). Overview of Chios Mastic Gum (Pistacia lentiscus) Effects on Human Health. Nutrients, 14(3), 590. <a href="https://doi.org/10.3390/nu14030590">https://doi.org/10.3390/nu14030590</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017. Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 <a href="https://doi.org/10.1098/rspb.2017.1819">https://doi.org/10.1098/rspb.2017.1819</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Soulaidopoulos, S., Tsiogka, A., Chrysohoou, C., Lazarou, E., Aznaouridis, K., Doundoulakis, I., Tyrovola, D., Tousoulis, D., Tsioufis, K., Vlachopoulos, C., &amp; Lazaros, G. (2022). Overview of Chios Mastic Gum (Pistacia lentiscus) Effects on Human Health. Nutrients, 14(3), 590. <a href="https://doi.org/10.3390/nu14030590">https://doi.org/10.3390/nu14030590</a>&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Sell Aaron, Lukazsweski Aaron W. and Townsley Michael 2017. Cues of upper body strength account for most of the variance in men's bodily attractivenessProc. R. Soc. B.2842017181920171819 <a href="https://doi.org/10.1098/rspb.2017.1819">https://doi.org/10.1098/rspb.2017.1819</a>&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
