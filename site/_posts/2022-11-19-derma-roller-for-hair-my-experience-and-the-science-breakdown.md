@@ -78,6 +78,8 @@ Collagen does several things for your hair, but the one most relevant to thinnin
 
 All of these contribute to hair growth.
 
+{% include widgets/summary.html id="derma-roller" %}
+
 ### Stem cell and growth factor production
 
 Dermal papillae are essential for the induction and maintenance of hair growth. They are embedded in a laminin and collagen IV-rich extracellular matrix at the base of the hair follicles. Dermal papillae cells are also androgen receptors.
