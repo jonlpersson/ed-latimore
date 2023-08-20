@@ -6,7 +6,7 @@ permalink: /25-boxing-tips/
 tags:
   - boxing-lessons
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   This article is my collection of suggestions for anyone who wants to become a
   better boxer. The 25 tips are broken down into four categories.
