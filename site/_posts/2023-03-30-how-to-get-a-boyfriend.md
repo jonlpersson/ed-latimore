@@ -6,7 +6,7 @@ permalink: /how-to-get-a-boyfriend/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/thumbnails/ed-and-anna-together.jpg
 description: >-
   Practical tips for woman to improve your personality, enhance your
