@@ -6,7 +6,7 @@ permalink: /high-value-man/
 tags:
   - self-improvement-for-men
 categories:
-  - how-to-be-a-hot-guy
+  - life-lessons
 description: >
   A high-value man has hit a standard in these 4 areas. Otherwise, he’s not
   high-value. This article tells you the 4 unfakeable traits of a high-value
