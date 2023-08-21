@@ -6,7 +6,7 @@ permalink: /how-to-learn-calculus/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/thumbnails/calculus-problem-written-on-chalkboard.jpg
 description: >-
   I failed calculus three times. On the 4th try, it clicked. I now have a BA in
