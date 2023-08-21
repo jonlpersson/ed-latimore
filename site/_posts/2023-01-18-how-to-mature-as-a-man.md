@@ -6,12 +6,12 @@ permalink: /how-to-mature-as-a-man/
 tags:
   - how-to-be-a-hot-guy
 categories:
-  - how-to-be-a-hot-guy
+  - life-lessons
 description: >-
-  If I had a time machine, here’s what I’d tell my younger on how to mature as a man.
+  If I had a time machine, here’s what I’d tell my younger on how to mature as a
+  man.
 image: /assets/images/thumbnails/ed-reading-book-outside.jpg
 ---
-
 The road to becoming a mature man is paved with obstacles. It offers some hard lessons along the way that you either learn from or find yourself hopelessly going in circles.
 
 If I could offer one word of advice to my younger self traveling this road, it’d be this…
@@ -26,7 +26,6 @@ Life calls upon you to be the leader of your own destiny. You have to accept tha
 
 I eventually figured it out, but can’t help but imagine what life would look like if I’d had this information earlier. Here’s what I’d tell my younger self on how to mature as a man.
 
-
 ## Learn to solve problems before they become problems
 
 Difficulties in life are rarely surprises.
@@ -37,7 +36,7 @@ Random occurrences and ‘bad luck’ aren’t really random if you know they al
 
 But planning and making contingencies help you take an offensive approach to be less blindsided and avoid hard times. This prepares you for your problems instead of tip-toeing through life in fear of them.
 
-For example, you know that eventually, your car will have an issue, someone will throw a party, something in your home will break, etc...
+For example, you know that eventually, your car will have an issue, someone will throw a party, something in your home will break, etc…
 
 So you learn to budget for these “random” occurrences.
 
@@ -51,7 +50,6 @@ Your ability to recognize these things gives you the foresight to see what they 
 
 Once you notice a pattern, take action before letting the situation worsen.
 
-
 ## Take willful ownership of yourself and your environment
 
 Refusing to take responsibility for situations will keep you in them. You can’t take control of your life until you take ownership of yourself and everything in your environment.
@@ -62,7 +60,7 @@ It wasn’t until I was fed up with my own bullshit that I was able to make a re
 
 Immature people are comfortable making excuses for themselves because it’s easier than the realization that you are responsible for having a life you hate. This is called confirmation bias –
 
-taking credit when things go right but passing the blame when they go wrong. [^1]
+taking credit when things go right but passing the blame when they go wrong. <sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Terrible things do happen. No one gets out of life without trauma but it’s your responsibility to deal with and recover from that trauma – even if you weren’t the cause of it.
 
@@ -76,7 +74,6 @@ Leave the excuses for other people, but hold yourself to a higher standard. This
 
 Taking aggressive responsibility for your life puts you in a position for personal growth and greater self-esteem.
 
-
 ## Forgive your parents
 
 People often bring up parental issues when it serves them.
@@ -89,12 +86,11 @@ I couldn’t understand why we had to grow up in the hood. I constantly felt uns
 
 My mother frustrated me until the day she died but I cherish the last months I spent by her hospital bed. And at her funeral, I learned how much she touched the lives of other people.
 
-Parents aren’t perfect. They make mistakes. They do the best they can. And holding them responsible for the rest of _your_ life is the fastest way to never achieve anything worth having.
+Parents aren’t perfect. They make mistakes. They do the best they can. And holding them responsible for the rest of *your* life is the fastest way to never achieve anything worth having.
 
 Forgive your parents for who you believe they should’ve been and go create the life you want.
 
 Learn more about building better relationships with your parents [here](https://edlatimore.com/how-to-deal-with-annoying-parents/).
-
 
 ## Recognize when you have a problem
 
@@ -103,7 +99,6 @@ I gave many years of my life over to alcohol. It kept me from facing my depressi
 Alcohol is easy to abuse because it’s acceptable, even expected, to drink large quantities when you’re young. But being out of control of your impulses keeps you stuck in the same unproductive loops.
 
 Learn to recognize when you have an addiction or are on your way to one, then get the help you need.
-
 
 ## Don’t be a slave to your dick
 
@@ -115,12 +110,11 @@ Young men are often beholden to their sexual emotions and make poor decisions ch
 
 Learning to not be led by your sexual impulses is a sign of maturity. It makes room to develop romantic relationships with women that lift you up and make you want to be better.
 
-The paradox of man is that the woman that your dick likes may not be the type of woman that improves your life. In fact, it _often_ likes the type of woman that quite literally and objectively makes your life worse.
+The paradox of man is that the woman that your dick likes may not be the type of woman that improves your life. In fact, it *often* likes the type of woman that quite literally and objectively makes your life worse.
 
 Kingdoms and fortunes have been lost due to poor sexual choices.
 
 Avoid this trap by putting your sexual energy in its proper place.
-
 
 ## Don’t seek to be liked
 
@@ -136,7 +130,6 @@ Paradoxically, trying too hard to be liked often makes you unlikeable. People pl
 
 When you’re not worried about being liked, you have more genuine social interactions free of anxiety and manipulation. It becomes easier to set boundaries, value your time, and act in your best interests without guilt.
 
-
 ## Learn to manage your money
 
 …Or it’ll always control you
@@ -147,7 +140,6 @@ If you don’t make enough to cover your bills and save then do what’s necessa
 
 Read [This is why you're poor](https://edlatimore.com/stop-being-poor/) for more info.
 
-
 ## Go into unfamiliar environments
 
 When I was boxing. I had to relocate to LA from Chicago. It was the first time I was outside of my circle of friends and comfort zone. I had to learn to rely on myself and grow in ways that I never had previously.
@@ -156,14 +148,11 @@ Being in unfamiliar, uncomfortable situations forces you to grow and makes you m
 
 Facing struggle is the only way to gain real self-confidence. Get around other people improving themselves. The discomfort and inadequacy you feel are enough of a catalyst to force you to grow.
 
-
 ## Final thoughts on how to mature as a man
 
 Maturing into manhood is a trial by fire. When you continuously commit to the path, you’re rewarded with wisdom and strength that only get better with time.
 
 Here’s how to mature as a man:
-
-
 
 * Become a proactive problem-solver
 * Own everything in your life and environment, starting with yourself
@@ -176,7 +165,6 @@ Here’s how to mature as a man:
 
 Hope that helps. The rest is up to you.
 
-
 ### References:
 
-[^1]: Kolbert, Elizabeth. _Why Facts Don’t Change Our Minds_ The New Yorker. Feb 27, 2017. [https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds) (accessed Jan 2023)
+<div class="footnotes"><ol><li><p>Kolbert, Elizabeth. <em>Why Facts Don’t Change Our Minds</em> The New Yorker. Feb 27, 2017. <a href="https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds">https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds</a> (accessed Jan 2023)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
