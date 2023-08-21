@@ -6,7 +6,7 @@ permalink: /how-to-look-more-masculine/
 tags:
   - how-to-be-a-hot-guy
 categories:
-  - learning-skills
+  - longevity-health-and-performance
 description: >-
   Discover how to look more masculine and effortlessly exude masculinity from
   your wardrobe to your conversations
