@@ -6,7 +6,7 @@ permalink: /how-to-be-a-man/
 tags:
   - self-improvement-for-men
 categories:
-  - how-to-be-a-hot-guy
+  - life-lessons
 description: >-
   All boys must develop these nine qualities of a masculine man to achieve their
   greatest potential. They are the passage into manhood.
