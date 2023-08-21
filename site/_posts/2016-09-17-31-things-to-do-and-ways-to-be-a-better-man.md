@@ -6,7 +6,7 @@ permalink: /how-to-be-a-better-man/
 tags:
   - self-improvement-for-men
 categories:
-  - how-to-be-a-hot-guy
+  - life-lessons
 image: /assets/images/posts/ed-30th-birthday.jpg
 description: >-
   These are 30 lessons I've learned about becoming a better man. I'm not the
