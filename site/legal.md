@@ -9,7 +9,6 @@ hero:
 page_blocks:
   - _id: block_rich_text
 ---
-
 ## Affiliate Disclaimer
 
 Hi. Ed Latimore here. This page is here to protect my ass and my money. I’ve included certain products and links to those products on this site that pay out an affiliate commission for any purchases you make using those links.
@@ -65,3 +64,13 @@ I have no access to or control over the cookies that are used by third-party adv
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Edlatimore.com's privacy policy does not apply to, and I cannot control the activities of, such other advertisers or websites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found on the browsers' respective websites.
+
+### **Newsletter Sponsorships**
+
+We engage others to serve newsletter advertisements and perform related services across the web and in mobile applications. You can learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting&nbsp;[www.aboutads.info/choices](http://www.aboutads.info/choices){: target="_blank" rel="noopener noreferrer"}.
+
+### **Opting Out of Targeted Advertising, Sharing, and Sales**
+
+We process personal information to understand and improve your experience with our Services and to serve you targeted advertisements. Some of these activities may be considered "sales" or "sharing" of your personal information or "targeted advertising" under certain privacy laws. To opt out of preference-based advertising, use the form linked below. Note, this will not stop you from seeing sponsorships or advertisements in our newsletters, but those ads will be selected randomly rather than based on your known preferences.
+
+[Opt out form](https://convertk.it/opt-out-preference-based#newsletter_source=edlatimore.com)
