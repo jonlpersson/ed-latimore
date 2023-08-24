@@ -33,3 +33,11 @@ This interpretation of acetylcholine makes sense consider that many ingredients 
 This dreaming bit may seem like a tangent, but it's essential to the bigger picture of the power of acetylcholine. Researchers at the University of Rome have discovered that while dreaming, the brain looks identical to a brain that is retrieving memories ([source](https://www.scientificamerican.com/article/the-science-behind-dreaming/)).
 
 We know that dreams happen during the REM stage of sleep. The same stage that acetylcholine is elevated. I posit that this means another benefit of acetylcholine is that it boosts your ability to synthesize ideas and create new lines of thinking. Or, at the very least, lack of it will impair your natural creativity.
+
+### The paradox of acetylcholine
+
+Acetycholine simultaneously makes you alert and able to focus, but also seems to make you relaxed. Part of the reason that cocaine works to keep you awake is because of action on acetylcholine levels and acetylcholine receptors ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2667818/)).
+
+On the other hand, the neurotransmitter also stimulates the vagus nerve, causing you to relax. That sounds like what dreaming (and learning) is like at times: a relaxed state where you are aware and alert. Almost like daydreaming.&nbsp;
+
+Interestingly, the flow state is characterized by a state of mind that is both relaxed yet alert.&nbsp;
