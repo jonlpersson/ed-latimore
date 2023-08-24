@@ -41,3 +41,19 @@ Acetycholine simultaneously makes you alert and able to focus, but also seems to
 On the other hand, the neurotransmitter also stimulates the vagus nerve, causing you to relax. That sounds like what dreaming (and learning) is like at times: a relaxed state where you are aware and alert. Almost like daydreaming.&nbsp;
 
 Interestingly, the flow state is characterized by a state of mind that is both relaxed yet alert.&nbsp;
+
+## How to increase acetylcholine levels
+
+## Choline Supplementation
+
+When taken as a supplement, Choline is crucial in increasing acetylcholine levels in the brain.&nbsp; Choline acts as a precursor to acetylcholine, providing the necessary building blocks for the body to synthesize this vital neurotransmitter.
+
+The process of choline creating acetylcholine, known as acetylcholine synthesis, begins with choline uptake by cholinergic neurons in the brain. Choline then combines with acetyl CoA, catalyzed by choline acetyltransferase (ChAT), to form acetylcholine.
+
+As choline levels rise in the brain, the availability of acetylcholine also increases, leading to improved neural communication and enhanced cognitive performance. This boost in acetylcholine can be particularly beneficial for individuals facing cognitive challenges or seeking to optimize their brain function.
+
+Studies have shown that choline supplementation can positively impact cognitive health and may help mitigate cognitive decline associated with aging ([source](https://www.ahajournals.org/doi/10.1161/STROKEAHA.120.031903)). By supporting the synthesis of acetylcholine, choline aids in maintaining healthy neural connections and cognitive processes, ultimately leading to improved memory retention and mental clarity.
+
+Furthermore, choline's ability to increase levels of acetylcholine has also been linked to enhanced focus and concentration, making it a popular choice among students and professionals alike seeking to improve their productivity and performance.
+
+There are five different forms of choline supplements sold on the market:
