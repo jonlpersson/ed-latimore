@@ -30,4 +30,6 @@ Because of the neurotransmitter's role in synaptic plasticity, the brain require
 
 This interpretation of acetylcholine makes sense consider that many ingredients in supplements designed to increase acetylcholine levels and boost your ability to learn also have shown a proclivity for inducing the theta brain wave state. This is the most common state in the "flow" state of mind and the one that researchers have most associated with dreaming.&nbsp;
 
-This dreaming bit may seem like a tangent, but it's important to the bigger picture of the power of acetylcholine. Researchers at the University of Rome have discovered that while dreaming, the brain looks identical to a brain that is retrieving memories ([source](https://www.scientificamerican.com/article/the-science-behind-dreaming/)).
+This dreaming bit may seem like a tangent, but it's essential to the bigger picture of the power of acetylcholine. Researchers at the University of Rome have discovered that while dreaming, the brain looks identical to a brain that is retrieving memories ([source](https://www.scientificamerican.com/article/the-science-behind-dreaming/)).
+
+We know that dreams happen during the REM stage of sleep. The same stage that acetylcholine is elevated. I posit that this means another benefit of acetylcholine is that it boosts your ability to synthesize ideas and create new lines of thinking. Or, at the very least, lack of it will impair your natural creativity.
