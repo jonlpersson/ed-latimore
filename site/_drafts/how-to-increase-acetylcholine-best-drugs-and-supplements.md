@@ -17,3 +17,5 @@ In the fight against Father Time, no one is undefeated. And because of the rules
 As a result, I've devoted a significant amount of time and energy to researching ways to beat the competition without breaking the rules. Most athletes are focused on increasing their testosterone, muscle mass, breathing, or decreasing their recovery time.
 
 However, one of the most overlooked ways to gain an advantage is to increase quickly you think, process, learn, and react. Enter acetylcholine. Even if you aren't a competitive athlete, you should continue reading to not only learn why this neurotransmitter is important for staying sharp and solving problems, but also how to increasing the synthesis of it in your brain so you can get the most out of your mind and life.
+
+Increasing and optimizing my acetylcholine levels has made a big difference in my chess game, my training, and even in my day to day living. The rest of this article covers some things you can add to your diet or supplement stack to optimize this powerful neurotransmitter and take your mental processing power to the next level.&nbsp;
