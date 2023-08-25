@@ -45,8 +45,7 @@ One of the first things I learned was “No One Gives A Shit About You”. That 
 
 What I learned is that all love is transactional—even the love you get from your mother, which should be unconditional, often has conditions put on it. Especially if your mother is dysfunctional.
 
-**Read [No one gives a shit about
-you](/no-one-gives-a-shit-about-you/)**
+**Read: [No one gives a shit about you](/no-one-gives-a-shit-about-you/)**
 
 ### Life’s not fair
 
@@ -70,7 +69,7 @@ Part of being mentally tough is having the ability to be tough on others when th
 
 Still, a lot of people are too soft and sheltered to ever receive tough love. If I ever wanted to make it out of my situation, I had to be comfortable keeping it real and being a straight shooter. This article teaches what I learned about talking directly to people, even in a harsh environment like the hood, and still getting results
 
-**Read [How to give tough love](/tough-love/)**
+**Read: [How to give tough love](/tough-love/)**
 
 ### The 7 benefits of having a rough childhood
 
@@ -92,87 +91,49 @@ Working at the homeless shelter was an illuminating experience. I’d been close
 
 Still, it was uncomfortable as I spent most of my 20s living paycheck to paycheck. Working in the homeless shelter showed me how bad it could get and also how quickly it could get that way.
 
-**Read [5 lessons from working at a homeless shelter](/working-at-a-homeless-shelter/)**
+**Read: [5 lessons from working at a homeless shelter](/working-at-a-homeless-shelter/)**
 
 ## Living in the hood gets you used to dealing with crackheads
 
 ### 9 lessons from living by crackheads & crack dealers
 
-In this article, I talk about my experiences interacting with crackheads
-and drug dealers from a very young age. My sense of humor has a lot of
-crack references, and I’m sure one of the main reasons is that I used
-jokes to cope with this craziness.
+In this article, I talk about my experiences interacting with crackheads and drug dealers from a very young age. My sense of humor has a lot of crack references, and I’m sure one of the main reasons is that I used jokes to cope with this craziness.
 
 **Read: [9 lessons from living by crackheads & crack dealers](/crackhead/)**
 
-
 ### How to hustle like a crackhead
 
+It’s amazing what crackheads will do to get money for more crack. What’s even more amazing is the transformation that addicts go through when they’re finally able to channel that energy into something positive.
 
-It’s amazing what crackheads will do to get money for more crack. What’s
-even more amazing is the transformation that addicts go through when
-they’re finally able to channel that energy into something positive.
+This article breaks down the hustle of a crackhead so that you can harness it without ever having to smoke crack.
 
+**Read: [How to hustle like a crackhead](/how-to-hustle-like-a-crackhead/)**
 
-This article breaks down the hustle of a crackhead so that you can harness
-it without ever having to smoke crack.
+## 29 crackhead quotes
 
+This is a collection of the most outrageous things I’ve heard crackheads say or have heard people say about crackheads. Hilarious but some interesting gems in there.
 
-***Read&nbsp;[How to hustle like a
-crackhead](/how-to-hustle-like-a-crackhead/)***
-
-
-### 29 crackhead quotes
-
-
-This is a collection of the most outrageous things I’ve heard crackheads
-say or have heard people say about crackheads. Hilarious but some
-interesting gems in there.
-
-
-***Read&nbsp;[29 crackhead quotes](/crackhead-head-quotes/)***
-
+**Read: [29 crackhead quotes](/crackhead-head-quotes/)**
 
 ### Business and life lessons The Notorious B.I.G. 10 crack commandments
 
+I wasn’t sure if I should put this in the money section or the crackhead section. The 10 crack commandments is a hip hop classic in which The Notorious B.I.G. gives a step-by-step playbook on how to succeed in the dope game.
 
-I wasn’t sure if I should put this in the money section or the crackhead
-section. The 10 crack commandments is a hip hop classic in which The
-Notorious B.I.G. gives a step-by-step playbook on how to succeed in the
-dope game.
+I break the song down to help you apply the lessons to your life and non-drug-related business ventures for success.
 
-
-I break the song down to help you apply the lessons to your life and
-non-drug-related business ventures for success.
-
-
-***Read&nbsp;[Business and life lessons The Notorious B.I.G. 10 crack
-commandments](/ten-crack-commandments-business-and-life-lessons/)***
-
+**Read: [Business and life lessons The Notorious B.I.G. 10 crack commandments](/ten-crack-commandments-business-and-life-lessons/)**
 
 ## Living in the hood teaches you the value of having good parents
 
-
 ### Problems growing up with an absent father(and how to fix them)
 
+Fatherless households have arguably been the greatest scourge of low-income, inner-city, African American communities. I was raised by a single mom, so I know all the ways this damages and sets boys back.
 
-Fatherless households have arguably been the greatest scourge of
-low-income, inner-city, African American communities. I was raised by a
-single mom, so I know all the ways this damages and sets boys back.
+I’m fortunate that I was completely ruined, but many aren’t so lucky. In this article, I not only break down the stats and demonstrate why being raised without your father is bad, but I offer some solutions for both the mother and son to implement.
 
-
-I’m fortunate that I was completely ruined, but many aren’t so lucky. In
-this article, I not only break down the stats and demonstrate why being
-raised without your father is bad, but I offer some solutions for both the
-mother and son to implement.
-
-
-***Read&nbsp;[Problems growing up with an absent father (and how to fix
-them)](/absent-fathers/)***
-
+**Read: [Problems growing up with an absent father (and how to fix them)](/absent-fathers/)**
 
 ### How to forgive your parents
-
 
 At the end of the day, you realize that your parents did the best job they
 could. This is hard for people to accept, but no one tries to make their
@@ -180,21 +141,16 @@ own life worse. This means that if they never matured or were able to
 provide for you, they just never learned or developed the emotional
 strength to try.
 
-
 I’ve written a lot about my mother in newsletter. I’m fortunate to have
 learned how to forgive her for what I went through when I was growing up.
 This article explores the strategies I used to forgive my mom, which
 started my own journey of healing.
 
-
-Read How to forgive your parents
-
+**Read: [How to forgive your parents](/how-to-understand-and-forgive-your-parents/)**
 
 ## Living in the hood will give you hard-earned life wisdom
 
-
 ### Is karma real? 3 life lessons from a troll
-
 
 Because of the structure of the neighborhood I grew up in, I always had a
 healthy respect for how I treated people around me. You never knew the
@@ -202,19 +158,15 @@ extent of someone’s connections or how bad things could get for you if you
 made enemies with the wrong people. To me, this was a basic example of
 karma.
 
-
 Maybe that’s why the spiritual idea of karma is so easy for me to accept.
 In this article, I write about a rather interesting experience I had that
 demonstrated how this principle applies, even in the massive digital
 world. This is a must-read if you want to know how to make sure that you
 keep your karma right.
 
-
-***Read [Is karma real? 3 life lessons from a troll](/is-karma-real/)***
-
+**Read: [Is karma real? 3 life lessons from a troll](/is-karma-real/)**
 
 ### 5 things I learned growing up in the projects
-
 
 This is the article that discusses the five biggest things I’ve learned
 from growing up in the projects. The projects are a place where you are
@@ -222,17 +174,13 @@ schooled in the hard lessons of human nature. It’s where I developed
 street smarts and manners, toughness, and fearlessness, but also humility
 and respect.
 
-
 This is a short read that will change the way you think of people who grow
 up in the ghetto. You may even wish that you had been unfortunate enough
 to have the same experience.
 
-
-***Read [5 things I learned growing up in the projects](/the-projects/)***
-
+**Read: [5 things I learned growing up in the projects](/the-projects/)**
 
 ### How to avoid a street fight, and what to do if you can’t
-
 
 This article might very well save your life. Too many people today think
 that street fights are something to be glamorized. The reality is that
@@ -244,8 +192,7 @@ fight. You will also learn the most effective thing to do if you do find
 yourself backed into an alley where you have to defend your life.
 
 
-***Read [How to avoid a street fight, and what to do if you
-can’t](/how-to-win-a-street-fight/)***
+**Read [How to avoid a street fight, and what to do if you can’t](/how-to-win-a-street-fight/)**
 
 
 ### Lessons from the ghetto: Willingness to fight
@@ -263,11 +210,8 @@ couldn’t get away with being in peace. So I viewed fighting as the lesser
 of two evils. They were going to harass me regardless of what I did, so I
 figured I’d at least make them pay for it.
 
-
 Read this article to learn the psychology of a victim turned victor and
 how to keep yourself from ending up in a position where people think they
 can just take advantage of you.
 
-
-***Read [Lessons from the ghetto: willingness to
-fight](/lessons-from-the-ghetto-willingness-to-fight/)***
+**Read [Lessons from the ghetto: willingness to fight](/lessons-from-the-ghetto-willingness-to-fight/)**
