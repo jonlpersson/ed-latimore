@@ -18,15 +18,10 @@ If you’ve ever wondered what it’s like living in the hood, the first thing I
 Pittsburgh doesn’t have some of the notorious hoods or housing projects like New York or Los Angeles, but it was still a pretty rough time full of all the trappings of the ghetto:
 
 * Crackheads
-
 * Drug dealers
-
 * Constant gunshots
-
 * Shootings
-
 * Drive-bys
-
 * Robberies
 
 I grew up in the 80s and 90s when crack was big and all the gangsters—just the Bloods and Crips, along with a few smaller attempts at start-ups in my city—were battling over the street corners and not only killing themselves, but killing other innocents as well.
@@ -135,16 +130,9 @@ I’m fortunate that I was completely ruined, but many aren’t so lucky. In thi
 
 ### How to forgive your parents
 
-At the end of the day, you realize that your parents did the best job they
-could. This is hard for people to accept, but no one tries to make their
-own life worse. This means that if they never matured or were able to
-provide for you, they just never learned or developed the emotional
-strength to try.
+At the end of the day, you realize that your parents did the best job they could. This is hard for people to accept, but no one tries to make their own life worse. This means that if they never matured or were able to provide for you, they just never learned or developed the emotional strength to try.
 
-I’ve written a lot about my mother in newsletter. I’m fortunate to have
-learned how to forgive her for what I went through when I was growing up.
-This article explores the strategies I used to forgive my mom, which
-started my own journey of healing.
+I’ve written a lot about my mother in newsletter. I’m fortunate to have learned how to forgive her for what I went through when I was growing up. This article explores the strategies I used to forgive my mom, which started my own journey of healing.
 
 **Read: [How to forgive your parents](/how-to-understand-and-forgive-your-parents/)**
 
@@ -152,66 +140,34 @@ started my own journey of healing.
 
 ### Is karma real? 3 life lessons from a troll
 
-Because of the structure of the neighborhood I grew up in, I always had a
-healthy respect for how I treated people around me. You never knew the
-extent of someone’s connections or how bad things could get for you if you
-made enemies with the wrong people. To me, this was a basic example of
-karma.
+Because of the structure of the neighborhood I grew up in, I always had a healthy respect for how I treated people around me. You never knew the extent of someone’s connections or how bad things could get for you if you made enemies with the wrong people. To me, this was a basic example of karma.
 
-Maybe that’s why the spiritual idea of karma is so easy for me to accept.
-In this article, I write about a rather interesting experience I had that
-demonstrated how this principle applies, even in the massive digital
-world. This is a must-read if you want to know how to make sure that you
-keep your karma right.
+Maybe that’s why the spiritual idea of karma is so easy for me to accept. In this article, I write about a rather interesting experience I had that demonstrated how this principle applies, even in the massive digital world. This is a must-read if you want to know how to make sure that you keep your karma right.
 
 **Read: [Is karma real? 3 life lessons from a troll](/is-karma-real/)**
 
 ### 5 things I learned growing up in the projects
 
-This is the article that discusses the five biggest things I’ve learned
-from growing up in the projects. The projects are a place where you are
-schooled in the hard lessons of human nature. It’s where I developed
-street smarts and manners, toughness, and fearlessness, but also humility
-and respect.
+This is the article that discusses the five biggest things I’ve learned from growing up in the projects. The projects are a place where you are schooled in the hard lessons of human nature. It’s where I developed street smarts and manners, toughness, and fearlessness, but also humility and respect.
 
-This is a short read that will change the way you think of people who grow
-up in the ghetto. You may even wish that you had been unfortunate enough
-to have the same experience.
+This is a short read that will change the way you think of people who grow up in the ghetto. You may even wish that you had been unfortunate enough to have the same experience.
 
 **Read: [5 things I learned growing up in the projects](/the-projects/)**
 
 ### How to avoid a street fight, and what to do if you can’t
 
-This article might very well save your life. Too many people today think
-that street fights are something to be glamorized. The reality is that
-street fights almost always alter your life, and not in a positive way.
+This article might very well save your life. Too many people today think that street fights are something to be glamorized. The reality is that street fights almost always alter your life, and not in a positive way.
 
+Read this article to minimize the chances of you ever being in a street fight. You will also learn the most effective thing to do if you do find yourself backed into an alley where you have to defend your life.
 
-Read this article to minimize the chances of you ever being in a street
-fight. You will also learn the most effective thing to do if you do find
-yourself backed into an alley where you have to defend your life.
-
-
-**Read [How to avoid a street fight, and what to do if you can’t](/how-to-win-a-street-fight/)**
-
+**Read: [How to avoid a street fight, and what to do if you can’t](/how-to-win-a-street-fight/)**
 
 ### Lessons from the ghetto: Willingness to fight
 
+Although I was a professional boxer, I’m not naturally a violent person. I had to learn how to push myself to a dark place where I’d be willing to hurt another person. It helped that I had several experiences of being bullied as a kid. However, the bullies in my neighborhood were seriously violent individuals.
 
-Although I was a professional boxer, I’m not naturally a violent person. I
-had to learn how to push myself to a dark place where I’d be willing to
-hurt another person. It helped that I had several experiences of being
-bullied as a kid. However, the bullies in my neighborhood were seriously
-violent individuals.
+I fought a lot, not because I wanted to fight, but because I knew that I couldn’t get away with being in peace. So I viewed fighting as the lesser of two evils. They were going to harass me regardless of what I did, so I figured I’d at least make them pay for it.
 
+Read this article to learn the psychology of a victim turned victor and how to keep yourself from ending up in a position where people think they can just take advantage of you.
 
-I fought a lot, not because I wanted to fight, but because I knew that I
-couldn’t get away with being in peace. So I viewed fighting as the lesser
-of two evils. They were going to harass me regardless of what I did, so I
-figured I’d at least make them pay for it.
-
-Read this article to learn the psychology of a victim turned victor and
-how to keep yourself from ending up in a position where people think they
-can just take advantage of you.
-
-**Read [Lessons from the ghetto: willingness to fight](/lessons-from-the-ghetto-willingness-to-fight/)**
+**Read: [Lessons from the ghetto: willingness to fight](/lessons-from-the-ghetto-willingness-to-fight/)**
