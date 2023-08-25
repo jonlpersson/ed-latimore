@@ -57,3 +57,9 @@ Studies have shown that choline supplementation can positively impact cognitive 
 Furthermore, choline's ability to increase levels of acetylcholine has also been linked to enhanced focus and concentration, making it a popular choice among students and professionals alike seeking to improve their productivity and performance.
 
 There are five different forms of choline supplements sold on the market:
+
+### **Alpha-Glycerophosphocholine (Alpha GPC)**
+
+Alpha-Glycerophosphocholine is a choline-containing compound and a naturally occurring phospholipid found in the brain. It is 41% choline, making it the most choline containing supplement out there. (The other 59% is composed of glycerol and phosphate groups, as the name suggests).
+
+It is The most effective choline supplement. Easily absorbed. Has been shown to increase levels of acetylcholine in the frontal cortex region of the brain, which improves memory, judgment, and decision-making.
