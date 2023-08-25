@@ -6,7 +6,7 @@ permalink: /how-to-get-over-someone/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
 description: >-
   Personal experience, anecdotal evidence, and scientific experiments combine to

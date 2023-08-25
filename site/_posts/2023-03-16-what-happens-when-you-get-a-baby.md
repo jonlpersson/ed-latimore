@@ -6,7 +6,7 @@ permalink: /what-happens-when-you-get-a-baby/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 description: A father’s perspective on what happens when you get a baby.
 image: /assets/images/thumbnails/ed-latimore-holding-his-new-born-baby.jpeg
 ---

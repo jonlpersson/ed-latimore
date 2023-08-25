@@ -6,7 +6,7 @@ permalink: /red-flags-in-men/
 tags:
   - self-improvement-for-men
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
   has any one of these, you better end it immediately.

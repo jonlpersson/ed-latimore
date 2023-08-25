@@ -6,7 +6,7 @@ permalink: /derma-roller-for-hair/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   This article discusses how derma rolling works to reverse hair loss and my
   experience using it post-FUE transplant to keep non-transplanted hair.

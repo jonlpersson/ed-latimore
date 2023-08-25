@@ -6,7 +6,7 @@ permalink: /ed-latimore-self-discipline-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   This is a collection of my best quotes about self-discipline. These will help
   you remember what it takes to develop self-discipline and self-control.

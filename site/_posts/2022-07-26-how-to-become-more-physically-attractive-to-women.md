@@ -4,9 +4,9 @@ article_type: Article
 title: How to become more physically attractive to women
 permalink: /how-to-become-more-physically-attractive-to-women/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 image: /assets/images/thumbnails/ed-hands-together-posing-outside.jpg
 description: >-
   Physical attractiveness is cultivated one step at a time. Here are some tips

@@ -6,7 +6,7 @@ permalink: /how-to-be-likeable/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Likeability is the ultimate form of social currency, both in personal and
   romantic relationships and in business. Here are 5 ways to become more

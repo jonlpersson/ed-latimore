@@ -6,7 +6,7 @@ permalink: /how-to-know-if-you-have-a-drinking-problem/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 image: /assets/images/posts/ed-with-grape-juice.jpg
 description: >-
   You might be wondering if you have a drinking problem. Above all things, there

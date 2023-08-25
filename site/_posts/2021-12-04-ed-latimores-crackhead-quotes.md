@@ -7,7 +7,7 @@ tags:
   - living-in-the-hood
   - ed-latimore-original-quotes
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.

@@ -7,7 +7,7 @@ tags:
   - the-power-of-forgiveness
   - ed-latimore-original-quotes
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   These quotes about forgiveness will help you let go of the painful past, live
   better in the present, and approach the future without trauma and guilt.

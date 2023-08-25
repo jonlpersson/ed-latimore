@@ -4,9 +4,9 @@ article_type: Article
 title: 8 ways boxing will transform your life
 permalink: /boxing-benefits/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/posts/webp-net-resizeimage-42.jpg
 description: >-
   I’ve been a boxer for over 10 years, and nothing has changed my life more than

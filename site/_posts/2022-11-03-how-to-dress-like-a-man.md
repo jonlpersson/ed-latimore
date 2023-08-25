@@ -4,9 +4,9 @@ article_type: Article
 title: How to dress like a man (beginner's guide)
 permalink: /how-to-dress-like-a-man/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 image: /assets/images/posts/dress-like-a-man.jpeg
 description: >-
   The way you dress tells a lot about you. These tips will teach you how to

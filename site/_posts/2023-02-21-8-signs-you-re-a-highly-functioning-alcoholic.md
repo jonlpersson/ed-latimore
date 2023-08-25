@@ -6,7 +6,7 @@ permalink: /signs-of-a-high-functioning-alcoholic/
 tags:
   - getting-sober
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   In this article, I mention the obvious and subtle signs someone will show if
   they are secretly an alcoholic, high-functioning or otherwise.

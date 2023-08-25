@@ -6,7 +6,7 @@ permalink: /how-to-be-a-high-value-woman/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Here are some specific steps to follow to become a high-value woman that is
   able to meet and be with a high-value man.

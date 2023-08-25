@@ -4,9 +4,9 @@ article_type: Review
 title: The best face oil for men (2022)
 permalink: /best-face-oil-for-men/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   A comprehensive review of popular men’s face oils: how they work, why you
   should use them, and how to pick the right one for you.

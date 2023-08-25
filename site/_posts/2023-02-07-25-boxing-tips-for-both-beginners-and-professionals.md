@@ -4,7 +4,7 @@ article_type: Article
 title: 25 boxing tips for both amateurs and professionals
 permalink: /25-boxing-tips/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
   - longevity-health-and-performance
 description: >-

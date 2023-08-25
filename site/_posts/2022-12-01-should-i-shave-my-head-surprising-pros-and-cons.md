@@ -6,7 +6,7 @@ permalink: /should-I-shave-my-head/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   To shave your head or not? As someone who has rocked the bald head but
   currently chooses not to, I give you my opinion on when you should—or

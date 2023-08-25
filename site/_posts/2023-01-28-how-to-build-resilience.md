@@ -6,7 +6,7 @@ permalink: /how-to-build-resilience-in-life/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   Discover how to build resilience in life by asking yourself specific questions on a daily basis, and following the works of these philosophers.
 image: /assets/images/thumbnails/ed-with-arms-crossed.jpg

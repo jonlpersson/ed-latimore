@@ -6,7 +6,7 @@ permalink: /how-to-deal-with-annoying-parents/
 tags:
   - building-family-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   There’s no need to argue, parents just don’t understand. Discover how to cope
   with annoying parents with compassion and maintain your sanity.

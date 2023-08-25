@@ -4,9 +4,9 @@ article_type: Article
 title: Why did I start boxing?
 permalink: /why-did-I-start-boxing/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   In this essay, I explain why I started boxing. I think all fighters will see a
   bit of themselves in this post. 

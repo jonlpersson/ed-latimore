@@ -6,7 +6,7 @@ permalink: /how-to-get-closer-to-a-friend/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Tired of surface-level relationships? Want to be closer to the friends you
   have? This article shows you how to be closer with friends & loved ones

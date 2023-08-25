@@ -6,7 +6,7 @@ permalink: /when-someone-hates-you-for-no-reason/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Just because people don't like you, doesn't mean you have to dislike yourself.
   Here's what to if you have haters.

@@ -6,7 +6,7 @@ permalink: /alpha-brain-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   A comprehensive review of Onnit's Alpha Brain nootropic supplement: what I
   think of it, how I take it, and how it compares to other brain supplements.

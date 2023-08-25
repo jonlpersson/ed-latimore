@@ -6,7 +6,7 @@ permalink: /nofap-benefits/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Porn addiction has so many men living beneath their potential. These tips will
   teach you the benefits of No Fap so you can get your superpowers

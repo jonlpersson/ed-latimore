@@ -6,7 +6,7 @@ permalink: /how-to-prepare-for-fatherhood/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   Principles to prepare for fatherhood that’ll make you unstoppable in all areas
   of life plus a quick baby essentials checklist.

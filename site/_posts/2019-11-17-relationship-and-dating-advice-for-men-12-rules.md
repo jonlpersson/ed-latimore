@@ -6,7 +6,7 @@ permalink: /relationship-advice/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/posts/edandannamexico.jpeg
 description: "Not every guy wants to be a lifelong playboy, so I’m here to teach men\_how to have a happy relationship."
 ---

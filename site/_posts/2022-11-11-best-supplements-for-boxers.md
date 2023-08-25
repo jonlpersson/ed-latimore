@@ -6,7 +6,7 @@ permalink: /best-supplements-for-boxers/
 tags:
   - how-to-become-superhuman
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   A comprehensive review of supplements for boxers and martial artists: how they work, why you should use them, and how to pick the right ones.
 image: /assets/images/thumbnails/ed-latimore-warm-up-boxing-bw.jpg

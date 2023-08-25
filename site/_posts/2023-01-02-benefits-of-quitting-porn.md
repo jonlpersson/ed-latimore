@@ -6,7 +6,7 @@ permalink: /benefits-of-quitting-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Discover the benefits of quitting porn through taking control of your
   emotions.

@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Personal magnetism is a superpower. Discover how to be more charismatic,
   attract more people, and captivate no matter where you are.

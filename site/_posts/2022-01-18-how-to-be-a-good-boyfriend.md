@@ -6,7 +6,7 @@ permalink: /how-to-be-a-good-boyfriend/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   What always works isn't always what's obvious. This article gives an
   unconventional look at how to be a good boyfriend. 

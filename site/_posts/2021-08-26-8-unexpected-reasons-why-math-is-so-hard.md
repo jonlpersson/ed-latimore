@@ -6,7 +6,7 @@ permalink: /why-is-math-so-hard/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   Math can be difficult, but it doesn't have to be. Part of making it easier is
   to understand why it's challenging in the first place. This post explains it

@@ -6,7 +6,7 @@ permalink: /what-happens-when-you-get-a-girlfriend/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Wondering about your first girlfriend? Here’s what happens when you get a girlfriend.
 image: /assets/images/thumbnails/ed-with-girlfriend-anna-in-snow.JPG

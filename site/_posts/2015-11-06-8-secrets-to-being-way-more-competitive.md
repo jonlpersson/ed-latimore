@@ -4,10 +4,10 @@ article_type: Article
 title: 8 secrets to being way more competitive
 permalink: /how-to-be-competitive/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
   - how-to-control-your-emotions
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/thumbnails/2021/ed-knocking-out-cam.jpg
 description: >-
   Everyone thinks they’re competitive, but they aren’t. They just like to win.

@@ -6,7 +6,7 @@ permalink: /are-you-attractive/
 tags:
   - dating-and-relationships
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   Want to know if you've got more going for you than you think? Read this
   article on how to tell if you're an attractive guy.

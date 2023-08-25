@@ -6,7 +6,7 @@ permalink: /how-to-be-patient-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   If you lose your cool, you can ruin your relationship. Win in love, overcome
   differences, and master life by learning how to be patient in a relationship.

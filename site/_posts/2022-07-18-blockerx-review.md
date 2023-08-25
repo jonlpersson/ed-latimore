@@ -6,7 +6,7 @@ permalink: /blockerx-review/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   BlockerX bills itself as the “#1 self-control app,” but does it live it up to
   its own claims? Here’s my review.

@@ -6,7 +6,7 @@ permalink: /daryl-davis-book/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   Daryl Davis is a Black man who has friends in the Ku Klux Klan. He wrote about
   his experiences. This post explores the big ideas he discusses.

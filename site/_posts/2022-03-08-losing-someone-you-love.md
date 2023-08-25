@@ -6,7 +6,7 @@ permalink: /losing-someone-you-love/
 tags:
   - building-family-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Losing someone you love can leave you feeling lost. Here’s what to do when
   your grief and sorrow make getting on with your life seem impossible.

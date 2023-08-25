@@ -6,7 +6,7 @@ permalink: /hagakure-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   The Hagakure: The Book of The Samurai was written in the 1700s by Yamamoto
   Tsunetomo as a guide for samurai. These are the 10 best quotes and ideas from

@@ -6,7 +6,7 @@ permalink: /why-is-it-hard-to-quit-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Why is porn such an addictive habit that's so hard to break? Learn why so that
   you can do everything in your power to break the addiction.

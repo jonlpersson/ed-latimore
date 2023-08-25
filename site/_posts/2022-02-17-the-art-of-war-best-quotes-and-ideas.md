@@ -6,7 +6,7 @@ permalink: /art-of-war-quotes-and-summary/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.

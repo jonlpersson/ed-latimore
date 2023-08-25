@@ -6,7 +6,7 @@ permalink: /quotes-about-fear/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   These are my quotes and perspectives about facing fear. When you've lived in
   the hood and fought professionally, you know a thing or two about being

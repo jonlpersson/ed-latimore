@@ -6,7 +6,7 @@ permalink: /sobriety-benefits/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   A lot of things happen when you stop drinking alcohol. Here are 8 benefits

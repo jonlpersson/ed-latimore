@@ -6,7 +6,7 @@ permalink: /dealing-with-porn-addiction-withdrawal/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Porn addiction withdrawal symptoms are shockingly similar to alcohol
   addiction. These strategies will help you handle the symptoms and quit porn

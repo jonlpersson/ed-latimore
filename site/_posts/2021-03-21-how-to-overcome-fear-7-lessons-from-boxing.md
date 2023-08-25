@@ -4,9 +4,9 @@ article_type: Article
 title: 'How to overcome fear: 7 lessons from boxing'
 permalink: /how-to-overcome-fear/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   A boxing match exposes you to the possibility of death, dismemberment, and
   embarrassment.  The same way I overcame those fears can work for anyone. Learn

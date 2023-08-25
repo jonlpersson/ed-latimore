@@ -6,7 +6,7 @@ permalink: /how-to-live-for-yourself/
 tags:
   - how-to-control-your-emotions
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   Develop the courage to prioritize yourself, stop people-pleasing, and live a
   life you love. Warning: people may hate you for choosing to love yourself. 

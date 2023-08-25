@@ -4,9 +4,9 @@ article_type: Article
 title: 48 life lessons from boxing
 permalink: /how-to-think-like-a-professional-fighter/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/posts/Amateur uppercut.jpg
 description: >-
   Here are 48 life lessons I learned from being a boxer. You may never fight,

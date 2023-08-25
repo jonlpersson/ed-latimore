@@ -6,7 +6,7 @@ permalink: /robert-anton-wilson-quotes-conspiracy-and-politics/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   Despite being written in 1984, Prometheus Rising by Robert Anton Wilson has
   some solid predictions about the next 30 years that are startlingly accurate.

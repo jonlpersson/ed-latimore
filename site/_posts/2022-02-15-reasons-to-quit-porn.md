@@ -6,7 +6,7 @@ permalink: /reasons-to-quit-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Even if you’re not addicted to porn, it still isn’t doing you any favors. Here
   are some good arguments to quit today

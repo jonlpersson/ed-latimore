@@ -6,7 +6,7 @@ permalink: /should-you-major-in-physics/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/thumbnails/physics-textbook-open.jpg
 description: Here’s why you shouldn’t major in physics from someone who’s done it.
 ---

@@ -6,7 +6,7 @@ permalink: /why-is-writing-important/
 tags:
   - writing-skills
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   There is no more effective method for organizing your thoughts than writing.
   Good writing is one of the most important skills that you can develop.

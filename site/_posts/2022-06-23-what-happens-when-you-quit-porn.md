@@ -6,7 +6,7 @@ permalink: /what-happens-when-you-quit-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   A realistic, non-judgmental view of what happens when you finally give up
   porn. Many don't understand how their brains and hormones heal when they quit.

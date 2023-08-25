@@ -6,7 +6,7 @@ permalink: /tao-te-ching-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   The Tao Te Ching teaches how to live according to the “Tao” or “The way”. Here
   are some of the passages from the book that will truly open your mind.

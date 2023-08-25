@@ -7,12 +7,12 @@
       <div>Explore my ideas</div>
       <a class="text-coral hover:text-maroon" href="/archive/">Archive &rarr;</a>
     </div>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-y-12">
+    <div class="grid sm:grid-cols-2 gap-6 lg:gap-12">
       {% for category in featuredCategories %}
       <div>
         <h4 class="mb-2 lg:mb-4">
           <a class="text-white hover:text-coral" href="{{ category | first | relative_url }}">
-            {{ category | first | replace:"-"," " | replace: "addiction sobriety","addiction & sobriety" | capitalize }}
+            {{ category | first | replace:"-"," " | replace: "chess math","Chess, math" | replace: "longevity health","Longevity, health" | capitalize }}
             <sup class="font-normal text-xs lg:text-base -top-3">({{ category.last.size }})</sup>
           </a>
         </h4>

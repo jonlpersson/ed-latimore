@@ -4,9 +4,9 @@ article_type: Article
 title: 5 reasons why I quit boxing with only one loss
 permalink: /why-I-quit-boxing/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   I explain the harsh truth of the boxing game and the factors that lead me to
   hang up the gloves for good.

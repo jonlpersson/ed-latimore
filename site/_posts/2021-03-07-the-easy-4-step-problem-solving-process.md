@@ -4,9 +4,9 @@ article_type: Article
 title: The easy 4 step problem-solving process (+ examples)
 permalink: /problem-solving-process/
 tags:
-  - learning-skills
+  - chess-math-and-language
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   This is the 4 step problem-solving process that I taught to my students for
   math problems, but it works for academic and social problems as well.

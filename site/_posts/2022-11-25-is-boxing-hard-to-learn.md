@@ -4,9 +4,9 @@ article_type: Article
 title: Here’s why boxing is the toughest sport you’ll ever learn
 permalink: /is-boxing-hard-to-learn/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/thumbnails/ed-latimore-in-amateur-fight-boxing-ring.jpg
 description: >-
   I’ve been a boxer for over a decade. Here’s why it’s the toughest sport to

@@ -8,7 +8,7 @@ permalink: /how-to-stop-watching-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Discover my proven techniques to stop watching porn, overcome addiction, and
   regain control of your life. Learn how to replace harmful habits with positive

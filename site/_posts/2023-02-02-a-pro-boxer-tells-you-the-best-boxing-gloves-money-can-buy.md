@@ -4,9 +4,9 @@ article_type: Article
 title: A pro boxer tells you the best boxing gloves money can buy
 permalink: /pro-boxer-best-boxing-glove-recommendation/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   My professional recommendations for boxing gloves. In case you don't like my
   suggestions, I also teach you how to pick your own fight gloves.

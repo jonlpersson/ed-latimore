@@ -6,7 +6,7 @@ permalink: /covenant-eyes-review/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   I tested Covenant Eyes, one of the top porn blocking softwares on the market.
   Here are the best features and the main drawbacks I discovered.

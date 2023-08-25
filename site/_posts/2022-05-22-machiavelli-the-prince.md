@@ -6,7 +6,7 @@ permalink: /the-prince-machiavelli-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   I’ve collected the big ideas from Machiavelli’s classic treatise on political
   philosophy and political theory. These are pragmatic ideas to seize power.

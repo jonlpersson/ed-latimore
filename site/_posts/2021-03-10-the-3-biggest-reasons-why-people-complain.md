@@ -6,7 +6,7 @@ permalink: /why-do-people-complain/
 tags:
   - how-to-control-your-emotions
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   The problem with complaining is that it makes you focus on the problem rather
   than the solution. Learn how to fix this fatal flaw.

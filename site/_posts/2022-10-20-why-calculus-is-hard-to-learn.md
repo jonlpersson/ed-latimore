@@ -6,7 +6,7 @@ permalink: /why-is-calculus-hard/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/thumbnails/calculus-problems-on-paper.jpg
 description: >-
   I failed calculus three times. On the 4th try, it clicked. I now have a BA in

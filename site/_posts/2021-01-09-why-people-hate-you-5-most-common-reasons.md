@@ -6,7 +6,7 @@ permalink: /why-you-have-haters-even-if-you-arent-an-asshole/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/thumbnails/2021/jay-gatsby.png
 description: >-
   Having haters sucks, but it's part of life. In this article I not only tell

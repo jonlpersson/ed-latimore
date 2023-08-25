@@ -7,7 +7,7 @@ tags:
   - book-quotes-and-summaries
   - how-to-make-friends
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   Accidental Courtesy follows Daryl Davis, a black jazz musician, who befriends
   members of the Ku Klux Klan in hopes of converting them and stopping hate. 

@@ -4,9 +4,9 @@ article_type: Article
 title: 'Going back to school at 30: 4 things to know'
 permalink: /going-back-to-school-at-30/
 tags: 
-  - learning-skills
+  - chess-math-and-language
 categories: 
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/posts/ed-chemistry.png
 description: >-
   If you're thinking about going back to school, read this first. I detail my

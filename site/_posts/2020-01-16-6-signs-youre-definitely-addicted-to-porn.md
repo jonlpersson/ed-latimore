@@ -6,7 +6,7 @@ permalink: /6-signs-that-youre-definitely-addicted-to-porn/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 image: /assets/images/posts/pornaddiction-illustration-libertyantoniasadler-metro.png
 description: >-
   Maybe you’re wondering if you’re addicted to porn. I’ve compiled a list of the

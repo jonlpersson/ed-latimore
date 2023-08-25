@@ -6,7 +6,7 @@ permalink: /hairmetto-topical-saw-palmetto/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   Hairmetto Topical Saw Palmetto is an all-natural alternative to topical
   finasteride. I've been using it in my hair loss stack for over a year. 

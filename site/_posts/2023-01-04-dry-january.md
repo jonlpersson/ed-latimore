@@ -6,7 +6,7 @@ permalink: /dry-january/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Dry January is a 31 day challenge that gives people a chance to try sobriety
   for the first time in a social setting. Learn how to make it a success.

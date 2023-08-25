@@ -6,7 +6,7 @@ permalink: /why-is-math-important/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   If one of these reasons to learn math motivates you to be a better student or
   makes your job as a teacher easier, then this list has done its job,

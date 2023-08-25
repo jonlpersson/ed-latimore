@@ -6,7 +6,7 @@ permalink: /change-your-life/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 image: /assets/images/posts/ed-speaking-2.jpg
 description: >-
   I was once a broke alcoholic. Then I changed my life. Now I'm a sober top 1%

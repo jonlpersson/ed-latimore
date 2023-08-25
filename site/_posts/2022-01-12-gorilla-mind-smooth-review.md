@@ -6,7 +6,7 @@ permalink: /gorilla-mind-smooth-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   A comprehensive review of the Gorilla Mind Smooth nootropic formula: what I
   think of it, how I use it, and how it compares to other popular nootropics.

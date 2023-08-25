@@ -6,7 +6,7 @@ permalink: /how-often-do-couples-fight/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   All couples fight, but how much fighting is considered healthy? Find out here
   according to experts. Also, find out how to fight less if you fight too much.

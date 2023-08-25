@@ -6,7 +6,7 @@ permalink: /how-to-prevent-hair-loss/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   After my FUE transplant, I needed to put together a program to keep the hair I
   had left. This protocol was born from what I figured out.

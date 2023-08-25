@@ -6,7 +6,7 @@ permalink: /why-its-hard-to-make-friends/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Discover why it’s so hard to make friends and practical ways to expand your
   social circle. A must-read for people having trouble connecting with others.

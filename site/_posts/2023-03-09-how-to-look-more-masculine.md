@@ -4,7 +4,7 @@ article_type: Article
 title: How to look more masculine (effortlessly exude masculinity)
 permalink: /how-to-look-more-masculine/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
   - longevity-health-and-performance
 description: >-

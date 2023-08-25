@@ -6,7 +6,7 @@ permalink: /review-of-aaron-clarey-bachelor-pad-economics/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   Bachelor Pad Economics: The Financial Advice Bible For Men gives guys
   everything they need to build a life without financial and female stress.

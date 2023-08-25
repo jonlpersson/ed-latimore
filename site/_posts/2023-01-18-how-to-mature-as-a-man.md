@@ -4,7 +4,7 @@ article_type: Article
 title: Here’s how to mature as a man
 permalink: /how-to-mature-as-a-man/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
   - life-lessons
 description: >-

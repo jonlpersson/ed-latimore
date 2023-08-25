@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Discover actionable steps you can take to be more interesting, expand your
   mind, and tap into a life you can get excited about

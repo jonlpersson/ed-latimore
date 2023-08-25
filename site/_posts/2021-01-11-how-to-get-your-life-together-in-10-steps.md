@@ -8,7 +8,7 @@ permalink: /how-to-get-your-life-together/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
   Learn how to get your life together with actionable tips and strategies to

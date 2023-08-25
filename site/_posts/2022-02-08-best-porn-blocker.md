@@ -6,7 +6,7 @@ permalink: /best-porn-blocker/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Kick the bad habit of watch porn for good by using a porn blocker. Here's the
   top porn blockers reviewed for 2023.

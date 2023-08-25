@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.

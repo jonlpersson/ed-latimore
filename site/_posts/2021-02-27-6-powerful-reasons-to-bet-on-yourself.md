@@ -6,7 +6,7 @@ permalink: /bet-on-yourself/
 tags:
   - mental-toughness
 categories:
-  - the-inner-work
+  - life-lessons
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."
 image: /assets/images/posts/russian-roulette.jpg
 ---

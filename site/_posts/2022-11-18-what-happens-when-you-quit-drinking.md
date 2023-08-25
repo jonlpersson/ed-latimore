@@ -6,7 +6,7 @@ permalink: /what-happens-when-you-quit-drinking/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Quitting alcohol can change your life if you let it. Here’s what to expect
   when you finally give up drinking

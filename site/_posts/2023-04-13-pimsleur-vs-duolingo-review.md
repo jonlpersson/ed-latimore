@@ -4,7 +4,7 @@ article_type: Article
 title: 'Pimsleur vs Duolingo: Choosing the best language learning app'
 permalink: /pimsleur-vs-duolingo-review/
 tags:
-  - learning-skills
+  - chess-math-and-language
 categories:
 description: >-
   Pimsleur and Duolingo are two popular language-learning apps to help you learn

@@ -6,7 +6,7 @@ permalink: /stand-up-for-yourself-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   If you stand for nothing, you’ll fall for anything, even in your romantic
   relationships. Here’s how to stand up for yourself in a relationship.

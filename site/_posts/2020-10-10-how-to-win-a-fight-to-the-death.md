@@ -4,9 +4,9 @@ article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   Fighting to the death teaches you a lot about life. Violence has a lot to
   teach us all. I learned from both street fights and boxing matches.

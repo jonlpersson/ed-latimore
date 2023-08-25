@@ -6,7 +6,7 @@ permalink: /how-to-get-into-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/posts/ed-with-anna.jpg
 description: >-
   If you can't spot the red flags, you're in big trouble. This article teaches

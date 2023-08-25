@@ -6,7 +6,7 @@ permalink: /how-to-stand-up-for-yourself/
 tags:
   - how-to-make-friends
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Don't be a pushover. Follow these practical steps to standing up for yourself
   and take back control of your life.

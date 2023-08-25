@@ -6,7 +6,7 @@ permalink: /signs-of-maturity/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 image: /assets/images/posts/signs-of-maturity-growth.jpg
 description: >-
   How do you become more mature and improve your quality of life? Here are 6

@@ -6,7 +6,7 @@ permalink: /monk-mode-review/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   How I used Monk Mode to improve my boxing, get sober, and create major change
   in my life.

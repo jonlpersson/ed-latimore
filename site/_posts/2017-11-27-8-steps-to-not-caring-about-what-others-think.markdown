@@ -6,7 +6,7 @@ permalink: /how-to-stop-worrying-about-what-others-think-of-you/
 tags:
   - how-to-control-your-emotions
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/posts/ed-chilling-boat.jpg
 description: >-
   I used to care what everyone else thought about me. Getting over the fear of

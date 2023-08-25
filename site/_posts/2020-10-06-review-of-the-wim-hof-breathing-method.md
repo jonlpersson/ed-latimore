@@ -6,7 +6,7 @@ permalink: /wim-hof-method-review/
 tags:
   - mental-toughness
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/thumbnails/ed-latimore-ice-bath-submerged.jpg
 description: >-
   After purchasing the Wim Hof video course, I have no regrets. Here is my

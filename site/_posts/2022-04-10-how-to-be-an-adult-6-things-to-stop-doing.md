@@ -7,7 +7,7 @@ tags:
   - change-your-perspective
   - mental-toughness
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   If you stop doing just these 6 things, you'll be an adult by default. Learn
   which things to not do if you want to be taken seriously as a grown-up. 

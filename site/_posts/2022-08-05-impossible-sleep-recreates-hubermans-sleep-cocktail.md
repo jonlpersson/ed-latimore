@@ -6,7 +6,7 @@ permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
 tags:
   - how-to-become-superhuman
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   I haven't been sleeping well, so I tried Impossible Sleep. Learn how this
   supplement can help you sleep as well.

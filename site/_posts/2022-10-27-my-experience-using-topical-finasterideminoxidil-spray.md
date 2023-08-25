@@ -6,7 +6,7 @@ permalink: /topical-finasteride-and-minoxidil-spray/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   Propecia has too many adverse effects. Rogaine doesn't work well enough. Hair
   transplants are too expensive. Here is an affordable hair loss solution.

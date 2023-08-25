@@ -4,9 +4,9 @@ article_type: Article
 title: What happens when you learn to fight (+ benefits)
 permalink: /what-happens-when-you-learn-to-fight/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/thumbnails/ed-warming-up-hitting-the-speedbag.jpg
 description: >-
   Learning to fight is transformative to your mind, body, and confidence. In

@@ -6,7 +6,7 @@ permalink: /low-level-light-therapy-for-hair-loss/
 tags:
   - how-to-stop-balding
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   Low-level laser (light) is a gamechanger for men losing their hair. But how
   does it work? This describes how the technology works and much more. 

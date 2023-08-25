@@ -7,7 +7,7 @@ tags:
   - the-power-of-forgiveness
   - building-family-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Your parents are only human. Your challenge is remembering that despite the
   mistakes they may have made, they did the best they could with you.

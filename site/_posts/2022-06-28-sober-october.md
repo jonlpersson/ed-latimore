@@ -6,7 +6,7 @@ permalink: /sober-october/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Sober October is a chance for many people to try sobriety for the first time
   in a social setting. Learn how to make it a success.

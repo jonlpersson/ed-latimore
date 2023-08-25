@@ -6,7 +6,7 @@ permalink: /is-physics-hard-how-to-study-and-learn-basic-physics/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/posts/ed-graduation-day.png
 description: >-
   Physics isn’t hard. You just need a special approach to the math and theory

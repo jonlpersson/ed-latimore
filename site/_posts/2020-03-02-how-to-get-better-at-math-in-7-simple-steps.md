@@ -6,7 +6,7 @@ permalink: /how-to-get-better-at-math/
 tags:
   - math-concepts
 categories:
-  - learning-skills
+  - chess-math-and-language
 image: /assets/images/posts/teachingmath.jpg
 description: >-
   How did I go from being a poor math student in high school to getting a degree

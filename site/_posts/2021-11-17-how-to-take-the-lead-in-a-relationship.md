@@ -6,7 +6,7 @@ permalink: /how-to-take-the-lead-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Whether you're single or have been married for years, here's how to be a
   leader in your relationship.

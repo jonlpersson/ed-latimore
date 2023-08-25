@@ -6,7 +6,7 @@ permalink: /how-to-stop-hating-someone/
 tags:
   - the-power-of-forgiveness
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   When you hate someone, you’re drinking poison and expecting them to die. Learn
   how to stop hurting yourself with and get over your hate of others

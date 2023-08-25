@@ -6,7 +6,7 @@ permalink: /how-to-tell-a-girl-you-like-her/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Feeling butterflies in your belly for a special girl? Here’s what to do before
   pouring out your heart

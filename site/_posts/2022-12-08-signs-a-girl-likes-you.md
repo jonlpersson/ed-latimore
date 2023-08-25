@@ -6,7 +6,7 @@ permalink: /signs-a-girl-likes-you/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Want to know if you’re more than friends? Here are the signs a girl likes you
   romantically

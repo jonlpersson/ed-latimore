@@ -4,9 +4,9 @@ article_type: Article
 title: 8 lessons from losing a fight
 permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-television/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/posts/ed-knocked-out.jpg
 description: >-
   You learn more valuable life lessons losing than you do from winning. These

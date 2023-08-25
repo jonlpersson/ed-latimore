@@ -6,7 +6,7 @@ permalink: /dokkodo/
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   In this post, I'll find modern meaning and interpretation of Miyamoto
   Musashi's short classic "Dokkodo".

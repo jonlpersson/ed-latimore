@@ -4,9 +4,9 @@ article_type: Article
 title: My review of the Bosley Revitalizer 272 Laser Cap
 permalink: /bosley-revitzlizer-272-laser-cap-review/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really
   worth the price tag. Read my review to see if this product is worth the money.

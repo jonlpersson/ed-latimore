@@ -6,7 +6,7 @@ permalink: /6-reasons-to-be-grateful/
 tags:
   - how-to-control-your-emotions
 categories:
-  - the-inner-work
+  - life-lessons
 image: /assets/images/posts/ed-beach.jpg
 description: >-
   Gratitude can make any situation better, but only if you understand it. Learn

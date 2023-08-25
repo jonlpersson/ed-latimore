@@ -4,9 +4,9 @@ article_type: Article
 title: 'The 18 best manly hobbies'
 permalink: /best-manly-hobbies/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   The ultimate list of hobbies for men: 18 ideas for how to use your time to be more unique, attractive, and creative during your downtime.
 image: /assets/images/thumbnails/ed-latimore-doing-archery.jpg

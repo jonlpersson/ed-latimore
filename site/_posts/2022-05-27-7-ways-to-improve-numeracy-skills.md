@@ -4,9 +4,9 @@ article_type: Article
 title: 7 ways to improve numeracy skills
 permalink: /numeracy-skills/
 tags:
-  - learning-skills
+  - chess-math-and-language
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   This is bigger than just being good at math. Numbers are essential to life.
   Learn how to improve your numeracy skills in this lesson.

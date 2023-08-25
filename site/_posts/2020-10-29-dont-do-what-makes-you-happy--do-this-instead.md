@@ -6,7 +6,7 @@ permalink: /do-what-makes-you-happy/
 tags:
   - change-your-perspective
 categories:
-  - the-inner-work
+  - life-lessons
 description: >-
   Most of us can't do what we love for money. That means we need a different way
   to find happiness through work. Read this to learn how.

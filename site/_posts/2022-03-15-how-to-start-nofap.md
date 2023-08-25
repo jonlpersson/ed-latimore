@@ -6,7 +6,7 @@ permalink: /how-to-start-nofap/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   Learn how to control your impulses, strengthen your focus, and harness your
   sexual energy to get anything you want from life with No Fap.

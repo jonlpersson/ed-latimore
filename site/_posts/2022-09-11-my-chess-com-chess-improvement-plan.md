@@ -4,9 +4,9 @@ article_type: Article
 title: My Chess.com Chess Improvement Plan
 permalink: /chess-improvement-plan/
 tags:
-  - learning-skills
+  - chess-math-and-language
 categories:
-  - learning-skills
+  - chess-math-and-language
 description: >-
   This is a plan that I'll be implementing to improve my rating on Chess.com in
   the rapid and daily games. Not for OTB but could work.

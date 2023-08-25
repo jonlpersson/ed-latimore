@@ -6,7 +6,7 @@ permalink:
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 image: /assets/images/posts/ShotgunWedding.jpg
 description: >-
   Learn why you can't force love. Impatient, insecure, or damaged people try to

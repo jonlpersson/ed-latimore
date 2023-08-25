@@ -5,9 +5,9 @@ title: The difference between intuition and instinct
 permalink: /intuition-vs-instinct/
 tags:
   - mental-toughness
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 description: >-
   Intuition is the result of knowledge and knowledge is the result of
   experience. Instinct is innate. Learn the advantages of both.

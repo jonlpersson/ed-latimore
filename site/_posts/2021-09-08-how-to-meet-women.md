@@ -6,7 +6,7 @@ permalink: /how-to-meet-women/
 tags:
   - dating-and-relationships
 categories:
-  - connecting-with-people
+  - life-lessons
 description: >-
   Worried about getting rejected when you talk to girls? Interested in meeting
   women but not sure where to start? Start here.

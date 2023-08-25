@@ -6,7 +6,7 @@ permalink: /quotes-from-mans-search-for-meaning
 tags:
   - book-quotes-and-summaries
 categories:
-  - quotes-and-book-summaries
+  - chess-math-and-language
 description: >-
   In Man's Search For Meaning, Viktor Frankl teaches from his experiences
   surviving the Nazi Concentration. Here are the powerful quotes. 

@@ -6,7 +6,7 @@ permalink: /how-to-have-fun-and-socialize-sober/
 tags:
   - sober-life
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 image: /assets/images/posts/ed-doing-karaoke.jpg
 description: >-
   Most people have no idea how to socialize without the aid of alcohol and have

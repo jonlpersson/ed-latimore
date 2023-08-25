@@ -4,9 +4,9 @@ article_type: Article
 title: 10 ways for any man to look taller
 permalink: /how-to-look-taller/
 tags:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   These style tips will not only make you look taller, but some of them may
   actually increase your height. 

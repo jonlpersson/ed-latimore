@@ -4,9 +4,9 @@ article_type: Article
 title: Best books on the mental and emotional side of fighting
 permalink: /books-about-mental-side-of-fighting/
 tags:
-  - boxing-lessons
+  - longevity-health-and-performance
 categories:
-  - boxing-lessons
+  - longevity-health-and-performance
 image: /assets/images/posts/ReadingImage.png
 description: >-
   A curated list of the most influential, memorable, and instructive books that

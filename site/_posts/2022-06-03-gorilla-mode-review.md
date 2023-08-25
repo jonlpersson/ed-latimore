@@ -6,7 +6,7 @@ permalink: /gorilla-mode-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - how-to-be-a-hot-guy
+  - longevity-health-and-performance
 description: >-
   A comprehensive review of the Gorilla Mode pre-workout: what I think of it,
   how I use it, and how it compares to other popular pre-workouts.

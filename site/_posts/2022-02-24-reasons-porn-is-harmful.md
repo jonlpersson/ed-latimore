@@ -6,7 +6,7 @@ permalink: /reasons-porn-is-harmful/
 tags:
   - how-to-stop-watching-porn
 categories:
-  - how-to-break-an-addiction
+  - longevity-health-and-performance
 description: >-
   There’s a lot of debate on whether porn can actually be harmful, here’s what
   the science has to say.
