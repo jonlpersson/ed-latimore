@@ -6,7 +6,7 @@ permalink: /working-at-a-homeless-shelter/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 description: >-
   I once worked at a men’s homeless shelter. Here are five powerful lessons I
   learned from homeless people.

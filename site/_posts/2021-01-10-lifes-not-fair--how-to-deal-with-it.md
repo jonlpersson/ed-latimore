@@ -6,7 +6,7 @@ permalink: /life-isnt-fair/
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 description: >-
   Life is fair because it's unfair to everyone. Learn how to take the unfair
   lemons in life and make lemonade. This is a skill that will change your life.

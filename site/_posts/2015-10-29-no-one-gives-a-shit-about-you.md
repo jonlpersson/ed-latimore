@@ -6,7 +6,7 @@ permalink:
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/morpheus.jpeg
 description: >-
   You ask yourself, "Why nobody gives a damn about me?"  I have the answer. No

@@ -6,7 +6,7 @@ permalink: /ten-crack-commandments-business-and-life-lessons/
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 description: >-
   The Ten Crackcommandments is an education in the real, raw, viciousness of
   human nature. This article takes lessons from the song to apply to your entire

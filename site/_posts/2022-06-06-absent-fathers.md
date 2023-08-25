@@ -6,7 +6,7 @@ permalink: /absent-fathers/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 description: >-
   Fatherless homes lack examples for boys to follow into becoming men. This
   article provides solutions for the children of absent fathers.

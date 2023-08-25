@@ -6,7 +6,7 @@ permalink: /stop-being-poor/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/beingbroke.jpg
 description: >-
   Why was I broke? I was poor because of the problems on this list. If you don't

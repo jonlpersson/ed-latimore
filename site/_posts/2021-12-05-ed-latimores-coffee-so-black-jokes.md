@@ -6,7 +6,7 @@ permalink: /black-coffee-jokes-puns/
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 description: >-
   This collection of coffee jokes will leave you laughing and you might learn
   something new. Not for the politically correct or overly sensitive.

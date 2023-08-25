@@ -7,7 +7,7 @@ tags:
   - living-in-the-hood
   - longevity-health-and-performance
 categories:
-  - living-in-the-hood
+  - life-lessons
   - longevity-health-and-performance
 description: >-
   Getting punched in the face isn't that bad. In fact, it can be the source of

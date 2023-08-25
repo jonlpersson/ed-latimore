@@ -6,7 +6,7 @@ permalink: /tough-love/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 description: >-
   Giving tough love can be terrifying. But if you truly care about someone, you
   must be prepared to help them face the uncomfortable facts

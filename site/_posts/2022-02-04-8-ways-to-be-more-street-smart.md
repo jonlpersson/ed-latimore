@@ -6,7 +6,7 @@ permalink: /how-to-be-street-smart/
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 description: >-
   You don't have to be in the streets to be street smart, but you'll get taken
   advantage of if you aren't. Read this to learn how to be street smarter.

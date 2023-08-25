@@ -6,7 +6,7 @@ permalink: /the-projects/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/housing-projects.jpg
 description: >-
   Growing up in the projects is rough. I managed to get out, but these lessons I

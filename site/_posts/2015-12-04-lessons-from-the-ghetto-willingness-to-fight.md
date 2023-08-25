@@ -6,7 +6,7 @@ permalink:
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/projects.jpg
 description: >-
   Fighting in the hood is always about more than just fighting. The following is

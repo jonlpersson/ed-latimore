@@ -1,4 +1,5 @@
 ---
+published: false
 category: living-in-the-hood
 title: Living in the hood
 description: >-

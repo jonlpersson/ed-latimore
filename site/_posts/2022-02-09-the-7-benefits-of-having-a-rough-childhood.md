@@ -6,7 +6,7 @@ permalink: /7-benefits-of-having-a-rough-childhood/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 description: >-
   This is for the kids growing up in broken homes, dangerous neighborhoods, and
   who are bullied at school. You have an advantage that can't be taught or beat.

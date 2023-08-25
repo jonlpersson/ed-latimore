@@ -6,7 +6,7 @@ permalink: /how-to-hustle-like-a-crackhead/
 tags:
   - living-in-the-hood
 categories:
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/real-tyrone-biggums-1.jpeg
 description: >-
   You don't have to smoke crack to get the crackhead hustle, work ethic, and

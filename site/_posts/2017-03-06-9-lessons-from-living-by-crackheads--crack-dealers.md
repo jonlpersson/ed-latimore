@@ -6,7 +6,7 @@ permalink: /crackhead/
 tags: 
   - living-in-the-hood
 categories: 
-  - living-in-the-hood
+  - life-lessons
 image: /assets/images/posts/ed-latimore-freeway-rick-ross-crackhead.png
 description: >-
   I grew up in the projects and learned a lot about crackheads and crack
