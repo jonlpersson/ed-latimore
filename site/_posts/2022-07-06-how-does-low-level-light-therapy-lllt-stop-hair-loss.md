@@ -58,7 +58,7 @@ When you combine these three factors of laser light, it's easy to under why they
 
 To put all of this in perspective, consider that the watt (W) is the fundamental unit of optical power. It's defined as the rate of the energy of one joule (J) per second. Your average household incandescent light bulb uses about **60 watts** of electricity and LED light bulbs use about 10 watts.
 
-![Coherent light vs incoherent light](/assets/images/drafts/coherentlight.jpeg "Light bulbs are out of phase (incoherent) and lasers are in phase (coherent)"){: width="240" height="180"}
+![Coherent light vs incoherent light](/assets/images/drafts/coherentlight.jpeg "Light bulbs are out of phase &#40;incoherent&#41; and lasers are in phase &#40;coherent&#41;"){: width="240" height="180"}
 
 Unless you touch their surface, you’ve never been burned or cut with the light from a lightbulb. However, because of a laser’s unique characteristics, [that same wattage can carve acrylic or aluminnum.](https://www.troteclaser.com/en/learn-support/faqs/optimal-laser-power)
 
@@ -104,6 +104,8 @@ To fully appreciate how low-level light therapy works for hair loss, we have to 
 All of this is thought to be caused by the DHT, a useful hormone with the unfortunate side effect of causing the hair follicles to shrink, which simultaneously extends the amount of time hair spends in the telogen and exogen phase and reduces the growth that occurs in the anagen phase.
 
 Analogously, think of this like trying to fill a bucket with a tiny hole in the side that is growing.
+
+{% include widgets/summary.html id="derma-roller" %}
 
 ### Male androgenetic alopecia and the bucket analogy
 
