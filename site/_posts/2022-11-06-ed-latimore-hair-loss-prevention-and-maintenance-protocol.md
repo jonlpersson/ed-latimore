@@ -239,6 +239,8 @@ The research that evaluated the efficacy of this technique conducted the trials 
 
 Check out my article that goes more in-depth into dermarolling and how it works here—&gt;[Dermarolling for hair loss](/derma-roller-for-hair/)
 
+{% include widgets/summary.html id="derma-roller" %}
+
 ## Low level laser therapy (LLLT)
 
 Low level laser therapy is a powerful technology that use low power lasers to stimulate growth. The technology works because low level lasers have been shown to activate mitochondria.
