@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-08-28 21:40:00 -0400
 article_type: Article
 title: 8 benefits of using mastic gum and mastic gum extracts
 permalink: /mastic-gum-benefits/
@@ -18,7 +18,7 @@ The process of harvesting the resin is fairly straightforward. The resin is extr
 
 The process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
 
-In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system.
+In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system.&nbsp;
 
 ## Health benefits and effects of chewing mastic gum
 
