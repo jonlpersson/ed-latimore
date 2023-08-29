@@ -49,6 +49,8 @@ Mastic gum has been found to help with:
 * High cholesterol
 * Cardiovascular health
 
+I wrote a more detailed list of the 8 most potent benefits you attain from mastic gum. [Check it out here.](/mastic-gum-benefits/)&nbsp;
+
 ## How often do you use mastic gum?
 
 I treat mastic gum like any other resistance workout. I don’t do it for more than 2-3x a week. You need to rest anyway as you can really feel it working your jawline. Like typical workouts, you’ll need to give it 3-4 weeks before you start to notice any real results.
