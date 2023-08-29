@@ -32,11 +32,11 @@ The Greeks didn't know about the antimicrobial activity of this aromatic resin t
 
 Today, mastic gum is taken as either a power, a capsule, or the old-fashioned way, as chewing gum. I don't understand why anyone would opt to take just the powder or capsule because doing so causes you to miss out on the added benefits of chewing the tough gum but to each their own.
 
-You can read my review of the Chios Mastic Chewing Gum here to learn more about some of those benefits, though I'll be covering them here. You can also pick up a tin of Chios Mastic Gum here, sourced directly from the island of Chios from a trusted supplier (he's actually the designer of this website) here.&nbsp;
+You can read my review of the Chios Mastic Chewing Gum here to learn more about some of those benefits, though I'll be covering them here. You can also pick up a tin of Chios Mastic Gum here, sourced directly from the island of Chios [from a trusted supplier here.&nbsp;](https://www.grecogum.com/?via=ed)
 
 ### Mastic Gum defines your jawline
 
-First, the bad news. Despite what you read on sites about the power of mewing to redefine your jawline and make you more attractive, there isn't much you can do to change your jawline and facial structure. Your facial type and your genetics set your facial structure.
+First, the bad news. Despite what you read on sites about the [power of mewing](https://www.verywellhealth.com/what-is-mewing-5087751) to redefine your jawline and make you more attractive, there isn't much you can do to change facial structure. Your facial type and your genetics set your facial structure.
 
 While there is a lot of evidence that actions you take as a child will affect your facial structure, once you're old enough to pay for someone's product that promises to fix your jawline, there isn't much you can do beyond surgery.
 
