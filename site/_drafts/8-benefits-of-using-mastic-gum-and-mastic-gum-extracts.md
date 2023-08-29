@@ -40,13 +40,17 @@ First, the bad news. Despite what you read on sites about the [power of mewing](
 
 While there is a lot of evidence that actions you take as a child will affect your facial structure, once you're old enough to pay for someone's product that promises to fix your jawline, there isn't much you can do beyond surgery.
 
-The good news is that there is a LOT you can do to maximize the appearance of your jawline. And mastic contributes significantly to what you can do.
+The good news is that there is a LOT you can do to maximize the appearance of your jawline.[And mastic contributes significantly to what you can do.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893462/)
 
-The two things you have control over are your level of body fat and the tone of your jaw muscles. It's fairly obvious how chewing mastic gum can help to maximize the latter. It's tough to chew and it gives you a decent workout. I know that I feel the muscles in my jaw work. This toning can improve your appearance.
+The two things you have control over are your level of body fat and the tone of your jaw muscles. It's fairly obvious how chewing mastic gum can help to maximize the latter. It's tough to chew, and it gives you a decent workout. [I know that I feel the muscles in my jaw work](/mastic-gum-review/). This toning can improve your appearance.
 
-As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it's already 19 percent more than you'd burn just sitting there doing nothing. I'm not sure how much harder mastic gum is to chew, but I know it's definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
+As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it's already 19 percent more than you'd burn just sitting there doing nothing. I
+
+'m not sure how much harder mastic gum is to chew, but I know it's definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
 
 The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise.
+
+If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.&nbsp;](https://www.grecogum.com/?via=ed)
 
 ### Mastic gum keeps your teeth clean
 
