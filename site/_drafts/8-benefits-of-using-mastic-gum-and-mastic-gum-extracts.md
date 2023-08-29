@@ -68,11 +68,15 @@ It looks like the ancient Greeks had the right idea. Due to its high levels of a
 
 ## Health benefits and effects of taking mastic gum extracts and supplements
 
-As much as I love chewing the gum, I must admit that taking the supplement as an extract is where many of the magical effects of mastic gum and mastic gum extracts are observed. You will obviously get them if you chew it—especially considering that the gum is meant to be chewed for way longer than a regular stick of bubblegum.&nbsp;
+![mastic capsule supplement](/assets/images/drafts/mastic-supplement.avif "mastic capsule supplement"){: width="600" height="600"}
+
+As much as I love chewing the gum, I must admit that taking the supplement as an extract is where many of the magical effects of mastic gum and mastic gum extracts are observed.
+
+You will obviously get them [if you chew it](https://www.grecogum.com/?via=ed)—especially considering that the gum is meant to be chewed for way longer than a regular stick of bubblegum.&nbsp;
 
 ## Mastic gum relieves gastrointestinal disorders and distress
 
-Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. However, the underlying mechanism behind this rapid cure has remained elusive. Research has unveiled mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
+Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
 
 This is also the bacteria that is responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.&nbsp;
 
@@ -80,7 +84,7 @@ Mastic gum has also proven to be a potent weapon in dealing with acid reflux, he
 
 Of particular note, mastic gum has demonstrated strong anti-inflammatory properties. The mechanism of this alleviation may be interesting to people struggling with systemic inflammation, as a four-week course of mastic gum resulted in a significant decrease of the inflammatory blood markers IL-6 and C-reactive protein.
 
-### Mastic gum decreases the risk of cardiovascular disease and improves metabolic health
+### Mastic gum decreases the risk of cardiovascular disease and improves metabolic health.
 
 Consuming 5g of mastic gum daily has been shown to reduce serum total cholesterol levels, low-density lipoprotein (LDL) - known as bad cholesterol, and the total cholesterol/high-density lipoprotein (HDL) ratio.
 
