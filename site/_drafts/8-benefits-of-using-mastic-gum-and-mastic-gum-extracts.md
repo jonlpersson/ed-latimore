@@ -102,26 +102,38 @@ Furthermore, the potential of mastic essential oil to act preventively and contr
 
 ### Mastic can help with allergic asthma&nbsp;
 
-Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions. The body's immune system triggers an allergic reaction in response to allergens like pollen, dust mites, or certain foods. Eosinophils are recruited to the affected tissues, releasing inflammatory substances that can contribute to the symptoms of allergies, such as itching, sneezing, and congestion.
+Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions.
 
-Research has shown that mastic's anti-inflammatory properties extend to allergic reactions involving eosinophils. A 2010 study examined the effects of mastic essential oil on eosinophil levels in individuals with asthma, a condition often driven by allergic responses. The study demonstrated that mastic oil helped reduce eosinophil counts, suggesting its potential in alleviating allergic inflammation. This indicates a promising avenue for mastic's role in managing allergic reactions and conditions like asthma.
+The body's immune system triggers an allergic reaction in response to allergens like pollen, dust mites, or certain foods. Eosinophils are recruited to the affected tissues, releasing inflammatory substances that can contribute to the symptoms of allergies, such as itching, sneezing, and congestion.
+
+Research has shown that mastic's anti-inflammatory properties extend to allergic reactions involving eosinophils. [A 2010 study](https://pubmed.ncbi.nlm.nih.gov/20855649/) examined the effects of mastic essential oil on eosinophil levels in individuals with asthma, a condition often driven by allergic responses. The study demonstrated that mastic oil helped reduce eosinophil counts, suggesting its potential in alleviating allergic inflammation.
+
+This indicates a promising avenue for mastic's role in managing allergic reactions and conditions like asthma.
 
 ## Benefits of mastic oil for topical health
 
-Mastic oil is derived from the resin of the mastic tree. The traditional method of harvesting mastic resin from the trees and processing it into oil or other forms has been passed down through generations. Steam distillation, a technique used to extract essential oils like mastic oil, has been practiced for a long time. However, technological advancements have introduced methods that can be done faster using acids and solvents. In either technique, the potent effects of mastic oil are not lost.&nbsp;
+![mastic oil](/assets/images/drafts/organic-mastic-2-5ml-01-logo-1-1946x.webp "mastic oil"){: width="1946" height="1946"}
 
-### Antiinflammatory effects for muscle and joint pain
+Mastic oil is derived from the resin of the mastic tree. The traditional method of harvesting mastic resin from the trees and processing it into oil or other forms has been passed down through generations.
+
+Steam distillation, a technique used to extract essential oils like mastic oil, has been practiced for a long time. However, technological advancements have introduced methods that can be done faster using acids and solvents. In either technique, the potent effects of mastic oil are not lost.&nbsp;
+
+### Anti-inflammatory effects for muscle and joint pain
 
 Mastic essential oil possesses remarkable pain-relieving attributes, primarily due to its composition, notably its substantial content of monoterpenes. Monoterpenes are organic compounds present in diverse essential oils, including Mastic, and play a pivotal role in imparting analgesic and anti-inflammatory qualities to the oil.
 
-The analgesic nature of Mastic essential oil suggests its potential in assuaging discomfort by interrupting pain signals and diminishing unease. This potential proves especially advantageous for addressing issues like muscle soreness, joint discomfort, headaches, and minor injuries. Moreover, the oil's ability to counteract inflammation, a common contributor to pain across various scenarios, underscores its anti-inflammatory effect. By curtailing inflammation, Mastic essential oil can effectively alleviate pain and foster a sensation of relief.
+The analgesic nature of Mastic essential oil suggests its potential in assuaging discomfort by interrupting pain signals and diminishing unease. This potential proves especially advantageous for addressing issues like muscle soreness, joint discomfort, headaches, and minor injuries.
+
+Moreover, the oil's ability to counteract inflammation, a common contributor to pain across various scenarios, underscores its anti-inflammatory effect. By curtailing inflammation, Mastic essential oil can effectively alleviate pain and foster a sensation of relief.
 
 ### Mastic oil has powerful medicinal properties
 
-Mastic Essential Oil to the skin offers a range of remarkable benefits, rooted in its rich composition of bioactive compounds. This natural elixir possesses potent antiseptic and antimicrobial properties, making it an ideal solution for addressing various skin issues. Whether dealing with cuts, wounds, or boils, Mastic Essential Oil's ability to prevent infections and expedite the healing process is invaluable. Its antiseptic nature not only safeguards the affected areas but also promotes cleaner and faster recovery, ensuring optimal skin health.
+Mastic Essential Oil to the skin offers a range of remarkable benefits, rooted in its rich composition of bioactive compounds. This natural elixir possesses potent antiseptic and antimicrobial properties, making it an ideal solution for addressing various skin issues.
+
+Whether dealing with cuts, wounds, or boils, Mastic Essential Oil's ability to prevent infections and expedite healing is invaluable. Its antiseptic nature not only safeguards the affected areas but also promotes cleaner and faster recovery, ensuring optimal skin health.
 
 Furthermore, Mastic Essential Oil showcases remarkable antifungal attributes, effectively combatting fungal infections such as ringworm. Its potent bioactive compounds, including monoterpenes like limonene, work harmoniously to target and eradicate these infections, restoring the skin to its natural balance. This makes Mastic Essential Oil an essential ally for maintaining overall skin health and preventing the discomfort associated with fungal issues.
 
-In addition to its antiseptic and antifungal prowess, Mastic Essential Oil boasts astringent qualities that are particularly beneficial for individuals with oily skin. By regulating sebum production, the oil helps control excess oiliness and minimize shine. Its natural astringency not only promotes a more balanced complexion but also contributes to smoother, tighter skin. Altogether, Mastic Essential Oil emerges as a versatile skincare solution, addressing a spectrum of concerns and enhancing the overall well-being of the skin.
+In addition to its antiseptic and antifungal prowess, Mastic Essential Oil boasts astringent qualities that are particularly beneficial for individuals with oily skin. By regulating sebum production, the oil helps control excess oiliness and minimize shine. Its natural astringency promotes a more balanced complexion and contributes to smoother, tighter skin.&nbsp;
 
 Grab mastic gum here.
