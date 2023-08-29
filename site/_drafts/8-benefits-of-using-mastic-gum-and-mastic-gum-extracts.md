@@ -8,17 +8,15 @@ categories:
 description:
 image:
 ---
-What is mastic gum?
-
 Mastic gum is a gum made from the resin of a particular type of mastic tree. While these trees are located throughout the Mediterranean region, Chios Mastic Gum refers to mastic gum made with trees from the Greek island of Chios, located in the northern Aegean Sea.
 
 This resin, called Chios masthia, is found in the trunk and branches of the mastic tree (*Pistacia lentiscus* L. *var latifolius Coss* or *Pistacia lentiscus var. Chia*). These trees live for about 100 years, and produce 60 to 250 g per tree of Chios mastia.
 
-The process of harvesting the resin is fairly straightforward. The resin is extracted from the tree and left to dry until it becomes this natural gum-like material. The process is so simple that the gum has been harvested the same way for over 2,500 years.
+The process of harvesting the resin is fairly straightforward. It's extracted from the tree and left to dry until it becomes this natural gum-like material. The process is so simple that the gum has been harvested the same way for over 2,500 years.
 
-The process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
+This is why any supplier of Mastic Gum products will occasionally run out of the product. The raw materials take a little time to extract and produce. Regardless, the process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
 
-In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system.&nbsp;
+In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system. I wrote about my experiences [chewing mastic gum in this article](/mastic-gum-review/).&nbsp;
 
 ## Health benefits and effects of chewing mastic gum
 
@@ -91,8 +89,6 @@ Furthermore, the potential of mastic essential oil to act preventively and contr
 Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions. The body's immune system triggers an allergic reaction in response to allergens like pollen, dust mites, or certain foods. Eosinophils are recruited to the affected tissues, releasing inflammatory substances that can contribute to the symptoms of allergies, such as itching, sneezing, and congestion.
 
 Research has shown that mastic's anti-inflammatory properties extend to allergic reactions involving eosinophils. A 2010 study examined the effects of mastic essential oil on eosinophil levels in individuals with asthma, a condition often driven by allergic responses. The study demonstrated that mastic oil helped reduce eosinophil counts, suggesting its potential in alleviating allergic inflammation. This indicates a promising avenue for mastic's role in managing allergic reactions and conditions like asthma.
-
-
 
 ## Benefits of mastic oil for topical health
 
