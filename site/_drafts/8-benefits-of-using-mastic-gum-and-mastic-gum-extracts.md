@@ -94,6 +94,10 @@ Furthermore, individuals who integrated mastic gum into their routine experience
 
 Numerous research studies have highlighted the potent anticancer properties found within mastic. [An investigation conducted in 2009](https://pubmed.ncbi.nlm.nih.gov/19838938/) delved into the efficacy of mastic essential oil against lung cancer cells, concluding that it not only exhibited the potential to combat these cells but also to hinder tumor growth.
 
+[More research showed](https://pubmed.ncbi.nlm.nih.gov/17376297/) that mastic gum is a potent upregulator of maspin (mammary serine protease inhibitor) in prostate cancer cells. You can [learn more about protease inhibitors](https://my.clevelandclinic.org/health/treatments/24937-protease-inhibitors) here, but they basically prevent certain viruses from making copies of themselves. In the context of this specific type of protease inhibitor, it seems to play a role in preventing cancer cells from making copies of themselves.
+
+Mapsin is normally downregulated in breast and prostate cancers, allowing them to replicate more easily, but upregulating mapsin puts a dent in the growth of these cancers. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602294/))
+
 Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells is worth noting. In addition, a 2011 study provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
 ### Mastic can help with allergic asthma&nbsp;
