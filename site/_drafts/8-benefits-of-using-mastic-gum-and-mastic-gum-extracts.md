@@ -86,13 +86,13 @@ Of particular note, [mastic gum has demonstrated strong anti-inflammatory proper
 
 ### Mastic gum decreases the risk of cardiovascular disease and improves metabolic health.
 
-Consuming 5g of mastic gum daily has been shown to reduce serum total cholesterol levels, low-density lipoprotein (LDL) - known as bad cholesterol, and the total cholesterol/high-density lipoprotein (HDL) ratio.
+Consuming 5g of mastic gum daily [has been shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/) to reduce serum total cholesterol levels, low-density lipoprotein (LDL) - known as bad cholesterol, and the total cholesterol/high-density lipoprotein (HDL) ratio.
 
 Furthermore, individuals who integrated mastic gum into their routine experienced lower blood glucose levels than those who took a placebo after only eight weeks. Maintaining lower blood sugar levels is a crucial factor in preventing diabetes and insulin resistance.
 
 ### Mastic gum promotes anticancer activities
 
-Numerous research studies have highlighted the potent anticancer properties found within mastic. An investigation conducted in 2009 delved into the efficacy of mastic essential oil against lung cancer cells, concluding that it not only exhibited the potential to combat these cells but also to hinder tumor growth.
+Numerous research studies have highlighted the potent anticancer properties found within mastic. [An investigation conducted in 2009](https://pubmed.ncbi.nlm.nih.gov/19838938/) delved into the efficacy of mastic essential oil against lung cancer cells, concluding that it not only exhibited the potential to combat these cells but also to hinder tumor growth.
 
 Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells is worth noting. In addition, a 2011 study provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
