@@ -20,6 +20,8 @@ In a nutshell, mastic gum is like a natural chewing gum that's been historically
 
 ## Health benefits and effects of chewing mastic gum
 
+
+
 People have been chewing the gum of *Pistacia lentiscus* long before it got that scientific name or rigorous clinical evidence and clinical trials verified its beneficial effects. As early as the 5th century B.C., there is documentation of Hippocrates himself using and prescribing mastic gum to treat patients with digestive disorders and colds.
 
 At this period of human history, oral hygiene was not nearly as developed as it is today. Mastic gum was used as a toothpaste because the natural resin has a pine-like aroma and flavor and is also antibacterial and antiviral.
