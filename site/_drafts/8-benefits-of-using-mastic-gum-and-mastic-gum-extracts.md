@@ -54,13 +54,15 @@ If you're tired of chewing sugary pieces of gum that cost almost no energy, rot 
 
 ### Mastic gum keeps your teeth clean
 
-The beauty of mastic gum is that it is one of the few natural remedies or dietary supplements that has produced objective scientific evidence of its effects. Here, we present another benefit reason to chew mastic gum rather than take a mastic gum powder or products containing mastic gum extracts. Oral hygiene and the gum's antibacterial hygiene.
+The beauty of mastic gum is that it is one of the few natural remedies or dietary supplements that has produced objective scientific evidence of its effects.
 
-Research indicates that mastic chewing gum possesses antibacterial properties against Helicobacter pylori. This Japanese study aimed to explore the potential antiplaque impact of mastic chewing gum.
+Here, we present another benefit reason to chew mastic gum rather than take a mastic gum powder or products containing mastic gum extracts. Oral hygiene and the gum's antibacterial hygiene.
+
+Research indicates that mastic chewing gum possesses antibacterial properties against Helicobacter pylori. [This Japanese study](https://pubmed.ncbi.nlm.nih.gov/12747455/) aimed to explore the potential antiplaque impact of mastic chewing gum.
 
 Chewing mastic gum for a span of 4 hours resulted in a notable reduction in bacterial colonies, a contrast to the placebo gum. The mastic gum group also showed a lower plaque and gingival index than the placebo group.
 
-Another study looked at the effect of Mastic Chewing Gum on Mutans streptococci, a bacteria known to heighten the risk of tooth cavity formation. During the course of three weeks, participants engaged in the habit of chewing mastic gum thrice daily. At the study's conclusion, researchers noted a reduction in Mutans streptococci levels among the participants.
+[Another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281189/) looked at the effect of Mastic Chewing Gum on mutans streptococci, a bacteria known to heighten the risk of tooth cavity formation. During the course of three weeks, participants engaged in the habit of chewing mastic gum thrice daily. At the study's conclusion, researchers noted a reduction in Mutans streptococci levels among the participants.
 
 It looks like the ancient Greeks had the right idea. Due to its high levels of antibacterial activity, Mastic chewing gum is a beneficial antiplaque agent in reducing bacterial growth in saliva and plaque formation on teeth.&nbsp;
 
