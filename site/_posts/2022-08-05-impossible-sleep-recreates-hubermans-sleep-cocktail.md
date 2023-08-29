@@ -24,6 +24,8 @@ I mentioned this to my buddy Joel Runyon, and he recommended his product, Imposs
 
 You could just take my word for it and click on the link above, but I’m sure you want to know a little more about this product. Well, I’m happy to educate you about Impossible Sleep and how you can use it to sleep better, age better, and feel ready to face the day, every day.
 
+I also started reading Dan Go's newsletter for High Performers. I puts out some great information on improving your sleep. [You can read his past posts and sign up here.&nbsp;](https://www.dango.co/)
+
 ***If you decide to try out Impossible Sleep, use promo code Ed20 to get 20% off the first order of a subscription batch you set up.***
 
 ## Dr. Andrew Huberman sleep cocktail
