@@ -78,11 +78,11 @@ You will obviously get them [if you chew it](https://www.grecogum.com/?via=ed)â€
 
 Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
 
-This is also the bacteria that is responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.&nbsp;
+This is also the bacteria responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.&nbsp;
 
 Mastic gum has also proven to be a potent weapon in dealing with acid reflux, heartburn, and indigestion (all symptoms of dyspepsia). It's also been effective at alleviating the symptoms of irritable bowel syndrome (inflammatory bowel disease) and Crohn's disease.
 
-Of particular note, mastic gum has demonstrated strong anti-inflammatory properties. The mechanism of this alleviation may be interesting to people struggling with systemic inflammation, as a four-week course of mastic gum resulted in a significant decrease of the inflammatory blood markers IL-6 and C-reactive protein.
+Of particular note, [mastic gum has demonstrated strong anti-inflammatory properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127998/). The mechanism of this alleviation may be interesting to people struggling with systemic inflammation, as a four-week course of mastic gum resulted in a significant decrease of the inflammatory blood markers IL-6 and C-reactive protein.
 
 ### Mastic gum decreases the risk of cardiovascular disease and improves metabolic health.
 
