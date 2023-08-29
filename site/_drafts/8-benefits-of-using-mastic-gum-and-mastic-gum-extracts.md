@@ -20,7 +20,7 @@ In a nutshell, mastic gum is like a natural chewing gum that's been historically
 
 ## Health benefits and effects of chewing mastic gum
 
-
+![Greco gum](/assets/images/drafts/greco.jpeg "Greco gum"){: width="640" height="608"}
 
 People have been chewing the gum of *Pistacia lentiscus* long before it got that scientific name or rigorous clinical evidence and clinical trials verified its beneficial effects. As early as the 5th century B.C., there is documentation of Hippocrates himself using and prescribing mastic gum to treat patients with digestive disorders and colds.
 
