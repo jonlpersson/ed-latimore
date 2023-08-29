@@ -44,11 +44,11 @@ The good news is that there is a LOT you can do to maximize the appearance of yo
 
 The two things you have control over are your level of body fat and the tone of your jaw muscles. It's fairly obvious how chewing mastic gum can help to maximize the latter. It's tough to chew, and it gives you a decent workout. [I know that I feel the muscles in my jaw work](/mastic-gum-review/). This toning can improve your appearance.
 
-As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it's already 19 percent more than you'd burn just sitting there doing nothing. I
+As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it's already 19 percent more than you'd burn just sitting there doing nothing.
 
-'m not sure how much harder mastic gum is to chew, but I know it's definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
+I'm not sure how much harder mastic gum is to chew, but I know it's definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
 
-The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise.
+The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/))
 
 If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.&nbsp;](https://www.grecogum.com/?via=ed)
 
