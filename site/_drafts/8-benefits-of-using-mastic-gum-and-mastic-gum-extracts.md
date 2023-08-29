@@ -98,7 +98,7 @@ Numerous research studies have highlighted the potent anticancer properties foun
 
 Mapsin is normally downregulated in breast and prostate cancers, allowing them to replicate more easily, but upregulating mapsin puts a dent in the growth of these cancers. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602294/))
 
-Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells is worth noting. In addition, a 2011 study provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
+Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells [is worth noting](https://pubmed.ncbi.nlm.nih.gov/16691616/). In addition, a 2011 study provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
 ### Mastic can help with allergic asthma&nbsp;
 
