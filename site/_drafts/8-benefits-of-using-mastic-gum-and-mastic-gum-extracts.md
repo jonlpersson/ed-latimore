@@ -6,8 +6,8 @@ permalink: /mastic-gum-benefits/
 categories:
   - longevity-health-and-performance
 description: >-
-  Mastic gum and products produced by the resin of the mastic tree have some
-  fantastic health benefits. 
+  Mastic gum and products made from the mastic tree resin have some fantastic
+  health benefits. 
 image: /assets/images/drafts/mastic-tree-dreamstime-xl-20532407.jpg
 ---
 Mastic gum is a gum made from the resin of a particular type of mastic tree. While these trees are located throughout the Mediterranean region, Chios Mastic Gum refers to mastic gum made with trees from the Greek island of Chios, located in the northern Aegean Sea.
@@ -126,7 +126,7 @@ Mastic essential oil possesses remarkable pain-relieving attributes, primarily d
 
 The analgesic nature of Mastic essential oil suggests its potential in assuaging discomfort by interrupting pain signals and diminishing unease. This potential proves especially advantageous for addressing issues like muscle soreness, joint discomfort, headaches, and minor injuries.
 
-Moreover, the oil's ability to counteract inflammation, a common contributor to pain across various scenarios, underscores its anti-inflammatory effect. By curtailing inflammation, Mastic essential oil can effectively alleviate pain and foster a sensation of relief.
+Moreover, the oil's ability to counteract inflammation, a common contributor to pain across various scenarios, underscores its anti-inflammatory effect. By curtailing inflammation, Mastic essential oil can effectively alleviate pain and foster a sensation of relief. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838553/))
 
 ### Mastic oil has powerful medicinal properties
 
@@ -136,6 +136,6 @@ Whether dealing with cuts, wounds, or boils, Mastic Essential Oil's ability to p
 
 Furthermore, Mastic Essential Oil showcases remarkable antifungal attributes, effectively combatting fungal infections such as ringworm. Its potent bioactive compounds, including monoterpenes like limonene, work harmoniously to target and eradicate these infections, restoring the skin to its natural balance.&nbsp;
 
-In addition to its antiseptic and antifungal prowess, Mastic Essential Oil boasts astringent qualities that are particularly beneficial for individuals with oily skin. By regulating sebum production, the oil helps control excess oiliness and minimize shine. Its natural astringency promotes a more balanced complexion and contributes to smoother, tighter skin.&nbsp;
+In addition to its antiseptic and antifungal prowess, Mastic Essential Oil boasts astringent qualities that are particularly beneficial for individuals with oily skin. By regulating sebum production, the oil helps control excess oiliness and minimize shine. Its natural astringency promotes a more balanced complexion and contributes to smoother, tighter skin. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838553/))
 
 [Grab mastic gum here.](https://www.grecogum.com/?via=ed)
