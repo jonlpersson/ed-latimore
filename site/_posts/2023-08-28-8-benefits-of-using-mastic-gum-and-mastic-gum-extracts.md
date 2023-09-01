@@ -34,7 +34,7 @@ The Greeks didn't know about the antimicrobial activity of this aromatic resin t
 
 Today, mastic gum is taken as either a power, a capsule, or the old-fashioned way, as chewing gum. I don't understand why anyone would opt to take just the powder or capsule because doing so causes you to miss out on the added benefits of chewing the tough gum but to each their own.
 
-You can read my review of the Chios Mastic Chewing Gum here to learn more about some of those benefits, though I'll be covering them here. You can also pick up a tin of Chios Mastic Gum here, sourced directly from the island of Chios [from a trusted supplier here.&nbsp;](https://www.grecogum.com/?via=ed)
+You can read my review of the Chios Mastic Chewing Gum here to learn more about some of those benefits, though I'll be covering them here. You can also pick up a tin of Chios Mastic Gum here, sourced directly from the island of Chios [from a trusted supplier here.&nbsp;](https://grecogum.com/edlatimore/)
 
 ### Mastic Gum defines your jawline
 
@@ -52,7 +52,7 @@ I'm not sure how much harder mastic gum is to chew, but I know it's definitely t
 
 The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/))
 
-If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.&nbsp;](https://www.grecogum.com/?via=ed)
+If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.&nbsp;](https://grecogum.com/edlatimore/)
 
 ### Mastic gum keeps your teeth clean
 
@@ -74,7 +74,7 @@ It looks like the ancient Greeks had the right idea. Due to its high levels of a
 
 As much as I love chewing the gum, I must admit that taking the supplement as an extract is where many of the magical effects of mastic gum and mastic gum extracts are observed.
 
-You will obviously get them [if you chew it](https://www.grecogum.com/?via=ed)—especially considering that the gum is meant to be chewed for way longer than a regular stick of bubblegum.&nbsp;
+You will obviously get them [if you chew it](https://grecogum.com/edlatimore/)—especially considering that the gum is meant to be chewed for way longer than a regular stick of bubblegum.&nbsp;
 
 ## Mastic gum relieves gastrointestinal disorders and distress
 
@@ -138,4 +138,4 @@ Furthermore, Mastic Essential Oil showcases remarkable antifungal attributes, ef
 
 In addition to its antiseptic and antifungal prowess, Mastic Essential Oil boasts astringent qualities that are particularly beneficial for individuals with oily skin. By regulating sebum production, the oil helps control excess oiliness and minimize shine. Its natural astringency promotes a more balanced complexion and contributes to smoother, tighter skin. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838553/))
 
-[Grab mastic gum here.](https://www.grecogum.com/?via=ed)
+[Grab mastic gum here.](https://grecogum.com/edlatimore/)&nbsp;By using my affiliate link, I get a small cut to help run the site, and it costs nothing extra to you.&nbsp;
