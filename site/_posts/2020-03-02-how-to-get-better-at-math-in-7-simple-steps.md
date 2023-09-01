@@ -16,7 +16,7 @@ This post will teach you how to get better at math faster and with less studying
 
 A common issue with most people is that they think math skills are innate. They believe that either you get math or you don't.
 
-In high school, I had this issue as well. I figured that I didn't get the math gene because of this, there was no chance of me doing anything in my future that required crunching numbers, writing computer programs, or science.
+In high school, I had this issue as well. I figured that I didn't get the math gene and ,because of this, there was no chance of me doing anything in my future that required crunching numbers, writing computer programs, or science.
 
 According to psychology, I was a victim of a fixed mindset. I simply didn't think I could actually get better at math. Or at the very least, I wasn't willing to sacrifice the time and energy necessary to get my math grade and number skills up.
 
