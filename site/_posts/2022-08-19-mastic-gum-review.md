@@ -89,7 +89,7 @@ Unfortunately, the quality of mastic gum varies widely among sellers. You can ge
 
 ## The best mastic gum brand
 
-There are several sellers of mastic gum but like I said before, the quality varies. My preferred brand is [Greco Gum](https://www.grecogum.com/?via=ed). The founders pride themselves on making superior quality gum and their marketing is humorous.
+There are several sellers of mastic gum but like I said before, the quality varies. My preferred brand is [Greco Gum](https://grecogum.com/edlatimore/). The founders pride themselves on making superior quality gum and their marketing is humorous.
 
 There are many copycats but Greco Gum is the real deal. Like I said before, mastic gum has to go through a process of purification and ensuring the resistance level is right. Greco Gum goes through this process and doesn’t rush harvest and production just to get something on the shelves.
 
@@ -127,7 +127,7 @@ Neck curls are like sit ups except you lift your head instead of engaging your c
 
 For what it does, I’d definitely recommend mastic gum. But if you’re looking for a sugary treat to chop on when you’re bored, this ain't it. A single tin can last you months when used regularly and is fresh for years. Mastic gum is my go-to now for face-building. And Greco Gum is my go-to brand.
 
-If you’d like to give it a try, use my link for Greco Gum [here](https://www.grecogum.com/?via=ed). (I get a small % cut of each sale made through the link, which helps pay my bills)&nbsp;
+If you’d like to give it a try, use my link for Greco Gum [here](https://grecogum.com/edlatimore/). (I get a small % cut of each sale made through the link, which helps pay my bills)&nbsp;
 
 ---
 
