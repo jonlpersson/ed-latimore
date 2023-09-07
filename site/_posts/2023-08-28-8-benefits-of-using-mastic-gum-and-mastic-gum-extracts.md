@@ -76,6 +76,8 @@ As much as I love chewing the gum, I must admit that taking the supplement as an
 
 You will obviously get them [if you chew it](https://grecogum.com/edlatimore/)—especially considering that the gum is meant to be chewed for way longer than a regular stick of bubblegum.&nbsp;
 
+[Mastic Gum Supplements from Iherb.com.](https://www.iherb.com/search?kw=mastic%20gum&amp;cids=1855&amp;rank=1&amp;rawkw=mastic&amp;refererLocation=suggestion) If you pick up any of the following, grabbing from here gives me a small percentage and costs you nothing. It helps to power the site!
+
 ## Mastic gum relieves gastrointestinal disorders and distress
 
 Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
