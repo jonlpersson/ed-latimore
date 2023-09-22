@@ -379,8 +379,4 @@ page_blocks:
     heading: Break free from your vices today
     text: Learn how to finally kick your bad habits and addictions.
   - _id: block_logos
-  - _id: block_photos
-    images:
-      - image: /assets/images/products/vicebreakers-toc.png
-      - image: /assets/images/products/vicebreakers-presentaiton-image.png
 ---
