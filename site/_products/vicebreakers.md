@@ -335,12 +335,12 @@ page_blocks:
       context: 'Twitter: @seanraf'
   - _id: block_rich_text
     alignment: center
-    text_markdown: >
+    text_markdown: >-
       Total value of the Vicebreakers program: $314 ($149 main course, $67
       workbook, $97 video presentation).
 
 
-      You only pay $97.
+      You only pay $119
 
 
       This investment in yourself will pay dividends for the rest of your life.
@@ -355,13 +355,13 @@ page_blocks:
       constant distraction.
 
 
-      - Living with low energy and no motivation
+      * Living with low energy and no motivation
 
-      - Blowing opportunity after opportunity because you aren’t at 100%
+      * Blowing opportunity after opportunity because you aren’t at 100%
 
-      - Not being the man or woman you could be for your family
+      * Not being the man or woman you could be for your family
 
-      - Threatening your very safety through irresponsible indulgence and
+      * Threatening your very safety through irresponsible indulgence and
       reckless behavior
 
 
@@ -373,9 +373,7 @@ page_blocks:
       See you inside.
 
 
-      Yours,<br>
-
-      Ed Latimore.
+      Yours,<br>Ed Latimore.
   - _id: block_cta
     image: /assets/images/products/vicebreakers-2.png
     heading: Break free from your vices today
