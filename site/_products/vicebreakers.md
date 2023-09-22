@@ -382,4 +382,5 @@ page_blocks:
   - _id: block_photos
     images:
       - image: /assets/images/products/vicebreakers-toc.png
+      - image: /assets/images/products/vicebreakers-presentaiton-image.png
 ---
