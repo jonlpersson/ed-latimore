@@ -211,6 +211,8 @@ I generally don't recommend a passive approach to things, but there are times wh
 
 Your personal judgment and experience will tell you which and when.
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## 15\. Try to understand and forgive your parents
 
 If everything goes according to plan, your parents will die before you.

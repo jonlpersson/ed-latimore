@@ -54,7 +54,7 @@ Although I fought a lot as a kid, I never started those fights. I’m a pacifist
 
 Even at a young age, I learned that if people think they can push you an inch without resistance, they’ll try to throw you a mile. And human psychology is such that because you let them take a little, you’re more willing to let them take a lot more.
 
-***This article talks about the mentality of people in my neighborhood and school who were like this&nbsp;**→&nbsp;[**Lessons From The Ghetto: Willingness to Fight**](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noopener noreferrer"}*​
+***This article talks about the mentality of people in my neighborhood and school who were like this**&nbsp;→&nbsp;[**Lessons From The Ghetto: Willingness to Fight**](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noopener noreferrer"}*​
 
 Comfort, passivity, and inertia are addictive. There’s a real chance that you’ll continue using them beyond the point of diminishing returns in a manner that borderlines on compulsion. Even when you know that you should stand up for yourself or others, you won’t because you’ve been chasing the three-headed dragon for so long that you can do nothing else.
 
