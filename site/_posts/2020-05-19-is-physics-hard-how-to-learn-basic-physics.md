@@ -36,8 +36,6 @@ There aren't many things that force us to do this, so we just don't have a lot o
 
 This might seem obvious, but the implications of it aren't. People tend to forget that physics is like anything else: it's only difficult when you don't know much. Once you understand what's going on, you just have to do the work, and before you know it, you'll *know* physics.
 
-{% include widgets/cta-email.html %}
-
 More than anything, you need to believe that you can learn physics. [I grew up failing math in high school and took Calculus three different times before it finally clicked](/how-to-get-better-at-math/). If I can learn physics well enough to get a bachelor's degree in it, anyone can.
 
 Here is a list of things you must practice and skills you need to develop to give yourself the best chance at learning basic physics.
@@ -86,7 +84,7 @@ When we speak of dimensions, we’re describing the number of directions an obje
 
 * **2 dimensions:** Can move horizontally and vertically. It's the "area" measurement. Any location can be described with two coordinates (x,y).
 * **3 dimensions:** Can move vertically, horizontally, and change depth. It's the "volume" measurement. Any location can be described with three coordinates (x,y,z)
-* **4 dimensions**\: Can move vertically, horizontally, change depth, and move through time. It's the "space-time" measurement. Any location can be described with 4 coordinates (x,y,z,t).
+* **4 dimensions**: Can move vertically, horizontally, change depth, and move through time. It's the "space-time" measurement. Any location can be described with 4 coordinates (x,y,z,t).
 
 During our physics studies, most of us will never encounter higher dimensions.
 
@@ -95,6 +93,8 @@ You’ll also need to calculate the area and volume of the basic shapes and know
 Physics is the study of matter and energy and how it moves through time and space. This means that every equation you learn and every problem you solve will deal with you making a relationship between space, time, matter, and energy.
 
 ***\[The future is heavily mathematical, and physics relies on mathematics. This is one reason why developing a foundation in mathematics is important. For 11 more reasons, [read this article here.](/why-is-math-important/)\]***
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## Concepts You Need To Know For Basic Physics
 
@@ -209,4 +209,4 @@ Physics is not something you do in your head. It’s something you experience da
 
 If you follow these steps, you should have no problem being able to study and learn physics.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
