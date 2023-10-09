@@ -46,8 +46,6 @@ Physics uses math to quantify and describe the universe. There is no getting aro
 
 While physics demands that you generally have high numerical literacy, there are some specific mathematical ideas you will see so often that you must ensure you master them. The following is a list of the most frequently used math ideas in basic physics.
 
-.
-
 ### Trigonometry
 
 You should be very comfortable taking an angle's sine, cosine, and tangent. You’ll need this in both mechanics and electromagnetics. You’ll primarily use this to figure out the sum of force vectors and the angle at which they point.
