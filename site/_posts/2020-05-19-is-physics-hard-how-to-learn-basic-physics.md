@@ -40,9 +40,13 @@ More than anything, you need to believe that you can learn physics. [I grew up f
 
 Here is a list of things you must practice and skills you need to develop to give yourself the best chance at learning basic physics.
 
-## The Math You Need For Basic Physics
+## The Math Requirements For Basic Physics
 
-While physics demands that you generally have high numerical literacy, there are some specific mathematical ideas that you will see so often that it’s important that you make sure you master them. The following is a list of the most frequently used math ideas in basic physics.
+Physics uses math to quantify and describe the universe. There is no getting around math. Most schools have a math requirement, though technically speaking, you could learn all the math you need while learning physics, but that's like studying Shakespeare while learning English—you won't learn much about either while being immensely frustrated.&nbsp;
+
+While physics demands that you generally have high numerical literacy, there are some specific mathematical ideas you will see so often that you must ensure you master them. The following is a list of the most frequently used math ideas in basic physics.
+
+.
 
 ### Trigonometry
 
