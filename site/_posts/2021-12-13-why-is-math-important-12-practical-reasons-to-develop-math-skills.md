@@ -68,6 +68,8 @@ When you sit in on someone’s pyramid scheme pitch, you'll be able to instantly
 
 While everyone is being manipulated by the media’s latest rising figure of murder and disease, you’ll be able to immediately recognize that they used the metric that sounds the most terrifying to fit their agenda.
 
+{% include widgets/summary.html id="5-Pillars-Of-Content-Mastery" %}
+
 ## Math makes you more money
 
 If you’re wondering what to major in to get the greatest return on your college tuition, here’s a simple test: does the major require you to study at least one calculus level? If it doesn’t, you’re probably wasting your money in college studying it.
