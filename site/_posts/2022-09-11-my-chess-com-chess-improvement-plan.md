@@ -130,13 +130,15 @@ For my opening training, I’ll be using [chess.com](http://chess.com/){: target
 
 I’ll also be using [Chessable.com](http://chessable.com/){: target="_blank"} and its training programs.
 
-Chessable’s MoveTrainer&reg; turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.&nbsp;
+Chessable’s MoveTrainer® turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.&nbsp;
 
 ![Ed Latimore using Chessable](/assets/images/drafts/ed-latimore-chessable-sicilian.png "Using Chessable to sharpen my knowledge of the Sicilian Defense as black"){: width="500" height="253"}
 
 I’m a big believer in a rising tide moving all ships, but I’ll likely master only one opening system at a time. With that said, I anticipate that understanding one opening well will increase my overall grasp of opening theory.
 
 I’ll not just be going through the moves, memorizing what the computer says is best, but I’ll be taking notes to understand why the computer thinks something is a good or bad idea. That brings me to the next part of my training.
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## Chess game review
 
@@ -178,7 +180,7 @@ Is it when:
 
 These are all different things I’ve read or what the literature suggests. Even [Chess.com](http://chess.com/){: target="_blank"}’s definition—the official website for all things chess—gives a rather nebulous definition of the endgame:
 
-*The end game is****when most of the pieces are off of the board****. There is no definite number of pieces, but it's usually a safe bet to call it the endgame when each player has three pieces (knights, bishops, rooks, queens) or less. Hope this helps\!*
+*The end game is****when most of the pieces are off of the board****. There is no definite number of pieces, but it's usually a safe bet to call it the endgame when each player has three pieces (knights, bishops, rooks, queens) or less. Hope this helps!*
 
 Using a mix of these definitions, I’ve roughly determined the endgame's definition. At the very least, I’ve figured out a definition that will allow me to formulate a study plan and begin to execute the ideas:
 
@@ -226,4 +228,6 @@ The best way to develop this is through constant practice and drilling of the fu
 * Opening training
 * Chess game review
 
-I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is&nbsp;[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}<br>​​​​​​
+I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is&nbsp;[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}<br>​​​​​​
