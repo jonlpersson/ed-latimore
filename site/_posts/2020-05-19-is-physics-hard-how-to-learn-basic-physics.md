@@ -115,7 +115,7 @@ Remember that a force is anything that causes an object to move. Physics is the 
 
 ### Conservation of Energy
 
-The other key concept you’ll most frequently encounter is energy conservation.
+The other key concept you’ll most frequently encounter is energy conservation, and it's one that you will see in all science disciplines.
 
 Officially, this is the First Law of Thermodynamics. It states that "energy can neither be created nor destroyed; energy can only be transferred or changed from one form to another.”
 
@@ -209,6 +209,6 @@ Physics is not something you do in your head. It’s something you experience da
 6. Visualize things
 7. Draw what you can't easily visualize
 
-If you follow these steps, you should have no problem being able to study and learn physics.
+If you follow these steps, you should have no problem being able to study and learn the science of physics.
 
 {% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
