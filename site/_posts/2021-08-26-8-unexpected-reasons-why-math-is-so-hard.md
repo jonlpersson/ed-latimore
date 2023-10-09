@@ -63,6 +63,8 @@ The more difficult problems you face in math and the more new topics tackle, the
 
 ***\[Learning math is important because it lays a foundation that makes it easier for you to learn other things. To learn the other 11 reasons why math is important, [check out my list here](/why-is-math-important/).\]***
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ## You try to rely on memorization
 
 Many people find math difficult because they try to memorize their way through the material. However, there isn’t very much to remember. Math is about finding the relationship between things and problem-solving.
@@ -115,3 +117,5 @@ Math skills are just a tool to make your life a little easier. Calculators just 
 If you see yourself on this list, now you know why math seems so hard, and you can do something about it.
 
 The rest is up to you.&nbsp;
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
