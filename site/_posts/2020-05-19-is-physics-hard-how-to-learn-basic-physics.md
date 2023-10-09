@@ -90,9 +90,9 @@ When we speak of dimensions, we’re describing the number of directions an obje
 
 During our physics studies, most of us will never encounter higher dimensions.
 
-You’ll also need to calculate the area and volume of the basic shapes and know the sum of their internal angle measure. This may seem elementary, but you should not have to waste precious cognitive power working out angle measures or the area of the object you’re working with.
+You'll also need to calculate the area and volume of the basic shapes and know the sum of their internal angle measure. This may seem elementary, but you should not waste precious cognitive power working out angle measures or the area of the object you're working with.
 
-Physics is the study of matter and energy and how it moves through time and space. This means that every equation you learn and every problem you solve will deal with you making a relationship between space, time, matter, and energy.
+Physics studies matter and energy and how it moves through time and space. This means that every equation you learn and every problem you solve will require you to make a relationship between space, time, matter, and energy.
 
 ***\[The future is heavily mathematical, and physics relies on mathematics. This is one reason why developing a foundation in mathematics is important. For 11 more reasons, [read this article here.](/why-is-math-important/)\]***
 
