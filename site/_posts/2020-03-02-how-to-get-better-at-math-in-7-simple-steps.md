@@ -147,6 +147,8 @@ You want a level of comfort when working with numbers. This is necessary for wor
 
 ***\[A working level of basic math is one of the 12 major reasons why learning math is important. For the other 11 reasons, [check out this article on why you should learn math](/why-is-math-important/).\]***
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ## 4) Hot tip: It's all simple when you can read it
 
 3 simple steps will help you read math and understand it better.
@@ -285,4 +287,4 @@ The major lesson I learned from my journey is that you can learn anything given 
 
 This is the general strategy I used to go from a failing math student to getting a degree in physics. I believe that you can be a great math student with similar improvement if you follow these step-by-step instructions.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
