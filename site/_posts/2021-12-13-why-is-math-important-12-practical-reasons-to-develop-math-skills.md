@@ -178,3 +178,5 @@ As technology has revolutionized different industries, it has improved education
 10. The future is mathematical
 11. Learning math makes you better at everything else
 12. Math helps you to navigate uncertainty
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
