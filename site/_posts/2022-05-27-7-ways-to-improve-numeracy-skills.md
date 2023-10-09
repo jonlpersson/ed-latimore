@@ -66,6 +66,8 @@ An intuitive grasp of mathematical concepts related to geometry will make you a 
 
 Developing your geometric skills will simply add to the richness of your life and improve your numeracy skills.
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ## Improve your financial skills
 
 Many people are terrified to look at their spending habits. They don’t want to confront the true nature of their financial situation. However, doing so will not only improve the quality of your life but will also increase your basic numeracy skills.
@@ -126,4 +128,4 @@ It’s a fun game that also improves my budgeting skills as well.
 6. Scrutinize media
 7. Play math games
 
-####
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
