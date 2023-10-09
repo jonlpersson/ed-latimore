@@ -111,7 +111,7 @@ Changing a degree program is difficult because of the effects it has on the next
 
 **Bottom line:** Physics is difficult and the path isn’t laid out for you. So, if you don’t have a compelling reason to study physics, there’s likely a better path to follow.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ---
 
