@@ -3,9 +3,9 @@ date: 2020-03-06 05:39:00 -0500
 article_type: Article
 title: 'Going back to school at 30: 4 things to know'
 permalink: /going-back-to-school-at-30/
-tags: 
+tags:
   - chess-math-and-language
-categories: 
+categories:
   - chess-math-and-language
 image: /assets/images/posts/ed-chemistry.png
 description: >-
@@ -68,7 +68,7 @@ By following the suggestions on this list, you'll prevent yourself from needing 
 
 Now let's talk more about the money.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## 2\. Figure out how you'll pay ahead of time
 
@@ -214,4 +214,4 @@ Remember: no one ever improved their life by approaching things with low intensi
 
 As always, the rest is up to you.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
