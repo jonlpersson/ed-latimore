@@ -32,7 +32,7 @@ If you shudder at the thought of calc, it’s a fear response you likely learned
 
 You’re not alone either way.
 
-An estimated 17% of people in the United States have math trauma.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> This refers to the debilitating difficulty and brain shutdown that many people experience when encountering math.
+An estimated 17% of people in the United States have math trauma.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> This refers to the debilitating difficulty and brain shutdown that many people experience when encountering math.
 
 It makes people avoid math and experience feelings of frustration and defeat.
 
@@ -74,7 +74,7 @@ Explore these concepts with practice problems until you understand them in pract
 
 You’re only going to internalize these concepts by putting in time on task. Prepare to dedicate at least 12 hours a week to your calculus studies.
 
-Newton read, wrote, and studied 18 hours a day, 7 days a week.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Geniuses are made, not born, so never shy away from the work.
+Newton read, wrote, and studied 18 hours a day, 7 days a week.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Geniuses are made, not born, so never shy away from the work.
 
 ## Your fundamentals are weak
 
@@ -123,7 +123,7 @@ My understanding of calculus really took off when I began using the Feynman Tech
 
 Simply put, learning calculus is a long-term commitment. The reason it’s so hard for many people is that they’re not willing to fully commit.
 
-Cramming can get you results in the short term, but mastering calculus or any other skill always involves consistent effort over time.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Cramming can get you results in the short term, but mastering calculus or any other skill always involves consistent effort over time.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Thankfully, we live in a time in which there are solutions for any problem you want to solve. You can master calculus in a more straightforward path than I did, while also getting over your past fears and misconceptions about high-level math.
 
@@ -131,8 +131,10 @@ Register for this [precalculus course on Udemy](https://www.udemy.com/course/tri
 
 From there, the rest is up to you.
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Dickinson, Kevin. <em>Big Think</em>. Can &lsquo;math trauma&rsquo; hurt people&rsquo;s finances? September 23, 2019. <a href="https://bigthink.com/neuropsych/math-trauma/">https://bigthink.com/neuropsych/math-trauma/</a>. (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p><em>PBS</em>. Newton's Dark Secrets. November 15, 2005. <a href="https://www.pbs.org/wgbh/nova/video/newtons-dark-secrets/">https://www.pbs.org/wgbh/nova/video/newtons-dark-secrets/</a> (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Paul, Annie Murphy. <em>Scientific American</em>. Why Cramming Gets a &ldquo;C&rdquo;. August 1, 2015. <a href="https://www.scientificamerican.com/article/education-why-cramming-gets-a-c/">https://www.scientificamerican.com/article/education-why-cramming-gets-a-c/</a> (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Dickinson, Kevin. <em>Big Think</em>. Can ‘math trauma’ hurt people’s finances? September 23, 2019. <a href="https://bigthink.com/neuropsych/math-trauma/">https://bigthink.com/neuropsych/math-trauma/</a>. (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p><em>PBS</em>. Newton's Dark Secrets. November 15, 2005. <a href="https://www.pbs.org/wgbh/nova/video/newtons-dark-secrets/">https://www.pbs.org/wgbh/nova/video/newtons-dark-secrets/</a> (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Paul, Annie Murphy. <em>Scientific American</em>. Why Cramming Gets a “C”. August 1, 2015. <a href="https://www.scientificamerican.com/article/education-why-cramming-gets-a-c/">https://www.scientificamerican.com/article/education-why-cramming-gets-a-c/</a> (Accessed August 29, 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
