@@ -222,4 +222,4 @@ I hope that helps.
 
 The rest is up to you.
 
-\####
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
