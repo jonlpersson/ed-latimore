@@ -144,7 +144,7 @@ You think I'm kidding? The theorem of calculus says otherwise—both of them. Ye
 
 It's the fundamental theorem of calculus because this is ALL CALCULUS IS. It took me failing calculus 3 times before I understood that. Hopefully, now you don't have to.
 
-{% include widgets/summar.html id="5-Pillars-Of-Learning-Mastery" %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## Write the steps
 
