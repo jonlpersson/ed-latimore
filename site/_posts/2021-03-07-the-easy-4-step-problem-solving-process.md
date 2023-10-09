@@ -57,7 +57,7 @@ This way, the law always looked its best. Taking a few moments to apply critical
 
 ### An example of choosing the right problem to work the problem-solving process on
 
-One thing I've learned from [tutoring high school students in math](/how-to-get-better-at-math/)\: they hate word problems.
+One thing I've learned from [tutoring high school students in math](/how-to-get-better-at-math/): they hate word problems.
 
 This is because they make the student figure out the problem. Finding the solution to a math problem is already stressful. Forcing the student to also figure out what problem needs solving is another level of hell.
 
@@ -123,6 +123,8 @@ It's only with a proper analysis of imbalances that you can make the best move. 
 
 The problem-solving method always starts with identifying the problem or asking "What do you need to know?". It's only after you brainstorm this that you can move on to the next step.
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ## Step 3: What do you already know?
 
 The only way to know if you lack knowledge is by gaining some in the first place. All advances and solutions arise from the accumulation and implementation of prior information. You must first consider what it is that you already know in the context of the problem at hand.
@@ -178,3 +180,5 @@ Learning is simply problem-solving. You'll learn faster if you view it this way.
 What was once complicated will become simple.
 
 What was once convoluted will become clear.
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
