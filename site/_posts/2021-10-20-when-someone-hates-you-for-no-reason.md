@@ -16,7 +16,7 @@ Haters gonna hate.
 
 Words so true they should be in the bible.
 
-Regardless of whether the hate is real or imagined, rejection hurts. In fact, your brain releases the same self-soothing hormones it does when you break a leg.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Regardless of whether the hate is real or imagined, rejection hurts. In fact, your brain releases the same self-soothing hormones it does when you break a leg.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 The truth is, humans have an innate need to feel admired, loved, and as though we belong.
 
@@ -70,6 +70,8 @@ As you develop a stronger sense of self you start to pick up on other people’s
 
 ***\[Read my original quotes about haters—&gt;[Ed Latimore's 18 quotes about haters](/ed-latimore-hater-quotes/)\]***
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## Focus on self-improvement
 
 Count it like clockwork. When you start to improve yourself, you will attract jealous people and outright haters.
@@ -109,7 +111,7 @@ Sometimes it’s worth it to confront the unsurfaced conflict. Especially among 
 
 Calling it out lets the air out of their balloon and forces them to own their own feelings. If you go this route, don’t accuse.
 
-The protective mechanism of human nature leads people to defend themselves to the death even if there is clear evidence they did something wrong. This is a self-serving bias we all carry.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+The protective mechanism of human nature leads people to defend themselves to the death even if there is clear evidence they did something wrong. This is a self-serving bias we all carry.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 It’s the habit of attributing good things to ourselves and failures to external forces.
 
@@ -141,7 +143,7 @@ Making friends as an adult is a mystery that eludes many far into adulthood.&nbs
 
 So my last piece of advice is to limit your contact with people that dislike you. Not always possible I know, but your mental-health will thank you for it.
 
-Rejection is as natural as eating and sleeping. And from an evolutionary standpoint, it helps people learn to do things that promote interpersonal relationships.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> But constant rejection can wreak havoc on your confidence.
+Rejection is as natural as eating and sleeping. And from an evolutionary standpoint, it helps people learn to do things that promote interpersonal relationships.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> But constant rejection can wreak havoc on your confidence.
 
 Spend time with those that lift you up and make you feel appreciated. If you don’t have those people, go find them. Make new friends.
 
@@ -167,10 +169,10 @@ And give these things a try:
 
 I hope that helps. The rest is up to you.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Roberts, Nicole F. <em><a href="https://www.forbes.com/sites/nicolefisher/2015/12/25/rejection-and-physical-pain-are-the-same-to-your-brain/?sh=21b0ba844f87">Fobes: Rejection And Physical Pain Are The Same To Your Brain</a> _Dec 25, 2015</em> _(accessed Oct. 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Wang, X., Zheng, L., Li, L., Zheng, Y., Sun, P., Zhou, F. A., &amp; Guo, X. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439270/">Immune to Situation: The Self-Serving Bias in Unambiguous Contexts. Frontiers in psychology</a>, (2017) <em>8</em>, 822. https://doi.org/10.3389/fpsyg.2017.00822 self-serving bias&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Leary M. R. (2015). Emotional responses to interpersonal rejection.<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734881/"> Dialogues in clinical neuroscience</a>, (2015) 17(4), 435–441. https://doi.org/10.31887/DCNS.2015.17.4/mleary (accessed Oct 5, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Roberts, Nicole F. <em><a href="https://www.forbes.com/sites/nicolefisher/2015/12/25/rejection-and-physical-pain-are-the-same-to-your-brain/?sh=21b0ba844f87">Fobes: Rejection And Physical Pain Are The Same To Your Brain</a> _Dec 25, 2015</em> _(accessed Oct. 5, 2021)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Wang, X., Zheng, L., Li, L., Zheng, Y., Sun, P., Zhou, F. A., &amp; Guo, X. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439270/">Immune to Situation: The Self-Serving Bias in Unambiguous Contexts. Frontiers in psychology</a>, (2017) <em>8</em>, 822. https://doi.org/10.3389/fpsyg.2017.00822 self-serving bias&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Leary M. R. (2015). Emotional responses to interpersonal rejection.<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734881/"> Dialogues in clinical neuroscience</a>, (2015) 17(4), 435–441. https://doi.org/10.31887/DCNS.2015.17.4/mleary (accessed Oct 5, 2021)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
