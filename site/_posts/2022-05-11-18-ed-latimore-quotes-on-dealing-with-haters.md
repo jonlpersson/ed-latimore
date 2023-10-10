@@ -20,7 +20,7 @@ In that way, these “haters quotes” are kind of like motivational quotes for 
 
 When your real friends turn to fake friends and your biggest fans turn into your biggest haters, these inspirational quotes will hopefully help you navigate and under what’s going on. These are 100% original quotes from me, Ed Latimore. All I ask is that if you use them, just give me credit.
 
-If you want to retweet them, just hit the “Tweet it” link next to them. Enjoy\!
+If you want to retweet them, just hit the “Tweet it” link next to them. Enjoy!
 
 ***\[Read my article about haters here–&gt;[5 reasons you have haters](/why-you-have-haters-even-if-you-arent-an-asshole/)\]***
 
@@ -34,7 +34,7 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ---
 
-&nbsp;
+
 
 The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate. ([Tweet it](https://twitter.com/EdLatimore/status/1523472615293480962){: target="_blank"})
 
@@ -61,6 +61,8 @@ Not everyone who gives you criticism is a hater and not every hater is wrong. ([
 ---
 
 People will support the grind but they get funny when it starts to pay off. Underdogs rarely have haters. Winners often do. Every winner was once an underdog. Die the hero or live long enough to become the villain. ([Tweet it](https://twitter.com/EdLatimore/status/1378682271411101704){: target="_blank"})
+
+{% include widgets/summary.html id="The-Four-Confidences" %}
 
 ---
 
@@ -98,4 +100,6 @@ The difference between a bitter hater and an intense rival is how they chose to 
 
 ---
 
-**When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters\! That's what they're *supposed* to do\! It's in the name…** ([Tweet it](https://twitter.com/EdLatimore/status/1440475860880924674){: target="_blank"})
+**When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…** ([Tweet it](https://twitter.com/EdLatimore/status/1440475860880924674){: target="_blank"})
+
+{% include widgets/summary.html id="The-Four-Confidences" %}
