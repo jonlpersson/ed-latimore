@@ -46,6 +46,8 @@ Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
 
 “The last thing I wanted to do was risk stepping out blindly against an unknown-but-great player. Preparation was critical.”
 
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
+
 ## Dealing with pressure
 
 “The key, though, is being aware of how you’re feeling and how you need to be feeling. It all starts with awareness.”
@@ -59,6 +61,8 @@ Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
 “It takes a lot of work to be successful, and people will celebrate that success, will celebrate that flash and hype. Behind that hype, though, is dedication, focus, and seriousness—all of which outsiders will never see. If you stop being dedicated to the craft, the commercials and contracts will all fade away.”
 
 “The game is full of ebbs and flows—the good, the bad, and everything in between. With all that was going on around me, I had to figure out how to steel my mind and keep calm and centered. That’s not to say my emotions didn’t spike or drop here or there, but I was aware enough to recalibrate and bring them back level before things spiraled. I could do that in a way others couldn’t, and that was really key for me.”
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Self-discipline, work ethic, & hard work
 
