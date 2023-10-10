@@ -85,6 +85,8 @@ Aim to develop your perception so you aren’t fooled by what the world shows yo
 
 ***[Check out Musashi's Dokkodo](/dokkodo/)***
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## 5) Change your perspective to solve problems
 
 > **In strategy it is important to see distant things as if they were close and to take a distanced view of close things.**
@@ -135,3 +137,5 @@ It also highlights the importance of speed. This is the most valuable attribute 
 8. **“Even if you kill an enemy, if it is not based on what you have learned it is not the true Way.”**
 9. **“Because you can win quickly by taking the lead, it is one of the most important things in strategy.”**
 10. **“In strategy, you have effectively won when you forestall the enemy.”**
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
