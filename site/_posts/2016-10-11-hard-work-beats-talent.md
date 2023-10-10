@@ -68,7 +68,7 @@ Hard work is so valuable because very few people do it.
 
 Even at the highest levels of competition, many competitors never learned how to persist when faced with real challenges. Smart kids experience this all the time.
 
-{% include widgets/summary.html id="The-Fighters-Mindset" %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Fixed vs. Growth Mindset
 
@@ -140,4 +140,4 @@ It forces you to learn the value of hard work.
 
 Only those who have learned the value of hard work over talent will be left standing when life becomes a battle of attrition.
 
-{% include widgets/summary.html id="The-Fighters-Mindset" %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
