@@ -38,6 +38,8 @@ In addition, you have to learn to be comfortable being uncomfortable. People who
 
 This changing world will leave behind anyone who can't manage change.
 
+{% include widgets/summary.html id="Fighters-Mindset" %}
+
 ## Bad leadership qualities
 
 > There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honor which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble.
@@ -46,7 +48,7 @@ There's a lot that's been written about the qualities of great leaders.
 
 However, you can go quite far if you simply avoid what Sun Tzu calls "the dangerous faults which may affect a general." Let's dive a little deeper into the five qualities of a bad leader or general:
 
-**Recklessness:&nbsp;**While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
+**Recklessness:**&nbsp;While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
 
 A reckless leader takes uncalculated risks, lacks adaptability, and is controlled by passion and emotions rather than strategy and the mission.
 
@@ -60,7 +62,7 @@ Bad leadership of this type is always either defeated by the competition, replac
 
 It's normal to encounter frustration en route to your goals, but a poor leader takes out that frustration on his subordinates, creating a hostile work environment. This leads to low retention and even lower morale and team performance.
 
-**Delicacy of honor which is sensitive to shame:&nbsp;**Generally speaking, honor and dignity are positive traits. The best leaders are known for holding themselves and their subordinates to a certain standard. However, there are two notable situations where this honor becomes a liability.
+**Delicacy of honor which is sensitive to shame:**&nbsp;Generally speaking, honor and dignity are positive traits. The best leaders are known for holding themselves and their subordinates to a certain standard. However, there are two notable situations where this honor becomes a liability.
 
 First, when the opponent is not honorable. You place yourself and your team at great risk if you believe that there is some merit in meeting a dishonorable opponent with only honorable tactics.
 
@@ -68,7 +70,7 @@ When you do this, you have ruled out the use of certain tactics while the oppone
 
 The second instance where sensitivity to shame is a weakness is when you face unfavorable conditions or defeat and refuse to back down or change course. If you lead your team to slaughter and you don't have to, and you won't change your mind because of honor, it becomes a dishonorable decision.&nbsp;
 
-**Over-solicitude for his men:&nbsp;**Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way, which was vital in a state of war.
+**Over-solicitude for his men:**&nbsp;Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way, which was vital in a state of war.
 
 In modern-day company culture, the equivalent of this idea would be a boss who's afraid to ask his employees to stay late, pick up extra work, or come in on their day off.
 
