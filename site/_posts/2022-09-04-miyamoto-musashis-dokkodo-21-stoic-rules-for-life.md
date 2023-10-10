@@ -16,7 +16,7 @@ The Dokkodo ("The Path of Aloneness," The Way to Go Forth Alone," or "The Way of
 
 With victory in over 60 duels, Musashi was considered the greatest swordsman of his time. He is not just known for his superior swordsmanship but also for his more popular work, The Book of Five Rings (Go Rin No Sho).
 
-***[Read my summary of The Book of Five Rings](/the-book-of-five-rings-quotes/)&nbsp;***
+***[Read my summary of The Book of Five Rings](/the-book-of-five-rings-quotes/)***&nbsp;
 
 Although both books of wisdom were cultivated from his experiences, they cover different aspects of his life. The Book of Five Rings focuses on the applications of the martial arts lessons learned as a bushido practicing “Ronin” (wandering samurai). The Dokkodo condenses the main ideas that Musashi not only believed made him successful but also contributes to a meaningful life.
 
@@ -223,3 +223,5 @@ Musashi often speaks of “the way” in The Book of Five Rings. While he was sp
 Whatever way you follow, you must live true to it. There must be a set of values and ideals that you must vow to live your life by. There are certain lines that should never be crossed or things that you won’t do, otherwise you may find yourself giving into temptation and indulging in character-breaking weakness.
 
 As the old saying goes, “If you don’t stand for something, you’ll for anything.
+
+{% include widgets/summary.html id="Fighters-Mindset" %}
