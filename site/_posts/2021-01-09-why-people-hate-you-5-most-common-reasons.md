@@ -42,6 +42,8 @@ I’ve had a lot of haters in my time. Some of them are justified, and some of t
 
 ***\[Read my original quotes about haters—&gt;[Ed Latimore's 18 quotes about haters](/ed-latimore-hater-quotes/)\]***
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ---
 
 ## Haters gonna hate: 5 reasons why you have haters
@@ -160,4 +162,4 @@ For every 1 person who makes their dissatisfaction and disappointment known, the
 
 If you liked this article, I would love it if you signed up for my newsletter. Once per week, you'll receive a short email with practical information about how to develop stoic street-smarts.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
