@@ -42,6 +42,8 @@ Overcoming it isn’t easy. It demands that you’re always improving little by 
 
 In this article, I’ll teach you how to prioritize yourself, make ‘you’ happy, and finally start living life for yourself.
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## Get excited about something
 
 The first step to not caring what others think of you is to focus on yourself.
