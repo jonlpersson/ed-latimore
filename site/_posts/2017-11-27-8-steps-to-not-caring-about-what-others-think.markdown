@@ -28,7 +28,7 @@ We're not worried about what people think of us as much as we are about how we m
 
 For most of my teenage years and twenties, I was paralyzed by the fear of what other people thought about me.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
 
 One of the big reasons I drank so much and watched football so much is because I wanted to fit in. I was a regular at the bar with all the other regular people, and I could talk football stats for days. This part of my life was fun, but it didn't give me purpose or make me happy. It was a mask I wore so that I didn't have to deal with the possibility of social isolation.
 
@@ -160,4 +160,4 @@ Before you go outside,&nbsp;[write down the worst thing](https://tim.blog/2017/0
 
 Once you’ve won enough small battles, you’ll wake up one day to realize you've won the whole war. In the process, you'll have become a freer, better person.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
