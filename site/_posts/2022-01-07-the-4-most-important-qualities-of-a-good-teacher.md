@@ -3,9 +3,9 @@ date: 2022-01-07 17:28:11 -0500
 article_type: Article
 title: The 5 most important qualities of a good teacher
 permalink: /qualities-of-a-good-teacher/
-tags: 
+tags:
   - chess-math-and-language
-categories: 
+categories:
   - chess-math-and-language
 description: >-
   Being a great teacher boils down to 5 non-negotiable qualities. From my
@@ -49,8 +49,6 @@ This post was actually motivated by a note a student gave me during our last ses
 
 So, without further ado, here are the four qualities of a good teacher:
 
-{% include widgets/toc.html heading="The 5 most important qualities of a good teacher" list-items="Great teachers make themselves irrelevant, Good teachers push students beyond memorization, Good teachers let their students learn from their own mistakes, Good teachers challenge their students, Outstanding teachers make their students excited" list-ids="1-great-teachers-make-themselves-irrelevant, 2-good-teachers-push-students-beyond-memorization, 3-good-teachers-let-their-students-learn-from-their-own-mistakes,&nbsp; 4-good-teachers-challenge-their-students, 5-outstanding-teachers-make-their-students-excited" %}
-
 ## 1) Great teachers make themselves irrelevant
 
 When have you truly succeeded as a teacher?
@@ -61,7 +59,7 @@ This is an important mindset to have: Your job is to ensure that your student is
 
 Instead of helping them quickly overcome some immediate problem and pass an assessment, you become more concerned with their long-term development. Your goal changes from “helping them solve problems” to “shaping them into effective problem solvers”.&nbsp;
 
-The saying goes:&nbsp;*If you give a man a fish, you feed him for a day. If you teach a man to fish, you feed them for a lifetime.&nbsp;*
+The saying goes:&nbsp;*If you give a man a fish, you feed him for a day. If you teach a man to fish, you feed them for a lifetime.*&nbsp;
 
 Don’t give them fish. Don’t even “just” teach them how to fish. Instead, make sure they understand how to gather food anywhere, regardless of the terrain
 
@@ -118,6 +116,8 @@ I recently taught a friend how to drive, and I realized that there was no set fo
 There are a lot of shitty drivers on the road who basically memorized the way to pass the driver’s exam and can’t drive. I wanted her to know how to drive and be able to adjust to everything—not just get a license. I was, in the purest sense of the word, trying to make myself irrelevant.&nbsp;
 
 As a teacher, you have to make sure that your student’s understanding of an idea is so thorough that they can solve most problems that arise, even if—and in many times, especially—they’ve never faced them before.&nbsp;
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## 3) Good teachers let their students learn from their own mistakes&nbsp;
 
@@ -217,3 +217,5 @@ A good teacher creates a learning environment where students feel safe to make m
 Good teachers are immune to the curse of knowledge. They never forget what it's like to not know and their patience and communication skills make it so their students never feel rushed and always feel a connection.
 
 The rest is up to you.
+
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
