@@ -60,6 +60,8 @@ I can’t emphasize enough the importance of \_listening \_and \_responding \_in
 
 Asking better questions combined with active listening will help even shy introverts captivate a group of people.
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## Fall down curiosity rabbit holes
 
 Becoming a more interesting person is about broadening your perspective.
@@ -150,3 +152,5 @@ To captivate the room or simply the person you’re talking to, try these tips:
 * Take your brain off auto-pilot and do some thinking for yourself
 * Be weird
 * Audit your friend group
+
+{% include widgets/summary.html id="The-Four-Confidences" %}
