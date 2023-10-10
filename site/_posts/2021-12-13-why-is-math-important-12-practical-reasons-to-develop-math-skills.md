@@ -68,7 +68,7 @@ When you sit in on someone’s pyramid scheme pitch, you'll be able to instantly
 
 While everyone is being manipulated by the media’s latest rising figure of murder and disease, you’ll be able to immediately recognize that they used the metric that sounds the most terrifying to fit their agenda.
 
-{% include widgets/summary.html id="5-Pillars-Of-Content-Mastery" %}
+{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
 ## Math makes you more money
 
