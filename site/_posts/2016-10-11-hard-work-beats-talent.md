@@ -18,8 +18,6 @@ You still have to work hard to win.
 
 Hard work will always beat talent. In this article, learn why and how to work harder than the competition.
 
-{% include widgets/cta-email.html %}
-
 ## Why does hard work beat talent?
 
 Anything worth having is hard to get. Any game worth winning is naturally going to attract several different players.
@@ -70,6 +68,8 @@ Hard work is so valuable because very few people do it.
 
 Even at the highest levels of competition, many competitors never learned how to persist when faced with real challenges. Smart kids experience this all the time.
 
+{% include widgets/summary.html id="The-Fighters-Mindset" %}
+
 ## Fixed vs. Growth Mindset
 
 Smart kids coast through their studies until they encounter [something that isn’t as easy to solve](/problem-solving-process/). Rather than double down their effort, many conclude they simply aren't smart enough to do the work.
@@ -94,13 +94,11 @@ Students with a growth mindset know they can get better. They believe their abil
 
 This is powerful. It's so powerful that another Stanford researcher Carol S. Dweck, P.h.D believes that making even slight shifts in your mindset from fixed to growth can have a profound impact on your entire life.
 
-| From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'</td><td>amazon }}): |
+| From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'&lt;/td&gt;&lt;td&gt;amazon }}): |
 
 > Believing that your qualities are carved in stone — *the fixed mindset* — creates an urgency to prove yourself over and over. If you have only a certain amount of intelligence, a certain personality, and a certain moral character — well, then you’d better prove that you have a healthy dose of them. It simply wouldn’t do to look or feel deficient in these most basic characteristics.
 >
->
 > \[…\]
->
 >
 > Why waste time proving over and over how great you are, when you could be getting better? Why hide deficiencies instead of overcoming them? Why look for friends or partners who will just shore up your self-esteem instead of ones who will also challenge you to grow? And why seek out the tried and true, instead of experiences that will stretch you? The passion for stretching yourself and sticking to it, even (or especially) when it’s not going well, is the hallmark of the growth mindset. This is the mindset that allows people to thrive during some of the most challenging times in their lives.
 
@@ -142,4 +140,4 @@ It forces you to learn the value of hard work.
 
 Only those who have learned the value of hard work over talent will be left standing when life becomes a battle of attrition.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Fighters-Mindset" %}
