@@ -39,9 +39,9 @@ People want to contribute to the conversation but have nothing meaningful to say
 
 Another idea is also key in this quote: shame and brutal honesty are tools for changing behavior. While there are some cases where this is an effective tactic, it's more often used a means of self-indulgence on the part of the criticizer. Far too many people use unsolicited honesty as an excuse for casual cruelty.&nbsp;
 
-{% include widgets/summary.html id="Blinkist" %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
-## 3\. You attract more flies with honey than vinegar<br>&nbsp;
+## 3\. You attract more flies with honey than vinegar<br>
 
 > "Praise his good points and use every device to encourage him, perhaps by talking about one's own faults without touching on his, but so that they will occur to him. Have him receive this in the way that a man would drink water when his throat is dry, and it will be an opinion that will correct faults."
 
@@ -62,7 +62,7 @@ Progress and skill acquisition in all disciplines follow the same 4 steps.
 * **Conscious competence.** This is where the effort to learn begins. When people speak of [10,000 deliberate hours of practice](https://jamesclear.com/deliberate-practice-strategy){: target="_blank" rel="noopener noreferrer"}, this is the phase they're referring to. This is the higher level that the Hagakure refers to when it says "he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows.<br><br>*A special note about this level:*<br><br>This is where a person has the greatest chance of becoming insufferable. Whether it be because they're interested in showing off or they arrogantly believe they're better than people who haven't learned, this is the stage where ego is greatest. This is also the point of frustration, where plateaus occur and setbacks feel bigger than they really are.<br><br>If a person can stay humble and patient in this phase, they should transition nicely into the next.&nbsp;
 * **Unconscious competence**. This is the stage of mastery and intuition. Now you aren't learning so much as you're refining. Your progress is largely driven by simplification and reduction. You're also humble.<br><br>This is the highest level that the Hagakure refers to when it says "At the highest level a man has the look of knowing nothing."
 
-&nbsp;
+
 
 ## 5\. Every saint has a past and every sinner has a future
 
@@ -134,7 +134,7 @@ This is why, generally speaking, it's not a good idea to flaunt your success or 
 
 There are few things to be gained and many to be lost by doing so. And before you say that "real friend" would just be happy for you, this is just human nature. [Your friend doesn't want to be a hater, but they can't help it.&nbsp;](https://www.psychologytoday.com/us/blog/anxiety-files/201804/why-it-doesn-t-feel-good-when-someone-else-succeeds){: target="_blank" rel="noopener noreferrer"}
 
-{% include widgets/summary.html id="Blinkist" %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Recap of the 10 best quotes and ideas from The Hagakure: The Book of Shadows by Yamamoto Tsunetomo
 
@@ -144,9 +144,7 @@ There are few things to be gained and many to be lost by doing so. And before yo
 4. **"In one's life. there are levels in the pursuit of study…."**
 5. **"If we were to cast aside every man who had made a mistake once, useful men could probably not be come by."**
 6. **"Whether speaking formally or informally, one should look his listener in the eye…"**
-7. **&nbsp;"Although it seems that taking special care of one's appearance is similar to showiness, it is nothing akin to elegance."**
+7. &nbsp;**"Although it seems that taking special care of one's appearance is similar to showiness, it is nothing akin to elegance."**
 8. **"There is surely nothing other than the single purpose of the present moment."**
 9. **"Human life is truly a short affair. It is better to live doing the things that you like…"**
 10. **"People will become your enemies if you become eminent too quickly in life…"**
-
-&nbsp;
