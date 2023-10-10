@@ -3,9 +3,9 @@ date: 2015-10-29 20:00:00 -0400
 article_type: Article
 title: No one gives a shit about you
 permalink:
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - life-lessons
 image: /assets/images/posts/morpheus.jpeg
 description: >-
@@ -33,6 +33,8 @@ People care about themselves and how a situation will increase what’s valuable
 It’s so important that I'll write it again, phrased differently, and in bold letters. **No one gives a shit about you unless there's something in it for them.**
 
 That's ok, because you don't really care what they think either. If you do care then you got some work to do, and you need to [read this now](/how-to-stop-worrying-about-what-others-think-of-you/).
+
+{% include widgets/summary.html id="The-Four-Confidences" %}
 
 Before you talk about people who volunteer or do charity, reread the boldface. The good souls who donate their own time, money, and energy do it because it increases feelings they personally value.
 
@@ -80,4 +82,4 @@ The rest is up to you.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
