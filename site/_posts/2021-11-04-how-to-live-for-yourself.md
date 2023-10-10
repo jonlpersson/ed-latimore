@@ -152,6 +152,8 @@ Here’s how to choose yourself:
 
 I hope that helps. Go live your best life.
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ---
 
 ### References
