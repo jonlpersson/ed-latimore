@@ -204,7 +204,7 @@ If I did everything right, we'd get to take the route around the hurricane. Stil
 
 Achieving your goal is remarkably easy if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.&nbsp;
 
-{% include widgets/summary.html id="Blinkist" %}
+{% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## The use of deception to win
 
