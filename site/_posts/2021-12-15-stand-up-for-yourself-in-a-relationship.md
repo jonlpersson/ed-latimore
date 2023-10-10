@@ -106,7 +106,7 @@ Over the long term, it ruins your mental health and your overall sense of well-b
 
 Instead, try to see the other person's point of view. Chances are, they feel just as strongly as you do about your opinion. Because humans have what is called a self-serving bias it’s natural to become defensive when things don’t go your way.
 
-A self-serving bias<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is the tendency to attribute positive things to ourselves and our own effort. However, when something negative happens we’ll then attribute that to outside factors, alleviating ourselves of the responsibility for the wrongdoing.
+A self-serving bias<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is the tendency to attribute positive things to ourselves and our own effort. However, when something negative happens we’ll then attribute that to outside factors, alleviating ourselves of the responsibility for the wrongdoing.
 
 The kind of defensiveness that leads to criticism and belittling can stem from childhood experiences or past relationships. But it could also come from a breakdown in communication where each of you is fighting simply to be right.
 
@@ -122,7 +122,7 @@ The only way to know how to manage this is with experience and…
 * Defining your personal goals
 * Determining what you want out of life
 
-The result is that you build your self-confidence and make yourself a more likable person to be around. When I [learned to be more likable](https://edlatimore.com/how-to-be-likeable/) I met more people and made more friends. Healthy relationships require novelty or newness<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> to keep them exciting and fresh. When you develop your own interests, you are constantly evolving into a new and fresher version of yourself.
+The result is that you build your self-confidence and make yourself a more likable person to be around. When I [learned to be more likable](https://edlatimore.com/how-to-be-likeable/) I met more people and made more friends. Healthy relationships require novelty or newness<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> to keep them exciting and fresh. When you develop your own interests, you are constantly evolving into a new and fresher version of yourself.
 
 ## Follow the third agreement
 
@@ -140,7 +140,7 @@ This simple difference can cause friction if you are on opposite sides of this c
 
 ## When is it time to walk?
 
-Despite your best intentions, you can’t force relationships to work. Staying in a bad relationship can diminish your well-being and ruin your physical health.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> If you find yourself in a predicament where you feel like your own needs aren't being met or you're constantly bending to the other person's emotions, it might be time to walk away.
+Despite your best intentions, you can’t force relationships to work. Staying in a bad relationship can diminish your well-being and ruin your physical health.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> If you find yourself in a predicament where you feel like your own needs aren't being met or you're constantly bending to the other person's emotions, it might be time to walk away.
 
 Here are a few other warning signs:
 
@@ -170,4 +170,4 @@ Here’s how:
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Herndon J. MS, MPH, MFA, Medically reviewed by Legg T. J. Ph.D. CRNP <em><a href="https://www.healthline.com/health/self-serving-bias">Healthline: What is a Self-Serving Bias and What are Some Examples of It?</a></em> Updated May 30, 2018. <a href="https://www.healthline.com/health/self-serving-bias">https://www.healthline.com/health/self-serving-bias</a> (accessed Nov. 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Dean, Nicole. <em><a href="https://brainworldmagazine.com/the-importance-of-novelty/">Brain World: The Importance of Novelty</a></em> Sep. 5. 2019, <a href="https://brainworldmagazine.com/the-importance-of-novelty/">https://brainworldmagazine.com/the-importance-of-novelty/</a> (accessed Nov.2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Stibich, Mark Ph.D. Medically reviewed by Snyder, Carly MD. <a href="https://www.verywellmind.com/how-bad-relationships-affect-your-health-2223881">VerywellMind: How Bad Relationships Affect Your Health.</a> Oct. 21, 2020. (accessed Nov. 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Herndon J. MS, MPH, MFA, Medically reviewed by Legg T. J. Ph.D. CRNP <em><a href="https://www.healthline.com/health/self-serving-bias">Healthline: What is a Self-Serving Bias and What are Some Examples of It?</a></em> Updated May 30, 2018. <a href="https://www.healthline.com/health/self-serving-bias">https://www.healthline.com/health/self-serving-bias</a> (accessed Nov. 2021)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Dean, Nicole. <em><a href="https://brainworldmagazine.com/the-importance-of-novelty/">Brain World: The Importance of Novelty</a></em> Sep. 5. 2019, <a href="https://brainworldmagazine.com/the-importance-of-novelty/">https://brainworldmagazine.com/the-importance-of-novelty/</a> (accessed Nov.2021)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Stibich, Mark Ph.D. Medically reviewed by Snyder, Carly MD. <a href="https://www.verywellmind.com/how-bad-relationships-affect-your-health-2223881">VerywellMind: How Bad Relationships Affect Your Health.</a> Oct. 21, 2020. (accessed Nov. 2021)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>

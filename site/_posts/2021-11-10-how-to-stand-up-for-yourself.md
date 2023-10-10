@@ -37,6 +37,8 @@ Start by making a list of traits you highly value and behavior you find unaccept
 
 Knowing and understanding your red lines is the first step to vocalizing them. Once we’ve vocalized them we can build up to setting clear boundaries.
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## Let your friends know the consequences of overstepping those red lines
 
 ![Ed Latimore says the willingness to fight is often more important than the fight itself.](/assets/images/posts/2021/ed-standing-in-boxing-ring.jpeg "Ed Latimore says the willingness to fight is often more important than the fight itself."){: width="600" height="900"}
@@ -49,7 +51,7 @@ If a friend lets us down, canceling an event at the last moment without a good r
 
 Saying ‘Ok, I understand, no worries,’ doesn’t cut it all of the time. You need to make it clear that you’re unhappy. Remember that being overly agreeable is as damaging as being too aggressive.
 
-Dr. Jordan Peterson, the author of *12 Rules For Life*, argues we have to develop our ‘inner monster.’ Deciding never to be aggressive is throwing the baby out with the bathwater. It’s better to integrate our aggression and to train ourselves to be more assertive in the right circumstances.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Dr. Jordan Peterson, the author of *12 Rules For Life*, argues we have to develop our ‘inner monster.’ Deciding never to be aggressive is throwing the baby out with the bathwater. It’s better to integrate our aggression and to train ourselves to be more assertive in the right circumstances.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 {% include widgets/youtube.html id="bvNM9iuNBTs" %}
 
@@ -75,7 +77,7 @@ Setting red lines with your enemies gets harder the longer you leave it. The mor
 
 Being willing to fight is more important than being able to fight. This is a lesson I learned firsthand on the streets of Pittsburgh in the housing project where I lived that I’ve written about extensively [here](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/).
 
-Where I grew up there were always people looking to fight—people I call jackals who have a genuine taste for violence. They would usually be members of a gang. Statistics show that gang members love fighting amongst themselves, something that is only getting worse.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Where I grew up there were always people looking to fight—people I call jackals who have a genuine taste for violence. They would usually be members of a gang. Statistics show that gang members love fighting amongst themselves, something that is only getting worse.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 But even jackals understand that fighting requires effort. It’s a lot easier to get you to fall in line with threats of violence than to actually beat you to the ground. Don’t be a doormat.
 
@@ -103,7 +105,7 @@ What happens if someone starts an argument with you? Maybe one of your colleague
 
 Conflict, not violence, is important.
 
-Chris Voss, an [ex-FBI negotiator](https://www.theguardian.com/lifeandstyle/2015/jan/10/how-to-get-what-you-wanttop-negotiators-on-the-tricks-of-their-trade) and author of *Never Split The Difference: How To Negotiate Like Your Life Depends On It* puts it very clearly in his book: ‘Conflict brings out truth, creativity, and resolution.’<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Chris Voss, an [ex-FBI negotiator](https://www.theguardian.com/lifeandstyle/2015/jan/10/how-to-get-what-you-wanttop-negotiators-on-the-tricks-of-their-trade) and author of *Never Split The Difference: How To Negotiate Like Your Life Depends On It* puts it very clearly in his book: ‘Conflict brings out truth, creativity, and resolution.’<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 You must use this to your advantage. Conflict is a calculation. By showing that you are willing to engage in the conflict, your aggressor might back down and give you what they want. Often they are looking for you to roll over. That’s an easy win for them. They know they can get away with walking all over you.
 
@@ -129,10 +131,10 @@ Create the life that you want by refusing to accept treatment you don’t think 
 
 Don’t be the weakest person in the room. Know what you want and then take action to get it.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="The-Four-Confidences" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>You Have To Develop Your Inner Monster, <a href="https://www.youtube.com/watch?v=bvNM9iuNBTs">Jordan Peterson (2021) on YouTube</a> [accessed 4th October 2021]&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Prevalence of Gang Problems, _<a href="https://nationalgangcenter.ojp.gov/survey-analysis/prevalence-of-gang-problems#prevalenceyouthgangstudy">National Gang Centre Survey</a> _(2013)[accessed 28th September 2021]&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Chris Voss, _Never Split The Difference: Negotiating As If Your Life Depends On It _(Harper Collins, 2016), p.317&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>You Have To Develop Your Inner Monster, <a href="https://www.youtube.com/watch?v=bvNM9iuNBTs">Jordan Peterson (2021) on YouTube</a> [accessed 4th October 2021]&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Prevalence of Gang Problems, _<a href="https://nationalgangcenter.ojp.gov/survey-analysis/prevalence-of-gang-problems#prevalenceyouthgangstudy">National Gang Centre Survey</a> _(2013)[accessed 28th September 2021]&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Chris Voss, _Never Split The Difference: Negotiating As If Your Life Depends On It _(Harper Collins, 2016), p.317&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
