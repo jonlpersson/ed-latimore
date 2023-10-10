@@ -58,6 +58,8 @@ To succeed, you increase the value of the company that you’re investing in, an
 
 You cut off relationships that hurt you and cut out habits that don’t serve you as you get into the habit of betting everything on yourself. I talk about this change often when I mention how I bet on myself many years ago. If you're looking to make a change check out these [10 steps to change](/change-your-life/).
 
+{% include widgets/summary.html id="The-Four-Confidences" %}
+
 ## 4) Betting on yourself makes you see opportunities everywhere
 
 A scarcity mindset is a direct result of wanting to maintain your current position instead of growing what you have. You’re playing the whole game of life to not lose rather than to win.
@@ -98,3 +100,5 @@ This only happens when you act on it and acting on it is only done when you bet 
 If you aren't willing to put skin in the game for your own life, don't expect it to get any better.
 
 The rest is up to you.
+
+{% include widgets/summary.html id="The-Four-Confidences" %}
