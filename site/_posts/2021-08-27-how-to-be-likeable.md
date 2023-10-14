@@ -1,7 +1,7 @@
 ---
 date: 2021-08-27 09:00:00 -0400
 article_type: Article
-title: 'How to be more likeable: 5 strategies that worked for me'
+title: 'How to be likeable: 5 strategies that worked for me'
 permalink: /how-to-be-likeable/
 tags:
   - how-to-make-friends
@@ -25,7 +25,7 @@ If you’ve felt this way, you might even think *“why bother?”*
 
 Here’s why: authenticity is a requirement for strong relationships and a prerequisite for likeability. Just because everyone won’t like you doesn’t mean you need to make it easy for them to dislike you.
 
-Also, being likeable is life’s social currency.
+Also, being a likable person is one of life’s social currency.
 
 For example, people go out of their way to help you when they like you. You get more opportunities and offers when people like you. Even [likeable doctors get sued less often.](https://www.medicaleconomics.com/view/why-some-doctors-get-sued-more-others) And, if you’re like me and grew up in a rough area, likeability can keep you from getting your ass kicked.
 
@@ -33,7 +33,7 @@ There’s just absolutely no downside to being likeable.
 
 So if you’re looking for a way to be more likeable while also not caring what other people think, or “selling out,” keep reading. This article is for you.
 
-{% include widgets/toc.html heading="Strategies to become more likeable" list-items="Develop anti-fragility, Create your personal manifesto, Ask the right questions, Monitor your body language, Don&rsquo;t be judgmental" list-ids="1-develop-anti-fragility, 2-create-your-personal-manifesto, 3-focus-on-what-people-are-saying-and-respond, 4-monitor-your-body-language, 5-dont-be-judgmental" %}
+{% include widgets/toc.html heading="Strategies to become more likeable" list-items="Develop anti-fragility, Create your personal manifesto, Ask the right questions, Monitor your body language, Don’t be judgmental" list-ids="1-develop-anti-fragility, 2-create-your-personal-manifesto, 3-focus-on-what-people-are-saying-and-respond, 4-monitor-your-body-language, 5-dont-be-judgmental" %}
 
 ## 1\. Develop anti-fragility
 
@@ -95,11 +95,11 @@ You can do this by asking deeper questions than “how was your day?”
 
 Though that’s a great place to start, when trying to create a connection with others you want to listen to their answers and ask follow-up questions.
 
-Asking follow-up questions helps strengthen bonds and makes people feel you value their input.
+Asking follow-up questions helps strengthen bonds and makes people feel you value their input. Conversation and listening skills go a long way when it comes to being a more likable person.&nbsp;
 
 In a Harvard Study on the value of questions for relationship building, it was found that follow-up questions, or asking the right questions at the right time, [made you more likeable](https://www.inc.com/thomas-koulopoulos/harvard-study-reveals-that-one-word-is-secret-to-being-likable-emotionally-intelligent.html).
 
-However, asking questions alone is creepy and interrogating. In order to foster bonding, you have to share in the vulnerability as well.
+However, asking questions alone is creepy and interrogating. In order to foster bonding, you have to share in the vulnerability as well. This can seem like hard work for some people, but it is worth it because it is extraordinarily helpful.&nbsp;
 
 And that’s where emotional intelligence comes in.
 
