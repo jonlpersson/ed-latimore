@@ -122,7 +122,9 @@ Here are a few body language adjustments you can try today:
 * **Show enthusiasm**. Showing authentic enthusiasm not only makes people like you it makes them want to impress you and be liked by you.
 * **Put your phone down**. Looking down at your phone breaks your posture, breaks your eye contact, and makes you appear uninterested in the person speaking. All these things make others less attracted to you.
 
-Without good body language, it’s near impossible to make new friends or get someone to find you attractive. And we all could use a little help in that department. I recently wrote a No-BS guide about it. Check it out here: *[How to be a more attractive man](/how-to-be-an-attractive-man)*.
+Without good body language, it’s near impossible to make new friends, get someone to find you attractive, or just be mor elikable in general. And we all could use a little help in that department.
+
+Small advertisement: I recently wrote a No-BS guide about it. Check it out here: *[How to be a more attractive man](/how-to-be-an-attractive-man)*.
 
 ## 5\. Don’t be judgmental
 
@@ -148,7 +150,7 @@ You can do this by:
 
 Behaving respectfully towards others makes you hard to dislike. If you can do nothing else, being a more respectful person is probably the single biggest lever you can pull in becoming likable.
 
-It also just makes you a better person.&nbsp;
+It also just makes you a better person and is great for your mental health as well.&nbsp;
 
 ## Recap of 5 basic tips to make you more likeable
 
