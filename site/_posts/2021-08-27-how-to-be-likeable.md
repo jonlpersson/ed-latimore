@@ -8,8 +8,8 @@ tags:
 categories:
   - life-lessons
 description: >-
-  Likeability is the ultimate form of social currency, both in personal and
-  romantic relationships and in business. Here are 5 ways to become more
+  Being a likable person is the ultimate form of social currency in personal,
+  romantic, and business relationships.. Here are 5 ways to become more
   likeable.
 image: /assets/images/posts/ed-speaking-spanish.jpg
 ---
