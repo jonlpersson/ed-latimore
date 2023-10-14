@@ -146,7 +146,9 @@ You can do this by:
 * Offering genuine compliments
 * Asking for advice and taking it (when appropriate)
 
-Behaving respectfully towards others makes you hard to dislike.
+Behaving respectfully towards others makes you hard to dislike. If you can do nothing else, being a more respectful person is probably the single biggest lever you can pull in becoming likable.
+
+It also just makes you a better person.&nbsp;
 
 ## Recap of 5 basic tips to make you more likeable
 
