@@ -58,29 +58,18 @@ Make a list of things that are not okay for others to do or say to you. For exam
 
 Writing this down will help to solidify the image in your head and make it more likely that you’ll do what’s necessary to become your ideal self. A major key to likability is actually enforcing your personal standards when they’re breached.
 
-## 3\. Focus on what people are saying and respond
+## 3\. Listen actively to connect
 
-Though first impressions go a long way, first interactions also help determine if someone will like you or not. That’s why learning some conversational tactics are so important.
+Listening is an underrated art that builds bonds. When you demonstrate engaged, active listening, people feel respected and valued. This fosters likability and connection.
 
-You don't have to be a wizard conversationalist or even have master-level social skills. In fact, many people would say talking to new people makes them nervous. So get in there knowing it’s an even playing field. Find some common ground no matter where you are or who they are.
+* Give your full attention when someone is speaking to you. Avoid multitasking or letting your gaze wander. Lean in and make eye contact.
+* Paraphrase parts of what they share to show understanding. For example, "It sounds like you felt very frustrated when your boss criticised your work."&nbsp;
+* Ask thoughtful follow-up questions to encourage them to share more. Dig deeper with open-ended questions like "What drew you to that career?"
+* Allow natural pauses in the conversation for them to elaborate. Don't rush to fill silences.
+* Limit interruptions and let them finish speaking before you respond. Being patient shows care.
+* Avoid judgmental language. Comments like "Why would you do that?" can seem critical. Maintain an open, understanding tone.
 
-You can do this by asking deeper questions than “how was your day?”
-
-Though that’s a great place to start, when trying to create a connection with others you want to listen to their answers and ask follow-up questions.
-
-Asking follow-up questions helps strengthen bonds and makes people feel you value their input. Conversation and listening skills go a long way when it comes to being a more likable person.&nbsp;
-
-In a Harvard Study on the value of questions for relationship building, it was found that follow-up questions, or asking the right questions at the right time, [made you more likeable](https://www.inc.com/thomas-koulopoulos/harvard-study-reveals-that-one-word-is-secret-to-being-likable-emotionally-intelligent.html).
-
-However, asking questions alone is creepy and interrogating. In order to foster bonding, you have to share in the vulnerability as well. This can seem like hard work for some people, but it is worth it because it is extraordinarily helpful.&nbsp;
-
-And that’s where emotional intelligence comes in.
-
-High emotional intelligence will help you be successful at social interactions with people you don’t know well.
-
-EQ is your ability to pick up on nuanced ques from the other person that they are enjoying themselves or feel uncomfortable. It’ll tell you if you’re standing too close, if a topic is one they don’t want to talk about, or even if someone is into you.
-
-Learning to be a good listener can help you develop your EQ. Active listening helps you respond in real-time to others' comments. It makes them feel seen and heard and they'll be more inclined to want to get to know you.
+Mastering empathetic, attentive listening demonstrates regard for others. It is a key pathway to developing mutual understanding and likeability. Make people feel truly heard.
 
 ## 4\. Improve your body language
 
