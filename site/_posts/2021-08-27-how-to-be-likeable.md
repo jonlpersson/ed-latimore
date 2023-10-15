@@ -8,14 +8,14 @@ tags:
 categories:
   - life-lessons
 description: >-
-  Being a likable person is the ultimate form of social currency in personal,
-  romantic, and business relationships.. Here are 5 ways to become more
-  likeable.
+  I teach you how to be likeable from my personal experience. Being a likable
+  person is the ultimate form of social currency in personal, romantic, and
+  business relationships.
 image: /assets/images/posts/ed-speaking-spanish.jpg
 ---
 What’s the point in being likable if people will just hate you for it?&nbsp;
 
-There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true.
+There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true. No matter what you learn about how to be likeable, it won't matter because some people just won't be a fan of yours.&nbsp;
 
 The longer you live, you’ll inevitably come across someone who, for whatever reason, just isn’t your biggest fan. That’s okay.
 
