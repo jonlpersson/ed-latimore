@@ -1,7 +1,7 @@
 ---
 date: 2021-08-27 09:00:00 -0400
 article_type: Article
-title: 'How to be likeable: 5 strategies that worked for me'
+title: 'How to be likeable: 5 ways to increase your emotional intelligence'
 permalink: /how-to-be-likeable/
 tags:
   - how-to-make-friends
@@ -76,7 +76,7 @@ Boundaries or standards can also be standards of excellence, like dressing like 
 
 Writing this down will help to solidify the image in your head and make it more likely that you’ll do what’s necessary to become your ideal self. Call it your personal manifesto.
 
-### Something to remember about setting boundaries
+### Setting boundaries is good for your mental health, but something to remember...
 
 When you have a set of personal standards, two decisions are immediately made for you:
 
