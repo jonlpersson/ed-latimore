@@ -33,32 +33,13 @@ There’s just absolutely no downside to being likeable.
 
 So if you’re looking for a way to be more likeable while also not caring what other people think, or “selling out,” keep reading. This article is for you.
 
-{% include widgets/toc.html heading="Strategies to become more likeable" list-items="Develop anti-fragility, Create your personal manifesto, Ask the right questions, Monitor your body language, Don’t be judgmental" list-ids="1-develop-anti-fragility, 2-create-your-personal-manifesto, 3-focus-on-what-people-are-saying-and-respond, 4-monitor-your-body-language, 5-dont-be-judgmental" %}
-
 ## 1\. Develop anti-fragility
 
 There are tons of simple ways to increase your likeability—being more confident is one of the most important. Though it isn’t simple in its development, the concept is: the more you like and trust yourself, the more others will like and trust you.
 
 I’ve put this first because it will make the other strategies easier. You’ll also find that getting good at any one thing has the added benefit of increasing your confidence.
 
-The concept of anti-fragility means that your entire life isn’t derailed by a single setback. So learning that others may have a problem with you, or learning you have a shortcoming in your skillset isn’t a catastrophic blow to your ego. And that comes from working on your confidence.
-
-Developing your self-confidence makes it easier to make new friends and build deeper relationships. It also makes you more likeable because people trust you more.
-
-In my book, [The Four Confidences](/resources/four-confidences/), I share the lessons I had to learn the hard way. Developing my confidence was a key to becoming more likeable, quitting alcohol for good, and accomplishing more than people ever expected of me.
-
-Here are the four confidences and how to put them into action:
-
-1. **Confidence in the process**. Trust that one day your efforts will be worth it, that you can improve if you are willing to put in the work and don’t quit. Success is never an accident.
-2. **Confidence in instruction**. Find a mentor, coach, or teacher to guide you on the right path. You’ll avoid the death spiral of repeating the same mistake over and over again for years.
-3. **Confidence in the past**. Use the stories from history and from others to inform your choices and behaviors.
-4. **Confidence in learning**. Trust that given enough time, you can learn anything.
-
-Learning to trust yourself and trust the process is a necessary step to becoming more likeable while not caring what others think of you.
-
-In other articles I've read that teach you how to be likeable, this technique is often left out, but I believe that it's the basis of likeability training. The more comfortable you are in your own skin, the more people will like you.
-
-{% include widget/summary.html id="The-Four-Confidences" %}
+The concept of anti-fragility means that your entire life isn’t derailed by a single setback. So learning that others may have a problem with you, or learning you have a shortcoming in your skillset isn’t a catastrophic blow to your ego.
 
 ## 2\. Create your personal manifesto
 
