@@ -58,7 +58,11 @@ Learning to trust yourself and trust the process is a necessary step to becoming
 
 In other articles I've read that teach you how to be likeable, this technique is often left out, but I believe that it's the basis of likeability training. The more comfortable you are in your own skin, the more people will like you.
 
+{% include widget/summary.html id="The-Four-Confidences" %}
+
 ## 2\. Create your personal manifesto
+
+We're back to another key piece of information that's often missing in popular advice that teaches you how to be likeable.
 
 People think that wanting to be liked by others is pandering and somehow groveling. But being liked by others is actually a cue to social belonging.
 
