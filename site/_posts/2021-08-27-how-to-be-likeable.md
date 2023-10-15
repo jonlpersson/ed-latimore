@@ -54,7 +54,9 @@ Here are the four confidences and how to put them into action:
 3. **Confidence in the past**. Use the stories from history and from others to inform your choices and behaviors.
 4. **Confidence in learning**. Trust that given enough time, you can learn anything.
 
-Learning to trust yourself and trust the process is a necessary step to becoming more likeable while not caring what others think of you. The more comfortable you are in your own skin, the more people will like you.
+Learning to trust yourself and trust the process is a necessary step to becoming more likeable while not caring what others think of you.
+
+In other articles I've read that teach you how to be likeable, this technique is often left out, but I believe that it's the basis of likeability training. The more comfortable you are in your own skin, the more people will like you.
 
 ## 2\. Create your personal manifesto
 
