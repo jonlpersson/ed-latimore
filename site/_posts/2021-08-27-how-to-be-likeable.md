@@ -82,22 +82,21 @@ EQ is your ability to pick up on nuanced ques from the other person that they ar
 
 Learning to be a good listener can help you develop your EQ. Active listening helps you respond in real-time to others' comments. It makes them feel seen and heard and they'll be more inclined to want to get to know you.
 
-## 4\. Monitor your body language
+## 4\. Improve your body language
 
-Studies show that [70-90% of our communication](https://youth-time.eu/to-talk-or-not-to-talk-that-is-the-question-at-least-70-percent-of-communication-is-non-verbal/) is non-verbal. From our facial expressions to a firm handshake to your posture, you’re communicating something about yourself at all times.
+Studies show that [70-90% of our communication](https://youth-time.eu/to-talk-or-not-to-talk-that-is-the-question-at-least-70-percent-of-communication-is-non-verbal/) is non-verbal.
 
-Even if other people have poor body language, it doesn’t make their response to your body language any less strong.
+The way you hold and present yourself sends signals that impact likability. Monitor your body language and make positive adjustments:
 
-Here are a few body language adjustments you can try today:
+* Smile and make eye contact when greeting someone. Smiles release feel-good chemicals and signal warmth.
+* Use open posture and lean in slightly when listening. This demonstrates interest and engagement. Keep arms uncrossed.
+* Mirror the other person's body language subtly. If they lean forward, do the same. Matching body rhythm builds rapport.
+* Nod along and make small verbal affirmatives like "uh huh" as they speak. This reassures them you are actively listening.
+* Use welcoming gestures like extending your hand for a handshake or lightly touching the other person's arm. Be respectful of personal space.
+* Avoid distracting movements like fidgeting. And definitely keep your phone away. Looking at your phone signals disinterest.
+* Relax your facial muscles. A tense expression reads as sternness or disapproval, undermining likability.
 
-* **Smile when you greet someone**. Smiles generate positive feelings and make people want to get to know you.
-* **Make eye contact**. Maintain eye contact when someone is speaking to you but look away during brief pauses, when you laugh, or in natural breaks in the conversation.
-* **Show enthusiasm**. Showing authentic enthusiasm not only makes people like you it makes them want to impress you and be liked by you.
-* **Put your phone down**. Looking down at your phone breaks your posture, breaks your eye contact, and makes you appear uninterested in the person speaking. All these things make others less attracted to you.
-
-Without good body language, it’s near impossible to make new friends, get someone to find you attractive, or just be mor elikable in general. And we all could use a little help in that department.
-
-Small advertisement: I recently wrote a No-BS guide about it. Check it out here: *[How to be a more attractive man](/how-to-be-an-attractive-man)*.
+The way you hold and conduct yourself impacts how others perceive you. Developing welcoming, engaged body language is crucial for leaving positive first impressions that set the stage for likability.
 
 ## 5\. Don’t be judgmental
 
