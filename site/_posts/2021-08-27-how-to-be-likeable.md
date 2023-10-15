@@ -41,36 +41,22 @@ I’ve put this first because it will make the other strategies easier. You’ll
 
 The concept of anti-fragility means that your entire life isn’t derailed by a single setback. So learning that others may have a problem with you, or learning you have a shortcoming in your skillset isn’t a catastrophic blow to your ego.
 
-## 2\. Create your personal manifesto
+## 2\. Set boundaries for your mental health
 
 We're back to another key piece of information that's often missing in popular advice that teaches you how to be likeable.
 
-People think that wanting to be liked by others is pandering and somehow groveling. But being liked by others is actually a cue to social belonging.
-
 Social psychology points to [people's need to belong](https://www.psychologytoday.com/us/blog/sense-belonging/201906/the-importance-belonging-across-life). Feeling included and part of the tribe has been a key to human survival. Loneliness has actually been declared [as deadly as obesity and cigarette smoking](https://www.hrsa.gov/enews/past-issues/2019/january-17/loneliness-epidemic).
 
-Growing up, it wasn’t uncommon for me to see horrendous violence and the absolute worst of human nature every night. During the day, however, I was attending a school for gifted kids. Becoming more likeable made these worlds easier to navigate.
-
-They also taught me two things: everything is a fight to run toward or run away from. The only way to know the difference is to respect yourself.
-
-Put another way, you learn to choose your battles by setting boundaries and having personal standards.
-
-You know the things you won’t accept from others because you’ve likely experienced it already.
-
-Make a list of things that are not okay for others to do or say to you. For example, never date or befriend someone that belittles you.
-
-Boundaries or standards can also be standards of excellence, like dressing like a man [(link to my favorite course on the topic)](http://shop.masculine-style.com/dress-like-a-man-launch/), always learning a new skill, saying hello to anyone that comes within 5 ft of you, etc. Write down your vision of the ideal person you’d like to become and use it to set your personal standards.
-
-Writing this down will help to solidify the image in your head and make it more likely that you’ll do what’s necessary to become your ideal self. Call it your personal manifesto.
-
-### Setting boundaries is good for your mental health, but something to remember...
+You learn to choose your battles by setting boundaries and having personal standards. You know the things you won’t accept from others because you’ve likely experienced it already.
 
 When you have a set of personal standards, two decisions are immediately made for you:
 
 1. You eliminate people that might force you to act in a way that makes you unlikeable. Following personal standards for how you treat others, yourself, and your surroundings will automatically protect you from many destructive influences.
 2. You make it easier to like yourself, thus making it easier for other people to like you. When you eliminate people and avoid situations that don’t live up to the standards you’ve set for yourself, you’re also getting rid of influences that no longer align with your path.
 
-Remember a major key to self-respect is actually enforcing your personal standards when they’re breached.
+Make a list of things that are not okay for others to do or say to you. For example, never date or befriend someone that belittles you. Write down your vision of the ideal person you’d like to become and use it to set your personal standards.
+
+Writing this down will help to solidify the image in your head and make it more likely that you’ll do what’s necessary to become your ideal self. A major key to likability is actually enforcing your personal standards when they’re breached.
 
 ## 3\. Focus on what people are saying and respond
 
