@@ -8,8 +8,12 @@ tags:
 categories:
   - chess-math-and-language
 description: >-
-  A comprehensive review of Onnit's Alpha Brain nootropic supplement: what I
-  think of it, how I take it, and how it compares to other brain supplements.
+  Hey folks, ready to witness the real scoop on Alpha Brain? Dive into our
+  vibrant user experiences and honest reviews! We're gonna break down all you
+  need to know about this brain-boosting supplement. And no fluff, just the
+  straight-up facts. Curated by Ed Latimore, your athletic ally in navigating
+  the world of smart supplements. Grab your seat and get ready to be
+  enlightened!"
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
 I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improved my brain function, I watched my progress on 3 of my regular cognitive tasks:
@@ -94,7 +98,7 @@ Onnit Alpha Brain uses three proprietary blends and two individual ingredients. 
 
 I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within. I can only assume the ingredients are from.a verified, vetted, and trusted source.&nbsp;
 
-From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}\:
+From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}:
 
 *\*\*According to the Food and Drug Administration (FDA), the FDA requires all supplement manufacturers to list all of the ingredients in a product, on its label along with the appropriate amount of each in terms of weight. BUT! If the ingredients are part of a proprietary blend – the specific amount of each individual ingredient in the proprietary blend does not have to be listed, only the total \*\**
 
