@@ -16,6 +16,14 @@ description: >-
   enlightened!"
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
+<!-- x-tinymce/html -->Hey crew, Ed Latimore here! Hope you're all fighting fit and ready to punch through another day. Okay, let's get into this straight off the ropes: we're diving into something a bit different today.
+
+I'm talking about Alpha Brain - yeah, you've likely heard about it, right? We've got some serious chat to have about this nootropic, and I'm here to give you the real, no-punches-pulled lowdown. It's time for an honest-to-goodness Alpha Brain review, with all of my experiences and real-deal feedback.
+
+Strap in tight, people – it's about to get interesting!
+
+## The experiment I ran for this alpha brain review
+
 I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improved my brain function, I watched my progress on 3 of my regular cognitive tasks:
 
 * **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site. Creativity is associated with alpha brain waves, and one of Alpha Brain's claims is to increase alpha brain wave activity.
