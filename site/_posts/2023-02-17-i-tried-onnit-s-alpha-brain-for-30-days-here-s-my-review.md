@@ -24,15 +24,21 @@ Strap in tight, people – it's about to get interesting!
 
 ## The experiment I ran for this alpha brain review
 
-I tried the Onnit Alpha Brain supplement for 30 days. To test out how it improved my brain function, I watched my progress on 3 of my regular cognitive tasks:
+<!-- x-tinymce/html -->
 
-* **Writing content.** I'm currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/)), working on a book, and producing content for this site. Creativity is associated with alpha brain waves, and one of Alpha Brain's claims is to increase alpha brain wave activity.
-* **Training chess.** I have a long-term goal of attain master strength in chess. [Here's part of my training plan.](/chess-improvement-plan/)&nbsp;Chess activates many of the same regions of the brain that Alpha brain is has been reported to enhance in clinical trials. Alpha brain also improves cerebral blood flow, something that's crucial in chess ability. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7411872/))
-* **Practicing Spanish.** By the end of the year, the goal is to take the D.E.L.E. [exam for Spanish](https://imp.i271380.net/XxzxXX) level B2. Based on the results of clinical trials conducted with Alpha Brain, this is the area I was expecting the supplement to the most improvement.&nbsp;
+I decided to take on the journey to the world of **Alpha Brain**, a popular nootropic claiming to significantly improve cognitive functions. In other words, it's a supplement to make you super smart and alert. Now, I know you're probably thinking, dude, are you seriously talking about a brain-boosting pill just like those in slickly-marketed commercials?
 
-I'm currently in constant sleep deprivation that all new parents go through, so I figured I'd be a perfect candidate to see how this supplement stacks up as a brain-boosting nootropic. Another claim this allowed me to investigate is its ability to eliminate brain fog.
+Yup, exactly that. But before you start with the eye-rolling, hear me out. This isn't me waxing poetic with empty statements. I want to give you my honest-to-goodness experience as a first-time user. Plus, I gotta tell ya that I'd really done my homework before even considering taking Alpha. After all, who likes going on a wild goose chase, right?
 
-Given my goals and the effect of stress, I'm in a perfect position to test the claims about Alpha Brain's ability to improve alertness, focus, brain function, cognitive processing speed, and verbal fluency.
+## What is Alpha Brain?
+
+So, about Alpha Brain. Brought to us by Onnit, this nootropic contains natural ingredients aimed at improving mental speed, memory, and focus. The cool thing about this brain-booster is it doesn’t contain caffeine or gluten, my pals. Yup, you heard it right. Alpha Brain is safe for users who follow a caffeine-free and gluten-free diet.
+
+But don't just take my word for it—do the research. Check out the science behind it, the countless user reviews and their experiences, and weigh the pros and cons. Like any other change you introduce to your system, taking Alpha requires some thought.
+
+I started my Alpha journey with a scoopful of optimism, swearing by the mantra “no pain, no gain”. Taking it was as easy as ABC—just a couple of capsules a day, and voilà, you're part of the Alpha club. The first few days didn’t bring about any earth-shattering results. But, patience, my friend, is the name of the game; the gradual but perceptible improvements in my brain functions eventually surfaced.
+
+When it comes to Alpha Brain, or any other nootropic, it's not just about taking a supplement, but what that supplement can do for you. And if it can give your *brain* that extra push without compromising your caffeine-free and gluten-free diet, then it’s all the more power to you.&nbsp;
 
 ![Ed Latimore with his son 3 month old that causes sleep deprivation](/assets/images/drafts/ed-and-his-son.jpeg "I'm smiling, but I'm secretly exhausted haha"){: width="400" height="531"}
 
