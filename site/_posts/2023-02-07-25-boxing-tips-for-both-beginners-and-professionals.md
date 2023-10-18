@@ -68,7 +68,7 @@ Next, sprinting strengthens your legs and helps you become a more powerful boxer
 
 Sprinting, especially up a hill, helps you improve the amount of energy you can generate (because they strengthen the entire body, specifically the muscles used for punching) and because you can move your feet faster (sprinting requires and trains fast foot turnover). By increasing the energy and decreasing the amount of time required to generate it, your power automatically increases.&nbsp;
 
-### 3) Should boxers lift weights?
+### 3) Should boxers lift weights to build extra muscle?
 
 ![Lifting weights for boxing](/assets/images/drafts/ed-latimore-lifting-weights.jpg "Lifting weights for boxing"){: width="500" height="558"}
 
@@ -86,7 +86,7 @@ Boxing training makes little allowance for weight training for the following rea
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
-### 4) The fastest way to get into boxing shape
+### 4) The fastest way to get into shape
 
 ![Getting into boxing shape](/assets/images/drafts/boxing-in-shape.jpeg "Getting into boxing shape"){: width="500" height="625"}
 
@@ -134,7 +134,7 @@ Maintaining this balance not only ensures that the boxer is always in position t
 
 It's beyond the scope of this article to give you a complete breakdown on a balance training method. What I will tell you is that your general balance is composed of your vestibular, proprioceptive, and occular system. You'll also need a strong core and hip mobility.
 
-## How to find a good boxing gym and boxing coach
+## How to find a good boxing gym and coach
 
 As an amateur boxer, I had over 10 different coaches. At one point in time or the other, I was coached by
 
@@ -153,7 +153,7 @@ Each of these coaches taught me something that added to my understanding of the 
 
 ***For further reading, [click here learn how to get into amateur and professional boxing](/how-to-get-into-boxing/)***
 
-### 8) Should your boxing coach have experience fighting?
+### 8) Should your coach have experience fighting?
 
 ![Tom Yankello wrapping Ed Latimore's hands](/assets/images/drafts/tom-wrapping-my-hands.jpeg "Tom Yankello wrapping my hands before my 2nd pro fight"){: width="500" height="333"}
 
@@ -217,7 +217,7 @@ Do not disappoint them or waste your coach's time.&nbsp;
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
-## Learning how to fight
+## Advice on learning proper boxing skills
 
 ### 13) How to use the heavy bag
 
@@ -241,7 +241,7 @@ Shadowboxing is for working on your footwork, defensive maneuvers, and concentra
 
 You need to create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
 
-### 16) Learn the fundamentals of boxing
+### 16) Learn the basic skills of boxing
 
 Generally speaking, most people never master the fundamentals of anything because the fundamentals are boring. Specific to boxing, this problem is exacerbated by the fact that almost no one takes the time to understand how to do anything correctly.
 
@@ -255,7 +255,7 @@ Whether it’s a straight punch or a punch with circular motion, your body goes 
 
 The arms have almost nothing to do with it. I tell fighters all the time that boxing is done with your legs.
 
-### 18) Punch with your entire body
+### 18) Pro tip: Punch with your entire body
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvRXN0ZWVtZWRSZWFkeUpvaG5kb3J5IiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNTI0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2VzdGVlbWVkcmVhZHlqb2huZG9yeSI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/EsteemedReadyJohndory" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/esteemedreadyjohndory">via Gfycat</a></p></div>
 
