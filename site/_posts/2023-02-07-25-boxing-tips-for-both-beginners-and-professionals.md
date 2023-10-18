@@ -1,7 +1,7 @@
 ---
 date: 2023-02-07 00:00:00 -0500
 article_type: Article
-title: 25 boxing tips for both amateurs and professionals
+title: 25 boxing tips amateur and pro boxers
 permalink: /25-boxing-tips/
 tags:
   - longevity-health-and-performance
@@ -42,7 +42,7 @@ This doesn’t mean that you shouldn’t run. It just means that most fighters s
 
 I like to think of running routines in terms of 2-week intervals rather than one. I believe this gives your body more time to recover. Here is a sample running routine I’ve used to get in shape for a fight:
 
-* **Monday, Wednesday, & Friday**\: 2-mile run at a leisurely pace. It should be completed in 20-22 minutes. Any slower, and it’s not effective enough. Any faster, and it’s most likely no longer a Zone 2 workout.
+* **Monday, Wednesday, & Friday**: 2-mile run at a leisurely pace. It should be completed in 20-22 minutes. Any slower, and it’s not effective enough. Any faster, and it’s most likely no longer a Zone 2 workout.
 * **Tuesday and Saturday:** Sprint workout (on this in the next point).
 * **Sunday:** Rest day.
 
