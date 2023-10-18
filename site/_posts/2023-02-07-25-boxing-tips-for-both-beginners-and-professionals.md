@@ -12,9 +12,9 @@ description: >-
   better boxer. The 25 tips are broken down into four categories.
 image: /assets/images/drafts/latimore-doing-boxing.jpeg
 ---
-These are a collection of tips and I ideas I put together from my 12-years of boxing experience as both an amateur and professional. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.&nbsp;
+These are a collection of boxing tips and I ideas I put together from my 12-years of experience as both an amateur and professional boxer. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.&nbsp;
 
-In many ways, I’m an outsider t. I didn’t have my first boxing match until I was 22, and while I was fighting, I earned a degree in physics. I did this so that I’d have a better future for myself after boxing, but it’s enabled me to look at boxing with a critical eye and look at what’s important and what needs to be improved.
+In many ways, I’m an outsider. I didn’t have my first boxing match until I was 22, and while I was fighting, I earned a degree in physics. I did this so that I’d have a better future for myself after boxing, but it’s enabled me to look at boxing with a critical eye and look at what’s important and what needs to be improved.
 
 This article is my collection of suggestions for anyone who wants to become a better boxer. The 25 tips are broken down into four categories. Laastly, this isn't meant to teach anyone how to fight.
 
@@ -28,7 +28,7 @@ I know this because when I started fighting, I was awkward and clumsy. I went on
 
 Fatigue makes cowards of us all, but it's dangerous to run out of energy in boxing. The challenge is that boxing is taxing on both the aerobic and anaerobic systems. You use up energy throwing punches, taking punches, evading, and attacking.
 
-Therefore, you need to be in supreme physical condition if you want a chance to be successful. Fitness people fight to get in shape, while fighters get in shape to fight.
+Therefore, you need to be in supreme physical condition if you want a successful boxing career. Fitness people fight to get in shape, while fighters get in shape to fight.
 
 ### 1) How far and often do does a boxer need to run?
 
@@ -72,7 +72,7 @@ Sprinting, especially up a hill, helps you improve the amount of energy you can 
 
 ![Lifting weights for boxing](/assets/images/drafts/ed-latimore-lifting-weights.jpg "Lifting weights for boxing"){: width="500" height="558"}
 
-In theory, weight training is an excellent idea. In application, it almost always negates a fighter’s abilities.
+In theory, weight training is an excellent idea. In application, it almost always negates your boxing abilities.
 
 In terms of health, fitness, and athleticism, there is no downside to weight training. I don’t want people to think I’m saying that boxing is somehow immune to the myriad benefits of weight training.
 
