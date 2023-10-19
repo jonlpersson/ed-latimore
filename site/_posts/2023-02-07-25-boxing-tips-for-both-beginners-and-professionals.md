@@ -1,7 +1,7 @@
 ---
 date: 2023-02-07 00:00:00 -0500
 article_type: Article
-title: 25 boxing tips amateur and pro boxers
+title: 25 boxing tips for amateur and pro boxing
 permalink: /25-boxing-tips/
 tags:
   - longevity-health-and-performance
@@ -90,7 +90,7 @@ Boxing training makes little allowance for weight training for the following rea
 
 ![Getting into boxing shape](/assets/images/drafts/boxing-in-shape.jpeg "Getting into boxing shape"){: width="500" height="625"}
 
-If you follow this simple boxing workout, you’ll be in better shape than nearly every boxer, regardless of weight class.
+If you follow this simple boxing workout, you’ll be in better shape than nearly every boxer, regardless of weight class.&nbsp;
 
 When I followed this routine (combined with the running routine I gave above), I never got tired during a fight, regardless of how hard I pushed myself.
 
@@ -223,7 +223,7 @@ Do not disappoint them or waste your coach's time.&nbsp;
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvRWFnZXJBbGxDZXJvIiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNDA0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2VhZ2VyYWxsY2VybyI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/EagerAllCero" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="404"></iframe><p><a href="https://gfycat.com/eagerallcero">via Gfycat</a></p></div>
 
-The heavy bag is for conditioning and learning how to throw every punch with bad intentions. While technique is important, it matters more that you push yourself to the max for the entire 3-minute round that you’re on the bag.
+The heavy bag is for conditioning and learning how to throw every punch with bad intentions. While techniques are important, it matters more that you push yourself to the max for the entire 3-minute round that you’re on the bag.
 
 Any other use is a waste.
 
@@ -231,7 +231,7 @@ Any other use is a waste.
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvTGF3ZnVsU211Z0JhcmFzaW5nYSIgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQwNCI+PC9pZnJhbWU+PHA+IDxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9sYXdmdWxzbXVnYmFyYXNpbmdhIj52aWEgR2Z5Y2F0PC9hPjwvcD4="><iframe src="https://gfycat.com/ifr/LawfulSmugBarasinga" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="404"></iframe><p><a href="https://gfycat.com/lawfulsmugbarasinga">via Gfycat</a></p></div>
 
-When your coach holds the mitts (or in my case, the paddles), this is the time for you to work on boxing technique, touch, and precision. This is where you learn to place shots accurately and learn how to develop a great snap on your punches.
+When your coach holds the mitts (or in my case, the paddles), this is the time for you to work on your boxing techniques, touch, and precision. This is where you learn to place shots accurately and learn how to develop a great snap on your punches.
 
 You can train this against the heavy bag, but for reasons related to Newton’s 3rd Law of physics, it’s not nearly as effective.
 
@@ -239,7 +239,7 @@ You can train this against the heavy bag, but for reasons related to Newton’s 
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSW5kb2xlbnRCaW9kZWdyYWRhYmxlQW1ldGh5c3RpbmVweXRob24iIGZyYW1lYm9yZGVyPSIwIiBzY3JvbGxpbmc9Im5vIiBhbGxvd2Z1bGxzY3JlZW4gd2lkdGg9IjY0MCIgaGVpZ2h0PSI1MjQiPjwvaWZyYW1lPjxwPiA8YSBocmVmPSJodHRwczovL2dmeWNhdC5jb20vaW5kb2xlbnRiaW9kZWdyYWRhYmxlYW1ldGh5c3RpbmVweXRob24iPnZpYSBHZnljYXQ8L2E+PC9wPg=="><iframe src="https://gfycat.com/ifr/IndolentBiodegradableAmethystinepython" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/indolentbiodegradableamethystinepython">via Gfycat</a></p></div>
 
-Shadowboxing is for working on your footwork, defensive maneuvers, boxing technique, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
+Shadowboxing is for working on your footwork, defensive maneuvers, boxing techniques, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
 
 You need to create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
 
