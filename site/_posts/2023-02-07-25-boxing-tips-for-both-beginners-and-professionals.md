@@ -239,15 +239,15 @@ You can train this against the heavy bag, but for reasons related to Newton’s 
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSW5kb2xlbnRCaW9kZWdyYWRhYmxlQW1ldGh5c3RpbmVweXRob24iIGZyYW1lYm9yZGVyPSIwIiBzY3JvbGxpbmc9Im5vIiBhbGxvd2Z1bGxzY3JlZW4gd2lkdGg9IjY0MCIgaGVpZ2h0PSI1MjQiPjwvaWZyYW1lPjxwPiA8YSBocmVmPSJodHRwczovL2dmeWNhdC5jb20vaW5kb2xlbnRiaW9kZWdyYWRhYmxlYW1ldGh5c3RpbmVweXRob24iPnZpYSBHZnljYXQ8L2E+PC9wPg=="><iframe src="https://gfycat.com/ifr/IndolentBiodegradableAmethystinepython" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/indolentbiodegradableamethystinepython">via Gfycat</a></p></div>
 
-Shadowboxing is for working on your footwork, defensive maneuvers, boxing techniques, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
+Shadowboxing is for working on your footwork, defensive maneuvers, basic boxing techniques, and concentration. The more time you spend shadowboxing, the better fighter you will become. The key to effective shadowboxing is a vivid imagination.
 
 You need to create an opponent in your mind that you’re actively fighting. The more fights you have, the easier this becomes. Studying film also makes this easier as well.
 
-### 16) Learn the basic skills of boxing
+### 16) Learn the basic skill of boxing
 
 Generally speaking, most people never master the fundamentals of anything because the fundamentals are boring. Specific to boxing, this problem is exacerbated by the fact that almost no one takes the time to understand how to do anything correctly.
 
-It’s amazing how few boxers understand basic punching technique. If you master the fundamentals, you’ll be better than 90% of amateur and professional boxers. If there are no coaches around who both understand the fundamentals and how to teach them, then start watching old fights.
+It’s amazing how few boxers understand basic punching techniques. If you master the fundamentals, you’ll be better than 90% of amateur and professional boxers. If there are no coaches around who both understand the fundamentals and how to teach them, then start watching old fights.
 
 ### 17) Every punch is the same
 
