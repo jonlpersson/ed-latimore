@@ -255,7 +255,7 @@ The arms have almost nothing to do with it. I tell fighters all the time that bo
 
 ### 18) Pro tip: Punch with your entire body
 
-![Turn your hips and back to punch](/assets/images/posts/3d-man-practising-his-punching.jpg "Turn your hips and back to punch"){: width="2084" height="2221"}
+![Turn your hips and back for powerful punching](/assets/images/posts/3d-man-practising-his-punching.jpg "Turn your hips and back to punch"){: width="2084" height="2221"}
 
 When throwing punches, learn to put your back into the punch, rotate your core, and keep your hips level by using muscular tension to hold your knees level.
 
@@ -287,7 +287,7 @@ Weight classes mean that in theory, no one has a significant advantage (of cours
 
 ### 22) You can only hit what you can see
 
-![Looking away from punch](/assets/images/drafts/jab-to-the-head-small.jpeg "The guy on the left got countered and didn't see it because he was looking away"){: width="400" height="230"}
+![Looking away from opponent punch before hit](/assets/images/drafts/jab-to-the-head-small.jpeg "The guy on the left got countered and didn't see it because he was looking away"){: width="400" height="230"}
 
 Never look away from your target.
 
@@ -295,7 +295,7 @@ If you ever turn your head away from what you’re aiming to hit, you have no id
 
 ### 23) How to spar
 
-![When you should spar?](/assets/images/drafts/should-you-spar.jpg "This handy chart for when you should spar"){: width="500" height="508"}
+![Boxing tips for sparring](/assets/images/drafts/should-you-spar.jpg "This handy chart for when you should spar"){: width="500" height="508"}
 
 Unless you’re getting ready for a professional fight, sparring is school.
 
@@ -305,7 +305,7 @@ Speed bags and heavybags don’t hit back and shadowboxing is against an opponen
 
 ### 24) Get your own gear
 
-![Winning headgear](/assets/images/drafts/boxing-headgear-winning.jpeg "This head gear is top the line and costs over $200. Definitely not letting anyone borrow it."){: width="500" height="500"}
+![Winning boxing headgear](/assets/images/drafts/boxing-headgear-winning.jpeg "This head gear is top the line and costs over $200. Definitely not letting anyone borrow it."){: width="500" height="500"}
 
 This tip is more for beginner boxers.
 
@@ -327,6 +327,8 @@ Once you really learn how to hit someone, you could kill them.
 However, what’s for more likely is that you’ll underestimate how powerful you are, not stop the guy, and he’ll probably pull out a gun or something.
 
 Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn't mean that you're bulletproof.&nbsp;
+
+Follow these boxing tips for a successful career in the ring and not for self-defense in the street.&nbsp;
 
 ***Read: [How to avoid a streetfight and what to do if you can't](/how-to-win-a-street-fight/)***
 
