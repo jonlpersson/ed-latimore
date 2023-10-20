@@ -255,15 +255,13 @@ The arms have almost nothing to do with it. I tell fighters all the time that bo
 
 ### 18) Pro tip: Punch with your entire body
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvRXN0ZWVtZWRSZWFkeUpvaG5kb3J5IiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNTI0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2VzdGVlbWVkcmVhZHlqb2huZG9yeSI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/EsteemedReadyJohndory" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="524"></iframe><p><a href="https://gfycat.com/esteemedreadyjohndory">via Gfycat</a></p></div>
+![Turn your hips and back to punch](/assets/images/posts/3d-man-practising-his-punching.jpg "Turn your hips and back to punch"){: width="2084" height="2221"}
 
 When throwing punches, learn to put your back into the punch, rotate your core, and keep your hips level by using muscular tension to hold your knees level.
 
 Doing this with your weight on your back foot and pushing into the floor with your front foot is the secret to incredible punching power.
 
 ### 19) Don't stop moving your head
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvSWxsdXN0cmlvdXNGcmlnaWRBbWVyaWNhbnF1YXJ0ZXJob3JzZSIgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIGFsbG93ZnVsbHNjcmVlbiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjY4NCI+PC9pZnJhbWU+PHA+IDxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pbGx1c3RyaW91c2ZyaWdpZGFtZXJpY2FucXVhcnRlcmhvcnNlLWJveGluZyI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/IllustriousFrigidAmericanquarterhorse" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="684"></iframe><p><a href="https://gfycat.com/illustriousfrigidamericanquarterhorse-boxing">via Gfycat</a></p></div>
 
 Constant head movement is unnatural and must be trained. Even when you think you are moving your head, you’re not moving it. So always practice it, even when you’re just using the punching bag.
 
@@ -272,8 +270,6 @@ Constant head movement is unnatural and must be trained. Even when you think you
 ## General boxing tips
 
 ### 20) You can’t separate offense and defense
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvR3JhbnVsYXJUaG91Z2h0ZnVsQm9iY2F0IiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgYWxsb3dmdWxsc2NyZWVuIHdpZHRoPSI2NDAiIGhlaWdodD0iNDA0Ij48L2lmcmFtZT48cD4gPGEgaHJlZj0iaHR0cHM6Ly9nZnljYXQuY29tL2dyYW51bGFydGhvdWdodGZ1bGJvYmNhdCI+dmlhIEdmeWNhdDwvYT48L3A+"><iframe src="https://gfycat.com/ifr/GranularThoughtfulBobcat" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="404"></iframe><p><a href="https://gfycat.com/granularthoughtfulbobcat">via Gfycat</a></p></div>
 
 A properly thrown punch defends you, and a well-executed defensive movement puts you into the optimal position to take advantage of an opening or strike back with a counter punch.
 
