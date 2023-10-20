@@ -32,7 +32,7 @@ Therefore, you need to be in supreme physical condition if you want a successful
 
 ### 1) How far and often do does a boxer need to run?
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9pZnIvQWdvbml6aW5nSm95b3VzQW1lcmljYW5tYXJ0ZW4iIGZyYW1lYm9yZGVyPSIwIiBzY3JvbGxpbmc9Im5vIiBhbGxvd2Z1bGxzY3JlZW4gd2lkdGg9IjY0MCIgaGVpZ2h0PSI0MTIiPjwvaWZyYW1lPjxwPjxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9kaXNjb3Zlci9yb2NreS1naWZzIj5mcm9tIFJvY2t5IEdJRnM8L2E+IDxhIGhyZWY9Imh0dHBzOi8vZ2Z5Y2F0LmNvbS9hZ29uaXppbmdqb3lvdXNhbWVyaWNhbm1hcnRlbi1zeWx2ZXN0ZXItc3RhbGxvbmUtcm9ja3ktYmFsYm9hLXJ1bm5pbmciPnZpYSBHZnljYXQ8L2E+PC9wPg=="><iframe src="https://gfycat.com/ifr/AgonizingJoyousAmericanmarten" frameborder="0" scrolling="no" allowfullscreen="" width="640" height="412"></iframe><p><a href="https://gfycat.com/discover/rocky-gifs">from Rocky GIFs</a> <a href="https://gfycat.com/agonizingjoyousamericanmarten-sylvester-stallone-rocky-balboa-running">via Gfycat</a></p></div>
+![Rocky running for boxing training](/assets/images/posts/rocky-running.jpeg "Rocky running for boxing training"){: width="1980" height="1114"}
 
 You don’t need to run far, long, or frequently.
 
