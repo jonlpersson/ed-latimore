@@ -10,8 +10,8 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      Issues of the Stoic Street Smarts Newsletter issues on learning, strategy,
-      and human connection.
+      **Issues of the Stoic Street Smarts Newsletter issues on learning,
+      strategy, and human connection.**
 
 
       <div class="cms-embed"
