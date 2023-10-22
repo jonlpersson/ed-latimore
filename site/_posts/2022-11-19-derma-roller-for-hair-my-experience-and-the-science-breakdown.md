@@ -24,7 +24,7 @@ Well, that's not the only thing it does.
 
 It's also used for the general maintenance of your skin. It can treat acne scarring, reduce signs of aging, and of greatest importance to men dealing with male pattern baldness, it can stimulate hair growth and regrowth.
 
-It works by creating micro-injuries within the skin. These micro-punctures cause blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat:
+It works by creating micro-injuries within the skin. These micro-punctures cause blood flow to the area where the roller is used and stimulate collagen production. A dermaroller can help treat other hair health ailments, such as:
 
 * Alopecia totalis (complete hair loss of the scalp)
 * Alopecia universalis (complete loss of all hair on the body)
@@ -161,6 +161,8 @@ Translation: Go over the area on your scalp where you're losing hair in an "up a
 
 For my brothas out there (or anyone with a darker skin tone), you won't be able to see your skin turn red. Just got by how irritated it feels, as that will be enough to tell you.
 
+Also, in the same line of discussion, your hair texture doesn't matter. The scalp roller would produce great effects, regardless of your race of race or ethnicity.
+
 One of the caveats the study warns is that you don't want to use the minoxidil (or finasteride+minoxidil solution) within 24 hrs of the derma rolling procedure. This is mainly to avoid irritation. This is not medical advice, but I never wait 24 hours after derma rolling to apply my minoxidil+finasteride solution.
 
 ## The final word on derma rolling to combat male pattern hair loss
@@ -169,6 +171,6 @@ It works. Every man in every study had great responses, but you've gotta make su
 
 ![From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:](/assets/images/drafts/12-week-growth-before-and-after-microneedling.png "From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:"){: width="450" height="338"}
 
-Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. The transplant hair is protected from DHT, but the other stuff can still go, but I've got my hair thickness pretty high adding this tactic to my reservoir.
+Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. The transplant hair is protected from DHT, but the other stuff can still go, but I've got my hair thickness pretty high adding this tactic to my hair care regime.
 
 If you want to see the rest of my hair loss prevention and retention protocol, check it out here. Otherwise, the rest is up to you.&nbsp;
