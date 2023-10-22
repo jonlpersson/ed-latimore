@@ -8,4 +8,12 @@ hero:
   text_markdown: ''
 page_blocks:
   - _id: posts_relevant
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      Issues of the Stoic Street Smarts Newsletter issues on learning, strategy,
+      and human connection.
+
+
+      [Subscribe here to never miss an issue.](/newsletter/)
 ---
