@@ -1,7 +1,7 @@
 ---
 date: 2022-11-19 11:25:00 -0500
 article_type: Article
-title: 'Derma roller for hair: My experience and the science breakdown'
+title: My experience using the derma roller for hair regrowth
 permalink: /derma-roller-for-hair/
 tags:
   - how-to-stop-balding
