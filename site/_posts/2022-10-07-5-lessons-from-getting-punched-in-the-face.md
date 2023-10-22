@@ -125,4 +125,4 @@ That’s a safe, legal, controlled way to get exposure to violence.
 
 Until then, the rest is up to you.
 
-{% include widgets/summary.html id="Fighters-Mindset" %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
