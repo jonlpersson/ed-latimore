@@ -14,6 +14,9 @@ page_blocks:
       and human connection.
 
 
-      [Subscribe here to never miss an issue.](/newsletter/)
+      <div class="cms-embed"
+      data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iMWRlMzVkNGQ1YSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS8xZGUzNWQ0ZDVhL2luZGV4LmpzIj48L3NjcmlwdD4="><script
+      async="" data-uid="1de35d4d5a"
+      src="https://mind-and-fist.ck.page/1de35d4d5a/index.js"></script></div>
   - _id: posts_relevant
 ---
