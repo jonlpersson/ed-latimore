@@ -32,7 +32,7 @@ You either die doing something stupid, or the stupid part of you dies off.
 
 Even though I intellectually understand that it&nbsp;[only takes two years to change your life](https://edlatimore.com/change-your-life/){: target="_blank" rel="noopener noreferrer"}, here I am 10 years later, doubting that I even exist because things are so different.
 
-I figured I must be dreaming in my prison cell, or that I died and went to heaven (though I hardly think I deserved to go there)--or maybe I was in a coma after a drunk driving accident.
+I figured I must be dreaming in my prison cell, or that I died and went to heaven (though I hardly think I deserved to go there)–or maybe I was in a coma after a drunk driving accident.
 
 Of course, this almost certainly isn’t what happened (though there is the idea of&nbsp;[Quantum Immortality](https://hackernoon.com/quantum-immortality-summed-up-in-5-key-points){: target="_blank" rel="noopener noreferrer"}&nbsp;that’s floating around). Here’s how I think it happened for me and, in explaining this, I hopefully give you a path to changing yourself.
 
