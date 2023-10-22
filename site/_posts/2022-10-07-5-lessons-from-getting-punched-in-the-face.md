@@ -9,6 +9,7 @@ tags:
 categories:
   - life-lessons
   - longevity-health-and-performance
+  - Stoic-Street-Smarts-Newsletter
 description: >-
   Getting punched in the face isn't that bad. In fact, it can be the source of
   some valuable lessons. Here are five things you can learn from the experience.
