@@ -9,13 +9,12 @@ categories:
   - longevity-health-and-performance
 description: >-
   This article discusses how is used derma rolling for hair regrowth. It worked
-  to reverse hair loss and to preserve non-transplanted hairs after my FUE
-  surgery.
+  to reverse hair loss and preserve non-transplanted hairs after my FUE surgery.
 image: /assets/images/drafts/dermaroller-for-hair-loss.jpeg
 ---
-One of the most effective ways to reverse hair loss (not just slow down or halt) is the dermaroller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. For as little as $40, you can be well on your way to making a serious difference in your hair loss.&nbsp;
+One of the most effective ways to reverse hair loss (not just slow down or halt) is the derma roller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. A derma roller for hair can be as little as $40. With that, you can be well on your way to making a serious difference in your hair loss.&nbsp;
 
-I wish I had known about this [before I got my hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/). While it wouldn't have produced the same results, you'll see well this can work. It's truly a cheap hair loss solution.
+I wish I had known about this [before I got my hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/). While it wouldn't have produced the same results, you'll see well this can work. Dermarollers are truly the most cost effective hair loss solution.
 
 ## Using a derma roller for hair growth: Does it work?
 
@@ -170,6 +169,6 @@ It works. Every man in every study had great responses, but you've gotta make su
 
 ![From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:](/assets/images/drafts/12-week-growth-before-and-after-microneedling.png "From the Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia:"){: width="450" height="338"}
 
-Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. I've got my hair thickness pretty high adding this tactic to my reservoir.
+Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. The transplant hair is protected from DHT, but the other stuff can still go, but I've got my hair thickness pretty high adding this tactic to my reservoir.
 
 If you want to see the rest of my hair loss prevention and retention protocol, check it out here. Otherwise, the rest is up to you.&nbsp;
