@@ -5,8 +5,10 @@ title: The hard way to escape the slow pull of reality's quicksand
 permalink: the-hard-way-to-escape-the-slow-pull-of-reality-quicksand
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
-image:
+description: >-
+  Your actions set things in motion in *your* universe. You create your universe
+  the same way you create your life.
+image: /assets/images/posts/quicksand.jpeg
 ---
 I want to tell you about a strange thought I had a few weeks ago, what I learned from it, and how it’s given me a fresh perspective on life.
 
