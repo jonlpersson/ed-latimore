@@ -7,7 +7,6 @@ hero:
   heading: Stoic Street Smarts Newsletter Archives
   text_markdown: ''
 page_blocks:
-  - _id: posts_relevant
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
@@ -16,4 +15,5 @@ page_blocks:
 
 
       [Subscribe here to never miss an issue.](/newsletter/)
+  - _id: posts_relevant
 ---
