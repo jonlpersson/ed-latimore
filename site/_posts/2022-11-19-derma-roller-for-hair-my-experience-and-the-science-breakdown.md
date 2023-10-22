@@ -8,8 +8,9 @@ tags:
 categories:
   - longevity-health-and-performance
 description: >-
-  This article discusses how derma rolling works to reverse hair loss and my
-  experience using it post-FUE transplant to keep non-transplanted hair.
+  This article discusses how is used derma rolling for hair regrowth. It worked
+  to reverse hair loss and to preserve non-transplanted hairs after my FUE
+  surgery.
 image: /assets/images/drafts/dermaroller-for-hair-loss.jpeg
 ---
 One of the most effective ways to reverse hair loss (not just slow down or halt) is the dermaroller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. For as little as $40, you can be well on your way to making a serious difference in your hair loss.&nbsp;
