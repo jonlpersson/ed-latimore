@@ -81,8 +81,6 @@ Do not hide. Embrace your weakness. Recognize that your personal wall is—at be
 
 This process cannot begin until you acknowledge your frailty. Only once you admit that you have a deficiency are you capable of fixing it.
 
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
-
 ## 3\. Preparation can help with overcoming fear
 
 Fighters combat fear through preparation.
@@ -196,7 +194,5 @@ When you are on the verge of being pushed out of your comfort zone is when you w
 There will always be something to fear. But because there’s always something to fear, this means ultimately that there is nothing to fear.
 
 Until then, the rest is up to you.
-
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
