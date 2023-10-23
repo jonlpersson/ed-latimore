@@ -129,8 +129,6 @@ Because I don’t have a preference or loyalty to a specific brand, my amazon st
 
 With the prerequisites out of the way, let’s get into the various ways you can start boxing.
 
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
-
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Amateur boxing vs Professional boxing
@@ -287,7 +285,5 @@ Hopefully, this guide will have given you everything you need to put the odds of
 Like the wise sage, former heavyweight champion Mike Tyson once said, *“Everyone has a plan until they get hit in the mouth.”*
 
 The rest is up to you.
-
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
