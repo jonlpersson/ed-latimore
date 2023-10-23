@@ -24,7 +24,7 @@ The environment breeds single mothers and produces fatherless homes tend to lack
 
 What follows in this article is largely anecdotal evidence and personal observation. However, my experiences and what I’ve seen are largely reflected in the data about children raised without fathers or children living with their mothers for most of their childhood.
 
-Consider these stats about fatherlessness from [fatherhood.org](https://www.fatherhood.org/father-absence-statistic.){: target="_blank"} and [all4kids.org](https://www.all4kids.org/news/blog/a-fathers-impact-on-child-development/){: target="_blank"}\:
+Consider these stats about fatherlessness from [fatherhood.org](https://www.fatherhood.org/father-absence-statistic.){: target="_blank"} and [all4kids.org](https://www.all4kids.org/news/blog/a-fathers-impact-on-child-development/){: target="_blank"}:
 
 * Children living without their father are 47% more likely to live in poverty.
 * Children from father-absent homes are 279% more likely to carry drugs or guns.
@@ -84,7 +84,7 @@ Boys from single-parent households in poor neighborhoods lack strong role models
 
 This is the recipe for building misguided boys who will grow into broken men. These broken men often end up doing something that lands them in serious trouble with the law.
 
-Consider these stats about the children from fatherless homes, collected by [Paternita.info](http://www.paternita.info/america/fatherless-america.pdf){: target="_blank"}\:
+Consider these stats about the children from fatherless homes, collected by [Paternita.info](http://www.paternita.info/america/fatherless-america.pdf){: target="_blank"}:
 
 * 54% more likely to be poorer than his father
 * 60% are rapists
@@ -182,8 +182,6 @@ The second reason is that chess and poker are wonderful for developing some key 
 In chess, we learn how to think and deliberate over an action. There is no luck in chance in the sense that there is nothing that influences the game that is beyond your control.
 
 Even a sport like boxing–where one could argue that has the greatest burden of responsibility and least interference of luck–doesn’t have the feature where both participants completely control all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn't happen the next time.
-
-***\[What’s it like boxing? I’ve broken down many aspects of my amateur and professional boxing career in these articles—&gt;[Boxing lessons](https://edlatimore.com/boxing-lessons)\]***
 
 We learn poker for almost the exact opposite reason.&nbsp;
 
