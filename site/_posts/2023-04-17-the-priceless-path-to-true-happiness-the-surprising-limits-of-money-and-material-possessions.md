@@ -2,10 +2,10 @@
 date: 2023-04-17 14:00:00 -0400
 article_type: Article
 title: >-
-  The Priceless Path to True Happiness: The Surprising Limits of Money and
+  The Priceless Path to True Happiness—The Surprising Limits of Money and
   Material Possessions
 permalink: >-
-  /the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions
+  /the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
