@@ -82,7 +82,7 @@ You don’t have to dive deep into the culinary world, but you should be compete
 
 ### Learning new skills
 
-While learning may not seem like a hobby, there’s definitely a method to [rapidly learn new skills](https://edlatimore.com/learning-skills/). Learning and acquiring new skills is essential for personal and professional growth, so you should consider investing time to sharpen your mental saw.
+While learning may not seem like a hobby, there’s definitely a method to rapidly learn new skills. Learning and acquiring new skills is essential for personal and professional growth, so you should consider investing time to sharpen your mental saw.
 
 You can start improving your knowledge by signing up for courses and workshops, learning from experts via books or lectures, and studying subjects tangential to what already interests you in expanding your understanding. Even better, the internet has democratized learning so you can learn almost anything for free via YouTube and a library card.
 
