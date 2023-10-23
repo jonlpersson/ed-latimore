@@ -2,7 +2,7 @@
 date: 2023-04-10 15:00:00 -0400
 article_type: Article
 title: ' The Reality of Self-Care: It''s a Process, Not a Quick Fix'
-permalink: the-reality-of-self-care-it-s-a-process-not-a-quick-fix
+permalink: /the-reality-of-self-care-its-a-process-not-a-quick-fix/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
