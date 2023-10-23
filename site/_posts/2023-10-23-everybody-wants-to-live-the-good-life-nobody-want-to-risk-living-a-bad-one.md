@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-04-25 14:00:00 -0400
 article_type: Article
 title: Everybody wants to live the good life; Nobody want to risk living a bad one
 permalink: /everybody-wants-to-live-the-good-life-nobody-want-to-risk-living-a-bad-one
@@ -16,10 +16,6 @@ image: /assets/images/posts/edarmy.jpeg
 When you try, you introduce the possibility of failure. You can fail for various reasons, but they all mean the same thing: either your effort, knowledge, or skill was lacking.
 
 Rather than confront this reality, most people are content to let things happen and see where they go simply. If you do this, you can never fail because you never really try.
-
-​
-
-| |  | Ed Latimore<br><br>@EdLatimore |[You’re afraid of living with intention because that means acknowledging when you're just bullshitting. More scarily... It means putting energy into something that may not work out and managing unmet expectations if it doesn't.](https://twitter.com/EdLatimore/status/1397978648532164611)<br><br>May 27th 2021| 47 | Retweets | 305 | Likes | |
 
 A life like this has no purpose.
 
@@ -55,7 +51,7 @@ In the military, after every mission, the leadership produces something called a
 
 The report is neither critical nor congratulatory. It’s just a breakdown of what happened, how it happened, and an analysis of the factors that contributed to the outcome.
 
-![After action report](/assets/images/posts/afteractionreport.jpg "After action report"){: width="700" height="700"}
+![After action report](blob:https://app.cloudcannon.com/222d5241-cce1-43dd-a166-aff15b5980ec "After action report"){: width="700" height="700"}
 
 
 
