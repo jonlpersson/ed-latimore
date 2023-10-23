@@ -31,4 +31,4 @@ If you got something from it, I'd love for you to share it on your social media 
 
 ​[Former Pro Boxer Ed Latimore’s Courage to Fight Addiction](https://www.youtube.com/watch?v=SB1OD3_uNR8){: target="_blank" rel="noopener noreferrer"}
 
-{% include widget/summary.html id="Stoic-Street-Smarts" %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
