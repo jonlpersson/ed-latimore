@@ -5,7 +5,6 @@ title: 'Pimsleur vs Duolingo: Choosing the best language learning app'
 permalink: /pimsleur-vs-duolingo-review/
 tags:
   - chess-math-and-language
-categories:
 description: >-
   Pimsleur and Duolingo are two popular language-learning apps to help you learn
   a new language. This guide will help you decide which app will work best for
@@ -18,7 +17,6 @@ If you’re a native English speaker, learning a foreign language like French, G
 
 The two I’ve had experience with and what we’ll focus on today are Pimsleur and Duolingo. While both are designed to help you quickly pick up a new language, they’re quite different in how they work and what aspects of language learning they focus on.
 
-
 ## Pimsleur vs Duolingo
 
 Pimsleur and Duolingo are two digital language-learning platforms designed for those interested in teaching themself a new language or two. While Pimsleur uses a conversational-focused approach based on the teachings of the master linguist, Dr. Paul Pimsleur, Duolingo brings a more modern approach to the table with built-in gamification and a free-to-use mobile app.
@@ -27,11 +25,9 @@ So which is better?
 
 After thoroughly using and testing each program, I’ve decided to share a detailed comparison and my thoughts on the pros and cons of each one. With that said, let’s first take a look at Pimsleur.
 
-
 ## What is Pimsleur?
 
 Pimsleur is an audio-based program that has been around since the 1960s and focuses heavily on speaking and listening practice. It uses a question-and-answer format to immerse you in the language and provides immediate feedback on pronunciation. Pimsleur also offers courses in over 50 languages, including popular options such as Japanese, Italian, and German, to lessor-known languages like Swahili, Ojibwe, and Tagalog.
-
 
 ### How the Pimsleur language program works
 
@@ -43,10 +39,7 @@ I went through the Russian course a few years ago and haven’t gone back throug
 
 My favorite feature that Pimsleur offers is its hands-free driver mode which turns your phone’s screen into a simplified version of the app, making it easy to use while driving.
 
-
 ### Pros of Pimsleur
-
-
 
 * Excellent for developing speaking and listening skills
 * Conversations are recorded by native speakers to improve pronunciation
@@ -54,21 +47,16 @@ My favorite feature that Pimsleur offers is its hands-free driver mode which tur
 * Can be used offline
 * The app has a hands-free driver mode so that you can learn while focused on other activities such as driving, walking, or doing chores
 
-
 ### Cons of Pimsleur
-
-
 
 * Offers limited reading and writing practice
 * Expensive compared to other language-learning apps
 * Limited languages available compared to Duolingo
 * The mobile app is not as user-friendly as Duolingo
 
-
 ## What is Duolingo?
 
 Founded in 2011, Duolingo was built for the smartphone era, with its user-friendly app being made available for both iOS and Android. The app’s user interface with bright colors and simple design makes it easy for beginners to jump right into learning the basics of a foreign language.
-
 
 ### How the Duolingo language program works
 
@@ -76,29 +64,21 @@ Duolingo relies heavily on gamification to make learning a new language fun. The
 
 While Duolingo has done an excellent job of making learning fun, the one downside is that it only offers little speaking and listening practice. While the app does provide some speaking exercises, it's limited to short phrases and sentences. Plus, the app doesn't offer any feedback on pronunciation, which is a crucial aspect of any language learning program.
 
-
 ### Pros of Duolingo
-
-
 
 * Free-to-use option
 * Offers structured lessons that cover all aspects of a language
 * The gamified system motivates you to stay on track and complete courses
 * Offers over 100 language-learning courses that are rare on other platforms
 
-
 ### Cons of Duolingo
-
-
 
 * Limited speaking and listening practice
 * No personalized feedback
 * Exercises can become repetitive over time
 * Ads support the free version
 
-
 ## Frequently asked questions
-
 
 ### How much does each language learning service cost?
 
@@ -106,15 +86,13 @@ Duolingo is free to use, although a premium subscription called Super Duolingo t
 
 Pimsleur requires a monthly subscription, or you can purchase their courses. Pimsleur’s Premium subscription pricing offers access to all lessons for one language for $19.95 per month, or you can upgrade for a dollar more to get access to all lessons for any language with their All Access subscription. Both subscription packages come with a 7-day free trial.
 
-
 ### Which app can be used offline?
 
 Pimseur’s mobile app allows you to download your lessons for offline use and then remove them once completed to save space. To have offline capabilities with Duolingo, you’ll have to upgrade to one of their paid subscription offerings.
 
-
 ## Final thoughts
 
-I’ve always preached the importance of [learning new skills](https://edlatimore.com/learning-skills/) to level up your life. If learning a new language interests you, using a language-learning app is a great way to level up quickly.
+I’ve always preached the importance of learning new skills to level up your life. If learning a new language interests you, using a language-learning app is a great way to level up quickly.
 
 If you’re looking for an app that focuses on conversational skills and offers personalized feedback, Pimsleur is likely the best option despite the cost. However, if you’re looking for a free and fun way to learn a new language, Duolingo is the right choice.
 
