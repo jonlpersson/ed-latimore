@@ -90,8 +90,6 @@ I was already popular and paid for my writing. Given what I’d earn in a fight 
 
 Now that I can hop on the internet and sell a product that would make $10-20k in a week and people are genuinely interested in my writing and what’s in my mind, making a living putting my body at risk simply no longer makes sense.
 
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
-
 ## 3) The lifestyle and time commitment
 
 As an amateur fighter, I earned a state title, a national title, a paid sponsorship, and a \#4 national ranking. As a professional, I was represented by Jay-Z’s Roc Nation. I bring these stats up not to brag but to demonstrate that I know what it takes to perform at the top level of this sport.
@@ -180,7 +178,5 @@ Plus, the cool thing is that having that record continues to open up doors for m
 I stopped boxing because I’d realistically gone as far as I could with my physical attributes and figured out how to make a lot more money with much less damage to my body. I’ve also developed a lifestyle that makes training difficult.
 
 I enjoyed my life as a fighter and am extremely grateful for everything&nbsp;[I got from boxing](/how-to-think-like-a-professional-fighter/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
-
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
