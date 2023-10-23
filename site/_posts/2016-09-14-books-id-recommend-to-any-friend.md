@@ -52,8 +52,6 @@ The Art of War is an ancient Chinese military guide by Sun Tzu that was penned s
 
 It's a surprisingly short read. I read it on my kindle and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
 
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
-
 Despite its short length, the ideas it's packed with apply to many areas in life. The strategies apply to modern warfare, business, negotiation, and even relationships.
 
 ***Read my collection of notes and big ideas here—&gt;[The Art of War notes and summar](/art-of-war-quotes-and-summary/)y***
@@ -69,7 +67,5 @@ Bruce Lee kept various notes throughout the development of his fighting system t
 As a result, the book doesn’t read like a narrative or even a complete work. Rather, it’s a set of observations and notes, written in a flowing style, as Bruce sporadically captured many of these inspirations.
 
 This book is a must-have for any martial artist or philosopher out there. Below I’ve collected my favorite quotes from The Tao of Jeet Kune Do, along with my extrapolations and explanations.<br><br>***Read my collection of notes, and big ideas here—&gt;[The Tao of Jeet Kune Do notes and summary](/tao-of-jeet-kune-do-quotes/)***
-
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
