@@ -59,9 +59,7 @@ These are fine emotions to elicit, but we secretly fear that those closest to us
 
 Some people are. There’s nothing you do about that. But in times of distress, the people who love you will be there for you. Though this should be expected, it comes as a most welcome surprise.
 
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
-
-#### You are never as good as they say you are when you win, and never as bad as they say you are when you lose
+## You are never as good as they say you are when you win, and never as bad as they say you are when you lose
 
 It’s impossible to accurately assess your level immediately after you lose, but it is important to figure out where you stand.
 
@@ -130,7 +128,5 @@ The world goes on.
 I’m not dead and the important things in my life are still there.
 
 This is how it is with most of the terrible things you fear. It is either highly unlikely that they will happen or what your imagination makes them is far worse than reality.
-
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
