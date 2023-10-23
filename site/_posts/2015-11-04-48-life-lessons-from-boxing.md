@@ -46,8 +46,6 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **6)** Keep your glass empty, even when the water around you tastes like shit. I’ve made some amazing insights and developments by opening my mind to guys who didn’t know much about fighting. Even a broken clock is right twice a day.
 
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
-
 ## Process vs. outcome&nbsp;
 
 **7)** [Good technique is essential, but perfect technique is over-overrated.](/the-book-of-five-rings-quotes/) Effective technique is underrated. What’s more valuable: A pretty hook that rarely lands or a less than “perfect” one that has an 80% KO percentage?
@@ -161,7 +159,5 @@ If you can persist to the end, you have a better chance to win. Make the other g
 **47)** The only thing that you can control is your ability and your life. You can’t control the judges, the crowd, or your opponent. You can’t even control if you win. Remember this, and all other things will fall into place.
 
 **48)** In the end, you can't control anything. Except for your mind.
-
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
