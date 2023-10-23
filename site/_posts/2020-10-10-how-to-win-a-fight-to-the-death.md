@@ -74,8 +74,6 @@ A lot of times, the details are where we get lost. We miss the forest for the tr
 
 Consider this. ***If fighting for your life is anything like living it, why do you think so many people are going around unfulfilled?***
 
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
-
 ## Going through the motions of life is how you lose
 
 I read recently that [92 percent](https://www.inc.com/marcel-schwantes/science-says-only-8-percent-of-people-actually-achieve-their-goals-here-are-7-things-they-do-differently.html#:~:text=According%20to%20the%20University%20of,elite%20category%20of%20goal%2Dachievers.) of people fail to achieve their goals.
@@ -119,7 +117,5 @@ That brings us back to will versus skill.
 You may not have the nutrition knowledge of a diet coach or know your way around every price objection customers will throw at you, but you don’t need to. Not if you’re willing to put on your gloves, step in the ring, and do whatever you have to do to be the last one standing.
 
 Because at the end of the day, everything in life is a street fight, and we all know how it ends. Might as well give it your best left hook.
-
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
