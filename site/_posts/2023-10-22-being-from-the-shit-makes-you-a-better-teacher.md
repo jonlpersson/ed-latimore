@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-03-03 14:00:00 -0500
 article_type: Article
 title: ' Being from the shit makes you a better teacher'
 permalink: being-from-the-shit-makes-you-a-better-teacher
