@@ -50,8 +50,6 @@ In non-combat sports, fighting is against the rules. Although the penalties vary
 
 This means that you must develop your ability to deliver and receive punishment. This requires training not only your body but your mind and heart.
 
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
-
 ## Boxing Workouts Are Holistically Effective
 
 A good fighter is composed of 4 attributes:
@@ -200,7 +198,5 @@ Let me be clear: there is *nothing* you can do in training camp to stimulate the
 There’s a difference between trying to run a mile in six minutes and jogging. A fighter can merely hit the heavy bag or try to kill it. Even sparring must be undertaken at a competitive intensity, otherwise the fighter will not be prepared for battle.
 
 All parts develop the whole while the development of the whole strengthens each part.
-
-#### [Check out the rest of my boxing articles here](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
