@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-05-23 14:00:00 -0400
 article_type: Article
 title: Are you tired of the sea of bullshit, scams, and hustles on the internet?
 permalink: are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet
