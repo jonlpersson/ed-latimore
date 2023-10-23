@@ -5,8 +5,11 @@ title: ' Being from the shit makes you a better teacher'
 permalink: being-from-the-shit-makes-you-a-better-teacher
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
-image:
+description: >-
+  Although it'll be 10 years this December, my memories of being a hardcore
+  alcoholic are fresh in my mind. These memories ensure that I'm never tempted
+  to pick up the bottle again.
+image: /assets/images/posts/ed-from-the-shit.jpeg
 ---
 This week's newsletter is short, but hopefully it will change someone's life.
 
@@ -28,4 +31,4 @@ If you got something from it, I'd love for you to share it on your social media 
 
 ​[Former Pro Boxer Ed Latimore’s Courage to Fight Addiction](https://www.youtube.com/watch?v=SB1OD3_uNR8){: target="_blank" rel="noopener noreferrer"}
 
-{% include widget.summary.html id="Stoic-Street-Smarts" %}
+{% include widget/summary.html id="Stoic-Street-Smarts" %}
