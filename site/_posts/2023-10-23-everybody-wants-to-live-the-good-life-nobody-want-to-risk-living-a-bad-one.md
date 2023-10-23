@@ -84,3 +84,5 @@ I recommend&nbsp;[Commit Action](https://www.commitaction.com/?oid=1&amp;affid=1
 Based on a fairly detailed questionnaire, they match you to someone who is the best fit for your personality, goals, and particular challenges. The service isn’t particularly expensive either, especially considering that you’re in direct text communication with someone who will hold you accountable, keep you on track, and legitimately cares that you reach your goals.
 
 ​[Check out Commit Action](https://www.commitaction.com/?oid=1&amp;affid=11){: target="_blank" rel="noopener noreferrer"}
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
