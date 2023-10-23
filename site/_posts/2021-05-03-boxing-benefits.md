@@ -89,8 +89,6 @@ Between technical training, mental concentration, toughness, and physical condit
 
 The discipline you develop in boxing can be applied to anything.
 
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
-
 ## 5\. You learn how to be patient
 
 My coach always says: “Bad things happen quickly. Good things tend to take a little longer.” All progress takes time. If you want things to happen quickly, you won’t last long in training.
@@ -142,7 +140,5 @@ Learning to persevere through your fears and staying committed to your goals wil
 Nothing has impacted my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.&nbsp;
 
 Before you know it, you’ll be on your way to becoming a version of yourself you never thought was possible.
-
-#### [Check out the rest of my boxing articles here.](https://edlatimore.com/boxing-lessons)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
