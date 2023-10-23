@@ -65,4 +65,4 @@ As the old saying goes, an ounce of prevention is worth a pound of self-care.
 
 The rest is up to you.
 
-\{% include widgets/summary.html id="Stoic-Street-Smarts" %"
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
