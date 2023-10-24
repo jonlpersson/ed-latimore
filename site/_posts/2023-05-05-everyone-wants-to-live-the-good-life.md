@@ -10,7 +10,7 @@ description: >-
   going to do about it. We’ve all heard the saying, “Life is 10% what happens to
   you, and 90% of how you react to it.” You don’t get to pick a lot of things
   that you have to deal with, but you do get to pick how you’ll deal with them.
-image:
+image: /assets/images/posts/edarmy.jpeg
 ---
 ## People are afraid to try
 
@@ -52,7 +52,7 @@ In the military, after every mission, the leadership produces something called a
 
 The report is neither critical nor congratulatory. It’s just a breakdown of what happened, how it happened, and an analysis of the factors that contributed to the outcome.
 
-![After Action Report](/assets/images/posts/afteractionreport-1.jpg "After Action Report"){: width="700" height="700"}
+![After Action Report](blob:https://app.cloudcannon.com/b81049bd-0e01-4d98-83b7-9fe5d8b75cdd "After Action Report"){: width="700" height="700"}
 
 This sample AAR gives you an idea of how to do a post evaluation of your attempt to accomplish something. Notice the questions in the AAR sample provide are written as if they’re for a team.
 
