@@ -1,5 +1,5 @@
 ---
-date: 2023-04-25 14:00:00 -0400
+date: 2023-05-05 14:00:00 -0400
 article_type: Article
 title: Everybody wants to live the good life—Nobody want to risk living a bad one
 permalink: /everybody-wants-to-live-the-good-life-nobody-want-to-risk-living-a-bad-one/
