@@ -53,11 +53,7 @@ The report is neither critical nor congratulatory. It’s just a breakdown of wh
 
 ![After action report](blob:https://app.cloudcannon.com/222d5241-cce1-43dd-a166-aff15b5980ec "After action report"){: width="700" height="700"}
 
-
-
 This sample AAR gives you an idea of how to do a post evaluation of your attempt to accomplish something. Notice the questions in the AAR sample provide are written as if they’re for a team.
-
-
 
 Don’t let that be an impediment to implementation. Also, don’t use this as a way to distribute responsibility to other parties. Only focus on your actions.
 
