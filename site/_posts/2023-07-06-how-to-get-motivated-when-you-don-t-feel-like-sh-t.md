@@ -216,3 +216,5 @@ Anyone is capable of mastering their craft, but it takes sacrifice. This quest f
 One or a combination of a few of these motives can get you the life you want. If not, then stop complaining and get comfortable living a life of mediocrity. It’s not so bad. Life is easy.
 
 That’s why you aren’t motivated in the first place.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
