@@ -2,7 +2,7 @@
 date: 2023-07-12 00:00:00 -0400
 article_type: Article
 title: 14 big ideas & life lessons from physics
-permalink: 14-big-ideas-life-lessons-from-physics
+permalink: /14-big-ideas-life-lessons-from-physics/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description:
@@ -122,7 +122,7 @@ You can do a lot when you’re forced, but even more when you’re motivated.
 
 ## 14) Most things are amoral.
 
-The same concept can power a city--or level it.
+The same concept can power a city–or level it.
 
 The same body of knowledge that allowed Hiroshima and Nagasaki to be leveled also powers satellites and cities.
 
