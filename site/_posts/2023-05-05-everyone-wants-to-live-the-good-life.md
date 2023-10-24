@@ -52,8 +52,6 @@ In the military, after every mission, the leadership produces something called a
 
 The report is neither critical nor congratulatory. It’s just a breakdown of what happened, how it happened, and an analysis of the factors that contributed to the outcome.
 
-![After Action Report](blob:https://app.cloudcannon.com/b81049bd-0e01-4d98-83b7-9fe5d8b75cdd "After Action Report"){: width="700" height="700"}
-
 This sample AAR gives you an idea of how to do a post evaluation of your attempt to accomplish something. Notice the questions in the AAR sample provide are written as if they’re for a team.
 
 Don’t let that be an impediment to implementation. Also, don’t use this as a way to distribute responsibility to other parties. Only focus on your actions.
