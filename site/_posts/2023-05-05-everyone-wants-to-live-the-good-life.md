@@ -10,7 +10,7 @@ description: >-
   going to do about it. We’ve all heard the saying, “Life is 10% what happens to
   you, and 90% of how you react to it.” You don’t get to pick a lot of things
   that you have to deal with, but you do get to pick how you’ll deal with them.
-image: /assets/images/posts/edarmy-1.jpeg
+image: ''
 ---
 ## People are afraid to try
 
