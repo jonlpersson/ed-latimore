@@ -6,7 +6,7 @@ permalink: /14-big-ideas-life-lessons-from-physics/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description:
-image: /assets/images/posts/atom-lessons-from-physics.png
+image: ''
 ---
 At 33, I graduated with a bachelor's degree in physics.
 
