@@ -1,7 +1,7 @@
 ---
 date: 2023-07-06 14:00:00 -0400
 article_type: Article
-title: ' How to get motivated when you don''t feel like sh*t'
+title: 'How to get motivated when you don't feel like sh*t'
 permalink: how-to-get-motivated-when-you-don-t-feel-like-shit
 categories:
   - Stoic-Street-Smarts-Newsletter

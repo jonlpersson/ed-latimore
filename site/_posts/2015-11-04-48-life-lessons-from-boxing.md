@@ -7,7 +7,7 @@ tags:
   - longevity-health-and-performance
 categories:
   - longevity-health-and-performance
-image: /assets/images/posts/Amateur uppercut.jpg
+image: /assets/images/thumbnails/boxingrisk1.jpg
 description: >-
   Here are 48 life lessons I learned from being a boxer. You may never fight,
   but if you use these lessons, you'll gain a huge advantage in the world.

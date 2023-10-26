@@ -10,7 +10,7 @@ description: >-
   working because you aren’t trying for a goal. By telling yourself that you’re
   just tweaking the system, you can justify your failures and shortcomings. The
   system is in place to help you reach the goal. Not replace it.
-image:
+image: ''
 ---
 ## People are afraid to try
 
