@@ -9,7 +9,7 @@ description: >-
   One or a combination of a few of these motives can get you the life you want.
   If not, then stop complaining and get comfortable living a life of mediocrity.
   It’s not so bad. Life is easy.
-image: /assets/images/posts/ed-in-puerto-vallarta.jpeg
+image: ''
 ---
 **Procrastination is a big enemy of accomplishing your big goals. Learn how to become motivated enough to defeat it.**
 
