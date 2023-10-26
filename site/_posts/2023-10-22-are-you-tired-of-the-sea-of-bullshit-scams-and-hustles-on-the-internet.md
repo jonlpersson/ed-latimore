@@ -10,7 +10,7 @@ description: >-
   haven’t done anything to earn the right to give the advice they constantly
   spout. In fact, many of them are hypocrites, contradictions, and several
   cases, outright liars.
-image: ''
+image: /assets/images/posts/receipts.jpg
 ---
 ### Then it's time to make sure that people you list to have "The Receipts"...
 
