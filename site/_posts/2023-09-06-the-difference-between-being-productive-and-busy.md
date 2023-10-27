@@ -57,7 +57,7 @@ If the effort you put in is not returned in a relatively quick fashion, and ther
 
 ## **Are my results linear, exponential, or logarithmic?**
 
-**![Busy or productive?](/assets/images/posts/logarithmic-linear-growth.png "Busy or productive"){: width="1080" height="1080"}**
+**![Busy or productive?](blob:https://app.cloudcannon.com/7e117299-b22c-4984-a429-1fa240b67976 "Busy or productive"){: width="1080" height="1080"}**
 
 
 
