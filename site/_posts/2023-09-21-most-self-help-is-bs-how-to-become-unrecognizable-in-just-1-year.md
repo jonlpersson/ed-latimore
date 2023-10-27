@@ -123,3 +123,5 @@ You will gain skills to handle life’s tests with grace. And your character wil
 The journey requires sacrifice, but the rewards are great. Avoid shortcuts that promise easy transformation. Embrace the trials that deliver real change.
 
 With courage and perseverance, you hold the power to shape your life and the lives of those around you for the better.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
