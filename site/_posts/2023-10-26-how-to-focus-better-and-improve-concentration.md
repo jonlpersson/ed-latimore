@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-07-26 14:00:00 -0400
 article_type: Article
 title: How to focus better and improve concentration
 permalink: /how-to-focus-better-and-improve-concentration/
