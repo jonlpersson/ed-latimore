@@ -10,7 +10,7 @@ description: >-
   likely wasting time if the harder you work, the less money or progress you
   make. Yes, there are limits to things, but you shouldn’t be struggling to make
   serious gains before you make big or linear gains."
-image: /assets/images/posts/logarithmic-linear-growth.png
+image: /assets/images/posts/logarithmic-linear-growth-1.png
 ---
 Productive people produce things.
 
@@ -56,8 +56,6 @@ If the effort you put in is not returned in a relatively quick fashion, and ther
 **\[Note: This is not to imply that the only goals worth pursuing are the ones that happen quickly. This only points out that incremental progress should be made that at least correlates to the level of effort put in.\]**
 
 ## **Are my results linear, exponential, or logarithmic?**
-
-**![Busy or productive?](blob:https://app.cloudcannon.com/7e117299-b22c-4984-a429-1fa240b67976 "Busy or productive"){: width="1080" height="1080"}**
 
 
 
