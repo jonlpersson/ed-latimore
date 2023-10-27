@@ -59,4 +59,4 @@ Once you can accept that, then you see that some people have issues, and you hap
 
 I’m not telling you to forgive or even to let it go. But you’ll find yourself a lot less angry (and oddly, a bit more empathetic and understanding) if realize that none of the tragedy you suffered was personal.
 
-{% include widgets/summary.html id="Stoic-Street-Smargs" %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
