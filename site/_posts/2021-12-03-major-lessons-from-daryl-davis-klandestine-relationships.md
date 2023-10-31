@@ -40,6 +40,8 @@ And that makes perfect sense, If I felt like you were attacking my home, I certa
 
 Therefore, the first thing you have to do is get a person to feel comfortable being themselves around you so they aren't on guard. No matter how you feel about this technique of dealing with racists—to let the racist (or anyone else you disagree with, rightfully so or not) be themselves in your presence—one thing is clear: the current approach of arguing, attacking, and censoring does not work at changing minds.&nbsp;
 
+It's good at driving even further division. It's incredible at driving resent underground and out of public eyes where we can deal with it. But coming in hot, with anger and vitriol, has never got anyone to stop hating someone else.&nbsp;
+
 ## 2) Fighting fire with fire only creates a bigger fire
 
 > "Some who, like me, believe in tolerance between people still say, ‘I hate the Klan! Don't you hate them? How can you stand being around those people?’
