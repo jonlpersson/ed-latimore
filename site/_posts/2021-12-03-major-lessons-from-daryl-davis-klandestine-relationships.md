@@ -48,6 +48,12 @@ It's good at driving even further division. It's incredible at driving resent un
 >
 > I reply that 'hate' is a powerful word. **Coincidentally, people who hate the Klan are doing exactly what they are accusing the Klan of doing—hating**."
 
+How you feel about something affects how you approach it. If you hate something, you will not approach it in the right frame of mind to solve it, because part of solving the problem is understanding it.
+
+At this point, I need to make something clear. Understanding something is not the same thing as condoning it. However, if you don't take the time to understand why a person believes what they believe, you'll never understand or be able to predict their actions, which means there will be a lot more problems.
+
+Ironically, appoaching what you don't understand with hate will lead to outcomes with are effectively the same as condoning heinous behavior. Remember, people are defensive and reactive. You hating them will lead to them hating you and possible taking hateful actions to express those feelings. At some point, someone has to break the cycle of reactivity if they want any hope of turning things around.&nbsp;
+
 ## 3) You can disagree without being disrespectful
 
 > "I remained honest with each and every Klan member I met, and most importantly, I remained honest with myself. **I did not pretend to be anything other than what I am, and though I allowed each Klansman** **to know where I stood, I never forced my beliefs upon anyone.** Over a period of time, this, I believe, became the basis for their trust and respect for me.
