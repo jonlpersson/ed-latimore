@@ -123,7 +123,7 @@ But if you can get people who are obsessed with how they're different from you t
 
 However, the goal isn't merely to find common ground. The goal, as ambitious as it sounds, is to abolish racism. At the very least, the goal is to develop an effective protocol that gets people to willingly change their perspective to one of inclusion rather than exclusion. Finding common ground is just a starting point.
 
-The inevitable result of focusing on our differences i conflict. Focusing on our similarities and connecting with them buys us time to see one another as more alike than different. We all want the same things and enjoy the same things. We only forget this when we become obsessed with the superficial differences that only run skin deep.
+The inevitable result of focusing on our differences is conflict. Focusing on our similarities and connecting with them buys us time to see one another as more alike than different. We all want the same things and enjoy the same things. We only forget this when we become obsessed with the superficial differences that only run skin deep.
 
 ## 7) Time and exposure are the only ways to eliminate racism
 
