@@ -32,20 +32,23 @@ The bulk of the book is an autobiographical narrative, but the afterward is Dary
 
 > "Before I began my journey, I realized in seeking out the driving forces behind the racism found in members of the Ku Klux Klan, I would hear a lot of things that would bother and sometimes anger me. However, I decided to meet those who held views opposed to my own and get their side of the story. I did at times, after obtaining their confidence and allowing them to freely express their views, venture my opinions.
 >
->
 > Some Klanspeople I met were persuaded by my opinions and others were not. **Nevertheless, I believe the best way to reach the hearts and minds of those who oppose you is to allow them to be themselves.**"
+
+Before you can change a person's mind, they have to be willing to open it to you. Without this opening, your efforts will strike a shield that is impervious to all attacks and attempts at penetration. And, because you're coming with an attack, you'll never motivate someone to lower the gate to let you in.
+
+And that makes perfect sense, If I felt like you were attacking my home, I certainly wouldn't open the front door at let you waltz right in. That would be a receipe for disaster. This is how people feel about their opinions and perspectives, regardless of how anyone subjectively feels about them or how objectively destructive they may be.
+
+Therefore, the first thing you have to do is get a person to feel comfortable being themselves around you so they aren't on guard. No matter how you feel about this technique of dealing with racists—to let the racist (or anyone else you disagree with, rightfully so or not) be themselves in your presence—one thing is clear: the current approach of arguing, attacking, and censoring does not work at changing minds.&nbsp;
 
 ## 2) Fighting fire with fire only creates a bigger fire
 
-> "Some who, like me, believe in tolerance between people still say, ‘I hate the Klan\! Don't you hate them? How can you stand being around those people?’
->
+> "Some who, like me, believe in tolerance between people still say, ‘I hate the Klan! Don't you hate them? How can you stand being around those people?’
 >
 > I reply that 'hate' is a powerful word. **Coincidentally, people who hate the Klan are doing exactly what they are accusing the Klan of doing—hating**."
 
 ## 3) You can disagree without being disrespectful
 
 > "I remained honest with each and every Klan member I met, and most importantly, I remained honest with myself. **I did not pretend to be anything other than what I am, and though I allowed each Klansman** **to know where I stood, I never forced my beliefs upon anyone.** Over a period of time, this, I believe, became the basis for their trust and respect for me.
->
 >
 > The idea of being friends with a person whose belief system you despise sounds like an impossibility. I believe I have demonstrated that it is indeed very possible for two diametrically opposed human beings to learn and accept enough learning about each other to co-exist without strife. And while I was learning about the Klan and its members. I was also passively teaching them without forcing myself or my beliefs and they responded in kind."
 
@@ -60,7 +63,6 @@ I'm not saying that it's easy to separate the message from the messenger, but I 
 ## 4) Someone has to make the first move in good faith
 
 > "We are all human beings, though we may have some physical, cultural, sexual, and religious differences. Often these differences seem monumental to those of us who are only accustomed to being around our own kind. We are ignorant in understanding that these differences are only superficial. Though we are influenced by our backgrounds and our environments, as human beings, we are fundamentally the same.
->
 >
 > **I am not trying to downplay the Klan's atrocities, past or present; however, after more than 130 years of violence and hatred, I felt it was time we get to know one another on a social basis and not under the cover of darkness.**"
 
@@ -87,7 +89,6 @@ Forgiveness doesn’t mean that you forget the wrongs that have been done. It me
 
 > "**It is fear that is instilled in us through ignorance that often breeds hate. Hatred, if not kept in check, will sometimes escalate to destruction.** We want to do away with things we don't like, especially if they are things we fear. It comes down to getting rid of the source of our fear before it gets rid of us.
 >
->
 > Putting aside fear and learning to present myself in a non-threatening manner allowed me access to some of the innermost workings of the Klan organizations and the minds of their members. Of course, this did not happen overnight, but over time, doors that had been locked to all Blacks and closed to many Whites, were opened. I have learned through my unique odyssey to discover the roots of racism, that **any non-violent form of communication is a mutual, positive way to exchange information even if there is disagreement**."
 
 The driving question behind Daryl's quest has been "How can you hate me if you don't even know me?"
@@ -103,7 +104,6 @@ When life is hard (as it tends to be for anyone poor or uneducated), it's easier
 ## 6) Acknowledge the similarities before you address the differences
 
 > "Each party has now found common ground on which to agree. It becomes obvious that all people want many of the same things; child protection, safety, and awareness in the community and school system, etc. When opposing forces see that these goals can be achieved without short-changing themselves or the other party, fear begins to subside.
->
 >
 > The discussion can then turn to, 'What can WE do to achieve these goals?' **Things are accomplished more quickly if WE work together. Once this point is reached, and each party becomes involved with the other for a common cause, respect, trust, and friendship may ensue and former bottlenecks are often shattered or are at least unblocked.**"
 
@@ -121,9 +121,7 @@ The inevitable result of focusing on our differences i conflict. Focusing on our
 
 > "Sometimes my approach raised eyebrows. Some people who don't know me very well angrily questioned my endeavors criticized my methods and suggested that I was selling out.
 >
->
 > However, I have Klan robes, given to me voluntarily, hanging in my closet. Ku Klux Klan members have invited me to their homes for dinner. And some members have quit the Klan as a result of getting to know and respect me and my non-racist beliefs.
->
 >
 > **Time and exposure is a great healer—perhaps the only healer for irrational fear and hatred. Laws can be made to take people out of the Klan, but laws cannon be made to take the Klan mentality out of people. The best way we can learn to respect each other is to know each other.**"
 
@@ -145,9 +143,7 @@ Maybe there is a faster way to change mindsets. Maybe there isn't. Regardless of
 
 > "There are people who feel that racism and those who propagate it should be ignored. They think that giving such beliefs any type of attention will only promote them. I believe some things can be ignored and will eventually go away, like the teaser or bully we have all encountered in grade school. However, I do not feel that racists fit into that category.
 >
->
 > Racism is similar to cancer; unless treated, it will spread and eventually consume the whole body. If the afflicted body procreates after being attacked with such a deadly malady, whether it be cancer or racism, there is a good chance that any offspring will be exposed to it as well. And the terrible process will begin all over again in a new generation
->
 >
 > **Racism and prejudice, however overt or subtle, are rampant in our world today. They are most common in those with poor self-esteem. Until people feel positively about themselves, they will look for someone else to step on in order to negatively gain what they cannot positively achieve.**"
 
@@ -155,9 +151,7 @@ Maybe there is a faster way to change mindsets. Maybe there isn't. Regardless of
 
 > "First and foremost, I consider myself an American. If further description is warranted, then I am a Black-American. Over the years, there have been many acceptable terms: Negro, Colored, Black, Afro-American, African-American, People of Color, and so on. As far as being politically correct, I don't think we will see the NAACP—the National Association for the Advancement of Colored People—‚changing its name to the NAAAAP—the National Association for the Advancement of African-American People.
 >
->
 > I do not find the terms "Negro," "Colored" or "Black" to be offensive. In fact, I prefer them to be used in descriptions of me or in my descriptions of other members of my race if race must be distinguished or is being discussed. To me, an African-American is a person who, in a matter of speaking, recently emigrated from Africa to the United States.
->
 >
 > **My ancestors, like the ancestors of most Blacks in this country, got off a boat many centuries ago, thus making the nationality of their descendants just plain American and their race Black. I feel the same way about White Americans who have been here for generations and see no reason to call them Euro-Americans.**"
 
@@ -175,12 +169,9 @@ At one point, Black History Month served as a bridge to Black culture and histor
 
 > "Though at times, since my journey into the heart of the KKK the charge has been hurled against me, let me emphatically make the statement that I am in no way ashamed of my African heritage.
 >
->
 > **Unlike most Black Americans, I lived in Africa for ten years and am very glad to have descended from such a great continent and magnificent people. However, I long for the day we can all just call ourselves 'Americans' without any racial, ethnic, or origin prefix. This declassification will surely cut down the feeling of isolation we all are currently experiencing in our society.**
 >
->
 > This is not to say that we, whatever our heritage, need to forget where we came from. We should learn about individual backgrounds and acknowledge them by sharing our histories with others, both in and out of our individual races so that everyone may learn and not let his or her heritage be forgotten.
->
 >
 > In this country, with the exception of the first Americans, the Native American-Indians, we are all composites. America cannot be defined as consisting of any one type of people. It is comprised of people whose history reaches to every corner of this planet. That is America's real strength if only all citizens could recognize it."
 
@@ -193,7 +184,6 @@ One of the reasons we study history is to make sure that we don't repeat it. If 
 ## 11) The problem with racial pride
 
 > "**I believe one must strive to make the world a better place by accomplishing those things that will benefit our future rather than trying to reactivate the past.** These may be accomplishments to benefit humankind, such as discovering a cure for a deadly disease or an invention that could be used around the world. Or these may be accomplishments of personal significance such as learning to walk again after a debilitating accident or winning first place in a pie-baking contest. These victories are the things we must all work for and earn.
->
 >
 > **I pray for the time when people focus on showing each other what they are capable of accomplishing, rather than concentrating on what color they are or from where their family originated. In such an era, we will gain personal respect from our deeds and the pre-designated color of our skin won't matter. We should never be ashamed of what is God-given, such as our skin color. We can only be proud of what we become through our own given endeavors.**"
 
@@ -211,14 +201,13 @@ If we break events down into their outcomes and the processes that lead to them,
 
 If you're proud of being White, it implies that it's an accomplishment no one else could accomplish. This is the same for being proud of being Black. If you derive your self-esteem and sense of importance from something you had no control over, there is a bigger problem: you are ashamed of who you are, and the only way to find something to be proud of is to latch on to your race.
 
-This reminds me of something Tony McAleer, a former white supremacist, said in his book ["The Cure For Hate"](/the-cure-for-hate/)\:
+This reminds me of something Tony McAleer, a former white supremacist, said in his book ["The Cure For Hate"](/the-cure-for-hate/):
 
 *"Shame is self-dehumanization, whereas hate and racism are the external projections of that self-dehumanization.”*
 
 ## 12) Improving the blueprint for race relations
 
 > "This book is by no means a how-to manual providing the solution to the racial plague on our planet—it is but one man's pioneering approach. \*\*Now, I can only hope that someone after me improves upon my method by using it as a springboard to launch a rocket that will soar into the future in the quest to improve race relations. \*\*
->
 >
 > **Perhaps my experiences will shed more understanding and others will be inspired to seek out and eradicate racial prejudice with education, not only the academic type one receives in school, but the kind we attain when we learn about our fellow human beings from one-on-one, non-confrontational encounters.** It is my dream, that through this new discourse, in a new millennium of brotherly love and friendship, we will overcome hatred and prejudice."
 
@@ -235,5 +224,3 @@ This interaction is important to note because it demonstrates the crux of Daryl'
 The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives to dismantle white supremacy and systemic racism. But Daryl is doing what he knows best and making a dent in the scourge of racism.&nbsp;
 
 *"Well I would hope that by the time I'm gone, things like this would not be as prevalent. But, if they are, perhaps this film will encourage others to do the same and do a better job than I've been able to do."*
-
-&nbsp;
