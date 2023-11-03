@@ -24,37 +24,59 @@ The idea of waiting until marriage to have sex is such a foreign concept now, wh
 
 And if you believe that way, that's fine. But as you continue reading perhaps you will see it from a new light and gain a different perspective on sex.
 
-**The Response**
+## **The Response**
 
-I have no qualms about telling people that I'm a virgin and waiting until marriage. I am not embarrassed by that at all. There's a stereotype in people's minds when they think of someone who is a virgin and I actually want to shatter the stereotype. People think there must be something wrong with you. They think you must be ugly, overweight, can't get a date or socially awkward. But let me tell you friends, that is NOT the case over here! 🙋 I have had plenty, and I mean PLENTY of opportunities. But I’ve chosen otherwise. It's honestly a bit amusing to see people's reactions.
+I have no qualms about telling people that I'm a virgin and waiting until marriage. I am not embarrassed by that at all. There's a stereotype in people's minds when they think of someone who is a virgin and I actually want to shatter the stereotype.
 
-Shocked: Eyes wide open and jaw hitting the floor
+People think there must be something wrong with you. They think you must be ugly, overweight, can't get a date or socially awkward. But let me tell you friends, that is NOT the case over here! 🙋 I have had plenty, and I mean PLENTY of opportunities.
 
-Disbelief: "No way! I don't believe you!"
+But I’ve chosen otherwise. It's honestly a bit amusing to see people's reactions.
 
-Surprise: The kind where someone tells you something as you're taking a drink of water and you choke on it, followed by, "Are you serious?"
+***Shocked: Eyes wide open and jaw hitting the floor***
 
-Pity: The shaking of the head ("you poor thing…")
+***Disbelief: "No way! I don't believe you!"***
 
-Amazement: "Wow! I didn't know there were any still out there. That's awesome!" All said with a big smile.
+***Surprise: The kind where someone tells you something as you're taking a drink of water and you choke on it, followed by, "Are you serious?"***
+
+***Pity: The shaking of the head ("you poor thing…")***
+
+***Amazement: "Wow! I didn't know there were any still out there. That's awesome!" All said with a big smile.***
 
 So, I have experienced an array of responses throughout the years.
 
-**Dating**
+## **Dating**
 
 Contrary to popular belief, I have had no trouble dating. Simply because I only date men who are remaining abstinent themselves. There are actually numerous individuals out there who are abstinent. They may not be virgins, but they have chosen that this time around they're going to wait until marriage.
 
-Now, of course, I have encountered men who have seen me as a challenge and think that they are so smooth and can sweet talk their way into my underwear. But they quickly learn that I actually practice what I preach. That’s not to say that I can’t be tempted though. People tend to think that I have no sexual desire, as though I’m not human. Ummm I have hormones just like you! And if you touch me just right I’ll go crazy like anyone else. But I just don’t put myself in those situations. I found that I have actually earned the respect of a lot of men. Because they have an understanding that on any given day, I can be just like everyone else. But I'm choosing to give my future husband the gift of all of me on our wedding day. Something that is actually very beautiful.
+Now, of course, I have encountered men who have seen me as a challenge and think that they are so smooth and can sweet talk their way into my underwear. But they quickly learn that I actually practice what I preach.
 
-**It's more than "just sex"**
+That’s not to say that I can’t be tempted though. People tend to think that I have no sexual desire, as though I’m not human. Ummm I have hormones just like you! And if you touch me just right I’ll go crazy like anyone else. But I just don’t put myself in those situations.
+
+I found that I have actually earned the respect of a lot of men. Because they have an understanding that on any given day, I can be just like everyone else. But I'm choosing to give my future husband the gift of all of me on our wedding day. Something that is actually very beautiful.
+
+## **It's more than "just sex"**
 
 You see, that's just it. We have lost the value of marriage in our culture, and thus the value of sex. Sex has been reduced to just something so small and insignificant, like it's no big deal. It doesn't mean anything. "It's just sex." It's so much more than that.
 
 I believe that we have not been taught the whole picture of sex. We do not have a healthy respect for sex like we should. Sex is not just physical. But it's also emotional and spiritual. Let me show you.
 
-PHYSICAL: Obviously, sex feels good, which is why people engage in it all the time. Now, I know you know this, but I don’t believe people realize how powerful sex is. Think about it. When you engage in sex, you can literally create another human being by doing this one act. No other work required. That's pretty powerful! And people have sex all the time with people they don't want a child with. Personally, I only want to have a child with the man that I marry. So, that's one reason why I'm waiting. But also, when it comes to STDs/STIs. Did you know that 1 in 5 Americans has an STD? And that number is climbing. Quite honestly, it's just not safe sleeping around out here nowadays.
+### Physical
 
-EMOTIONAL: Because of all the "feel good" chemicals that your body is releasing during sex, that is how someone can get so emotionally attached to the person they're sleeping with. This creates a false sense of intimacy even though you're not that committed to this person. It makes you think you have something intimate and deep with that person when you don't. You don't even know them that well. Because sex is actually very intimate. It's emotional. This is where you hear the term "soul tie". This is a part of building a soul tie with someone. Why is it so horrible when a woman is raped? All the man did was have sex with her. But she didn't want that to happen, it was forced upon her. Which shows us that your emotions have a lot to do with sex. It's not just physical, it's emotional too.
+Obviously, sex feels good, which is why people engage in it all the time. Now, I know you know this, but I don’t believe people realize how powerful sex is. Think about it.
+
+When you engage in sex, you can literally create another human being by doing this one act. No other work required. That's pretty powerful! And people have sex all the time with people they don't want a child with.
+
+Personally, I only want to have a child with the man that I marry. So, that's one reason why I'm waiting. But also, when it comes to STDs/STIs. Did you know that 1 in 5 Americans has an STD? And that number is climbing. Quite honestly, it's just not safe sleeping around out here nowadays.
+
+### Emotional
+
+Because of all the "feel good" chemicals that your body is releasing during sex, that is how someone can get so emotionally attached to the person they're sleeping with.
+
+This creates a false sense of intimacy even though you're not that committed to this person. It makes you think you have something intimate and deep with that person when you don't.
+
+You don't even know them that well. Because sex is actually very intimate. It's emotional. This is where you hear the term "soul tie". This is a part of building a soul tie with someone.
+
+Why is it so horrible when a woman is raped? All the man did was have sex with her. But she didn't want that to happen, it was forced upon her. Which shows us that your emotions have a lot to do with sex. It's not just physical, it's emotional too.
 
 Science has taught us that you can literally absorb and transfer energy to another person. So, whatever that person is dealing with, will be transferred to you as well. I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him. He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with. The people you lay with affect you. There's a transfer that takes place when you do. So, whoever you're sleeping with, you take them, and their demons too.
 
