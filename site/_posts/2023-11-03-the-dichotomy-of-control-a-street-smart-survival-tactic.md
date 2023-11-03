@@ -44,7 +44,7 @@ External conditions won't change. But charting your own course grants freedom an
 
 ## The Stoic Practice Of Knowing What You Don't Control
 
-There is a line from "Man's Search For Meaning" that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
+There is a line from ["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
 
 “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
 
@@ -54,7 +54,11 @@ In my case, I couldn't control poverty in my neighborhood, but I could control s
 
 ![Dichotomy of Control](/assets/images/posts/dichotomy-of-control.png "Dichotomy of Control"){: width="1000" height="563"}
 
-Of course, fully maintaining composure at all times is impossible. The idea isn't perfection. It's simply to make progress towards a way of thinking that will lead to greater life satisfaction. We cannot erase anger or sadness over mistreatment, but we can lessen the grip external negativity has over us. It need not derail our purpose or progress.
+Of course, fully maintaining composure at all times is impossible.
+
+The idea isn't perfection. It's simply to make progress towards a way of thinking that will lead to greater life satisfaction.
+
+We cannot erase anger or sadness over mistreatment, but we can lessen the grip external negativity has over us. It need not derail our purpose or progress.
 
 Marcus Aurelius wrote in Meditations: "The happiness of your life depends upon the quality of your thoughts.” A dichotomy mindset builds resilience by framing events more thoughtfully to minimize suffering. We assign meaning to circumstances - why not shift perspective for tranquility?
 
@@ -66,22 +70,26 @@ So in rough spots, remember—you may not control all events, but you have auton
 
 Choose a minor disturbing event and write down why it's bothering you. Next, draw two columns labeled "Controllable" and "Uncontrollable" and list components of the issue, sorting each into the appropriate column based on your control over it.
 
-Break down even further the events you have partial control over. You'll see that the controllable column mostly contains your judgments and actions. This part of the list is where you'll start to focus. This will help you to accept the areas that you can't let go of. Concentrating on the controllable empowers you to strategically move forward.
+Break down even further the events you have partial control over. You'll see that the controllable column mostly contains your judgments and actions.
+
+This part of the list is where you'll start to focus. This will help you to accept the areas that you can't let go of. Concentrating on the controllable empowers you to strategically move forward.
+
+![things you can control vs not control](/assets/images/posts/things-i-cant-control.jpg "things you can control vs not control"){: width="642" height="642"}
 
 ### Additional ways the dichotomy of control can help
 
-Journaling: Each day, write down things that caused you anger, anxiety, or sadness. Categorize each issue as controllable or uncontrollable. Reframe how you view the uncontrollable.
+<u><strong>Journaling:</strong></u> Each day, write down things that caused you anger, anxiety, or sadness. Categorize each issue as controllable or uncontrollable. Reframe how you view the uncontrollable.
 
-Mindful Breathing: When frustrated over something uncontrollable, take 10 deep breaths. Use the exhale to visualize letting go of attachment to things outside your power.
+<u><strong>Mindful Breathing:</strong></u> When frustrated over something uncontrollable, take 10 deep breaths. Use the exhale to visualize letting go of attachment to things outside your power.
 
-Analyze Role Models: Examine how figures you admire responded to adversity. Note what aspects were within their control that they focused on changing.
+<u><strong>Analyze Role Models:</strong></u> Examine how figures you admire responded to adversity. Note what aspects were within their control that they focused on changing.
 
-Gratitude: Make a daily list of things you are grateful you can control like your decisions, health, and skills. This reminds you of your agency.
+<u><strong>Gratitude:</strong></u> Make a daily list of things you are grateful you can control like your decisions, health, and skills. This reminds you of your agency.
 
-Reframe Self-Talk: When fixating on the uncontrollable, pause and deliberately reframe your self-talk to focus on what you can control instead.
+<u><strong>Reframe Self-Talk:</strong></u> When fixating on the uncontrollable, pause and deliberately reframe your self-talk to focus on what you can control instead.
 
-Define Your Circle of Influence: Map out areas of life and note where your influence is high, moderate, and low. Direct energy to the high-agency areas.
+<u><strong>Define Your Circle of Influence:</strong></u> Map out areas of life and note where your influence is high, moderate, and low. Direct energy to the high-agency areas.
 
-Stoic Mindset Training: Read works by Stoic philosophers like Marcus Aurelius to deepen your understanding and adoption of the dichotomy mindset.
+<u><strong>Stoic Mindset Training:</strong></u> Read works by Stoic philosophers like Marcus Aurelius to deepen your understanding and adoption of the dichotomy mindset.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
