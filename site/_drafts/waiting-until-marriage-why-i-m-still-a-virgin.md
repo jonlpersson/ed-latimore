@@ -14,11 +14,11 @@ description: >-
   to shatter the stereotype."
 image:
 ---
-I know, I know... let me explain.
+I know, I know… let me explain.
 
-This is a story you probably haven't heard before. Or at least one you haven't heard in a looooong time! I understand that this topic is not a popular one. Talking about abstinence in this day and age is not cool...or sexy. But I believe it's necessary for the world in which we live today.
+This is a story you probably haven't heard before. Or at least one you haven't heard in a looooong time! I understand that this topic is not a popular one. Talking about abstinence in this day and age is not cool…or sexy. But I believe it's necessary for the world in which we live today.
 
-We are bombarded with sexual images all day long that it has just become 'normal'. So much so that sex is used to sell everything. From gum to insurance to cars to burgers to clothes...everything! In a culture that has become so over sexualized, I think swinging the pendulum back the other way would do our culture some good. The idea of waiting until marriage to have sex is such a foreign concept now, when it actually used to be a normal way of life. You've probably been convinced that it's not possible, that it's so ridiculous and unnecessary. And if you believe that way, that's fine. But as you continue reading perhaps you will see it from a new light and gain a different perspective on sex.
+We are bombarded with sexual images all day long that it has just become 'normal'. So much so that sex is used to sell everything. From gum to insurance to cars to burgers to clothes…everything! In a culture that has become so over sexualized, I think swinging the pendulum back the other way would do our culture some good. The idea of waiting until marriage to have sex is such a foreign concept now, when it actually used to be a normal way of life. You've probably been convinced that it's not possible, that it's so ridiculous and unnecessary. And if you believe that way, that's fine. But as you continue reading perhaps you will see it from a new light and gain a different perspective on sex.
 
 **The Response**
 
