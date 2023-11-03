@@ -12,15 +12,21 @@ description: >-
   altogether, but I could control not letting it make me cruel or bitter.
 image: /assets/images/posts/epictetus-dichotomy.jpeg
 ---
-I occasionally get asked how I got introduced to Stoic Philosophy. I never had a formal introduction to stoic ideas. My everyday life, growing up in dangerous and destitute conditions, taught me the stoic concept of focusing only on what I could control.
+I occasionally get asked how I got introduced to Stoic Philosophy.
 
-At school and in my neighborhood, I dealt with what is technically known as “bullying” and “teasing.” I say “technically” because although it would be classified as such, it went beyond what typically comes to mind when you imagine those things. Whether it was on the school bus, the schoolyard, or around the neighborhood, there was always someone harassing you, and that harassment always led to a physical confrontation.
+I never had a formal introduction to stoic ideas. My everyday life, growing up in dangerous and destitute conditions, taught me the stoic concept of focusing only on what I could control.
 
-During my childhood, my psyche was fighting a battle on two fronts. Domestically, I dealt with the emotional instability and physical abuse of my mother. At school, there was no respite either. My neighborhood functioned as a literal warzone.
+At school and in my neighborhood, I dealt with what is technically known as “bullying” and “teasing.” I say “technically” because although it would be classified as such, it went beyond what typically comes to mind when you imagine those things.
+
+Whether it was on the school bus, the schoolyard, or around the neighborhood, there was always someone harassing you, and that harassment always led to a physical confrontation.
+
+During my childhood, my psyche was fighting a battle on two fronts. Domestically, I dealt with the emotional instability and physical abuse of my mother. At school, there was no respite either.
 
 My middle school enacted a uniform policy to cut down on the possibility of gang affiliation. The sound of gunshots was a regular occurrence during the night and during the day and the elementary school I went to had gangfire shooting drills in case the violence spilled over into the day.
 
-The only way I managed to keep myself sane was by retreating into my mind and focusing on the things that I had control over.
+My childhood was a warzone, and I was a civilian caught in the cross fire. If wanted to survive, I'd have to upgrade my toolkit. The only way I managed to keep myself sane was by retreating into my mind and focusing on the things that I had control over.
+
+![Focus on what matters](/assets/images/posts/things-that-matter.jpeg "Focus on what matters"){: width="1400" height="1066"}
 
 As a child, I couldn’t do anything about where I lived or who I went to school with. I couldn’t control the behavior of my mom or other kids. I was born into unfortunate circumstances that came with great risk, but there was nothing I could do about it. The only thing I could control was how I lived, thought, and behaved.
 
