@@ -78,9 +78,15 @@ You don't even know them that well. Because sex is actually very intimate. It's 
 
 Why is it so horrible when a woman is raped? All the man did was have sex with her. But she didn't want that to happen, it was forced upon her. Which shows us that your emotions have a lot to do with sex. It's not just physical, it's emotional too.
 
-Science has taught us that you can literally absorb and transfer energy to another person. So, whatever that person is dealing with, will be transferred to you as well. I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him. He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with. The people you lay with affect you. There's a transfer that takes place when you do. So, whoever you're sleeping with, you take them, and their demons too.
+Science has taught us that you can literally absorb and transfer energy to another person. So, whatever that person is dealing with, will be transferred to you as well.
 
-SPIRITUAL: For me, this is the biggest reason. As someone who believes in the Bible and does my best to live a life according to scripture, I choose to wait. Now, even if you don't believe in God or practice another faith this principle can still apply. You see, this is how we learn that sex is so binding. In Genesis it talks about a man leaving his father and mother to be joined to his wife, and that they will become one flesh. That word "joined" literally means bound to, connected to, attached to. So, sex binds you with a person on all levels.
+I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him. He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with.
+
+The people you lay with affect you. There's a transfer that takes place when you do. So, whoever you're sleeping with, you take them, and their demons too.
+
+### Spiritual
+
+For me, this is the biggest reason. As someone who believes in the Bible and does my best to live a life according to scripture, I choose to wait. Now, even if you don't believe in God or practice another faith this principle can still apply. You see, this is how we learn that sex is so binding. In Genesis it talks about a man leaving his father and mother to be joined to his wife, and that they will become one flesh. That word "joined" literally means bound to, connected to, attached to. So, sex binds you with a person on all levels.
 
 *Physically*\- because you're participating in the act of it
 
