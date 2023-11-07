@@ -75,9 +75,11 @@ Sorry to say but no matter how much you workout, or how much money you make, the
 
 Working on these things will help you build your courage to talk to girls you meet anywhere.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## 4\. Knock your comfort zone’s teeth out
 
-Your comfort zone is a bully. It’s your reticular activation system<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> creating habits and making it so you have to use your brain less. The result is, it’s painful to even \_think \_about doing new things let alone trying them.
+Your comfort zone is a bully. It’s your reticular activation system<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> creating habits and making it so you have to use your brain less. The result is, it’s painful to even \_think \_about doing new things let alone trying them.
 
 For brushing and showering, that’s awesome. For everything else, your comfort zone is where your dreams go to die. Put another way, your comfort zone is the fastest way to an unfulfilling life.
 
@@ -117,7 +119,7 @@ Practice these social skills to get the conversation going:
 * Ask a question that doesn’t have a yes or no answer
 * Listen to the answer and respond
 
-Studies show<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
+Studies show<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
 
 And that’s something even the least charismatic guy can do.
 
@@ -153,10 +155,10 @@ To overcome shyness around girls is a multifaceted approach. It starts with reco
 
 I hope that helps. The rest is up to you.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Garcia-Rill, E., <em><a href="https://www.sciencedirect.com/science/article/pii/B9780080450469017678">Science Direct</a></em>, 2009, University of Arkansas for Medical Sciences, (accessed Sep 17, 2021).&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Lount Jr., Robert B., Zhong, Chen-Bo, Sivanathan, Niro, Murnighan, J. Keith, <em><a href="https://www-2.rotman.utoronto.ca/facbios/file/Wrong_Foot_2008_PSPB.pdf">Getting Off on the Wrong Foot: The Timing of a Breach and the Restoration of Trust</a> (accessed September 17, 2021).,</em> Dispute and Resolution Research Center at Northwestern University,&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Garcia-Rill, E., <em><a href="https://www.sciencedirect.com/science/article/pii/B9780080450469017678">Science Direct</a></em>, 2009, University of Arkansas for Medical Sciences, (accessed Sep 17, 2021).&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Lount Jr., Robert B., Zhong, Chen-Bo, Sivanathan, Niro, Murnighan, J. Keith, <em><a href="https://www-2.rotman.utoronto.ca/facbios/file/Wrong_Foot_2008_PSPB.pdf">Getting Off on the Wrong Foot: The Timing of a Breach and the Restoration of Trust</a> (accessed September 17, 2021).,</em> Dispute and Resolution Research Center at Northwestern University,&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
