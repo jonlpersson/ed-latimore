@@ -33,7 +33,7 @@ When picking out a quality face oil, you want something that has a proven track 
 * **Coconut oil:** Another popular cooking oil with antimicrobial properties that can help reduce inflammation, moisturize skin, and even help heal wounds.
 * **Avocado oil:** Avocado oil has high concentrations of vitamin E, potassium, and lecithin, to nourish and moisturize skin. The essential fatty acid, oleic acid, is also shown to promote collagen production, accelerating healing and helping with minor burns.
 
-{% include widgets/summary.html ="Attractive-Man" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## The best face oils for men
 
@@ -89,7 +89,7 @@ Looking good [doesn’t have to be complicated](https://edlatimore.com/how-to-be
 
 Taking good care of yourself not only does wonders for your health but also boosts your confidence as you become more desirable to the opposite sex. So take your skincare routine seriously by picking up a bottle of face oil. I recommend Noble Body’s The Original face oil due to its all-natural formula that takes no shortcuts on quality ingredients. Give it a try [here through my link](https://noble-body.com?aff=33) and let me know what you think.(I get a small % of each sale to help pay the bills)
 
-{% include widgets/summary.html ="Attractive-Man" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ### References
 
