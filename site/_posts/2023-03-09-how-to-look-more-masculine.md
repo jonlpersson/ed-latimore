@@ -44,6 +44,8 @@ If you’re a slimmer dude, traditional weight training programs you find online
 
 In addition to building muscle, you can improve your jawline by chewing mastic gum. Mastic gum is a resin that comes from a Mediterranean tree. Chewing it can help to strengthen your jaw muscles and improve your facial symmetry. I used mastic gum while boxing because I didn’t want to get knocked out. If you have a feminine or round face,[mastic gum can help square out your jawline](https://edlatimore.com/mastic-gum-review/) helping you appear more masculine.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Stop dressing like you’re in high school
 
 When it comes to dressing more masculine, less is more. Avoid excessive accessories like jewelry and necklaces, and stick to a simple wristwatch. Also, keep your fingernails trimmed and clean.
@@ -90,7 +92,7 @@ Here’s how to look more masculine:
 * Be mindful of what your body language is communicating
 * Develop your mind, learn to be in control of your emotions
 
-## {% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ### References:
 
