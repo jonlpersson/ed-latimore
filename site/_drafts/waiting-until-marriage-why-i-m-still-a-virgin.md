@@ -12,7 +12,7 @@ description: >-
   marriage. I am not embarrassed by that at all. There's a stereotype in
   people's minds when they think of someone who is a virgin and I actually want
   to shatter the stereotype."
-image: /assets/images/drafts/monique-de-leon-1.jpeg
+image: /assets/images/drafts/monique-de-leon-waiting-until-marriage.jpeg
 ---
 ***This is a guest post by Monique De Leon. She is a worship leader, author and motivational speaker who travels internationally inspiring others through music, writing, and bold messages on modern topics.***
 
@@ -61,6 +61,8 @@ Now, of course, I have encountered men who have seen me as a challenge and think
 That’s not to say that I can’t be tempted though. People tend to think that I have no sexual desire, as though I’m not human. Ummm I have hormones just like you! And if you touch me just right I’ll go crazy like anyone else. But I just don’t put myself in those situations.
 
 I found that I have actually earned the respect of a lot of men. Because they have an understanding that on any given day, I can be just like everyone else. But I'm choosing to give my future husband the gift of all of me on our wedding day. Something that is actually very beautiful.
+
+![Pursuing Purity is a lifestyle she's proud of](/assets/images/drafts/pursuig-purity.jpg "Pursuing Purity is a lifestyle she's proud of"){: width="625" height="1000"}
 
 ## I'm still a virgin because sex more than "just sex"
 
@@ -125,4 +127,4 @@ I believe there is a real blessing and benefit in waiting until marriage to have
 
 Men, women, I’m speaking to both of you. You have so much more value than just the sex that you can bring. I hope you can see it. Because quite honestly, you're worth the wait, and so am I.
 
-**To learn more about Monique's approach to celibacy, check out her books&nbsp;*Pursuing Purity Under Pressure: Encouraging Singles & Young Adults on Living Pure in Today's World* and *Satisfying Single...for now!***
+**To learn more about Monique's approach to celibacy, check out her books&nbsp;*Pursuing Purity Under Pressure: Encouraging Singles & Young Adults on Living Pure in Today's World* and *Satisfying Single...for now!*&nbsp;Also, sign up for her newsletter at&nbsp;[https://pursuingpurity.info](https://pursuingpurity.info/){: target="_blank"}**
