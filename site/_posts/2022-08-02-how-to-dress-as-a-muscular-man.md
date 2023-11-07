@@ -57,6 +57,8 @@ Colloquial advice says that muscular dudes shouldn’t wear bright colors. It ca
 
 In the beginning, though, you may need to choose neutrals or neutrals with small patterns. You can pair these with dark and light bottoms that go with dress shirts and casual shirts alike.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Go brand loyal
 
 The retail business dictates that clothing be standardized to the average body type and size. This saves money on production but hinders your search for flattering attire. Your best bet is to find a clothing brand that makes clothing specifically for muscular men.
@@ -128,6 +130,8 @@ How you dress says a lot about you but it’s only one piece of the puzzle. Read
 ***If this article helped you out and you decide to buy something my shirt recommendations, then I'd love if you purchased from the link. I make an affiliate commission on every sale, you get a quality piece of clothing, and you help the site out.***
 
 ***[Tappered Menswear](https://taperedmenswear.com?ref=12)***
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
