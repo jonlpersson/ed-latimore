@@ -88,11 +88,13 @@ Why is it so horrible when a woman is raped? All the man did was have sex with h
 
 Science has taught us that you can [literally absorb and transfer energy to another person](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045592#s4). So, whatever that person is dealing with, will be transferred to you as well.
 
-I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him. He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with.
+I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him.
+
+He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with.
 
 The people you lay with affect you. There's a transfer that takes place when you do. So, whoever you're sleeping with, you take them, and their demons too.
 
-### Spiritual
+### Spiritual discipline
 
 For me, this is the biggest reason. As someone who believes in the Bible and does my best to live a life according to scripture, I choose to wait.
 
@@ -103,7 +105,7 @@ Now, even if you don't believe in God or practice another faith this principle c
 * *Spiritually*\- because you're fulfilling something God created and designed
 * There's no other way for two people to be so intimately connected than through sex.
 
-## **Value**
+## **Sexual abstience is the best way to determine long term compatibility**
 
 When choosing a life partner, it’s hard to be objective when you’re sexually intimate with someone.
 
