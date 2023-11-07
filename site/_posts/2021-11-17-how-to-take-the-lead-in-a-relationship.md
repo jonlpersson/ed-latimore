@@ -16,11 +16,11 @@ No one wants to be with someone needy, passive, and floating aimlessly through l
 
 Especially women.
 
-Studies show women who are more attractive and, in short, have more options, are likely to want a husband who is her equivalent or better.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> So a lack of purpose is a red flag for women looking to get into relationships.
+Studies show women who are more attractive and, in short, have more options, are likely to want a husband who is her equivalent or better.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> So a lack of purpose is a red flag for women looking to get into relationships.
 
 Your power as a leader (in the world or within a relationship) is tied to your ability to influence others.
 
-You might ask why men need to lead. It’s the principle I’ve shared before—women have historically married for security and social mobility.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Call it a side effect of the evolution of society, but it doesn’t make it less true.
+You might ask why men need to lead. It’s the principle I’ve shared before—women have historically married for security and social mobility.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Call it a side effect of the evolution of society, but it doesn’t make it less true.
 
 This security women seek is both physical and psychological and completely unrelated to “good or bad.”
 
@@ -35,8 +35,6 @@ But taking the lead in your relationship is not about forcing the other party to
 Taking the lead is less controlling and more fostering an environment where you and she thrive off mutual respect and support. It’s also about knowing when it’s time for you to take the lead and when it’s time for you to take a step back.
 
 If you struggle with this, keep reading and I’ll tell you exactly how to take the lead in your relationship.
-
-{% include widgets/toc.html heading="How to take the lead in a relationship" list-items="Know what you want upfront, Be an active listener, Lean into your masculine energy, Bring some ass to get some ass, Be impeccable with your word, Be willing to walk away, Learn from your mistakes" list-ids="define-your-intentions-upfront, dont-try-to-fix-when-its-time-to-listen, exit-the-emotional-rollercoaster, demonstrate-leadership-over-talking-about-it, do-what-you-say-youre-going-to-do, avoid-one-itis, dont-be-a-one-hit-wonder" %}
 
 ## Define your intentions upfront
 
@@ -70,7 +68,7 @@ Don’t.
 
 A primary skill of a good leader is your ability to step back and be an active listener. Don’t allow your ego to cause you to go with your first instincts or not see a situation for what it truly is.
 
-Actively listening strengthens your relationships and makes you more trustworthy.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Actively listening strengthens your relationships and makes you more trustworthy.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Often, women need to talk through things to come to their own resolutions. When you try to fix everything, you not only impede this process, you guarantee that…
 
@@ -79,6 +77,8 @@ Often, women need to talk through things to come to their own resolutions. When 
 2. You demonstrate a lack of caring and listening, which causes perpetual arguments
 
 Your ability to listen helps those seeking your advice to trust you more. If you’re completely clueless about when it’s time to offer a solution, ask what the intention of a conversation is upfront.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## Exit the emotional rollercoaster
 
@@ -138,7 +138,7 @@ Keep your own separate interests, do your own thing, and don’t make your partn
 
 ## Don’t be a one-hit-wonder
 
-Over time, it’s human nature to settle into routines.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You stop building and growing. You start to notice you aren’t as exciting as you once were.
+Over time, it’s human nature to settle into routines.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You stop building and growing. You start to notice you aren’t as exciting as you once were.
 
 Suddenly, you and your girl are more best friend gal pals, than friends with benefits.
 
@@ -164,10 +164,10 @@ Whether you are starting a new relationship or are deep into your marriage, do t
 * Be willing to walk away
 * Learn from your mistakes
 
-{% include widgets/summary.html id="Essays-Of-Power" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Dye, Lee. <a href="https://abcnews.go.com/Technology/DyeHard/story?id=4521988&amp;page=1">Study: Beautiful Women Want it All</a>. ABC News.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Esteve A, Schwartz CR, Van Bavel J, Permanyer I, Klesment M, Garcia J. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421994/">The End of Hypergamy: Global Trends and Implications</a>. Popul Dev Rev. 2016;42(4):615-625. doi:10.1111/padr.12012&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Mishra, Sudha. <a href="https://www.researchgate.net/publication/342170352_Listening_as_a_Leadership_Tool_A_Survey_of_Subordinates'_Perception_towards_Listening_Skills_of_Effective_Leaders">Listening as a Leadership Tool: A Survey of Subordinates' Perception towards Listening Skills of Effective Leaders.</a> Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University. 14. 1410-1417. 10.37896/jxu14.6/170.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>University of British Columbia. <a href="https://www.sciencedaily.com/releases/2018/09/180918090849.htm">"Hardwired for laziness? Tests show the human brain must work hard to avoid sloth."</a> ScienceDaily.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Dye, Lee. <a href="https://abcnews.go.com/Technology/DyeHard/story?id=4521988&amp;page=1">Study: Beautiful Women Want it All</a>. ABC News.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Esteve A, Schwartz CR, Van Bavel J, Permanyer I, Klesment M, Garcia J. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421994/">The End of Hypergamy: Global Trends and Implications</a>. Popul Dev Rev. 2016;42(4):615-625. doi:10.1111/padr.12012&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Mishra, Sudha. <a href="https://www.researchgate.net/publication/342170352_Listening_as_a_Leadership_Tool_A_Survey_of_Subordinates'_Perception_towards_Listening_Skills_of_Effective_Leaders">Listening as a Leadership Tool: A Survey of Subordinates' Perception towards Listening Skills of Effective Leaders.</a> Xi'an Dianzi Keji Daxue Xuebao/Journal of Xidian University. 14. 1410-1417. 10.37896/jxu14.6/170.&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>University of British Columbia. <a href="https://www.sciencedaily.com/releases/2018/09/180918090849.htm">"Hardwired for laziness? Tests show the human brain must work hard to avoid sloth."</a> ScienceDaily.&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li></ol></div>
