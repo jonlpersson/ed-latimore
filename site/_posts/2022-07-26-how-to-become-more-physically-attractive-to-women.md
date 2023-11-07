@@ -188,8 +188,6 @@ Improving your physical attractiveness builds confidence that can help you in yo
 
 Life gets pretty amazing when you choose to actively work on yourself. Set yourself apart from the pack by making these adjustments.
 
----
-
 As a final reminder, if you need help with your fashion sense, you should check out my buddy Tanner Guzy’s men’s style course, *Dress Like a Man*.
 
 {% include widgets/summary.html id="Attractive-Man" %}
