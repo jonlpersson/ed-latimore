@@ -1,18 +1,18 @@
 ---
 date: 2022-12-15 09:00:00 -0500
 article_type: Article
-title: 'Here’s what happens when you get a girlfriend'
+title: Here’s what happens when you get a girlfriend
 permalink: /what-happens-when-you-get-a-girlfriend/
 tags:
   - dating-and-relationships
 categories:
   - life-lessons
 description: >-
-  Wondering about your first girlfriend? Here’s what happens when you get a girlfriend.
+  Wondering about your first girlfriend? Here’s what happens when you get a
+  girlfriend.
 image: /assets/images/thumbnails/ed-with-girlfriend-anna-in-snow.JPG
 ---
-
-Most people start dating around 12 or 13 but plenty of adults, about 42% of singles under 40, have never been in a committed relationship.[^1] [^2]
+Most people start dating around 12 or 13 but plenty of adults, about 42% of singles under 40, have never been in a committed relationship.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> <sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 When you’re young, dating starts with hanging out in groups, sitting beside each other at lunch, and maybe a little hand holding.
 
@@ -22,17 +22,15 @@ No matter what age you are, going on a first date or getting your first girlfrie
 
 If this is your first time or you just want to brush up because it’s been a while, here’s what happens when you get a girlfriend.
 
-
 ## You learn her quirks
 
 An exciting part about finding a girlfriend is probably getting to know her on a deeper level. When I met my fiance, who is Portuguese, I enjoyed learning about all the ways she was different from me–a kid from the hood.
 
-You discover her likes, dislikes, and eccentricities. You learn to relate over shared interests and develop interests together. You also have more in-depth conversations and ultimately grow closer. This closeness can improve your heart health and lead to a healthier life overall.[^3] And it’s true the older you get.
+You discover her likes, dislikes, and eccentricities. You learn to relate over shared interests and develop interests together. You also have more in-depth conversations and ultimately grow closer. This closeness can improve your heart health and lead to a healthier life overall.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> And it’s true the older you get.
 
 The questions you can ask your new girlfriend to get to know her better are innumerable. However, researchers found there are 36 questions anyone can ask that increase closeness. They slowly increase in depth and seriousness and create more intimacy the more times you go through the exercise.
 
 You can find those here: [36 questions that increase closeness](https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness).
-
 
 ## You learn girls aren’t made of sugar and spice
 
@@ -48,10 +46,11 @@ While women are into attractive men (check out how to be an attractive man [here
 
 Just be aware of the ones that are.
 
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## You gain(or lose) confidence
 
-Relationships trigger the reward response in your brain.[^4] If you have a good relationship with a loving, supportive partner, you gain confidence and overall happiness. When you have the opposite, however, it’s very easy to slip into low self-esteem and second-guess yourself.
+Relationships trigger the reward response in your brain.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> If you have a good relationship with a loving, supportive partner, you gain confidence and overall happiness. When you have the opposite, however, it’s very easy to slip into low self-esteem and second-guess yourself.
 
 Because you can become addicted to the choices you make, bad relationships can wire your brain into an addiction for unhealthy behavior. Let's say you have a style of arguing that is rewarded with sex. Or if you're in high school, your girlfriend uses her emotions to get what she wants. She might ignore your text messages or give you the silent treatment. Then when you do what she wants, she rewards you with love and spending time together.
 
@@ -59,19 +58,17 @@ This sets you up for a lifetime of stress and hunting for relationships that are
 
 Set your intention for the type of relationship you want upfront. Tell each other what is okay and what is not okay. Read my guide on [how to be a good boyfriend](https://edlatimore.com/how-to-be-a-good-boyfriend/) for more dating tips.
 
-
 ## You practice mental toughness
 
 Mental toughness is a measure of your resilience and confidence. In real life, it’s how well you can handle stress and become better because of it. Mental toughness is a requirement for excelling in a career, school, and any sport at a high level.
 
 I took up boxing because I was not emotionally or mentally tough. I drank all the time and complained about how stupid college was to anyone that would listen. Never mind the fact that my best friends at the time only saw me as the drunk guy who worked at Starbucks. Today, I am a former boxer, hold a degree in physics, and have amassed a substantial [Twitter following](https://twitter.com/EdLatimore).
 
-I mention Twitter because you _have_ to be mentally tough to thrive on social media.
+I mention Twitter because you *have* to be mentally tough to thrive on social media.
 
 Relationships make you mentally tough if you let them. You and your new girlfriend are individuals. This means you’re going to face difficulty and conflict and sometimes you both will be right.
 
 The [signs of emotional maturity](https://edlatimore.com/signs-of-maturity/) in a relationship are when you can face conflict without it threatening to break up everything you’ve built.
-
 
 ## You learn how to argue
 
@@ -80,8 +77,6 @@ The amount you argue depends on your compatibility with your significant other b
 Arguing doesn’t have to look like screaming and yelling at one another and it doesn’t have to lead to a breakup. But learning to argue or assert your point of view in a healthy way is an essential social skill that is valuable in every facet of life.
 
 Here are other social skills that help you thrive in a relationship:
-
-
 
 * Empathy
 * Active listening
@@ -92,19 +87,15 @@ Here are other social skills that help you thrive in a relationship:
 
 Read [how to stop arguing in a relationship](https://docs.google.com/document/d/15i6pIrTP5P0BuIGfsYwYPPGFsHF1KfSTx2tykQ2hCDY/edit) if you feel you argue too often.
 
-
 ## You learn that the relationship is more important than the other person
 
 The most important thing to remember is that the relationship is more important than the individual. Valuing the relationship over the individual means that you don’t allow either you or her to do something that puts the relationship in jeopardy. When I learned this, it changed the way I treated women and the quality of my relationships.
 
 You don’t have to be a relationship expert or seek out a dating coach to have a good relationship. In fact, togetherness is hardwired into our DNA. You just have to be willing to keep working on yourself.
 
-
 ## Wrapping up - What happens when you get a girlfriend?
 
 Here’s what to expect when you get a girlfriend at any age:
-
-
 
 * You learn to have deeper conversations
 * You learn women are human just like you
@@ -113,16 +104,10 @@ Here’s what to expect when you get a girlfriend at any age:
 * You gain social skills
 * You put the important things first.
 
-{% include widgets/summary.html id="Essays-Of-Power" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-[^1]: _Healthy Children  _When to Let Your Teenager Start Dating. Caring for Your Teenager. Copyright © 2003 American Academy of Pediatrics. [https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating](https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating) (Accessed Dec. 7, 2022)
-
-[^2]:  Brown, Anna. _Pew Research Center _A profile of Single Americans _ _(2022) [https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/](https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/)  (Accessed Dec. 7, 2022)
-
-[^3]: Do Social Ties Affect Our Health? _NIH News in Health  _Exploring the Biology of Relationships (2017)  [https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health](https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health) (Accessed Dec. 7, 2022)
-
-[^4]: Jantz, Gregory L. Ph.D. _Psychology Today _[The Role of the Brain in Love and Relationship Dependency](https://www.psychologytoday.com/us/blog/hope-relationships/201510/the-role-the-brain-in-love-and-relationship-dependency#:~:text=Being%20in%20a%20relationship%20triggers,a%20powerful%20pull%20toward%20relationships). October 2015.(Accessed Dec. 7, 2022)
+<div class="footnotes"><ol><li><p>_Healthy Children _When to Let Your Teenager Start Dating. Caring for Your Teenager. Copyright © 2003 American Academy of Pediatrics. <a href="https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating">https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/When-To-Let-Your-Teenager-Start-Dating</a> (Accessed Dec. 7, 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Brown, Anna. _Pew Research Center _A profile of Single Americans _ _(2022) <a href="https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/">https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/</a> (Accessed Dec. 7, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Do Social Ties Affect Our Health? _NIH News in Health _Exploring the Biology of Relationships (2017) <a href="https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health">https://newsinhealth.nih.gov/2017/02/do-social-ties-affect-our-health</a> (Accessed Dec. 7, 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>Jantz, Gregory L. Ph.D. _Psychology Today _<a href="https://www.psychologytoday.com/us/blog/hope-relationships/201510/the-role-the-brain-in-love-and-relationship-dependency#:~:text=Being%20in%20a%20relationship%20triggers,a%20powerful%20pull%20toward%20relationships">The Role of the Brain in Love and Relationship Dependency</a>. October 2015.(Accessed Dec. 7, 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li></ol></div>
