@@ -46,14 +46,10 @@ In the presence of danger, we prepare ourselves to fight.
 
 The study participants experienced a sudden response of their nervous system. What does this mean?
 
-
-
 * The vagus nerve sends a signal to the heart and stomach.
 * The butterflies we feel in our gut are the contractions of our digestive muscles.
 * Our airways constrict, making it harder to breathe.
 * Our heart rate slows down so much that it*literally*feels like our heart is breaking.
-
-
 
 The more unexpected the dumping, the more severe this reaction is, and the greater the physical pain.
 
@@ -68,8 +64,6 @@ Maybe you've already been dumped, and you still haven't gotten over it.
 Maybe you're still experiencing the regret of breaking up with someone, and are convinced you made a mistake.
 
 Whatever the reason is for you being here, these 7 post-breakup tips will help you move on.
-
-
 
 ## 1\. Leave with dignity
 
@@ -170,6 +164,8 @@ Oxytocin is a hormone that your body makes when you have sex. It increases feeli
 Instead of meeting new people, you're worried about your past relationship. This causes irrational jealousy. You won't give a new person your full attention. Instead, you are living in the past.
 
 This can happen without post-relationship hooking up, but it's impossible to overcome if physical contact continues. It's best to find a new relationship. If finding a new partner is something you stuggle with, then read my [guide on getting into relationships](https://edlatimore.com/how-to-get-into-a-relationship/).
+
+
 
 ## 6\. Don't ask about your ex
 
@@ -275,11 +271,7 @@ When you’re ready to move on, don’t put off making plans. You won’t regret
 
 If you’re still thinking about him or her, try talking to someone else. This could be a friend or family member who knows what you’re going through. Or maybe you can talk to a professional therapist. Whatever works best for you.
 
-
-
 ## Recap of how to get over someone and move on from a breakup
-
-
 
 * Break up with dignity
 * Talk to people
@@ -292,10 +284,8 @@ If you’re still thinking about him or her, try talking to someone else. This c
 * Give your broken heart the amount of time it needs to heal
 * Don't let a breakup determine your self-worth
 
-
-
 I'm not a relationship expert, but my philosophy on getting over someone—and I've got more experience than I'd like to admit on both ends of the spectrum—has served me and others well.
 
 It can be summed up as follows: **step out, move on, don't look back—and don't get on your back.**
 
-If you do this, then it won't take a lot of time before you're happier with someone **else in the next relationship.&nbsp;**
+If you do this, then it won't take a lot of time before you're happier with someone **else in the next relationship.**&nbsp;
