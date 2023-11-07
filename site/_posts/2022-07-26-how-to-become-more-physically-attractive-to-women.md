@@ -54,6 +54,8 @@ Any workout that strengthens muscle, burns body fat and builds testosterone will
 
 Women are naturally drawn to and follow men with this mixture of magnetism. [Read here to learn how to take the lead in long-term relationships.](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/)
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Build a strong jawline
 
 Sharp, defined jawlines are masculine and inherently attractive to women.
@@ -190,7 +192,7 @@ Life gets pretty amazing when you choose to actively work on yourself. Set yours
 
 As a final reminder, if you need help with your fashion sense, you should check out my buddy Tanner Guzy’s men’s style course, *Dress Like a Man*.
 
-{% include widgets/summary.html id="dress-like-a-man" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
