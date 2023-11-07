@@ -142,6 +142,8 @@ The tax you pay is in the form of playing catch up, still having to meet your no
 
 But if you were responsible, you’d have more to be able to do more and be freer in the process.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Utility
 
 A man must be useful. This means he needs to have a skill or ability.
@@ -230,6 +232,8 @@ Unfortunately, this problem is not just isolated to the sons of fatherless house
 
 This is part of the reason men are apprehensive about connecting with one another because opening up means facing something terrifying, taking responsibility, and building your relationships with other men—all things that force men out of the comfort zone of modernity and make them develop.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Fitness
 
 You don’t need to be into bodybuilding, CrossFit, or a semi-pro athlete. You don’t even have to give up alcohol or only eat clean all the time. You simply have to become aware of some simple metrics and aim to keep them in check.
@@ -242,7 +246,7 @@ I don’t recommend using BMI by itself because too much muscle will put you int
 
 **Hemoglobin a1C &lt; 5.6:** If you aren’t familiar with this test, it’s a simple blood test that measures your average blood sugar levels over the past 3 months. If you’re interested in the detailed science of the A1c or HbA1c test, you can read about it here. For everyone else, all you need to know is that this number is arguably the single best metric to know how insulin-resistant you are. [Insulin resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448479/){: target="_blank"} is implicated in [5 of the top 10 killers of Americans.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm){: target="_blank"}
 
-**Resting heart rate &lt; 60:&nbsp;**[Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
+**Resting heart rate &lt; 60:**&nbsp;[Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
 
 While there are many other metrics that are important for your health, these are the major ones to monitor. Getting these metrics in order requires you to be vigilant about your diet and lifestyle choices.
 
