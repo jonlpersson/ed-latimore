@@ -131,6 +131,8 @@ However, they caused powerful emotions in me and I fell for them. The point here
 
 A wise man once remarked that these traits are all products of discipline and self-restraint. These traits also promote femininity, which motivates men to act more masculine. While different men are looking for different things at different times, I don’t think there is a man alive that is repulsed by anything on this list.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## 10\. Travel more
 
 ![better man want success in life are good relationships with people to see the world](/assets/images/posts/2016/how-to-become-a-better-man-ed-latimore.jpg "Stopping through the Mexican jungle while traveling the world.")
@@ -435,4 +437,4 @@ If this post gave tremendous help or insight, or you simply enjoyed it, sign up 
 
 ***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
