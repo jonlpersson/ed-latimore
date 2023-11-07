@@ -114,7 +114,7 @@ In her search for a provider and protector, she can’t tell much about you beyo
 
 If you’re a loser, it will show in your behaviors. Only a lame-ass with no hobbies obsesses over a girl or relationship.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## 3\. Don't be afraid to dump her quick and early
 
@@ -332,4 +332,4 @@ Remember: the point of this post is to serve as a guide for men who desire a hap
 
 However, if you want a girl for 6 months or longer, it’s important to start with a strong foundation.
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
