@@ -14,7 +14,15 @@ description: >-
   to shatter the stereotype."
 image:
 ---
-I know, I know… let me explain.
+***This is a guest post by Monique De Leon. She is a worship leader, author and motivational speaker who travels internationally inspiring others through music, writing, and bold messages on modern topics.***
+
+***At 41, Monique remains a virgin and fervent advocate for abstinence - a perspective she brings uniquely from both scripture and relatable life experience. Raised in Southern California, she has walked the challenging road of purity against cultural trends.***
+
+***Monique has written three books and created online courses that encourage singles to build relationships on faith rather than compromising with society's lowered standards. She also mentors individuals desiring a different path.***
+
+***Passionate and eloquent, Monique aims to uplift and equip people to thrive spiritually and relationally on their own terms. Her story and wisdom help many navigate modern pressures to conform.***
+
+***You can learn more about Monique's ministry and message of purposeful purity at her website [PursuingPurity.info.](https://pursuingpurity.info/)***
 
 This is a story you probably haven't heard before. Or at least one you haven't heard in a looooong time! I understand that this topic is not a popular one. Talking about abstinence in this day and age is not cool…or sexy. But I believe it's necessary for the world in which we live today.
 
@@ -114,3 +122,5 @@ And women perpetuate it by allowing men to have access to them so easily. There�
 I believe there is a real blessing and benefit in waiting until marriage to have sex. These are some of the reasons why, and I honestly encourage others to do the same.
 
 Men, women, I’m speaking to both of you. You have so much more value than just the sex that you can bring. I hope you can see it. Because quite honestly, you're worth the wait, and so am I.
+
+**To learn more about Monique's approach to celibacy, check out her books&nbsp;*Pursuing Purity Under Pressure: Encouraging Singles & Young Adults on Living Pure in Today's World* and *Satisfying Single...for now!***
