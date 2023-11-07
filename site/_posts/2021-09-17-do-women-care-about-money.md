@@ -60,6 +60,8 @@ In today’s world, money isn’t the only way to access resources. A smart man 
 
 You need at least a little bit of charisma to pull this off. Learn to vet and assemble valuable people around you who can get you into places you cannot go on your own. Of course, you have to give value as well.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## 3\. Purpose
 
 A man who can (and does) command top dollar for his skill shows that you’re a high performer. And the top high performers in the world have a defined sense of purpose to something greater than themselves. That’s attractive to a woman.
@@ -170,7 +172,7 @@ Here are those traits again:
 6. Confidence and novelty
 7. Influential status among your family and peer group
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
