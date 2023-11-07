@@ -71,13 +71,15 @@ For some guys, you might be too shy to talk to a woman.
 
 In that case, read my post on [how not to be shy around girls](https://edlatimore.com/how-not-to-be-shy-around-girls/) for practical tips to overcome your nervousness.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Avoid obsessing over one girl
 
 Obsessing over one girl is affectionately called ‘one-itis’ in the dating community. It's the belief that the woman you’re attracted to is the perfect girl and you’ll never find another like her.
 
 You might fall under the mistaken thinking that you’re one perfect scenario away from making her fall in love with you.
 
-Obsessing is a manifestation of your fear. Whether it's due to loneliness or rejection, it keeps you from seeing your value and often has you idealizing the girl. Fear of rejection is one of five types of fear.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> A fear of the unknown. And putting yourself out there puts you in a vulnerable situation.
+Obsessing is a manifestation of your fear. Whether it's due to loneliness or rejection, it keeps you from seeing your value and often has you idealizing the girl. Fear of rejection is one of five types of fear.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> A fear of the unknown. And putting yourself out there puts you in a vulnerable situation.
 
 Once you’re actively avoiding rejection, you aren’t allowing the situation to play out naturally. And it’s not likely to give you the result you’re hoping for.
 
@@ -105,7 +107,7 @@ Do this by developing hobbies and activities that grow you in interesting ways. 
 
 These hobbies specifically force you to develop your conversation skills, sense of humor, mind, and physicality. I developed a framework for finding hobbies that help you meet women. You can read that in my post [7 hobbies to meet women](https://edlatimore.com/hobbies-to-meet-women/#what-are-the-best-hobbies-to-meet-women).
 
-An additional benefit of working on yourself is women will naturally want to be around you. Women are more attracted to men that are taken.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> So having women clearly flirting with you, makes you more attractive to other women.
+An additional benefit of working on yourself is women will naturally want to be around you. Women are more attracted to men that are taken.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> So having women clearly flirting with you, makes you more attractive to other women.
 
 ## Read the room
 
@@ -124,7 +126,7 @@ Embrace any awkwardness before or after you tell her. The fear is always worse i
 
 Popular advice says to compliment a girl if you like her to let her know. While I’m all for flirting, complimenting women can backfire, especially if she’s not into you. It could be like buying her a drink, now she has a free drink and you don't have the girl.
 
-Studies show women are better at sending body language cues than men.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> So if you’re looking for easier ways to tell if she’s attracted to you without laying out insincere compliments, look for these signs:
+Studies show women are better at sending body language cues than men.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> So if you’re looking for easier ways to tell if she’s attracted to you without laying out insincere compliments, look for these signs:
 
 * She makes eye contact
 * Her knees are pointed in your direction
@@ -146,10 +148,10 @@ When you’re thinking of telling a girl you like her, here are some things to r
 * Follow a few simple rules if you decide to tell her
 * Read her body language to tell if she’s attracted to you
 
-{% include widgets/summary.html id="Essays-Of-Power" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Albrecht, Karl Ph. D. <em><a href="https://www.psychologytoday.com/ca/blog/brainsnacks/201203/the-only-5-fears-we-all-share">Psychology Today: The (Only) 5 Fears We All Share</a></em> 2012. (accessed Oct 18, 2021)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Parker, J. Burkley, M. <em>Journal of Experimental Social Psychology:</em> Who&rsquo;s chasing whom? The impact of gender and relationship status on mate poaching; Volume 45, Issue 4. Pages 1016-1019. 2009. <a href="https://doi.org/10.1016/j.jesp.2009.04.022">https://doi.org/10.1016/j.jesp.2009.04.022</a>. (accessed Jan. 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Moore, M. <em>Ethology and Sociobiology:</em> Nonverbal courtship patterns in women: Context and consequences Volume 6. Issue 4. Pages 237-247 1985. <a href="https://doi.org/10.1016/0162-3095(85)90016-0">https://doi.org/10.1016/0162-3095(85)90016-0</a> (accessed Jan. 10, 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Albrecht, Karl Ph. D. <em><a href="https://www.psychologytoday.com/ca/blog/brainsnacks/201203/the-only-5-fears-we-all-share">Psychology Today: The (Only) 5 Fears We All Share</a></em> 2012. (accessed Oct 18, 2021)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Parker, J. Burkley, M. <em>Journal of Experimental Social Psychology:</em> Who’s chasing whom? The impact of gender and relationship status on mate poaching; Volume 45, Issue 4. Pages 1016-1019. 2009. <a href="https://doi.org/10.1016/j.jesp.2009.04.022">https://doi.org/10.1016/j.jesp.2009.04.022</a>. (accessed Jan. 10, 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Moore, M. <em>Ethology and Sociobiology:</em> Nonverbal courtship patterns in women: Context and consequences Volume 6. Issue 4. Pages 237-247 1985. <a href="https://doi.org/10.1016/0162-3095(85)90016-0">https://doi.org/10.1016/0162-3095(85)90016-0</a> (accessed Jan. 10, 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
