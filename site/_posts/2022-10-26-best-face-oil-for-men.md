@@ -22,7 +22,7 @@ Knowing how to apply face oils is straightforward. It helps to read the bottle�
 
 ### Popular face oils
 
-When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>\:
+When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>:
 
 * **Jojoba oil:** An oil produced from the seeds of the jojoba plant that has anti-inflammatory properties, which can help reduce redness and ease the effects of eczema and rosacea.
 * **Rosehip seed oil:** An ancient oil produced from the fruit and seeds of the rose plant. It’s commonly used for its valuable healing benefits and contains skin-nourishing vitamins and essential fatty acids.
@@ -32,6 +32,8 @@ When picking out a quality face oil, you want something that has a proven track 
 * **Olive oil:** Even commonly used cooking oils such as olive oil can be used as an antibacterial and moisturizer for your skin.
 * **Coconut oil:** Another popular cooking oil with antimicrobial properties that can help reduce inflammation, moisturize skin, and even help heal wounds.
 * **Avocado oil:** Avocado oil has high concentrations of vitamin E, potassium, and lecithin, to nourish and moisturize skin. The essential fatty acid, oleic acid, is also shown to promote collagen production, accelerating healing and helping with minor burns.
+
+{% include widgets/summary.html ="Attractive-Man" %}
 
 ## The best face oils for men
 
@@ -87,6 +89,8 @@ Looking good [doesn’t have to be complicated](https://edlatimore.com/how-to-be
 
 Taking good care of yourself not only does wonders for your health but also boosts your confidence as you become more desirable to the opposite sex. So take your skincare routine seriously by picking up a bottle of face oil. I recommend Noble Body’s The Original face oil due to its all-natural formula that takes no shortcuts on quality ingredients. Give it a try [here through my link](https://noble-body.com?aff=33) and let me know what you think.(I get a small % of each sale to help pay the bills)
 
+{% include widgets/summary.html ="Attractive-Man" %}
+
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Lin TK, Zhong L, Santiago JL. Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. Int J Mol Sci. 2017 Dec 27;19(1):70. doi: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/">10.3390/ijms19010070</a>.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Lin TK, Zhong L, Santiago JL. Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. Int J Mol Sci. 2017 Dec 27;19(1):70. doi: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796020/">10.3390/ijms19010070</a>.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li></ol></div>
