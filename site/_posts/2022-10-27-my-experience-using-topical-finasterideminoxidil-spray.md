@@ -72,6 +72,8 @@ However, some people experience unwanted side effects such as itching, burning, 
 
 The drug works well enough to treat hair lossis generally well tolerated, though some people have complained of itching, burning, redness, swelling, or irritation.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Finasteride in a topical solution: The solution to oral finasteride
 
 In the neverending hunt for ways to battle back male pattern baldness, scientists figured they may as well try applying finasteride in a gel or spray solution. Clinical studies show that topical finasteride (in gel and solution form) not only decreased the rate of hair loss but increased the total amount of hair present. In other words, it seems to regrow hair.&nbsp;
@@ -183,3 +185,5 @@ If you're just starting to lose your hair, this—along with other strategies—
 Definitely pick up a bottle.
 
 #### [**Grab your bottle here**](https://prf.hn/l/vyvenmZ)
+
+{% include widgets/summary.html id="Attractive-Man" %}
