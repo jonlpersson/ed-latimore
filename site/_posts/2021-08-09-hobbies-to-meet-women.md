@@ -26,8 +26,6 @@ And best of all, you won't even need to look for them. They'll naturally be part
 
 If you're tired of dating apps and praying that Mrs. Right will come knocking, then this article will give you what you need to become an influential, high-value man who attracts his worthy woman into his life.
 
-{% include widgets/toc.html heading="What you'll learn" list-items="Why are hobbies important?, Hobbies vs. skills, What are the best hobbies to meet women?, Daily audit: What are you doing with your free time?" list-ids="why-are-hobbies-important, hobbies-vs-skills, what-are-the-best-hobbies-to-meet-women, daily-audit-what-are-you-doing-with-your-free-time" %}
-
 ## Why are hobbies important?
 
 Women only date assholes and guys with money.
@@ -79,6 +77,8 @@ Here are some great skill-focused hobbies to get started with:
 * Lifting weights (which you should be doing anyway)
 
 You don't have to become an expert, but having some baseline knowledge in each area will go a long way in not only attracting women but also ensuring that you become a strong, competent man that can be relied upon when shit hits the fan.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## What are the best hobbies to meet women?
 
@@ -190,4 +190,4 @@ Or you can choose some of your own.
 
 Whichever activities you decide on make sure they're in line with who you want to become and set you up with the best chances possible to meet women with similar interests, making sparks fly from the moment you first meet.
 
-And **if you want to learn more** about attracting women, you need to check out my [definitive guide to becoming more attractive](/how-to-be-an-attractive-man/).
+{% include widgets/summary.html id="Attractive-Man" %}
