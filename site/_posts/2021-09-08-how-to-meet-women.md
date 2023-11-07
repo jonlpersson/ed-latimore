@@ -42,7 +42,7 @@ Women want to be approached, and women want to have sex.
 
 What they don't want is to carry the weight of your expectations and creepy vibes. Why? Because you're a much bigger animal than they are, and thus you present a threat.
 
-If you think of it from an evolutionary standpoint, women have a considerable amount to invest (and a lot to lose) if they become pregnant from your exchange. Their biology actually puts them in a state of vulnerability.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+If you think of it from an evolutionary standpoint, women have a considerable amount to invest (and a lot to lose) if they become pregnant from your exchange. Their biology actually puts them in a state of vulnerability.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
 
 Before a woman will be receptive to you she needs to feel two main things:
 
@@ -77,9 +77,11 @@ Know what kind of girl you want to date upfront. This will help you identify tha
 
 When I was a single man, I developed a framework for [picking hobbies to meet women](https://edlatimore.com/hobbies-to-meet-women/). It’s simply not enough to make a lot of money and work out like a mad man. Those things definitely won't hurt, but they also won’t get you a great girl on their own.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Quiet the judgemental, fear-fuelled monkey part of your brain
 
-If you want to approach more women, you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
+If you want to approach more women, you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
 
 That voice is fueled by social media, all your external input, and how you were raised. It’s your fear threatening to take the wheel. Don’t let it.
 
@@ -160,10 +162,10 @@ Here’s a quick summary of how to meet women:
 * Start conversations
 * Start talking to more women in comfortable settings
 
-{% include widgets/cta-email.html %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Healthline Editorial Team, Medically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHT, <em>Healthline,</em> August 28, 2017, <a href="https://www.healthline.com/health/pregnancy/bodily-changes-during">https://www.healthline.com/health/pregnancy/bodily-changes-during</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Curhan, Katherine B., <em>US National Library of Medicine National Institute of Health,</em> OCT. 10. 2014, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267914/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267914/</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Healthline Editorial Team, Medically reviewed by Debra Rose Wilson, Ph.D., MSN, R.N., IBCLC, AHN-BC, CHT, <em>Healthline,</em> August 28, 2017, <a href="https://www.healthline.com/health/pregnancy/bodily-changes-during">https://www.healthline.com/health/pregnancy/bodily-changes-during</a>&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Curhan, Katherine B., <em>US National Library of Medicine National Institute of Health,</em> OCT. 10. 2014, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267914/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267914/</a>&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
