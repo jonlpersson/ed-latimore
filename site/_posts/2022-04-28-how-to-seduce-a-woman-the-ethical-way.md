@@ -82,7 +82,7 @@ Women will be more receptive to light touches on dates and escalation after, and
 
 If you’re not blessed with natural good looks, don’t worry. Dressing well, staying in good shape, and fixing your hair nicely, can get you 90% of the way, and self-confidence will get you the rest of the way there.
 
-***\[Read: [How to be an attractive man](/how-to-be-an-attractive-man/)\]***
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## 4\. Intrigue / Mystery
 
@@ -181,6 +181,8 @@ You don’t necessarily want to get ‘swoll’, but you should definitely try a
 If you can, grow a beard. In&nbsp;[one recent study](https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226){: target="_blank"}, researchers found that women find men with heavy stubble and full beards more attractive than clean-shaven men and those with light stubble.
 
 This is because facial hair is suggestive of masculinity, maturity, dominance, and aggression. It’s a secondary sex characteristic that signals you’re a strong healthy man. Since women want a strong healthy mating partner, let that 5-o’clock shadow grow out for a week or two.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## Be Confident
 
@@ -331,3 +333,5 @@ That concludes this guide on how to be seductive. Follow the tips above and lear
 Remember though, seducing her is only half of the battle. If you want to convince her to stick around, you’ll need to satisfy her in the bedroom too.
 
 Good luck and have fun!
+
+{% include widgets/summary.html id="Attractive-Man" %}
