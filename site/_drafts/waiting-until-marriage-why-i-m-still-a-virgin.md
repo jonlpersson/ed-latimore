@@ -105,8 +105,12 @@ When choosing a life partner, it’s hard to be objective when you’re sexually
 
 I believe there is a real value in waiting until marriage. If you remove sex from many relationships, you will see they have no depth. It’s surface level only.&nbsp;
 
-There is such a lack of discipline and self-control in our culture today. People aren't encouraged to reign in their sexual appetites and practice some self-control. Because if you don’t learn to control *it*, then *it* will control you. And if you don’t know how to be disciplined as a single person, you will struggle in being disciplined in marriage or even in a serious relationship.
+There is such a lack of discipline and self-control in our culture today. People aren't encouraged to reign in their sexual appetites and practice some self-control. If you don’t learn to control *it*, then *it* will control you. And if you don’t know how to be disciplined as a single person, you will struggle to be disciplined in marriage or even in a serious relationship.
 
-I believe this is also a part of why women are just looked at like objects. They’re only seen as someone to get something from. As though that's all women are good for. And women perpetuate it by allowing men to have access to them so easily. There’s so much depth to me. I am more than just a pretty face. I have placed value on myself, which is why I won't let a man have access to me in that way. That is reserved for the one I marry.&nbsp;
+I believe this is also a part of why women are just looked at like objects. They’re only seen as someone to get something from. As though that's all women are good for.
 
-I believe there is a real blessing and benefit in waiting until marriage to have sex. These are some of the reasons why, and I honestly encourage others to do the same. Men, women, I’m speaking to both of you. You have so much more value than just the sex that you can bring. I hope you can see it. Because quite honestly, you're worth the wait, and so am I.
+And women perpetuate it by allowing men to have access to them so easily. There’s so much depth to me. I am more than just a pretty face. I have placed value on myself, which is why I won't let a man have access to me in that way. That is reserved for the one I marry.&nbsp;
+
+I believe there is a real blessing and benefit in waiting until marriage to have sex. These are some of the reasons why, and I honestly encourage others to do the same.
+
+Men, women, I’m speaking to both of you. You have so much more value than just the sex that you can bring. I hope you can see it. Because quite honestly, you're worth the wait, and so am I.
