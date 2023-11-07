@@ -74,6 +74,8 @@ Leave the excuses for other people, but hold yourself to a higher standard. This
 
 Taking aggressive responsibility for your life puts you in a position for personal growth and greater self-esteem.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Forgive your parents
 
 People often bring up parental issues when it serves them.
@@ -164,6 +166,8 @@ Here’s how to mature as a man:
 * Embrace the unfamiliar
 
 Hope that helps. The rest is up to you.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ### References:
 
