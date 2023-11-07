@@ -12,7 +12,7 @@ description: >-
   marriage. I am not embarrassed by that at all. There's a stereotype in
   people's minds when they think of someone who is a virgin and I actually want
   to shatter the stereotype."
-image:
+image: /assets/images/drafts/monique-de-leon-1.jpeg
 ---
 ***This is a guest post by Monique De Leon. She is a worship leader, author and motivational speaker who travels internationally inspiring others through music, writing, and bold messages on modern topics.***
 
@@ -52,7 +52,7 @@ But I’ve chosen otherwise. It's honestly a bit amusing to see people's reactio
 
 So, I have experienced an array of responses throughout the years.
 
-## **Dating**
+## **What it's been like dating with a commitment to wait until marriage**
 
 Contrary to popular belief, I have had no trouble dating. Simply because I only date men who are remaining abstinent themselves. There are actually numerous individuals out there who are abstinent. They may not be virgins, but they have chosen that this time around they're going to wait until marriage.
 
@@ -62,21 +62,21 @@ That’s not to say that I can’t be tempted though. People tend to think that 
 
 I found that I have actually earned the respect of a lot of men. Because they have an understanding that on any given day, I can be just like everyone else. But I'm choosing to give my future husband the gift of all of me on our wedding day. Something that is actually very beautiful.
 
-## **It's more than "just sex"**
+## I'm still a virgin because sex more than "just sex"
 
 You see, that's just it. We have lost the value of marriage in our culture, and thus the value of sex. Sex has been reduced to just something so small and insignificant, like it's no big deal. It doesn't mean anything. "It's just sex." It's so much more than that.
 
 I believe that we have not been taught the whole picture of sex. We do not have a healthy respect for sex like we should. Sex is not just physical. But it's also emotional and spiritual. Let me show you.
 
-### Physical
+### Physical safety
 
 Obviously, sex feels good, which is why people engage in it all the time. Now, I know you know this, but I don’t believe people realize how powerful sex is. Think about it.
 
 When you engage in sex, you can literally create another human being by doing this one act. No other work required. That's pretty powerful! And people have sex all the time with people they don't want a child with.
 
-Personally, I only want to have a child with the man that I marry. So, that's one reason why I'm waiting. But also, when it comes to STDs/STIs. Did you know that 1 in 5 Americans has an STD? And that number is climbing. Quite honestly, it's just not safe sleeping around out here nowadays.
+Personally, I only want to have a child with the man that I marry. So, that's one reason why I'm waiting. But also, when it comes to STDs/STIs. Did you know that [1 in 5 Americans has an STD](https://usafacts.org/articles/how-common-are-stds-in-the-us/)? And that number is climbing. Quite honestly, it's just not safe sleeping around out here nowadays.
 
-### Emotional
+### Emotional clarity
 
 Because of all the "feel good" chemicals that your body is releasing during sex, that is how someone can get so emotionally attached to the person they're sleeping with.
 
@@ -86,7 +86,7 @@ You don't even know them that well. Because sex is actually very intimate. It's 
 
 Why is it so horrible when a woman is raped? All the man did was have sex with her. But she didn't want that to happen, it was forced upon her. Which shows us that your emotions have a lot to do with sex. It's not just physical, it's emotional too.
 
-Science has taught us that you can literally absorb and transfer energy to another person. So, whatever that person is dealing with, will be transferred to you as well.
+Science has taught us that you can [literally absorb and transfer energy to another person](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045592#s4). So, whatever that person is dealing with, will be transferred to you as well.
 
 I had a friend who was very promiscuous in his twenties. He told me that he would notice and wonder sometimes why he was feeling depressed, or drink more. He couldn't understand why he was having anxiety, because that wasn't him. He didn't struggle with any of those things. He said it dawned on him one day that the only thing that was different in his life when he was feeling this way were the women he was sleeping with.
 
