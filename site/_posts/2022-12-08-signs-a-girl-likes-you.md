@@ -32,7 +32,7 @@ Below are some ways to tell if the body language is romantic in nature.
 
 ### Long eye contact
 
-Eye contact among mammals is a communication device that enhances arousal and in-person social contact.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> In many animals, it’s a sign of dominance or aggression. This aggression is also a reason you’ll see fighters not making eye contact before a match—they get too fired up.
+Eye contact among mammals is a communication device that enhances arousal and in-person social contact.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> In many animals, it’s a sign of dominance or aggression. This aggression is also a reason you’ll see fighters not making eye contact before a match—they get too fired up.
 
 When a woman makes long eye contact with a man, however, it's a good sign she is open to you making the first move. This may be coupled with her absentmindedly stroking her hair, exposing her thighs, or blushing.
 
@@ -51,6 +51,8 @@ Closed body language looks like:
 * Legs crossed but the knees are pointed away from you
 
 The opposite position of these may be signs of interest and romantic attraction. For instance, loose, relaxed arms may be a signal that she is open to talking. When coupled with grooming, sticking her chest out, or flipping her hair this is usually a sign she is into you.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ### Wanting to talk to you
 
@@ -80,7 +82,7 @@ She might even say something like “you're like a brother to me” or “you’
 
 A good sales tactic is going into a sales call with the expectation that you won’t make the sale. Or knowing you have options and you don’t NEED their business. No one likes neediness, not clients and not potential romantic partners.
 
-It’s proven that when you have other women pursuing you, you are more attractive.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+It’s proven that when you have other women pursuing you, you are more attractive.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
 * **She avoids your subtle cues or signs of affection**
 
@@ -102,10 +104,10 @@ So when you do find someone, here are the signs a girl likes you:
 * She makes a clear attempt to get to know you
 * She’ll just tell you she likes you
 
-{% include widgets/summary.html id="Essays-Of-Power" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Jarick, Michelle, and Renee Bencic. "Eye Contact Is a Two-Way Street: Arousal Is Elicited by the Sending and Receiving of Eye Gaze Information." <em>Frontiers in Psychology</em> <em>10</em>, (2019). Accessed December 5, 2022. <a href="https://doi.org/10.3389/fpsyg.2019.01262">https://doi.org/10.3389/fpsyg.2019.01262</a>.&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Gouda-Vossos, A., Nakagawa, S., Dixson, B.J.W. et al. Mate Choice Copying in Humans: a Systematic Review and Meta-Analysis. Adaptive Human Behavior and Physiology 4 <em>Springer Link</em>, 364–386 (2018). Accessed December 5, 2022. <a href="https://doi.org/10.1007/s40750-018-0099-y">https://doi.org/10.1007/s40750-018-0099-y</a>&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Jarick, Michelle, and Renee Bencic. "Eye Contact Is a Two-Way Street: Arousal Is Elicited by the Sending and Receiving of Eye Gaze Information." <em>Frontiers in Psychology</em> <em>10</em>, (2019). Accessed December 5, 2022. <a href="https://doi.org/10.3389/fpsyg.2019.01262">https://doi.org/10.3389/fpsyg.2019.01262</a>.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Gouda-Vossos, A., Nakagawa, S., Dixson, B.J.W. et al. Mate Choice Copying in Humans: a Systematic Review and Meta-Analysis. Adaptive Human Behavior and Physiology 4 <em>Springer Link</em>, 364–386 (2018). Accessed December 5, 2022. <a href="https://doi.org/10.1007/s40750-018-0099-y">https://doi.org/10.1007/s40750-018-0099-y</a>&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li></ol></div>
