@@ -37,8 +37,6 @@ A high-value male has hit an objective standard in these 4 areas otherwise. It d
 
 This article tells you the 4 unfakeable traits of a high-value man.
 
-{% include widgets/toc.html heading="The 4 unfakeable traits of high value men" list-items="Income above 6 figures for at least 3 consecutive years , Visible and verifiable, Strong network of other high-value men, Physical optimization" list-ids="income-above-6-figures-for-at-least-3-consecutive-years, visible-and-verifiable, strong-network-of-other-high-value-men, physical-optimization" %}
-
 ## Income above 6 figures for at least 3 consecutive years
 
 Resources have always been one of the primary ways that humans keep score. As the old saying goes, ***“He who has the gold makes the rules.”***
@@ -71,6 +69,8 @@ Anyone can say that they’re anything. They can even fabricate their own story 
 If you tell me that you played a professional sport, there will surely be proof somewhere of your performance. I can easily type your name into Google and see types of press and mentions of you.
 
 If you tell me that you run a marketing agency and I can’t find anything about you or your agency when I try to look you up, you’ve put me in a position of having to trust your word. I don’t know if you’re telling the truth or not, but part of being a high-value man is that people should not have to worry about that.
+
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ## Strong network of other high-value men
 
@@ -125,3 +125,5 @@ This list weeds out the fakers and the wannabes that are low-value men. Notice w
 * **Your mindset.**&nbsp;Being focused on self-improvement and trying to level up is nice, but we only deal in results. No one gives a damn about what’s going on in your head if it doesn’t have an effect on the physical world. If I can’t measure it, it doesn’t exist in this context.&nbsp;
 
 Now you know what makes a high-value man. The rest is up to you.
+
+{% include widgets/summary.html id="Attractive-Man" %}
