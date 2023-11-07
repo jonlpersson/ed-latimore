@@ -60,6 +60,8 @@ Learning the archetypes gives you such an advantage because it helps you get str
 
 Check out his [“Dress Like a Man” course](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq) to learn how to dress well, while staying true to your personality and strengths.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Go for fit and quality
 
 Men’s fashion also doesn’t mean buying up trendy fashion brands to keep up with what’s cool. Fashion trends have their place, but the best thing you can do is buy well-made clothes that fit your body type.
@@ -125,4 +127,4 @@ Let’s recap what you need to know…
 
 As men, we’re obligated to create our value. Start with these men’s fashion tips, and while you’re at it, learn about the [9 qualities of masculinity](https://edlatimore.com/how-to-be-a-man/), and ways you can [become more physically attractive to women](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/).
 
-{% include widgets/summary.html id="dress-like-a-man" %}
+{% include widgets/summary.html id="Attractive-Man" %}
