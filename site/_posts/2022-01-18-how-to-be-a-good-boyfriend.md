@@ -31,8 +31,6 @@ Now, hopefully, you can use my pain as a shortcut to creating lasting healthy re
 
 Here are my best tips for how to be a good boyfriend.
 
-{% include widgets/toc.html heading="How to be a good boyfriend" list-items="Do you even have self-worth bro?, Calibrate your EQ, Always be growing, Hold her accountable, Don&rsquo;t be a white knight" list-ids="know-your-value, develop-emotional-intelligence, keep-it-fresh, hold-her-accountable, dont-be-a-white-knight" %}
-
 ## Know your value
 
 Knowing your value helps you create boundaries and sets the expectations for the type of relationship you want to develop.
@@ -41,7 +39,7 @@ For some men, any woman will do. This is largely because modern society doesn’
 
 I’ve written extensively on [how to determine the right woman for you](https://edlatimore.com/how-to-get-into-a-relationship/) to help you avoid this pitfall. But choosing well is a side effect of knowing your value and what you want from life.
 
-Another word for this is self-worth. In psychology, self-worth<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is how you measure your own abilities and your ability to perform well in things that matter to you. You can have high self-worth in your physical abilities and low self-worth in a professional setting, for example. Low self-worth translates to low self-esteem and making bad relationship choices.
+Another word for this is self-worth. In psychology, self-worth<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is how you measure your own abilities and your ability to perform well in things that matter to you. You can have high self-worth in your physical abilities and low self-worth in a professional setting, for example. Low self-worth translates to low self-esteem and making bad relationship choices.
 
 Try these things to increase your sense of self-worth:
 
@@ -51,9 +49,9 @@ Try these things to increase your sense of self-worth:
 
 ## Develop emotional intelligence
 
-Emotional intelligence (EQ) is social lubricant. People who have higher levels of emotional intelligence have more success at work and in interpersonal relationships.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Emotional intelligence (EQ) is social lubricant. People who have higher levels of emotional intelligence have more success at work and in interpersonal relationships.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
-EQ is your awareness of your own and others’ emotions and your ability to adjust for relationship improvement.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+EQ is your awareness of your own and others’ emotions and your ability to adjust for relationship improvement.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
 
 Be mindful that emotional intelligence is not simply being emotional. It’s your ability to manage your emotions. People who are self-aware and have high EQ understand that their thoughts create their emotions and actions. They also recognize that the things they say and do have consequences. This key skill helps you actively listen to your significant other, defuse arguments before they start, and tap into what you both need to thrive.
 
@@ -65,9 +63,11 @@ What EQ *doesn’t* look like:
 * Unwillingness to change when necessary
 * Passive-aggressive behavior
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## Keep it fresh
 
-Good relationships are scientifically shown to extend your life.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> Having someone that loves and supports you, increases your sense of wellbeing or wellness and can even make physical pain more bearable.
+Good relationships are scientifically shown to extend your life.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> Having someone that loves and supports you, increases your sense of wellbeing or wellness and can even make physical pain more bearable.
 
 Building this type of relationship takes time, intention, and growth that can’t be forced. There’s a common belief that the longer you are together, you’ll eventually run out of things to talk about. Meaning you’ll eventually become bored with one another.
 
@@ -93,7 +93,7 @@ When you do what serves the relationship, you don’t let behavior slide that co
 
 Even if it’s little things that seem innocuous at the moment. Things like passive-aggressiveness, making comments when you hang out with friends, or not taking responsibility for bad behavior.
 
-This goes against the common advice of being your girl's best friend. Women have historically been with men that can improve their station in life.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> In modern life, this translates to a man that knows what he wants and knows how to take the lead. Read my article on [how to take the lead in a relationship](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/) for a deeper understanding. One key to remember is to be decisive and to be the person you say you are.
+This goes against the common advice of being your girl's best friend. Women have historically been with men that can improve their station in life.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> In modern life, this translates to a man that knows what he wants and knows how to take the lead. Read my article on [how to take the lead in a relationship](https://edlatimore.com/how-to-take-the-lead-in-a-relationship/) for a deeper understanding. One key to remember is to be decisive and to be the person you say you are.
 
 While good relationships tend to develop into friendships, it’s a mistake to try to start off this way. There’s a ‘friend zone’ for a reason. Trying too hard to be your girl’s bestie will likely help you cease to be sexually attractive to her.
 
@@ -125,10 +125,10 @@ Make developing yourself a part of your life and you can’t go wrong. Remember 
 * We over me
 * Don’t pander to women, they don’t like it
 
-{% include widgets/summary.html id="Essays-Of-Power" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ---
 
 ### References
 
-<div class="footnotes" role="doc-endnotes"><ol><li id="fn:1" role="doc-endnote"><p>Ackerman C. <em>PositivePsychology.com:</em> What is Self-worth and How Do We Increase it? August 2021. <a href="https://positivepsychology.com/self-worth/">https://positivepsychology.com/self-worth/</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:1">↩</a></p></li><li id="fn:2" role="doc-endnote"><p>Dorrance Hall E. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/conscious-communication/201806/building-emotional-intelligence-better-relationships">Building Emotional Intelligence for Better Relationships</a>. June 2018. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:2">↩</a></p></li><li id="fn:3" role="doc-endnote"><p>Mayer J. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/the-personality-analyst/200909/what-emotional-intelligence-is-and-is-not">What Emotional Intelligence Is Not</a>. September 2009. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:3">↩</a></p></li><li id="fn:4" role="doc-endnote"><p>Mineo, Liz. <em>The Harvard Gazette</em> <a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">Good Genes are nice, but joy is better</a>. April 2017. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:4">↩</a></p></li><li id="fn:5" role="doc-endnote"><p>Hymowitz K. _Institute for Family Studies: _Whither Hypergamy? January 2020. <a href="https://ifstudies.org/blog/whither-hypergamy">https://ifstudies.org/blog/whither-hypergamy</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" role="doc-backlink" href="#fnref:5">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Ackerman C. <em>PositivePsychology.com:</em> What is Self-worth and How Do We Increase it? August 2021. <a href="https://positivepsychology.com/self-worth/">https://positivepsychology.com/self-worth/</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Dorrance Hall E. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/conscious-communication/201806/building-emotional-intelligence-better-relationships">Building Emotional Intelligence for Better Relationships</a>. June 2018. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Mayer J. Ph.D. <em>Psychology Today:</em> <a href="https://www.psychologytoday.com/us/blog/the-personality-analyst/200909/what-emotional-intelligence-is-and-is-not">What Emotional Intelligence Is Not</a>. September 2009. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li><li><p>Mineo, Liz. <em>The Harvard Gazette</em> <a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">Good Genes are nice, but joy is better</a>. April 2017. (accessed Jan. 2022)&nbsp;<a class="reversefootnote" href="#fnref:4">↩</a></p></li><li><p>Hymowitz K. _Institute for Family Studies: _Whither Hypergamy? January 2020. <a href="https://ifstudies.org/blog/whither-hypergamy">https://ifstudies.org/blog/whither-hypergamy</a> (accessed Jan. 2022)&nbsp;<a class="reversefootnote" href="#fnref:5">↩</a></p></li></ol></div>
