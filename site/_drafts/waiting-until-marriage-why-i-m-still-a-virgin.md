@@ -86,19 +86,24 @@ The people you lay with affect you. There's a transfer that takes place when you
 
 ### Spiritual
 
-For me, this is the biggest reason. As someone who believes in the Bible and does my best to live a life according to scripture, I choose to wait. Now, even if you don't believe in God or practice another faith this principle can still apply. You see, this is how we learn that sex is so binding. In Genesis it talks about a man leaving his father and mother to be joined to his wife, and that they will become one flesh. That word "joined" literally means bound to, connected to, attached to. So, sex binds you with a person on all levels.
+For me, this is the biggest reason. As someone who believes in the Bible and does my best to live a life according to scripture, I choose to wait.
 
-*Physically*\- because you're participating in the act of it
+Now, even if you don't believe in God or practice another faith this principle can still apply. You see, this is how we learn that sex is so binding. In Genesis it talks about a man leaving his father and mother to be joined to his wife, and that they will become one flesh. That word "joined" literally means bound to, connected to, attached to. So, sex binds you with a person on all levels.
 
-*Emotionally*\- because there's a transference that takes place
+* *Physically*\- because you're participating in the act of it
+* *Emotionally*\- because there's a transference that takes place
+* *Spiritually*\- because you're fulfilling something God created and designed
+* There's no other way for two people to be so intimately connected than through sex.
 
-*Spiritually*\- because you're fulfilling something God created and designed
+## **Value**
 
-There's no other way for two people to be so intimately connected than through sex.
+When choosing a life partner, it’s hard to be objective when you’re sexually intimate with someone.
 
-**Value**
+* Are you really that compatible with them?
+* Do you actually have the same values and outlook on life?
+* Do you honestly even like this person?
 
-When choosing a life partner, it’s hard to be objective when you’re sexually intimate with someone. Are you really that compatible with them? Do you actually have the same values and outlook on life? Do you honestly even like this person? I believe there is a real value in waiting until marriage. If you remove sex from many relationships, you will see they have no depth. It’s surface level only.&nbsp;
+I believe there is a real value in waiting until marriage. If you remove sex from many relationships, you will see they have no depth. It’s surface level only.&nbsp;
 
 There is such a lack of discipline and self-control in our culture today. People aren't encouraged to reign in their sexual appetites and practice some self-control. Because if you don’t learn to control *it*, then *it* will control you. And if you don’t know how to be disciplined as a single person, you will struggle in being disciplined in marriage or even in a serious relationship.
 
