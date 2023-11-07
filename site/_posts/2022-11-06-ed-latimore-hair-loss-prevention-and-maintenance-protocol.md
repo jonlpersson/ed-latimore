@@ -77,6 +77,8 @@ This will be accomplished for a fraction of the cost of a full-blown FUE transpl
 
 Even the most expensive version of this protocol will cost less than $100/month and it will \*definitely\* (95-99%) stop your hair loss. It will \*almost certainly” (70-95%) thicken the hair you have remaining (why this program is ideal for catching hair loss early, and it has a \*pretty good chance\* (50-60%) of regrowing your hair.
 
+{% include widgets/summary.html id="Attractive-Man" %}
+
 ## How DHT works and why it causes hair loss
 
 Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is a vital hormone for masculinity.&nbsp;
@@ -120,7 +122,7 @@ In that research, the majority of scalp samples had elevated levels of lymphocyt
 
 If you’ve never heard this before, it might sound far fetched, but the main cause of dandruff is not actually dry skin. It’s a fungus known as malassezia and it exists on the scalp of most adults. Now, if most people have this fungus on their scalp but not everyone suffers from a receding crown or temples, then what’s going on here?
 
-Well, it’s not exactly that fungus but it’s some fungus. And we know that by treating the scalp with antimicrobials and antifungals, we promote hair regrowth and a decrease of the markers of inflammation. [From this study on treatment with antimicrobial and antifungal lotion](https://www.tandfonline.com/doi/abs/10.3109/09546639609086877)\:
+Well, it’s not exactly that fungus but it’s some fungus. And we know that by treating the scalp with antimicrobials and antifungals, we promote hair regrowth and a decrease of the markers of inflammation. [From this study on treatment with antimicrobial and antifungal lotion](https://www.tandfonline.com/doi/abs/10.3109/09546639609086877):
 
 *Androgenetic alopecia (AGA) is a common yet poorly understood condition. In particular, the significance of inflammatory cells close to the infrainfundibulum of transitional hairs remains obscure. This study was conducted in 20 men who used a lotion containing the antimicrobials, piroctone olamine and triclosan, regularly for 18 months. At entry, mild pruritus and abnormal hair loss were reported by the volunteers. During treatment, pruritus resolved rapidly. Comparison of clinical photographs and trichograms taken at 3-month intervals suggested signs of hair regrowth with moderate increase in density of transitional hairs.*
 
@@ -265,3 +267,5 @@ I wrote even more about the technology of the LLLT cap here—&gt;[How LLLT work
 If you follow this hair loss protocol, you’ve got a great shot at slowing down your hair loss IF it’s caused by androgenetic alopecia. There’s a good chance this is you, so this protocol will do great and buy you some time until you can save up for a more permanent solution—like an FUE.
 
 Until then, the rest is up to you.&nbsp;
+
+{% include widgets/summary.html id="Attractive-Man" %}
