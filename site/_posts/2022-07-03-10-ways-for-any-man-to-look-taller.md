@@ -142,4 +142,19 @@ Vertical stripes have the opposite effect as horizontal stripes. Horizontal line
 
 This sweater is the closest thing I have to vertical stripes. I personally don’t have many striped outfits in either direction, but all vertical lines have a lengthening effect on your physique.
 
+## To sum up everything on how to look taller
+
+Looking taller begins with mindset. Own your height and focus on elevating your confidence, style, and swagger. But you can also employ proven style techniques:
+
+* Wear lifts and shoes with height-enhancing insoles or platforms. Add 1-3 inches discreetly.
+* Lose excess body fat through nutrition and exercise. A slimmer physique appears elongated.
+* Stand and sit tall. Improving posture can add up to 3 inches alone. Use posture trainers.
+* Stick to well-fitted, monochrome outfits. Ill-fitting and busy clothes shorten proportions.
+* Wear high-waisted pants and fitted blazers to draw the eye upwards. Shorter jackets elongate legs.
+* Fashion taller hairstyles and don hats. They extend your height. Avoid thick belts which divide and hem the body.
+
+By implementing these proven style hacks and maintaining confident body language, you can maximize your height. But remember - your character determines true stature. Focus on elevating all aspects of yourself, not just inches.
+
+The rest is up to you
+
 {% include widgets/summary.html id="Attractive-Man" %}
