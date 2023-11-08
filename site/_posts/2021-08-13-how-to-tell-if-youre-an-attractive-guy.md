@@ -42,6 +42,8 @@ Alright, now that we’ve got that out of the way, let’s get to the good stuff
 
 If any of the 7 traits below sound familiar, you’ve got that sauce.
 
+{% include widgets/summary.html id="Attractive-Guy" %}
+
 ## 1\. People are surprised when you talk about your challenges
 
 People inherently believe that attractive people are happier and have more good things going for them. So when you share any insecurities or a challenge you’re facing, it's not uncommon for people to be shocked to hear this if you're a good-looking guy.
@@ -222,3 +224,5 @@ Here are the clues that you’re an attractive guy:
 7. You understand that attractiveness can be built on and improved
 
 At the end of the day, you may not have been born an Adonis figure but that doesn't matter. You can make yourself more attractive to the opposite sex with a little effort in your look and some hard work on your personality.
+
+{% include widgets/summary.html id="Attractive-Guy" %}
