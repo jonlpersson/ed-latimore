@@ -60,7 +60,7 @@ For most of my adult life, I was 6’0”. Then, when I was 28, I enlisted in th
 
 After 10 weeks of basic training and 16 weeks of advanced individual training, I got measured at my first Army Physical Fitness Test (APFT) and I had grown—at age 29—over an inch and a half to be almost 6’2”.
 
-It’s not that I actually experienced cell division that would cause me to increase my height. Rather, after 26 weeks of standing at attention and parade rest in formations that were inspected daily, I improved my posture—and I didn’t even think that I had bad posture\!
+It’s not that I actually experienced cell division that would cause me to increase my height. Rather, after 26 weeks of standing at attention and parade rest in formations that were inspected daily, I improved my posture—and I didn’t even think that I had bad posture!
 
 I strongly recommend you start training to improve your posture.
 
@@ -69,6 +69,8 @@ Most people do not have good posture. Correcting bad posture can result in a 1-2
 Good posture also accentuates the neckline, giving an even better appearance of height. This is an easy lay-up and is almost certainly an area where you can gain an extra 1-2 inches in height.
 
 ***Posture trainers like the following are what I used to help keep my posture gains after I got out of the military. Wearing one will save you from getting a hump in your back in your thirties from sitting at a desk 8-10 hours a day—&gt;[Posture training devices here](https://amzn.to/3NA2eSF){: target="_blank" rel="noopener"}***
+
+{% include widgets/summary.html id="Attractive-Man" %}​​
 
 ## Wear fitted clothing
 
@@ -140,4 +142,4 @@ Vertical stripes have the opposite effect as horizontal stripes. Horizontal line
 
 This sweater is the closest thing I have to vertical stripes. I personally don’t have many striped outfits in either direction, but all vertical lines have a lengthening effect on your physique.
 
-&nbsp;
+{% include widgets/summary.html id="Attractive-Man" %}
