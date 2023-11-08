@@ -85,7 +85,7 @@ A core tenet of Taoism is the uncarved block. This roughly translates into ‘th
 
 All addictions, including sex addiction, function as a coping mechanism to fix something that’s broken. My take on quitting porn is from personal experience. It’s not to shame you for your porn consumption or make wild claims about the negative effects of porn.
 
-Life is better when you try to fix that thing rather than hide from it. I’ve written extensively on how to quit porn in my course [Dick Detox: The Ultimate Guide to Quitting Porn](https://edlatimore.com/resources/dick-detox/) and also in my [7-step guide to quitting porn](https://edlatimore.com/how-to-quit-porn/) article.
+Life is better when you try to fix that thing rather than hide from it. I’ve written extensively on how to quit porn in my course [Dick Detox: The Ultimate Guide to Quitting Porn](/resources/dick-detox-the-ultimate-guide-to-quitting-porn/) and also in my [7-step guide to quitting porn](https://edlatimore.com/how-to-quit-porn/) article.
 
 Here are some notes you’ll find when you read that article:
 
@@ -121,7 +121,7 @@ Stoicism requires that you take the red pill in life. It requires that you see t
 
 Sex is a difficult emotion to control, but once controlled you can foster better relationships with others and more respect for yourself.
 
-Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers&nbsp;*[here](https://edlatimore.com/products/vicebreakers/).
+Quitting porn and alcohol was the best decision I could have made for myself. I created a course called *Vice Breakers* to help you break your worst habits and finally leave them behind for good. You can check out *Vice Breakers*&nbsp;[here](https://edlatimore.com/products/vicebreakers/).
 
 {% include widgets/summary.html id="Dick-Detox" %}
 
