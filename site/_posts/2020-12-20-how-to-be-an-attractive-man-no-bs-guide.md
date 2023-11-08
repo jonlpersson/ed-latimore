@@ -82,6 +82,8 @@ There’s not much you can do about your height or the way your face looks (apar
 
 For the other factors: grooming and fitness, there’s plenty you can do to increase your attractiveness to women.
 
+{% include widgets/summary.html id="Attractive-Guy" %}
+
 ### Haircut advice
 
 Grooming is simple for guys. Unlike most women, you don’t have to spend an hour every day putting on or taking off make-up in order to look good.
@@ -438,7 +440,7 @@ Now, I’m not suggesting that you turn yourself into someone you’re not. But 
 
 ### Confidence
 
-Women are attracted to men who are confident. They love an alpha male who will take charge of the situation. Confidence is especially important when making the first impression, psychologist Dr. Sean Murphy [explains](https://www.spsp.org/news-center/blog/romanticconfidence)\:
+Women are attracted to men who are confident. They love an alpha male who will take charge of the situation. Confidence is especially important when making the first impression, psychologist Dr. Sean Murphy [explains](https://www.spsp.org/news-center/blog/romanticconfidence):
 
 > What makes confidence so attractive? One reason is that a lot of the things we want in a partner are difficult to observe directly, especially on first meeting - this includes traits like competence, drive, social status, and kindness. Because we trust that people know themselves well, and assume that their confidence (or lack thereof) reflects their actual value as a partner.
 
@@ -489,8 +491,4 @@ In order to become successful with women, you only need the fundamentals. After 
 
 But whatever you do, make sure to actually *take action*. All this knowledge I’ve shared is useless if you don’t apply it to your own life.
 
----
-
-As a final reminder, if you need help with your fashion sense, you should check out my buddy Tanner Guzy’s men’s style course, *Dress Like a Man*.
-
-{% include widgets/summary.html id="dress-like-a-man" %}
+{% include widgets/summary.html id="Attractive-Guy" %}
