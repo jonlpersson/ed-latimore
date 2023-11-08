@@ -22,7 +22,7 @@ page_blocks:
 
       Follow me [X (Twitter)](https://x.com/edlatimore),
       [LinkedIn](https://www.linkedin.com/in/edlatimore/),
-      [Youtube](youtube.com/c/EdLatimore1), or
+      [Youtube](https://www.youtube.com/c/EdLatimore1), or
       [Instagram](https://instagram.com/edlatimore). Check out past issues of
       the Stoic Street Smarts newsletter and subscribe so you never miss an
       issue.
