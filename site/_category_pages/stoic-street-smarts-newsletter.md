@@ -20,12 +20,13 @@ page_blocks:
       between.
 
 
-      Follow me [X (Twitter)](https://x.com/edlatimore),
-      [LinkedIn](https://www.linkedin.com/in/edlatimore/),
-      [Youtube](https://www.youtube.com/c/EdLatimore1), or
-      [Instagram](https://instagram.com/edlatimore). Check out past issues of
-      the Stoic Street Smarts newsletter and subscribe so you never miss an
-      issue.
+      Follow me [X (Twitter)](https://x.com/edlatimore){: target="_blank"
+      rel="noopener"}, [LinkedIn](https://www.linkedin.com/in/edlatimore/){:
+      target="_blank" rel="noopener"},
+      [Youtube](https://www.youtube.com/c/EdLatimore1){: target="_blank"
+      rel="noopener"}, or [Instagram](https://instagram.com/edlatimore){:
+      target="_blank" rel="noopener"}. Check out past issues of the Stoic Street
+      Smarts newsletter and subscribe so you never miss an issue.
 
 
       <div class="cms-embed"
