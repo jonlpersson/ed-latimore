@@ -25,7 +25,9 @@ Luck plays a significant role in the life of any successful person.
 
 Hard work is important, but a little good fortune goes a long way in being successful.
 
-Everyone's gotten a lucky break or two, but people don’t like to admit this for two big reasons:
+Everyone's gotten a lucky break or two, but people don’t like to admit this for two big
+
+reasons:
 
 1) People believe that it takes away from the effort they put in. After all, even people who are OBVIOUSLY lucky don’t like to hear that’s why they have a good life. If you reduce all success to “right place, right time,” how can you seriously be considered as a candidate for the power of initiative and hard work?
 
@@ -101,8 +103,10 @@ I used to live by the adage, “When you’re good, you tell other people, but w
 
 It’s great when those people find you, but it’s even more powerful when you start to seek them out.
 
-## The Spatial Volume of Luck
+## The Spatial Volume of Success
 
 If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life. However, what if you could take that luck to the next level, and start floating through life as gods of luck choose to specifically smile at you and only you?
 
 Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
+
+![](/assets/images/posts/4-2.png){: width="1080" height="1080"}
