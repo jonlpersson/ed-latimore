@@ -67,4 +67,4 @@ I’ve always loved this quote because it reflects my general experience. The be
 
 We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as work is dependent on time.&nbsp;
 
-![](/assets/images/posts/1-1.png){: width="1080" height="1080"}
+![](/assets/images/posts/1-2.png){: width="1080" height="1080"}
