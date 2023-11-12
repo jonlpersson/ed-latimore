@@ -1,7 +1,7 @@
 ---
 date: 2023-11-11 14:00:00 -0500
 article_type: Article
-title: 'Beyond the surface area of luck: Lady luck in 4-D'
+title: 'From 2-D for 4-D: Beyond the surface area of luck'
 permalink: /beyond-the-surface-area-of-luck/
 categories:
   - Stoic-Street-Smarts-Newsletter
@@ -109,7 +109,7 @@ If you did nothing else but become proficient at valuable skills, you’d attrac
 
 Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
 
-![](/assets/images/posts/4-2.png){: width="1080" height="1080"}
+![The Spacial Area Of Success](/assets/images/posts/4-2.png "When you start seeking connections, your success explodes"){: width="1080" height="1080"}
 
 Another way to think of this dimension is as “cold outreach.” Cold outreach is when you’ve got no relationship or connection with the prospect you’re offering your services to. These are connections that must be created and, in doing so, they add a new dimension to the surface area of luck, transforming it into the spatial volume of success.&nbsp;
 
@@ -120,6 +120,10 @@ They can more easily verify that you’re someone worth working with by looking 
 Cold outreach - contacting people you don't know - works best when you're already on a hot streak of success. We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
 
 But cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities. When you contact strangers with a solid reputation and resume, they can readily verify you're worth collaborating with. They can see your accomplishments by looking at your portfolio or asking around.
+
+This is typically what people think of as network, but the secret is that there is no networking. There is only being good at something, letting people discover it, and then then offering your services to them.&nbsp;
+
+{% twitter https://twitter.com/EdLatimore/status/1081045781270925314 %}
 
 A track record of success gives cold outreach more power. Strangers are more open to forming new partnerships if your reputation already speaks for itself. Momentum in other areas smooths the way for expanding your network through cold contact.
 
