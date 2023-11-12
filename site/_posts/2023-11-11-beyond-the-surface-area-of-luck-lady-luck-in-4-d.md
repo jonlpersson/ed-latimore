@@ -103,10 +103,6 @@ It’s great when those people find you, but it’s even more powerful when you 
 
 ## The Spatial Volume of Luck
 
-
-
 If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life. However, what if you could take that luck to the next level, and start floating through life as gods of luck choose to specifically smile at you and only you?
-
-
 
 Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
