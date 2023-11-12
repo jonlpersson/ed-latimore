@@ -110,3 +110,17 @@ If you did nothing else but become proficient at valuable skills, you’d attrac
 Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
 
 ![](/assets/images/posts/4-2.png){: width="1080" height="1080"}
+
+Another way to think of this dimension is as “cold outreach.” Cold outreach is when you’ve got no relationship or connection with the prospect you’re offering your services to. These are connections that must be created and, in doing so, they add a new dimension to the surface area of luck, transforming it into the spatial volume of success.&nbsp;
+
+The more progress you’ve made along the dimensions of work and opportunity, the easier it will be to progress along the dimension of connections. Doing valuable work and taking advantage of the opportunities that brings you makes people far more receptive when you reach out to them.
+
+They can more easily verify that you’re someone worth working with by looking at your resume of work, asking around, or looking you up.&nbsp;
+
+Cold outreach - contacting people you don't know - works best when you're already on a hot streak of success. We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
+
+But cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities. When you contact strangers with a solid reputation and resume, they can readily verify you're worth collaborating with. They can see your accomplishments by looking at your portfolio or asking around.
+
+A track record of success gives cold outreach more power. Strangers are more open to forming new partnerships if your reputation already speaks for itself. Momentum in other areas smooths the way for expanding your network through cold contact.
+
+*“Half of these n$A\*\*s tellin’ lies, they just sound true. Shit, if you had it like that, I woulda found you.” —Young Jeezy, “This one’s for you”*
