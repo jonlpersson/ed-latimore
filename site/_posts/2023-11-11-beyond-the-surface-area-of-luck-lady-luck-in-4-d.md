@@ -69,7 +69,7 @@ I’ve always loved this quote because it reflects my general experience. The be
 
 We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as opportunity is dependent on work.&nbsp;
 
-![](/assets/images/posts/1-2.png){: width="1080" height="1080"}
+![The surface area of luck](/assets/images/posts/1-2.png "Opportunity is a function of valuable work"){: width="1080" height="1080"}
 
 Luck is found in the area formed under the intersection of work and opportunity. You can increase this area by doing more work or cultivating more opportunities. I’ll define “work” and “opportunities” more precisely, but I first want to deliver a caveat:
 
@@ -132,3 +132,11 @@ This is typically what people think of as network, but the secret is that there 
 A track record of success gives cold outreach more power. Strangers are more open to forming new partnerships if your reputation already speaks for itself. Momentum in other areas smooths the way for expanding your network through cold contact.
 
 *“Half of these n$A\*\*s tellin’ lies, they just sound true. Shit, if you had it like that, I woulda found you.” —Young Jeezy, “This one’s for you”*
+
+
+
+## More swings at bat = more home runs
+
+If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
+
+The only way to get more home runs is to swing at more pitches. This takes time, bringing us to the fourth and final dimension.
