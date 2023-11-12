@@ -101,17 +101,19 @@ Some of those opportunities will be directly related to the skills that brought 
 
 Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you are talented.
 
-I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.” While this is still mostly true, the world is a noisy place. Markets are not oversatured as much as they are crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
+I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.” While this is still mostly true, the world is a noisy place. Markets are not oversaturated as much as they are crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
 
 It’s great when those people find you, but it’s even more powerful when you start to seek them out.
 
 ### What happens when you don't work?
 
-
+![](/assets/images/posts/2-4.png){: width="1080" height="1080"}
 
 > "You don't hustle, you don't eat"—Diddy
 
-If you don't do any work, you never open up opportunities for yourself. Unless you're born into a success family, you will almost never just be given an opportunity.
+If you only do low-value work, you never open up opportunities for yourself. Unless you're born into a success family, you will almost never just be given an opportunity.
+
+Opportunities find people who are worthy of them. It's hard to go noticed if you a good job on jobs that are hard to do.&nbsp;
 
 ## The Spatial Volume of Success
 
