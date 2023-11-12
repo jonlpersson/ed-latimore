@@ -27,6 +27,8 @@ Hard work is important, but a little good fortune goes a long way in being succe
 
 Everyone's gotten a lucky break or two, but people don’t like to admit this for two big
 
+
+
 reasons:
 
 1) People believe that it takes away from the effort they put in. After all, even people who are OBVIOUSLY lucky don’t like to hear that’s why they have a good life. If you reduce all success to “right place, right time,” how can you seriously be considered as a candidate for the power of initiative and hard work?
@@ -141,4 +143,16 @@ If your batting average is .3, you’ll hit the ball 3 of 10 times that you swin
 
 The only way to get more home runs is to swing at more pitches. This takes time, bringing us to the fourth and final dimension.
 
-![](/assets/images/posts/spacetimedomainofgrit.png){: width="1080" height="1080"}
+![Space-time domain of grit](/assets/images/posts/spacetimedomainofgrit.png "Fall seven times, get back up eight"){: width="1080" height="1080"}
+
+Success takes time. Many of your attempts will not yield a successful result. However, this does not mean you stop working. All it means is that you have to keep going.
+
+Consistency is king, but it only has power when you’re able to do it in the face of failure.
+
+“Success is stumbling from failure to failure with no loss of enthusiasm.”—Winston Churchill
+
+The ability to do this is called “grit.”
+
+It's grit that separates those who persevere from those who quit. Grit fuels the persistence to pick ourselves up after defeats and disappointments. It provides the tenacity to keep moving forward, even inch by inch, when progress seems elusive.
+
+True success goes to those willing to stumble repeatedly yet maintain their zeal. Each fall leaves bruises but also offers lessons. With grit, we find the resolve to learn from failures, adjust our approach, and try again.
