@@ -107,7 +107,7 @@ It’s great when those people find you, but it’s even more powerful when you 
 
 If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life. However, what if you could take that luck to the next level, and start floating through life as gods of luck choose to specifically smile at you and only you?
 
-Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
+Then you’ll have to add a third dimension to the system. When you add the third dimension of “connections," then you start to cook with gas.&nbsp;
 
 ![The Spacial Area Of Success](/assets/images/posts/4-2.png "When you start seeking connections, your success explodes"){: width="1080" height="1080"}
 
