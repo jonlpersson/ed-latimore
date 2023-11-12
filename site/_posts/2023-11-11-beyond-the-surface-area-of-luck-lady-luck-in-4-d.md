@@ -105,6 +105,14 @@ I used to live by the adage, “When you’re good, you tell other people, but w
 
 It’s great when those people find you, but it’s even more powerful when you start to seek them out.
 
+### What happens when you don't work?
+
+![](/assets/images/posts/2-3.png){: width="1080" height="1080"}
+
+> "You don't hustle, you don't eat"—Puff Daddy
+
+
+
 ## The Spatial Volume of Success
 
 If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life.
@@ -149,7 +157,7 @@ Success takes time. Many of your attempts will not yield a successful result. Ho
 
 Consistency is king, but it only has power when you’re able to do it in the face of failure.
 
-“Success is stumbling from failure to failure with no loss of enthusiasm.”—Winston Churchill
+> “Success is stumbling from failure to failure with no loss of enthusiasm.”—Winston Churchill
 
 The ability to do this is called “grit.”
 
