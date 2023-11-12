@@ -19,7 +19,7 @@ the "surface area of luck" refers to the idea that luck can be cultivated by max
 
 But is there more to luck than this, and if there is, how do we practically implement this idea into lives for better outcomes?
 
----
+## Just what is "luck"?
 
 Luck plays a significant role in the life of any successful person.
 
@@ -38,3 +38,33 @@ Before I define luck, let me warn you: it will probably differ from whatever’s
 ***Ed Latimore’s Definition Of Luck:*** Let “n” be an intended or predicted outcome. Let k be any number of events that occur because of “n.” The unintended n+k order of effects of an action is luck.
 
 Now that we know what luck is, next is the life-changing question: how do we get more of it in our lives?
+
+## A brief explanation on the idea of dimensions (You can skip if you are a physics or math person)
+
+Mathematically, a dimension refers to the minimum number of coordinates needed to specify a point in space. It describes the degrees of freedom or ways an object can move. For most conversations, there are only four-dimensional coordinates. These roughly translate roughly into:
+
+* “x” = horizontal
+* “y” = vertical
+* “z” = depth
+* “t” = time
+
+For example:
+
+* A point on a line is fully specified by one coordinate, so a line has one dimension.
+* A point on a plane requires two coordinates (e.g. x and y), so a plane has two dimensions. When we measure a flat surface, we only need two coordinates. Colloquially, we just say “length” and “width.”
+* A point in everyday space has three coordinates (x, y, z), so regular space has three dimensions. Every object you can touch has a length, width, and height.
+* Time is often discussed as a dimensional quality in everyday conversation, but think of it this way: Your body has its three dimensions, and to accurately describe you, we also mention the time we’re discussing your existence. There’s the current time you read this sentence. Now that you’re reading this next sentence, it’s a little later in time. This is important to ensure your GPS coordinates are accurate or if you ever need to provide an alibi in a court of law.
+
+The dimension of a space refers to the minimum number of coordinates or parameters needed to define a unique point in that space. It describes how many ways there are to move through that space.
+
+Now that we have primer out of the way, let’s start discussing the dimensionality of luck and we can use this idea to increase how much luck we experience in our daily lives.
+
+## “The harder I work, the luckier I get.”
+
+I’ve always loved this quote because it reflects my general experience. The better I do, the more good things seem to find me. This might frustrate “hard workers” who can’t seem to catch a break no matter how many 70-hour work weeks they put in. But let’s look at this dimensionally to explain their frustration.
+
+“Luck is when opportunity meets preparation.”
+
+We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as work is dependent on time.&nbsp;
+
+![](/assets/images/posts/1-1.png){: width="1080" height="1080"}
