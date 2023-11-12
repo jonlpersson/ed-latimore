@@ -117,7 +117,9 @@ The more progress you’ve made along the dimensions of work and opportunity, th
 
 They can more easily verify that you’re someone worth working with by looking at your resume of work, asking around, or looking you up.&nbsp;
 
-Cold outreach - contacting people you don't know - works best when you're already on a hot streak of success. We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
+### Cold outreach works best when you're already on a hot streak of success
+
+We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
 
 But cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities. When you contact strangers with a solid reputation and resume, they can readily verify you're worth collaborating with. They can see your accomplishments by looking at your portfolio or asking around.
 
