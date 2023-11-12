@@ -68,3 +68,45 @@ I’ve always loved this quote because it reflects my general experience. The be
 We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as work is dependent on time.&nbsp;
 
 ![](/assets/images/posts/1-2.png){: width="1080" height="1080"}
+
+Luck is found in the area formed under the intersection of work and opportunity. You can increase this area by doing more work or cultivating more opportunities. I’ll define “work” and “opportunities” more precisely, but I first want to deliver a caveat:
+
+### “Hard work” is not the same as “valuable work.”
+
+If you’re wondering why your situation never gets better despite working hard, it’s likely because your work isn’t valuable. How can you tell if your work is valuable? Easy: is it scarce?
+
+If you can be easily replaced or outsourced, or there is no barrier to entry for your job, then your work isn’t valuable. It may be grueling and demand 70-80 hours of your week, but if it doesn’t require a particular skill set, knowledge, or set of connections, then it’s not valuable.
+
+Your wages likely reflect that. If you’re ever in doubt, ask yourself this simple question: how quickly could your contribution to a team, company, or organization be replaced if you suddenly disappeared?
+
+**Generally speaking, the longer it takes to learn, the higher the barrier of entry, and the fewer people are who do it (well), the more valuable it is.**
+
+To remember the distinction, keep the following idea in mind:
+
+**If I hire you to dig a hole, I’m not paying you more because you used a spoon. Likewise, I’m not paying you less because it turned out to be a sinkhole.**&nbsp;
+
+### Work and opportunities
+
+In the [original post that spawned the idea of the surface area of luck](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area), The programmer Jason Roberts made an astute observation about pursuing your passions:
+
+When you take action on what deeply interests you, your expertise naturally grows. In turn, people learn about your skills and may utilize them in totally unexpected ways. This is the idea of getting your lucky break. It only comes when you take action on valuable work that that you enjoy so much that you are compelled to push yourself.&nbsp;
+
+This passion gets attention. That attention brings opportunities. When you are good at things that people find valuable, this also bestows on you a sense of competence that bleeds over into other opportunities.
+
+Some of those opportunities will be directly related to the skills that brought you attention. Others will be tangentially related. But the only way to get more opportunities to become proficient at things people find valuable.
+
+Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you are talented.
+
+I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.” While this is still mostly true, the world is a noisy place. Markets are not oversatured as much as they are crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
+
+It’s great when those people find you, but it’s even more powerful when you start to seek them out.
+
+## The Spatial Volume of Luck
+
+
+
+If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life. However, what if you could take that luck to the next level, and start floating through life as gods of luck choose to specifically smile at you and only you?
+
+
+
+Then you’ll have to add a third dimension to system. When you add the third dimension of “connections, then you start to cook with gas.&nbsp;
