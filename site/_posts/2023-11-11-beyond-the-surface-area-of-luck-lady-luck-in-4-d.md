@@ -140,3 +140,5 @@ A track record of success gives cold outreach more power. Strangers are more ope
 If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
 
 The only way to get more home runs is to swing at more pitches. This takes time, bringing us to the fourth and final dimension.
+
+![](/assets/images/posts/spacetimedomainofgrit.png){: width="1080" height="1080"}
