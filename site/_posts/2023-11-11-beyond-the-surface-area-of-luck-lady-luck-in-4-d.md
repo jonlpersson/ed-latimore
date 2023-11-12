@@ -1,5 +1,5 @@
 ---
-date: 2023-11-11 14:00:00 -0500
+date: 2023-11-13 14:00:00 -0500
 article_type: Article
 title: 'From 2-D for 4-D: Beyond the surface area of luck'
 permalink: /beyond-the-surface-area-of-luck/
