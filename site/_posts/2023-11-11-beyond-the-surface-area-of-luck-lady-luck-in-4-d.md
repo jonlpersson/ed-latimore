@@ -107,11 +107,11 @@ It’s great when those people find you, but it’s even more powerful when you 
 
 ### What happens when you don't work?
 
-![](/assets/images/posts/2-3.png){: width="1080" height="1080"}
-
-> "You don't hustle, you don't eat"—Puff Daddy
 
 
+> "You don't hustle, you don't eat"—Diddy
+
+If you don't do any work, you never open up opportunities for yourself. Unless you're born into a success family, you will almost never just be given an opportunity.
 
 ## The Spatial Volume of Success
 
