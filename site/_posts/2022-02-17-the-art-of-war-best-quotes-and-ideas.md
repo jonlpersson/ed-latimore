@@ -158,9 +158,9 @@ This also does wonders for your confidence, making it even easier for you to per
 
 > The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.
 
-It's easy to give in to your basic nature and urges. This usually results in a negative outcome. As a leader, this can have devastating effects on the morale of your team and their respect for you.
+It's easy to give in to your basic natural and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on the morale of your team and their respect for you.
 
-This is how abuses of power take place. The leader uses rank or title to take advantage or take things from his people. If you are not disciplined enough to keep your desires in check, then you can be manipulated by the enemy and lose your allies' support.
+This is how abuses of power take place. The leader uses rank or title to take advantage of or take things from his people. If you are not disciplined enough to keep your desires in check, then you can be manipulated by the enemy and lose your allies' support.
 
 This is something I learned while getting sober. Putting down the bottle made it impossible to manipulate me by offering me free drinks. It kept me out of a lot of places where there could be threats to what I valued in my life.
 
