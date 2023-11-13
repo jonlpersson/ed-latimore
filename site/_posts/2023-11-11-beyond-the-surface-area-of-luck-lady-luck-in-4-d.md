@@ -141,8 +141,6 @@ A track record of success gives cold outreach more power. Strangers are more ope
 
 *“Half of these n$A\*\*s tellin’ lies, they just sound true. Shit, if you had it like that, I woulda found you.” —Young Jeezy, “This one’s for you”*
 
-
-
 ## More swings at bat = more home runs
 
 If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
