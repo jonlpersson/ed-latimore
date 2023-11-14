@@ -38,7 +38,7 @@ Now that we know what luck is, next is the life-changing question: how do we get
 
 ## A brief explanation of the idea of dimensions (You can skip if you are a physics or math person)
 
-Mathematically, a dimension refers to the minimum number of coordinates needed to specify a point in space. It describes the degrees of freedom or ways an object can move. For most conversations, there are only four-dimensional coordinates. These roughly translate roughly into:
+Mathematically, a dimension refers to the minimum number of coordinates needed to specify a point in space. It describes the degrees of freedom or ways an object can move. For most conversations, there are only four-dimensional coordinates. These roughly translate into:
 
 * “x” = horizontal
 * “y” = vertical
@@ -68,7 +68,7 @@ We’ll consider “preparation” the same as work. They’re effectively the s
 
 ![The surface area of luck](/assets/images/posts/1-2.png "Opportunity is a function of valuable work"){: width="1080" height="1080"}
 
-Luck is found in the area formed under the intersection of work and opportunity. You can increase this area by doing more work or cultivating more opportunities. I’ll define “work” and “opportunities” more precisely, but I first want to deliver a caveat:
+Luck is found in the area formed under the intersection of work and opportunity. You can increase this area by doing more work or cultivating more opportunities. I’ll define “work” and “opportunities” more precisely.
 
 ### “Hard work” is not the same as “valuable work.”
 
