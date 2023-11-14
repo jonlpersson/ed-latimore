@@ -94,7 +94,7 @@ This is the idea of getting your lucky break. It comes when you take action on v
 
 This passion gets attention. That attention brings opportunities. When you are good at things that people find valuable, this also bestows on you a sense of competence that bleeds over into other opportunities.
 
-Some of those opportunities will directly relate to the skills that brought you attention. Others will only be tangentially related but still prove to be just as life-changing. But the only way to get more opportunities to become proficient at things people find valuable.
+Some of those opportunities will directly relate to the skills that brought you attention. Others will only be tangentially related but still prove to be just as life-changing. But the only way to get more opportunities is to become proficient at things people find valuable.
 
 Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you have talents.
 
@@ -110,17 +110,17 @@ It’s great when those people find you, but it’s even more powerful when you 
 
 > "You don't hustle, you don't eat"—Diddy
 
-If you only do low-value work, you never open up opportunities for yourself. Unless you're born into a success family, you will almost never just be given an opportunity.
+If you only do low-value work, you never create opportunities for yourself. Unless you're born into a successful family, you will almost never just be given an opportunity.
 
-Opportunities find people who are worthy of them. It's hard to go noticed if you a good job on jobs that are hard to do.&nbsp;
+Opportunities find people who are worthy of them. It's hard to go unnoticed if you do a good job on jobs that are hard to do.
 
 ## The Spatial Volume of Success
 
 If you did nothing else but become proficient at valuable skills, you’d attract enough attention to manifest tremendous amounts of luck in your life.
 
-However, what if you could take that luck to the next level and start floating through life as gods of luck choose to specifically smile at you and only you?
+However, what if you could take that luck to the next level and start floating through life as if the gods of luck choose to smile at you and only you specifically?
 
-You’ll have to add a third dimension to the system. When you add “connections," you really start cooking with gas.&nbsp;
+You’ll have to add a third dimension to the system. When you add “connections," you really start cooking with gas.
 
 ![The Spacial Area Of Success](/assets/images/posts/4-2.png "When you start seeking connections, your success explodes"){: width="1080" height="1080"}
 
