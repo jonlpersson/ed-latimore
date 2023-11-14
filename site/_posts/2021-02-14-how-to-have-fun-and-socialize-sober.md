@@ -10,7 +10,7 @@ categories:
 image: /assets/images/posts/ed-doing-karaoke.jpg
 description: >-
   Most people have no idea how to socialize without the aid of alcohol and have
-  fun sober. I've been having fun sober for 8 years. Here's how to do it.
+  fun sober. I've been having fun sober since 12/23/13. Here's how to do it.
 ---
 When you make the decision to become sober, one of the most annoying things you have to deal with is your friends, family, and colleagues trying to convince you to have a drink.
 
