@@ -50,7 +50,7 @@ For example:
 * A point on a line is fully specified by one coordinate, so a line has one dimension.
 * A point on a plane requires two coordinates (e.g. x and y), so a plane has two dimensions. When we measure a flat surface, we only need two coordinates. Colloquially, we just say “length” and “width.”
 * A point in everyday space has three coordinates (x, y, z), so regular space has three dimensions. Every object you can touch has a length, width, and height.
-* Time is often discussed as a dimensional quality in everyday conversation, but think of it this way: Your body has its three dimensions, and to accurately describe you, we also mention the time we’re discussing your existence. There’s the current time you read this sentence. Now that you’re reading this next sentence, it’s a little later in time. This is important to ensure your GPS coordinates are accurate or if you ever need to provide an alibi in a court of law.
+* Time is not often discussed as a dimensional quality in everyday conversation, but think of it this way: Your body has its three dimensions, and to accurately describe you, we also mention the time we’re discussing your existence. There’s the current time you read this sentence. Now that you’re reading this next sentence, it’s a little later in time. This is important to ensure your GPS coordinates are accurate or if you ever need to provide an alibi in a court of law.
 
 The dimension of a space refers to the minimum number of coordinates or parameters needed to define a unique point in that space. It describes how many ways there are to move through that space.
 
