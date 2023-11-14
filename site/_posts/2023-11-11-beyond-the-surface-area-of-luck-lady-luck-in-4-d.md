@@ -11,11 +11,9 @@ description: >-
   outcomes. 
 image: /assets/images/posts/5-1.png
 ---
-The concept of the "surface area of luck" refers to the notion that the more opportunities you make available to yourself, the more likely it is that a fortunate event will occur.
+The "surface area of luck" refers to the idea that luck can be cultivated by maximizing your chances for positive, random opportunities through broad and diverse life experiences. Taking action expands the playing field where good fortune can take hold.
 
-The idea is that while luck can be thought of as random chance, you can increase the chances of experiencing a lucky break by maximizing your exposure to potential serendipitous events.
-
-the "surface area of luck" refers to the idea that luck can be cultivated by maximizing your chances for positive, random opportunities through broad and diverse life experiences. Taking action expands the playing field where good fortune can take hold.
+The idea is that while luck can be thought of as a random chance, you can increase the chances of experiencing a lucky break by maximizing your exposure to potential serendipitous events.
 
 But is there more to luck than this, and if there is, how do we practically implement this idea into lives for better outcomes?
 
