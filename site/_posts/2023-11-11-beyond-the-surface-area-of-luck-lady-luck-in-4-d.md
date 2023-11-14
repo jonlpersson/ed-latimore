@@ -126,11 +126,11 @@ You’ll have to add a third dimension to the system. When you add “connection
 
 Another way to think of this dimension is as “cold outreach.”
 
-Cold outreach is when you’ve got no relationship or connection with the prospect you’re offering your services to. These connections must be created and, in doing so, add a new dimension to the surface area of luck, transforming it into the spatial volume of success.&nbsp;
+Cold outreach is when you’ve got no relationship or connection with the prospect to whom you’re offering your services. These connections must be created and, in doing so, add a new dimension to the surface area of luck, transforming it into the spatial volume of success.
 
 The more progress you’ve made along the dimensions of work and opportunity, the easier it will be to progress along the dimension of connections. Doing valuable work and taking advantage of the opportunities it brings you makes people far more receptive when you reach out to them.
 
-They can more easily verify that you’re someone worth working with by looking at your resume of work, asking around, or looking you up.&nbsp;
+They can more easily verify that you’re someone worth working with by looking at your resume of work, asking around, or looking you up.
 
 ### Cold outreach works best when you're already on a hot streak of success
 
