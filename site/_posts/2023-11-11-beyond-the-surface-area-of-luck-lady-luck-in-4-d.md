@@ -36,7 +36,7 @@ Before I define luck, let me warn you: it will probably differ from whatever’s
 
 Now that we know what luck is, next is the life-changing question: how do we get more of it in our lives?
 
-## A brief explanation on the idea of dimensions (You can skip if you are a physics or math person)
+## A brief explanation of the idea of dimensions (You can skip if you are a physics or math person)
 
 Mathematically, a dimension refers to the minimum number of coordinates needed to specify a point in space. It describes the degrees of freedom or ways an object can move. For most conversations, there are only four-dimensional coordinates. These roughly translate roughly into:
 
@@ -58,7 +58,9 @@ Now that we have primer out of the way, let’s start discussing the dimensional
 
 ## “The harder I work, the luckier I get.”
 
-I’ve always loved this quote because it reflects my general experience. The better I do, the more good things seem to find me. This might frustrate “hard workers” who can’t seem to catch a break no matter how many 70-hour work weeks they put in. But let’s look at this dimensionally to explain their frustration.
+I’ve always loved this quote because it reflects my general experience. The better I do, the more good things seem to find me.
+
+This might frustrate “hard workers” who can’t seem to catch a break no matter how many 70-hour work weeks they put in. But let’s look at this dimensionally to explain their frustration.
 
 “Luck is when opportunity meets preparation.”
 
