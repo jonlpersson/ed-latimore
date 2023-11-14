@@ -136,19 +136,19 @@ They can more easily verify that you’re someone worth working with by looking 
 
 We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
 
-But cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities. When you contact strangers with a solid reputation and resume, they can readily verify you're worth collaborating with. They can see your accomplishments by looking at your portfolio or asking around.
+Cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities.&nbsp;
 
-This is typically what people think of as network, but the secret is that there is no networking. There is only being good at something, letting people discover it, and then then offering your services to them.&nbsp;
+People typically think of this as "networking," but the secret is that there is no such thing as networking. There is only being good at something, letting people discover it, and then offering your services to them.&nbsp;
 
 {% twitter https://twitter.com/EdLatimore/status/1081045781270925314 %}
 
 A track record of success gives cold outreach more power. Strangers are more open to forming new partnerships if your reputation already speaks for itself. Momentum in other areas smooths the way for expanding your network through cold contact.
 
-*“Half of these n$A\*\*s tellin’ lies, they just sound true. Shit, if you had it like that, I woulda found you.” —Young Jeezy, “This one’s for you”*
+> *“Half of these n$A\*\*s tellin’ lies, they just sound true. Shit, if you had it like that, I woulda found you.” —Young Jeezy, “This one’s for you”*
 
 ## More swings at bat = more home runs
 
-If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
+If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock one out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
 
 The only way to get more home runs is to swing at more pitches. This takes time, bringing us to the fourth and final dimension.
 
