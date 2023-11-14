@@ -78,7 +78,7 @@ If you can be easily replaced or outsourced, or there is no barrier to entry for
 
 Your wages likely reflect that. If you’re ever in doubt, ask yourself this simple question: how quickly could your contribution to a team, company, or organization be replaced if you suddenly disappeared?
 
-**Generally speaking, the longer it takes to learn, the higher the barrier of entry, and the fewer people are who do it (well), the more valuable it is.**
+**Generally speaking, the longer it takes to learn, the higher the barrier of entry, and the fewer people who do it (well), the more valuable it is.**
 
 To remember the distinction, keep the following idea in mind:
 
@@ -88,15 +88,19 @@ To remember the distinction, keep the following idea in mind:
 
 In the [original post that spawned the idea of the surface area of luck](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area), The programmer Jason Roberts made an astute observation about pursuing your passions:
 
-When you take action on what deeply interests you, your expertise naturally grows. In turn, people learn about your skills and may utilize them in totally unexpected ways. This is the idea of getting your lucky break. It only comes when you take action on valuable work that that you enjoy so much that you are compelled to push yourself.&nbsp;
+Your expertise naturally grows when you take action on what deeply interests you. In turn, people learn about your skills and may utilize them in totally unexpected ways.
+
+This is the idea of getting your lucky break. It comes when you take action on valuable work that you enjoy so much you are compelled to push yourself.&nbsp;
 
 This passion gets attention. That attention brings opportunities. When you are good at things that people find valuable, this also bestows on you a sense of competence that bleeds over into other opportunities.
 
-Some of those opportunities will be directly related to the skills that brought you attention. Others will be tangentially related. But the only way to get more opportunities to become proficient at things people find valuable.
+Some of those opportunities will directly relate to the skills that brought you attention. Others will only be tangentially related but still prove to be just as life-changing. But the only way to get more opportunities to become proficient at things people find valuable.
 
-Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you are talented.
+Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you have talents.
 
-I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.” While this is still mostly true, the world is a noisy place. Markets are not oversaturated as much as they are crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
+I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.”
+
+While this is still mostly true, the world is a noisy place. Markets are not oversaturated as much as crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
 
 It’s great when those people find you, but it’s even more powerful when you start to seek them out.
 
