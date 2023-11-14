@@ -1,5 +1,5 @@
 ---
-date: 2023-11-14 14:00:00 -0500
+date: 2023-11-14 06:00:00 -0500
 article_type: Article
 title: 'From 2-D for 4-D: Beyond the surface area of luck'
 permalink: /beyond-the-surface-area-of-luck/
@@ -156,14 +156,14 @@ The only way to get more home runs is to swing at more pitches. This takes time,
 
 Success takes time. Many of your attempts will not yield a successful result. However, this does not mean you stop working. All it means is that you have to keep going.
 
-Consistency is king, but it only has power when you’re able to do it in the face of failure.
+Consistency is king, but it only has power when you can keep it up in the face of failure.
 
 > “Success is stumbling from failure to failure with no loss of enthusiasm.”—Winston Churchill
 
 The ability to do this is called “grit.”
 
-It's grit that separates those who persevere from those who quit. Grit fuels the persistence to pick ourselves up after defeats and disappointments. It provides the tenacity to keep moving forward, even inch by inch, when progress seems elusive.
+It's grit that separates those who persevere from those who quit. Grit fuels the persistence to pick ourselves up after defeats and disappointments. It provides the tenacity to keep moving forward, even inch by inch when progress seems elusive.
 
-True success goes to those willing to stumble repeatedly yet maintain their zeal. Each fall leaves bruises but also offers lessons. With grit, we find the resolve to learn from failures, adjust our approach, and try again.
+True success goes to those who can stumble repeatedly yet maintain their zeal. Each fall leaves bruises but also offers lessons. With grit, we find the resolve to learn from failures, adjust our approach, and try again.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
