@@ -94,7 +94,7 @@ This is the idea of getting your lucky break. It comes when you take action on v
 
 This passion gets attention. That attention brings opportunities. When you are good at things that people find valuable, this also bestows on you a sense of competence that bleeds over into other opportunities.
 
-Some of those opportunities will directly relate to the skills that brought you attention. Others will only be tangentially related but still prove to be just as life-changing. But the only way to get more opportunities is to become proficient at things people find valuable.
+Some of those opportunities will directly relate to the skills that brought you attention. Others will only be tangentially related but prove to be just as life-changing. But the only way to get more opportunities is to become proficient at things people find valuable.
 
 Another way to interpret this is that you must learn to self-promote. Even if you don’t actively market yourself, it’s important that people know that you have talents.
 
@@ -124,9 +124,11 @@ You’ll have to add a third dimension to the system. When you add “connection
 
 ![The Spacial Area Of Success](/assets/images/posts/4-2.png "When you start seeking connections, your success explodes"){: width="1080" height="1080"}
 
-Another way to think of this dimension is as “cold outreach.” Cold outreach is when you’ve got no relationship or connection with the prospect you’re offering your services to. These are connections that must be created and, in doing so, they add a new dimension to the surface area of luck, transforming it into the spatial volume of success.&nbsp;
+Another way to think of this dimension is as “cold outreach.”
 
-The more progress you’ve made along the dimensions of work and opportunity, the easier it will be to progress along the dimension of connections. Doing valuable work and taking advantage of the opportunities that brings you makes people far more receptive when you reach out to them.
+Cold outreach is when you’ve got no relationship or connection with the prospect you’re offering your services to. These connections must be created and, in doing so, add a new dimension to the surface area of luck, transforming it into the spatial volume of success.&nbsp;
+
+The more progress you’ve made along the dimensions of work and opportunity, the easier it will be to progress along the dimension of connections. Doing valuable work and taking advantage of the opportunities it brings you makes people far more receptive when you reach out to them.
 
 They can more easily verify that you’re someone worth working with by looking at your resume of work, asking around, or looking you up.&nbsp;
 
