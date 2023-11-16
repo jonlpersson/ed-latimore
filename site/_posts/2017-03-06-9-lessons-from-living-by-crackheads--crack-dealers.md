@@ -3,14 +3,14 @@ date: 2017-03-06 15:08:00 -0500
 article_type: Article
 title: 9 lessons from living by crackheads & crack dealers
 permalink: /crackhead/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - life-lessons
-image: /assets/images/posts/ed-latimore-freeway-rick-ross-crackhead.png
+image: /assets/images/posts/9-things-i-learned-living-next-to-crackheads.png
 description: >-
   I grew up in the projects and learned a lot about crackheads and crack
-  dealers. Here are some little known facts about them.
+  dealers. Here are some little-known facts about them.
 ---
 In the ghetto, there are crackheads. In case you didn’t know, crackheads are people addicted to crack-cocaine. Crackheads and the ghetto go together like Kool-Aid and fried chicken.
 
