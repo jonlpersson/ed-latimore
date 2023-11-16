@@ -152,7 +152,7 @@ If you accept their invitation, it makes them feel a lot better about feeding th
 
 I didn’t learn this directly from living in the projects.
 
-I knew a guy who made home deliveries. One day (in the rash stupidity of youth), I did a ride along with him. I couldn’t come into the house and meet the clients although we were in some pretty nice areas.
+I knew a guy who made home deliveries. One day (in the rash stupidity of youth), I did a ride along with him. Although we were in some pretty nice areas, I couldn’t come into the house and meet the clients.
 
 Most clients bought “soft” (cocaine). A few wanted “hard” (crack). He told me that most of these people were doctors and lawyers.
 
@@ -160,4 +160,4 @@ This reiterates what I’ve stated earlier about drug dealers being functional i
 
 Living next to crackheads and crack dealers is something I will never do again. However, I can't deny that I've learned some things about life that you can't pay to learn.
 
-{% include widgets/summary.html id="Stoic-Street-Smarts %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
