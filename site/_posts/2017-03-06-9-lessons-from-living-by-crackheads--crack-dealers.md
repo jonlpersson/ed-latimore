@@ -22,6 +22,10 @@ I spent about 5 years living next to a certified crackhead. When I moved to anot
 
 These are my observations, lessons learned, and experiences from living next to crack dealers and crackheads.
 
+**Watch the video version of this article**
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9ocFFxUTdLckx5MD9zaT1UWE5xenZjeWJpaGNyay1PIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQqQ7KrLy0?si=TXNqzvcybihcrk-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 ## 1\. A crackhead is surprisingly functional
 
 A lot of crackheads rob and steal to get drug money. There are also quite a bit who have jobs.
@@ -155,3 +159,5 @@ Most clients bought “soft” (cocaine). A few wanted “hard” (crack). He to
 This reiterates what I’ve stated earlier about drug dealers being functional individuals. These people can hold down a job (even a damn good one) but they just like to party.
 
 Living next to crackheads and crack dealers is something I will never do again. However, I can't deny that I've learned some things about life that you can't pay to learn.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts %}
