@@ -57,10 +57,10 @@ Here are a few ways to indicate whether your degree is worth the time and money 
 * **Does it have the word "studies", "administration" or end with "-ology" in it**? If yes, then it's not rigorous enough to be of any economic value. You'll be forced to get a master's degree or higher to see a return on investment with this degree. Since you're going back to school, I'm assuming that you don't want to spend 4 more years there just to have a chance to break even. ***\[Note: Do not get a business degree. Business degrees teach you nothing about running one. All they do is signal that you were smart enough to specialize or ambition enough to start a business of your own. Sorry if you have a business degree. If you have one, then you know this is a true.\]***
 * **Does it require you to at least study Calculus 1?** If not, then it's not rigorous enough to be of any economic value. It's not that worthwhile career paths make daily use of calculus. It's just that the degrees that lead to them tend to require at least the first level of calculus. There is one notable exception.
 * **Is it in the medical field?** Nursing doesn't require Calculus, but the medical profession has extremely high demand. Be careful though, as many of the health sciences have a high demand but a relatively low salary.
-* **Can you get a paid internship that is higher than minimum wage?** If you ever have to work for free (or for a low wage), even as a student, they are–quite literally–telling you that your work is worthless. Don't expect to be paid much more when you graduate.
+* **Can you get a paid internship that is higher than minimum wage?** If you ever have to work for free (or for a low wage), even as a student, they are–quite literally–telling you that your work is worthless. Don't expect to be paid more when you graduate.
 * **Is it science, technology, engineering, or mathematics (S.T.E.M.)**? [Despite the recent national center for education statistics](https://nces.ed.gov/){: target="_blank"}, S.T.E.M. is not a automatically guarantee of a high income or career demand. Avoid biology or anything that ends with "sciences", and you'll field that most S.T.E.M. programs have a direct career path or a derivative career path that generates a decent income.
 
-There are many profitable paths that do not require a college education. You can learn a trade, become an auto mechanic, learn to code, or become a salesperson. Some of the best jobs out there don't require college. But if you want to go to college, then you need to figure out what to study based on the metrics above.
+Many profitable paths do not require a college education. You can learn a trade, become an auto mechanic, learn to code, or become a salesperson. Some of the best jobs out there don't require college. But if you want to go to college, then you need to figure out what to study based on the metrics above.
 
 Those student loans you'll probably need to take out depend on you not messing this up.
 
@@ -74,31 +74,35 @@ Now let's talk more about the money.
 
 The absolute best-case scenario is that you get some type of scholarship.
 
-As a nontraditional student, this is unlikely because many schools reserve their scholarships for high school graduates. However, there is always money to be found somewhere.
+This is unlikely as a nontraditional student because many schools reserve scholarships for high school graduates. However, there is always money to be found somewhere.
 
-Specific programs often offer scholarships based on merit. Many medical and teaching fields have tuition reimbursement and loan forgiveness deals. A google search into "scholarships" and other related terms will expose you to everything out there.
+Specific programs often offer scholarships based on merit. Many medical and teaching fields have tuition reimbursement and loan forgiveness deals. A Google search into "scholarships" and other related terms will expose you to everything available.
 
 Remember: any worthwhile scholarship will be based on merit. This means that you need to make sure that you're putting everything into each semester and getting the best grades you can.
 
-My transition from a two year to a four-year university was much easier because I got a merit scholarship as a result of my 3.9 community college GPA. The other thing that helped was that I had money from serving in the Army National Guard.
+My transition from a two year to a four-year university was much easier because I got a merit scholarship as a result of my 3.9 community college GPA. The other thing that helped was my G.I. Bill from serving in the Army National Guard.
 
-The military isn't for everyone, but it's a fantastic way to fund your education, gain useful skills, and have a potential job while you're in school. How you'll pay your bills and feed yourself while you're in college is something else you need to consider.
+The military isn't for everyone, but it's a fantastic way to fund your education, gain useful skills, and have a potential job while in school. How you'll pay your bills and feed yourself while you're in college is something else you need to consider.
 
-You may be able to get away with borrowing enough money to cover your "cost of living" (official financial aid term) for the first two years of your journey in community college, but if your program is easy enough to where you can work a full-time job and go to school full-time without giving up sleep, then it's too easy and is probably not worth the cost and time.
+You may be able to get away with borrowing enough money to cover your "cost of living" (the official financial aid term) for the first two years of your journey in community college, but if your program is easy enough to where you can work a full-time job and go to school full-time without giving up sleep, then it's too easy and is probably not worth the cost and time.
 
 You'll probably have to fill out a FAFSA for financial aid. This will go one of two ways, depending on your life: from a financial perspective, you're a complete loser and your expected family contribution (financial aid office talk for how much you're expected to pay) of your tuition is zero.
 
-The other scenario is a bit of a nightmare. You've been paying a mortgage or had a respectable salary last tax year. Financial aid is based on your tax returns of the previous year. If either of these scenarios fits, you probably aren't getting any government financial aid. At the very least, you aren't getting as much as you need, and this will almost certainly be a challenging point when you go beyond a 2-year associate's degree program at a community college.
+The other scenario is a bit of a nightmare. You've been paying a mortgage or had a respectable salary last tax year. Financial aid is based on your tax returns of the previous year.
 
-Even in the best-case scenario, you're still going to borrow money. The only difference is how much the school lets you borrow and under what conditions. Even with the money you borrow, it may not be enough to entirely finance your education beyond community college. You will need to acquire additional funding.
+If either of these scenarios fits, you probably aren't getting any government financial aid. At the very least, you aren't getting as much as you need, and this will almost certainly be a challenging point when you go beyond a 2-year associate's degree program at a community college.
+
+Even in the best-case scenario, you're still going to borrow money. The only difference is how much the school lets you borrow and under what conditions. Even with the money you borrow, it may not be enough to finance your education beyond community college. You will need to acquire additional funding.
 
 ![going back to school community college ed latimore](/assets/images/posts/2020/should-i-go-back-to-school-community-college-of-beaver-county-ed-latimore.jpg "Me as the poster child of success for the Community College of Beaver County")
 
-During the first two semesters of community college, I worked at a bank. Then I had to stop working and rely on boxing earnings to cover my cost of living. When I stopped boxing, [I then started tutoring high school math and physics](/how-to-get-better-at-math/). During all of this, I was still drilling on the weekends and collecting that pay.
+I worked at a bank during the first two semesters of community college. Then I had to stop working and rely on boxing earnings to cover my cost of living. When I stopped boxing, [I started tutoring high school math and physics](/how-to-get-better-at-math/). During all of this, I was still doing National Guard drills on the weekends and collecting that pay.
 
-Even with all of this, there was still a point where I had to pay for about $1000 out of pocket. American education is not cheap, so it's important that you go[&nbsp;back to school for something that will make you employable.](https://www.bachelorsdegreecenter.org/highest-paying-bachelors-degrees-future/){: target="_blank" rel="noopener noreferrer"}
+Even with all of this, there was still a point where I had to pay about $1000 out of pocket. American education is not cheap, so it's important that you go[&nbsp;back to school for something that will make you employable.](https://www.bachelorsdegreecenter.org/highest-paying-bachelors-degrees-future/){: target="_blank" rel="noopener noreferrer"}
 
-You need to be reasonably sure that your degree program is going to lead down a career path where you're going to make enough money to *at least* cover the cost of the monthly repayment for any financial aid that you do get. Everyone talks about forgiving student loan debt, but when I filled out the FAFSA paperwork for my financial aid, there was a lengthy section I had to go through about calculating what I was expected to make given my degree choice.
+You need to be reasonably sure that your degree program will lead down a career path where you're going to make enough money to at least cover the monthly repayment cost for any financial aid you get.
+
+Everyone talks about forgiving student loan debt, but when I filled out the FAFSA paperwork for my financial aid, there was a lengthy section I had to go through about calculating what I was expected to make given my degree choice.
 
 I don't know if this is mandatory practice, but it's something that all college students who plan on borrowing money–traditional or nontraditional–should have to do before taking out student loans. A great place to look for this information on the worth of the potential career path your degree program is preparing you for is the [Bureau of Labor Statistics.](https://www.bls.gov/ooh/highest-paying.htm){: target="_blank"}
 
