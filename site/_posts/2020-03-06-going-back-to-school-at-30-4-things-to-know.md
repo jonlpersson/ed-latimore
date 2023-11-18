@@ -20,7 +20,7 @@ My first semester began in January 2014. In May 2018, I graduated with a bachelo
 
 I won't lie to you and say it was a park walk. It was obviously doable, but it was remarkably difficult.
 
-There were times where I wasn't sure how I was going to pay the rent. I even once had to borrow money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
+There were times when I wasn't sure how I was going to pay the rent. I even once had to borrow a significant sum of money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
 
 ## Why do you, personally, want to sacrifice 4 years to college?
 
@@ -197,7 +197,7 @@ Your reason for being in school is different than your classmates. Many of them 
 * Running my website, writing for my blog, and speaking
 * Interning
 
-I was able to handle all of this because of my superior time management.
+I could handle all of this because of my superior time management.
 
 ![Responsibilities during school](/assets/images/posts/edlatimore-busy.png "The busy life of Ed Latimore while doing school.")
 
