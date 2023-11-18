@@ -34,19 +34,19 @@ No matter what your career goals are, this article has something for you.
 
 I detail my observations and experiences being an adult student in college. I can't guarantee that all of my advice will work for your situation, but if you really want this and you're willing to do the hard work, you'll get something out of this article.
 
-If you're on the fence about going back to school later in life and being an older student, then I believe reading about my experiences will give you the confidence necessary to take on this challenge. Without further ado, I present to you…
+If you're on the fence about going back to school later in life and being an older student, I believe reading about my experiences will give you the confidence to take on this challenge. Without further ado, I present to you…
 
 ## My observations and experiences returning to school in my 30's
 
 ![Graduating From Duquesne University](/assets/images/posts/ed-graduation-day.png "The day I graduated from Duquesne University in May 2018")
 
-## 1\. Make sure you get a into a decent degree program
+## 1\. Make sure you get into a decent degree program&nbsp;
 
 Enrolling in a college program as an adult is a serious decision.
 
-You need to be sure that your intended course of study is worth the 4 years and 5-figure tuition that you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
+You need to be sure that your intended course of study is worth the 4 years and 5-figure tuition you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
 
-[These are just types of places that take advantage of a person going back to school at 30.](https://www.collegexpress.com/articles-and-advice/admission/articles/find-college/dont-be-deceived-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
+These are just types of places that take advantage of adult students who are strapped for time but want to better themselves.
 
 Be practical. Don't major in the latest fad or follow your passion (unless it fits the criteria listed below). You're going to college as an adult to increase your income, grow your network, and get new opportunities; not to just get a degree for the sake of having it.
 
