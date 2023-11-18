@@ -14,13 +14,13 @@ description: >-
 ---
 At age 28, I went back to school.
 
-Actually, it's more accurate to say that I go to school. Although I had tried college immediately after high school, I failed out after 3 semesters. None of my old grades were good enough to use for credit, so I started over from scratch.
+Although I had tried college immediately after high school, I failed out after 3 semesters. None of my old grades were good enough to use for credit, so I started over from scratch.
 
 My first semester began in January 2014. In May 2018, I graduated with a bachelor's degree in Physics. I was 33 years old.
 
-I won't lie to you and say that it was a walk in the park. It was obviously doable, but it was remarkably difficult.
+I won't lie to you and say it was a park walk. It was obviously doable, but it was remarkably difficult.
 
-There were times where I wasn't sure how I was going to pay the rent. I even once had to borrow money from a friend. However, the personal professional growth I experienced during that 4 year period is worth 10 times the cost of a typical college degree.
+There were times where I wasn't sure how I was going to pay the rent. I even once had to borrow money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
 
 ## Why do you, personally, want to sacrifice 4 years to college?
 
@@ -44,7 +44,7 @@ If you're on the fence about going back to school later in life and being an old
 
 Enrolling in a college program as an adult is a serious decision.
 
-You need to be sure that your intended course of study is worth the 4 years and 5-figure tuition that you're about to invest. You need to be careful that you aren't enrolling in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
+You need to be sure that your intended course of study is worth the 4 years and 5-figure tuition that you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
 
 [These are just types of places that take advantage of a person going back to school at 30.](https://www.collegexpress.com/articles-and-advice/admission/articles/find-college/dont-be-deceived-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
 
@@ -56,8 +56,8 @@ Here are a few ways to indicate whether your degree is worth the time and money 
 
 * **Does it have the word "studies", "administration" or end with "-ology" in it**? If yes, then it's not rigorous enough to be of any economic value. You'll be forced to get a master's degree or higher to see a return on investment with this degree. Since you're going back to school, I'm assuming that you don't want to spend 4 more years there just to have a chance to break even. ***\[Note: Do not get a business degree. Business degrees teach you nothing about running one. All they do is signal that you were smart enough to specialize or ambition enough to start a business of your own. Sorry if you have a business degree. If you have one, then you know this is a true.\]***
 * **Does it require you to at least study Calculus 1?** If not, then it's not rigorous enough to be of any economic value. It's not that worthwhile career paths make daily use of calculus. It's just that the degrees that lead to them tend to require at least the first level of calculus. There is one notable exception.
-* **Is it in the medical field?** Nursing doesn't require Calculus, but the medical profession has extremely high demand. Be careful though, as many of the health sciences has a high demand but a relatively low salary.
-* **Can you get a paid internship that is higher than minimum wage?** If you ever have to work for free (or for a low wage), even as a student, they are–quite literally–telling you that your work is worthless. Don't expect to suddenly be paid more when you graduate.
+* **Is it in the medical field?** Nursing doesn't require Calculus, but the medical profession has extremely high demand. Be careful though, as many of the health sciences have a high demand but a relatively low salary.
+* **Can you get a paid internship that is higher than minimum wage?** If you ever have to work for free (or for a low wage), even as a student, they are–quite literally–telling you that your work is worthless. Don't expect to be paid much more when you graduate.
 * **Is it science, technology, engineering, or mathematics (S.T.E.M.)**? [Despite the recent national center for education statistics](https://nces.ed.gov/){: target="_blank"}, S.T.E.M. is not a automatically guarantee of a high income or career demand. Avoid biology or anything that ends with "sciences", and you'll field that most S.T.E.M. programs have a direct career path or a derivative career path that generates a decent income.
 
 There are many profitable paths that do not require a college education. You can learn a trade, become an auto mechanic, learn to code, or become a salesperson. Some of the best jobs out there don't require college. But if you want to go to college, then you need to figure out what to study based on the metrics above.
