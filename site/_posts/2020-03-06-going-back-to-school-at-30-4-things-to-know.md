@@ -110,9 +110,9 @@ If you follow the rules in the first section about degree selection, you shouldn
 
 ## 3\. Do as much coursework as cheaply as you can
 
-It's possible for you to do a relatively large chunk of your degree at either a severe cash or time discount. First-time college students who are right out of high school don't typically think about the fastest or cheapest way to graduate.
+You can do a large chunk of your degree at a severe cash or time discount. First-time college students right out of high school don't typically think about the fastest or cheapest way to graduate.
 
-They don't think about the money because, at that age, most of them don't have a reference point for borrowing that much money, let alone figuring out how to pay it back. They don't worry about finishing college quickly because they're too busy enjoying the "college experience."
+They don't think about the money because, at that age, most don't have a reference point for borrowing that much money, let alone figuring out how to pay it back. They don't worry about finishing college quickly because they're too busy enjoying the "college experience."
 
 ![Making the Dean's List in college](/assets/images/posts/ed-on-deans-list.jpg "With fewer nonsense classes to distract me, I could focus and make the Dean's List as a 31-year old")
 
@@ -122,15 +122,15 @@ Here is a collection of things I researched, attempted, and did to reduce the am
 
 ### **Use the College Level Exam Placement (CLEP) tests to cover as many prerequisite classes as possible**
 
-CLEP is run by Collegeboard.org and they provide a cheap way to get some credits out of the way. I spent a lot of time studying and building my knowledge up in other subjects so I could simply take a CLEP exam and get credit.
+Collegeboard.org runs CLEP and they provide a cheap way to get some credits out of the way. I spent a lot of time studying and building my knowledge up in other subjects so I could simply take a CLEP exam and get credit.
 
-The exams aren't free, but at $85, they're still cheaper than even a community college credit. Plus, you won't have to sit through the class. Just make sure that your potential institution accepts CLEP credits.
+The exams aren't free, but at $85, they're still cheaper than even a community college credit. Plus, you won't have to sit through the class. Just make sure that your potential four-year institution accepts CLEP credits.
 
 ### Do your best on math and reading placement exams
 
 Almost all colleges have the option to take a placement exam. [When you go back to school, make sure to take advantage of this.](https://collegeforadults.org/applying-to-college/placement-tests/){: target="_blank" rel="noopener noreferrer"}
 
-Most kids gloss over these, but as an adult student, you need to take these exams seriously.
+Most kids gloss over these, but you need to take these exams seriously as an adult student.
 
 Testing out of basic English and placing into the highest level class available can save you thousands of dollars and an entire semester's worth of classes.
 
@@ -140,49 +140,53 @@ When I was going back to school, I ran into an interesting challenge. Some of th
 
 I messaged every AP coordinator in my area that I could find after [using this site to find them](https://apstudents.collegeboard.org/faqs/can-i-register-ap-exam-if-my-school-doesnt-offer-ap-classes-or-administer-ap-exams){: target="_blank"}. I explained to them my age, situation, plan, and my level of preparation. I think I messaged maybe 10. I remember 2 got back to me: one to tell me that it wasn't possible because I'm a man and they're an all-girls school, and another to tell me that she would allow it.
 
-I sat for the AP exam in both physics and calculus, after preparing for them extensively. I was a 27-year-old man, in army uniform (I had National Guard drills that afternoon), taking the test in a room full of high school students.
+After preparing for them extensively, I sat for the AP exam in both physics and calculus. I was a 27-year-old man in army uniform (I had National Guard drills that afternoon), taking the test in a room full of high school students.
 
-Unfortunately, I didn't score high enough to grab credit for anything, but it did teach me a valuable lesson: most of the rules and limitations are only suggestions. I don't know if I'm the only adult student who thought of taking the AP exams to get credit, but based on everything I read and research, I'm likely one of the only ones to ever go through with it.
+Unfortunately, I didn't score high enough to grab credit for anything, but it taught me a valuable lesson: most rules and limitations are only suggestions.
+
+I don't know if I'm the only adult student who thought of taking the AP exams to get credit, but based on everything I read and researched, I'm likely one of the only ones to ever go through with it.
 
 ### See what credit is offered for SAT and SAT II scores
 
 I came across some schools that offered credit if you achieved a certain score on the SAT or SAT II. There are no rules that say you can't take these exams as an adult. As long as you pay [Collegeboard.org](https://www.collegeboard.org/){: target="_blank"} their money, they don't even care if you show up for the exam.
 
-If your degree program offers credit for a certain score on any of the SAT exams, I strongly recommended picking up a study book and registering for the exam. You can save yourself a lot of money and time if you're willing to do the work and take the tests.
+If your degree program offers credit for a certain score on any of the SAT exams, I strongly recommend picking up a study book and registering for the exam. You can save yourself a lot of money and time if you're willing to do the work and take the tests.
 
 ### Take classes online if you can
 
-I once took a public speaking class online. I didn't want to take the class, but it was the most insidious type of school requirement–the type that the school won't accept any transfer credit for. So I had to take it. The good news is that online classes are notoriously easy for the most part.
+I once took a public speaking class online. I didn't want to take the class, but it was the most insidious type of school requirement–the type that the school wouldn't accept any transfer credit for. So I had to take it. The good news is that online classes are notoriously easy for the most part.
 
-You can find the answers online to many of the homework and test questions. Am I advocating you cheat? Yes, because in the real world, [you look up answers to problems you can't solve.](/problem-solving-process/)
+You can find the answers to many homework and test questions online. Am I advocating you cheat? Yes, because in the real world, [you look up answers to problems you can't solve.](/problem-solving-process/)
 
-Also, challenging classes don't exist online for this very reason. Or if they do, the exams are proctored in person. But seeing as how the university system is still making students pay for classes that aren't relevant to their field of study, we need to get past these classes as quickly and painlessly as possible.
+Also, challenging classes don't exist online for this very reason. Or if they do, the exams are proctored in person. But seeing as the university system is still making students pay for classes irrelevant to their field of study, we need to get past these classes as quickly and painlessly as possible.
 
 If you feel bad about approaching irrelevant online classes in this manner, just remember: were it not for these classes, you could finish your degree in half the time at likely a fourth of the price.
 
 They're basically robbing you. I hope that puts your conscience at ease.
 
-### Talking to professors at your school
+### Talk to professors at your school
 
 During my return to school, I took a semester off to focus on boxing.
 
 I was worried about falling behind on my graduation trajectory, so I talked to my professors about studying on my own, taking the final exam, and getting credit for the exam.
 
-They told me that as long as I didn't communicate with them about academic matters during the semester, then I'd be able to take the final exams and get credit for the class.
+They told me that as long as I didn't communicate with them about academic matters during the semester, I'd be able to take the final exams and get credit for the class.
 
-I got them to give me the Powerpoint slides for the semester (the classes were Thermal Dynamics and Quantum Mechanics) and they sent me on my merry way. Complications came up and I never followed through, but I got the ok (in writing). This was yet another sign to me that the rules are flexible IF you're willing to work.
+I got them to give me the PowerPoint slides for the semester (the classes were Thermal Dynamics and Quantum Mechanics), and they sent me on my merry way. Complications came up and I never followed through, but I got the ok (in writing). This was yet another sign to me that the rules are flexible IF you're willing to work.
 
-The main lesson from this section is that if you're willing to ask questions, not make assumptions, and not take "rules" at face value, then you can save a lot of time and money. You may think of other things I didn't mention on this list to help you get ahead and finish your degree program faster and cheaper than most students.
+The main lesson from this section is that if you're willing to ask questions, not make assumptions, and not take "rules" at face value, you can save a lot of time and money.
+
+You may think of other things I didn't mention on this list to help you get ahead and finish your degree program faster and cheaper than most students.
 
 ***\[Note: Every suggestion in this section works because, for the most part, grades don't matter. Don't kill yourself trying to be the best student or get the best grades. Just pass the class. As an adult, you should know by now that grades don't matter. Only how you perform in the real world.\]***
 
 ## 4\. The life experience and perspective advantage
 
-When I first tried to get my degree, I was not emotionally ready. There is no way around it: [I should not have gone to college.](/4-reasons-why-you-shouldnt-go-to-college/)
+I was not emotionally ready when I first tried to get my degree. There is no way around it: [I should not have gone to college.](/4-reasons-why-you-shouldnt-go-to-college/)
 
 I was an 18-year-old who'd never left home before and fell into the [drinking and partying crowd](/sobriety-benefits/). It wasn't until I got a little older that I realized how typical this path is for a lot of high school graduates.
 
-[When you're an adult college student with a little bit of life experience](https://online.champlain.edu/blog/overcoming-challenges-of-going-back-to-school-as-adult-learner){: target="_blank" rel="noopener noreferrer"}, you aren't interested in many of the distractions that plague most students. As an 18 year old, I regularly missed class because of a hangover or didn't study because I wanted to party. As a 30-year-old, it would just be weird if I was out drinking with my classmates.
+[When you're an adult college student with](https://online.champlain.edu/blog/overcoming-challenges-of-going-back-to-school-as-adult-learner){: target="_blank" rel="noopener noreferrer"}little life experience, you aren't interested in many of the distractions plaguing most students. As an 18 year old, I regularly missed class because of a hangover or didn't study because I wanted to party. Also, as a 30-year-old, it would just be weird if I was out drinking with my classmates.
 
 Your reason for being in school is different than your classmates. Many of them are just there because they're expected to immediately follow high school with college. You're there with a definite purpose.
 
