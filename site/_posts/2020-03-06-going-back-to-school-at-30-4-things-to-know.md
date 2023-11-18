@@ -22,19 +22,19 @@ I won't lie to you and say it was a park walk. It was difficult but doable.
 
 Sometimes, I wasn't sure how I would pay the rent. I even once had to borrow a significant sum from a friend. However, the personal and professional growth I experienced during those four years is worth ten times the cost of a typical college degree.
 
-## Why do you, personally, want to sacrifice 4 years to college?
+## Why do you, personally, want to sacrifice four years to college?
 
 Seriously. Why do you want to go back to school?
 
 More specifically, why do you want to go back to school at 30?
 
-Some people are thinking of going back to school to pursue a new career, add to their skill set, or simply get more out of life. Others have hit a ceiling at their current job.
+Some people consider returning to school to pursue a new career, add to their skill set, or simply get more out of life. Others have hit a ceiling at their current job.
 
-No matter what your career goals are, this article has something for you.
+No matter your career goals, this article has something for you.
 
-I detail my observations and experiences being an adult student in college. I can't guarantee that all of my advice will work for your situation, but if you really want this and you're willing to do the hard work, you'll get something out of this article.
+I detail my observations and experiences as an adult student in college. I can't guarantee that all of my advice will work for your situation, but if you want this and are willing to do the hard work, you'll get something out of this article.
 
-If you're on the fence about going back to school later in life and being an older student, I believe reading about my experiences will give you the confidence to take on this challenge. Without further ado, I present to you…
+If you're on the fence about going back to school later in life and being an older student, reading about my experiences will give you the confidence to take on this challenge. Without further ado, I present to you…
 
 ## My observations and experiences returning to school in my 30's
 
