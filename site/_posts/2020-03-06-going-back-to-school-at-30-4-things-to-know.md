@@ -36,7 +36,7 @@ I detail my observations and experiences as an adult student in college. I can't
 
 If you're on the fence about going back to school later in life and being an older student, reading about my experiences will give you the confidence to take on this challenge. Without further ado, I present to you…
 
-## My observations and experiences returning to school in my 30's
+## My observations and experiences returning to school in my 30s
 
 ![Graduating From Duquesne University](/assets/images/posts/ed-graduation-day.png "The day I graduated from Duquesne University in May 2018")
 
@@ -44,13 +44,15 @@ If you're on the fence about going back to school later in life and being an old
 
 Enrolling in a college program as an adult is a serious decision.
 
-You need to be sure that your intended course of study is worth the 4 years and 5-figure tuition you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
+You need to be sure that your intended course of study is worth the four years and 5-figure tuition you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
+
+
 
 These are just types of places that take advantage of adult students who are strapped for time but want to better themselves.
 
-Be practical. Don't major in the latest fad or follow your passion (unless it fits the criteria listed below). You're going to college as an adult to increase your income, grow your network, and get new opportunities; not to just get a degree for the sake of having it.
+Be practical. Only major in the latest fad or follow your passion if it fits the criteria below. You're going to college as an adult to increase your income, grow your network, and get new opportunities, not just to get a degree for the sake of having it.
 
-The time investment will be at least eight 12-16 week semesters. These semesters will not be cheap and they will be exhausting.
+The time investment will be at least eight 12-16 week semesters. These semesters will not be costly and they will be exhausting.
 
 Here are a few ways to indicate whether your degree is worth the time and money investment:
 
