@@ -20,7 +20,7 @@ My first semester began in January 2014. In May 2018, I graduated with a bachelo
 
 I won't lie to you and say it was a park walk. It was obviously doable, but it was remarkably difficult.
 
-There were times when I wasn't sure how I was going to pay the rent. I even once had to borrow a significant sum of money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
+Sometimes I wasn't sure how I would pay the rent. I even once had to borrow a significant sum of money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
 
 ## Why do you, personally, want to sacrifice 4 years to college?
 
