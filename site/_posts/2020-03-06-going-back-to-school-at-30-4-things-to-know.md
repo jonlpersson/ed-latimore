@@ -14,13 +14,13 @@ description: >-
 ---
 At age 28, I went back to school.
 
-Although I had tried college immediately after high school, I failed out after 3 semesters. None of my old grades were good enough to use for credit, so I started over from scratch.
+Although I had tried college immediately after high school, I failed after three semesters. None of my old grades were good enough to use for credit, so I started over from scratch.
 
 My first semester began in January 2014. In May 2018, I graduated with a bachelor's degree in Physics. I was 33 years old.
 
-I won't lie to you and say it was a park walk. It was obviously doable, but it was remarkably difficult.
+I won't lie to you and say it was a park walk. It was difficult but doable.
 
-Sometimes I wasn't sure how I would pay the rent. I even once had to borrow a significant sum of money from a friend. However, the personal and professional growth I experienced during that four year period is worth 10 times the cost of a typical college degree.
+Sometimes, I wasn't sure how I would pay the rent. I even once had to borrow a significant sum from a friend. However, the personal and professional growth I experienced during those four years is worth ten times the cost of a typical college degree.
 
 ## Why do you, personally, want to sacrifice 4 years to college?
 
