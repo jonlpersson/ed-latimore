@@ -23,15 +23,23 @@ Because I didn't have a mind for any math concepts, I actually didn't think I'd 
 
 ***Fast-forward.***
 
-Now I have a [Bachelors’s degree in physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), a minor in mathematics, and several students under my belt that I’ve tutored in every high school math course there is, all the way from basic geometry to trigonometry to advanced calculus. Along the way, I’ve not only had to identify and handle my own limiting beliefs, but I’ve had to do the same thing with my students.
+Now I have a [Bachelors’s degree in physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), a minor in mathematics, and several students under my belt that I’ve tutored in every high school math course there is, from basic geometry to trigonometry to advanced calculus.
 
-The following is a list of reasons [why students typically think that math is so hard and what works best to resolve those difficulties](/how-to-get-better-at-math/). If you’ve ever wondered why math is so confusing or difficult, then you’ll find your answer here and some suggestions make it easier and more enjoyable
+Along the way, I’ve not only had to identify and handle my own limiting beliefs, but I’ve had to do the same thing for my students.
+
+The following is a list of reasons students typically think[&nbsp;math is so hard and what works best to resolve those difficulties](/how-to-get-better-at-math/). If you’ve ever wondered why math is so confusing or difficult, then you’ll find your answer here and some suggestions make it easier and more enjoyable
 
 ## You think it’s supposed to be hard
 
-Because everyone who’s taken a math class before you and struggled, you think this will be your fate as well.
+Because everyone who’s taken a math class before you has struggled, you think this will be your fate as well.
 
-This can be especially crippling for students with low self-esteem and self-confidence. Either they hear it from students they think are brighter than them or they hear it from students they feel marginally superior to but still place themselves in the same general category of ability.
+This can be especially crippling for students with low self-esteem and self-confidence.
+
+This complaint doesn't mean much when it comes from someone you think is less than intelligent than you. But when you hear it from strong students, it is far more intimidating.&nbsp;
+
+If you find yourself believing that math is supposed to be difficult only because it's been portrayed that way, remind yourself of this:
+
+Most people have no idea how to learn. Especially something like math, where you can't simply memorize and regurgitate you way to proficiency. It's not so much that math is difficult. It's just that the path to success in math is different from the most any other subject.&nbsp;
 
 ## Math is terribly taught
 
