@@ -68,7 +68,7 @@ You must not only be comfortable with uncertainty but also accept that an uncert
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
-## **3) Entertain different points of view**
+## **3) Entertain different points of view.**
 
 It's important to expose yourself to new ideas.
 
@@ -80,59 +80,59 @@ You're not trying to understand yourself. You're trying to understand other peop
 
 If you can do that, you'll be able to predict what they're most likely to do, which is the core of street smarts: understanding the behavior of other humans.
 
-## 4) Don't be afraid to admit that you're wrong
+## **4) Don't be afraid to admit that you're wrong**
 
-It's only by admitting that you're wrong that you can ever figure out what the error is and get right. Most people would rather double down on incorrect information than swallow their ego and simply admit that they were wrong and try to correct themselves.
+Only by admitting that you're wrong can you figure out what the error is and get right. Most people would rather double down on incorrect information than swallow their ego, admit they were wrong, and try to correct themselves.
 
-Street smarts and ego don't mix because the ego prevents you from interacting with humans in a manner that will make you feel inferior. For example, you'll have to deal with many unknowns and many uncomfortable situations as you hone your street smarts and your social intelligence.
+Street smarts and ego don't mix because the ego prevents you from interacting with humans in a manner that will make you feel inferior. For example, you'll have to deal with many unknown and uncomfortable situations as you hone your street smarts and social intelligence.
 
-But if you are unwilling to do that because we don't have a set formula, or rule to follow, then you'll never develop this type of intelligence. People will always be able to take advantage of you because you don't know better.
+But you'll never develop this type of intelligence if you’re unwilling to do that—because you don't have a set formula or rule to follow. People will always be able to take advantage of you because you don't know better.
 
-## 5) Don't cherry-pick or force-fit information to align with your expectation
+## **5) Don't cherry-pick or force-fit information to align with your expectation**
 
 {% twitter https://twitter.com/EdLatimore/status/1456741448943116288 %}
 
-Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider the most likely motivation for that action and most likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
+Don't try to force-fit explanation of actions to your expectations. Take a detached view of what people are doing and then consider the most likely motivation for that action and the most likely outcome. Don't be afraid to face an ugly truth if you arrive at it.
 
-An unfortunate condition of many people is that they would rather turn a blind eye to the truth if the truth makes them uncomfortable or defies a dearly held view of the world.
+An unfortunate condition of many people is they will ignore the truth if it makes them uncomfortable or defies a dearly held view of the world.
 
-If someone's actions are confusing but antagonistic towards you, [accept that they mean you harm](/when-someone-hates-you-for-no-reason/) and deal with it. When it comes to threats to your safety or reputation, better to assume and be wrong than to be right and do nothing out of fear of appearing presumptuous.&nbsp;
+If someone's actions are confusing but antagonistic towards you, accept that they mean you harm and deal with it. Regarding threats to your safety or reputation, it is better to assume and be wrong than to be right and do nothing out of fear of appearing presumptuous.&nbsp;
 
 It may be hard to accept that a person means your harm (physical, mental, social, etc.), but street-smart people don't ignore the writing on the wall. They act on their reads of a situation, even if they don't like what it means.
 
 You don't want to be fooled. You don't want to be naive. So you need to look at people with fresh eyes. And if you don't like what you see, you can't be afraid to confront it and do what's necessary to protect yourself.&nbsp;
 
-## 6) Read between the lines of what's being said
+## **6) Read between the lines of what's being said**
 
-Pay attention to what's&nbsp;***not***&nbsp;being said. Pay attention to anything said that's not important.
+Pay attention to what's ***not*** being said. Pay attention to anything said that's not important.
 
-You know you're being deceived when information that isn't important is emphasized and when information that is important is downplayed.&nbsp;
+You know you're being deceived when irrelevant information is emphasized or essential information is downplayed.&nbsp;
 
-When you learn to spot what isn't relevant, you give yourself a much greater chance of spotting this everywhere. This is a general training technique for picking up relevant information from the noise of daily life.
+When you learn to spot what isn't relevant, you give yourself a greater chance of spotting this everywhere. This technique is excellent for picking up relevant information from the noise of daily life.
 
-Some of that noise is put there to intentionally distract you. Some of that noise is simply a byproduct of modern life. Regardless of the source, these things are there to keep you from focusing on what matters in handling a situation.
+Some of that noise is there to distract you. Some of that noise is simply a byproduct of modern life. Regardless of the source, these things keep you from focusing on what matters in handling a situation.
 
 {% twitter https://twitter.com/EdLatimore/status/1058486664266502145 %}
 
-## 7) Study selling and marketing
+## **7) Study selling and marketing**
 
 {% twitter https://twitter.com/EdLatimore/status/1328137438724829184 %}
 
 Everyone needs to study marketing to understand how powerful words can be.&nbsp;
 
-Good marketing can make people buy things they don't want and do things that aren't in their best interest.&nbsp;
+Good marketing can make people buy things they don't want and do something not in their best interest.&nbsp;
 
-Everyone needs to learn how to sell to understand humor behavior as it relates to exchanging value. Selling is the act of trying to get someone to part with something of value, whether it be money, sex, attention, or power.&nbsp;
+Everyone needs to learn how to sell to understand humor behavior related to exchanging value. Selling is trying to get someone to part with something of value, whether it be money, sex, attention, or power.&nbsp;
 
 If you learn the mechanics of selling and marketing, you'll recognize two things:&nbsp;
 
-**When those things are being done to you,** it's only when you can recognize when people are doing something to you that you can form a more effective defense against it. Guarding yourself against manipulation is part of becoming street smart.&nbsp;
+**When those things are done to you,** it's only when you can recognize when people are doing something to you that you can form a more effective defense against it. Guarding yourself against manipulation is part of becoming street smart.&nbsp;
 
 You realize that all people are engaged in selling and marketing, whether they want to admit it or not, regardless of how good they are at it.&nbsp;
 
 When you develop your skills to do so, you'll be in a much better place to spot&nbsp;
 
-### Summing up how to be street smart
+### **Summing up how to be street smart**
 
 Being street smart is about taking what happened to you, good or bad, and learning from it. Then, once you learn from it, apply it to reduce the likelihood of experiencing something negative again.
 
@@ -142,4 +142,6 @@ As long as you aren't afraid to get your hands dirty and are committed to learni
 
 The rest is up to you.&nbsp;
 
-#### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
+#### [**Check out the rest of my articles on living in the hood**](https://edlatimore.com/living-in-the-hood)
+
+####
