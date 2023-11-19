@@ -3,9 +3,9 @@ date: 2022-02-04 21:40:00 -0500
 article_type: Article
 title: 7 ways to be more street smart
 permalink: /how-to-be-street-smart/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - life-lessons
 description: >-
   You don't have to be in the streets to be street smart, but you'll get taken
@@ -24,7 +24,7 @@ Books are organized, edited, and many of them are fiction. Books serve your desi
 
 Book knowledge is safe, selected, and second-hand. There are no real consequences for getting the wrong knowledge from books and you have zero skin in the game for its acquisition.
 
-Though the phrase is "book smart", the word "book" is synonymous with any type of second-hand collection of knowledge. You study the life experiences of other people via magazines, podcasts, YouTube channels, etc.&nbsp;
+Though the phrase is "book smart," the word "book" is synonymous with any type of second-hand collection of knowledge. You study the life experiences of other people via magazines, podcasts, YouTube channels, etc.&nbsp;
 
 ### Street smarts
 
