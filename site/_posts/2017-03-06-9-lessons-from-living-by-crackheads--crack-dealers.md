@@ -12,6 +12,8 @@ description: >-
   I grew up in the projects and learned a lot about crackheads and crack
   dealers. Here are some little-known facts about them.
 ---
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9ocFFxUTdLckx5MD9zaT1UWE5xenZjeWJpaGNyay1PIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQqQ7KrLy0?si=TXNqzvcybihcrk-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 In the ghetto, there are crackheads. In case you didn’t know, crackheads are people addicted to crack-cocaine. Crackheads and the ghetto go together like Kool-Aid and fried chicken.
 
 Crackheads get their crack from somewhere. That’s where crack dealers come in. I grew up in the projects. This means I spent a lot of time around crack dealers and crack addicts. However, my experience had a unique feature.
@@ -21,10 +23,6 @@ I spent about 5 years living next to a certified crackhead. When I moved to anot
 [The hood is a terrible place to begin with.](/the-projects/) I can assure you that living next to hard drug users and dealers is a unique level of hell.
 
 These are my observations, lessons learned, and experiences from living next to crack dealers and crackheads.
-
-**Watch the video version of this article**
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9ocFFxUTdLckx5MD9zaT1UWE5xenZjeWJpaGNyay1PIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQqQ7KrLy0?si=TXNqzvcybihcrk-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 ## 1\. A crackhead is surprisingly functional
 
