@@ -46,13 +46,13 @@ I can only show you how to prime your mind to be more street-smart so you can be
 
 {% twitter https://twitter.com/EdLatimore/status/1284855583733166081 %}
 
-## 1) Embrace experiential learning and making mistakes
+## **1) Embrace experiential learning and making mistakes**
 
-Train yourself to learn from real experience because there are many things that you can only learn this way. Common sense and human nature can't be learned from a book because we tend to want to believe the best or the worst in people.
+Train yourself to learn from experience because there are many things that you can only know this way. You can’t learn common sense and human nature from a book because we tend to want to believe the best or the worst in people.
 
 We go to extremes in this regard until we get corrected by the harsh forces in society. Someone takes advantage of us, removing our naivete, or we miss an opportunity because we don't trust anyone, erasing our cynicism. Reality will punish you because you're not learning from your experiences, likely because you aren't having many in the first place.&nbsp;
 
-[Intelligence is simply pattern recognition](/problem-solving-process/) coupled with the skillful manipulation or exploitation of that pattern. Street smarts are no different.
+Intelligence is simply pattern recognition coupled with the skillful manipulation or exploitation of that pattern. Street smarts are no different.
 
 The difference is that you can only become more street intelligent by gaining more experience rather than studying. You learn how to read body language by needing to do it to survive. You learn the difference between seductive and aggressive eye contact by trying to accomplish one of those goals, whether you succeed or fail.
 
