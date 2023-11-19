@@ -24,9 +24,9 @@ You might ask why men need to lead. It’s the principle I’ve shared before—
 
 This security women seek is both physical and psychological and completely unrelated to “good or bad.”
 
-That’s why we see women that stay with bad dudes.
+This security women seek is physical and psychological, completely unrelated to “good or bad.”
 
-Or the never ending cycle of pimps and hoes.
+That’s why we see women who stay with bad dudes because being strong and wrong is better than being right with zero might.
 
 It’s also the reason you see young men that need security teaming up with the “*wrong crowds*.”
 
