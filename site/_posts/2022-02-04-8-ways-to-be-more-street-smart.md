@@ -68,19 +68,17 @@ You must not only be comfortable with uncertainty but also accept that an uncert
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
-## 3) Entertain different points of view
+## **3) Entertain different points of view**
 
-It's important to expose yourself to different ideas.
+It's important to expose yourself to new ideas.
 
-If you get stuck thinking from one perspective, it's going to be difficult to understand how other people think. If you can't think like other people, you can't predict, mitigate, or take advantage of their behavior. This means that other people will always surprise you and with their initiative, you won't stand a chance.
+If you get stuck thinking from one perspective, it will be difficult to understand how other people think. If you can't think like others, you can't predict, mitigate, or take advantage of their behavior. This liability means other people will always surprise you, and with their initiative, you won't stand a chance.
 
-You'll never become street smart if you can't think like other people. You can't be attached to one viewpoint and you must be able to see the world through the motivations of another person. In fact, your perspective is effectively irrelevant.
+You'll never become street-smart if you can't think like other people. You can't be attached to one viewpoint, and you must be able to see the world through another person's motivations. When it comes to being street-smart, your perspective is effectively irrelevant.
 
 You're not trying to understand yourself. You're trying to understand other people so you can reduce the penalty of their worst traits and maximize the benefits of their best ones. This means that you need to suspend your perspective on the world.
 
 If you can do that, you'll be able to predict what they're most likely to do, which is the core of street smarts: understanding the behavior of other humans.
-
-***\[The Notorious B.I.G. gives you a different perspective, straight from the street, in his classic "The Ten Crack Commandments." I break down those lessons and how to use them [in this post](/ten-crack-commandments-business-and-life-lessons/).\]***
 
 ## 4) Don't be afraid to admit that you're wrong
 
