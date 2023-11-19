@@ -56,15 +56,15 @@ Intelligence is simply pattern recognition coupled with the skillful manipulatio
 
 The difference is that you can only become more street intelligent by gaining more experience rather than studying. You learn how to read body language by needing to do it to survive. You learn the difference between seductive and aggressive eye contact by trying to accomplish one of those goals, whether you succeed or fail.
 
-## 2) Be comfortable with uncertainty
+## **2) Be comfortable with uncertainty and discomfort**
 
-You'll have to be a little confrontational with reality because you'll need to verify what your suspicions are.
+You'll have to be aggressively confrontational with reality because you'll need to verify your suspicions. That’s the only way you’ll hone the intuition required to develop high-level street smarts.
 
-This could mean something as harmless as reading body language and asking if your guess about their conversation topic is correct. You may have to go on the offensive if you think a mugger is about to get the best of you. You may have to [get into a fight](/lessons-from-the-ghetto-willingness-to-fight/) to know that a fight is coming in the future.&nbsp;
+This training could mean something as harmless as reading body language and asking if your guess about their conversation topic is correct. You may have to [go on the offensive if you think a mugger is about to get the best of you.&nbsp;](/how-to-win-a-street-fight/)
 
-This is something that book-smart people are uncomfortable with. They would like to be able to prove and predict everything before they move into a situation. Unfortunately for them, 100% certainty and guarantees are not representative of real life. &nbsp;
+Acting without 100% certainty is something that book-smart people are uncomfortable with. They would like to be able to prove and predict everything before they move into a situation. Unfortunately for them, 100% certainty and guarantees are not representative of real life.&nbsp;&nbsp;
 
-You have to not only be comfortable with uncertainty, but you must also accept that an uncertain situation may lead to a confrontation.
+You must not only be comfortable with uncertainty but also accept that an uncertain situation may lead to a confrontation.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
