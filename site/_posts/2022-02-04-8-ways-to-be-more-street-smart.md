@@ -12,33 +12,35 @@ description: >-
   advantage of if you aren't. Read this to learn how to be street smarter.
 image: /assets/images/thumbnails/streetsmart.jpg
 ---
-The difference between book smarts and street smarts is that you don't learn street smarts from a book. Given the name, this might sound obvious, but this sets the stage for a deeper understanding of everything in this article.&nbsp;
+The difference between book and street smarts is that you don't learn street smarts from a book. Given the name, this might sound obvious, but this sets the stage for a deeper understanding of everything in this article.&nbsp;
 
 Let's address this difference between the two first.
 
-## Book smart vs. street smart
+## **Book smart vs. street smart**
 
-### Book smarts
+### **Book smarts**
 
-Books are organized, edited, and many of them are fiction. Books serve your desire for knowledge and entertainment. You can even choose which books you want to read based on your ideology, affiliation, or preferences.
+Books are organized and edited. Many are fiction. Books serve your desire for knowledge and entertainment. You can choose which books you want to read based on your ideology, affiliation, or preferences.
 
-Book knowledge is safe, selected, and second-hand. There are no real consequences for getting the wrong knowledge from books and you have zero skin in the game for its acquisition.
+Book knowledge is safe, selected, and second-hand. There are no real consequences for getting the wrong knowledge from books, and you have zero skin in the game for its acquisition.
 
-Though the phrase is "book smart," the word "book" is synonymous with any type of second-hand collection of knowledge. You study the life experiences of other people via magazines, podcasts, YouTube channels, etc.&nbsp;
+Though the phrase is "book smart," the word "book" is synonymous with any type of second-hand collection of knowledge. You study other people's life experiences via magazines, podcasts, YouTube channels, etc.&nbsp;
 
-### Street smarts
+### **Street smarts**
 
-The street is rough, raw, unsympathetic, and real. The street doesn't cater to your emotions and it doesn't care about what's politically correct. There are no safe places on the street and [no one cares what you're going through](/no-one-gives-a-shit-about-you/), what you identify as, or even if you're a good person or not.
+The street is rough, raw, unsympathetic, and real. The street doesn't cater to your emotions or care about what's politically correct. There are no safe places on the street, and [no one cares what you're going through](/no-one-gives-a-shit-about-you/), what you identify as, or whether you're a good person.
 
 The only thing that matters on the street is what you have, what you want, and how well you can defend it once you have it. Street smarts often conjure up this idea of a gritty hustler in an urban environment, navigating through dangerous situations and dealing with shady characters in shadier situations.
 
-While you need certainly them to survive that environment, there are places just like this that look civilized on the surface but are full of jackals waiting to take what you've earned.
+While you certainly need street smarts to survive in the hood (check out my video on what I learned growing up in the projects), some places look civilized to the naked eye. However, those places are full of jackals waiting to take what you've earned, and they’ll use any means to do it.&nbsp;
 
-***\[Read about the environment where I developed and honed my street smarts [here](/the-projects/).\]***
+***\[Read about the environment where I developed and honed my street smarts [here.](/lessons-from-the-ghetto-willingness-to-fight/)\]***
 
-There are several places in the real world where you need to be aware of how people think, behave, and scheme to pass you up, put your down, or take what you've learned.&nbsp;
+There are several places in the real world where you need to be aware of how people think, behave, and scheme to pass you up, put you down, or rob you outright.&nbsp;
 
-You can't learn how to be street smart from a book. You can't learn it in a classroom, from a podcast, or even from this blog post. I can only show you how to prime your mind to be more street smart so you can better navigate real life and better navigate the people and obstacles in it.
+You can't learn how to be street-smart from a book in a classroom, on a podcast, or even this article.
+
+I can only show you how to prime your mind to be more street-smart so you can better navigate real life and its people and obstacles.
 
 ## 7 ways to be more street smart
 
