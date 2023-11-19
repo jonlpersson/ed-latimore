@@ -13,21 +13,21 @@ description: >-
   all.
 image: /assets/images/thumbnails/struggling-with-math.jpg
 ---
-Like many students, I had a hard time with math class. I didn’t consider myself a “math person” and after I failed (or barely passed) most of my high school math classes, I figured that I would never do anything in my life involving math.&nbsp;
+Like many students, I had a hard time with math class. I didn’t consider myself a “math person,” and after I failed (or barely passed) most of my high school math classes, I figured I would never do anything involving math.
 
 Unfortunately, most of the [highest paying jobs](https://www.businessinsider.com/high-paying-jobs-for-people-who-love-math-2016-6#-14){: target="_blank" rel="noopener noreferrer"} and&nbsp;[with the highest employee satisfaction](https://www.itweb.co.za/content/XlwrKxq35rg7mg1o){: target="_blank" rel="noopener noreferrer"} all require at least skills you learn in typical high school math classes.
 
 At the very least, the highest-paying jobs expect you to have a mind geared towards working on quantitative problems—the type of problems that are easier to solve if you have a good grasp of basic math concepts.
 
-Because I didn't have a mind for any math concepts, I actually didn't think I'd be able to do much. However, I did some hard work digging into why math was so difficult for me, and in figuring out why it was hard for me, I also figured out why most students struggle with math.
+Because I didn't have a mind for any math concepts, I didn't think I'd be able to do much. However, I did some hard work digging into why math was so difficult for me, and in figuring out why it was hard for me, I also figured out why most students struggle with math.
 
 ***Fast-forward.***
 
-Now I have a [Bachelors’s degree in physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), a minor in mathematics, and several students under my belt that I’ve tutored in every high school math course there is, from basic geometry to trigonometry to advanced calculus.
+Now, I have [a bachelor’s degree in physics](/is-physics-hard-how-to-study-and-learn-basic-physics/), a minor in mathematics, and several students under my belt that I’ve tutored in every high school math course, from basic geometry to trigonometry to advanced calculus.
 
 Along the way, I’ve not only had to identify and handle my own limiting beliefs, but I’ve had to do the same thing for my students.
 
-The following is a list of reasons students typically think[&nbsp;math is so hard and what works best to resolve those difficulties](/how-to-get-better-at-math/). If you’ve ever wondered why math is so confusing or difficult, then you’ll find your answer here and some suggestions make it easier and more enjoyable
+The following lists why students typically think math is hard and [what best resolves those difficulties](/how-to-get-better-at-math/). If you’ve ever wondered why math is so confusing or complicated, you’ll find your answer here, and some suggestions make it easier and more enjoyable.
 
 ## You think it’s supposed to be hard
 
