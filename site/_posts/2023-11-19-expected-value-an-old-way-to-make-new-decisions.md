@@ -55,6 +55,8 @@ You won’t get caught often, but if you do, it will sting. So what should you d
 
 ## A New Way Of Looking At Making Decisions
 
+![car towed](/assets/images/posts/car-towed.jpeg "Should have paid the meter"){: width="1486" height="979"}
+
 If you’re like most people, a surprise $300 is enough to at least make you angry. If it happens twice or thrice in the same month, you might have a real financial problem on your hands.
 
 Even if you parked there every day, you could much more easily deal with the slow burn of $3/day over a month than a $300 due all at once.
