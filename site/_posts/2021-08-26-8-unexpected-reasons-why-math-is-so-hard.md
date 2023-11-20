@@ -51,13 +51,15 @@ Most basic math teachers (especially the type of teachers you have in elementary
 
 While teaching is a skill and all educators are valuable, many teachers are ruining the hopes of their students ever understanding math concepts because they didn’t study them before teaching.
 
-## You believe the myth of a “math person”
+## **You believe the myth of a “math person”**
 
-There is no such thing as a “math person”. There are simply people who stuck with math long enough to see progress or initially got [so much joy out of problem-solving](/problem-solving-process/)&nbsp;that they eventually became good at it.
+There is no such thing as a “math person”. Some simply stick with math long enough to see progress. Or they initially got so much [joy out of problem-solving](/problem-solving-process/) that they eventually became good at it.
 
-There is also a case of people who don’t mind that they don’t seem to have any natural gifts. But there are no people of normal intelligence who are incapable of learning math.
+There is also a case of people who don’t mind that they don’t seem to have any natural gifts. These people of normal intelligence only appear to have special talents because they worked so hard.
 
-Sure, there are some people [who have a natural talent](/hard-work-beats-talent/) and predisposition to math. They pick up the problems faster and the math relationships just naturally make sense to them. However, these people are mostly the exception. Most people have to work hard and study to develop any mathematical ability.&nbsp;
+Sure, some people have a natural talent and predisposition to math. They pick up the problems faster, and the math relationships naturally make sense to them. However, these people are mostly the exception.
+
+Most people [have to work hard](/hard-work-beats-talent/) and study to develop any mathematical ability.
 
 ## Your foundation is bad
 
