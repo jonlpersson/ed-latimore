@@ -29,17 +29,17 @@ Along the way, I’ve not only had to identify and handle my own limiting belief
 
 The following lists why students typically think math is hard and [what best resolves those difficulties](/how-to-get-better-at-math/). If you’ve ever wondered why math is so confusing or complicated, you’ll find your answer here, and some suggestions make it easier and more enjoyable.
 
-## You think it’s supposed to be hard
+## **You think it’s supposed to be hard**
 
-Because everyone who’s taken a math class before you has struggled, you think this will be your fate as well.
+Because everyone who’s taken a math class before you has struggled, you think this will also be your fate.
 
-This can be especially crippling for students with low self-esteem and self-confidence.
+Letting the failures of others influence you can be crippling—especially for students with low self-esteem and self-confidence.
 
-This complaint doesn't mean much when it comes from someone you think is less than intelligent than you. But when you hear it from strong students, it is far more intimidating.&nbsp;
+This complaint means little when it comes from someone you think is less intelligent than you. But when you hear it from strong students, it is far more intimidating.&nbsp;
 
 If you find yourself believing that math is supposed to be difficult only because it's been portrayed that way, remind yourself of this:
 
-Most people have no idea how to learn. Especially something like math, where you can't simply memorize and regurgitate you way to proficiency. It's not so much that math is difficult. It's just that the path to success in math is different from the most any other subject.&nbsp;
+Most people have no idea how to learn. Especially something like math, where you can't simply memorize and regurgitate your way to proficiency. It's not so much that math is complicated. The path to success in math is different from most any other subject.
 
 ## Math is terribly taught
 
