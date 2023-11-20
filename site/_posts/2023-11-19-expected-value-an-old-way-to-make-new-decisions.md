@@ -1,5 +1,5 @@
 ---
-date:
+date: 2023-11-19 00:00:00 -0500
 article_type: Article
 title: 'Expected Value: An Old Way To Make New Decisions'
 permalink: /expected-value-for-decision-making/
@@ -68,6 +68,8 @@ Murphy’s Law states that whatever can go wrong will go wrong. While I’m not 
 It’s better not to be wrong most of the time than to be right only some of it.
 
 ## Crashing Airplanes and Catastrophic Events
+
+![Plane Crashes and expected value](/assets/images/posts/plane-crash.webp "Plane Crashes and expected value"){: width="2048" height="1344"}
 
 This is one of many reasons why airplane safety is such a big deal.
 
