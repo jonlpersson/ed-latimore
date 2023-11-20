@@ -63,11 +63,13 @@ Most people [have to work hard](/hard-work-beats-talent/) and study to develop a
 
 ## Your foundation is bad
 
-Math is cumulative.
+Math is cumulative. It builds on itself.
 
 You need trigonometry to do calculus. You need algebra and geometry to do trigonometry.
 
-It’s not enough to just pass these classes with a C. It’s actually not good enough to pass these classes with any grade, even if It’s A+. You need to actually understand the subject otherwise, you’re going to be in trouble when you take the next level.
+It’s not enough to just pass these classes with a C. It’s not even good enough to pass these classes with any grade, even if It’s A+.&nbsp;
+
+You need to understand the subject. Otherwise, you’ll be in trouble when you take the next level.
 
 You’ll be behind because you won’t have the prerequisite skills and knowledge to perform at the level of math that you’re taking. This will not only frustrate you, but it will make you believe that math is more difficult than it really is. The real issue is that you never took the time to become strong in your previous math classes.
 
