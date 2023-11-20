@@ -96,3 +96,5 @@ This is an idea that is fundamental to making the right decisions in your life. 
 The best thing that you can do is make every little decision have a positive expected value. If you are given two choices, focus on the one with a higher negative expected value. If you do this, you’ll be in a good position when things go wrong.
 
 And while things don’t always go wrong, they do often enough (especially when they shouldn’t) that you need to actively account for that possibility in your decision making process. When in doubt, focus on the choice that leaves you in the best position if you come up on the wrong side of things.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
