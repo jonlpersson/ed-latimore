@@ -27,6 +27,8 @@ Those of you with a math or gambling background will already be familiar with th
 
 Also, you won’t need to crunch any numbers. My goal is to give you an intuitive grasp of the idea so you can use it to win bigger in life--not to give you a crash course in probability theory.
 
+![Expected value formula](/assets/images/posts/expectedvaluecalculator-96.png "You won't need to know this, but here is the Expected Value formula if you're curious"){: width="1101" height="342"}
+
 The expected value of an event is the weighted average of the values of the outcomes of the given event. This isn’t exactly what defines EV, but it’s useful enough for us to use it to improve our lives by improving our decisions.
 
 Warren Buffet described this idea best:
