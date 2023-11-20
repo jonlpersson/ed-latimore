@@ -41,15 +41,15 @@ If you find yourself believing that math is supposed to be difficult only becaus
 
 Most people have no idea how to learn. Especially something like math, where you can't simply memorize and regurgitate your way to proficiency. It's not so much that math is complicated. The path to success in math is different from most any other subject.
 
-## Math is terribly taught
+## **Math is taught in an atrocious fashion**
 
-I remember once I was working with a group of tutors who were former math teachers. They couldn’t explain [why multiplying 2 negative numbers makes a positive](https://www.mathsisfun.com/multiplying-negatives.html){: target="_blank" rel="noopener noreferrer"}.
+I remember once I was working with a group of tutors who were former math teachers. They couldn’t explain[why multiplying two negative numbers makes a positive](https://www.mathsisfun.com/multiplying-negatives.html).
 
-They had merely been teaching kids to memorize this. This means that they themselves didn’t understand the math behind it.
+They had merely been teaching kids to memorize this. This blind regurgitation means they didn’t understand the mathematical reasoning of the operation.
 
-Most basic math teachers (especially the type of teachers you have in elementary school and middle school) were not mathematics majors. Instead, [they got a teaching degree, took some continuing education to specialize in teaching math](https://www.alleducationschools.com/teaching-degrees/elementary-education/){: target="_blank" rel="noopener noreferrer"}, and got placed into the position of teaching math.
+Most basic math teachers (especially the type of teachers you have in elementary school and middle school) were not mathematics majors. Instead,[they got a teaching degree, took some continuing education to specialize in teaching math](https://www.alleducationschools.com/teaching-degrees/elementary-education/), and were allowed to teach based on those shoddy qualifications.
 
-While teaching is a skill and all educators are valuable, there are a lot of teachers ruining the hopes of their students ever understanding math concepts because they didn’t study them before teaching.&nbsp;
+While teaching is a skill and all educators are valuable, many teachers are ruining the hopes of their students ever understanding math concepts because they didn’t study them before teaching.
 
 ## You believe the myth of a “math person”
 
