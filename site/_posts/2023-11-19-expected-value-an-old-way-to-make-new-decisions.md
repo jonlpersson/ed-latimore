@@ -77,7 +77,7 @@ It’s better not to be wrong most of the time than to be right only some of it.
 
 This is one of many reasons why airplane safety is such a big deal.
 
-The worst-case scenario is death--and there really isn’t an in-between. Flying is so safe that if you try to calculate the odds of any given flight crashing (simplistically, the number of crashes divided by the total number flights), you get a number so small that most calculators simply return a “0”.
+The worst-case scenario is death--and there really isn’t an in-between. Flying is so safe that if you try to calculate the odds of any given flight crashing (simplistically, the number of crashes divided by the total number of flights), you get a number so small that most calculators simply return a “0”.
 
 In other words, the EV of a plane crash is so bad that it can’t be allowed to happen--and when it does, it’s (rightfully so) big news. Compare that to the number of automobile crashes and people who die as a result of them for any given year.
 
@@ -87,14 +87,12 @@ Those aren’t exactly huge odds, but all calculators will return a value for �
 
 Most decisions you make won’t have a downside as bad as death, but for the ones that come close, you should do whatever you can to reduce the odds of it happening.
 
-For example, there’s no good reason not to wear a seatbelt, text, or drink while you’re driving.
+For example, there’s no good reason not to wear a seatbelt, text, or drink while driving.
 
 ## Nothing Is Guaranteed—Except Death
 
 This is an idea that is fundamental to making the right decisions in your life. There is no such thing as a guaranteed outcome.
 
-The best thing that you can do is make every little decision have a positive expected value. If you are given two choices, focus on the one with a higher negative expected value. If you do this, you’ll be in a good position when things go wrong.
+The best thing you can do is make every little decision have a positive expected value. If given two choices, focus on the one with a higher negative expected value. If you do this, you’ll be in a good position when things go wrong.
 
-And while things don’t always go wrong, they do often enough (especially when they shouldn’t) that you need to actively account for that possibility in your decision making process. When in doubt, focus on the choice that leaves you in the best position if you come up on the wrong side of things.
-
-{% include widgets/summary.html id="Stoic-Street-Smarts" %}
+And while things don’t always go wrong, they do often enough (especially when they shouldn’t) that you need to account for that possibility in your decision-making process actively. When in doubt, focus on the choice that leaves you in the best position if you come up on the wrong side of things.
