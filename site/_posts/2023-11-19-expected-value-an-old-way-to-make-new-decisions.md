@@ -25,7 +25,7 @@ We need to cover a vital idea: expected value (EV).
 
 Those of you with a math or gambling background will already be familiar with this idea, but the following primer is for everyone else. Don’t worry. I'll keep it short and simple.
 
-Also, you won’t need to crunch any numbers. My goal is to give you an intuitive grasp of the idea so you can use it to win bigger in life--not to give you a crash course in probability theory.
+Also, you won’t need to crunch any numbers. My goal is to give you an intuitive grasp of the idea so you can use it to win bigger in life–not to give you a crash course in probability theory.
 
 ![Expected value formula](/assets/images/posts/expectedvaluecalculator-96.png "You won't need to know this, but here is the Expected Value formula if you're curious"){: width="1101" height="342"}
 
@@ -39,7 +39,7 @@ Parking tickets are the simplest example we can use.
 
 The cost of parking outside your favorite breakfast spot is $3 (expensive, sure, but the numbers don’t really matter). The meter maid rarely comes by, so you could just skimp on paying the $3 most days.
 
-&nbsp;However, if you get caught parking without paying, you pay a $300 fine--and in this scenario, that money is due instantly, or you lose your car forever.
+&nbsp;However, if you get caught parking without paying, you pay a $300 fine–and in this scenario, that money is due instantly, or you lose your car forever.
 
 Real-life events inspire this example. When I was 23, I got a boot on my car. It cost $800 to get off, and I had to pay it all at once. Otherwise, my car would be towed to the impound lot (at additional cost), and each day it was there, it would cost me an additional $110.&nbsp;
 
@@ -65,7 +65,7 @@ Expected value is another way of looking at the same question I posed to my clie
 
 I didn’t focus on the upside because the idea is that my client would be happy with the best-case scenario in either path. That’s why we’re making the comparison in the first place. After all, if only one path had a downside, then we wouldn’t entertain it as a choice.
 
-We focused on the downside because it’s a possible--and, in many cases, highly probable--outcome.
+We focused on the downside because it’s a possible–and, in many cases, highly probable–outcome.
 
 Murphy’s Law states that whatever can go wrong will go wrong. While I’m not nearly that pessimistic (plus I understand the concept of expected value and probability), I believe this is an excellent hedge against making the wrong decision.
 
@@ -77,9 +77,9 @@ It’s better not to be wrong most of the time than to be right only some of it.
 
 This is one of many reasons why airplane safety is such a big deal.
 
-The worst-case scenario is death--and there really isn’t an in-between. Flying is so safe that if you try to calculate the odds of any given flight crashing (simplistically, the number of crashes divided by the total number of flights), you get a number so small that most calculators simply return a “0”.
+The worst-case scenario is death–and there really isn’t an in-between. Flying is so safe that if you try to calculate the odds of any given flight crashing (simplistically, the number of crashes divided by the total number of flights), you get a number so small that most calculators simply return a “0”.
 
-In other words, the EV of a plane crash is so bad that it can’t be allowed to happen--and when it does, it’s (rightfully so) big news. Compare that to the number of automobile crashes and people who die as a result of them for any given year.
+In other words, the EV of a plane crash is so bad that it can’t be allowed to happen–and when it does, it’s (rightfully so) big news. Compare that to the number of automobile crashes and people who die as a result of them for any given year.
 
 I find it hilarious that \*far\* more people are afraid of flying than driving, considering that you effectively have no chance of dying from a plane crash. Meanwhile, your odds of dying in a car accident hover between [1 and 4 in 10,000 (.0001-.0004)](https://injuryfacts.nsc.org/motor-vehicle/historical-fatality-trends/deaths-and-rates/#:~:text=The%20population%20motor%2Dvehicle%20death,vehicles%2C%20a%2096%25%20improvement.).&nbsp;
 
@@ -96,3 +96,5 @@ This is an idea that is fundamental to making the right decisions in your life. 
 The best thing you can do is make every little decision have a positive expected value. If given two choices, focus on the one with a higher negative expected value. If you do this, you’ll be in a good position when things go wrong.
 
 And while things don’t always go wrong, they do often enough (especially when they shouldn’t) that you need to account for that possibility in your decision-making process actively. When in doubt, focus on the choice that leaves you in the best position if you come up on the wrong side of things.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
