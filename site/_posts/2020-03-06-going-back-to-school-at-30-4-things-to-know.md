@@ -12,6 +12,8 @@ description: >-
   If you're thinking about going back to school, read this first. I detail my
   observations and experiences being an adult student in college.
 ---
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC93YWYzY2ktc1V6Zz9zaT1qaS1aRGJGazZBWDBGRWxsIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/waf3ci-sUzg?si=ji-ZDbFk6AX0FEll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 At age 28, I went back to school.
 
 Although I had tried college immediately after high school, I failed after three semesters. None of my old grades were good enough to use for credit, so I started over from scratch.
@@ -45,8 +47,6 @@ If you're on the fence about going back to school later in life and being an old
 Enrolling in a college program as an adult is a serious decision.
 
 You need to be sure that your intended course of study is worth the four years and 5-figure tuition you're about to invest. You need to be careful not to enroll in a [school that's just a for-profit online degree mill.](https://thebestschools.org/magazine/online-college-vs-diploma-mills/){: target="_blank" rel="noopener noreferrer"}
-
-
 
 These are just types of places that take advantage of adult students who are strapped for time but want to better themselves.
 
