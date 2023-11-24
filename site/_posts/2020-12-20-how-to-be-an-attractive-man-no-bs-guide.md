@@ -82,7 +82,7 @@ There’s not much you can do about your height or the way your face looks (apar
 
 For the other factors: grooming and fitness, there’s plenty you can do to increase your attractiveness to women.
 
-{% include widgets/summary.html id="Attractive-Guy" %}
+{% include widgets/summary.html id="Attractive-Man" %}
 
 ### Haircut advice
 
@@ -491,4 +491,4 @@ In order to become successful with women, you only need the fundamentals. After 
 
 But whatever you do, make sure to actually *take action*. All this knowledge I’ve shared is useless if you don’t apply it to your own life.
 
-{% include widgets/summary.html id="Attractive-Guy" %}
+{% include widgets/summary.html id="Attractive-Man" %}
