@@ -137,7 +137,7 @@ For a drug dealer, it’s easy to assume that his reputation for violence (or th
 
 They will do whatever they can to secure relief from their cravings. When we apply this rule to our personal and business life, there is almost certainly a higher degree of confidence in getting your money, but there is a major parallel to the drug game that must be respected in your personal life.
 
-If a drug dealer gives drugs on credit, he can’t repossess those drugs if they user doesn’t pay him back. Violence is a deterrent, not a means of collection, so he’s still out.
+If a drug dealer gives drugs on credit, he can’t repossess those drugs if the user doesn’t pay him back. Violence is a deterrent, not a means of collection, so he’s still out.
 
 Similarly, avoid doing any work on credit and get your payment upfront. The time you invest into doing the work can’t be recovered if they stiff you. However, they are protected, in that if they feel like your work is unsatisfactory they can file a chargeback with their bank or credit card company.
 
