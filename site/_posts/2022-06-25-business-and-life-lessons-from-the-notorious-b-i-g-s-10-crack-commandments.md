@@ -1,11 +1,11 @@
 ---
 date: 2022-06-25 08:21:01 -0400
 article_type: Article
-title: Business and life lessons The Notorious B.I.G. 10 crack commandments
+title: Business and life lessons from The Notorious B.I.G. 10 crack commandments
 permalink: /ten-crack-commandments-business-and-life-lessons/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
+categories:
   - life-lessons
 description: >-
   The Ten Crackcommandments is an education in the real, raw, viciousness of
@@ -32,7 +32,6 @@ The Ten Crack Commandments is an education in human nature's real, raw, viciousn
 I’ve broken down each of the 10 crack commandments so you get the benefits of these hard-earned, deeper lessons about business, human nature, and life without ever having to sell drugs yourself.
 
 > When you’re street smart, money’s your report card
->
 >
 > —Jadakiss
 
@@ -76,7 +75,6 @@ Many opportunities only present themselves once. Certain vulnerabilities will no
 
 > Real G’s move in silence like lasagna
 >
->
 > —Lil’ Wayne
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
@@ -111,7 +109,7 @@ The more you enjoy what someone else makes, the less time you have to make somet
 
 ## 5\. Don’t mix business and pleasure
 
-> *Number 5, Never sell no crack where you rest at<br>I don't care if they want a ounce, tell 'em bounce\!*
+> *Number 5, Never sell no crack where you rest at<br>I don't care if they want a ounce, tell 'em bounce!*
 
 The warning here is to never sell drugs where you live because unsatisfied customers and rival drug dealers are likely to seek you out where you sell. If you live where you do business, then not only is your home put in danger, but you also introduce the possibility of collateral damage and innocent bystanders whom you care about getting attacked in a retaliation
 
@@ -125,7 +123,7 @@ A clear line between the two is best for your sanity and boundaries. This goes d
 
 ## 6\. Don’t do work on credit
 
-> *Number 6, that goddamn credit? Dead it<br>You think a crackhead paying you back, shit forget it\!*
+> *Number 6, that goddamn credit? Dead it<br>You think a crackhead paying you back, shit forget it!*
 
 Crackheads are unreliable. They can hustle when they need to get money for crack, but they're still unreliable.
 
@@ -167,7 +165,7 @@ If you have someone you’re close with who is going through a tough time, it mi
 
 ## 8\. Protect yourself from liabilities
 
-> *Number 8, never keep no weight on you\!<br>Them cats that squeeze your guns can hold jums too*
+> *Number 8, never keep no weight on you!<br>Them cats that squeeze your guns can hold jums too*
 
 This is one of those pieces of advice that reads right out of Niccolo Machiavelli’s classic, The Price. Before you can appreciate the brilliance of this piece of advice, most of you will need some translation.
 
@@ -205,7 +203,7 @@ Suppose you follow this rule in your personal life. In that case, you are far le
 
 ## 10\. Don’t take on debt you can’t handle
 
-> *Number 10, a strong word called consignment<br>**Strictly for live men, not for freshmen**<br>If you ain't got the clientele, say "hell no\!"\*<br>Cause they gon' want they money rain sleet hail snow*
+> *Number 10, a strong word called consignment<br>**Strictly for live men, not for freshmen**<br>If you ain't got the clientele, say "hell no!"\*<br>Cause they gon' want they money rain sleet hail snow*
 
 If a “plug” or drug supplier has enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give the dealer the product and he will only pay a predetermined fixed price after he's sold it.
 
