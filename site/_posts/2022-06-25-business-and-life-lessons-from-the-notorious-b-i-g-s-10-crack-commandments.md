@@ -153,7 +153,7 @@ This might be the only rule in the 10 crack commandments that people disagree wi
 
 People typically think of this situation as not hiring or working with family members. The pushback is that some of the world's most profitable and fulfilling businesses have been started with family members.
 
-Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, ambition, ability, or emotion-wise.
+Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, in terms of ambition, ability, or emotions.&nbsp;
 
 If you’re not careful, the disagreements you have in your personal life will manifest themselves in your business relationships—and vice-versa.
 
