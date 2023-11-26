@@ -22,7 +22,7 @@ Whether it was on the school bus, the schoolyard, or around the neighborhood, th
 
 During my childhood, my psyche was fighting a battle on two fronts. Domestically, I dealt with the emotional instability and physical abuse of my mother. At school, there was no respite either.
 
-My middle school enacted a uniform policy to cut down on the possibility of gang affiliation. The sound of gunshots was a regular occurrence during the night and during the day and the elementary school I went to had gangfire shooting drills in case the violence spilled over into the day.
+My middle school was so violent that the administration enacted a uniform policy to cut down on the possibility of gang affiliation. The sound of gunshots was a regular occurrence during the night and during the day and the elementary school I went to had gangfire shooting drills in case the violence spilled over into the day.
 
 My childhood was a warzone, and I was a civilian caught in the cross fire. If wanted to survive, I'd have to upgrade my toolkit. The only way I managed to keep myself sane was by retreating into my mind and focusing on the things that I had control over.
 
@@ -30,9 +30,9 @@ My childhood was a warzone, and I was a civilian caught in the cross fire. If wa
 
 As a child, I couldn’t do anything about where I lived or who I went to school with. I couldn’t control the behavior of my mom or other kids. I was born into unfortunate circumstances that came with great risk, but there was nothing I could do about it. The only thing I could control was how I lived, thought, and behaved.
 
-Many street-smart creeds echo this dichotomy by fixating energy on ambitious goals rather than bemoaning uncontrollable hardships. Malcolm X reframed racism as out of his hands, but educating himself as within his power. Frank Lucas ignored prejudice to build his drug empire. Every one who has ever made something of their lives from nothing—even in an insidious manner—focused on areas where they could exercise complete control and learned to ignore all other distractions.
+Many street-smart creeds echo this dichotomy by fixating energy on ambitious goals rather than bemoaning uncontrollable hardships. Malcolm X reframed racism as out of his hands, but educating himself as within his power. Frank Lucas ignored prejudice to build his drug empire. Everyone who has ever made something of their lives from nothing—even in an insidious manner—focused on areas where they could exercise complete control and learned to ignore all other distractions.
 
-The serenity prayer asks addicts for serenity to accept what they can't change, the courage to change what they can, and the wisdom to know the difference.
+The serenity prayer from Alcoholics Anonymous asks addicts for "the serenity to accept what they can't change, the courage to change what they can, and the wisdom to know the difference."
 
 This idea was expressed by the stoic philosopher Epictetus when he said:
 
@@ -44,7 +44,7 @@ External conditions won't change. But charting your own course grants freedom an
 
 ## The Stoic Practice Of Knowing What You Don't Control
 
-There is a line from ["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
+There is a line from the international best-selling memoir&nbsp;["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
 
 “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
 
@@ -60,13 +60,13 @@ The idea isn't perfection. It's simply to make progress towards a way of thinkin
 
 We cannot erase anger or sadness over mistreatment, but we can lessen the grip external negativity has over us. It need not derail our purpose or progress.
 
-Marcus Aurelius wrote in Meditations: "The happiness of your life depends upon the quality of your thoughts.” A dichotomy mindset builds resilience by framing events more thoughtfully to minimize suffering. We assign meaning to circumstances - why not shift perspective for tranquility?
+Marcus Aurelius wrote in Meditations: "The happiness of your life depends upon the quality of your thoughts.” This mindset builds resilience by framing events more thoughtfully to minimize suffering. We assign meaning to circumstances - why not shift perspective for tranquility?
 
 This street-smart outlook reminds us we always have power over our reactions and ambition, even if our surroundings seem imposing. Environmental influences alone do not shape destiny. Many figures rose from dire conditions by mastering what they could change through willpower, determination, and grit.
 
 So in rough spots, remember—you may not control all events, but you have autonomy over the only thing that truly matters: how you respond. Your judgments determine whether external factors defeat or empower you. With wisdom, you can thrive amidst almost any hardship.
 
-## Dichotomy of control training: Putting the control into practice
+## Putting the control into practice: Dichotomy of control training
 
 Choose a minor disturbing event and write down why it's bothering you. Next, draw two columns labeled "Controllable" and "Uncontrollable" and list components of the issue, sorting each into the appropriate column based on your control over it.
 
