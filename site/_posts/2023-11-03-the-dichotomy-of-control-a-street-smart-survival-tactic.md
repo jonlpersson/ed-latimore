@@ -14,7 +14,7 @@ image: /assets/images/posts/epictetus-dichotomy.jpeg
 ---
 I occasionally get asked how I got introduced to Stoic Philosophy.
 
-I never had a formal introduction to stoic ideas. My everyday life, growing up in dangerous and destitute conditions, taught me the stoic concept of focusing only on what I could control.
+I never had a formal introduction to stoic ideas. My everyday life, growing up in the dangerous and destitute conditions [of the projects](/the-projects/) taught me the stoic concept of focusing only on what I could control.
 
 At school and in my neighborhood, I dealt with what is technically known as “bullying” and “teasing.” I say “technically” because although it would be classified as such, it went beyond what typically comes to mind when you imagine those things.
 
