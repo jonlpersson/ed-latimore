@@ -22,7 +22,7 @@ Whether it was on the school bus, the schoolyard, or around the neighborhood, th
 
 During my childhood, my psyche was fighting a battle on two fronts. Domestically, I dealt with the emotional instability and physical abuse of my mother. At school, there was no respite either.
 
-My middle school was so violent that the administration enacted a uniform policy to cut down on the possibility of gang affiliation. The sound of gunshots was a regular occurrence during the night and during the day and the elementary school I went to had gangfire shooting drills in case the violence spilled over into the day.
+My middle school was so violent that the administration enacted a uniform policy to cut down on the possibility of gang affiliation. The sound of gunshots was a regular occurrence during the night and during the day, the elementary school I went to had gangfire shooting drills in case the violence spilled over into the day.
 
 My childhood was a warzone, and I was a civilian caught in the cross fire. If wanted to survive, I'd have to upgrade my toolkit. The only way I managed to keep myself sane was by retreating into my mind and focusing on the things that I had control over.
 
