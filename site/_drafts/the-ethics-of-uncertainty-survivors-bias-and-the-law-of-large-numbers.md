@@ -70,6 +70,8 @@ Because I never got caught drinking and driving, I thought I could keep getting 
 
 ## You can't outrun the law of large numbers
 
+![Coin toss and the law of large numbers](/assets/images/drafts/cointoss.png "Coin toss and the law of large numbers"){: width="512" height="512"}
+
 
 
 The law of large numbers refers to the tendency for results involving randomness to stabilize or converge as more trials or instances occur increasingly. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
@@ -80,7 +82,9 @@ There is a great line from the hit series “Narcos” that illustrates this ide
 
 But because I was one of the 99% who never got a DUI, I was able to change my life around and not suffer any consequences (jail time, criminal record, inability to get a passport, etc.). Although I got sober of my own volition, I don’t feel like this is an ethical and fair outcome. Simply a lucky one that I capitalized on.
 
-Skill and insight is required for the things you can control, but you need luck to survive the things you can’t. Opportunity is when you survive the latter long enough to make progress based on the former. If you push your luck, taking more risks than you need to, you will eventually come up on the wrong side of things. At that point, no amount of skill can save you.
+Skill and insight is required for the things you can control, but you need luck to survive the things you can’t. Opportunity is when you survive the latter long enough to make progress based on the former. If you push your luck and take more risks than you need to, you will eventually come up on the wrong side. At that point, no amount of skill can save you.
+
+## Push your luck too much, and eventually, your luck will push back
 
 I regularly feel guilty because every time I bet on tails, I won. Just because I made the correct call doesn’t mean it was the right one. This has given me a powerful framework for assessing people.
 
@@ -93,5 +97,7 @@ Of course, this also means that you could be dealing with legitimate violent cri
 We don’t all become redemption stories. We don’t all get in front of our problems before the law does. With that said, if you’re currently engaging in any behavior where the law of large numbers is currently on your side, my recommendation to you is to stop before the math catches up to you.
 
 The ethics of uncertainty and the law of large numbers give you a chance to get right before the universe intervenes. And it always does, one way or the other.&nbsp;
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
 
 ​​​​​​
