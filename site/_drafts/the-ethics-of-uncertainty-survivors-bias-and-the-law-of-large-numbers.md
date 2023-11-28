@@ -6,9 +6,9 @@ permalink: /survivors-bias-and-the-law-of-large-numbers/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >
-  There is a great line from the hit series “Narcos” that illustrates this idea
-  more poetically. “The bad guys have to keep getting lucky. We only have to get
-  lucky once.” No one outruns the law of large numbers forever. 
+  A great line from the hit series “Narcos” illustrates the law of large numbers
+  idea more poetically. “The bad guys have to keep getting lucky. We only have
+  to get lucky once.” No one outruns the law of large numbers forever. 
 image: /assets/images/drafts/survivors-bias.png
 ---
 ***"If you replayed the circumstances of my early life repeatedly, nine times out of ten I suspect I’d end up in jail."***
