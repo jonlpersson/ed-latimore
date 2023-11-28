@@ -37,6 +37,8 @@ I’m not proud of the behavior. Although no one got hurt, the risk I took doing
 
 When you focus only on the outcomes, you create a particularly devastating illusion.&nbsp;
 
+## The ethics of uncertainty and drunk driving
+
 In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year. ([Source](https://www.cdc.gov/motorvehiclesafety/impaired_driving/impaired-drv_factsheet.html){: target="_blank" rel="noopener"})
 
 This means that if you’ve been drinking, getting arrested for a DUI is the *least likely* outcome. If you have a DUI, the numbers suggest that you got unlucky. And not just kind of unlucky. However, it was your fault for getting behind the wheel intoxicated.
@@ -46,6 +48,10 @@ Your lack of skill in making the best decisions coincided with landing on the wr
 We want the world to behave predictably and deterministically. If every time someone got behind the wheel with a BAC over .08%, we want to know they’d be arrested. At the very least, we’d sleep better knowing that it happened more than 1% of the time. We’d also have fewer drunk drivers since they almost always get arrested instead of developing a case of survivor bias.
 
 That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it--and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
+
+## Survivor's bias is a dangerous logical fallacy
+
+![Survivor's bias discounts those who didn't survive](/assets/images/drafts/the-one-who-made-it.png "Survivor's bias discounts those who didn't survive"){: width="675" height="675"}
 
 Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
 
@@ -62,9 +68,11 @@ So those least damaged areas in reality represented the most vulnerable parts. T
 
 Because I never got caught drinking and driving, I thought I could keep getting away with it. I think most people who habitually engage in risky behaviors believe something to this effect. They view their “success” as a sign of competence. Or maybe, they don’t care. Either way, the law of large numbers catches up to everyone.
 
+## You can't outrun the law of large numbers
 
 
-The law of large numbers refers to the tendency for results involving randomness to increasingly stabilize or converge as more trials or instances occur. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
+
+The law of large numbers refers to the tendency for results involving randomness to stabilize or converge as more trials or instances occur increasingly. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
 
 A simple example is coin flips. Flip a coin just 10 times, and heads or tails could dominate heavily by chance - the ratios will visibly differ from the 50-50 probability. But if you complete 10,000 coin flips, you'll likely end quite close to 50% heads and tails as outliers balance out. The enormous volume normalizes around the expected value.
 
@@ -86,5 +94,4 @@ We don’t all become redemption stories. We don’t all get in front of our pro
 
 The ethics of uncertainty and the law of large numbers give you a chance to get right before the universe intervenes. And it always does, one way or the other.&nbsp;
 
-1. [https://www.cdc.gov/motorvehiclesafety/impaired\_driving/impaired-drv\_factsheet.html](https://www.cdc.gov/motorvehiclesafety/impaired_driving/impaired-drv_factsheet.html)
-2. [https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
+​​​​​​
