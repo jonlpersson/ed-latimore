@@ -45,7 +45,7 @@ Your lack of skill in making the best decisions coincided with landing on the wr
 
 We want the world to behave predictably and deterministically. If every time someone got behind the wheel with a BAC over .08%, we want to know they’d be arrested. At the very least, we’d sleep better knowing that it happened more than 1% of the time. We’d also have fewer drunk drivers since they almost always get arrested instead of developing a case of survivor bias.
 
-That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it--and murder has one of the *better* clearance rates of violent crime.[2](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
+That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it--and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
 
 Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
 
