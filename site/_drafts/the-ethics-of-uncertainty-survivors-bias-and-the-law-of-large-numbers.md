@@ -11,27 +11,23 @@ description: >
   to get lucky once.” No one outruns the law of large numbers forever. 
 image: /assets/images/drafts/survivors-bias.png
 ---
-***"If you replayed the circumstances of my early life repeatedly, nine times out of ten I suspect I’d end up in jail."***
+***“If you replayed the circumstances of my early life repeatedly, nine times out of ten, I suspect I’d end up in jail.”***
 
 **\-Rob Henderson, Cambridge PhD student**
 
-It takes a certain level of maturity and humility to accept luck's role in your success.
-
-
+It takes a certain level of maturity and humility to accept luck’s role in your success.
 
 It takes the same maturity and humility to accept the role you play in creating your problems.
 
-
-
 Some things you control.
 
-Some you can't.
+Some you can’t.
 
 All contribute to your quality of life.
 
-By luck, I mean things that affected the outcome that you didn’t control.
+By luck, I mean things that affected the outcome that you don’t control.
 
-By skill, I mean things that affected the outcome that you did control.
+By skill, I mean things that affected the outcome that you control.
 
 I think about one of the defining moments in my life. I stopped drinking after a night when I couldn’t remember how I got where I woke up. I just knew that I drove there.
 
@@ -41,11 +37,7 @@ I’m not proud of the behavior. Although no one got hurt, the risk I took doing
 
 When you focus only on the outcomes, you create a particularly devastating illusion.&nbsp;
 
-
-
----
-
-In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year.[1](https://www.cdc.gov/motorvehiclesafety/impaired_driving/impaired-drv_factsheet.html)
+In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year. ([Source](https://www.cdc.gov/motorvehiclesafety/impaired_driving/impaired-drv_factsheet.html){: target="_blank" rel="noopener"})
 
 This means that if you’ve been drinking, getting arrested for a DUI is the *least likely* outcome. If you have a DUI, the numbers suggest that you got unlucky. And not just kind of unlucky. However, it was your fault for getting behind the wheel intoxicated.
 
@@ -57,35 +49,22 @@ That’s disheartening but think about the families of murder victims. There’s
 
 Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
 
-The Allies analyzed bullet hole patterns on their planes thinking more armor may be useful where the planes were getting hit the most. However, analyst Abraham Wald pointed out that the correct conclusion was the opposite - they should reinforce where there were the least bullet holes. Why?
+The Allies analyzed bullet hole patterns on their planes, thinking more armor may be useful where the planes were getting hit the most. However, analyst Abraham Wald pointed out that the correct conclusion was the opposite - they should reinforce where there were the least bullet holes. Why?
 
 Because the planes they were looking at were the ones that had survived and returned.&nbsp;
 
-
-
 The areas with fewer bullet holes were likely the most critical - planes getting hit in those places likely didn’t make it back.
-
-
 
 So those least damaged areas in reality represented the most vulnerable parts. The lesson here is that when you only look at the successful people as an example of what to emulate, you do two disservices:
 
-
-
 1. You ignore all the people who didn’t make it despite having the same conditions and circumstances. At best, this creates a blind spot. At worst, it creates an impossible burden of expectation.
-
-
-
-1. You follow the wrong metrics for success. You set yourself up for failure because you’re operating under conditions that usually lead to failure. This is big problem if you ever want to improve.
+2. You follow the wrong metrics for success. You set yourself up for failure because you’re operating under conditions that usually lead to failure. This is big problem if you ever want to improve.
 
 Because I never got caught drinking and driving, I thought I could keep getting away with it. I think most people who habitually engage in risky behaviors believe something to this effect. They view their “success” as a sign of competence. Or maybe, they don’t care. Either way, the law of large numbers catches up to everyone.
 
 
 
----
-
 The law of large numbers refers to the tendency for results involving randomness to increasingly stabilize or converge as more trials or instances occur. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
-
-
 
 A simple example is coin flips. Flip a coin just 10 times, and heads or tails could dominate heavily by chance - the ratios will visibly differ from the 50-50 probability. But if you complete 10,000 coin flips, you'll likely end quite close to 50% heads and tails as outliers balance out. The enormous volume normalizes around the expected value.
 
@@ -94,10 +73,6 @@ There is a great line from the hit series “Narcos” that illustrates this ide
 But because I was one of the 99% who never got a DUI, I was able to change my life around and not suffer any consequences (jail time, criminal record, inability to get a passport, etc.). Although I got sober of my own volition, I don’t feel like this is an ethical and fair outcome. Simply a lucky one that I capitalized on.
 
 Skill and insight is required for the things you can control, but you need luck to survive the things you can’t. Opportunity is when you survive the latter long enough to make progress based on the former. If you push your luck, taking more risks than you need to, you will eventually come up on the wrong side of things. At that point, no amount of skill can save you.
-
-
-
----
 
 I regularly feel guilty because every time I bet on tails, I won. Just because I made the correct call doesn’t mean it was the right one. This has given me a powerful framework for assessing people.
 
