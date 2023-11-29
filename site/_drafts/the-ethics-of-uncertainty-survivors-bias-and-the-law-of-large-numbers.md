@@ -47,7 +47,7 @@ Your lack of skill in making the best decisions coincided with landing on the wr
 
 We want the world to behave predictably and deterministically. If every time someone got behind the wheel with a BAC over .08%, we want to know they’d be arrested. At the very least, we’d sleep better knowing that it happened more than 1% of the time. We’d also have fewer drunk drivers since they almost always get arrested instead of developing a case of survivor bias.
 
-That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it--and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
+That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it—and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
 
 ## Survivor's bias is a dangerous logical fallacy
 
@@ -71,8 +71,6 @@ Because I never got caught drinking and driving, I thought I could keep getting 
 ## You can't outrun the law of large numbers
 
 ![Coin toss and the law of large numbers](/assets/images/drafts/cointoss.png "Coin toss and the law of large numbers"){: width="512" height="512"}
-
-
 
 The law of large numbers refers to the tendency for results involving randomness to stabilize or converge as more trials or instances occur increasingly. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
 
