@@ -61,6 +61,8 @@ Because the planes they were looking at were the ones that had survived and retu
 
 The areas with fewer bullet holes were likely the most critical - planes getting hit in those places likely didn’t make it back.
 
+![Survivor's Bias and where the bullet holes are not](/assets/images/drafts/where-the-bullet-holes-aren-t.png "Survivor's Bias and where the bullet holes are not"){: width="1920" height="1080"}
+
 So those least damaged areas in reality represented the most vulnerable parts. The lesson here is that when you only look at the successful people as an example of what to emulate, you do two disservices:
 
 1. You ignore all the people who didn’t make it despite having the same conditions and circumstances. At best, this creates a blind spot. At worst, it creates an impossible burden of expectation.
