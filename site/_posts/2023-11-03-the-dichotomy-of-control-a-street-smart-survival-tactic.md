@@ -36,7 +36,7 @@ The serenity prayer from Alcoholics Anonymous asks addicts for "the serenity to 
 
 This idea was expressed by the stoic philosopher Epictetus when he said:
 
-*"The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own."*
+> *"The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own."*
 
 The dichotomy is key to resilience in rough environments.
 
@@ -46,7 +46,7 @@ You have no power over external conditions, but charting your own course grants 
 
 There is a line from the international best-selling memoir&nbsp;["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
 
-“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
+> “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
 
 This dichotomy empowers us to liberate mental energy that would be wasted worrying over uncontrollable things. Instead, we can invest that energy into the spheres where our choices and skills really matter. In Frankl's case, what mattered most was surviving the camps.&nbsp;
 
@@ -62,7 +62,7 @@ We cannot erase anger or sadness over mistreatment, but we can lessen the grip e
 
 Marcus Aurelius wrote in Meditations: "The happiness of your life depends upon the quality of your thoughts.” This mindset builds resilience by framing events more thoughtfully to minimize suffering. We assign meaning to circumstances - why not shift perspective for tranquility?
 
-This street-smart outlook reminds us we always have power over our reactions and ambition, even if our surroundings seem imposing. Environmental influences alone do not shape destiny. Many figures rose from dire conditions by mastering what they could change through willpower, determination, and grit.
+This outlook reminds us we always have power over our reactions and ambition, even if our surroundings seem imposing. Environmental influences alone do not shape destiny. Many figures rose from dire conditions by mastering what they could change through willpower, determination, and grit.
 
 So in rough spots, remember—you may not control all events, but you have autonomy over the only thing that truly matters: how you respond. Your judgments determine whether external factors defeat or empower you. With wisdom, you can thrive amidst almost any hardship.
 
