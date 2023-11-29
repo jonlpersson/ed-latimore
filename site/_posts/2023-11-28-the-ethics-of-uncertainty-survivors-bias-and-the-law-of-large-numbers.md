@@ -15,9 +15,9 @@ image: /assets/images/drafts/survivors-bias.png
 
 **\-Rob Henderson, Cambridge PhD student**
 
-It takes a certain level of maturity and humility to accept luck’s role in your success.
+Accepting luck's role in your success takes a certain level of maturity and humility.&nbsp;
 
-It takes the same maturity and humility to accept the role you play in creating your problems.
+It takes the same maturity and humility to accept your role in creating your problems.
 
 Some things you control.
 
@@ -25,9 +25,9 @@ Some you can’t.
 
 All contribute to your quality of life.
 
-By luck, I mean things that affected the outcome that you don’t control.
+By luck, I mean things that affect the outcome that you don’t control.
 
-By skill, I mean things that affected the outcome that you control.
+By skill, I mean things that affect the outcome that you control.
 
 I think about one of the defining moments in my life. I stopped drinking after a night when I couldn’t remember how I got where I woke up. I just knew that I drove there.
 
@@ -47,13 +47,13 @@ Your lack of skill in making the best decisions coincided with landing on the wr
 
 We want the world to behave predictably and deterministically. If every time someone got behind the wheel with a BAC over .08%, we want to know they’d be arrested. At the very least, we’d sleep better knowing that it happened more than 1% of the time. We’d also have fewer drunk drivers since they almost always get arrested instead of developing a case of survivor bias.
 
-That’s disheartening but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it—and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
+That’s disheartening, but think about the families of murder victims. There’s a 40 percent chance they’ll never know who did it—and murder has one of the *better* clearance rates of violent crime. ([Source)](https://www.vox.com/2018/9/24/17896034/murder-crime-clearance-fbi-report)
 
 ## Survivor's bias is a dangerous logical fallacy
 
 ![Survivor's bias discounts those who didn't survive](/assets/images/drafts/the-one-who-made-it.png "Survivor's bias discounts those who didn't survive"){: width="675" height="675"}
 
-Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
+Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the Allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
 
 The Allies analyzed bullet hole patterns on their planes, thinking more armor may be useful where the planes were getting hit the most. However, analyst Abraham Wald pointed out that the correct conclusion was the opposite - they should reinforce where there were the least bullet holes. Why?
 
