@@ -63,26 +63,26 @@ The areas with fewer bullet holes were likely the most critical - planes getting
 
 ![Survivor's Bias and where the bullet holes are not](/assets/images/drafts/where-the-bullet-holes-aren-t.png "Survivor's Bias and where the bullet holes are not"){: width="1920" height="1080"}
 
-So those least damaged areas in reality represented the most vulnerable parts. The lesson here is that when you only look at the successful people as an example of what to emulate, you do two disservices:
+So, those least damaged areas represented the most vulnerable parts. The lesson here is that when you only look at successful people as an example of what to emulate, you do two disservices:
 
-1. You ignore all the people who didn’t make it despite having the same conditions and circumstances. At best, this creates a blind spot. At worst, it creates an impossible burden of expectation.
-2. You follow the wrong metrics for success. You set yourself up for failure because you’re operating under conditions that usually lead to failure. This is big problem if you ever want to improve.
+1. You ignore everyone who didn’t make it despite having the same conditions and circumstances. At best, this creates a blind spot. At worst, it creates an impossible burden of expectation.
+2. You follow the wrong metrics for success. You set yourself up for failure because you’re operating under conditions that usually lead to failure. This is a big problem if you ever want to improve.
 
-Because I never got caught drinking and driving, I thought I could keep getting away with it. I think most people who habitually engage in risky behaviors believe something to this effect. They view their “success” as a sign of competence. Or maybe, they don’t care. Either way, the law of large numbers catches up to everyone.
+Because I never got caught drinking and driving, I thought I could keep getting away with it. Most people who habitually engage in risky behaviors believe something to this effect. They view their “success” as a sign of competence. Or maybe, they don’t care. Either way, the law of large numbers catches up to everyone.
 
 ## You can't outrun the law of large numbers
 
 ![Coin toss and the law of large numbers](/assets/images/drafts/cointoss.png "Coin toss and the law of large numbers"){: width="512" height="512"}
 
-The law of large numbers refers to the tendency for results involving randomness to stabilize or converge as more trials or instances occur increasingly. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes emerging from the collective results.
+The law of large numbers refers to the tendency for results involving randomness to stabilize or converge as more trials or instances occur increasingly. While small sample sizes show wide variation and flux, larger data sets reveal more predictable average outcomes from the collective results.
 
-A simple example is coin flips. Flip a coin just 10 times, and heads or tails could dominate heavily by chance - the ratios will visibly differ from the 50-50 probability. But if you complete 10,000 coin flips, you'll likely end quite close to 50% heads and tails as outliers balance out. The enormous volume normalizes around the expected value.
+A simple example is coin flips. Flip a coin 10 times, and heads or tails could dominate heavily by chance - the ratios will visibly differ from the 50-50 probability. But if you complete 10,000 coin flips, you'll likely end up close to 50% heads and tails as outliers balance out. The enormous volume normalizes around the expected value.
 
-There is a great line from the hit series “Narcos” that illustrates this idea more poetically. “The bad guys have to keep getting lucky. We only have to get lucky once.” Maybe I would have kept getting luck, however, no one outruns the law of large numbers forever.&nbsp;
+A great line from the hit series “Narcos” illustrates this idea more poetically. “The bad guys have to keep getting lucky. We only have to get lucky once.” Maybe I would have kept getting lucky; however, no one outruns the law of large numbers forever.&nbsp;
 
-But because I was one of the 99% who never got a DUI, I was able to change my life around and not suffer any consequences (jail time, criminal record, inability to get a passport, etc.). Although I got sober of my own volition, I don’t feel like this is an ethical and fair outcome. Simply a lucky one that I capitalized on.
+But because I was one of the 99% who never got a DUI, I was able to change my life around and not suffer any consequences (jail time, criminal record, inability to get a passport, etc.). Although I got sober of my own volition, I don’t feel like this is an ethical and fair outcome. It is simply a lucky one that I capitalized on.
 
-Skill and insight is required for the things you can control, but you need luck to survive the things you can’t. Opportunity is when you survive the latter long enough to make progress based on the former. If you push your luck and take more risks than you need to, you will eventually come up on the wrong side. At that point, no amount of skill can save you.
+Skill and insight are required for the things you can control, but you need luck to survive the things you can’t. Opportunity is when you survive the latter long enough to make progress based on the former. If you push your luck and take more risks than you need to, you will eventually come up on the wrong side. At that point, no amount of skill can save you.
 
 ## Push your luck too much, and eventually, your luck will push back
 
