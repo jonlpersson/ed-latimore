@@ -36,9 +36,9 @@ This idea was expressed by the stoic philosopher Epictetus when he said:
 
 *"The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own."*
 
-This dichotomy is key to resilience in rough environments.
+The dichotomy is key to resilience in rough environments.
 
-External conditions won't change. But charting your own course grants freedom and purpose. Stoicism's ancient dichotomy of control remains potent street logic for focusing power while letting go of unwinnable battles. Mastering this mindset helps us thrive amidst adversity's inherent chaos.
+You have no power over external conditions, but charting your own course grants freedom and purpose.. But charting your own course grants freedom and purpose. Stoicism's ancient dichotomy of control remains potent street logic for focusing power while letting go of unwinnable battles. Mastering this mindset helps us thrive amidst adversity's inherent chaos.
 
 ## The Stoic Practice Of Knowing What You Don't Control
 
