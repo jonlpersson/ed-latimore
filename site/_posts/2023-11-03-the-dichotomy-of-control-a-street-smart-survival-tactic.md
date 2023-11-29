@@ -40,7 +40,7 @@ This idea was expressed by the stoic philosopher Epictetus when he said:
 
 The dichotomy is key to resilience in rough environments.
 
-You have no power over external conditions, but charting your own course grants freedom and purpose.. But charting your own course grants freedom and purpose. Stoicism's ancient dichotomy of control remains potent street logic for focusing power while letting go of unwinnable battles. Mastering this mindset helps us thrive amidst adversity's inherent chaos.
+You have no power over external conditions, but charting your own course grants freedom and purpose. Stoicism's ancient dichotomy of is potent for focusing power while letting go of unwinnable battles. Mastering this mindset helps us thrive amidst adversity's inherent chaos.
 
 ## The Stoic Practice Of Knowing What You Don't Control
 
