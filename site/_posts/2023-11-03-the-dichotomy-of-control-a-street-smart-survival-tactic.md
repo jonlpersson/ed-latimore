@@ -30,8 +30,6 @@ My childhood was a warzone, and I was a civilian caught in the cross fire. If wa
 
 As a child, I couldn’t do anything about where I lived or who I went to school with. I couldn’t control the behavior of my mom or other kids. I was born into unfortunate circumstances that came with great risk, but there was nothing I could do about it. The only thing I could control was how I lived, thought, and behaved.
 
-Many street-smart creeds echo this dichotomy by fixating energy on ambitious goals rather than bemoaning uncontrollable hardships. Malcolm X reframed racism as out of his hands, but educating himself as within his power. Frank Lucas ignored prejudice to build his drug empire. Everyone who has ever made something of their lives from nothing—even in an insidious manner—focused on areas where they could exercise complete control and learned to ignore all other distractions.
-
 The serenity prayer from Alcoholics Anonymous asks addicts for "the serenity to accept what they can't change, the courage to change what they can, and the wisdom to know the difference."
 
 This idea was expressed by the stoic philosopher Epictetus when he said:
