@@ -39,7 +39,7 @@ When you focus only on the outcomes, you create a particularly devastating illus
 
 ## The ethics of uncertainty and drunk driving
 
-In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year. ([Source](https://www.cdc.gov/motorvehiclesafety/impaired_driving/impaired-drv_factsheet.html){: target="_blank" rel="noopener"})
+In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year.&nbsp;
 
 This means that if you’ve been drinking, getting arrested for a DUI is the *least likely* outcome. If you have a DUI, the numbers suggest that you got unlucky. And not just kind of unlucky. However, it was your fault for getting behind the wheel intoxicated.
 
