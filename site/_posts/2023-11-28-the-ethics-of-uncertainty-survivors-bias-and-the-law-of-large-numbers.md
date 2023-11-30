@@ -53,7 +53,7 @@ That’s disheartening, but think about the families of murder victims. There’
 
 ![Survivor's bias discounts those who didn't survive](/assets/images/drafts/the-one-who-made-it.png "Survivor's bias discounts those who didn't survive"){: width="675" height="675"}
 
-Survivor bias is the **logical error of concentrating on those who passed a selection process while overlooking** those who did not. The most famous example of this is the case of the Allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
+Survivor bias is the logical error of concentrating on those who passed a selection process while overlooking those who did not. The most famous example of this is the case of the Allied forces in World War II investigating where most bullet holes were concentrated in their planes that had returned from battle.
 
 The Allies analyzed bullet hole patterns on their planes, thinking more armor may be useful where the planes were getting hit the most. However, analyst Abraham Wald pointed out that the correct conclusion was the opposite - they should reinforce where there were the least bullet holes. Why?
 
