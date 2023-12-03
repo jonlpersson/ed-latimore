@@ -26,3 +26,29 @@ That's why I always suggest being polite to everyone you encounter. You never kn
 No matter the circumstance, it's always a good idea to treat people with respect and kindness. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. The worst-case scenario, believe it or not, is NOT that they’ll retaliate.
 
 Good manners never make a situation worse.
+
+The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime.
+
+No matter how badass you think you are, there is not only someone worse, but there are people who are bad and will never have to face the consequences for their evil.
+
+How is this possible?
+
+## **Someone is in your country on a diplomatic visa**
+
+This means that they can't be arrested (or, at the very least, it is prohibitively difficult to arrest them).
+
+Maybe their host country will turn them over or prosecute. Maybe they won't. But for all intents and purposes, they are protected as long as they are in they are on a diplomatic visa.
+
+It could get even worse if they seek refuge in their native country’s embassy because attacking an embassy is considered an act of war.
+
+Recall the story of Yvonne Fletcher being killed by a shot fired from the Libyan Embassy in Great Britain. British authorities couldn't do anything, and the Libyan authorities wouldn't either ([Read the story here](https://en.wikipedia.org/wiki/Murder_of_Yvonne_Fletcher){: rel=""}).​This is how an embassy and a military base in another country work. It is \*effectively\* foreign soil and, as such, presents a host of difficulties when it comes to navigating crimes committed by their citizens while on the host country’s soil.
+
+If you doubt this, check out the case of Anne Sacoolas, the wife of an American diplomat in Great Britain, who left the UK after she killed a 27-year-old in a car crash. ([Read the story here](https://time.com/5696300/diplomatic-immunity-harry-dunn/){: rel=""})
+
+Then there's the time that Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
+
+This leads nicely to the next issue.
+
+The odds of you crossing paths with someone protected under diplomatic immunity are small but not zero. However, I know a guy with first-hand experience dealing with the second "legal protection."
+
+## **Crucial federal informant**
