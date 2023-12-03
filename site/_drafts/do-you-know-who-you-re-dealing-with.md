@@ -19,7 +19,9 @@ It's not difficult to imagine encountering someone in any of these scenarios, pa
 
 Organized crime might be illegal, but its influence is so vast that many of its members enjoy de facto immunity. Even in cases dealing with low-level street gangs, the threat of intimidation can be surprisingly potent, causing witnesses to forget crucial details of an incident.
 
-That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars, and even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not everyone values the same things you do, such as life, liberty, and freedom.
+That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars, and even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not
+
+everyone values the same things you do, such as life, liberty, and freedom.
 
 {% twitter: https://twitter.com/EdLatimore/status/1367206792393023497 %}
 
@@ -52,3 +54,35 @@ This leads nicely to the next issue.
 The odds of you crossing paths with someone protected under diplomatic immunity are small but not zero. However, I know a guy with first-hand experience dealing with the second "legal protection."
 
 ## **Crucial federal informant**
+
+**![White bulger was someone given a pass for murder](/assets/images/drafts/james-whitey-bulgar-federal-informant.png){: width="1062" height="738"}**
+
+
+
+There’s a higher probability of getting into a street altercation with this guy.
+
+I have an acquaintance whose brother was killed, and when he did his own digging, he discovered that the local authorities had a strong lead on a possible suspect. However, they were unable to apprehend him because he was an informant in a larger federal case.
+
+This information wasn't told to him on the record, of course.
+
+I don't know how "above water" this is, but it's not unprecedented. A few years ago, a story broke about this practice. Several former FBI agents have said, on the record, something akin to the following:
+
+> “The bureau has to encourage these guys to be themselves and do what they do. If they stop just because they are working with the FBI, somebody’s going to question them. If anything, I’d want them to become more active.”
+
+***\-Joseph O’Brien, a former FBI informant coordinator in New York City who retired in 1991. ([Read the article here](https://www.latimes.com/archives/la-xpm-2003-mar-16-adna-danger16-story.html){: rel=""})***
+
+In other words, some people can kill you without facing legal consequences, and they know it. In fact, they may be emboldened to do so because they need to maintain cover and not have anyone think they’re a snitch.
+
+Most recently, the man who stabbed Derek Chauvin in prison was 52-year-old John Turscak who previously worked as an FBI informant.
+
+Turscak was in prison after being found guilty of racketeering and conspiring to kill a gang rival. Before that, he worked as an FBI informant against the Mexican Mafia organization.
+
+When being sentenced in 2001, Turscak admitted that he carried out crimes while working undercover as an informant to the FBI. "I didn’t commit those crimes for kicks. I did them because I had to if I wanted to stay alive. I told that to the \[FBI\] agents and they just said, **‘Do what you have to do.’**" [Read the LA times article here.](https://www.latimes.com/archives/la-xpm-2001-nov-27-me-8712-story.html){: target="_blank" rel="noopener"}
+
+So please, don't be a dumb ass in these streets.
+
+***\[Read:&nbsp;[How to avoid a street fight and what to do if you can’t](https://edlatimore.com/how-to-win-a-street-fight/){: rel=""}\]***
+
+Everyone worries about the police and the possibility of being killed by them with impunity, but at least in that scenario, there's at least an investigation and trial. In the case of a federally protected witness killing you, your death would just be the cost of doing business.
+
+I elaborate more on this in my latest Youtube Video. Check it out, like it, leave a comment, and if you really dig it, share it.
