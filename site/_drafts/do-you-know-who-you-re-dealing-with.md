@@ -95,3 +95,5 @@ Everyone worries about the police and the possibility of being killed by them wi
 In the case of a federally protected witness killing you, your death would just be the cost of doing business. As such, it would be written off and charged to the game.
 
 This is why you have to keep a cool head in the streets. You never know who is "protected" by the law.&nbsp;
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
