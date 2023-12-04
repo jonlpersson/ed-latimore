@@ -5,8 +5,11 @@ title: Do you know who you're dealing with?
 permalink: /do-you-know-who-youre-dealing-with/
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
-image:
+description: >-
+  There are certain classes of people who can take your life and get away with
+  it. They won't even be tried. This is why it's important to stay calm and
+  always know who you're dealing with. 
+image: /assets/images/drafts/whitey-bulger.jpeg
 ---
 Maintaining a level head is undoubtedly one of the most crucial skills you can develop. It can make a huge difference, sometimes even saving your life, in situations where you might not even be aware of the danger. After all, you never know who you're dealing with:
 
@@ -19,15 +22,13 @@ It's not difficult to imagine encountering someone in any of these scenarios, pa
 
 Organized crime might be illegal, but its influence is so vast that many of its members enjoy de facto immunity. Even in cases dealing with low-level street gangs, the threat of intimidation can be surprisingly potent, causing witnesses to forget crucial details of an incident.
 
-That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars, and even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not
+That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars.
 
-everyone values the same things you do, such as life, liberty, and freedom.
+Even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not&nbsp;everyone values the same things you do, such as life, liberty, and freedom.
 
 {% twitter: https://twitter.com/EdLatimore/status/1367206792393023497 %}
 
-No matter the circumstance, it's always a good idea to treat people with respect and kindness. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. The worst-case scenario, believe it or not, is NOT that they’ll retaliate.
-
-Good manners never make a situation worse.
+No matter the circumstance, it's always a good idea to treat people with respect and kindness. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
 The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime.
 
@@ -43,11 +44,15 @@ Maybe their host country will turn them over or prosecute. Maybe they won't. But
 
 It could get even worse if they seek refuge in their native country’s embassy because attacking an embassy is considered an act of war.
 
-Recall the story of Yvonne Fletcher being killed by a shot fired from the Libyan Embassy in Great Britain. British authorities couldn't do anything, and the Libyan authorities wouldn't either ([Read the story here](https://en.wikipedia.org/wiki/Murder_of_Yvonne_Fletcher){: rel=""}).​This is how an embassy and a military base in another country work. It is \*effectively\* foreign soil and, as such, presents a host of difficulties when it comes to navigating crimes committed by their citizens while on the host country’s soil.
+Recall the story of Yvonne Fletcher being killed by a shot fired from the Libyan Embassy in Great Britain. British authorities couldn't do anything, and the Libyan authorities wouldn't either ([Read the story here](https://en.wikipedia.org/wiki/Murder_of_Yvonne_Fletcher){: rel=""}).​
+
+This is how an embassy and a military base in another country work. It is \*effectively\* foreign soil and, as such, presents a host of difficulties when it comes to navigating crimes committed by their citizens while on the host country’s soil.
 
 If you doubt this, check out the case of Anne Sacoolas, the wife of an American diplomat in Great Britain, who left the UK after she killed a 27-year-old in a car crash. ([Read the story here](https://time.com/5696300/diplomatic-immunity-harry-dunn/){: rel=""})
 
 Then there's the time that Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
+
+This is the least likely scenario, but you have no idea who you're dealing with and what their general level of stability.&nbsp;
 
 This leads nicely to the next issue.
 
@@ -83,6 +88,6 @@ So please, don't be a dumb ass in these streets.
 
 ***\[Read:&nbsp;[How to avoid a street fight and what to do if you can’t](https://edlatimore.com/how-to-win-a-street-fight/){: rel=""}\]***
 
-Everyone worries about the police and the possibility of being killed by them with impunity, but at least in that scenario, there's at least an investigation and trial. In the case of a federally protected witness killing you, your death would just be the cost of doing business.
+Everyone worries about the police and the possibility of being killed by them with impunity, but at least in that scenario, there's an investigation and trial.
 
-I elaborate more on this in my latest Youtube Video. Check it out, like it, leave a comment, and if you really dig it, share it.
+In the case of a federally protected witness killing you, your death would just be the cost of doing business. As such, it would be written off and charged to the game.
