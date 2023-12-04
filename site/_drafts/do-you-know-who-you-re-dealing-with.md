@@ -18,9 +18,9 @@ Maintaining a level head is undoubtedly one of the most crucial skills you can d
 * "Mobbed up" or in a street gang.
 * Protected from the law, by the law
 
-It's not difficult to imagine encountering someone in any of these scenarios, particularly given the easy availability of firearms in the United States (where I reside) and the prevalence of individuals with questionable mental states or ties to organized crime.
+It's not difficult to imagine encountering someone in the first three scenarios, especially with how easy it is to acquire firearms in the United States (where I reside) and the prevalence of individuals with questionable mental states or ties to any type of organized crime.
 
-Organized crime might be illegal, but its influence is so vast that many of its members enjoy de facto immunity. Even in cases dealing with low-level street gangs, the threat of intimidation can be surprisingly potent, causing witnesses to forget crucial details of an incident.
+Organized crime might be illegal, but its influence is so vast that many members enjoy de facto immunity. Even in cases dealing with low-level street gangs, the threat of intimidation can be surprisingly potent, causing witnesses to forget crucial details of an incident.
 
 That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars.
 
@@ -30,7 +30,7 @@ Even if the person is blatantly in the wrong and is trying to provoke you, it's 
 
 No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
-The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime.
+The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime. That's where the fourth scenario comes in.&nbsp;
 
 No matter how badass you think you are, there is not only someone worse, but there are people who are bad and will never have to face the consequences for their evil.
 
