@@ -11,12 +11,12 @@ description: >-
   always know who you're dealing with. 
 image: /assets/images/drafts/whitey-bulger.jpeg
 ---
-Maintaining a level head is undoubtedly one of the most crucial skills you can develop. It can make a huge difference, sometimes even saving your life, in situations where you might not even be aware of the danger. After all, you never know who you're dealing with:
+Maintaining a level head is undoubtedly one of the most crucial skills you can develop. It can make a huge difference, sometimes even saving your life, in situations where you might not even be aware of the danger. After all, you never know if you're dealing with someone:
 
-* Someone who might have a gun
-* They don't care about going to jail
-* They're "mobbed up"
-* They're protected from the law, by the law
+* Who has a gun
+* Doesn't care about going to jail
+* "Mobbed up" or in a street gang.
+* Protected from the law, by the law
 
 It's not difficult to imagine encountering someone in any of these scenarios, particularly given the easy availability of firearms in the United States (where I reside) and the prevalence of individuals with questionable mental states or ties to organized crime.
 
@@ -28,7 +28,7 @@ Even if the person is blatantly in the wrong and is trying to provoke you, it's 
 
 {% twitter: https://twitter.com/EdLatimore/status/1367206792393023497 %}
 
-No matter the circumstance, it's always a good idea to treat people with respect and kindness. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
+No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
 The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime.
 
@@ -91,3 +91,5 @@ So please, don't be a dumb ass in these streets.
 Everyone worries about the police and the possibility of being killed by them with impunity, but at least in that scenario, there's an investigation and trial.
 
 In the case of a federally protected witness killing you, your death would just be the cost of doing business. As such, it would be written off and charged to the game.
+
+This is why you have to keep a cool head in the streets. You never know who is "protected" by the law.&nbsp;
