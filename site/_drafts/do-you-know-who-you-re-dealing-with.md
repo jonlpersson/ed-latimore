@@ -40,7 +40,7 @@ How is this possible?
 
 This means that they can't be arrested (or, at the very least, it is prohibitively difficult to arrest them).
 
-Maybe their host country will turn them over or prosecute. Maybe they won't. But for all intents and purposes, they are protected as long as they are in they are on a diplomatic visa.
+Maybe their host country will turn them over or prosecute. Maybe they won't. But for all intents and purposes, they are protected as long as they are on a diplomatic visa.
 
 It could get even worse if they seek refuge in their native country’s embassy because attacking an embassy is considered an act of war.
 
