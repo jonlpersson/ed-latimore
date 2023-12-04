@@ -38,9 +38,11 @@ How is this possible?
 
 ## **Someone is in your country on a diplomatic visa**
 
-This means that they can't be arrested (or, at the very least, it is prohibitively difficult to arrest them).
+A diplomatic visa is given to people visiting from another country to engage in official government business. Because of laws outlined by the Congress of Vienna that have been ratified by almost every nation in the world, diplomats are safe to travel in the host country without ever facing prosecution if they break local laws.
 
-Maybe their host country will turn them over or prosecute. Maybe they won't. But for all intents and purposes, they are protected as long as they are on a diplomatic visa.
+This means that they can't be arrested (or, at the very least, it is prohibitively difficult to arrest them). This usually hasn't been a problem, but if it is, it's the decision of the visiting official's country to allow the host nation to prosecute.
+
+But for all intents and purposes, they are protected as long as they are in they are on a diplomatic visa.
 
 It could get even worse if they seek refuge in their native country’s embassy because attacking an embassy is considered an act of war.
 
