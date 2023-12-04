@@ -80,7 +80,7 @@ I don't know how "above water" this is, but it's not unprecedented. A few years 
 
 In other words, some people can kill you without facing legal consequences, and they know it. In fact, they may be emboldened to do so because they need to maintain cover and not have anyone think they’re a snitch.
 
-Most recently, the man who stabbed Derek Chauvin (the guy who killed George Floyd) in prison was 52-year-old John Turscak who previously worked as an FBI informant.
+It recently came out that the man who stabbed Derek Chauvin (the guy who killed George Floyd) in prison had previously worked as an FBI informant.
 
 Turscak was in prison after being found guilty of racketeering and conspiring to kill a gang rival. Before that, he worked as an FBI informant against the Mexican Mafia organization.
 
