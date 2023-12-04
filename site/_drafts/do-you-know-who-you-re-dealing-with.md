@@ -60,13 +60,13 @@ This leads nicely to the next issue.
 
 The odds of you crossing paths with someone protected under diplomatic immunity are small but not zero. However, I know a guy with first-hand experience dealing with the second "legal protection."
 
-## **Crucial federal informant**
+## **Someone is a crucial federal informant**
 
 **![White bulger was someone given a pass for murder](/assets/images/drafts/james-whitey-bulgar-federal-informant.png){: width="1062" height="738"}**
 
 
 
-There’s a higher probability of getting into a street altercation with this guy.
+There’s a higher probability of getting into a street altercation with this type of protected guy.
 
 I have an acquaintance whose brother was killed, and when he did his own digging, he discovered that the local authorities had a strong lead on a possible suspect. However, they were unable to apprehend him because he was an informant in a larger federal case.
 
