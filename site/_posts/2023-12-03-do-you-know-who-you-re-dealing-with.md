@@ -56,7 +56,7 @@ If you doubt this, check out the case of Anne Sacoolas, the wife of an American 
 
 Then there's the time that Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
 
-This is the least likely scenario, but you have no idea who you're dealing with and what their general level of stability.&nbsp;
+This is the least likely scenario, but you have no idea who you're dealing with and what their general level of stability is.&nbsp;
 
 This leads nicely to the next issue.
 
@@ -68,7 +68,7 @@ The odds of you crossing paths with someone protected under diplomatic immunity 
 
 There’s a higher probability of getting into a street altercation with this type of protected guy.
 
-I have an acquaintance whose brother was killed, and when he did his own digging, he discovered that the local authorities had a strong lead on a possible suspect. However, they were unable to apprehend him because he was an informant in a larger federal case.
+I have an acquaintance whose brother was killed, and when he did his own digging, he discovered that the local authorities had a strong lead on a possible suspect. However, they couldn't touch him because he was an informant in a larger federal case.
 
 This information wasn't told to him on the record, of course.
 
