@@ -28,7 +28,7 @@ That's why I always suggest being polite to everyone you encounter. You never kn
 
 Even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not everyone values the same things you do, such as life, liberty, and freedom.
 
-{% twitter: https://twitter.com/EdLatimore/status/1367206792393023497 %}
+{%&nbsp; twitter: https://x.com/EdLatimore/status/1367206792393023497 %}
 
 No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
@@ -54,9 +54,9 @@ This is how an embassy and a military base in another country work. It is \*effe
 
 If you doubt this, check out the case of Anne Sacoolas, the wife of an American diplomat in Great Britain, who left the UK after she killed a 27-year-old in a car crash. ([Read the story here](https://time.com/5696300/diplomatic-immunity-harry-dunn/){: rel=""})
 
-Then there's the time that Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
+Then there's the time when Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
 
-This is the least likely scenario, but you have no idea who you're dealing with and what their general level of stability is.&nbsp;
+This is the least likely scenario, but you have no idea who you're dealing with and their general stability level.&nbsp;&nbsp;
 
 This leads nicely to the next issue.
 
