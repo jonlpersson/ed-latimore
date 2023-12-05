@@ -28,8 +28,6 @@ That's why I always suggest being polite to everyone you encounter. You never kn
 
 Even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not everyone values the same things you do, such as life, liberty, and freedom.
 
-{%&nbsp; twitter: https://x.com/EdLatimore/status/1367206792393023497 %}
-
 No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
 The worst-case scenario is that they’ll retaliate with the full knowledge they’ll never have to answer for their crime. That's where the fourth scenario comes in.&nbsp;
