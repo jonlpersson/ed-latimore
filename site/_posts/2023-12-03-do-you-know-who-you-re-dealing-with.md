@@ -24,13 +24,13 @@ Organized crime might be illegal, but its influence is so vast that many members
 
 That's why I always suggest being polite to everyone you encounter. You never know who doesn't care about ending up behind bars.
 
-Even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not&nbsp;everyone values the same things you do, such as life, liberty, and freedom.
+Even if the person is blatantly in the wrong and is trying to provoke you, it's vital to remain calm and composed. Not everyone values the same things you do, such as life, liberty, and freedom.
 
 {% twitter: https://twitter.com/EdLatimore/status/1367206792393023497 %}
 
 No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
-The worst-case scenario is that they’ll retaliate with the full knowledge that they’ll never have to answer for their crime. That's where the fourth scenario comes in.&nbsp;
+The worst-case scenario is that they’ll retaliate with the full knowledge they’ll never have to answer for their crime. That's where the fourth scenario comes in.&nbsp;
 
 No matter how badass you think you are, there is not only someone worse, but there are people who are bad and will never have to face the consequences for their evil.
 
@@ -42,7 +42,7 @@ A diplomatic visa is given to people visiting from another country to engage in 
 
 This means that they can't be arrested (or, at the very least, it is prohibitively difficult to arrest them). This usually hasn't been a problem, but if it is, it's the decision of the visiting official's country to allow the host nation to prosecute.
 
-But for all intents and purposes, they are protected as long as they are in they are on a diplomatic visa.
+But for all intents and purposes, they are protected as long as they are in on a diplomatic visa.
 
 It could get even worse if they seek refuge in their native country’s embassy because attacking an embassy is considered an act of war.
 
@@ -63,8 +63,6 @@ The odds of you crossing paths with someone protected under diplomatic immunity 
 ## **Someone is a crucial federal informant**
 
 **![White bulger was someone given a pass for murder](/assets/images/drafts/james-whitey-bulgar-federal-informant.png){: width="1062" height="738"}**
-
-
 
 There’s a higher probability of getting into a street altercation with this type of protected guy.
 
