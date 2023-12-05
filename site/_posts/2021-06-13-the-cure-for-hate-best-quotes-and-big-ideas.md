@@ -43,8 +43,6 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “The argument often used to justify a violent response to fascism is Hitler and the force it took to remove him from power. It also cost 70 million lives. Violence often doesn’t work, as witnessed by the Spanish Civil War, which left 500,000 dead.”
 
-{% include widgets/summary.html id="Blinkist" %}
-
 ## Introducing extreme ideas into mainstream discourse
 
 “Here’s how it works: Let’s start with defining political extremism as a position that less than five percent of the population would support. Now take a position that only one percent of the population would support, put it in a nice wrapper, and deliver it with a silver tongue so that now more than five percent of people would support it. If you can do that, you change where that outer position of extremism lies. That one-percent position has now become the outer edge of normal. When we do this, we incrementally change the location of the middle. When people have no political power, often the only way to move the middle is by moving the extremes. By the same token, people with enormous political capital at their disposal can move the middle at whim, and that in turn moves what is considered the far end of normal to become even more extreme. That is the interplay between mainstream politics and the fringe: they feed off each other.”
@@ -84,7 +82,3 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 “Healthy shame is that transitory feeling when we do something wrong, when we’re embarrassed and our cheeks flush; it acts as our moral compass, letting us know when we are operating outside of our personal value system. Toxic shame is not transitory; it is there 24-7, forming part of the subconscious belief system that creates our identity and telling us that we are worthless, not good enough, less than human. Toxic shame is an impaired sense of self that compels us to live our lives.”
 
 “Toxic shame takes two forms: one is the shame we develop through our individual experiences and the intergenerational transfer of shame in our families (toxic shame cascades intergenerationally until it is healed); the other is collective shame, when we are made to feel shame for who we are and not for what we’ve done.”
-
-{% include widgets/summary.html id="Blinkist" %}
-
-&nbsp;
