@@ -1,7 +1,7 @@
 ---
 date: 2023-12-03 14:00:00 -0500
 article_type: Article
-title: Do you know who you're dealing with?
+title: 'Federal informants and diplomats: Do you know who you''re dealing with?'
 permalink: /do-you-know-who-youre-dealing-with/
 categories:
   - Stoic-Street-Smarts-Newsletter
