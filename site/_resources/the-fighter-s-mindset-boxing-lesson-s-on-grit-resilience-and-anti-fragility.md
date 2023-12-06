@@ -42,7 +42,7 @@ page_blocks:
 
 
       ***"It ain't about how hard you can hit. It's about how hard you can get
-      hit and keep going."&nbsp;***
+      hit and keep going."***&nbsp;
 
 
       ***\- Rocky Balboa***
@@ -104,13 +104,13 @@ page_blocks:
       **But will you get back up?**
 
 
-      This email course contains 20 short lessons from the hurt business of life
-      and boxing.&nbsp;
+      This ebook contains 20 short lessons from the hurt business of life and
+      boxing.&nbsp;
 
 
       These are observations from boxing that also apply to the various
       challenges I faced in my life, like battling alcoholism and growing up in
-      public housing raised without my father around.
+      public housing and raised without my father around.
 
 
       I hope that with these lessons, you'll be better able to overcome any
