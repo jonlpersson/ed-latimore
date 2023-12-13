@@ -1,7 +1,7 @@
 ---
 date: 2022-05-11 15:22:22 -0400
 article_type: Article
-title: 18 haters quotes by Ed Latimore
+title: 18 hater quotes by Ed Latimore
 permalink: /ed-latimore-hater-quotes/
 tags:
   - ed-latimore-original-quotes
