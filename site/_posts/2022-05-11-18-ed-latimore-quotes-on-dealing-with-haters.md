@@ -42,7 +42,9 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ---
 
-**A lot of y'all claiming to have haters are just low-quality humans who can't take honest feedback. You can't have haters AND be a loser.** ([Tweet it](https://twitter.com/EdLatimore/status/1292149917415342081){: target="_blank"})
+![hater quotes &quot;losers cant have haters&quot;](/assets/images/posts/loserscanthavehaters.png){: width="2160" height="2160"}
+
+**A lot of y'all claiming to have haters are just low-quality humans who can't take honest feedback. You can't have haters AND be a loser.**&nbsp;
 
 ---
 
