@@ -74,11 +74,13 @@ Not everyone who gives you criticism is a hater and not every hater is wrong. ([
 
 ![hater quote &quot;underdog never has haters&quot;](/assets/images/posts/supportthegrind.png){: width="2160" height="2160"}
 
-People will support the grind but they get funny when it starts to pay off. Underdogs rarely have haters. Winners often do. Every winner was once an underdog. Die the hero or live long enough to become the villain. ([Tweet it](https://twitter.com/EdLatimore/status/1378682271411101704){: target="_blank"})
+People will support the grind but they get funny when it starts to pay off. Underdogs rarely have haters. Winners often do. Every winner was once an underdog. Die the hero or live long enough to become the villain.&nbsp;
 
 {% include widgets/summary.html id="The-Four-Confidences" %}
 
 ---
+
+![hater quotes &quot;can't be liked and respected by all&quot;](/assets/images/posts/likedandrespectedbyallpng.png){: width="2160" height="2160"}
 
 **You can't be liked AND respected by everyone. People test boundaries. Someone will test yours. When you check ‘em, you'll gain a hater.** ([Tweet it](https://twitter.com/EdLatimore/status/1323404790139965440){: target="_blank"})
 
