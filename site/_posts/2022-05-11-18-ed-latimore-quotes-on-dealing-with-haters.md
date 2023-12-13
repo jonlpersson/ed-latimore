@@ -66,7 +66,9 @@ Not everyone who gives you criticism is a hater and not every hater is wrong. ([
 
 ---
 
-**So people invent controversy and imagine haters to make themselves feel more important than they really are.** ([Tweet it](https://twitter.com/EdLatimore/status/1403375939803779075){: target="_blank"})
+![hater quotes &quot;inventing controversy&quot;](/assets/images/posts/inventcontroversy.png){: width="2160" height="2160"}
+
+**So people invent controversy and imagine haters to make themselves feel more important than they really are.**&nbsp;
 
 ---
 
