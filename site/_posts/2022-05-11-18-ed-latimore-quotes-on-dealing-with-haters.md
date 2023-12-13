@@ -48,7 +48,9 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ---
 
-Sometimes you have haters. Most times you're just an asshole with delusions of grandeur. ([Tweet it](https://twitter.com/EdLatimore/status/1415416743833522186){: target="_blank"})
+![hater quotes &quot;delusions of grandeur&quot;](/assets/images/posts/delusiosofgrandeur.png){: width="2160" height="2160"}
+
+Sometimes you have haters. Most times you're just an asshole with delusions of grandeur.&nbsp;
 
 ---
 
