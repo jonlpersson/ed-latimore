@@ -26,15 +26,17 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ## Ed Latimore’s 18 best haters quotes
 
-"Must be nice" is the most passive-aggressive **hater** shit you can say to someone who shares good news with you. ([Tweet it](https://twitter.com/EdLatimore/status/1417188932668768268){: target="_blank"})
+![hater quote &quot;must be nice&quot;](/assets/images/posts/mustbenice.png){: width="2160" height="2160"}
+
+"Must be nice" is the most passive-aggressive **hater** shit you can say to someone who shares good news with you.&nbsp;
 
 ---
 
-**A mediocre man has no haters. An average man gets angry at them. The superior man uses them.** ([Tweet it)](https://twitter.com/EdLatimore/status/1273656436267061261){: target="_blank"}
+![hate quote &quot;mediocre man has no haters&quot;](/assets/images/posts/mediocreman.png){: width="2160" height="2160"}
+
+**A mediocre man has no haters. An average man gets angry at them. The superior man uses them.**&nbsp;
 
 ---
-
-
 
 The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate. ([Tweet it](https://twitter.com/EdLatimore/status/1523472615293480962){: target="_blank"})
 
