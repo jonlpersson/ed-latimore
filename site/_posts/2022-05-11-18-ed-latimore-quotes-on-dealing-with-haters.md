@@ -38,7 +38,7 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ---
 
-The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate. ([Tweet it](https://twitter.com/EdLatimore/status/1523472615293480962){: target="_blank"})
+![hater quote &quot;better I do in life&quot;](/assets/images/posts/betteridoinlife.png){: width="2160" height="2160"}The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate.&nbsp;
 
 ---
 
