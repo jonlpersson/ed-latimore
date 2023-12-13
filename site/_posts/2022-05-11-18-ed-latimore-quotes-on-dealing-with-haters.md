@@ -54,7 +54,9 @@ Sometimes you have haters. Most times you're just an asshole with delusions of g
 
 ---
 
-**You don't have haters if you haven't done shit. People are just making fun of you. (**[**Tweet it**](https://twitter.com/EdLatimore/status/1524238702821711872){: target="_blank"}**)**
+![hater quotes &quot;making fun of you&quot;](/assets/images/posts/makingfunofyou.png){: width="2160" height="2160"}
+
+**You don't have haters if you haven't done shit. People are just making fun of you.**&nbsp;
 
 ---
 
