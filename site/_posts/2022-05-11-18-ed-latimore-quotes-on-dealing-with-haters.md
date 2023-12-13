@@ -60,6 +60,8 @@ Sometimes you have haters. Most times you're just an asshole with delusions of g
 
 ---
 
+![hater quotes &quot;not all criticism is hate&quot;](/assets/images/posts/notallcriticismishate.png){: width="2160" height="2160"}
+
 Not everyone who gives you criticism is a hater and not every hater is wrong. ([Tweet it](https://twitter.com/EdLatimore/status/1362430790211162115){: target="_blank"})
 
 ---
