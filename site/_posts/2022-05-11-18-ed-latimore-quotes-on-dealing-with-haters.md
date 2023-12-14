@@ -92,6 +92,8 @@ You'll always have someone that doesn't like you. Even the most charismatic pers
 
 ---
 
+![ed latimore hater quotes &quot;might be an asshole&quot;](/assets/images/posts/mightbeanasshole.png){: width="2160" height="2160"}
+
 **Before you start talking about having haters, make sure you're a good person who does right by people. Because you might actually just be an asshole and people are calling you out on it.** ([Tweet it](https://twitter.com/EdLatimore/status/1441809639851630592){: target="_blank"})
 
 ---
