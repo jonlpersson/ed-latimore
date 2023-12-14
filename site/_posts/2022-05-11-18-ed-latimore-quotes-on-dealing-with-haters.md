@@ -82,9 +82,11 @@ People will support the grind but they get funny when it starts to pay off. Unde
 
 ![hater quotes &quot;can't be liked and respected by all&quot;](/assets/images/posts/likedandrespectedbyallpng.png){: width="2160" height="2160"}
 
-**You can't be liked AND respected by everyone. People test boundaries. Someone will test yours. When you check ‘em, you'll gain a hater.** ([Tweet it](https://twitter.com/EdLatimore/status/1323404790139965440){: target="_blank"})
+**You can't be liked AND respected by everyone. People test boundaries. Someone will test yours. When you check ‘em, you'll gain a hater.**
 
 ---
+
+![ed latimore hater quote &quot;not everyone will like you&quot;](/assets/images/posts/someonewillalwaysdislike.png){: width="2160" height="2160"}
 
 You'll always have someone that doesn't like you. Even the most charismatic person has haters *because* everyone likes them. Don't make a big deal about it. Just don't hurt anyone and keep enjoying your short time on this rock. ([Tweet it](https://twitter.com/EdLatimore/status/1470586926545752075){: target="_blank"})
 
