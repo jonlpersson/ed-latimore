@@ -38,9 +38,11 @@ Be your best self and you’ll attract the best people for you. This is the powe
 
 ![ed latimore authenticity quote &quot;authenticity is polarizing&quot;](/assets/images/posts/authenticityispolarizing.png){: width="2160" height="2160"}
 
-Authenticity is polarizing. ([Tweet it](https://twitter.com/EdLatimore/status/1288273531550212099){: target="_blank"})
+Authenticity is polarizing.&nbsp;
 
 ---
+
+![ed latimore authenticity quote &quot;balls to risk being hated&quot;](/assets/images/posts/ballstoriskbeinghated.png){: width="2160" height="2160"}
 
 If you don’t have the balls to risk being hated, you don’t have the strength to receive love.
 
