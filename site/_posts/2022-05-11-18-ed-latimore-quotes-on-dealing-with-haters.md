@@ -124,12 +124,14 @@ For every one **hater** you get, there are thousands who believe in you. They're
 
 ---
 
+![ed latimore hater quote &quot;difference between hater and rival&quot;](/assets/images/posts/haterandrivalresponse.png){: width="2160" height="2160"}
+
 The difference between a bitter hater and an intense rival is how they chose to respond to their jealousy. ([Tweet it](https://twitter.com/EdLatimore/status/1329255552011137026){: target="_blank"})
 
 ---
 
 ![ed latimore hater quote &quot;don't be afraid to celebrate&quot;](/assets/images/posts/don-tbeafraidtocelebrate.png){: width="2160" height="2160"}
 
-**When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…** ([Tweet it](https://twitter.com/EdLatimore/status/1440475860880924674){: target="_blank"})
+**When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…**&nbsp;
 
 {% include widgets/summary.html id="The-Four-Confidences" %}
