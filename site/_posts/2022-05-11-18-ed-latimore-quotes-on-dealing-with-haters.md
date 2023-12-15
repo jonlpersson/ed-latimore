@@ -100,7 +100,7 @@ You'll always have someone that doesn't like you. Even the most charismatic pers
 
 ![ed latimore hater quote &quot;do anything well&quot;](/assets/images/posts/doanythingwell.png){: width="2160" height="2160"}
 
-Do anything well and you make yourself a target. Not just for your competitors, but for people who wish they could compete with you. These are the haters who never do anything more significant than trying to tear you down. ([Tweet it](https://twitter.com/EdLatimore/status/1495540123689230341){: target="_blank"})
+Do anything well and you make yourself a target. Not just for your competitors, but for people who wish they could compete with you. These are the haters who never do anything more significant than trying to tear you down.&nbsp;
 
 ***\[Read another article about dealing with haters here–&gt;[What to do when someone hates you for no reason](/when-someone-hates-you-for-no-reason/)\]***
 
