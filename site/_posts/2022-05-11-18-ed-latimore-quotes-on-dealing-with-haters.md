@@ -106,7 +106,9 @@ Do anything well and you make yourself a target. Not just for your competitors, 
 
 ---
 
-**Being a hater is like tying your own legs together before a race and expecting the competition to trip.** ([Tweet it](https://twitter.com/EdLatimore/status/1292446593438883840){: target="_blank"})
+![ed latimore hater quotes trying to run with tied shoes](/assets/images/posts/haterrunningwithtiedshoes.png){: width="2160" height="2160"}
+
+**Being a hater is like tying your own legs together before a race and expecting the competition to trip.**&nbsp;
 
 ---
 
