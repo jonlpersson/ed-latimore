@@ -80,7 +80,7 @@ Any experienced shooters know how hard it is to hit a target even 10 yards away,
 
 On the other end of the spectrum, the left took great offense when I pointed out that calling it "pro-choice" is a brilliant marketing tactic because the opposite of "life" is not "choice." The opposite of "pro" is "anti" (in this usage). The opposite of "life" is "death," which is precisely what abortion causes. It's the only other "choice."
 
-{% include https://twitter.com/EdLatimore/status/1562840220478820355 %}
+{% twitter https://twitter.com/EdLatimore/status/1562840220478820355 %}
 
 When you commit yourself to growth and the truth, you must be strong because you get hate from both sides. When your conclusions agree with one side, you’ll gain temporary praise from them and disdain from the other. But soon enough, you’ll be seen as a traitor by those who embraced you and not accepted by the other side. You’ll have to learn to walk alone, without the safety of the crowd or groups, and be willing to look like a turncoat as you update your thinking as you learn.
 
