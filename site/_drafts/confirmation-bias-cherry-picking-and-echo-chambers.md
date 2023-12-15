@@ -11,9 +11,13 @@ description: >-
   defeat it. 
 image:
 ---
-You can convince yourself of anything if you ignore evidence that doesn’t support your idea of the truth. The three-headed dragon of confirmation bias, cherry-picking, and echo chambers wages a vicious assault on your reasoning abilities. In this post, I’ll cover why it’s so dangerous and how to protect yourself from the worst of its effects.
+You can convince yourself of anything if you ignore evidence that doesn’t support your idea of the truth.
+
+The three-headed dragon of confirmation bias, cherry-picking, and echo chambers wages a vicious assault on your reasoning abilities. In this post, I’ll cover why it’s so dangerous and how to protect yourself from the worst of its effects.
 
 ## "Cherry picking" and Confirmation Basis Set The Stage For Weak Thinking
+
+![cherry-picking data](/assets/images/drafts/cherry-picking.jpeg){: width="1591" height="1193"}
 
 Cherry picking falls under the umbrella of a cognitive distortion known as confirmation bias - our innate tendency to seek, favor, interpret, and recall information in a way that substantiates our prior beliefs or hypotheses. Confirmation bias makes us feel validated when our perspectives get reinforced, so we unconsciously privilege confirming data over disconfirming data points.
 
