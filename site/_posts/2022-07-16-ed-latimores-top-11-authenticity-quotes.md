@@ -1,7 +1,7 @@
 ---
 date: 2022-07-16 23:48:11 -0400
 article_type: Article
-title: Ed Latimore's top 11 authenticity quotes
+title: Ed Latimore's original 11 authenticity quotes
 permalink: /authenticity-quotes/
 tags:
   - ed-latimore-original-quotes
@@ -46,11 +46,13 @@ Authenticity is polarizing.&nbsp;
 
 If you don’t have the balls to risk being hated, you don’t have the strength to receive love.
 
-If you can’t endure the consequences of living authenticity, you don’t deserve the rewards that come with it either. ([Tweet it](https://twitter.com/EdLatimore/status/1186783590627139586){: target="_blank"})
+If you can’t endure the consequences of living authenticity, you don’t deserve the rewards that come with it either.
 
 ---
 
-Authenticity and transparency make you irreplaceable because no one else can be you. ([Tweet it](https://twitter.com/EdLatimore/status/1209181239829303296){: target="_blank"})
+![ed latimore authenticity quote &quot;authenticity makes you irreplaceable&quot;](/assets/images/posts/authenticitymakesyouirreplaceable.png){: width="2160" height="2160"}
+
+Authenticity and transparency make you irreplaceable because no one else can be you.&nbsp;
 
 ---
 
