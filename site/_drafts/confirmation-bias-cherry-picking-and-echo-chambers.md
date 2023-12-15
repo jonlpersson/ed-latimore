@@ -34,6 +34,8 @@ Most people's egos are too frail to admit that their worldview is wrong, let alo
 
 ## The Echo Chamber of Intellectual Inbreeding
 
+![the problem with echo chambers](/assets/images/drafts/echo-chamber.jpeg){: width="612" height="433"}
+
 An echo chamber is a closed ecosystem of ideas and information in which people only encounter perspectives and opinions aligning with their preexisting beliefs. Particular views consistently reverberate within echo chambers while dissenting voices get left out.
 
 This insular dynamic can easily promote misinformation and distortions of reality.
