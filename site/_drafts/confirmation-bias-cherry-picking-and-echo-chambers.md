@@ -21,16 +21,18 @@ The three-headed dragon of confirmation bias, cherry-picking, and echo chambers 
 
 Cherry picking falls under the umbrella of a cognitive distortion known as confirmation bias - our innate tendency to seek, favor, interpret, and recall information in a way that substantiates our prior beliefs or hypotheses. Confirmation bias makes us feel validated when our perspectives get reinforced, so we unconsciously privilege confirming data over disconfirming data points.
 
-We let agreeable facts through the mental filter while conveniently ignoring details that support alternate viewpoints. In this way, confirmation bias facilitates cherry-picking by making us gravitate toward selective evidence that props up our existing worldview. The combination of preferentially noticing friendly data and overlooking unaligned facts compounds the echo chamber effect that can profoundly distort our perception of the truth.
+We let agreeable facts through the mental filter while conveniently ignoring details that support alternate viewpoints. In this way, confirmation bias facilitates cherry-picking by making us gravitate toward selective evidence that props up our existing worldview.
+
+The combination of preferentially noticing friendly data and overlooking unaligned facts compounds the echo chamber effect that can profoundly distort our perception of the truth.
 
 Cherry-picking means selectively gathering supportive facts that validate our viewpoint. The idea comes from the portrayal of a foolish farmer who, during a harvest, only selects the ripest fruit from a tree and pretends that the rest of the crop, which may be subpar or flawed, doesn’t exist. While these tasty fruits feed him in the short term, he’ll suffer in the long term because
 
 1. He won’t have enough fruit to last
 2. He won’t correct the deficiencies that caused him to get such a subpar crop.
 
-If you let your intellect become like that of the farmer, you’ll feel good because you’ll appear correct, but reality is full of facts that contradict your stance and will destroy you. You’ll be left with two choices: retreat to the safety of an echo chamber or adapt your position and learn.
+If you let your intellect become like the farmer's, you’ll feel good because you’ll appear correct, but reality is full of facts that contradict your stance and will destroy you. You’ll be left with two choices: retreat to the safety of an echo chamber or adapt your position and learn.
 
-Most people's egos are too frail to admit that their worldview is wrong, let alone change it, so most people choose the former path.
+Most people's egos are too frail to admit that their worldview is wrong, let alone change it, so most choose the former path.
 
 ## The Echo Chamber of Intellectual Inbreeding
 
