@@ -72,7 +72,7 @@ When evaluating online communities or social circles, ask yourself:
 
 If you answer yes to any of these questions, you may be in an echo chamber. The lack of healthy disagreement, omission of opposing details, and refusal to acknowledge inconvenient truths are key warning signs.
 
-There is one other danger of confirmation bias, cherry picking, and residing in an echo chamber. It can make you agree with ideas you know are absurd but can’t disagree with because you’ll look like an outsider who sides with the opposition. This tactic is in heavy use by politicians and pundits use with significant effect in the United States political system.
+There is one other danger of confirmation bias, cherry picking, and residing in an echo chamber. It can make you agree with ideas you know are absurd but can’t disagree with because you’ll look like an outsider who sides with the opposition. This tactic is in heavy use by politicians and pundits with significant effect in the United States political system.&nbsp;
 
 I once posted that I’m pro 2nd Amendment, but given the power and ease of operation of today’s firearms, it wouldn’t be a bad idea to require mandatory training hours per year to own a gun. Several gun instructors have told me that most people, even law enforcement, don’t adequately train how to shoot and just believe they’ll pull the trigger.&nbsp;
 
