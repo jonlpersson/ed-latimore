@@ -66,9 +66,11 @@ Authenticity is powerful because it is–by definition–impossible to fake.
 
 Authenticity is not synonymous with assholery.
 
-You're low class if you consider wanton cruelty the mark of a person who "keeps it real." ([Tweet it](https://twitter.com/EdLatimore/status/1200879853014265856){: target="_blank"})
+You're low class if you consider wanton cruelty the mark of a person who "keeps it real."&nbsp;
 
 ---
+
+![ed latimore authenticity quote &quot;authenticity makes good advice better&quot;](/assets/images/posts/goodadviceiseverywhere.png){: width="2160" height="2160"}
 
 Good advice is everywhere—it's the unique personal spin you put on it that makes you stand out.
 
