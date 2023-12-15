@@ -128,6 +128,8 @@ The difference between a bitter hater and an intense rival is how they chose to 
 
 ---
 
+![ed latimore hater quote &quot;don't be afraid to celebrate&quot;](/assets/images/posts/don-tbeafraidtocelebrate.png){: width="2160" height="2160"}
+
 **When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…** ([Tweet it](https://twitter.com/EdLatimore/status/1440475860880924674){: target="_blank"})
 
 {% include widgets/summary.html id="The-Four-Confidences" %}
