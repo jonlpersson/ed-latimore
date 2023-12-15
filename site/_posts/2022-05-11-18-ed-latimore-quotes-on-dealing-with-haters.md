@@ -118,7 +118,9 @@ For every one **hater** you get, there are thousands who believe in you. They're
 
 ---
 
-**Be so successful and happy that you don't even acknowledge haters. Make them look envious when they're shouting into the ether of the internet.** ([Tweet it](https://twitter.com/EdLatimore/status/1311850325876318209){: target="_blank"})
+![ed latimore hater quotes &quot;so successful you don't acknowledge haters&quot;](/assets/images/posts/sosuccessfulyoudontevenacknowledgehaters.png){: width="2160" height="2160"}
+
+**Be so successful and happy that you don't even acknowledge haters. Make them look envious when they're shouting into the ether of the internet.**&nbsp;
 
 ---
 
