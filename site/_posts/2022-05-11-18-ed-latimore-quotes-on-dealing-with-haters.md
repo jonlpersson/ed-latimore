@@ -112,7 +112,9 @@ Do anything well and you make yourself a target. Not just for your competitors, 
 
 ---
 
-For every one **hater** you get, there are thousands who believe in you. They're watching, learning, and taking cues. Many of them are in a position to set you up for a big break. Supports are often silent. Hate is usually loud. ([Tweet it](https://twitter.com/EdLatimore/status/1474904157068967940){: target="_blank"})
+![ed latimore hater quote &quot;every hater you get comes with more support&quot;](/assets/images/posts/everyhateryouget.png){: width="2160" height="2160"}
+
+For every one **hater** you get, there are thousands who believe in you. They're watching, learning, and taking cues. Many of them are in a position to set you up for a big break. Supports are often silent. Hate is usually loud.&nbsp;
 
 ---
 
