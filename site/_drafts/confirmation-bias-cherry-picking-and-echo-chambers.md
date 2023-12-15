@@ -49,6 +49,8 @@ However, echo chambers can be tricky to recognize, especially if you’re alread
 
 ## Defeating The Three-Headed Dragon of Cherry-Picking, Confirmation Bias, and Echo Chambers
 
+![Cherry-picking, confirmation bias, echo chambers](/assets/images/drafts/three-headed-dragon-attacking.png "Forces of ignorance, unite!"){: width="929" height="473"}
+
 When evaluating online communities or social circles, ask yourself:
 
 * Do they tend to promote only a single dominant perspective?
