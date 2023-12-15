@@ -5,7 +5,10 @@ title: Confirmation Bias, Cherry-Picking, and Echo Chambers
 permalink: /confirmation-bias-echo-cherry-picky-echo-chambers/
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
+description: >-
+  The three-headed-dragon of cherry-picking, confirmation bias, and echo
+  chambering make you stupid and unable to deal with reality. Learn how to
+  defeat it. 
 image:
 ---
 You can convince yourself of anything if you ignore evidence that doesn’t support your idea of the truth. The three-headed dragon of confirmation bias, cherry-picking, and echo chambers wages a vicious assault on your reasoning abilities. In this post, I’ll cover why it’s so dangerous and how to protect yourself from the worst of its effects.
@@ -38,6 +41,8 @@ When a population lacks genetic diversity, detrimental mutations get passed on r
 With no infusion of fresh philosophies or counter-evidence, absurdities amplify exponentially. And individuals within these closed-loop systems grow more adamant in their convictions even as their worldview stunts further from reality. They sink deeper into the delusion that theirs is the only valid mode of thinking.
 
 Instead of the Hapsburg Chin, the result of generations of inbreeding in the European Hapsburg dynasty that prevented many from breathing or eating correctly, you get QAnon followers. Instead of the Blue Fugates of Kentucky, a family whose genetic condition gave them blue skin that inbreeding never weeded out, you get flat-earthers whose absurd beliefs only intensify in their isolated online communities.
+
+![Habsburg chinr result of inbreeding](/assets/images/drafts/hapsburg-chin-meme.webp "Your intelligence starts looking like this"){: width="750" height="934"}
 
 Just as genetic inbreeding allows physical disadvantages to remain because there are no new genes to flush out the old, echo chambers promote foolish ideas because nothing challenges old ideas with facts and rigor.
 
