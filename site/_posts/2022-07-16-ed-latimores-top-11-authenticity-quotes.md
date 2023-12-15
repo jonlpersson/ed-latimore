@@ -28,6 +28,8 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 ## Ed Latimore’s Authenticity Quotes
 
+![ed latimore authenticity quote &quot;never try to hard to make people like you&quot;](/assets/images/posts/nevertrytomakepeoplelikeyou.png){: width="2160" height="2160"}
+
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
 
 Be your best self and you’ll attract the best people for you. This is the power of authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1268213545709305856){: target="_blank"})
@@ -100,4 +102,4 @@ If you want to see how authentic someone is, start looking at what they \*don't\
 
 The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty. ([Tweet it](https://twitter.com/EdLatimore/status/1100587920203882496){: target="_blank" rel="noopener"})
 
-####
+\####
