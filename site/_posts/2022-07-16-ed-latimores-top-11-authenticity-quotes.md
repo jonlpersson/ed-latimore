@@ -32,9 +32,11 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
 
-Be your best self and you’ll attract the best people for you. This is the power of authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1268213545709305856){: target="_blank"})
+Be your best self and you’ll attract the best people for you. This is the power of authenticity.&nbsp;
 
 ---
+
+![ed latimore authenticity quote &quot;authenticity is polarizing&quot;](/assets/images/posts/authenticityispolarizing.png){: width="2160" height="2160"}
 
 Authenticity is polarizing. ([Tweet it](https://twitter.com/EdLatimore/status/1288273531550212099){: target="_blank"})
 
