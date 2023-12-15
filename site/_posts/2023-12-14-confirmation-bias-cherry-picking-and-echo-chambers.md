@@ -9,7 +9,7 @@ description: >-
   The three-headed-dragon of cherry-picking, confirmation bias, and echo
   chambering make you stupid and unable to deal with reality. Learn how to
   defeat it. 
-image:
+image: /assets/images/posts/three-headed-dragon-attacking.png
 ---
 You can convince yourself of anything if you ignore evidence that doesn’t support your idea of the truth.
 
