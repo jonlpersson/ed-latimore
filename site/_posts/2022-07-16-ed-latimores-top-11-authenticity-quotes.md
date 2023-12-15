@@ -56,9 +56,13 @@ Authenticity and transparency make you irreplaceable because no one else can be 
 
 ---
 
-Authenticity is powerful because it is–by definition–impossible to fake. ([Tweet it](https://twitter.com/EdLatimore/status/1091371263229083653){: target="_blank"})
+![ed latimore authenticity quote &quot;authenticity is impossible to fake&quot;](/assets/images/posts/authenticityimpossibletofake.png){: width="2160" height="2160"}
+
+Authenticity is powerful because it is–by definition–impossible to fake.
 
 ---
+
+![ed latimore authenticity quotes &quot;authenticity is not being an asshole&quot;](/assets/images/posts/authenticitynoassholery.png){: width="2160" height="2160"}
 
 Authenticity is not synonymous with assholery.
 
