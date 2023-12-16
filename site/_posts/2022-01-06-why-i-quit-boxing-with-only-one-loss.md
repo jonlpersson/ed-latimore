@@ -177,6 +177,6 @@ Plus, the cool thing is that having that record continues to open up doors for m
 
 I stopped boxing because I’d realistically gone as far as I could with my physical attributes and figured out how to make a lot more money with much less damage to my body. I’ve also developed a lifestyle that makes training difficult.
 
-I enjoyed my life as a fighter and am extremely grateful for everything&nbsp;[I got from boxing](/how-to-think-like-a-professional-fighter/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
+I enjoyed my life as a fighter and am extremely grateful for everything&nbsp;[I got from boxing](/boxing-quotes-from-ed-latimore/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
