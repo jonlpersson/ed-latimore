@@ -150,7 +150,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Young men, If you can discipline yourself to resist fast money and easy sex, then nothing in this world will break you. It is yours to do what you please with. ([Tweet it](https://twitter.com/EdLatimore/status/1452829102256402432))
+![ed latimore discipline quotes &quot;resist fast cash and easy sex&quot;](/assets/images/posts/resistfastcasheasysex.png){: width="2160" height="2160"}
+
+> Young men, If you can discipline yourself to resist fast money and easy sex, then nothing in this world will break you. It is yours to do what you please with.&nbsp;
 
 ---
 
