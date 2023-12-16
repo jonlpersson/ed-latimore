@@ -110,11 +110,15 @@ The moment you begin to live for another’s desires is the moment you lose auth
 
 ---
 
+![ed latimore authenticity quote &quot;just be authentic and people will like you&quot;](/assets/images/posts/justbeauthentic.png){: width="2160" height="2160"}
+
 You can be a nice guy or you can be an asshole. It doesn't matter.
 
-Just be authentic and people will still like you. ([Tweet it](https://twitter.com/EdLatimore/status/1057816422129262592){: target="_blank" rel="noopener"})
+Just be authentic and people will still like you.&nbsp;
 
 ---
+
+![ed latimore authenticity quotes &quot;see what they dont post&quot;](/assets/images/posts/authenticitywhattheydontpost.png){: width="2160" height="2160"}
 
 If you want to see how authentic someone is, start looking at what they \*don't\* post about. ([Tweet it](https://twitter.com/EdLatimore/status/1487653527514189826){: target="_blank" rel="noopener"})
 
