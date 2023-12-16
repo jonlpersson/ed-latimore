@@ -164,6 +164,8 @@ This also does wonders for your confidence, making it even easier for you to per
 
 ## The importance of emotional strength
 
+![sun tzu art of war quotes on the importance of emotional strength](/assets/images/posts/the-importance-of-emotional-strength.png){: width="810" height="810"}
+
 > The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.
 
 It's easy to give in to your basic natural and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on the morale of your team and their respect for you.
