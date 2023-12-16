@@ -86,7 +86,7 @@ We all start with different strengths and weaknesses. I had a killer hook and di
 
 I just committed to getting better and absorbing my coaching. Picking the right boxing coach is important, but your approach to learning is even more important.
 
-***\[There are many other important lessons I took from boxing. I made a list of 45 short nuggets of boxing information that you can use right here—&gt;[48 Life Lessons From Boxing](/how-to-think-like-a-professional-fighter/)\]***
+***\[There are many other important lessons I took from boxing. I made a list of 48 quotes about boxing that you can use right now—&gt;[48 Boxing quotes about life](/boxing-quotes-from-ed-latimore/)\]***
 
 ### The right boxing equipment
 
