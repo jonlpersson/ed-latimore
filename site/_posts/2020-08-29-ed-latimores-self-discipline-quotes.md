@@ -144,7 +144,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Young men, if you don't control your dick, your dick will control you. That discipline (or lack thereof it) will make or break your life. ([Tweet it](https://twitter.com/EdLatimore/status/1400430019650981896){: target="_blank" rel="noopener noreferrer"})
+![ed latimore discipline quotes &quot;control your sex drive&quot;](/assets/images/posts/controlyourdickoritwillcontrolyou.png){: width="2160" height="2160"}
+
+> Young men, if you don't control your dick, your dick will control you. That discipline (or lack thereof it) will make or break your life.&nbsp;
 
 ---
 
