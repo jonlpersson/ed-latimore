@@ -42,9 +42,11 @@ Once you realize that no one controls your life but you, then you can start doin
 
 ---
 
-***How to "master" self-discipline:***
+![ed latimore discipline quotes &quot;how to master self-discipline&quot;](/assets/images/posts/mastingselfdiscipline.png){: width="2160" height="2160"}
 
-***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.*** ([Tweet it](https://twitter.com/EdLatimore/status/1206588350456586240))
+> ***How to "master" self-discipline:***
+>
+> ***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.***&nbsp;
 
 Grenville Kleiser once said, "*By constant self-discipline and self-control, you can develop greatness of character.”* This little-known inspirational quote sums up the purpose of self-discipline. You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that gets stronger with repeated use, which makes you great.
 
