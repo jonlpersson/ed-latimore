@@ -132,7 +132,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course. ([Tweet it](https://twitter.com/EdLatimore/status/1595828468377427968))
+![ed latimore discipline quotes &quot;the graveyard of unfulfilled ambition&quot;](/assets/images/posts/thegraveyardofunfulfilledambitionpng.png){: width="2160" height="2160"}
+
+> The graveyard of unfulfilled ambition is populated by people who couldn't delay gratification and let themselves get blown off course.&nbsp;
 
 ---
 
