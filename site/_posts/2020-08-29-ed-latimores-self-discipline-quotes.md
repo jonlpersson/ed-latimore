@@ -22,9 +22,11 @@ I hope you learn something from these quotes and if one of them resonates with y
 
 ## Ed Latimore's 16 Best Self-Discipline Quotes
 
+![ed latimore discipline quotes &quot;discipline to get shit done&quot;](/assets/images/posts/disciplinetogetshitdone.png){: width="2160" height="2160"}
+
 ***Self-discipline to get shit done.<br>Self-control to keep you from doing dumb shit.***
 
-***When they're both developed, anything is possible.*** ([Tweet it](https://twitter.com/EdLatimore/status/1232709622651346945))
+***When they're both developed, anything is possible.***&nbsp;
 
 The difference between self-discipline and self-control is that the former is necessary to ensure you do the hard work required to achieve your goals. The latter is required to keep you from doing things that will knock you off track. You need both to succeed.
 
