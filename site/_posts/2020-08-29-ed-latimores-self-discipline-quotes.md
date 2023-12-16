@@ -162,9 +162,11 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Imagine doing 25 to life because someone called you the worst slur and you \*had\* to knock him out.
+![ed latimore discipline quote &quot;lack of discipline will cost you your freedom&quot;](/assets/images/posts/nodisciplinecostsyouyourfreedom.png){: width="2160" height="2160"}
 
-But he hit his head when he fell and died. Lose your emotional discipline for one moment and it can cost you the rest of your life. ([Tweet it](https://twitter.com/EdLatimore/status/1437963109826695171))
+> Imagine doing 25 to life because someone called you the worst slur and you \*had\* to knock him out.
+>
+> But he hit his head when he fell and died. Lose your emotional discipline for one moment and it can cost you the rest of your life.&nbsp;
 
 ---
 
