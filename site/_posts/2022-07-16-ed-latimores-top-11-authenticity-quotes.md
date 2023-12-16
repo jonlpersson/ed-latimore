@@ -94,9 +94,11 @@ When the two are out of whack, it's a grating lack of authenticity and integrity
 
 ---
 
+![ed latimore authenticity quotes &quot;authenticity removes all targets for attack&quot;](/assets/images/posts/removealltargetsforattack.png){: width="2160" height="2160"}
+
 If you live an authentic, honest, and transparent life, you remove all targets for attack. This infuriates people.
 
-The only thing that makes someone angrier than a person they can't control is someone they can't shame into feeling bad about it. ([Tweet it](https://twitter.com/EdLatimore/status/1223938621759217664){: target="_blank"})
+The only thing that makes someone angrier than a person they can't control is someone they can't shame into feeling bad about it.&nbsp;
 
 ---
 
