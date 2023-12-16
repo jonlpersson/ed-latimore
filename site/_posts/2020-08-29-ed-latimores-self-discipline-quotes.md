@@ -64,7 +64,9 @@ You must force yourself to work if you ever want to be free from the whims of mo
 
 ---
 
-***Self-discipline and self-control determine the quality of your life more than anything else.*** ([Tweet it](https://twitter.com/EdLatimore/status/1059155306553491457))
+![ed latimore discipline quotes &quot;discipline determines the quality of your life&quot;](/assets/images/posts/disciplineandqualityoflife.png){: width="2160" height="2160"}
+
+> ***Self-discipline and self-control determine the quality of your life more than anything else.***&nbsp;
 
 Lou Holtz said, “Without self-discipline, success is impossible, period.” You don't have to be particularly talented. You just have to work. You can have a fine life if all you do is show up on time and stay out of trouble. Doing those things alone will guarantee that your life is fantastic.&nbsp;
 
