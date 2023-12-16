@@ -45,7 +45,7 @@ Getting punched in the face is a great way to realize how strong and durable you
 
 Yes, you might get a bloody nose or a black eye, but unless you get sucker punched and you fall and hit your head, there is minimal chance of death from getting punched in the face. You won’t even lose consciousness MOST of the time. It will just hurt, but you’ll still be here.
 
-***Read some mindset tips from boxing—&gt;[48 life lessons from boxing](/how-to-think-like-a-professional-fighter/)***
+***Read some mindset tips from boxing—&gt;[48 quotes from boxing](/boxing-quotes-from-ed-latimore/)***
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
