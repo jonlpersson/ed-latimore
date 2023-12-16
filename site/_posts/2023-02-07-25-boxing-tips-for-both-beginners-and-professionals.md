@@ -213,7 +213,7 @@ Work hard, be fearless, and stay in shape. Stay out of trouble with the law and 
 
 Do not disappoint them or waste your coach's time.&nbsp;
 
-***Read: [48 life lessons from boxing&nbsp;](/how-to-think-like-a-professional-fighter/)***
+***Read: [Ed Latimore's 48 Boxing Quotes](/boxing-quotes-from-ed-latimore/)***
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
