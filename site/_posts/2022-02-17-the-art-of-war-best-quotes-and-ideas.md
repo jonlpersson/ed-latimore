@@ -180,7 +180,7 @@ When I was a boxer, I used to tell people that I didn't worry about what the oth
 
 Don't get me wrong: my coach still studied the fighter and prepared me for any of his specific weaknesses, so we pool our resources in that way. I learned of myself. He learned of the opponent. This nearly guaranteed victory.
 
-***\[Read some other lessons I took from boxing here—&gt;[48 life lessons from boxing](/how-to-think-like-a-professional-fighter/)\]***
+***\[Read some other lessons I took from boxing here—&gt;[48 quotes about boxing from boxing](/boxing-quotes-from-ed-latimore/)\]***
 
 The second passage reminds me of something I observed during my chess training.
 
