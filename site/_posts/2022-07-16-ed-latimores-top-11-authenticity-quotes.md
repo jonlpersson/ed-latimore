@@ -74,11 +74,13 @@ You're low class if you consider wanton cruelty the mark of a person who "keeps 
 
 Good advice is everywhere—it's the unique personal spin you put on it that makes you stand out.
 
-I say nothing new, but I'm new and my experience with it is new. This is the power of authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1290709280925130752){: target="_blank"})
+I say nothing new, but I'm new and my experience with it is new. This is the power of authenticity.
 
 ---
 
-Your authenticity is a selling point only if you don't need it to be. ([Tweet it](https://twitter.com/EdLatimore/status/1218162983198756865){: target="_blank"})
+![ed latimore authenticity quote &quot;authenticity only a selling a point when it does not need to be&quot;](/assets/images/posts/authenticityonlysellingpointwhennotneeded.png){: width="2160" height="2160"}
+
+Your authenticity is a selling point only if you don't need it to be.&nbsp;
 
 ---
 
