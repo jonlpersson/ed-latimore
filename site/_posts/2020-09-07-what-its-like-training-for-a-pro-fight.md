@@ -137,7 +137,7 @@ To be a fighter, you have to be able to fight through the pain of a body shot or
 
 Much of fight training is as much about conditioning your mind as it is your body. It was not uncommon for me to do 60-90 minutes of hitting the focus mitts with my coach or hitting the heavy bag at as high of intensity as I could. Yes, this trained my body and endurance, but it trained my mind to work through being tired.
 
-Read more about [how to think like a fighter](/how-to-think-like-a-professional-fighter/).
+[Read more about how to think like a fighter.](/boxing-quotes-from-ed-latimore/)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
