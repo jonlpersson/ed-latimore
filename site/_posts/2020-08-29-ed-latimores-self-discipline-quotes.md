@@ -86,13 +86,17 @@ The former makes you weak because you deny your true nature. The latter makes yo
 
 ---
 
-***No books for self-discipline.***
+![ed latimore discipline quotes &quot;learn discipline through doing hard things&quot;](/assets/images/posts/disciplinethroughaction.png){: width="2160" height="2160"}
 
-***Take a fight<br>Change your body<br>Learn a language<br>Learn a musical instrument<br>Run a marathon***
+> ***No books for self-discipline.***
+>
+> ***Take a fight<br>Change your body<br>Learn a language<br>Learn a musical instrument<br>Run a marathon***
+>
+> ***I don't know. Just do something difficult.<br>You can't learn discipline from texts.***&nbsp;
 
-***I don't know. Just do something difficult.<br>You can't learn discipline from texts.*** ([Tweet it](https://twitter.com/EdLatimore/status/1287028777768321029))
+Discipline orders the disordered, focuses the unfocused, and makes strong the flimsy. It does this by forcing you to do difficult things. Discipline does not demand perfection or even mastery. It only requires effort and consistency.
 
-Discipline orders the disordered, focuses the unfocused, and makes strong the flimsy. It does this by forcing you to do difficult things. Discipline does not demand perfection or even mastery. It only requires effort and consistency. This reminds some of what Lao Tzu said of discipline: "*Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength*
+This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "*Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength*
 
 ---
 
