@@ -1,8 +1,8 @@
 ---
 date: 2015-11-04 19:00:00 -0500
 article_type: Article
-title: 48 life lessons from boxing
-permalink: /how-to-think-like-a-professional-fighter/
+title: 48 boxing quotes from Ed Latimore
+permalink: /boxing-quotes-from-ed-latimore/
 tags:
   - longevity-health-and-performance
 categories:
