@@ -84,11 +84,13 @@ Your authenticity is a selling point only if you don't need it to be.&nbsp;
 
 ---
 
+![ed latimore authenticity quote &quot;life a series of virtue signals&quot;](/assets/images/posts/liveaseriesofvirtuesignals.png){: width="2160" height="2160"}
+
 If you're living authentically, your life will automatically be a series of virtue-signaling actions.
 
 It's only annoying when you lack congruence between your word and deed.
 
-When the two are out of whack, it's a grating lack of authenticity and integrity. ([Tweet it](https://twitter.com/EdLatimore/status/1065911536324149248){: target="_blank"})
+When the two are out of whack, it's a grating lack of authenticity and integrity.&nbsp;
 
 ---
 
