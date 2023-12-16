@@ -24,17 +24,19 @@ I hope you learn something from these quotes and if one of them resonates with y
 
 ![ed latimore discipline quotes &quot;discipline to get shit done&quot;](/assets/images/posts/disciplinetogetshitdone.png){: width="2160" height="2160"}
 
-***Self-discipline to get shit done.<br>Self-control to keep you from doing dumb shit.***
-
-***When they're both developed, anything is possible.***&nbsp;
+> ***Self-discipline to get shit done.<br>Self-control to keep you from doing dumb shit.***
+>
+> ***When they're both developed, anything is possible.***&nbsp;
 
 The difference between self-discipline and self-control is that the former is necessary to ensure you do the hard work required to achieve your goals. The latter is required to keep you from doing things that will knock you off track. You need both to succeed.
 
 ---
 
-***Self-discipline and self-control will determine the quality of your life more than anything else.***
+![ed latimore discipline quote &quot;discipline determines the quality of your life more than anything&quot;](/assets/images/posts/selfdisciplinedeterminesthequalityofyourlife.png){: width="2160" height="2160"}
 
-***Self-discipline to make you do what needs to be done. Self-control to keep you from doing what you shouldn't.*** ([Tweet it](https://twitter.com/EdLatimore/status/1100114639415857152))
+> ***Self-discipline and self-control will determine the quality of your life more than anything else.***
+>
+> ***Self-discipline to make you do what needs to be done. Self-control to keep you from doing what you shouldn't.***&nbsp;
 
 Once you realize that no one controls your life but you, then you can start doing what needs to be done to make your life look like your greatest desires. Yes, you will occasionally get lucky, and people will give you help, but you determine how your life will turn out.
 
