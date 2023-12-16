@@ -156,7 +156,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-The answer to most of your problems is: More money, more time, or more discipline. ([Tweet it](https://twitter.com/EdLatimore/status/1442121815602737154))
+![ed latimore discipline quote &quot;the answer is more money, time, or discipline&quot;](/assets/images/posts/moremoneymoretimemorediscipline.png){: width="2160" height="2160"}
+
+> The answer to most of your problems is: More money, more time, or more discipline.&nbsp;
 
 ---
 
