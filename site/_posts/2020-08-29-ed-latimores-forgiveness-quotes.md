@@ -33,9 +33,11 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-You can't make progress if you're always reliving how you fucked up.
+![ed latimore forgiveness quotes &quot;can't make progress if you don't forgive yourself&quot;](/assets/images/posts/cantmakeprogressifyoudontforgiveyourself.png){: width="2160" height="2160"}
 
-Forgive yourself, let the past die, and get on with making the world a better place.
+> You can't make progress if you're always reliving how you fucked up.
+>
+> Forgive yourself, let the past die, and get on with making the world a better place.
 
 ---
 
