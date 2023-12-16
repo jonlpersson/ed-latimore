@@ -200,6 +200,8 @@ You can do well in life if you focus on reducing the number of mistakes you make
 
 ## The sign of a good plan
 
+![sun tzu art of war quote on the sign of a good plan](/assets/images/posts/sign-of-a-good-plan.png){: width="810" height="810"}
+
 > Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.
 
 Generally speaking, a good plan maximizes your gains, minimizes your losses, and does so as quickly as possible. Though Sun Tzu is specifically talking about preparation for battle here, we can extrapolate this to other types of contests.
@@ -216,13 +218,17 @@ Achieving your goal is remarkably easy if you plan and execute well. If you just
 
 ## The use of deception to win
 
-> All warfare is based on deception.
+![sun tzu art of war quote on deception](/assets/images/posts/1-use-of-deception-to-win.png){: width="810" height="810"}
 
-> Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
+> All warfare is based on deception.
 
 Whenever you make an error in execution, it's either due to bad technique or insufficient information. You can correct bad technique through training, but if you got the incorrect information, then there is a possibility that you have been deceived.&nbsp;
 
 If you can make someone think you have (or don't have) something that influences their actions, this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they're strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you're stronger when the reality is that they'd crush you.
+
+![sun tzu are of war quote on using deception](/assets/images/posts/2-use-of-deception-to-win.png){: width="810" height="810"}
+
+> Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
 
 Ultimately, the power of deception is that it bends your opponent's perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it's often used to make others think they have a higher value.
 
