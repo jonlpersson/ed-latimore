@@ -80,6 +80,8 @@ This can only happen if the boss doesn't care too much.&nbsp;
 
 ## How to lead a team
 
+![sun tzu art of war quote on leadership and punishment](/assets/images/posts/how-to-lead-a-team.png){: width="810" height="810"}
+
 > If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.
 
 Great leaders know how to navigate two interesting facts about human nature:&nbsp;
