@@ -170,4 +170,8 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Get into the habit of choosing your words carefully. If you don't have the discipline to do that, then at least have the awareness to know when you've chosen poorly, the humility to admit it, and the empathy to try again. ([Tweet it](https://twitter.com/EdLatimore/status/1431640652375265280){: target="_blank" rel="noopener noreferrer"})
+![ed latimore discipline quote &quot;get into the habit of choosing your words wisely&quot;](/assets/images/posts/disciplinetochoosewordscarefully.png){: width="2160" height="2160"}
+
+> Get into the habit of choosing your words carefully.
+>
+> If you don't have the discipline to do that, then at least have the awareness to know when you've chosen poorly, the humility to admit it, and the empathy to try again.&nbsp;
