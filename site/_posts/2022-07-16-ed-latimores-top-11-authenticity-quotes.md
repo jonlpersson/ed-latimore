@@ -120,10 +120,10 @@ Just be authentic and people will still like you.&nbsp;
 
 ![ed latimore authenticity quotes &quot;see what they dont post&quot;](/assets/images/posts/authenticitywhattheydontpost.png){: width="2160" height="2160"}
 
-If you want to see how authentic someone is, start looking at what they \*don't\* post about. ([Tweet it](https://twitter.com/EdLatimore/status/1487653527514189826){: target="_blank" rel="noopener"})
+If you want to see how authentic someone is, start looking at what they \*don't\* post about.&nbsp;
 
 ---
 
-The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty. ([Tweet it](https://twitter.com/EdLatimore/status/1100587920203882496){: target="_blank" rel="noopener"})
+![ed latimore authenticity quotes &quot;authentic people dont try to fit in&quot;](/assets/images/posts/authenticpeopledonttrytofitin.png){: width="2160" height="2160"}
 
-\####
+The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty.&nbsp;
