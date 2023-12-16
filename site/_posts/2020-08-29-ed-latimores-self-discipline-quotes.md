@@ -72,11 +72,13 @@ Lou Holtz said, “Without self-discipline, success is impossible, period.” Yo
 
 ---
 
-***The deeper your feel, the more emotional control you need.***
+![ed latimore discipline quotes &quot;the more deeply you feel, the more discipline you need&quot;](/assets/images/posts/disciplinefordeepfeelers.png){: width="2160" height="2160"}
 
-***A special type of self-destruction occurs when you combine high empathy and low self-discipline.*** ([Tweet it](https://twitter.com/EdLatimore/status/1245748194421739520))
+> ***The deeper your feel, the more emotional control you need.***
+>
+> ***A special type of self-destruction occurs when you combine high empathy and low self-discipline.***&nbsp;
 
-> I thought of this after reading the following quote by the Dalai Lama:<br><br>Most of our problems are related to the mind, so we have to work to reduce our destructive emotions. Use your human intelligence in the best way you can; transform your emotions in a positive way.
+I thought of this after reading the following quote by the Dalai Lama:<br><br>Most of our problems are related to the mind, so we have to work to reduce our destructive emotions. Use your human intelligence in the best way you can; transform your emotions in a positive way.
 
 Emotions are a strength, but if you let them get out of control, you can damage yourself and others in a relatively short amount of time. I believe that a secret to success is not to divorce yourself from your emotions but to integrate them and gain their full powers.
 
