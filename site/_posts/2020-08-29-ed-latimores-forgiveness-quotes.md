@@ -23,11 +23,13 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ## Forgiveness quotes from Twitter
 
-In the end, you realize that it was never personal.
+![ed latimore forgiveness quotes &quot;it was never personal&quot;](/assets/images/posts/neverpersonal.png){: width="2160" height="2160"}
 
-It was just people acting in their own best interests and you were collateral damage.
-
-This doesn't make it right, but realizing that you weren't really a specific target is the first step to forgiveness.
+> In the end, you realize that it was never personal.
+>
+> It was just people acting in their own best interests and you were collateral damage.
+>
+> This doesn't make it right, but realizing that you weren't really a specific target is the first step to forgiveness.
 
 ---
 
