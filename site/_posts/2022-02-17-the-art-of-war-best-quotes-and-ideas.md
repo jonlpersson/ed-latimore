@@ -22,11 +22,15 @@ I read through The Art of War and took notes on what I thought were the most imp
 
 ## Adapting to change
 
+![sun tzu art of war quotes on adapting to change](/assets/images/posts/1-adapting-to-change.png){: width="810" height="810"}
+
 > According as circumstances are favorable, one should modify one’s plans.
 
-> Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.
-
 It doesn't matter how strong, fast, or organized you are. The only thing that matters is how well you can adapt to change. The spoils of victory have always gone to whoever can anticipate the changes in their environment and quickly create a plan to capitalize on those changes.
+
+![sun tzu art of war quote on using new tactics](/assets/images/posts/2-adapting-to-change.png){: width="810" height="810"}
+
+> Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.
 
 If you want to consistently maintain an advantage, you must anticipate and embrace change. Every new skill you learn should be to increase your flexibility to handle new situations that will inevitably arise. This is why I recommend everyone learn how to write and learn mathematics up to calculus.
 
@@ -41,6 +45,8 @@ This changing world will leave behind anyone who can't manage change.
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
 ## Bad leadership qualities
+
+![sun tzu art of war quote on bad leadership](/assets/images/posts/bad-leadership.png){: width="810" height="810"}
 
 > There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honor which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble.
 
@@ -178,13 +184,17 @@ This is something I learned while getting sober. Putting down the bottle made it
 
 ## Self-knowledge and letting the enemy beat himself
 
-> Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
+![sun tzu art of war quote on knowing yourself to beat others](/assets/images/posts/1-know-thyself.png){: width="810" height="810"}
 
-> To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
+> Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
 
 If you take a meta-view of any clash, there are only two factors to consider: you and what stands in your way.
 
 If you know yourself and the obstacle well, there's no reason you shouldn't be successful in getting what you want. This is why we study, practice, and prepare. We must simultaneously make ourselves as capable as possible while becoming familiar with the challenge before we face it.
+
+![sun tzu art of war quotes on knowing yourself to secure victory](/assets/images/posts/2-know-thyself.png){: width="810" height="810"}
+
+> To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
 
 When I was a boxer, I used to tell people that I didn't worry about what the other guy did because I was in control of my training. I knew that if I put supreme effort into my training regimen, sharpening all of my rough edges and systematically eliminating my flaws, I'd be very difficult to beat.
 
