@@ -131,5 +131,3 @@ But he hit his head when he fell and died. Lose your emotional discipline for on
 ---
 
 Get into the habit of choosing your words carefully. If you don't have the discipline to do that, then at least have the awareness to know when you've chosen poorly, the humility to admit it, and the empathy to try again. ([Tweet it](https://twitter.com/EdLatimore/status/1431640652375265280){: target="_blank" rel="noopener noreferrer"})
-
-&nbsp;
