@@ -48,7 +48,7 @@ No matter what you want, you’re competing against other people, your former se
 
 But when your goal involves a demonstration of your abilities without defeating others, that’s when you’re competing against your former self. You’re seeking to express a new self—the improved version of you. Either way, the fight comes down to who wants victory more: you or your opponent? Your improved, disciplined self or the old self you’re comfortable with?
 
-[In many fights,](/how-to-think-like-a-professional-fighter/) will beats skill.
+[In many fights, will beats skill.](/boxing-quotes-from-ed-latimore/)
 
 Who wants it more? Who is willing to take their desire for victory unreasonably far? This is not something that you can learn. It can only be taught by getting taken to school by the hard knocks of life.
 
