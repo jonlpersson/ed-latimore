@@ -26,7 +26,7 @@ In this post, I don't have any cash for you. However, I will give you some of th
 
 ![Lessons from boxing](/assets/images/posts/FightIsWon.jpg "You can bullshit yourself, but you can't bullshit the fight game.")
 
-## Lessons on learning&nbsp;
+## Ed Latimore's boxing quotes on learning&nbsp;
 
 **1)** Cardio is king. Fighter's say it all the time because it will decide the outcome of most of your early fights.
 
@@ -46,7 +46,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **6)** Keep your glass empty, even when the water around you tastes like shit. I’ve made some amazing insights and developments by opening my mind to guys who didn’t know much about fighting. Even a broken clock is right twice a day.
 
-## Process vs. outcome&nbsp;
+## Ed Latimore's boxing quotes about process vs. outcome&nbsp;
 
 **7)** [Good technique is essential, but perfect technique is over-overrated.](/the-book-of-five-rings-quotes/) Effective technique is underrated. What’s more valuable: A pretty hook that rarely lands or a less than “perfect” one that has an 80% KO percentage?
 
@@ -56,7 +56,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Professional boxing Ed Latimore](/assets/images/posts/FightingPose.jpg "Not a perfect right hand, but it does the job")
 
-### Lessons in pain&nbsp;
+## Ed Latimore's boxing quotes on pain&nbsp;
 
 **10)** Pain is the great equalizer in fighting. No matter how much better than you someone is, if you can cause them pain, you stand a chance.
 
@@ -76,7 +76,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Professional boxing loss](/assets/images/posts/ed-knocked-out.jpg "My loss was embarrassing, but it was instrumental in setting me up for the amazing life I lead today.")
 
-### Dealing With haters, lovers, fans, and friends
+## Ed Latimore's&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
 
 **17)** Conflicts that can be settled like a fight don’t need shit talk. All the words in the world can’t save you when you’re getting your ass handed to you in front of everyone.
 
@@ -100,7 +100,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Boxing training forms respect](/assets/images/posts/ed-after-sparring.jpg "Boxing training forms respect")
 
-## The boxing mindset applied to life
+## Ed Latimore's boxing quotes applied to life
 
 **26)** Some rules you can break once and plead ignorance. Make the infraction count for something. You may not be so lucky the next time.
 
@@ -116,7 +116,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Boxing training sharpens your mind](/assets/images/posts/Boxingcalm.jpg "Right before a fight, trying to stay cool and collected.")
 
-## Being a great student and teacher
+## Ed Latimore's boxing quotes on being a great student and teacher
 
 **32)** It’s important to have experience with other [competitive endeavors](/how-to-be-competitive/). This allows you to [know if a coach is a good match for you.](/qualities-of-a-good-teacher/) Just because you don't vibe with and/or have trouble learning from one coach doesn’t mean he's a bad coach. It just means that you two are a bad match.
 
@@ -136,7 +136,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Sweet victory from boxing](/assets/images/posts/ed-state-championship.jpg "Good teachers can make an average performer great and a great performer a superstar.")
 
-## How to fight in all situations in life
+## Ed Latimore's boxing quotes on fighting in all situations in life
 
 **40)** Not everything is as it appears to be. Nor is it otherwise. Learn to see the layers behind the scene. Learn to read what's in between.
 
@@ -150,7 +150,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
 
-## What you can and can't control
+## Ed Latimore's boxing quotes on what you can and can't control
 
 **45)**&nbsp;Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noopener noreferrer"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noopener noreferrer"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
 
