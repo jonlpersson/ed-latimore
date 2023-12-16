@@ -86,7 +86,7 @@ I started fighting to become someone. I had an immature idea of what that meant 
 
 When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize that the desire for respect and attention brought me in, but a commitment to what the sport did for me kept me there. I honestly don’t know if anything like boxing would have challenged and transformed me in all the ways it did.&nbsp;
 
-[Boxing broke me down, built me up, and made me accountable to the world](/how-to-think-like-a-professional-fighter/). It made me a person to be admired and respected. It made me more than I could have ever imagined it would 13 years ago when I first stepped in the ring.
+[Boxing broke me down, built me up, and made me accountable to the world.](/boxing-quotes-from-ed-latimore/) It made me a person to be admired and respected. It made me more than I could have ever imagined it would 13 years ago when I first stepped in the ring.
 
 That is why I fought.
 
