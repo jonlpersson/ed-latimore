@@ -105,6 +105,8 @@ Your concern is order and effectiveness. If you do this while treating everyone 
 
 ## How to plan for a conflict
 
+![sun tzu art of war quote on making a plan for battle](/assets/images/posts/how-to-plan-for-conflict.png){: width="810" height="810"}
+
 > The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
 
 Sun Tzu combines two pieces of colloquial wisdom in this passage:
@@ -126,6 +128,8 @@ You can make it pretty far if you only focus on preparing for the ways that you 
 
 ## How to know who is capable
 
+![sun tzu art of war quote on knowing when the enemy is capable of striking](/assets/images/posts/how-to-know-who-is-capable.png){: width="810" height="810"}
+
 > Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
 
 Though this is not always true, people who talk a lot are not the ones who get things done.&nbsp;
@@ -141,6 +145,8 @@ Here's another way to look at this: if someone is capable of performing a task, 
 > \-Young Jeezy, "This one's for you"
 
 ## Training for the worst conditions
+
+![sun tzu art of war quote on knowing training for the worst conditions](/assets/images/posts/training-for-the-worst-conditions.png){: width="810" height="810"}
 
 > Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
 
