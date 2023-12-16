@@ -48,13 +48,19 @@ Once you realize that no one controls your life but you, then you can start doin
 >
 > ***Do something when you don't want to. Repeatedly.<br>Don't ever expect it to get easier. You just get stronger.***&nbsp;
 
-Grenville Kleiser once said, "*By constant self-discipline and self-control, you can develop greatness of character.”* This little-known inspirational quote sums up the purpose of self-discipline. You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that gets stronger with repeated use, which makes you great.
+Grenville Kleiser once said, "*By constant self-discipline and self-control, you can develop greatness of character.”* This little-known inspirational quote sums up the purpose of self-discipline.
+
+You need to take on difficult things to be a great person because part of becoming great is the ability to do what needs to be done—regardless of how you feel about it. You don't master self-discipline. It's a muscle that strengthens with repeated use, making you great.
 
 ---
 
-***Self-discipline is the insurance policy against the failure of the fickle forces of motivation and inspiration.*** ([Tweet it](https://twitter.com/EdLatimore/status/1298020982150569984))
+![](/assets/images/posts/disciplineisinsuranceagainstmotivation.png){: width="2160" height="2160"}
 
-You will never have what you want if you only work when you feel like it. People who rely on motivation and inspiration rely on emotion. Emotions, by their very nature, are unpredictable and unreliable. You must force yourself to work if you ever want to be free from the whims of motivation and inspiration. Jim Rohn said it best: "We must all suffer one of two things: the pain of discipline or the pain of regret.”
+> ***Self-discipline is the insurance policy against the failure of the fickle forces of motivation and inspiration.***&nbsp;
+
+You will never have what you want if you only work when you feel like it. People who rely on motivation and inspiration rely on emotion. Emotions, by their very nature, are unpredictable and unreliable.
+
+You must force yourself to work if you ever want to be free from the whims of motivation and inspiration. Jim Rohn said it best: "We must all suffer one of two things: the pain of discipline or the pain of regret.”
 
 ---
 
