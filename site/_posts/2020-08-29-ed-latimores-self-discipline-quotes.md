@@ -110,15 +110,19 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-The answer to most of your problems is more self-control or discipline.
+![ed latimore discipline quote &quot;discipline is the answer to most of your problems&quot;](/assets/images/posts/disciplineistheanswertoyourproblems.png){: width="2160" height="2160"}
 
-This fixes every long-term problem you might have and almost every short-term one. ([Tweet it](https://twitter.com/EdLatimore/status/1272321993879302144))
+> The answer to most of your problems is more self-control or discipline.
+>
+> This fixes every long-term problem you might have and almost every short-term one.&nbsp;
 
 ---
 
-Emotional discipline is the most important.
+![ed latimore discipline quote &quot;emotional discipline is the most important&quot;](/assets/images/posts/emotionaldisciplineismostimportant.png){: width="2160" height="2160"}
 
-When emotional discipline breaks, that's when you do things that change your life for the worst. ([Tweet it](https://twitter.com/EdLatimore/status/1296529542258008064))
+> Emotional discipline is the most important.
+>
+> When emotional discipline breaks, that's when you do things that change your life for the worst.&nbsp;
 
 ---
 
