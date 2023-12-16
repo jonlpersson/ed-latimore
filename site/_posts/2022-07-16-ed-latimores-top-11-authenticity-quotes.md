@@ -102,9 +102,11 @@ The only thing that makes someone angrier than a person they can't control is so
 
 ---
 
+![ed latimore authenticity authenticity quotes &quot;authenticity is easy living with passion&quot;](/assets/images/posts/becomeyourbestself.png){: width="2160" height="2160"}
+
 It’s easy to become your best self when what you pursue aligns with your passion.&nbsp;
 
-The moment you begin to live for another’s desires is the moment you lose authenticity. ([Tweet it](https://twitter.com/EdLatimore/status/1190080084788613120){: target="_blank"})
+The moment you begin to live for another’s desires is the moment you lose authenticity.&nbsp;
 
 ---
 
