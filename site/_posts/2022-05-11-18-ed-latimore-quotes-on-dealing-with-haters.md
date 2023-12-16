@@ -28,53 +28,55 @@ If you want to retweet them, just hit the “Tweet it” link next to them. Enjo
 
 ![hater quote &quot;must be nice&quot;](/assets/images/posts/mustbenice.png){: width="2160" height="2160"}
 
-"Must be nice" is the most passive-aggressive **hater** shit you can say to someone who shares good news with you.&nbsp;
+> "Must be nice" is the most passive-aggressive **hater** shit you can say to someone who shares good news with you.&nbsp;
 
 ---
 
 ![hate quote &quot;mediocre man has no haters&quot;](/assets/images/posts/mediocreman.png){: width="2160" height="2160"}
 
-**A mediocre man has no haters. An average man gets angry at them. The superior man uses them.**&nbsp;
+> **A mediocre man has no haters. An average man gets angry at them. The superior man uses them.**&nbsp;
 
 ---
 
-![hater quote &quot;better I do in life&quot;](/assets/images/posts/betteridoinlife.png){: width="2160" height="2160"}The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate.&nbsp;
+![hater quote &quot;better I do in life&quot;](/assets/images/posts/betteridoinlife.png){: width="2160" height="2160"}
+
+> The better I do in life, the less I believe in **haters**. At least as they're presented. If you've been treating people right and being helpful, people generally want to see you do well. If you've been an asshole though, you might find yourself getting a lot of hate.&nbsp;
 
 ---
 
 ![hater quotes &quot;losers cant have haters&quot;](/assets/images/posts/loserscanthavehaters.png){: width="2160" height="2160"}
 
-**A lot of y'all claiming to have haters are just low-quality humans who can't take honest feedback. You can't have haters AND be a loser.**&nbsp;
+> **A lot of y'all claiming to have haters are just low-quality humans who can't take honest feedback. You can't have haters AND be a loser.**&nbsp;
 
 ---
 
 ![hater quotes &quot;delusions of grandeur&quot;](/assets/images/posts/delusiosofgrandeur.png){: width="2160" height="2160"}
 
-Sometimes you have haters. Most times you're just an asshole with delusions of grandeur.&nbsp;
+> Sometimes you have haters. Most times you're just an asshole with delusions of grandeur.&nbsp;
 
 ---
 
 ![hater quotes &quot;making fun of you&quot;](/assets/images/posts/makingfunofyou.png){: width="2160" height="2160"}
 
-**You don't have haters if you haven't done shit. People are just making fun of you.**&nbsp;
+> **You don't have haters if you haven't done shit. People are just making fun of you.**&nbsp;
 
 ---
 
 ![hater quotes &quot;not all criticism is hate&quot;](/assets/images/posts/notallcriticismishate.png){: width="2160" height="2160"}
 
-Not everyone who gives you criticism is a hater and not every hater is wrong. ([Tweet it](https://twitter.com/EdLatimore/status/1362430790211162115){: target="_blank"})
+> Not everyone who gives you criticism is a hater and not every hater is wrong.&nbsp;
 
 ---
 
 ![hater quotes &quot;inventing controversy&quot;](/assets/images/posts/inventcontroversy.png){: width="2160" height="2160"}
 
-**So people invent controversy and imagine haters to make themselves feel more important than they really are.**&nbsp;
+> **Some people invent controversy and imagine haters to make themselves feel more important than they really are.**&nbsp;
 
 ---
 
 ![hater quote &quot;underdog never has haters&quot;](/assets/images/posts/supportthegrind.png){: width="2160" height="2160"}
 
-People will support the grind but they get funny when it starts to pay off. Underdogs rarely have haters. Winners often do. Every winner was once an underdog. Die the hero or live long enough to become the villain.&nbsp;
+> People will support the grind but they get funny when it starts to pay off. Underdogs rarely have haters. Winners often do. Every winner was once an underdog. Die the hero or live long enough to become the villain.&nbsp;
 
 {% include widgets/summary.html id="The-Four-Confidences" %}
 
@@ -82,25 +84,25 @@ People will support the grind but they get funny when it starts to pay off. Unde
 
 ![hater quotes &quot;can't be liked and respected by all&quot;](/assets/images/posts/likedandrespectedbyallpng.png){: width="2160" height="2160"}
 
-**You can't be liked AND respected by everyone. People test boundaries. Someone will test yours. When you check ‘em, you'll gain a hater.**
+> **You can't be liked AND respected by everyone. People test boundaries. Someone will test yours. When you check ‘em, you'll gain a hater.**
 
 ---
 
 ![ed latimore hater quote &quot;not everyone will like you&quot;](/assets/images/posts/someonewillalwaysdislike.png){: width="2160" height="2160"}
 
-You'll always have someone that doesn't like you. Even the most charismatic person has haters *because* everyone likes them. Don't make a big deal about it. Just don't hurt anyone and keep enjoying your short time on this rock. ([Tweet it](https://twitter.com/EdLatimore/status/1470586926545752075){: target="_blank"})
+> You'll always have someone that doesn't like you. Even the most charismatic person has haters *because* everyone likes them. Don't make a big deal about it. Just don't hurt anyone and keep enjoying your short time on this rock.
 
 ---
 
 ![ed latimore hater quotes &quot;might be an asshole&quot;](/assets/images/posts/mightbeanasshole.png){: width="2160" height="2160"}
 
-**Before you start talking about having haters, make sure you're a good person who does right by people. Because you might actually just be an asshole and people are calling you out on it.**&nbsp;
+> **Before you start talking about having haters, make sure you're a good person who does right by people. Because you might actually just be an asshole and people are calling you out on it.**&nbsp;
 
 ---
 
 ![ed latimore hater quote &quot;do anything well&quot;](/assets/images/posts/doanythingwell.png){: width="2160" height="2160"}
 
-Do anything well and you make yourself a target. Not just for your competitors, but for people who wish they could compete with you. These are the haters who never do anything more significant than trying to tear you down.&nbsp;
+> Do anything well and you make yourself a target. Not just for your competitors, but for people who wish they could compete with you. These are the haters who never do anything more significant than trying to tear you down.&nbsp;
 
 ***\[Read another article about dealing with haters here–&gt;[What to do when someone hates you for no reason](/when-someone-hates-you-for-no-reason/)\]***
 
@@ -108,30 +110,30 @@ Do anything well and you make yourself a target. Not just for your competitors, 
 
 ![ed latimore hater quotes trying to run with tied shoes](/assets/images/posts/haterrunningwithtiedshoes.png){: width="2160" height="2160"}
 
-**Being a hater is like tying your own legs together before a race and expecting the competition to trip.**&nbsp;
+> **Being a hater is like tying your own legs together before a race and expecting the competition to trip.**&nbsp;
 
 ---
 
 ![ed latimore hater quote &quot;every hater you get comes with more support&quot;](/assets/images/posts/everyhateryouget.png){: width="2160" height="2160"}
 
-For every one **hater** you get, there are thousands who believe in you. They're watching, learning, and taking cues. Many of them are in a position to set you up for a big break. Supports are often silent. Hate is usually loud.&nbsp;
+> For every one **hater** you get, there are thousands who believe in you. They're watching, learning, and taking cues. Many of them are in a position to set you up for a big break. Supports are often silent. Hate is usually loud.&nbsp;
 
 ---
 
 ![ed latimore hater quotes &quot;so successful you don't acknowledge haters&quot;](/assets/images/posts/sosuccessfulyoudontevenacknowledgehaters.png){: width="2160" height="2160"}
 
-**Be so successful and happy that you don't even acknowledge haters. Make them look envious when they're shouting into the ether of the internet.**&nbsp;
+> **Be so successful and happy that you don't even acknowledge haters. Make them look envious when they're shouting into the ether of the internet.**&nbsp;
 
 ---
 
 ![ed latimore hater quote &quot;difference between hater and rival&quot;](/assets/images/posts/haterandrivalresponse.png){: width="2160" height="2160"}
 
-The difference between a bitter hater and an intense rival is how they chose to respond to their jealousy. ([Tweet it](https://twitter.com/EdLatimore/status/1329255552011137026){: target="_blank"})
+> The difference between a bitter hater and an intense rival is how they chose to respond to their jealousy.&nbsp;
 
 ---
 
 ![ed latimore hater quote &quot;don't be afraid to celebrate&quot;](/assets/images/posts/don-tbeafraidtocelebrate.png){: width="2160" height="2160"}
 
-**When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…**&nbsp;
+> **When you win, don't be afraid to celebrate. Your supporters will love it. Your haters will hate it, but they're haters! That's what they're *supposed* to do! It's in the name…**&nbsp;
 
 {% include widgets/summary.html id="The-Four-Confidences" %}
