@@ -100,11 +100,13 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Crime, healthcare, and the media are just businesses.
+![ed latimore discipline quote &quot;discipline is good for you and bad for big business&quot;](/assets/images/posts/disciplineisgoodforyouandbadforbigbusiness.png){: width="2160" height="2160"}
 
-Self-control is bad for business.<br>Self-discipline is bad for business.<br>Respect is bad for business.<br>Health is bad for business.<br>Independent thinking is bad for business.
-
-It's not a conspiracy. It's just business. ([Tweet it](https://twitter.com/EdLatimore/status/1259813426630705152))
+> Crime, healthcare, and the media are just businesses.
+>
+> Self-control is bad for business.<br>Self-discipline is bad for business.<br>Respect is bad for business.<br>Health is bad for business.<br>Independent thinking is bad for business.
+>
+> It's not a conspiracy. It's just business.&nbsp;
 
 ---
 
