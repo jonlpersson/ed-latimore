@@ -67,7 +67,7 @@ You must evaluate yourself and decide whether you merely made a mistake, a diffe
 
 Everyone’s path is different, but it’s impossible to know that while you still suffer the emotional effects of the loss.
 
-***(Read: "[How To Think Like A Professional Fighter](/how-to-think-like-a-professional-fighter/)")***
+***(Read: "[48 Ed Latimore Boxing Quotes](/boxing-quotes-from-ed-latimore/)")***
 
 ## Heaven and Hell represent what happens when you die
 
