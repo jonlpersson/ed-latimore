@@ -138,7 +138,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Fuck motivation.<br>Either you want it or you don't. ([Tweet it](https://twitter.com/EdLatimore/status/1297191363457495040))
+![ed latimore discipline quotes &quot;fuck motivation&quot;](/assets/images/posts/fuckmotivation.png){: width="2160" height="2160"}
+
+> Fuck motivation.<br>Either you want it or you don't.&nbsp;
 
 ---
 
