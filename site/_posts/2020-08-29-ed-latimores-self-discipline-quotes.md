@@ -126,7 +126,9 @@ This reminds some of what [Lao Tzu said of discipline](/tao-te-ching-quotes/): "
 
 ---
 
-Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them. ([Tweet it](https://twitter.com/EdLatimore/status/1595828414036017152))
+![ed latimore discipline quotes &quot;loss of discipline can cost you your life&quot;](/assets/images/posts/prisonsandgraveyardsfullofpeople.png){: width="2160" height="2160"}
+
+> Prisons and cemeteries are full of people who could have avoided a tragedy but instead let their emotions get the best of them.&nbsp;
 
 ---
 
