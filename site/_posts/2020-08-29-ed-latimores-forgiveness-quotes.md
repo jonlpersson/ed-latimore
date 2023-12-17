@@ -41,7 +41,9 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-The hardest person to forgive is often ourselves.
+![ed latimore forgiveness quotes &quot;the hardest person to forgive is yourself&quot;](/assets/images/posts/hardestpersontoforgive.png){: width="2160" height="2160"}
+
+> The hardest person to forgive is often ourselves.
 
 ---
 
