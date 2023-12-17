@@ -100,9 +100,15 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **16)** You’re never as good or as bad as you think you are. This is why it’s important to focus on improving your skills rather than on your record. One man’s [undefeated record](https://www.boxingnews24.com/2014/06/in-all-of-boxing-history-no-undefeated-boxer-has-been-great/){: target="_blank" rel="noopener noreferrer"} is another man’s 8-2, depending on who, when, and where he fought.
 
-![Professional boxing loss](/assets/images/posts/ed-knocked-out.jpg "My loss was embarrassing, but it was instrumental in setting me up for the amazing life I lead today.")
+
 
 ## Ed Latimore's&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
+
+![muhammad ali boxing quote on losing and dealing with fans](/assets/images/posts/muhammad-ali-quote-after-losing.png){: width="1065" height="731"}
+
+> If my fans think I can do everything I say I can do, then they’re crazier than I am.&nbsp;
+>
+> \-Muhammad Ali
 
 **17)** Conflicts that can be settled like a fight don’t need shit talk. All the words in the world can’t save you when you’re getting your ass handed to you in front of everyone.
 
