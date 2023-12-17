@@ -109,9 +109,11 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-You don’t forgive because the person “deserves” it. You don’t forgive because you deserve it.
+![ed latimore forgiveness quotes &quot;forgive to cure your heart of hatred&quot;](/assets/images/posts/forgivetocureyourheartofhatred.png){: width="2160" height="2160"}
 
-You forgive because it’s the only way to cure your heart of hatred. Hatred of others and most importantly, of yourself.
+> You don’t forgive because the person “deserves” it. You don’t forgive because you deserve it.
+>
+> You forgive because it’s the only way to cure your heart of hatred. Hatred of others and most importantly, of yourself.
 
 ---
 
