@@ -47,7 +47,9 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-The weak seek revenge. The strong forgive. The intelligent ignore.
+![ed latimore forgiveness quotes &quot;the strong forgive&quot;](/assets/images/posts/thestrongforgive.png){: width="2160" height="2160"}
+
+> The weak seek revenge. The strong forgive. The intelligent ignore.
 
 ---
 
