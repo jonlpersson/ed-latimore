@@ -72,6 +72,12 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ## Ed Latimore's boxing quotes on pain&nbsp;
 
+![Muhammad Ali quote about pain during training](/assets/images/posts/muhamma-ali-on-pain-and-sit-ups.jpeg){: width="736" height="443"}
+
+> "I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts."
+>
+> \-Muhammad Ali
+
 **10)** Pain is the great equalizer in fighting. No matter how much better than you someone is, if you can cause them pain, you stand a chance.
 
 **11)** We have a saying in boxing: "The first ball shot is free. Use it wisely."
@@ -146,7 +152,7 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **31)** If I lose, it's because I faced someone better. It's ok to lose in that situation. Losing is NOT ok because you didn't give it your all.
 
-![Boxing training sharpens your mind](/assets/images/posts/Boxingcalm.jpg "Right before a fight, trying to stay cool and collected.")
+![ed latimore quotes about boxing &quot;Boxing training sharpens your mind&quot;](/assets/images/posts/Boxingcalm.jpg "Right before a fight, trying to stay cool and collected.")
 
 ## Ed Latimore's boxing quotes on being a great student and teacher
 
@@ -166,7 +172,7 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **39)** Stick to a game plan, but adjust when necessary.
 
-![Sweet victory from boxing](/assets/images/posts/ed-state-championship.jpg "Good teachers can make an average performer great and a great performer a superstar.")
+
 
 ## Ed Latimore's boxing quotes on fighting in all situations in life![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
 
