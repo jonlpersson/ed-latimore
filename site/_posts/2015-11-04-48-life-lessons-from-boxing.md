@@ -26,7 +26,21 @@ In this post, I don't have any cash for you. However, I will give you some of th
 
 ![Lessons from boxing](/assets/images/posts/FightIsWon.jpg "You can bullshit yourself, but you can't bullshit the fight game.")
 
-## Ed Latimore's boxing quotes on learning&nbsp;
+> "The fight is won or lost fare away from witnesses, behind the lines in the gym, and out there on the road, long before I dance under the lights."
+>
+> \-Muhammad Ali
+
+![Muhammad Ali hated training, but knew it was worth it to become a champion](/assets/images/posts/ali-hated-training.png){: width="935" height="618"}
+
+There is no tougher training than what you go through to box. Even at the lower levels, a fight is preparing himself, not just physically, but mentally and emotionally as well. The paces that fighters put themselves through just to ensure peak condition before a bout is unimaginable to most. Boxers typically train year-round and, when for 8-12 weeks ahead of a scheduled fight, they leave behind family and personal lives in exchange for a grueling existence centered around the gym.
+
+The conditioning aims to break you down and rebuild you into a human weapon. But it also strengthens psychological resilience and an unbreakable will. The emotional rollercoaster of sparring shapes confidence and mental agility. And the solitary nature of early mornings roadwork forges grit and tenacity. Every facet hones the skills needed to endure pain, chaos, and doubt.
+
+But the rewards are massive and more than enough reason to endure the sacrifice. Ali is widely considered the greatest of all time, not just because of unparalleled skill in the ring, but also his tireless work ethic, flair, and charisma. His quote captures how the vision of triumph at the end fuels the efforts and abnegation along the way.
+
+This mindset applies off the canvas too. In life, we must make sacrifices to attain our goals, whether that’s working harder to provide for family, or sticking to health programs to better ourselves. The journey is never easy, but keeping the end goal in focus makes the struggle worthwhile. Progress demands discomfort. And boxing epitomizes the emotional and mental breakthroughs that come from persisting through hardship with purpose.
+
+## Ed Latimore's boxing quotes on training and learning the sweet science
 
 **1)** Cardio is king. Fighter's say it all the time because it will decide the outcome of most of your early fights.
 
