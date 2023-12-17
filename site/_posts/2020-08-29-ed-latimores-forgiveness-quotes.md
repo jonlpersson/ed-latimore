@@ -117,7 +117,7 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-![ed latimore forgiveness quotes &quot;forgiveness doesn't mean continued association&quot;](/assets/images/posts/forgivenessdoesn-tmeancontinueassociation.png){: width="2160" height="2160"}
+![ed latimore forgiveness quotes &quot;forgiveness doesn't mean continued association&quot;](/assets/images/posts/forgivenessdoesn-tmeancontinueassociation-1.png){: width="2160" height="2160"}
 
 > Forgiveness doesn't mean you continue to associate with someone.
 >
