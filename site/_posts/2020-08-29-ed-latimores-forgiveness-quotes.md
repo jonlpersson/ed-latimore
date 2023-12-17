@@ -117,11 +117,13 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-Forgiveness doesn't mean you continue to associate with someone.
+![ed latimore forgiveness quotes &quot;forgiveness doesn't mean continued association&quot;](/assets/images/posts/forgivenessdoesn-tmeancontinueassociation.png){: width="2160" height="2160"}
 
-It doesn't mean you expect them to change.
-
-It means that the wrongs they've committed against you no longer take up space in your heart.
+> Forgiveness doesn't mean you continue to associate with someone.
+>
+> It doesn't mean you expect them to change.
+>
+> It means that the wrongs they've committed against you no longer take up space in your heart.
 
 ---
 
