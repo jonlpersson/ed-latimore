@@ -59,11 +59,13 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-I forgive because I'm selfish.
+![ed latimore forgiveness quotes &quot;I forgive because I'm selfish&quot;](/assets/images/posts/forgivebecauesimselfish.png){: width="2160" height="2160"}
 
-I don't do it for it the other person.
-
-I do it so that I no longer have to think about or feel anything towards my past.
+> I forgive because I'm selfish.
+>
+> I don't do it for it the other person.
+>
+> I do it so that I no longer have to think about or feel anything towards my past.
 
 ---
 
