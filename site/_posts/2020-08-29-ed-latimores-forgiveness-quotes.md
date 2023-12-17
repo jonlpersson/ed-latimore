@@ -53,7 +53,9 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-I don't believe in "forgive and forget". Only forgive. You still gotta protect ya neck
+![ed latimore forgiveness quotes &quot;only forgive. never forget&quot;](/assets/images/posts/onlyforgiveneverforget.png){: width="2160" height="2160"}
+
+> I don't believe in "forgive and forget". Only forgive. You still gotta protect ya neck
 
 ---
 
