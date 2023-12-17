@@ -38,7 +38,7 @@ The conditioning aims to break you down and rebuild you into a human weapon. But
 
 But the rewards are massive and more than enough reason to endure the sacrifice. Ali is widely considered the greatest of all time, not just because of unparalleled skill in the ring, but also his tireless work ethic, flair, and charisma. His quote captures how the vision of triumph at the end fuels the efforts and abnegation along the way.
 
-This mindset applies off the canvas too. In life, we must make sacrifices to attain our goals, whether that’s working harder to provide for family, or sticking to health programs to better ourselves. The journey is never easy, but keeping the end goal in focus makes the struggle worthwhile. Progress demands discomfort. And boxing epitomizes the emotional and mental breakthroughs that come from persisting through hardship with purpose.
+This mindset applies off the canvas too. In life, we must make sacrifices to attain our goals, whether that’s working harder to provide for family, or sticking to health programs to better ourselves. The journey is never easy, but focusing on the end goal makes the struggle worthwhile. Progress demands discomfort. And boxing epitomizes the emotional and mental breakthroughs that come from persisting through hardship with purpose.
 
 ## Ed Latimore's boxing quotes on training and learning the sweet science
 
@@ -150,7 +150,21 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Sweet victory from boxing](/assets/images/posts/ed-state-championship.jpg "Good teachers can make an average performer great and a great performer a superstar.")
 
-## Ed Latimore's boxing quotes on fighting in all situations in life
+## Ed Latimore's boxing quotes on fighting in all situations in life![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
+
+> "Everyone has a plan until they get punched in the mouth"
+>
+> \-Mike Tyson
+
+This iconic line from Mike Tyson captures a fundamental truth: you can strategize and scheme all you want, but real life doesn't care about your plans. The world delivers blows you never see coming. How you react in those disorienting, painful moments reveals far more about you than how you operate when things are going well.
+
+Boxing is a metaphor for this unpredictability. Fighters plot tactics, train for months, then get cracked by a knockout blow in seconds. Suddenly, their preparation meets blunt reality.&nbsp;
+
+When things are rough, values get tested and habits reveal themselves—for better or worse. Some respond with poise and course correct. Others panic, lose composure and cannot adapt.
+
+Tough moments don't make us. They reveal who we really are. As the saying goes - gold emerges from fire purified, while lesser metals melt away. Or, as Warren Buffet once famous said, "You never know who's swimming naked until the tide goes out."
+
+Prepare before the crises hits. The worst time to learn how to fight is during an ass-kicking. No journey follows the map exactly; principles matter most in unfamiliar terrain. The punches will come, but how we take them determines everything.
 
 **40)** Not everything is as it appears to be. Nor is it otherwise. Learn to see the layers behind the scene. Learn to read what's in between.
 
@@ -161,8 +175,6 @@ If you can persist to the end, you have a better chance to win. Make the other g
 **43)** If you're fortunate enough to be born with a significant advantage that can not be taught or obtained easily, you are a literal waste of life if you do not develop supporting attributes. This is how a person becomes world-class. Not everyone can be world-class so if you have the chance to be, don’t waste it.
 
 **44)** Counter-punching: The worst strategy but the best tactic. It's always better to be the cause of action rather than reacting to it.
-
-![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
 
 ## Ed Latimore's boxing quotes on what you can and can't control
 
