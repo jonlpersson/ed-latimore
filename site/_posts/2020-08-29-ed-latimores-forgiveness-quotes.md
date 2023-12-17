@@ -69,35 +69,43 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-It's not your fault if you were robbed, raped, or victimized.
+![ed latimore quotes forgiveness &quot;not your fault bad things happened&quot;](/assets/images/posts/notyourfaultbadthingshappen-png.png){: width="2160" height="2160"}
 
-Bad things will happen to you simply because you exist in the universe with other humans whose desire exceeds their moral character.
-
-Sometimes–by birth even–we're just in the wrong place at the wrong time.
-
----
-
-No matter how many times you relive the past… Or how bad you feel about it… You can't change it.
-
-Learn to forgive others, the world, and yourself.
-
-Until you can do this, your heart and mind are held hostage by ghosts of your imagination.
+> It's not your fault if you were robbed, raped, or victimized.
+>
+> Bad things will happen to you simply because you exist in the universe with other humans whose desire exceeds their moral character.
+>
+> Sometimes–by birth even–we're just in the wrong place at the wrong time.
 
 ---
 
-You fear the past because it reminds you of what you were You fear the present because you don't like who you are You fear the future because you worry you can't change
+![ed latimore forgiveness quotes &quot;reliving the past doesn't fix it&quot;](/assets/images/posts/relivingthepastdoesntfixit.png){: width="2160" height="2160"}
 
-The problem?
-
-You can't forgive your past. You can't accept who you are You won't work for who you want to be
+> No matter how many times you relive the past… Or how bad you feel about it… You can't change it.
+>
+> Learn to forgive others, the world, and yourself.
+>
+> Until you can do this, your heart and mind are held hostage by ghosts of your imagination.
 
 ---
 
-Everyone doesn't emerge from hardship the same way. Some are tougher, some are traumatized, while others are completely broken.
+![ed latimore forgiveness quotes &quot;you fear the past because you can't forgive yourself&quot;](/assets/images/posts/fearthepastbecauseyoucantforgive.png){: width="2160" height="2160"}
 
-Some want to forget, some can forgive, while others burn with hatred ready for revenge.
+> You fear the past because it reminds you of what you were You fear the present because you don't like who you are You fear the future because you worry you can't change
+>
+> The problem?
+>
+> You can't forgive your past. You can't accept who you are You won't work for who you want to be
 
-Similar experiences are no guarantee of similar reactions.
+---
+
+![ed latimore forgiveness quotes &quot;similar experiences are no guarantee of forgiveness&quot;](/assets/images/posts/similarexperiencesarenoguarantee.png){: width="2160" height="2160"}
+
+> Everyone doesn't emerge from hardship the same way. Some are tougher, some are traumatized, while others are completely broken.
+>
+> Some want to forget, some can forgive, while others burn with hatred ready for revenge.
+>
+> Similar experiences are no guarantee of similar reactions.
 
 ---
 
