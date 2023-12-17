@@ -122,6 +122,18 @@ If you can persist to the end, you have a better chance to win. Make the other g
 >
 > \-Mike Tyson
 
+This simple yet profound idea - that loss and defeat only truly occur when we concede them - was a central tenet of Iron Mike Tyson's fighting philosophy. To him, the final verdict mattered far less than one's willingness to endure struggle. Even when trapped and bloodied against the ropes, victory remains possible if your spirit persists.
+
+Tyson embodied this attitude, battling back from adversity time and again when others would have quit. It's not the setbacks themselves that define us, but rather how we respond. And he knew that hope would surfaced as long as he refused to bow or break.
+
+This mindset applies outside of the ring as well. In relationships, careers, self-improvement, obstacles arise that tempt us to abandon discipline and goals. Occasionally, we must adjust course or accept temporary losses. But outright surrender leaves dreams unfulfilled and progress halted.
+
+The contest continues as long as we dust ourselves off and get back up. If we retain the determination to continue striving, we never fully lose. And there is always a chance the next round delivers a breakthrough.
+
+> "I will not lose, for even in defeat, it's a valuable lesson learned so that evens it up for me."
+>
+> \-Jay-Z, "Blueprint 2"
+
 **26)** Some rules you can break once and plead ignorance. Make the infraction count for something. You may not be so lucky the next time.
 
 **27)** Right before your fights, you will get nervous. You can manage this, but the moment you stop getting completely nervous, you either don’t care enough or you have mastered the sport. Since the latter is probably not likely, it is most likely the former and you need to get motivated.
