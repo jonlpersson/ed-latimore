@@ -220,6 +220,12 @@ Prepare before the crises hits. The worst time to learn how to fight is during a
 
 ## Ed Latimore's boxing quotes on what you can and can't control
 
+![boxing quote bernard hopkins on longevity](/assets/images/posts/bernard-hopkins-quote-on-longevity.png){: width="1080" height="1080"}
+
+"Something that I understood from day 1: you keep your body clean, your mind clean, and you don't get caught up in this bullshit that goes along with success, and you will be alright."
+
+\-Bernard Hopkins, Oldest man in boxing to win a major world title
+
 **45)**&nbsp;Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noopener noreferrer"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noopener noreferrer"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
 
 **46)** There are a lot of things that will keep you from achieving your potential. You can control your lifestyle so there is no excuse for anything in your control to derail you.
