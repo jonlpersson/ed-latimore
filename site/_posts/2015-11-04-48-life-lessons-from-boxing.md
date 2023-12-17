@@ -116,6 +116,12 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ## Ed Latimore's boxing quotes applied to life
 
+![](/assets/images/posts/mike-tyson-quote-you-never-lose.png){: width="1920" height="1080"}
+
+> "You never lose until you actually give up."
+>
+> \-Mike Tyson
+
 **26)** Some rules you can break once and plead ignorance. Make the infraction count for something. You may not be so lucky the next time.
 
 **27)** Right before your fights, you will get nervous. You can manage this, but the moment you stop getting completely nervous, you either don’t care enough or you have mastered the sport. Since the latter is probably not likely, it is most likely the former and you need to get motivated.
