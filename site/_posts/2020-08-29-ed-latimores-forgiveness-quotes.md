@@ -127,11 +127,13 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ---
 
-Forgiving someone doesn’t mean they’ve changed. It doesn’t mean that your perspective on them has changed.
+![ed latimore forgiveness quotes &quot;forgiving someone doesn't mean that they've changed&quot;](/assets/images/posts/forgivingsomeonedoesn-tmeantheychanged.png){: width="2160" height="2160"}
 
-It just means they no longer command real estate in your mind and heart.
-
-Only a sucker would forget why a person required forgiveness in the first place.
+> Forgiving someone doesn’t mean they’ve changed. It doesn’t mean that your perspective on them has changed.
+>
+> It just means they no longer command real estate in your mind and heart.
+>
+> Only a sucker would forget why a person required forgiveness in the first place.
 
 ---
 
