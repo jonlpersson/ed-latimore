@@ -168,6 +168,12 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 ## Ed Latimore's boxing quotes on being a great student and teacher
 
+![cus d'amato quote on teaching boxing quotes](/assets/images/posts/cus-d-amato-on-teaching.png){: width="1080" height="1080"}
+
+> “I never teach until I've spoken to the fighter. I have to first determine his emotional state, get his background, to find out what I have to do, how many layers I have to keep peeling off so that I get to the core of the person so that he can recognize, as well as I, what is there.”
+>
+> \-Cus D'Amato
+
 **32)** It’s important to have experience with other [competitive endeavors](/how-to-be-competitive/). This allows you to [know if a coach is a good match for you.](/qualities-of-a-good-teacher/) Just because you don't vibe with and/or have trouble learning from one coach doesn’t mean he's a bad coach. It just means that you two are a bad match.
 
 **33)** Two people can say the same thing, but how they say it affects the delivery of the message and how you receive it.
