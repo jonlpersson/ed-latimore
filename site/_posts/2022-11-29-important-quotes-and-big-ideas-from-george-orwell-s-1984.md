@@ -28,19 +28,27 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
-“Who controls the past controls the future. Who controls the present controls the past.”
+![1984 quotes “Who controls the past controls the future. Who controls the present controls the past.”](/assets/images/posts/controls-the-past.png){: width="1080" height="1080"}
+
+> “Who controls the past controls the future. Who controls the present controls the past.”
 
 ---
 
-"In Newspeak there is no word for 'Science.'"
+![1984 quote &quot;In Newspeak there is no word for 'Science.'&quot;](/assets/images/posts/no-word-for-science.png){: width="1080" height="1080"}
+
+> "In Newspeak there is no word for 'Science.'"
 
 ---
 
-“Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”&nbsp;
+![1984 quote “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”](/assets/images/posts/thought-crime-impossible.png){: width="1080" height="1080"}
+
+> “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”&nbsp;
 
 ---
 
-"If the facts say otherwise, the facts must be altered."
+![1984 quotes &quot;If the facts say otherwise, the facts must be altered.&quot;](/assets/images/posts/if-the-facts-say-otherwise.png){: width="1080" height="1080"}
+
+> "If the facts say otherwise, the facts must be altered."
 
 ## 1984 quotes about totalitarianism
 
