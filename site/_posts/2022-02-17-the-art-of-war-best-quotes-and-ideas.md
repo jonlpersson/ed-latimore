@@ -86,7 +86,7 @@ This can only happen if the boss doesn't care too much.&nbsp;
 
 ## How to lead a team
 
-![sun tzu art of war quote on leadership and punishment](/assets/images/posts/how-to-lead-a-team.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.&quot;](/assets/images/posts/how-to-lead-a-team.png){: width="810" height="810"}
 
 > If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.
 
@@ -111,7 +111,7 @@ Your concern is order and effectiveness. If you do this while treating everyone 
 
 ## How to plan for a conflict
 
-![sun tzu art of war quote on making a plan for battle](/assets/images/posts/how-to-plan-for-conflict.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.&quot;](/assets/images/posts/how-to-plan-for-conflict.png){: width="810" height="810"}
 
 > The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
 
@@ -134,7 +134,7 @@ You can make it pretty far if you only focus on preparing for the ways that you 
 
 ## How to know who is capable
 
-![sun tzu art of war quote on knowing when the enemy is capable of striking](/assets/images/posts/how-to-know-who-is-capable.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.&quot;](/assets/images/posts/how-to-know-who-is-capable.png){: width="810" height="810"}
 
 > Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
 
@@ -152,7 +152,7 @@ Here's another way to look at this: if someone is capable of performing a task, 
 
 ## Training for the worst conditions
 
-![sun tzu art of war quote on knowing training for the worst conditions](/assets/images/posts/training-for-the-worst-conditions.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.&quot;](/assets/images/posts/training-for-the-worst-conditions.png){: width="810" height="810"}
 
 > Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
 
@@ -170,7 +170,7 @@ This also does wonders for your confidence, making it even easier for you to per
 
 ## The importance of emotional strength
 
-![sun tzu art of war quotes on the importance of emotional strength](/assets/images/posts/the-importance-of-emotional-strength.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.&quot;](/assets/images/posts/the-importance-of-emotional-strength.png){: width="810" height="810"}
 
 > The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.
 
@@ -184,7 +184,7 @@ This is something I learned while getting sober. Putting down the bottle made it
 
 ## Self-knowledge and letting the enemy beat himself
 
-![sun tzu art of war quote on knowing yourself to beat others](/assets/images/posts/1-know-thyself.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.&quot;](/assets/images/posts/1-know-thyself.png){: width="810" height="810"}
 
 > Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
 
@@ -192,7 +192,7 @@ If you take a meta-view of any clash, there are only two factors to consider: yo
 
 If you know yourself and the obstacle well, there's no reason you shouldn't be successful in getting what you want. This is why we study, practice, and prepare. We must simultaneously make ourselves as capable as possible while becoming familiar with the challenge before we face it.
 
-![sun tzu art of war quotes on knowing yourself to secure victory](/assets/images/posts/2-know-thyself.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.&quot;](/assets/images/posts/2-know-thyself.png){: width="810" height="810"}
 
 > To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
 
@@ -210,7 +210,7 @@ You can do well in life if you focus on reducing the number of mistakes you make
 
 ## The sign of a good plan
 
-![sun tzu art of war quote on the sign of a good plan](/assets/images/posts/sign-of-a-good-plan.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.&quot;](/assets/images/posts/sign-of-a-good-plan.png){: width="810" height="810"}
 
 > Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.
 
@@ -228,7 +228,7 @@ Achieving your goal is remarkably easy if you plan and execute well. If you just
 
 ## The use of deception to win
 
-![sun tzu art of war quote on deception](/assets/images/posts/1-use-of-deception-to-win.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;All warfare is based on deception.&quot;](/assets/images/posts/1-use-of-deception-to-win.png){: width="810" height="810"}
 
 > All warfare is based on deception.
 
@@ -236,7 +236,7 @@ Whenever you make an error in execution, it's either due to bad technique or ins
 
 If you can make someone think you have (or don't have) something that influences their actions, this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they're strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you're stronger when the reality is that they'd crush you.
 
-![sun tzu are of war quote on using deception](/assets/images/posts/2-use-of-deception-to-win.png){: width="810" height="810"}
+![sun tzu are of war quotes &quot;Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.&quot;](/assets/images/posts/2-use-of-deception-to-win.png){: width="810" height="810"}
 
 > Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
 
