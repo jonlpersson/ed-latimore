@@ -22,7 +22,9 @@ I've collected the most impactful quotes and organized them according to their t
 
 ## 1984 quotes about control of information and censorship
 
-"The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth."
+![1984 quote &quot;The party told you to reject the evidence of your eyes and ears. It was their final, most essential command.&quot; &quot;And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth.&quot;](/assets/images/posts/party-told-you-to-reject.png){: width="1080" height="1080"}
+
+> "The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth."
 
 ---
 
