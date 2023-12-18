@@ -22,13 +22,13 @@ I read through The Art of War and took notes on what I thought were the most imp
 
 ## Adapting to change
 
-![sun tzu art of war quotes on adapting to change](/assets/images/posts/1-adapting-to-change.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;According as circumstances are favorable, one should modify one’s plans.&quot;](/assets/images/posts/1-adapting-to-change.png){: width="810" height="810"}
 
 > According as circumstances are favorable, one should modify one’s plans.
 
 It doesn't matter how strong, fast, or organized you are. The only thing that matters is how well you can adapt to change. The spoils of victory have always gone to whoever can anticipate the changes in their environment and quickly create a plan to capitalize on those changes.
 
-![sun tzu art of war quote on using new tactics](/assets/images/posts/2-adapting-to-change.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.&quot;](/assets/images/posts/2-adapting-to-change.png){: width="810" height="810"}
 
 > Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.
 
@@ -46,7 +46,7 @@ This changing world will leave behind anyone who can't manage change.
 
 ## Bad leadership qualities
 
-![sun tzu art of war quote on bad leadership](/assets/images/posts/bad-leadership.png){: width="810" height="810"}
+![sun tzu art of war quotes &quot;There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honor which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble.&quot;](/assets/images/posts/bad-leadership.png){: width="810" height="810"}
 
 > There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honor which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble.
 
