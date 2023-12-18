@@ -54,10 +54,6 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
-"To keep them in control was not difficult. All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working hours or shorter rations."
-
----
-
 “The masses never revolt of their own accord, and they never revolt merely because they are oppressed. Indeed, so long as they are not permitted to have standards of comparison, they never even become aware that they are oppressed."
 
 ---
