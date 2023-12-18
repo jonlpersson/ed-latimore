@@ -52,7 +52,9 @@ I've collected the most impactful quotes and organized them according to their t
 
 ## 1984 quotes about totalitarianism
 
-“All beliefs, habits, tastes, emotions, mental attitudes that characterize our time are really designed to sustain the mystique of the Party and prevent the true nature of present-day society from being perceived.”
+![1984 quotes “All beliefs, habits, tastes, emotions, mental attitudes that characterize our time are really designed to sustain the mystique of the Party and prevent the true nature of present-day society from being perceived.”](/assets/images/posts/sustain-the-party.png){: width="1080" height="1080"}
+
+> “All beliefs, habits, tastes, emotions, mental attitudes that characterize our time are really designed to sustain the mystique of the Party and prevent the true nature of present-day society from being perceived.”
 
 ---
 
