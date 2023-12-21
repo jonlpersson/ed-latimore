@@ -45,15 +45,15 @@ So, how does one tell the difference between being busy and being productive? By
 
 This is the first question, and it’s straightforward and obvious, almost to the point of absurdity. However, it must be asked. Is what you’re doing actually making progress towards your goal?
 
-Let’s take a moment to rule out the ways we can fool ourselves. A first principle here is that it doesn’t matter how you feel about the task at hand. Is it getting you some result closer to what you desire than you’d achieve if you did something else?
+Let’s take a moment to rule out the ways we can fool ourselves. A first principle here is that it doesn’t matter how you feel about the task at hand. Is it getting you a result closer to what you desire than you’d achieve if you did something else?
 
 Common places you see this are fitness and making money.
 
-The exercise isn’t improving body composition, but a person will stick with it because it ooks and feels like it’s working. The method for making money online won’t actually be making them money, but it seems like the thing to do because it keeps them busy and seems like it should make money one day,
+The exercise isn’t improving body composition, but a person will stick with it because it looks and feels like it’s working. The method for making money online won’t actually be making them money, but it seems like the thing to do because it keeps them busy and seems like it should make money one day,
 
 If the effort you put in is not returned in a relatively quick fashion, and there are demonstrably better ways to reach the same goal, then you’re just being busy. You are not being productive.
 
-**\[Note: This is not to imply that the only goals worth pursuing are the ones that happen quickly. This only points out that incremental progress should be made that at least correlates to the level of effort put in.\]**
+**\[Note: This is not to imply that the only goals worth pursuing are the ones that happen quickly. This only points out that initially, incremental progress should be made that at least correlates to the level of effort put in.\]**
 
 ## **Are my results linear, exponential, or logarithmic?**
 
