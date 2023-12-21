@@ -86,11 +86,11 @@ In my life, I've been friends with people who never had anything positive to con
 
 Every toxic relationship you have is one more relationship taking up space from a positive friendship that you could have. You have to cut these people off because if you don't, their toxicity will either drag you down or force you to become just like them.
 
-People like this have either not accomplished much, and they enjoy the company to their misery, OR your success threatens them. Either way, this will eventually lead to betrayal by active commission.
+People like this have either not accomplished much and enjoy the company to their misery, OR your success threatens them. Either way, this will eventually lead to betrayal by active commission.
 
 ## **Recap of the 4 Times To End Friendships**
 
-1. Major betrayal by active commision
+1. Major betrayal by active commission
 2. Repeated legal issues
 3. Substance abuse problems they refuse to get help with
 4. Hate and jealousy
