@@ -108,3 +108,5 @@ It’s easier for you to say that your friends–who are likely living and doing
 If you do have friends that fit one of the four categories above, you have to decide how badly you want to change your life. Our environments are a product of our mindset as much as our mindset is a product of our actions. If you want to be better, you must eliminate the negative, destructive influences around you.
 
 Take care, cherish your friends, eliminate people who are actively holding you back, and live well. The rest is up to you.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
