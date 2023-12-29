@@ -97,6 +97,8 @@ It may feel like more work to take a closer look when viewing from afar or to zo
 
 Approach people this way as well. View strangers as if they are close friends and close friends as if they were strangers. You learn something that your previous proximity had blinded you to.
 
+{% include widgets/summary.html id="Shortform" %}
+
 ## 6) Life is a marathon; Not a track meet
 
 > **Step by step walk the thousand-mile road.**
