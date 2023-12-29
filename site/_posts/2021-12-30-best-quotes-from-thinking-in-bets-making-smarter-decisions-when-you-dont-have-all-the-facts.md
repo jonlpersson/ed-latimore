@@ -54,6 +54,8 @@ Today she lectures on behavior decision science and cognitive psychology, using 
 
 “Just as we have problems with resulting and hindsight bias, when we evaluate decisions solely on how they turn out, we have a mirror-image problem in making prospective decisions. We get only one try at any given decision—one flip of the coin—and that puts great pressure on us to feel we have to be certain before acting, a certainty that necessarily will overlook the influences of hidden information and luck.”
 
+{% include widgets/summary.html id="Shortform" %}
+
 ## Backcasting and Premortems
 
 “Backcasting and premortems complement each other. Backcasting imagines a positive future; a premortem imagines a negative future. We can’t create a complete picture without representing both the positive space and the negative space. Backcasting reveals the positive space. Premortems reveal the negative space. Backcasting is the cheerleader; a premortem is the heckler in the audience.”
