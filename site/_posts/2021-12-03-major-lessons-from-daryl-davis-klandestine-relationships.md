@@ -109,6 +109,8 @@ I would imagine that this is why extremism is much more common in poorer, less e
 
 When life is hard (as it tends to be for anyone poor or uneducated), it's easier to blame your problems on an entire group you aren't exposed to. If all you know is what you're told or see portrayed in the media, it's not surprising that you eventually come to hate an entire group of people.
 
+{% include widgets/summary.html id="Shortform" %}
+
 ## 6) Acknowledge the similarities before you address the differences
 
 > "Each party has now found common ground on which to agree. It becomes obvious that all people want many of the same things; child protection, safety, and awareness in the community and school system, etc. When opposing forces see that these goals can be achieved without short-changing themselves or the other party, fear begins to subside.
