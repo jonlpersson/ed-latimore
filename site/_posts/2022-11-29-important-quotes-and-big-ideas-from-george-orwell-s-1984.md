@@ -20,7 +20,7 @@ After seeing the book constantly mentioned on Twitter to describe how social med
 
 I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.&nbsp;
 
-## 1984 quotes about control of information and censorship
+## 1984 quotes about control&nbsp;
 
 ![1984 quote &quot;The party told you to reject the evidence of your eyes and ears. It was their final, most essential command.&quot; &quot;And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth.&quot;](/assets/images/posts/party-told-you-to-reject.png){: width="1080" height="1080"}
 
