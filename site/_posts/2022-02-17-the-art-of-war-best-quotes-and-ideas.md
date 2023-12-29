@@ -1,8 +1,8 @@
 ---
 date: 2022-02-17 22:19:51 -0500
 article_type: Article
-title: The best The Art of War quotes and ideas
-permalink: /art-of-war-quotes-and-summary/
+title: Book summary of The Art of War
+permalink: /art-of-war-book-summary/
 tags:
   - book-quotes-and-summaries
 categories:
