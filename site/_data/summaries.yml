@@ -382,6 +382,9 @@
 - id: Shortform
   heading: Learn from more books in less time with Shortform
   text_markdown: >-
+    ![](/assets/images/secondbrain-01.png){: width="1080" height="1080"}
+
+
     I don't normally think you should read the summary instead of the entire
     book, but Shortform has completely changed my mind.
 
