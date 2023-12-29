@@ -132,6 +132,8 @@ Today, the poorest people in most of the English-speaking world (and beyond) liv
 
 While I think the advice given is spot on about your life after attaining a certain base level of safety and security, our modern world has too many new dangers to be *completely* indifferent to where you live and influences you’ll allow around your family.
 
+{% include widgets/summary.html id="Shortform" %}
+
 ## 13\. Do not pursue the taste of good food
 
 Everyone loves good food, so this one that is likely to receive a lot of push back, but we have to consider who this advice is for and where it comes form. This reminds me of my time in the military and my time being poor.
