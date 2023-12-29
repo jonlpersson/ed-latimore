@@ -27,10 +27,10 @@ And my previous/on-going brand deals and sponsorships with companies like:
 
 Want to sponsor my newsletter? Here are a few details:
 
-* 35,000+ readers
+* 36,000+ readers
 * 38–42% open rate
-* Audience made up of relentless self-improvers
-* Sent once per week
+* Audience made up day traders, business owners, and phD students/graduates
+* Sent 2-3x per week
 
 ## Get started
 
