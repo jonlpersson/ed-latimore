@@ -88,28 +88,40 @@ I've collected the most impactful quotes and organized them according to their t
 
 ## 1984 quotes about propaganda
 
-"If you kept to the small rules, you could break the big ones."
+![&quot;If you kept to the small rules, you could break the big ones.&quot;](/assets/images/posts/kept-to-the-small-rules-to-break-the-big-ones.png){: width="1080" height="1080"}
+
+*"If you kept to the small rules, you could break the big ones."*
 
 ---
 
-"When you delude yourself into thinking that you see something, you assume that everyone else sees the same thing as you."
+![&quot;When you delude yourself into thinking that you see something, you assume that everyone else sees the same thing as you.&quot;](/assets/images/posts/delude-yourself.png){: width="1080" height="1080"}
+
+*"When you delude yourself into thinking that you see something, you assume that everyone else sees the same thing as you."*
 
 ---
 
 "
 
-"The worldview of The Party imposed itself most successfully on people incapable of understanding it. They could be made to accept the most flagrant violations of reality because they never fully grasped the enormity of what was demanded of them."
+![&quot;The worldview of The Party imposed itself most successfully on people incapable of understanding it. They could be made to accept the most flagrant violations of reality because they never fully grasped the enormity of what was demanded of them.&quot;](/assets/images/posts/worldview-of-the-party.png){: width="1080" height="1080"}
+
+*"The worldview of The Party imposed itself most successfully on people incapable of understanding it. They could be made to accept the most flagrant violations of reality because they never fully grasped the enormity of what was demanded of them."*
 
 ---
 
-"To keep them in control was not difficult. All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working hours or shorter rations."
+![&quot;To keep them in control was not difficult. All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working hours or shorter rations.&quot;](/assets/images/posts/to-control-them.png){: width="1080" height="1080"}
+
+*"To keep them in control was not difficult. All that was required of them was a primitive patriotism which could be appealed to whenever it was necessary to make them accept longer working hours or shorter rations."*
 
 ---
 
-"They could only become dangerous if the advancement of industrial technique made it necessary to educate them more highly… but since military and commercial rivalry are no longer important, the level of popular education is declining."
+![&quot;They could only become dangerous if the advancement of industrial technique made it necessary to educate them more highly… but since military and commercial rivalry are no longer important, the level of popular education is declining.&quot;](/assets/images/posts/keeping-them-from-advancing.png){: width="1080" height="1080"}
+
+> "They could only become dangerous if the advancement of industrial technique made it necessary to educate them more highly… but since military and commercial rivalry are no longer important, the level of popular education is declining."
 
 ---
 
-“What can you do, thought Winston, against the lunatic who is more intelligent than yourself; who gives your arguments a fair hearing and simply persists in his lunacy?”
+![“What can you do, thought Winston, against the lunatic who is more intelligent than yourself; who gives your arguments a fair hearing and simply persists in his lunacy?”](/assets/images/posts/dealing-with-lunatics.png){: width="1080" height="1080"}
+
+> “What can you do, thought Winston, against the lunatic who is more intelligent than yourself; who gives your arguments a fair hearing and simply persists in his lunacy?”
 
 ---
