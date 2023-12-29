@@ -58,7 +58,9 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
-"We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship."
+![&quot;We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship.&quot;](/assets/images/posts/no-one-siezes-power.png){: width="1080" height="1080"}
+
+*"We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship."*
 
 ---
 
