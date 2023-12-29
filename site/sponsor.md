@@ -15,7 +15,13 @@ Since 2014, I've built a list of over 36,000 men and women who subscribe to my e
 * Navigate relationships
 * Confront reality
 
-Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential.
+Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential. My readers from my website, Substack, and follow me from media appearances like:
+
+![](/assets/images/pages/screenshot-2023-12-29-at-4-50-33-pm.png){: width="2802" height="912"}
+
+And my previous/on-going brand deals and sponsorships with companies like:
+
+![](/assets/images/pages/screenshot-2023-12-29-at-4-53-35-pm.png){: width="2550" height="1042"}
 
 ## Details
 
