@@ -64,19 +64,27 @@ I've collected the most impactful quotes and organized them according to their t
 
 ---
 
-"By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. Even the Catholic Church of the Middle Ages was tolerant by modern standards."
+![&quot;By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. Even the Catholic Church of the Middle Ages was tolerant by modern standards.&quot;](/assets/images/posts/tolerant-by-modern-standards.png){: width="1080" height="1080"}
+
+> "By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. Even the Catholic Church of the Middle Ages was tolerant by modern standards."
 
 ---
 
-“The masses never revolt of their own accord, and they never revolt merely because they are oppressed. Indeed, so long as they are not permitted to have standards of comparison, they never even become aware that they are oppressed."
+![“The masses never revolt of their own accord, and they never revolt merely because they are oppressed. Indeed, so long as they are not permitted to have standards of comparison, they never even become aware that they are oppressed.&quot;](/assets/images/posts/the-masses-never-revolt-on-their-own.png){: width="1080" height="1080"}
+
+> “The masses never revolt of their own accord, and they never revolt merely because they are oppressed. Indeed, so long as they are not permitted to have standards of comparison, they never even become aware that they are oppressed."
 
 ---
 
-“Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.”
+![“Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.”](/assets/images/posts/doublethink.png){: width="1080" height="1080"}
+
+*“Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them.”*
 
 ---
 
-"The weaker the opposition, the tighter the despotism."
+![&quot;The weaker the opposition, the tighter the despotism.&quot;](/assets/images/posts/weakness-leads-to-despotism.png){: width="1080" height="1080"}
+
+*"The weaker the opposition, the tighter the despotism."*
 
 ## 1984 quotes about propaganda
 
