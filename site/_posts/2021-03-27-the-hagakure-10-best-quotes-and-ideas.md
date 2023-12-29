@@ -41,7 +41,7 @@ Another idea is also key in this quote: shame and brutal honesty are tools for c
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
-## 3\. You attract more flies with honey than vinegar<br>
+## 3\. You attract more flies with honey than vinegar
 
 > "Praise his good points and use every device to encourage him, perhaps by talking about one's own faults without touching on his, but so that they will occur to him. Have him receive this in the way that a man would drink water when his throat is dry, and it will be an opinion that will correct faults."
 
@@ -61,8 +61,6 @@ Progress and skill acquisition in all disciplines follow the same 4 steps.
 * **Conscious incompetence.**&nbsp;This is the stage where we realize there is a gap and identify the exact skill we need to develop. We now know that we don't know something vital to our success. This is the middle level that the Hagakure refers to when it says "he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others."
 * **Conscious competence.** This is where the effort to learn begins. When people speak of [10,000 deliberate hours of practice](https://jamesclear.com/deliberate-practice-strategy){: target="_blank" rel="noopener noreferrer"}, this is the phase they're referring to. This is the higher level that the Hagakure refers to when it says "he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows.<br><br>*A special note about this level:*<br><br>This is where a person has the greatest chance of becoming insufferable. Whether it be because they're interested in showing off or they arrogantly believe they're better than people who haven't learned, this is the stage where ego is greatest. This is also the point of frustration, where plateaus occur and setbacks feel bigger than they really are.<br><br>If a person can stay humble and patient in this phase, they should transition nicely into the next.&nbsp;
 * **Unconscious competence**. This is the stage of mastery and intuition. Now you aren't learning so much as you're refining. Your progress is largely driven by simplification and reduction. You're also humble.<br><br>This is the highest level that the Hagakure refers to when it says "At the highest level a man has the look of knowing nothing."
-
-
 
 ## 5\. Every saint has a past and every sinner has a future
 
@@ -93,6 +91,8 @@ If you want to know who to give a job to, look at how they dress and groom thems
 If you want to know who to trust, see if they look you in the eye during casual conversation.
 
 Stop complaining about human nature and use it to your advantage. If you're not sure where to start then read my [No-BS guide to becoming an attractive man](/how-to-be-an-attractive-man/).
+
+{% include widgets/summary.html id="Shortform" %}
 
 ## 7\. Live in the moment to get more out of life
 
