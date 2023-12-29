@@ -38,7 +38,7 @@ When nothing disturbs your emotional center, this is true power.
 > 4. Be done with knowing and your worries will disappear. How much difference is there between yes and no? How much distinction between good and evil? Fearing what others fear, admiring what they admire – nonsense.
 > 5. Looked at but not seen, listened to but not heard, grasped for but not held, formless, soundless, intangible: the Tao resists analysis and defies comprehension.<br>​​​​
 
-####
+\####
 
 ## **Tao Te Ching Quotes on wisdom**
 
@@ -52,7 +52,7 @@ In this way, ordinary people can develop extraordinary wisdom as a result of sim
 > 4. A truly good person doesn't dwell on her goodness. Thus she can be good. A person of false goodness never forgets her goodness. Thus her goodness is always false. A truly good person does nothing, yet nothing remains undone. A person of false goodness is forever doing, yet everything remains forever undone.
 > 5. Those who are courageous out of daring are killed. Those who are courageous out of love survive.
 
-
+{% include widgets/summary.html id="Shortform" %}
 
 ## **Tao Te Ching Quotes on self-improvement**
 
