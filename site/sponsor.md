@@ -4,12 +4,18 @@ _enabled_editors:
 title: Sponsor
 description: Helpful information about sponsoring my email newsletters.
 hero:
-  heading: Sponsor my newsletter
-  text:
+  heading: Sponsor my the Stoic Street Smarts Newsletter
+  text: 'Get your product seen by thousands. '
 page_blocks:
   - _id: block_rich_text
 ---
-Over 35,000 men and women subscribe to my emails about self-growth. Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential.
+Since 2014, I've built a list of over 36,000 men and women who subscribe to my emails where I teach how to:
+
+* Manage risk
+* Navigate relationships
+* Confront reality
+
+Every week, I dispense practical advice on developing self-discipline, building useful life skills, and realizing your potential.
 
 ## Details
 
