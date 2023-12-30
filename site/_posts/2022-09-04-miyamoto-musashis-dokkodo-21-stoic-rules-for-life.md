@@ -110,7 +110,7 @@ Where I almost outright disagree with Musashi is the idea of not being guided by
 
 Now, I am also not fighting for my life in a hostile land, so I can afford the luxury of attachments and the duty of protecting them, but I can understand why Musashi come to this conclusion.
 
-***[Check out my my summary of Sun Tzu's "The Art of War"](/art-of-war-quotes-and-summary/)***
+[***Check out my my summary of Sun Tzu's "The Art of War"***](/art-of-war-book-summary/)
 
 ## 11\. In all things have no preferences
 
