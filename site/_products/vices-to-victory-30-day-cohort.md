@@ -13,11 +13,11 @@ product_info:
   price: $10.59
 hero:
   hero_type: product
-  image: /assets/images/thumbnails/not-caring.jpg
-  heading: Not Caring What Other People Think is a Superpower
+  image: /assets/images/products/vices-to-victory.jpg
+  heading: 'Vices to Victory: 30 Days to Freedom From Weakness'
   text: >-
-    Not caring what people think is a superpower that will allow you to get what
-    you want out of life. This book teaches you how to live this way.
+    Leave bad habits, emotional weakness, and mental frailty behind with the
+    30-day Vices to Victory Cohort
 page_blocks:
   - _id: block_rich_text
     alignment: center
