@@ -89,7 +89,7 @@ Let it remind you who you can be, so you can do what you have to do.
 
 > > > Ponder and deliberate before you make a move.
 
-This is one of my favorite [The Art of War quotes](https://edlatimore.com/art-of-war-quotes-and-summary/), and it’s fitting for your NoFap journey. Knowing what to expect on the battlefield will help you prepare in advance.
+This is one of my favorite [The Art of War quotes](/art-of-war-book-summary/), and it’s fitting for your NoFap journey. Knowing what to expect on the battlefield will help you prepare in advance.
 
 Days or weeks into NoFap, many men experience what’s called a flatline period. It’s a period of low sex drive that scares many into relapse.
 
