@@ -54,7 +54,7 @@ It's a surprisingly short read. I read it on my kindle and the page counter had 
 
 Despite its short length, the ideas it's packed with apply to many areas in life. The strategies apply to modern warfare, business, negotiation, and even relationships.
 
-***Read my collection of notes and big ideas here—&gt;[The Art of War notes and summar](/art-of-war-quotes-and-summary/)y***
+***Read my collection of notes and big ideas here—&gt;[The Art of War notes and summary](/art-of-war-book-summary/)***
 
 ## The Tao of Jeet Kune Do by Bruce Lee
 
