@@ -36,7 +36,7 @@ Reading is one of the best ways to expand your knowledge and understanding of th
 
 If you haven’t picked up a book in some time, don’t worry so much about picking out the “perfect” book, but just pick anything that seems interesting. It doesn’t matter if it’s pop fiction or ancient philosophy; the best way to make reading stick is to find something you enjoy. Over time, you’ll expand your reading horizons as your curiosity grows.
 
-If you need some inspiration, some of my favorite books that encompass history, philosophy, and self-improvement include *[The Art of War](https://edlatimore.com/art-of-war-quotes-and-summary/)* by Sun Tzu\*\* \*\*and the *[Book of Five Rings](https://edlatimore.com/the-book-of-five-rings-quotes/)* by Miyamoto Musashi.
+If you need some inspiration, some of my favorite books that encompass history, philosophy, and self-improvement include [*The Art of War*](/art-of-war-book-summary/) by Sun Tzu\*\* \*\*and the *[Book of Five Rings](https://edlatimore.com/the-book-of-five-rings-quotes/)* by Miyamoto Musashi.
 
 ### Weightlifting
 
