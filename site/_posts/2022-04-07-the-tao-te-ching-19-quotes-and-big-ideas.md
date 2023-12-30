@@ -69,7 +69,7 @@ It doesn’t mean you're the best in the whole world. It only means that you’v
 
 ## **Tao Te Ching Quotes on leadership**
 
-It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes were an interesting complement to some of the ideas I’d read on leadership in [The Art of War](/art-of-war-quotes-and-summary/) and [The Hagakure](/hagakure-quotes/).
+It’s no surprise that Lao Tzu—the founder of Taoism—has insights into what it takes to be a good leader. I thought these quotes complement some of the ideas I’d read on leadership in [The Art of War](/art-of-war-book-summary/) and [The Hagakure](/hagakure-quotes/).
 
 Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and leadership qualities. There is also an emphasis on leading by example. He understands a fundamental truth about people and the world; you get back what you put out.
 
