@@ -4,7 +4,7 @@ _enabled_editors:
 title: Sponsor
 description: Helpful information about sponsoring my email newsletters.
 hero:
-  heading: Sponsor my the Stoic Street Smarts Newsletter
+  heading: Sponsor the Stoic Street Smarts Newsletter
   text: 'Get your product seen by thousands. '
 page_blocks:
   - _id: block_rich_text
