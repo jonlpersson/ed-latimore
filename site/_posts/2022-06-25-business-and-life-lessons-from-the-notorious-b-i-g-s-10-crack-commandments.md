@@ -35,6 +35,8 @@ I’ve broken down each of the 10 crack commandments so you get the benefits of 
 >
 > —Jadakiss
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9DYkFpM0lVVEdvND9zaT0tMzROVUpCLXR5Z3NOenE3IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/CbAi3IUTGo4?si=-34NUJB-tygsNzq7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 ## Business and life lessons from The Notorious B.I.G.'s 10 crack commandments
 
 ![Biggie with the 10 Crack Commandments](/assets/images/drafts/10-crack-commandments-1.jpeg "Biggie with the 10 Crack Commandments"){: width="300" height="300"}
