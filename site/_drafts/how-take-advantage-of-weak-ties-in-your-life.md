@@ -16,6 +16,8 @@ image:
 
 The old saying is, "It's not what you know, but who." The idea is that personal connections are more responsible for professional success than merit or ability. This idea is certainly observable in cases of nepotism or cronyism, but those are so obvious that they don't teach us anything useful or that we didn't already know.
 
+![nepotism and cronyism](/assets/images/drafts/nepotism.jpeg){: width="720" height="729"}
+
 People look out for their friends and family, but we can’t do anything with this information. Sure, you can marry into a new family or figure out how to make friends with decision-makers and hirers, but that’s a long and uncertain path.&nbsp;
 
 We need something faster and more specific. Ideally, the solution won't feel like the traditional networking that so many people dread, almost as much as they hate the idea of selling. Fortunately, the Theory of Weak Ties is here to save the day, and baked into the solution is an easy method to increase your chances of finding work, clients, friends, and romance.
