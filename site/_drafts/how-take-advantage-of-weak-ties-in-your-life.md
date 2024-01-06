@@ -65,11 +65,13 @@ This relationship makes sense for the weakest of your weak ties.&nbsp;
 
 If you barely know someone or hardly ever talk to them, then it’s no different than not knowing them. They can’t pass you any new information or opportunities because they don’t pass you anything. You don’t talk!
 
-But what about the strongest ties?&nbsp;
+***But what about the strongest ties?***&nbsp;
 
 This revelation feels counterintuitive to the point of being incorrect, but the answer can be found in redundancy.
 
-Let's say you work with your twin brother. Not only do you work together, but you also socialize together, go to all the same events, and have all the same friends. You're inseparable. A relationship of this type is about as strong of a tie as you can have. It's fantastic, but the downside is that any information he gets, you'll also get.
+Let's say you work with your identitical twin brother. Not only do you work together, but you also socialize together, go to all the same events, and have all the same friends. You're inseparable.
+
+A relationship of this type is about as strong of a tie as you can have. It's fantastic, but the downside is that any information he gets, you'll also get.
 
 You'll know all the same people and see all the same job opportunities. Even worse, you become competitors because you have the same skill set and appearance. Not outwardly with hostility, but many aspects of your relationship will function as a zero-sum game.
 
@@ -98,9 +100,9 @@ You want friends with different backgrounds, perspectives, and experiences. Asid
 
 I've seen people I grew up with complaining on social media about how small our city is. They say this because whenever they try to date someone, and inevitably find out that this person dated someone in their social circle.
 
-For reference, I grew up in Pittsburgh, PA. As of this writing, there are a little less than 330,000 people in the greater area and a little over 1 million in the metropolitan area. While this population doesn't even place it in the top 50 most populated American cities, there is no reason you shouldn't be able to meet someone who has never met someone in your social circle.
+For reference, I grew up in Pittsburgh, PA. As of this writing, there are a little less than 330,000 people in the greater area and a little over 1 million in the metropolitan area. While these numbers don't even place it in the top 50 most populated American cities, there is no reason you shouldn't be able to meet someone who has never met someone in your social circle.
 
-Unless you haven’t made it a point to meet different people.
+*<u><strong>Unless you haven’t made it a point to meet different people.</strong></u>*
 
 Meeting different people and making new friends is a whole post by itself, but the primary method I've followed is:
 
