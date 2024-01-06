@@ -73,11 +73,13 @@ You'll know all the same people and see all the same job opportunities. Even wor
 
 Not only can you guys not help each other with new information (because you both get the same information), but you are both disincentivized from revealing any new information to the other. At best, the relationship is unproductively homogenous. At worst, it is subtly competitive. The similarities of the individuals nullify the strong tie's strength.
 
+
+
 This thought exercise was in extreme situations to demonstrate the general idea: after a certain point, the stronger your ties with someone, the less that person can provide you with new opportunities and information, and the more likely you’ll be competing for the same new resources.
 
 What’s the solution?
 
-Collect more weak ties and make them stronger
+## Collect more weak ties and make them stronger
 
 It's essential to be clear that the status of a tie is not binary. Instead, it exists along a gradient. You have two goals:
 
