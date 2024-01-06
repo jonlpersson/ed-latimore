@@ -135,7 +135,7 @@ For better or worse, 40-year-olds today have MUCH greater awareness of what thei
 
 When searching for either of those things, the ideas still hold because this is a [fundamental law of human relationships](/you-cant-force-relationships-to-develop/)—and humans are in every business deal and relationship,
 
-If you don't have a diverse, optimally strong group of network ties, you'll never know anyone who doesn't already know what you do. As a result, you'll get access to new opportunities and connections.
+If you don't have a diverse, optimally strong group of network ties, you'll never know anyone who doesn't already know what you do. As a result, you'll never get access to new opportunities and connections.
 
 Instead, you'll spend your life stuck after you've maxed your raw ability and connections with everyone you've always known.&nbsp;
 
