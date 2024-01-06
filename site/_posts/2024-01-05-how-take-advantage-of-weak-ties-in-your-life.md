@@ -10,7 +10,7 @@ description: >
   our advantage? The Theory of Weak Ties is here to save the day, and baked into
   the solution is an easy method to increase your chances of finding work,
   clients, friends, and romance.
-image:
+image: /assets/images/posts/weak-strong-ties-1.jpg
 ---
 *“When we look at the experimental data, weak ties are better, on average, for job mobility than strong ties,” says Sinan Aral, a management professor at MIT and co-author of a new paper detailing the study's results, which involved millions of LinkedIn users.*
 
