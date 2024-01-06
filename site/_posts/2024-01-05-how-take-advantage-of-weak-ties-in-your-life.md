@@ -112,7 +112,7 @@ Meeting different people and making new friends is a whole post by itself, but t
 
 I wrote a tweet about this a while back that demonstrates this idea.
 
-{% include https://twitter.com/EdLatimore/status/1325973346257936391 %}
+{% https://twitter.com/EdLatimore/status/1325973346257936391 %}
 
 While the goal is to diversify your friendships (which is often the exact opposite of how the average person makes friends), you need to have *something* in common to spark the initial connection. That’s where this skill comes in. The rest is just social calibration.
 
