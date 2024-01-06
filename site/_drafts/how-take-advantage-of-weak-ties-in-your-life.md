@@ -53,7 +53,7 @@ Here is an overview:
 * Usually, more short-term or situational relationships
 * Connect you to people and information outside your most immediate circle
 
-
+![strong vs weak ties](/assets/images/drafts/strong-vs-weak-edit-1.png){: width="1274" height="858"}
 
 ## Social media used to prove the power of weak ties
 
