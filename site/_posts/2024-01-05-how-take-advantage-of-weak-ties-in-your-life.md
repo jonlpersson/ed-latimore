@@ -69,7 +69,7 @@ If you barely know someone or hardly ever talk to them, then it’s no different
 
 This revelation feels counterintuitive to the point of being incorrect, but the answer can be found in redundancy.
 
-Let's say you work with your identitical twin brother. Not only do you work together, but you also socialize together, go to all the same events, and have all the same friends. You're inseparable.
+Let's say you work with your identical twin brother. Not only do you work together, but you also socialize together, go to all the same events, and have all the same friends. You're inseparable.
 
 A relationship of this type is about as strong of a tie as you can have. It's fantastic, but the downside is that any information he gets, you'll also get.
 
