@@ -20,15 +20,21 @@ The old saying is, "It's not what you know, but who." The idea is that personal 
 
 People look out for their friends and family, but we can’t do anything with this information. Sure, you can marry into a new family or figure out how to make friends with decision-makers and hirers, but that’s a long and uncertain path.&nbsp;
 
-We need something faster and more specific. Ideally, the solution won't feel like the traditional networking that so many people dread, almost as much as they hate the idea of selling. Fortunately, the Theory of Weak Ties is here to save the day, and baked into the solution is an easy method to increase your chances of finding work, clients, friends, and romance.
+We need something faster and more specific. Ideally, the solution won't feel like the traditional networking that so many people dread, almost as much as they hate the idea of selling.
 
-Mark Granovetter distinguishes between the strength of interpersonal ties in his influential work "The Strength of Weak Ties." He refers to close, intimate relationships as strong ties, while more distant connections are labeled weak ties.
+Fortunately, the Theory of Weak Ties is here to save the day, and baked into the solution is an easy method to increase your chances of finding work, clients, friends, and romance.
+
+Stanford sociologist [Mark Granovetter](https://sociology.stanford.edu/people/mark-granovetter){: target="_blank" rel="noopener"} distinguishes between the strength of interpersonal ties in his influential work ["The Strength of Weak Ties."](https://www.jstor.org/stable/2776392) He refers to close, intimate relationships as strong ties, while more distant connections are labeled weak ties.
 
 Our strong ties are our close friendships and family bonds. These relationships provide emotional support, a sense of belonging, and the ability to mobilize aid in distress. Strong ties are built through shared life experiences over long periods, leading to trust and reciprocity. We interact frequently with these strong tie connections, relying on each other for both affection and assistance.
 
-On the other hand, weak ties represent our broader social network acquaintances. These include old classmates we rarely talk to, distant relatives we see only occasionally, or colleagues from an old job. The interactions are more limited and often situational. But importantly, these weak ties bridge different social circles, giving access to non-redundant sources of information and opportunities for collaboration. They expose us to fresh ideas and diverse worldviews.
+On the other hand, weak ties represent our broader social network acquaintances. These include old classmates we rarely talk to, distant relatives we see only occasionally, or colleagues from an old job. The interactions are more limited and often situational.
 
-While our inner circle of confidants provides intimacy, the outer layer of weaker ties gives flexibility. Through weak ties, we can tap into the resources, knowledge, and perspectives of a more comprehensive array of people. It is the combination of strong ties that bond and weak ties that bridge, which enables cooperation and innovation on a societal level. Our networks gain strength and vitality when weak ties between groups are woven together.
+But most importantly, these weak ties bridge different social circles, giving access to non-redundant sources of information and opportunities for collaboration. They expose us to fresh ideas and diverse worldviews.
+
+While our inner circle of confidants provides intimacy, the outer layer of weaker ties gives flexibility. Through weak ties, we can tap into the resources, knowledge, and perspectives of a more comprehensive array of people.
+
+It is the combination of strong ties that bond and weak ties that bridge, which enables cooperation and innovation on a societal level. Our networks gain strength and vitality when weak ties between groups are woven together.
 
 Here is an overview:
 
