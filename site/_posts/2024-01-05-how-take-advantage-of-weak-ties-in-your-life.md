@@ -10,7 +10,7 @@ description: >
   our advantage? The Theory of Weak Ties is here to save the day, and baked into
   the solution is an easy method to increase your chances of finding work,
   clients, friends, and romance.
-image: /assets/images/posts/weak-strong-ties.jpg
+image:
 ---
 *“When we look at the experimental data, weak ties are better, on average, for job mobility than strong ties,” says Sinan Aral, a management professor at MIT and co-author of a new paper detailing the study's results, which involved millions of LinkedIn users.*
 
@@ -57,7 +57,7 @@ Here is an overview:
 
 ## Social media used to prove the power of weak ties
 
-[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to new job opportunities and spur greater job mobility than one’s closest contacts.
+[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to [new job opportunities and spur greater job mobility than one’s closest contacts.](/beyond-the-surface-area-of-luck/)
 
 Specifically, they found that moderate to weak tie strength led to the highest job mobility rates, according to the data on 600,000 new jobs generated. The weakest and strongest ties were associated with lower mobility rates, indicating an inverted U-shaped relationship between tie strength and mobility.
 
@@ -133,7 +133,7 @@ For better or worse, 40-year-olds today have MUCH greater awareness of what thei
 
 ## Closing words on business and romance with weak ties
 
-When searching for either of those things, the ideas still hold because this is a fundamental law of human relationships—and humans are in every business deal and relationship,
+When searching for either of those things, the ideas still hold because this is a [fundamental law of human relationships](/you-cant-force-relationships-to-develop/)—and humans are in every business deal and relationship,
 
 If you don't have a diverse, optimally strong group of network ties, you'll never know anyone who doesn't already know what you do. As a result, you'll get access to new opportunities and connections.
 
