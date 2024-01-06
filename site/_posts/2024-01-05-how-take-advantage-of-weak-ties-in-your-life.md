@@ -30,7 +30,7 @@ Our strong ties are our close friendships and family bonds. These relationships 
 
 On the other hand, weak ties represent our broader social network acquaintances. These include old classmates we rarely talk to, distant relatives we see only occasionally, or colleagues from an old job. The interactions are more limited and often situational.
 
-But most importantly, these weak ties bridge different social circles, giving access to non-redundant sources of information and opportunities for collaboration. They expose us to fresh ideas and diverse worldviews.
+But most importantly, these weak ties bridge different social circles, giving access to non-redundant sources of information and opportunities for collaboration. They expose us to [fresh ideas and diverse worldviews.](/confirmation-bias-echo-cherry-picky-echo-chambers/)
 
 While our inner circle of confidants provides intimacy, the outer layer of weaker ties gives flexibility. Through weak ties, we can tap into the resources, knowledge, and perspectives of a more comprehensive array of people.
 
