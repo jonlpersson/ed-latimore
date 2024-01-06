@@ -57,7 +57,7 @@ Here is an overview:
 
 ## Social media used to prove the power of weak ties
 
-[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to [new job opportunities and spur greater job mobility than one’s closest contacts.](/beyond-the-surface-area-of-luck/)
+[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to [new job opportunities and spur greater job mobility than one’s closest contacts.](/beyond-the-surface-area-of-luck/)&nbsp;
 
 Specifically, they found that moderate to weak tie strength led to the highest job mobility rates, according to the data on 600,000 new jobs generated. The weakest and strongest ties were associated with lower mobility rates, indicating an inverted U-shaped relationship between tie strength and mobility.
 
