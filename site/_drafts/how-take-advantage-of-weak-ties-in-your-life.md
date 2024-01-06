@@ -53,6 +53,8 @@ Here is an overview:
 * Usually, more short-term or situational relationships
 * Connect you to people and information outside your most immediate circle
 
+
+
 ## Social media used to prove the power of weak ties
 
 By conducting experiments with 20 million LinkedIn users over five years, the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to new job opportunities and spur greater job mobility than one’s closest contacts.
@@ -73,7 +75,7 @@ You'll know all the same people and see all the same job opportunities. Even wor
 
 Not only can you guys not help each other with new information (because you both get the same information), but you are both disincentivized from revealing any new information to the other. At best, the relationship is unproductively homogenous. At worst, it is subtly competitive. The similarities of the individuals nullify the strong tie's strength.
 
-
+![Optimization curve for strong and weak ties](/assets/images/drafts/optimization-curve-of-weak-and-strong-ties.png){: width="940" height="788"}
 
 This thought exercise was in extreme situations to demonstrate the general idea: after a certain point, the stronger your ties with someone, the less that person can provide you with new opportunities and information, and the more likely you’ll be competing for the same new resources.
 
@@ -91,6 +93,8 @@ It's essential to be clear that the status of a tie is not binary. Instead, it e
 People like that it’s the quality of your friends that matters—not the quantity. Generally speaking, this is good advice; you will avoid much suffering if you live by it. With that said, it’s a half-truth.
 
 You want friends with different backgrounds, perspectives, and experiences. Aside from the benefit this has on sharpening your thinking process and keeping you out of an echo chamber, it is the *easiest* to find out something you don’t know that can help you.
+
+![collect diverse weak ties](/assets/images/drafts/collect-diverse-weak-ties.png){: width="940" height="788"}
 
 I've seen people I grew up with complaining on social media about how small our city is. They say this because whenever they try to date someone, and inevitably find out that this person dated someone in their social circle.
 
