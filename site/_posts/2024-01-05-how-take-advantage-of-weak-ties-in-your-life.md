@@ -14,6 +14,8 @@ image: /assets/images/posts/weak-strong-ties-1.jpg
 ---
 *“When we look at the experimental data, weak ties are better, on average, for job mobility than strong ties,” says Sinan Aral, a management professor at MIT and co-author of a new paper detailing the study's results, which involved millions of LinkedIn users.*
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9FTFZtWkgyZEg2Yz9zaT1nZmJ6RUJ0WHF5ek9mZWZvIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/ELVmZH2dH6c?si=gfbzEBtXqyzOfefo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 The old saying is, "It's not what you know, but who." The idea is that personal connections are more responsible for professional success than merit or ability. This idea is certainly observable in cases of nepotism or cronyism, but those are so obvious that they don't teach us anything useful or that we didn't already know.
 
 ![nepotism and cronyism](/assets/images/drafts/nepotism.jpeg){: width="720" height="729"}
