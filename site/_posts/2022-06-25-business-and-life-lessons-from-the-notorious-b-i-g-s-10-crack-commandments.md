@@ -19,13 +19,15 @@ The Ten Crack Commandments is arguably the most popular track on Christopher Wal
 
 It’s also received a number of remasters, my favorite one being on the Youtube released “Life After Deathstar” album; a collection of Biggie’s songs that were remixed with a Star Wars tracks.
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9oQk5EYTBTZGkxYyIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/hBNDa0Sdi1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
 The first line in The 10 Crack Commandments goes:
 
 *“I been in this game for years. It made me an animal; there’s rules to this sh\*\*t. I wrote me a manual. A step-by-step booklet for you to get your game on track, not yo wig pushed back.”*
 
 On the surface, the song is a how-to manual for being a successful drug dealer. However, the lessons contained in the song don’t just apply to selling crack. For Biggie and other drug dealers like him, crack was everything. Not because they were addicted to it, but because it provided an income and a way of life.
+
+**<u><em>Listen to the audio version of this post:</em></u>**<br>
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9DYkFpM0lVVEdvND9zaT1QNWIxZnN3QWRTUmxkTWs1IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/CbAi3IUTGo4?si=P5b1fswAdSRldMk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 The Ten Crack Commandments is an education in human nature's real, raw, viciousness. The level of street smarts required to survive in an environment like this breeds several lessons for managing competition.
 
@@ -34,8 +36,6 @@ I’ve broken down each of the 10 crack commandments so you get the benefits of 
 > When you’re street smart, money’s your report card
 >
 > —Jadakiss
-
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9DYkFpM0lVVEdvND9zaT0tMzROVUpCLXR5Z3NOenE3IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/CbAi3IUTGo4?si=-34NUJB-tygsNzq7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 ## Business and life lessons from The Notorious B.I.G.'s 10 crack commandments
 
