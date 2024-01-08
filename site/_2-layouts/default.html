@@ -22,6 +22,9 @@
     {% include partials/3-footer.html %}
 
     {% comment %}Javascript file{% endcomment %}
+    {% if page.content contains "data-tf-popup" %}
+      <script src="//embed.typeform.com/next/embed.js"></script>
+    {% endif %}
 
 </body>
 
