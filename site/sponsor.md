@@ -30,7 +30,7 @@ Want to sponsor my newsletter? Here are a few details:
 * 36,000+ readers
 * 38–42% open rate
 * Audience made up day traders, business owners, and phD students/graduates
-* Sent 2-3x per week
+* Sent 2-3x per month
 
 ## Get started
 
