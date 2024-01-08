@@ -29,7 +29,7 @@ Want to sponsor my newsletter? Here are a few details:
 
 * 36,000+ readers
 * 38–42% open rate
-* Audience made up day traders, business owners, and phD students/graduates
+* Audience made up of financial service professionals, engineers, active military, business owners, and PhD students/graduates in a variety of STEM fields
 * Sent 2-3x per month
 
 ## Get started
@@ -38,4 +38,4 @@ My newsletter is part of the ConvertKit Sponsor Network, so everything will be h
 
 
 
-<button data-tf-popup="E2nyeYNg" data-tf-iframe-props="title=Brands: ConvertKit Sponsor Network" data-tf-medium="snippet" data-tf-hidden="creator=ed-latimore,url=edlatimore.com/sponsor" class="btn btn-coral">Apply now</button><script src="//embed.typeform.com/next/embed.js"></script>
+<button data-tf-popup="E2nyeYNg" data-tf-iframe-props="title=Brands: ConvertKit Sponsor Network" data-tf-medium="snippet" data-tf-hidden="creator=ed-latimore,url=edlatimore.com/sponsor" class="btn btn-coral">Apply now</button>
