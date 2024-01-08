@@ -38,4 +38,4 @@ My newsletter is part of the ConvertKit Sponsor Network, so everything will be h
 
 
 
-<button data-tf-popup="E2nyeYNg" data-tf-iframe-props="title=Brands: ConvertKit Sponsor Network" data-tf-medium="snippet" data-tf-hidden="creator=ed-latimore,url=edlatimore.com/sponsor" class="btn btn-coral">Apply now</button>
+<button data-tf-popup="E2nyeYNg" data-tf-iframe-props="title=Brands: ConvertKit Sponsor Network" data-tf-medium="snippet" data-tf-hidden="creator=ed-latimore,url=edlatimore.com/sponsor" class="btn btn-coral">Apply now</button><script src="//embed.typeform.com/next/embed.js"></script>
