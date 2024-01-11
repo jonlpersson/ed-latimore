@@ -13,6 +13,8 @@ description: >-
   all.
 image: /assets/images/thumbnails/struggling-with-math.jpg
 ---
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9NWXBhWFViYjFOOD9zaT1vdXZwQjROSllvSEJDalNRIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/MYpaXUbb1N8?si=ouvpB4NJYoHBCjSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 Like many students, I had a hard time with math class. I didn’t consider myself a “math person,” and after I failed (or barely passed) most of my high school math classes, I figured I would never do anything involving math.
 
 Unfortunately, most of the [highest paying jobs](https://www.businessinsider.com/high-paying-jobs-for-people-who-love-math-2016-6#-14){: target="_blank" rel="noopener noreferrer"} and&nbsp;[with the highest employee satisfaction](https://www.itweb.co.za/content/XlwrKxq35rg7mg1o){: target="_blank" rel="noopener noreferrer"} all require at least skills you learn in typical high school math classes.
