@@ -6,12 +6,12 @@ description: >-
   In this 5 day challenge, you'll learn how to use AI to quickly recycle and
   reuse old content. You'll also learn how to ethically steal other people's
   content so save time, grow your email list, and make more money.
-image: /assets/images/thumbnails/not-caring.jpg
+image: /assets/images/products/repurpose-to-profits.png
 product_info:
-  button_text: Buy on Amazon
+  button_text: Join The Challenge Now
   button_url: >-
     https://www.amazon.com/Caring-Other-People-Think-Superpower/dp/1542628806/tag=httpedwardc07-20
-  price: $10.59
+  price: $100
 hero:
   hero_type: product
   image: /assets/images/thumbnails/not-caring.jpg
