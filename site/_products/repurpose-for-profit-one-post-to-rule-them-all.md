@@ -19,39 +19,31 @@ hero:
 page_blocks:
   - _id: block_rich_text
     alignment: center
-    text_markdown: >
-      In my life, I’ve learned many things the hard way.
+    text_markdown: >-
+      Unlock the secret to content efficiency with my 5-day online workshop.
+      You'll discover my proven framework for repurposing existing content into
+      new high-value formats with money-making potential.
 
 
-      In this book I break them down so that you can learn them the easy way and
-      get more out of life. At one point I was stealing food just to eat and
-      spent more time hung over than sober.
+      Even if you're not a writer, you'll learn how to extract extra mileage
+      from assets you already have. I'll show you how to:
 
 
-      From the streets, to the boxing gym, to the army, the physics lab and 4
-      years of sobriety, I’ve developed true grit and the fighting mindset. **I
-      teach it all in this book.**
+      * Turn a 2,000 word blog post into a viral infographic, podcast episode,
+      and video tutorial
+
+      * Adapt an email course into a book, social media series, and membership
+      site modules
+
+      * Build an entire year's worth of social content from a single in-depth
+      guide
 
 
-      ## You will learn:
+      In just 5 days, you'll have a step-by-step content repurposing blueprint
+      specific to your business and audience. No more wasting hours starting
+      from scratch ever again.
 
 
-      * The real reason the ability to work hard is so highly valued.
-
-      * How to identify where to invest your emotional energy for the greatest
-      return
-
-      * Why you can't afford to have low standards for anything you do or the
-      company you keep.
-
-      * The greatest source of motivation that's untapped by most.
-
-      * Vital paradigm and mindset shifts that will allow you to get more out of
-      life.
-
-      * The difference between strategy and tactics and how to develop a mindset
-      for both.
-
-      * How to select the best people to have a relationship with and get the
-      most out of it.
+      The skills you gain from this challenge will transform the way you produce
+      content while maximizing your profits.
 ---
