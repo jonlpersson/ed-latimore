@@ -13,11 +13,9 @@ product_info:
   price: $100
 hero:
   hero_type: product
-  image: /assets/images/thumbnails/not-caring.jpg
-  heading: Not Caring What Other People Think is a Superpower
-  text: >-
-    Not caring what people think is a superpower that will allow you to get what
-    you want out of life. This book teaches you how to live this way.
+  image: /assets/images/products/repurpose-to-profits.png
+  heading: 'Repurpose to Profits: One Piece of Content To Rule Them All'
+  text: 'Write it once, use it many times, specifically tailored for each platform. '
 page_blocks:
   - _id: block_rich_text
     alignment: center
