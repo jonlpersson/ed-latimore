@@ -9,8 +9,7 @@ description: >-
 image: /assets/images/products/repurpose-to-profits.png
 product_info:
   button_text: Join The Challenge Now
-  button_url: >-
-    https://www.amazon.com/Caring-Other-People-Think-Superpower/dp/1542628806/tag=httpedwardc07-20
+  button_url: https://mind-and-fist.ck.page/products/repurpose-to-profts
   price: $100
 hero:
   hero_type: product
