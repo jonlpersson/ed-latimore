@@ -20,13 +20,37 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      Unlock the secret to content efficiency with my 5-day online workshop.
-      You'll discover my proven framework for repurposing existing content into
-      new high-value formats with money-making potential.
+      Unlock the secret to creating the type of content that you want to
+      make—and that only you can create—with efficiency and never worrying
+      about:
 
 
-      Even if you're not a writer, you'll learn how to extract extra mileage
-      from assets you already have. I'll show you how to:
+      * Doubting yourself
+
+      * Running out of things to say
+
+      * Hitting writer's block
+
+      * Sounding like everyone else
+
+
+      With my 5-day online workshop. I teach my proven framework for generating
+      engaging, unique, authentic content...
+
+
+      And then how to repurpose on to different platforms to grow your audience,
+      increase your income, and finally get in on the creator economy. It's not
+      too late to get in on the multi-million dollar industry of
+      micro-influencing to create a major impact on your life.&nbsp;&nbsp;
+
+
+      Even if you're not a writer, you'll learn how to use a work with AI and a
+      few simple templates to easily create a library of content that is
+      guaranteed to build a tribe of like-minded individuals.
+
+
+      ***"You only need 1% of the population to rock with you to live better
+      than the other 99%."***
 
 
       * Turn a 2,000 word blog post into a viral infographic, podcast episode,
