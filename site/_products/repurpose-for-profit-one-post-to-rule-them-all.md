@@ -40,8 +40,8 @@ page_blocks:
 
       And then how to repurpose on to different platforms to grow your audience,
       increase your income, and finally get in on the creator economy. It's not
-      too late to get in on the multi-million dollar industry of
-      micro-influencing to create a major impact on your life.&nbsp;&nbsp;
+      too late to get in on the multi-million dollar micro-influencing industry
+      to significantly impact your life.&nbsp;&nbsp;
 
 
       Even if you're not a writer, you'll learn how to use a work with AI and a
@@ -49,12 +49,12 @@ page_blocks:
       guaranteed to build a tribe of like-minded individuals.
 
 
-      ***"You only need 1% of the population to rock with you to live better
-      than the other 99%."***
+      ***![](/assets/images/products/less-than-1percent.png){: width="2160"
+      height="2160"}***
 
 
-      * Turn a 2,000 word blog post into a viral infographic, podcast episode,
-      and video tutorial
+      * Capture your story and collect insights from it, even if you don't see
+      them.&nbsp;
 
       * Adapt an email course into a book, social media series, and membership
       site modules
@@ -64,8 +64,12 @@ page_blocks:
 
 
       In just 5 days, you'll have a step-by-step content repurposing blueprint
-      specific to your business and audience. No more wasting hours starting
-      from scratch ever again.
+      specific to your business and audience. You'll be armed with a simple
+      method to get content down, no matter how busy you are or how little you
+      think you have to say.
+
+
+      No more wasting hours starting from scratch ever again.
 
 
       The skills you gain from this challenge will transform the way you produce
