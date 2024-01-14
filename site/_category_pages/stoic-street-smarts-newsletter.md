@@ -30,8 +30,8 @@ page_blocks:
 
 
       <div class="cms-embed"
-      data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iMWRlMzVkNGQ1YSIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS8xZGUzNWQ0ZDVhL2luZGV4LmpzIj48L3NjcmlwdD4="><script
-      async="" data-uid="1de35d4d5a"
-      src="https://mind-and-fist.ck.page/1de35d4d5a/index.js"></script></div>
+      data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iMDkzYTAwMzdkZCIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS8wOTNhMDAzN2RkL2luZGV4LmpzIj48L3NjcmlwdD4="><script
+      async="" data-uid="093a0037dd"
+      src="https://mind-and-fist.ck.page/093a0037dd/index.js"></script></div>
   - _id: posts_relevant
 ---
