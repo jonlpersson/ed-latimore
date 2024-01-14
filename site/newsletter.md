@@ -43,7 +43,8 @@ page_blocks:
   - _id: block_logos
   - _id: block_media
     clippings:
-      - image: /assets/images/pages/stoic-street-smarts-chronicle-banner-2.png
+      - image: >-
+          /assets/images/pages/the-stoic-street-smarts-chronicle-fixed-version-3.png
         image_alt: Stoic Street Smarts
         image_source:
           link:
