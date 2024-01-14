@@ -38,5 +38,6 @@ page_blocks:
           You can't fix problems if you're not willing to face them, and life is
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
+  - _id: posts_relevant
   - _id: block_logos
 ---
