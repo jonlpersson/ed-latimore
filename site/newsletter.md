@@ -4,7 +4,9 @@ image: /assets/images/pages/stoic-street-smarts-chronicle-banner.png
 title: Newsletter
 hero:
   hero_type: email
-  heading: Over 35,000 men and women subscribe to my weekly emails about self-growth.
+  heading: >-
+    oin 36k readers learning how to manage risk, build relationships, and face
+    reality
   text_markdown: >-
     Join a community of over 35,000 men and women who receive my weekly
     newsletter about mental, physical, emotional, and financial
@@ -38,6 +40,6 @@ page_blocks:
           You can't fix problems if you're not willing to face them, and life is
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
-  - _id: posts_relevant
   - _id: block_logos
+  - _id: posts_all
 ---
