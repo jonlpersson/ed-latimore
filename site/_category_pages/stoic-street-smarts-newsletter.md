@@ -29,9 +29,6 @@ page_blocks:
       Smarts newsletter and subscribe so you never miss an issue.
 
 
-      <div class="cms-embed"
-      data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iMDkzYTAwMzdkZCIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS8wOTNhMDAzN2RkL2luZGV4LmpzIj48L3NjcmlwdD4="><script
-      async="" data-uid="093a0037dd"
-      src="https://mind-and-fist.ck.page/093a0037dd/index.js"></script></div>
+      ​​​​​​
   - _id: posts_relevant
 ---

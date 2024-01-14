@@ -5,7 +5,7 @@ title: Newsletter
 hero:
   hero_type: email
   heading: Over 35,000 men and women subscribe to my weekly emails about self-growth.
-  text_markdown: >
+  text_markdown: >-
     Join a community of over 35,000 men and women who receive my weekly
     newsletter about mental, physical, emotional, and financial
     self-improvement.
@@ -14,11 +14,11 @@ hero:
     You'll get:
 
 
-    - Exclusive content that will never be published anywhere else
+    * Exclusive content that will never be published anywhere else
 
-    - Free downloads and discounts when I release new books and resources
+    * Free downloads and discounts when I release new books and resources
 
-    - A weekly boost of motivation and mental tools to realize your potential
+    * A weekly boost of motivation and mental tools to realize your potential
 page_blocks:
   - _id: block_benefits
     heading: 'Sign up and receive:'
