@@ -41,7 +41,10 @@ page_blocks:
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
   - _id: block_logos
-  - _id: block_photos
-    images:
-      - image: /assets/images/pages/stoic-street-smarts-chronicle-banner-1.png
+  - _id: block_media
+    clippings:
+      - image: /assets/images/pages/stoic-street-smarts-chronicle-banner-2.png
+        image_alt: Stoic Street Smarts
+        image_source:
+          link:
 ---
