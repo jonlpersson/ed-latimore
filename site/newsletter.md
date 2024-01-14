@@ -30,7 +30,7 @@ page_blocks:
           I break down concepts from probability and statistics in a simple way
           and show you how to use them to make better decisions to get more out
           of life with less risk bigger upside
-      - heading: Develop relationships
+      - heading: Build relationships
         text: >-
           People are the most important thing. Learn how to build
           non-transactional relationships that will pay off WAY more than any
@@ -41,5 +41,4 @@ page_blocks:
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
   - _id: block_logos
-  - _id: posts_all
 ---
