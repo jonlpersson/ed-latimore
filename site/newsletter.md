@@ -33,7 +33,10 @@ page_blocks:
           People are the most important thing. Learn how to build
           non-transactional relationships that will pay off WAY more than any
           quid-por-quo, tit-for-tat, cheesy networking style of interaction.
-      - heading: VIP access
-        text: ... And exclusive, discounted access to new books and courses.
+      - heading: Face reality
+        text: >-
+          You can't fix problems if you're not willing to face them, and life is
+          one big series of problems. If you never learn to overcome, you'll
+          always be overcome.
   - _id: block_logos
 ---
