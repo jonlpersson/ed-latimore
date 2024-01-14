@@ -23,8 +23,11 @@ page_blocks:
   - _id: block_benefits
     heading: 'Sign up and receive:'
     benefit_items:
-      - heading: Stimulating ideas
-        text: Unfiltered takes on life, death, society, and relationships...
+      - heading: Manage risk
+        text: >-
+          I break down concepts from probability and statistics in a simple way
+          and show you how to use them to make better decisions to get more out
+          of life with less risk bigger upside
       - heading: Actionable advice
         text: >-
           ... With practical implications for how to carry yourself in the
