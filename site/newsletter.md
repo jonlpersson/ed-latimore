@@ -5,7 +5,7 @@ title: Newsletter
 hero:
   hero_type: email
   heading: >-
-    oin 36k readers learning how to manage risk, build relationships, and face
+    Join 36k readers learning how to manage risk, build relationships, and face
     reality
   text_markdown: >-
     Join a community of over 35,000 men and women who receive my weekly
