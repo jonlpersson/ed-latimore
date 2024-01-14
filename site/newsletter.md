@@ -21,17 +21,18 @@ hero:
     * A weekly boost of motivation and mental tools to realize your potential
 page_blocks:
   - _id: block_benefits
-    heading: 'Sign up and receive:'
+    heading: 'Each weak I send out an newsletter teaching you how to:'
     benefit_items:
       - heading: Manage risk
         text: >-
           I break down concepts from probability and statistics in a simple way
           and show you how to use them to make better decisions to get more out
           of life with less risk bigger upside
-      - heading: Actionable advice
+      - heading: Develop relationships
         text: >-
-          ... With practical implications for how to carry yourself in the
-          world...
+          People are the most important thing. Learn how to build
+          non-transactional relationships that will pay off WAY more than any
+          quid-por-quo, tit-for-tat, cheesy networking style of interaction.
       - heading: VIP access
         text: ... And exclusive, discounted access to new books and courses.
   - _id: block_logos
