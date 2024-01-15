@@ -110,7 +110,11 @@ Passive-aggressive behavior attempts to get the benefits of a confrontation with
 
 The passive aggressor does this to initiate a confrontation while maintaining plausible deniability. The hope is that they can say what they want, but if you react harshly, they can protect themselves from a direct conflict by blaming your reaction on misinterpretation.&nbsp;
 
-The hallmarks of passive aggression are using backhanded compliments, sarcasm, diminishing language, or pretending they're joking while actually criticizing you. It avoids direct confrontation but still gets the criticism across through subtly snide comments. For example, “Must be nice” is often said by people who are jealous of your accomplishments and can’t bring themselves to congratulate you but want to maintain a thin veneer of sensibility.
+The hallmarks of passive aggression are using backhanded compliments, sarcasm, diminishing language, or pretending they're joking while actually criticizing you. It avoids direct confrontation but still gets the criticism across through subtly snide comments.
+
+{% twitter https://twitter.com/EdLatimore/status/1417188932668768268 %}
+
+For example, “Must be nice” is often said by people who are jealous of your accomplishments and can’t bring themselves to congratulate you but want to maintain a thin veneer of sensibility.
 
 Another typical display of passive-aggressive behavior is "If you say so" during a discussion. Rather than outright disagree with you, this remark is said to push you to respond by diminishing your perspective and opinions.
 
