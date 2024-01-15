@@ -28,3 +28,36 @@ I won’t be addressing cyberbullying in this article, but not because I don’t
 For everyone else, today's newsletter will teach you how bullies think and how to deal with them. This advice is for more than just kids in school. They are more protected from bullying now than they were in my day. This newsletter is for everyone else dealing with bullies personally and professionally.
 
 Read on to learn how bullies think and how to squelch them, regain your power, and keep your sanity all at the same time.&nbsp;
+
+## Checking minor disrespect today and keeps bigger conflict away: The psychology of bullies
+
+The best remedy for any problem is prevention. Bullies of all types select the weakest member of a group to single out for their attacks. In the same way that hyenas target the weakest and most vulnerable animals to feast on, bullies go after the people who are the most:
+
+* Socially isolated
+* Mentally fragile
+* Physically weak
+
+Whether it's physical or emotional harassment, a bully is often looking for an easy target. They detest anyone who isn't afraid to fight back, and they avoid anyone who looks like they might be capable of mounting a decent defense. So, our first step is not to look weak.
+
+The late comedian Patrice O'Neil tells a story about his time in jail, where an inmate told him, in front of everyone, that he looked really good that day. Patrice didn't like it and just ignored him. It seemed like an innocent compliment, but an older inmate warned him to aggressively warn him not to talk to him like that for two reasons.:
+
+1. **It was a test.** While a compliment seems innocent, in jail, complimenting a man like that is a problem. It would be awkward on the outside, but you could ignore it and keep on with your day. However, inside prison, you have to respond to it.&nbsp;<br><br>If you aren't gay but not willing to check a guy feeling you out to see if you are, then you invite more aggressive overtures. If the guy got away with a small compliment, next time, he's gonna grab your butt, and then before you know it, he's trying to force himself on you. This potential situation leads to the second point.
+2. **Other inmates are watching to see how soft you are.** If they know you won't stand up for yourself, then you get marked as an easy target for all types of harassment. It's about sending a message to the perpetrator—or anyone in the vicinity looking for someone to victimize—that you aren't the one to try.&nbsp;<br><br>It's easy to say that this is just prison behavior, but we've got some compelling research that once a person has been marked as a weak victim by their social group, they're more likely to be victimized by others in the group.
+
+In the wake of atrocities of World War II, psychologists wanted to understand how genocide could happen at such a large scale. From this desire to understand the dark nature of humanity, we got:
+
+* Stanley Milgram’s infamous electroshock experiment, which showed how quickly people cave to authority.
+* Philip Zimbardo’s “prison experiment,” which showed how easily people in positions of power can abuse others.
+* Albert Bandura showing that when participants overhear an experimenter call another study subject “an animal,” they’re more likely to give that subject a painful shock.&nbsp;
+
+These might seem like a stretch, but I assure you that it's not. The difference between bullying that leads to physical and emotional harrassment and dehumanization that leads to mass genocide is one of degree, not type. There is something in human psychology that, if left unchecked, doesn't come to the rescue of mistreated groups but, instead, joins the side of the aggressor.&nbsp;
+
+
+
+The lesson here is that you MUST deal with disrespect immediately when someone treats you in a diminishing or disrespectful manner. Otherwise, the disrespectful behavior will gain momentum and escalate. It will also behave like a virus, infecting the minds of those who don't have a strong enough value system to resist the allure of groupthink and mob mentality.
+
+***Here’s a dirty secret about people:***
+
+Most of them don't know what to think, and they're waiting for someone to tell them. This unpopular truth underpins everything from politics, religion, street gangs, and advertisements. It applies to how we treat other people as well.
+
+Take matters into your own hands. Make it clear as soon as possible that you are not the person to victimize. Prevention of this behavior is half the battle.
