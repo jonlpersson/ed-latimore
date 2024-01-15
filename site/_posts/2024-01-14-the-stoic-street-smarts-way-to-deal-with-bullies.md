@@ -18,7 +18,7 @@ By definition, any abuse of power of a form of bully, but it's not only restrict
 * **Intent to Cause Harm.** The bully acts to physically, emotionally, and/or socially harm the target. They go beyond teasing or horseplay. Everyone joking is cool; everyone trying to take each other's heads off is cool. What's not cool is one person thinks it is a joke, and the other is out for blood.
 * **Repetition.** Incidents are not isolated. Bullying behavior repeats over time toward the target. If you act like the prey, you tend to get treated like prey by predators. No one understands this dynamic better than a bully.
 
-Bullying isn’t limited to physical confrontations. There’s also emotional, physical, and social bullying. Because of how wired into the internet, social media, and smartphones everyone is these days, the latter is now more commonly described as cyberbullying.
+Bullying isn’t limited to physical confrontations. There’s also emotional and social bullying. Because of how wired into the internet, social media, and smartphones everyone is these days, the latter is now more commonly described as cyberbullying.
 
 I won’t be addressing cyberbullying in this article, but not because I don’t think it’s real. I have two reasons.
 
