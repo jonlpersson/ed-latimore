@@ -14,11 +14,11 @@ I reserve my emotional energy for things I can control. As a result, I don’t e
 
 By definition, any abuse of power of a form of bully, but it's not only restricted to the domain of power imbalances. Bullying is the repetitive and aggressive behavior that deliberately intends to hurt, intimidate, exclude, or humiliate another person physically or emotionally. The three components of bullying are:
 
-* **Power Imbalance.** An actual or perceived unequal power distribution exists between the bully and the target. The target has difficulty defending themselves. I had to bite my tongue so hard I could taste blood at two instances of bullying I witnessed in the Army that went beyond training. I have a heart, but discretion is the better part of valor.&nbsp;
+* **Power Imbalance.** An actual or perceived unequal power distribution exists between the bully and the target, and this makes it difficult for the target to defend themselves. I had to bite my tongue so hard I could taste blood at two instances of bullying I witnessed in the Army that went beyond training. I have a heart, but discretion is the better part of valor.&nbsp;
 * **Intent to Cause Harm.** The bully acts to physically, emotionally, and/or socially harm the target. They go beyond teasing or horseplay. Everyone joking is cool; everyone trying to take each other's heads off is cool. What's not cool is one person thinks it is a joke, and the other is out for blood.
 * **Repetition.** Incidents are not isolated. Bullying behavior repeats over time toward the target. If you act like the prey, you tend to get treated like prey by predators. No one understands this dynamic better than a bully.
 
-Bullying isn’t limited to physical confrontations. There’s emotional, physical, and social. Because of how wired into the internet, social media, and smartphones everyone is these days, the latter is now more commonly described as cyberbullying.
+Bullying isn’t limited to physical confrontations. There’s also emotional, physical, and social bullying. Because of how wired into the internet, social media, and smartphones everyone is these days, the latter is now more commonly described as cyberbullying.
 
 I won’t be addressing cyberbullying in this article, but not because I don’t think it’s real. I have two reasons.
 
