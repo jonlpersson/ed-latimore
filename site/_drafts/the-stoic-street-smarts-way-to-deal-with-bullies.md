@@ -129,3 +129,5 @@ However, for a person trying to demean you, you must never react emotionally bec
 Often, pretending they aren't there or what they said or didn't register will take a lot of steam out of them. However, we're only human and will eventually have to respond, and how you do it is critical. And when I say "ignore," I don't mean you don't confront malicious rumors. If a person spreads lies or misinformation, you have to deal with this immediately, but it's a matter of how you do it.
 
 The response should be direct, immediate, and free of emotion. If it's one person doing the bullying, confront the person publically. If it's a group, laser in on one person and force the person to deal with you directly, ignoring everyone else. No matter the environment, the overall strategy is the same: isolate and publicly confront your tormenter and do so in the most non-reactive way possible.&nbsp;
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
