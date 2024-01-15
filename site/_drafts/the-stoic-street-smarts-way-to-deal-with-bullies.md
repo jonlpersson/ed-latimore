@@ -8,7 +8,7 @@ categories:
 description: >-
   Learn how bullies think and how to deal with them. This advice is for more
   than just kids in school. 
-image:
+image: /assets/images/drafts/bullying-commons.jpeg
 ---
 I reserve my emotional energy for things I can control. As a result, I don’t experience anger very often. However, there is one thing that always bothers me, and I have a hard time ignoring it when I see it—abuses of power and bullying.
 
