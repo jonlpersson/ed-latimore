@@ -93,3 +93,27 @@ As a corollary to this, never let someone aggressively get within arm's length o
 [Either way, it's better to be judged by 12 than carried by 6.](/how-to-be-street-smart/)
 
 With that out of the way, let’s deal with the bullying in the civilized world—emotional and psychological.
+
+## Dealing with emotional bullies
+
+Non-physical bullying is the most challenging type to deal with. The effects aren't obvious, and most people will tell you to ignore it. However, the hallmark of bullying—the feature that sets it apart from other types of harassment—is that it is prohibitively difficult to escape from.
+
+Running away isn't an option if it's a place you work or the bullying is from family members you live with or have to interact with. Even if you can run away, the internet has become the weapon of choice for harassment.
+
+Another challenge is that some bullies who use this indirect aggression are strategic enough either to avoid leaving evidence of their harassment or to have enough ambiguity in their actions to deny any wrongdoing. This plausible deniability is how passive aggression works, and it's a common tactic of emotional bullies.
+
+Passive-aggressive behavior attempts to get the benefits of a confrontation without taking the risk. Though not common, this can be a subtle form of bullying. Passive-aggressive behavior is anything critical or negative but not directly expressed. The passive-aggressive entity puts the burden of interpretation on the message's recipient rather than clearly stating what’s wrong.
+
+The passive aggressor does this to initiate a confrontation while maintaining plausible deniability. The hope is that they can say what they want, but if you react harshly, they can protect themselves from a direct conflict by blaming your reaction on misinterpretation.&nbsp;
+
+The hallmarks of passive aggression are using backhanded compliments, sarcasm, diminishing language, or pretending they're joking while actually criticizing you. It avoids direct confrontation but still gets the criticism across through subtly snide comments. For example, “Must be nice” is often said by people who are jealous of your accomplishments and can’t bring themselves to congratulate you but want to maintain a thin veneer of sensibility.
+
+Another typical display of passive-aggressive behavior is "If you say so" during a discussion. Rather than outright disagree with you, this remark is said to push you to respond by diminishing your perspective and opinions.
+
+The good news about passive-aggression, when used as a bullying tactic, is that it's easy to diffuse. If someone in a leadership or power position relative to you uses it, force the person to clarify their meaning. Fortunately, the type of person who has learned to rely on sarcasm and passive aggression as a bullying tactic is usually only passive and rarely aggressive. They fold and fall in line when a little pressure is applied.
+
+To win against the emotional bully, you must wage a war on two fronts. First, you can not acknowledge their attacks. This tactic doesn't work for physical bullies because you can't ignore someone trying to kick your ass. However, for a person trying to demean you, you must never react emotionally because the bully lives for this reaction. Your stoic reaction starves their antics for the oxygen required to keep it going.
+
+Often, pretending they aren't there or what they said or didn't register will take a lot of steam out of them. However, we're only human and will eventually have to respond, and how you do it is critical. And when I say "ignore," I don't mean you don't confront malicious rumors. If a person spreads lies or misinformation, you have to deal with this immediately, but it's a matter of how you do it.
+
+The response should be direct, immediate, and free of emotion. If it's one person doing the bullying, confront the person publically. If it's a group, laser in on one person and force the person to deal with you directly, ignoring everyone else. No matter the environment, the overall strategy is the same: isolate and publicly confront your tormenter and do so in the most non-reactive way possible.&nbsp;
