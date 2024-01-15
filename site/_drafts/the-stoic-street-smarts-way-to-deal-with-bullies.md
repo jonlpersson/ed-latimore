@@ -92,7 +92,7 @@ This approach accomplished something fundamental that made my life a little easi
 
 The conventional advice for dealing with bullies is to stand up to them and show that you aren’t afraid. What most parents are too politically correct to teach their kids is that until you exchange blows, all you’ve shown is that you’re too lazy to run. Whether you win or lose, standing up to a bully only counts *if you get into a fight*. The message you send is loud and clear—even if you kick my ass, you’re going to suffer, so it better be worth it.
 
-As a corollary to this, never let someone aggressively get within arm's length of you. Never let yourself get surrounded. Initiate the fight if that happens. In the worst case, you'll face charges, but most states consider an aggressive intrusion of personal space a case for self-defense (***Not legal advice; know the laws where you live***).
+As a corollary to this, never let someone aggressively get within arm's length of you. Never let yourself get surrounded. Initiate the fight if that happens. In the worst case, you'll face charges, but most states consider an aggressive intrusion of personal space a case for self-defense **(*Not legal advice; know the laws where you live*)**.
 
 [Either way, it's better to be judged by 12 than carried by 6.](/how-to-be-street-smart/)
 
