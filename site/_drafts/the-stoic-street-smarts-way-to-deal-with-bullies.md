@@ -29,6 +29,8 @@ For everyone else, today's newsletter will teach you how bullies think and how t
 
 Read on to learn how bullies think and how to squelch them, regain your power, and keep your sanity all at the same time.&nbsp;
 
+![](/assets/images/drafts/bullying-commons-1.jpeg){: width="849" height="565"}
+
 ## Checking minor disrespect today and keeps bigger conflict away: The psychology of bullies
 
 The best remedy for any problem is prevention. Bullies of all types select the weakest member of a group to single out for their attacks. In the same way that hyenas target the weakest and most vulnerable animals to feast on, bullies go after the people who are the most:
@@ -38,6 +40,8 @@ The best remedy for any problem is prevention. Bullies of all types select the w
 * Physically weak
 
 Whether it's physical or emotional harassment, a bully is often looking for an easy target. They detest anyone who isn't afraid to fight back, and they avoid anyone who looks like they might be capable of mounting a decent defense. So, our first step is not to look weak.
+
+![hyenas picking on weak lion](/assets/images/drafts/hyena-attacking-lion.jpeg){: width="602" height="402"}
 
 The late comedian Patrice O'Neil tells a story about his time in jail, where an inmate told him, in front of everyone, that he looked really good that day. Patrice didn't like it and just ignored him. It seemed like an innocent compliment, but an older inmate warned him to aggressively warn him not to talk to him like that for two reasons.:
 
