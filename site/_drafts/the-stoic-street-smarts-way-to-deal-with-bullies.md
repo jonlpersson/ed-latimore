@@ -120,7 +120,11 @@ Another typical display of passive-aggressive behavior is "If you say so" during
 
 The good news about passive-aggression, when used as a bullying tactic, is that it's easy to diffuse. If someone in a leadership or power position relative to you uses it, force the person to clarify their meaning. Fortunately, the type of person who has learned to rely on sarcasm and passive aggression as a bullying tactic is usually only passive and rarely aggressive. They fold and fall in line when a little pressure is applied.
 
-To win against the emotional bully, you must wage a war on two fronts. First, you can not acknowledge their attacks. This tactic doesn't work for physical bullies because you can't ignore someone trying to kick your ass. However, for a person trying to demean you, you must never react emotionally because the bully lives for this reaction. Your stoic reaction starves their antics for the oxygen required to keep it going.
+![Stoicism dealing with bullies](/assets/images/drafts/stoicism-for-bullying.jpeg){: width="1280" height="720"}
+
+To win against the emotional bully, you must wage a war on two fronts. First, you can not acknowledge their attacks. This tactic doesn't work for physical bullies because you can't ignore someone trying to kick your ass.
+
+However, for a person trying to demean you, you must never react emotionally because the bully lives for this reaction. Your stoic reaction starves their antics for the oxygen required to keep it going.
 
 Often, pretending they aren't there or what they said or didn't register will take a lot of steam out of them. However, we're only human and will eventually have to respond, and how you do it is critical. And when I say "ignore," I don't mean you don't confront malicious rumors. If a person spreads lies or misinformation, you have to deal with this immediately, but it's a matter of how you do it.
 
