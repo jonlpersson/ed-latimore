@@ -52,8 +52,6 @@ In the wake of atrocities of World War II, psychologists wanted to understand ho
 
 These might seem like a stretch, but I assure you that it's not. The difference between bullying that leads to physical and emotional harrassment and dehumanization that leads to mass genocide is one of degree, not type. There is something in human psychology that, if left unchecked, doesn't come to the rescue of mistreated groups but, instead, joins the side of the aggressor.&nbsp;
 
-
-
 The lesson here is that you MUST deal with disrespect immediately when someone treats you in a diminishing or disrespectful manner. Otherwise, the disrespectful behavior will gain momentum and escalate. It will also behave like a virus, infecting the minds of those who don't have a strong enough value system to resist the allure of groupthink and mob mentality.
 
 ***Here’s a dirty secret about people:***
@@ -61,3 +59,37 @@ The lesson here is that you MUST deal with disrespect immediately when someone t
 Most of them don't know what to think, and they're waiting for someone to tell them. This unpopular truth underpins everything from politics, religion, street gangs, and advertisements. It applies to how we treat other people as well.
 
 Take matters into your own hands. Make it clear as soon as possible that you are not the person to victimize. Prevention of this behavior is half the battle.
+
+## It's never too late; Just harder than if you stood up for yourself earlier
+
+If you’re already dealing with someone bullying you, then more drastic measures are required to remedy the situation. At this point, you are marked and living on tortured time.
+
+Let’s address the most obvious case first. Physical bullying is the easiest to deal with it. I grew up poor in a dangerous part of town. If you haven’t been there before, you know an area like this as “The Ghetto.” I’m partial to calling them “The Projects” or “The Hood.”
+
+Hell, by any other name, is still hell.
+
+The violence in public housing projects is legendary. In fact, over the past two decades in public housing projects across the United States, violent crime has fallen everywhere except low-income public housing. There, it continues to rise.
+
+In the hood, there's always someone looking for a fight. Running isn't an option because housing projects are constructed like prisons, many being walled or gated, and everyone knows where you live.&nbsp;
+
+Choosing to fight wasn't much better. If you won the fight, your defeated opponent would return later with a group. If you lost the fight, you'd invite more bullies and find yourself in the same situation because losing a fight displays weakness. It was a choice between the lesser of two evils.
+
+It’s effectively the prison environment that Patrice O’Neil was in, and similar rules apply.
+
+> "Life's catching up to jail. If you from an old project, a new jail ain't that bad!"
+>
+> \-Chris Rock, "Bigger and Blacker"
+
+When I was younger, I thought I had a sign on my back for fights. In retrospect, I only fought more than a slightly above-average amount. “Slightly above average” means about once a week.
+
+Once I realized the person intended to hurt me, I threw the first punch and committed to violence. I didn't go overboard, but I intended to come out of the fight clearly as the victor. Breaking even was still a loss.
+
+This approach accomplished something fundamental that made my life a little easier: whenever a person decided I was a target, they knew the encounter would get violent. They had to determine if it was worth it. Even if I lost, I made sure it wasn't worth it.&nbsp;
+
+The conventional advice for dealing with bullies is to stand up to them and show that you aren’t afraid. What most parents are too politically correct to teach their kids is that until you exchange blows, all you’ve shown is that you’re too lazy to run. Whether you win or lose, standing up to a bully only counts *if you get into a fight*. The message you send is loud and clear—even if you kick my ass, you’re going to suffer, so it better be worth it.
+
+As a corollary to this, never let someone aggressively get within arm's length of you. Never let yourself get surrounded. Initiate the fight if that happens. In the worst case, you'll face charges, but most states consider an aggressive intrusion of personal space a case for self-defense (***Not legal advice; know the laws where you live***).
+
+[Either way, it's better to be judged by 12 than carried by 6.](/how-to-be-street-smart/)
+
+With that out of the way, let’s deal with the bullying in the civilized world—emotional and psychological.
