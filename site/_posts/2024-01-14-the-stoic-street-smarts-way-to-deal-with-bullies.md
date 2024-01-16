@@ -48,11 +48,11 @@ The late comedian Patrice O'Neil tells a story about his time in jail, where an 
 1. **It was a test.** While a compliment seems innocent, in jail, complimenting a man like that is a problem. It would be awkward on the outside, but you could ignore it and keep on with your day. However, inside prison, you have to respond to it.&nbsp;<br><br>If you aren't gay but not willing to check a guy feeling you out to see if you are, then you invite more aggressive overtures. If the guy got away with a small compliment, next time, he's gonna grab your butt, and then before you know it, he's trying to force himself on you. This potential situation leads to the second point.
 2. **Other inmates are watching to see how soft you are.** If they know you won't stand up for yourself, then you get marked as an easy target for all types of harassment. It's about sending a message to the perpetrator—or anyone in the vicinity looking for someone to victimize—that you aren't the one to try.&nbsp;<br><br>It's easy to say that this is just prison behavior, but we've got some compelling research that once a person has been marked as a weak victim by their social group, they're more likely to be victimized by others in the group.
 
-In the wake of atrocities of World War II, psychologists wanted to understand how genocide could happen at such a large scale. From this desire to understand the dark nature of humanity, we got:
+In the wake of the atrocities of World War II, psychologists wanted to understand how genocide could happen on such a large scale. From this desire to understand the dark nature of humanity, we got the following lessons:
 
-* Stanley Milgram’s infamous electroshock experiment, which showed how quickly people cave to authority.
-* Philip Zimbardo’s “prison experiment,” which showed how easily people in positions of power can abuse others.
-* Albert Bandura showing that when participants overhear an experimenter call another study subject “an animal,” they’re more likely to give that subject a painful shock.&nbsp;
+* [Stanley Milgram’s infamous electroshock experiment](https://www.simplypsychology.org/milgram.html){: target="_blank" rel="noreferrer nofollow noopener"} showed how quickly people cave to authority.
+* [Philip Zimbardo’s “prison experiment”](https://www.britannica.com/event/Stanford-Prison-Experiment){: target="_blank" rel="noopener noreferrer nofollow"}&nbsp;showed how easily people in positions of power can abuse others.
+* [Albert Bandura showed](https://psychologywriting.com/analysis-of-albert-banduras-arguments/){: target="_blank" rel="noopener noreferrer nofollow"}&nbsp;that when participants overhear an experimenter call another study subject “an animal,” they’re more likely to give that subject a painful shock.&nbsp;
 
 These might seem like a stretch, but I assure you that it's not. The difference between bullying that leads to physical and emotional harrassment and dehumanization that leads to mass genocide is one of degree, not type. There is something in human psychology that, if left unchecked, doesn't come to the rescue of mistreated groups but, instead, joins the side of the aggressor.&nbsp;
 
