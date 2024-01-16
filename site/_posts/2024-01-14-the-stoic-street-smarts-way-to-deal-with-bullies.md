@@ -54,7 +54,7 @@ In the wake of the atrocities of World War II, psychologists wanted to understan
 * [Philip Zimbardo’s “prison experiment”](https://www.britannica.com/event/Stanford-Prison-Experiment){: target="_blank" rel="noopener noreferrer nofollow"}&nbsp;showed how easily people in positions of power can abuse others.
 * [Albert Bandura showed](https://psychologywriting.com/analysis-of-albert-banduras-arguments/){: target="_blank" rel="noopener noreferrer nofollow"}&nbsp;that when participants overhear an experimenter call another study subject “an animal,” they’re more likely to give that subject a painful shock.&nbsp;
 
-These might seem like a stretch, but I assure you that it's not. The difference between bullying that leads to physical and emotional harrassment and dehumanization that leads to mass genocide is one of degree, not type. There is something in human psychology that, if left unchecked, doesn't come to the rescue of mistreated groups but, instead, joins the side of the aggressor.&nbsp;
+The difference between bullying that leads to physical and emotional harassment and dehumanization that leads to mass genocide is one of degree, not type. There is something in human psychology that, if left unchecked, doesn't come to the rescue of mistreated groups but, instead, joins the side of the aggressor.&nbsp;
 
 The lesson here is that you MUST deal with disrespect immediately when someone treats you in a diminishing or disrespectful manner. Otherwise, the disrespectful behavior will gain momentum and escalate. It will also behave like a virus, infecting the minds of those who don't have a strong enough value system to resist the allure of groupthink and mob mentality.
 
