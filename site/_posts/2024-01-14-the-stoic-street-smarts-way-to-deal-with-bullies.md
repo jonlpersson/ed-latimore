@@ -100,6 +100,8 @@ With that out of the way, let’s deal with the bullying in the civilized world�
 
 ## Dealing with emotional bullies
 
+![Emotional bullying](/assets/images/posts/emotional-bullying.webp){: width="800" height="533"}
+
 Non-physical bullying is the most challenging type to deal with. The effects aren't obvious, and most people will tell you to ignore it. However, the hallmark of bullying—the feature that sets it apart from other types of harassment—is that it is prohibitively difficult to escape from.
 
 Running away isn't an option if it's a place you work or the bullying is from family members you live with or have to interact with. Even if you can run away, the internet has become the weapon of choice for harassment.
@@ -119,8 +121,6 @@ For example, “Must be nice” is often said by people who are jealous of your 
 Another typical display of passive-aggressive behavior is "If you say so" during a discussion. Rather than outright disagree with you, this remark is said to push you to respond by diminishing your perspective and opinions.
 
 The good news about passive-aggression, when used as a bullying tactic, is that it's easy to diffuse. If someone in a leadership or power position relative to you uses it, force the person to clarify their meaning. Fortunately, the type of person who has learned to rely on sarcasm and passive aggression as a bullying tactic is usually only passive and rarely aggressive. They fold and fall in line when a little pressure is applied.
-
-![Stoicism dealing with bullies](/assets/images/drafts/stoicism-for-bullying.jpeg){: width="1280" height="720"}
 
 To win against the emotional bully, you must wage a war on two fronts. First, you can not acknowledge their attacks. This tactic doesn't work for physical bullies because you can't ignore someone trying to kick your ass.
 
