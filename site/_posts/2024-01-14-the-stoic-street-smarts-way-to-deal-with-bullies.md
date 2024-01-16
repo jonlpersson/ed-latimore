@@ -2,7 +2,7 @@
 date: 2024-01-14 14:00:00 -0500
 article_type: Article
 title: The Stoic Street Smarts way to deal with bullies
-permalink: /how-to-deal-with-bullies
+permalink: /how-to-deal-with-bullies/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
