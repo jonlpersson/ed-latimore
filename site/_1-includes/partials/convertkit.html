@@ -94,7 +94,7 @@
         <span class="">Subscribe</span>
       </button>
     </div>
-    <p class="text-sm md:text-base">Yes! I want a weekly dose of self-improvement content from Ed.</p>
+    <p class="text-sm md:text-base">{{ include.small_text | default: "Yes! I want a weekly dose of self-improvement content from Ed." }}</p>
   </div>
 </form>
 <script src="https://f.convertkit.com/ckjs/ck.6.js"></script>
