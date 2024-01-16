@@ -12,7 +12,7 @@ image: /assets/images/drafts/bullying-commons.jpeg
 ---
 I reserve my emotional energy for things I can control. As a result, I don’t experience anger very often. However, there is one thing that always bothers me, and I have a hard time ignoring it when I see it—abuses of power and bullying.
 
-By definition, any abuse of power of a form of bully, but it's not only restricted to the domain of power imbalances. Bullying is the repetitive and aggressive behavior that deliberately intends to hurt, intimidate, exclude, or humiliate another person physically or emotionally. The three components of bullying are:
+By definition, any abuse of power is a form of bully, but it's not only restricted to the domain of power imbalances. Bullying is the repetitive and aggressive behavior that deliberately intends to hurt, intimidate, exclude, or humiliate another person physically or emotionally. The three components of bullying are:
 
 * **Power Imbalance.** An actual or perceived unequal power distribution exists between the bully and the target, and this makes it difficult for the target to defend themselves. I had to bite my tongue so hard I could taste blood at two instances of bullying I witnessed in the Army that went beyond training. I have a heart, but discretion is the better part of valor.&nbsp;
 * **Intent to Cause Harm.** The bully acts to physically, emotionally, and/or socially harm the target. They go beyond teasing or horseplay. Everyone joking is cool; everyone trying to take each other's heads off is cool. What's not cool is one person thinks it is a joke, and the other is out for blood.
