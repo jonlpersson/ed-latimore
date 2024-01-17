@@ -7,7 +7,7 @@ hero:
   heading: >-
     Join 36k+ readers learning how to manage risk, build relationships, and face
     reality
-  small_text: Yes! I want a weekly dose of self-improvement content from Ed.
+  small_text: Sign up to master risk, relationships, and reality
   text_markdown: >-
     Join a community of over 35,000 men and women who receive my weekly
     newsletter about mental, physical, emotional, and financial
