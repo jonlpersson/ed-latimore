@@ -52,4 +52,9 @@ page_blocks:
       name: Jon Persson
       context: Owner of cultmethod.com
   - _id: block_logos
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      ![](/assets/images/pages/stoic-street-smarts-chronicle-banner-3.png){:
+      width="940" height="788"}
 ---
