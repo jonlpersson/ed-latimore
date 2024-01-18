@@ -48,10 +48,10 @@ page_blocks:
           always be overcome.
   - _id: block_testimonial
     quote_markdown: >-
-      "Ed's newsletter is the only one I've been subscribed to for over 7 years.
+      Ed's newsletter is the only one I've been subscribed to for over 7 years.
       It's the only one of its kind that doesn't feel formulaic, repetitive, or
       generic. Anyone who wants to improve their thinking and actions should
-      sign up and never look back."&nbsp;
+      sign up and never look back.
     quote_source:
       small_image: /assets/images/pages/jon-persson.jpeg
       name: Jon Persson
