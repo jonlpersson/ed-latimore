@@ -23,6 +23,11 @@ hero:
 
     * A weekly boost of motivation and mental tools to realize your potential
 page_blocks:
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      ![](/assets/images/pages/stoic-street-smarts-chronicle-banner-3.png){:
+      width="940" height="788"}
   - _id: block_benefits
     heading: 'Each weak I send out an newsletter teaching you how to:'
     benefit_items:
@@ -52,9 +57,4 @@ page_blocks:
       name: Jon Persson
       context: Owner of cultmethod.com
   - _id: block_logos
-  - _id: block_rich_text
-    alignment: center
-    text_markdown: >-
-      ![](/assets/images/pages/stoic-street-smarts-chronicle-banner-3.png){:
-      width="940" height="788"}
 ---
