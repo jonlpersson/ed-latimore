@@ -1,6 +1,6 @@
 ---
 permalink: /newsletter/
-image: /assets/images/pages/stoic-street-smarts-chronicle-banner.png
+image: /assets/images/pages/twitter-thumbnail.png
 title: Newsletter
 hero:
   hero_type: email
