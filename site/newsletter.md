@@ -41,7 +41,6 @@ page_blocks:
           You can't fix problems if you're not willing to face them, and life is
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
-  - _id: block_logos
   - _id: block_testimonial
     quote_markdown: >-
       "Ed's newsletter is the only one I've been subscribed to for over 7 years.
@@ -52,4 +51,5 @@ page_blocks:
       small_image: /assets/images/pages/jon-persson.jpeg
       name: Jon Persson
       context: Owner of cultmethod.com
+  - _id: block_logos
 ---
