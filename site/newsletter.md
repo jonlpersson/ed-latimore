@@ -49,7 +49,7 @@ page_blocks:
       generic. Anyone who wants to improve their thinking and actions should
       sign up and never look back."&nbsp;
     quote_source:
-      small_image:
+      small_image: /assets/images/pages/jon-persson.jpeg
       name: Jon Persson
       context: Owner of cultmethod.com
 ---
