@@ -57,4 +57,16 @@ page_blocks:
       name: Jon Persson
       context: Owner of cultmethod.com
   - _id: block_logos
+  - _id: block_testimonial
+    quote_markdown: >-
+      I've been a subscriber to Ed Latimore's newsletter for years and have been
+      an avid reader throughout. In an online world with a lot of the same old
+      boring stuff, his writing makes me think and has given me plenty of
+      "ah-ha's" for my business&nbsp; I highly recommend it!
+    quote_source:
+      small_image: /assets/images/pages/marc-mahwinny.png
+      name: 'Marc Mawhinney '
+      context: >-
+        Host of "Natural Born Coaches" podcast for coaching, sales, and
+        leadership
 ---
