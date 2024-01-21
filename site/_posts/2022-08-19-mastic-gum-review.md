@@ -20,6 +20,8 @@ Having a defined jawline makes you more attractive to women but also makes you a
 
 My favorite way to define my face is with mastic gum. In this review, I’ll walk you through what mastic gum is, where it comes from, and what to expect.
 
+![ed latimore using mastic gum](/assets/images/posts/mastic-gum.jpg "Working on my Jawline with Mastic Gum"){: width="2960" height="2680"}
+
 ## What is mastic gum?
 
 Mastic gum is the crystalized sap produced in the branches and trunk of the mastic tree. Due to underwater volcanic activity of the Mediterranean, the island of Chios, Greece is the only place this tree is able to grow.
@@ -126,6 +128,12 @@ Neck curls are like sit ups except you lift your head instead of engaging your c
 ## Would I recommend mastic gum to define your jawline?
 
 For what it does, I’d definitely recommend mastic gum. But if you’re looking for a sugary treat to chop on when you’re bored, this ain't it. A single tin can last you months when used regularly and is fresh for years. Mastic gum is my go-to now for face-building. And Greco Gum is my go-to brand.
+
+Chewing mastic gum can help define and tone the jawline over time. As you regularly work the jaw muscles by chewing, they strengthen and become more firm. This can lead to a more chiseled, angular jawline appearance. However, genetics and individual variation affect results.
+
+For best effects, combine mastic gum chewing with proper tongue posture techniques like mewing. Setting reminders, following a plan, and using an app like Mewing.coach helps build the routine. While mastic gum alone may not create drastic changes, chewing it regularly tones the jaw muscles and refines the area when combined with other practices.
+
+Be patient, as enhancing the jawline requires consistency over an extended period. But the natural approach of chewing mastic gum offers a safe, accessible way to enhance the lower facial region.
 
 If you’d like to give it a try, use my link for Greco Gum [here](https://grecogum.com/edlatimore/). (I get a small % cut of each sale made through the link, which helps pay my bills)&nbsp;
 
