@@ -56,7 +56,6 @@ page_blocks:
       small_image: /assets/images/pages/jon-persson.jpeg
       name: Jon Persson
       context: Owner of cultmethod.com
-  - _id: block_logos
   - _id: block_testimonial
     quote_markdown: >-
       I've been a subscriber to Ed Latimore's newsletter for years and have been
@@ -69,4 +68,5 @@ page_blocks:
       context: >-
         Host of "Natural Born Coaches" podcast for coaching, sales, and
         leadership
+  - _id: block_logos
 ---
