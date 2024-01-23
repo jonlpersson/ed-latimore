@@ -31,6 +31,8 @@ This post blends my personal experience, general observations, and scientific re
 
 Whether you're single or 20 years into a relationship, there is value here.
 
+![11 years together and a kid](/assets/images/posts/edandannabeforewedding-54-41.jpeg "11 years together and kid around somewhere"){: width="993" height="1657"}
+
 ## Be honest with yourself
 
 > "The first principle is not to fool yourself—and you are the easiest person to fool."
