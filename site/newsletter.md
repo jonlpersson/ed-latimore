@@ -28,24 +28,6 @@ page_blocks:
     text_markdown: >-
       ![](/assets/images/pages/stoic-street-smarts-chronicle-banner-3.png){:
       width="940" height="788"}
-  - _id: block_benefits
-    heading: 'Each weak I send out an newsletter teaching you how to:'
-    benefit_items:
-      - heading: Manage risk
-        text: >-
-          I break down concepts from probability and statistics in a simple way
-          and show you how to use them to make better decisions to get more out
-          of life with less risk bigger upside
-      - heading: Build relationships
-        text: >-
-          People are the most important thing. Learn how to build
-          non-transactional relationships that will pay off WAY more than any
-          quid-por-quo, tit-for-tat, cheesy networking style of interaction.
-      - heading: Face reality
-        text: >-
-          You can't fix problems if you're not willing to face them, and life is
-          one big series of problems. If you never learn to overcome, you'll
-          always be overcome.
   - _id: block_testimonial
     quote_markdown: >-
       Ed's newsletter is the only one I've been subscribed to for over 7 years.
@@ -68,5 +50,23 @@ page_blocks:
       context: >-
         Host of "Natural Born Coaches" podcast for coaching, sales, and
         leadership
+  - _id: block_benefits
+    heading: 'Each weak I send out an newsletter teaching you how to:'
+    benefit_items:
+      - heading: Manage risk
+        text: >-
+          I break down concepts from probability and statistics in a simple way
+          and show you how to use them to make better decisions to get more out
+          of life with less risk bigger upside
+      - heading: Build relationships
+        text: >-
+          People are the most important thing. Learn how to build
+          non-transactional relationships that will pay off WAY more than any
+          quid-por-quo, tit-for-tat, cheesy networking style of interaction.
+      - heading: Face reality
+        text: >-
+          You can't fix problems if you're not willing to face them, and life is
+          one big series of problems. If you never learn to overcome, you'll
+          always be overcome.
   - _id: block_logos
 ---
