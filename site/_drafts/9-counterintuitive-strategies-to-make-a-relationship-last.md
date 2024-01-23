@@ -103,30 +103,22 @@ If you're indifferent about having children, you can be with anyone happily. The
 
 ## Politics are overrated
 
-
-
-*“As Nadia drove her date back home, he revealed he had not voted during the 2016 presidential election because he had not liked either candidate, former President Trump or the Democratic nominee Hillary Clinton.* &nbsp; &nbsp;
-
-*'And I was like, 'I'm never speaking to him again,' she said. 'I almost kicked him out of my car.'"*
+> *“As Nadia drove her date back home, he revealed he had not voted during the 2016 presidential election because he had not liked either candidate, former President Trump or the Democratic nominee Hillary Clinton.* &nbsp; &nbsp;
+>
+> *'And I was like, 'I'm never speaking to him again,' she said. 'I almost kicked him out of my car.'"*
 
 This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/%23the-streisand-effect), and it's lazy.
-
-
 
 While other countries have more political parties to support, The United States has two parties. Most people don't support every policy and stance endorsed by the party, but they have to pick someone.&nbsp;
 
 Typically, a person supports the person who most strongly aligns with the issue they feel the most strongly about and considers the other stuff the collateral damage since there's no way to throw out the bathwater without the baby. Or, in the case of Nadia's date (and many other people), they support no one.
 
-**https://twitter.com/EdLatimore/status/1329836617641627649**
+{% twitter https://twitter.com/EdLatimore/status/1329836617641627649 %}
 
 Regardless of how important your politics are to you, here’s what I’ve found:
 
-* When you first start dating, politics shouldn't come up anyway. You're in the process of getting to know the person and forming a connection. Most importantly, you're having fun. Maybe your idea of having fun is to debate politics, but most people don't consider this a good time. Even if they agree with you.
-*
-* I can hear the rebuttal in my head. But why would I want to form a connection with a liberal/conservative/Trump supporter anyway? It's better to bring it up early and get it out of the way. I'll remind you of what I said at the start of this section—political identification does not equal support of all party stances. Get to know the person's stances on individual issues.
-* After you've been together for some time, assuming you've done the first step correctly, you'll discover that politics by themselves never come up. The notable exception is if you're with someone whose job explicitly involves politics.
-*
-* When you discover a clash in perspective, it's always worth asking yourself, "Is an agreement with me on this issue so important that I'll jeopardize the other parts of my relationship over them?" Or, said differently, "Is this hill worth dying on?"
+* When you first start dating, politics shouldn't come up anyway. You're in the process of getting to know the person and forming a connection. Most importantly, you're having fun. Maybe your idea of having fun is to debate politics, but most people don't consider this a good time. Even if they agree with you.<br><br>I can hear the rebuttal in my head. But why would I want to form a connection with a liberal/conservative/Trump supporter anyway? It's better to bring it up early and get it out of the way. I'll remind you of what I said at the start of this section—political identification does not equal support of all party stances. Get to know the person's stances on individual issues.
+* After you've been together for some time, assuming you've done the first step correctly, you'll discover that politics by themselves never come up. The notable exception is if you're with someone whose job explicitly involves politics.<br>​​​​​<br>When you discover a clash in perspective, it's always worth asking yourself, "Is an agreement with me on this issue so important that I'll jeopardize the other parts of my relationship over them?" Or, said differently, "Is this hill worth dying on?"
 
 I have no idea what's most important to you. Unless your way of earning a living depends on your politics, it's likely not worth ruining a relationship.
 
