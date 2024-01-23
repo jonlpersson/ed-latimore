@@ -69,33 +69,19 @@ As a corollary to this idea, by 3-6 months—assuming there isn’t an acute bet
 
 ## No matter how subtle, disrespect breeds resentment
 
-
-
 Insults are a deal breaker. Insults are different from criticism. Criticism is feedback about something you’ve said or done that was displeasing. An insult is an expression of contempt that crosses the line from critique to verbal abuse.
 
-
-
-Criticism is about something wrong you've done. Insults are to make you feel bad.
-
-Criticism focuses on what you've done. Insults attack who you are.
-
-Criticism tries to prevent future problems. Insults only create future problems.
-
-
+* Criticism is about something wrong you've done. Insults are to make you feel bad.
+* Criticism focuses on what you've done. Insults attack who you are.
+* Criticism tries to prevent future problems. Insults only create future problems.
 
 Hopefully, the difference is clear. Many people use the two synonymously, but they are nothing alike. Giving and receiving criticism is essential for a relationship to last. There is such a thing as being "overly critical," but that's a distinction of degree, not type. Insults, however, can't be tolerated.
 
-
-
 I don't believe in insulting people I'm not in a relationship with, as the sole intent of an insult is to cause harm, and living that way never turns out good for you. I couldn't imagine doing it in a relationship. Verbal abuse is a slippery slope to physical abuse.&nbsp;
-
-
 
 But I want to be clear: insults are verbal abuse, not criticism.&nbsp;
 
-
-
-For people without children, the stance on children needs to be discussed
+## For people without children, the stance on children needs to be discussed
 
 There are only three ways to look at this issue:&nbsp;
 
