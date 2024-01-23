@@ -179,7 +179,9 @@ Instead, you'll have to pick two things that are important to you. Rank them lik
 * **One that is sufficient.** This is a requirement, but you’re willing to take less of it if you get more of the first category.
 * **One that you’re willing to go without.** It most likely won’t be this way, but lower expectations are the secret to happiness.&nbsp;
 
-It's not my place to tell you which one you should prioritize. Every person is different and wants different things in a relationship. However, keep in mind that each configuration has pros and cons. Someone who is beautifully and emotionally grounded might be hard for someone seeking mental stimulation. Or, you might think you want someone stoic, but their inability to relate to your emotional experience of the world makes you feel like you're with a robot.
+It's not my place to tell you which one you should prioritize. Every person is different and wants different things in a relationship. However, keep in mind that each configuration has pros and cons.
+
+Someone who is beautiful and emotionally grounded might be hard for someone seeking mental stimulation. Or, you might think you want someone stoic, but their inability to relate to your emotional experience of the world makes you feel like you're with a robot.
 
 Everything we want, even the good, comes with a trade-off. When determining which traits work best for you, consider the potential downside of each trait. Then, ask yourself which ones you can tolerate and which are a no-go.
 
@@ -204,3 +206,5 @@ Again, we find ourselves quoting Tolstoy again. ‘All happy families are alike.
 All happy relationships can handle disagreement; they respect one another, earn each other's love, identify what matters most, and put the health of the relationship at the top of their priorities.&nbsp;
 
 The rest is up to you.&nbsp;
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
