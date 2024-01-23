@@ -3,7 +3,6 @@ date: 2024-01-22 14:00:00 -0500
 article_type: Article
 title: 9 Counterintuitive Strategies To Make A Relationship Last
 permalink: /how-to-make-a-relationship-last/
-tags:
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
@@ -18,93 +17,57 @@ image: /assets/images/drafts/my-happy-family.jpeg
 ---
 A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
 
-
-
 Every relationship is great when things are going well. Even two toxic, narcissistic drug addicts can look like the perfect image of love and happiness if you catch them at the right time. If you don't know the backstory of someone's relationship, the smiling photos on social media and public loving demeanor could be the eye of the storm in their dysfunctional relationship.
-
-
 
 You can’t judge a relationship based on the good times. Accordingly, one of the biggest mistakes you can make is looking for a relationship based on how good it makes you feel.
 
-
-
 Don’t take this to mean that you shouldn’t be with someone who treats you well and whose company you enjoy. But if you get into a relationship based only on the good times, then you are potentially setting yourself up for a heavy dose of dysfunction.&nbsp;
-
-
 
 Your romantic relationship is second only to the relationship you will have with your children. If you decide not to have children, then this is the person you will spend most of your time with. For that reason alone, it’s important that you don’t mess this up. Notice that I didn’t say it’s important that you “get it right.”
 
-
-
 No one gets it right. Even the happiest relationship has trying moments that inspire you to wonder if you’ve made a mistake. That’s to be expected when you take two people—with different backgrounds, experiences, and perspectives—and attempt to create a lasting union. The point isn’t for relationships to be perfect or even consistently pleasant, but the good should outweigh the bad by a significant margin.
-
-
 
 This post blends my personal experience, general observations, and scientific research about what makes a relationship a fruitful, positive experience. I don’t know if these points will be new or groundbreaking, but they are useful and have served me and others well.
 
-
-
 Whether you're single or 20 years into a relationship, there is value here.
 
+## Be honest with yourself
 
-
-Be honest with yourself
-
-
-
-"The first principle is not to fool yourself—and you are the easiest person to fool."
-
-\-Richard Feynman
-
-
+> "The first principle is not to fool yourself—and you are the easiest person to fool."
+>
+> \-Richard Feynman
 
 No personal problems can't be solved by being honest with yourself. The challenge with self-honesty is that once you acknowledge the truth of a situation, you have only three potential responses:
 
+1. You do something to fix the problem and change the problematic future that will result.
+2. You do nothing, fully aware you're on a self-imposed path to destruction.&nbsp;
+3. You do nothing because you believe things are okay or will change.
 
+Everything starts there. If you aren't honest with yourself about what you want, there you're unlikely to get it. You'll be blown about by the circumstances of life because you don't have a plan.
 
-You do something to fix the problem and change the problematic future that will result.
+If you want to be with someone, admit that to yourself. and do something about it.
 
-You do nothing, fully aware you're on a self-imposed path to destruction.&nbsp;
+If you want to leave a relationship, admit that to yourself and do something about it.
 
-You do nothing because you believe things are okay or will change.
+There is no universally correct path. There is only the path that works best for you and the only way to know that path is to admit to yourself that you need to start walking it.&nbsp;
 
-
-
-
-
-Look for someone that you can disagree with
-
-
+## Look for someone that you can disagree with
 
 If you can find someone with whom you can have a polite, constructive disagreement, you’re 85% there. You don’t need to worry about shared interests and values if you can do this. If you can’t, all the chemistry, compatibility, and shared values in the world can’t save the relationship.
 
-
-
 If you’ve been dating someone for three months and haven’t had an argument, you’ve passed an important test.
-
-
 
 If you’ve been dating someone for a year and haven’t had an argument, you’ve failed an equally important one.
 
-
-
 When you first start dating someone, two individuals are trying to figure out how to exist in unison with one another. Initially, the more prominent elements of your personality are on display. If the most notable aspects of two people's personalities don't interact well, then it won't be a successful union. After all, if you can't be yourself around someone, you won't like them enough to spend serious time around them.
-
-
 
 As you spend more time with someone, their personality will become more exposed. They will become more comfortable around you and show you parts of themself that will likely clash. If you date someone for a year and haven't found a point of distress or disagreement, then at least one person treats the relationship as casual.
 
-
-
 Or the people are lucky. Extremely high levels of compatibility happen, especially from those raised in relatively insular communities and societies who find one another, but you probably aren’t the exception. I’m sorry, but that’s how exceptions work.
-
-
 
 As a corollary to this idea, by 3-6 months—assuming there isn’t an acute betrayal of trust,&nbsp; an irreconcilable skeleton in their closet is revealed, or they sustain an injury that changes their personality—you know if the person is worth pursuing something longer. If you’re with someone for a year and you still don’t know if they’re the one for you, you’re either in denial or a liar.
 
-
-
-No matter how subtle, disrespect breeds resentment
+## No matter how subtle, disrespect breeds resentment
 
 
 
