@@ -81,6 +81,8 @@ I don't believe in insulting people I'm not in a relationship with, as the sole 
 
 But I want to be clear: insults are verbal abuse, not criticism.&nbsp;
 
+{% twitter https://twitter.com/EdLatimore/status/1110121502991630336 %}
+
 ## For people without children, the stance on children needs to be discussed
 
 There are only three ways to look at this issue:&nbsp;
@@ -146,6 +148,10 @@ However, every day won't be a picnic. There will be times when you make each oth
 If there's one thing that can improve any relationship and keep it strong, that's focusing on being more likable. That topic is an entire post itself (read it here), but more couples should focus on being likable to each other.
 
 You'll fall in love by having sex and spending time together. Work on liking one another more, and the magic will never leave.&nbsp;
+
+**Patrice O'Neal has great commentary on this, albeit only from the guys perspective.**
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC92QzlLSndjbkpFbz9zaT1vUTlSZTBEbXNndnYxMHU5IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/vC9KJwcnJEo?si=oQ9Re0Dmsgvv10u9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 ## Romantic love is not unconditional
 
