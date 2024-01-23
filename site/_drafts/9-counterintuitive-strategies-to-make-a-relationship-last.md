@@ -161,9 +161,7 @@ You don't have to know exactly what those conditions were. All you need to under
 
 Take note that I said through "inaction or indolence" and "worse than who you were when you started dating." Life is full of ups and downs. Sometimes, you get laid off, or work becomes so busy that you can't make it to the gym. You might mess up and have too much to drink or lose your temper. Shit happens, and part of a relationship is being there for a person when it does.
 
-That says nothing about the things that happen beyond your control. My wife knows that I like her hair long, and she once asked me if I'd leave if she went through chemotherapy and lost her hair. I couldn't imagine doing such a thing,&nbsp;
-
-as it was no fault of her own. Knowing what I like, it'd be a different story if she decided to lop it all off.&nbsp;
+That says nothing about the things that happen beyond your control. My wife knows that I like her hair long, and she once asked me if I'd leave if she went through chemotherapy and lost her hair. I couldn't imagine doing such a thing, as it was no fault of her own. Knowing what I like, it'd be a different story if she decided to lop it all off.&nbsp;
 
 It's a major problem when a person enters a relationship one day, and then, for no reason, they start regressing. You can't get with someone who plays video games all day and doesn't work out and then get pissed when, three years into the relationship, he would rather play Playstation 5 than take a hike with you.
 
