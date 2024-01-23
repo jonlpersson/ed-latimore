@@ -13,7 +13,7 @@ description: >-
 
 
   Whether you're single or 20 years into a relationship, there is value here.
-image: /assets/images/drafts/my-happy-family.jpeg
+image: /assets/images/drafts/edandannabeforewedding-54-41.jpeg
 ---
 A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
 
