@@ -85,39 +85,23 @@ But I want to be clear: insults are verbal abuse, not criticism.&nbsp;
 
 There are only three ways to look at this issue:&nbsp;
 
-
-
 * Wants children
 * Does not want children
 * Indifferent
 
-
-
 Note that “undecided” is not an option.&nbsp;
-
-
 
 This isn’t because I don’t think some people aren’t sure about having kids. It’s because these are the only three stances in the context of what makes a relationship work.
 
-
-
 While it’d be nice to deal with probabilities, nature has put a time limit on a woman’s ability to reproduce, and sperm quality degrades over time. Given that, from conception to adulthood, a child is at least a 20-year time investment, you don’t have time for “I’m not sure” or “Maybe one day.”
-
-
 
 If you are the person who wants kids, and you're with someone who doesn't—or vice-versa— do not waste time. End the relationship and be clear about why. Please don't waste time hoping they'll change. Life is short, and your window to reproduce is even shorter.&nbsp;
 
-
-
 People who want kids should only date people who want kids. People who don't want kids should only pair up with people who don't want kids. This seems straightforward and obvious, but I've met people who are convinced that a person will change their mind, and after nearly a decade together, they're left confused and angry.
-
-
 
 If you're indifferent about having children, you can be with anyone happily. The only caveat is that if your mind ever changes, you are responsible for letting your significant other know and acting based on their feelings.
 
-
-
-Politics are overrated
+## Politics are overrated
 
 
 
