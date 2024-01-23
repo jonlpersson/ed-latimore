@@ -1,7 +1,7 @@
 ---
 date: 2024-01-22 14:00:00 -0500
 article_type: Article
-title: 9 Counterintuitive Strategies To Make A Relationship Last
+title: 8 Counterintuitive Strategies To Make A Relationship Last
 permalink: /how-to-make-a-relationship-last/
 categories:
   - Stoic-Street-Smarts-Newsletter
@@ -122,175 +122,81 @@ Regardless of how important your politics are to you, here’s what I’ve found
 
 I have no idea what's most important to you. Unless your way of earning a living depends on your politics, it's likely not worth ruining a relationship.
 
-A few years ago, a friend of mine made an astute observation: "No one has a personality anymore. Just political opinions." If the only thing you have to define you is who you vote for, then you have more work to do before being with someone anyway.
+A few years ago, a friend of mine made an astute observation: *"No one has a personality anymore. Just political opinions." If the only thing you have to define you is who you vote for, then you have more work to do before being with someone anyway.*
 
-
-
-The benefit of different politics
-
-
-
-Shared interests and values are overrated. Outside of the fundamental ways you should treat people, there is little need for strongly aligned goals and values. There are a few practical reasons for this.
-
-
-
-A relationship is the union of two people whose whole is greater than the sum of its parts. The only way this happens is a lack of redundancy. A simple example is politics. If you’re both conservative, then all you’ll do is produce a child with conservative values. If that sounds like a favorable outcome, a child who thinks and feels exactly like you understands that this is a disadvantage.&nbsp;
-
-
-
-The optimal path is one where you can think and dissect an argument to keep yourself from falling for propaganda and becoming an N.P.C. If you only hear one perspective for your entire life, you won't be able to think clearly. &nbsp;
-
-
-
-Even if you don't know how to train your children to think and dissect information, mere exposure to people with different opinions will make them better than if they were only exposed to one side of the issue. I assume that you want to rest optimal humans—not one that is a replica of you, flaws and all.
-
-
-
-If children aren't for you, then I write this as if you're interested in being able to think critically and with compassion. The only this is possible is by being exposed to the other perspective. I'm not telling you to seek out people who are fundamentally different from you in religion and politics. I'm just telling you that those things don't matter nearly as much as you think they do regarding relationships.
-
-
-
-Liking each other keeps you together, and love keeps you from falling apart
-
-
+## Liking each other keeps you together, and love keeps you from falling apart
 
 You only need two things to make a relationship last:
-
-
 
 1. You need to like someone enough to enjoy spending time around them when you aren’t having sex.
 2. You need to love someone enough to be okay with the parts of them you dislike.
 
+Liking someone is more important than loving them. Neurochemically speaking, falling in love is no different than doing cocaine. The chemicals released during sex are enough to make someone fall in love with you. Even more surprisingly, you don't even have to like someone to be in love with them.
 
-
-Liking someone is more important than loving them. Neurochemically speaking, falling in love is no different than doing cocaine. The chemicals released during sex are enough to make someone fall in love with you. Even more surprisingly, you don't even have to like someone to be in love with them. You can hate them because of the fear they inspire in you, but neurochemically still be in love with them. Stockholm Syndrome is specifically the feelings of affection that a person develops for their captor or abuser.
-
-
+You can hate them because of the fear they inspire in you, but neurochemically still be in love with them. Stockholm Syndrome is specifically the feelings of affection that a person develops for their captor or abuser.
 
 However, being like is different. No one can force someone to like them. When you like someone, you enjoy spending time with them, regardless of what you do. When you're with someone you like, an eternity feels like it passes instantly, and every instant is eternally fixed in your memory.
 
-
-
 Most people feel like a relationship is a journey from liking someone to loving them. The reality is that you need to both like and love your partner. Think of the interplay of the two feelings as house construction and insurance. Liking each other is how you build a strong foundation, but love is there just in case something comes along to break it down.
-
-
 
 When you like each other, you naturally are motivated to spend time together and continue learning about one another. You can more easily have fun and look forward to each day together. It's hard to get tired of someone you like, and that's the whole idea of a lasting, happy relationship: you have to like each other.
 
-
-
 However, every day won't be a picnic. There will be times when you make each other angry. Mistakes will be made, and misunderstandings will occur. Life changes may put a surprising amount of strain on the relationship. Along with your ability to have a conversation and solve problems, love-inspired devotion and commitment are what keep you together for the long haul when you feel like, in the short term, you'd rather be apart.
-
-
 
 If there's one thing that can improve any relationship and keep it strong, that's focusing on being more likable. That topic is an entire post itself (read it here), but more couples should focus on being likable to each other.
 
-
-
 You'll fall in love by having sex and spending time together. Work on liking one another more, and the magic will never leave.&nbsp;
 
-
-
-Romantic love is not unconditional
-
-
+## Romantic love is not unconditional
 
 Romantic love is not unconditional. If it were, you'd feel the same way for your spouse as the homeless man at the gas station. The fact that you chose to be with them (and them, with you) means that conditions were met.
 
-
-
 You don't have to know exactly what those conditions were. All you need to understand is that becoming a worse version of who you were when you started dating in any area through inaction or indolence is the death of any relationship.
 
-
-
 Take note that I said through "inaction or indolence" and "worse than who you were when you started dating." Life is full of ups and downs. Sometimes, you get laid off, or work becomes so busy that you can't make it to the gym. You might mess up and have too much to drink or lose your temper. Shit happens, and part of a relationship is being there for a person when it does.
-
-
 
 That says nothing about the things that happen beyond your control. My wife knows that I like her hair long, and she once asked me if I'd leave if she went through chemotherapy and lost her hair. I couldn't imagine doing such a thing,&nbsp;
 
 as it was no fault of her own. Knowing what I like, it'd be a different story if she decided to lop it all off.&nbsp;
 
-
-
 It's a major problem when a person enters a relationship one day, and then, for no reason, they start regressing. You can't get with someone who plays video games all day and doesn't work out and then get pissed when, three years into the relationship, he would rather play Playstation 5 than take a hike with you.
-
-
 
 Yes, sometimes people change. However, getting into a relationship based on "hope" and "potential" will make everyone frustrated if neither is fulfilled.&nbsp;
 
-Managing expectations and trade-offs
-
-
+## Managing expectations and trade-offs
 
 Understand that everything is a trade-off. You can have anything. You just can't have everything. It's important to be honest with yourself about traits that are important to you. And let's simplify traits down to something easy to work with but still accurate enough to make useful predictions.
 
-
-
 Physical attraction, emotional stability, functional intelligence. While we'd like to get someone who rates highly for our personal preferences in all categories, it's better to assume that you can't get everything. In the worst-case scenario, you're not disappointed. In the best case, you're pleasantly surprised.&nbsp;
 
-
-
 Instead, you'll have to pick two things that are important to you. Rank them like this:&nbsp;
-
-
 
 * **One that is necessary**. Imagine your ideal partner can only have one trait of those three.&nbsp;
 * **One that is sufficient.** This is a requirement, but you’re willing to take less of it if you get more of the first category.
 * **One that you’re willing to go without.** It most likely won’t be this way, but lower expectations are the secret to happiness.&nbsp;
 
-
-
 It's not my place to tell you which one you should prioritize. Every person is different and wants different things in a relationship. However, keep in mind that each configuration has pros and cons. Someone who is beautifully and emotionally grounded might be hard for someone seeking mental stimulation. Or, you might think you want someone stoic, but their inability to relate to your emotional experience of the world makes you feel like you're with a robot.
-
-
 
 Everything we want, even the good, comes with a trade-off. When determining which traits work best for you, consider the potential downside of each trait. Then, ask yourself which ones you can tolerate and which are a no-go.
 
-
-
 Avoiding big problems is far more important than focusing on big successes. Everyone says you should try to get everything, but that's impossible. No one is going to be optimal in all areas. You will have to give up something, but that's because part of a relationship is growth and development together. On that note, here is one last heuristic to use when deciding what traits you'll prioritize in your search.
 
-Commitment to the relationship over one another
+## Commitment to the relationship over one another
 
-
-
-“Get to know somebody and you learn a lot about em
-
-Won’t be long before you start to doubt em
-
-Tell yourself you’ll be better off without em
-
-Then you go back in the party and make a scene about em”
-
-
-
-\-J. Cole, “G.O.M.D.”
-
-
+> “Get to know somebody and you learn a lot about em<br>Won’t be long before you start to doubt em<br>Tell yourself you’ll be better off without em<br>Then you go back in the party and make a scene about em”
+>
+> \-J. Cole, “G.O.M.D.”
 
 Relationships are emergent systems. That is, two individual lives come together and form a new lifestyle. When you first start dating someone, it's two separate lives learning how to exist in unison with one another. The more time you spend together, the less you become two distinct people.
 
-
-
 I don't mean this to say that you lose your identity or autonomy. Instead, I mean that more of your existence is defined by the role this person plays in your life. Your identity results from the time and energy invested, the trials and tribulations conquered, and the progress and victories celebrated.
-
-
 
 This is why making the relationship the highest priority is important—not one another. If you behave in a way that ensures the relationship remains strong, you will occasionally do things that you'd prefer not to or make sacrifices that you don't want to, but the idea is that you get a partner in life in return. I believe that the best way to guarantee a long, happy, love-filled union is for both people to commit to making the relationship as strong as possible. And to avoid subjectivity, let's define a strong relationship.
 
-
-
 A strong relationship can resist forces that attempt to dissolve or disintegrate it. Many things can weaken or end a relationship. The list would require another post, but you don't need to know all the ways your relationship can be ruined. You only need to understand the ways to keep it strong.
-
-
 
 Again, we find ourselves quoting Tolstoy again. ‘All happy families are alike. All unhappy families are unhappy in their own way.” Substitute “families” with “relationships.”
 
-
-
 All happy relationships can handle disagreement; they respect one another, earn each other's love, identify what matters most, and put the health of the relationship at the top of their priorities.&nbsp;
-
-
 
 The rest is up to you.&nbsp;
