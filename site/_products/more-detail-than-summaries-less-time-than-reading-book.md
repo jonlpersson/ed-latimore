@@ -45,4 +45,9 @@ page_blocks:
       defer="defer"></script><a class="convertkit-button"
       href="https://mind-and-fist.ck.page/products/stoic-book-notes"
       data-commerce="">Buy my product</a></div>
+  - _id: block_benefits
+    heading: List of Stoic Book Notes
+    benefit_items:
+      - heading: '"On Killing" by Lt. Col. Dave Grossman'
+        text:
 ---
