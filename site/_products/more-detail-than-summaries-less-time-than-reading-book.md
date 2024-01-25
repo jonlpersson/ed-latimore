@@ -12,11 +12,11 @@ product_info:
   price: $9/month
 hero:
   hero_type: product
-  image: /assets/images/thumbnails/not-caring.jpg
-  heading: Not Caring What Other People Think is a Superpower
+  image: /assets/images/products/stoic-book-notes-1.png
+  heading: Stoic Book Notes
   text: >-
-    Not caring what people think is a superpower that will allow you to get what
-    you want out of life. This book teaches you how to live this way.
+    Get the main ideas from a book, exactly as it was written in the book,
+    without having to read the book.
 page_blocks:
   - _id: block_rich_text
     alignment: center
