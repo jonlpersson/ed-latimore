@@ -37,4 +37,12 @@ page_blocks:
 
       Stoic Book Notes is the best of both worlds. The passages are not
       categorized. They're listed in the order they appear in the book.
+
+
+      <div class="cms-embed"
+      data-cms-embed="PHNjcmlwdCBzcmM9Imh0dHBzOi8vbWluZC1hbmQtZmlzdC5jay5wYWdlL2NvbW1lcmNlLmpzIiBhc3luYyBkZWZlcj48L3NjcmlwdD4KPGEgY2xhc3M9ImNvbnZlcnRraXQtYnV0dG9uIiBocmVmPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9wcm9kdWN0cy9zdG9pYy1ib29rLW5vdGVzIiBkYXRhLWNvbW1lcmNlPkJ1eSBteSBwcm9kdWN0PC9hPg=="><script
+      src="https://mind-and-fist.ck.page/commerce.js" async=""
+      defer="defer"></script><a class="convertkit-button"
+      href="https://mind-and-fist.ck.page/products/stoic-book-notes"
+      data-commerce="">Buy my product</a></div>
 ---
