@@ -49,5 +49,9 @@ page_blocks:
     heading: List of Stoic Book Notes
     benefit_items:
       - heading: '"On Killing" by Lt. Col. Dave Grossman'
-        text:
+        text: >-
+          "On Killing" examines the psychological costs of war on soldiers asked
+          to kill. He explores the innate human resistance to killing one's own
+          species and how military training overcomes this through conditioning
+          techniques.
 ---
