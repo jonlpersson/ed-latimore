@@ -29,7 +29,6 @@ In this article, you'll learn the principles to practice to change any aspect of
 I know these principles work to make almost anything achievable because I've used them to:
 
 * [Get sober](/how-to-stop-drinking-on-your-own/)
-* [Quit porn](/how-to-quit-porn/)
 * Get in shape
 * [Compete in professional boxing](/boxing-training/)
 * [Get a Bachelor’s degree in Physics](/is-physics-hard-how-to-study-and-learn-basic-physics/)
