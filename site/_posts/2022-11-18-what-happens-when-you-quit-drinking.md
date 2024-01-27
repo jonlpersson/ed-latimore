@@ -46,7 +46,7 @@ Alcohol isn’t like opiates that hijack your neurotransmitters in a matter of w
 
 I never experienced alcohol withdrawal symptoms when I finally quit drinking. Or if I did they weren’t strong enough to notice. I attribute this to the fact that I was mostly a social drunk.
 
-Not feeling strong symptoms doesn’t change the fact that when I finally went sober, I was at my lowest point. Just like the [signs you’ve been watching too much porn](https://edlatimore.com/6-signs-that-youre-definitely-addicted-to-porn/), alcohol consumption starts to slowly diminish your quality of life.
+Not feeling strong symptoms doesn’t change the fact that when I finally went sober, I was at my lowest point. Alcohol consumption starts to slowly diminish your quality of life.
 
 Whether you’ve been addicted for years or just indulged a little too much, quitting alcohol starts with a non-negotiable decision.
 
