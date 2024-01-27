@@ -362,8 +362,6 @@ There are several reasons why you might experience shyness or awkwardness.
 
 If you’re otherwise socially able, but choke up when talking to girls, you probably 1) need more practice and 2) need to stop watching porn.
 
-Seriously. There is no shortage of anecdotal evidence that [habitual porn consumption creates or exacerbates social anxiety in men](https://www.yourbrainonporn.com/rebooting-porn-use-faqs/is-porn-making-my-social-anxiety-confidence-depression-anxiety-ocd-bipolar-worse/). If you struggle with women and watch a lot of porn, the greatest favor you can do yourself right now is [read my article on how to quit porn](/how-to-quit-porn/).
-
 Now, if that’s not you, and you’re still awkward, all you likely need are some pointers here and there (Charisma on Command comes in handy here) and above all else, practice.
 
 ### What not to do (pick-up lines, rehearsed scripts)
