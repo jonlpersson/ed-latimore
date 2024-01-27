@@ -111,7 +111,7 @@ If you're indifferent about having children, you can be with anyone happily. The
 >
 > *'And I was like, 'I'm never speaking to him again,' she said. 'I almost kicked him out of my car.'"*
 
-This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/%23the-streisand-effect), and it's lazy.
+This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/#the-streisand-effect){: target="_blank" rel="noopener"}, and it's lazy.
 
 While other countries have more political parties to support, The United States has two parties. Most people don't support every policy and stance endorsed by the party, but they have to pick someone.&nbsp;
 
