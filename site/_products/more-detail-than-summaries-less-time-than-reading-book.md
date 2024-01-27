@@ -40,11 +40,11 @@ page_blocks:
 
 
       <div class="cms-embed"
-      data-cms-embed="PHNjcmlwdCBzcmM9Imh0dHBzOi8vbWluZC1hbmQtZmlzdC5jay5wYWdlL2NvbW1lcmNlLmpzIiBhc3luYyBkZWZlcj48L3NjcmlwdD4KPGEgY2xhc3M9ImNvbnZlcnRraXQtYnV0dG9uIiBocmVmPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9wcm9kdWN0cy9zdG9pYy1ib29rLW5vdGVzIiBkYXRhLWNvbW1lcmNlPkJ1eSBteSBwcm9kdWN0PC9hPg=="><script
+      data-cms-embed="PHNjcmlwdCBzcmM9Imh0dHBzOi8vbWluZC1hbmQtZmlzdC5jay5wYWdlL2NvbW1lcmNlLmpzIiBhc3luYyBkZWZlcj48L3NjcmlwdD4KPGEgY2xhc3M9ImNvbnZlcnRraXQtYnV0dG9uIiBocmVmPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9wcm9kdWN0cy9zdG9pYy1ib29rLW5vdGVzIiBkYXRhLWNvbW1lcmNlPlN1YnNjcmliZSB0byBTdG9pYyBCb29rIE5vdGVzPC9hPg=="><script
       src="https://mind-and-fist.ck.page/commerce.js" async=""
       defer="defer"></script><a class="convertkit-button"
       href="https://mind-and-fist.ck.page/products/stoic-book-notes"
-      data-commerce="">Buy my product</a></div>
+      data-commerce="">Subscribe to Stoic Book Notes</a></div>
   - _id: block_benefits
     heading: List of Stoic Book Notes
     benefit_items:
