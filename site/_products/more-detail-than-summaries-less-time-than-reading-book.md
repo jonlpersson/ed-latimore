@@ -64,4 +64,14 @@ page_blocks:
           much on being right or wrong, we should think probabilistically,
           embrace uncertainty, and examine our beliefs and opinions as
           hypotheses to be tested.
+      - heading: '"Man''s Search For Meaning" by Viktor Frankl'
+        text: >-
+          Viktor Frankl reflects on his experiences as a prisoner in Nazi
+          concentration camps during World War II. He describes the
+          psychological trauma and suffering inflicted by such extreme
+          dehumanization, as well as his realization that finding purpose and
+          meaning in life sustained those prisoners who managed to survive.
+          Frankl concludes that meaning comes from dedication to a worthy cause
+          or another person, allowing even severely suffering people to find the
+          strength to endure and prevail.
 ---
