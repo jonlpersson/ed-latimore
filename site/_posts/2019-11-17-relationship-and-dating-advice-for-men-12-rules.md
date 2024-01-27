@@ -84,7 +84,7 @@ You, the gamer, exist in a fantasy world where nothing you do matters. As a resu
 
 By the way, this is also the same problem with pornography.
 
-You don't get any feedback from reality in your quest to satisfy your sexual desires. As a result, you aren't forced to become more interesting, get in better shape, or improve yourself in any meaningful way. Not sure if you're addicted to porn or not? Check out if you have any of these [6 signs of addiction](/6-signs-that-youre-definitely-addicted-to-porn/).
+You don't get any feedback from reality in your quest to satisfy your sexual desires. As a result, you aren't forced to become more interesting, get in better shape, or improve yourself in any meaningful way.&nbsp;
 
 Have goals and priorities beyond the digital world. Grow and develop so you have something to offer yourself, the world, and your woman.
 
