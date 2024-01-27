@@ -54,4 +54,14 @@ page_blocks:
           to kill. He explores the innate human resistance to killing one's own
           species and how military training overcomes this through conditioning
           techniques.
+      - heading: '"Thinking in Bets" By Annie Duke'
+        text: >-
+          Professional poker player Annie Duke outlines an approach to
+          decision-making that she has developed through years of competing in
+          high-stakes poker tournaments. Duke argues that in an uncertain world,
+          where luck plays a role, we should view most decisions as bets rather
+          than definitive statements or predictions. Instead of focusing too
+          much on being right or wrong, we should think probabilistically,
+          embrace uncertainty, and examine our beliefs and opinions as
+          hypotheses to be tested.
 ---
