@@ -74,4 +74,13 @@ page_blocks:
           Frankl concludes that meaning comes from dedication to a worthy cause
           or another person, allowing even severely suffering people to find the
           strength to endure and prevail.
+      - heading: '"The Cure For Hate" by Tony McAleer'
+        text: >-
+          Tony McAleer recounts his years spent immersed in the 1980s and 1990s
+          white supremacist movement, which provided an outlet for his rage and
+          need for belonging in the wake of childhood trauma. Though convinced
+          of the righteousness of the racist ideology at the time, his eventual
+          disillusionment and hunger for personal growth led him to not only
+          renounce hate and violence but become an educator and advocate for the
+          disengagement of other extremists. 
 ---
