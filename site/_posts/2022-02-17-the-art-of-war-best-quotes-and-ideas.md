@@ -122,7 +122,7 @@ Sun Tzu combines two pieces of colloquial wisdom in this passage:
 
 When I was a professional boxer, I trained hard for every opponent, regardless of his record. It would be foolish to assume that he was coming to lose just because my opponent had more losses than wins.
 
-***\[Read more about my training routine for [professional boxing matches here](/best-porn-blocker/)\]***
+***\[Read more about my training routine for [professional boxing matches here](/boxing-training/)\]***
 
 By training hard for my opponent, the worst-case scenario is that I would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
 
