@@ -24,7 +24,13 @@ My favorite way to define my face is with mastic gum. In this review, I’ll wal
 
 ## What is mastic gum?
 
-Mastic gum is the crystalized sap produced in the branches and trunk of the mastic tree. Due to underwater volcanic activity of the Mediterranean, the island of Chios, Greece is the only place this tree is able to grow.
+Mastic gum is a gum made from the resin of a particular type of mastic tree. While these trees are located throughout the Mediterranean region, Chios Mastic Gum refers to mastic gum made with trees from the Greek island of Chios, located in the northern Aegean Sea.
+
+This resin, called Chios masthia, is found in the trunk and branches of the mastic tree (*Pistacia lentiscus* L. *var latifolius Coss* or *Pistacia lentiscus var. Chia*). These trees live for about 100 years, and produce 60 to 250 g per tree of Chios mastia.
+
+The process of harvesting the resin is fairly straightforward. It's extracted from the tree and left to dry until it becomes this natural gum-like material. The process is so simple that the gum has been harvested the same way for over 2,500 years.
+
+This is why any supplier of Mastic Gum products will occasionally run out of the product. The raw materials take a little time to extract and produce. Regardless, the process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
 
 I came across mastic gum after the owner of Greco Gum suggested it. I’d expressed interest in passing that I was looking for ways to define and shape my jawline.
 
