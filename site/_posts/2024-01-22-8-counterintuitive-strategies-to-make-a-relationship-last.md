@@ -15,7 +15,7 @@ description: >-
   Whether you're single or 20 years into a relationship, there is value here.
 image: /assets/images/drafts/edandannabeforewedding-54-41.jpeg
 ---
-&nbsp;&nbsp;&nbsp;A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
+A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
 
 Every relationship is great when things are going well. Even two toxic, narcissistic drug addicts can look like the perfect image of love and happiness if you catch them at the right time. If you don't know the backstory of someone's relationship, the smiling photos on social media and public loving demeanor could be the eye of the storm in their dysfunctional relationship.
 
@@ -151,7 +151,7 @@ If there's one thing that can improve any relationship and keep it strong, that'
 
 You'll fall in love by having sex and spending time together. Work on liking one another more, and the magic will never leave.&nbsp;
 
-**Patrice O'Neal has great commentary on this, albeit only from the guys perspective.**
+**Patrice O'Neal has a great commentary on this, albeit only from the guy's perspective.**&nbsp;
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC92QzlLSndjbkpFbz9zaT1vUTlSZTBEbXNndnYxMHU5IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/vC9KJwcnJEo?si=oQ9Re0Dmsgvv10u9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
@@ -209,4 +209,4 @@ All happy relationships can handle disagreement; they respect one another, earn 
 
 The rest is up to you.&nbsp;
 
-{% include widgets/summary.html id="Stoic-Street-Smarts" %}&nbsp;&nbsp;&nbsp;
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
