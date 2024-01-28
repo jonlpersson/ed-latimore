@@ -21,13 +21,34 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      I read every book listed and I'm continually adding to the notes. Rather
+      I read books that center around three themes: risk, relationships, and
+      reality. Or, put differently, I learn how to better navigate this world by
+      understanding:
+
+
+      * Logical fallacies presented to take advantage of my cognitive biases
+
+      * The way people in the world interact, the benefits of those
+      interactions, and how to better facilitate them
+
+      * Harsh truths about the world and how to navigate them without becoming
+      harsh myself
+
+
+      These lessons can be taught with fiction and non-fiction, as well as
+      various news articles and media. The Stoic Book Notes will focus mainly on
+      the books I'm reading, but other sources will be broken down.&nbsp;
+
+
+      I've read every book and will be continually adding to the notes. Rather
       than write a summary, I collected the most impactful, insightful passages
       from the back.
 
 
       Instead of getting the quotes with my sloppy interpretation, I simply pull
-      the quotes and put them here for each book.
+      the quotes and put them here for each book. I will often add my
+      interpretations and lessons to the notes, but you'll primarily be getting
+      the passes from the book directly as the author wrote them.
 
 
       Reading the whole book takes too long, but gives the most information.
