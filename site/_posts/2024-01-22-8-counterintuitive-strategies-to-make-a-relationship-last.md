@@ -45,7 +45,7 @@ No personal problems can't be solved by being honest with yourself. The challeng
 2. You do nothing, fully aware you're on a self-imposed path to destruction.&nbsp;
 3. You do nothing because you believe things are okay or will change.
 
-Everything starts there. If you aren't honest with yourself about what you want, there you're unlikely to get it. You'll be blown about by the circumstances of life because you don't have a plan.
+Everything starts there. If you aren't honest with yourself about what you want, you're unlikely to get it. You'll be blown about by the circumstances of life because you don't have a plan.
 
 If you want to be with someone, admit that to yourself and do something about it.
 
