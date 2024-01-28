@@ -59,6 +59,8 @@ Today, mastic gum is taken as either a power, a capsule, or the old-fashioned wa
 
 Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
 
+[***Get a few tins of Mastic Gum here***](https://grecogum.com/edlatimore/)
+
 ### Mastic Gum defines your jawline
 
 First, the bad news. Despite what you read on sites about the [power of mewing](https://www.verywellhealth.com/what-is-mewing-5087751) to redefine your jawline and make you more attractive, there isn't much you can do to change facial structure. Your facial type and your genetics set your facial structure.
