@@ -47,7 +47,7 @@ No personal problems can't be solved by being honest with yourself. The challeng
 
 Everything starts there. If you aren't honest with yourself about what you want, there you're unlikely to get it. You'll be blown about by the circumstances of life because you don't have a plan.
 
-If you want to be with someone, admit that to yourself. and do something about it.
+If you want to be with someone, admit that to yourself and do something about it.
 
 If you want to leave a relationship, admit that to yourself and do something about it.
 
