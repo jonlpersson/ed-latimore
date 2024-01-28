@@ -18,7 +18,7 @@ The process of harvesting the resin is fairly straightforward. It's extracted fr
 
 This is why any supplier of Mastic Gum products will occasionally run out of the product. The raw materials take a little time to extract and produce. Regardless, the process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
 
-In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system. I wrote about my experiences [chewing mastic gum in this article](/mastic-gum-review/).&nbsp;
+In a nutshell, mastic gum is like a natural chewing gum that's been historically valued for its taste and possible health perks, particularly for the digestive system. I wrote about my experiences chewing mastic gum in this article.&nbsp;
 
 ## Health benefits and effects of chewing mastic gum
 
