@@ -15,7 +15,7 @@ description: >-
   Whether you're single or 20 years into a relationship, there is value here.
 image: /assets/images/drafts/edandannabeforewedding-54-41.jpeg
 ---
-A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
+&nbsp;&nbsp;&nbsp;A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
 
 Every relationship is great when things are going well. Even two toxic, narcissistic drug addicts can look like the perfect image of love and happiness if you catch them at the right time. If you don't know the backstory of someone's relationship, the smiling photos on social media and public loving demeanor could be the eye of the storm in their dysfunctional relationship.
 
@@ -111,7 +111,7 @@ If you're indifferent about having children, you can be with anyone happily. The
 >
 > *'And I was like, 'I'm never speaking to him again,' she said. 'I almost kicked him out of my car.'"*
 
-This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/#the-streisand-effect){: target="_blank" rel="noopener"}, and it's lazy.
+This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/#the-streisand-effect){: target="_blank" rel="noopener"}&nbsp;and lazy.
 
 While other countries have more political parties to support, The United States has two parties. Most people don't support every policy and stance endorsed by the party, but they have to pick someone.&nbsp;
 
@@ -209,4 +209,4 @@ All happy relationships can handle disagreement; they respect one another, earn 
 
 The rest is up to you.&nbsp;
 
-{% include widgets/summary.html id="Stoic-Street-Smarts" %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}&nbsp;&nbsp;&nbsp;
