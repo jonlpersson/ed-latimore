@@ -104,7 +104,7 @@ Mapsin is normally downregulated in breast and prostate cancers, allowing them t
 
 Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells [is worth noting](https://pubmed.ncbi.nlm.nih.gov/16691616/). In addition, [a 2018 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084073/) provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
-### Mastic can help with allergic asthma&nbsp;
+### Mastic gum can help with allergic asthma&nbsp;
 
 Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions.
 
