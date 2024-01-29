@@ -146,8 +146,6 @@ On the other hand, some of my friends kept trying to drag me back into the world
 
 You’re the average of the 5 people you spend the most time with, and there’s nothing wrong with wanting to be around the right ones.
 
-If you're worried that you might have a drinking problem but you still enjoy drinking, I wrote an article detailing when I realized I had a problem. [Read it and see if that sounds like you.](/how-to-know-if-you-have-a-drinking-problem/)
-
 ## Your bank account will be better than ever
 
 Alcohol costs money. Obviously, right?
