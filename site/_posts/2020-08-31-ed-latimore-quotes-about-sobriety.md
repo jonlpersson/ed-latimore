@@ -123,8 +123,6 @@ If you want more from life, a hangover is a waste of time.
 
 Fail because you didn’t work hard enough — not because you got a DUI. Lose friends because you’re an asshole — not a sloppy drunk. Have control over your life — even over the mistakes.
 
-***\[[Learn more about if you have a drinking problem here.](/how-to-know-if-you-have-a-drinking-problem/)\]***
-
 ## Inspirational quotes from "The alcohol detox diet I used to get sober"
 
 The most difficult thing to change isn’t your alcohol consumption, drug abuse, or negative emotions. The hardest thing to change is your mindset, perspective, and habits.
