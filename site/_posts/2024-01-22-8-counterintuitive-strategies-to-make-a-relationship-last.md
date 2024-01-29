@@ -41,7 +41,7 @@ Whether you're single or 20 years into a relationship, there is value here.
 
 There are no personal problems that can't be solved by being honest with yourself. The challenge with self-honesty is that once you acknowledge the truth of a situation, you have only three potential responses:
 
-1. You do something to fix the problem and change the problematic future that will result.
+1. You do something to fix the problem and change the problematic future that would result otherwise.&nbsp;
 2. You do nothing, fully aware you're on a self-imposed path to destruction.&nbsp;
 3. You do nothing because you believe things are okay or will change.
 
