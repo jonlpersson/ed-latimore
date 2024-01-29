@@ -85,7 +85,7 @@ If a man doesn’t have any goals or plans that fit these 5 categories, he will 
 
 In other words, you don’t want to be around a guy who just goes to work, comes home, and plays video games.
 
-This doesn’t mean a guy can’t have hobbies and ways to blow off steam; only that his goals need to extend beyond getting a high score, binging on a new Netflix series, and getting blackout drunk on the weekend. Not to mention getting blackout drunk might be one of the [signs they have a drinking problem](/how-to-know-if-you-have-a-drinking-problem/).
+This doesn’t mean a guy can’t have hobbies and ways to blow off steam; only that his goals need to extend beyond getting a high score, binging on a new Netflix series, and getting blackout drunk on the weekend. Not to mention getting blackout drunk might be one of the signs they have a drinking problem.
 
 This leads nicely into…
 
