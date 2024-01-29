@@ -23,9 +23,9 @@ You can’t judge a relationship based on the good times. Accordingly, one of th
 
 Don’t take this to mean that you shouldn’t be with someone who treats you well and whose company you enjoy. But if you get into a relationship based only on the good times, then you are potentially setting yourself up for a heavy dose of dysfunction.&nbsp;
 
-Your romantic relationship is second only to the relationship you will have with your children. If you decide not to have children, then this is the person you will spend most of your time with. For that reason alone, it’s important that you don’t mess this up. Notice that I didn’t say it’s important that you “get it right.”
+Your romantic relationship is second in significance only to the relationship you will have with your children. If you decide not to have children, then this is the person you will spend most of your time with. For that reason alone, it’s important that you don’t mess this up. Notice that I didn’t say it’s important that you “get it right.”
 
-No one gets it right. Even the happiest relationship has trying moments that inspire you to wonder if you’ve made a mistake. That’s to be expected when you take two people—with different backgrounds, experiences, and perspectives—and attempt to create a lasting union. The point isn’t for relationships to be perfect or even consistently pleasant, but the good should outweigh the bad by a significant margin.
+No one gets it right. Even the happiest relationship has trying moments that make you wonder if you’ve made a mistake. That’s to be expected when you take two people—with different backgrounds, experiences, and perspectives—and attempt to create a lasting union. The point isn’t for relationships to be perfect or even consistently pleasant, but the good should outweigh the bad by a significant margin.
 
 This post blends my personal experience, general observations, and scientific research about what makes a relationship a fruitful, positive experience. I don’t know if these points will be new or groundbreaking, but they are useful and have served me and others well.
 
