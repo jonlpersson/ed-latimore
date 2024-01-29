@@ -18,11 +18,11 @@ I’ve got a fiance I enjoy, a new child, my writing is growing more popular eve
 
 But it wasn’t always like this.
 
-Sometimes, when life is going very well, I think about how terrible of a person I was during my&nbsp;[heavy drinking days](https://edlatimore.com/signs-of-a-high-functioning-alcoholic/){: target="_blank" rel="noopener noreferrer"}. I think about how self-destructive I was and how many people had the displeasure of crossing my path when I was in this self-destructive state.
+Sometimes, when life is going very well, I think about how terrible of a person I was during my heavy drinking days. I think about how self-destructive I was and how many people had the displeasure of crossing my path when I was in this self-destructive state.
 
 {% twitter: https://twitter.com/EdLatimore/status/1330860398774546434 %}
 
-think of all the times I got lucky no one was hurt or that I didn’t wind up dead or in jail.
+I think of all the times I got lucky no one was hurt or that I didn’t wind up dead or in jail.
 
 From the foolishness that was my life until I turned 28, I should at least have a criminal record. However, I stayed ahead of the law of large numbers long enough and stopped tempting fate before it caught up to me.
 
