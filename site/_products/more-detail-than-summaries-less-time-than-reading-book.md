@@ -96,4 +96,15 @@ page_blocks:
           disillusionment and hunger for personal growth led him to not only
           renounce hate and violence but become an educator and advocate for the
           disengagement of other extremists. 
+      - heading: '"The Hagakure" by Yamamoto Tsunetomo'
+        text: >-
+          The Hagakure is a practical and spiritual guide for a samurai, written
+          in the early 18th century by Tsunetomo Yamamoto, a former retainer of
+          Nabeshima Mitsushige, the third ruler of what is now Saga Prefecture.
+          It is a collection of thoughts, anecdotes, and observations intended
+          to orient young samurai on living a meaningful life and how to prepare
+          oneself for death through following the bushido code. Seen as a
+          seminal text on the way of the samurai, The Hagakure emphasizes
+          loyalty, self-discipline, stoicism and simplicity as the virtues that
+          should guide a samurai's conduct.
 ---
