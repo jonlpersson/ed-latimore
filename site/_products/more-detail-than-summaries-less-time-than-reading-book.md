@@ -107,4 +107,15 @@ page_blocks:
           seminal text on the way of the samurai, The Hagakure emphasizes
           loyalty, self-discipline, stoicism and simplicity as the virtues that
           should guide a samurai's conduct.
+      - heading: '"The Book of Five Rings" by Miyamoto Musashi'
+        text: >-
+          The Book of Five Rings is a text on kenjutsu and the martial arts
+          written in the 1600s by the undefeated samurai Miyamoto Musashi, known
+          as the Sword Saint. Musashi advises that by adopting various stances
+          and strategies used in different martial arts, and a state of
+          spiritual calm and strategic acuity, warriors can prevail in combat
+          with a variety of opponents. Divided into the five chapters of Earth,
+          Water, Fire, Wind and Void, the book uses metaphors from nature and
+          Buddhism to impart Musashi's lethal techniques and philosophical
+          attitudes on confronting conflict.
 ---
