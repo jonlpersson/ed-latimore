@@ -10,6 +10,8 @@ categories:
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."
 image: /assets/images/posts/russian-roulette.jpg
 ---
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC90d0pSRTJJcEd3dz9zaT1EdF95by03M2FVanFieTV6IiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/twJRE2IpGww?si=Dt_yo-73aUjqby5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 You deserve to bet on yourself, but no one can make you do it. Either you’re interested in being the master of your own fate or you’re content with living life on the sidelines, waiting for someone to decide when you get to play and when you have to ride the bench.
 
 If you’re part of the former group, then this article will only serve as a brief reminder of all the reasons why you choose to bet on yourself. If you’re still waiting for someone to save you or believe that the government and the kindness in people’s hearts will take care of you, hopefully, this article can get you to make some major changes in your approach to life because I have news for you:
