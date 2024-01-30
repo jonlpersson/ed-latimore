@@ -8,8 +8,8 @@ description: >-
 image: /assets/images/products/stoic-book-notes.png
 product_info:
   button_text: Sign up today
-  button_url: https://mind-and-fist.ck.page/products/stoic-book-notes
-  price: $9/month
+  button_url: https://stoic-book-notes.circle.so/checkout/stoic-book-notes-membership
+  price: $9/month or $90/yearly
 hero:
   hero_type: product
   image: /assets/images/products/stoic-book-notes-1.png
