@@ -212,4 +212,4 @@ The basic idea is simple:
 
 Stop doing stuff that initiates bad luck. Do more of the stuff that generates good luck.
 
-{% insert widgets/summary.html id="Stoic-Street-Smarts" %}
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
