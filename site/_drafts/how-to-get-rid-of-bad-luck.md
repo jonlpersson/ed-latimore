@@ -85,7 +85,7 @@ Here are all the ways lacking sexual discipline can increase the likelihood of y
 
 1. **Sexually transmitted diseases (STDs).** Aside from the embarrassing trip to the clinic and the pharmacy, many STDs are not curable. And the curable ones are becoming more resistant to antibiotics.
 2. **Children you didn’t want.** The only birth control method that’s 100% is abstinence. Every time you fornicate with someone, you take a chance where you might become the exception to the rule. If it’s with someone you don’t know well or when you’re already in a relationship, the next 20 years of your life will be full of bad luck. Even if the child is aborted, that’s an unexpected financial burden, not to mention the potential emotional distress you’ll suffer.
-3. **Scornful wrath**. If you take someone to bed too quickly, you may find yourself in a terrible love triangle. You definitely shouldn't sleep with anyone in a relationship (or outside of your own) because you never know how crazy people can get. I wrote a Twitter thread about this **\[insert thread\]**
+3. **Scornful wrath**. If you take someone to bed too quickly, you may find yourself in a terrible love triangle. You definitely shouldn't sleep with anyone in a relationship (or outside of your own) because you never know how crazy people can get. I wrote a Twitter thread about this&nbsp;<br>{% twitter https://twitter.com/EdLatimore/status/1544855848538759168 %}
 4. **General problems.** You may be dealing with someone with many bad traits that can take an unpredictable toll on your emotional health. Remember, don't spend time with those who make you feel bad because it will lead you to make worse decisions than if you were of a clear and sound mind. Anyone who's ever dealt with stalkers and abusers knows exactly what I'm saying.
 
 Of course, it doesn’t always turn out like this, but this is about giving yourself the best chance to have good things happen to you. Trying to manifest good luck while actively engaging in bad habits is like trying to drive a car with the emergency brake on.
@@ -209,3 +209,5 @@ This is, of course, assuming you pick the right friends. Selecting the right fri
 The basic idea is simple:
 
 Stop doing stuff that initiates bad luck. Do more of the stuff that generates good luck.
+
+{% insert widgets/summary.html id="Stoic-Street-Smarts" %}
