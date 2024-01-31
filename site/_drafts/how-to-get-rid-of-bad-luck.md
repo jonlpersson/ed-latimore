@@ -24,9 +24,9 @@ Dealing with the first misunderstanding is a natural result of dealing with the 
 
 Before I define luck, let me warn you: it will probably differ from whatever’s in Webster’s dictionary. If you’re satisfied with your level of luck, read theirs instead.
 
-***Ed Latimore’s Definition Of Luck:*** Let “n” be an intended or predicted outcome. Let k be any events that occur because of “n.” The unintended n+k order of effects of an action is luck.
+> ***Ed Latimore’s Definition Of Luck:*** Let “n” be an intended or predicted outcome. Let k be any events that occur because of “n.” The unintended n+k order of effects of an action is luck.
 
-
+---
 
 We aim to increase the amount of good luck and decrease the bad we experience. To accomplish this task, we must first understand the difference between the two.&nbsp;
 
@@ -40,7 +40,7 @@ When we start talking about “good” and “bad” luck, it becomes a personal
 
 This idea gives a glimpse into what it takes to have more good luck in our lives, but first, let's talk about decreasing bad luck. We must discuss how to stop being unlucky because filling a bucket is easier once you patch up the leaks. In other words, it doesn't matter how fortunate you are if misfortune wipes it out.
 
-
+---
 
 Luck is the result of the higher-order effects of your actions. It works like this:
 
@@ -48,9 +48,7 @@ You do something, intending to get one outcome. Because your actions don’t exi
 
 The quality of your actions determines the type of luck you’ll experience.
 
-Purposeful, constructive actions create good luck.
-
-Aimless, overly indulgent actions create bad luck.&nbsp;
+Purposeful, constructive actions create good luck.<br>Aimless, overly indulgent actions create bad luck.&nbsp;
 
 Another way to look at this is to say that the directionality of your luck depends on the direction of your first actions. Useful actions create useful ripples. Destructive actions create destructive waves.
 
@@ -96,9 +94,9 @@ You can do it, but you’ll be slower, less efficient, and damage the vehicle ir
 
 Now that we've covered patching the holes, let's start covering how we can fill the bucket.
 
+---
 
-
-**Have a goal**
+## **Have a goal**
 
 Trying to accomplish something makes you more likely to get lucky by at least a factor of ten.
 
@@ -112,7 +110,7 @@ When you take action toward a goal, you automatically do two crucial things to i
 
 When it comes to getting lucky, not doing things that take you off track is just as important as staying on track.
 
-Always be ready to take advantage of opportunities
+## Always be ready to take advantage of opportunities
 
 "Luck is when opportunity meets preparation."
 
@@ -122,7 +120,7 @@ Imagine being a writer, waiting for your big break. You meet an agent who has an
 
 Preparation is a result of dedication to your craft. By constantly improving, you will always be ready for any opportunity.
 
-Change your perspective on hardship
+## Change your perspective on hardship
 
 There is always a way to see hardship as an opportunity.
 
@@ -136,7 +134,7 @@ The beautiful thing about sudden hardship is that it’s often the only way to f
 
 Changing your perspective about the event that appears to be bad luck doesn't turn it into something you'd consider good luck. However, it allows you to see it as an opportunity to fix something that will improve you.&nbsp;
 
-Take more chances
+## Take more chances
 
 If your batting average is .400 in major league baseball, apparently, this is excellent (please forgive me, baseball fans. I don't know the game well at all). This means that if you got up to bat ten times, you'd hit the ball four times.
 
@@ -150,7 +148,7 @@ The luckiest people are always looking for a way to show off what they can do.
 
 Having skills is one thing, but marketing and selling them is another. You must find every way to display who you are and what you can do.
 
-**Help people when it costs little or nothing to do so**
+## Help people when it costs little or nothing to do so
 
 We do things without awareness of how far our actions will reach–in time or space. While we don't know what they will affect, we know there will be reactions.
 
@@ -164,7 +162,7 @@ Helping others makes you luckier and makes you a better person. Seriously, the r
 
 An unintended benefit (the “k” in the “n+k” formula) is that it makes people more likely to help you. It also makes it less likely that they will try to set you back.
 
-Be likable
+## Be likable
 
 No one is saying to be a brown nose, but don't underestimate the power of likability.
 
@@ -174,7 +172,7 @@ When people like you, they want you to like them. My experience has been that no
 
 People are more likely to make exceptions, give you bonus points, or help you succeed despite yourself.
 
-Take advantage of life by using leverage
+## Use leverage
 
 You still have your name when you don't have anything to your name. Make sure it's worth a damn. In some circles, your reputation is the only currency accepted.
 
@@ -184,7 +182,7 @@ If you're only good at one thing, don't worry about it. You'll use this thing to
 
 People never consider this a way to get lucky, but it always pays off. You can take advantage of trade and acquire resources when you're good at something. Employment is nothing more than an exchange of skills or time for money.
 
-Take calculated risks
+## Take calculated risks
 
 The safest path is the surest path. It's the one most people go down, and it's the reason most people, almost by definition, aren't lucky. They do not expose themselves to volatile events, preferring a life with little chance to mess up but little opportunity to excel.
 
@@ -206,7 +204,7 @@ Being likable with the public is important, but your friends require a higher de
 
 This is, of course, assuming you pick the right friends. Selecting the right friends is beyond this article, but know that doing so makes you incredibly lucky. They will come through for you when you need it and least expect it.&nbsp;
 
-
+---
 
 The basic idea is simple:
 
