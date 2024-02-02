@@ -118,4 +118,15 @@ page_blocks:
           Water, Fire, Wind and Void, the book uses metaphors from nature and
           Buddhism to impart Musashi's lethal techniques and philosophical
           attitudes on confronting conflict.
+      - heading: '"Mamba Mentality" by Kobe Bryant'
+        text: >-
+          In his 2018 book "Mamba Mentality," basketball legend Kobe Bryant
+          shares the insights, mental frameworks, and competitive drive that
+          fueled his illustrious 20-year career with the Los Angeles Lakers.
+          Blending personal stories and advice with perspectives on cultivating
+          the "Mamba mentality," Bryant outlines his famously relentless
+          approach to practicing, playing, and achieving at the highest levels.
+          For sports fans and anyone striving for excellence, "Mamba Mentality"
+          offers an inside look at the mindset behind one of basketball's
+          greatest players.
 ---
