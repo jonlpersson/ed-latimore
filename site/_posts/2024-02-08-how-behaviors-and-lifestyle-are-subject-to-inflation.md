@@ -94,3 +94,5 @@ If you find your life lacking in meaning or money, the solution is to take on as
 All paths to life improvement involve increasing the value you can add to the world. The value you add to the world depends on the challenges you've taken on and successfully overcome.
 
 If you're 35 and still struggling with the challenges of a 20-year-old, you'll have the "spending power" of someone who had their spending power reduced by inflation.
+
+{% include widgets/summary.html id="Stoic-Street-Smarts" %}
