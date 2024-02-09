@@ -5,7 +5,10 @@ title: How behaviors and lifestyle are subject to inflation
 permalink: /personal-value-inflation
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
+description: >-
+  If you're 35 and still struggling with the challenges of a 20-year-old, you'll
+  have the "spending power" of someone who had their spending power reduced by
+  inflation.
 image:
 ---
 This edition of Stoic Street Smarts isn't about economy and finance, but I have to start by explaining the idea of inflation. Don't skip this part, even if you know the idea.
