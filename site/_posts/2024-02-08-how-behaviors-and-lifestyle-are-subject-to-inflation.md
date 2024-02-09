@@ -1,7 +1,7 @@
 ---
 date: 2024-02-08 14:00:00 -0500
 article_type: Article
-title: How behaviors and lifestyle are subject to inflation
+title: How human behavior is subject to inflation
 permalink: /personal-value-inflation
 categories:
   - Stoic-Street-Smarts-Newsletter
