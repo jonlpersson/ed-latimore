@@ -68,26 +68,24 @@ For example, when I was 18, the year was 2003. Dial-up internet still existed, w
 
 In this way, the natural inflation that has occurred spreads more opportunity, so even if the same percentage of people take advantage of them, more people are, making the progress seem less impressive.&nbsp;
 
-If you're 35, living in your mother's basement, and barely making minimum wage, you're out of shape and aren't working towards bettering yourself in any meaningful way, the effects of lifestyle inflation have also hit you. Because most people in your age range have attained a level of responsibility and autonomy that you lack, your value is much lower. It's lower because, by this point, your peers will have acquired these things. As their value has grown, so too has what they demand from the people they spend the most time around. Because you're still doing the same things and living the same way as a less valuable person, then you get left behind.
+If you're 35, living in your mother's basement, and barely making minimum wage, you're out of shape and aren't working towards bettering yourself in any meaningful way, the effects of lifestyle inflation have also hit you.
 
+Because most people in your age range have attained a level of responsibility and autonomy that you lack, your value is much lower. It's lower because, by this point, your peers will have acquired these things.
 
+As their value has grown, so too has what they demand from the people they spend the most time around. Because you're still doing the same things and living the same way as a less valuable person, then you get left behind.
 
-Let's define "value" because this is the word that trips people up. By itself, this noun speaks to the exact nature of the usefulness or worth of something. Typically, we understand what is meant by the context. Everyone knows that when I say, "This watch has a lot of value," I'm not speaking of its importance to life any more than when I say, "Air is valuable," I'm not talking about how much it costs.
+## The relationship between value and responsibility
 
+Let's define "value" because this is the word that trips people up. By itself, this noun speaks to the exact nature of the usefulness or worth of something. Typically, we understand what is meant by the context.
 
+Everyone knows that when I say, "This watch has a lot of value," I'm not speaking of its importance to life any more than when I say, "Air is valuable," I'm not talking about how much it costs.
 
 So, going forward, when I use the word "value," I am speaking of utility to society. It's an assessment of your ability to contribute to and survive in the world without resorting to deception, destruction, or relying on another adult.
 
-
-
 Responsibility forces the demand for an increase in utility and value. Young adults have almost no obligations, so they have little value. A surgeon with three children has a lot of responsibility and, thus, a lot of value. The amount of responsibility you have in the world is a proxy for your value.
-
-
-
-
 
 If you find your life lacking in meaning or money, the solution is to take on as much responsibility as you can. Of course, this responsibility should come with the capacity for growth. The idea is to be as non-fungible as possible. The more quickly you can be replaced, the less valuable you are.
 
+All paths to life improvement involve increasing the value you can add to the world. The value you add to the world depends on the challenges you've taken on and successfully overcome.
 
-
-All paths to life improvement involve increasing the value you can add to the world. The value you add to the world depends on the challenges you've taken on and successfully overcome. If you're 35 and still struggling with the challenges of a 20-year-old, you'll have the "spending power" of someone who had their spending power reduced by inflation.
+If you're 35 and still struggling with the challenges of a 20-year-old, you'll have the "spending power" of someone who had their spending power reduced by inflation.
