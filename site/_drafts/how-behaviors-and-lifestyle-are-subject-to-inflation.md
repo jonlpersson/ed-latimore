@@ -37,6 +37,8 @@ How does this relate to your lifestyle and habits?
 
 ## Behavior and lifestyle are subject to inflation
 
+{% twitter https://twitter.com/EdLatimore/status/1319314651612577796 %}
+
 When you’re a teenager, no one expects much out of you. Sure, there are outliers of extreme ability and achievement, but no one looks to a teenager to have their life figured out. Although they are autonomous, they’re still the responsibility of their parents.
 
 By your late 20s, you're expected to have met specific measures of life proficiency. For example, you're not dependent on your parents.
