@@ -10,7 +10,7 @@ description: >-
   metrics are responsible for everything positive in my life, regardless of the
   domain. Furthermore, whenever I've found myself in an adverse or precarious
   situation, the reason is because I was not following these metrics.
-image:
+image: /assets/images/drafts/decisions-framework.jpeg
 ---
 In a podcast interview this week, I was asked what rule or metric I use when making decisions. At first, the question gave me a little trouble, as I couldn't readily identify how—or even if—I thought about making decisions.
 
