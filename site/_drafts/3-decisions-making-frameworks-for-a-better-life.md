@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-02-14 14:00:00 -0500
 article_type: Article
 title: 3 decisions making frameworks for a better life
 permalink: /decisions-making-frameworks/
