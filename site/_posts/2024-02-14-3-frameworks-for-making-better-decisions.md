@@ -124,3 +124,5 @@ When I tutored physics and math, I had my students talk through their [problem-s
 Numerous frameworks, metrics, and rules are out there to help you make better decisions. I'm sure that even the list of frameworks I use when making decisions is incomplete.&nbsp;
 
 With that said, following these frameworks will help you make better decisions in most situations.&nbsp;
+
+\[% include widgets/summary.html id="Stoic-Street-Smarts" %\}
