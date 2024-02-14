@@ -14,7 +14,7 @@ image: /assets/images/drafts/decisions-framework.jpeg
 ---
 In a podcast interview this week, I was asked what rule or metric I use when making decisions. At first, the question gave me a little trouble, as I couldn't readily identify how—or even if—I thought about making decisions.
 
-Then I thought about all the decisions I've made in my life that had a significant positive impact. I consider these events "watershed moments." Watershed moments are critical points of change that cause a major shift in something.
+Then I thought about all the decisions I've made in my life that had a significant positive impact. I consider these events "watershed moments." Watershed moments are critical points of change that cause a major shift in the potential outcome of events.
 
 These were events where I had a choice to make. All but the first choice was made as an adult, and my decision on where to attend high school was mine alone. Among those were:
 
