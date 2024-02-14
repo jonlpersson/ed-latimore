@@ -1,7 +1,7 @@
 ---
 date: 2024-02-14 14:00:00 -0500
 article_type: Article
-title: 3 decisions making frameworks for a better life
+title: 3 frameworks for making better decisions
 permalink: /decisions-making-frameworks/
 categories:
   - Stoic-Street-Smarts-Newsletter
@@ -46,7 +46,7 @@ However, I eventually answered, and that's the subject of today's newsletter. He
 
 All the major decisions from the first category were made by asking myself, “What is the cost of ***not*** doing this?”
 
-In the year 2013, I made a cluster of decisions that completely changed that changed the course of my life: I decided to go back to college, I enlisted in the Army to pay for college, I stopped drinking, and I got serious about my relationship with the girl I was dating (who is now my wife).
+In the year 2013, I made a cluster of decisions that completely changed that changed the course of my life: I decided to go back to college, I enlisted in the Army to pay for college, [I stopped drinking](/sobriety-benefits/), and I got serious about my relationship with the girl I was dating (who is now my wife).
 
 A simple question drove all of these decisions I asked myself one typical night of getting drunk after I got off from the job I hated but needed to pay the rent: “If I keep this up, will I have more or less options in the next five years?”
 
@@ -58,14 +58,18 @@ I also thought about a line from the T.I. song “You ain’t missin nothin’�
 
 The song is about doing time in prison, but that line has always stood out because T.I. captures the essence of opportunity cost, decision-making, and changing your life in two lines.
 
-The time is going to pass, no matter what you do. So, you may as well do *something*. Few people ever make decisions. Instead, they take what's offered, believing they're selecting from options. However, the truth is that they have resigned themselves to the path that causes them the least pain while delivering the greatest reward possible.
+The time is going to pass, no matter what you do. So, you may as well do *something*.
+
+Few people ever make decisions. Instead, they take what's offered, believing they're selecting from options. However, the truth is that they have resigned themselves to the path that causes them the least pain while delivering the greatest reward possible.
 
 The previous statement is not just my subjective opinion. Consider a few statistics:
 
 * Not only has the number of close friends decreased ([source](https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/)), but the average person hasn’t made a new friend in over five years, with many saying their friendships peaked at 23 ([source](https://www.wtsp.com/article/news/study-says-the-average-american-hasnt-made-a-new-friend-in-half-a-decade/67-61e09c92-ab6d-4d82-a505-056604aa76d9)).
 * 41\.9% of Americans are obese ([source](https://www.tfah.org/report-details/state-of-obesity-2023/)). You're considered obese when you have a body mass index greater than 30. Yes, BMI can misreport at the extremes (taller than two standard deviations above the mean or heavy muscle), but that's not most people. To put a 30 BMI into perspective, I'm 6'1"and 220lbs, and I am a former pro athlete with lots of muscle and low-ish body fat, and I still don't break 30 on the BMI.&nbsp;
 
-I chose these two measurements to point out that many people let entropy go unchecked in their lives. Health and relationships are two of the most essential areas in your life, and many people don't do anything to improve them. If people take this attitude towards the non-negotiable aspects of their lives, you can't expect many to do in crucial but optional areas.
+I chose these two measurements to point out that many people let entropy go unchecked in their lives. Health and relationships are two of the most essential areas in your life, and many people don't do anything to improve them.
+
+If people take this attitude towards the non-negotiable aspects of their lives, you can't expect many to do in crucial but optional areas.
 
 I started boxing because I was doing nothing with my life, and I imagined that if I didn't add a new skill, then I'd just be an average loser with nothing but a heavy drinking habit. My pain point at the time—my cost of inaction—was my ego.
 
@@ -81,7 +85,9 @@ In these instances, I imagine the worst-case scenario of each scenario, independ
 
 I once heard this referred to as “choosing your shit sandwich.” Focusing only on the positives of a decision is how you get blindsided when things become difficult or go wrong. No one gives up because everything is moving smoothly without incident.&nbsp;
 
-This thinking is a natural extension of the opportunity cost perspective of events. When you commit to a path of action, you eliminate the possibility of doing something else. It's important to remember that although most decisions allow you to switch paths if you are unsatisfied, switching costs time and energy on two fronts: you waste time invested in the first path, and you're forced to exert activation energy on the new path.
+This thinking is a natural extension of the opportunity cost perspective of events.
+
+When you commit to a path of action, you eliminate the possibility of doing something else. It's important to remember that although most decisions allow you to switch paths if you are unsatisfied, switching costs time and energy on two fronts: you waste time invested in the first path, and you're forced to exert activation energy on the new path.
 
 Therefore, the best solution is to make choices that you can stick with until you receive the payout from everything you invest into them. The best way to guarantee commitment is to imagine what it’s like when things are most miserable. Whichever shit sandwich you can more easily stomach is the path you should go down.
 
@@ -111,7 +117,7 @@ One of the best chess lessons I got was "Always be able to explain why you made 
 
 The idea here is not that you have to explain your actions to anyone. Sure, particular workplace or relationship decisions will require an explanation, but the real benefit is that it forces you to know why you're taking an action. This awareness is often more than enough to improve your decision-making ability.
 
-When I tutored physics and math, I had my students talk through their problem-solving process. It was useless for me to just correct their answers without knowing how they arrived at them. When they talked through their thinking process, they often recognized their mistake while in the middle of solving.
+When I tutored physics and math, I had my students talk through their [problem-solving process](/problem-solving-process/). It was useless for me to just correct their answers without knowing how they arrived at them. When they talked through their thinking process, they often recognized their mistake while in the middle of solving.
 
 ## Closing framework thoughts
 
