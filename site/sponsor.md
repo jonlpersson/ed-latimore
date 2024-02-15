@@ -9,7 +9,7 @@ hero:
 page_blocks:
   - _id: block_rich_text
 ---
-Since 2014, I've built a list of over 36,000 men and women who subscribe to my emails where I teach how to:
+Since 2014, I've built a list of over 37,000 men and women who subscribe to my emails where I teach how to:
 
 * Manage risk
 * Navigate relationships
@@ -27,8 +27,9 @@ And my previous/on-going brand deals and sponsorships with companies like:
 
 Want to sponsor my newsletter? Here are a few details:
 
-* 36,000+ readers
+* 37,000+ readers
 * 38–42% open rate
+* 1-3% click through rate
 * Audience made up of financial service professionals, engineers, active military, business owners, and PhD students/graduates in a variety of STEM fields
 * Sent 2-3x per month
 
