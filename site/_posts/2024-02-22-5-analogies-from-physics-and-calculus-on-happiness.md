@@ -1,8 +1,8 @@
 ---
 date: 2024-02-22 14:00:00 -0500
 article_type: Article
-title: 5 analogies from physics and calculus on happiness
-permalink: /physics-of-happiness/
+title: 5 metaphors from physics and calculus on happiness
+permalink: /physics-metaphors-of-happiness/
 categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
