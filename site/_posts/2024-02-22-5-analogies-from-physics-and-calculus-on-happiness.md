@@ -22,7 +22,7 @@ I knew that if I wanted lasting happiness in my life–not just a quick buzz fro
 
 Through the most difficult situations of my life, I learned [how to control my own level of happiness](/dichotomy-of-control/), regardless of what was happening around me. This newsletter will teach you how to increase your own happiness and live a happier life, despite any setbacks, difficulties, or hardships that you face.
 
-## **A positive perspective helps you see positive things**
+### **A positive perspective helps you see positive things**
 
 The best thing about [studying physics](/is-physics-hard-how-to-study-and-learn-basic-physics/) is that it’s given me a framework to understand everything about the world. It gave me a new way to see the world, grasp subtle nuances about life, and get more out of my short time on this planet.
 
@@ -30,9 +30,9 @@ Making the connection between the external world and my state of mind improved m
 
 Physics helped me understand happiness—not because studying the subject makes me happy (it does, but it has moments that break your self-esteem and make you feel like an idiot), but because it provides interesting analogies for the “secret” to happiness.
 
-There really are no secrets, but thinking in terms of the calculus that drives physics has given me a valuable path and perspective for being happy.
+There are no secrets, but thinking in terms of the calculus that drives physics has given me a valuable path and perspective for being happy.
 
-Here are a few of my favorite analogies from [Physics and Calculus](/how-to-get-better-at-math/) that will increase your life satisfaction and help you figure out what to do when you're having a bad day.
+Here are five of my favorite metaphors from [Physics and Calculus](/how-to-get-better-at-math/) that will increase your life satisfaction and help you figure out what to do when you're having a bad day.
 
 
 
