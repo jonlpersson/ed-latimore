@@ -25,7 +25,7 @@ page_blocks:
       - image: /assets/images/press/ed-latimore-press-photo-6.jpg
   - _id: block_media
     clippings:
-      - quote_markdown: >
+      - quote_markdown: >-
           Depending on luck alone may have worked for a young Ed Latimore, but
           when this writer and former Heavyweight pro boxer learned to bet on
           himself, he found self-respect and the capability to dictate his own
@@ -102,4 +102,8 @@ page_blocks:
           small_image:
           name: David Sherry, *Caffeine*
           link: https://www.caffeine.blog/an-interview-with-ed-latimore/
+      - image: /assets/images/pages/ed-latimore-tsc-podcast-episode-350.jpeg
+        image_alt: Ed Latimore on The Skinny Confidential Podcast
+        image_source:
+          link: https://tscpodcast.com/episodes/360-ed-latimore/
 ---
