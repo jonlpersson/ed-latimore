@@ -96,7 +96,7 @@ page_blocks:
           small_image:
           name: David Sherry, *Caffeine*
           link: https://www.caffeine.blog/an-interview-with-ed-latimore/
-      - image: /assets/images/pages/testing-for-image-size.jpeg
+      - image: /assets/images/pages/testing-for-image-size-1.jpeg
         image_alt: Ed Latimore on The Skinny Confidential Podcast
         image_source:
           link: https://tscpodcast.com/episodes/360-ed-latimore/
