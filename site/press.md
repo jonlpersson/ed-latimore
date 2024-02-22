@@ -88,14 +88,6 @@ page_blocks:
           name: South China Morning Post
           link: >-
             https://www.scmp.com/sport/boxing/article/3051195/how-former-heavyweight-boxer-ed-latimore-found-himself-sobriety-and
-      - quote_markdown: >-
-          Ed's style of communication is direct, and always from a place of
-          'Skin-in-the-game,' meaning he speaks about what he personally has
-          involvement in, and not that which he doesn't.
-        media_source:
-          small_image: /assets/images/pages/slush-pile.webp
-          name: David Sherry, *Caffeine*
-          link: https://www.caffeine.blog/an-interview-with-ed-latimore/
       - image: /assets/images/pages/testing-for-image-size-1.jpeg
         image_alt: Ed Latimore on The Skinny Confidential Podcast
         image_source:
