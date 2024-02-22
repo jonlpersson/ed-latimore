@@ -93,7 +93,7 @@ page_blocks:
           'Skin-in-the-game,' meaning he speaks about what he personally has
           involvement in, and not that which he doesn't.
         media_source:
-          small_image:
+          small_image: /assets/images/pages/slush-pile.webp
           name: David Sherry, *Caffeine*
           link: https://www.caffeine.blog/an-interview-with-ed-latimore/
       - image: /assets/images/pages/testing-for-image-size-1.jpeg
