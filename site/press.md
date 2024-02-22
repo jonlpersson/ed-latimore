@@ -25,6 +25,18 @@ page_blocks:
       - image: /assets/images/press/ed-latimore-press-photo-6.jpg
   - _id: block_media
     clippings:
+      - image: /assets/images/press/james-altucher-show.jpg
+        image_alt: >-
+          The James Altucher Show — Conquering your comfort zone with Ed
+          Latimore
+        image_source:
+          link: https://omny.fm/shows/the-james-altucher-show/645-ed-latimore
+      - image: /assets/images/press/farnam-street-podcast.jpg
+        image_alt: >-
+          Screenshot of Ed's appearance on the Farnam Street Knowledge Project
+          Podcast
+        image_source:
+          link: https://fs.blog/knowledge-project/ed-latimore/
       - quote_markdown: >-
           Depending on luck alone may have worked for a young Ed Latimore, but
           when this writer and former Heavyweight pro boxer learned to bet on
@@ -34,18 +46,6 @@ page_blocks:
           small_image: /assets/images/press/logo-tradecraft.jpg
           name: ConvertKit’s Tradecraft creator stories
           link: https://convertkit.com/creator-stories-ed-latimore
-      - quote_markdown: Upgrade Your Winter Sports Routine With These Athlete-Approved Tips
-        media_source:
-          small_image: /assets/images/featured_logos/maxim-magazine.svg
-          name: Maxim Magazine
-          link: >-
-            https://www.maxim.com/sports/upgrade-winter-sports-routine-with-thc-free-beam-cbd-products
-      - image: /assets/images/press/james-altucher-show.jpg
-        image_alt: >-
-          The James Altucher Show — Conquering your comfort zone with Ed
-          Latimore
-        image_source:
-          link: https://omny.fm/shows/the-james-altucher-show/645-ed-latimore
       - quote_markdown: A man of diverse talents and interests.
         media_source:
           small_image: /assets/images/press/logo-going-deep-aaron-watson.jpg
@@ -58,12 +58,6 @@ page_blocks:
           follows
         image_source:
           link: https://twitter.com/scottadamssays/status/899297572237344768
-      - image: /assets/images/press/farnam-street-podcast.jpg
-        image_alt: >-
-          Screenshot of Ed's appearance on the Farnam Street Knowledge Project
-          Podcast
-        image_source:
-          link: https://fs.blog/knowledge-project/ed-latimore/
       - image: /assets/images/press/eric-mckenna.jpg
         image_alt: Ed Latimore interviewed by Eric McKenna
         image_source:
@@ -102,7 +96,7 @@ page_blocks:
           small_image:
           name: David Sherry, *Caffeine*
           link: https://www.caffeine.blog/an-interview-with-ed-latimore/
-      - image: /assets/images/pages/ed-latimore-tsc-podcast-episode-350.jpeg
+      - image: /assets/images/pages/testing-for-image-size.jpeg
         image_alt: Ed Latimore on The Skinny Confidential Podcast
         image_source:
           link: https://tscpodcast.com/episodes/360-ed-latimore/
