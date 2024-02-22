@@ -88,7 +88,7 @@ page_blocks:
           name: South China Morning Post
           link: >-
             https://www.scmp.com/sport/boxing/article/3051195/how-former-heavyweight-boxer-ed-latimore-found-himself-sobriety-and
-      - image: /assets/images/pages/testing-for-image-size-1.jpeg
+      - image: /assets/images/pages/testing-for-image-size-2.jpeg
         image_alt: Ed Latimore on The Skinny Confidential Podcast
         image_source:
           link: https://tscpodcast.com/episodes/360-ed-latimore/
