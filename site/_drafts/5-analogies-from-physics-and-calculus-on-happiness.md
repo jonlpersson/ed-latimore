@@ -8,7 +8,7 @@ categories:
 description: >-
   I've figured out how to be a happy person despite dealing with setbacks. Learn
   how to increase your happiness or get it back if you've been knocked down.
-image:
+image: /assets/images/drafts/life-integral.jpeg
 ---
 No matter how tight your mental health is, you may fall prey to negative thoughts. Everyone no matter how upbeat and positive they are will find themselves in a situation where they need to figure out how to be happy again.
 
@@ -64,7 +64,7 @@ This fixation makes movement impossible. Without movement, there can be no growt
 
 ***How to use this to make your life happy again:*** I’ve essentially described gratitude. Gratitude is nothing more than the ability to look at the pain in your life and realize that it could be worse. Even if it truly is the worst position in your life, fixating on it not only prevents you from appreciating the past but also from planning your escape in the future.&nbsp;
 
-**Break down big problems into small things**
+## **Break down big problems into small things**
 
 This point will appear to contradict the last, but I assure you that’s not the case.
 
@@ -93,7 +93,7 @@ Either for instruction or love, you’re never lacking in the universe. You are 
 
 Each moment spent in denial of this is a moment of unnecessary misery you inflict on yourself when you argue irrelevant points. You have less time on this planet than you think. Don't waste it arguing
 
-## **Forgiveness and letting go of grudges is the way to be happier**
+## **Forgive and get on with life**
 
 Physics says that only two things are truly impossible:
 
@@ -123,3 +123,5 @@ If you distance yourself from things that make you feel sadness, depression, and
 Getting these will take time, but all that matters is that you let go of the past and start living for the future.
 
 The rest is up to you.
+
+\[% include widgets/summary.html id="Stoic-Street-Smarts" %\}
