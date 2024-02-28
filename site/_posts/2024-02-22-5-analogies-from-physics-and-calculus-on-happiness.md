@@ -34,8 +34,6 @@ There are no secrets, but thinking in terms of the calculus that drives physics 
 
 Here are five of my favorite metaphors from [Physics and Calculus](/how-to-get-better-at-math/) that will increase your life satisfaction and help you figure out what to do when you're having a bad day.
 
-
-
 ---
 
 ## **Understand that happiness is a rate of change**
@@ -52,7 +50,7 @@ A slow change, positive or negative, doesn’t generate much force. The sudden d
 
 ***How to use this to make your life happy again:*** Happiness in life is about constantly changing your position for the better. Improving yourself and conquering past challenges is the surest way to increase happiness. No matter how high you get, there’s always another comfort zone to step out of, another area to develop in, or a new group to reach out to.&nbsp;
 
-## **See how life integrates experience from past to the present moment**
+## **See how life integrates experience from the past to present moment**
 
 Individual moments don’t matter much.
 
