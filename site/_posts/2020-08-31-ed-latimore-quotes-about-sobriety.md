@@ -28,7 +28,7 @@ I've taken these quotes from various pieces of my writing on various platforms. 
 
 I don't claim to be an expert on recovery. I'm just a guy who took things one day at a time and [tries to help others.](/how-to-have-fun-and-socialize-sober/) Getting sober was the best gift I've ever given to myself, so it's my responsibility to give something back to everyone who is struggling.
 
-It doesn't matter how slowly you go. Only that you keep making moves. We don't aim for perfection. Only progress. May these sobriety quotes help you [get up from rock bottom](/how-to-know-if-you-have-a-drinking-problem/) and stay up once you're on your feet.
+It doesn't matter how slowly you go. Only that you keep making moves. We don't aim for perfection. Only progress. May these sobriety quotes help you get up from rock bottom and stay up once you're on your feet.
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
