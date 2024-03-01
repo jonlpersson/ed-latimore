@@ -13,6 +13,7 @@ description: >-
   I hope these help someone struggling with their addiction as well.
 image: /assets/images/thumbnails/ed-smile-pose.jpeg
 ---
+
 Alcohol abuse and sobriety can affect you for the rest of your life, but both for very different reasons. When I decided to get sober, I knew it would be worth it, but I didn't quite know what to expect on my recovery journey. I'm fortunate that it was relatively simple, but I know that's not the case for everyone.
 
 If you're working on getting your life right and [free from the grips of alcohol](/how-to-stop-drinking-on-your-own/) or substance abuse, you will have some tough days. You'll need a quick pick-me-up or reminder of why you're doing this. That's why I put together these inspirational quotes to [get recovering addicts through the tough days.](/sobriety-benefits/)
