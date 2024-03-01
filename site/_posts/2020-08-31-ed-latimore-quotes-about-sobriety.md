@@ -32,7 +32,7 @@ It doesn't matter how slowly you go. Only that you keep making moves. We don't a
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<!--<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9KOWVPYmlxTVBuayIgdGl0bGU9IllvdVR1YmUgdmlkZW8gcGxheWVyIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>-->
 
 ## Sobriety quotes from my Twitter
 
@@ -100,7 +100,7 @@ Liquid courage is temporary. The pictures on the internet of you being a drunk a
 
 The only "negative" side effect of sobriety: You'll be alone with your thoughts and emotions for the first time. This is more terrifying than most imagine.
 
-***\[[For more twitter quotes of mine, follow me here](https://twitter.com/EdLatimore){: target="_blank" rel="noopener noreferrer"}.\]***
+**[For more twitter quotes of mine, follow me here](https://twitter.com/EdLatimore){: target="_blank" rel="noopener noreferrer"}.**
 
 ## Sobriety quotes from "How to know if you have a drinking problem"
 
@@ -182,7 +182,7 @@ While there is a shift in how society is treating and viewing alcohol, it’s bi
 
 Implementing these new habits takes time, but reducing or eliminating your alcohol consumption is worth it. Sobriety is the best gift that I’ve ever given myself.
 
-\[[Read more about how to quit drinking on your own here.](/how-to-stop-drinking-on-your-own/)\]
+[Read more about how to quit drinking on your own here.](/how-to-stop-drinking-on-your-own/)
 
 {% include widgets/summary.html id="Sober-Letters" %}
 
@@ -236,7 +236,7 @@ The less appealing drinking becomes, the less time you want to spend around drun
 
 This is how you become the master of the environment that once enslaved you.
 
-***\[[Read more about having fun without alcohol here.\]](/how-to-have-fun-and-socialize-sober/)***
+**[Read more about having fun without alcohol here.](/how-to-have-fun-and-socialize-sober/)**
 
 ## Addiction recovery quotes from "8 years of sobriety: Observations and lessons"
 
@@ -298,7 +298,7 @@ The single biggest thing I’ve taken away from the past 8 years is that I have 
 
 The only way this advantage would erode is if everyone stopped drinking.
 
-\[[Check out more of my observations on sobriety by reading the entire article here.](/sobriety-benefits/)\]
+[Check out more of my observations on sobriety by reading the entire article here.](/sobriety-benefits/)
 
 ## Sober quotes from Ed Latimore's "Sober Letters To My Drunken Self"
 
