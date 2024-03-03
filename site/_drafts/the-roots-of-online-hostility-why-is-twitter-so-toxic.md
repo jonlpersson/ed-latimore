@@ -66,6 +66,8 @@ People will argue and spit vitriol, not because they disagree with what you said
 
 I’ve argued with people who use graphs and quote stats to make their point, not realizing that the data contradicts their argument. This misunderstanding happens because 91% of Americans don’t have the numerical ability to analyze or interpret a graph.
 
+![most people are bad at math](/assets/images/drafts/91percentstats.jpeg "This is about as bad as the average American only reading at an 8th-grade level."){: width="2216" height="1608"}
+
 ## Social media destroys impulse control
 
 Every time you respond to a notification, you make it easier to respond to notifications. Like all habits, the more you do them, the more likely you are to keep doing them.
