@@ -112,4 +112,6 @@ If I ignore or mute someone, they can still interact with my posts, meaning they
 
 Commenting still feels good to them, even if you never reply. However, a block lets them know that their contribution to the conversation is so minimal that they aren’t allowed to take place in it. If you doubt how powerful this is, remember that being rejected activates the same brain areas as being hit. And that’s what a block is: rejection.
 
-If you follow these steps, you make it effectively impossible to have a bad time on social media because you won’t be pissing p
+If you follow these steps, you make it effectively impossible to have a bad time on social media because you won’t be pissing people off, and you won’t let pissed-off people into your domain.
+
+{% include widgets/summary.html id="Stoic-Street-Smaerts" %}
