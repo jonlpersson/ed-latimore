@@ -24,7 +24,7 @@ Most communication is non-verbal. There is a wide range of variance among the ex
 
 None of these things are present in digital communication. The richness of the analog signal is lost when it’s compressed to a digital medium. And, just to be fair, the same thing happens when we use another form of digital communication—the telephone—albeit with much less distortion or degradation of the signal.
 
-The message is more preserved because other non-verbal elements—voice tone and tempo—are preserved. But digital communication via writing loses almost everything—‚except the words.
+The message is more preserved because other non-verbal elements—voice tone and tempo—are preserved. But digital communication via writing loses almost everything—except the words.
 
 This phenomenon is why it’s important to develop your writing ability. The ability to communicate in person is still supremely important, but everyone—from young children to senior citizens—primarily communicates online. Making mistakes is easy if you aren’t clear with your words.
 
@@ -33,6 +33,8 @@ There’s no reference point for anything said except for what is said. The pers
 The absence of additional information is how someone can read “Don’t take no for an answer” and respond completely seriously, “You must be a rape apologist.”
 
 I used to think a person was intentionally being an asshole, but now I believe that they’re just filtering my words through their experience. You can’t assume people will be rational because they don’t know what you mean. Even with the most clearly written post, vital information for understanding is still missing.
+
+{% twitter https://twitter.com/EdLatimore/status/1214240501316108288 %}
 
 ## Social media conversations are used to social signal
 
