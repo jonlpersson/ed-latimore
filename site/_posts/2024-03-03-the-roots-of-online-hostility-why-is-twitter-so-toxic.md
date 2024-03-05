@@ -26,7 +26,7 @@ None of these things are present in digital communication. The richness of the a
 
 The message is more preserved because other non-verbal elements—voice tone and tempo—are preserved. But digital communication via writing loses almost everything—except the words.
 
-This phenomenon is why it’s important to develop your writing ability. The ability to communicate in person is still supremely important, but everyone—from young children to senior citizens—primarily communicates online. Making mistakes is easy if you aren’t clear with your words.
+This phenomenon is why it’s important to develop your writing ability. While the ability to communicate in person is still supremely important, everyone—from young children to senior citizens—primarily communicates online. Making mistakes is easy if you aren’t clear with your words.&nbsp;
 
 There’s no reference point for anything said except for what is said. The person reading it will interpret it based on their context and experience because they have nothing else to code the message with.
 
