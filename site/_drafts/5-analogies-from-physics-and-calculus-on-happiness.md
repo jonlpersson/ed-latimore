@@ -34,8 +34,6 @@ There really are no secrets, but thinking in terms of the calculus that drives p
 
 Here are a few of my favorite analogies from Physics and Calculus that will increase your life satisfaction and help you figure out what to do when you're having a bad day.
 
-
-
 ---
 
 ## **Understand that happiness is a rate of change**
@@ -50,7 +48,7 @@ The change in your life position is responsible for your mood, while the acceler
 
 A slow change, positive or negative, doesn’t generate much force. The sudden death of a romantic partner or winning a massive lottery jackpot will quickly and drastically alter your mind.
 
-***How to use this to make your life happy again:*** Happiness in life is about constantly changing your position for the better. Improving yourself and conquering past challenges is the surest way to increase happiness. No matter how high you get, there’s always another comfort zone to step out of, another area to develop in, or a new group to reach out to.&nbsp;
+***How to use this to make your life happy again:*** Happiness in life is about constantly changing your position for the better. Improving yourself and conquering past challenges is the surest way to increase happiness. No matter how high you get, there’s always another comfort zone to step out of, another area to develop in, or a new group to reach out to.
 
 **See how life integrates experience from past to the present moment**
 
@@ -62,7 +60,7 @@ If you take a singular experience–whether in or out of context–you won’t b
 
 This fixation makes movement impossible. Without movement, there can be no growth. Without growth, there can be no happiness
 
-***How to use this to make your life happy again:*** I’ve essentially described gratitude. Gratitude is nothing more than the ability to look at the pain in your life and realize that it could be worse. Even if it truly is the worst position in your life, fixating on it not only prevents you from appreciating the past but also from planning your escape in the future.&nbsp;
+***How to use this to make your life happy again:*** I’ve essentially described gratitude. Gratitude is nothing more than the ability to look at the pain in your life and realize that it could be worse. Even if it truly is the worst position in your life, fixating on it not only prevents you from appreciating the past but also from planning your escape in the future.
 
 ## **Break down big problems into small things**
 
