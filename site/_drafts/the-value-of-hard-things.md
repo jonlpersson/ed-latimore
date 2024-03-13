@@ -8,3 +8,8 @@ categories:
 description:
 image: /assets/images/drafts/ed-latimore-lifting-weights.jpg
 ---
+Today’s newsletter was inspired by the following post on FB.
+
+![Post about hedonism](/assets/images/drafts/hedonistpost.jpeg "Post about hedonism")
+
+&nbsp;

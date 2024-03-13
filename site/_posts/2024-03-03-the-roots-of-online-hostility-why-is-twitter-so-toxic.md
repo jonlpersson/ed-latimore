@@ -26,7 +26,7 @@ None of these things are present in digital communication. The richness of the a
 
 The message is more preserved because other non-verbal elements—voice tone and tempo—are preserved. But digital communication via writing loses almost everything—except the words.
 
-This phenomenon is why it’s important to develop your writing ability. While the ability to communicate in person is still supremely important, everyone—from young children to senior citizens—primarily communicates online. Making mistakes is easy if you aren’t clear with your words.&nbsp;
+This phenomenon is why it’s important to develop your writing ability. While the ability to communicate in person is still supremely important, everyone—from young children to senior citizens—primarily communicates online. Making mistakes is easy if you aren’t clear with your words.
 
 There’s no reference point for anything said except for what is said. The person reading it will interpret it based on their context and experience because they have nothing else to code the message with.
 
@@ -64,7 +64,7 @@ People fill in the blanks where they don’t understand
 
 Rather than ask for clarity, people tend to fill in the blanks and react based on how they interpreted what was said instead of asking what was meant.
 
-People will argue and spit vitriol, not because they disagree with what you said but because they disagree with what they&nbsp;*think*&nbsp;you said—even after you correct them.
+People will argue and spit vitriol, not because they disagree with what you said but because they disagree with what they *think* you said—even after you correct them.
 
 I’ve argued with people who use graphs and quote stats to make their point, not realizing that the data contradicts their argument. This misunderstanding happens because 91% of Americans don’t have the numerical ability to analyze or interpret a graph.
 
