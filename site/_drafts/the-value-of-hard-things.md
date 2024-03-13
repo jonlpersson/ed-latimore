@@ -82,3 +82,41 @@ These inventions were all made a few decades before the computer, high-speed wir
 Most of our time on this planet has been misery. It was cold, challenging, and full of death. To put this reality into perspective, just 200 years ago, the child mortality rate (deaths for age &lt; 5) in the United States was 46%. That's almost a coin flip.
 
 ![Child mortality rates](/assets/images/drafts/child-mortality-rates.png "Child mortality rates")
+
+These were not happy times, but this was the state of things. We've eradicated so many hardships in the world that this number stands at less than 1%—and has been for almost 100 years.
+
+Life is hard, and modern technology has made many people believe it shouldn't be. This line of reasoning is problematic.
+
+I'm not arguing that society should return to a time when survival was a full-time job and half of your children perished. I'm only reminding you that humans evolved to deal with harsh circumstances. Now that we've removed many of them, we've become weak and entitled, and perhaps worst of all, we've invented problems where there are none.
+
+---
+
+***"Did you know that the first Matrix was designed to be a perfect human world? Where none suffered, where everyone would be happy. It was a disaster. No one would accept the program. Entire crops were lost. Some believed we lacked the programming language to describe your perfect world. But I believe that, as a species, human beings define their reality through suffering and misery. The perfect world was a dream that your primitive cerebrum kept trying to wake up from."***
+
+**\-Agent Smith, "The Matrix" (1999)**
+
+The Epidemic of Absence also makes an interesting point about our immune system. The author proposes that our immune system evolved in a much dirtier world. Most of human existence lacked antibiotics, vaccines, refrigeration, pasteurization, antiseptics, or even knowledge of germs. Yet, we manage to survive and replicate—at least 46% of us, anyway.
+
+Now that the world is incredibly clean and sanitized, the immune system has nothing to do. So, instead of tamping down, it starts to attack all sorts of innocuous—or necessary—things. Food allergies and autoimmune conditions make the list. And surely, to support his argument, the author shows that as a country's GDP increases (leading to a high quality of life), so does its incidence of allergies and autoimmunity issues.
+
+Just as our immune system rejects this perfect world, so does our psyche. Objectively speaking, in any metric of quality of life (material living conditions, leisure and social interactions, economic security and safety, governance and basic rights, natural and living environment), this is the best time in history to be alive—and it's not even debatable for most of the world (especially anyone capable of reading this essay).
+
+Now, we manufacture crises because we need something to fight against. We come back to the problem of avoiding bad experiences. Our psyche doesn't do any better in utopia than our bodies do without exercise.
+
+Developing a "thick skin" is a metaphorical way of describing becoming more resilient, mentally tough, and less sensitive to criticism, rejection, or adversity. It's about maintaining composure, self-confidence, and emotional stability in facing challenges or negative feedback.
+
+Thick skin is necessary if you want to survive in the world. Even in this modern landscape, with all our conveniences, humans are still human. People will hurt you, embarrass you, and sometimes simply ignore you. You can't legislate away the darkness of human behavior.
+
+You can't build "safe spaces" to protect yourself from "microaggressions." How you feel about the world does not change the fundamentals of human nature. You either learn to deal with life, or life deals with you.
+
+Now, at this point, I have to make something clear. I'm not advocating for abuse, mistreatment, bullying, or any mistreatment toward one another. I'm a peace and love type of guy, but I can be a peace and love type of guy because I don't expect everyone to be peaceful and loving.
+
+When Roosevelt said to "walk softly and carry a big stick," he was talking about international diplomacy, but the point also holds on a local personal level.
+
+In other words, you need to be capable. Being capable means standing up for yourself and learning to control your emotions. To do this, you need to do hard things.
+
+The beauty of doing hard things is that they typically kick your ass and drag your ego through the mud. But in suffering a setback, you become more rigid and more resilient. The moment you make your priority finding the easiest, most pleasurable way to make it through any situation, you have lost battle twice.
+
+The first loss is immediate when you forfeit an opportunity to get strong. This loss will feel like a victory because you won't suffer. The second loss you'll suffer is the next time you face a similar (if not identical) situation.
+
+You'll be weaker and on your back foot, meaning that even if the problem has stayed at the same level, it's effectively gotten stronger because you have now lost the initiative—and you've conditioned yourself to avoid it.
