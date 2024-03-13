@@ -5,7 +5,10 @@ title: The value of hard things
 permalink: /why-do-hard-things/
 categories:
   - Stoic-Street-Smarts-Newsletter
-description:
+description: >-
+  Suffering a setback makes you more rigid and resilient. The moment you make
+  finding the easiest, most pleasurable way to get through any situation your
+  priority, you have lost battle twice.
 image: /assets/images/drafts/ed-latimore-lifting-weights.jpg
 ---
 Today’s newsletter was inspired by the following post on FB.
