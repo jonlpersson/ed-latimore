@@ -1,5 +1,5 @@
 ---
-date: 2024-03-07 14:00:00 -0500
+date: 2024-03-14 14:00:00 -0400
 article_type: Article
 title: The value of hard things
 permalink: /why-do-hard-things/
