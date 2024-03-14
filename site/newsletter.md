@@ -69,4 +69,10 @@ page_blocks:
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
   - _id: block_logos
+  - _id: block_testimonial
+    quote_markdown: It's a killer newsletter!
+    quote_source:
+      small_image: /assets/images/pages/nathan-barry.jpeg
+      name: Nathan Barry
+      context: CEO of Convertkit
 ---
