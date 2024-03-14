@@ -15,7 +15,7 @@ Today’s newsletter was inspired by the following post on FB.
 
 ![Post about hedonism](/assets/images/drafts/hedonistpost.jpeg "Post about hedonism")
 
-&nbsp;When this came across my timeline, I immediately responded:
+When this came across my timeline, I immediately responded:
 
 ***"This is why 43% of Americans are obese, and all the top causes of death are metabolic syndromes. And most can't cover a $1000 emergency. And the stats on antidepressant use…"***
 
@@ -25,9 +25,9 @@ This response rilled some people up, but here is a hill I will die on:
 
 The word "antifragile" was coined by Nicolas Taleb to describe systems that improve after disruption. The basic idea is that there are three levels of stress response:
 
-* **Fragile.**&nbsp;The system breaks under stress. A glass is fragile because it easily breaks when you drop it.
-* **Robust.**&nbsp;The system resists stress. A plastic cup is robust because, while it's possible to break it, it will take a lot more than hitting the ground.
-* **Antifragile.**&nbsp;The system comes back strong after being stressed. Bones come back strong after being exposed to stress.
+* **Fragile.** The system breaks under stress. A glass is fragile because it easily breaks when you drop it.
+* **Robust.** The system resists stress. A plastic cup is robust because, while it's possible to break it, it will take a lot more than hitting the ground.
+* **Antifragile.** The system comes back strong after being stressed. Bones come back strong after being exposed to stress.
 
 Yes, it's possible to break a bone. Bones break all the time. However, an appropriate amount of force applied to a bone beneath its breakpoint will cause the bones to adapt and better resist stress in the future.
 
