@@ -73,7 +73,6 @@ Actively listening strengthens your relationships and makes you more trustworthy
 Often, women need to talk through things to come to their own resolutions. When you try to fix everything, you not only impede this process, you guarantee that…
 
 1. You’ll end up in a perpetual loop of putting out imaginary fires and/or…
-
 2. You demonstrate a lack of caring and listening, which causes perpetual arguments
 
 Your ability to listen helps those seeking your advice to trust you more. If you’re completely clueless about when it’s time to offer a solution, ask what the intention of a conversation is upfront.
@@ -123,6 +122,8 @@ Beware, anyone who starts a sentence with “I’m not the type of person who…
 Integrity with the world creates loyalty. Integrity with yourself creates momentum.
 
 Do what you say you’re going to do. Be who you say you are.
+
+{% include widgets/summary.html id="Coaching-Call" %}
 
 ## Avoid one-itis
 
