@@ -86,9 +86,11 @@ Most people are uninteresting. Happy hour, binging Netflix, and complaining abou
 
 You might distract a man long enough with sex but if sex is the only gear you have, it can be downright off putting.
 
-In *[The Art of Seduction](https://www.amazon.com/Art-Seduction-Robert-Greene/dp/0142001198)*, Robert Greene uses influential women from history to show how attractive women lose influence as they get older when they don’t have other interesting traits or skills. In short, you need to have a personality if you hope to get into a lasting relationship.
+In [*The Art of Seduction*](https://www.amazon.com/Art-Seduction-Robert-Greene/dp/0142001198), Robert Greene uses influential women from history to show how attractive women lose influence as they get older when they don’t have other interesting traits or skills. In short, you need to have a personality if you hope to get into a lasting relationship.
 
 If you’re in a cycle of first dates or short relationships, (and you’re choosing the right men) it may be valuable to get a hobby. Read [how to make yourself more likable](https://edlatimore.com/how-to-be-likeable/) for more tips on being a person other people love being around.
+
+{% include widgets/summary.html id="Coaching-Call" %}
 
 ## 6\. Avoid the dating red flags
 
@@ -98,7 +100,7 @@ Anyone can end up in any of these situations once. Multiple times is a sign that
 
 The number of men you have been with is also a red flag. This is more because of what it does to you rather than some arbitrary rule about chastity. Studies show that for women, the more sexual partners you’ve had, the harder it is for you to bond with a new man.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> So you end up in a cycle of meaningless, serial relationships.
 
-I asked a prominent female matchmaker and dating coach to weigh in on what a high-value woman looks like. You can read her article here: *[9 traits of high-value women](https://edlatimore.com/how-to-be-a-high-value-woman/).*
+I asked a prominent female matchmaker and dating coach to weigh in on what a high-value woman looks like. You can read her article here: [*9 traits of high-value women*](https://edlatimore.com/how-to-be-a-high-value-woman/)*.*
 
 ## 7\. Have standards
 
