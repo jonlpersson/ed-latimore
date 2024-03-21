@@ -104,7 +104,7 @@ Consider this study in which 40 men who were from androgenic alopecia were treat
 
 This combination of treatments has made a big difference in my life. Especially in post-fue maintenance. When I got my transplant, this hair loss treatment wasn't available but if it was, perhaps I would have preserved my hair longer.
 
-***\[Read about my FUE transplant here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]***
+***\[Read about my FUE transplant here—&gt;***[***My experience getting an FUE hair transplant***](/my-personal-experience-getting-an-fue-hair-transplant/)***\]***
 
 Either way, now I have a look to maintain (and hopefully enhance), and this 2-in-1 spray gives me the best of both worlds because it works by only affecting the scalp, without any system effects.
 
@@ -141,6 +141,8 @@ The side effects are localized to the application site.
 Most of these side effects are also caused because of one of the inactive ingredients in the combination topical solution, propylene glycol. These symptoms usually go away within several days. Other possible side effects include headache, nausea, and rash. Those are also short and hardly severe.
 
 Generally speaking, topical finasteride & minoxidil spray is well tolerated and has a safety profile that's nearly identical to the placebo.&nbsp;
+
+{% include widgets/summary.html id="Coaching-Call" %}
 
 ## Do minoxidil+topical finasteride formulations work for female pattern hair loss?
 
