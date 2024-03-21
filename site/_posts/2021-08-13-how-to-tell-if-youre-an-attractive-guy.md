@@ -97,6 +97,8 @@ You’re more likely to be attractive if you have a growth mindset. [Optimists a
 
 People with fixed mindsets live in scarcity, which brings me to my next point.
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## 5\. You've taken the Red Pill
 
 What is the Red Pill?
