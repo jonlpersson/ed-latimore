@@ -91,6 +91,8 @@ Recognizing that you have this disappointment and dealing with it appropriately 
 
 Luckily, I’ve made many mistakes with women so you don't have to. Fear of rejection is something all men have to face. Read how I recommend facing this fear and meeting women [here](https://edlatimore.com/how-to-meet-women/).
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## Focus on yourself
 
 Bettering yourself is always something you can control. When you develop great habits and build your mind, body, and skillset, you become a man women chase after.
