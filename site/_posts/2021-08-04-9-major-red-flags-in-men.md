@@ -105,6 +105,8 @@ It’s one thing if a person occasionally enjoys a smoke. It’s a different sto
 
 I happen to be sober, but my life was nothing worthwhile when I was abusing alcohol. In fact, I exhibited many of the red flags listed here. Having a few drinks occasionally is not a problem. Getting blackout drunk constantly around people is a big deal and you need to limit your time around—or outright get rid of—this person. And yes, it's possible to have fun and socialize sober, more on how to do that [here](https://edlatimore.com/how-to-have-fun-and-socialize-sober/).
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## No savings and/or excessive non-education debt
 
 This isn’t a big deal for your male friends.
@@ -177,9 +179,9 @@ Generally speaking, avoid men who use any words ending in “ist” or “ism”
 
 I’ll elaborate.
 
-There is nothing wrong with believing that everyone deserves the same opportunities and equal treatment under the law. But if you’re a man who feels the need to make one of his defining traits that he’s championing for women's rights ([and women already have the same rights as men and by many metrics, are ahead of men](https://www.parentmap.com/article/boys-left-behind){: target="_blank" rel="noopener noreferrer"}), then this man has an ulterior motive.
+There is nothing wrong with believing that everyone deserves the same opportunities and equal treatment under the law. But if you’re a man who feels the need to make one of his defining traits that he’s championing for women's rights ([and women already have the same rights as men and by many metrics, are ahead of men](https://www.parentmap.com/article/boys-left-behind){: target="_blank" rel="noreferrer noopener"}), then this man has an ulterior motive.
 
-Very often, [these men are predators and abusers of women themselves](https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse){: target="_blank" rel="noopener noreferrer"}. Ultimately, it’s just a trick to ingratiate themselves with women without doing the work of becoming a more attractive man.
+Very often, [these men are predators and abusers of women themselves](https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse){: target="_blank" rel="noreferrer noopener"}. Ultimately, it’s just a trick to ingratiate themselves with women without doing the work of becoming a more attractive man.
 
 ## Summary of 10 major red flags in men
 
