@@ -109,6 +109,8 @@ Something as fundamental as not knowing yourself can make you self-conscious.
 
 Write down your ideal vision of yourself. Put up images of how a confident man would dress. Come up with characteristics that you relate to and want to live by: courageous, confidence, patience, empathetic, hardworking, etc.
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## 6\. Be someone girls (and people) want to talk to
 
 Most girls are raised to be weary of men they don't know. And attractive girls are used to being approached. So if you’re going to talk to them, you’ve got to know the animal you’re dealing with.
