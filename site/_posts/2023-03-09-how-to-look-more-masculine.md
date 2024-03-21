@@ -80,6 +80,8 @@ My article on the[9 traits you need to be a man](https://edlatimore.com/how-to-b
 * You take responsibility for your actions, your life, and everything in between even if its not your fault.
 * You have a purpose and usefulness to your community
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## Final thoughts on how to look more masculine
 
 Looking more masculine is about more than just building muscle or dressing in a certain way. It's about cultivating a certainty about who you are and how you show up in the world. A great mindset is not vital for a masculine appearance but when you develop it on the inside, you exude alpha male energy more naturally.
