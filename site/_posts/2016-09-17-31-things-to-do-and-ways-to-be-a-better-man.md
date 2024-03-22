@@ -14,7 +14,7 @@ description: >-
 ---
 The premise of this article is simple. I wrote it when I had just turned 31. Here are 30 ways to become a better man. If you follow these simple steps, you won't be a perfect man, but you will be the best version of a man that you can be.
 
-***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
+***\[To read the original post on how to be a man, click here—&gt;***[***How to be a man: 9 qualities that makeup masculinity***](/how-to-be-a-man/)***\]***
 
 ---
 
@@ -137,7 +137,7 @@ A wise man once remarked that these traits are all products of discipline and se
 
 ![better man want success in life are good relationships with people to see the world](/assets/images/posts/2016/how-to-become-a-better-man-ed-latimore.jpg "Stopping through the Mexican jungle while traveling the world.")
 
-***[The single biggest motivator in the world is travel.](https://alyssawrites.com/what-motivates-you-to-travel/){: target="_blank" rel="noopener noreferrer"}***
+[***The single biggest motivator in the world is travel.***](https://alyssawrites.com/what-motivates-you-to-travel/){: target="_blank" rel="noreferrer noopener"}
 
 Nothing has made me want to be successful more than the freedom of being able to experience any place in the world at any time I want to.
 
@@ -153,7 +153,7 @@ Seeing different sights inspires you to think of you can do it more often. It fo
 
 ## 11\. Make yourself as attractive as possible
 
-***[Get as good-looking as you can.](/how-to-be-an-attractive-man/)***
+[***Get as good-looking as you can.***](/how-to-be-an-attractive-man/)
 
 Your life is so much easier when people think you’re attractive. The most respected and successful strong men know that appearances matter ***at least*** as much as ability.
 
@@ -193,6 +193,8 @@ Don't confuse forgiveness for justice. Strong men know that bad people must be p
 
 One of the best books on forgiveness is "A Course In Miracles". I strongly recommend anyone read it who is ready to forgive themselves or the world.
 
+{% include widgets/summary.html id="Coaching-Call" %}
+
 ## 13\. Learn to discern great friends from good friends
 
 Good friends are the ones doing dumb shit with you. Great friends are the ones trying to get you to improve your life.
@@ -225,7 +227,7 @@ Not only will they die before you, but they are going to leave you alone on this
 
 This means that no matter what they want for you, it doesn’t really matter. You must live your life according to what you want because you're the only one who will have to live through it.
 
-***[Click here to read my guide on forgiving your parents.](/how-to-understand-and-forgive-your-parents/)***
+[***Click here to read my guide on forgiving your parents.***](/how-to-understand-and-forgive-your-parents/)
 
 ## 16\. Understand what money buys—and doesn't buy
 
@@ -239,7 +241,7 @@ If you aren’t motivated to make a lot of money, then you can still have an enj
 
 You’ll have limits, but successfully navigating them will keep your head above water. Read this to get my full thoughts on how to climb out of poverty.
 
-***I had to learn the hard way how to stop being poor. [Read this so you don't have to.](/stop-being-poor/)***
+***I had to learn the hard way how to stop being poor.*** [***Read this so you don't have to.***](/stop-being-poor/)
 
 ## 17\. Learn how to be alone
 
@@ -251,7 +253,7 @@ If you can’t find people that you like to hang out with and you reside in a re
 
 If you're somewhere without a lot of people, you might have to move if being happy is important to you. Normally I’d say “see lesson 1” but this particular point is beyond negotiation. See lesson 18.
 
-***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
+***\[To read the original post on how to be a man, click here—&gt;***[***How to be a man: 9 qualities that makeup masculinity***](/how-to-be-a-man/)***\]***
 
 ## 18\. Nurture your relationships
 
@@ -259,7 +261,7 @@ No matter how much money you make or how good a time you are having, if you don�
 
 This is one of those pieces of advice that equally applies to men and women. Sure, men don't need to spend ***as much*** time with other people, they still need some connections.
 
-We all need people to share the ups with and help us during the downs. There have been numerous studies to [show the value of social connections on health and longevity.](https://www.takingcharge.csh.umn.edu/why-personal-relationships-are-important){: target="_blank" rel="noopener noreferrer"}
+We all need people to share the ups with and help us during the downs. There have been numerous studies to [show the value of social connections on health and longevity.](https://www.takingcharge.csh.umn.edu/why-personal-relationships-are-important){: target="_blank" rel="noreferrer noopener"}
 
 It is a special kind of torture to be around people but not really feel connected with them.
 
@@ -435,6 +437,6 @@ There's only one thing to do.
 
 If this post gave tremendous help or insight, or you simply enjoyed it, sign up to my mailing list for useful tips from someone who's taken what he's learned the hard way and broken it down so that you can learn it the easy way.
 
-***\[To read the original post on how to be a man, click here—&gt;[How to be a man: 9 qualities that makeup masculinity](/how-to-be-a-man/)\]***
+***\[To read the original post on how to be a man, click here—&gt;***[***How to be a man: 9 qualities that makeup masculinity***](/how-to-be-a-man/)***\]***
 
 {% include widgets/summary.html id="Attractive-Man" %}
