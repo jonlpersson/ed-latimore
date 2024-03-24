@@ -85,7 +85,7 @@ For a fighter to peak when he's supposed to, training camp can't take him to 100
 
 * Emotions are to be excited without worrying about whether you can make it through because of how hard you pushed yourself.
 
-I gave this boxing example to set the tone for you to find your personal 70% level. When preparing to accomplish a goal, ask yourself the following questions:
+I gave this [boxing example](https://edlatimore.com/how-to-get-into-boxing/) to set the tone for you to find your personal 70% level. When preparing to accomplish a goal, ask yourself the following questions:
 
 * **If I take this action right now, will I worry more or less about the outcome?** If you feel you'll worry less, you've spent too much or too little time in the prep phase. You want the event to end so you're no longer excited about how things will go.
 * **Should I take on another project?** If you're ready to take on other things, you're either not invested enough or you've done so much preparation that you (delusionally) think the project is a guaranteed done deal. The project should motivate a high level of focus.
