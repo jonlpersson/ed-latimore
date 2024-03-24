@@ -12,7 +12,7 @@ description: >-
   is act. Any more preparation is, at best, a waste of time and, at worst, a
   comfortable lie we're indulging in to protect ourselves from the possibility
   of failure.
-image:
+image: /assets/images/posts/70-percent-rule.jpeg
 ---
 Two years ago, I had a conversation with an older, wiser mentor of mine. The subject of raising kids and starting a family came up, and she said something that had a tremendous impact on my thinking.
 
