@@ -8,7 +8,7 @@ description: >-
 image: /assets/images/products/vicebreakers-1.png
 product_info:
   button_text: 'Buy now '
-  button_url: https://edwardlatimore.gumroad.com/l/rvKFC
+  button_url: https://edwardlatimore.gumroad.com/l/rvKFC?wanted=true
   price: $150
 hero:
   hero_type: product
