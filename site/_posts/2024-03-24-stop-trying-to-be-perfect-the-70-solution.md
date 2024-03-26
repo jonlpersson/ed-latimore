@@ -14,6 +14,10 @@ description: >-
   of failure.
 image: /assets/images/posts/70-percent-rule.jpeg
 ---
+**Watch here**
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/hrNTBj-gwfg?si=Bcvq-mX1BQWlQMtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 Two years ago, I had a conversation with an older, wiser mentor of mine. The subject of raising kids and starting a family came up, and she said something that had a tremendous impact on my thinking.
 
 > "You and Anna are as ready as you'll ever be to have kids. The only way to get any more ready is to have them."
@@ -82,7 +86,6 @@ For a fighter to peak when he's supposed to, training camp can't take him to 100
 
 * Body to be capable of pushing itself without being hurt.
 * Mind to be focused on the contest without being distracted by the possibility of taking a result.
-
 * Emotions are to be excited without worrying about whether you can make it through because of how hard you pushed yourself.
 
 I gave this [boxing example](https://edlatimore.com/how-to-get-into-boxing/) to set the tone for you to find your personal 70% level. When preparing to accomplish a goal, ask yourself the following questions:
