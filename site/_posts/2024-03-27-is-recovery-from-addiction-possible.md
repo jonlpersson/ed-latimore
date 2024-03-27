@@ -1,5 +1,5 @@
 ---
-date: 2024-03-27 23:00:00 -0400
+date: 2024-03-27 11:00:00 -0400
 article_type: Article
 title: Is recovery from addiction possible?
 permalink: /is-recovery-possible/
