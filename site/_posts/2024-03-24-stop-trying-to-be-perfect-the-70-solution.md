@@ -48,7 +48,7 @@ The idea behind the rule is beautifully simple: If you have 70% of what you need
 * Do you have 70% of the resources to survive a protracted conflict?
 * Are you 70% sure that your plan will succeed?
 
-The 70% rule isn't the product of theoretical research. It's not even an exact amount you can measure. It's the product combat experience crafted as a mental model to get you to take action in the face of uncertainty. Humans already hate dealing with uncertainty. We also are strongly driven by the desire to avoid pain.
+The 70% rule isn't the product of theoretical research. It's not even an exact amount you can measure. It's the product of combat experience crafted as a mental model to get you to take action in the face of uncertainty. Humans already hate dealing with uncertainty. We also are strongly driven by the desire to avoid pain.
 
 When you put this apprehension of uncertainty in conditions where injury and death are possible, then you face the possibility of inaction when it will cost you the most. Most of us do not face a challenge that will kill us if we fail, but therein lies the beauty of this thinking style.
 
