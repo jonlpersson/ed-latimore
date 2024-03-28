@@ -12,6 +12,8 @@ description: >-
   situation, the reason is because I was not following these metrics.
 image: /assets/images/drafts/decisions-framework.jpeg
 ---
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/O2-zrjqWgI0?si=cXO9IlvJPQEiKHPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 In a podcast interview this week, I was asked what rule or metric I use when making decisions. At first, the question gave me a little trouble, as I couldn't readily identify how—or even if—I thought about making decisions.
 
 Then I thought about all the decisions I've made in my life that had a significant positive impact. I consider these events "watershed moments." Watershed moments are critical points of change that cause a major shift in the potential outcome of events.
