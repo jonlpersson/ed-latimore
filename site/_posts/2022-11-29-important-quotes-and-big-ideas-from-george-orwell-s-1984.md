@@ -26,11 +26,41 @@ I've collected the most impactful quotes and organized them according to their t
 
 > "The party told you to reject the evidence of your eyes and ears. It was their final, most essential command." "And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth."
 
+In "1984," the totalitarian government, known as "the Party," manipulates and controls every aspect of its citizens' lives, including their thoughts and perceptions. The Party's ultimate goal is to make people believe their version of reality, even if it contradicts what they can see and hear with their own senses.
+
+In essence, the Party wants to replace objective truth with its own version of the truth. We see a similar aim today with the idea of "manufactured consent."
+
+Manufactured consent is a term coined by Walter Lippmann and later elaborated by Noam Chomsky and Edward Herman. It refers to the idea that in a mass democracy, the public's consent for policies is not formed spontaneously, but is "manufactured" by elites (such as governments, media, and corporations) through propaganda and manipulation of information.
+
+One example of manufactured consent benefiting elites is the lead-up to the 2003 Iraq War. The Bush administration and supportive media outlets promoted the narrative that Iraq possessed weapons of mass destruction (WMDs) and had ties to Al-Qaeda terrorists. This propaganda campaign aimed to convince the American public and international community that invading Iraq was necessary for security.
+
+However, the evidence for WMDs was flimsy and the supposed Iraq-Al Qaeda links dubious. Critics argue that the real motivations were geopolitical goals and oil interests that stood to benefit political and economic elites. The PR campaign sought to manufacture public consent for a war that many argue was launched under false pretenses.
+
+Techniques used included:
+
+* Constant repetition of the threat posed by Iraqi WMDs
+* Presenting "expert" commentators who supported the official narrative
+* Marginalizing voices questioning the evidence for war
+* Appealing to post-9/11 fears and patriotic sentiment
+* Selective intelligence leaks to shape media coverage
+
+As a result, polls showed a majority of Americans came to believe Iraq had WMDs and was involved in 9/11, enabling the Bush administration to launch the invasion with broad public support. This not only demonstrates how the modern day "Party" is able to manipulate public perception by presenting them facts that they are compelled to accept, but how this technique can also effectively rewrite history.
+
+Orwell depicts a regime that can alter the historical record at will so it always fits the current party line. Nowadays, authoritarian states selectively omit unflattering facts from textbooks, websites and archives
+
 ---
 
 ![1984 quotes “Who controls the past controls the future. Who controls the present controls the past.”](/assets/images/posts/controls-the-past.png){: width="1080" height="1080"}
 
 > “Who controls the past controls the future. Who controls the present controls the past.”
+
+This quote highlights the power of controlling information and historical narratives to shape society's understanding of reality. Let's break it down and connect it to some contemporary examples and psychological concepts.
+
+"Who controls the past controls the future": This suggests that those who have the power to shape how we remember and interpret history can influence the direction of society going forward. By selectively emphasizing, omitting, or distorting historical facts, those in power can mold public perception to support their agenda for the future.
+
+For example, debates over how American history is taught often revolve around what narratives and perspectives are included or excluded in textbooks and curricula. Conservative efforts to ban "critical race theory" or liberal initiatives like the 1619 Project represent attempts to control which version of the past is transmitted to future generations in service of different political visions.
+
+Psychologically, this connects to concepts like collective memory (how groups remember their past) and historical revisionism (reinterpreting past events). Research shows collective memories aren't static records of fact, but are reconstructed over time as present concerns and power dynamics evolve. So the past is always filtered through the lens of the present.
 
 ---
 
