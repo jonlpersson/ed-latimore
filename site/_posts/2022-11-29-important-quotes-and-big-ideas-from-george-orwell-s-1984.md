@@ -56,7 +56,7 @@ Orwell depicts a regime that can alter the historical record at will so it alway
 
 This quote highlights the power of controlling information and historical narratives to shape society's understanding of reality. Let's break it down and connect it to some contemporary examples and psychological concepts.
 
-"Who controls the past controls the future": This suggests that those who have the power to shape how we remember and interpret history can influence the direction of society going forward. By selectively emphasizing, omitting, or distorting historical facts, those in power can mold public perception to support their agenda for the future.
+Those who have the power to shape how we remember and interpret history can influence the direction of society going forward. By selectively emphasizing, omitting, or distorting historical facts, those in power can mold public perception to support their agenda for the future.
 
 For example, debates over how American history is taught often revolve around what narratives and perspectives are included or excluded in textbooks and curricula. Conservative efforts to ban "critical race theory" or liberal initiatives like the 1619 Project represent attempts to control which version of the past is transmitted to future generations in service of different political visions.
 
