@@ -68,6 +68,24 @@ Psychologically, this connects to concepts like collective memory (how groups re
 
 > "In Newspeak there is no word for 'Science.'"
 
+This quote highlights the novel's theme of language control as a means of thought control. In the story, the totalitarian regime of Oceania is developing "Newspeak," a language designed to limit freedom of thought.
+
+The absence of a word for "science" in Newspeak suggests a society where empirical inquiry and objective truth have been erased in favor of blind obedience to authority.
+
+Connecting this to the Covid-19 pandemic and the phrase "trust the science," we can see some relevant parallels and contrasts. On one hand, "trust the science" can be a call for evidence-based policymaking guided by impartial research rather than ideology or misinformation. In this sense, it asserts the value of scientific inquiry in the face of denialism or conspiracy theories.
+
+However, critics might argue that in practice, "trust the science" has at times been used as a rhetorical bludgeon to shut down legitimate debate and enforce conformity of opinion. When invoked by authorities or experts, it can serve as a conversation-stopper that delegitimizes dissent. This is reminiscent of Orwell's depiction of a world where the very concept of objective truth is suppressed.
+
+Moreover, the pandemic response has exposed that "the science" is not always a monolith. Experts can disagree and evidence can evolve over time. Public health messaging has sometimes been inconsistent or contradictory. In this context, "trust the science" may oversimplify a more complex and uncertain reality.
+
+Psychologically, the quote relates to the concept of dogmatism - an inflexible, closed-minded adherence to doctrine. Dogmatism [thrives in the absence](https://edlatimore.com/confirmation-bias-echo-cherry-picky-echo-chambers/){: target="_blank" rel="noopener"}of critical thinking and openness to evidence. It can lead to groupthink, where dissenting views are suppressed in favor of consensus.
+
+The pandemic has also highlighted the role of cognitive biases such as confirmation bias (seeking out information that confirms our preexisting beliefs) and the illusion of explanatory depth (overestimating our understanding of complex issues). These biases can lead us to latch onto simplistic narratives and slogans rather than grappling with nuance.
+
+So while "trust the science" can be a valid defense of empiricism, we must be cautious not to let it become a Newspeak-esque thought-terminating cliché. Truly trusting science means embracing its ethos of openness, questioning, and continuous refinement - not using it as a cudgel to enforce orthodoxy. Science is a process, not a set of unassailable decrees. As Orwell reminds us, a world where the pursuit of truth is restricted is a world diminished.
+
+&nbsp;
+
 ---
 
 ![1984 quote “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”](/assets/images/posts/thought-crime-impossible.png){: width="1080" height="1080"}
