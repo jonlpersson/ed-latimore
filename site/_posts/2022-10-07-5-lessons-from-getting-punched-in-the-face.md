@@ -15,15 +15,15 @@ description: >-
   some valuable lessons. Here are five things you can learn from the experience.
 image: /assets/images/posts/punched-in-the-face-latimore-1.jpeg
 ---
-For 12 years of my life, I got punched in the face for a living. Well, that’s technically not the most precise way to explain what a boxer does, but it’s accurate enough to get the most miserable and significant parts of the job explained to people.
+For 12 years of my life, I got punched in the face for a living. Well, that’s technically not the most precise way to explain what a professional boxer does, but it’s accurate enough to get the most miserable and significant parts of the job explained to people.
 
-However, my career as a heavyweight boxer wasn’t the first time I suffered the misfortune of being punched in the face. I didn’t start fighting until I was 22 years old. The majority of the decade prior to that was mostly peaceful, but from birth until the age of 13, I’d been punched in the face—a lot.
+However, my career as a heavyweight boxer wasn’t the first time I suffered the misfortune of being punched in the face. I didn’t start fighting in the ring until I was 22. The majority of the decade before that was mostly peaceful, but from birth until the age of 13, I’d been punched in the face—a lot.
 
 I don’t want to give the impression that I was the school or neighborhood punching bag.
 
 I grew up in the projects, a.k.a “The hood” or “The ghetto.” Hell, by any other name, is still hell. I lived there until I was 18. I went to school with kids from my projects and other projects until I was 14. In this type of place, fighting was a way of life—and I did not live vicariously.
 
-***Learn more about&nbsp;[my life in the ghetto here](https://edlatimore.com/the-projects/){: target="_blank" rel="noopener noreferrer"}.***
+***Learn more about***&nbsp;[***my life in the ghetto here***](https://edlatimore.com/the-projects/){: target="_blank" rel="noreferrer noopener"}***.***
 
 I was suspended a lot and, at one point, even threatened with expulsion. Almost all of my offenses dealt with fighting. I can also proudly say that I never started a physical confrontation, at least in the sense that I went looking for a fight.
 
@@ -31,7 +31,7 @@ This doesn’t mean I didn’t throw the first punch, nor does it mean that I go
 
 After being on the receiving and delivering end of many ass-kickings and face punchings both as a child and an adult, in both street fights and sanctioned bouts, I think there’s value in getting punched in the face.
 
-Getting punched in the face will teach you more about yourself than 10 years of meditation and therapy combined. Here are 4 things that you can only learn from getting punched in the face.
+Getting punched in the face will teach you more about yourself than ten years of meditation and therapy combined. Here are 5 things you can only learn from getting punched in the face.
 
 {% twitter https://twitter.com/EdLatimore/status/1578416688932212736 %}
 
@@ -45,7 +45,7 @@ Getting punched in the face is a great way to realize how strong and durable you
 
 Yes, you might get a bloody nose or a black eye, but unless you get sucker punched and you fall and hit your head, there is minimal chance of death from getting punched in the face. You won’t even lose consciousness MOST of the time. It will just hurt, but you’ll still be here.
 
-***Read some mindset tips from boxing—&gt;[48 quotes from boxing](/boxing-quotes-from-ed-latimore/)***
+***Read some mindset tips from boxing—&gt;***[***48 quotes from boxing***](/boxing-quotes-from-ed-latimore/)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -55,7 +55,7 @@ Although I fought a lot as a kid, I never started those fights. I’m a pacifist
 
 Even at a young age, I learned that if people think they can push you an inch without resistance, they’ll try to throw you a mile. And human psychology is such that because you let them take a little, you’re more willing to let them take a lot more.
 
-***This article talks about the mentality of people in my neighborhood and school who were like this**&nbsp;→&nbsp;[**Lessons From The Ghetto: Willingness to Fight**](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noopener noreferrer"}*​
+***This article talks about the mentality of people in my neighborhood and school who were like this**&nbsp;→*&nbsp;[***Lessons From The Ghetto: Willingness to Fight***](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noreferrer noopener"}​
 
 Comfort, passivity, and inertia are addictive. There’s a real chance that you’ll continue using them beyond the point of diminishing returns in a manner that borderlines on compulsion. Even when you know that you should stand up for yourself or others, you won’t because you’ve been chasing the three-headed dragon for so long that you can do nothing else.
 
@@ -119,7 +119,7 @@ Otherwise, you might run into someone who doesn’t mess around, and then you&nb
 
 I don’t think getting punched in the face is the BEST or ONLY way to learn these lessons. It’s just that in this modern society, devoid of challenges and obsessed with efficiency and ease, you probably won’t do any of the other things that will develop the grit, resilience, and antifragility that come from taking a righteous crack on the jaw.
 
-Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my article on why it's a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noopener noreferrer"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
+Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my article on why it's a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noreferrer noopener"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
 
 That’s a safe, legal, controlled way to get exposure to violence.
 
