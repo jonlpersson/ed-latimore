@@ -69,17 +69,17 @@ The best self-defense is often a preemptive offense. The hunter is usually ill-p
 
 ## You learn the art of righteous suffering
 
-There is nothing in life worth having that comes without pain and discomfort. Suffering is the price of admission for a life of contentment and satisfaction. If you’re unhappy with your life, you probably need to get punched in the face a few times.
+There is nothing in life worth having that comes without pain and discomfort. Suffering is the price of admission for a life of satisfaction. If you’re unhappy with your life, you probably need to get punched in the face a few times.
 
 Not literally, in this case—though I always tell guys that the best way to improve your life is to train for a boxing or MMA fight. The reasons why relates to this principle. Training to take a fight is a miserable time.
 
 The training isn’t particularly fun, and getting hit is even less fun. Also, while the environment isn’t abusive, I wouldn’t exactly describe it as supportive either.
 
-But by training and competing, you earn the respect of people who have done and the admiration of those who wish they could. Fighting isn’t the only arena to gain respect and admiration because you persisted in the face of adversity.
+But by training and competing, you earn the respect of people who have done it and the admiration of those who wish they could. Fighting isn’t the only arena to gain respect and admiration because you persisted in the face of adversity.
 
 Getting hit in the face isn’t the only way to prove to yourself that you’re made of something. It’s just the most accessible and the one with an immediate negative feedback mechanism to act as a corrective measure.
 
-But you probably [shouldn't get hit in the face too much if you box](/25-boxing-tips/).
+But you probably shouldn't get hit in the face too much if you box.
 
 ## You learn the power of respect
 
@@ -91,29 +91,29 @@ Getting your ass kicked won’t make you a better person, but it will definitely
 
 Violence isn’t the answer. By the time you reach the point of physical escalation, it’s too late, and higher-order effects will create a scenario where the reaction to disrespect dramatically outweighs the original offense.
 
-People take revenge to get even. They take it to get ahead and set you back.
+People don’t take revenge \*just\* to get even. They take it to get ahead and set you back.
 
-The best way to avoid this situation is to be incentivized to keep the peace. It starts with treating other people with respect, but people also need to know there are consequences to behaving disrespectfully. Violence serves this purpose wonderfully well.
+The best way to avoid this situation is to be incentivized to keep the peace. It starts with treating others with respect, but people also need to know there are consequences to behaving disrespectfully. Violence serves this purpose wonderfully well.
 
 You can always tell who’s never been in an environment where you could get punched in the face for talking recklessly to people.
 
-The&nbsp;*threat*&nbsp;of violence is the real solution to many problems of today.
+The *threat* of violence is the real solution to many problems of today.
 
 ## It eliminates passive-aggressive communication
 
-Passive-aggressive is for the weak. The number of people who rely on it instead of standing up for themselves is embarrassing.
+Passive-aggressive behavior is for the weak. The number of people who rely on it instead of standing up for themselves is embarrassing.
 
 Passive-aggressive communication tries to get the outcome of winning a confrontation without actually having a confrontation. Classic examples of passive aggression:
 
 * The person who disrespects and insults you until you finally say respond, retaliate, or escalate, and then they go, “I was just joking. Chill out.”<br><br>If you don’t have that joking relationship with a person or it’s over the line (you know if it is or not), check this behavior quickly—even if it means you’ll get punched in the face.
 * Then there’s the person who doesn’t directly use your name. “I can’t stand people who \[insert something you did\].” This is not internet “hit dog” syndrome. This is done in person or in an environment where you’re obviously the subject.<br><br>This person is trying to leave themselves plausible deniability. Fuck that. Make them own it—even if you get punched in the face.
-* Then there are people who seriously use sarcasm.<br><br>“Sarcasm” is defined as “the use of irony to mock or convey contempt.” “Irony” is defined as “the expression of one’s meaning by using language that normally signifies the opposite”<br><br>When you understand this, you see the coward’s plan.<br><br>By saying the opposite of what they really mean to mock, demean, or criticize you, they&nbsp;*feel*&nbsp;like they’re standing tough.<br><br>Until you really do.
+* Then there are people who seriously use sarcasm.<br><br>“Sarcasm” is defined as “the use of irony to mock or convey contempt.” “Irony” is defined as “the expression of one’s meaning by using language that normally signifies the opposite.”<br><br>When you understand this, you see the coward’s plan.<br><br>By saying the opposite of what they really mean to mock, demean, or criticize you, they *feel* like they’re standing tough.<br><br>Until you really do.
 
-Then this type of person will try to convince you they were being sincere when their tone and body language said otherwise.
+Then, this type of person will try to convince you they were being sincere when their tone and body language said otherwise.
 
 Speak directly if you have a problem.
 
-Otherwise, you might run into someone who doesn’t mess around, and then you&nbsp;*really*&nbsp;have a problem.
+Otherwise, you might run into someone who doesn’t mess around, and then you *really* have a problem.
 
 ## Summary
 
