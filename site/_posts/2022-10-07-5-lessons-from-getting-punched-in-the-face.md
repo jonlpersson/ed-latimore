@@ -41,7 +41,7 @@ When I was a boxer, I wanted to get touched as soon as possible. I didn’t want
 
 The first time you get punched in the face, it hurts. But you’re not dead. If you’re hit by someone untrained (or you are trained), you’re likely not even dazed. You’re just annoyed, angry, and in a bit of pain.
 
-Getting punched in the face is a great way to realize how strong and durable you are because a punch to the face is always delivered with bad intentions. Whether it’s a confrontation on the street, in a boxing ring, or in the octagon, a face punch is meant to do real harm.
+Getting punched in the face is a great way to realize how strong and durable you are because a punch to the face is always delivered with bad intentions. Whether it’s a confrontation on the street, in a boxing ring, or the octagon, a face punch is meant to do real harm.
 
 Yes, you might get a bloody nose or a black eye, but unless you get sucker punched and you fall and hit your head, there is minimal chance of death from getting punched in the face. You won’t even lose consciousness MOST of the time. It will just hurt, but you’ll still be here.
 
@@ -53,17 +53,17 @@ Yes, you might get a bloody nose or a black eye, but unless you get sucker punch
 
 Although I fought a lot as a kid, I never started those fights. I’m a pacifist, almost to a fault. I just refused to take anyone’s shit.
 
-Even at a young age, I learned that if people think they can push you an inch without resistance, they’ll try to throw you a mile. And human psychology is such that because you let them take a little, you’re more willing to let them take a lot more.
+Even at a young age, I learned that if people think they can push you an inch without getting any resistance, they’ll try to throw you a mile. Human psychology is such that because you let them take a little, you’re more willing to let them take a lot more.e.
 
 ***This article talks about the mentality of people in my neighborhood and school who were like this**&nbsp;→*&nbsp;[***Lessons From The Ghetto: Willingness to Fight***](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noreferrer noopener"}​
 
-Comfort, passivity, and inertia are addictive. There’s a real chance that you’ll continue using them beyond the point of diminishing returns in a manner that borderlines on compulsion. Even when you know that you should stand up for yourself or others, you won’t because you’ve been chasing the three-headed dragon for so long that you can do nothing else.
+Comfort, passivity, and inertia are addictive. There’s a real chance that you’ll continue using them beyond the point of diminishing returns in a manner that borders on compulsion. Even when you know that you should stand up for yourself or others, you won’t because you’ve been chasing the three-headed dragon for so long that you can do nothing else.
 
-The only way to keep from being taken advantage of is to push back whenever you suspect someone trying you. However, this means you have to be comfortable with confrontation and the possibility of it escalating.
+The only way to keep from being taken advantage of is to push back whenever you suspect someone is trying you. However, this means you have to be comfortable with confrontation and the possibility of it escalating.
 
-After you’ve been punched and you realize it’s not going to kill you, you’re much more likely to stand up for yourself because you don’t fear the outcome of a conflict. In fact, you start to push for the conflict to get to the next level because this attitude also teaches you the power of initiative, but psychologically and tactically.
+After you’ve been punched and you realize it’s not going to kill you, you’re much more likely to stand up for yourself because you don’t fear the outcome of a conflict. In fact, you start to push for the conflict to get to the next level because this attitude teaches you the power of initiative, both psychologically and tactically.
 
-Tactically, he who strikes first tends to be the one to strike last. That’s because psychologically, he who is forced to respond and defend himself starts to behave like prey—even if his initial behavior was predatory in nature.
+Tactically, the one who strikes first tends to be the one who strikes last. That’s because psychologically, he who is forced to respond and defend himself starts to behave like prey—even if his initial behavior was predatory in nature.
 
 The best self-defense is often a preemptive offense. The hunter is usually ill-prepared for this role reversal, and the prey has a burning desire for revenge.
 
