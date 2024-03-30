@@ -12,6 +12,10 @@ description: >-
   You don't have to smoke crack to get the crackhead hustle, work ethic, and
   mindset. Read on to learn how.
 ---
+**Watch here**
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/TxMavl7Ru90?si=0JK692nQt7GN2XIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 Most of you have never truly witnessed crackhead hustle.
 
 You've seen the type of hustle that illegal immigrants have when they come to America to make a better life for themselves. I used to eat at a Chinese food restaurant that was owned, managed, and operated by a family of Chinese immigrants.
