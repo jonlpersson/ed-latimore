@@ -40,7 +40,7 @@ Crackheads give up dignity, sanity, and in many cases, freedom. In exchange for 
 
 {% twitter https://twitter.com/EdLatimore/status/1057622481123635200 %}
 
-[The best crack high barely lasts 20 minutes](https://www.lastresortrecovery.com/addiction-blog/how-long-does-a-cocaine-high-last/){: target="_blank"} and the come down off the high is like being dragged through the depths of hell. This is when crackheads realize that they have made a deal with the devil.
+[The best crack high barely lasts 20 minutes](https://www.lastresortrecovery.com/addiction-blog/how-long-does-a-cocaine-high-last/){: target="_blank" rel="noopener"} and the come down off the high is like being dragged through the depths of hell. This is when crackheads realize that they have made a deal with the devil.
 
 They get incredible stamina, toughness, and bouts of euphoria in exchange for exile to the fringes of society, loss of their dignity, and now they're slaves to crack.
 
@@ -48,7 +48,7 @@ They get incredible stamina, toughness, and bouts of euphoria in exchange for ex
 
 If you doubt this, remember:
 
-Your typical crack habit can [cost over $200 per day.](https://www.vice.com/en_us/article/nn9p3k/the-cost-of-being-a-drug-addict-in-canada){: target="_blank"} That works out to $6,000/mo. Your typical crackhead is not holding down a six-figure job. They don't let a lack of sufficient funds keep them from getting high.
+Your typical crack habit can [cost over $200 per day.](https://www.vice.com/en_us/article/nn9p3k/the-cost-of-being-a-drug-addict-in-canada){: target="_blank" rel="noopener"} That works out to $6,000/mo. Your typical crackhead is not holding down a six-figure job. They don't let a lack of sufficient funds keep them from getting high.
 
 Crackheads just get up, figure out how to get money, and continue to pay the cost to be the crackhead boss. This means that a crackhead *\*\*always \*\**pays the toll.
 
@@ -57,8 +57,6 @@ Nothing is free. That includes crackhead work ethic.
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## What Can We Learn From The Crackhead Work Ethic?
-
-{% twitter https://twitter.com/EdLatimore/status/1075702778696220674 %}
 
 Everyone talks a big game about working hard, but that’s all a lot of it is: talk.
 
@@ -118,7 +116,7 @@ Imagine what a crackhead could accomplish if it took one-tenth of that drive and
 
 Here we have a case of a crackhead who took the drive that he had as an addict and applied it to building a million-dollar business.
 
-[The Lindell story is noteworthy](https://www1.cbn.com/cbnnews/2019/april/lsquo-i-was-an-addict-rsquo-inside-my-pillow-inventor-mike-lindell-rsquo-s-amazing-transformation){: target="_blank"} for another reason as well. Lindell desperately wanted to be a successful businessman. The MyPillow was how he eventually achieved that success, but he had attempted many other business ventures prior to that. Lindell tried:
+[The Lindell story is noteworthy](https://www1.cbn.com/cbnnews/2019/april/lsquo-i-was-an-addict-rsquo-inside-my-pillow-inventor-mike-lindell-rsquo-s-amazing-transformation){: target="_blank" rel="noopener"} for another reason as well. Lindell desperately wanted to be a successful businessman. The MyPillow was how he eventually achieved that success, but he had attempted many other business ventures prior to that. Lindell tried:
 
 * A carpet cleaning business
 * A lunch wagon business
@@ -149,7 +147,7 @@ What will make you fight for something you want out of life that is *not* vital 
 
 Some people’s crack is money. Other’s is respect. A few just want to master something. Maybe it’s all of these things. Maybe it’s none of them. It doesn’t matter what it is. All that matters is that you don’t bullshit yourself about what it is that motivates you.
 
-Author James Altucher [has a great quote concerning motivation in this context.](https://jamesaltucher.com/blog/five-quote-to-make-your-bs-detector-better/){: target="_blank"} When explaining to yourself and others why did something, Altucher says “That’s a good reason and the real reason.”
+Author James Altucher [has a great quote concerning motivation in this context.](https://jamesaltucher.com/blog/five-quote-to-make-your-bs-detector-better/){: target="_blank" rel="noopener"} When explaining to yourself and others why did something, Altucher says “That’s a good reason and the real reason.”
 
 For example, let’s say that you decide to start working out. A good reason for doing that is to be in optimal health. The real reason is that you want to look good naked. When you harness the real reason for doing something, you harness your crackhead work ethic.
 
