@@ -15,6 +15,10 @@ description: >-
   some valuable lessons. Here are five things you can learn from the experience.
 image: /assets/images/posts/punched-in-the-face-latimore-1.jpeg
 ---
+**Watch below**
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/uTknZwhPcZY?si=P-c1WzMxHYAwQ0EC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 For 12 years of my life, I got punched in the face for a living. Well, that’s technically not the most precise way to explain what a professional boxer does, but it’s accurate enough to get the most miserable and significant parts of the job explained to people.
 
 However, my career as a heavyweight boxer wasn’t the first time I suffered the misfortune of being punched in the face. I didn’t start fighting in the ring until I was 22. The majority of the decade before that was mostly peaceful, but from birth until the age of 13, I’d been punched in the face—a lot.
