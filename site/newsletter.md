@@ -75,4 +75,26 @@ page_blocks:
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
   - _id: block_logos
+  - _id: block_rich_text
+    alignment: left
+    text_markdown: >-
+      Welcome to the Stoic Street Smarts newsletter, where I share the
+      hard-fought wisdom I've gained from a life that's taken me from the hood
+      to the boxing ring, from the army to the halls of academia.
+
+
+      Growing up in the tough streets taught me the importance of managing risk
+      and reading people, while getting sober showed me the power of facing
+      reality with unflinching honesty. My time as a professional boxer
+      instilled in me the discipline and resilience needed to overcome any
+      obstacle, and serving in the army taught me the value of strong
+      relationships and teamwork. Earning my physics degree demonstrated the
+      rewards of pursuing knowledge and understanding in the face of complex
+      challenges.
+
+
+      Through the prism of Stoic philosophy, I'll share practical insights from
+      these diverse experiences to help you cultivate the mental toughness,
+      emotional intelligence, and strategic thinking needed to thrive in an
+      unpredictable world.
 ---
