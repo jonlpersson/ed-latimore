@@ -104,7 +104,9 @@ Some individuals and groups promote the idea that there is more than one gender 
 
 This perspective often leads to the alteration of language and the suppression of dissenting opinions. For example, in some academic and professional settings, people are encouraged or even required to use gender-neutral pronouns, and those who refuse to do so may face social or professional consequences. This can be seen as an attempt to alter the "facts" about gender and sex to align with a particular ideology.
 
-Moreover, some proponents of the idea that gender is fluid and can be changed argue that biological sex is also malleable, despite the overwhelming scientific evidence that sex is determined by chromosomes and is immutable. This can lead to the promotion of medical interventions, such as hormone therapy and gender reassignment surgery, as a means of "changing" one's sex.
+Moreover, some proponents of the idea that gender is fluid and can be changed argue that biological sex is also malleable, despite the overwhelming scientific evidence that sex is determined by chromosomes and is immutable. And, if you don't agree with this version of the "facts," then you face ostracization by the portion of the population who has bought into this changed reality.
+
+Orwell warned us that this situation would happen, so it is coming to pass.
 
 {% include widgets/summary.html id="Shortform" %}
 
