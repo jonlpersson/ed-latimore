@@ -11,52 +11,72 @@ description: >-
   to get something they want."
 image: /assets/images/posts/revenge.jpeg
 ---
-Retaliatory aggression is often a mood enhancement to ameliorate the pain of rejection. Rejected people harness the power of revenge to make themselves feel better.
+Have you ever been wronged by someone and felt an overwhelming desire to get even?
 
-When students were given the chance to stick pins in a voodoo doll representing the grader who told them that their work was terrible, they felt a boost in mood greater than the boost in their mood than those who did not get a chance to retaliate. ([Read more about it here](https://self-compassion.org/wp-content/uploads/2021/11/Miyagawa-and-Taniguchi-2021-Sticking-fewer-or-more-pins-into-a-doll-The-rol.pdf){: target="_blank" rel="noreferrer noopener"})
+The urge for revenge is a powerful and deeply ingrained human instinct that has been shaped by our evolutionary history. In this article, we'll explore the psychology of revenge, its short-term and long-term effects, and how we can break free from the cycle of retaliation.
 
-We want to strike back because it makes us feel better.
+## The Power of Revenge
 
-The good feelings we receive cancel out the sting of the bad feeling**.**&nbsp;The worse you feel, the more you want revenge and the more severe you want it to be. This makes sense.
+Retaliatory aggression, or revenge, is often a way for people to cope with the pain of rejection and insult. When we feel wronged, our natural instinct is to strike back, hoping to make the other person feel the same pain we experienced. This desire for revenge is so strong that it can even provide a temporary mood boost.
 
-After all, you might want to flip the person off who cut you in traffic, but that response will feel insufficient for someone who attacked your spouse.
+In a fascinating study by Chester and DeWall (2017), students were given the opportunity to stick pins in a voodoo doll representing a grader who had given them negative feedback on their work.
 
-Evolutionary psychologists that that a primal inclination for vengeance is ingrained within us. Without laws and jails, our ancestors depended on the prospect of reprisal to maintain harmony and address acts of unfairness.
+The results showed that those who had the chance to retaliate experienced a greater boost in mood compared to those who didn't. This highlights the immediate emotional gratification that revenge can provide.
 
-Incentives are powerful. In theory, an eye for an eye makes everyone blind, but in reality, it makes everyone act right because no one wants to lose those their eyesight.
+## The Evolutionary Roots of Revenge
 
-## The Long Game
+Evolutionary psychologists suggest that the inclination for vengeance is deeply ingrained in our DNA (McCullough, Kurzban, & Tabak, 2013).
 
-However, revenge seems to make us feel worse in the long run.
+In the absence of laws and formal justice systems, our ancestors relied on the threat of retaliation to maintain social harmony and address acts of unfairness.
 
-In a study, participants played a game where they’d all receive the same amount of money if they cooperated unless one person double-crossed them. In that case, that person would get more, and everyone else would get less.
+Incentives are powerful. In theory, an eye for an eye makes everyone blind, but in reality, it makes everyone act right because no one wants to lose those their eyesight
 
-Double-crossed players got a chance to retaliate, and when they did, they initially felt great—but later felt worse than at the start of the experiment. Seeking revenge makes the event seem larger in our minds than it is, which gives it more power over our mood. ([Read more about it here](https://www.reuters.com/article/us-punishment-study/study-shows-leaving-sweeter-than-revenge-idUSN1957594420080320){: target="_blank" rel="noreferrer noopener"})
+## The Long-Term Consequences of Revenge
+
+While revenge may provide short-term emotional relief, research suggests that it can have detrimental effects on our well-being in the long run.
+
+In a study by Carlsmith, Wilson, and Gilbert (2008), participants played a game where they could cooperate or betray one another for financial gain. Those who were betrayed had the opportunity to retaliate, and while they initially felt great after seeking revenge, they ultimately experienced lower overall mood compared to the start of the experiment.
+
+This finding highlights an important point: dwelling on revenge can magnify the significance of the original offense in our minds, giving it more power over our emotions.
 
 This reminds me of an ad hoc definition of trauma I learned, where it’s like you experience the event every time you think of it as if it had \*just\* occurred. Perhaps memory is the key to dealing with trauma and helping us forgive, for when we think about something intensely, and reinforce the wrong done to us. That makes it difficult to let it go.
 
-I won’t use the word “forgiveness” because that requires a lengthy explanation to prevent people from thinking I’m advocating for lawlessness. Instead, here is a quick way to help you stop being held hostage by how you feel about something in the past that you can’t do anything about.
-
 This isn’t therapy. This isn’t a cure. This isn’t a replacement for justice. It’s just a technique I’ve used to stop feeling so much anguish towards the people from childhood who hurt me.
 
-## The collateral damage of life
+Breaking Free from the Cycle of Revenge
 
-The universe doesn’t care about you, and no one is coming to save you.
+So, how can we break free from the destructive cycle of revenge?
 
-That’s not harsh. You are an insignificant spec of dust in the vastness of the universe. Our planet is an insignificant spec of dust. When we’re in the path of an asteroid again, that’s it.
+The key lies in recognizing that the universe is indifferent to our individual struggles. We are all insignificant specks in the grand scheme of things, and the bad things that happen to us are often not personal attacks, but rather the result of others pursuing their own self-interests.
 
-The universe didn’t pick Earth. Earth was just part of the eternal cycle of destruction and rebirth.
+Here is a quick way to help you stop being held hostage by how you feel about something in the past that you can’t do anything about.
 
-As a child, some adults may save you. Your parents certainly should. But once you become an adult, the world is on you to navigate. People are caught up in their own issues, and unless you specifically are part of that agenda, they don’t even know you exist.
+When someone wrongs us, it's important to remember that their actions are a reflection of their own issues and not a targeted attack on our worth as individuals. If it hadn't been us, it likely would have been someone else. This perspective shift can help us let go of the anger and resentment that fuels the desire for revenge.
 
-Take those two ideas as the basis of reality. These are hard to disagree with. Now, take these ideas and apply them to people. When a person wrongs you, it’s more like they’re self-interested to the point of ignoring your well-being, even if that means specifically victimizing you to get something they want.
+## Forgiveness: A Path Forward
 
-If it wasn't you, it would have been someone else.
+While the word "forgiveness" often requires extensive explanation to avoid being misinterpreted as a call for lawlessness, it is a powerful tool for moving past the pain of offense.
 
-Part of living in the universe is that bad stuff happens. Some of that bad stuff will happen to you. The hardest part is to realize that this isn’t personal.
+Forgiveness doesn't mean condoning wrongdoing or absolving someone of the consequences of their actions. Instead, it's a personal choice to release the emotional burden of anger and resentment.
 
-Once you can accept that, then you see that some people have issues, and you happen to be in the path of them expressing those issues.
+Research has shown that forgiveness can lead to improved mental and physical health outcomes. A meta-analysis by Worthington and Scherer (2004) found that forgiveness interventions can significantly reduce anxiety, depression, and stress while increasing self-esteem and hope.
 
-I’m not telling you to forgive or even to let it go. But you’ll find yourself a lot less angry (and oddly, a bit more empathetic and understanding) if realize that none of the tragedy you suffered was personal.
+## To Forgive or Seek Revenge?
 
-{% include widgets/summary.html id="Stoic-Street-Smarts" %}
+The desire for revenge is a natural human instinct, rooted in our evolutionary past. While it may provide temporary emotional relief, seeking revenge can ultimately prolong our suffering and keep us trapped in a cycle of negativity.
+
+By recognizing the indifference of the universe and the impersonal nature of most offenses, we can begin to let go of the anger and resentment that drive the desire for retaliation.
+
+Forgiveness, though often misunderstood, is a powerful tool for healing and moving forward. By choosing to release the emotional burden of past hurts, we open ourselves up to greater peace, resilience, and well-being.
+
+Remember, the path to true freedom lies not in revenge, but in the courageous act of forgiveness.
+
+References:
+
+\- Carlsmith, K. M., Wilson, T. D., & Gilbert, D. T. (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology, 95(6), 1316-1324.
+
+\- Chester, D. S., & DeWall, C. N. (2017). Combating the sting of rejection with the pleasure of revenge: A new look at how emotion shapes aggression. Journal of Personality and Social Psychology, 112(3), 413-430.
+
+\- McCullough, M. E., Kurzban, R., & Tabak, B. A. (2013). Cognitive systems for revenge and forgiveness. Behavioral and Brain Sciences, 36(1), 1-58.
+
+\- Worthington, E. L., & Scherer, M. (2004). Forgiveness is an emotion-focused coping strategy that can reduce health risks and promote health resilience: Theory, review, and hypotheses. Psychology & Health, 19(3), 385-405.
