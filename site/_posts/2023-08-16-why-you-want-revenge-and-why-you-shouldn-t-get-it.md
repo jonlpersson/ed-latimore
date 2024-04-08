@@ -13,7 +13,7 @@ image: /assets/images/posts/revenge.jpeg
 ---
 Retaliatory aggression is often a mood enhancement to ameliorate the pain of rejection. Rejected people harness the power of revenge to make themselves feel better.
 
-When students were given the chance to stick pins in a voodoo doll representing the grader who told them that their work was terrible, they felt a boost in mood greater than the boost in their mood than those who did not get a chance to retaliate. ([Read more about it here](https://self-compassion.org/wp-content/uploads/2021/11/Miyagawa-and-Taniguchi-2021-Sticking-fewer-or-more-pins-into-a-doll-The-rol.pdf){: target="_blank" rel="noopener noreferrer"})
+When students were given the chance to stick pins in a voodoo doll representing the grader who told them that their work was terrible, they felt a boost in mood greater than the boost in their mood than those who did not get a chance to retaliate. ([Read more about it here](https://self-compassion.org/wp-content/uploads/2021/11/Miyagawa-and-Taniguchi-2021-Sticking-fewer-or-more-pins-into-a-doll-The-rol.pdf){: target="_blank" rel="noreferrer noopener"})
 
 We want to strike back because it makes us feel better.
 
@@ -31,7 +31,7 @@ However, revenge seems to make us feel worse in the long run.
 
 In a study, participants played a game where they’d all receive the same amount of money if they cooperated unless one person double-crossed them. In that case, that person would get more, and everyone else would get less.
 
-Double-crossed players got a chance to retaliate, and when they did, they initially felt great—but later felt worse than at the start of the experiment. Seeking revenge makes the event seem larger in our minds than it is, which gives it more power over our mood. ([Read more about it here](https://www.reuters.com/article/us-punishment-study/study-shows-leaving-sweeter-than-revenge-idUSN1957594420080320){: target="_blank" rel="noopener noreferrer"})
+Double-crossed players got a chance to retaliate, and when they did, they initially felt great—but later felt worse than at the start of the experiment. Seeking revenge makes the event seem larger in our minds than it is, which gives it more power over our mood. ([Read more about it here](https://www.reuters.com/article/us-punishment-study/study-shows-leaving-sweeter-than-revenge-idUSN1957594420080320){: target="_blank" rel="noreferrer noopener"})
 
 This reminds me of an ad hoc definition of trauma I learned, where it’s like you experience the event every time you think of it as if it had \*just\* occurred. Perhaps memory is the key to dealing with trauma and helping us forgive, for when we think about something intensely, and reinforce the wrong done to us. That makes it difficult to let it go.
 
@@ -51,7 +51,7 @@ As a child, some adults may save you. Your parents certainly should. But once yo
 
 Take those two ideas as the basis of reality. These are hard to disagree with. Now, take these ideas and apply them to people. When a person wrongs you, it’s more like they’re self-interested to the point of ignoring your well-being, even if that means specifically victimizing you to get something they want.
 
-If it weren’t you, it would have been someone else.
+If it wasn't you, it would have been someone else.
 
 Part of living in the universe is that bad stuff happens. Some of that bad stuff will happen to you. The hardest part is to realize that this isn’t personal.
 
