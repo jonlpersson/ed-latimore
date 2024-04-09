@@ -51,7 +51,7 @@ The key lies in recognizing that the universe is indifferent to our individual s
 
 Here is a quick way to help you stop being held hostage by how you feel about something in the past that you can’t do anything about.
 
-When someone wrongs us, it's important to remember that their actions are a reflection of their own issues and not a targeted attack on our worth as individuals. If it hadn't been us, it likely would have been someone else. This perspective shift can help us let go of the anger and resentment that fuels the desire for revenge.
+When someone wrongs us, it's important to remember that their actions reflect their own issues and are not a targeted attack on our worth as individuals. It likely would have been someone else if it hadn't been us. This perspective shift can help us release the anger and resentment that fuels the desire for revenge.
 
 ## Forgiveness: A Path Forward
 
