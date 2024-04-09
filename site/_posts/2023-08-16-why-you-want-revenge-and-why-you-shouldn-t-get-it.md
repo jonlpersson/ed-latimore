@@ -29,7 +29,7 @@ Evolutionary psychologists suggest that the inclination for vengeance is deeply 
 
 In the absence of laws and formal justice systems, our ancestors relied on the threat of retaliation to maintain social harmony and address acts of unfairness.
 
-Incentives are powerful. In theory, an eye for an eye makes everyone blind, but in reality, it makes everyone act right because no one wants to lose those their eyesight
+Incentives are powerful. In theory, an eye for an eye makes everyone blind, but in reality, it makes everyone act right because no one wants to lose their eyesight
 
 ## The Long-Term Consequences of Revenge
 
