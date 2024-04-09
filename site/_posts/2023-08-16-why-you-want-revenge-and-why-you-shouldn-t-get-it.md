@@ -55,11 +55,11 @@ When someone wrongs us, it's important to remember that their actions reflect th
 
 ## Forgiveness: A Path Forward
 
-While the word "forgiveness" often requires extensive explanation to avoid being misinterpreted as a call for lawlessness, it is a powerful tool for moving past the pain of offense.
+While the word "forgiveness" often requires extensive explanation to avoid misinterpretation as a call for lawlessness, it is a powerful tool for overcoming the pain of offense.
 
 Forgiveness doesn't mean condoning wrongdoing or absolving someone of the consequences of their actions. Instead, it's a personal choice to release the emotional burden of anger and resentment.
 
-Research has shown that forgiveness can lead to improved mental and physical health outcomes. A meta-analysis by Worthington and Scherer (2004) found that forgiveness interventions can significantly reduce anxiety, depression, and stress while increasing self-esteem and hope.
+Research has shown that forgiveness can improve mental and physical health outcomes. A meta-analysis by Worthington and Scherer (2004) found that forgiveness interventions can significantly reduce anxiety, depression, and stress while increasing self-esteem and hope.
 
 ## To Forgive or Seek Revenge?
 
