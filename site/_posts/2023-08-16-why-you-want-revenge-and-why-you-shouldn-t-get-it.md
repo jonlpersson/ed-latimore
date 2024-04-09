@@ -15,6 +15,8 @@ Have you ever been wronged by someone and felt an overwhelming desire to get eve
 
 The urge for revenge is a powerful and deeply ingrained human instinct that has been shaped by our evolutionary history. In this article, we'll explore the psychology of revenge, its short-term and long-term effects, and how we can break free from the cycle of retaliation.
 
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/QWfJcDhFRLg?si=xOieifoHXVWypDfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 ## The Power of Revenge
 
 Retaliatory aggression, or revenge, is often a way for people to cope with the pain of rejection and insult. When we feel wronged, our natural instinct is to strike back, hoping to make the other person feel the same pain we experienced. This desire for revenge is so strong that it can even provide a temporary mood boost.
