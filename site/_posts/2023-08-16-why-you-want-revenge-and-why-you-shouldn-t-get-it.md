@@ -33,21 +33,21 @@ Incentives are powerful. In theory, an eye for an eye makes everyone blind, but 
 
 ## The Long-Term Consequences of Revenge
 
-While revenge may provide short-term emotional relief, research suggests that it can have detrimental effects on our well-being in the long run.
+While revenge may provide short-term emotional relief, research suggests that it can harm our well-being in the long run.
 
-In a study by Carlsmith, Wilson, and Gilbert (2008), participants played a game where they could cooperate or betray one another for financial gain. Those who were betrayed had the opportunity to retaliate, and while they initially felt great after seeking revenge, they ultimately experienced lower overall mood compared to the start of the experiment.
+In a study by Carlsmith, Wilson, and Gilbert (2008), participants played a game in which they could cooperate or betray one another for financial gain. Those who were betrayed had the opportunity to retaliate. While they initially felt great after seeking revenge, they ultimately experienced a lower overall mood than at the experiment's start.
 
 This finding highlights an important point: dwelling on revenge can magnify the significance of the original offense in our minds, giving it more power over our emotions.
 
-This reminds me of an ad hoc definition of trauma I learned, where it’s like you experience the event every time you think of it as if it had \*just\* occurred. Perhaps memory is the key to dealing with trauma and helping us forgive, for when we think about something intensely, and reinforce the wrong done to us. That makes it difficult to let it go.
+This reminds me of an ad hoc definition of trauma I learned, where it’s like you experience the event every time you think of it as if it had \*just\* occurred. Perhaps memory is the key to dealing with trauma and helping us forgive, for when we think about something intensely, it reinforces the wrong done to us. That makes it difficult to let it go.
 
 This isn’t therapy. This isn’t a cure. This isn’t a replacement for justice. It’s just a technique I’ve used to stop feeling so much anguish towards the people from childhood who hurt me.
 
-Breaking Free from the Cycle of Revenge
+## Breaking Free from the Cycle of Revenge
 
 So, how can we break free from the destructive cycle of revenge?
 
-The key lies in recognizing that the universe is indifferent to our individual struggles. We are all insignificant specks in the grand scheme of things, and the bad things that happen to us are often not personal attacks, but rather the result of others pursuing their own self-interests.
+The key lies in recognizing that the universe is indifferent to our individual struggles. We are all insignificant specks in the grand scheme of things, and the bad things that happen to us are often not personal attacks but rather the result of others pursuing their own self-interests.
 
 Here is a quick way to help you stop being held hostage by how you feel about something in the past that you can’t do anything about.
 
