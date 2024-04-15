@@ -5,6 +5,7 @@ title: How to use Big Stick Energy to survive the Prisoner's Dilemma
 permalink: /big-stick-policy-prisoners-dilemma/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Relationships
 description: >-
   Life is a game. Even when it's serious, you're still just playing a game. The
   cruelest part of this game, aside from it not seeming like a game, is that no
