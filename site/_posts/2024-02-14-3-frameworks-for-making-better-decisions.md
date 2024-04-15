@@ -5,6 +5,7 @@ title: 3 frameworks for making better decisions
 permalink: /decisions-making-frameworks/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >-
   Here are my three frameworks for making decisions—with a bonus fourth. These
   metrics are responsible for everything positive in my life, regardless of the
@@ -27,11 +28,11 @@ These were events where I had a choice to make. All but the first choice was mad
 * Getting sober
 * Returning to school
 
-I also thought about important decisions that affected the direction of my life but were not as defining.&nbsp;
+I also thought about important decisions that affected the direction of my life but were not as defining.
 
-The decisions I made in the first category, I'm either incapable of imagining an alternative life, or the life I picture is so fundamentally different that my life wouldn't look like it is now.&nbsp;
+The decisions I made in the first category, I'm either incapable of imagining an alternative life, or the life I picture is so fundamentally different that my life wouldn't look like it is now.
 
-The difference between these choices and the life-defining watershed moments is that I can see how my life looks if I don't take the following actions. While it's impossible to know for sure, I can imagine a life where I didn't do the following.&nbsp;
+The difference between these choices and the life-defining watershed moments is that I can see how my life looks if I don't take the following actions. While it's impossible to know for sure, I can imagine a life where I didn't do the following.
 
 * Writing about my life online
 * Paying off debt to rebuild my credit
@@ -40,7 +41,7 @@ The difference between these choices and the life-defining watershed moments is 
 
 And lastly, there are the small decisions I make more frequently. They would affect the quality of my daily life but would not change its course or where I’m going. Those decisions are too numerous to list, and I’d forget most of them anyway.
 
-Thinking about the significant decisions I've made and my approach to the lesser ones did reveal that I have a set of rules or metrics. They're so ingrained in my method of operation that I had trouble articulating when I was put on the spot about them.&nbsp;
+Thinking about the significant decisions I've made and my approach to the lesser ones did reveal that I have a set of rules or metrics. They're so ingrained in my method of operation that I had trouble articulating when I was put on the spot about them.
 
 However, I eventually answered, and that's the subject of today's newsletter. Here are my three frameworks for making decisions—with a bonus fourth. These metrics are responsible for everything positive in my life, regardless of the domain. Furthermore, whenever I've found myself in an adverse or precarious situation, the reason is because I was not following these metrics.
 
@@ -67,7 +68,7 @@ Few people ever make decisions. Instead, they take what's offered, believing the
 The previous statement is not just my subjective opinion. Consider a few statistics:
 
 * Not only has the number of close friends decreased ([source](https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/)), but the average person hasn’t made a new friend in over five years, with many saying their friendships peaked at 23 ([source](https://www.wtsp.com/article/news/study-says-the-average-american-hasnt-made-a-new-friend-in-half-a-decade/67-61e09c92-ab6d-4d82-a505-056604aa76d9)).
-* 41\.9% of Americans are obese ([source](https://www.tfah.org/report-details/state-of-obesity-2023/)). You're considered obese when you have a body mass index greater than 30. Yes, BMI can misreport at the extremes (taller than two standard deviations above the mean or heavy muscle), but that's not most people. To put a 30 BMI into perspective, I'm 6'1"and 220lbs, and I am a former pro athlete with lots of muscle and low-ish body fat, and I still don't break 30 on the BMI.&nbsp;
+* 41\.9% of Americans are obese ([source](https://www.tfah.org/report-details/state-of-obesity-2023/)). You're considered obese when you have a body mass index greater than 30. Yes, BMI can misreport at the extremes (taller than two standard deviations above the mean or heavy muscle), but that's not most people. To put a 30 BMI into perspective, I'm 6'1"and 220lbs, and I am a former pro athlete with lots of muscle and low-ish body fat, and I still don't break 30 on the BMI.
 
 I chose these two measurements to point out that many people let entropy go unchecked in their lives. Health and relationships are two of the most essential areas in your life, and many people don't do anything to improve them.
 
@@ -77,7 +78,7 @@ I started boxing because I was doing nothing with my life, and I imagined that i
 
 When I changed trainers, my thought at the time was that I would not get over the hump in my current situation with my trainer. That meant all my training would be wasted, and I'd be embarrassed losing. Again, my ego appears.
 
-So when deciding what it costs you to NOT take action, imagine the pain you'll endure if things keep going the way they are. Do not assume that your situation will suddenly and spontaneously improve. When you harbor illusions of passivity, you will be in for a rude awakening when things don't go according to plan.&nbsp;
+So when deciding what it costs you to NOT take action, imagine the pain you'll endure if things keep going the way they are. Do not assume that your situation will suddenly and spontaneously improve. When you harbor illusions of passivity, you will be in for a rude awakening when things don't go according to plan.
 
 ## Decision Framework 2: The worst-case scenario I can live with
 
@@ -85,7 +86,7 @@ The most challenging decisions we make are rarely between two similar paths. We 
 
 In these instances, I imagine the worst-case scenario of each scenario, independent of the odds of that scenario occurring. There are no guarantees, so it’s important to consider what happens if things don’t work out or, if things do go as planned, what continuing down this path will feel like if you lose motivation or enjoyment of the work required.
 
-I once heard this referred to as “choosing your shit sandwich.” Focusing only on the positives of a decision is how you get blindsided when things become difficult or go wrong. No one gives up because everything is moving smoothly without incident.&nbsp;
+I once heard this referred to as “choosing your shit sandwich.” Focusing only on the positives of a decision is how you get blindsided when things become difficult or go wrong. No one gives up because everything is moving smoothly without incident.
 
 This thinking is a natural extension of the opportunity cost perspective of events.
 
@@ -109,11 +110,11 @@ Developing and clearly stating your values has utility beyond decision-making. S
 
 There are few things worse for sleep than behaving in a way that you won't be able to stand by with pride. When you're scared that your deeds will undo your relationships, professional standing, or personal progress, you'll want a time machine to fix the past.
 
-While the little decisions I've made (or not made) using this heuristic is too long to list in this post, a few years ago, I created a list of things I learned when I turned 30. I learned many of those lessons about value the hard way.&nbsp;
+While the little decisions I've made (or not made) using this heuristic is too long to list in this post, a few years ago, I created a list of things I learned when I turned 30. I learned many of those lessons about value the hard way.
 
 ## Bonus Decision Framework 4: Be able to explain yourself
 
-This framework is a helpful way to think better. While not directly related to decision-making, improving your thinking will have a downstream effect on your decision-making ability.&nbsp;
+This framework is a helpful way to think better. While not directly related to decision-making, improving your thinking will have a downstream effect on your decision-making ability.
 
 One of the best chess lessons I got was "Always be able to explain why you made that move." This approach ensures that, even when you make the wrong move, you can analyze your thinking to find errors in your thought process. This approach also guarantees that you slow down and make deliberate decisions rather than be ruled by emotional impulses.
 
@@ -123,8 +124,8 @@ When I tutored physics and math, I had my students talk through their [problem-s
 
 ## Closing framework thoughts
 
-Numerous frameworks, metrics, and rules are out there to help you make better decisions. I'm sure that even the list of frameworks I use when making decisions is incomplete.&nbsp;
+Numerous frameworks, metrics, and rules are out there to help you make better decisions. I'm sure that even the list of frameworks I use when making decisions is incomplete.
 
-With that said, following these frameworks will help you make better decisions in most situations.&nbsp;
+With that said, following these frameworks will help you make better decisions in most situations.
 
 \[% include widgets/summary.html id="Stoic-Street-Smarts" %\}
