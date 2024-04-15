@@ -6,7 +6,7 @@ permalink: /signs-a-girl-likes-you/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Want to know if you’re more than friends? Here are the signs a girl likes you
   romantically
@@ -42,7 +42,7 @@ Better places are during activities where everyone is relaxed and primed for mee
 
 ### Her defenses are down
 
-This is called open body language. Open body language is a subtle sign of attraction and interest women unconsciously show.
+This is called [open body language](https://hop.clickbank.net/?affiliate=xxxxx&amp;vendor=katespring&amp;tid=yyyyy){: target="_blank" rel="noopener"}. Open body language is a subtle sign of attraction and interest women unconsciously show.
 
 Closed body language looks like:
 
@@ -81,6 +81,8 @@ She might even say something like “you're like a brother to me” or “you’
 * **She doesn’t text back or the relationship is one-sided**
 
 A good sales tactic is going into a sales call with the expectation that you won’t make the sale. Or knowing you have options and you don’t NEED their business. No one likes neediness, not clients and not potential romantic partners.
+
+You need to other women—and her—[a little obsessed with you.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=katespring&amp;tid=)
 
 It’s proven that when you have other women pursuing you, you are more attractive.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
 
