@@ -6,7 +6,7 @@ permalink: Social Media Entropy
 tags:
   - change-your-perspective
 categories:
-  - chess-math-and-language
+  - Risk
 description: >-
   Finding order within the digital chaos of social media is akin to desiring
   clarity amid a storm. While the system might inherently tend toward disorder,
@@ -29,7 +29,7 @@ In social media, entropy can be seen as the clutter of content, the cacophony of
 Both users and social media platforms have become quite savvy at organizing the flood of information. They work hard to turn the overwhelming chaos into manageable and meaningful streams of content.
 
 * **Smart Selection by Algorithms**: Imagine if your social media feed knew exactly what you liked – from your favorite food to your preferred music bands, from your most used [video editor](https://www.veed.io/tools/video-editor) to your most acknowledged photo editing app using your preferred [GIF compressor](https://www.veed.io/tools/video-compressor/gif-compressor). That's what algorithms do; they learn from your clicks and like to show you more of what you seem to enjoy.
-*
+  \*
 * **Hands-On Sorting**: Sometimes, we take matters into our own hands. This can mean choosing to not follow certain accounts anymore, muting updates that don't interest us, or telling the platform our favorite topics through its 'interests' settings.
 
 ## Voice Cloning Enters the Chat
