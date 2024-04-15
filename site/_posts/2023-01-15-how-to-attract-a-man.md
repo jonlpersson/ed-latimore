@@ -22,6 +22,8 @@ You’re taught to think like a man, level up, and ‘get the bag’, while subc
 
 And in the most baffling development of all, women are even being taught to look down on other women who want to be in relationships. See the Pick Me vs. Pass Me movement.
 
+Fortunately, many women actually want to be in a relationship and [want to know how to make it happen.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t){: target="_blank" rel="noopener"}
+
 The underlying factor that keeps women confused is that these messages are coming from other women. Worse, they come from women with no verifiable history of successful, long-term healthy relationships.
 
 This often leads to self-congratulatory wish lists based on how you think things should be.
@@ -90,7 +92,7 @@ In [*The Art of Seduction*](https://www.amazon.com/Art-Seduction-Robert-Greene/d
 
 If you’re in a cycle of first dates or short relationships, (and you’re choosing the right men) it may be valuable to get a hobby. Read [how to make yourself more likable](https://edlatimore.com/how-to-be-likeable/) for more tips on being a person other people love being around.
 
-{% include widgets/summary.html id="Coaching-Call" %}
+[This is easy way to make men obsessed with you.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t)
 
 ## 6\. Avoid the dating red flags
 
@@ -141,6 +143,8 @@ I’m not saying you should try to look like a supermodel, but you’ll look bet
 Finally, know what you want out of your life. That includes your family, health, relationships, career, etc. A high-value woman is an asset to not only her man but to her family, community, and herself. Living with intention cuts through the years of wandering aimlessly and facing countless setbacks that only collect emotional baggage.
 
 When it comes to finding a significant other, you don’t need an exhaustive list but know what a high-value man looks like. Read my article on [4 unfakeable traits of a high-value man](https://edlatimore.com/high-value-man/) to learn more.
+
+[Or, watch this free presentation to learn even more.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t)
 
 ## Final thoughts on how to attract a man
 
