@@ -5,6 +5,7 @@ title: How human behavior is subject to inflation
 permalink: /personal-value-inflation
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   If you're 35 and still struggling with the challenges of a 20-year-old, you'll
   have the "spending power" of someone who had their spending power reduced by
@@ -25,9 +26,9 @@ Fundamentally, inflation solves the "supply and demand" problem. Any time demand
 
 While increasing the money supply and events constraining output drive inflation, the root cause is too many dollars chasing too few goods. Whenever purchasing power surpasses productive capacity, suppliers will leverage their pricing power to curb demand, avoid shortages, and reallocate purchasing power while devaluing the currency.
 
-Inflation also happens when the money supply stays the same, but the available goods decrease. Since the sellers have to make a certain amount of money, they have to raise their prices (since there are fewer to sell) and to avoid shortages (since they’re now closer to running out of goods).&nbsp;
+Inflation also happens when the money supply stays the same, but the available goods decrease. Since the sellers have to make a certain amount of money, they have to raise their prices (since there are fewer to sell) and to avoid shortages (since they’re now closer to running out of goods).
 
-Most people don’t call this inflation, but it’s the same idea: the same amount of money buys less of the same good than it did before.&nbsp;
+Most people don’t call this inflation, but it’s the same idea: the same amount of money buys less of the same good than it did before.
 
 This is the fundamental mental idea. From now on, think of inflation like this:
 
@@ -43,7 +44,7 @@ When you’re a teenager, no one expects much out of you. Sure, there are outlie
 
 By your late 20s, you're expected to have met specific measures of life proficiency. For example, you're not dependent on your parents.
 
-By this age, everyone at least expects that you can hold down a job and pay for your existence in this world. You may still be overcoming the mistakes of your youth or the effects of a shoddy upbringing, but the only consistent societal marker of growth here is that you can pay your bills and you aren't a criminal.&nbsp;
+By this age, everyone at least expects that you can hold down a job and pay for your existence in this world. You may still be overcoming the mistakes of your youth or the effects of a shoddy upbringing, but the only consistent societal marker of growth here is that you can pay your bills and you aren't a criminal.
 
 By your late 30s, you're expected to be an adult. This age is where a division happens.
 
@@ -71,7 +72,7 @@ For example, when I was 18, the year was 2003. Dial-up internet still existed, w
 
 18-year-olds today have access to all of these things, giving them more opportunities at an earlier age. Therefore, it's more common for 18-year-olds to have substantial incomes.
 
-In this way, the natural inflation that has occurred spreads more opportunity, so even if the same percentage of people take advantage of them, more people are, making the progress seem less impressive.&nbsp;
+In this way, the natural inflation that has occurred spreads more opportunity, so even if the same percentage of people take advantage of them, more people are, making the progress seem less impressive.
 
 If you're 35, living in your mother's basement, and barely making minimum wage, you're out of shape and aren't working towards bettering yourself in any meaningful way, the effects of lifestyle inflation have also hit you.
 
