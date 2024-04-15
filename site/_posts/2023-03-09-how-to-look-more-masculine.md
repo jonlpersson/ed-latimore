@@ -6,7 +6,7 @@ permalink: /how-to-look-more-masculine/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Relationships
 description: >-
   Discover how to look more masculine and effortlessly exude masculinity from
   your wardrobe to your conversations
@@ -54,7 +54,7 @@ Lots of rappers, pimps, and rich men from every century have touted their jewelr
 
 When you're muscular, it can be challenging to find clothes that fit properly. However, there are ways to dress that flatter your physique. For example, you can wear clothes that show off your arms and chest, such as fitted t-shirts, button-down shirts, or polo shirts. Avoid baggy clothes, skinny jeans, or items like graphic t-shirts or beanie hats. These items cause you to look like a perpetual teenager, making it difficult for anyone to take you seriously when it counts.
 
-I worked with Tanner Guzy to[develop a unique, masculine style](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/) that enhances my attractiveness but also fits my body. \\
+I worked with Tanner Guzy to [develop a unique, masculine style](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/) that enhances my attractiveness but also fits my body.
 
 ## Be mindful of your nonverbal communication
 
@@ -80,7 +80,7 @@ My article on the[9 traits you need to be a man](https://edlatimore.com/how-to-b
 * You take responsibility for your actions, your life, and everything in between even if its not your fault.
 * You have a purpose and usefulness to your community
 
-{% include widgets/summary.html id="Coaching-Call" %}
+[Here's a free presentation that can help you become even more attractive to women.](https://hop.clickbank.net/?affiliate=xxxxx&amp;vendor=katespring&amp;tid=yyyyy){: target="_blank" rel="noopener"}
 
 ## Final thoughts on how to look more masculine
 
