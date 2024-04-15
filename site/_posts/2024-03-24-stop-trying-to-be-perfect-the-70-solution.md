@@ -7,6 +7,7 @@ tags:
   - change-your-perspective
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >-
   Preparation is essential, but after a certain point, the only thing left to do
   is act. Any more preparation is, at best, a waste of time and, at worst, a
