@@ -7,8 +7,12 @@ tags:
   - chess-math-and-language
 categories:
   - Relationships
-description:
-image:
+description: >-
+  The Pimsleur language program offers a framework you can use to learn a
+  language. This program is available in 51 different languages. I’ve used the
+  program, and can offer some insight into what it is, what it isn’t, and what
+  you can expect when you take the program.
+image: /assets/images/posts/pimsleur-1.jpg
 ---
 If you’ve lived long enough, learning a new language has likely been a bucket list item at some point. More often than not, this gets severely downgraded from a bucket list item, to something that would be nice, to something that never happens at all.
 
