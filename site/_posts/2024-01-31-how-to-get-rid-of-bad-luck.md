@@ -4,7 +4,7 @@ article_type: Article
 title: How to get rid of bad luck
 permalink: /how-to-get-rid-of-bad-luck/
 categories:
-  - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >
   Trying to manifest good luck while actively engaging in bad habits is like
   trying to drive a car with the emergency brake on. You can do it, but you’ll
@@ -28,7 +28,7 @@ Before I define luck, let me warn you: it will probably differ from whatever’s
 
 ---
 
-We aim to increase the amount of good luck and decrease the bad we experience. To accomplish this task, we must first understand the difference between the two.&nbsp;
+We aim to increase the amount of good luck and decrease the bad we experience. To accomplish this task, we must first understand the difference between the two.
 
 You benefit from good luck and suffer because of bad. This statement might seem obvious, but notice how it compares to my earlier definition of luck. When speaking of luck, without a modifying adjective, it's an impersonal observation of how the world works. Things happen and as a result of those intended things, other unintended things happen, the sum of which is luck.
 
@@ -48,7 +48,7 @@ You do something, intending to get one outcome. Because your actions don’t exi
 
 The quality of your actions determines the type of luck you’ll experience.
 
-Purposeful, constructive actions create good luck.<br>Aimless, overly indulgent actions create bad luck.&nbsp;
+Purposeful, constructive actions create good luck.<br>Aimless, overly indulgent actions create bad luck.
 
 Another way to look at this is to say that the directionality of your luck depends on the direction of your first actions. Useful actions create useful ripples. Destructive actions create destructive waves.
 
@@ -56,8 +56,8 @@ The easiest way to reduce your misfortune is to stop doing things with an object
 
 Fortunately, the list of ways to reduce bad luck is straightforward. Stop doing any of the following:
 
-1. **Hard drugs**. Don’t do anything you can’t buy from a legal source. Doing so means you’re more likely to get arrested or deal with people operating outside the law.&nbsp;
-2. **Smoking.** Smoking dramatically increases the likelihood that you’ll die early from \*something\*. And whatever kills you, it won’t take you out quickly or peacefully.&nbsp;
+1. **Hard drugs**. Don’t do anything you can’t buy from a legal source. Doing so means you’re more likely to get arrested or deal with people operating outside the law.
+2. **Smoking.** Smoking dramatically increases the likelihood that you’ll die early from \*something\*. And whatever kills you, it won’t take you out quickly or peacefully.
 3. **Drinking heavily.** Nothing improves, and no one makes better decisions when intoxicated. You don’t even need to do this one consistently. One night of heavy drinking can ruin your entire life.
 4. **Spending money you don’t have.** Living above your means is the surest way to guarantee that you’ll never make moves. It also means any surprise or emergency will ruin you.
 5. **Spending time with anyone who has done any of the previous activities.** The old saying is, "If you spend enough time in the barbershop, eventually you'll get a haircut." Or you may be more familiar with "you're the average of the five people you spend the most time around,"
@@ -67,7 +67,7 @@ If you stopped doing these six things, your quality of life would skyrocket, and
 
 * Spend time in environments where bad things are more likely to randomly happen to you (drug houses, bars, on the streets after dark, etc.)
 * Suffer from many health ailments that simultaneously cost you money to fix and reduce your earning capacity.
-* On the few occasions when bad luck strikes you, you’ll have more resources (money and the ability to earn more) to fix them.&nbsp;
+* On the few occasions when bad luck strikes you, you’ll have more resources (money and the ability to earn more) to fix them.
 
 There is one last thing you need to stop doing if you want to reduce your chances of encountering bad luck to zero: exercise sexual discipline. This means:
 
@@ -85,7 +85,7 @@ Here are all the ways lacking sexual discipline can increase the likelihood of y
 
 1. **Sexually transmitted diseases (STDs).** Aside from the embarrassing trip to the clinic and the pharmacy, many STDs are not curable. And the curable ones are becoming more resistant to antibiotics.
 2. **Children you didn’t want.** The only birth control method that’s 100% is abstinence. Every time you fornicate with someone, you take a chance where you might become the exception to the rule. If it’s with someone you don’t know well or when you’re already in a relationship, the next 20 years of your life will be full of bad luck. Even if the child is aborted, that’s an unexpected financial burden, not to mention the potential emotional distress you’ll suffer.
-3. **Scornful wrath**. If you take someone to bed too quickly, you may find yourself in a terrible love triangle. You definitely shouldn't sleep with anyone in a relationship (or outside of your own) because you never know how crazy people can get. [I wrote a Twitter thread about this.&nbsp;](https://twitter.com/EdLatimore/status/1544855848538759168){: target="_blank" rel="noopener"}
+3. **Scornful wrath**. If you take someone to bed too quickly, you may find yourself in a terrible love triangle. You definitely shouldn't sleep with anyone in a relationship (or outside of your own) because you never know how crazy people can get. [I wrote a Twitter thread about this.](https://twitter.com/EdLatimore/status/1544855848538759168){: target="_blank" rel="noopener"}
 4. **General problems.** You may be dealing with someone with many bad traits that can take an unpredictable toll on your emotional health. Remember, don't spend time with those who make you feel bad because it will lead you to make worse decisions than if you were of a clear and sound mind. Anyone who's ever dealt with stalkers and abusers knows exactly what I'm saying.
 
 {% twitter https://twitter.com/EdLatimore/status/1544855848538759168 %}
@@ -134,7 +134,7 @@ Where the unlucky person sees a tragedy, the other sees an opportunity to triump
 
 The beautiful thing about sudden hardship is that it’s often the only way to force growth in areas where you’ve become comfortable. Your weak traits, inadequate abilities, and insufficient resources are exposed for the first time.
 
-Changing your perspective about the event that appears to be bad luck doesn't turn it into something you'd consider good luck. However, it allows you to see it as an opportunity to fix something that will improve you.&nbsp;
+Changing your perspective about the event that appears to be bad luck doesn't turn it into something you'd consider good luck. However, it allows you to see it as an opportunity to fix something that will improve you.
 
 ## Take more chances
 
@@ -204,7 +204,7 @@ People are the most important thing.
 
 Being likable with the public is important, but your friends require a higher degree of authenticity. They'll be there with you through thick and thin and want to see you win.
 
-This is, of course, assuming you pick the right friends. Selecting the right friends is beyond this article, but know that doing so makes you incredibly lucky. They will come through for you when you need it and least expect it.&nbsp;
+This is, of course, assuming you pick the right friends. Selecting the right friends is beyond this article, but know that doing so makes you incredibly lucky. They will come through for you when you need it and least expect it.
 
 ---
 
