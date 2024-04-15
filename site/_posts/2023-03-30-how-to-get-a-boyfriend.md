@@ -6,7 +6,7 @@ permalink: /how-to-get-a-boyfriend/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/thumbnails/ed-and-anna-together.jpg
 description: >-
   Practical tips for woman to improve your personality, enhance your
@@ -49,6 +49,8 @@ When you start this way, you are more likely to hit your goal of finding a great
 
 Sometimes getting the man you want is an investment of time. Starting from how you want to feel has more potential to lead you to a satisfying life rather than a list of income or other superficial things. Don’t get me wrong, you’ll want to be able to [recognize a high-value man](https://edlatimore.com/high-value-man/#:~:text=The%20mark%20of%20a%20true,ruled%20out%20luck%20and%20anomaly.)when you see him but high income doesn’t equal high value.
 
+[This short presentation goes more into detail on getting a man obsessed with you.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t){: target="_blank" rel="noopener"}
+
 ## Improve your chances on dating apps
 
 Before online dating and dating apps, there were personal ads in the newspapers. These days the barriers to entry are far lower, making it feel difficult to find the right guy. However, recent studies show that meeting someone on a dating app as opposed to in-person is less likely to end in divorce.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> So the system works if you work it.
@@ -67,7 +69,7 @@ Look and sound your best on your dating app profile by:
 
 ## Upgrade your conversation
 
-If looks pull them in, conversations keep them.
+If looks pull them in, [conversations keep them.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t)
 
 Learning to hold good conversations is a skill anyone can learn. And whether you’re on a dating site looking for your soulmate or building friendships, it’s always going to pay dividends.
 
@@ -128,7 +130,7 @@ to summarize how to get a boyfriend:
 * Tap your social circle
 * Don’t compare yourself to others
 
-{% include widgets/cta-email.html %}
+[Grab some additional tips here.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=hissecret&amp;lp=0&amp;sb=t&amp;vc=t)
 
 ---
 
