@@ -6,7 +6,7 @@ permalink: /how-to-take-the-lead-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Whether you're single or have been married for years, here's how to be a
   leader in your relationship.
@@ -34,7 +34,7 @@ But taking the lead in your relationship is not about forcing the other party to
 
 Taking the lead is less controlling and more fostering an environment where you and she thrive off mutual respect and support. It’s also about knowing when it’s time for you to take the lead and when it’s time for you to take a step back.
 
-If you struggle with this, keep reading and I’ll tell you exactly how to take the lead in your relationship.
+[If you struggle with this](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=mmarriage&amp;tid=&amp;p=m){: target="_blank" rel="noopener"}, keep reading and I’ll tell you exactly how to take the lead in your relationship.
 
 ## Define your intentions upfront
 
@@ -77,7 +77,7 @@ Often, women need to talk through things to come to their own resolutions. When 
 
 Your ability to listen helps those seeking your advice to trust you more. If you’re completely clueless about when it’s time to offer a solution, ask what the intention of a conversation is upfront.
 
-{% include widgets/summary.html id="Attractive-Man" %}
+[This is probably one of the most important skills to keep a relationship strong.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=mmarriage&amp;tid=&amp;p=m){: target="_blank" rel="noopener"}
 
 ## Exit the emotional rollercoaster
 
@@ -123,7 +123,7 @@ Integrity with the world creates loyalty. Integrity with yourself creates moment
 
 Do what you say you’re going to do. Be who you say you are.
 
-{% include widgets/summary.html id="Coaching-Call" %}
+[When she doesn't trust you, the relationship falls apart.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=mmarriage&amp;tid=&amp;p=m){: target="_blank" rel="noopener"}
 
 ## Avoid one-itis
 
@@ -165,7 +165,7 @@ Whether you are starting a new relationship or are deep into your marriage, do t
 * Be willing to walk away
 * Learn from your mistakes
 
-{% include widgets/summary.html id="Attractive-Man" %}
+[Get even more help here.](https://hop.clickbank.net/?affiliate=edlatti&amp;vendor=mmarriage&amp;tid=&amp;p=m){: target="_blank" rel="noopener"}
 
 ---
 
