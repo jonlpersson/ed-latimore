@@ -6,7 +6,7 @@ permalink: /how-to-attract-a-man/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: This is how to really attract a high-value man, from a man’s perspective.
 image: /assets/images/thumbnails/ed-latimore-cross-legs-in-chair.jpg
 ---
