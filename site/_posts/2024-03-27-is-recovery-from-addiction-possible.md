@@ -6,7 +6,7 @@ permalink: /is-recovery-possible/
 tags:
   - getting-sober
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   After 10 years of sobriety, I tell you if I'm recovered and give my take on if
   recovery is possible at all. 
