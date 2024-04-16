@@ -5,6 +5,7 @@ title: Most Self-Help Is BS. How to Become Unrecognizable in Just 1 Year
 permalink: /how-to-become-unrecognizable/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   The journey requires sacrifice, but the rewards are great. Avoid shortcuts
   that promise easy transformation. Embrace the trials that deliver real change.
@@ -12,11 +13,11 @@ image: /assets/images/posts/edlatimore-busy-1.png
 ---
 Yesterday, on Twitter and Linkedin, I outlined three things you should do for ACTUAL self-improvement instead of reading the latest New York Times Bestseller self-help book that every influencer and thought leader recommends.
 
-***\[***[***Twitter version***](https://twitter.com/EdLatimore/status/1704501520350196049){: target="_blank" rel="noopener noreferrer"}***.***&nbsp;[***Linkedin version***](https://www.linkedin.com/posts/edlatimore_stop-reading-so-many-books-self-improvement-activity-7110265885252042754-NPVh){: target="_blank" rel="noopener noreferrer"}***. I would love it if you liked, commented, or shared. Or all three. It helps, and it’s free!\]***
+***\[***[***Twitter version***](https://twitter.com/EdLatimore/status/1704501520350196049){: target="_blank" rel="noopener noreferrer"}***.*** [***Linkedin version***](https://www.linkedin.com/posts/edlatimore_stop-reading-so-many-books-self-improvement-activity-7110265885252042754-NPVh){: target="_blank" rel="noopener noreferrer"}***. I would love it if you liked, commented, or shared. Or all three. It helps, and it’s free!\]***
 
 I will continue the list in today’s edition of Stoic Street Smarts. I’m still starting with the first three for everyone who didn't see the posts. This take on self-improvement might seem controversial, but if you did these six things for at least one year, you’d be a completely different, IMPROVED version of yourself.
 
-You won’t recognize the person you see in the mirror, and most of your friends will be in awe of your progress. Of course,&nbsp;[that causes other problems](https://twitter.com/EdLatimore/status/1599803263326355460){: target="_blank" rel="noopener noreferrer"}, but they’re far outweighed by the benefits you’d get from following this system.
+You won’t recognize the person you see in the mirror, and most of your friends will be in awe of your progress. Of course, [that causes other problems](https://twitter.com/EdLatimore/status/1599803263326355460){: target="_blank" rel="noopener noreferrer"}, but they’re far outweighed by the benefits you’d get from following this system.
 
 I see many people recommending that you read this book to build good habits or develop discipline. Then there's the most general "These are the books you MUST read to fix your mindset" list.
 
@@ -30,11 +31,11 @@ Take at least ten amateur fights. One year of living like a fighter, even part-t
 
 BJJ and Wrestling do not count. They're great disciplines, but no one is getting hit. We need danger and powerful negative feedback to develop discipline.
 
-Someone pointed out that, with this advice, I was just telling guys to get in shape. I also had a few guys comment that wrestling is one of the most physically demanding sports, so it should count.Let me be clear. This suggestion isn’t&nbsp;**just**&nbsp;about getting into top shape. If it were, I’d tell you to train to complete a triathlon. The point of training for a combat sport where you hit each other as the means to victory are:​
+Someone pointed out that, with this advice, I was just telling guys to get in shape. I also had a few guys comment that wrestling is one of the most physically demanding sports, so it should count.Let me be clear. This suggestion isn’t **just** about getting into top shape. If it were, I’d tell you to train to complete a triathlon. The point of training for a combat sport where you hit each other as the means to victory are:​
 
-* **You learn to persist through pain.**&nbsp;Boxing hurts. Even if you win, you might suffer contusions, cuts, or concussions. Those things can happen in wrestling, but they are incidental, not how the event is scored to determine a winner.
-* **You develop courage.**&nbsp;All types of combat training develop courage, but wrestling and grappling do not force you to control your automatic responses of flinching. Wrestling requires grit, but there is a low chance your opponent will actually hurt you. In striking arts, it’s a given.
-* **You can do this at any time.**&nbsp;One of the criticisms I received was that not everyone can do striking sports because of age. While this is technically true, your enrollment in school does not restrict the range for you to do them. As long as you can pass a physical, anyone can fight at any time. This is not true of wrestling.
+* **You learn to persist through pain.** Boxing hurts. Even if you win, you might suffer contusions, cuts, or concussions. Those things can happen in wrestling, but they are incidental, not how the event is scored to determine a winner.
+* **You develop courage.** All types of combat training develop courage, but wrestling and grappling do not force you to control your automatic responses of flinching. Wrestling requires grit, but there is a low chance your opponent will actually hurt you. In striking arts, it’s a given.
+* **You can do this at any time.** One of the criticisms I received was that not everyone can do striking sports because of age. While this is technically true, your enrollment in school does not restrict the range for you to do them. As long as you can pass a physical, anyone can fight at any time. This is not true of wrestling.
 
 ## 2) Learn a new language to at least the B1 level of the Common European Framework of Reference for Languages (CEFR)
 
@@ -80,7 +81,7 @@ One last note. When I did this, I learned the valuable skill of forgiveness. Mos
 
 ​
 
-Start by making yourself look as good as your budget will allow. That means getting in shape, as hill sprints, distance runs, and bodyweight workouts don’t cost a thing. Intermittent fasting and not eating out should&nbsp;*save*&nbsp;you money.
+Start by making yourself look as good as your budget will allow. That means getting in shape, as hill sprints, distance runs, and bodyweight workouts don’t cost a thing. Intermittent fasting and not eating out should *save* you money.
 
 Before you tell me that eating healthy costs more money, run the math on eliminating ultra-processed foods and what the investment in a crockpot or Instapot will cost you.
 
