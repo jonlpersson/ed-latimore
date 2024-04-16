@@ -5,6 +5,7 @@ title: 11 reasons why we can't have nice things
 permalink: /why-cant-we-have-nice-things/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   Here are 11 reasons why humanity is doomed and everything is f*cked. If we
   could fix even 2 of these things, our planet would become unrecognizable in
