@@ -5,6 +5,7 @@ title: The difference between being productive and busy
 permalink: /difference-between-productive-and-busy/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "While you will hit all phases if you seriously pursue a skill or goal, you’re
   likely wasting time if the harder you work, the less money or progress you
@@ -57,11 +58,11 @@ If the effort you put in is not returned in a relatively quick fashion, and ther
 
 ## **Are my results linear, exponential, or logarithmic?**
 
-**Linear growth:**&nbsp;You get out what you put in. If you work for 8 hours, you make 8 hours of progress. Your rate of progress stays the same. For example, if your job pays you $10/hr, you will make $10 no matter how many hours you work.
+**Linear growth:** You get out what you put in. If you work for 8 hours, you make 8 hours of progress. Your rate of progress stays the same. For example, if your job pays you $10/hr, you will make $10 no matter how many hours you work.
 
-**Exponential growth:**&nbsp;Your rate of progress increases with each expenditure of the same effort. In terms of money, this would be similar to the way that compound interest works. You put the same amount of money into your account each time, but your gains grow bigger and bigger.
+**Exponential growth:** Your rate of progress increases with each expenditure of the same effort. In terms of money, this would be similar to the way that compound interest works. You put the same amount of money into your account each time, but your gains grow bigger and bigger.
 
-**Logarithmic growth:**&nbsp;Your rate of progress decreases even if the amount of effort stays the same. Most things eventually end up this way as you approach a natural limit of skill and progress. Most jobs give pay raises on an (effectively) logarithmic scale. There is a natural limit to how much money you’ll make, and your raises typically (but not always) get smaller and smaller each year.
+**Logarithmic growth:** Your rate of progress decreases even if the amount of effort stays the same. Most things eventually end up this way as you approach a natural limit of skill and progress. Most jobs give pay raises on an (effectively) logarithmic scale. There is a natural limit to how much money you’ll make, and your raises typically (but not always) get smaller and smaller each year.
 
 While you will hit all phases if you seriously pursue a skill or goal, you’re likely wasting time if the harder you work, the less money or progress you make. Yes, there are limits to things, but you shouldn’t struggle to make logarithmic gains before making big or linear gains.
 
