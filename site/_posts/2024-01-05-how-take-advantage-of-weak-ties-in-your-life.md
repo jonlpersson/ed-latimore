@@ -5,6 +5,7 @@ title: How take advantage of weak ties in your life
 permalink: /how-to-take-advantage-of-weak-ties-in-your-life/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Relationships
 description: >
   The old saying is, "It's not what you know, but who," but how do we use it to
   our advantage? The Theory of Weak Ties is here to save the day, and baked into
@@ -20,7 +21,7 @@ The old saying is, "It's not what you know, but who." The idea is that personal 
 
 ![nepotism and cronyism](/assets/images/drafts/nepotism.jpeg){: width="720" height="729"}
 
-People look out for their friends and family, but we can’t do anything with this information. Sure, you can marry into a new family or figure out how to make friends with decision-makers and hirers, but that’s a long and uncertain path.&nbsp;
+People look out for their friends and family, but we can’t do anything with this information. Sure, you can marry into a new family or figure out how to make friends with decision-makers and hirers, but that’s a long and uncertain path.
 
 We need something faster and more specific. Ideally, the solution won't feel like the traditional networking that so many people dread, almost as much as they hate the idea of selling.
 
@@ -59,15 +60,15 @@ Here is an overview:
 
 ## Social media used to prove the power of weak ties
 
-[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to [new job opportunities and spur greater job mobility than one’s closest contacts.](/beyond-the-surface-area-of-luck/)&nbsp;
+[By conducting experiments with 20 million LinkedIn users over five years](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online), the MIT research team confirmed Granovetter’s weak tie theory, showing that weaker social connections are more likely to expose people to [new job opportunities and spur greater job mobility than one’s closest contacts.](/beyond-the-surface-area-of-luck/)
 
 Specifically, they found that moderate to weak tie strength led to the highest job mobility rates, according to the data on 600,000 new jobs generated. The weakest and strongest ties were associated with lower mobility rates, indicating an inverted U-shaped relationship between tie strength and mobility.
 
-This relationship makes sense for the weakest of your weak ties.&nbsp;
+This relationship makes sense for the weakest of your weak ties.
 
 If you barely know someone or hardly ever talk to them, then it’s no different than not knowing them. They can’t pass you any new information or opportunities because they don’t pass you anything. You don’t talk!
 
-***But what about the strongest ties?***&nbsp;
+***But what about the strongest ties?***
 
 This revelation feels counterintuitive to the point of being incorrect, but the answer can be found in redundancy.
 
@@ -131,7 +132,7 @@ Remember: relationships go both ways, so they should feel the same way about you
 
 The good news is that social media makes it easier to get to and maintain this level of connection. Technological convenience doesn't mean that social media is a substitute for in-person connections, but think of it this way:
 
-For better or worse, 40-year-olds today have MUCH greater awareness of what their high school classmates have been up to since graduation than they ever did before. There's not even a reason for the traditional high school reunion anymore.&nbsp;
+For better or worse, 40-year-olds today have MUCH greater awareness of what their high school classmates have been up to since graduation than they ever did before. There's not even a reason for the traditional high school reunion anymore.
 
 ## Closing words on business and romance with weak ties
 
@@ -139,6 +140,6 @@ When searching for either of those things, the ideas still hold because this is 
 
 If you don't have a diverse, optimally strong group of network ties, you'll never know anyone who doesn't already know what you do. As a result, you'll never get access to new opportunities and connections.
 
-Instead, you'll spend your life stuck after you've maxed your raw ability and connections with everyone you've always known.&nbsp;
+Instead, you'll spend your life stuck after you've maxed your raw ability and connections with everyone you've always known.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
