@@ -5,6 +5,7 @@ title: The Ethics of Uncertainty, Survivors Bias, And The Law of Large Numbers
 permalink: /survivors-bias-and-the-law-of-large-numbers/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >
   A great line from the hit series “Narcos” illustrates the law of large numbers
   idea more poetically. “The bad guys have to keep getting lucky. We only have
@@ -15,7 +16,7 @@ image: /assets/images/drafts/survivors-bias.png
 
 **\-Rob Henderson, Cambridge PhD student**
 
-Accepting luck's role in your success takes a certain level of maturity and humility.&nbsp;
+Accepting luck's role in your success takes a certain level of maturity and humility.
 
 It takes the same maturity and humility to accept your role in creating your problems.
 
@@ -33,13 +34,13 @@ I think about one of the defining moments in my life. I stopped drinking after a
 
 This was not the first time I’d driven drunk, but it was the last.
 
-I’m not proud of the behavior. Although no one got hurt, the risk I took doing that still fills me with guilt, but my emotional regrets and remorse are not why I bring this up. I bring it up to illustrate the probabilistic nature of life.&nbsp;
+I’m not proud of the behavior. Although no one got hurt, the risk I took doing that still fills me with guilt, but my emotional regrets and remorse are not why I bring this up. I bring it up to illustrate the probabilistic nature of life.
 
-When you focus only on the outcomes, you create a particularly devastating illusion.&nbsp;
+When you focus only on the outcomes, you create a particularly devastating illusion.
 
 ## The ethics of uncertainty and drunk driving
 
-In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year.&nbsp;
+In 2016, a little more than 1 million drivers were arrested for driving under the influence of alcohol or narcotics. That’s less than one percent of the 111 million self-reported episodes of alcohol-impaired driving among U.S. adults each year.
 
 This means that if you’ve been drinking, getting arrested for a DUI is the *least likely* outcome. If you have a DUI, the numbers suggest that you got unlucky. And not just kind of unlucky. However, it was your fault for getting behind the wheel intoxicated.
 
@@ -57,7 +58,7 @@ Survivor bias is the logical error of concentrating on those who passed a select
 
 The Allies analyzed bullet hole patterns on their planes, thinking more armor may be useful where the planes were getting hit the most. However, analyst Abraham Wald pointed out that the correct conclusion was the opposite - they should reinforce where there were the least bullet holes. Why?
 
-Because the planes they were looking at were the ones that had survived and returned.&nbsp;
+Because the planes they were looking at were the ones that had survived and returned.
 
 The areas with fewer bullet holes were likely the most critical - planes getting hit in those places likely didn’t make it back.
 
@@ -78,7 +79,7 @@ The law of large numbers refers to the tendency for results involving randomness
 
 A simple example is coin flips. Flip a coin 10 times, and heads or tails could dominate heavily by chance - the ratios will visibly differ from the 50-50 probability. But if you complete 10,000 coin flips, you'll likely end up close to 50% heads and tails as outliers balance out. The enormous volume normalizes around the expected value.
 
-A great line from the hit series “Narcos” illustrates this idea more poetically. “The bad guys have to keep getting lucky. We only have to get lucky once.” Maybe I would have kept getting lucky; however, no one outruns the law of large numbers forever.&nbsp;
+A great line from the hit series “Narcos” illustrates this idea more poetically. “The bad guys have to keep getting lucky. We only have to get lucky once.” Maybe I would have kept getting lucky; however, no one outruns the law of large numbers forever.
 
 But because I was one of the 99% who never got a DUI, I was able to change my life around and not suffer any consequences (jail time, criminal record, inability to get a passport, etc.). Although I got sober of my own volition, I don’t feel like this is an ethical and fair outcome. It is simply a lucky one that I capitalized on.
 
@@ -96,7 +97,7 @@ Of course, this also means that you could be dealing with legitimate violent cri
 
 We don’t all become redemption stories. We don’t all get in front of our problems before the law does. With that said, if you’re currently engaging in any behavior where the law of large numbers is currently on your side, my recommendation to you is to stop before the math catches up to you.
 
-The ethics of uncertainty and the law of large numbers give you a chance to get right before the universe intervenes. And it always does, one way or the other.&nbsp;
+The ethics of uncertainty and the law of large numbers give you a chance to get right before the universe intervenes. And it always does, one way or the other.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
 
