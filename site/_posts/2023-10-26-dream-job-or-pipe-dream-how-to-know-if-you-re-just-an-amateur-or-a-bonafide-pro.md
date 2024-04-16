@@ -7,6 +7,7 @@ title: >-
 permalink: /amateur-or-pro/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "Amateurs think talent and dumb luck are big factors in achieving good
   outcomes. Or they believe that bad outcomes are the result of bad luck."
@@ -18,7 +19,7 @@ A lot of people call themselves pros. Most of them are just amateurs waiting to 
 
 How do you know if you're dealing with a professional, a wanna-be, or an amateur? It ain't about the money. It ain't about the prizes. It ain't about the titles.
 
-It's about the&nbsp;**mindset**.
+It's about the **mindset**.
 
 You can't read someone's mind, but you can figure out their mindset. Just watch how they behave.
 
@@ -78,7 +79,7 @@ The amateur, meanwhile, hates criticism. Because of his ego, he takes everything
 
 Amateurs like to be "well-rounded" because being a jack-of-all-trades is a convenient excuse not to put in the hard work required to achieve mastery. It doesn't take much to reach an intermediate or above-average level in something — be it a career or a sport. But to win, you have to be willing to make the sacrifice. Blood, sweat, and tears.
 
-Of course, amateurs don't&nbsp;*really*&nbsp;want to win. Hell, they don't even want to compete. Sure, they might think they're competitive, but they just enjoy crossing the finish line — not the agony of preparing for and then running the race.
+Of course, amateurs don't *really* want to win. Hell, they don't even want to compete. Sure, they might think they're competitive, but they just enjoy crossing the finish line — not the agony of preparing for and then running the race.
 
 Professionals, on the other hand, love to compete. They enjoy the thrill and agony of battle. They know that the process is more important than the thrill of victory. The only way to be a good competitor is to work on mastering your craft. The easiest—and perhaps only—way to master your craft is to be obsessed with it.
 
