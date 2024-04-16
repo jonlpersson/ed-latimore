@@ -5,6 +5,7 @@ title: 'Federal informants and diplomats: Do you know who you''re dealing with?'
 permalink: /do-you-know-who-youre-dealing-with/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Relationships
 description: >-
   There are certain classes of people who can take your life and get away with
   it. They won't even be tried. This is why it's important to stay calm and
@@ -30,7 +31,7 @@ Even if the person is blatantly in the wrong and is trying to provoke you, it's 
 
 No matter the circumstance, treating people with respect and kindness is always a good idea. Even if they’re a true asshole, the best-case scenario is that you gain instant gratification if you respond with similar hostility and malice. Believe it or not, the worst-case scenario is NOT that they’ll retaliate.
 
-The worst-case scenario is that they’ll retaliate with the full knowledge they’ll never have to answer for their crime. That's where the fourth scenario comes in.&nbsp;
+The worst-case scenario is that they’ll retaliate with the full knowledge they’ll never have to answer for their crime. That's where the fourth scenario comes in.
 
 No matter how badass you think you are, there is not only someone worse, but there are people who are bad and will never have to face the consequences for their evil.
 
@@ -54,7 +55,7 @@ If you doubt this, check out the case of Anne Sacoolas, the wife of an American 
 
 Then there's the time when Salem Al-Mazrooei, a diplomat from the United Arab Emirates, was caught trying to have sex with a 13-year-old girl in Virginia. They set up a "To Catch A Predator" style sting and arrested him when he arrived to meet her, but were forced to let him go because of diplomatic immunity. ([Read the story here](https://www.rd.com/article/diplomatic-immunity-going-too-far/){: rel=""})
 
-This is the least likely scenario, but you have no idea who you're dealing with and their general stability level.&nbsp;&nbsp;
+This is the least likely scenario, but you have no idea who you're dealing with and their general stability level.
 
 This leads nicely to the next issue.
 
@@ -86,12 +87,12 @@ When being sentenced in 2001, Turscak admitted that he carried out crimes while 
 
 So please, don't be a dumb ass in these streets.
 
-***\[Read:&nbsp;[How to avoid a street fight and what to do if you can’t](https://edlatimore.com/how-to-win-a-street-fight/){: rel=""}\]***
+***\[Read: [How to avoid a street fight and what to do if you can’t](https://edlatimore.com/how-to-win-a-street-fight/){: rel=""}\]***
 
 Everyone worries about the police and the possibility of being killed by them with impunity, but at least in that scenario, there's an investigation and trial.
 
 In the case of a federally protected witness killing you, your death would just be the cost of doing business. As such, it would be written off and charged to the game.
 
-This is why you have to keep a cool head in the streets. You never know who is "protected" by the law.&nbsp;
+This is why you have to keep a cool head in the streets. You never know who is "protected" by the law.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
