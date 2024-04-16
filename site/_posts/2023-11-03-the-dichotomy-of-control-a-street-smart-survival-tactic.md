@@ -5,7 +5,7 @@ title: 'The Dichotomy of Control: A Street Smart Survival Tactic'
 permalink: /dichotomy-of-control/
 categories:
   - Stoic-Street-Smarts-Newsletter
-  - life-lessons
+  - Reality
 description: >-
   The dichotomy of control. I couldn't control poverty in my neighborhood, but I
   could control studying hard to maximize my scholarship chances. I couldn't
@@ -33,7 +33,7 @@ My childhood was a warzone, and I was a civilian caught in the cross fire. If wa
 
 ![Focus on what matters](/assets/images/posts/things-that-matter.jpeg "Focus on what matters"){: width="1400" height="1066"}
 
-As a child, I couldn’t do anything about where I lived or who I went to school with. I couldn’t control the behavior of my mom or other kids. I was born into unfortunate circumstances that came with great risk, but there was nothing I could do about it. I could only control how I lived, thought, and behaved.&nbsp;
+As a child, I couldn’t do anything about where I lived or who I went to school with. I couldn’t control the behavior of my mom or other kids. I was born into unfortunate circumstances that came with great risk, but there was nothing I could do about it. I could only control how I lived, thought, and behaved.
 
 The serenity prayer from Alcoholics Anonymous asks addicts for *"the serenity to accept what they can't change, the courage to change what they can, and the wisdom to know the difference."*
 
@@ -47,11 +47,11 @@ You have no power over external conditions, but charting your own course grants 
 
 ## The Stoic Practice Of Knowing What You Don't Control
 
-There is a line from the international best-selling memoir&nbsp;["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
+There is a line from the international best-selling memoir ["Man's Search For Meaning"](/quotes-from-mans-search-for-meaning) that sums up the idea of focusing on what you control nicely. For context, the author (Viktor Frankl) is a holocaust survivor who witnessed the horrors of the concentration camps firsthand because he was a prisoner there. He says that one of the ways he survived was to remember this idea:
 
 > “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”
 
-This dichotomy empowers us to liberate mental energy that would be wasted worrying over uncontrollable things. Instead, we can invest that energy into the spheres where our choices and skills really matter. In Frankl's case, what mattered most was surviving the camps.&nbsp;
+This dichotomy empowers us to liberate mental energy that would be wasted worrying over uncontrollable things. Instead, we can invest that energy into the spheres where our choices and skills really matter. In Frankl's case, what mattered most was surviving the camps.
 
 In my case, I couldn't control poverty in my neighborhood, but I could control studying hard to maximize my chances of a scholarship. I couldn't stop school bullying altogether, but I could control not letting it make me cruel or bitter. My day-to-day life may have been difficult, but I didn't have to let make me difficult to deal with.
 
