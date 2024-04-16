@@ -5,6 +5,7 @@ title: Confirmation Bias, Cherry-Picking, and Echo Chambers
 permalink: /confirmation-bias-echo-cherry-picky-echo-chambers/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >-
   The three-headed-dragon of cherry-picking, confirmation bias, and echo
   chambering make you stupid and unable to deal with reality. Learn how to
@@ -44,7 +45,7 @@ This insular dynamic can easily promote misinformation and distortions of realit
 
 The problem with an echo chamber is it allows weak ideas to flourish, unchecked by the natural selection pressures of intellectual debate and rigor. Because these weaker, fallacious perspectives and ideas never get challenged, they never modify but never die either. What happens then is the intellectual equivalent of inbreeding.
 
-When a population lacks genetic diversity, detrimental mutations get passed on rather than get selected out by evolutionary pressures. Similarly, flawed arguments and beliefs perpetuate unchecked within echo chambers due to an absence of ideological diversity and dissent.&nbsp; Just as inbreeding multiplies the concentration of undesirable genes over generations, echo chambers compound irrationality over time.
+When a population lacks genetic diversity, detrimental mutations get passed on rather than get selected out by evolutionary pressures. Similarly, flawed arguments and beliefs perpetuate unchecked within echo chambers due to an absence of ideological diversity and dissent.  Just as inbreeding multiplies the concentration of undesirable genes over generations, echo chambers compound irrationality over time.
 
 With no infusion of fresh philosophies or counter-evidence, absurdities amplify exponentially. And individuals within these closed-loop systems grow more adamant in their convictions even as their worldview stunts further from reality. They sink deeper into the delusion that theirs is the only valid mode of thinking.
 
@@ -68,13 +69,13 @@ When evaluating online communities or social circles, ask yourself:
 
 * Do they tend to promote only a single dominant perspective?
 * Does rumor or incomplete data rather than evidenced facts prop up that viewpoint?
-* Do they frequently ignore or discredit dissenting facts if they challenge accepted narratives?&nbsp;
+* Do they frequently ignore or discredit dissenting facts if they challenge accepted narratives?
 
 If you answer yes to any of these questions, you may be in an echo chamber. The lack of healthy disagreement, omission of opposing details, and refusal to acknowledge inconvenient truths are key warning signs.
 
 There is one other danger of confirmation bias, cherry picking, and residing in an echo chamber. It can make you agree with ideas you know are absurd but can’t disagree with because you’ll look like an outsider who sides with the opposition. This tactic is heavily used by politicians and pundits and has a significant effect on the United States' political system.
 
-I once posted that I’m pro 2nd Amendment, but given the power and ease of operation of today’s firearms, it wouldn’t be a bad idea to require mandatory training hours per year to own a gun. Several gun instructors have told me that most people, even law enforcement, don’t adequately train how to shoot and just believe they’ll pull the trigger.&nbsp;
+I once posted that I’m pro 2nd Amendment, but given the power and ease of operation of today’s firearms, it wouldn’t be a bad idea to require mandatory training hours per year to own a gun. Several gun instructors have told me that most people, even law enforcement, don’t adequately train how to shoot and just believe they’ll pull the trigger.
 
 Any experienced shooters know how hard it is to hit a target even 10 yards away, standing still in the controlled environment of a gun range. Under duress is nearly impossible, but this take was met with so much pushback because the right side of politics viewed it as an infringement upon rights.
 
@@ -84,7 +85,7 @@ On the other end of the spectrum, the left took great offense when I pointed out
 
 When you commit yourself to growth and the truth, you must be strong because you get hate from both sides. When your conclusions agree with one side, you’ll gain temporary praise from them and disdain from the other. But soon enough, you’ll be seen as a traitor by those who embraced you and not accepted by the other side. You’ll have to learn to walk alone, without the safety of the crowd or groups, and be willing to look like a turncoat as you update your thinking as you learn.
 
-We must make concrete efforts to expose ourselves to alternate paradigms and truths outside our filter bubbles. Signing up for a newsletter from an opposing ideology, following thought leaders with vastly different lived experiences than ours, and diving deeper into the facts behind viral headlines can all help burst echo chambers.&nbsp;
+We must make concrete efforts to expose ourselves to alternate paradigms and truths outside our filter bubbles. Signing up for a newsletter from an opposing ideology, following thought leaders with vastly different lived experiences than ours, and diving deeper into the facts behind viral headlines can all help burst echo chambers.
 
 The only way to test the integrity of our beliefs is by putting them through trial by fire. Even if you get burned up, that’s a better fate than being an intellectual hillbilly.
 
