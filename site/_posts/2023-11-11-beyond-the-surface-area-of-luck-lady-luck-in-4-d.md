@@ -5,6 +5,7 @@ title: 'From 2-D for 4-D: Beyond the surface area of luck'
 permalink: /beyond-the-surface-area-of-luck/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >-
   The original concept of the "surface area of luck" is useful, but there is
   more to it. Read on to change your life with great serenity and better
@@ -64,7 +65,7 @@ This might frustrate “hard workers” who can’t seem to catch a break no mat
 
 “Luck is when opportunity meets preparation.”
 
-We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as opportunity is dependent on work.&nbsp;
+We’ll consider “preparation” the same as work. They’re effectively the same thing. Let’s plot “work” on the x-axis and “opportunity” on the y-axis. This is important, as opportunity is dependent on work.
 
 ![The surface area of luck](/assets/images/posts/1-2.png "Opportunity is a function of valuable work"){: width="1080" height="1080"}
 
@@ -82,7 +83,7 @@ Your wages likely reflect that. If you’re ever in doubt, ask yourself this sim
 
 To remember the distinction, keep the following idea in mind:
 
-**If I hire you to dig a hole, I’m not paying you more because you used a spoon. Likewise, I’m not paying you less because it turned out to be a sinkhole.**&nbsp;
+**If I hire you to dig a hole, I’m not paying you more because you used a spoon. Likewise, I’m not paying you less because it turned out to be a sinkhole.**
 
 ### Work and opportunities
 
@@ -90,7 +91,7 @@ In the [original post that spawned the idea of the surface area of luck](https:/
 
 Your expertise naturally grows when you take action on what deeply interests you. In turn, people learn about your skills and may utilize them in totally unexpected ways.
 
-This is the idea of getting your lucky break. It comes when you take action on valuable work that you enjoy so much you are compelled to push yourself.&nbsp;
+This is the idea of getting your lucky break. It comes when you take action on valuable work that you enjoy so much you are compelled to push yourself.
 
 This passion gets attention. That attention brings opportunities. When you are good at things that people find valuable, this also bestows on you a sense of competence that bleeds over into other opportunities.
 
@@ -100,7 +101,7 @@ Another way to interpret this is that you must learn to self-promote. Even if yo
 
 I used to live by the adage, “When you’re good, you tell other people, but when you’re great, other people tell other people about you.”
 
-While this is still mostly true, the world is a noisy place. Markets are not oversaturated as much as crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.&nbsp;
+While this is still mostly true, the world is a noisy place. Markets are not oversaturated as much as crowded with noisy C and D-level players who learned to self-promote to compensate for their lack of skill.
 
 It’s great when those people find you, but it’s even more powerful when you start to seek them out.
 
@@ -136,9 +137,9 @@ They can more easily verify that you’re someone worth working with by looking 
 
 We can think of cold outreach as adding a new dimension to the "surface area of luck" - transforming it into a broader "volume of success." Making cold connections expands your network beyond existing relationships.
 
-Cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities.&nbsp;
+Cold outreach is more effective once you've built momentum through great work and capitalizing on opportunities.
 
-People typically think of this as "networking," but the secret is that there is no such thing as networking. There is only being good at something, letting people discover it, and then offering your services to them.&nbsp;
+People typically think of this as "networking," but the secret is that there is no such thing as networking. There is only being good at something, letting people discover it, and then offering your services to them.
 
 {% twitter https://twitter.com/EdLatimore/status/1081045781270925314 %}
 
@@ -148,7 +149,7 @@ A track record of success gives cold outreach more power. Strangers are more ope
 
 ## More swings at bat = more home runs
 
-If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock one out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.&nbsp;
+If your batting average is .3, you’ll hit the ball 3 of 10 times that you swing at it. Most of those will be base hits, but occasionally, you’ll knock one out of the park. Let’s assume that your batting average has been maxed out—you simply can’t get any better.
 
 The only way to get more home runs is to swing at more pitches. This takes time, bringing us to the fourth and final dimension.
 
