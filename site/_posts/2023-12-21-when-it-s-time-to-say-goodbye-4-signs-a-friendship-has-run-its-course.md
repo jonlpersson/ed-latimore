@@ -5,6 +5,7 @@ title: 'When It''s Time to Say Goodbye: 4 Signs a Friendship Has Run Its Course'
 permalink: /when-to-end-a-friendship/
 categories:
   - Relationships
+  - Stoic-Street-Smarts-Newsletter
 description: >-
   Is it time to end a friendship? This article will tell you the four times you
   must cut it loose.
