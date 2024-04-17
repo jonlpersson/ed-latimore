@@ -5,6 +5,8 @@ title: Why old friendships can be like scabs and scars
 permalink: why-old-friendships-can-be-like-scabs-and-scars
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
+  - Relationships
 description: >-
   "Think of it like this. If an ex sends you a "Merry Christmas" or "Happy
   Birthday" text, they probably mean it, but it’s also a low-risk investment to
