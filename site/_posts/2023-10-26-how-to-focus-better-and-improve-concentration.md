@@ -5,6 +5,7 @@ title: How to focus better and improve concentration
 permalink: /how-to-focus-better-and-improve-concentration/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "Put your mind on your breathing. Try to consciously breathe more slowly with
   increasing depth and control. Successful people use these methods to eliminate
@@ -40,7 +41,7 @@ Whether watching TV, making pointless phone calls, or drinking excessively, peop
 
 This ruins your ability to concentrate.
 
-This is why there have always been[&nbsp;methods, systems, and&nbsp;](https://systemsunday.com/systems-habits/){: target="_blank" rel="noopener noreferrer"}secrets devoted to teaching people how to focus better, concentrate, and resist the world's distractions.
+This is why there have always been[methods, systems, and](https://systemsunday.com/systems-habits/){: target="_blank" rel="noopener noreferrer"}secrets devoted to teaching people how to focus better, concentrate, and resist the world's distractions.
 
 ## **Understand Why You Can't Concentrate**
 
@@ -54,7 +55,7 @@ You can't check things off your to-do list if you're constantly checking Twitter
 
 Focus requires you to concentrate on one thing at a time. This may initially be uncomfortable.
 
-We may be able to focus, but[&nbsp;our brains also evolved to seek novelty.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/){: target="_blank" rel="noopener noreferrer"}&nbsp;For many of us, focus is boring, and we hate to be bored.
+We may be able to focus, but[our brains also evolved to seek novelty.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635443/){: target="_blank" rel="noopener noreferrer"} For many of us, focus is boring, and we hate to be bored.
 
 This is why you lack focus. You want it to be fun. You want it to be easy. You want it to be comfortable.
 
@@ -72,11 +73,11 @@ Homework problems were extremely difficult and time-consuming. My mechanics and 
 
 If I let myself, then I could easily be distracted by anything. Even worse, I could devise compelling reasons for doing other things. My solution to this was simple:
 
-* **I turned my phone off.**&nbsp;Airplane mode wasn't good enough because I have a few apps that don't require the internet to distract me.
-* **I disconnected my computer from the internet.**&nbsp;If you’re doing work that requires you to be connected to the internet, this may not be feasible, but at least disconnect from social media.
-* **I worked in a clutter-free area.**&nbsp;Clutter is mentally distracting. It also provides a convenient way out of work if you decide that you want to clean instead of work.
-* **I made sure I had a glass of water and a snack.**&nbsp;It doesn't really matter what the snack is. What matters is that you have something you don't waste time getting up to eat or drink.
-* **Before I started working, I used the bathroom.**&nbsp;This one is obvious. Nothing destroys your ability to focus like having to pee.
+* **I turned my phone off.** Airplane mode wasn't good enough because I have a few apps that don't require the internet to distract me.
+* **I disconnected my computer from the internet.** If you’re doing work that requires you to be connected to the internet, this may not be feasible, but at least disconnect from social media.
+* **I worked in a clutter-free area.** Clutter is mentally distracting. It also provides a convenient way out of work if you decide that you want to clean instead of work.
+* **I made sure I had a glass of water and a snack.** It doesn't really matter what the snack is. What matters is that you have something you don't waste time getting up to eat or drink.
+* **Before I started working, I used the bathroom.** This one is obvious. Nothing destroys your ability to focus like having to pee.
 
 You can adapt this process to your focus challenge, but the idea remains the same: remove distractions.
 
@@ -84,7 +85,7 @@ You can adapt this process to your focus challenge, but the idea remains the sam
 
 You will always have trouble focusing if you don’t know what you need to focus on.
 
-One of the best examples of this can be found in the Poker Hall of Famer[&nbsp;Phil Ivey](https://en.wikipedia.org/wiki/Phil_Ivey){: target="_blank" rel="noopener noreferrer"}.
+One of the best examples of this can be found in the Poker Hall of Famer[Phil Ivey](https://en.wikipedia.org/wiki/Phil_Ivey){: target="_blank" rel="noopener noreferrer"}.
 
 Phil Ivey’s concentration on poker is so great that he doesn't notice when cocktail waitresses come to the table.
 
@@ -100,7 +101,7 @@ The more time you spend concentrating, the less effort it takes to do so.
 
 Meditation is a powerful tool for helping you stay focused. Meditation changes the brain's structure, making it easier for us to be present and focus more intensely on pressing tasks.
 
-​[Researchers at the University of Columbia Medical Center](https://sps.columbia.edu/news/how-meditation-can-help-you-focus){: target="_blank" rel="noopener noreferrer"}&nbsp;say that meditation can:
+​[Researchers at the University of Columbia Medical Center](https://sps.columbia.edu/news/how-meditation-can-help-you-focus){: target="_blank" rel="noopener noreferrer"} say that meditation can:
 
 * Reduce stress, anxiety, and depression
 * Increase energy levels
@@ -112,9 +113,9 @@ All of these things make it easier for you to stay focused and concentrate more 
 
 There are generally three types of meditation:
 
-* **Mindfulness.**&nbsp;You focus on your breathing and let the thoughts pass through your mind.
-* **Concentrative.**&nbsp;You focus on a particular idea or point and resist all other intruding thoughts.
-* **Moving.**&nbsp;Think of Tai Chi or Yoga. Activities that force you to stay present on the movement, with no other distractions, so your mind is free.
+* **Mindfulness.** You focus on your breathing and let the thoughts pass through your mind.
+* **Concentrative.** You focus on a particular idea or point and resist all other intruding thoughts.
+* **Moving.** Think of Tai Chi or Yoga. Activities that force you to stay present on the movement, with no other distractions, so your mind is free.
 
 Of these types of meditation, mindfulness is the most effective at increasing your ability to focus.
 
@@ -122,13 +123,13 @@ Mindfulness meditation directly affects the amygdala. Research has found that wi
 
 ## **4\. Franz Bardon And Initiation To The Hermetics**
 
-When I was a teenager, I stumbled upon an interesting book called&nbsp;*Initiation to The Hermetics.*
+When I was a teenager, I stumbled upon an interesting book called *Initiation to The Hermetics.*
 
 ​[Learn more about hermetics here.](https://ultraculture.org/blog/2016/04/19/hermetic-initiates-magick-study-reality/){: target="_blank" rel="noopener noreferrer"}​
 
 You don’t need to know hermetic science to use the book. You don’t even really need to care. However, you should keep an open mind for the next few sentences, and I promise you that you’ll come away with a powerful tool for improving your concentration.
 
-*Initiation to The Hermetics*&nbsp;provides a set of exercises to strengthen your mind, body, and emotions so that you are fully prepared to practice ritual magic. Whether you believe in magic or think it's possible is irrelevant. What is relevant is that the exercises in the book do an exceptional job of improving your ability to focus.
+*Initiation to The Hermetics* provides a set of exercises to strengthen your mind, body, and emotions so that you are fully prepared to practice ritual magic. Whether you believe in magic or think it's possible is irrelevant. What is relevant is that the exercises in the book do an exceptional job of improving your ability to focus.
 
 You learn how to properly meditate, focus on one thing, visualize, and turn your mind into a highly functional weapon. These exercises aren’t difficult, per se, but you will quickly realize the weakness of your ability to focus on one thing
 
@@ -148,7 +149,7 @@ For all intents and purposes, the reticular activating system is a filtering sys
 
 If you visualize having an easy time on an upcoming math exam, you’ll see the solutions more easily. If you visualize having a best-selling book, it’ll be easier to focus when you sit down to write the 2,000 words per day necessary to achieve that goal.
 
-A bonus to training the reticular activating system is that it might make you some extra money. Read about[&nbsp;the famous quarter experiment](https://ultraculture.org/blog/2014/11/10/robert-anton-wilson-reality-hacks/){: target="_blank" rel="noopener noreferrer"}&nbsp;and the effects of training your mind with visualization to focus on opportunities.
+A bonus to training the reticular activating system is that it might make you some extra money. Read about[the famous quarter experiment](https://ultraculture.org/blog/2014/11/10/robert-anton-wilson-reality-hacks/){: target="_blank" rel="noopener noreferrer"} and the effects of training your mind with visualization to focus on opportunities.
 
 ## **6\. Use Nootropics a.k.a. "Smart drugs"**
 
@@ -177,7 +178,7 @@ Heading to your local coffee shop on your lunch break can significantly impact y
 
 Caffeine improves reaction time, alertness, memory, and mood. This all translates into a mind that is more capable of focusing more intensely over a longer period of time.
 
-In fact, from a mental perspective,[&nbsp;there isn’t much that caffeine doesn’t do.](https://nootropicsexpert.com/caffeine/){: target="_blank" rel="noopener noreferrer"}​
+In fact, from a mental perspective,[there isn’t much that caffeine doesn’t do.](https://nootropicsexpert.com/caffeine/){: target="_blank" rel="noopener noreferrer"}​
 
 ### **Modafinil**
 
@@ -194,14 +195,14 @@ Be careful though. Don't take Modafinil in the morning because its half-life is 
 I tried the Onnit Alpha Brain supplement for 30 days. To test out its efficacy, I watched my progress on 3 of my regular cognitive tasks:
 
 * Writing content. I’m currently growing my Substack ([Sign up here for other writings of mine](https://edlatimore.substack.com/){: target="_blank" rel="noopener noreferrer"}), working on a book, and producing content for this site.
-* Training chess. I have a long-term goal of attaining master strength in chess.&nbsp;[Here’s part of my training plan.](https://edlatimore.com/chess-improvement-plan/){: target="_blank" rel="noopener noreferrer"}​
-* Practicing Spanish. By the end of the year, the goal is to take the D.E.L.E.&nbsp;[exam for Spanish](https://imp.i271380.net/XxzxXX){: target="_blank" rel="noopener noreferrer"}&nbsp;level B2.
+* Training chess. I have a long-term goal of attaining master strength in chess. [Here’s part of my training plan.](https://edlatimore.com/chess-improvement-plan/){: target="_blank" rel="noopener noreferrer"}​
+* Practicing Spanish. By the end of the year, the goal is to take the D.E.L.E. [exam for Spanish](https://imp.i271380.net/XxzxXX){: target="_blank" rel="noopener noreferrer"} level B2.
 
 Given that I was in a state of constant sleep deprivation that all new parents go through, I figured I’d be a perfect candidate to see how this supplement stacks up as a brain-boosting nootropic.
 
 This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
 
-​[In this article,](https://edlatimore.com/alpha-brain-review/){: target="_blank" rel="noopener noreferrer"}&nbsp;I do a deep dive. However, if you want to pick some up,&nbsp;[buy here at my affiliate link](https://onnit.sjv.io/c/2316453/347302/5155){: target="_blank" rel="noopener noreferrer"}. Your purchase supports my work, and your brain gets a boost!
+​[In this article,](https://edlatimore.com/alpha-brain-review/){: target="_blank" rel="noopener noreferrer"} I do a deep dive. However, if you want to pick some up, [buy here at my affiliate link](https://onnit.sjv.io/c/2316453/347302/5155){: target="_blank" rel="noopener noreferrer"}. Your purchase supports my work, and your brain gets a boost!
 
 ​
 
@@ -219,7 +220,7 @@ The locus coeruleus is a part of the brain involved in modulating norepinephrine
 
 When you’re stressed out or overwhelmed, you produce too much norepinephrine, making it difficult to focus. On the other end of the spectrum, when you’re feeling lazy or lethargic, you don’t produce enough, making it difficult to focus.
 
-An optimal amount of production leads to optimal focus.[&nbsp;This is accomplished by deep breathing](https://www.sciencedaily.com/releases/2018/05/180510101254.htm){: target="_blank" rel="noopener noreferrer"}​
+An optimal amount of production leads to optimal focus.[This is accomplished by deep breathing](https://www.sciencedaily.com/releases/2018/05/180510101254.htm){: target="_blank" rel="noopener noreferrer"}​
 
 The research shows for the first time that breathing—an essential element of meditation and mindfulness practices—directly affects the levels of a natural chemical messenger in the brain called noradrenaline. This chemical messenger is released when we are challenged, curious, exercised, focused, or emotionally aroused, and, if produced at the right levels, helps the brain grow new connections, like a brain fertilizer.
 
@@ -231,12 +232,12 @@ Put your mind on your breathing. Try to consciously breathe more slowly with inc
 
 ## **Improving your ability to focus boils down to this…**
 
-1. **Remove distractions.**&nbsp;By definition, they only hurt.
-2. **Get clear about your goals.**&nbsp;This keeps you from being distracted while trying to sort things out.
-3. **Practice meditation.**&nbsp;It's like weightlifting for your mind.
+1. **Remove distractions.** By definition, they only hurt.
+2. **Get clear about your goals.** This keeps you from being distracted while trying to sort things out.
+3. **Practice meditation.** It's like weightlifting for your mind.
 4. **Read Franz Bardon's \*\***\*Initiation to Hermetics.\*\* Especially levels 1-3.
-5. **Learn how to visualize.**&nbsp;Your reticular activating system makes focusing easier, and your visualization is how you develop it.
-6. **Use nootropics.**&nbsp;Especially&nbsp;[Alpha Brain&nbsp;](https://onnit.sjv.io/c/2316453/347302/5155){: target="_blank" rel="noopener noreferrer"}combined with black coffee.
-7. **Breathe deeply and slowly.**&nbsp;Your mind and breath and closely related. Regulating one will regulate the other.
+5. **Learn how to visualize.** Your reticular activating system makes focusing easier, and your visualization is how you develop it.
+6. **Use nootropics.** Especially [Alpha Brain](https://onnit.sjv.io/c/2316453/347302/5155){: target="_blank" rel="noopener noreferrer"}combined with black coffee.
+7. **Breathe deeply and slowly.** Your mind and breath and closely related. Regulating one will regulate the other.
 
 Successful people use these methods to eliminate distractions, do more work in less time, overcome a lack of sleep, and increase productivity.
