@@ -6,7 +6,7 @@ permalink: /monk-mode-review/
 tags:
   - change-your-perspective
 categories:
-  - life-lessons
+  - Reality
 description: >-
   How I used Monk Mode to improve my boxing, get sober, and create major change
   in my life.
@@ -86,7 +86,7 @@ Remember that wearing the same outfit doesn’t mean wearing the same clothes. Y
 
 Plot out your breaks throughout the day so you aren’t getting lost in random idle moments. Also, you want to have a water jug next to you so you don’t have to keep getting up.
 
-If you’re a coffee drinker like me, you may want to keep the warmer near you or use a thermos and make more coffee on your breaks. I prefer a french press because it tastes better for black coffee.&nbsp;
+If you’re a coffee drinker like me, you may want to keep the warmer near you or use a thermos and make more coffee on your breaks. I prefer a french press because it tastes better for black coffee.
 
 I get some debate on this but here’s how to handle sleep during Monk Mode: Make sure you’re energized enough to focus and make good progress during your waking hours. Sleep as long as you want but once you’re awake, don’t linger in bed.
 
