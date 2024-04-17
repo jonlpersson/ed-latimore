@@ -6,7 +6,7 @@ permalink: /alpha-brain-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   Hey folks, ready to witness the real scoop on Alpha Brain? Dive into our
   vibrant user experiences and honest reviews! We're gonna break down all you
@@ -16,13 +16,17 @@ description: >-
   enlightened!"
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
-<!-- x-tinymce/html -->Hey crew, Ed Latimore here! Hope you're all fighting fit and ready to punch through another day. Okay, let's get into this straight off the ropes: we're diving into something a bit different today.
+<!-- x-tinymce/html -->
+
+Hey crew, Ed Latimore here! Hope you're all fighting fit and ready to punch through another day. Okay, let's get into this straight off the ropes: we're diving into something a bit different today.
 
 I'm talking about Alpha Brain - yeah, you've likely heard about it, right? We've got some serious chat to have about this nootropic, and I'm here to give you the real, no-punches-pulled lowdown. It's time for an honest-to-goodness Alpha Brain review, with all of my experiences and real-deal feedback.
 
 Strap in tight, people – it's about to get interesting!
 
 ## The experiment I ran for this alpha brain review
+
+
 
 <!-- x-tinymce/html -->
 
@@ -38,13 +42,13 @@ But don't just take my word for it—do the research. Check out the science behi
 
 I started my Alpha journey with a scoopful of optimism, swearing by the mantra “no pain, no gain”. Taking it was as easy as ABC—just a couple of capsules a day, and voilà, you're part of the Alpha club. The first few days didn’t bring about any earth-shattering results. But, patience, my friend, is the name of the game; the gradual but perceptible improvements in my brain functions eventually surfaced.
 
-When it comes to Alpha Brain, or any other nootropic, it's not just about taking a supplement, but what that supplement can do for you. And if it can give your *brain* that extra push without compromising your caffeine-free and gluten-free diet, then it’s all the more power to you.&nbsp;
+When it comes to Alpha Brain, or any other nootropic, it's not just about taking a supplement, but what that supplement can do for you. And if it can give your *brain* that extra push without compromising your caffeine-free and gluten-free diet, then it’s all the more power to you.
 
 ![Ed Latimore with his son 3 month old that causes sleep deprivation](/assets/images/drafts/ed-and-his-son.jpeg "I'm smiling, but I'm secretly exhausted haha"){: width="400" height="531"}
 
 The rest of this article goes into detail and gives a little background into the supplement, but I'll give you a small spoiler alert:
 
-This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.&nbsp;
+This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
@@ -110,7 +114,7 @@ Even if the study results don’t influence your decision, the individual ingred
 
 Onnit Alpha Brain uses three proprietary blends and two individual ingredients. While the ingredients contained in the proprietary blends are listed, many of their individual doses are not.
 
-I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within. I can only assume the ingredients are from.a verified, vetted, and trusted source.&nbsp;
+I imagine this is done to defend against competitors looking to emulate their specific blend, as proprietary blends aren’t required to list the amount of the individual ingredients included within. I can only assume the ingredients are from.a verified, vetted, and trusted source.
 
 From the [FDA website](https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling#4-3){: target="_blank"}:
 
@@ -122,7 +126,7 @@ The list of Alpha Brain ingredients, its three 3 proprietary blends, and their f
 
 The Onnit Flow Blend is formulated to promote alpha brain wave production. This is the only nootropic I've seen that claims to be able to do this. This is a powerful marketing tactic, as alpha brain waves are associated with flow state.
 
-During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state. The ingredients in the Onnit Flow Blend proprietary mixture help you express the combination alpha and theta waves more easily.&nbsp;
+During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state. The ingredients in the Onnit Flow Blend proprietary mixture help you express the combination alpha and theta waves more easily.
 
 Alpha waves are produced when the brain is in wakeful relaxation and are associated with a relaxed yet alert mental state. This mental state is often characterized by a feeling of calm and focus, similar to the state experienced during meditation. Alpha waves are believed to help enhance creativity, improve memory, and promote mental clarity.
 
@@ -187,7 +191,7 @@ I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on
 
 It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.
 
-Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. I was also better able to study and learn from a loss (the few I had) while on Onnit Alpha Brain.&nbsp; Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
+Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. I was also better able to study and learn from a loss (the few I had) while on Onnit Alpha Brain.  Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
 
 ![Ed Latimore Chess Rating](/assets/images/drafts/1800-chess-rating.png "Got up to 1800 in my Chess.com rating using Alpha Brain"){: width="1674" height="310"}
 
@@ -203,11 +207,11 @@ This has so far been the primary benefit of Alpha Brain.
 
 Writing is so much easier using Alpha Brain. I suspect it’s a combination of intense focus and the ability to express myself clearly. Using this supplement daily also functioned as “motivation in a bottle.” I had so many ideas clearly produced in my mind and such an urge to do them, I regularly stayed up until 2 in the morning working on them.
 
-I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also not making you feel like you&nbsp; need to do anything else.
+I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also not making you feel like you  need to do anything else.
 
 It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
 
-Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves and mental speed increases&nbsp;[while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
+Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves and mental speed increases [while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ![Alpha and Theta waves for flow state](/assets/images/drafts/brain-wave-chart-flow-state.png "Alpha and Thea waves are most present during flow state. Pic courtesy of https://www.diygenius.com/"){: width="600" height="323"}
 
