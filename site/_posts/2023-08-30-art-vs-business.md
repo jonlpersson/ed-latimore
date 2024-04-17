@@ -5,6 +5,7 @@ title: Art vs Business
 permalink: /art-vs-business
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "The best thing to do is create the highest quality product possible. Whatever
   you do, try to be the best at it and make sure you get better every day."
@@ -20,7 +21,7 @@ If you're ever confused about the difference between a fact or data point and a 
 
 You can show two people the same data set, and they can reach two entirely different conclusions about what that data means—and both be "correct."
 
-There's rarely a problem agreeing on&nbsp;*what*&nbsp;happened or is happening. The issue is always in determinin—and coming to a consensus on—*how*&nbsp;or&nbsp;*why*.
+There's rarely a problem agreeing on *what* happened or is happening. The issue is always in determinin—and coming to a consensus on—*how* or *why*.
 
 Or put differently, we're great at discussing and agreeing on outcomes (subjective or objective; "This is dark" and "This is black"), but we commonly disagree on the process ("That was easy. I don't know why you thought it was difficult").
 
@@ -30,11 +31,11 @@ This nicely brings us to the "art vs. business" discussion.
 
 Art is a process. It's a mode of expression.
 
-While others may enjoy it (to the point where that artist enjoys commercial and financial success), art is created with attention to the method and the artist's personal satisfaction. Financial gains are possible (especially if you are talented), but money is&nbsp;***not***&nbsp;the initial goal or sustaining motivation.​
+While others may enjoy it (to the point where that artist enjoys commercial and financial success), art is created with attention to the method and the artist's personal satisfaction. Financial gains are possible (especially if you are talented), but money is ***not*** the initial goal or sustaining motivation.​
 
 To the 1st point, the method. There are many mediums of artistic expression. You can write, paint, sculpt, sing, rap, etc. You can run, jump, swing a bat, throw a ball, etc. Yes, I'm considering sports as art. Anything can be considered an artistic pursuit.
 
-***"A man can be an artist in anything. Food, whatever. It depends on how good he is at it. Creasy's art is death. He's about to paint his masterpiece."***&nbsp;**-Paul Rayburn, "Man On Fire"**
+***"A man can be an artist in anything. Food, whatever. It depends on how good he is at it. Creasy's art is death. He's about to paint his masterpiece."*** **\-Paul Rayburn, "Man On Fire"**
 
 We choose a method that suits our personality and interests. People with athlete-level physical ability don't always choose the sport with the highest payday. If the mode of artistic expression were always chosen with money in mind, every artist would learn to write screenplays and sing pop music.
 
