@@ -5,6 +5,7 @@ title: Everyone wants to live the good life
 permalink: /everybody-wants-to-live-the-good-life
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   If you always focus on your system, you never have to face when things aren’t
   working because you aren’t trying for a goal. By telling yourself that you’re
@@ -36,7 +37,7 @@ This, by itself, determines the outcome of your life more than anything. The sam
 
 ​
 
-**Set an objectively measurable goal.**&nbsp;Lately, it’s become a fad to prioritize systems over goals. I believe this type of thinking appeals to the type of people I described in the first part of this email. The ones afraid to try.
+**Set an objectively measurable goal.** Lately, it’s become a fad to prioritize systems over goals. I believe this type of thinking appeals to the type of people I described in the first part of this email. The ones afraid to try.
 
 If you always focus on your system, you never have to face when things aren’t working because you aren’t trying for a goal. By telling yourself that you’re just tweaking the system, you can justify your failures and shortcomings.
 
@@ -46,7 +47,7 @@ You improve the process to improve the outcome, but without an outcome, you have
 
 Either way, you need a goal. Set it.
 
-**Hold yourself accountable.**&nbsp;I’m not saying you need to beat yourself up if you fail to achieve a desired outcome. Feeling sorry for yourself is worse than never trying at all, because at least if you never try, you don’t have any memories of how bad you made yourself feel when you were unsuccessful.
+**Hold yourself accountable.** I’m not saying you need to beat yourself up if you fail to achieve a desired outcome. Feeling sorry for yourself is worse than never trying at all, because at least if you never try, you don’t have any memories of how bad you made yourself feel when you were unsuccessful.
 
 In the military, after every mission, the leadership produces something called an “After Action Report” (AAR). It’s a written report that details what happened, with key observations and lessons learned.
 
@@ -64,7 +65,7 @@ However, a true accountability partner is also someone that you can bounce ideas
 
 They can help you see faster ways to reach your goals, optimize your systems, and—perhaps most importantly—help you avoid mistakes that you may miss due to your proximity to the project.
 
-​[A true accountability partner](https://www.commitaction.com/?oid=1&amp;affid=11){: target="_blank" rel="noopener noreferrer"}&nbsp;is like a mastermind, mentor, and confidant. They aren’t your friend. They’re your ally.
+​[A true accountability partner](https://www.commitaction.com/?oid=1&amp;affid=11){: target="_blank" rel="noopener noreferrer"} is like a mastermind, mentor, and confidant. They aren’t your friend. They’re your ally.
 
 They aren’t there to help you to feel better about the losses or gas you up when you win. They’re there to help you learn from the former and build on the latter.
 
@@ -72,7 +73,7 @@ If you’re a solopreneur, creative, or anyone wants to start getting better, le
 
 I got one this past month, and I’ve made significant strides in my content output, my media outreach, deciding what to focus on, and even handling things around the house with my new son and moving.
 
-I recommend&nbsp;[Commit Action](https://www.commitaction.com/?oid=1&amp;affid=11){: target="_blank" rel="noopener noreferrer"}, a company that specifically trains people to be accountability partners. Less than 1% of people who apply are hired and many more don’t make it through the training.
+I recommend [Commit Action](https://www.commitaction.com/?oid=1&amp;affid=11){: target="_blank" rel="noopener noreferrer"}, a company that specifically trains people to be accountability partners. Less than 1% of people who apply are hired and many more don’t make it through the training.
 
 Based on a fairly detailed questionnaire, they match you to someone who is the best fit for your personality, goals, and particular challenges. The service isn’t particularly expensive either, especially considering that you’re in direct text communication with someone who will hold you accountable, keep you on track, and legitimately cares that you reach your goals.
 
