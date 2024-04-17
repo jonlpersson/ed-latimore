@@ -5,6 +5,7 @@ title: Want to put your life on the fast track? Take on bigger responsibilities
 permalink: want-to-put-your-life-on-the-fast-track-take-on-bigger-responsibilities
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "If you aren’t already on the path to make more of your life, leave a mark,
   and beef up your obituary, then the introduction of any obstacle or
