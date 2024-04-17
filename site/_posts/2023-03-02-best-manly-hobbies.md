@@ -6,7 +6,7 @@ permalink: /best-manly-hobbies/
 tags:
   - longevity-health-and-performance
 categories:
-  - chess-math-and-language
+  - Relationships
 description: >-
   The ultimate list of hobbies for men: 18 ideas for how to use your time to be
   more unique, attractive, and creative during your downtime.
