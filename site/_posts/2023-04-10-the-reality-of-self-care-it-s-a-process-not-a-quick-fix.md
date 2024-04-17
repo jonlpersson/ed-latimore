@@ -5,6 +5,7 @@ title: ' The Reality of Self-Care: It''s a Process, Not a Quick Fix'
 permalink: /the-reality-of-self-care-its-a-process-not-a-quick-fix/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "It’s difficult to care for others if you haven’t taken the time to properly
   care for yourself. You have to selfishly strengthen your position so that you
