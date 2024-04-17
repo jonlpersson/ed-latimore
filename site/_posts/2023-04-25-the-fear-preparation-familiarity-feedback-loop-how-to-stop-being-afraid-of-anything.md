@@ -8,6 +8,7 @@ permalink: >-
   /the-fear-preparation-familiarity-feedback-loop-how-to-stop-being-afraid-of-anything
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "Your mind is more powerful than fear. Everything you fear is worse in your
   imagination than reality. We have a tendency to focus on what is lacking and
@@ -20,15 +21,15 @@ Your mind is more powerful than fear. Everything you fear is worse in your imagi
 
 ## What are you REALLY afraid of?
 
-All of your fears come back to vulnerability. You don’t fear pain. You don’t fear dying.&nbsp;***You fear that which you can’t control.***&nbsp;This is why people fear public speaking more than death. The speaker is completely vulnerable and lacks control of the audience's reactions. Perhaps they’ll think you're brilliant. Perhaps they’ll think you’re a fool. Normally you wouldn’t care what they think, but you have opened yourself up to their judgment.&nbsp;***The abuse of this vulnerability is what you really fear.***
+All of your fears come back to vulnerability. You don’t fear pain. You don’t fear dying. ***You fear that which you can’t control.*** This is why people fear public speaking more than death. The speaker is completely vulnerable and lacks control of the audience's reactions. Perhaps they’ll think you're brilliant. Perhaps they’ll think you’re a fool. Normally you wouldn’t care what they think, but you have opened yourself up to their judgment. ***The abuse of this vulnerability is what you really fear.***
 
-Your physical fears are based on this concept. Regardless of how tough you are, your worst fears about dying are related to facing something inevitable that will not end quickly. It’s not the burning, the drowning, the spiders, the snakes, or the heights that scares you.&nbsp;***It’s facing something that exposes your human vulnerability in a way that demonstrates how powerless you really are.***
+Your physical fears are based on this concept. Regardless of how tough you are, your worst fears about dying are related to facing something inevitable that will not end quickly. It’s not the burning, the drowning, the spiders, the snakes, or the heights that scares you. ***It’s facing something that exposes your human vulnerability in a way that demonstrates how powerless you really are.***
 
-You’re not afraid of public speaking. You’re not afraid of death. You’re not afraid of talking to strangers or asking someone out.&nbsp;***What you’re really afraid of is being vulnerable.***
+You’re not afraid of public speaking. You’re not afraid of death. You’re not afraid of talking to strangers or asking someone out. ***What you’re really afraid of is being vulnerable.***
 
-You fear this because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Logically, you understand that rejection is meaningless, humiliation is temporary, people’s opinions don’t matter, and that you have to die. Viscerally, you fear that your existence is worth so little that the judgments of others do matter.&nbsp;***You worry that your life is so fragile that it can be extinguished by the opinions of others.***
+You fear this because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Logically, you understand that rejection is meaningless, humiliation is temporary, people’s opinions don’t matter, and that you have to die. Viscerally, you fear that your existence is worth so little that the judgments of others do matter. ***You worry that your life is so fragile that it can be extinguished by the opinions of others.***
 
-The only way to free yourself from fear is to accept that you are weak. Only by acknowledging this can you become strong. Once you accept that you do care what others think and that your life can end at any time, you recognize your fears for what they really are.&nbsp;***Fears are nothing more than a way for you to reinforce your false wall of security.***
+The only way to free yourself from fear is to accept that you are weak. Only by acknowledging this can you become strong. Once you accept that you do care what others think and that your life can end at any time, you recognize your fears for what they really are. ***Fears are nothing more than a way for you to reinforce your false wall of security.***
 
 You’re afraid that your wall of personal security isn’t as high or strong as you believe. Rather than test its structure so that you can systematically discover its weaknesses and fortify them, you avoid putting the wall to the test.
 
@@ -50,7 +51,7 @@ It is impossible to eliminate fear completely, but it can be reduced to manageab
 
 I was once evaluated by a sports psychologist and what he found is that I am less anxious during a boxing match than before it. My explanation was similar to ones he had been given by athletes with the same result. I over-prepare so I leave as little to uncertainty as possible. Yes, there are doubts, but they are outweighed by my preparation.
 
-Fear is a sign that something needs to be prepared for. It’s like an exam. If you’ve studied and you know the material, you are going to have much less anxiety than if you haven’t. Preparation means different things for different events but the idea is the same:&nbsp;***honing the requisite skills for task you face. The better prepared you are, less fear you will experience.***
+Fear is a sign that something needs to be prepared for. It’s like an exam. If you’ve studied and you know the material, you are going to have much less anxiety than if you haven’t. Preparation means different things for different events but the idea is the same: ***honing the requisite skills for task you face. The better prepared you are, less fear you will experience.***
 
 ### Know thy enemy
 
