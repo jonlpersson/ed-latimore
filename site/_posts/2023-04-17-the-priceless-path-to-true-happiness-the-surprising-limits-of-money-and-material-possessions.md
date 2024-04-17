@@ -8,6 +8,7 @@ permalink: >-
   /the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   ​Money is important, but only insofar as it removes stress from your life.
   Once your health and safety are taken care of, more money won't do much to
@@ -36,11 +37,11 @@ Many people are obsessed with money, so much so that they use it as the primary 
 
 Another way to look at this: once you have enough money to live in a neighborhood where the police actually show up on the rare occasion they need to be called, having more won't do much for you.
 
-Hospital bills in the United States are horrible. Money can take care of those. But 7 of the 11 leading causes of death in this country are preventable with lifestyle choices. It doesn't matter how much (or little, for that matter) money you have if you still eat like an asshole, smoke, and drink alcohol like it's a substitute for water.
+Hospital bills in the United States are horrible. Money can take care of those. But 7 of the 11 leading causes of death in this country are preventable with lifestyle choices. It doesn't matter how much (or little, for that matter) money you have if you still eat like an asshole, smoke like a chimney, and drink alcohol like it's a substitute for water.
 
 Money won't make you more interesting or more intelligent. It may allow you to do more interesting things, but doing those things alone won't mean anything. The relationships you have with the people you do those things with are where the real value of the experiences comes into play.
 
-And really, that's the only reason people care about being interesting or intelligent: it makes it more likely that they'll have friends or romantic partners. If you're lonely, no amount of money can make you feel lovable. Jadakiss got it when he said, "I'd rather be broke together than rich alone."
+And really, that's the only reason people care about being interesting or intelligent: it makes it more likely that they'll have friends or romantic partners. If you're lonely, no amount of money can make you feel lovable. Jadakiss got it right when he said, *"I'd rather be broke together than rich alone."*
 
 Money can't take your place as a parent. I know a few kids who grew up just as poor as I did, but both parents were around and involved as they could be. While everyone's idea of success might be different, prison, expulsion, teen pregnancy, and unemployment are all markers of failure. I can't think of one of them who suffered this fate. On the other hand, I knew quite a few kids from the upper-middle class, whose parents worked all the time to provide a "better life" but fell into these traps. The research is clear on this.
 
@@ -52,7 +53,7 @@ On a similar note, money can't make your partner love or forgive you. If you're 
 
 ​Money can only solve your money-related problems. Most of your problems aren’t related to money. You only think that more money will make your life better because it's an easy target with a simple (though not necessarily easy) fix. The thinking goes like this:
 
-"I'm unhappy. I can't buy stuff to distract me from my unhappiness. Therefore, having more money would make me happier."
+*"I'm unhappy. I can't buy stuff to distract me from my unhappiness. Therefore, having more money would make me happier."*
 
 Money is a foundational tool. It allows you to build a structure for your life, but it’s not a substitute for doing the work of developing character, skills, and relationships. While I think most people know this and don't argue that point, I think many people pursue money FAR beyond a point of diminishing returns and at the expense of other areas in their life that need work.
 
