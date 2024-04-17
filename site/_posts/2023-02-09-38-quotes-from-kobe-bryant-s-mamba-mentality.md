@@ -1,123 +1,186 @@
----
-date: 2023-02-09 20:06:00 -0500
-article_type: Article
-title: 38 Quotes from Kobe Bryant's Mamba Mentality
-permalink: /kobe-bryant-mamba-mentality-quotes-and-summary/
-tags:
-  - book-quotes-and-summaries
-categories:
-  - chess-math-and-language
-description: >-
-  38 Mamba Mentality Quotes on learning, dealing with pressure, work ethic,
-  relating to people, and developing an indomitable will
-image: /assets/images/drafts/mamba-mentality-how-i-play.webp
----
-Kobe Bryant was one of the most famous basketball players in history and definitely one of the most famous people in the world during both the 20th and 21st centuries. Even if you weren’t a fan of the NBA and had never seen see him play, you either knew his name or his nickname, “The Black Mamba.”
 
-Kobe Bryant set a plethora of NBA records and had several accomplishments during his [20-year NBA career](https://en.wikipedia.org/wiki/List_of_career_achievements_by_Kobe_Bryant){: target="_blank"}, all of it spent with the Los Angeles Lakers. Sadly, his life, along with the life of his 13-year-old daughter Gianna, was cut short in a helicopter crash in 2020.
+<!DOCTYPE html>
 
-His book, “The Mamba Mentality: How I Play,” is a collection of his perspectives on competition, learning, and basketball. I picked this book while I was doing research for the book proposal for my next book and ended up falling in love with it.
+<html class=" no-touch" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="format-detection" content="telephone=no">
+		<meta name="msapplication-tap-highlight" content="no">
 
-What is the Mamba Mentality? From Kobe Bryant himself:
+		<meta name="author" content="Cloud Cannon Limited">
+		<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N0KRbqUItrdh899bo-_abK7QGoff7tcerQRVoaBOFGrCHHi_iNXyoaWQOHyYlaA2yYsKHEE40LeyvGnbKaJhQQ" />
 
-*“To sum up what mamba mentality is, it means to be able to constantly try to be the best version of yourself.”*
+		<meta name="apple-mobile-web-app-title" content="CloudCannon">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="referrer" content="strict-origin-when-cross-origin">
+		<title>CloudCannon</title>
 
-The mindset tips are top-notch and are useful for both athletes and non-athletes alike. However, I thought the real gems were insights into learning, dealing with people, and physical training. In particular, a lot of what he discusses about being a competitive basketball player is highly applicable to boxing as well.
+        <link rel="apple-touch-startup-image" href="/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml">
+		<link rel="icon" type="image/png" sizes="128x128" href="/favicon-128x128.png">
+		<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#034ad8">
+		<meta name="theme-color" content="#034ad8">
 
-Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
+				<script>
+					!function(a,b,c,d,e,f,g,h){a.RaygunObject=e,a[e]=a[e]||function(){
+					(a[e].o=a[e].o||[]).push(arguments)},g=b.createElement(c),h=b.getElementsByTagName(c)[0],
+					g.async=0,g.src=d,a.__raygunNoConflict=!!f,h.parentNode.insertBefore(g,h);
+					}(window,document,"script","//cdn.raygun.io/raygun4js/raygun.min.js","rg4js");
+				</script>
 
-## 38 Mamba Mentality Quotes&nbsp;
+			<script crossorigin="anonymous" src="https://js.stripe.com/v3/"></script>
+			<script>
+				window.stripe = Stripe("pk_live_f8UOh6rdnS7jhb95oDHFX64t")
+			</script>
+			<script>
 
-## Learning
+				window.CONSTANTS = {
+					interface: "",
+					MAX_UPLOAD_FILE_SIZE: "50000000",
+					MAX_ZIP_UPLOAD_FILE_SIZE: "524288000",
+					BETA_STATE: "off",
+					BETA_ID: "editor",
+					web_sockets_url: "https://sockets-v2.cloudcannon.com/",
+					visual_editor_url: "https://{{stable_domain_encoded}}.proxy.cloudcannon.com/{{path}}",
+					cloudvent_suffix: ".cloudvent.net",
+					screenshots_url: "",
+					sites_origin: "sites.cloudcannon.com",
+					demo_domain: "cloudvent.net",
+					editor_css: "https://cdn.cloudcannon.com/stylesheets/editor.0661367ed9923310d7ac5ea2383e0fed.css",
+					visual_editor_components_css: "https://cdn.cloudcannon.com/stylesheets/visual-editor-components.98e5736a286f7767068f77f7bb839958.css",
+					inner_editor_js: "https://cdn.cloudcannon.com/javascripts/inner-editor.3479c11f233387b521b82d95d8bd8ffb.js",
+					editor_js: "https://cdn.cloudcannon.com/javascripts/editor.905dfb0f89bdea8e9adb00b39bcf0808.js",
+					app_js: "https://cdn.cloudcannon.com/javascripts/app.f3b8d60de88205311189ce0fb0359d8a.js",
+					markdown_editor_css: "https://cdn.cloudcannon.com/stylesheets/markdown-editor.f61e188acb347a237e64b46d30a20793.css",
+					environment: "production",
+					raygun_key: "lRi8/Rk0Ixkhci28kIs4kg==",
+					proxy_url: ".proxee.co/"
+				};
 
-“What I mean by that is: if I wanted to implement something new into my game, I’d see it and try incorporating it immediately. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind. I always focused on the fact that I had to try something to get it, and once I got it, I’d have another tool in my arsenal. If the price was a lot of work and a few missed shots, I was OK with that.”
+					rg4js("apiKey", window.CONSTANTS.raygun_key);
+					rg4js('setVersion', window.CONSTANTS.raygun_version);
+					rg4js("enableCrashReporting", true);
 
-“From a young age—a very young age—I devoured film and watched everything I could get my hands on. It was always fun to me. Some people, after all, enjoy looking at a watch; others are happier figuring out how the watch works. It was always fun to watch, study, and ask the most important question: Why?”
+			</script>
 
-“The biggest element that changed over time, however, was I went from watching what was there to watching for what was missing and should have been there. I went from watching what happened to what could have and should have happened. Film study eventually became imagining alternatives, counters, options, in addition to the finite details of why some actions work and others don’t work.”
+			<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/22461532.js"></script>
 
-“By reading, by paying attention in class and in practice, by working, I strengthened my focus. By doing all of that, I strengthened my ability to be present and not have a wandering mind.”
 
-“A lot of people appreciated my curiosity and passion. They appreciated that I wasn’t just asking to ask, I was genuinely thirsty to hear their answers and glean new info. Some people, meanwhile, were less understanding and gracious. That was fine with me. My approach always was that I’d rather risk embarrassment now than be embarrassed later, when I’ve won zero titles.”
 
-“Coaches are teachers. Some coaches—lesser coaches—try telling you things. Good coaches, however, teach you how to think and arm you with the fundamental tools necessary to execute properly. Simply put, good coaches make sure you know how to use both hands, how to make proper reads, how to understand the game. Good coaches tell you where the fish are, great coaches teach you how to find them. That’s the same at every level.”
+		<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.cloudcannon.com/css/TT-Norms-Pro_500_800.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://cdn.cloudcannon.com/stylesheets/redesign.b3e195b8aac3e7301caae60d43f6a9cd.css">
 
-“If something has worked for other greats before you, and if something is working for you, why change it up and embrace some new fad? Stick with what works, even if it’s unpopular.”
+		<style id="branding">
+		</style>
+	</head>
 
-“The last thing I wanted to do was risk stepping out blindly against an unknown-but-great player. Preparation was critical.”
+	<body class="with-overflow">
+	<div id="banners" class="banner-messages"></div>
 
-{% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
-## Dealing with pressure
+<div class="devise-container" id="devise-view-element">
+	<div class="devise-content">
+		<div class="devise-header devise-header--half-width">
+				<h1 class="cloudcannon-logo">CloudCannon</h1>
 
-“The key, though, is being aware of how you’re feeling and how you need to be feeling. It all starts with awareness.”
+				<span class="button-premise">Don't have an account?</span>
 
-“When I jogged out of the tunnel and the fans were screaming and it’s loud, the noise didn’t impact me. Mentally, I was able to remember the stillness of the earlier moment and carry that with me.”
+	<a tabindex="2" class="c-button c-button--secondary js-has-email-param" data-original="/register" href="/register">Sign Up</a>
 
-“I never felt outside pressure. I knew what I wanted to accomplish, and I knew how much work it took to achieve those goals. I then put in the work and trusted in it. Besides, the expectations I placed on myself were higher than what anyone expected from me.”
+		</div>
+		<div class="devise-body devise-body--full-width">	<div class="c-signup-layout">
+		<div class="c-signup-layout__body c-signup-layout__body--left-panel">
+			<div class="left-panel-container" style="z-index: 2;">
+				<iframe src="https://auth-screens.cloudcannon.com/" style="height: 100%;border: 0;"></iframe>
+			</div>
+		</div>
+		<div class="c-signup-layout__body">
 
-“A BIG SHOT IS JUST ANOTHER SHOT. People make a huge deal out of clutch shots. Thing is, it’s just one shot. If you make a thousand shots a day, it’s just one of a thousand. Once you’re hitting that many, what’s one more? That was my mentality from day one.”
+			<h3 class="app-body-title">Log in to CloudCannon</h3>
 
-“It takes a lot of work to be successful, and people will celebrate that success, will celebrate that flash and hype. Behind that hype, though, is dedication, focus, and seriousness—all of which outsiders will never see. If you stop being dedicated to the craft, the commercials and contracts will all fade away.”
+				<blockquote class="c-inline-toast c-inline-toast--error">You need to log in or sign up before continuing.</blockquote>
 
-“The game is full of ebbs and flows—the good, the bad, and everything in between. With all that was going on around me, I had to figure out how to steel my mind and keep calm and centered. That’s not to say my emotions didn’t spike or drop here or there, but I was aware enough to recalibrate and bring them back level before things spiraled. I could do that in a way others couldn’t, and that was really key for me.”
 
-{% include widgets/summary.html id="Fighters-Mindset" %}
+			<div class="js-login-options">
+				<div style="display: flex;flex-direction: column;" class="u-vertical-flow">
+					<a class="c-button c-button--github c-button--justified-icon js-oauth-github" href="/github_oauth/authorize" class="github" tabindex="1">
+						<i class="legacy-icon-github-light"></i>
+						<span>Log in with GitHub</span>
+					</a>
+					<a class="c-button c-button--bitbucket c-button--justified-icon js-oauth-bitbucket" href="/bitbucket/authorize" class="bitbucket" tabindex="1">
+						<i class="legacy-icon-bitbucket-light"></i>
+						<span>Log in with Bitbucket</span>
+					</a>
+					<a class="c-button c-button--gitlab c-button--justified-icon js-oauth-gitlab" href="/gitlab/authorize" class="gitlab" tabindex="1">
+						<i class="legacy-icon-gitlab-light"></i>
+						<span>Log in with GitLab</span>
+					</a>
+				</div>
 
-## Self-discipline, work ethic, & hard work
+				<p class="c-or-split">or</p>
 
-“I didn’t need that extra push to be great, though. From day one, I wanted to dominate. My mindset was: I’m going to figure you out.”
+				<button class="c-button c-button--secondary c-button--full-width js-email-button" tabindex="1">
+					<span>Log in with email</span>
+				</button>
+			</div>
 
-“If you really want to be great at something, you have to truly care about it. If you want to be great in a particular area, you have to obsess over it. A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness. They have other concerns, whether important or not, and they spread themselves out. That’s totally fine. After all, greatness is not for everybody.”
+			<div class="js-email-login-form" style="display: none;">
+				<form class="new_user" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AKVEhb-_4cnRcdYLp9OgztydQKTZ6LBTzbBeIPwRUUb1-61UkmKl3xUSMSycqdqUu8ZQP0c-t_rSCGJadf0kbQ" autocomplete="off" />
+					<label for="user_email">Email Address</label>
+					<div class="input-email-address-container">
+						<input tabindex="1" value="" autofocus="autofocus" class="" autocomplete="email" type="email" name="user[email]" id="user_email" />
 
-“As a kid, I’m talking six years old, it bothered me when something felt like a weakness. So I worked really hard on my left hand at that age. Specifically, I would brush my teeth with my left hand; I would write my name with my left hand. I hated the feeling of being uncomfortable.”
+					</div>
 
-“I never thought about my daily preparation. It wasn’t a matter of whether it was an option or not. It was, if I want to play, this is what I have to do, so I’d just show up and do it.”
+					<label for="user_password">
+						Password
+						<a tabindex="2" class="sublabel js-has-email-param" data-original="/users/password/new" href="/users/password/new">Forgot your password?</a>
+					</label>
+					<div class="input-password-container">
+						<input tabindex="1" autocomplete="off" type="password" name="user[password]" id="user_password" />
+					</div>
 
-“We were always getting better, always striving for innovation and greatness. Always looking ahead.”
 
-“You have to work hard in the dark to shine in the light.”
+					<button name="button" type="submit" tabindex="1" class="c-button c-button--full-width" data-text-on-click="Logging in">Log in</button>
+</form>				<hr>
+				<button class="c-button c-button--secondary c-button--full-width js-cancel-email-button" tabindex="1">
+					<span>Return to login options</span>
+				</button>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
 
-## Physical training and physicality
+<script crossorigin="anonymous" src="https://cdn.cloudcannon.com/jquery-3.6.0.min.js"></script>
+<script crossorigin="anonymous" src="https://cdn.cloudcannon.com/javascripts/shared.c5ef5112a8762439a31dca89fc10ea4d.js"></script>
 
-“I would start off short and work on my touch. Always. Always. Always. Get my muscle memory firing.”
+<script src="https://status.cloudcannon.com/embed/script.js"></script>
+<script crossorigin="anonymous" src="https://cdn.cloudcannon.com/javascripts/devise.1b2c29fb35b1337d2b5e2d048f9489de.js"></script>
 
-“Pain in one area of your body often stems from an imbalance somewhere else. With that in mind, it’s important to treat the root cause and not the effect.”
 
-“I always made sure my ankles were activated and moving. If your ankles are stiff, that can create problems in the knees, hips, back, and all the way up. So, I’d spend a lot of time before games working on my ankles—the core of the problem—so that I wouldn’t exacerbate the symptoms.”
 
-“A lot of players don’t understand the game or the importance of footwork, spacing. It’s to the point where if you know the basics, you have an advantage on the majority of players.”
+		<div id="messages" class="snack-bar-messages"></div>
+		<style>
+			#hubspot-messages-iframe-container { 
+				display: none !important;
+			}
+			#hubspot-messages-iframe-container.active {
+				display: initial !important
+			}
+		</style>
+	</body>
+</html>
 
-“Understanding the importance of contact and physicality is only half the battle. You have to love it, and I did. You had to love having your jersey held and holding their jersey back. You had to love getting hit once so you could hit them back twice. You had to love every last push, shove, and elbow. Understand and embrace that mentality. Once you do, you are ready to win.”
-
-“Michael Jordan is standing straight from the waist up. He’s not leaning in either direction, and because of that he is balanced and centered. He is in control of his body and the play.”
-
-“Outside of dominating by dint of will, there are physical ways to ensure you gain an advantage while going for a rebound. You want to, obviously, establish a good base and get your body in front of the opposition. But you also want to make sure you get lower than their hips so you can move them and alter their positioning. If you try doing that at the shoulders, it won’t work because they’re stronger at the top. So you want to get beneath them and use your body weight to move them from the waist down.”
-
-“In that way, footwork on-court is comparable to the way you use your head while riding a motorcycle. If you want to turn left or right, you have to start by looking and leaning your weight, starting with your head, in that direction. It’s the same thing with your feet on the basketball court.”
-
-## Relating to people
-
-“It’s a tough job (being a basketball ref). If refs make a mistake, they’ll get lambasted. If they do a great job, no one mentions them. I always tried to keep that in mind and treat them like the real underappreciated and emotional humans that they are. I think that always worked to my benefit.”
-
-“I wasn’t willing to sacrifice my game, but I also wasn’t willing to sacrifice my family time. So I decided to sacrifice sleep, and that was that.”
-
-“I liked challenging people and making them uncomfortable. That’s what leads to introspection and that’s what leads to improvement. You could say I dared people to be their best selves.”
-
-“The OG greats, though, won’t hang around you if you don’t display the same passion as they do. They won’t share their time and memories with you if you don’t display the same effort and drive for excellence that they did.”
-
-## Indomitable will
-
-“I WAS GOING TO DOMINATE. It didn’t matter who I was up against. That was my mentality going into every game. The only difference, based on who I was up against, was how would I do it.”
-
-“No matter what, people are going to like you or not like you. So be authentic, and let them like you or not for who you actually are.”
-
-“The mindset isn’t about seeking a result—it’s more about the process of getting to that result. It’s about the journey and the approach. It’s a way of life. I do think that it’s important, in all endeavors, to have that mentality.”
-
-“What I’m saying is greatness isn’t easy to achieve. It requires a lot of time, a lot of sacrifices. It requires a lot of tough choices. It requires your loved ones to sacrifice, too, so you have to have an understanding circle of family and friends. People don’t always understand just how much effort from how many people goes into one person chasing a dream to be great.”
-
-“When you dunk the ball, it lets the opposition know your mentality. It lets them know you’re there to humiliate them. It also sets an emotional tone with your teammates. It lets them know you’re going to climb mountains this game and inspires them to want to climb with you.
-
-"Like always, you want to be the one dishing out the punishment. And the dunks.”
-
-“THE AGONY OF DEFEAT IS AS LOW AS THE JOY OF WINING IS HIGH. However, they’re the exact same to me. I’m at the gym at the same time after losing 50 games as I am after winning a championship. It doesn’t change for me.”
