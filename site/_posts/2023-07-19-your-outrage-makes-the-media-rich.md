@@ -5,6 +5,7 @@ title: ' Your outrage makes the media rich'
 permalink: /your-outrage-makes-the-media-rich/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "The media creates division because division creates engagement, and
   engagement drives dollars. Your lack of emotional control is paying for
@@ -26,7 +27,7 @@ Facts are boring. Exaggeration of those facts tends not to be so dull.
 
 Maybe you'll read through and see that the body of the article is dramatically different from what the headline suggests, but it doesn't matter. They still got paid.
 
-Now, if you're thinking, you're asking yourself, "How does this continue if no one ever buys? Don't the companies realize this?" Well, even if you don't buy from the ad, now they've entered your awareness.
+Now, if you're thinking, you're asking yourself, *"How does this continue if no one ever buys? Don't the companies realize this?"* Well, even if you don't buy from the ad, now they've entered your awareness.
 
 News sites have reliable traffic. You might not click on the ad when you see it, but—given the sheer complexity and accuracy of the data models used to serve ads—it's highly likely that you'll purchase the product at some point.
 
