@@ -6,7 +6,7 @@ permalink: /how-to-mature-as-a-man/
 tags:
   - longevity-health-and-performance
 categories:
-  - life-lessons
+  - Reality
 description: >-
   If I had a time machine, here’s what I’d tell my younger on how to mature as a
   man.
