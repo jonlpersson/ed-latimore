@@ -5,6 +5,7 @@ title: 5 steps to control your temper and stop being scared
 permalink: /5-quick-tips-to-control-your-temper-and-stop-being-scared/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   "I get sad and angry, just like every other human. The difference is that I've
   learned how to control and transmute those emotions rather than being
@@ -13,13 +14,13 @@ image: /assets/images/posts/controlwhatyoucan.webp
 ---
 Most people are aware of the traits of neuroticism and anxiety. If you aren’t, this short anecdote will sum it up nicely:
 
-Someone asked on Twitter if I ever get afraid, and another person who saw me post my Big Five personality results responded,&nbsp;*“He is several standard deviations below the average in neuroticism. He legitimately doesn’t experience negative emotions like the rest of us.”*
+Someone asked on Twitter if I ever get afraid, and another person who saw me post my Big Five personality results responded, *“He is several standard deviations below the average in neuroticism. He legitimately doesn’t experience negative emotions like the rest of us.”*
 
 This isn't \*exactly\* true. I get sad and angry, just like every other human. The difference is that I've learned how to control and transmute those emotions rather than being controlled and transformed by them.
 
 The rest of this email gives you five valuable tips for doing the same thing in your life.
 
-***If you get something out of this email, I'd love for you to***&nbsp;[***follow me on Linkedin***](https://www.linkedin.com/in/edlatimore/){: target="_blank" rel="noopener noreferrer"}&nbsp;***or***&nbsp;[***Instagram***](https://www.instagram.com/edlatimore/){: target="_blank" rel="noopener noreferrer"}***—whichever is your poison of choice.***
+***If you get something out of this email, I'd love for you to*** [***follow me on Linkedin***](https://www.linkedin.com/in/edlatimore/){: target="_blank" rel="noopener noreferrer"} ***or*** [***Instagram***](https://www.instagram.com/edlatimore/){: target="_blank" rel="noopener noreferrer"}***—whichever is your poison of choice.***
 
 ## **Active Gratitude**
 
@@ -47,7 +48,7 @@ Understanding this makes you feel confident when something takes time to develop
 
 One reason that people get angry is because things don’t happen quickly enough. Many people tell me they feel anxious when they think something is about to happen. I look at time gaps between action as an opportunity for rest, relaxation, recharge, and planning my next move.
 
-Most importantly, I know that the more time I have, the better I can prepare for anything--expected or unexpected. In this way, I’ve taken something which gives many people a negative experience and turned it into one of my greatest strengths.
+Most importantly, I know that the more time I have, the better I can prepare for anything–expected or unexpected. In this way, I’ve taken something which gives many people a negative experience and turned it into one of my greatest strengths.
 
 ## **Appreciation For The Small Things**
 
@@ -71,9 +72,9 @@ They degrade, decompose, and can be destroyed. They carry no memories. You get a
 
 Stuff doesn’t equal happiness. So what will make you happy? It’s not the absence of material objects that will make you happy; It’s focusing your energy on things that take your emotions and offer a return on investment in them. This means I focus on experiences, good meals with people, conversation, connection, making a difference, and my craft.
 
-Those items have one thing in common: they all depend on \*my\* frame of reference and actions. Even good food--which requires money--is only good because of the experience that goes along with it and the people I share the meal with.
+Those items have one thing in common: they all depend on \*my\* frame of reference and actions. Even good food–which requires money–is only good because of the experience that goes along with it and the people I share the meal with.
 
-At the end of the day, all you’re left with is your memories and the memories people have of you--and even then, those will eventually fade.
+At the end of the day, all you’re left with is your memories and the memories people have of you–and even then, those will eventually fade.
 
 ## In summary
 
