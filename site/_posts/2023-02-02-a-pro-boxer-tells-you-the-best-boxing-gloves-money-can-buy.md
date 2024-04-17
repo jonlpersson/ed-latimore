@@ -6,7 +6,7 @@ permalink: /pro-boxer-best-boxing-glove-recommendation/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   My professional recommendations for boxing gloves. In case you don't like my
   suggestions, I also teach you how to pick your own fight gloves.
@@ -16,7 +16,7 @@ I’m a former National Champion amateur boxer and top-level professional heavyw
 
 ![Ed Latimore's Pro boxing record](/assets/images/drafts/ed-latimore-professional-boxing-1.png "A real fighter about to make real glove recommendations"){: width="500" height="291"}
 
-I even work with people who just want to try the sport out&nbsp; Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
+I even work with people who just want to try the sport out  Because of my experience as a professional boxer and a coach, I can give you a unique perspective on the best boxing gloves you can buy to start your boxing journey.
 
 ***\[Read about why I decided to start fighting in the first place—&gt;[Why I Started Boxing](/why-did-I-start-boxing/)\]***
 
@@ -28,12 +28,12 @@ I’m not saying that you have to become a professional boxer. I just don’t se
 
 If you take up the sport of boxing, you should have high-quality gear. This means owning some excellent gloves. With this in mind and from looking over other articles (not written by professional boxers, mind you), this article is organized as follows:
 
-I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price.&nbsp;
+I’ll give my best recommendations for the different situations and scenarios you encounter in a boxing gym. My recommendations are broken down by style of glove, purpose or glove, and price.
 
 Anyone in the boxing gym needs a high-quality pair of boxing gloves. Or, at the very least, you have to ensure that you have the best gloves they can afford. It doesn’t matter whether you’re:
 
 * An amateur boxer
-* A professional boxer&nbsp;
+* A professional boxer
 * Using boxing workouts at home or in the gym to get in shape
 * Just trying out the sweet science as a hobby
 
@@ -59,13 +59,13 @@ I’m not an MMA guy, but I’ve worked with enough legit fighters to tell you t
 
 With that said, my recommendations for bag gloves will be suitable for you as well. If you’re just training your stand-up sparring or doing a bag workout, these boxing glove recommendations hold for you as well.
 
-For the kickboxers and Muay Thai guys, this list works for you, as those disciplines also use boxing gloves. This isn’t necessarily true for all martial arts that use sparring gloves (karate gloves are closer to mixed martial arts gloves than boxing gloves, in my opinion).&nbsp; I’m not familiar with all of the different martial arts practices out there, so make sure you do your homework.
+For the kickboxers and Muay Thai guys, this list works for you, as those disciplines also use boxing gloves. This isn’t necessarily true for all martial arts that use sparring gloves (karate gloves are closer to mixed martial arts gloves than boxing gloves, in my opinion).  I’m not familiar with all of the different martial arts practices out there, so make sure you do your homework.
 
 Also, this article was written with teenagers and older in mind.
 
 As I’m writing this article by testing bag and fighting gloves and my own collection, I don’t have any recommendations for children’s gloves. That said, most fighting gloves don’t work based on age but rather on hand size.
 
-Most of my recommendations here have a sizing option for children. At the very least, a basic sizing chart can help determine the best size.&nbsp;
+Most of my recommendations here have a sizing option for children. At the very least, a basic sizing chart can help determine the best size.
 
 ![Boxing Glove Sizing Chart](/assets/images/drafts/boxing-glove-sizing-chart.png "This chart is courtesy of https://www.titleboxing.com/size-chart"){: width="550" height="270"}
 
@@ -165,7 +165,7 @@ Each has its pros and cons. It’s essential to consider your needs and goals re
 
 These are technically the same type of glove. Until I started researching for this article to make sure that I got everything right, I’d actually never heard the phrase “hook and loop gloves.”
 
-Just to make sure I wasn't crazy, I went to look this up. According to [HookandLoop.com](https://www.hookandloop.com/what-is-hook-and-loop)\:
+Just to make sure I wasn't crazy, I went to look this up. According to [HookandLoop.com](https://www.hookandloop.com/what-is-hook-and-loop):
 
 > Essentially, hook and loop is the generic name for VELCRO® Brand-type materials. Hook and loop is the name given to the fastening system which uses two sides of material, hook and loop. The hook is the rough, scratchy side and the loop is the soft, fuzzy side. When brought together, the sides of the hook and loop fabric attach and create a super strong bond, that can still be pulled apart when needed.
 
@@ -228,8 +228,8 @@ Hell, they don’t even do partnerships or endorsements with famous boxers. They
 
 ***Note: For all the real boxers and boxing connoisseurs, Di Nardo’s Boxing gloves are not on this list because***
 
-1. ***A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive.&nbsp;***
-2. ***I’ve never worn one or even seen one. It’d be dishonest to write about them.&nbsp;***
+1. ***A $1000 boxing glove is not out of my absolute price range, but relatively speaking, I can’t imagine it being functionally much better than a Winning Glove—and that’s already expensive.***
+2. ***I’ve never worn one or even seen one. It’d be dishonest to write about them.***
 
 *\*\*Also, I put Grant Gloves and Fly Gloves into a similar space. Those gloves are noticeably better than Rivals and Cleto Reyes, but marginally worse than Winning (in my humble opinion). Maybe I’ll do a piece comparing those and spring for a pair of DiNardo Boxing Gloves to sample. \*\**
 
