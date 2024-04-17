@@ -5,6 +5,7 @@ title: Are you tired of the sea of bullshit, scams, and hustles on the internet?
 permalink: are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   Be careful who you listen to on the internet. There are a lot of people who
   haven’t done anything to earn the right to give the advice they constantly
@@ -12,7 +13,7 @@ description: >-
   cases, outright liars.
 image: /assets/images/posts/receipts.jpg
 ---
-### Then it's time to make sure that people you list to have "The Receipts"...
+### Then it's time to make sure that people you list to have "The Receipts"…
 
 ​I don't exaggerate, boast, or brag about myself.
 
@@ -66,7 +67,7 @@ Not only do we not know if he's fit, but we can't even verify if he's actually t
 
 When in doubt, see how easy it is to verify this person. Can you see their face? Can you communicate with people who have communicated with them in person? Can you see a body of work that shows they know what they're talking about?
 
-In an ideal world, you hit all these points. The people who have success will hit all three. Missing one isn't a big deal--I know some anonymous accounts who have built an original body of work over time, and they don't seek to extract large sums of money from it. If a person misses more than two receipts, continue interactions with them at your own risk.
+In an ideal world, you hit all these points. The people who have success will hit all three. Missing one isn't a big deal–I know some anonymous accounts who have built an original body of work over time, and they don't seek to extract large sums of money from it. If a person misses more than two receipts, continue interactions with them at your own risk.
 
 Likewise, make sure you get your receipts in order as well.
 
