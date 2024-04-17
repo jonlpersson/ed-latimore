@@ -5,6 +5,7 @@ title: ' Why you want revenge—and why you shouldn’t get it'
 permalink: /why-you-want-revenge-and-why-you-shouldnt-get-it/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Relationships
 description: >-
   "When a person wrongs you, it’s more like they’re self-interested to the point
   of ignoring your well-being, even if that means specifically victimizing you
