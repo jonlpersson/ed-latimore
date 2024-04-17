@@ -6,14 +6,13 @@ permalink: /living-in-the-hood/
 tags:
   - life-lessons
 categories:
-  - life-lessons
+  - Reality
 description: >-
   These posts are a collection of my experiences growing up in the ghetto. You
   can find out what it's like to live in the hood without living in the hood.
 image: /assets/images/posts/housing-projects.jpg
 ---
 If you’ve ever wondered what it’s like living in the hood, the first thing I can tell you is that you should consider yourself lucky that you only get to wonder. I grew up in 2 different inner-city housing projects in the city of Pittsburgh.
-
 
 Pittsburgh doesn’t have some of the notorious hoods or housing projects like New York or Los Angeles, but it was still a pretty rough time full of all the trappings of the ghetto:
 
