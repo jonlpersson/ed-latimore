@@ -5,6 +5,7 @@ title: The hard way to escape the slow pull of reality's quicksand
 permalink: the-hard-way-to-escape-the-slow-pull-of-reality-quicksand
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Reality
 description: >-
   Your actions set things in motion in *your* universe. You create your universe
   the same way you create your life.
@@ -32,11 +33,11 @@ The life I’m living is significantly different from and better than the one I 
 
 You either die doing something stupid, or the stupid part of you dies off.
 
-Even though I intellectually understand that it&nbsp;[only takes two years to change your life](https://edlatimore.com/change-your-life/){: target="_blank" rel="noopener noreferrer"}, here I am 10 years later, doubting that I even exist because things are so different.
+Even though I intellectually understand that it [only takes two years to change your life](https://edlatimore.com/change-your-life/){: target="_blank" rel="noopener noreferrer"}, here I am 10 years later, doubting that I even exist because things are so different.
 
 I figured I must be dreaming in my prison cell, or that I died and went to heaven (though I hardly think I deserved to go there)–or maybe I was in a coma after a drunk driving accident.
 
-Of course, this almost certainly isn’t what happened (though there is the idea of&nbsp;[Quantum Immortality](https://hackernoon.com/quantum-immortality-summed-up-in-5-key-points){: target="_blank" rel="noopener noreferrer"}&nbsp;that’s floating around). Here’s how I think it happened for me and, in explaining this, I hopefully give you a path to changing yourself.
+Of course, this almost certainly isn’t what happened (though there is the idea of [Quantum Immortality](https://hackernoon.com/quantum-immortality-summed-up-in-5-key-points){: target="_blank" rel="noopener noreferrer"} that’s floating around). Here’s how I think it happened for me and, in explaining this, I hopefully give you a path to changing yourself.
 
 ## Actions create reality; reality creates a path
 
@@ -70,7 +71,7 @@ The desperation and insecurity they enter the relationship with motivates their 
 
 You no longer even try or, when you do, it's so spetactacularly bad that you couldn't do worse if you were intentional about ruining your relationship.
 
-How does one break out of the prison they’ve constructed that also gets harder to escape from the more they try to? One day, they have a small but significant realization:&nbsp;**it’s their own fault they’re in there.**
+How does one break out of the prison they’ve constructed that also gets harder to escape from the more they try to? One day, they have a small but significant realization: **it’s their own fault they’re in there.**
 
 You don't have to take total responsibility. In fact, it’s likely you’ll still have denial about the role you play in your circumstances, but now you accept that your life is your responsibility. This changes your intent, which changes your actions, which changes your reality.
 
@@ -78,7 +79,7 @@ The change may be small and subtle. It may be large and obvious. But you aren’
 
 One action, done differently with new intent and refined motivation, forces the universe to react differently.
 
-Over time, the changes build on each other—especially as you’re forced to behave differently to function in this new universe \*your\* actions have created.&nbsp;***This is why it’s easier to act yourself into a new way of thinking than to think yourself into a new way of acting.***
+Over time, the changes build on each other—especially as you’re forced to behave differently to function in this new universe \*your\* actions have created. ***This is why it’s easier to act yourself into a new way of thinking than to think yourself into a new way of acting.***
 
 The universe responds to action.
 
