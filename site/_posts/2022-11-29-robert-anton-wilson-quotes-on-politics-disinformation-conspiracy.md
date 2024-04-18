@@ -6,7 +6,7 @@ permalink: /robert-anton-wilson-quotes-conspiracy-and-politics/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   Despite being written in 1984, Prometheus Rising by Robert Anton Wilson has
   some solid predictions about the next 30 years that are startlingly accurate.
@@ -26,7 +26,7 @@ It's not what you know that matters. It's what everyone around you believes to b
 
 > "If there is a secret police, every branch and department of the government and institutions not part of the government become suspect as a front for them. Something bearing the label of HEW of might actually be the CIA or NSA in disguise."
 
-Edward Snowden tried to tell us, but the United States made him a criminal.&nbsp;
+Edward Snowden tried to tell us, but the United States made him a criminal.
 
 ---
 
