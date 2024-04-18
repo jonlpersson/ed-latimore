@@ -6,7 +6,7 @@ permalink: /should-I-shave-my-head/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   To shave your head or not? As someone who has rocked the bald head but
   currently chooses not to, I give you my opinion on when you should—or
@@ -114,7 +114,7 @@ To read the details of my transplant and the science of why you need to follow t
 
 First, I want to get something somewhat controversial out of the way: there’s no such thing as a weird-shaped head. Some guys think they’ll look strange with a bald head, but I assure you that you look even worse with splotches of missing hair all over your scalp.
 
-It only looks weird to you because you're used to seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.&nbsp;
+It only looks weird to you because you're used to seeing yourself with a full head of hair. It's akin to how your own voice sounds strange to you when you hear it on a recording.
 
 If you can’t grow facial hair, then try applying minoxidil on your face. [It’s been proven to cause hair growth when applied to the face.](https://www.fatherly.com/style/does-minoxidil-work-for-beard-growth-what-men-need-to-know)
 
