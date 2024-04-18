@@ -6,7 +6,7 @@ permalink: /what-happens-when-you-learn-to-fight/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/thumbnails/ed-warming-up-hitting-the-speedbag.jpg
 description: >-
   Learning to fight is transformative to your mind, body, and confidence. In
