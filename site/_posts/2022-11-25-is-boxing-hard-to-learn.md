@@ -6,7 +6,7 @@ permalink: /is-boxing-hard-to-learn/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/thumbnails/ed-latimore-in-amateur-fight-boxing-ring.jpg
 description: >-
   I’ve been a boxer for over a decade. Here’s why it’s the toughest sport to
@@ -18,7 +18,7 @@ If you want to learn to box this is the first thing you should know.
 
 It’s hard.
 
-ESPN once ranked it as the number 1 toughest sport to train above hockey, football, and other martial arts.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+ESPN once ranked it as the number 1 toughest sport to train above hockey, football, and other martial arts.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 It’s not like Brazilian jiu-jitsu where there are hundreds of moves to master. In fact, you can learn the fundamentals of boxing in a short time while jiu-jitsu takes at least a decade to reach black-belt status.
 
