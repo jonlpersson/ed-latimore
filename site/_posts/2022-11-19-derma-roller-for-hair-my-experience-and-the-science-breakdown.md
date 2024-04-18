@@ -6,13 +6,13 @@ permalink: /derma-roller-for-hair/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   This article discusses how is used derma rolling for hair regrowth. It worked
   to reverse hair loss and preserve non-transplanted hairs after my FUE surgery.
 image: /assets/images/drafts/dermaroller-for-hair-loss.jpeg
 ---
-One of the most effective ways to reverse hair loss (not just slow down or halt) is the derma roller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. A derma roller for hair can be as little as $40. With that, you can be well on your way to making a serious difference in your hair loss.&nbsp;
+One of the most effective ways to reverse hair loss (not just slow down or halt) is the derma roller. However, it's not promoted nearly as heavily as propecia, rogaine, or hair transplants because it's not a big source of money. A derma roller for hair can be as little as $40. With that, you can be well on your way to making a serious difference in your hair loss.
 
 I wish I had known about this [before I got my hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/). While it wouldn't have produced the same results, you'll see well this can work. Dermarollers are truly the most cost effective hair loss solution.
 
@@ -41,9 +41,9 @@ Another benefit of derma rolling is that works just as for men and women. This i
 
 ## A Randomized Evaluator Blinded Study of the Effect of Microneedling in Androgenetic Alopecia
 
-A 2013 study titled "[A Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)&nbsp;compared hair growth between a group that just used a 5% minoxidil solution and one that used a 5% minoxidil solution along with weekly microneedling sessions.
+A 2013 study titled "[A Randomized Evaluator Blinded Study of Effect of Microneedling in Androgenetic Alopecia"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/) compared hair growth between a group that just used a 5% minoxidil solution and one that used a 5% minoxidil solution along with weekly microneedling sessions.
 
-The results were incredible.&nbsp; Directly from the study:
+The results were incredible.  Directly from the study:
 
 > "(1) **Hair counts** – The mean change in hair count at week 12 was significantly greater for the Microneedling group compared to the Minoxidil group (91.4 vs 22.2 respectively). (2) **Investigator evaluation** – Forty patients in Microneedling group had +2 to +3 response on a 7-point visual analogue scale, while none showed the same response in the Minoxidil group. (3) **Patient evaluation** – In the Microneedling group, 41 (82%) patients reported more than 50% improvement versus only 2 (4.5%) patients in the Minoxidil group. Unsatisfied patients to conventional therapy for AGA got good response with Microneedling treatment."
 
@@ -84,19 +84,19 @@ All of these contribute to hair growth.
 
 Dermal papillae are essential for the induction and maintenance of hair growth. They are embedded in a laminin and collagen IV-rich extracellular matrix at the base of the hair follicles. Dermal papillae cells are also androgen receptors.
 
-When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae cells, it binds to the androgen receptors, causing two notable things to happen: downregulation of processes vital to hair growth and upregulation of processes that stop hair growth.&nbsp;
+When the potent androgen dihydrotestosterone (DHT) enters the dermal papillae cells, it binds to the androgen receptors, causing two notable things to happen: downregulation of processes vital to hair growth and upregulation of processes that stop hair growth.
 
 These include the suppression of stimulatory pathways of:
 
-* **Wnt:** Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))&nbsp;
-* **Stat 3:** Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))&nbsp;
-* **Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):**&nbsp;Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
-* **Beta-catenin:**&nbsp;β-Catenin signaling is specifically responsible for hair follicle development, regeneration, and growth, and is expressed in the dermis and promotes anagen induction, duration, keratinocyte regulation and differentiaton.
-* **Lef1:**&nbsp;Lef1 is a key transcription factor in developing fibroblasts that supports hair follicle formation in adult wounds. ([Source](https://elifesciences.org/articles/60066))
+* **Wnt:** Has been shown to grow hair follicles when elevated and is activated as a growth factor from wounds. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405869/))
+* **Stat 3:** Stat3 plays an important role in behavior of hair follicle cells. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4139480/))
+* **Sonic The Hedgehog (Seriously, that's it's name. It's typically called "Shh" for short):** Shh signaling contributes to hair growth and dermal papillae formation by regulating the hair follicle formation. ([source)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371411/)
+* **Beta-catenin:** β-Catenin signaling is specifically responsible for hair follicle development, regeneration, and growth, and is expressed in the dermis and promotes anagen induction, duration, keratinocyte regulation and differentiaton.
+* **Lef1:** Lef1 is a key transcription factor in developing fibroblasts that supports hair follicle formation in adult wounds. ([Source](https://elifesciences.org/articles/60066))
 
 As well as the up-regulation of suppressive growth factor.
 
-**Bone morphogenic protein (BMP-4):**&nbsp;The growth factor bone morphogenic protein (BMP)-4,&nbsp; plays an important role in suppressing follicular growth and follicle differentiation during the telogen phase by inhibiting anagen (growth phase) induction. ([Source](https://pubmed.ncbi.nlm.nih.gov/16960130/))&nbsp;
+**Bone morphogenic protein (BMP-4):** The growth factor bone morphogenic protein (BMP)-4,  plays an important role in suppressing follicular growth and follicle differentiation during the telogen phase by inhibiting anagen (growth phase) induction. ([Source](https://pubmed.ncbi.nlm.nih.gov/16960130/))
 
 **Dickkopf-1 (Dkk-1):** Secreted from dermis papilla cells in response to dihydrotestosterone (DHT), Dickkopf-1 (Dkk-1) is also a potent antagonist to the Wnt signaling pathway. Bone morphogenetic protein 4 (BMP4) protein also acts through the activiation of Dickkopf-pathway, thereby inhibiting hairfollicle growth. ([Source](https://pubmed.ncbi.nlm.nih.gov/17657240/))
 
@@ -135,13 +135,13 @@ In other words, do your own reason (like you're doing now with this article), do
 
 I have no particular loyalty to any one derma roller. Here is the link to the one I use, but as long as they meet the following criteria, any derma roller will do. \[[Microneedle Roller with 540, 1.5mm Titanium Needles](https://amzn.to/3GvZ4PW)\]
 
-There are only 2 things you need to look for when picking on a derma roller.&nbsp;
+There are only 2 things you need to look for when picking on a derma roller.
 
 ### Length of roller needles
 
 Follow the study protocol and try using a 1.5 mm length titanium or stainless steel needles. Your goal to stimulate hair growth. If you read the explanation of the how microneedling works, you know that you need to puncture the skin surface. If you skipped it, maybe go back. I swear it's not that thick.
 
-A 1.5mm needle will penetrate deeper into the skin, stimulating blood flow, triggering more growth factor, and causing more of the signaling changes in your scalp to stimulate hair regrowth.&nbsp;
+A 1.5mm needle will penetrate deeper into the skin, stimulating blood flow, triggering more growth factor, and causing more of the signaling changes in your scalp to stimulate hair regrowth.
 
 ### Size of rollers
 
@@ -173,4 +173,4 @@ It works. Every man in every study had great responses, but you've gotta make su
 
 Remember, I already got a hair transplant, but that doesn't protect the hairs that weren't transplanted from falling out. The transplant hair is protected from DHT, but the other stuff can still go, but I've got my hair thickness pretty high adding this tactic to my hair care regime.
 
-If you want to see the rest of my hair loss prevention and retention protocol, check it out here. Otherwise, the rest is up to you.&nbsp;
+If you want to see the rest of my hair loss prevention and retention protocol, check it out here. Otherwise, the rest is up to you.
