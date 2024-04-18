@@ -6,7 +6,7 @@ permalink: /1984-quotes-and-ideas/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   Some people say that 2022 is more like the world of George Orwell's "1984." I
   read the book and collected quotes so you can see for yourself. 
@@ -161,6 +161,15 @@ However, Orwell's quote reminds us to be critical consumers of the cultural and 
 ![&quot;We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship.&quot;](/assets/images/posts/no-one-siezes-power.png){: width="1080" height="1080"}
 
 *"We know that no one siezes power with the intention of relinquishing it. Power is a means; not an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship."*
+
+The promise of revolution is used as a means to gain support and seize power, but once in power, the revolutionary leaders are often unwilling to relinquish it. Instead, they consolidate their power and create a dictatorship. This playbook is as old as the French Revolution.
+
+1. The Russian Revolution (1917): The Bolsheviks, led by Vladimir Lenin, overthrew the Tsarist regime with promises of "peace, land, and bread" for the people. However, once in power, Lenin and later Joseph Stalin created a totalitarian state characterized by mass repression, forced labor camps, and the elimination of political opponents.
+2. The Cuban Revolution (1959): Fidel Castro and his 26th of July Movement ousted the U.S.-backed dictator Fulgencio Batista, promising to restore democracy and address social inequalities. Instead, Castro established a one-party communist state, suppressed dissent, and maintained power for over five decades.
+3. The Iranian Revolution (1979): Diverse opposition groups, including Islamists, leftists, and liberals, united to overthrow the Shah of Iran, Mohammad Reza Pahlavi. However, the revolution was quickly co-opted by the Islamists led by Ayatollah Ruhollah Khomeini, who established an authoritarian theocracy that brutally suppressed opposition and imposed strict Islamic law.
+4. The Cambodian Revolution (1975): The Khmer Rouge, led by Pol Pot, seized power after a civil war with the promise of creating a classless, agrarian society. Instead, they carried out a genocidal campaign, killing an estimated 1.5 to 2 million people through forced labor, starvation, and mass executions in their attempt to create a "pure" communist state.
+
+You either die while you're a revolutionary, or live long enough to see yourself become a despot.
 
 ---
 
