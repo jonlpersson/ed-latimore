@@ -2,9 +2,8 @@
 type: PDF guide
 title: 'The Fighter''s Mindset: Boxing Lesson''s On Grit, Resilience, and Anti-Fragility'
 description: >-
-  I teach you the mindset lessons I learned from my 13-1-1 professional
-  heavyweight boxing career. Learn how to develop the mindset of a fighter, from
-  a fighter, so you can win the battles you face. 
+  I teach you the mindset lessons I learned from my 13-1-1 heavyweight boxing
+  career. Develop the mindset of a fighter so you can win the battles you face. 
 image: /assets/images/resources/the-fighters-mindset-cover.jpg
 product_info:
   button_text: Download now
@@ -17,9 +16,9 @@ hero:
     The Fighter's Mindset: Boxing Lesson's On Grit, Resilience, and
     Anti-Fragility
   text: >-
-    I teach you the mindset lessons I learned from my 13-1-1 professional
-    heavyweight boxing career. Learn how to develop the mindset of a fighter,
-    from a fighter, so you can win the battles you face. 
+    I teach you the mindset lessons I learned from my 13-1-1 heavyweight boxing
+    career. Develop the mindset of a fighter so you can win the battles you
+    face. 
 page_blocks:
   - _id: block_rich_text
     alignment: center
