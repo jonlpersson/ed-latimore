@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  Be careful who you listen to on the internet. There are a lot of people who
-  haven’t done anything to earn the right to give the advice they constantly
-  spout. In fact, many of them are hypocrites, contradictions, and several
-  cases, outright liars.
+  Be careful who you trust on the internet. Many are hypocrites and, in several
+  cases, outright liars. Here's how to know who's real and who's fake.
 image: /assets/images/posts/receipts.jpg
 ---
 ### Then it's time to make sure that people you list to have "The Receipts"…
