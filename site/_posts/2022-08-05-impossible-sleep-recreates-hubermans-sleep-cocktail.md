@@ -6,7 +6,7 @@ permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
 tags:
   - how-to-become-superhuman
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   I haven't been sleeping well, so I tried Impossible Sleep. Learn how this
   supplement can help you sleep as well.
@@ -18,13 +18,13 @@ For the past month, I’ve made a serious effort to improve my sleep. There are 
 2. **I hate feeling tired. I use the Oura Ring to track my sleep.** There is a correlation between how much deep sleep I get and how I feel when I wake up.<br><br>Even without a ring, I know how bad I feel in the morning when I had trouble sleeping the night before. ***\[[Check out the Oura Ring here](https://oura.link/gYK4V69-){: target="_blank" rel="noopener"}\]***
 3. **I occasionally suffer from night terrors.** I have various theories on why, many dating back to childhood abuse, but I can typically keep them at bay when my sleep quality is on point. I know this because outside of events in my home, I’m most susceptible to night terrors when my body is recovering from jet lag after a long trip.
 
-Nothing in your life gets better if you don’t sleep well. Lack of sleep affects your ability to focus, work out, and it even affects your ability to fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been as rested over the past two years.&nbsp;
+Nothing in your life gets better if you don’t sleep well. Lack of sleep affects your ability to focus, work out, and it even affects your ability to fight off the common cold. For most of my life, I had no trouble sleeping. However, I haven’t been as rested over the past two years.
 
 I mentioned this to my buddy Joel Runyon, and he recommended his product, Impossible Sleep. He even gave a free sample. Well, it works. And I know it’s not just me. My Oura Ring also reflects that I’m sleeping better. [I highly recommend it.](http://impossible.co/ed){: target="_blank"}
 
 You could just take my word for it and click on the link above, but I’m sure you want to know a little more about this product. Well, I’m happy to educate you about Impossible Sleep and how you can use it to sleep better, age better, and feel ready to face the day, every day.
 
-I also started reading Dan Go's newsletter for High Performers. He puts out some great information on improving your sleep. [You can read his past posts and sign up here.&nbsp;](https://www.dango.co/)
+I also started reading Dan Go's newsletter for High Performers. He puts out some great information on improving your sleep. [You can read his past posts and sign up here.](https://www.dango.co/)
 
 ***If you decide to try out Impossible Sleep, use promo code Ed20 to get 20% off the first order of a subscription batch you set up.***
 
