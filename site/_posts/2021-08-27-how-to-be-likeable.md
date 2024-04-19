@@ -8,14 +8,13 @@ tags:
 categories:
   - life-lessons
 description: >-
-  I teach you how to be likeable from my personal experience. Being a likable
-  person is the ultimate form of social currency in personal, romantic, and
-  business relationships.
+  Being a likable person is the ultimate form of social currency in personal,
+  romantic, and business relationships. Here's how to do it.
 image: /assets/images/posts/ed-speaking-spanish.jpg
 ---
-What’s the point in being likable if people will just hate you for it?&nbsp;
+What’s the point in being likable if people will just hate you for it?
 
-There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true. No matter what you learn about how to be likeable, it won't matter because some people just won't be a fan of yours.&nbsp;
+There’s a popular idea that you can’t make everyone happy. And in my experience, that’s mostly true. No matter what you learn about how to be likeable, it won't matter because some people just won't be a fan of yours.
 
 The longer you live, you’ll inevitably come across someone who, for whatever reason, just isn’t your biggest fan. That’s okay.
 
@@ -63,7 +62,7 @@ Writing this down will help to solidify the image in your head and make it more 
 Listening is an underrated art that builds bonds. When you demonstrate engaged, active listening, people feel respected and valued. This fosters likability and connection.
 
 * Give your full attention when someone is speaking to you. Avoid multitasking or letting your gaze wander. Lean in and make eye contact.
-* Paraphrase parts of what they share to show understanding. For example, "It sounds like you felt very frustrated when your boss criticised your work."&nbsp;
+* Paraphrase parts of what they share to show understanding. For example, "It sounds like you felt very frustrated when your boss criticised your work."
 * Ask thoughtful follow-up questions to encourage them to share more. Dig deeper with open-ended questions like "What drew you to that career?"
 * Allow natural pauses in the conversation for them to elaborate. Don't rush to fill silences.
 * Limit interruptions and let them finish speaking before you respond. Being patient shows care.
@@ -111,7 +110,7 @@ You can do this by:
 
 Behaving respectfully towards others makes you hard to dislike. If you can do nothing else, being a more respectful person is probably the single biggest lever you can pull in becoming likable.
 
-It also just makes you a better person and is great for your mental health as well.&nbsp;
+It also just makes you a better person and is great for your mental health as well.
 
 ## Recap of 5 basic tips to make you more likeable
 
