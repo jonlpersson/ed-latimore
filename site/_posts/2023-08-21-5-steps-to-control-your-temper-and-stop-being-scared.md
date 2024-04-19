@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "I get sad and angry, just like every other human. The difference is that I've
-  learned how to control and transmute those emotions rather than being
-  controlled and transformed by them."
+  You either control your emotions, or your emotions will control you. Learn how
+  to control your temper for a better life. 
 image: /assets/images/posts/controlwhatyoucan.webp
 ---
 Most people are aware of the traits of neuroticism and anxiety. If you aren’t, this short anecdote will sum it up nicely:
