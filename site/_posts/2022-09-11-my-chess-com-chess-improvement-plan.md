@@ -6,7 +6,7 @@ permalink: /chess-improvement-plan/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   This is a plan that I'll be implementing to improve my rating on Chess.com in
   the rapid and daily games. Not for OTB but could work.
@@ -24,7 +24,7 @@ The two ratings on [chess.com](http://chess.com/){: target="_blank"} that I’ll
 
 ### Daily games
 
-Daily chess games offer time controls ranging from 1 to 14 days per move.&nbsp; So the game could conceivably last for a year (or more) depending on the actual time per move taken by the players and the total number of moves in the course of the game. **My peak rating in the daily games is 1535.**
+Daily chess games offer time controls ranging from 1 to 14 days per move.  So the game could conceivably last for a year (or more) depending on the actual time per move taken by the players and the total number of moves in the course of the game. **My peak rating in the daily games is 1535.**
 
 ### Rapid games
 
@@ -34,7 +34,7 @@ According to FIDE, blitz chess is anything with 10 minutes or less per player. U
 
 ## Other considerations and caveats about my chess study plan
 
-An interesting fact worth noting is that for "daily" chess, one can consult books and databases, but not chess engines (for calculating moves) or input/help from humans.&nbsp; This is a standard rule for most correspondence chess.&nbsp; For (OTB) chess or any live game (like the rapid style I’ll be training in), using ANY external resource or aid is prohibited.
+An interesting fact worth noting is that for "daily" chess, one can consult books and databases, but not chess engines (for calculating moves) or input/help from humans.  This is a standard rule for most correspondence chess.  For (OTB) chess or any live game (like the rapid style I’ll be training in), using ANY external resource or aid is prohibited.
 
 I mention this because I hypothesize that my daily rating will not increase at the same rate as my rapid rating because I don’t plan to lean on external resources, though my opponents may. Also, the games take place slower, so I won’t have as many opportunities to increase my rating.
 
@@ -65,7 +65,7 @@ For example, I play a lot of games on my phone when I’m lying down to sleep (t
 
 My rating should start to reflect my actual playing strength.
 
-I should stop losing games because I ran out of time, rushed a move, or simply missed an obvious tactical opportunity.&nbsp;
+I should stop losing games because I ran out of time, rushed a move, or simply missed an obvious tactical opportunity.
 
 ![Ed Latimore committing chess blunder](/assets/images/drafts/ed-latimore-committing-chess-blunder.png "This is the type of silly blunder I want to start avoiding"){: width="1116" height="680"}
 
@@ -100,7 +100,7 @@ There are two types of tactics I’ll use to improve my tactical vision:
 
 ### Static tactical puzzles
 
-I call these tactical exercises “static” because they are from a fixed set of exercises that aren’t updated. I’ll go through all the tactical exercises in CT Art 4.0 to the point where I memorized the patterns and solutions. Michael De La Maza originally suggested this part of my plan in his book “Rapid Chess Improvement.”&nbsp;
+I call these tactical exercises “static” because they are from a fixed set of exercises that aren’t updated. I’ll go through all the tactical exercises in CT Art 4.0 to the point where I memorized the patterns and solutions. Michael De La Maza originally suggested this part of my plan in his book “Rapid Chess Improvement.”
 
 I liked his rationale for this training regime: he’d develop an eye for seeing tactical weaknesses on the board. There are 2058 different puzzles. I doubt I’ll memorize them all. Rather, I hypothesize that I’ll develop a feel and vision for common tactical ideas and their various positional setups.
 
@@ -110,7 +110,7 @@ I liked his rationale for this training regime: he’d develop an eye for seeing
 
 Since the tactics shown to you won’t be repeated and seem to be matched well to the level of chess tactics you’ve already solved, this is a good way to gain progressive strength.
 
-This is also a way for you to measure the crossover in strength from the static exercises.&nbsp;
+This is also a way for you to measure the crossover in strength from the static exercises.
 
 ![Chess tactics from chess.com](/assets/images/drafts/ed-latimore-chess-com-tactics.png "Do you see the solution?"){: width="2422" height="1364"}
 
@@ -122,7 +122,7 @@ I am devoting a sizable chunk of my energy to studying the opening. My rationale
 
 1. The opening is the easiest part of the game to study because there are fewer things to consider and fewer ways for things to go wrong. I figure that by mastering this phase of the game, I can win some close games, get myself into more middle games to learn from, and avoid mistakes and traps that make a game almost impossible to win, even with strong play going forward. As the old saying goes, “well begun is half done.”
 2. Because openings have so few permutations, you can easily study variations in your opening. As I see it, the goal of studying the opening isn’t to know exactly what to do for every one of the first 12 moves. It’s to understand why the moves are played so that you know what to do in case they aren’t played.
-3. Strong opening theory saves time and energy. It saves time because you can quickly make moves in familiar situations without giving it too much thought (though you should, so you avoid making blunders), and it saves energy because you don’t have to think hard about something that has a proven solution. That’s brain power that can be saved for the middle game, where the board is more complicated with many more things to consider.&nbsp;
+3. Strong opening theory saves time and energy. It saves time because you can quickly make moves in familiar situations without giving it too much thought (though you should, so you avoid making blunders), and it saves energy because you don’t have to think hard about something that has a proven solution. That’s brain power that can be saved for the middle game, where the board is more complicated with many more things to consider.
 
 For my opening training, I’ll be using [chess.com](http://chess.com/){: target="_blank"} and analyzing the moves for my selected opening repertoire.
 
@@ -130,7 +130,7 @@ For my opening training, I’ll be using [chess.com](http://chess.com/){: target
 
 I’ll also be using [Chessable.com](http://chessable.com/){: target="_blank"} and its training programs.
 
-Chessable’s MoveTrainer® turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.&nbsp;
+Chessable’s MoveTrainer® turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.
 
 ![Ed Latimore using Chessable](/assets/images/drafts/ed-latimore-chessable-sicilian.png "Using Chessable to sharpen my knowledge of the Sicilian Defense as black"){: width="500" height="253"}
 
@@ -156,7 +156,7 @@ The engine on [Chess.com](http://chess.com/){: target="_blank"} also provides so
 
 [Decode Chess](https://decodechess.com/ref/68/){: target="_blank"} is good if you don’t quite understand the chess strategy behind why the computer might suggest a move. It gives multiple positives for the best move and multiple negatives for the worst. With Decode Chess, you get more information about why a move you made in the game was no good.
 
-[Chess.com](http://chess.com/){: target="_blank"} only gives you the most potent idea when it suggests better moves or when it tells you what’s wrong. A stronger player will be able to understand the suggestions of [chess.com](http://chess.com/){: target="_blank"} without the additional commentary.&nbsp;
+[Chess.com](http://chess.com/){: target="_blank"} only gives you the most potent idea when it suggests better moves or when it tells you what’s wrong. A stronger player will be able to understand the suggestions of [chess.com](http://chess.com/){: target="_blank"} without the additional commentary.
 
 I’m using both to review my games because while I have access to a coach who can explain truly difficult ideas and points to me, and I’m strong enough to understand the reasoning behind most of [Chess.com](http://chess.com/){: target="_blank"} suggestions, Decode Chess sometimes offers a more detailed look into why a move isn’t the best.
 
@@ -228,6 +228,6 @@ The best way to develop this is through constant practice and drilling of the fu
 * Opening training
 * Chess game review
 
-I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is&nbsp;[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}
+I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is [Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}
 
 {% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}<br>​​​​​​
