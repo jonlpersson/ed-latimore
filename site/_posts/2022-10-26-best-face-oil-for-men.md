@@ -6,7 +6,7 @@ permalink: /best-face-oil-for-men/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   A comprehensive review of popular men’s face oils: how they work, why you
   should use them, and how to pick the right one for you.
@@ -22,7 +22,7 @@ Knowing how to apply face oils is straightforward. It helps to read the bottle�
 
 ### Popular face oils
 
-When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>:
+When picking out a quality face oil, you want something that has a proven track record for improving your skin and not clogging pores. Good quality oils will contain some—and maybe just one—of the following high-quality ingredients for nourishing your skin and preventing aging<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>:
 
 * **Jojoba oil:** An oil produced from the seeds of the jojoba plant that has anti-inflammatory properties, which can help reduce redness and ease the effects of eczema and rosacea.
 * **Rosehip seed oil:** An ancient oil produced from the fruit and seeds of the rose plant. It’s commonly used for its valuable healing benefits and contains skin-nourishing vitamins and essential fatty acids.
