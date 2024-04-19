@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "The media creates division because division creates engagement, and
-  engagement drives dollars. Your lack of emotional control is paying for
-  someone's mansion, lambo, and vacation. Are you ok with that? I sure hope
-  not."
+  The media creates division because division creates engagement, and engagement
+  drives dollars. Learn how it works and how to avoid it.
 image: /assets/images/posts/mediaoutrage.jpeg
 ---
 ***Here's a short lesson on internet ad revenue and why you lose every time you share a viewpoint you don't agree with or a story you don't like to show how foolish it is.***
