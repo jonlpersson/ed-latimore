@@ -7,9 +7,9 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  Suffering a setback makes you more rigid and resilient. The moment you make
-  finding the easiest, most pleasurable way to get through any situation your
-  priority, you have lost battle twice.
+  Suffering a setback makes you more rigid and resilient. Thick skin is
+  necessary if you want to survive in the world. This is why you need to do hard
+  things.
 image: /assets/images/drafts/ed-latimore-lifting-weights.jpg
 ---
 Today’s newsletter was inspired by the following post on FB.
