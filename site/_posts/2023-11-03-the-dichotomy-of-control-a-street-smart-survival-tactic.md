@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  The dichotomy of control. I couldn't control poverty in my neighborhood, but I
-  could control studying hard to maximize my scholarship chances. I couldn't
-  stop school bullying altogether, but I could control not letting it make me
-  cruel or bitter.
+  Dichtomoty of control is the practice of focusing on what you can control and
+  ignoring the rest. Learn how.
 image: /assets/images/posts/epictetus-dichotomy.jpeg
 ---
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC96bFFHVHZSdlpfVT9zaT1adk5LWC16X3Vaa3lmU3BuIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/zlQGTvRvZ_U?si=ZvNKX-z_uZkyfSpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
