@@ -6,7 +6,7 @@ permalink: /mastic-gum-review/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Want to develop a more masculine, attractive face? Read my review on Greek
   mastic gum.
@@ -53,11 +53,11 @@ At this period of human history, oral hygiene was not nearly as developed as it 
 
 The word mastic originates from the Greek word "mastichein," meaning "to gnash the teeth." If you want a high-level word to add to your vocabulary, "masticate" is another word for "chewing."
 
-The Greeks didn't know about the antimicrobial activity of this aromatic resin they were chewing (at least not how we understand it now), but its use has persisted for almost three millennia because it works.&nbsp;
+The Greeks didn't know about the antimicrobial activity of this aromatic resin they were chewing (at least not how we understand it now), but its use has persisted for almost three millennia because it works.
 
 Today, mastic gum is taken as either a power, a capsule, or the old-fashioned way, as chewing gum. I don't understand why anyone would opt to take just the powder or capsule because doing so causes you to miss out on the added benefits of chewing the tough gum but to each their own.
 
-Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
+Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
 
 [***Get a few tins of Mastic Gum here***](https://grecogum.com/edlatimore/)
 
@@ -77,7 +77,7 @@ I'm not sure how much harder mastic gum is to chew, but I know it's definitely t
 
 The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/))
 
-If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.&nbsp;](https://grecogum.com/edlatimore/)
+If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.](https://grecogum.com/edlatimore/)
 
 ### Mastic gum keeps your teeth clean
 
@@ -91,13 +91,13 @@ Chewing mastic gum for a span of 4 hours resulted in a notable reduction in bact
 
 [Another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281189/) looked at the effect of Mastic Chewing Gum on mutans streptococci, a bacteria known to heighten the risk of tooth cavity formation. During the course of three weeks, participants engaged in the habit of chewing mastic gum thrice daily. At the study's conclusion, researchers noted a reduction in Mutans streptococci levels among the participants.
 
-It looks like the ancient Greeks had the right idea. Due to its high levels of antibacterial activity, Mastic chewing gum is a beneficial antiplaque agent in reducing bacterial growth in saliva and plaque formation on teeth.&nbsp;
+It looks like the ancient Greeks had the right idea. Due to its high levels of antibacterial activity, Mastic chewing gum is a beneficial antiplaque agent in reducing bacterial growth in saliva and plaque formation on teeth.
 
 ## Mastic gum relieves gastrointestinal disorders and distress
 
 Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
 
-This is also the bacteria responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.&nbsp;
+This is also the bacteria responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.
 
 Mastic gum has also proven to be a potent weapon in dealing with acid reflux, heartburn, and indigestion (all symptoms of dyspepsia). It's also been effective at alleviating the symptoms of irritable bowel syndrome (inflammatory bowel disease) and Crohn's disease.
 
@@ -119,7 +119,7 @@ Mapsin is normally downregulated in breast and prostate cancers, allowing them t
 
 Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells [is worth noting](https://pubmed.ncbi.nlm.nih.gov/16691616/). In addition, [a 2018 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084073/) provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
-### Mastic gum can help with allergic asthma&nbsp;
+### Mastic gum can help with allergic asthma 
 
 Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions.
 
@@ -139,7 +139,7 @@ The following are a few pros that I found chewing mastic gum:
 
 **It works**
 
-If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women.](/how-to-become-more-physically-attractive-to-women/) Women are by and large attracted to male physiques that cue strength.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> A strong jawline is a marker of health and physical strength.
+If you want a more muscular face, mastic gum will help you achieve that. I’ve used it as a means of building a more masculine face and also as a way to [become more physically attractive to women.](/how-to-become-more-physically-attractive-to-women/) Women are by and large attracted to male physiques that cue strength.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> A strong jawline is a marker of health and physical strength.
 
 **It’s discrete**
 
@@ -209,7 +209,7 @@ For best effects, combine mastic gum chewing with proper tongue posture techniqu
 
 Be patient, as enhancing the jawline requires consistency over an extended period. But the natural approach of chewing mastic gum offers a safe, accessible way to enhance the lower facial region.
 
-If you’d like to give it a try, use my link for Greco Gum [here](https://grecogum.com/edlatimore/). (I get a small % cut of each sale made through the link, which helps pay my bills)&nbsp;
+If you’d like to give it a try, use my link for Greco Gum [here](https://grecogum.com/edlatimore/). (I get a small % cut of each sale made through the link, which helps pay my bills)
 
 ---
 
