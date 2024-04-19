@@ -7,12 +7,7 @@ categories:
   - Relationships
 description: >-
   This post blends my personal experience, general observations, and scientific
-  research about what makes a relationship a fruitful, positive experience. I
-  don’t know if these points will be new or groundbreaking, but they are useful
-  and have served me and others well.
-
-
-  Whether you're single or 20 years into a relationship, there is value here.
+  research about what makes a relationship a fruitful, positive experience.
 image: /assets/images/drafts/edandannabeforewedding-54-41.jpeg
 ---
 A big reason relationships fail today is the assumption that healthy relationships are entirely subjective. While every couple has unique dynamics, the fundamentals of a strong partnership are largely universal. As Tolstoy wrote, "Happy families are all alike; every unhappy family is unhappy in its own way."
@@ -21,7 +16,7 @@ Every relationship is great when things are going well. Even two toxic, narcissi
 
 You can’t judge a relationship based on the good times. Accordingly, one of the biggest mistakes you can make is looking for a relationship based on how good it makes you feel.
 
-Don’t take this to mean that you shouldn’t be with someone who treats you well and whose company you enjoy. But if you get into a relationship based only on the good times, then you are potentially setting yourself up for a heavy dose of dysfunction.&nbsp;
+Don’t take this to mean that you shouldn’t be with someone who treats you well and whose company you enjoy. But if you get into a relationship based only on the good times, then you are potentially setting yourself up for a heavy dose of dysfunction.
 
 Your romantic relationship is second in significance only to the relationship you will have with your children. If you decide not to have children, then this is the person you will spend most of your time with. For that reason alone, it’s important that you don’t mess this up. Notice that I didn’t say it’s important that you “get it right.”
 
@@ -41,8 +36,8 @@ Whether you're single or 20 years into a relationship, there is value here.
 
 There are no personal problems that can't be solved by being honest with yourself. The challenge with self-honesty is that once you acknowledge the truth of a situation, you have only three potential responses:
 
-1. You do something to fix the problem and change the problematic future that would result otherwise.&nbsp;
-2. You do nothing, fully aware you're on a self-imposed path to destruction.&nbsp;
+1. You do something to fix the problem and change the problematic future that would result otherwise.
+2. You do nothing, fully aware you're on a self-imposed path to destruction.
 3. You do nothing because you believe things are okay or will change.
 
 Everything starts there. If you aren't honest with yourself about what you want, you're unlikely to get it. You'll be blown about by the circumstances of life because you don't have a plan.
@@ -51,7 +46,7 @@ If you want to be with someone, admit that to yourself and do something about it
 
 If you want to leave a relationship, admit that to yourself and do something about it.
 
-There is no universally correct path. There is only the path that works best for you and the only way to know that path is to admit to yourself that you need to start walking it.&nbsp;
+There is no universally correct path. There is only the path that works best for you and the only way to know that path is to admit to yourself that you need to start walking it.
 
 ## Look for someone that you can disagree with
 
@@ -67,7 +62,7 @@ As you spend more time with someone, their personality will become more exposed.
 
 Or the people are lucky. Extremely high levels of compatibility happen, especially from those raised in relatively insular communities and societies who find one another, but you probably aren’t the exception. I’m sorry, but that’s how exceptions work.
 
-As a corollary to this idea, by 3-6 months—assuming there isn’t an acute betrayal of trust,&nbsp; an irreconcilable skeleton in their closet is revealed, or they sustain an injury that changes their personality—you know if the person is worth pursuing something longer. If you’re with someone for a year and you still don’t know if they’re the one for you, you’re either in denial or a liar.
+As a corollary to this idea, by 3-6 months—assuming there isn’t an acute betrayal of trust,  an irreconcilable skeleton in their closet is revealed, or they sustain an injury that changes their personality—you know if the person is worth pursuing something longer. If you’re with someone for a year and you still don’t know if they’re the one for you, you’re either in denial or a liar.
 
 ## No matter how subtle, disrespect breeds resentment
 
@@ -79,27 +74,27 @@ Insults are a deal breaker. Insults are different from criticism. Criticism is f
 
 Hopefully, the difference is clear. Many people use the two synonymously, but they are nothing alike. Giving and receiving criticism is essential for a relationship to last. There is such a thing as being "overly critical," but that's a distinction of degree, not type. Insults, however, can't be tolerated.
 
-I don't believe in insulting people I'm not in a relationship with, as the sole intent of an insult is to cause harm, and living that way never turns out good for you. I couldn't imagine doing it in a relationship. Verbal abuse is a slippery slope to physical abuse.&nbsp;
+I don't believe in insulting people I'm not in a relationship with, as the sole intent of an insult is to cause harm, and living that way never turns out good for you. I couldn't imagine doing it in a relationship. Verbal abuse is a slippery slope to physical abuse.
 
-But I want to be clear: insults are verbal abuse, not criticism.&nbsp;
+But I want to be clear: insults are verbal abuse, not criticism.
 
 {% twitter https://twitter.com/EdLatimore/status/1110121502991630336 %}
 
 ## For people without children, the stance on children needs to be discussed
 
-There are only three ways to look at this issue:&nbsp;
+There are only three ways to look at this issue:
 
 * Wants children
 * Does not want children
 * Indifferent
 
-Note that “undecided” is not an option.&nbsp;
+Note that “undecided” is not an option.
 
 This isn’t because I don’t think some people aren’t sure about having kids. It’s because these are the only three stances in the context of what makes a relationship work.
 
 While it’d be nice to deal with probabilities, nature has put a time limit on a woman’s ability to reproduce, and sperm quality degrades over time. Given that, from conception to adulthood, a child is at least a 20-year time investment, you don’t have time for “I’m not sure” or “Maybe one day.”
 
-If you are the person who wants kids, and you're with someone who doesn't—or vice-versa— do not waste time. End the relationship and be clear about why. Please don't waste time hoping they'll change. Life is short, and your window to reproduce is even shorter.&nbsp;
+If you are the person who wants kids, and you're with someone who doesn't—or vice-versa— do not waste time. End the relationship and be clear about why. Please don't waste time hoping they'll change. Life is short, and your window to reproduce is even shorter.
 
 People who want kids should only date people who want kids. People who don't want kids should only pair up with people who don't want kids. This seems straightforward and obvious, but I've met people who are convinced that a person will change their mind, and after nearly a decade together, they're left confused and angry.
 
@@ -107,13 +102,13 @@ If you're indifferent about having children, you can be with anyone happily. The
 
 ## Politics are overrated
 
-> *“As Nadia drove her date back home, he revealed he had not voted during the 2016 presidential election because he had not liked either candidate, former President Trump or the Democratic nominee Hillary Clinton.* &nbsp; &nbsp;
+> *“As Nadia drove her date back home, he revealed he had not voted during the 2016 presidential election because he had not liked either candidate, former President Trump or the Democratic nominee Hillary Clinton.*
 >
 > *'And I was like, 'I'm never speaking to him again,' she said. 'I almost kicked him out of my car.'"*
 
-This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/#the-streisand-effect){: target="_blank" rel="noopener"}&nbsp;and lazy.
+This quote is from an article published on [The Hill](https://thehill.com/changing-america/enrichment/arts-culture/3917348-politics-are-increasingly-a-dating-dealbreaker-especially-for-women/). According to a 2020 poll by YouGov.com, 86% of women find it difficult to date someone of a different political affiliation. This happens because we use politics as a proxy indicator for someone's values and beliefs. On the surface, this seems like a good idea, but it's [typical first-order thinking](https://edlatimore.com/your-outrage-makes-the-media-rich/#the-streisand-effect){: target="_blank" rel="noopener"} and lazy.
 
-While other countries have more political parties to support, The United States has two parties. Most people don't support every policy and stance endorsed by the party, but they have to pick someone.&nbsp;
+While other countries have more political parties to support, The United States has two parties. Most people don't support every policy and stance endorsed by the party, but they have to pick someone.
 
 Typically, a person supports the person who most strongly aligns with the issue they feel the most strongly about and considers the other stuff the collateral damage since there's no way to throw out the bathwater without the baby. Or, in the case of Nadia's date (and many other people), they support no one.
 
@@ -149,9 +144,9 @@ However, every day won't be a picnic. There will be times when you make each oth
 
 If there's one thing that can improve any relationship and keep it strong, that's focusing on being more likable. That topic is an entire post itself (read it here), but more couples should focus on being likable to each other.
 
-You'll fall in love by having sex and spending time together. Work on liking one another more, and the magic will never leave.&nbsp;
+You'll fall in love by having sex and spending time together. Work on liking one another more, and the magic will never leave.
 
-**Patrice O'Neal has a great commentary on this, albeit only from the guy's perspective.**&nbsp;
+**Patrice O'Neal has a great commentary on this, albeit only from the guy's perspective.**
 
 <div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/vC9KJwcnJEo?si=oQ9Re0Dmsgvv10u9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
@@ -163,23 +158,23 @@ You don't have to know exactly what those conditions were. All you need to under
 
 Take note that I said through "inaction or indolence" and "worse than who you were when you started dating." Life is full of ups and downs. Sometimes, you get laid off, or work becomes so busy that you can't make it to the gym. You might mess up and have too much to drink or lose your temper. Shit happens, and part of a relationship is being there for a person when it does.
 
-That says nothing about the things that happen beyond your control. My wife knows that I like her hair long, and she once asked me if I'd leave if she went through chemotherapy and lost her hair. I couldn't imagine doing such a thing, as it was no fault of her own. Knowing what I like, it'd be a different story if she decided to lop it all off.&nbsp;
+That says nothing about the things that happen beyond your control. My wife knows that I like her hair long, and she once asked me if I'd leave if she went through chemotherapy and lost her hair. I couldn't imagine doing such a thing, as it was no fault of her own. Knowing what I like, it'd be a different story if she decided to lop it all off.
 
 It's a major problem when a person enters a relationship one day, and then, for no reason, they start regressing. You can't get with someone who plays video games all day and doesn't work out and then get pissed when, three years into the relationship, he would rather play Playstation 5 than take a hike with you.
 
-Yes, sometimes people change. However, getting into a relationship based on "hope" and "potential" will make everyone frustrated if neither is fulfilled.&nbsp;
+Yes, sometimes people change. However, getting into a relationship based on "hope" and "potential" will make everyone frustrated if neither is fulfilled.
 
 ## Managing expectations and trade-offs
 
 Understand that everything is a trade-off. You can have anything. You just can't have everything. It's important to be honest with yourself about traits that are important to you. And let's simplify traits down to something easy to work with but still accurate enough to make useful predictions.
 
-Physical attraction, emotional stability, functional intelligence. While we'd like to get someone who rates highly for our personal preferences in all categories, it's better to assume that you can't get everything. In the worst-case scenario, you're not disappointed. In the best case, you're pleasantly surprised.&nbsp;
+Physical attraction, emotional stability, functional intelligence. While we'd like to get someone who rates highly for our personal preferences in all categories, it's better to assume that you can't get everything. In the worst-case scenario, you're not disappointed. In the best case, you're pleasantly surprised.
 
-Instead, you'll have to pick two things that are important to you. Rank them like this:&nbsp;
+Instead, you'll have to pick two things that are important to you. Rank them like this:
 
-* **One that is necessary**. Imagine your ideal partner can only have one trait of those three.&nbsp;
+* **One that is necessary**. Imagine your ideal partner can only have one trait of those three.
 * **One that is sufficient.** This is a requirement, but you’re willing to take less of it if you get more of the first category.
-* **One that you’re willing to go without.** It most likely won’t be this way, but lower expectations are the secret to happiness.&nbsp;
+* **One that you’re willing to go without.** It most likely won’t be this way, but lower expectations are the secret to happiness.
 
 It's not my place to tell you which one you should prioritize. Every person is different and wants different things in a relationship. However, keep in mind that each configuration has pros and cons.
 
@@ -205,8 +200,8 @@ A strong relationship can resist forces that attempt to dissolve or disintegrate
 
 Again, we find ourselves quoting Tolstoy again. ‘All happy families are alike. All unhappy families are unhappy in their own way.” Substitute “families” with “relationships.”
 
-All happy relationships can handle disagreement; they respect one another, earn each other's love, identify what matters most, and put the health of the relationship at the top of their priorities.&nbsp;
+All happy relationships can handle disagreement; they respect one another, earn each other's love, identify what matters most, and put the health of the relationship at the top of their priorities.
 
-The rest is up to you.&nbsp;
+The rest is up to you.
 
 {% include widgets/summary.html id="Stoic-Street-Smarts" %}
