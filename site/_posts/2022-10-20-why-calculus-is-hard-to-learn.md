@@ -6,7 +6,7 @@ permalink: /why-is-calculus-hard/
 tags:
   - math-concepts
 categories:
-  - chess-math-and-language
+  - Reality
 image: /assets/images/thumbnails/calculus-problems-on-paper.jpg
 description: >-
   I failed calculus three times. On the 4th try, it clicked. I now have a BA in
@@ -32,7 +32,7 @@ If you shudder at the thought of calc, it’s a fear response you likely learned
 
 You’re not alone either way.
 
-An estimated 17% of people in the United States have math trauma.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> This refers to the debilitating difficulty and brain shutdown that many people experience when encountering math.
+An estimated 17% of people in the United States have math trauma.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> This refers to the debilitating difficulty and brain shutdown that many people experience when encountering math.
 
 It makes people avoid math and experience feelings of frustration and defeat.
 
@@ -74,7 +74,7 @@ Explore these concepts with practice problems until you understand them in pract
 
 You’re only going to internalize these concepts by putting in time on task. Prepare to dedicate at least 12 hours a week to your calculus studies.
 
-Newton read, wrote, and studied 18 hours a day, 7 days a week.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Geniuses are made, not born, so never shy away from the work.
+Newton read, wrote, and studied 18 hours a day, 7 days a week.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> Geniuses are made, not born, so never shy away from the work.
 
 ## Your fundamentals are weak
 
@@ -123,7 +123,7 @@ My understanding of calculus really took off when I began using the Feynman Tech
 
 Simply put, learning calculus is a long-term commitment. The reason it’s so hard for many people is that they’re not willing to fully commit.
 
-Cramming can get you results in the short term, but mastering calculus or any other skill always involves consistent effort over time.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Cramming can get you results in the short term, but mastering calculus or any other skill always involves consistent effort over time.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup>
 
 Thankfully, we live in a time in which there are solutions for any problem you want to solve. You can master calculus in a more straightforward path than I did, while also getting over your past fears and misconceptions about high-level math.
 
