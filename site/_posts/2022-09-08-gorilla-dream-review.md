@@ -6,7 +6,7 @@ permalink: /gorilla-dream-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   A comprehensive review of the Gorilla Dream sleep & recovery formula: what I
   think of it, how I use it, and how it compares to other popular sleep aids.
