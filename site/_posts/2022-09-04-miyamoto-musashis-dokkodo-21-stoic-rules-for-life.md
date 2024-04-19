@@ -6,7 +6,7 @@ permalink: /dokkodo/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   In this post, I'll find modern meaning and interpretation of Miyamoto
   Musashi's short classic "Dokkodo".
@@ -16,7 +16,7 @@ The Dokkodo ("The Path of Aloneness," The Way to Go Forth Alone," or "The Way of
 
 With victory in over 60 duels, Musashi was considered the greatest swordsman of his time. He is not just known for his superior swordsmanship but also for his more popular work, The Book of Five Rings (Go Rin No Sho).
 
-***[Read my summary of The Book of Five Rings](/the-book-of-five-rings-quotes/)***&nbsp;
+***[Read my summary of The Book of Five Rings](/the-book-of-five-rings-quotes/)***
 
 Although both books of wisdom were cultivated from his experiences, they cover different aspects of his life. The Book of Five Rings focuses on the applications of the martial arts lessons learned as a bushido practicing “Ronin” (wandering samurai). The Dokkodo condenses the main ideas that Musashi not only believed made him successful but also contributes to a meaningful life.
 
@@ -104,7 +104,7 @@ Musashi is again reminding us of the danger of attachment. We have to remember t
 
 The problem with being led by lust is that the payoff is minuscule.
 
-It’s a feeling that is relieved in one release. If you are lead by something that can be erased in only a second that you will do almost anything to fulfill, then you will likely take unnecessary risks that have a short payoff if successful and can ruin you if they aren’t. In fact, it still has the potential to ruin you even if you succeed.&nbsp;
+It’s a feeling that is relieved in one release. If you are lead by something that can be erased in only a second that you will do almost anything to fulfill, then you will likely take unnecessary risks that have a short payoff if successful and can ruin you if they aren’t. In fact, it still has the potential to ruin you even if you succeed.
 
 Where I almost outright disagree with Musashi is the idea of not being guided by love. While I don’t think that you should blindly follow love, I do think there is a tremendous value in the power of love and the courage of protective instinct in foster.
 
