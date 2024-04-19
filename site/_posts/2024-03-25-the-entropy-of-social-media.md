@@ -9,8 +9,7 @@ categories:
   - Risk
 description: >-
   Finding order within the digital chaos of social media is akin to desiring
-  clarity amid a storm. While the system might inherently tend toward disorder,
-  the pursuit of structure is not futile.
+  clarity amid a storm. But it is possible. Here's how.
 image: /assets/images/drafts/social-media-entropy.jpeg
 ---
 In the digital age, where information proliferates with unprecedented speed and volume, social media has become the marketplace of ideas where dialogues and monologues churn perpetually.
