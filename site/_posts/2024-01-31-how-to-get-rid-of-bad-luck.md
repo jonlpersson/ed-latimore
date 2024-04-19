@@ -5,10 +5,9 @@ title: How to get rid of bad luck
 permalink: /how-to-get-rid-of-bad-luck/
 categories:
   - Risk
-description: >
-  Trying to manifest good luck while actively engaging in bad habits is like
-  trying to drive a car with the emergency brake on. You can do it, but you’ll
-  be slower, less efficient, and damage the vehicle irreparably.
+description: >-
+  These are the things you need to do to stop having bad luck and have more good
+  luck. Good things happen when bad things stop.
 image: /assets/images/drafts/bad-luck.jpeg
 ---
 Luck plays a significant role in the life of any successful person.
