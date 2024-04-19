@@ -8,12 +8,8 @@ tags:
 categories:
   - Reality
 description: >-
-  Hey folks, ready to witness the real scoop on Alpha Brain? Dive into our
-  vibrant user experiences and honest reviews! We're gonna break down all you
-  need to know about this brain-boosting supplement. And no fluff, just the
-  straight-up facts. Curated by Ed Latimore, your athletic ally in navigating
-  the world of smart supplements. Grab your seat and get ready to be
-  enlightened!"
+  Learn more about how Alpha Brain supports memory, improves cognitive
+  performance, and increases your mental processing speed of information.
 image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
 <!-- x-tinymce/html -->
