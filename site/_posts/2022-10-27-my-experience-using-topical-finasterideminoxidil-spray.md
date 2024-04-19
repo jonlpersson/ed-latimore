@@ -6,7 +6,7 @@ permalink: /topical-finasteride-and-minoxidil-spray/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Propecia has too many adverse effects. Rogaine doesn't work well enough. Hair
   transplants are too expensive. Here is an affordable hair loss solution.
@@ -76,7 +76,7 @@ The drug works well enough to treat hair lossis generally well tolerated, though
 
 ## Finasteride in a topical solution: The solution to oral finasteride
 
-In the neverending hunt for ways to battle back male pattern baldness, scientists figured they may as well try applying finasteride in a gel or spray solution. Clinical studies show that topical finasteride (in gel and solution form) not only decreased the rate of hair loss but increased the total amount of hair present. In other words, it seems to regrow hair.&nbsp;
+In the neverending hunt for ways to battle back male pattern baldness, scientists figured they may as well try applying finasteride in a gel or spray solution. Clinical studies show that topical finasteride (in gel and solution form) not only decreased the rate of hair loss but increased the total amount of hair present. In other words, it seems to regrow hair.
 
 The best part about the topical finasteride solution is that it works locally as opposed to systematically. This means there are WAY fewer side effects compared to oral finasteride.
 
@@ -98,7 +98,7 @@ Actually, I just wished for a topical application of finasteride since the key b
 
 So it works like this:
 
-Minoxidil is a powerful vasodilator (it opens up veins and arteries to increase blood flood). Finasteride is one of the most 5-alpha reductase inhibitors and DHT blockers. The efficacy of finasteride as an oral medication, fine-mist spray, or gel is unquestioned.&nbsp; When the two are combined as a topical medication, incredible results occur.
+Minoxidil is a powerful vasodilator (it opens up veins and arteries to increase blood flood). Finasteride is one of the most 5-alpha reductase inhibitors and DHT blockers. The efficacy of finasteride as an oral medication, fine-mist spray, or gel is unquestioned.  When the two are combined as a topical medication, incredible results occur.
 
 Consider this study in which 40 men who were from androgenic alopecia were treated with a topical finasteride and minoxidil solution for 12 months. Hair count analysis was performed at baseline and every 3 months during the follow-up period. The average increase in hair count was 30%, while 10 of them showed an increase of &gt;50% ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314881/)).
 
@@ -140,7 +140,7 @@ The side effects are localized to the application site.
 
 Most of these side effects are also caused because of one of the inactive ingredients in the combination topical solution, propylene glycol. These symptoms usually go away within several days. Other possible side effects include headache, nausea, and rash. Those are also short and hardly severe.
 
-Generally speaking, topical finasteride & minoxidil spray is well tolerated and has a safety profile that's nearly identical to the placebo.&nbsp;
+Generally speaking, topical finasteride & minoxidil spray is well tolerated and has a safety profile that's nearly identical to the placebo.
 
 {% include widgets/summary.html id="Coaching-Call" %}
 
@@ -156,7 +156,7 @@ To save you time, I'll tell you since there's a good chance you've never heard i
 
 I can only speak to the place that I use. There are a few players in this space, but I can only talk about who I buy from. While I'd obviously love if you used my company and purchased through my link so I earn a commission, I'd be lying to you if I told you that I tried them all and they were the best.
 
-I just know that the price is right, the service is tight, and I've had no complaints at all.&nbsp;
+I just know that the price is right, the service is tight, and I've had no complaints at all.
 
 I get my mix from [Forhims.com](https://prf.hn/l/vyvenmZ).
 
@@ -170,9 +170,9 @@ If you only buy one bottle at a time, it's $50/month. I have no idea why you'd e
 
 The recommended application frequency is only once per day, but I have old habits from using Minoxidil. Plus, I was committed to maintaining my hair after my hair transplant, so I use it twice a day. Even still, I have a bit left over by the time my next shipment arrives. However, the bottle does come with a "use by" date, which seems like a good idea to follow. Either way, this is a fantastic deal.
 
-Because Hims finasteride spray is still a Rx (prescription) hair loss spray, you'll have to go through a quick interview with their doctor. I know some guys worry when they see they need a prescription, but it's fine. For whatever reason, I never could ask my medical provider in person for a prescription to treat my hair loss, but it's much easier to do this over the internet.&nbsp;
+Because Hims finasteride spray is still a Rx (prescription) hair loss spray, you'll have to go through a quick interview with their doctor. I know some guys worry when they see they need a prescription, but it's fine. For whatever reason, I never could ask my medical provider in person for a prescription to treat my hair loss, but it's much easier to do this over the internet.
 
-[Forhims.com](https://prf.hn/l/vyvenmZ) takes care of all of that for you. Also, in case you're embarrassed about seeking help to spark your hair growth, your topical combination is delivered in discrete packaging.&nbsp;
+[Forhims.com](https://prf.hn/l/vyvenmZ) takes care of all of that for you. Also, in case you're embarrassed about seeking help to spark your hair growth, your topical combination is delivered in discrete packaging.
 
 There are other great Hims hair loss products, including [styling gels and thickening shampoos](https://prf.hn/l/vyvenmZ) you should check out.
 

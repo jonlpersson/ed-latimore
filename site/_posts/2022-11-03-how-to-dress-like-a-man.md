@@ -6,7 +6,6 @@ permalink: /how-to-dress-like-a-man/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
 image: /assets/images/posts/dress-like-a-man.jpeg
 description: >-
   The way you dress tells a lot about you. These tips will teach you how to
