@@ -6,7 +6,7 @@ permalink: /how-to-prevent-hair-loss/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   After my FUE transplant, I needed to put together a program to keep the hair I
   had left. This protocol was born from what I figured out.
@@ -30,7 +30,7 @@ This meant that I would need to do something to keep my remaining hair from fall
 
 ## Warnings about the hair retention protocol
 
-Before I tell you what to do, I have to give you a few caveats about this protocol.&nbsp;
+Before I tell you what to do, I have to give you a few caveats about this protocol.
 
 ### You have to be patient
 
@@ -52,13 +52,13 @@ If you’re at Norwood stage 5, then you can’t expect this protocol to get you
 
 ### You’ll have to spend some money
 
-But not nearly as much money as you’ll have to spend on a hair transplant.&nbsp;
+But not nearly as much money as you’ll have to spend on a hair transplant.
 
 Granted, I am pleased with the results of my FUE hair transplant (**you can read all about it here—&gt;[My experience getting an FUE transplant](/my-personal-experience-getting-an-fue-hair-transplant/)**), but that is nearly $20k I could have used for something else. That’s ok, though, because of the next point.
 
 ### You have to be a vain
 
-I don’t think vanity is a bad thing. Like many traits, it’s only a problem if let it get out of control. You have to care enough about your appearance to spend the money and stay consistent. Some guys can’t imagine why I’d spend the money and time maintaining a full head of hair.&nbsp;
+I don’t think vanity is a bad thing. Like many traits, it’s only a problem if let it get out of control. You have to care enough about your appearance to spend the money and stay consistent. Some guys can’t imagine why I’d spend the money and time maintaining a full head of hair.
 
 These guys usually just let nature take its course, eventually resorting to just shaving it all off. However, I know the power of appearances and I know that I simply look better with a full crown and sharp hairline.
 
@@ -81,14 +81,14 @@ Even the most expensive version of this protocol will cost less than $100/month 
 
 ## How DHT works and why it causes hair loss
 
-Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is a vital hormone for masculinity.&nbsp;
+Dihydrotestosterone (DHT) is a derivative of testosterone. About 10% of the testosterone in the body is converted to DHT with the help of the enzyme 5-alpha-reductase (5AR). DHT can link to your hair follicles and cause them to shrink. While this is obviously an undesirable outcome, DHT is a vital hormone for masculinity.
 
 DHT contributes to male secondary sex characteristics such as:
 
 * a deep voice
 * body hair and muscle growth
-* growth of the penis, scrotum, and testicles&nbsp;
-* Male fat storage patterns&nbsp;
+* growth of the penis, scrotum, and testicles
+* Male fat storage patterns
 
 If we lower DHT in the whole body, we essentially erase a vital chemical component of what makes a man a man. Proof of this is what happens when you lower DHT levels. You display traits such as
 
@@ -136,13 +136,13 @@ Many men are insulin resistant. Numbers range from 15-40% of the worldwide popul
 
 Many men also suffer from alopecia. This doesn’t necessarily mean that one causes the other. To determine that, we need a plausible mechanism of action. Something that could link the two beyond mere correlation. Fortunately, we have that.
 
-We know that male pattern baldness is a side effect of useful androgen DHT in the bloodstream that interacts with the hair follicles, causing them to miniaturize. Hyperinsulinemia also causes an increase in serum androgen levels, including levels of DHT ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107978/)). This relationship alone is enough to justify the role of insulin resistance in male pattern hair loss, but there is one more significant problem caused by insulin resistance.&nbsp;
+We know that male pattern baldness is a side effect of useful androgen DHT in the bloodstream that interacts with the hair follicles, causing them to miniaturize. Hyperinsulinemia also causes an increase in serum androgen levels, including levels of DHT ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8107978/)). This relationship alone is enough to justify the role of insulin resistance in male pattern hair loss, but there is one more significant problem caused by insulin resistance.
 
 Lastly, it is known that studies have shown a “significant reduction in sex hormone binding globulin (SHBG) levels in bald men” ([source](https://pubmed.ncbi.nlm.nih.gov/6684473/)). As the name suggests, SHBG is the protein that sex hormones bind to as they transport around the body. As a reminder, the “androgens” are testosterone and DHT. They, along with estrogen, are “sex hormones.”
 
-[This study](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.1983.tb03538.x) found that “there was a significant reduction in SHBG levels in bald men, compared with controls.” [This study here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3877475/) also found the same thing. One idea here is that&nbsp; Low levels of SHBG have been strongly correalted to an increase in Homestatic Model Assessment of Insulin Resistance (HOMA-IR) score ([source](https://onlinelibrary.wiley.com/doi/10.1111/cen.12086)).&nbsp;
+[This study](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.1983.tb03538.x) found that “there was a significant reduction in SHBG levels in bald men, compared with controls.” [This study here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3877475/) also found the same thing. One idea here is that  Low levels of SHBG have been strongly correalted to an increase in Homestatic Model Assessment of Insulin Resistance (HOMA-IR) score ([source](https://onlinelibrary.wiley.com/doi/10.1111/cen.12086)).
 
-Lower SHBG results in higher amounts of unbound free testosterone in the blood. From there, the increased free testosterone can be converted into excessive amounts of DHT through 5-alpha reductase. This is the proposed mechanism of low SHGB leading to higher levels of hair loss.&nbsp;
+Lower SHBG results in higher amounts of unbound free testosterone in the blood. From there, the increased free testosterone can be converted into excessive amounts of DHT through 5-alpha reductase. This is the proposed mechanism of low SHGB leading to higher levels of hair loss.
 
 ## How to slow down or reverse hair loss: The hair retention protocol
 
@@ -150,7 +150,7 @@ Lower SHBG results in higher amounts of unbound free testosterone in the blood. 
 
 We don’t want to reduce the amount of DHT circulating by using drugs. [The side effects are well documented](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3481923/). If you have to take the medication for issues related to your prostate, ignore everything I’m saying here. This should go without saying, but let me cover my ass (again): this is not medical advice. I’m not a doctor. I’m just a dude who likes keeping his hair and has discovered some things that work.
 
-We also need to combat inflammation. This means dealing with the causes of the inflammation response. Keep in mind that inflammation is a natural response the body has to injury or pathogen to protect you. Therefore, we’ll be dealing with the pathogens that are causing the inflammatory response.&nbsp;
+We also need to combat inflammation. This means dealing with the causes of the inflammation response. Keep in mind that inflammation is a natural response the body has to injury or pathogen to protect you. Therefore, we’ll be dealing with the pathogens that are causing the inflammatory response.
 
 So, our first goal is to reduce DHT concentration in the scalp and to do so WITHOUT disrupting our hormone profile. This means topical treatments. Your topical regime will take place with 3 weapons: shampoo, ointment/gel, and topical finasteride/minoxidil:
 
@@ -164,8 +164,8 @@ Professional Strength Hair Restore Shampoo contains a host of natural ingredient
 
 * Green Tea Extract: Contains Epigallocatechin Gallate (EGCG). This is the main component of green tea that stimulates human hair growth via its proliferative and antiapoptotic (preventing death) function on dermal papilla (hair follicle) cells also affects type I, 5-alpha-reductase activity that converts testosterone to DHT ([Source](https://pubmed.ncbi.nlm.nih.gov/17092697/))
 * Black Seed Oil: Black seed oil is a powerful, natural antifungal, antimicrobial, antiviral, and antiinflammatory agent ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5735686/)). It is particularly effective against Candida albicans, a yeast that causes a scalp infection that can induce hair loss ([Source](https://pubmed.ncbi.nlm.nih.gov/33496068/)).
-* Saw Palmetto: Five randomized clinical trials (RCTs) and 2 prospective cohort studies demonstrated positive effects of topical and oral supplements containing SP (100-320 mg) among patients with androgenetic alopecia ([Source](https://pubmed.ncbi.nlm.nih.gov/33313047/)).&nbsp;
-* Pumpkin Seed Oil: Pumpkin seed oil inhibuits 5-alpha-reductase activity ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017725/)).&nbsp;
+* Saw Palmetto: Five randomized clinical trials (RCTs) and 2 prospective cohort studies demonstrated positive effects of topical and oral supplements containing SP (100-320 mg) among patients with androgenetic alopecia ([Source](https://pubmed.ncbi.nlm.nih.gov/33313047/)).
+* Pumpkin Seed Oil: Pumpkin seed oil inhibuits 5-alpha-reductase activity ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017725/)).
 * Rosemary: Rosemary has been shown to work just as well as Minoxidil with fewer adverse effects. “Both groups experienced a significant increase in hair count at the 6-month endpoint compared with the baseline and 3-month endpoint” ([Source](https://pubmed.ncbi.nlm.nih.gov/25842469/)).
 * Ketocanozole: Ketoconazole effectively treats the Pityriasis (also called Malassezia) fungus that commonly inhabits the scalp. It is believed that it may prevent hair loss by reducing inflammation from the fungus, in addition to have some DHT blocking properties ([Source](https://pubmed.ncbi.nlm.nih.gov/9669136/))
 
@@ -203,12 +203,12 @@ The following study demonstrates that it works just as well (and many cases, bet
 
 **Because finasteride is an over-the-counter medication, you'll still need a prescription written (If you're in the United States). I use [forhims.com](https://prf.hn/l/vyvenmZ). They have physicians who will interview you, diagnose you, and write the script. Then a 3 months supply will show up at your doorstep every day. [Check out their topical finasteride+minoxidil spray here.](https://prf.hn/l/vyvenmZ)**
 
-## Simple diet to control insulin to deal with SHBG&nbsp;
+## Simple diet to control insulin to deal with SHBG 
 
 Our dietary changes and modifications with supplements are done to accomplish 2 primary objectives:
 
 1. Keep insulin levels as low as possible for as long as possible. Ideally, this means that we’re able to keep our insulin levels below 5 uIU/ml when fasting, and they should fall below 30 ulU/ml after 2 hours of eating.
-2. Keep blood sugar from spiking too high or too fast.&nbsp;
+2. Keep blood sugar from spiking too high or too fast.
 
 The reason behind this is because of what we know about the relationships between hair loss, SHBG, and insulin. A 1994 study aptly titled “The relationship between serum levels of insulin and sex hormone-binding globulin in men” found that SHBG doesn’t affect insulin, but insulin has a desynthesizing affect on SHBG ([Source](https://pubmed.ncbi.nlm.nih.gov/7962291/)).
 
@@ -231,13 +231,13 @@ These are tools that will greatly assist you in your journey to keep your hair f
 
 This is the only treatment that will cause you a pain. Granted, it’s not a high level of pain, but it’s the only treatment that comes with it.
 
-It’s a simple procedure. You buy a dermaroller with 1.5 mm needles and 1-3 times a week, roll the over your scalp in a horizontal,&nbsp; vertical, and diagonal directions until your skin feels slightly irritated even when you aren’t rolling.
+It’s a simple procedure. You buy a dermaroller with 1.5 mm needles and 1-3 times a week, roll the over your scalp in a horizontal,  vertical, and diagonal directions until your skin feels slightly irritated even when you aren’t rolling.
 
 ![My derma roller with 1.5mm needles to help my hair grow](/assets/images/posts/derma-roller-for-hair-loss.jpg "My derma roller with 1.5mm needles to help my hair grow"){: width="450" height="600"}
 
 Scientist have posited a numnber of ways this could work, but no one is quite sure what the mechanism is. It’s just been shown to work.
 
-The research that evaluated the efficacy of this technique conducted the trials with a 5% minoxidil solution to get even more powerful results ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)). Fortunately, using a topical minoxidil solution is part of the hair loss prevention protocol.&nbsp;
+The research that evaluated the efficacy of this technique conducted the trials with a 5% minoxidil solution to get even more powerful results ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746236/)). Fortunately, using a topical minoxidil solution is part of the hair loss prevention protocol.
 
 Check out my article that goes more in-depth into dermarolling and how it works here—&gt;[Dermarolling for hair loss](/derma-roller-for-hair/)
 
@@ -260,12 +260,12 @@ I wrote even more about the technology of the LLLT cap here—&gt;[How LLLT work
 1. The diet is daily. Change your eating habits immediately and live by it.
 2. Microneedling with a 1.5 mm dermaroller is only done 1-3 times a week. You really shouldn’t be able to do it more than than IF you’re doing it correctly.
 3. Wait at least 12 hours after dermarolling before you add the minoxidil+finasteride. However, you can use the HairMetto right after. I do, as it won’t sting my head. The solution contains alcohol.
-4. If you get the low level laser therapy cap, you can use that every day. Or every other day, if you follow that setting.&nbsp;
+4. If you get the low level laser therapy cap, you can use that every day. Or every other day, if you follow that setting.
 5. Outside of microneedling days, I typically spray my minoxidil+finasteride combination on in the morning and in the evening. I use the Hairmetto on the days that use the dermaroller.
 6. I recommend shampoo every time I shower. I recommended using the Professional Strength Hair Restore Shampoo shampoo most of the time. I apply before I wash the rest of the body so that it soaks on my scalp. Then I rinse and apply one more time before getting out. On the second go through, I sometimes switch up to the Nizoral.
 
 If you follow this hair loss protocol, you’ve got a great shot at slowing down your hair loss IF it’s caused by androgenetic alopecia. There’s a good chance this is you, so this protocol will do great and buy you some time until you can save up for a more permanent solution—like an FUE.
 
-Until then, the rest is up to you.&nbsp;
+Until then, the rest is up to you.
 
 {% include widgets/summary.html id="Attractive-Man" %}
