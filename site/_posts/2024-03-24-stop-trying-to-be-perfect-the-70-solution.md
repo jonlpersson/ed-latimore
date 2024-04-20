@@ -10,9 +10,7 @@ categories:
   - Risk
 description: >-
   Preparation is essential, but after a certain point, the only thing left to do
-  is act. Any more preparation is, at best, a waste of time and, at worst, a
-  comfortable lie we're indulging in to protect ourselves from the possibility
-  of failure.
+  is act. All you need is 70% certainty. Here's why.
 image: /assets/images/posts/70-percent-rule.jpeg
 ---
 **Watch here**
