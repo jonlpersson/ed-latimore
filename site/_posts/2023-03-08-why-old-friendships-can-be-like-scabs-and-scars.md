@@ -8,9 +8,8 @@ categories:
   - Reality
   - Relationships
 description: >-
-  "Think of it like this. If an ex sends you a "Merry Christmas" or "Happy
-  Birthday" text, they probably mean it, but it’s also a low-risk investment to
-  keep alive the possibility of extracting energy from you."
+  There comes a point in every person's development where they outgrow old
+  friendships. Here are the signs. 
 image: /assets/images/posts/oldfriends.jpeg
 ---
 The cool thing about having a kid is that it forces you to tighten up any questionable relationships in your life. These were friendships with people I didn’t have any reason to outright and explicitly cut off, but I also have no desire to maintain a friendship with them.
