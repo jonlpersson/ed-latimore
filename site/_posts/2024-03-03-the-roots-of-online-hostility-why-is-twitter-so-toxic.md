@@ -7,9 +7,7 @@ categories:
   - Stoic-Street-Smarts-Newsletter
 description: >-
   There are a few reasons why social media tends to be so volatile, polarizing,
-  and abrasive. If we ever want to solve a problem, we first have to recognize
-  the problem. Today's newsletter covers why Twitter/X is so volatile and what
-  to do for your own sanity.
+  and abrasive. If we want to fix this, we first have to recognize the problem. 
 image: /assets/images/drafts/toxictwitterbirds.jpg
 ---
 There are a few reasons why social media tends to be so volatile, polarizing, and abrasive.
