@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Relationships
 description: >-
-  Life is a game. Even when it's serious, you're still just playing a game. The
-  cruelest part of this game, aside from it not seeming like a game, is that no
-  matter how well you play, you can never beat it.
+  Big Stick Policy, coupled with Game Theory's Prisoner's Dilemma problem,
+  provides a framework for peaceful interactions.
 image: /assets/images/posts/prisoner-s-dilemma.jpeg
 ---
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9289d19-0530-477c-8f2e-704b5f4232f0_255x197.jpeg){: width="255" height="197"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9289d19-0530-477c-8f2e-704b5f4232f0_255x197.jpeg){: target="_blank" rel="noopener"}
