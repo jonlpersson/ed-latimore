@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "Put your mind on your breathing. Try to consciously breathe more slowly with
-  increasing depth and control. Successful people use these methods to eliminate
-  distractions, do more work in less time, overcome a lack of sleep, and
-  increase productivity."
+  Successful people use these methods to eliminate distractions, do more work in
+  less time, overcome a lack of sleep, and increase productivity.
 image: /assets/images/posts/ed-writing.jpeg
 ---
 **Do you have trouble focusing on one thing? Do you easily get distracted by social media? I’ll teach you how to focus better.**
