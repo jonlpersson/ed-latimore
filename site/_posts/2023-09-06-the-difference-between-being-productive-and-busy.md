@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "While you will hit all phases if you seriously pursue a skill or goal, you’re
-  likely wasting time if the harder you work, the less money or progress you
-  make. Yes, there are limits to things, but you shouldn’t struggle to make
-  logarithmic gains before making big or linear gains."
+  Are you busy wasting time or are you productive? It can be difficult to know
+  the difference, but learn how in this article.
 image: /assets/images/posts/logarithmic-linear-growth-1.png
 ---
 Productive people produce things.
