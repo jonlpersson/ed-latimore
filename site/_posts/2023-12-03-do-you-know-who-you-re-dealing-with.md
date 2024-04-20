@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Relationships
 description: >-
-  There are certain classes of people who can take your life and get away with
-  it. They won't even be tried. This is why it's important to stay calm and
-  always know who you're dealing with. 
+  Some people can take your life with impunity. They won't even be tried. This
+  is why staying calm and always knowing who you're dealing with is important. 
 image: /assets/images/drafts/whitey-bulger.jpeg
 ---
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9MVDVtMDdfcjJtST9zaT1TY1hVRVZSUUtXR001MUNWIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/LT5m07_r2mI?si=ScXUEVRQKWGM51CV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
