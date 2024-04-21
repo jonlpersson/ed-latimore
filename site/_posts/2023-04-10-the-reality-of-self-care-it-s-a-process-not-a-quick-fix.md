@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "It’s difficult to care for others if you haven’t taken the time to properly
-  care for yourself. You have to selfishly strengthen your position so that you
-  can give freely of your time and resources to those less fortunate."
+  Self-care is really self-improvement, and self-improvement is challenging.
+  Here's how to know what self-care really looks like. 
 image: /assets/images/posts/boxingrisk1.jpg
 ---
 Self-care is important because people are primarily self-interested.
