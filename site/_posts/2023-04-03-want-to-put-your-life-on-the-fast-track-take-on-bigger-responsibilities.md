@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "If you aren’t already on the path to make more of your life, leave a mark,
-  and beef up your obituary, then the introduction of any obstacle or
-  responsibility won’t make that any easier. To use another example:"
+  The easiest to be more productive is to take on greater responsibility. This
+  is counterintuitive, but it fuels greatness.
 image: /assets/images/posts/ed-latimore-son.jpeg
 ---
 A few months ago, Nabeel Azeez said, “The more children I have, the more money I make.”
