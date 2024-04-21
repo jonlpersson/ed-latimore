@@ -8,10 +8,8 @@ tags:
 categories:
   - Relationships
 description: >-
-  "I have no qualms about telling people that I'm a virgin and waiting until
-  marriage. I am not embarrassed by that at all. There's a stereotype in
-  people's minds when they think of someone who is a virgin and I actually want
-  to shatter the stereotype."
+  A beautiful woman who has committed to waiting until marriage to have sex
+  gives her thoughts, feelings, and expectations.
 image: /assets/images/drafts/monique-de-leon-waiting-until-marriage.jpeg
 ---
 ***This is a guest post by Monique De Leon. She is a worship leader, author and motivational speaker who travels internationally inspiring others through music, writing, and bold messages on modern topics.***
