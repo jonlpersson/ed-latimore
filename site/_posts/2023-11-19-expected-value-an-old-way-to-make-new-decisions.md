@@ -5,10 +5,10 @@ title: 'Expected Value: An Old Way To Make New Decisions'
 permalink: /expected-value-for-decision-making/
 categories:
   - Stoic-Street-Smarts-Newsletter
+  - Risk
 description: >-
-  “Take the probability of loss times the amount of possible loss from the
-  probability of gain times the amount of possible gain. That is what we’re
-  trying to do.” This is expected value. 
+  Learn how to use the probability concept of expected value to make better
+  decisions, manage risk, and improve your relationships.
 image: /assets/images/posts/rolling-dice.jpeg
 ---
 I recently had a consultation call with a client. We discussed whether he should go home to India to be closer to his family and accept an arranged marriage or stay in the United States and try to meet a woman and build a life.
@@ -39,9 +39,9 @@ Parking tickets are the simplest example we can use.
 
 The cost of parking outside your favorite breakfast spot is $3 (expensive, sure, but the numbers don’t really matter). The meter maid rarely comes by, so you could just skimp on paying the $3 most days.
 
-&nbsp;However, if you get caught parking without paying, you pay a $300 fine–and in this scenario, that money is due instantly, or you lose your car forever.
+However, if you get caught parking without paying, you pay a $300 fine–and in this scenario, that money is due instantly, or you lose your car forever.
 
-Real-life events inspire this example. When I was 23, I got a boot on my car. It cost $800 to get off, and I had to pay it all at once. Otherwise, my car would be towed to the impound lot (at additional cost), and each day it was there, it would cost me an additional $110.&nbsp;
+Real-life events inspire this example. When I was 23, I got a boot on my car. It cost $800 to get off, and I had to pay it all at once. Otherwise, my car would be towed to the impound lot (at additional cost), and each day it was there, it would cost me an additional $110.
 
 If I didn’t retrieve my car in two weeks, I would be charged for the destruction of the car and all the other fees. Fortunately, a friend loaned me the money, and I got my car back before any extra juice kicked in.
 
@@ -81,7 +81,7 @@ The worst-case scenario is death–and there really isn’t an in-between. Flyin
 
 In other words, the EV of a plane crash is so bad that it can’t be allowed to happen–and when it does, it’s (rightfully so) big news. Compare that to the number of automobile crashes and people who die as a result of them for any given year.
 
-I find it hilarious that \*far\* more people are afraid of flying than driving, considering that you effectively have no chance of dying from a plane crash. Meanwhile, your odds of dying in a car accident hover between [1 and 4 in 10,000 (.0001-.0004)](https://injuryfacts.nsc.org/motor-vehicle/historical-fatality-trends/deaths-and-rates/#:~:text=The%20population%20motor%2Dvehicle%20death,vehicles%2C%20a%2096%25%20improvement.).&nbsp;
+I find it hilarious that \*far\* more people are afraid of flying than driving, considering that you effectively have no chance of dying from a plane crash. Meanwhile, your odds of dying in a car accident hover between [1 and 4 in 10,000 (.0001-.0004)](https://injuryfacts.nsc.org/motor-vehicle/historical-fatality-trends/deaths-and-rates/#:~:text=The%20population%20motor%2Dvehicle%20death,vehicles%2C%20a%2096%25%20improvement.).
 
 Those aren’t exactly huge odds, but all calculators will return a value for “1/10000.” Furthermore, so many different things can temporarily increase those chances (weather, other drivers, events) that are non-factors in flight.
 
