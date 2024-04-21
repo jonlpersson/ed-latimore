@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Risk
 description: >-
-  Here are my three frameworks for making decisions—with a bonus fourth. These
-  metrics are responsible for everything positive in my life, regardless of the
-  domain. Furthermore, whenever I've found myself in an adverse or precarious
-  situation, the reason is because I was not following these metrics.
+  Here are my three frameworks for making decisions—with a bonus fourth.
+  Following these frameworks has made everything great in my life.
 image: /assets/images/drafts/decisions-framework.jpeg
 ---
 <div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/O2-zrjqWgI0?si=cXO9IlvJPQEiKHPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
