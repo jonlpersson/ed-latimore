@@ -7,10 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  If you always focus on your system, you never have to face when things aren’t
-  working because you aren’t trying for a goal. By telling yourself that you’re
-  just tweaking the system, you can justify your failures and shortcomings. The
-  system is in place to help you reach the goal. Not replace it.
+  if you want a good life but are afraid to do the work required to attain it,
+  then you're delusional. Here's how to stop lying to yourself and get results.
 image: /assets/images/posts/on-the-beach-1.jpeg
 ---
 ## People are afraid to try
