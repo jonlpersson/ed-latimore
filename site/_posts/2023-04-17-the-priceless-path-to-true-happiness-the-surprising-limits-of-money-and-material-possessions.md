@@ -10,9 +10,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  ​Money is important, but only insofar as it removes stress from your life.
-  Once your health and safety are taken care of, more money won't do much to
-  improve your quality of life.
+  ​Money only solves your money problems. Once your health and safety are taken
+  care of, more money won't do much to improve your quality of life.
 image: /assets/images/posts/moneyhappiness.webp
 ---
 One of the best and worst things about growing up poor — living in the projects, relying on public assistance, government welfare, and food banks to survive — is that, for most of my life, my relationship with money has been completely distorted. Anyone who grew up poor will be able to relate to the following sentences.
