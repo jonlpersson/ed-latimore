@@ -10,9 +10,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  "Your mind is more powerful than fear. Everything you fear is worse in your
-  imagination than reality. We have a tendency to focus on what is lacking and
-  what can go wrong. Humans are naturally more pessimistic than optimistic. "
+  The best way to deal with fear is to get ready for what you're afraid of.
+  Learn more about facing your fears in this article. 
 image: /assets/images/posts/screammask.jpeg
 ---
 I talk a lot about fear. Fear is fascinating to me because of its power. We normally think of a person experiencing fear when they are facing something dangerous, but that’s the power of fear. You don’t have to be in any real danger for your nervous system to act as if you are.
