@@ -7,9 +7,8 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Relationships
 description: >-
-  "When a person wrongs you, it’s more like they’re self-interested to the point
-  of ignoring your well-being, even if that means specifically victimizing you
-  to get something they want."
+  Revenge costs you more than you think. Not only will it not make things right,
+  it usually makes things MUCH worse. Here's why.
 image: /assets/images/posts/revenge.jpeg
 ---
 Have you ever been wronged by someone and felt an overwhelming desire to get even?
