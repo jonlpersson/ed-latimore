@@ -7,7 +7,9 @@ tags:
   - change-your-perspective
 categories:
   - Reality
-description: A father’s perspective on what happens when you get a baby.
+description: >-
+  I became a father for the first time in 2022. There are a lot of things you
+  never expect. Here is my perspective on what happens when you have a baby.
 image: /assets/images/thumbnails/ed-latimore-holding-his-new-born-baby.jpeg
 ---
 On November 18, 2022, my fiance and I welcomed our son into the world.
@@ -46,7 +48,7 @@ From pregnancy to birth to becoming a new mother, I have a newfound respect for 
 
 Women change physically and mentally when they have a baby. Not in a bad way. But you are no longer your girl’s focus for a while. Even healthy pregnant women can struggle with the emotional and physical demands of pregnancy and childbirth. Afterward, the epidural and oxytocin cause swelling and general discomfort. So she may even need help to get to the bathroom.
 
-Then breastfeeding, clothing, and essentially keeping the new person alive is a full-time job. Children develop an attachment to one parent over the other during the first 2 or 3 months.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> This may last through the first year but it's most intense at the beginning. During this time, even the most hands-on father may not be able to help much simply because the child doesn't want you.
+Then breastfeeding, clothing, and essentially keeping the new person alive is a full-time job. Children develop an attachment to one parent over the other during the first 2 or 3 months.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> This may last through the first year but it's most intense at the beginning. During this time, even the most hands-on father may not be able to help much simply because the child doesn't want you.
 
 Don't take it personally. Your role as a father is to be a supporting character with the child in the starring role. Use this time to practice your mental toughness and see where you can help best.
 
@@ -64,7 +66,7 @@ That being said, having a newborn baby can make things more frustrating in your 
 
 You’re always on task when caring for a baby. This can lead to overwhelm, exhaustion, and misunderstandings. Then there’s postpartum depression.
 
-Even after a healthy pregnancy, women can still develop postpartum depression. It affects 1 in 7 mothers and commonly manifests within 6 weeks of childbirth.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Symptoms range from mild irritation to anxiety, to extreme sadness. Some women may even experience thoughts of harming their child.
+Even after a healthy pregnancy, women can still develop postpartum depression. It affects 1 in 7 mothers and commonly manifests within 6 weeks of childbirth.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> Symptoms range from mild irritation to anxiety, to extreme sadness. Some women may even experience thoughts of harming their child.
 
 How you behave during this time will be integral to her experience.
 
@@ -93,7 +95,7 @@ I’ve always been a healthy guy. Even after my boxing career, I’ve stayed in 
 
 Since I’m having a child at an older age, I want to be sure I’m around at least long enough to ensure that he (and whatever siblings he might have) are raised into adulthood. I know that I don’t know the day, but I can do a lot to prevent things from taking me out early. Even if my son decides to have children at a later age, I want to be around for him to become a father.
 
-As some of you may know, I lost my father when I was 18. He wasn't a consistent part of my life but his death still impacted me. Heart disease is the leading cause of death<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> but 80% of all heart diseases and strokes are preventable. The bottom line is that now I’m a bit worried about checking out within the next 20 years. I never worried about that before, but now I do.
+As some of you may know, I lost my father when I was 18. He wasn't a consistent part of my life but his death still impacted me. Heart disease is the leading cause of death<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> but 80% of all heart diseases and strokes are preventable. The bottom line is that now I’m a bit worried about checking out within the next 20 years. I never worried about that before, but now I do.
 
 ## 7\. Your habits get exposed
 
