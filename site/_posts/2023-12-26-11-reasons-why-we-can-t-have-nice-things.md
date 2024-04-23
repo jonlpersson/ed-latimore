@@ -7,9 +7,9 @@ categories:
   - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
-  Here are 11 reasons why humanity is doomed and everything is f*cked. If we
-  could fix even 2 of these things, our planet would become unrecognizable in
-  the best way.
+  11 short reasons why humanity is doomed and we can't have nice things. If we
+  could fix even 2 of these our planet would become unrecognizable in the best
+  way.
 image: /assets/images/drafts/why-we-cant-have-nice-things.jpeg
 ---
 Here are 11 reasons why humanity is doomed and everything is f\*cked. If we could fix even 2 of these things, our planet would become unrecognizable in the best way.
