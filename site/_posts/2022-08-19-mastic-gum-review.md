@@ -8,8 +8,9 @@ tags:
 categories:
   - Reality
 description: >-
-  Want to develop a more masculine, attractive face? Read my review on Greek
-  mastic gum.
+  Want to develop a more masculine, attractive face? Mastic gum will not only
+  shape your jawine, but will make you healthier. Read my review on Greek mastic
+  gum.
 image: /assets/images/thumbnails/tin-full-of-mastic-gum-from-greco-gum.JPG
 ---
 The journey to being a better man is both internal and external.
