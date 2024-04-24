@@ -8,7 +8,9 @@ tags:
 categories:
   - Reality
 image: /assets/images/thumbnails/physics-textbook-open.jpg
-description: Here’s why you shouldn’t major in physics from someone who’s done it.
+description: >-
+  I love my physics degree and how it modified my thinking. With that said,
+  here’s why you shouldn’t major in physics from someone who’s done it.
 ---
 During the final year of my physics degree, I decided I wasn’t going to be a physicist.
 
@@ -89,7 +91,7 @@ When physics students start talking about changing their undergraduate degree, I
 
 It’s true that all professors are not gifted physics teachers but looking at your academic career this way is the same as an artist saying people don’t like my art because they don’t “get it.”
 
-Humans reach goals when we can see a path for achievement and believe that achievement is possible for you.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> If you believe the homework sets are beyond you, your professors don’t care, or are out to get you, you’ll likely become a self-fulfilling prophecy.
+Humans reach goals when we can see a path for achievement and believe that achievement is possible for you.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> If you believe the homework sets are beyond you, your professors don’t care, or are out to get you, you’ll likely become a self-fulfilling prophecy.
 
 ### 4\. You’re uncomfortable with its broad nature
 
