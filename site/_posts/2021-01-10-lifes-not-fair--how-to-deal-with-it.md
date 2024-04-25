@@ -3,10 +3,11 @@ date: 2021-01-10 14:30:00 -0500
 article_type: Article
 title: Life's not fair. How to deal with it.
 permalink: /life-isnt-fair/
-tags: 
+tags:
   - living-in-the-hood
-categories: 
-  - life-lessons
+categories:
+  - Risk
+  - Reality
 description: >-
   Life is fair because it's unfair to everyone. Learn how to take the unfair
   lemons in life and make lemonade. This is a skill that will change your life.
@@ -22,7 +23,7 @@ A lot of people get used to it. Even more people complain about the hard times o
 
 They feel angry, weak, and helpless, but it should be the opposite. Why isn't it so?
 
-Because sometimes life is not ideal. Real life is often harsh and unforgiving.&nbsp;
+Because sometimes life is not ideal. Real life is often harsh and unforgiving.
 
 In real life, most things are not fairly distributed; They are competitively taken.
 
@@ -36,7 +37,7 @@ A higher than average IQ may give someone an advantage in one area, while a home
 
 The first is impossible.
 
-Resources are finite. You only have so much time and energy, so there must be a trade-off. You can have almost anything; you just can't have&nbsp;*everything*.
+Resources are finite. You only have so much time and energy, so there must be a trade-off. You can have almost anything; you just can't have *everything*.
 
 The second means everyone loses.
 
@@ -62,9 +63,9 @@ Everyone has an unfair advantage at something, even if it's just their ability t
 
 There are many analogies for the unfairness of life, but a great one is poker. You can learn many valuable life lessons from this game of skill and chance.
 
-In poker, you play the hand you’re dealt. Given a long enough period,&nbsp;[everyone eventually sees the same cards](http://www.murderousmaths.co.uk/books/bkmm6xch.htm){: target="_blank" rel="noreferrer"}, gets the same unexpected opportunities, and has the same dumb luck. Sometimes things will go your way for a while due to no effort of your own, even if you're playing poorly.
+In poker, you play the hand you’re dealt. Given a long enough period, [everyone eventually sees the same cards](http://www.murderousmaths.co.uk/books/bkmm6xch.htm){: target="_blank" rel="noreferrer"}, gets the same unexpected opportunities, and has the same dumb luck. Sometimes things will go your way for a while due to no effort of your own, even if you're playing poorly.
 
-You get a chance to win big by simply being in the game, but only if you stay in the game and play your current hand&nbsp;*better*&nbsp;than the other players.
+You get a chance to win big by simply being in the game, but only if you stay in the game and play your current hand *better* than the other players.
 
 On the flip side, you'll also have strings of bad luck. Even when you do things correctly, you'll lose. Every person at the table has the same luck, for better or worse. No matter your belief system, desires, or expectations, the game of poker is fair because it is unfair to everyone.
 
@@ -86,10 +87,10 @@ All we can do is balance out the risks and try to succeed in seemingly unfair si
 
 Even though we shared many opening cards, I took a different path from many other guys who grew up in my neighborhood. I can think of four helpful cards I was dealt through sheer luck that they weren’t.
 
-1. [I was part of a research study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3052937/){: target="_blank"}&nbsp;that discovered I have a higher than average IQ. This opened up some opportunities for me.
+1. [I was part of a research study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3052937/){: target="_blank"} that discovered I have a higher than average IQ. This opened up some opportunities for me.
 2. Someone with power noticed my intelligence and put me in a different classroom setting.
 3. My father kept in contact with me and showed me a better way to live.
-4. My ghetto wasn’t that large or that rough ([compared to the worst ghettos,](https://listverse.com/2016/02/27/10-infamous-us-housing-projects/){: target="_blank"}&nbsp;not regular neighborhoods—it was still a war zone).
+4. My ghetto wasn’t that large or that rough ([compared to the worst ghettos,](https://listverse.com/2016/02/27/10-infamous-us-housing-projects/){: target="_blank"} not regular neighborhoods—it was still a war zone).
 
 ![life's not fair housing project ed latimore](/assets/images/posts/2021/lifes-not-fair-housing-projects-ed-latimore.jpg "Overview of the Northview Heights project where I grew up. My little housing projects were bad, but it could have been a &lt;em&gt;lot&lt;/em&gt; worse.")
 
@@ -102,17 +103,17 @@ Any of these could have gone differently, through no choice of my own.
 
 Life's challenges happen to us all. In the end, our fate is still up to each of us.
 
-No number of "good cards" will make up for stupidity and a weak mindset. No number of "bad cards" will stifle determination and grit. Catastrophe and fortune strike everyone with impartial certainty. Bad things happen to good people, and good things happen to bad people.&nbsp;[Life is fair because it's unfair to everyone.](/no-one-gives-a-shit-about-you/)
+No number of "good cards" will make up for stupidity and a weak mindset. No number of "bad cards" will stifle determination and grit. Catastrophe and fortune strike everyone with impartial certainty. Bad things happen to good people, and good things happen to bad people. [Life is fair because it's unfair to everyone.](/no-one-gives-a-shit-about-you/)
 
 But not everyone responds to these events the same way or with the same skill.
 
 Even the same tragedies and traumas affect everyone equally. Some people make lemonade with those lemons, while others stay sour and salty for the rest of their lives.
 
-Take sports.&nbsp;
+Take sports.
 
 When we try to create the illusion of fairness in sports, players and coaches come up with new tactics and methods that push the limits of what we consider “within the rules.” Those rules aren’t set in stone anyway. In sports, rules are only modified when one player gets too good at the previously allowed rules.
 
-[The losers trot out a new rule to limit or eliminate the use of that tactic or loophole.](https://www.thesportster.com/entertainment/top-12-athletes-so-great-that-the-rules-had-to-be-changed/){: target="_blank"}&nbsp;This is what fairness is really about: Many ideas about fairness are unfair ways to allow those with less to compete with those who have more.
+[The losers trot out a new rule to limit or eliminate the use of that tactic or loophole.](https://www.thesportster.com/entertainment/top-12-athletes-so-great-that-the-rules-had-to-be-changed/){: target="_blank"} This is what fairness is really about: Many ideas about fairness are unfair ways to allow those with less to compete with those who have more.
 
 Once rules are established, players with an insatiable drive to win will find ways to excel within the rules. They aren’t breaking the rules, but they’re also not worrying about playing fair.
 
@@ -126,7 +127,7 @@ Working harder and sacrificing personal time to make more money isn’t cheating
 
 If I come from a family with money who can afford to send me to all the best sports camps, but my opponent’s only instruction came from a coach who never excelled in the game, obviously I have an advantage—a huge one. Someone might even call it unfair.
 
-It’s the same with private education or bodybuilders who spend all their time working out instead of relaxing. People are born rich or poor, intelligent or dull, good-looking or repulsive, in good times and bad. All men are not created equal, nor do they live equally, and they certainly will not die equally. Pretending otherwise means those driven to succeed will surpass you&nbsp;[while you complain about the unfairness of it all.](/why-do-people-complain/)
+It’s the same with private education or bodybuilders who spend all their time working out instead of relaxing. People are born rich or poor, intelligent or dull, good-looking or repulsive, in good times and bad. All men are not created equal, nor do they live equally, and they certainly will not die equally. Pretending otherwise means those driven to succeed will surpass you [while you complain about the unfairness of it all.](/why-do-people-complain/)
 
 Forget the illusion of fairness. Take the cards you’re dealt, find your angle, and play your best.
 
