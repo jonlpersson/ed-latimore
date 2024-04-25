@@ -6,7 +6,7 @@ permalink: /how-to-get-into-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/posts/ed-with-anna.jpg
 description: >-
   If you can't spot the red flags, you're in big trouble. This article teaches
@@ -26,7 +26,7 @@ But there isn’t a lot of information about getting into a long-lasting, health
 
 As you become more attractive, your options will increase in both quality and quantity.
 
-Your scarcity problem becomes one of over-abundance. Congratulations\! This is a big deal. You’re now on a wonderful cycle of success.
+Your scarcity problem becomes one of over-abundance. Congratulations! This is a big deal. You’re now on a wonderful cycle of success.
 
 You’re aloof and hard to get because you have genuine abundance. Your aloofness makes you more attractive, thus giving you more options. You beat the game.
 
