@@ -6,7 +6,7 @@ permalink: /boxing-quotes-from-ed-latimore/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/thumbnails/boxingrisk1.jpg
 description: >-
   Here are 48 life lessons I learned from being a boxer. You may never fight,
@@ -60,7 +60,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **6)** Keep your glass empty, even when the water around you tastes like shit. I’ve made some amazing insights and developments by opening my mind to guys who didn’t know much about fighting. Even a broken clock is right twice a day.
 
-## Ed Latimore's boxing quotes about process vs. outcome&nbsp;
+## Ed Latimore's boxing quotes about process vs. outcome 
 
 **7)** [Good technique is essential, but perfect technique is over-overrated.](/the-book-of-five-rings-quotes/) Effective technique is underrated. What’s more valuable: A pretty hook that rarely lands or a less than “perfect” one that has an 80% KO percentage?
 
@@ -70,7 +70,7 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 ![Professional boxing Ed Latimore](/assets/images/posts/FightingPose.jpg "Not a perfect right hand, but it does the job")
 
-## Ed Latimore's boxing quotes on pain&nbsp;
+## Ed Latimore's boxing quotes on pain 
 
 ![Muhammad Ali quote about pain during training](/assets/images/posts/muhamma-ali-on-pain-and-sit-ups.jpeg){: width="736" height="443"}
 
@@ -82,7 +82,7 @@ In the journey of personal growth and achievement, discomfort is an equalizing f
 
 Just as intense training saps athletic potential, stressful conditions dull cognitive bandwidth, sap emotional reserves, and strain systemic resilience regardless of innate privilege. If you can operate effectively despite sleep deprivation, hunger pangs, relationship turmoil or grinding workloads, the world is yours for the taking.
 
-It's why those emerging from poverty often develop relentless drive. If you can thrive despite agony, harsh origins get overwritten. When the privilege face crisis, small gaps in ability get magnified.&nbsp;
+It's why those emerging from poverty often develop relentless drive. If you can thrive despite agony, harsh origins get overwritten. When the privilege face crisis, small gaps in ability get magnified.
 
 **10)** Pain is the great equalizer in fighting. No matter how much better than you someone is, if you can cause them pain, you stand a chance.
 
@@ -100,13 +100,11 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **16)** You’re never as good or as bad as you think you are. This is why it’s important to focus on improving your skills rather than on your record. One man’s [undefeated record](https://www.boxingnews24.com/2014/06/in-all-of-boxing-history-no-undefeated-boxer-has-been-great/){: target="_blank" rel="noopener noreferrer"} is another man’s 8-2, depending on who, when, and where he fought.
 
-
-
-## Ed Latimore's&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
+## Ed Latimore's  boxing quotes for dealing with haters, lovers, fans, and friends
 
 ![muhammad ali boxing quote on losing and dealing with fans](/assets/images/posts/muhammad-ali-quote-after-losing.png){: width="1065" height="731"}
 
-> If my fans think I can do everything I say I can do, then they’re crazier than I am.&nbsp;
+> If my fans think I can do everything I say I can do, then they’re crazier than I am.
 >
 > \-Muhammad Ali
 
@@ -190,8 +188,6 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **39)** Stick to a game plan, but adjust when necessary.
 
-
-
 ## Ed Latimore's boxing quotes on fighting in all situations in life![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
 
 > "Everyone has a plan until they get punched in the mouth"
@@ -200,7 +196,7 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 This iconic line from Mike Tyson captures a fundamental truth: you can strategize and scheme all you want, but real life doesn't care about your plans. The world delivers blows you never see coming. How you react in those disorienting, painful moments reveals far more about you than how you operate when things are going well.
 
-Boxing is a metaphor for this unpredictability. Fighters plot tactics, train for months, then get cracked by a knockout blow in seconds. Suddenly, their preparation meets blunt reality.&nbsp;
+Boxing is a metaphor for this unpredictability. Fighters plot tactics, train for months, then get cracked by a knockout blow in seconds. Suddenly, their preparation meets blunt reality.
 
 When things are rough, values get tested and habits reveal themselves—for better or worse. Some respond with poise and course correct. Others panic, lose composure and cannot adapt.
 
@@ -226,7 +222,7 @@ Prepare before the crises hits. The worst time to learn how to fight is during a
 
 \-Bernard Hopkins, Oldest man in boxing to win a major world title
 
-**45)**&nbsp;Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noopener noreferrer"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noopener noreferrer"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
+**45)** Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noopener noreferrer"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noopener noreferrer"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
 
 **46)** There are a lot of things that will keep you from achieving your potential. You can control your lifestyle so there is no excuse for anything in your control to derail you.
 
