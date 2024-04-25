@@ -7,7 +7,7 @@ tags:
   - the-power-of-forgiveness
   - building-family-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Your parents are only human. Your challenge is remembering that despite the
   mistakes they may have made, they did the best they could with you.
@@ -30,21 +30,21 @@ We need to be mature enough to understand and appreciate what our own parents we
 * Time to integrate lessons learned from those reflections on experiences
 * A fully matured brain so that you can are capable of completing the previous steps
 
-**\[If you want to learn more about the requirements and signs of maturity, read about the&nbsp;[6 signs of maturity](/signs-of-maturity/).\]**
+**\[If you want to learn more about the requirements and signs of maturity, read about the [6 signs of maturity](/signs-of-maturity/).\]**
 
-This means that a mature perspective on things isn't even possible until&nbsp;[the age of 25 when your brain finishes developing](https://bigthink.com/mind-brain/adult-brain){: target="_blank"}. Until then, you have neither the breadth of experiences in your own life, the amount of time to learn from them, nor the hardware to meaningfully process what you've gone through.
+This means that a mature perspective on things isn't even possible until [the age of 25 when your brain finishes developing](https://bigthink.com/mind-brain/adult-brain){: target="_blank"}. Until then, you have neither the breadth of experiences in your own life, the amount of time to learn from them, nor the hardware to meaningfully process what you've gone through.
 
 This is significant because even if you started your family young, you may not be fully capable of understanding the challenges that your parents faced—even while you endure similar ones.
 
 You'll be raising little human beings while hardly being a mature human yourself
 
-I used to be angry that my mom never tried to better herself to make more money or improve our station in life. It wasn't until I had grown up a little that I came to realize that my mom did the best that she could–for better or worse–and that her heart was always in the right place.&nbsp;
+I used to be angry that my mom never tried to better herself to make more money or improve our station in life. It wasn't until I had grown up a little that I came to realize that my mom did the best that she could–for better or worse–and that her heart was always in the right place.
 
 Our environment wasn't perfect, but it truly was the best environment should could provide for us.
 
-I don't say this to excuse things that were detrimental and negative. I also don't say this to make dealing with any pain I experienced easier.&nbsp;
+I don't say this to excuse things that were detrimental and negative. I also don't say this to make dealing with any pain I experienced easier.
 
-I say it because it's true, and sometimes the only way you know this is time, personal growth, and experience.&nbsp;
+I say it because it's true, and sometimes the only way you know this is time, personal growth, and experience.
 
 ## The parent-child relationship is a complicated one
 
@@ -84,7 +84,7 @@ They don't see the choices, restraints, and assumptions that went into forgoing 
 
 A lot of angst we feel towards our parents is driven by the idea that if we were put in the same situation, with the same resources and knowledge, we somehow would have made a different and more beneficial decision.
 
-Of course, this is patently false, but this belief is probably responsible for many estranged relationships.&nbsp;
+Of course, this is patently false, but this belief is probably responsible for many estranged relationships.
 
 ***\[I used to have a problem with my mom because her decisions put me through an incredibly rough upbringing. However, now I'm grateful for the lessons I learned from it. [Read the lessons here.](/7-benefits-of-having-a-rough-childhood/)\]***
 
@@ -96,6 +96,6 @@ If you can do this, perhaps it'll be easier for you to see your parent's failing
 
 We tend to see our parents as larger than life because they are at the start of our lives. As we get older, we hopefully realize that they're just people; for better or for worse. Once we hold them to that standard, it's a lot easier to forgive them for anything we can't let go.
 
-The rest is up to you.&nbsp;
+The rest is up to you.
 
 ***Note: If you were the victim of legitimate abuse at the hands of your parents, then this post does not apply. I don't have all the answers, but I want to clarify that this newsletter is not an attempt to teach you how to forgive true scum.***
