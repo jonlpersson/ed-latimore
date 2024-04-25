@@ -6,7 +6,7 @@ permalink: /the-projects/
 tags:
   - living-in-the-hood
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/housing-projects.jpg
 description: >-
   Growing up in the projects is rough. I managed to get out, but these lessons I
@@ -90,7 +90,7 @@ People will rob or try to hurt you, even if you never thought they would.
 
 It teaches you to value everything you have and take extra care to protect the things you love the most.
 
-***A rough life comes with a lot of lessons. You can pick up many from reading this breakdown of [Biggie Small's The 10 Crack Commandments&nbsp;](/ten-crack-commandments-business-and-life-lessons/)***
+***A rough life comes with a lot of lessons. You can pick up many from reading this breakdown of [Biggie Small's The 10 Crack Commandments](/ten-crack-commandments-business-and-life-lessons/)***
 
 ![Dave Chappelle as Tyrone Biggums](/assets/images/posts/tyrone-biggums.jpg "The guy who robbed me looked a little like this")
 
@@ -146,7 +146,7 @@ Through discipline, grit, and the determination to escape the hellhole I was liv
 
 Once you get on this path of self-improvement, something funny starts to happen.
 
-**The harder you work, the luckier you get.**&nbsp;
+**The harder you work, the luckier you get.**
 
 As you become a high-value man, get more money, and stop thinking life is out to get you, things start to magically improve.
 
