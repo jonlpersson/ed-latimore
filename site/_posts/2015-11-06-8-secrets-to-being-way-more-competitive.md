@@ -7,7 +7,7 @@ tags:
   - longevity-health-and-performance
   - how-to-control-your-emotions
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/thumbnails/2021/ed-knocking-out-cam.jpg
 description: >-
   Everyone thinks they’re competitive, but they aren’t. They just like to win.
