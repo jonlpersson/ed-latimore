@@ -6,7 +6,7 @@ permalink: /books-about-mental-side-of-fighting/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/posts/ReadingImage.png
 description: >-
   A curated list of the most influential, memorable, and instructive books that
@@ -48,9 +48,9 @@ A younger samurai that visited Yamamoto many times over the years wrote down his
 
 ![The art of war book recommendation ed latimore](/assets/images/posts/2016/the-art-of-war.jpeg "The art of war book recommendation ed latimore"){: width="228" height="350"}
 
-The Art of War is an ancient Chinese military guide by Sun Tzu that was penned sometime around the 5th century, B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
+The Art of War is an ancient Chinese military guide by Sun Tzu that was penned sometime around the 5th century, B.C.  It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
 
-It's a surprisingly short read. I read it on my kindle and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
+It's a surprisingly short read. I read it on my kindle and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.
 
 Despite its short length, the ideas it's packed with apply to many areas in life. The strategies apply to modern warfare, business, negotiation, and even relationships.
 
