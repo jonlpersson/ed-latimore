@@ -6,7 +6,7 @@ permalink: /how-to-be-a-better-man/
 tags:
   - self-improvement-for-men
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/ed-30th-birthday.jpg
 description: >-
   These are 30 lessons I've learned about becoming a better man. I'm not the
@@ -18,7 +18,7 @@ The premise of this article is simple. I wrote it when I had just turned 31. Her
 
 ---
 
-## How to be a better man: 31 real things the modern man does to live life to the fullest&nbsp;
+## How to be a better man: 31 real things the modern man does to live life to the fullest 
 
 ## 1\. Be true to yourself
 
@@ -82,7 +82,7 @@ The point isn’t to run your friendships and relationships the way pimps do.
 
 The point is to have a clear set of rules for handling exes that all involved understand. The idea is to behave with integrity towards your friends and there are few things that lack more integrity than setting your sights on a current or former lover of someone you call a friend.
 
-This is just one of many reasons why you should end a friendship.&nbsp;
+This is just one of many reasons why you should end a friendship.
 
 ## 7\. Don't be friends with girlfriends of your friends
 
@@ -177,7 +177,7 @@ Rather than bitch, moan, and get in your emotions, use it to your advantage. ***
 
 ## 12\. Learn how to forgive
 
-The most important skill to develop is the ability to forgive.&nbsp;
+The most important skill to develop is the ability to forgive.
 
 ***Holding grudges and being angry only hurts you.***
 
