@@ -6,7 +6,7 @@ permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-televisi
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/posts/ed-knocked-out.jpg
 description: >-
   You learn more valuable life lessons losing than you do from winning. These
