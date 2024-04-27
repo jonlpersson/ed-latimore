@@ -6,7 +6,7 @@ permalink: /hard-work-beats-talent/
 tags:
   - mental-toughness
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/ed-in-gym.jpg
 description: >-
   Hard work will always beat talent. In this article, learn why and how to work

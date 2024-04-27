@@ -6,7 +6,8 @@ permalink: /6-reasons-to-be-grateful/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Reality
+  - Relationships
 image: /assets/images/posts/ed-beach.jpg
 description: >-
   Gratitude can make any situation better, but only if you understand it. Learn
@@ -88,7 +89,7 @@ Giving gratitude makes your brain more altruistic and charitable. Research done 
 
 These positive emotions, in turn, have a host of other benefits on your mental health.
 
-Your positivity increase increase, your immune system is boosted, and you are generally more effective in your life. [According to WebMD](https://www.webmd.com/women/features/gratitute-health-boost#1){: target="_blank" rel="noopener noreferrer"}\:
+Your positivity increase increase, your immune system is boosted, and you are generally more effective in your life. [According to WebMD](https://www.webmd.com/women/features/gratitute-health-boost#1){: target="_blank" rel="noopener noreferrer"}:
 
 > "There are some very interesting studies linking optimism to better immune function," says Lisa Aspinwall, PhD, a psychology professor at the University of Utah. In one, researchers comparing the immune systems of healthy, first-year law students under stress found that, by midterm, students characterized as optimistic (based on survey responses) maintained higher numbers of blood cells that protect the immune system, compared with their more pessimistic classmates.
 
