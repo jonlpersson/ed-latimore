@@ -6,7 +6,7 @@ permalink: /crackhead/
 tags:
   - living-in-the-hood
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/9-things-i-learned-living-next-to-crackheads.png
 description: >-
   I grew up in the projects and learned a lot about crackheads and crack
@@ -104,7 +104,7 @@ I’ve seen them fighting other non-crackheads, but they don’t really go to wa
 
 Biggie warned about this in his song The Ten Crack Commandmenets. Check out my breakdown of this rule and others [here in this post](/ten-crack-commandments-business-and-life-lessons/).
 
-On a more general note, most hood violence is drug-related. The rest of the violence is because of people taking advantage of someone who comes off as a weak, easy target.&nbsp;
+On a more general note, most hood violence is drug-related. The rest of the violence is because of people taking advantage of someone who comes off as a weak, easy target.
 
 It's about controlling who sells what, where, and for how much. Random muggings aren't as common as shooting disputes over street corners.
 
