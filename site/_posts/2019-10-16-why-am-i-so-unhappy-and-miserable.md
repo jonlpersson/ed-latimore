@@ -6,7 +6,7 @@ permalink: /unhappiness/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/sadnessatthebeach.jpg
 description: >-
   Everyone wants to be happy. But so few people are. This post explores why you
