@@ -6,7 +6,7 @@ permalink: /stop-being-poor/
 tags:
   - living-in-the-hood
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/beingbroke.jpg
 description: >-
   Why was I broke? I was poor because of the problems on this list. If you don't
@@ -42,7 +42,7 @@ Poor people stay poor because they can’t imagine a result that is not instanta
 
 The inability to plan for the future is such a strong predictor of your likelihood to remain poor that it's been shown that languages which make the speaker separate from the idea of the future make the speakers more likely to be in debt, overweight, and smoke.
 
-[From a Ted Talk by economist Keith Chen](https://ideas.ted.com/5-examples-of-how-the-languages-we-speak-can-affect-the-way-we-think/){: target="_blank"}\:
+[From a Ted Talk by economist Keith Chen](https://ideas.ted.com/5-examples-of-how-the-languages-we-speak-can-affect-the-way-we-think/){: target="_blank"}:
 
 > While “futured languages,” like English, distinguish between the past, present and future, “futureless languages” like Chinese use the same phrasing to describe the events of yesterday, today and tomorrow. Using vast inventories of data and meticulous analysis, Chen found that huge economic differences accompany this linguistic discrepancy. Futureless language speakers are 30 percent more likely to report having saved in any given year than futured language speakers. (This amounts to 25 percent more savings by retirement if income is held constant.) Chen’s explanation: When we speak about the future as more distinct from the present, it feels more distant — and we’re less motivated to save money now in favor of monetary comfort years down the line.
 
