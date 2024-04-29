@@ -6,7 +6,7 @@ permalink: /how-to-stop-worrying-about-what-others-think-of-you/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/posts/ed-chilling-boat.jpg
 description: >-
   I used to care what everyone else thought about me. Getting over the fear of
@@ -44,7 +44,7 @@ It keeps me from investing energy into trying to impress people or stand out to 
 
 It keeps me focused on the process of my actions and not distracted chasing the outcome. Being concerned about other people's thoughts makes it difficult for you to do what you think is best for your own life.
 
-People ruin their physical, emotional, and mental health by trying to win the approval of people who aren't thinking about them at all.&nbsp;
+People ruin their physical, emotional, and mental health by trying to win the approval of people who aren't thinking about them at all.
 
 Most people don't care about you.
 
@@ -56,7 +56,7 @@ Once upon a time, I wanted to fit in and be "normal" like everyone else. The pro
 
 If you're like 99% of the people reading this article, you've struggled with wanting to fit in. You've erroneously defined your self-worth by how well people accept you. This is no good because even if you succeed, you know it's not what you really want or who you really are.
 
-There's a part of you that&nbsp;*wants to break free*. To muster up the inner confidence to escape from the self-imposed prison of&nbsp;*fitting in.*
+There's a part of you that *wants to break free*. To muster up the inner confidence to escape from the self-imposed prison of *fitting in.*
 
 The other part — the more powerful part — wants to remain a prisoner. Who cares about freedom? It's safer inside your little cell. At least you don't have to worry if people think highly of you or not because as long as you stay in the comfort zone of seeking approval.
 
@@ -74,9 +74,9 @@ You don't have a lot of time on this planet. Best case scenario, you'll live int
 
 That should terrify you into not wasting any time modifying your life based on the opinions of people who won't add anything to your life but stress.
 
-Of course, this fear is a good thing. This fear should motivate you to focus all of your time and energy on what matters.&nbsp;
+Of course, this fear is a good thing. This fear should motivate you to focus all of your time and energy on what matters.
 
-Other people's opinions of your life don't matter. If someone doesn't pay you, lay you, or have the power to put you behind bars, then it doesn't matter what they think.&nbsp;
+Other people's opinions of your life don't matter. If someone doesn't pay you, lay you, or have the power to put you behind bars, then it doesn't matter what they think.
 
 I can't tell you exactly what to do, but I know that if you stick to the following four ideas for how you live, you won't care what other people think:
 
@@ -121,7 +121,7 @@ Losing the fight made him decide never to fight again. Despite displaying natura
 
 They may feel bad for you or mock you for a moment, but most people are more concerned with their problems than your life.
 
-## 7) Focus on what you can control&nbsp;
+## 7) Focus on what you can control 
 
 There is tremendous danger in trying to build your self-esteem based on external perspectives. If your self-image is built on people's opinions, then it will quickly dissolve when you don't get any attention, good or bad.
 
@@ -133,7 +133,7 @@ The day after his loss, he called the trainer and told him that boxing wasn't fo
 
 He didn't care about the thing in itself. I just enjoyed the outcome of fighting. He didn't want to work on the invisible process. He only wanted to be liked and adored. He cared too much about what other people thought about him.
 
-You have to stop caring what people think to stop focusing on external outcomes like status and social validation. Those things are outside&nbsp;[your circle of control](http://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/#tab-con-4){: target="_blank"}, and they don't lay the foundation for an extraordinary life full of real achievement.
+You have to stop caring what people think to stop focusing on external outcomes like status and social validation. Those things are outside [your circle of control](http://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/#tab-con-4){: target="_blank"}, and they don't lay the foundation for an extraordinary life full of real achievement.
 
 Real achievement and progress result from working hard on parts of your life that aren't on public display. When you build your confidence on this internal foundation, you'll not only care less what the external world thinks, but you'll have more success in it.
 
@@ -145,7 +145,7 @@ I know it's scary to live differently from the masses, but as long as it doesn't
 
 For example, It could be something as simple as wearing two different colored socks to work.
 
-Before you go outside,&nbsp;[write down the worst thing](https://tim.blog/2017/05/15/fear-setting/){: target="_blank"}&nbsp;you think could happen. Is it that someone will point and laugh at you? That you'll get fired? Whatever it is, write it down. When you come back from work, write down what \*actually\* happened. Then you will see just how exaggerated and unfounded your fears were and hopefully muster up enough courage to do something a little ballsier.
+Before you go outside, [write down the worst thing](https://tim.blog/2017/05/15/fear-setting/){: target="_blank"} you think could happen. Is it that someone will point and laugh at you? That you'll get fired? Whatever it is, write it down. When you come back from work, write down what \*actually\* happened. Then you will see just how exaggerated and unfounded your fears were and hopefully muster up enough courage to do something a little ballsier.
 
 ## Recap of the 8 steps to stop caring about what other people think
 
