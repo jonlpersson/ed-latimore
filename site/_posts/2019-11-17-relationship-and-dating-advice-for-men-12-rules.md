@@ -6,7 +6,7 @@ permalink: /relationship-advice/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/posts/edandannamexico.jpeg
 description: "Not every guy wants to be a lifelong playboy, so I’m here to teach men\_how to have a happy relationship."
 ---
@@ -36,7 +36,7 @@ If you read no further than the introduction, remember the following: “Happy l
 
 Get it wrong and you’ll hate your life and wonder why none of your relationships last.
 
-## 1\.&nbsp; A man must become more than what he wants
+## 1\.  A man must become more than what he wants
 
 You have to be the type of man a woman wishes to attract. Actually, due to the effects of hypergamy, you need to be even more.
 
@@ -84,7 +84,7 @@ You, the gamer, exist in a fantasy world where nothing you do matters. As a resu
 
 By the way, this is also the same problem with pornography.
 
-You don't get any feedback from reality in your quest to satisfy your sexual desires. As a result, you aren't forced to become more interesting, get in better shape, or improve yourself in any meaningful way.&nbsp;
+You don't get any feedback from reality in your quest to satisfy your sexual desires. As a result, you aren't forced to become more interesting, get in better shape, or improve yourself in any meaningful way.
 
 Have goals and priorities beyond the digital world. Grow and develop so you have something to offer yourself, the world, and your woman.
 
@@ -197,7 +197,7 @@ The moment you deny reality, it begins to–by definition–work against you.
 
 We live in a different world than the one our parents grew up in. The rules and expectations are different. Understanding this is the difference between confusion and anger. Understanding it is the difference between happiness and contentment.
 
-Force yourself to confront human nature so you can predict it. You must face uncomfortable truths about the world to face uncomfortable truths about yourself.&nbsp;
+Force yourself to confront human nature so you can predict it. You must face uncomfortable truths about the world to face uncomfortable truths about yourself.
 
 ## 6\. Make sure she has a strong relationship with her father
 
