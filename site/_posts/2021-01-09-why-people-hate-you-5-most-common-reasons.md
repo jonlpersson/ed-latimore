@@ -6,7 +6,7 @@ permalink: /why-you-have-haters-even-if-you-arent-an-asshole/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/thumbnails/2021/jay-gatsby.png
 description: >-
   Having haters sucks, but it's part of life. In this article I not only tell
@@ -51,13 +51,9 @@ I’ve had a lot of haters in my time. Some of them are justified, and some of t
 This list is not exhaustive, but if you’re experiencing unexpected hostility—especially from people you once or still do consider friends—these are the most likely reasons.
 
 1. You improved. Haters hate when people get better
-
 2. You’re doing well. Haters are over jealous
-
 3. You surpassed them. Haters can’t stand winners
-
 4. You didn’t fail. Haters wanted you to
-
 5. You evolved. Haters didn’t
 
 Summaries are great, but if you really want to understand why people don’t like you—for no reason at all—I’ve put everything I’ve learned about dealing with haters below.
