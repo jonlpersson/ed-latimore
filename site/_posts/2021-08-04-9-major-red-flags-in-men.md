@@ -5,8 +5,9 @@ title: A man tells you the 10 major red flags in men
 permalink: /red-flags-in-men/
 tags:
   - self-improvement-for-men
+  - dating-and-relationships
 categories:
-  - longevity-health-and-performance
+  - Relationships
 description: >-
   These are the 10 major red flags to look out for when dating a guy. If a guy
   has any one of these, you better end it immediately.
@@ -71,7 +72,7 @@ Anything that hints at avoiding responsibility is a red flag, personal or otherw
 
 Goals and plans are powerful because they keep a guy from behaving recklessly.
 
-At the very least, they force him to act in a way that gets him closer to his goals than further away from them. That's one of my secrets to success.&nbsp;
+At the very least, they force him to act in a way that gets him closer to his goals than further away from them. That's one of my secrets to success.
 
 They don’t have to be massive, change the world type goals. They don’t even need to be altruistic, ambitious, and selfless. The goals only need to satisfy 5 criteria:
 
