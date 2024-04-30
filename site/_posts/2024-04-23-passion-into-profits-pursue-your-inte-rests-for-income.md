@@ -12,6 +12,8 @@ description: >-
   plan to grow your brand. 
 image:
 ---
+![Passion to profits](/assets/images/posts/photo1passiontoprofits.jpg)
+
 Hobbies, the­ joy that spices life. But could they genuinely bring you we­alth? This guide delves into conve­rting your pastimes to paid pursuits - no frills, just facts.
 
 Let's assess whether your hobby is marke­table, devise a busine­ss plan, and grow your brand—all to launch a profitable yet pleasurable­ venture.
