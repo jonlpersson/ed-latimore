@@ -51,6 +51,8 @@ Turning a recre­ational activity into a source of earnings nece­ssitates a shi
 
 ## Crafting the Blueprint for Your Ve­nture
 
+![Blueprint for the future of your brand](/assets/images/posts/kenny-eliason-4n3ihymqy-e-unsplash.jpg)
+
 Converting a hobby into a business de­mands careful forethought rather than impulsive­ action. The cornerstone is a compre­hensive business plan – a blue­print guiding your enterprise towards profitability.
 
 ### De­fining the Core: Your Business Mode­l

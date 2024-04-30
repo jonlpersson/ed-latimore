@@ -6,7 +6,7 @@ permalink: /how-to-have-fun-and-socialize-sober/
 tags:
   - sober-life
 categories:
-  - longevity-health-and-performance
+  - Relationships
 image: /assets/images/posts/ed-doing-karaoke.jpg
 description: >-
   Most people have no idea how to socialize without the aid of alcohol and have
@@ -28,7 +28,7 @@ Well, fortunately for you there’s a way to enjoy life without drinking that do
 
 The usual advice given for socializing without alcohol is to spend less time in bars.
 
-This is good advice, but it has a glaring flaw: you can obtain alcohol almost anywhere. In fact, alcohol has become such a central part of modern American life that there are almost no social events where it’s&nbsp;*not*&nbsp;possible to get a drink.
+This is good advice, but it has a glaring flaw: you can obtain alcohol almost anywhere. In fact, alcohol has become such a central part of modern American life that there are almost no social events where it’s *not* possible to get a drink.
 
 Sure, it’s a bad idea to get blackout drunk at live music, but they still allow you to buy alcohol there.
 
@@ -68,11 +68,11 @@ However, what if I told you that everything you know about alcohol, addiction, a
 
 Alcohol has been marketed to you as a way to become confident, charismatic, and cool. Advertisements always show people looking happy, celebrating with a group of friends, or living a high-end lifestyle while drinking premium vodka.
 
-But they don’t show you the hangovers, vomit, financial ruin, regrets, and fights. And although you&nbsp;*know*&nbsp;these things happen when you drink, you still believe that alcohol will somehow cure boredom and make you have more fun than if you were sober.
+But they don’t show you the hangovers, vomit, financial ruin, regrets, and fights. And although you *know* these things happen when you drink, you still believe that alcohol will somehow cure boredom and make you have more fun than if you were sober.
 
 Have you ever spoken to a drunk person? Do they seem like they’re having fun?
 
-We only&nbsp;*believe*&nbsp;they’re having a good time because we associate their happiness with alcohol. And because we haven’t experienced what it’s like to be totally free of alcohol and have fun without it, it’s impossible to imagine a world without it.
+We only *believe* they’re having a good time because we associate their happiness with alcohol. And because we haven’t experienced what it’s like to be totally free of alcohol and have fun without it, it’s impossible to imagine a world without it.
 
 As is the case with all things, you can’t defeat it until you understand it, and this is the first step in doing it. The next is to change your lifestyle and environment.
 
@@ -88,13 +88,13 @@ Have you ever tried to not drink when you’re out with a group of friends?
 
 The typical interaction goes like this:
 
-**Drinking friend:**&nbsp;What are you having to drink? The first round’s on me.
+**Drinking friend:** What are you having to drink? The first round’s on me.
 
-**You:**&nbsp;Nah, I’m good. Thanks though.
+**You:** Nah, I’m good. Thanks though.
 
-**Drinking friend:**&nbsp;What! Come on, why aren’t you drinking?
+**Drinking friend:** What! Come on, why aren’t you drinking?
 
-At this point, you need to explain why you’re&nbsp;[not drinking](/sobriety-benefits/). And when you can’t come up with an explanation, you feel confident enough to stand by. You cave to peer pressure.
+At this point, you need to explain why you’re [not drinking](/sobriety-benefits/). And when you can’t come up with an explanation, you feel confident enough to stand by. You cave to peer pressure.
 
 Understanding the relationship between your old drinking environment and your own behavior is essential.
 
@@ -118,7 +118,7 @@ It also helps if you make friends with someone who also has—or is currently in
 
 Only once you have become a stronger, better version of yourself will you be able to feel comfortable in any environment, including your old one.
 
-The only reason you find it difficult to have fun without drinking is that you haven’t built yourself up into the kind of person that&nbsp;*can*&nbsp;say no.
+The only reason you find it difficult to have fun without drinking is that you haven’t built yourself up into the kind of person that *can* say no.
 
 In order to do that, you’ll need an idea of what kind of person you want to become. What kind of life do you want to build for yourself?
 
@@ -135,7 +135,7 @@ You want to make it as easy as possible to visualize this future for yourself, a
 
 Once you make this vision your priority, it’s much easier to reject anything that goes against it—including trying to socialize without drinking.
 
-It’s a long journey and not something I can summarize in this article, so make sure you check out my blog post on&nbsp;[fixing your life](/how-to-get-your-life-together/)&nbsp;if you want to get serious about it.
+It’s a long journey and not something I can summarize in this article, so make sure you check out my blog post on [fixing your life](/how-to-get-your-life-together/) if you want to get serious about it.
 
 As you spend more time building an amazing life for yourself and less time in bars, the better you get at saying no to a drink.
 
@@ -161,7 +161,7 @@ Me enjoying a nice cool non-alcoholic beer by Gruvi.
 
 I’m happy to say that Gruvi legitimately blew me away with both taste and quality.
 
-If you want to enjoy the taste of a cool lager, stout, or an IPA, but you’re no longer a drinker, I highly recommend trying their lineup.&nbsp;**Use discount code Ed10 for a 10% discount.**&nbsp;You will not be disappointed.
+If you want to enjoy the taste of a cool lager, stout, or an IPA, but you’re no longer a drinker, I highly recommend trying their lineup. **Use discount code Ed10 for a 10% discount.** You will not be disappointed.
 
 [Get Gruvi here](https://www.getgruvi.com/drinks)
 
