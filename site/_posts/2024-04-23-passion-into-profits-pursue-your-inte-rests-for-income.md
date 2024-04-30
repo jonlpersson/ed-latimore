@@ -10,7 +10,7 @@ categories:
 description: >-
   Learn how to tell if a hobby is marketable and then how to craft a business
   plan to grow your brand. 
-image:
+image: /assets/images/posts/photo1passiontoprofits.jpg
 ---
 ![Passion to profits](/assets/images/posts/photo1passiontoprofits.jpg)
 
