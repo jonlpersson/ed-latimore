@@ -6,7 +6,7 @@ permalink: /my-personal-experience-getting-an-fue-hair-transplant/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/posts/ed-drinking-coffee-2.png
 description: >-
   I detail my experience getting 3200 grafts of hair transplanted in an FUE hair
@@ -58,7 +58,7 @@ The second problem is that you have to take the drugs every day or lose the bene
 
 I won’t dive into the science here, but [minoxidil works by stimulating hair growth](https://www.bosley.com/blog/minoxidil-101-everything-you-need-to-know-about-generic-rogaine/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"}, and [finasteride works by reducing the DHT levels in your body](https://www.bosley.com/blog/finasteride-101-everything-you-need-to-know-about-generic-propecia-2/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noreferrer"}. Miss one day and your hair follicles stop being stimulated and your DHT levels rise back to levels that cause hair loss.
 
-When I started loosing my hair, platelet rich plasma (PRP) or [laser cap technology](/bosley-revitzlizer-272-laser-cap-review/) wasn't commercially affordable, but their available now.&nbsp; That took me to the third solution.
+When I started loosing my hair, platelet rich plasma (PRP) or [laser cap technology](/bosley-revitzlizer-272-laser-cap-review/) wasn't commercially affordable, but their available now.  That took me to the third solution.
 
 The one the rest of this article will discuss. Hair transplant surgery.
 
@@ -189,7 +189,7 @@ Just keep in mind that if you’re using it as an alternative to taking minoxidi
 
 Also, don’t expect to get a full head of hair with perfectly matching thickness. I’m a dark-skinned black man, and if I look hard enough, I can see the density disparity. However, no one can when I wear a regular fade or even haircut.
 
-Your results may vary, which is why it’s important to do research on your doctor and make sure that you feel comfortable. I am very lucky that I lived near Dr. Krenitsky. From his bio on the [Bosley website](https://www.bosley.com/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noopener noreferrer"}\:
+Your results may vary, which is why it’s important to do research on your doctor and make sure that you feel comfortable. I am very lucky that I lived near Dr. Krenitsky. From his bio on the [Bosley website](https://www.bosley.com/?utm_source=influencer&amp;utm_medium=blog&amp;utm_campaign=latimore&amp;cid=IF-LATIMORE){: target="_blank" rel="noopener noreferrer"}:
 
 > Dr. Krenitsky is among only a handful of hair restoration physicians in the country who are recognized as a Diplomate of the American Board of Hair Restoration Surgery. He currently sits on the board of directors of that organization.
 
