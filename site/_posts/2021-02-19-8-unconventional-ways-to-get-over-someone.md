@@ -6,7 +6,7 @@ permalink: /how-to-get-over-someone/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/posts/how-to-get-over-someone-ed-latimore.jpg
 description: >-
   Personal experience, anecdotal evidence, and scientific experiments combine to
@@ -165,8 +165,6 @@ Instead of meeting new people, you're worried about your past relationship. This
 
 This can happen without post-relationship hooking up, but it's impossible to overcome if physical contact continues. It's best to find a new relationship. If finding a new partner is something you stuggle with, then read my [guide on getting into relationships](https://edlatimore.com/how-to-get-into-a-relationship/).
 
-
-
 ## 6\. Don't ask about your ex
 
 Don't get your private eye on and spy on their social media accounts.
@@ -288,4 +286,4 @@ I'm not a relationship expert, but my philosophy on getting over someone—and I
 
 It can be summed up as follows: **step out, move on, don't look back—and don't get on your back.**
 
-If you do this, then it won't take a lot of time before you're happier with someone **else in the next relationship.**&nbsp;
+If you do this, then it won't take a lot of time before you're happier with someone **else in the next relationship.**
