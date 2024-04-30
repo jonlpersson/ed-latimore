@@ -6,7 +6,7 @@ permalink: /how-to-stop-hating-someone/
 tags:
   - the-power-of-forgiveness
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   When you hate someone, you’re drinking poison and expecting them to die. Learn
   how to stop hurting yourself with and get over your hate of others
@@ -90,7 +90,7 @@ The use of this realization, or other anchoring thoughts, is a lightweight, ofte
 
 ### 5) We can't find freedom from the past until we stop obsessing over it
 
-Forgiveness is a simple solution to a difficult problem that’s complicated because it’s counter-intuitive.&nbsp;
+Forgiveness is a simple solution to a difficult problem that’s complicated because it’s counter-intuitive.
 
 When you forgive a person for what they’ve done, you aren’t forgetting it nor are you excusing it. You’re simply restoring what that person broke within you without waiting for them to take responsibility for breaking it.
 
@@ -102,7 +102,7 @@ Here’s the thing: the punishment is **never** enough because the hatred is the
 
 Not only is this not possible, but you only hurt your life when you try. You don’t release your hatred because if you do that, then you have to accept that what that person did to you has passed. This makes you hate even more because there is nothing you can do about it in the present.
 
-Part of this is also learning to forgive yourself.&nbsp;
+Part of this is also learning to forgive yourself.
 
 ### 6) Understanding leads to compassion; Compassion leads to forgiveness; Forgiveness stops hate
 
