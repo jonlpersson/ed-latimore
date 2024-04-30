@@ -6,7 +6,7 @@ permalink: /4-reasons-why-you-shouldnt-go-to-college/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   In this day and age, college is a bad idea for so many reasons. In this
   article, I tell you the four major ones AND give you some alternatives.
@@ -46,7 +46,7 @@ I told you to avoid the "S" in STEM. The crazy thing is that despite the differe
 
 Consider the cost of your desired lifestyle on top of those monthly loan repayments. If you’re paying a full mortgage for your education, you might not be able to afford a second mortgage if you want to buy a house. You may not even be able to get an apartment. That means you’re likely going to be living with your parents or sharing an apartment with roommates for the next ten to fifteen years.
 
-Consider some of these quotes from this [Guardian article about real world experiences with student debt](https://www.theguardian.com/money/2013/apr/03/student-debt-america-six-figures){: target="_blank" rel="noopener noreferrer"}\:
+Consider some of these quotes from this [Guardian article about real world experiences with student debt](https://www.theguardian.com/money/2013/apr/03/student-debt-america-six-figures){: target="_blank" rel="noopener noreferrer"}:
 
 * ***"The biggest sacrifice I've made is moving in with my mother. I've also put off seriously considering buying a house for a very, very long time."***
 * ***"I regularly have to choose between fixing my old beater car, paying my health insurance or making my loan payments. I live with several roommates and buy my groceries at Walmart. I can't afford a gym membership. I know I will never be able to buy a new car or a house within my adult life, a fact that makes me regret going to college as a whole."***
