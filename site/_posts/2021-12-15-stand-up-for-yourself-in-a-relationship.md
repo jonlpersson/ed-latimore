@@ -6,7 +6,7 @@ permalink: /stand-up-for-yourself-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   If you stand for nothing, you’ll fall for anything, even in your romantic
   relationships. Here’s how to stand up for yourself in a relationship.
@@ -106,7 +106,7 @@ Over the long term, it ruins your mental health and your overall sense of well-b
 
 Instead, try to see the other person's point of view. Chances are, they feel just as strongly as you do about your opinion. Because humans have what is called a self-serving bias it’s natural to become defensive when things don’t go your way.
 
-A self-serving bias<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> is the tendency to attribute positive things to ourselves and our own effort. However, when something negative happens we’ll then attribute that to outside factors, alleviating ourselves of the responsibility for the wrongdoing.
+A self-serving bias<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> is the tendency to attribute positive things to ourselves and our own effort. However, when something negative happens we’ll then attribute that to outside factors, alleviating ourselves of the responsibility for the wrongdoing.
 
 The kind of defensiveness that leads to criticism and belittling can stem from childhood experiences or past relationships. But it could also come from a breakdown in communication where each of you is fighting simply to be right.
 
@@ -122,7 +122,7 @@ The only way to know how to manage this is with experience and…
 * Defining your personal goals
 * Determining what you want out of life
 
-The result is that you build your self-confidence and make yourself a more likable person to be around. When I [learned to be more likable](https://edlatimore.com/how-to-be-likeable/) I met more people and made more friends. Healthy relationships require novelty or newness<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> to keep them exciting and fresh. When you develop your own interests, you are constantly evolving into a new and fresher version of yourself.
+The result is that you build your self-confidence and make yourself a more likable person to be around. When I [learned to be more likable](https://edlatimore.com/how-to-be-likeable/) I met more people and made more friends. Healthy relationships require novelty or newness<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> to keep them exciting and fresh. When you develop your own interests, you are constantly evolving into a new and fresher version of yourself.
 
 ## Follow the third agreement
 
@@ -140,7 +140,7 @@ This simple difference can cause friction if you are on opposite sides of this c
 
 ## When is it time to walk?
 
-Despite your best intentions, you can’t force relationships to work. Staying in a bad relationship can diminish your well-being and ruin your physical health.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> If you find yourself in a predicament where you feel like your own needs aren't being met or you're constantly bending to the other person's emotions, it might be time to walk away.
+Despite your best intentions, you can’t force relationships to work. Staying in a bad relationship can diminish your well-being and ruin your physical health.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> If you find yourself in a predicament where you feel like your own needs aren't being met or you're constantly bending to the other person's emotions, it might be time to walk away.
 
 Here are a few other warning signs:
 
