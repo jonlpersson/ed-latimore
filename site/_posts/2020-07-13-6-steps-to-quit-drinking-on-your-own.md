@@ -6,14 +6,14 @@ permalink: /how-to-stop-drinking-on-your-own/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Tired of struggling with alcohol? This post will show you how to take a break
   from booze so you can get your physical, emotional, and mental health in
   order.
 image: /assets/images/thumbnails/how-to-get-sober-drunk-ed-latimore.jpeg
 ---
-You've decided that you want to stop drinking alcohol. At the very least, you want to get your drinking habits and health under control.&nbsp; In this post, I'll show you how to stop drinking using simple techniques, mindset shifts, and relying on the support systems around you.
+You've decided that you want to stop drinking alcohol. At the very least, you want to get your drinking habits and health under control.  In this post, I'll show you how to stop drinking using simple techniques, mindset shifts, and relying on the support systems around you.
 
 I don't care how much alcohol you drink. You could be:
 
@@ -45,7 +45,7 @@ You're only questioning yourself because it's a new path, and you aren't certain
 
 These doubts are natural. They mean that you're taking your sobriety seriously. Most people only think in the short term, so they don't have any worries about sticking through with it, but your worries show that you really want to get your drinking under control.
 
-On December 23, 2013,&nbsp;[I stopped drinking](/sobriety-benefits/)&nbsp;cold turkey without:
+On December 23, 2013, [I stopped drinking](/sobriety-benefits/) cold turkey without:
 
 * Using any treatment programs
 * Support groups
@@ -59,7 +59,7 @@ All of those things are useful and have their place, but they weren't for me.
 
 ## Admit that you have a drinking problem
 
-While admitting that you have a problem is the&nbsp;[first step in many recovery programs](https://www.addictioncenter.com/treatment/12-step-programs/){: target="_blank"}, part of that process is realizing that you’re afraid. You might be afraid of what happens if you keep drinking, but you’re more afraid of what happens when you stop.
+While admitting that you have a problem is the [first step in many recovery programs](https://www.addictioncenter.com/treatment/12-step-programs/){: target="_blank"}, part of that process is realizing that you’re afraid. You might be afraid of what happens if you keep drinking, but you’re more afraid of what happens when you stop.
 
 I won't lie to you and say that it's guaranteed that you'll have a large support network. I won't lead you on and make you think that everyone will appreciate you trying to become a better human being. All I can do is tell you that the fear is natural, but you have to proceed anyway.
 
@@ -69,9 +69,9 @@ I won't lie to you and say that it's guaranteed that you'll have a large support
 
 Most of us drink for one of the big C’s:
 
-* **Catharsis.**&nbsp;When we’re stressed or need to blow off steam, we get drunk.
-* **Celebration.**&nbsp;When something good happens, and we want to celebrate, we get drunk.
-* **Coping.**&nbsp;When something tragic happens, we get drunk.
+* **Catharsis.** When we’re stressed or need to blow off steam, we get drunk.
+* **Celebration.** When something good happens, and we want to celebrate, we get drunk.
+* **Coping.** When something tragic happens, we get drunk.
 
 Alcohol is the response to all of our emotional states. If you grew up in a society where this is the norm, then it’s already an expectation that you’ll drink in response to nearly every situation imaginable.
 
@@ -103,7 +103,7 @@ This fear gives you a healthy respect for the process and ensures that you take 
 
 Acknowledging your fears gives you the best chance of making a change. Fear keeps you from regressing, goals drive you forward, and new habits to make it all stick.
 
-Your biggest fear is change and being different.&nbsp;[You feel like your friends and family won't understand or support your decision to stop drinking](https://www.getgruvi.com/blog/ed-latimore-guest-post). Or that they'll judge you for your addiction. That is completely natural.
+Your biggest fear is change and being different. [You feel like your friends and family won't understand or support your decision to stop drinking](https://www.getgruvi.com/blog/ed-latimore-guest-post). Or that they'll judge you for your addiction. That is completely natural.
 
 You’re afraid that if you stop drinking, you’ll miss out on a great social life. Instead of worrying that people will leave you behind for your bad behavior, you’re afraid that people will do it because now you seem too good.
 
@@ -117,13 +117,13 @@ If you’re only afraid of what can go wrong, how is this different from when yo
 
 A healthy fear of the consequences is important, but using them alone to curb your alcohol consumption has another serious drawback. We tend to gauge how we should behave by our environment. By this metric, it’s easy to justify consuming alcohol to excess because so many people are doing it.
 
-Fear is powerful, but fear alone is inadequate.&nbsp;[You also need a reason that will help keep you from having relapses, dealing with withdrawal, and staying committed to your goal of sobriety.](https://www.verywellmind.com/how-can-i-feel-better-during-drug-or-alcohol-withdrawal-4160020){: target="_blank"}
+Fear is powerful, but fear alone is inadequate. [You also need a reason that will help keep you from having relapses, dealing with withdrawal, and staying committed to your goal of sobriety.](https://www.verywellmind.com/how-can-i-feel-better-during-drug-or-alcohol-withdrawal-4160020){: target="_blank"}
 
 Everyone is afraid of what can go wrong. It’s only human to have a fear of making mistakes. Especially big mistakes that cost us our relationships our freedom. So in response to this fear, people do several things.
 
-## &nbsp;​​​​​​Commit to sobriety
+##  ​​​​​​Commit to sobriety
 
-[Going from a life of drinking to a life in recovery from alcoholism can be challenging.](https://www.prosperityhaven.com/challenges-to-staying-sober-after-rehab/){: target="_blank"}&nbsp;
+[Going from a life of drinking to a life in recovery from alcoholism can be challenging.](https://www.prosperityhaven.com/challenges-to-staying-sober-after-rehab/){: target="_blank"}
 
 You will need powerful reasons to stay committed to it; otherwise, environmental and peer pressures will drag you off the wagon.
 
@@ -163,7 +163,7 @@ You can seriously pursue your goals and invest in the type of life that you want
 
 You can only become the new you and live a new life after giving up the old you and your old habits.
 
-There's another benefit of having a goal. It also allows you to&nbsp;[overcome the fear of change.](/how-to-overcome-fear/)
+There's another benefit of having a goal. It also allows you to [overcome the fear of change.](/how-to-overcome-fear/)
 
 It’s one thing to give up an old behavior habit. If it’s all you’ve known and you give it up out of fear, your desire for familiarity will win in the long run. However, if you are in pursuit of something new and better, you’re more likely to stick to it.
 
@@ -193,9 +193,9 @@ You could also check into 12-step programs such as [SMART Recovery](https://www.
 
 The NIAAA is an organization dedicated to helping people overcome alcohol use disorder and alcohol addiction. The difference between the two terms is mostly a matter of degree rather than type, but the idea is the same: these are people who want to cut back on or eliminate their alcohol consumption.
 
-NIAAA's website is full of practical research and science-based methods to help you stop drinking.&nbsp; Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
+NIAAA's website is full of practical research and science-based methods to help you stop drinking.  Firstly, are their diagnostic tools. The NIAAA tells you the mathematical difference between [drinking in moderation, binge drinking, and heavy alcohol use.](https://www.niaaa.nih.gov/alcohol-health/overview-alcohol-consumption/moderate-binge-drinking){: target="_blank" rel="noopener noreferrer"}
 
-The site also delivers a list of [sobering statistics about the reality of alcoholism](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/alcohol-facts-and-statistics){: target="_blank" rel="noopener noreferrer"}. These statistics remind you that you're often one bad decision away from completely ruining your life.&nbsp;
+The site also delivers a list of [sobering statistics about the reality of alcoholism](https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/alcohol-facts-and-statistics){: target="_blank" rel="noopener noreferrer"}. These statistics remind you that you're often one bad decision away from completely ruining your life.
 
 But their website is not all doom and gloom. They also give [useful ideas for support strategies](https://www.rethinkingdrinking.niaaa.nih.gov/Thinking-about-a-change/Support-for-quitting/Support-Strategies-For-Quitting.aspx){: target="_blank" rel="noopener noreferrer"} and even [more tips to help you to get your drinking under control.](https://www.rethinkingdrinking.niaaa.nih.gov/Thinking-about-a-change/Strategies-for-cutting-down/Tips-To-Try.aspx){: target="_blank" rel="noopener noreferrer"}
 
@@ -203,7 +203,7 @@ But their website is not all doom and gloom. They also give [useful ideas for su
 
 There will be a period of detox. This withdrawal can be physical, mental, or psychological; your level of alcohol dependence will determine the type and severity of your withdrawal symptoms. Fortunately, there aren't any alcohol withdrawal symptoms that are life-threatening or even need medical supervision.
 
-For the physical symptoms, you just need time and a good diet. Time gets your body used to not having alcohol, and a good diet will help you.&nbsp;
+For the physical symptoms, you just need time and a good diet. Time gets your body used to not having alcohol, and a good diet will help you.
 
 When you quit drinking alcohol, there isn't any way around feeling like you're missing something. Fortunately, it's all in your head. Getting sober should not cause any health problems. You should feel better, not worse.
 
@@ -215,9 +215,9 @@ Your worst symptom is going to be boredom. You need to find new hobbies to take 
 
 There's a joke I tell people who are thinking about embracing a sober lifestyle:
 
-**Alcohol is the only drug where people think you have a problem if you&nbsp;*don't*&nbsp;do it.**
+**Alcohol is the only drug where people think you have a problem if you *don't* do it.**
 
-[There is a comprehensive legal, educational, and commercial empire that prefers if you keep drinking.](https://www.knoxnews.com/story/sports/2019/06/26/alcohol-college-football-games-policy-power-5-university/1358400001/){: target="_blank"}&nbsp;Drinkers get into more expensive legal trouble, they spend more money at restaurants, and [schools are often attended based on their reputation as a party school alone.](https://www.usatoday.com/story/money/2019/08/10/the-us-colleges-that-drink-the-most-booze/39929643/){: target="_blank" rel="noopener noreferrer"}
+[There is a comprehensive legal, educational, and commercial empire that prefers if you keep drinking.](https://www.knoxnews.com/story/sports/2019/06/26/alcohol-college-football-games-policy-power-5-university/1358400001/){: target="_blank"} Drinkers get into more expensive legal trouble, they spend more money at restaurants, and [schools are often attended based on their reputation as a party school alone.](https://www.usatoday.com/story/money/2019/08/10/the-us-colleges-that-drink-the-most-booze/39929643/){: target="_blank" rel="noopener noreferrer"}
 
 While there is a shift in how society treats and views alcohol, it's big business for everyone–even those charged with policing its use. You will encounter resistance on all fronts.
 
@@ -225,7 +225,7 @@ While there is a shift in how society treats and views alcohol, it's big busines
 
 Fear of loneliness can keep you cutting back or cutting out your drinking. Even if alcohol isn't enjoyable to you, the socialization ritual surrounding it is. Since everyone in the social environment drinks, you'll automatically feel pressure to drink.
 
-[In your mind, sobriety means giving up a large part of this social life and all of the people you drink with.](/how-to-have-fun-and-socialize-sober/)&nbsp;This seems terrifying. You may not think about this constantly, but it’s in the back of every drinker’s mind. It’s one of the things that all recovering alcoholics warn you about.
+[In your mind, sobriety means giving up a large part of this social life and all of the people you drink with.](/how-to-have-fun-and-socialize-sober/) This seems terrifying. You may not think about this constantly, but it’s in the back of every drinker’s mind. It’s one of the things that all recovering alcoholics warn you about.
 
 Also, [consider giving back along your recovery journey.](https://www.pbinstitute.com/blog/5-ways-to-give-back-in-recovery/){: target="_blank" rel="noopener noreferrer"} Even if you've only been sober for 1 day, there's someone who can use your guidance that is at day 0.
 
