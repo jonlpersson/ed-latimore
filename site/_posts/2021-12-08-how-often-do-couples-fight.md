@@ -6,7 +6,7 @@ permalink: /how-often-do-couples-fight/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   All couples fight, but how much fighting is considered healthy? Find out here
   according to experts. Also, find out how to fight less if you fight too much.
@@ -26,7 +26,7 @@ But somewhere along the way, ‘’all couples fight’’ became the mantra of 
 
 In this article, we’ll dive into the deeper reasons couples fight and how much fighting you should really be worried about.
 
-{% include widgets/toc.html heading="How often do couples fight" list-items="How much fighting is too much, Problems you can&rsquo;t get over, Arguments styles that hurt your relationship, Arguments styles that build your relationship, The no.1 thing you must have for it to work" list-ids="what-is-a-healthy-amount-of-fighting, fundamental-differences, destructive-disagreements, constructive-disagreements, the-secret-to-great-relationships" %}
+{% include widgets/toc.html heading="How often do couples fight" list-items="How much fighting is too much, Problems you can’t get over, Arguments styles that hurt your relationship, Arguments styles that build your relationship, The no.1 thing you must have for it to work" list-ids="what-is-a-healthy-amount-of-fighting, fundamental-differences, destructive-disagreements, constructive-disagreements, the-secret-to-great-relationships" %}
 
 ## What is a healthy amount of fighting?
 
@@ -40,11 +40,11 @@ In other words, healthy relationships are determined by how well you manage your
 
 How you disagree in a relationship determines how happy you can be because conflict is the one guarantee you have.
 
-According to research by psychologist and relationship expert, John Gottman, couples have perpetual problems that stem from unsolvable core differences. More specifically, he says 69%<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> of the arguments you have in your relationship are the same issues all stemming from these core differences.
+According to research by psychologist and relationship expert, John Gottman, couples have perpetual problems that stem from unsolvable core differences. More specifically, he says 69%<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> of the arguments you have in your relationship are the same issues all stemming from these core differences.
 
 I grew up seeing explosive fights that went nowhere and had to unlearn much of what was taught to me directly and indirectly. However, most people never evaluate how their development shapes the way they handle problems until it's time for relationship counseling. The result is a never ending cycle of bad relationships.
 
-Another approach to this concept is the idea that conflict management lies on a spectrum. What side of the spectrum you reside on is determined by your cognitive development.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Another approach to this concept is the idea that conflict management lies on a spectrum. What side of the spectrum you reside on is determined by your cognitive development.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 For example, the following personality types will always have issues:
 
@@ -91,7 +91,7 @@ Here are a few examples of what this looks like during a disagreement:
 
 ## The secret to great relationships
 
-I cannot emphasize enough the importance of choosing the right person. A bad relationship can make your life unnecessarily hard and reduce your body’s ability to fight off disease.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> No matter how good your communication skills are, it takes two to tango.
+I cannot emphasize enough the importance of choosing the right person. A bad relationship can make your life unnecessarily hard and reduce your body’s ability to fight off disease.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> No matter how good your communication skills are, it takes two to tango.
 
 A dead giveaway that you’re choosing the wrong one is the line, “I’m not here for hookups, I’m looking for something serious.” Or a guy that leads interactions with overly sexual messages. Check out my blog, [you can’t force relationships to develop](https://edlatimore.com/you-cant-force-relationships-to-develop/), to understand why these are just weak attempts to control the mating ritual and why they never work.
 
