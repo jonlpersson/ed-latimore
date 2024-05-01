@@ -6,7 +6,7 @@ permalink: /is-physics-hard-how-to-study-and-learn-basic-physics/
 tags:
   - math-concepts
 categories:
-  - chess-math-and-language
+  - Risk
 image: /assets/images/posts/ed-graduation-day.png
 description: >-
   Physics isn’t hard. You just need a special approach to the math and theory
@@ -42,7 +42,7 @@ Here is a list of things you must practice and skills you need to develop to giv
 
 ## The Math Requirements For Basic Physics
 
-Physics uses math to quantify and describe the universe. There is no getting around math. Most schools have a math requirement, though technically speaking, you could learn all the math you need while learning physics, but that's like studying Shakespeare while learning English—you won't learn much about either while being immensely frustrated.&nbsp;
+Physics uses math to quantify and describe the universe. There is no getting around math. Most schools have a math requirement, though technically speaking, you could learn all the math you need while learning physics, but that's like studying Shakespeare while learning English—you won't learn much about either while being immensely frustrated.
 
 While physics demands that you generally have high numerical literacy, there are some specific mathematical ideas you will see so often that you must ensure you master them. The following is a list of the most frequently used math ideas in basic physics.
 
