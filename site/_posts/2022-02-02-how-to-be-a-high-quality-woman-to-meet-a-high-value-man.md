@@ -6,7 +6,7 @@ permalink: /how-to-be-a-high-value-woman/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Here are some specific steps to follow to become a high-value woman that is
   able to meet and be with a high-value man.
@@ -34,7 +34,7 @@ Becoming a high-value woman Is about embodying a few important traits. This is a
 * Who is a well-rounded person with a balanced life
 * Strong sense of what it means to be a woman, internally and externally
 
-This is what a high-quality woman looks like, but these traits are impossible to see with the naked eye. Dating coaches rarely discuss them and their importance to high-value men and high-value dating.&nbsp; The truth is this:
+This is what a high-quality woman looks like, but these traits are impossible to see with the naked eye. Dating coaches rarely discuss them and their importance to high-value men and high-value dating.  The truth is this:
 
 It doesn't matter if you have a bunch of standards. If you want to date a quality, high-value man, you need to be a quality, high-value woman. There is no way around that if you want to be valued for anything more than the sexual desire you can make a man feel.
 
@@ -56,7 +56,7 @@ Your potential mate will require a woman who can support him without mothering o
 
 Communication is such an important part of a relationship that you need to be both a good transmitter and receiver of your feelings and intentions. If you have trouble with this, it may be because you have trouble being direct. This is often a trait of feminine women, and it can spell disaster when it comes to navigating problems in a relationship.
 
-You'll have to be direct about how you feel about things, but that doesn't mean you need to be aggressive or disagreeable.&nbsp;
+You'll have to be direct about how you feel about things, but that doesn't mean you need to be aggressive or disagreeable.
 
 ## 2) Don't waste your precious time in relationships that you know are going nowhere
 
@@ -82,7 +82,7 @@ The equation I show clients to get them to understand how this works is: Ideal R
 
 These elements must each be fulfilled to a sufficient level for the relationship to be successful.
 
-If you have to put a number on it to help guide yourself, consider 8 out of 10 a solid place to be. The problems start when there's a deficit in one area, and you think the other areas can compensate for it.&nbsp;
+If you have to put a number on it to help guide yourself, consider 8 out of 10 a solid place to be. The problems start when there's a deficit in one area, and you think the other areas can compensate for it.
 
 In the case of my first marriage, all three areas were lacking significantly.
 
@@ -114,7 +114,7 @@ This includes taking good care of your body, beauty, aesthetics, and overall fit
 
 It includes being an excellent communicator, nurturing, and supportive.
 
-Sadly, certain ideas about feminity are portrayed as negatives by the mainstream media, but the next someone tells you that being submissive, nurturing, and agreeable are negatives, make sure they're in a long happy relationship.&nbsp;
+Sadly, certain ideas about feminity are portrayed as negatives by the mainstream media, but the next someone tells you that being submissive, nurturing, and agreeable are negatives, make sure they're in a long happy relationship.
 
 Many people talk about what should and should not happen in a relationship but have never been in a relationship themselves.
 
@@ -126,7 +126,7 @@ An ideal man will not want to look after you like a child. Nor will he burn with
 
 This means being a kind, clean, fit, classy lady. There isn't a lot to say here that isn't painfully obvious.
 
-It's hard to feel sexual attraction for someone who doesn't take care of themselves or their environment. If you want your potential mate to want to get close to you, smell nice, groom yourself, clean your home, and stay in shape,.&nbsp;&nbsp;
+It's hard to feel sexual attraction for someone who doesn't take care of themselves or their environment. If you want your potential mate to want to get close to you, smell nice, groom yourself, clean your home, and stay in shape,.
 
 ## 7) Ground yourself in good principles, grace, and class
 
@@ -191,7 +191,7 @@ Honor your time and energy with the standards of this future life you have set y
 
 You'll look back in a few years stunned at everything you've built for yourself on your own terms that came to fruition as if it were a dream come true.
 
-Why not, you earned it\! And I promise you, it feels amazing.
+Why not, you earned it! And I promise you, it feels amazing.
 
 What are you waiting for? Or is it who? Don't wait around to be rescued, start to clear the way for your future mister to cross paths with you.
 
@@ -199,4 +199,4 @@ He can take over when he finds you, but by then, you'll have proven you're a wor
 
 This is how you build a healthy foundation for an Ideal Relationship with your Ideal Partner…by becoming your Ideal Self.
 
-*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**[Youtube](https://www.youtube.com/c/DrTaylorBurrowes),&nbsp;**[Twitter,](https://twitter.com/taylorburrowes) or*[*Instagram.*](https://www.instagram.com/taylorburrowes/)
+*Dr. Taylor Burrowes* *is the creator of* *The Vetting System,* *a systematic way to find your ideal lover. You can follow her for more relationship advice on**[Youtube](https://www.youtube.com/c/DrTaylorBurrowes),** [Twitter,](https://twitter.com/taylorburrowes) or*[*Instagram.*](https://www.instagram.com/taylorburrowes/)
