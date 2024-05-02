@@ -6,7 +6,7 @@ permalink: /tao-of-jeet-kune-do-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   These are the quotes and big ideas I've collected from Bruce Lee's "The Tao of
   Jeet Kune Do", with explanation and extrapolation.
