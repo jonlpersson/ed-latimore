@@ -6,7 +6,7 @@ permalink: /why-did-I-start-boxing/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   In this essay, I explain why I started boxing. I think all fighters will see a
   bit of themselves in this post. 
@@ -14,11 +14,11 @@ image: /assets/images/drafts/why-i-fight.jpeg
 ---
 “Good. You’re too smart for boxing.”
 
-This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.&nbsp;
+This is what former IBF heavyweight champion Charles Martin and former 2012 heavyweight boxing olympian Dominic Breazeale—former sparring partners and opponents of mine—both said when they found out that I’d moved on from a 13-year boxing career.
 
 ![Ed latimore charles martin dominic breazeale boxing](/assets/images/posts/ftcarsonboxing.png "Me in the center, Dominic Breazeale on the far left, Charles Martin to my right. 2012 at Ft. Carson, Co for US Men's National Tournament"){: width="450" height="317"}
 
-Maybe this is true. Then again, how smart am I if I started boxing in the first place?&nbsp;
+Maybe this is true. Then again, how smart am I if I started boxing in the first place?
 
 People often ask me what made me start boxing at the ripe old age of 22. They want to know what would motivate me to put myself in a 16x16 box to fight another human who is trained to inflict significant damage to my person.
 
@@ -28,7 +28,7 @@ But not the fighter. In this regard, fighters are built differently than the res
 
 We seek hardship while the masses seek comfort. We confront pain while everyone else pursues pleasure. We walk side-by-side with uncertainty and [fear](/how-to-overcome-fear/) while most people embrace the safe and sure path. But why do it? Why do we fight?
 
-More specifically, why did I do it? Why did I live the life of a fighter for 13 years?&nbsp;
+More specifically, why did I do it? Why did I live the life of a fighter for 13 years?
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -38,17 +38,17 @@ Every fighter fights for different reasons, but rarely are those reasons born fr
 
 Many people visit the ring for recreation, but those who make it a permanent home do so because they lack something vital, and they feel that they’ll find it in the school of hard knocks.
 
-Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.&nbsp; Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
+Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.  Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
 
 More generally, happy people have the same things in common, but unhappy people can be unhappy for many reasons because there are many ways to be unhappy.
 
-The Anna Karenina Principle explains why every fighter fights.&nbsp;
+The Anna Karenina Principle explains why every fighter fights.
 
 All humans have a survival instinct and an aversion to pain. While fighters share this trait with the rest of the population, we believe we’ll find what we’re missing on the other side of pain.
 
 By inflicting pain, we prove that we are worth something in the most primal and recognizable way. By enduring pain, we prove—in the most defiant and discernable manner—that life is not better than us and can not beat us down.
 
-I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.&nbsp;
+I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.
 
 I've often said that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much pain, hardship, and restriction that surely the cost of admission exceeds the value received.
 
@@ -60,11 +60,11 @@ Fighting is one of the few athletic avenues that is not closed to people who are
 
 There are only two hard age limits in the sport: to compete in amateur boxing, you must be at least 10 years old. There is technically no age maximum, but any amateur fighter older than 35 will have the choice to compete in the Master's division (35 years and older) and will be forced to compete there once he’s 41. As a professional, there are no such limits.
 
-You[&nbsp;can start fighting](/how-to-get-into-boxing/) when most people are ending their athletic careers. Many notable names in the sport have had successful careers after not even stepping in the ring for the first time until after their 18th birthday.
+You[can start fighting](/how-to-get-into-boxing/) when most people are ending their athletic careers. Many notable names in the sport have had successful careers after not even stepping in the ring for the first time until after their 18th birthday.
 
 I started as an amateur boxer at the age of 22. Despite [growing up in the hood](https://edlatimore.com/living-in-the-hood) and fighting a lot there, I never formally stepped in the ring until I was an adult.
 
-Fighting is also unique in that you can start your career as a professional, but I wanted to go as far as I could in the sport. I knew that doing it this way was the right way. As I continued to fight and develop my abilities, I became respected. I had a community that I belonged to that did not rely on drinking as the sole reason for getting together.&nbsp;
+Fighting is also unique in that you can start your career as a professional, but I wanted to go as far as I could in the sport. I knew that doing it this way was the right way. As I continued to fight and develop my abilities, I became respected. I had a community that I belonged to that did not rely on drinking as the sole reason for getting together.
 
 I was simultaneously someone’s rival, mentor, and protege. I gained respect from other fighters, admiration from those who did not dare step in the ring, and I was legitimately becoming a better human.
 
@@ -82,9 +82,9 @@ This meant confronting my fears of inadequacy.
 
 I believe this is why I was pulled to boxing and started. Boxing served as both a crucible and a distillery, hardening me while removing impurities in my character that kept me from improving. I may have chosen to get in the ring, but I did not get to choose the ways the sport would make me a better person and force me to deal with my weaknesses and fears.
 
-I started fighting to become someone. I had an immature idea of what that meant when I started, but as I continued with the process and the training, my incomplete ideas were replaced with a more whole and complete version.&nbsp;
+I started fighting to become someone. I had an immature idea of what that meant when I started, but as I continued with the process and the training, my incomplete ideas were replaced with a more whole and complete version.
 
-When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize that the desire for respect and attention brought me in, but a commitment to what the sport did for me kept me there. I honestly don’t know if anything like boxing would have challenged and transformed me in all the ways it did.&nbsp;
+When I reflect on my [motivations for fighting](/why-I-quit-boxing/), I realize that the desire for respect and attention brought me in, but a commitment to what the sport did for me kept me there. I honestly don’t know if anything like boxing would have challenged and transformed me in all the ways it did.
 
 [Boxing broke me down, built me up, and made me accountable to the world.](/boxing-quotes-from-ed-latimore/) It made me a person to be admired and respected. It made me more than I could have ever imagined it would 13 years ago when I first stepped in the ring.
 
