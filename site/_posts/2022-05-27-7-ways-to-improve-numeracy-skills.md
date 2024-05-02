@@ -6,7 +6,7 @@ permalink: /numeracy-skills/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Risk
 description: >-
   This is bigger than just being good at math. Numbers are essential to life.
   Learn how to improve your numeracy skills in this lesson.
@@ -31,7 +31,7 @@ It’s useful to know approximately:
 * How many visitors to your sales page purchase.
 * How many miles your car can go before it needs a fill-up.
 * How long it will take you to walk somewhere.
-* How much money you have in your bank account.&nbsp;
+* How much money you have in your bank account.
 
 In each of these scenarios, not only is an exact number not necessary to make plans, it’s usually impossible to get one anyway. Too many variables are out of your control to make an exact calculation possible.
 
@@ -82,7 +82,7 @@ This is something that everyone can do and needs to do and does not require any 
 
 Graphs are powerful because they take numbers collected from data and turn them into easy-to-understand pictures. This is why one of the first things that young children do in their early numeracy training is learn how to understand graphs.
 
-Graphs are simple but effective tools for making quick sense of any amount of data.&nbsp;
+Graphs are simple but effective tools for making quick sense of any amount of data.
 
 On the horizontal axis, there is an "independent variable". This is the quantity that does not depend on anything else being measured. On the vertical axis, there is the quantity that correlates to the independent variable, called the “dependent variable”.
 
