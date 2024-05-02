@@ -6,7 +6,7 @@ permalink: /losing-someone-you-love/
 tags:
   - building-family-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Losing someone you love can leave you feeling lost. Here’s what to do when
   your grief and sorrow make getting on with your life seem impossible.
@@ -66,7 +66,7 @@ While someone is alive and thriving, we put off spending quality time and seeing
 
 But the truth is, death is a part of life. And later might never come.
 
-Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> Basically, you start going through the early stages of grief in anticipation of the loss.
+Hearing that someone is dying can send you into the mourning process before they’ve even passed on to the other side. This is called anticipatory grief.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> Basically, you start going through the early stages of grief in anticipation of the loss.
 
 Though it’s natural to feel, it steals your mind away from the present moment and the fact that you still have time to spend with your loved one.
 
@@ -88,7 +88,7 @@ Don’t wait around for it to be over before you resume your life. Grief doesn�
 
 When I lost my dad at 18, grief was a slow process. I was fine for several months then all of a sudden I was sobbing in a conversation about him.
 
-Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
+Depending on the relationship you have with someone, the grieving process can be shorter or longer. The pain of losing a loved one can be more intense causing heartbreak, severe mental health issues, and physical symptoms.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> Grief can also be mild, causing periodic sadness but not disrupting your days. Either way, it can strike randomly without real warning.
 
 Grief manifests in many forms with everyone having a different grief experience. Mental and physical symptoms of grieving include:
 
@@ -103,7 +103,7 @@ Grief manifests in many forms with everyone having a different grief experience.
 
 ## Recognize if you're not dealing with it
 
-There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
+There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
 
 Complicated grief is a sign that you are not coping with reality. Though many experience intense sadness during grief, depression is actually a sign that you are not coping well. For others, you may feel completely detached from a loss then have an explosion that is out of character for you.
 
