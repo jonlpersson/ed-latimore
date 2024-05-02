@@ -6,15 +6,15 @@ permalink: /sexual-assault-college-stats/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Drinking culture is especially dangerous for young women. However, efforts to
   change it are often resisted by the very people it’s meant to help.
 image: /assets/images/drafts/drinkingfemaleregret.jpg
 ---
-I started this line of research because I was originally going to use it for a chapter of my book about recovery, [“Sober Letters To My Drunken Self”](/products/sober-letters/).&nbsp; It was merely born of a curiosity that started to grow as I researched the book. Ultimately, I decided not to include it, as it’s not technically about my personal drinking experiences and is beyond the scope of what I wanted the book to focus on.&nbsp;
+I started this line of research because I was originally going to use it for a chapter of my book about recovery, [“Sober Letters To My Drunken Self”](/products/sober-letters/).  It was merely born of a curiosity that started to grow as I researched the book. Ultimately, I decided not to include it, as it’s not technically about my personal drinking experiences and is beyond the scope of what I wanted the book to focus on.
 
-However, this is a topic that I am gravely concerned about. In this essay. I aim to demonstrate alcohol’s role in sexual assault because of how it works on and in conjunction with young men and women’s neurochemistry.&nbsp;
+However, this is a topic that I am gravely concerned about. In this essay. I aim to demonstrate alcohol’s role in sexual assault because of how it works on and in conjunction with young men and women’s neurochemistry.
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
@@ -28,15 +28,15 @@ Not surprisingly, these numbers are not evenly distributed if between the sexes.
 
 For this research, the age range of a college student is defined as anyone between the ages of 18 and 24. For various reasons, women have always been at a greater risk for sexual assault than men, but the college-aged group is most susceptible amongst women. 18-24-year-old women in college are 3x more likely than any other women to be the victims of sexual assault.
 
-## **How many rapes and sexual assaults there are annually**&nbsp;
+## **How many rapes and sexual assaults there are annually**
 
 Despite what exaggerated reports may claim, [1 in 5 men are not rapists](https://www.usatoday.com/story/news/nation-now/2014/09/07/cdc-rape-women-statistics/15239361/), nor will [1 in 3 rape if given the chance](https://www.cosmopolitan.com/politics/news/a35207/study-one-in-three-men-would-rape-if-they-could/). I’ve read over the studies that make these claims and the [methodology is unscientific and inaccurate](https://time.com/3393442/cdc-rape-numbers/) at best and at worst, [outright disingenuous](https://www.psychologytoday.com/us/blog/pop-psych/201601/exaggerating-statistics-about-rape). I hesitate to put a number on it because it’s likely impossible to ever know, but I believe that most men do not want to rape anyone and never have either. However, a useable number is the number of men who **have** committed rape or sexual assault.
 
 According to [U.S Department of Justice Bureau of Statistics](https://bjs.ojp.gov/content/pub/pdf/cv16.pdf) , there were 298,410 reported rapes or sexual assaults in the United States in 2016. These numbers include attempted rapes or assaults but do not include statutory rapes. That same year the [US census recorded](https://www.census.gov/data/tables/2016/demo/age-and-sex/2016-age-sex-composition.html) 125,092,000 males over the age of 15. Taking these numbers at their face value, the percentage of men who committed rape in 2020 is ***.0024%.* Even if we assume that [80% of sexual assaults and rapes go unreported](https://www.brennancenter.org/our-work/analysis-opinion/sexual-assault-remains-dramatically-underreported), our worst case is that *.012%*** are perpetrators of sexual assault.
 
-I don’t crunch these statistics to downplay the seriousness of rape of sexual assault. I only bring this up to make a point that is necessary to appreciate the full gravity of all the points I’ll make concerning alcohol. ***Most men do not commit sexual assault of any nature.***&nbsp;
+I don’t crunch these statistics to downplay the seriousness of rape of sexual assault. I only bring this up to make a point that is necessary to appreciate the full gravity of all the points I’ll make concerning alcohol. ***Most men do not commit sexual assault of any nature.***
 
-I believe this in much the same way that most people do not want to commit murder and never have, however, this often occurs when a person drives drunk and then gets behind the wheel.&nbsp; How often? In 2015, [10,265 people died in alcohol-impaired driving crashes](https://crashstats.nhtsa.dot.gov/Api/Public/Publication/812350#:~:text=In%202015%2C%20there%20were%2010%2C265%20people%20killed%20in%20alcohol%2Dimpaired,the%20United%20States%20in%202015.), accounting for [nearly one-third (29%) of all traffic-related deaths](https://www.nhtsa.gov/document/traffic-safety-facts-2015-data#:~:text=There%20were%2035%2C092%20traffic%20fatalities,least%20one%20driver%20was%20speeding.&amp;text=The%20number%20of%20speeding%2Drelated,2014%2C%20from%209%2C283%20to%209%2C557.) in the United States.&nbsp;
+I believe this in much the same way that most people do not want to commit murder and never have, however, this often occurs when a person drives drunk and then gets behind the wheel.  How often? In 2015, [10,265 people died in alcohol-impaired driving crashes](https://crashstats.nhtsa.dot.gov/Api/Public/Publication/812350#:~:text=In%202015%2C%20there%20were%2010%2C265%20people%20killed%20in%20alcohol%2Dimpaired,the%20United%20States%20in%202015.), accounting for [nearly one-third (29%) of all traffic-related deaths](https://www.nhtsa.gov/document/traffic-safety-facts-2015-data#:~:text=There%20were%2035%2C092%20traffic%20fatalities,least%20one%20driver%20was%20speeding.&amp;text=The%20number%20of%20speeding%2Drelated,2014%2C%20from%209%2C283%20to%209%2C557.) in the United States.
 
 The people who commit these tragedies aren’t rapists or killers normally, but if you introduce alcohol into the mix, you have a recipe for a life-changing event.
 
@@ -44,15 +44,15 @@ The people who commit these tragedies aren’t rapists or killers normally, but 
 
 According to the [2015 National Survey On Drug Use and Health](https://www.datafiles.samhsa.gov/dataset/national-survey-drug-use-and-health-2015-nsduh-2015-ds0001), 37.9% of college students ages 18–22 reported binge drinking in the past month compared with 32.6% of other persons of the same age. Also worth considering is that 12.5% of college students ages 18–22 reported heavy alcohol use in the past month compared with 8.5% of other persons of the same age.
 
-The age range with the greatest risk of experiencing sexual assault is the age range with the heaviest drinking. I still hesitate to put an actual number on how many men have a genuine desire to rape or sexually assault in their sober and right minds. Some deranged men plot to prey on women, whether or not they’ve been drinking. However, I will simply present more raw data for you.&nbsp;
+The age range with the greatest risk of experiencing sexual assault is the age range with the heaviest drinking. I still hesitate to put an actual number on how many men have a genuine desire to rape or sexually assault in their sober and right minds. Some deranged men plot to prey on women, whether or not they’ve been drinking. However, I will simply present more raw data for you.
 
-According to a 2001 report, 97,000 people ages 18-24 reported experiencing alcohol-related sexual assault or rape. That same year, [The Bureau of Justice Statistics (BJS)](https://bjs.ojp.gov/content/pub/pdf/cvus0102.pdf) gathered that 100,375 people in the age range of 16-24 were sexual assault or rape victims. You can draw some powerful conclusions from this data.&nbsp;
+According to a 2001 report, 97,000 people ages 18-24 reported experiencing alcohol-related sexual assault or rape. That same year, [The Bureau of Justice Statistics (BJS)](https://bjs.ojp.gov/content/pub/pdf/cvus0102.pdf) gathered that 100,375 people in the age range of 16-24 were sexual assault or rape victims. You can draw some powerful conclusions from this data.
 
 Before we draw those conclusions, let’s apply two filters to the data: under-reporting and false rape claims.
 
 We do this to get an idea of how much the data reflects in reality. As stated earlier, it’s been estimated that 80% of sexual assault cases are never reported to the police. While this may or may not be reflected in the survey data, we know it has been reflected in the BJS information because, for it to get there, it has to be reported to the police. So worst case, we’re dealing with 501,875 sexual assaults that have occurred. ***This is the upper range.***
 
-To arrive at the lower range, we rely on data from an analysis of reports of sexual assaults over a 10 years period where&nbsp;[5\.9% were found to be false allegations](https://pubmed.ncbi.nlm.nih.gov/21164210/). Once again, this applies to ones that are reported so we can apply this number to the BJS data. This means that in the worst case, we’re dealing with 93,248 cases of sexual assault.&nbsp;
+To arrive at the lower range, we rely on data from an analysis of reports of sexual assaults over a 10 years period where [5\.9% were found to be false allegations](https://pubmed.ncbi.nlm.nih.gov/21164210/). Once again, this applies to ones that are reported so we can apply this number to the BJS data. This means that in the worst case, we’re dealing with 93,248 cases of sexual assault.
 
 So in the year 2001, we can say that between 94,452 and 501,875 sexual assaults and rapes occurred. Comparing the BJS data to the NHSDA survey data reveals that nearly all sexual assaults that year had some component of drinking. Even in the worst-case scenario, with over half of the assaults aren’t reported, alcohol would still have played a role in over half of the assaults.
 
@@ -66,13 +66,13 @@ Now, how much was had to drink during these assaults? We surely must distinguish
 
 ## **What percentage of college sexual assaults involve alcohol?**
 
-Similar findings have appeared whenever the role of alcohol in sexual assaults is discussed. A 2004 study of college students in the[&nbsp;*Journal of Studies on Alcohol*](https://archive.sph.harvard.edu/cas/Documents/rapeintox/037-Mohler-Kuo.sep1.pdf)&nbsp;found that 72% of victims were under the influence at the time of the assault. More research confirms what we worked out mathematically but simply did not state: ***young men use alcohol as a pathway to easy sex with women.***&nbsp;
+Similar findings have appeared whenever the role of alcohol in sexual assaults is discussed. A 2004 study of college students in the[*Journal of Studies on Alcohol*](https://archive.sph.harvard.edu/cas/Documents/rapeintox/037-Mohler-Kuo.sep1.pdf) found that 72% of victims were under the influence at the time of the assault. More research confirms what we worked out mathematically but simply did not state: ***young men use alcohol as a pathway to easy sex with women.***
 
-Take a moment to consider what this means. Most conservatively, we could eliminate a third of college sexual assaults against college-aged women by promoting a more responsible drinking environment or removing alcohol altogether from the mix. Most liberally, almost 80%.&nbsp;
+Take a moment to consider what this means. Most conservatively, we could eliminate a third of college sexual assaults against college-aged women by promoting a more responsible drinking environment or removing alcohol altogether from the mix. Most liberally, almost 80%.
 
-Even when alcohol is not deployed as a strategy for sex, its consumption can lead to a misinterpretation of social cues. [Alcohol decreases a woman’s ability to assess risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2761648/) and it diminishes a man’s ability to accurately perceive women’s interest in having sex with them. It makes a man less considerate of the consequences of his behavior in pursuit of sex.&nbsp;
+Even when alcohol is not deployed as a strategy for sex, its consumption can lead to a misinterpretation of social cues. [Alcohol decreases a woman’s ability to assess risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2761648/) and it diminishes a man’s ability to accurately perceive women’s interest in having sex with them. It makes a man less considerate of the consequences of his behavior in pursuit of sex.
 
-[In a review of the literature,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177166/#:~:text=The%20cues%20that%20usually%20inhibit,to%20sexual%20aggression%20%5B11%5D.) published in 2004 in&nbsp;*Aggression and Violent Behavior*, it was noted that: *“The cues that usually inhibit sexually aggressive behavior, such as concern about future consequences, sense of morality, or empathy for the victim are likely to be less salient than feelings of anger, frustration, sexual arousal, and entitlement.”*
+[In a review of the literature,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177166/#:~:text=The%20cues%20that%20usually%20inhibit,to%20sexual%20aggression%20%5B11%5D.) published in 2004 in *Aggression and Violent Behavior*, it was noted that: *“The cues that usually inhibit sexually aggressive behavior, such as concern about future consequences, sense of morality, or empathy for the victim are likely to be less salient than feelings of anger, frustration, sexual arousal, and entitlement.”*
 
 What I’ve done so far is nothing special. I looked at the data and drew a reasonable conclusion. I did this without referencing any high-profile college sexual assault cases. No matter how you look at the data or which data you use, it’s simple to see that alcohol plays a significant role in many sexual assaults However, we’re in such a time that saying this angers many people.
 
@@ -80,9 +80,9 @@ What I’ve done so far is nothing special. I looked at the data and drew a reas
 
 ## **The backlash to acknowledging alcohol’s role in sexual assault**
 
-This angers people because they see it as blaming the victim. Rather than addressing the common denominator in many of these crimes, society has taken the stance that despite everything we know about alcohol and its prevalence in sexual assault, we can’t discuss how it contributes. At this point, I feel like I need to make myself clear: ***I am not blaming the victim nor am I implying any victim of sexual assault while under the influence of alcohol asked for it or was invited.***&nbsp;
+This angers people because they see it as blaming the victim. Rather than addressing the common denominator in many of these crimes, society has taken the stance that despite everything we know about alcohol and its prevalence in sexual assault, we can’t discuss how it contributes. At this point, I feel like I need to make myself clear: ***I am not blaming the victim nor am I implying any victim of sexual assault while under the influence of alcohol asked for it or was invited.***
 
-Just like we don’t blame the person hit by a drunk driver, it’s foolish to blame the victim of a sexual assault, regardless of their level of intoxication. However, we educate people about the dangers of drinking and driving, warn them about getting in the car with people who have been drinking, and tell them to be safe when driving when there’s a greater likelihood of drunk drivers being on the road.&nbsp;
+Just like we don’t blame the person hit by a drunk driver, it’s foolish to blame the victim of a sexual assault, regardless of their level of intoxication. However, we educate people about the dangers of drinking and driving, warn them about getting in the car with people who have been drinking, and tell them to be safe when driving when there’s a greater likelihood of drunk drivers being on the road.
 
 If you’re an [American who goes to North Korea](https://www.gq.com/story/otto-warmbier-north-korea-american-hostage-true-story), gets captured, beat into a coma and dies, it’s a tragedy. No one in their right mind will say that you deserved for this to happen. Your life is gone, and a void has been left in the lives of all those you care about.
 
@@ -100,7 +100,7 @@ First, as we’ve discussed, there is modern culture. When you mention the cause
 
 I am only pointing out the state of mind that alcohol produces in both men and women and how that state of mind makes heinous things more likely to happen. It’s not referred to as “being under the influence” because it’s a catchy phrase. That is what is taking place when you ingest a substance designed to impair your judgment and remove behavior restraints.
 
-Stanford University, where the [infamous sexual assault case involving swimmer Brock Turner](https://en.wikipedia.org/wiki/People_v._Turner) took place, [enacted a rule](https://www.businessinsider.com/stanford-has-banned-hard-alcohol-from-all-on-campus-parties-2016-8) that limits possession of hard alcohol to bottles smaller than 750 milliliters and bans liquor from undergraduate parties. The rule change brought attention to an informative page on the school’s website called “Female Bodies and Alcohol”. The page explained something that everyone learns the hard way if common sense didn’t teach them the easy way—women get drunk faster than men because they’re smaller.&nbsp;
+Stanford University, where the [infamous sexual assault case involving swimmer Brock Turner](https://en.wikipedia.org/wiki/People_v._Turner) took place, [enacted a rule](https://www.businessinsider.com/stanford-has-banned-hard-alcohol-from-all-on-campus-parties-2016-8) that limits possession of hard alcohol to bottles smaller than 750 milliliters and bans liquor from undergraduate parties. The rule change brought attention to an informative page on the school’s website called “Female Bodies and Alcohol”. The page explained something that everyone learns the hard way if common sense didn’t teach them the easy way—women get drunk faster than men because they’re smaller.
 
 The page quickly came under fire because [it was seen as blaming women’s bodies rather than the actions of men for sexual assault](https://www.usatoday.com/story/news/nation-now/2016/08/25/stanford-takes-sexist-female-bodies-and-alcohol-webpage-down/89331436/). We look at the numbers and see the relationship between alcohol consumption and sexual assault. Still, in a society that refuses to accept responsibility, the reaction to information like this is as follows: *“The website focused on stopping women from drinking hard alcohol. Why doesn’t Stanford focus on discouraging rapists from raping?”*
 
@@ -110,7 +110,7 @@ We understand that people who commit vehicular homicide under the influence don�
 
 We know that alcohol makes men more aggressive, less empathetic, and less considerate of the future consequences of their actions. Additionally, we know that it incapacitates women more quickly than men. Unfortunately, sometimes the result of these two things together is sexual assault.
 
-The second problem is the elephant in the room; everyone paid to be there: the campus infrastructure depends on alcohol for revenue, directly and indirectly.&nbsp;
+The second problem is the elephant in the room; everyone paid to be there: the campus infrastructure depends on alcohol for revenue, directly and indirectly.
 
 ## **College and alcohol**
 
@@ -128,12 +128,12 @@ A particularly frightening stat in this essay relates to the machine that is col
 
 We see a tremendously negative effect of alcohol on campus, but any attempts to discuss it would have to encounter a barrier on two fronts.
 
-First the cultural resistance to accepting the idea that alcohol is a significant factor in sexual assaults. Secondly, the culture of collegiate drinking is such that more than a third of students have binge drank in the past 30 days. Lastly, there are parts of the university system has a vested financial interest not taking drinking culture seriously enough to enact real changes. And even if they do, as we saw in the case of Stanford University, the forces of culture override what can now, after reading this essay, only be considered common sense.&nbsp;
+First the cultural resistance to accepting the idea that alcohol is a significant factor in sexual assaults. Secondly, the culture of collegiate drinking is such that more than a third of students have binge drank in the past 30 days. Lastly, there are parts of the university system has a vested financial interest not taking drinking culture seriously enough to enact real changes. And even if they do, as we saw in the case of Stanford University, the forces of culture override what can now, after reading this essay, only be considered common sense.
 
 The bottom line to remember is that nothing good comes from heavy drinking.
 
 Every time you binge drink, there's a chance of permanently changing your life for the worse. This is one of the most serious risks that you can take. If you’re a woman, you risk the physical and emotional pain of being assaulted. If you’re a man, you risk arrest, loss of freedom, and a lifetime of guilt and shame.
 
-&nbsp;It’s clear that society is not interested in dealing with the problem so you’ll have to deal with it yourself.
+It’s clear that society is not interested in dealing with the problem so you’ll have to deal with it yourself.
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
