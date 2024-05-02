@@ -6,7 +6,7 @@ permalink: /how-to-be-likeable/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Being a likable person is the ultimate form of social currency in personal,
   romantic, and business relationships. Here's how to do it.
