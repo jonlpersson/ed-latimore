@@ -6,7 +6,7 @@ permalink: /how-to-tell-a-girl-you-like-her/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Feeling butterflies in your belly for a special girl? Here’s what to do before
   pouring out your heart
@@ -79,7 +79,7 @@ Obsessing over one girl is affectionately called ‘one-itis’ in the dating co
 
 You might fall under the mistaken thinking that you’re one perfect scenario away from making her fall in love with you.
 
-Obsessing is a manifestation of your fear. Whether it's due to loneliness or rejection, it keeps you from seeing your value and often has you idealizing the girl. Fear of rejection is one of five types of fear.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> A fear of the unknown. And putting yourself out there puts you in a vulnerable situation.
+Obsessing is a manifestation of your fear. Whether it's due to loneliness or rejection, it keeps you from seeing your value and often has you idealizing the girl. Fear of rejection is one of five types of fear.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> A fear of the unknown. And putting yourself out there puts you in a vulnerable situation.
 
 Once you’re actively avoiding rejection, you aren’t allowing the situation to play out naturally. And it’s not likely to give you the result you’re hoping for.
 
@@ -109,7 +109,7 @@ Do this by developing hobbies and activities that grow you in interesting ways. 
 
 These hobbies specifically force you to develop your conversation skills, sense of humor, mind, and physicality. I developed a framework for finding hobbies that help you meet women. You can read that in my post [7 hobbies to meet women](https://edlatimore.com/hobbies-to-meet-women/#what-are-the-best-hobbies-to-meet-women).
 
-An additional benefit of working on yourself is women will naturally want to be around you. Women are more attracted to men that are taken.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> So having women clearly flirting with you, makes you more attractive to other women.
+An additional benefit of working on yourself is women will naturally want to be around you. Women are more attracted to men that are taken.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> So having women clearly flirting with you, makes you more attractive to other women.
 
 ## Read the room
 
@@ -128,7 +128,7 @@ Embrace any awkwardness before or after you tell her. The fear is always worse i
 
 Popular advice says to compliment a girl if you like her to let her know. While I’m all for flirting, complimenting women can backfire, especially if she’s not into you. It could be like buying her a drink, now she has a free drink and you don't have the girl.
 
-Studies show women are better at sending body language cues than men.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> So if you’re looking for easier ways to tell if she’s attracted to you without laying out insincere compliments, look for these signs:
+Studies show women are better at sending body language cues than men.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> So if you’re looking for easier ways to tell if she’s attracted to you without laying out insincere compliments, look for these signs:
 
 * She makes eye contact
 * Her knees are pointed in your direction
