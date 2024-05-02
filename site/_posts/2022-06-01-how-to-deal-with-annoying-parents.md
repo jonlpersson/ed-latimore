@@ -6,7 +6,7 @@ permalink: /how-to-deal-with-annoying-parents/
 tags:
   - building-family-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   There’s no need to argue, parents just don’t understand. Discover how to cope
   with annoying parents with compassion and maintain your sanity.
@@ -81,7 +81,7 @@ You become an adult when you:
 
 ## Create some separation
 
-Parents are more involved in their children’s lives than they were 20 years ago. Studies show that over-involved parents, even when well-meaning, harm children’s ability to self-regulate emotions and function independently.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> That being said, even when your parents are loving and well-meaning, they can still be causing harm in your life. During these times setting boundaries is necessary for your mental health and overall well-being. However, cutting off your parents is easier said than done. The emotional toll of not speaking to them may be a lot harder than simply enduring a few short conversations.
+Parents are more involved in their children’s lives than they were 20 years ago. Studies show that over-involved parents, even when well-meaning, harm children’s ability to self-regulate emotions and function independently.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> That being said, even when your parents are loving and well-meaning, they can still be causing harm in your life. During these times setting boundaries is necessary for your mental health and overall well-being. However, cutting off your parents is easier said than done. The emotional toll of not speaking to them may be a lot harder than simply enduring a few short conversations.
 
 So if you live with your parents and you’re an adult, move out. If you’re still in high school, add on a few after-school activities or get a job. These will help build character and confidence but give you a break from your parents’ annoying behaviors.
 
@@ -99,7 +99,7 @@ Something invaluable I learned about my mother is that she meant a lot to the pe
 
 My sister and I were in constant danger in the neighborhood we grew up in. And I blamed my mother for our situation. The stories other people shared with me about her helped me see her as a more rounded individual and not just my mother.
 
-Eventually, I learned to accept that my mother was doing the best she could. Read how I learned to forgive my mother in my post, [How to forgive your parents](https://edlatimore.com/how-to-understand-and-forgive-your-parents/). Forgiveness is the type of drug that’s hard to access but can miraculously improve mental and physical well-being.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Eventually, I learned to accept that my mother was doing the best she could. Read how I learned to forgive my mother in my post, [How to forgive your parents](https://edlatimore.com/how-to-understand-and-forgive-your-parents/). Forgiveness is the type of drug that’s hard to access but can miraculously improve mental and physical well-being.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 In the end, I much rather remember my mother for the stories people shared over the petty arguments we had.
 
