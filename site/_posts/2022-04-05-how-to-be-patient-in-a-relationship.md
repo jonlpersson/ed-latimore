@@ -6,13 +6,13 @@ permalink: /how-to-be-patient-in-a-relationship/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   If you lose your cool, you can ruin your relationship. Win in love, overcome
   differences, and master life by learning how to be patient in a relationship.
 image: /assets/images/thumbnails/ed-and-anna-in-budapest.jpeg
 ---
-A good relationship can actually help you live longer.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+A good relationship can actually help you live longer.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 But if you have a lack of patience, you’re almost always the one who loses.
 
@@ -98,14 +98,14 @@ Here are some practices that can help you become a more patient person:
 * Journal your thoughts to work through past traumas and hangups
 * Practice yoga so you can recognize when emotions arise in your body and learn to let go
 * Take time out to celebrate and appreciate yourself
-* Practice meditation to help with calmness, stress relief, and decision making<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+* Practice meditation to help with calmness, stress relief, and decision making<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 * Use prayer and affirmations to train faith and belief in a purpose larger than yourself.
 
 ## Work your body to work your mind
 
 Every grown man should be in a sport or activity that trains the body.
 
-In fact, men that train experience lower stress hormones like adrenaline and cortisol.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> A reduction of these hormones can make you more patient, less fearful, and less reactive. Working out also produces neurochemicals that help you think your way through problems:
+In fact, men that train experience lower stress hormones like adrenaline and cortisol.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> A reduction of these hormones can make you more patient, less fearful, and less reactive. Working out also produces neurochemicals that help you think your way through problems:
 
 * Neurotransmitters that help your thinking
 * Endorphins that improve your mood
@@ -115,7 +115,7 @@ Exercise trains deep breathing, which is essential for patience and calmness. Th
 
 These vital seconds of clarity teach you to notice your emotions before you react to them. You will create immeasurable patience and discipline that you can carry into every other area of life.
 
-A sedentary lifestyle makes for a lazy body and mind that don’t work optimally. Men who sit down too much and aren’t active also lose testosterone.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> You don’t have to become a bodybuilder overnight, and a little bit of consistency with your health care goes a long way.
+A sedentary lifestyle makes for a lazy body and mind that don’t work optimally. Men who sit down too much and aren’t active also lose testosterone.<sup>[4](#fn:4){: .footnote rel="footnote"}</sup> You don’t have to become a bodybuilder overnight, and a little bit of consistency with your health care goes a long way.
 
 The key is finding a physical activity that makes you better and that you’ll actually stick with. Weight training, martial arts, and high-intensity interval training (HIIT) are great choices for any man wanting a strong body and a peaceful mind because they require you to work through stress and adversity.
 
