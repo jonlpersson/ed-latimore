@@ -6,7 +6,7 @@ permalink: /going-back-to-school-at-30/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Risk
 image: /assets/images/posts/ed-chemistry.png
 description: >-
   If you're thinking about going back to school, read this first. I detail my
@@ -42,7 +42,7 @@ If you're on the fence about going back to school later in life and being an old
 
 ![Graduating From Duquesne University](/assets/images/posts/ed-graduation-day.png "The day I graduated from Duquesne University in May 2018")
 
-## 1\. Make sure you get into a decent degree program&nbsp;
+## 1\. Make sure you get into a decent degree program 
 
 Enrolling in a college program as an adult is a serious decision.
 
@@ -100,7 +100,7 @@ Even in the best-case scenario, you're still going to borrow money. The only dif
 
 I worked at a bank during the first two semesters of community college. Then I had to stop working and rely on boxing earnings to cover my cost of living. When I stopped boxing, [I started tutoring high school math and physics](/how-to-get-better-at-math/). During all of this, I was still doing National Guard drills on the weekends and collecting that pay.
 
-Even with all of this, there was still a point where I had to pay about $1000 out of pocket. American education is not cheap, so it's important that you go[&nbsp;back to school for something that will make you employable.](https://www.bachelorsdegreecenter.org/highest-paying-bachelors-degrees-future/){: target="_blank" rel="noopener noreferrer"}
+Even with all of this, there was still a point where I had to pay about $1000 out of pocket. American education is not cheap, so it's important that you go[back to school for something that will make you employable.](https://www.bachelorsdegreecenter.org/highest-paying-bachelors-degrees-future/){: target="_blank" rel="noopener noreferrer"}
 
 You need to be reasonably sure that your degree program will lead down a career path where you're going to make enough money to at least cover the monthly repayment cost for any financial aid you get.
 
