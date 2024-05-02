@@ -7,7 +7,7 @@ tags:
   - change-your-perspective
   - mental-toughness
 categories:
-  - life-lessons
+  - Reality
 description: >-
   If you stop doing just these 6 things, you'll be an adult by default. Learn
   which things to not do if you want to be taken seriously as a grown-up. 
@@ -39,7 +39,7 @@ Even cultures that have many generations stay at home have a clear point where t
 
 [The money in your bank account is your livelihood.](/stop-being-poor/)
 
-If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that, like a child, your livelihood is their burden to bear until you grow up.&nbsp;
+If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that, like a child, your livelihood is their burden to bear until you grow up.
 
 ## 2\. You don't blame your childhood for your adulthood
 
@@ -70,11 +70,11 @@ I think about all of the bad habits I entered adulthood with. I had
 * I had serious attachment/abandonment issues
 * [No model for a successful romantic relationship](/how-to-be-patient-in-a-relationship/)
 
-All of these were the result of experiences (or lack thereof)&nbsp; in my childhood.
+All of these were the result of experiences (or lack thereof)  in my childhood.
 
 Instead of using these issues as an excuse for how my life was going (and it wasn’t going great), I took control and began to work on them so I could relieve the pain they caused in my life and in the lives of those who crossed my path.
 
-Everyone goes through shit as a child that sets them back. The difference is that responsible adults deal with their childhood trauma so that it doesn’t deal with them.&nbsp;
+Everyone goes through shit as a child that sets them back. The difference is that responsible adults deal with their childhood trauma so that it doesn’t deal with them.
 
 ## 3\. You take responsibility for everything in your life
 
@@ -88,7 +88,7 @@ Yes, shit happens.
 
 Yes, some of it’s not going to be in your favor.
 
-Your job is to look at all the ways you could have prevented the tragic outcome, learn from it, and don’t let it happen again.&nbsp;
+Your job is to look at all the ways you could have prevented the tragic outcome, learn from it, and don’t let it happen again.
 
 A while back, I wrote that three traits keep a person from ever making progress in their life:
 
@@ -102,7 +102,7 @@ The other two traits prevent you from listening to people’s advice and warning
 
 The difference is that the child is young and still has time to learn. In fact, it is expected that they don’t know and you have to teach them. An adult in this same situation not only doesn’t have time on their side, but they’re dealing with the compound effects of all their bad decisions.
 
-Decisions that were almost certainly made because they would not (or could not) realize that they’re responsible for how their lives turn out.&nbsp;
+Decisions that were almost certainly made because they would not (or could not) realize that they’re responsible for how their lives turn out.
 
 ## 4\. You know how to delay gratification
 
@@ -110,7 +110,7 @@ You're not an adult if you can't delay gratification in the pursuit of something
 
 Kids throw tantrums when they don't immediately get what they want. Furthermore, children can quit and rely on their parents when life is hard.
 
-While this is not a good habit for children to develop, they still have the option because part of being a child is learning what behaviors to develop and what behaviors to avoid.&nbsp;
+While this is not a good habit for children to develop, they still have the option because part of being a child is learning what behaviors to develop and what behaviors to avoid.
 
 As an adult, you don’t get the luxury of being able to quit whenever you want to. You don’t get to avoid challenges because they’re uncomfortable. A big part of adulthood is sticking with something that hurts now so you can benefit in the long run.
 
