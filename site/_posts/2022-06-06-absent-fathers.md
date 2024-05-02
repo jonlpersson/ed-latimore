@@ -6,17 +6,17 @@ permalink: /absent-fathers/
 tags:
   - living-in-the-hood
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Fatherless homes lack examples for boys to follow into becoming men. This
   article provides solutions for the children of absent fathers.
 image: /assets/images/drafts/fatherson.jpg
 ---
-Whether you call it a "single-mother household" or a "fatherless home" doesn't change the fact that it's common and sets the kid up for failure. The stats are clear: boys need their fathers, ideally in a loving relationship with their mother.&nbsp;
+Whether you call it a "single-mother household" or a "fatherless home" doesn't change the fact that it's common and sets the kid up for failure. The stats are clear: boys need their fathers, ideally in a loving relationship with their mother.
 
 While both boys and girls suffer from a father’s absence, the lack of a father figure results in many legal, intellectual, emotional, and behavioral problems.
 
-Being raised in a broken home by a single mother/absent father is the perfect recipe for becoming a weak and ineffective man. I know this because I was raised in this setting, and I had to overcome many problems before becoming the person I am today.&nbsp;
+Being raised in a broken home by a single mother/absent father is the perfect recipe for becoming a weak and ineffective man. I know this because I was raised in this setting, and I had to overcome many problems before becoming the person I am today.
 
 The environment breeds single mothers and produces fatherless homes tend to lack examples for boys to follow into becoming men. There are rarely any examples of productive citizens in these places to emulate.
 
@@ -71,7 +71,7 @@ If you’re out with your girlfriend and she decides to confront some random man
 
 The problem boys face when raised by single mothers is that their examples of behavior come from someone who will not receive the same level of punishment for indiscretions.
 
-A man can’t afford to act the same way as a woman because he will not be judged like a woman. I don’t mean to say that women aren’t capable of being responsible. Only that there is a much greater margin for error being a woman than a man.&nbsp;
+A man can’t afford to act the same way as a woman because he will not be judged like a woman. I don’t mean to say that women aren’t capable of being responsible. Only that there is a much greater margin for error being a woman than a man.
 
 So much so that in most cases, [she doesn’t realize that she’s receiving better treatment.](https://www.cnbc.com/2019/03/04/google-found-its-underpaying-some-men-as-it-studies-wage-equity.html){: target="_blank"}
 
@@ -79,8 +79,8 @@ So much so that in most cases, [she doesn’t realize that she’s receiving bet
 
 Boys from single-parent households in poor neighborhoods lack strong role models for masculinity. [Without fathers in the home](https://www.npr.org/sections/ed/2017/06/18/533062607/poverty-dropouts-pregnancy-suicide-what-the-numbers-say-about-fatherless-kids){: target="_blank"}, they suffer from the following issues:
 
-1. They’re more likely to behave in a way that either maximizes survival (they become meek and submissive) or maximizes emotional expression (giving their emotions too much weight).&nbsp;
-2. They’re more likely to resist masculine authority and the burden of masculinity because they grew up in an environment where masculinity was either actively resisted or the masculinity they knew neglected or abused them.&nbsp;
+1. They’re more likely to behave in a way that either maximizes survival (they become meek and submissive) or maximizes emotional expression (giving their emotions too much weight).
+2. They’re more likely to resist masculine authority and the burden of masculinity because they grew up in an environment where masculinity was either actively resisted or the masculinity they knew neglected or abused them.
 
 This is the recipe for building misguided boys who will grow into broken men. These broken men often end up doing something that lands them in serious trouble with the law.
 
@@ -92,7 +92,7 @@ Consider these stats about the children from fatherless homes, collected by [Pat
 * 72% percent of adolescents serving sentences for murder are from fatherless households
 * 71% of high-school dropouts
 * 75% of kids in drug rehab
-* 75% of the long-term correctional facility inmates&nbsp;
+* 75% of the long-term correctional facility inmates
 * 85% of rapist that were motivated by “displaced anger”
 * 85% of kids who exhibit behavioral disorders
 * 85% of kids in State Institutions
@@ -122,7 +122,7 @@ Even now, I still don’t quite respect the ideas of saving and investing, but I
 
 I once dated a girl and she made an interesting observation.
 
-She remarked that I had no idea what a good relationship looks like because I grew up with a single mother. At the time, the comment annoyed me, but as I got older I realized that there was a lot of truth in what she said.&nbsp;
+She remarked that I had no idea what a good relationship looks like because I grew up with a single mother. At the time, the comment annoyed me, but as I got older I realized that there was a lot of truth in what she said.
 
 Not only was there a lot of truth, but it also affected how I conducted myself [in every relationship that I had](https://edlatimore.com/relationship-advice/){: target="_blank"}, and that effect was never positive.
 
@@ -137,11 +137,11 @@ Having a father around seems to provide a protective effect for children against
 
 ## No confidence
 
-It’s easy for kids from broken, fatherless homes to make themselves the center of attention. It’s a lot harder for them to behave in a manner that makes them respectable.&nbsp;
+It’s easy for kids from broken, fatherless homes to make themselves the center of attention. It’s a lot harder for them to behave in a manner that makes them respectable.
 
-For most of my life, I confused being liked with being respected. The problem with this confusion is that when you’re a child, the distinction isn’t particularly important or even noticeable. However, as you become a young adult and grow into maturity, being respected is far more important.&nbsp;
+For most of my life, I confused being liked with being respected. The problem with this confusion is that when you’re a child, the distinction isn’t particularly important or even noticeable. However, as you become a young adult and grow into maturity, being respected is far more important.
 
-The problem is that when you come from a broken home and the environment that tends to accompany it, you rarely see examples of respectable behavior. Instead, what you see are examples of behaviors to become popular.&nbsp;
+The problem is that when you come from a broken home and the environment that tends to accompany it, you rarely see examples of respectable behavior. Instead, what you see are examples of behaviors to become popular.
 
 This is why children from homes without fathers are likelier to break the law, use drugs, and abuse alcohol. These often provide a coping mechanism for low confidence by either distracting them from it or giving them a way to fit in.
 
@@ -183,7 +183,7 @@ In chess, we learn how to think and deliberate over an action. There is no luck 
 
 Even a sport like boxing–where one could argue that has the greatest burden of responsibility and least interference of luck–doesn’t have the feature where both participants completely control all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn't happen the next time.
 
-We learn poker for almost the exact opposite reason.&nbsp;
+We learn poker for almost the exact opposite reason.
 
 A man has to learn how to deal with the weight of frustration and disappointment of things turning out badly even when he does his best.
 
@@ -199,11 +199,11 @@ This is an important step. No matter what you end up doing in life, holding thes
 
 ### Customer service
 
-First, in customer service, you learn to be humble and diligent in the face of degenerate treatment. While every customer service job doesn’t necessarily guarantee that you’ll be treated like trash by the customers and employees, it is a guarantee that you’ll be paid a low wage, have no control over the people you have to interact with, and—if you want to keep your job—do it with a smile.&nbsp;
+First, in customer service, you learn to be humble and diligent in the face of degenerate treatment. While every customer service job doesn’t necessarily guarantee that you’ll be treated like trash by the customers and employees, it is a guarantee that you’ll be paid a low wage, have no control over the people you have to interact with, and—if you want to keep your job—do it with a smile.
 
-Working in customer service is a paid internship in emotional discipline. This should make you ambitious in a way that simply being impoverished simply can’t.&nbsp;
+Working in customer service is a paid internship in emotional discipline. This should make you ambitious in a way that simply being impoverished simply can’t.
 
-We’ve already established that coming from a fatherless home leaves you without financial and emotional role models. However, it also does nothing to make you ambitious enough to escape that world.&nbsp;
+We’ve already established that coming from a fatherless home leaves you without financial and emotional role models. However, it also does nothing to make you ambitious enough to escape that world.
 
 ### Sales
 
@@ -271,12 +271,12 @@ The best way to do this is to focus on building solid friendships with women who
 
 ## In closing
 
-The hardest part about being raised in a fatherless home is that you only get one gender’s perspective of the world.&nbsp;
+The hardest part about being raised in a fatherless home is that you only get one gender’s perspective of the world.
 
 You’ll have to seek guidance, responsibility, and your personal rites of passage. You’ll have to learn emotional discipline and control because the world will punish you for lacking it way harder than a woman.
 
 The deck is stacked against you, but if you follow these suggestions, you’ve got a decent chance of making it through all of this.
 
-The rest is up to you.&nbsp;
+The rest is up to you.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
