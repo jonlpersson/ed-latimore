@@ -7,7 +7,7 @@ tags:
   - the-power-of-forgiveness
   - ed-latimore-original-quotes
 categories:
-  - chess-math-and-language
+  - Relationships
 description: >-
   It’s not therapy, but these quotes to help deal with trauma are collected from
   my writings, Twitter, and other social media accounts.
