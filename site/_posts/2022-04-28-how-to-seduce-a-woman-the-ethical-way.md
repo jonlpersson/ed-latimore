@@ -6,7 +6,7 @@ permalink: /how-to-seduce-a-woman/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   If you're tired of reading stuff written by sleazy pick-up artists, this is an
   ethical guide with no tricks or manipulation.
@@ -46,7 +46,7 @@ From that, we can posit 10 principles of seduction. Master all 10 of these basic
 
 Confidence signals to women that you are intrinsically desirable and valuable.
 
-Society often talks about ‘overconfidence’ as if it’s a bad thing, but that’s not true when it comes to seducing women. On the contrary, it’s quite the opposite. Overconfident guys - even when that confidence is misplaced - are more seductive, according to&nbsp;[psychological research](https://www.forbes.com/sites/daviddisalvo/2014/09/07/understanding-the-seductive-power-of-overconfidence/#2e242ac473d2){: target="_blank"}. That’s just the way it is.
+Society often talks about ‘overconfidence’ as if it’s a bad thing, but that’s not true when it comes to seducing women. On the contrary, it’s quite the opposite. Overconfident guys - even when that confidence is misplaced - are more seductive, according to [psychological research](https://www.forbes.com/sites/daviddisalvo/2014/09/07/understanding-the-seductive-power-of-overconfidence/#2e242ac473d2){: target="_blank"}. That’s just the way it is.
 
 Why? Because belief sells.
 
@@ -114,19 +114,19 @@ Obviously, touch is also something you’ve got to be careful not to initiate un
 
 Aside from the tactile sense, her other senses are important too. A woman’s senses play a pivotal role in her sexual response.
 
-Take the olfactory sense, smell, for example. Did you know that the&nbsp;[pheromones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987372/){: target="_blank"} in your sweat act as sexual chemosignals and can have profound effects on a woman’s mood and sexuality? Now I’m not suggesting you go out to the club after a workout, pouring in sweat - that’s not going to work. A nice aftershave, on the other hand, might work wonders.
+Take the olfactory sense, smell, for example. Did you know that the [pheromones](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987372/){: target="_blank"} in your sweat act as sexual chemosignals and can have profound effects on a woman’s mood and sexuality? Now I’m not suggesting you go out to the club after a workout, pouring in sweat - that’s not going to work. A nice aftershave, on the other hand, might work wonders.
 
 Another example of this is finding an excellent cologne. I’ve only recently started wearing cologne in the past few years, but once you know where and how to look, then it’s a powerful tool in your arsenal.
 
 A more practical example of how you can stimulate her senses might be playing some sexy music to get her in the mood (hearing), or taking her out to dine on aphrodisiacs like oysters and champagne (taste).
 
-## 8\. Eye contact&nbsp;
+## 8\. Eye contact 
 
 Imagine the sexiest scene in a movie you can think of. I’m willing to bet that whatever scene you’re imagining, there’s some intense eye contact going on between the two characters, am I right?
 
 I can’t overstate how important eye contact is. When you meet someone’s gaze, you convey a whole bunch of biological signals. Not only does meeting her gaze let you know you’re interested in her, it suggests power and confidence.
 
-It’s also been proven in several studies that sending and receiving&nbsp;[eye contact](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558178/){: target="_blank"} enhances arousal.
+It’s also been proven in several studies that sending and receiving [eye contact](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558178/){: target="_blank"} enhances arousal.
 
 Of course, I’m not talking about a creepy, wide-eyed, desperate stare here, but a subtle, lingering glance in her direction followed by some intense, suggestive eye contact later on in the night is a proven recipe for success.
 
@@ -176,9 +176,9 @@ Dress sharp when you’re going on a night out. When in doubt, make sure your cl
 
 Speaking of which, If you’re not in good shape already, start hitting the gym.
 
-You don’t necessarily want to get ‘swoll’, but you should definitely try and tone up.&nbsp;[Research from UCLA](https://journals.sagepub.com/doi/abs/10.1177/0146167207303022){: target="_blank"} shows that women find ripped, built men sexier than both beefy, bulked-up guys and skinny dudes.
+You don’t necessarily want to get ‘swoll’, but you should definitely try and tone up. [Research from UCLA](https://journals.sagepub.com/doi/abs/10.1177/0146167207303022){: target="_blank"} shows that women find ripped, built men sexier than both beefy, bulked-up guys and skinny dudes.
 
-If you can, grow a beard. In&nbsp;[one recent study](https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226){: target="_blank"}, researchers found that women find men with heavy stubble and full beards more attractive than clean-shaven men and those with light stubble.
+If you can, grow a beard. In [one recent study](https://www.sciencedirect.com/science/article/abs/pii/S1090513813000226){: target="_blank"}, researchers found that women find men with heavy stubble and full beards more attractive than clean-shaven men and those with light stubble.
 
 This is because facial hair is suggestive of masculinity, maturity, dominance, and aggression. It’s a secondary sex characteristic that signals you’re a strong healthy man. Since women want a strong healthy mating partner, let that 5-o’clock shadow grow out for a week or two.
 
@@ -262,7 +262,7 @@ If she starts doing the same or looks down at your lips, it’s a good sign that
 
 ### Facial Expression
 
-&nbsp;A&nbsp;[psychological study](https://www.reuters.com/article/us-smiles-sex/brooding-men-smiling-women-seen-as-sexy-study-idUSTRE74N7CJ20110525){: target="_blank"} into how facial expressions were perceived as attractive by the opposite sex found that a brooding facial expression is the most attractive to women.
+A [psychological study](https://www.reuters.com/article/us-smiles-sex/brooding-men-smiling-women-seen-as-sexy-study-idUSTRE74N7CJ20110525){: target="_blank"} into how facial expressions were perceived as attractive by the opposite sex found that a brooding facial expression is the most attractive to women.
 
 You might have thought that smiling is a good idea, but actually, it’s not. Smiling was perceived as the most attractive trait in women to male participants but it didn’t have quite the same effect the other way around. Sexual attraction is not symmetrical.
 
