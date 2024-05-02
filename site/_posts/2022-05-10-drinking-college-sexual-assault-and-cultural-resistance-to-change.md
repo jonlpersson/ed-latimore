@@ -7,6 +7,7 @@ tags:
   - longevity-health-and-performance
 categories:
   - Reality
+  - Risk
 description: >-
   Drinking culture is especially dangerous for young women. However, efforts to
   change it are often resisted by the very people it’s meant to help.
