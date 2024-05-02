@@ -6,7 +6,7 @@ permalink: /why-its-hard-to-make-friends/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Discover why it’s so hard to make friends and practical ways to expand your
   social circle. A must-read for people having trouble connecting with others.
@@ -56,7 +56,7 @@ The remedy to this is to:
 
 Play is defined as an activity you engage in for enjoyment rather than any practical purpose.
 
-Play for young children helps with cognitive brain function, boosting creativity, and building social skills. Not surprisingly, these are the same benefits of play for adults.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Play for young children helps with cognitive brain function, boosting creativity, and building social skills. Not surprisingly, these are the same benefits of play for adults.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Children have this playtime built-in because it’s necessary for their development. When we become adults, however, doing activities that don’t contribute any external or quantifiable value can be seen as time-wasting or useless.
 
@@ -84,7 +84,7 @@ Here’s how to make friends even if you’re jaded:
 
 ## 5\. Higher education
 
-Educating yourself creates social mobility. However, being highly educated is more correlated with the individualism that makes it hard to make friends.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> This is largely because working-class people, who haven’t attended college, teach their children the value of “we over me.”
+Educating yourself creates social mobility. However, being highly educated is more correlated with the individualism that makes it hard to make friends.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> This is largely because working-class people, who haven’t attended college, teach their children the value of “we over me.”
 
 Common sayings like, “you can’t always get what you want” teach that there are factors and a community outside of your control.
 
