@@ -6,7 +6,7 @@ permalink: /how-to-become-more-physically-attractive-to-women/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Relationships
 image: /assets/images/thumbnails/ed-hands-together-posing-outside.jpg
 description: >-
   Physical attractiveness is cultivated one step at a time. Here are some tips
@@ -24,7 +24,7 @@ Women provide immediate feedback when you’re at your most attractive. They als
 
 But the results don’t stop with women.
 
-Physically attractive people even earn 15% more in the workforce (men included).<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Physically attractive people even earn 15% more in the workforce (men included).<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 The tips below will make you a physically attractive man who is committed to resisting mediocrity.
 
@@ -32,7 +32,7 @@ The tips below will make you a physically attractive man who is committed to res
 
 I had to add the qualifier “for real” because men are also good at lying to themselves about their physical condition. Ignore the idea of the “Dad Bod” being the most sought-after body type.
 
-Women in a study were shown photos of shirtless men with their faces obstructed. All 160 of these women ranked men that had muscle-toned bodies the highest.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Women in a study were shown photos of shirtless men with their faces obstructed. All 160 of these women ranked men that had muscle-toned bodies the highest.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 You probably didn’t need a double-blind study to know that.
 
@@ -62,7 +62,7 @@ Sharp, defined jawlines are masculine and inherently attractive to women.
 
 Consistency in the gym will help you accomplish this.
 
-A study found that a Body Mass Index (BMI) of 24 yielded the most attractive facial structure for a man.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+A study found that a Body Mass Index (BMI) of 24 yielded the most attractive facial structure for a man.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup>
 
 I’ve also gotten results from [chewing mastic gum to build my jaw muscles](/mastic-gum-review/). This gum is made of thick sap that comes from the mastic tree. This resin is sugar-free, and about ten times harder than any gum you’ve ever chewed.
 
@@ -98,7 +98,7 @@ Never hesitate to invest in something that can change so much about how you look
 
 Your fragrance communicates attractiveness to women on a carnal level. Find a daily-wear bottle of fragrance that blends with your natural body chemistry.
 
-It’s the kind of shopping you have to do in person because we all have an individual-specific scent profile.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> This means a cologne that works wonders for you might smell horrible on me, and vice versa.
+It’s the kind of shopping you have to do in person because we all have an individual-specific scent profile.<sup>[4](#fn:4){: .footnote rel="footnote"}</sup> This means a cologne that works wonders for you might smell horrible on me, and vice versa.
 
 Get to know the different categories of men’s fragrance:
 
@@ -144,9 +144,9 @@ When I handle my grooming, I feel in control of the details in my life. Caring f
 
 Wear your facial hair in a way that accentuates your facial features and brings the look to life.
 
-It doesn’t mean you have to grow a full beard. Women actually find heavy stubble the most attractive.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> Just make sure that it’s well-kept and doesn’t just look like you never shave.
+It doesn’t mean you have to grow a full beard. Women actually find heavy stubble the most attractive.<sup>[5](#fn:5){: .footnote rel="footnote"}</sup> Just make sure that it’s well-kept and doesn’t just look like you never shave.
 
-Women also find men with redder, more vibrant skin the most attractive.<sup><a class="footnote" rel="footnote" href="#fn:6">6</a></sup> This skin tone signifies healthy blood flow, vibrancy, and hormone health. Regularly washing and moisturizing your skin will give it that flush, reddish, natural tone and glow.
+Women also find men with redder, more vibrant skin the most attractive.<sup>[6](#fn:6){: .footnote rel="footnote"}</sup> This skin tone signifies healthy blood flow, vibrancy, and hormone health. Regularly washing and moisturizing your skin will give it that flush, reddish, natural tone and glow.
 
 Your skincare kit should include a good:
 
@@ -172,7 +172,7 @@ You’ll also improve your skin health and good looks by cleaning up your diet a
 
 ## Fix your body language and posture
 
-Body language is one of the most consistent ways to communicate attractiveness to women. Men who maintain an upright posture and open body language denote personality traits like dominance, strength, and confidence.<sup><a class="footnote" rel="footnote" href="#fn:7">7</a></sup>
+Body language is one of the most consistent ways to communicate attractiveness to women. Men who maintain an upright posture and open body language denote personality traits like dominance, strength, and confidence.<sup>[7](#fn:7){: .footnote rel="footnote"}</sup>
 
 Sitting up straight and standing with your shoulders back and your chin raised can make you feel more outgoing and charismatic. Your ability to maintain eye contact, a sense of humor, and a self-assured smile is an instant turn-on to women.
 
