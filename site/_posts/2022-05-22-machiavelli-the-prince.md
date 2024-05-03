@@ -6,13 +6,13 @@ permalink: /the-prince-machiavelli-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   I’ve collected the big ideas from Machiavelli’s classic treatise on political
   philosophy and political theory. These are pragmatic ideas to seize power.
 image: /assets/images/drafts/the-prince.jpg
 ---
-The Price was written by Niccol&ograve; Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to use it to aid his return to a position of power he once held. It was to be a gift to gain favor with Lorenzo de Medici after he fell out of favor with him because he was accused of conspiracy, tortured, and exiled.
+The Price was written by Niccolò Machiavelli in 1513 as a sort of instruction guide for new renaissance rulers. He wrote it in exile, hoping to use it to aid his return to a position of power he once held. It was to be a gift to gain favor with Lorenzo de Medici after he fell out of favor with him because he was accused of conspiracy, tortured, and exiled.
 
 Machiavelli states in the book's dedication that he would like to return to a position of authority and that he offers the advice contained in The Prince as the most precious gift he could offer.
 
@@ -28,7 +28,7 @@ Although it is relatively short, the book has made a great impression on popular
 
 I've collected the big ideas and major quotes from Machiavelli's classic treatise on political philosophy and political theory. I wouldn't exactly call these inspirational quotes, but you will find a wealth of practical knowledge that will enable you to navigate and anticipate human nature to use to your advantage.
 
-## Big ideas and quotes from Niccol&ograve; Machiavelli’s The Prince
+## Big ideas and quotes from Niccolò Machiavelli’s The Prince
 
 ![Niccolò Machiavelli's &quot;The Prince&quot;](/assets/images/drafts/the-prince.jpg "Niccolò Machiavelli's &quot;The Prince&quot;"){: width="334" height="499"}
 
