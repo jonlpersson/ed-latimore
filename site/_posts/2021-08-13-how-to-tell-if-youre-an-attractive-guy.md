@@ -6,7 +6,7 @@ permalink: /are-you-attractive/
 tags:
   - dating-and-relationships
 categories:
-  - longevity-health-and-performance
+  - Relationships
 description: >-
   Want to know if you've got more going for you than you think? Read this
   article on how to tell if you're an attractive guy.
