@@ -6,7 +6,7 @@ permalink: /how-to-be-an-attractive-man/
 tags:
   - dating-and-relationships
 categories:
-  - longevity-health-and-performance
+  - Relationships
 image: /assets/images/thumbnails/2020/ed-attractive.jpg
 description: >-
   What are the 20% of things responsible for 80% of your attractiveness and
