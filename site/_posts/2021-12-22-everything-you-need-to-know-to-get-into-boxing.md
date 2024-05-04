@@ -6,7 +6,7 @@ permalink: /how-to-get-into-boxing/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   From my 12-year boxing career (6 years an amateur boxer, 6 years a
   professional boxer) I break down everything you need to know to get into
@@ -114,7 +114,7 @@ Lastly, regardless of how comfortable you are with community gear, there are som
 
 **Groin protection**. More commonly known as a “cup” or “boxing cup.” You want to not only protect yourself from the (not always) accidental groin shot, but you also need to protect your hip bones.
 
-**Heavy bag gloves and sparring gloves.**&nbsp;Two types of boxing gloves are used in training (we don't need to worry about competition gloves). Bag gloves are smaller than sparring gloves and the padding is distributed differently. Sparring gloves will be no lighter than 16 oz., but I’ve seen them as big as 20 oz.
+**Heavy bag gloves and sparring gloves.** Two types of boxing gloves are used in training (we don't need to worry about competition gloves). Bag gloves are smaller than sparring gloves and the padding is distributed differently. Sparring gloves will be no lighter than 16 oz., but I’ve seen them as big as 20 oz.
 
 This is for protection, as that weight is composed of extra padding. Bag gloves shouldn’t be heavier than 14 oz., but when I turned pro, I started hitting the bag with 10 oz. gloves to mimic competition.
 
