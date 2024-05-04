@@ -6,7 +6,7 @@ permalink: /how-to-overcome-fear/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   A boxing match exposes you to the possibility of death, dismemberment, and
   embarrassment.  The same way I overcame those fears can work for anyone. Learn
@@ -51,7 +51,7 @@ It’s not the burning, the drowning, the spiders, the snakes or the heights tha
 
 You don't have a fear of public speaking or talking to strangers. You’re really afraid of being vulnerable.
 
-This is because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Talking to strangers can be a great way to get over fears.&nbsp;
+This is because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Talking to strangers can be a great way to get over fears.
 
 #### What is the difference between fear and anxiety?
 

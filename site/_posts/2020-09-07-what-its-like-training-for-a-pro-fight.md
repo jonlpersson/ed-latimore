@@ -6,7 +6,7 @@ permalink: /boxing-training/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Fighting is easy. Fighting is fun. What’s hard is training for the fight.
   What’s miserable is training for the fight.
