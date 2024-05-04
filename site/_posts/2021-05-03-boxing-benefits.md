@@ -6,7 +6,7 @@ permalink: /boxing-benefits/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/posts/webp-net-resizeimage-42.jpg
 description: >-
   I’ve been a boxer for over 10 years, and nothing has changed my life more than
@@ -46,7 +46,7 @@ This is because a person trained to hurt you is trying to do just that. It’s n
 
 The training in boxing is extremely grueling and rough. You will experience tremendous pain just getting in fighting shape.
 
-[ESPN ranked boxing the toughest sport](http://www.espn.com/espn/page2/sportSkills) to compete in, for a good reason. It’s painful to train and compete, but if you push through the pain, then the glory is all yours. If you're unsure how to push through the pain, don't worry I got you. Read&nbsp;[how to embrace pain](https://edlatimore.com/pushing-through-the-pain/).
+[ESPN ranked boxing the toughest sport](http://www.espn.com/espn/page2/sportSkills) to compete in, for a good reason. It’s painful to train and compete, but if you push through the pain, then the glory is all yours. If you're unsure how to push through the pain, don't worry I got you. Read [how to embrace pain](https://edlatimore.com/pushing-through-the-pain/).
 
 A glimpse at the ESPN rankings where boxing came out on top for toughness:
 
@@ -71,7 +71,7 @@ Most dudes don’t want to look like a roided-up freak show. Nor do they want to
 
 Boxing training is both anaerobic and aerobic.
 
-You can burn tremendous calories by hitting the heavy bag. And if you’re wondering if [boxing can build muscle](https://totalshape.com/fitness/does-boxing-build-muscle/){: target="_blank" rel="noopener noreferrer"}&nbsp;and burn calories, the answer is yes. It is an effective way to build up back, shoulder, and arm muscles.&nbsp;
+You can burn tremendous calories by hitting the heavy bag. And if you’re wondering if [boxing can build muscle](https://totalshape.com/fitness/does-boxing-build-muscle/){: target="_blank" rel="noopener noreferrer"} and burn calories, the answer is yes. It is an effective way to build up back, shoulder, and arm muscles.
 
 If you compete—and I recommend every man compete in a boxing match at least once—the training will turn you into a beast. To get prepared read up on [everything you need to train for a boxing match](/boxing-training/).
 
@@ -137,7 +137,7 @@ The two biggest fears people have—dying and public humiliation—are imminent.
 
 Learning to persevere through your fears and staying committed to your goals will completely change your life in ways you never imagined. It's a skill every man should know, and if you don't, you need to [read this now](https://edlatimore.com/how-to-overcome-fear/).
 
-Nothing has impacted my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.&nbsp;
+Nothing has impacted my life as boxing, and if you’re wondering whether you should start, my answer will always be yes. Start as soon as you can.
 
 Before you know it, you’ll be on your way to becoming a version of yourself you never thought was possible.
 
