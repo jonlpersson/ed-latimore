@@ -6,7 +6,7 @@ permalink: /when-someone-hates-you-for-no-reason/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Just because people don't like you, doesn't mean you have to dislike yourself.
   Here's what to if you have haters.
@@ -16,7 +16,7 @@ Haters gonna hate.
 
 Words so true they should be in the bible.
 
-Regardless of whether the hate is real or imagined, rejection hurts. In fact, your brain releases the same self-soothing hormones it does when you break a leg.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Regardless of whether the hate is real or imagined, rejection hurts. In fact, your brain releases the same self-soothing hormones it does when you break a leg.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 The truth is, humans have an innate need to feel admired, loved, and as though we belong.
 
@@ -111,7 +111,7 @@ Sometimes it’s worth it to confront the unsurfaced conflict. Especially among 
 
 Calling it out lets the air out of their balloon and forces them to own their own feelings. If you go this route, don’t accuse.
 
-The protective mechanism of human nature leads people to defend themselves to the death even if there is clear evidence they did something wrong. This is a self-serving bias we all carry.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+The protective mechanism of human nature leads people to defend themselves to the death even if there is clear evidence they did something wrong. This is a self-serving bias we all carry.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 It’s the habit of attributing good things to ourselves and failures to external forces.
 
@@ -139,11 +139,11 @@ Here’s what approval-seeking looks like:
 
 ## Go where you're celebrated
 
-Making friends as an adult is a mystery that eludes many far into adulthood.&nbsp;
+Making friends as an adult is a mystery that eludes many far into adulthood.
 
 So my last piece of advice is to limit your contact with people that dislike you. Not always possible I know, but your mental-health will thank you for it.
 
-Rejection is as natural as eating and sleeping. And from an evolutionary standpoint, it helps people learn to do things that promote interpersonal relationships.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> But constant rejection can wreak havoc on your confidence.
+Rejection is as natural as eating and sleeping. And from an evolutionary standpoint, it helps people learn to do things that promote interpersonal relationships.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> But constant rejection can wreak havoc on your confidence.
 
 Spend time with those that lift you up and make you feel appreciated. If you don’t have those people, go find them. Make new friends.
 
