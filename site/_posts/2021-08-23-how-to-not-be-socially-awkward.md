@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   If you spend too much time in your lead, you won't be able to live. Stop
   overthinking every conversation and learn how to not be socially awkward. 

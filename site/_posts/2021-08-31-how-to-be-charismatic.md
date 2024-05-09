@@ -7,7 +7,7 @@ tags:
   - how-to-make-friends
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Personal magnetism is a superpower. Discover how to be more charismatic,
   attract more people, and captivate no matter where you are.
@@ -27,7 +27,7 @@ What I’ve personally learned is that you can develop your own personal magneti
 
 Just keep reading to find out how.
 
-{% include widgets/toc.html heading="How to be more charismatic" list-items="Don&rsquo;t complain&mdash;it&rsquo;s not attractive, Develop your self-confidence, Learn to connect with others, Let people know you&rsquo;re listening, Face your dark side, Work on your non-verbal signals, Go out and get good at something" list-ids="1-quit-complaining, 2-develop-your-self-confidence, 3-learn-how-to-talk-to-people, 4-let-people-know-youre-listening, 5-face-your-demons-the-dark-side-of-charisma, 6-work-on-your-body-language, 7-get-good-at-something" %}
+{% include widgets/toc.html heading="How to be more charismatic" list-items="Don’t complain—it’s not attractive, Develop your self-confidence, Learn to connect with others, Let people know you’re listening, Face your dark side, Work on your non-verbal signals, Go out and get good at something" list-ids="1-quit-complaining, 2-develop-your-self-confidence, 3-learn-how-to-talk-to-people, 4-let-people-know-youre-listening, 5-face-your-demons-the-dark-side-of-charisma, 6-work-on-your-body-language, 7-get-good-at-something" %}
 
 ## What charisma isn’t
 
@@ -134,7 +134,7 @@ There is a dark side to charisma I’ve kind of been hinting at: having charisma
 
 We see this with people that take power through force and ruthless violence. We see it in athletes that have bravado but rely on their talent even when it's clear it's not enough. And we see it with men that try to pick up women by talking about how much money they have.
 
-The thing about this is, it works\! But it always leads to attracting others that don’t have your best interests at heart.
+The thing about this is, it works! But it always leads to attracting others that don’t have your best interests at heart.
 
 That which is easily gained is easily lost.
 

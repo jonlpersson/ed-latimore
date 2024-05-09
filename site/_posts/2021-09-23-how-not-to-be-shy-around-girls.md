@@ -6,7 +6,7 @@ permalink: /how-not-to-be-shy-around-girls/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Get nervous and twitchy around women? You're not alone. In this article, I'll
   show you how to stop being shy around girls and be an interesting guy.
@@ -79,7 +79,7 @@ Working on these things will help you build your courage to talk to girls you me
 
 ## 4\. Knock your comfort zone’s teeth out
 
-Your comfort zone is a bully. It’s your reticular activation system<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> creating habits and making it so you have to use your brain less. The result is, it’s painful to even \_think \_about doing new things let alone trying them.
+Your comfort zone is a bully. It’s your reticular activation system<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> creating habits and making it so you have to use your brain less. The result is, it’s painful to even \_think \_about doing new things let alone trying them.
 
 For brushing and showering, that’s awesome. For everything else, your comfort zone is where your dreams go to die. Put another way, your comfort zone is the fastest way to an unfulfilling life.
 
@@ -121,7 +121,7 @@ Practice these social skills to get the conversation going:
 * Ask a question that doesn’t have a yes or no answer
 * Listen to the answer and respond
 
-Studies show<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
+Studies show<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> most people are judgmental when they first meet someone. This is mostly due to hesitation in not knowing your intentions. With this in mind, use the tips above to make yourself more trustworthy. Also, avoid being judgemental yourself. It’ll pay dividends when making new friends and getting to know others.
 
 And that’s something even the least charismatic guy can do.
 
