@@ -6,7 +6,7 @@ permalink: /the-prince-machiavelli-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Reality
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   I’ve collected the big ideas from Machiavelli’s classic treatise on political
   philosophy and political theory. These are pragmatic ideas to seize power.

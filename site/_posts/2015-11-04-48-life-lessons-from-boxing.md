@@ -6,7 +6,7 @@ permalink: /boxing-quotes-from-ed-latimore/
 tags:
   - longevity-health-and-performance
 categories:
-  - Reality
+  - Book Summaries And Ed Latimore Quotes
 image: /assets/images/thumbnails/boxingrisk1.jpg
 description: >-
   Here are 48 life lessons I learned from being a boxer. You may never fight,

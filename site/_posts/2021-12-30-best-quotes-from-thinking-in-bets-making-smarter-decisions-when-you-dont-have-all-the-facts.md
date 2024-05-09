@@ -6,6 +6,7 @@ permalink: /annie-duke-thinking-in-bets-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
+  - Book Summaries And Ed Latimore Quotes
   - Risk
 description: >-
   Here are 12 great quotes from “Thinking in Bets: Making Smarter Decisions When

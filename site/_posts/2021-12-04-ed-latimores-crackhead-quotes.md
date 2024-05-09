@@ -7,7 +7,7 @@ tags:
   - living-in-the-hood
   - ed-latimore-original-quotes
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
@@ -127,7 +127,7 @@ Just because you can smoke it doesn't mean that you should smoke it. ([Tweet it]
 
 ---
 
-"That goddamn credit? Dead it\! You think a crackhead paying you back, shit forget it\!"—Notorious B.I.G.
+"That goddamn credit? Dead it! You think a crackhead paying you back, shit forget it!"—Notorious B.I.G.
 
 ---
 

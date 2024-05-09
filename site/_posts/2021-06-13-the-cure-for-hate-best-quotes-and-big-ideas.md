@@ -7,13 +7,13 @@ tags:
   - how-to-make-friends
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   The Cure For Hate tells the story of Tony McAleer as he goes from Neo-Nazi to
   becoming a voice for peace and unity, and everything he learns along the way.
 image: /assets/images/thumbnails/book-cover-the-cure-for-hate-by-tony-mcaleer.jpeg
 ---
-The Cure For Hate recounts the story of Tony McAleer as he goes from being fully stepped into Neo-Nazi ideology to becoming a voice for peace and unity, and everything he learns along the way.&nbsp;
+The Cure For Hate recounts the story of Tony McAleer as he goes from being fully stepped into Neo-Nazi ideology to becoming a voice for peace and unity, and everything he learns along the way.
 
 This memoir explored the life of Tony McAleer, tracing his journey from his initial introduction to the skinhead culture to becoming a full-on far-right white supremacist, to his eventual denouement of racist and hate-fueled ideology. The memoir then takes us on a journey of [retribution, compassion, and forgiveness](/Ed-latimore-forgiveness-quotes/), not just towards him, but to the people he harmed.
 

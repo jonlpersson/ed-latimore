@@ -6,7 +6,7 @@ permalink: /1984-quotes-and-ideas/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Reality
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   Some people say that 2022 is more like the world of George Orwell's "1984." I
   read the book and collected quotes so you can see for yourself. 
@@ -14,13 +14,13 @@ image: /assets/images/drafts/1984-book-cover.jpg
 ---
 George Orwell's novel 1984 was written as a warning about the dangers of an increasingly powerful government controlling people through propaganda and censorship. In particular, he feared that the new techniques being developed would allow governments to "turn off" individual minds and make them believe whatever they wanted.
 
-The book was written as a response not only to what he saw as an increase in authoritarian and totalitarian thinking in society but also to the increasing amount of control over information during the 20th century. Orwell foresaw how such control would lead to a surveillance state where people were constantly monitored and controlled by constantly editing documents and photographs. To show his fears about this, he wrote a book that has forever changed our discussion of freedom, giving us terms like "thought crime" and "big brother is watching you."&nbsp;
+The book was written as a response not only to what he saw as an increase in authoritarian and totalitarian thinking in society but also to the increasing amount of control over information during the 20th century. Orwell foresaw how such control would lead to a surveillance state where people were constantly monitored and controlled by constantly editing documents and photographs. To show his fears about this, he wrote a book that has forever changed our discussion of freedom, giving us terms like "thought crime" and "big brother is watching you."
 
 After seeing the book constantly mentioned on Twitter to describe how social media and big tech have gone out of their way to target and censor specific individuals and lines of thinking, I decided to give the book a read. to see how close things are in the year 2022 to the world the fictional world Orwell created in a book published in 1949.
 
-I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.&nbsp;
+I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.
 
-## 1984 quotes about control&nbsp;
+## 1984 quotes about control 
 
 ![1984 quote &quot;The party told you to reject the evidence of your eyes and ears. It was their final, most essential command.&quot; &quot;And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth.&quot;](/assets/images/posts/party-told-you-to-reject.png){: width="1080" height="1080"}
 
@@ -90,7 +90,7 @@ So while "trust the science" can be a valid defense of empiricism, we must be ca
 
 ![1984 quote “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”](/assets/images/posts/thought-crime-impossible.png){: width="1080" height="1080"}
 
-> “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”&nbsp;
+> “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.”
 
 ---
 

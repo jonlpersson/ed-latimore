@@ -6,7 +6,7 @@ permalink: /hagakure-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   The Hagakure: The Book of The Samurai was written in the 1700s by Yamamoto
   Tsunetomo as a guide for samurai. These are the 10 best quotes and ideas from
@@ -23,7 +23,7 @@ A younger samurai that visited Yamamoto many times over the years wrote down his
 
 > "Because we do most things relying only on our own sagacity we become self-interested, turn our backs on reason, and things do not turn out well."
 
-There are people who claim to want to make progress, but they don't want to listen to people who have already done it. Instead, they spend their entire life reinventing the wheel. By the time they've figured it out, they don't have much time left to use it to go anywhere.&nbsp;
+There are people who claim to want to make progress, but they don't want to listen to people who have already done it. Instead, they spend their entire life reinventing the wheel. By the time they've figured it out, they don't have much time left to use it to go anywhere.
 
 Many social skills involving interpersonal relationships and communication, you have to learn those on your own through trial and error; but when it comes to hard skills that you'll use to change your financial status or physical health, you're wasting valuable time if you try to learn them all on your own. I have a passage about this in my ["How to be a better man"](/how-to-be-a-better-man/) article.
 
@@ -37,7 +37,7 @@ Whether it's good or bad, it's much easier to comment on something than it is to
 
 People want to contribute to the conversation but have nothing meaningful to say. So they revert to effortless agreement or pedantic criticism. Because they can't add anything or do anything that is useful, they act in a way that is "completely worthless".
 
-Another idea is also key in this quote: shame and brutal honesty are tools for changing behavior. While there are some cases where this is an effective tactic, it's more often used a means of self-indulgence on the part of the criticizer. Far too many people use unsolicited honesty as an excuse for casual cruelty.&nbsp;
+Another idea is also key in this quote: shame and brutal honesty are tools for changing behavior. While there are some cases where this is an effective tactic, it's more often used a means of self-indulgence on the part of the criticizer. Far too many people use unsolicited honesty as an excuse for casual cruelty.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -47,7 +47,7 @@ Another idea is also key in this quote: shame and brutal honesty are tools for c
 
 If you want to bring up a person's weaknesses, highlight their strengths first. Even better than that is not bringing up their weaknesses at all, but highlighting how they could be even stronger and do it in a way that leads them to realize that the weakness you want to address is holding them back.
 
-This takes more skill, tact, and diplomacy than simply pointing out faults, but it tends to produce enduring changes in a person's character. This is because it makes the person believe they recognized a weakness on their own and the motivation to fix it was all internal.&nbsp;
+This takes more skill, tact, and diplomacy than simply pointing out faults, but it tends to produce enduring changes in a person's character. This is because it makes the person believe they recognized a weakness on their own and the motivation to fix it was all internal.
 
 ***"A man convinced against his will, is of the same opinion still." - Benjamin Franklin***
 
@@ -57,9 +57,9 @@ This takes more skill, tact, and diplomacy than simply pointing out faults, but 
 
 Progress and skill acquisition in all disciplines follow the same 4 steps.
 
-* **Unconscious incompetence.**&nbsp;This is the phase where you don’t know what you don’t know. There is a skill that you are missing but you don’t even know what it is yet. This is the lowest level that the Hagakure refers to when it says "a person studies but nothing comes of it, and he feels that both he and others are unskillful."
-* **Conscious incompetence.**&nbsp;This is the stage where we realize there is a gap and identify the exact skill we need to develop. We now know that we don't know something vital to our success. This is the middle level that the Hagakure refers to when it says "he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others."
-* **Conscious competence.** This is where the effort to learn begins. When people speak of [10,000 deliberate hours of practice](https://jamesclear.com/deliberate-practice-strategy){: target="_blank" rel="noopener noreferrer"}, this is the phase they're referring to. This is the higher level that the Hagakure refers to when it says "he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows.<br><br>*A special note about this level:*<br><br>This is where a person has the greatest chance of becoming insufferable. Whether it be because they're interested in showing off or they arrogantly believe they're better than people who haven't learned, this is the stage where ego is greatest. This is also the point of frustration, where plateaus occur and setbacks feel bigger than they really are.<br><br>If a person can stay humble and patient in this phase, they should transition nicely into the next.&nbsp;
+* **Unconscious incompetence.** This is the phase where you don’t know what you don’t know. There is a skill that you are missing but you don’t even know what it is yet. This is the lowest level that the Hagakure refers to when it says "a person studies but nothing comes of it, and he feels that both he and others are unskillful."
+* **Conscious incompetence.** This is the stage where we realize there is a gap and identify the exact skill we need to develop. We now know that we don't know something vital to our success. This is the middle level that the Hagakure refers to when it says "he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others."
+* **Conscious competence.** This is where the effort to learn begins. When people speak of [10,000 deliberate hours of practice](https://jamesclear.com/deliberate-practice-strategy){: target="_blank" rel="noopener noreferrer"}, this is the phase they're referring to. This is the higher level that the Hagakure refers to when it says "he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows.<br><br>*A special note about this level:*<br><br>This is where a person has the greatest chance of becoming insufferable. Whether it be because they're interested in showing off or they arrogantly believe they're better than people who haven't learned, this is the stage where ego is greatest. This is also the point of frustration, where plateaus occur and setbacks feel bigger than they really are.<br><br>If a person can stay humble and patient in this phase, they should transition nicely into the next.
 * **Unconscious competence**. This is the stage of mastery and intuition. Now you aren't learning so much as you're refining. Your progress is largely driven by simplification and reduction. You're also humble.<br><br>This is the highest level that the Hagakure refers to when it says "At the highest level a man has the look of knowing nothing."
 
 ## 5\. Every saint has a past and every sinner has a future
@@ -86,7 +86,7 @@ Even hundreds of years ago, your appearance and how you interacted with others w
 
 The effort you put into your presentation speaks volumes to the world about your discipline and how much you value yourself. [Even before science told us](https://brainfodder.org/the-scientific-evidence-behind-the-power-of-the-gaze/){: target="_blank" rel="noopener noreferrer"}, people knew the power of looking someone in the eyes when you speak to them.
 
-If you want to know who to give a job to, look at how they dress and groom themselves.&nbsp;
+If you want to know who to give a job to, look at how they dress and groom themselves.
 
 If you want to know who to trust, see if they look you in the eye during casual conversation.
 
@@ -104,7 +104,7 @@ I don't mean this in the sense that nothing's ever happened before this moment o
 
 When you commit to maximizing the present moment, then you experience unmatched peace and confidence. Very few people in this world know what it's like to have singleness of purpose on the one task/person/feeling that demands their attention.
 
-If you can do this for even one minute, then you have unlocked a secret that gives you a great advantage for the rest of your life.&nbsp;
+If you can do this for even one minute, then you have unlocked a secret that gives you a great advantage for the rest of your life.
 
 ## 8\. Life is too short to entertain nonsense
 
@@ -112,13 +112,13 @@ If you can do this for even one minute, then you have unlocked a secret that giv
 
 The social media generation has to face an uncomfortable truth: there is a lot of mandatory unpleasantness in life. Most of you will not make a living from your hobbies and passions. You will have to pull yourself through and (hopefully) out of drudgery like everyone else.
 
-Just because you see someone taking trips on IG and creating a lifestyle highlight reel doesn't mean that you get to suddenly acquire it by willing it into existence. Just because you want to do anything doesn't mean that you will or even deserve to do it.&nbsp;
+Just because you see someone taking trips on IG and creating a lifestyle highlight reel doesn't mean that you get to suddenly acquire it by willing it into existence. Just because you want to do anything doesn't mean that you will or even deserve to do it.
 
 In general, younger people have always wanted things quickly, but everyone now days so enamored with ideas like "follow your passion" and "do what you love", that they forget that most of life does not afford you this luxury because it's a luxury. You have to earn it.
 
-With that said, I think it's important to set up a life where can quickly get past a lot of necessary unpleasantness so you can devote more time to things that you find enjoyable for the few decades that you have on this planet.&nbsp; The sooner you're able to find a labor of love to toil away on, the sooner you will fall in love with life.
+With that said, I think it's important to set up a life where can quickly get past a lot of necessary unpleasantness so you can devote more time to things that you find enjoyable for the few decades that you have on this planet.  The sooner you're able to find a labor of love to toil away on, the sooner you will fall in love with life.
 
-## 9\. Tsunetomo understood why you get haters&nbsp;
+## 9\. Tsunetomo understood why you get haters 
 
 > "People will become your enemies if you become eminent too quickly in life, and you will be ineffectual. Rising slowly in the world, people will be your allies and your happiness will be assured."
 
@@ -126,13 +126,13 @@ With that said, I think it's important to set up a life where can quickly get pa
 
 People can handle slow changes. We don't do too well when the change is sudden.
 
-For example, you can deal with chronic poverty way easier than you can with suddenly losing everything.&nbsp; People can deal with a person getting better than them if the change is slow and gradual. If you suddenly start doing better than them without appearing to have worked as long or as hard, then you're going to have haters. You may never fully get used to having haters, but use my guide to [learn to deal with them.](/why-you-have-haters-even-if-you-arent-an-asshole/)
+For example, you can deal with chronic poverty way easier than you can with suddenly losing everything.  People can deal with a person getting better than them if the change is slow and gradual. If you suddenly start doing better than them without appearing to have worked as long or as hard, then you're going to have haters. You may never fully get used to having haters, but use my guide to [learn to deal with them.](/why-you-have-haters-even-if-you-arent-an-asshole/)
 
 You create this resentment, not because you're doing better than them, but because they aren't doing as well despite having (in their own estimation) worked as hard or harder. It feels like the universe has slighted them and they take this frustration out on you.
 
 This is why, generally speaking, it's not a good idea to flaunt your success or wealth.
 
-There are few things to be gained and many to be lost by doing so. And before you say that "real friend" would just be happy for you, this is just human nature. [Your friend doesn't want to be a hater, but they can't help it.&nbsp;](https://www.psychologytoday.com/us/blog/anxiety-files/201804/why-it-doesn-t-feel-good-when-someone-else-succeeds){: target="_blank" rel="noopener noreferrer"}
+There are few things to be gained and many to be lost by doing so. And before you say that "real friend" would just be happy for you, this is just human nature. [Your friend doesn't want to be a hater, but they can't help it.](https://www.psychologytoday.com/us/blog/anxiety-files/201804/why-it-doesn-t-feel-good-when-someone-else-succeeds){: target="_blank" rel="noopener noreferrer"}
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -144,7 +144,7 @@ There are few things to be gained and many to be lost by doing so. And before yo
 4. **"In one's life. there are levels in the pursuit of study…."**
 5. **"If we were to cast aside every man who had made a mistake once, useful men could probably not be come by."**
 6. **"Whether speaking formally or informally, one should look his listener in the eye…"**
-7. &nbsp;**"Although it seems that taking special care of one's appearance is similar to showiness, it is nothing akin to elegance."**
+7. **"Although it seems that taking special care of one's appearance is similar to showiness, it is nothing akin to elegance."**
 8. **"There is surely nothing other than the single purpose of the present moment."**
 9. **"Human life is truly a short affair. It is better to live doing the things that you like…"**
 10. **"People will become your enemies if you become eminent too quickly in life…"**

@@ -6,19 +6,19 @@ permalink: /art-of-war-book-summary/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.
 image: /assets/images/thumbnails/the-art-of-war.jpeg
 ---
-The Art of War is an ancient Chinese military guide by military strategist Sun Tzu that was penned sometime around the 5th century B.C.&nbsp; It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
+The Art of War is an ancient Chinese military guide by military strategist Sun Tzu that was penned sometime around the 5th century B.C.  It is composed of 13 chapters, each devoted to a different aspect of strategy and or tactics in war.
 
-It's a surprisingly short read. I read it on my kindle, and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.&nbsp;
+It's a surprisingly short read. I read it on my kindle, and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it's actually the lead text in an ancient anthology called ["The Seven Military Classics"](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noopener noreferrer"} by Emperor Shenzong of Song.
 
 Despite its short length, the ideas it's packed with apply to many areas in life. The strategies apply to modern warfare, business, negotiation, and even relationships.
 
-I read through The Art of War and took notes on what I thought were the most important ideas and quotes. If you don't have time to read the book yourself or just want a refresher, these big ideas and quotes from The Art of War should prove to make you a better combatant in the battleground of life.&nbsp;
+I read through The Art of War and took notes on what I thought were the most important ideas and quotes. If you don't have time to read the book yourself or just want a refresher, these big ideas and quotes from The Art of War should prove to make you a better combatant in the battleground of life.
 
 ## Adapting to change
 
@@ -38,7 +38,7 @@ If you want to consistently maintain an advantage, you must anticipate and embra
 
 I don't make those recommendations out of a particular loyalty to the subjects. I make those recommendations because problem-solving and communication skills will always be desired. The goal is to be a learner above all else.
 
-In addition, you have to learn to be comfortable being uncomfortable. People who don't handle change well are left behind. New technology emerges too fast for anyone to get comfortable with one approach for too long.&nbsp;
+In addition, you have to learn to be comfortable being uncomfortable. People who don't handle change well are left behind. New technology emerges too fast for anyone to get comfortable with one approach for too long.
 
 This changing world will leave behind anyone who can't manage change.
 
@@ -54,35 +54,35 @@ There's a lot that's been written about the qualities of great leaders.
 
 However, you can go quite far if you simply avoid what Sun Tzu calls "the dangerous faults which may affect a general." Let's dive a little deeper into the five qualities of a bad leader or general:
 
-**Recklessness:**&nbsp;While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
+**Recklessness:** While many different leadership and management styles exist, successful leaders are disciplined and measured in their actions. Otherwise, this person won't be a leader for very long.
 
 A reckless leader takes uncalculated risks, lacks adaptability, and is controlled by passion and emotions rather than strategy and the mission.
 
-**Cowardice:**&nbsp;Cowardice is probably the single greatest liability a leader can have. In a war, cowards are killed quickly, either by their side for deserting or the opponents because they're afraid to fight. In less hostile environments, cowards are afraid of confrontation but want the outcome of a confrontation that goes in their favor—and they're willing to do anything to get it.&nbsp;
+**Cowardice:** Cowardice is probably the single greatest liability a leader can have. In a war, cowards are killed quickly, either by their side for deserting or the opponents because they're afraid to fight. In less hostile environments, cowards are afraid of confrontation but want the outcome of a confrontation that goes in their favor—and they're willing to do anything to get it.
 
 This means not enforcing discipline or standing up for their subordinates for less ambitious leaders. More ambitious leaders will rely on deception, subterfuge, and outright dishonesty to control or direct their team members.
 
 Bad leadership of this type is always either defeated by the competition, replaced by its superiors, or mutinied by the ones they're in charge of.
 
-**Hasty temper:**&nbsp;An effective leader has control of himself and is not prone to emotional outbursts towards the opponent or within his ranks. When a hasty temper is projected outwards, it's recklessness. When it's directed towards the team, it's a bad disposition or hasty temper.&nbsp;
+**Hasty temper:** An effective leader has control of himself and is not prone to emotional outbursts towards the opponent or within his ranks. When a hasty temper is projected outwards, it's recklessness. When it's directed towards the team, it's a bad disposition or hasty temper.
 
 It's normal to encounter frustration en route to your goals, but a poor leader takes out that frustration on his subordinates, creating a hostile work environment. This leads to low retention and even lower morale and team performance.
 
-**Delicacy of honor which is sensitive to shame:**&nbsp;Generally speaking, honor and dignity are positive traits. The best leaders are known for holding themselves and their subordinates to a certain standard. However, there are two notable situations where this honor becomes a liability.
+**Delicacy of honor which is sensitive to shame:** Generally speaking, honor and dignity are positive traits. The best leaders are known for holding themselves and their subordinates to a certain standard. However, there are two notable situations where this honor becomes a liability.
 
 First, when the opponent is not honorable. You place yourself and your team at great risk if you believe that there is some merit in meeting a dishonorable opponent with only honorable tactics.
 
 When you do this, you have ruled out the use of certain tactics while the opponent knows no such limits. This is fine and acceptable in contests where there is nothing on the line. But when life or liberty or at stake, this is poor leadership.
 
-The second instance where sensitivity to shame is a weakness is when you face unfavorable conditions or defeat and refuse to back down or change course. If you lead your team to slaughter and you don't have to, and you won't change your mind because of honor, it becomes a dishonorable decision.&nbsp;
+The second instance where sensitivity to shame is a weakness is when you face unfavorable conditions or defeat and refuse to back down or change course. If you lead your team to slaughter and you don't have to, and you won't change your mind because of honor, it becomes a dishonorable decision.
 
-**Over-solicitude for his men:**&nbsp;Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way, which was vital in a state of war.
+**Over-solicitude for his men:** Another way to say this is "having too much concern for your men." While a lack of empathy from a leader can drain group morale and sap loyalty, Sun Tzu recognized that a good leader can't be too concerned for the well-being of his men. Otherwise, he will not put them in harm's way, which was vital in a state of war.
 
 In modern-day company culture, the equivalent of this idea would be a boss who's afraid to ask his employees to stay late, pick up extra work, or come in on their day off.
 
 While there's a lot to be said about cultivating a work/life balance, good leaders recognize that you have to put in extra work if you want to win. This means cultivating an environment where everyone is expected to have an incredible work ethic.
 
-This can only happen if the boss doesn't care too much.&nbsp;
+This can only happen if the boss doesn't care too much.
 
 ## How to lead a team
 
@@ -90,7 +90,7 @@ This can only happen if the boss doesn't care too much.&nbsp;
 
 > If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.
 
-Great leaders know how to navigate two interesting facts about human nature:&nbsp;
+Great leaders know how to navigate two interesting facts about human nature:
 
 1. People like who they listen to more than they listen to who they like.
 2. People like who they respect more than they respect who they like.
@@ -126,7 +126,7 @@ When I was a professional boxer, I trained hard for every opponent, regardless o
 
 By training hard for my opponent, the worst-case scenario is that I would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
 
-It doesn't matter what your plans are. You can increase their likelihood of coming to fruition if you consider how things can go wrong, then devise a method of preventing or mitigating them.&nbsp;
+It doesn't matter what your plans are. You can increase their likelihood of coming to fruition if you consider how things can go wrong, then devise a method of preventing or mitigating them.
 
 Most people only focus on the upside of their plans. They imagine that everything will go well, with only minor resistance. However, anything worth doing tends to sprout a major problem that almost acts as a way to weed out the unprepared and unworthy.
 
@@ -138,7 +138,7 @@ You can make it pretty far if you only focus on preparing for the ways that you 
 
 > Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.
 
-Though this is not always true, people who talk a lot are not the ones who get things done.&nbsp;
+Though this is not always true, people who talk a lot are not the ones who get things done.
 
 Talk is cheap. Anyone can do it. Because anyone can say anything, it doesn't have much worth. That's not the only problem with people who spend a lot of time talking about what they're going to do instead of doing it.
 
@@ -156,7 +156,7 @@ Here's another way to look at this: if someone is capable of performing a task, 
 
 > Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
 
-You must train how you plan to perform and prepare under the most difficult and varied conditions you can create. The goal is to make sure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.&nbsp;
+You must train how you plan to perform and prepare under the most difficult and varied conditions you can create. The goal is to make sure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.
 
 * You practice when you're tired.
 * You introduce random distractions and variables into the practice arena,.
@@ -204,9 +204,9 @@ Don't get me wrong: my coach still studied the fighter and prepared me for any o
 
 The second passage reminds me of something I observed during my chess training.
 
-A chess game is usually won by the person who makes the next to the last mistake. This means that many matches are lost rather than won until you get to the upper levels of chess. I've always felt like this observation applies in many other areas.&nbsp;
+A chess game is usually won by the person who makes the next to the last mistake. This means that many matches are lost rather than won until you get to the upper levels of chess. I've always felt like this observation applies in many other areas.
 
-You can do well in life if you focus on reducing the number of mistakes you make. Rather than be brilliant, try to be less stupid.&nbsp; It's amazing how brilliant you appear if you take this approach.&nbsp;
+You can do well in life if you focus on reducing the number of mistakes you make. Rather than be brilliant, try to be less stupid.  It's amazing how brilliant you appear if you take this approach.
 
 ## The sign of a good plan
 
@@ -222,7 +222,7 @@ When I first turned pro as a boxer, my coach explained our plan for my developme
 
 If I did everything right, we'd get to take the route around the hurricane. Still, if I had a loss early or marketed myself incorrectly, I'd have to a harder path to development, thus going through the hurricane. Life is a lot like this.
 
-Achieving your goal is remarkably easy if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.&nbsp;
+Achieving your goal is remarkably easy if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -232,7 +232,7 @@ Achieving your goal is remarkably easy if you plan and execute well. If you just
 
 > All warfare is based on deception.
 
-Whenever you make an error in execution, it's either due to bad technique or insufficient information. You can correct bad technique through training, but if you got the incorrect information, then there is a possibility that you have been deceived.&nbsp;
+Whenever you make an error in execution, it's either due to bad technique or insufficient information. You can correct bad technique through training, but if you got the incorrect information, then there is a possibility that you have been deceived.
 
 If you can make someone think you have (or don't have) something that influences their actions, this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they're strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you're stronger when the reality is that they'd crush you.
 
@@ -242,7 +242,7 @@ If you can make someone think you have (or don't have) something that influences
 
 Ultimately, the power of deception is that it bends your opponent's perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it's often used to make others think they have a higher value.
 
-In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that they don't fool you.&nbsp;
+In social and business matters, the best defense against deception is inspection. You aren't a war and (usually) your life isn't on the line, so you can dig into appearances so that they don't fool you.
 
 ## Summary of the best The Art of War Quotes and ideas from military strategy
 

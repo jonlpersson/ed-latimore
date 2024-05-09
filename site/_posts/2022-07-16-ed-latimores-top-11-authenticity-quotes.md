@@ -6,7 +6,7 @@ permalink: /authenticity-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   This is a collection of Ed Latimore original quotes on authenticity.  These
   will remind you to live an authentic life you can be proud of. 
@@ -32,13 +32,13 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 > Never try too hard to make people like you. In fact, it doesn’t matter if people like you or not.
 >
-> Be your best self and you’ll attract the best people for you. This is the power of authenticity.&nbsp;
+> Be your best self and you’ll attract the best people for you. This is the power of authenticity.
 
 ---
 
 ![ed latimore authenticity quote &quot;authenticity is polarizing&quot;](/assets/images/posts/authenticityispolarizing.png){: width="2160" height="2160"}
 
-> Authenticity is polarizing.&nbsp;
+> Authenticity is polarizing.
 
 ---
 
@@ -52,7 +52,7 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 ![ed latimore authenticity quote &quot;authenticity makes you irreplaceable&quot;](/assets/images/posts/authenticitymakesyouirreplaceable.png){: width="2160" height="2160"}
 
-> Authenticity and transparency make you irreplaceable because no one else can be you.&nbsp;
+> Authenticity and transparency make you irreplaceable because no one else can be you.
 
 ---
 
@@ -66,7 +66,7 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 > Authenticity is not synonymous with assholery.
 >
-> You're low class if you consider wanton cruelty the mark of a person who "keeps it real."&nbsp;
+> You're low class if you consider wanton cruelty the mark of a person who "keeps it real."
 
 ---
 
@@ -80,7 +80,7 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 ![ed latimore authenticity quote &quot;authenticity only a selling a point when it does not need to be&quot;](/assets/images/posts/authenticityonlysellingpointwhennotneeded.png){: width="2160" height="2160"}
 
-> Your authenticity is a selling point only if you don't need it to be.&nbsp;
+> Your authenticity is a selling point only if you don't need it to be.
 
 ---
 
@@ -90,7 +90,7 @@ They won’t make you a painter, but they will show you how to paint and give yo
 >
 > It's only annoying when you lack congruence between your word and deed.
 >
-> When the two are out of whack, it's a grating lack of authenticity and integrity.&nbsp;
+> When the two are out of whack, it's a grating lack of authenticity and integrity.
 
 ---
 
@@ -98,15 +98,15 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 > If you live an authentic, honest, and transparent life, you remove all targets for attack. This infuriates people.
 >
-> The only thing that makes someone angrier than a person they can't control is someone they can't shame into feeling bad about it.&nbsp;
+> The only thing that makes someone angrier than a person they can't control is someone they can't shame into feeling bad about it.
 
 ---
 
 ![ed latimore authenticity authenticity quotes &quot;authenticity is easy living with passion&quot;](/assets/images/posts/becomeyourbestself.png){: width="2160" height="2160"}
 
-> It’s easy to become your best self when what you pursue aligns with your passion.&nbsp;
+> It’s easy to become your best self when what you pursue aligns with your passion.
 >
-> The moment you begin to live for another’s desires is the moment you lose authenticity.&nbsp;
+> The moment you begin to live for another’s desires is the moment you lose authenticity.
 
 ---
 
@@ -114,16 +114,16 @@ They won’t make you a painter, but they will show you how to paint and give yo
 
 > You can be a nice guy or you can be an asshole. It doesn't matter.
 >
-> Just be authentic and people will still like you.&nbsp;
+> Just be authentic and people will still like you.
 
 ---
 
 ![ed latimore authenticity quotes &quot;see what they dont post&quot;](/assets/images/posts/authenticitywhattheydontpost.png){: width="2160" height="2160"}
 
-> If you want to see how authentic someone is, start looking at what they \*don't\* post about.&nbsp;
+> If you want to see how authentic someone is, start looking at what they \*don't\* post about.
 
 ---
 
 ![ed latimore authenticity quotes &quot;authentic people dont try to fit in&quot;](/assets/images/posts/authenticpeopledonttrytofitin.png){: width="2160" height="2160"}
 
-> The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty.&nbsp;
+> The most authentic people are the most interesting, if for no other reason than most people try to fit in. But humans are drawn to novelty.

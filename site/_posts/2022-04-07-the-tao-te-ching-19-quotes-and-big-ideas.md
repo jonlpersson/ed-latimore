@@ -6,7 +6,7 @@ permalink: /tao-te-ching-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   The Tao Te Ching teaches how to live according to the “Tao” or “The way”. Here
   are some of the passages from the book that will truly open your mind.
@@ -77,4 +77,4 @@ Lao Tzu has a reverence for [good teaching](/qualities-of-a-good-teacher/) and l
 > 2. If you fail to trust people, you won’t inspire their trust.
 > 3. A man who justifies his actions isn’t respected. A man who boasts of his achievements has no merit. A man who brags will not endure.
 > 4. What is a good man but a bad man's teacher? What is a bad man but a good man's charge?
-> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.&nbsp;
+> 5. A good general doesn't show off his power. A good warrior doesn't get angry. A good conqueror doesn't attack people. A good employer puts himself below his employees. This is called the power of non-contention. This is called using the strength of others. This is called perfect emulation of heaven.
