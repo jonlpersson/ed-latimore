@@ -6,7 +6,7 @@ permalink: /daryl-davis-book/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
+  - Relationships
 description: >-
   Daryl Davis is a Black man who has friends in the Ku Klux Klan. He wrote about
   his experiences. This post explores the big ideas he discusses.
@@ -38,9 +38,9 @@ Before you can change a person's mind, they have to be willing to open it to you
 
 And that makes perfect sense, If I felt like you were attacking my home, I certainly wouldn't open the front door at let you waltz right in. That would be a receipe for disaster. This is how people feel about their opinions and perspectives, regardless of how anyone subjectively feels about them or how objectively destructive they may be.
 
-Therefore, the first thing you have to do is get a person to feel comfortable being themselves around you so they aren't on guard. No matter how you feel about this technique of dealing with racists—to let the racist (or anyone else you disagree with, rightfully so or not) be themselves in your presence—one thing is clear: the current approach of arguing, attacking, and censoring does not work at changing minds.&nbsp;
+Therefore, the first thing you have to do is get a person to feel comfortable being themselves around you so they aren't on guard. No matter how you feel about this technique of dealing with racists—to let the racist (or anyone else you disagree with, rightfully so or not) be themselves in your presence—one thing is clear: the current approach of arguing, attacking, and censoring does not work at changing minds.
 
-It's good at driving even further division. It's incredible at driving resent underground and out of public eyes where we can deal with it. But coming in hot, with anger and vitriol, has never got anyone to stop hating someone else.&nbsp;
+It's good at driving even further division. It's incredible at driving resent underground and out of public eyes where we can deal with it. But coming in hot, with anger and vitriol, has never got anyone to stop hating someone else.
 
 ## 2) Fighting fire with fire only creates a bigger fire
 
@@ -52,7 +52,7 @@ How you feel about something affects how you approach it. If you hate something,
 
 At this point, I need to make something clear. Understanding something is not the same thing as condoning it. However, if you don't take the time to understand why a person believes what they believe, you'll never understand or be able to predict their actions, which means there will be a lot more problems.
 
-Ironically, appoaching what you don't understand with hate will lead to outcomes with are effectively the same as condoning heinous behavior. Remember, people are defensive and reactive. You hating them will lead to them hating you and possible taking hateful actions to express those feelings. At some point, someone has to break the cycle of reactivity if they want any hope of turning things around.&nbsp;
+Ironically, appoaching what you don't understand with hate will lead to outcomes with are effectively the same as condoning heinous behavior. Remember, people are defensive and reactive. You hating them will lead to them hating you and possible taking hateful actions to express those feelings. At some point, someone has to break the cycle of reactivity if they want any hope of turning things around.
 
 ## 3) You can disagree without being disrespectful
 
@@ -231,6 +231,6 @@ Later, during the premiere of the documentary, Kwame and Daryl are on much bette
 
 This interaction is important to note because it demonstrates the crux of Daryl's approach. Daryl wants to change the mindsets of people. He is humble enough to recognize that although a lot of legal change has occurred, our mindsets are changing too slowly.
 
-The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives to dismantle white supremacy and systemic racism. But Daryl is doing what he knows best and making a dent in the scourge of racism.&nbsp;
+The solution, whatever it is, won't be with Daryl's method or activism alone. It won't be through new legislation and initiatives to dismantle white supremacy and systemic racism. But Daryl is doing what he knows best and making a dent in the scourge of racism.
 
 *"Well I would hope that by the time I'm gone, things like this would not be as prevalent. But, if they are, perhaps this film will encourage others to do the same and do a better job than I've been able to do."*
