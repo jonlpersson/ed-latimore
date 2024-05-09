@@ -6,7 +6,7 @@ permalink: /qualities-of-a-good-teacher/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Relationships
 description: >-
   Being a great teacher boils down to 5 non-negotiable qualities. From my
   experience teaching and watching other teachers, I present them to you here.
@@ -33,7 +33,7 @@ And those three years of tutoring proved this to be an effective teaching philos
 
 ## What made me a good teacher?
 
-You see, in high school, I barely passed any of my math classes. I decided early on that math was something I’d never get. But then, despite this attitude, I went back to school as an adult to earn a bachelor’s degree in Physics with a minor in Mathematics.&nbsp;
+You see, in high school, I barely passed any of my math classes. I decided early on that math was something I’d never get. But then, despite this attitude, I went back to school as an adult to earn a bachelor’s degree in Physics with a minor in Mathematics.
 
 So how did a failing math student eventually earn a degree in Physics, a subject that requires so much math that you automatically get a mathematics minor with the major?
 
@@ -57,33 +57,33 @@ When you’re no longer necessary.
 
 This is an important mindset to have: Your job is to ensure that your student is equipped with both the knowledge and the skills necessary to succeed without your help. When you view your role as an educator this way, it changes your approach to teaching and highlights the important role you play in the student's learning
 
-Instead of helping them quickly overcome some immediate problem and pass an assessment, you become more concerned with their long-term development. Your goal changes from “helping them solve problems” to “shaping them into effective problem solvers”.&nbsp;
+Instead of helping them quickly overcome some immediate problem and pass an assessment, you become more concerned with their long-term development. Your goal changes from “helping them solve problems” to “shaping them into effective problem solvers”.
 
-The saying goes:&nbsp;*If you give a man a fish, you feed him for a day. If you teach a man to fish, you feed them for a lifetime.*&nbsp;
+The saying goes: *If you give a man a fish, you feed him for a day. If you teach a man to fish, you feed them for a lifetime.*
 
 Don’t give them fish. Don’t even “just” teach them how to fish. Instead, make sure they understand how to gather food anywhere, regardless of the terrain
 
 ### How does a teacher turn a student into a problem solver?
 
-Regardless of their learning style, I taught all of my students the 3-step problem-solving method. I can’t even begin to tell you how many times this helped me figure what I’m doing on tests and various homework assignments when I was a student.&nbsp;
+Regardless of their learning style, I taught all of my students the 3-step problem-solving method. I can’t even begin to tell you how many times this helped me figure what I’m doing on tests and various homework assignments when I was a student.
 
 [The 3-step problem-solving method](/problem-solving-process/)is a slightly more simplified version of the scientific method:
 
-1. Figure out what you need to know&nbsp;
+1. Figure out what you need to know
 2. Think about all the things you know related to what you need to know
 3. Find a relationship between the two.
 
-This simple method for solving academic problems is how you solve every mathematical/scientific problem, regardless of its type or complexity. It's also how you solve problems in life as well.&nbsp;
+This simple method for solving academic problems is how you solve every mathematical/scientific problem, regardless of its type or complexity. It's also how you solve problems in life as well.
 
-The only reason any problem does not yield to this method is misidentification of the problem, inaccuracy, or incomplete information.&nbsp;
+The only reason any problem does not yield to this method is misidentification of the problem, inaccuracy, or incomplete information.
 
 I shared this concept with the students so that they could solve difficult problems, many of which they would only encounter on a test, and nowhere else before.
 
-In this age of prepackaged online curricula and Google, students can&nbsp;[look up the answer to almost anything](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/){: target="_blank"}. Problem-solving ability is fading at an alarming rate. Most people now—student or otherwise—just look things up.
+In this age of prepackaged online curricula and Google, students can [look up the answer to almost anything](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/){: target="_blank"}. Problem-solving ability is fading at an alarming rate. Most people now—student or otherwise—just look things up.
 
 That may be a viable strategy if your plan is to be in service (mentally, economically, or otherwise) to someone else, but those who wish to truly have an impact on the world will need to be able to critically solve problems.
 
-As a teacher, you can’t prepare your students for every problem they’ll face, but you ***can***&nbsp;make sure that they have the ability to think properly in order to work through unfamiliar situations.&nbsp;
+As a teacher, you can’t prepare your students for every problem they’ll face, but you ***can*** make sure that they have the ability to think properly in order to work through unfamiliar situations.
 
 This requires helping the student understand the essence of a problem rather than memorize a few canned approaches.
 
@@ -101,25 +101,25 @@ Or less colloquially, I feel better when my students can discuss higher-order co
 
 I made it through my studies by making sure that I understood every concept. I knew that I had reached that point when I could draw analogies and make connections that even some of my professors had not pointed out. This is the same standard that I held my tutoring students to.
 
-The first step that you take before moving through the problem is ensuring that the student is able to explain the problem and what is being asked of them. Then, you discuss any equations or formulas that might be useful in solving this particular problem.&nbsp;
+The first step that you take before moving through the problem is ensuring that the student is able to explain the problem and what is being asked of them. Then, you discuss any equations or formulas that might be useful in solving this particular problem.
 
-My optics professor,&nbsp;[Theodore Corcovilos](https://www.corcoviloslab.com/){: target="_blank" rel="noopener noreferrer"}, once told the class, “Never use an equation if you don’t know how to derive it.” I remember thinking at the time that this was an insane standard. However, he didn’t mean for us to create each equation we use from scratch. It wasn’t until I started tutoring that I understood what he really meant.
+My optics professor, [Theodore Corcovilos](https://www.corcoviloslab.com/){: target="_blank" rel="noopener noreferrer"}, once told the class, “Never use an equation if you don’t know how to derive it.” I remember thinking at the time that this was an insane standard. However, he didn’t mean for us to create each equation we use from scratch. It wasn’t until I started tutoring that I understood what he really meant.
 
 He meant for us to fully understand any equation we use rather than just memorize it. This way we’d know exactly when—or when not to—use it.
 
 You see, what my optics professor understood is that memorization creates the illusion of mastery. This is an illusion that only reality can shatter and problem-solving skills can rebuild.
 
-The same idea applies to the teaching of non-academic subjects. &nbsp;
+The same idea applies to the teaching of non-academic subjects.
 
 I recently taught a friend how to drive, and I realized that there was no set formula for parallel parking. I tried to give her one, but the parking situations were too variable. The curb would be at different heights, the parking space at different lengths, and we'd sometimes even have to park on the left side of the road.
 
-There are a lot of shitty drivers on the road who basically memorized the way to pass the driver’s exam and can’t drive. I wanted her to know how to drive and be able to adjust to everything—not just get a license. I was, in the purest sense of the word, trying to make myself irrelevant.&nbsp;
+There are a lot of shitty drivers on the road who basically memorized the way to pass the driver’s exam and can’t drive. I wanted her to know how to drive and be able to adjust to everything—not just get a license. I was, in the purest sense of the word, trying to make myself irrelevant.
 
-As a teacher, you have to make sure that your student’s understanding of an idea is so thorough that they can solve most problems that arise, even if—and in many times, especially—they’ve never faced them before.&nbsp;
+As a teacher, you have to make sure that your student’s understanding of an idea is so thorough that they can solve most problems that arise, even if—and in many times, especially—they’ve never faced them before.
 
 {% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
 
-## 3) Good teachers let their students learn from their own mistakes&nbsp;
+## 3) Good teachers let their students learn from their own mistakes 
 
 Here’s what my tutoring student said:
 
@@ -127,17 +127,17 @@ Here’s what my tutoring student said:
 
 Few things are worse than a teacher who makes a student feel like their question is “stupid”. If a student has a question, it’s for one of two reasons: intellectual curiosity on their part, or poor explanation on the teacher's part. The former should be fostered and the latter should be fixed.
 
-The learning environment you create as a teacher is just as important as your mastery of the subject. Above all, students should feel comfortable making mistakes and asking for clarity.&nbsp;
+The learning environment you create as a teacher is just as important as your mastery of the subject. Above all, students should feel comfortable making mistakes and asking for clarity.
 
 Many students don’t make progress in a subject because they miss a vital concept they feel should be easily understood. Instead of asking for clarity, the student worries about looking stupid. As a result, they remain much closer to that state than they would have had they only reached out.
 
 The purpose of learning is to eradicate ignorance. The problem is that ignorance is mocked. Ironically, this makes the student apprehensive to admit ignorance about something, increasing the likelihood that they remain that way.
 
-The best way a teacher can improve their student's results is to&nbsp;[let them fail](https://www.insidehighered.com/views/2016/08/16/students-focus-too-much-grades-detriment-learning-essay){: target="_blank" rel="noopener noreferrer"}. In academic settings, this is difficult because grades function more like a criminal record than a feedback mechanism. Kids really believe that getting a C in the 9th grade screws them for life.
+The best way a teacher can improve their student's results is to [let them fail](https://www.insidehighered.com/views/2016/08/16/students-focus-too-much-grades-detriment-learning-essay){: target="_blank" rel="noopener noreferrer"}. In academic settings, this is difficult because grades function more like a criminal record than a feedback mechanism. Kids really believe that getting a C in the 9th grade screws them for life.
 
 I’ve always enjoyed letting my students make mistakes. Even if we’re operating within a time constraint (only an hour for a tutoring session), I feel time used allowing the student to make mistakes is time well spent.
 
-The best way to improve outcomes is by improving the processes that lead to those outcomes. It’s only by observing the errors in their thinking that you’re able to correct them.&nbsp;
+The best way to improve outcomes is by improving the processes that lead to those outcomes. It’s only by observing the errors in their thinking that you’re able to correct them.
 
 It’s easy to correct someone when they’re wrong. A mediocre teacher only stops there. The real challenge is correcting the thinking that leads to incorrect conclusions, and to do so without judgment. This is what better teachers attempt to accomplish.
 
@@ -147,7 +147,7 @@ In her words:
 
 *"Asking me the exact same questions that I ask you. Yes, this can be really annoying sometimes, but it does actually help. Especially because you almost never just straight up give me the answer; just hints. Having to pull the answer to my own question from prior knowledge and stuff in the problem I’m trying to solve helps \*actually\* learn."*
 
-Fundamentally, teaching is just guiding a person on their own journey of self-development and learning.&nbsp;
+Fundamentally, teaching is just guiding a person on their own journey of self-development and learning.
 
 Teachers aren’t the ones putting the knowledge or skills into the learner's mind. The learner does this through their own efforts. Teacher's merely illuminate the most efficient pathway to acquisition.
 
@@ -168,11 +168,11 @@ Encouragement is replaced by pity. Pity causes the teacher to treat the student 
 
 Very often, students ask questions simply because they’ve let their ability to think atrophy. Whether it be from choice (“Googling” the answer to a problem) or force (buying into the myth that ease of acquisition is predictive of ability), students are quick to avoid struggle and difficulty.
 
-They believe that if it’s difficult, it must not be worth it. But in order to be successful, students need to believe the&nbsp;*exact*&nbsp;opposite of that. That’s why when a student asks you a question, you should consider asking it right back to them.&nbsp;
+They believe that if it’s difficult, it must not be worth it. But in order to be successful, students need to believe the *exact* opposite of that. That’s why when a student asks you a question, you should consider asking it right back to them.
 
 By doing this, you’re forcing them to come up with \*some\* type of explanation. At the very least, it forces them to think about the problem. You don't expect a correct answer, but you \*should\* expect an attempt at an answer.
 
-Struggling to grasp the solution to a problem is useful because any progress you make towards it is uniquely your own. It’s not memorized, given, or contrived. It’s fought for, earned,&nbsp;[and won’t be quickly forgotten](https://www.scotthyoung.com/blog/2016/05/31/learn-fast-or-slow/).
+Struggling to grasp the solution to a problem is useful because any progress you make towards it is uniquely your own. It’s not memorized, given, or contrived. It’s fought for, earned, [and won’t be quickly forgotten](https://www.scotthyoung.com/blog/2016/05/31/learn-fast-or-slow/).
 
 When you ask the question back to the student, you’re giving them an opportunity to struggle.
 
@@ -184,7 +184,7 @@ The idea is to force the student to use what they know, even if they don’t thi
 * They learn to rely on their own mind and understanding
 * They implicitly learn the value of struggling to solve problems
 
-If you can accomplish these things as a teacher, you can rest easy knowing you’ve helped a student develop their thinking skills.&nbsp;
+If you can accomplish these things as a teacher, you can rest easy knowing you’ve helped a student develop their thinking skills.
 
 ## 5) Outstanding teachers make their students excited
 

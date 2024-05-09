@@ -6,7 +6,7 @@ permalink: /why-is-writing-important/
 tags:
   - writing-skills
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   There is no more effective method for organizing your thoughts than writing.
   Good writing is one of the most important skills that you can develop.
@@ -48,7 +48,7 @@ Many of us have had that nagging experience of forgetting something that felt im
 
 When you get the habit of writing things down, you improve your ability to retain ideas–even those you don’t write down. This will happen naturally as you free up mental space by writing other things down.
 
-Take this quote from Livesavvy.com about the science behind writing information down as proof of why [writing is good for your memory](https://www.lifesavvy.com/19204/why-you-remember-things-better-when-you-write-them-down/){: target="_blank"}\:
+Take this quote from Livesavvy.com about the science behind writing information down as proof of why [writing is good for your memory](https://www.lifesavvy.com/19204/why-you-remember-things-better-when-you-write-them-down/){: target="_blank"}:
 
 > When you write by hand, you actually give [your brain’s encoding process](https://www.forbes.com/sites/markmurphy/2018/04/15/neuroscience-explains-why-you-need-to-write-down-your-goals-if-you-actually-want-to-achieve-them/#1fd043e87905){: target="_blank" rel="noopener"} a boost. Encoding refers to [the process of sending information](https://science.howstuffworks.com/life/inside-the-mind/human-brain/human-memory1.htm){: target="_blank" rel="noopener"} to your brain’s hippocampus, where the decision is made to either store the information long-term or let it go. If you write something by hand, all that complex sensory information increases the chances the knowledge will be stored for later. In short, writing by hand forces your brain to process information in a more detailed way, which helps you successfully load that information into your memory.
 
@@ -58,7 +58,7 @@ The skill of writing forces you to slow down. It forces you to be deliberate.
 
 In oral communication, you’re pressed to keep pace with the conversation and exercise a certain level of mental agility that, while sometimes advantageous, keeps you from thinking deeply and formulating the most appropriate response. When you sit down to write, you have all the time in the world to find the best words and the best combination of those words to express yourself most clearly.
 
-It’s for this reason that writing should improve your ability to speak. According to [business2community.com](https://www.business2community.com/communications/5-ways-writing-frequently-will-help-your-communication-skills-02251745#:~:text=Increased%20articulation%20in%20your%20writing,more%20smooth%20communicator%20each%20day.){: target="_blank"}\:
+It’s for this reason that writing should improve your ability to speak. According to [business2community.com](https://www.business2community.com/communications/5-ways-writing-frequently-will-help-your-communication-skills-02251745#:~:text=Increased%20articulation%20in%20your%20writing,more%20smooth%20communicator%20each%20day.){: target="_blank"}:
 
 > Increased articulation in your writing will spread to the ways that you talk and think. When you can put words on paper cleanly and clearly, it will become easier to do so in your speech. That, in turn, will translate to you being a better and more smooth communicator each day.
 

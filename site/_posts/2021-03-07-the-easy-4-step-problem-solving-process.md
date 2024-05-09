@@ -6,7 +6,7 @@ permalink: /problem-solving-process/
 tags:
   - chess-math-and-language
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   This is the 4 step problem-solving process that I taught to my students for
   math problems, but it works for academic and social problems as well.

@@ -6,7 +6,7 @@ permalink: /gorilla-mind-smooth-review/
 tags:
   - how-to-become-superhuman
 categories:
-  - chess-math-and-language
+  - Reality
 description: >-
   A comprehensive review of the Gorilla Mind Smooth nootropic formula: what I
   think of it, how I use it, and how it compares to other popular nootropics.
@@ -26,7 +26,7 @@ I personally did not have any of these issues, but given them ingredient profile
 
 ![Coffee lovers](/assets/images/posts/coffee-so-black.jpeg "I drink a lot of coffee, so might be a bit of resistance"){: width="500" height="503"}
 
-Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement.&nbsp;
+Gorilla Mind Smooth is more low-key. Where Gorilla Mind Rush was like turning on turbo boosts of your neuroprocessing ability, Gorilla Mind Smooth is like simply using a higher grade of better burning, more efficient fuel. I almost hesitate to put Gorilla Mind Smooth into the category of nootropic. Rather, it's a lot closer to a cognitive wellness supplement.
 
 It’s the best stim-free nootropic I’ve used. It has been a gamechanger for when I shift my work to later in the day but don’t want to pull an all-nighter due to the caffeine.
 
@@ -42,9 +42,9 @@ Here’s what I notice after taking it, although your experience may vary:
 
 **Within 15 minutes:** I can feel my mind start to zone in on the task at hand. I also begin to notice a slight uptick in focus and concentration. This might be placebo, many of the ingredients increase acetylcholine and that causes increased blood flow and heightened concentration. So it's likely not in my head.
 
-**Within 1 hour:**&nbsp; Every ingredient in Gorillia Mind Smooth is at peak concentration in my blood stream. It's at this point that I generally feel in a great mood. The mood enhancement is one of the least discussed aspects of any nootropic supplement, and this one Gorilla Mind Rush is a great pick-me-up.
+**Within 1 hour:**  Every ingredient in Gorillia Mind Smooth is at peak concentration in my blood stream. It's at this point that I generally feel in a great mood. The mood enhancement is one of the least discussed aspects of any nootropic supplement, and this one Gorilla Mind Rush is a great pick-me-up.
 
-**After 6-8 hours:** I slowly return to my baseline state. And I mean slow.&nbsp; It’s a smooth transition since there’s no chance of a caffeine crash. Also, Huzeprine-A (one of the active ingredients) has a half-life of 10-14 hours. This means that it's going to continue to have a noticable acetylcholine boosting effect hours after you take it. However, sine there are no stimulants, you never feel too anxious.&nbsp;
+**After 6-8 hours:** I slowly return to my baseline state. And I mean slow.  It’s a smooth transition since there’s no chance of a caffeine crash. Also, Huzeprine-A (one of the active ingredients) has a half-life of 10-14 hours. This means that it's going to continue to have a noticable acetylcholine boosting effect hours after you take it. However, sine there are no stimulants, you never feel too anxious.
 
 Since making Gorilla Mind Smooth a part of my morning ritual, these are the main benefits I’ve experienced.
 
@@ -58,15 +58,15 @@ This is the most surprising benefit of taking this supplement. I legitimately fe
 
 I would never describe this as euphoria. It's more of an undeterrable optimism and higher levels of patience. This contrasts \*sharply\* to my experience with some other nootropics. I don't have a temper, but I have experienced less patient on Gorilla Mind Rush or Onnit Alpha Brain. I suspect it's due to GMS using a health dose of L-Tyrosine and Saffron Extract.
 
-Both of these ingredients aid in the production of dopamine and seratonin. This is a very nice addition, as both of these are naturally occurring are missing in most nootropics. GMS seems to take the stance that a good mood is essential for productivity, and I'm here for it.&nbsp;
+Both of these ingredients aid in the production of dopamine and seratonin. This is a very nice addition, as both of these are naturally occurring are missing in most nootropics. GMS seems to take the stance that a good mood is essential for productivity, and I'm here for it.
 
 ### Improve reaction times and athletic performance
 
 While I'm not longer a professional fighter, I still make it a point to stay in shape. I also never miss a workout. With my routine, I'd like to think that it wouldn't take too long to get back into fighting shape.
 
-While I love the gym, I don't have the same type of burning motivation I had to get in there when I was doing it for a living. That's where GMS comes in handy, as it boosts my mood and motivation.&nbsp;
+While I love the gym, I don't have the same type of burning motivation I had to get in there when I was doing it for a living. That's where GMS comes in handy, as it boosts my mood and motivation.
 
-Since I also still spar, I noticed that GMS helps with my reaction time and explosiveness. Now to be fair, the ingredients that seem to responsible for that are pretty standard when it comes to nootropic supplements, but as far as I can tell, what makes GMS unique is that it doesn't have any other ingredients in it that are banned by the World Anti Doping Agency (WADA).&nbsp;
+Since I also still spar, I noticed that GMS helps with my reaction time and explosiveness. Now to be fair, the ingredients that seem to responsible for that are pretty standard when it comes to nootropic supplements, but as far as I can tell, what makes GMS unique is that it doesn't have any other ingredients in it that are banned by the World Anti Doping Agency (WADA).
 
 The 100mg dose of L-Theanine helps me [maintain my reaction time and mental sharpness](https://www.sciencedirect.com/science/article/pii/S1756464611000351) to get the most out of those long grueling sessions. Couple that with the 600mg of Alpha GPC for [boosting my growth hormone and fat oxidation](https://pubmed.ncbi.nlm.nih.gov/22673596/), and it’s how I stay in peak physical form.
 
@@ -84,7 +84,7 @@ GMS is not only stimulant free, but the main difference between GMS and Gorilla 
 
 If you're a harder stimulant or nootropic veteran, you may simply not feel any effects from it. I find this to be particularly true when I’ve been drinking a lot of coffee since caffeine is such a powerful stimulant.
 
-This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system. I wouldn't take this before a chess match if I was looking for an edge, but I WOULD take it to keep my mood high while I'm playing.&nbsp;
+This isn't necessarily a bad thing if you're looking for something a little on the lighter side for your system. I wouldn't take this before a chess match if I was looking for an edge, but I WOULD take it to keep my mood high while I'm playing.
 
 If you’re expecting GMS to make you feel like Bradley Cooper in *Limitless*, this ain’t it. The effects are much more subtle. Compared to other stimulant-laden nootropics, it can sometimes be hard to tell if I’m experiencing a mental boost or just the results of a placebo. It’s when I’ve refrained from taking stimulants for a while that I notice the full effects of GMS.
 
@@ -123,7 +123,7 @@ The most disappointing finding with Alpha Brain is that it lumps some of its mos
 
 Typically when manufacturers advertise proprietary blends, they’re trying to hide behind a poor formula or cover up the fact that they’ve copied someone else. Either way, a lack of transparency isn’t something I look for in my supplements.
 
-With that said, whatever they're mixing in Alpha Brain is effective. [I've used it and written about it.](/alpha-brain-review/) They're just not transparent about it.&nbsp;
+With that said, whatever they're mixing in Alpha Brain is effective. [I've used it and written about it.](/alpha-brain-review/) They're just not transparent about it.
 
 ### Vs. Qualia Mind
 
