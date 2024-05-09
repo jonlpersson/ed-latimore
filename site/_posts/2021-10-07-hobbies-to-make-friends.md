@@ -6,7 +6,7 @@ permalink: /hobbies-to-make-friends/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   How to stop being lonely and use hobbies to make new friends. Using hobbies
   and interests is—by far—the best way to meet new people.
@@ -24,7 +24,7 @@ These people were so desperate to make friends they were posting themselves on a
 
 And they’re not alone. People have now started trying to find friends on dating sites too.
 
-Hey, no hate here. Loneliness is now considered as deadly as smoking cigarettes.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Hey, no hate here. Loneliness is now considered as deadly as smoking cigarettes.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 People are lonely. And if you're here, you're probably lonely too.
 
@@ -38,7 +38,7 @@ Try at least one of the things I’ve listed here and watch great things start t
 
 As you get older you start to believe you can’t learn or try something new. But this is false, and advancements in brain studies and neuroplasticity tell us why:
 
-Neuroplasticity is the brain’s ability to change and grow.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> As you learn and experience new things, your brain physically adapts to accommodate new skills, experiences, and information.
+Neuroplasticity is the brain’s ability to change and grow.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> As you learn and experience new things, your brain physically adapts to accommodate new skills, experiences, and information.
 
 This continues from before you’re born to the moment you die.
 
@@ -48,7 +48,7 @@ The only thing holding you back is you and your comfort zone. I’ve grouped new
 
 ## Creative hobbies
 
-If you have social anxiety, creative hobbies can help. You'll get practice meeting people but you also get the mental and physical health benefits. Creative activities such as expressive writing and acting have been shown to improve long-term depression and anxiety while boosting your immune system.<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+If you have social anxiety, creative hobbies can help. You'll get practice meeting people but you also get the mental and physical health benefits. Creative activities such as expressive writing and acting have been shown to improve long-term depression and anxiety while boosting your immune system.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup>
 
 Simply put, creative hobbies make you feel better. When you feel better you do more things, make more friends, and improve your self-confidence.
 
@@ -81,7 +81,7 @@ Interesting intellectual and adventurous hobbies include:
 
 ## Contribution-based hobbies
 
-For those looking to have a sense of contribution to their local area start with volunteering or contribution-based hobbies. You meet people you know are good-natured and you improve your own health.<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
+For those looking to have a sense of contribution to their local area start with volunteering or contribution-based hobbies. You meet people you know are good-natured and you improve your own health.<sup>[4](#fn:4){: .footnote rel="footnote"}</sup>
 
 The best thing about volunteering is that there are usually large groups of people to interact with, making it easier to establish multiple friendships.
 
