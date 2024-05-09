@@ -6,7 +6,6 @@ permalink: /kobe-bryant-mamba-mentality-quotes-and-summary/
 tags:
   - book-quotes-and-summaries
 categories:
-  - chess-math-and-language
 description: >-
   38 Mamba Mentality Quotes on learning, dealing with pressure, work ethic,
   relating to people, and developing an indomitable will
@@ -24,9 +23,9 @@ What is the Mamba Mentality? From Kobe Bryant himself:
 
 The mindset tips are top-notch and are useful for both athletes and non-athletes alike. However, I thought the real gems were insights into learning, dealing with people, and physical training. In particular, a lot of what he discusses about being a competitive basketball player is highly applicable to boxing as well.
 
-Here are 38 Kobe Bryant Quotes from The Mamba Mentality.&nbsp;
+Here are 38 Kobe Bryant Quotes from The Mamba Mentality.
 
-## 38 Mamba Mentality Quotes&nbsp;
+## 38 Mamba Mentality Quotes 
 
 ## Learning
 
