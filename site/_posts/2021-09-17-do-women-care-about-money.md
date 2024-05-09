@@ -6,7 +6,7 @@ permalink: /do-women-care-about-money/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Are all women gold-diggers? Not exactly, but they don't want to date broke
   men. Here’s why money is so important to the opposite sex
@@ -46,7 +46,7 @@ It might sound counter-intuitive, but trust me on this. You’ve probably heard 
 
 Almost everyone has heard this already.
 
-It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup> women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
+It may sound cliché that women are looking for men to be the breadwinner, but it’s true. Science backs this up<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> women choose men who are able to acquire resources for living and caring for offspring. A long time ago, that may have meant your ability to hunt and kill your food for the day and provide safety from outside factors.
 
 Today, the landscape is different but the principle is the same. You eat what you kill.
 

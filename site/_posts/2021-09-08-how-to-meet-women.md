@@ -6,7 +6,7 @@ permalink: /how-to-meet-women/
 tags:
   - dating-and-relationships
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Worried about getting rejected when you talk to girls? Interested in meeting
   women but not sure where to start? Start here.
@@ -42,7 +42,7 @@ Women want to be approached, and women want to have sex.
 
 What they don't want is to carry the weight of your expectations and creepy vibes. Why? Because you're a much bigger animal than they are, and thus you present a threat.
 
-If you think of it from an evolutionary standpoint, women have a considerable amount to invest (and a lot to lose) if they become pregnant from your exchange. Their biology actually puts them in a state of vulnerability.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+If you think of it from an evolutionary standpoint, women have a considerable amount to invest (and a lot to lose) if they become pregnant from your exchange. Their biology actually puts them in a state of vulnerability.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Before a woman will be receptive to you she needs to feel two main things:
 
@@ -81,7 +81,7 @@ When I was a single man, I developed a framework for [picking hobbies to meet wo
 
 ## Quiet the judgemental, fear-fuelled monkey part of your brain
 
-If you want to approach more women, you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
+If you want to approach more women, you need to be able to control your self-talk. Persistent negative self-talk is the easiest way to ruin your health<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> and never get anywhere in life. It undermines your confidence, which turns you into a person not many people want to be around.
 
 That voice is fueled by social media, all your external input, and how you were raised. It’s your fear threatening to take the wheel. Don’t let it.
 
