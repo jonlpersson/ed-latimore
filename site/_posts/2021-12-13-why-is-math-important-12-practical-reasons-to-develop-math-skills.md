@@ -6,7 +6,7 @@ permalink: /why-is-math-important/
 tags:
   - math-concepts
 categories:
-  - chess-math-and-language
+  - Risk
 description: >-
   If one of these reasons to learn math motivates you to be a better student or
   makes your job as a teacher easier, then this list has done its job,
@@ -128,7 +128,7 @@ You need to understand how to follow a recipe. There’s a big difference betwee
 
 [Read more about what happens when a population lacks mathematical knowledge here.](https://bettermarketing.pub/the-a-w-third-pounder-failed-because-people-didnt-understand-fractions-a86b966a973a)
 
-In his book&nbsp;[Threshold Resistance](https://amzn.to/3e4wiGN), Adolph Taubman looked back on this whole situation. He states: *“More than half the participants of the Yankelovich focus groups questioned the price of our burger. “Why,” they asked, “should we pay the same amount for a third-pound of meat as we do for a quarter-pound of meat at McDonald’s? You’re overcharging us.”*
+In his book [Threshold Resistance](https://amzn.to/3e4wiGN), Adolph Taubman looked back on this whole situation. He states: *“More than half the participants of the Yankelovich focus groups questioned the price of our burger. “Why,” they asked, “should we pay the same amount for a third-pound of meat as we do for a quarter-pound of meat at McDonald’s? You’re overcharging us.”*
 
 ## The future is mathematical
 

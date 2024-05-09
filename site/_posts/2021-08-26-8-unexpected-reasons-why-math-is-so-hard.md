@@ -6,7 +6,7 @@ permalink: /why-is-math-so-hard/
 tags:
   - math-concepts
 categories:
-  - chess-math-and-language
+  - Risk
 description: >-
   Math can be difficult, but it doesn't have to be. Part of making it easier is
   to understand why it's challenging in the first place. This post explains it
@@ -17,7 +17,7 @@ image: /assets/images/thumbnails/struggling-with-math.jpg
 
 Like many students, I had a hard time with math class. I didn’t consider myself a “math person,” and after I failed (or barely passed) most of my high school math classes, I figured I would never do anything involving math.
 
-Unfortunately, most of the [highest paying jobs](https://www.businessinsider.com/high-paying-jobs-for-people-who-love-math-2016-6#-14){: target="_blank" rel="noopener noreferrer"} and&nbsp;[with the highest employee satisfaction](https://www.itweb.co.za/content/XlwrKxq35rg7mg1o){: target="_blank" rel="noopener noreferrer"} all require at least skills you learn in typical high school math classes.
+Unfortunately, most of the [highest paying jobs](https://www.businessinsider.com/high-paying-jobs-for-people-who-love-math-2016-6#-14){: target="_blank" rel="noopener noreferrer"} and [with the highest employee satisfaction](https://www.itweb.co.za/content/XlwrKxq35rg7mg1o){: target="_blank" rel="noopener noreferrer"} all require at least skills you learn in typical high school math classes.
 
 At the very least, the highest-paying jobs expect you to have a mind geared towards working on quantitative problems—the type of problems that are easier to solve if you have a good grasp of basic math concepts.
 
@@ -37,7 +37,7 @@ Because everyone who’s taken a math class before you has struggled, you think 
 
 Letting the failures of others influence you can be crippling—especially for students with low self-esteem and self-confidence.
 
-This complaint means little when it comes from someone you think is less intelligent than you. But when you hear it from strong students, it is far more intimidating.&nbsp;
+This complaint means little when it comes from someone you think is less intelligent than you. But when you hear it from strong students, it is far more intimidating.
 
 If you find yourself believing that math is supposed to be difficult only because it's been portrayed that way, remind yourself of this:
 
@@ -69,7 +69,7 @@ Math is cumulative. It builds on itself.
 
 You need trigonometry to do calculus. You need algebra and geometry to do trigonometry.
 
-It’s not enough to just pass these classes with a C. It’s not even good enough to pass these classes with any grade, even if It’s A+.&nbsp;
+It’s not enough to just pass these classes with a C. It’s not even good enough to pass these classes with any grade, even if It’s A+.
 
 You need to understand the subject. Otherwise, you’ll be in trouble when you take the next level.
 
@@ -85,9 +85,9 @@ The more difficult problems you face in math and the more new topics tackle, the
 
 Many people find math difficult because they try to memorize their way through the material. However, there isn’t very much to remember. Math is about finding the relationship between things and problem-solving.
 
-Working through practice problems makes you better at solving math problems, but only if you take the time to understand the mechanics and intricacies of a solution. Practice problems are great, but if you memorize how to do them without actually understanding how to arrive at a solution, you will be unhappily surprised when you encounter a problem that looks different from the one you solved before.&nbsp;
+Working through practice problems makes you better at solving math problems, but only if you take the time to understand the mechanics and intricacies of a solution. Practice problems are great, but if you memorize how to do them without actually understanding how to arrive at a solution, you will be unhappily surprised when you encounter a problem that looks different from the one you solved before.
 
-This is the reason students hate world problems. Word problems force you to use your math skills in a way that is different from how problems are normally presented to you. If you’ve relied on memorization to get you through your math education, then word problems will give you a fit, as will many other real-world applications of math.&nbsp;
+This is the reason students hate world problems. Word problems force you to use your math skills in a way that is different from how problems are normally presented to you. If you’ve relied on memorization to get you through your math education, then word problems will give you a fit, as will many other real-world applications of math.
 
 ## You don’t know how to use basic concepts in the real world
 
@@ -95,21 +95,21 @@ Everyone should know some basic math concepts, but many people skip over them. F
 
 A fraction seems mysterious until you remember that it’s nothing more than a simple case of a division problem and a special case of a multiplication problem. The inability to make rough estimates is also a problem for people who find math difficult.
 
-Estimation is important because most things in life aren’t exactly known, nor do they need to be. However, estimating how much something costs or how long a trip will take is often the difference between an avoidable headache and an inescapable nightmare.&nbsp;
+Estimation is important because most things in life aren’t exactly known, nor do they need to be. However, estimating how much something costs or how long a trip will take is often the difference between an avoidable headache and an inescapable nightmare.
 
 ## You have dyscalculia or dyslexia
 
-[Dyscalculia is a learning difficulty](https://www.understood.org/articles/en/what-is-dyscalculia)&nbsp;that causes students to struggle with math at many levels. Anything related to formulas, shapes, and the comparison of relationships between spaces and quantities will give a student with dyscalculia trouble. This makes it difficult for them to solve basic and abstract math problems. These students usually fall far behind other math students at their grade level.
+[Dyscalculia is a learning difficulty](https://www.understood.org/articles/en/what-is-dyscalculia) that causes students to struggle with math at many levels. Anything related to formulas, shapes, and the comparison of relationships between spaces and quantities will give a student with dyscalculia trouble. This makes it difficult for them to solve basic and abstract math problems. These students usually fall far behind other math students at their grade level.
 
 [Dyslexia is a learning disorder](https://www.understood.org/articles/en/what-is-dyslexia){: target="_blank" rel="noopener noreferrer"} that involves difficulty reading due to problems identifying speech sounds and learning how they relate to letters and words. Students with dyslexia will have serious problems working with word problems.
 
-Both of these conditions are considered learning disabilities and should be diagnosed and treated if you suspect that you or someone you know is suffering from them. They can not only affect a student in school, but can give them difficulties in their daily life as well.&nbsp;
+Both of these conditions are considered learning disabilities and should be diagnosed and treated if you suspect that you or someone you know is suffering from them. They can not only affect a student in school, but can give them difficulties in their daily life as well.
 
 ## You just don’t like math
 
 Look, I get it.
 
-For whatever reason, you hate math. You dread the start of every school year where you're given near worksheets and problems to tackle. It simultaneously gives you "math anger" and "math anxiety."&nbsp;
+For whatever reason, you hate math. You dread the start of every school year where you're given near worksheets and problems to tackle. It simultaneously gives you "math anger" and "math anxiety."
 
 However, I always remind people that how they feel about something is no excuse for doing poorly at it. Not to mention, if you put just a little effort into improving your mathematical ability, you might come to like it. We tend to enjoy things that we’re good at. At the very least, we hate doing things we’re bad at.
 
@@ -126,12 +126,12 @@ If the subject is so stupid and you hate it, the easiest way to improve your lif
 5. You try to rely on memorization
 6. You don’t know how to use basic concepts in the real world
 7. You have dyscalculia or dyslexia
-8. You just don’t like math &nbsp;
+8. You just don’t like math
 
 Math skills are just a tool to make your life a little easier. Calculators just solve computation problems, but understanding the relationships between things is the core of mathematics. Most people give up honing their math skills because they had a few bad experiences in school, most of which are listed here.
 
 If you see yourself on this list, now you know why math seems so hard, and you can do something about it.
 
-The rest is up to you.&nbsp;
+The rest is up to you.
 
 {% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}
