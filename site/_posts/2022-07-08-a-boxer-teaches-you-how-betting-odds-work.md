@@ -6,7 +6,7 @@ permalink: /how-do-betting-odds-work/
 tags:
   - math-concepts
 categories:
-  - chess-math-and-language
+  - Risk
 description: >-
   Betting odds look perplexing to most people who are not involved in the sports
   betting or gambling scene. However, they are actually quite simple.
@@ -126,7 +126,7 @@ Whenever someone asks me who I think will win in a boxing match, I always tell t
 That type of answer annoys a basic sports bettor who is just trying to get you to pick a side to bet on without consideration of the odds. However, this is the only proper way to think of betting on sports for two major reasons:
 
 1. Anything can happen, and players/fighters/competitors/teams get lucky. Granted, at a high level of skill, the role of luck is *drastically* diminished, but it still exists.<br><br>Furthermore, one part of luck that always exists is the referees, judges, and officials. One bad call can alter a contest's entire outcome, especially if it’s close.
-2. How do you generate betting action against an obvious loser if you bet in this fashion? You’d have to be a fool if you bet against the 2007 New England Patriots, 2015 Golden State Warriors, or against Mike Tyson when he fought Buster Douglas.&nbsp;<br><br>But in all three scenarios, there were losses, but they were unlikely to happen. The format of betting odds entices bettors to take a chance against underdogs. Straight betting on the winner does not.
+2. How do you generate betting action against an obvious loser if you bet in this fashion? You’d have to be a fool if you bet against the 2007 New England Patriots, 2015 Golden State Warriors, or against Mike Tyson when he fought Buster Douglas. <br><br>But in all three scenarios, there were losses, but they were unlikely to happen. The format of betting odds entices bettors to take a chance against underdogs. Straight betting on the winner does not.
 
 If we apply this type of ["thinking in bets"](/annie-duke-thinking-in-bets-quotes/) to our daily decisions, we would immediately notice a big change: we’re deliberate in our thinking because we view the outcome as an assessment of risk that we are impassionately calculating rather than a bet that we attach to our ego.
 
