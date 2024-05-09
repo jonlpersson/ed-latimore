@@ -6,7 +6,7 @@ permalink: /how-to-get-closer-to-a-friend/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Tired of surface-level relationships? Want to be closer to the friends you
   have? This article shows you how to be closer with friends & loved ones
@@ -16,11 +16,11 @@ We all want friends with benefits.
 
 ‘Life benefits’ that is.
 
-And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self-worth, and your confidence.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+And if you believe better friends would make you happier, you’re not wrong. Close interpersonal relationships boost your physical health, your sense of self-worth, and your confidence.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 This is true for both adults and adolescents.
 
-So why is it that around the age of 25 we start losing friends?<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+So why is it that around the age of 25 we start losing friends?<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 Well, one reason is, it’s harder because we’re busier. Another reason is people start believing it’s not possible to find good friends.
 
@@ -32,7 +32,7 @@ In this article, you’ll learn how to intentionally build stronger relationship
 
 ## 1\. Know what kind of friend you’re dealing with
 
-According to one study<sup id="fnref:3" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:3">3</a>,</sup> a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
+According to one study<sup>[3](#fn:3){: .footnote rel="footnote"},</sup> a person only has the mental room for about 150 friends. Of those, only 1-5 of them are considered close friends. Knowing the type of friendships you want to create, and where your current friends sit, will help you be more intentional about how you develop the relationship.
 
 We typically consider friends those unrelated to us but friend groups can include family and significant others as well. These are categorized into five general categories with the first being the closest:
 
@@ -73,7 +73,7 @@ Good friends make you a better person. I know when I was facing alcohol addictio
 
 But all friendships are not created equally. Time-on-task doesn’t automatically equal closeness. To build closer friendships you need better conversations. And better conversations require you to ask questions that go deeper than “How are you,” or “What are we doing tonight?”
 
-Research shows<sup id="fnref:4" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:4">4</a></sup> that questions like the ones below can help foster closer relationships:
+Research shows<sup>[4](#fn:4){: .footnote rel="footnote"}</sup> that questions like the ones below can help foster closer relationships:
 
 * Before making a phone call, do you ever rehearse what you're going to say? Why?
 * If you could change anything about how you were raised, what would it be?
@@ -87,7 +87,7 @@ What you learn from these conversations benefit your relationships but also make
 
 ## 4\. Practice forgiveness
 
-Forgiveness is a much-talked-about but often overlooked method of bringing people closer together.&nbsp;
+Forgiveness is a much-talked-about but often overlooked method of bringing people closer together.
 
 Forgiveness helps to alleviate the past tension people feel in relationships and avoids the inevitable resentment. Most people say “forgive but don’t forget.” However, if thinking about something in the past still makes you angry and resentful, you haven’t fully forgiven the other person.
 
@@ -115,7 +115,7 @@ As long as you have shared values, the people you’re close to don’t have to 
 
 Say your friend is into pro wrestling. You don’t have to love pro wrestling to know why they love it. Taking an interest makes your friends feel validated and like they matter.
 
-In turn, they will want to provide the same for you. This is the law of reciprocity.<sup id="fnref:5" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> Giving value makes others want to return that value. Or “you reap what you sow.”
+In turn, they will want to provide the same for you. This is the law of reciprocity.<sup>[5](#fn:5){: .footnote rel="footnote"}</sup> Giving value makes others want to return that value. Or “you reap what you sow.”
 
 Be mindful, though, when this energy is not returned. That’s a key sign you’re in a one-sided relationship.
 
