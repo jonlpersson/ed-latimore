@@ -6,7 +6,7 @@ permalink: /how-to-dress-as-a-muscular-man/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/posts/ed-dressed-musclar.png
 description: >-
   How muscular men can enhance physical attractiveness with better clothing
@@ -30,7 +30,7 @@ In this guide, you’ll discover the fundamentals of how to dress when you’re 
 
 ## Get something that fits
 
-The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup><a class="footnote" href="#fn:1">1</a></sup>
+The easiest step you can take on the journey to dressing your muscular body is simply knowing your body type and measurements. You’ve probably heard of the body-typing system of somatotypes. This typing was pioneered by Dr. William Sheldon, a psychologist and physician.<sup>[1](#fn:1){: .footnote}</sup>
 
 Sheldon claimed that there are three main body types that also influence your behavior. While body typing has been widely accepted, the behavioral aspect has been disputed.
 
@@ -79,7 +79,7 @@ Muscular men typically have broad shoulders. It’s not uncommon to Incredible-H
 
 Your shirts should be wide in the chest and sleek at the waist. The taper provides visual contrast and highlights your strong upper body.
 
-Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup><a class="footnote" href="#fn:2">2</a></sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
+Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup>[2](#fn:2){: .footnote}</sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
 ***Again, this is [Tappered Menswear](https://taperedmenswear.com?ref=12) is the single best place to get these types of clothes. It's in the name!.***
 

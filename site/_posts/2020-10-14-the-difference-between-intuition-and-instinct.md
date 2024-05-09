@@ -7,7 +7,7 @@ tags:
   - mental-toughness
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Intuition is the result of knowledge and knowledge is the result of
   experience. Instinct is innate. Learn the advantages of both.
@@ -117,7 +117,7 @@ But before that, speed is positioning. This attribute is overlooked because it�
 
 Who cares how fast the other guy can solve the problem if you simply know the answer without thinking? That’s the power of intuition.
 
-It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You're much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *That’s intuition.&nbsp;*
+It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You're much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *That’s intuition.*
 
 This applies to everything in life. If you want to improve your intuition, get more experience in the field you wish to improve. It requires sustained effort, an appetite for risk, and a desire to improve. Pass the tests and intuition is yours—it will serve you for the rest of your life.
 

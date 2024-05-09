@@ -6,7 +6,7 @@ permalink: /how-to-look-taller/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   These style tips will not only make you look taller, but some of them may
   actually increase your height. 
@@ -44,7 +44,7 @@ Losing body fat makes you look taller for two reasons:
 1. Weight reduction decompresses the spine. Depending on how overweight you are, this decompression could result in up to an inch of height gained.
 2. It is easier to have a proper posture when you’re slimmer and it helps one to appear taller after weight loss.
 
-[A research study published by Israeli neurosurgeon Zvi Lidar](https://pubmed.ncbi.nlm.nih.gov/22648024/){: target="_blank" rel="noopener noreferrer"}&nbsp;demonstrates how effective this approach can be in looking taller. The researchers noted that "disc height restoration after weight reduction was significant."
+[A research study published by Israeli neurosurgeon Zvi Lidar](https://pubmed.ncbi.nlm.nih.gov/22648024/){: target="_blank" rel="noopener noreferrer"} demonstrates how effective this approach can be in looking taller. The researchers noted that "disc height restoration after weight reduction was significant."
 
 They noted an increase of about 2 mm in just one intervertebral disc, between the fourth and fifth lumbar vertebrae. That’s not much in one disk alone, but if those results happen alone all the disks—or even just half—you’re looking at noticeable real height gain of potential 1-3 inches.
 

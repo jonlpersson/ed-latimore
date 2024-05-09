@@ -6,7 +6,7 @@ permalink: /wim-hof-method-review/
 tags:
   - mental-toughness
 categories:
-  - longevity-health-and-performance
+  - Reality
 image: /assets/images/thumbnails/ed-latimore-ice-bath-submerged.jpg
 description: >-
   After purchasing the Wim Hof video course, I have no regrets. Here is my
@@ -67,7 +67,7 @@ There are two basic aspects of Wim Hof’s teachings, and they work in tandem wi
 1. Proper breathing techniques
 2. Cold therapy
 
-Consistent practice of Wim’s methods has many benefits. According to his own website, [they include](https://www.wimhofmethod.com/benefits){: target="_blank" rel="noopener"}\:
+Consistent practice of Wim’s methods has many benefits. According to his own website, [they include](https://www.wimhofmethod.com/benefits){: target="_blank" rel="noopener"}:
 
 * More energy
 * Boosting your immune system
@@ -192,7 +192,7 @@ In fighting, we call this “turning down the noise”. It takes a little practi
 
 And when you master the breathwork that is taught in the Wim Hof’s course, you realize that the cold can do amazing things for your body’s ability to heal itself. You will no longer feel apprehensive toward it because you’re in control of your body’s shivering response.
 
-Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure.&nbsp;
+Like the skills I picked up in fighting, this skill transfers to other areas of life too: I’m able to stay focused through discomfort and better execute difficult tasks under pressure.
 
 ## Conclusion
 

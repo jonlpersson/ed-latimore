@@ -6,7 +6,7 @@ permalink: /pushing-through-the-pain/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   You learn the most about yourself when you push through pain. These are some
   of the lessons that can't be taught.

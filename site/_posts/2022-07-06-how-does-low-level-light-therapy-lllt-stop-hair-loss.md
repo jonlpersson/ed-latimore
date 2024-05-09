@@ -6,7 +6,7 @@ permalink: /low-level-light-therapy-for-hair-loss/
 tags:
   - how-to-stop-balding
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Low-level laser (light) is a gamechanger for men losing their hair. But how
   does it work? This describes how the technology works and much more. 
@@ -147,7 +147,7 @@ Low-level light therapy produces excellent results for thinning hair resulting f
 LLLT does not work in advanced cases of baldness. It cannot cause hair growth on areas of the scalp where there’s no hair at all, as there are no hair follicles to stimulate. LLLT only works on active hair follicles and has no effect on hair follicles that are already shrunken and dead.
 
 * Research has shown that LLLT helped to slow down or even stop hair loss in 85% of patients undergoing treatment. A [2013 study of 41 males ages 18 to 48](https://www.ncbi.nlm.nih.gov/pubmed/24078483){: target="_blank" rel="noopener noreferrer"} found that laser hair treatment provided a 39 percent increase in hair growth over a period of 16 weeks.
-* [A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"}&nbsp;showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
+* [A metanalysis of LLLT](https://onlinelibrary.wiley.com/doi/10.1002/lsm.22170){: target="_blank" rel="noopener"} showed that both men and women experienced substantial growth in temporal hair loss (55% in women, 74% in men) and vertex (65% in women, 120% in men).
 * The same metanalysis references a study demonstrating significant improvements in overall hair regrowth, slowing of hair loss, thicker feeling hair, better scalp health, and hair shine was also demonstrated in terms of patients' subjective assessment at 26 weeks over baseline.
 
 ## How often should you use Low-Level Light Therapy to grow your hair back?

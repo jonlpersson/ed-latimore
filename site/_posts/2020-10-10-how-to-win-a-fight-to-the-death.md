@@ -6,7 +6,7 @@ permalink: /fight-to-the-death/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   Fighting to the death teaches you a lot about life. Violence has a lot to
   teach us all. I learned from both street fights and boxing matches.

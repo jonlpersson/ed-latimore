@@ -6,7 +6,7 @@ permalink: /bosley-revitzlizer-272-laser-cap-review/
 tags:
   - longevity-health-and-performance
 categories:
-  - longevity-health-and-performance
+  - Reality
 description: >-
   I've been using Bosley's 272 Revitalizer laser cap to see if this is really
   worth the price tag. Read my review to see if this product is worth the money.
@@ -49,7 +49,7 @@ With that out of the way, let’s dig into the functions, features, and promises
 
 ## What you need to know about low-level laser therapy (lllt)
 
-I wrote an in-depth article on how LLLT works. You can read the whole thing here—&gt;[How Low-Level Laser Therapy works](/low-level-light-therapy-for-hair-loss/)[&nbsp;for hair loss](/low-level-light-therapy-for-hair-loss/)
+I wrote an in-depth article on how LLLT works. You can read the whole thing here—&gt;[How Low-Level Laser Therapy works](/low-level-light-therapy-for-hair-loss/)[for hair loss](/low-level-light-therapy-for-hair-loss/)
 
 The TL:DR summary is that LLLT uses a low-power laser at a specific wavelength to promote hair growth if the hair follicles aren’t completely miniaturized. However, even hair follicles that are fairly advanced in their miniaturization can be revitalized due to LLLT.
 
@@ -73,12 +73,12 @@ This is significant because any topical or chemical hair loss solutions have not
 
 ## Who can use the Bosley Revitalizer 272?
 
-The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}&nbsp;due to any of the following reasons:
+The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"} due to any of the following reasons:
 
 * Androgenic alopecia
 * Alopecia areata
 * Hormonal imbalances
-* Postpartum&nbsp;
+* Postpartum
 * Illness
 * [Chemotherapy](https://www.clinicaltrials.gov/ct2/show/NCT01081106){: target="_blank" rel="noopener noreferrer"}
 * Aging
@@ -110,7 +110,7 @@ You can choose to use it for 8 minutes daily or 30 minutes every other day.
 
 ![Controller pad for Bosley Revitalizer 272 cap](/assets/images/drafts/controller-pad-for-revitalizer-cap.jpg "Controller pad for Bosley Revitalizer 272 cap"){: width="300" height="400"}
 
-While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"}&nbsp;On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
+While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"} On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
 
 This Bosley Revitalizer is extremely easy to use. You just put the cap on, turn the switch, and let it do its thing.
 
@@ -122,7 +122,7 @@ I get a small, nearly insignificant commission if you purchase from there. This 
 
 You clean the inside of the cap as needed with simple alcohol. I imagine that it will get dirty, but using it right after you shower before putting any conditioners or creams in your hair that for style or aid your hair restoration should keep it clean.
 
-You don't need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.&nbsp;
+You don't need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.
 
 ![Box and bag for storage of revitalizer cap](/assets/images/drafts/bosley-box-and-bag-storage.jpg "Box and bag for storage of revitalizer cap"){: width="400" height="300"}
 
