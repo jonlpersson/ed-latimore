@@ -6,7 +6,8 @@ permalink: /ten-crack-commandments-business-and-life-lessons/
 tags:
   - living-in-the-hood
 categories:
-  - life-lessons
+  - Reality
+  - Book Summaries And Ed Latimore Quotes
 description: >-
   The Ten Crackcommandments is an education in the real, raw, viciousness of
   human nature. This article takes lessons from the song to apply to your entire
@@ -45,11 +46,11 @@ I’ve broken down each of the 10 crack commandments so you get the benefits of 
 
 The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success.
 
-What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.&nbsp;
+What starts as mere envy often transforms into outright sabotage of your life and career. The motivation for this hate stems from a scarcity mentality and a lack of competitive drive.
 
 ***\[Read: [The 5 reasons why people hate you](/why-you-have-haters-even-if-you-arent-an-asshole/)\]***
 
-The scarcity mentality makes a person believe that everything is a zero-sum game.&nbsp;
+The scarcity mentality makes a person believe that everything is a zero-sum game.
 
 Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their abilities.
 
@@ -65,13 +66,13 @@ The most dangerous enemies aren’t the ones who openly oppose you. The ones who
 
 The element of surprise will always be your greatest advantage.
 
-Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can achieve your objective.&nbsp;
+Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can achieve your objective.
 
-If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6 ***(Read: [How to avoid a street fight and what to do if you can't](/how-to-win-a-street-fight/))***. Also, tell as few people as necessary about your plans. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.&nbsp;
+If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6 ***(Read: [How to avoid a street fight and what to do if you can't](/how-to-win-a-street-fight/))***. Also, tell as few people as necessary about your plans. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.
 
 Lastly, remember this: Lightning doesn’t strike the same place twice.
 
-Many opportunities only present themselves once. Certain vulnerabilities will not be open again. The moment your plan to exploit it is revealed, then it will disappear.&nbsp;
+Many opportunities only present themselves once. Certain vulnerabilities will not be open again. The moment your plan to exploit it is revealed, then it will disappear.
 
 > Real G’s move in silence like lasagna
 >
@@ -83,7 +84,7 @@ Many opportunities only present themselves once. Certain vulnerabilities will no
 
 > *Number 3, never trust no-bo-dy<br>Your moms'll set that ass up, properly gassed up<br>Hoodied and masked up, shit, for that fast buck<br>She be laying in the bushes to light that ass up*
 
-When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.&nbsp;
+When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.
 
 This is especially true when it comes to incentives.
 
@@ -95,7 +96,7 @@ Combine this with the second rule for supreme secrecy and information control.
 
 > *Number 4, I know you heard this before<br>Never get high on your own supply*
 
-Whatever you’re selling, it’s important that you don’t become an overindulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.&nbsp;
+Whatever you’re selling, it’s important that you don’t become an overindulgent customer. Your desire should never interfere with profits. It’s obvious when talking about selling alcohol or drugs, but let’s start there and extend the idea to other vices.
 
 Imagine being a drug dealer who is addicted to the drug he’s selling. Every day he confronts a difficult dilemma: to chase a high or chase dollars. The two goals are mutually exclusive. Now imagine something benign, like physical training.
 
@@ -153,7 +154,7 @@ This might be the only rule in the 10 crack commandments that people disagree wi
 
 People typically think of this situation as not hiring or working with family members. The pushback is that some of the world's most profitable and fulfilling businesses have been started with family members.
 
-Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, in terms of ambition, ability, or emotions.&nbsp;
+Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, in terms of ambition, ability, or emotions.
 
 If you’re not careful, the disagreements you have in your personal life will manifest themselves in your business relationships—and vice-versa.
 

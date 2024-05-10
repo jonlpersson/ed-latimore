@@ -6,7 +6,7 @@ permalink: /bet-on-yourself/
 tags:
   - mental-toughness
 categories:
-  - life-lessons
+  - Risk
 description: "Betting on yourself is the fastest way to success. Now it’s time for you to learn how and why you need to\_do this as well."
 image: /assets/images/posts/bet-on-yourself.png
 ---
@@ -78,7 +78,7 @@ You don’t get to come up with excuses and reasons why your life is the way it 
 
 This level of control scares most people because this level of control comes with personal responsibility. This is ultimately what betting on yourself comes down to—absolute control over your destiny. I’m convinced that you can’t discover your purpose until you take the responsibility necessary to bet on yourself. Until then, you’ll just be adrift.
 
-People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world.&nbsp;
+People who are insulated by the safety of others are like children that are never fully exposed to the harsh nature of the world.
 
 ## 6) It's the only way to get information from your intuition
 
@@ -97,7 +97,7 @@ This only happens when you act on it and acting on it is only done when you bet 
 3. Your performance standards raise in all areas of your life
 4. It makes you see opportunities everywhere
 5. It forces you to develop an uncomfortably close relationship with the truth
-6. It's the only way to get information from your intuition&nbsp;
+6. It's the only way to get information from your intuition
 
 If you aren't willing to put skin in the game for your own life, don't expect it to get any better.
 

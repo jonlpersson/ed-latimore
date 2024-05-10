@@ -8,7 +8,7 @@ permalink: /how-to-get-your-life-together/
 tags:
   - change-your-perspective
 categories:
-  - life-lessons
+  - Reality
 image: /assets/images/thumbnails/2021/ed-liberty-1.jpg
 description: >-
   Learn how to get your life together with actionable tips and strategies to
@@ -153,7 +153,6 @@ Regardless of what’s wrong with your life, you must always look like you give 
 You have to get in shape, fix your personal hygiene and grooming, and dress well. There are two reasons why this is so important:
 
 * Firstly, taking care of your appearance requires discipline. Dressing well, eating healthy, and working out are habits of discipline. For many people, improving their personal appearance is the first act of self-discipline they’ve performed.
-
 * Secondly, it’s a quick win. Compared to the other changes you’ll have to make, your efforts will have visible effects very soon. You will immediately get positive feedback from your surroundings in terms of compliments and positive attention.
 
 Improving your grooming and fashion is instant. The changes in your weight and body shape will be evident within a couple of weeks. The quick wins keep you going as a self-sustaining source of motivation.
@@ -214,7 +213,7 @@ Not only will you earn more cash, but you’ll also boost your self-esteem.
 
 You’ll finally develop the unique confidence that stems from knowing you will always be able to put food on the table and pay your bills.
 
-**Action small step \#7:**&nbsp;Come up with a plan for building a skill set and making some extra money.
+**Action small step \#7:** Come up with a plan for building a skill set and making some extra money.
 
 ## 8) Learn from your past
 

@@ -6,7 +6,7 @@ permalink: /do-what-makes-you-happy/
 tags:
   - change-your-perspective
 categories:
-  - life-lessons
+  - Reality
 description: >-
   Most of us can't do what we love for money. That means we need a different way
   to find happiness through work. Read this to learn how.
@@ -23,16 +23,16 @@ Reality paints a different picture. A recent [Gallup](https://news.gallup.com/op
 
 That’s it.
 
-"Do what you love” is a good motivational quote, but it might not be the best advice to find happiness.&nbsp;
+"Do what you love” is a good motivational quote, but it might not be the best advice to find happiness.
 
 ### Do what makes you happy is bad advice. Why?
 
 People who think "I'll do what makes me happy" are operating on one of four well-meaning assumptions that sound good, but do nothing to help you live the life of a happy person. All four assumptions are wrong.
 
-* **"What I love will make me money."**&nbsp;There are a lot of things I love to do. There are very few of them that I can make money doing. I'm lucky that I love writing and social media AND that I've been able to make money doing it, but it's taken a long time. Most people will not be that patient or lucky
-* **"The more I love something, the more money I should make doing it."**&nbsp;If you wake up excited to work, you'll probably perform better. However, a better performance means nothing if people don't value the work. Nothing makes you hate doing what you love for a living more than finding out that it's economically worthless.
-* **"The best way to make money is by starting with something you love."**&nbsp;The truth is that more you love doing something, the more apprehensive you should be about trying to get paid to do it. Right now, you're doing it out of self-love. In the short term and it being tied to your livelihood, it's fun. The moment you're forced to do it, then it will lose some of its enjoyment.
-* **"If you never find what you’re passionate about, you’ll never be successful."**&nbsp;If you're never a top performer, you won't ever be successful. It is easier to be a top performer if you love what you're doing, but you don't need to start with that love. You need to start with a dedication to building your skills. Love will come later.
+* **"What I love will make me money."** There are a lot of things I love to do. There are very few of them that I can make money doing. I'm lucky that I love writing and social media AND that I've been able to make money doing it, but it's taken a long time. Most people will not be that patient or lucky
+* **"The more I love something, the more money I should make doing it."** If you wake up excited to work, you'll probably perform better. However, a better performance means nothing if people don't value the work. Nothing makes you hate doing what you love for a living more than finding out that it's economically worthless.
+* **"The best way to make money is by starting with something you love."** The truth is that more you love doing something, the more apprehensive you should be about trying to get paid to do it. Right now, you're doing it out of self-love. In the short term and it being tied to your livelihood, it's fun. The moment you're forced to do it, then it will lose some of its enjoyment.
+* **"If you never find what you’re passionate about, you’ll never be successful."** If you're never a top performer, you won't ever be successful. It is easier to be a top performer if you love what you're doing, but you don't need to start with that love. You need to start with a dedication to building your skills. Love will come later.
 
 Let’s briefly look at why all four assumptions don't lead to a happier life.
 
@@ -50,13 +50,13 @@ Clearly, passion is not a prerequisite for entrepreneurship either. So what shou
 
 Most of us are not fortunate enough to stumble into a labor of love that also happens to make money, enhance our quality of life, and allows us to spread positivity to our surroundings. We need a different way to find work with personal meaning, financial reward, and that enables to enjoy life.
 
-It turns out, that way has been here all our lives. It’s just gone unnoticed. Somewhere between toddler and teenager, we forgot an obvious life lesson:&nbsp;*You are more likely to enjoy something you’re good at*.
+It turns out, that way has been here all our lives. It’s just gone unnoticed. Somewhere between toddler and teenager, we forgot an obvious life lesson: *You are more likely to enjoy something you’re good at*.
 
 Intuitively, we understand this. In practice, we often try to accomplish this in reverse order: we try to find happiness first, and then we try to get good at it. Getting this order wrong may seem like a little thing but it makes a huge difference in the approach you take to finding happiness and adding meaning to your life.
 
 A challenge may not be fun at first, but it becomes fun as we learn. The more we learn, the better we do, the more we enjoy it. We discover what we love to do by becoming good at doing it.
 
-Without learning a new skill, adding to our knowledge, or gaining new experiences, it’s impossible to have a happy life.&nbsp; As the subtitle of Cal Newport’s *So Good They Can't Ignore You* says, “Skills trump passion in the quest for work you love.”
+Without learning a new skill, adding to our knowledge, or gaining new experiences, it’s impossible to have a happy life.  As the subtitle of Cal Newport’s *So Good They Can't Ignore You* says, “Skills trump passion in the quest for work you love.”
 
 Cal Newport debunks the common belief that [“follow your passion”](https://www.calnewport.com/books/so-good/){: target="_blank" rel="noopener noreferrer"} is good advice. He he believes that:
 
@@ -82,7 +82,7 @@ These stories may be motivational but they aren't realistic. Or, at the very lea
 
 While it can be attractive to [bet on your own luck](/bet-on-yourself/), consider this: many common jobs today didn’t even exist fifteen years ago. What potential employers, clients, and customers consider “talent” changes every few years. Trying to monetize your passion may be like waiting for a ship that’s long sailed.
 
-To put this in perspective, I'll tell you a short story from my days as [a math tutor](/how-to-get-better-at-math/)\:
+To put this in perspective, I'll tell you a short story from my days as [a math tutor](/how-to-get-better-at-math/):
 
 A student of mine once said to me, “My ​iPad​ is down, so I had to download the book to my smartphone to read it.” No part of that sentence besides “book” existed fifteen years ago. Now, each provides untold opportunities.
 
@@ -96,17 +96,17 @@ Instead of stepping out of your comfort zone and staying there until you get bet
 
 This response to pain makes sense when you think about it.
 
-Most people who listen to conventional wisdom about work also believe that love never has painful moments. That seems sensible though. After all, if you loved this thing, why would it hurt you? The go-to answer is that it wouldn’t.&nbsp;*If it makes you feel bad, it must not be worth pursuing.*&nbsp;This conclusion results in giving up on a new skill too soon.
+Most people who listen to conventional wisdom about work also believe that love never has painful moments. That seems sensible though. After all, if you loved this thing, why would it hurt you? The go-to answer is that it wouldn’t. *If it makes you feel bad, it must not be worth pursuing.* This conclusion results in giving up on a new skill too soon.
 
 While not all skills are created equal in terms of financial leverage, spending time on a skill and progressing past the novice stage always has a benefit. If you only stick with something when it feels good, you’ll spend your life floating from skill to skill. You’ll be a jack of all trades, but not even moderately skilled at any of them.
 
 ### Purposeful work, curiosity, & the power of grit: The secret to finding your own happiness
 
-The missing ingredient in the "do what makes you happy" idea is purposeful work. Purposeful work requires&nbsp;**curiosity and grit.**
+The missing ingredient in the "do what makes you happy" idea is purposeful work. Purposeful work requires **curiosity and grit.**
 
 Learning and working for its own sake more important than happiness. In fact, this will actually make you happy and find love within task.
 
-That’s how you fall in love with another person. There’s just something about the other person that makes you&nbsp;*have*&nbsp;to know more. That’s how it is with work. Let curiosity about the subject matter carry you.
+That’s how you fall in love with another person. There’s just something about the other person that makes you *have* to know more. That’s how it is with work. Let curiosity about the subject matter carry you.
 
 Curiosity will drive you to do what makes you happy, but you'll also need grit to stay the course when the learning process gets tough. Angela Duckworth [explains why grit helps us develop a positive attitude](https://www.newharbinger.com/blog/what-grit-and-why-it-important){: target="_blank" rel="noopener noreferrer"} and will help us find what *actually* makes us happy:
 
@@ -118,7 +118,7 @@ Embrace the learning process, make mistakes, and improve, and your abilities wil
 
 ***You’re now doing something that makes you happy.***
 
-The value of learning is that it allows you to contribute to the world. This contribution makes you feel good about yourself.&nbsp;*Then*&nbsp;you can be happy and passionate about the skill. If you seek happiness and passion first, then you will be disappointed every time the task gets difficult and unpleasant.
+The value of learning is that it allows you to contribute to the world. This contribution makes you feel good about yourself. *Then* you can be happy and passionate about the skill. If you seek happiness and passion first, then you will be disappointed every time the task gets difficult and unpleasant.
 
 A new learning curve is steep, but you will never be good at anything if you don’t endure the initial suffering. The greatest value of learning is that it creates love in yourself and for yourself. This love, extended to your surroundings, makes the world a better place.
 
@@ -126,11 +126,11 @@ A new learning curve is steep, but you will never be good at anything if you don
 
 Instead, try your hand (or mind) at something challenging. Or pick up where you left off.
 
-I had a knack for writing as a kid but thought nothing of it until I went back to school for physics. Writing long, complex essays on topics sharpened my dulled abilities. If I wanted my degree, quitting wasn’t an option.&nbsp;[So I kept writing.](/why-is-writing-important/)
+I had a knack for writing as a kid but thought nothing of it until I went back to school for physics. Writing long, complex essays on topics sharpened my dulled abilities. If I wanted my degree, quitting wasn’t an option. [So I kept writing.](/why-is-writing-important/)
 
 My professors complimented my papers. A few encouraged me to write outside of school. I did. Yesterday, 2.000 people visited my website to read what I’ve written about breaking free from addiction, supporting their dreams with a side hustle, taming destructive thoughts and emotions, and more.
 
-Yesterday, like every day, several people reached out to me thanking me for what I wrote. It’s great that my website makes money, but to read how something I wrote changed a person’s life for the better is the real reward.&nbsp;
+Yesterday, like every day, several people reached out to me thanking me for what I wrote. It’s great that my website makes money, but to read how something I wrote changed a person’s life for the better is the real reward.
 
 It can be for you, too, as long as you keep after it.
 

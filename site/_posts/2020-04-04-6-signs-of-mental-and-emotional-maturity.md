@@ -6,7 +6,7 @@ permalink: /signs-of-maturity/
 tags:
   - change-your-perspective
 categories:
-  - life-lessons
+  - Relationships
 image: /assets/images/posts/signs-of-maturity-growth.jpg
 description: >-
   How do you become more mature and improve your quality of life? Here are 6

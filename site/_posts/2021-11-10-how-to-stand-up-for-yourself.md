@@ -6,7 +6,7 @@ permalink: /how-to-stand-up-for-yourself/
 tags:
   - how-to-make-friends
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Don't be a pushover. Follow these practical steps to standing up for yourself
   and take back control of your life.
@@ -51,7 +51,7 @@ If a friend lets us down, canceling an event at the last moment without a good r
 
 Saying ‘Ok, I understand, no worries,’ doesn’t cut it all of the time. You need to make it clear that you’re unhappy. Remember that being overly agreeable is as damaging as being too aggressive.
 
-Dr. Jordan Peterson, the author of *12 Rules For Life*, argues we have to develop our ‘inner monster.’ Deciding never to be aggressive is throwing the baby out with the bathwater. It’s better to integrate our aggression and to train ourselves to be more assertive in the right circumstances.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Dr. Jordan Peterson, the author of *12 Rules For Life*, argues we have to develop our ‘inner monster.’ Deciding never to be aggressive is throwing the baby out with the bathwater. It’s better to integrate our aggression and to train ourselves to be more assertive in the right circumstances.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 {% include widgets/youtube.html id="bvNM9iuNBTs" %}
 
@@ -77,7 +77,7 @@ Setting red lines with your enemies gets harder the longer you leave it. The mor
 
 Being willing to fight is more important than being able to fight. This is a lesson I learned firsthand on the streets of Pittsburgh in the housing project where I lived that I’ve written about extensively [here](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/).
 
-Where I grew up there were always people looking to fight—people I call jackals who have a genuine taste for violence. They would usually be members of a gang. Statistics show that gang members love fighting amongst themselves, something that is only getting worse.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Where I grew up there were always people looking to fight—people I call jackals who have a genuine taste for violence. They would usually be members of a gang. Statistics show that gang members love fighting amongst themselves, something that is only getting worse.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 But even jackals understand that fighting requires effort. It’s a lot easier to get you to fall in line with threats of violence than to actually beat you to the ground. Don’t be a doormat.
 
@@ -105,7 +105,7 @@ What happens if someone starts an argument with you? Maybe one of your colleague
 
 Conflict, not violence, is important.
 
-Chris Voss, an [ex-FBI negotiator](https://www.theguardian.com/lifeandstyle/2015/jan/10/how-to-get-what-you-wanttop-negotiators-on-the-tricks-of-their-trade) and author of *Never Split The Difference: How To Negotiate Like Your Life Depends On It* puts it very clearly in his book: ‘Conflict brings out truth, creativity, and resolution.’<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup>
+Chris Voss, an [ex-FBI negotiator](https://www.theguardian.com/lifeandstyle/2015/jan/10/how-to-get-what-you-wanttop-negotiators-on-the-tricks-of-their-trade) and author of *Never Split The Difference: How To Negotiate Like Your Life Depends On It* puts it very clearly in his book: ‘Conflict brings out truth, creativity, and resolution.’<sup>[3](#fn:3){: .footnote rel="footnote"}</sup>
 
 You must use this to your advantage. Conflict is a calculation. By showing that you are willing to engage in the conflict, your aggressor might back down and give you what they want. Often they are looking for you to roll over. That’s an easy win for them. They know they can get away with walking all over you.
 

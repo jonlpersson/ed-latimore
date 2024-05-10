@@ -6,7 +6,7 @@ permalink: /how-to-let-go-of-the-past/
 tags:
   - the-power-of-forgiveness
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Being able to let go of the past was key to my sobriety and getting my life
   together. Learn how I released the past and made progress.
@@ -14,7 +14,7 @@ image: /assets/images/thumbnails/holding-clock.jpg
 ---
 Why is it so hard to let go of the past?
 
-The problem with holding on to the past is that it doesn't exist. However, you let the past hurt you anyway. Past relationships, past trauma, and past negative experiences don't help in the present moment.&nbsp;
+The problem with holding on to the past is that it doesn't exist. However, you let the past hurt you anyway. Past relationships, past trauma, and past negative experiences don't help in the present moment.
 
 This doesn't mean that things didn't happen before, but there is no way for you to interact with things that have transpired even just a moment ago. This means no how severe the wrongdoings were or how heavy your feelings of guilt are, there is nothing you can do about what caused it—for better or worse.
 

@@ -6,7 +6,7 @@ permalink: /how-to-be-chill/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Relationships
 description: "This article will teach the techniques I use to remain\_\"super chill\" and calm even when things get crazy."
 image: >-
   /assets/images/misc/how-to-be-chill-in-5-steps/how-to-be-chill-relaxing-ed-latimore.jpg
@@ -63,7 +63,7 @@ I’ve been to the bottom several times in my life. I’m grateful to be alive a
 
 I was born with almost every statistical disadvantage against me, yet I’m still here and flourishing. It’s impossible for me to have a bad day because I know how bad the days can truly be.
 
-When something goes wrong, this gratitude allows me to ask myself, “Could it be worse?”. If I’m not in prison or dead, the answer is always “Yes\!”. Many people know how much of a mindset shift gratitude can cause, but they don't understand the discipline of the practice.
+When something goes wrong, this gratitude allows me to ask myself, “Could it be worse?”. If I’m not in prison or dead, the answer is always “Yes!”. Many people know how much of a mindset shift gratitude can cause, but they don't understand the discipline of the practice.
 
 Whenever something happens to you, good or bad, train yourself to immediately ask if it could be worse. If you have your health and freedom, you have the ability to improve any situation.
 

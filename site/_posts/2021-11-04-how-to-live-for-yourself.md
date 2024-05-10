@@ -6,13 +6,13 @@ permalink: /how-to-live-for-yourself/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   Develop the courage to prioritize yourself, stop people-pleasing, and live a
   life you love. Warning: people may hate you for choosing to love yourself. 
 image: /assets/images/thumbnails/ed-training-boxing-hitting-bags.jpg
 ---
-One of the top five regrets of people on their deathbed is, "I wish I’d had the courage to live for myself and not what others thought of me."<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+One of the top five regrets of people on their deathbed is, "I wish I’d had the courage to live for myself and not what others thought of me."<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Not caring what other people think is a superpower.
 
@@ -62,7 +62,7 @@ I wrote an article that outlines the framework I use to pick hobbies, [check it 
 
 ## Change your environment
 
-Relationships affect your well-being, mental health, and even how long you live.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Relationships affect your well-being, mental health, and even how long you live.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 Yet often we remain in environments with people that drain our energy, don’t help us grow, or actively dismantle our confidence.
 
@@ -124,7 +124,7 @@ Often, parents project their worry and fear onto their children. If you’re par
 
 ## Accept your fears then take action
 
-Living for others comes from two of the five types of fear: Fear of rejection and fear of humiliation.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> You’re afraid of the vulnerability that circumstances out of your control expose you to.
+Living for others comes from two of the five types of fear: Fear of rejection and fear of humiliation.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> You’re afraid of the vulnerability that circumstances out of your control expose you to.
 
 This is a lesson I learned punching guys in the face and learning not to flinch when I got punched in the face. Boxing has a unique way of forcing you to face your fears.
 

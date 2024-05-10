@@ -6,7 +6,7 @@ permalink: /high-value-man/
 tags:
   - self-improvement-for-men
 categories:
-  - life-lessons
+  - Relationships
 description: >
   A high-value man has hit a standard in these 4 areas. Otherwise, he’s not
   high-value. This article tells you the 4 unfakeable traits of a high-value
@@ -119,10 +119,10 @@ Basically, high-value men can’t be overweight, dress like a slob, or have “h
 
 This list weeds out the fakers and the wannabes that are low-value men. Notice what it doesn’t mention. It doesn’t mention:
 
-* **How easy it is for you to get laid.**&nbsp;I know plenty of losers who settle for sex with low-quality women. High-value men attract most women, but being high value isn't a dating strategy. Your love life may improve as a result, but that's only a side-effect; not the goal.
+* **How easy it is for you to get laid.** I know plenty of losers who settle for sex with low-quality women. High-value men attract most women, but being high value isn't a dating strategy. Your love life may improve as a result, but that's only a side-effect; not the goal.
 * **Anything about how well you lead men.** There are many areas in life where one can stumble into a position of leadership.
 * **Whether you’re alpha or beta.** No matter what you think of those terms, I don’t think there’s any man who’d rather be a loser alpha than a high-value beta. And yes, there are plenty of loser alphas.
-* **Your mindset.**&nbsp;Being focused on self-improvement and trying to level up is nice, but we only deal in results. No one gives a damn about what’s going on in your head if it doesn’t have an effect on the physical world. If I can’t measure it, it doesn’t exist in this context.&nbsp;
+* **Your mindset.** Being focused on self-improvement and trying to level up is nice, but we only deal in results. No one gives a damn about what’s going on in your head if it doesn’t have an effect on the physical world. If I can’t measure it, it doesn’t exist in this context.
 
 Now you know what makes a high-value man. The rest is up to you.
 

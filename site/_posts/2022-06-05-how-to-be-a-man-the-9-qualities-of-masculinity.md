@@ -6,7 +6,7 @@ permalink: /how-to-be-a-man/
 tags:
   - self-improvement-for-men
 categories:
-  - life-lessons
+  - Relationships
 description: >-
   All boys must develop these nine qualities of a masculine man to achieve their
   greatest potential. They are the passage into manhood.
@@ -52,7 +52,7 @@ Masculinity is all about exerting your will on the universe and shaping it to yo
 
 Masculinity is about the latter. It is the work of being good at being a man. You can be good at being a man without being a good man.
 
-The same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.&nbsp;
+The same masculine leadership qualities that made people follow Gandhi are the ones that made people follow Hitler. Here are 9 qualities of a masculine man that all boys must develop to achieve their greatest potential.
 
 ## How to be a man: The 9 qualities of masculinity
 
@@ -73,7 +73,7 @@ A strong man is strong because he is able to resist change, natural or intention
 This means that masculinity stands resolute in the face of peer pressure and social influences. This requires strength, therefore a defining feature of masculinity is strength.
 
 * **What is the purpose of physical training?** To resist the natural decay of our bodies in the face of nature.
-* **What is the purpose of mental training?** To resist forces that seek to influence us for their personal gain.&nbsp;
+* **What is the purpose of mental training?** To resist forces that seek to influence us for their personal gain.
 * **What is the purpose of emotional training?** To resist the persuasive manipulations of those who would lead us astray.
 
 Masculinity resists entropy. Masculinity resists change for change’s sake alone.
@@ -152,7 +152,7 @@ The world has no use for a man who is not useful. This is not the case for women
 
 A woman, by virtue of existing, already has a biological use. She is here to carry life and nurse it for the short time after it arrives. A man can’t do that.
 
-This is not to say that it’s women’s only purpose. Only to show that women come with a built-in purpose that is vital to the continuation of life. And while yes, you need men *and*&nbsp;women, each woman can only carry one child at a time while a man can impregnate thousands at once.&nbsp;
+This is not to say that it’s women’s only purpose. Only to show that women come with a built-in purpose that is vital to the continuation of life. And while yes, you need men *and* women, each woman can only carry one child at a time while a man can impregnate thousands at once.
 
 Most men aren't even biologically necessary for life to continue. Men don't come with a purpose. We must make ourselves necessary.
 
@@ -246,7 +246,7 @@ I don’t recommend using BMI by itself because too much muscle will put you int
 
 **Hemoglobin a1C &lt; 5.6:** If you aren’t familiar with this test, it’s a simple blood test that measures your average blood sugar levels over the past 3 months. If you’re interested in the detailed science of the A1c or HbA1c test, you can read about it here. For everyone else, all you need to know is that this number is arguably the single best metric to know how insulin-resistant you are. [Insulin resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448479/){: target="_blank"} is implicated in [5 of the top 10 killers of Americans.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm){: target="_blank"}
 
-**Resting heart rate &lt; 60:**&nbsp;[Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
+**Resting heart rate &lt; 60:** [Resting heart rate is associated with risk of all-cause and cardiovascular mortality in the general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754196/){: target="_blank"}, independent of traditional cardiovascular risk factors. Compared with 45 beats/min, the risk of all-cause mortality increased significantly with increasing resting heart rate in a linear relation.
 
 While there are many other metrics that are important for your health, these are the major ones to monitor. Getting these metrics in order requires you to be vigilant about your diet and lifestyle choices.
 

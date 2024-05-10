@@ -6,7 +6,7 @@ permalink: /why-do-people-complain/
 tags:
   - how-to-control-your-emotions
 categories:
-  - life-lessons
+  - Reality
 description: >-
   The problem with complaining is that it makes you focus on the problem rather
   than the solution. Learn how to fix this fatal flaw.
@@ -16,19 +16,19 @@ The moment you complain, you forfeit any assistance from the universe.
 
 You’ve probably heard the Benjamin Franklin quote, “God helps those who help themselves.” I don’t personally claim to know if God, the Universe, or any other named higher power assists people in their struggles.
 
-What I do know is this:&nbsp;**I despise spending time with chronic complainers**. Not just me, but no one likes listening to someone voice their negative thoughts about the world via constant complaints and gripes.
+What I do know is this: **I despise spending time with chronic complainers**. Not just me, but no one likes listening to someone voice their negative thoughts about the world via constant complaints and gripes.
 
 ## Nothing good happens when people complain
 
 [Psychology teaches that all people hold a model for how power flows, called a locus of control, which is either internal or external](https://www.mindtools.com/pages/article/newCDV_90.htm). Driven, self-motivated people with high self-esteem believe in an internal locus of control, meaning they believe they're in control of their life. Even if bad things happen to them, they still believe they're in control of their own lives.
 
-[Research shows that people who complain presume an external locus of control.](https://www.forbes.com/sites/melodywilding/2020/03/02/successful-people-have-a-strong-locus-of-control-do-you/?sh=49885c207af3){: target="_blank" rel="noopener noreferrer"}&nbsp;From their point of view, the universe holds all the power. They’re just along for the ride. Complaining is their way of begging people outside themselves to act—to save them from their own helplessness.
+[Research shows that people who complain presume an external locus of control.](https://www.forbes.com/sites/melodywilding/2020/03/02/successful-people-have-a-strong-locus-of-control-do-you/?sh=49885c207af3){: target="_blank" rel="noopener noreferrer"} From their point of view, the universe holds all the power. They’re just along for the ride. Complaining is their way of begging people outside themselves to act—to save them from their own helplessness.
 
-People who complain are obnoxious, but that’s not their worst problem.&nbsp;**The problem with complaining is the broken power dynamic.**&nbsp;The complainer focuses on the problem instead of the solution. This is because their locus of control points outward and tells them they cannot enact any solution. Focusing on the problem and venting to anyone within earshot is like a child giving up and crying for their mother.&nbsp;
+People who complain are obnoxious, but that’s not their worst problem. **The problem with complaining is the broken power dynamic.** The complainer focuses on the problem instead of the solution. This is because their locus of control points outward and tells them they cannot enact any solution. Focusing on the problem and venting to anyone within earshot is like a child giving up and crying for their mother.
 
-With everything in life, what you focus on tends to grow.&nbsp;**People who focus exclusively on problems increase them. When you stop complaining, you can start progressing.**
+With everything in life, what you focus on tends to grow. **People who focus exclusively on problems increase them. When you stop complaining, you can start progressing.**
 
-When the focus shifts from the solution to the problem, the solution disappears from view. They double down on&nbsp;[whining about their unhappiness.](/unhappiness/)
+When the focus shifts from the solution to the problem, the solution disappears from view. They double down on [whining about their unhappiness.](/unhappiness/)
 
 &nbsp;
 
