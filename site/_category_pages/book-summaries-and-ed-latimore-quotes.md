@@ -1,11 +1,11 @@
 ---
 category: Book Summaries And Ed Latimore Quotes
-title: Book Summaries and Ed Latimore Quotes
+title: Book Summaries And Ed Latimore Quotes
 description: >-
   Quotes from Ed Latimore and the summaries and reviews of books that Ed
   Latimore has read or written 
 hero:
-  label: Book Summaries and Ed Latimore Quotes
+  label: Book Summaries And Ed Latimore Quotes
   heading: >-
     Quotes from Ed Latimore and the summaries and reviews of books that Ed
     Latimore has read or written 
