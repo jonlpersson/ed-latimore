@@ -6,7 +6,7 @@ permalink: /why-you-keep-relapsing/
 tags:
   - longevity-health-and-performance
 categories:
-  - life-lessons
+  - Reality
 description: >-
   Overcoming an addiction can be hard. But it doesn't have to be if you
   implement these four strategies for avoiding relapses.
@@ -34,9 +34,9 @@ Although sometimes this is not enough. You’ve probably hit rock bottom before,
 
 It's human nature to give in to the immediate reward instead of waiting for the far bigger reward in the future. After all, you don't hear a crackhead say, "let's get high next Tuesday". It's always "let's get high right now."
 
-This phenomenon is called *delay discounting* where there are two rewards, the first with less value but available immediately and the second, worth a lot more but availability requires *effort* and *time*.<sup id="fnref:1" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+This phenomenon is called *delay discounting* where there are two rewards, the first with less value but available immediately and the second, worth a lot more but availability requires *effort* and *time*.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
-The famous [marshmallow test](https://www.youtube.com/watch?v=QX_oy9614HQ) or [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) is a classic example of delay discounting in action. Kids are placed in a room by themselves with one marshmallow in front of them and the promise of more if they can wait several minutes for the researcher to return. What's interesting is that a later study found that the kids that could wait for the extra marshmallows were more likely to be socially adept, achieve higher grades in school and cope better under stress.<sup id="fnref:2" role="doc-noteref"><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+The famous [marshmallow test](https://www.youtube.com/watch?v=QX_oy9614HQ) or [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) is a classic example of delay discounting in action. Kids are placed in a room by themselves with one marshmallow in front of them and the promise of more if they can wait several minutes for the researcher to return. What's interesting is that a later study found that the kids that could wait for the extra marshmallows were more likely to be socially adept, achieve higher grades in school and cope better under stress.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 This leads me to my second secret. If you can master delayed gratification, you will be able to achieve anything. Want to learn the piano? You have to say no to playing video games or watching Netflix and instead put the hours into learning.
 
