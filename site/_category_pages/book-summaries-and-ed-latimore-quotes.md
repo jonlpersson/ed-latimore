@@ -1,6 +1,6 @@
 ---
 category: Book Summaries And Ed Latimore Quotes
-title: Book Summaries And Ed Latimore Quotes
+title: Book summaries and ed latimore quotes
 description:
 hero:
   label:
