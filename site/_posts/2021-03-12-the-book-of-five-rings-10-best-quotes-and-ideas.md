@@ -83,7 +83,7 @@ If you are considered “perceptive”, then you’re capable of seeing more tha
 
 Aim to develop your perception so you aren’t fooled by what the world shows you.
 
-***[Check out Musashi's Dokkodo](/dokkodo/)***
+[***Check out Musashi's Dokkodo***](/dokkodo/)
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
