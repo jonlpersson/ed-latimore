@@ -79,7 +79,7 @@ page_blocks:
         Host of "Natural Born Coaches" podcast for coaching, sales, and
         leadership
   - _id: block_benefits
-    heading: 'Each weak I send out an newsletter teaching you how to:'
+    heading: 'Each week I send out an newsletter teaching you how to:'
     benefit_items:
       - heading: Manage risk
         text: >-
