@@ -89,7 +89,7 @@ navigation_links:
       - footer
     group:
       - social
-  - url: https://www.linkedin.com/in/edward-latimore-656314125/
+  - url: https://www.linkedin.com/in/edlatimore/
     name: LinkedIn
     visible:
       - footer
