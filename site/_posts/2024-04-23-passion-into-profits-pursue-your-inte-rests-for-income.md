@@ -2,7 +2,7 @@
 date: 2024-04-23 14:00:00 -0400
 article_type: Article
 title: 'Passion into Profits: Pursue Your Inte­rests for Income'
-permalink: /pursue-your-inte­rests-for-income/
+permalink: /pursue-your-interests-for-income/
 tags:
   - self-improvement-for-men
 categories:
