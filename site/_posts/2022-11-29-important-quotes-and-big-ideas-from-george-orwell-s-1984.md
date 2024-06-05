@@ -6,7 +6,7 @@ permalink: /1984-quotes-and-ideas/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   Some people say that 2022 is more like the world of George Orwell's "1984." I
   read the book and collected quotes so you can see for yourself. 

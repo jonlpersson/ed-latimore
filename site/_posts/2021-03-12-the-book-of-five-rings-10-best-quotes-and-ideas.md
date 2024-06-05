@@ -6,7 +6,7 @@ permalink: /the-book-of-five-rings-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   The Book of Five Rings is almost 400 years old, but its lessons are timeless.
   I've collected the ten best quotes and ideas that you can apply today.

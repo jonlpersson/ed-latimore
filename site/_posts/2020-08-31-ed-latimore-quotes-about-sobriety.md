@@ -6,7 +6,7 @@ permalink: /ed-latimore-sobriety-quotes/
 tags:
   - getting-sober
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   This is a collection of personal quotes I've made since getting sober in 2013.
   I hope these help someone struggling with their addiction as well.

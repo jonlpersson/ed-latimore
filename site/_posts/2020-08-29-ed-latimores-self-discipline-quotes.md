@@ -6,7 +6,7 @@ permalink: /ed-latimore-self-discipline-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   This is a collection of my best quotes about self-discipline. These will help
   you remember what it takes to develop self-discipline and self-control.

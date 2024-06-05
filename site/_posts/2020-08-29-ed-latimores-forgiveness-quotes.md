@@ -7,7 +7,7 @@ tags:
   - the-power-of-forgiveness
   - ed-latimore-original-quotes
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   These quotes about forgiveness will help you let go of the painful past, live
   better in the present, and approach the future without trauma and guilt.

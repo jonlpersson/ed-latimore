@@ -8,7 +8,7 @@ tags:
   - how-to-make-friends
 categories:
   - Relationships
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   Accidental Courtesy follows Daryl Davis, a black jazz musician, who befriends
   members of the Ku Klux Klan in hopes of converting them and stopping hate. 

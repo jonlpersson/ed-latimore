@@ -6,7 +6,7 @@ permalink: /ed-latimore-hater-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   Here are my best quotes about dealing with haters, negativity, jealousy, and
   fake friends. Keep these in your heart to feel better.

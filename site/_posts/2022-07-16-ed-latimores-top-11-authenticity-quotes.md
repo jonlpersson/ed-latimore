@@ -6,7 +6,7 @@ permalink: /authenticity-quotes/
 tags:
   - ed-latimore-original-quotes
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   This is a collection of Ed Latimore original quotes on authenticity.  These
   will remind you to live an authentic life you can be proud of. 

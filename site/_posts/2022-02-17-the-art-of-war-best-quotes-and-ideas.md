@@ -6,7 +6,7 @@ permalink: /art-of-war-book-summary/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   The Art of War is a Chinese military classic with many lessons that apply
   today. In this post, I cover 10 lessons with modern applications.

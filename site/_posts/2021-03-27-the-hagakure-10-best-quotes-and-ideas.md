@@ -6,7 +6,7 @@ permalink: /hagakure-quotes/
 tags:
   - book-quotes-and-summaries
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   The Hagakure: The Book of The Samurai was written in the 1700s by Yamamoto
   Tsunetomo as a guide for samurai. These are the 10 best quotes and ideas from

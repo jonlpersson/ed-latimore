@@ -7,7 +7,7 @@ tags:
   - living-in-the-hood
   - ed-latimore-original-quotes
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   This list of crackhead quotes is divided into original crackhead quotes from
   me and crackhead quotes from other people.
