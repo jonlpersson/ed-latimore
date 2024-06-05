@@ -6,7 +6,7 @@ permalink: /black-coffee-jokes-puns/
 tags:
   - living-in-the-hood
 categories:
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   This collection of coffee jokes will leave you laughing and you might learn
   something new. Not for the politically correct or overly sensitive.
