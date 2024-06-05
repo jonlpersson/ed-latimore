@@ -7,7 +7,7 @@ tags:
   - living-in-the-hood
 categories:
   - Reality
-  - Book Summaries And Ed Latimore Quotes
+  - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
   The Ten Crackcommandments is an education in the real, raw, viciousness of
   human nature. This article takes lessons from the song to apply to your entire
