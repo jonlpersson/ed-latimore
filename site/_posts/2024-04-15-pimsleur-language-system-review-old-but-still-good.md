@@ -20,7 +20,7 @@ You’re going from your native tongue to trying to pick up words, sounds, and m
 
 With the exception of people who live in massive cities and go out of their way to use another language spoken to them, most of us do not get a chance to practice using the language in a natural setting. Add to that that foreign language education in the United States is atrocious, and you get a recipe for the average American thinking that they are no good at picking up another language.
 
-[Enter Pimsleur.](https://imp.i271380.net/c/2316453/812637/11472){: target="_blank" rel="noopener"} This is the method that I've been using for at least 10 years. I've been using it for so long that I had the CD's of the Russian Pimsleur. Well, now it's an easy to use app, and it's easy for anyone to get their footig in the language.
+[Enter Pimsleur.](https://imp.i271380.net/c/2316453/812637/11472){: target="_blank" rel="noopener"} This is the method that I've been using for at least 10 years. I've been using it for so long that I had the CD's of the Russian Pimsleur. Well, now it's an easy to use app, and it's easy for anyone to get their footing in the language.
 
 The Pimsleur language program offers a framework you can use to learn a language. This program is available in 51 different languages. I’ve used the program, and can offer some insight into what it is, what it isn’t, and what you can expect when you take the program.
 
