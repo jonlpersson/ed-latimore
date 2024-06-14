@@ -36,7 +36,7 @@ Reading is one of the best ways to expand your knowledge and understanding of th
 
 If you haven’t picked up a book in some time, don’t worry so much about picking out the “perfect” book, but just pick anything that seems interesting. It doesn’t matter if it’s pop fiction or ancient philosophy; the best way to make reading stick is to find something you enjoy. Over time, you’ll expand your reading horizons as your curiosity grows.
 
-If you need some inspiration, some of my favorite books that encompass history, philosophy, and self-improvement include [*The Art of War*](/art-of-war-book-summary/) by Sun Tzu\*\* \*\*and the *[Book of Five Rings](https://edlatimore.com/the-book-of-five-rings-quotes/)* by Miyamoto Musashi.
+If you need some inspiration, some of my favorite books that encompass history, philosophy, and self-improvement include [*The Art of War*](/art-of-war-book-summary/) by Sun Tzu\*\* \*\*and the [*Book of Five Rings*](https://edlatimore.com/the-book-of-five-rings-quotes/) by Miyamoto Musashi.
 
 ### Weightlifting
 
@@ -64,7 +64,9 @@ I attribute a lot of my self-confidence and relentless work ethic to spending my
 
 Chess and other strategy-based board games can be a fun and engaging way to challenge your mind and improve critical thinking skills. Some essential life skills can be learned from playing chess, such as observation, planning, statistics, and knowing how to read your opponent.
 
-Playing chess has also become one of my favorite hobbies for spending time with friends or alone via [chess.com](https://www.chess.com/) to flex my problem-solving skills and decision-making. I’ve even written a detailed piece about how I taught myself to [improve my chess ELO rating](https://edlatimore.com/chess-improvement-plan/) to a peak of 1535.
+Playing chess has also become one of my favorite hobbies for spending time with friends or alone via [chess.com](https://www.chess.com/) to flex my problem-solving skills and decision-making. I’ve even written a detailed piece about how I taught myself to [improve my chess ELO rating](https://edlatimore.com/chess-improvement-plan/) to a peak of 1823.
+
+Along with Chess, you can also play individual [online games like solitaire](https://solitaired.com/). Similar to Chess, it requires you to strategically think and problem solve to properly organize cards by suit. Additionally, it’s a game of mental self improvement. Some solitaire games feature leaderboards, where you can challenge yourself to solve a shuffle in less time and less moves.
 
 ### Learning a foreign language
 
