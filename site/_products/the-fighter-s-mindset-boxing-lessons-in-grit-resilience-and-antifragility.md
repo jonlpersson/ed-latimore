@@ -22,39 +22,110 @@ hero:
 page_blocks:
   - _id: block_rich_text
     alignment: center
-    text_markdown: >
-      In my life, I’ve learned many things the hard way.
+    text_markdown: >-
+      One of my favorite metaphors for life is boxing, "The hurt business," as
+      Mike Tyson once called it, is the business of causing pain and enduring
+      it, all while trying to emerge victorious.
 
 
-      In this book I break them down so that you can learn them the easy way and
-      get more out of life. At one point I was stealing food just to eat and
-      spent more time hung over than sober.
+      If a fight is violent enough, even the winner will take so much damage
+      they'll feel like they've lost.
 
 
-      From the streets, to the boxing gym, to the army, the physics lab and 4
-      years of sobriety, I’ve developed true grit and the fighting mindset. **I
-      teach it all in this book.**
+      <div class="cms-embed"><iframe
+      src="https://giphy.com/embed/11IRfBXYw64gZW" width="480" height="270"
+      frameborder="0" class="giphy-embed" allowfullscreen=""></iframe><p><a
+      href="https://giphy.com/gifs/love-movie-life-11IRfBXYw64gZW">via
+      GIPHY</a></p></div>
 
 
-      ## You will learn:
+      ***"It ain't about how hard you can hit. It's about how hard you can get
+      hit and keep going."***
 
 
-      * The real reason the ability to work hard is so highly valued.
+      ***\- Rocky Balboa***
 
-      * How to identify where to invest your emotional energy for the greatest
-      return
 
-      * Why you can't afford to have low standards for anything you do or the
-      company you keep.
+      In that one line, Rocky Balboa, the fictional heavyweight champion of the
+      world, makes a powerful commentary on the nature of boxing AND the essence
+      of life:
 
-      * The greatest source of motivation that's untapped by most.
 
-      * Vital paradigm and mindset shifts that will allow you to get more out of
-      life.
+      **Things happen that will keep you from achieving what you want. The
+      ability to survive setbacks is what sets you up for success in life.**
 
-      * The difference between strategy and tactics and how to develop a mindset
-      for both.
 
-      * How to select the best people to have a relationship with and get the
-      most out of it.
+      Throughout my amateur and professional boxing career, I've had over 80
+      fights against other trained men whose only intent was to hurt me.
+
+
+      I've been hit *way* more times than I've hit.
+
+
+      I've been hurt.I've been stopped.I've been disappointed.I've been "robbed"
+      (A fighter is "robbed" when they obviously won a fight, but because they
+      didn't win by knockout, the bout is decided by the judge's decision, and
+      they lose.)
+
+
+      But despite all this, I won a state title (2011 Pennsylvania Golden Gloves
+      201 lbs+) and a national title (2011 National PAL 201+ lbs) and went on to
+      have a professional career of 13-1-1.
+
+
+      But most importantly, I kept fighting and won way more fights than I lost.
+
+
+      **This aligns perfectly with the rest of my life.**
+
+
+      I've been beaten, betrayed, abandoned, disappointed, and robbed
+      (literally).
+
+
+      I've lost friends, battled addiction, and had my heart broken before it
+      was stomped on.
+
+
+      Throughout it all, I made friendships that will last a lifetime, got sober
+      while helping others do the same, and even saved a few lives.
+
+
+      My life isn't perfect. It's a work in progress.
+
+
+      The last battle I fought won't be the last one because part of life is the
+      struggle. It's always going to be a fight. It will knock you down no
+      matter how hard you train for it.
+
+
+      **But will you get back up?**
+
+
+      This ebook contains 20 short lessons from the hurt business of life and
+      boxing.
+
+
+      These are observations from boxing that also apply to the various
+      challenges I faced in my life, like battling alcoholism and growing up in
+      public housing and raised without my father around.
+
+
+      I hope that with these lessons, you'll be better able to overcome any
+      personal hardships, trials, or tribulations you face.
+
+
+      If you don't have any immediate challenges, I hope this guide helps you
+      become the most mentally tough, antifragile version of yourself.
+
+
+      Life is the hurt business.
+
+
+      Stop hoping that it will stop hurting and, instead, get tougher and learn
+      to fight back. Eventually, you'll get stronger and better. Only then will
+      things become easier.
+
+
+      The rest is up to you.
 ---
