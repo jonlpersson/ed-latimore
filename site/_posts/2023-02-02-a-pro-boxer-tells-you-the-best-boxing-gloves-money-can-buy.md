@@ -251,7 +251,7 @@ First, the laces are naturally angled, allowing for a tighter tie that doesn’t
 
 At $189, these gloves represent a decent investment, but I can’t give you any better recommendation that doesn’t put you into the $300+ range. Fortunately, I can tell you that the glove lasts, and cleans well, doesn’t hold odors, and the strings are long and thick so they don’t break.
 
-<div class="cms-embed"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07Y5HXHPC&amp;asins=B07Y5HXHPC&amp;linkId=41701f9c5549af07dcd1c758bedde577&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
+[**<u>Get the Rival RS 100 series here</u>**](https://amzn.to/3z60S0b){: target="_blank" rel="noopener"}
 
 #### Cleto Reyes
 
@@ -259,13 +259,15 @@ At $189, these gloves represent a decent investment, but I can’t give you any 
 
 In my opinion, the single biggest difference between these two is that Cleto Reyes feels more like a sparring glove when you are hit by someone wearing them.
 
-I’m not sure, but this is likely due to the quality of leather that Cleto Reyes uses for the glove. I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
+I’m not sure why, but this is likely due to the quality of leather that Cleto Reyes uses for the glove. I’m not saying that it’s a better-quality glove. Only your sparring partner will likely notice the difference. With that said, the reason why I rank this glove lower than the Rival RS 100 is that the hand padding simply isn’t that good.
 
 I’ve never gotten a complaint from anyone over being hit by then (a sign that the padding is sufficient), but it doesn’t feel that way. I recognize that some might interpret this as a good thing, with the gloves being light and still not doing damage to the sparring partner, but the ONLY way they could do accomplish this is by having less wrist support and protection. ***And that’s exactly the case.***
 
-The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard. Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
+The wrist feels a little on the flimsy side, at least compared to the Rival RS 100. It’s not insufficient, but at a slightly higher price point than the Rival RS 100, I would expect to at least be comparable in this regard.
 
-<div class="cms-embed"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07S8YVH6Z&amp;asins=B07S8YVH6Z&amp;linkId=1fe270a81b3c39cb1a0a896c8299d707&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
+Still, the lightweight but breathable quality of these gloves, combined with the softer impact and knuckle support, makes these a solid second-place recommendation for lace-up gloves.
+
+[**<u>Get the Cleto Reyes here</u>**](https://amzn.to/3zlKR6o){: target="_blank" rel="noopener"}
 
 ## Best bag gloves
 
@@ -289,7 +291,7 @@ I like these gloves because they are everything a good bag glove should be. For 
 
 The fit around the hand is excellent. Specifically, the glove is small enough to be a decent bag glove, but big enough to protect your knuckles and support your wrist. This is a delicate balance that most boxing gloves miss. However, the Rival RB2 Super Bag Glove is right on the money.
 
-<div class="cms-embed"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B07YXDRMZT&amp;asins=B07YXDRMZT&amp;linkId=7186a300f5a733ba29ed6494080fa122&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
+[**<u>Get the Rival RB2 gloves here</u>**](https://amzn.to/3RzDkYc){: target="_blank" rel="noopener"}
 
 #### Venum Bangkok Spirit Nappa Leather Boxing Gloves
 
@@ -303,7 +305,7 @@ I personally like my bag gloves to have as little padding in the first as possib
 
 The extra padding in the fist is the main difference between sparring and bag gloves. These gloves have a little too much padding in the fist, but if you’re a beginner, you probably won’t even hit hard enough to even notice.
 
-<div class="cms-embed"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B078JQP777&amp;asins=B078JQP777&amp;linkId=2f3763ac7d9c539660767c8a5277ff8f&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
+[**<u>Get the Venom Bangkok Spirit Nappa Leather Gloves here</u>**](https://amzn.to/4cxbm7u){: target="_blank" rel="noopener"}
 
 ## Best cheap boxing gloves
 
@@ -328,7 +330,7 @@ Don’t get me wrong. I have nothing but love for traditional cloth wraps, and I
 
 Now, at $27 a pair, these are quite costly compared to basic cloth wraps, but it’s easy to see where the money is spent. they’re a tight fight around your hand and they’re held in place with a velcro strap. They don’t hold on to odors and they’re pretty durable and long-lasting, as they should be at $27 a pair.
 
-<div class="cms-embed"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px; height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=httpedwardc07-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00R6NYW6W&amp;asins=B00R6NYW6W&amp;linkId=65e156c7a49913fa90e5badf8cb61e8c&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div>
+[**Get your everlast gel wraps here**](https://amzn.to/3xis5wp){: target="_blank" rel="noopener"}
 
 ## The final word on boxing glove recommendations
 
