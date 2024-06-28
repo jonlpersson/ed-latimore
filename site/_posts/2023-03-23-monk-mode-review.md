@@ -54,7 +54,7 @@ Other benefits of Monk Mode include:
 
 * Ability to focus for a longer period of time
 * Improved mental health because you have fewer distractions and are able to make tangible life improvements
-* Improved physical health because you break your [addictions to porn](/resources/dick-detox-the-ultimate-guide-to-quitting-porn/), video games, or [alcohol](https://edlatimore.com/how-to-stop-drinking-on-your-own/)
+* Improved physical health because you break your addictions to porn, video games, or [alcohol](https://edlatimore.com/how-to-stop-drinking-on-your-own/)
 
 There are 5 pillars of a good Monk Mode plan that are non-negotiables:
 
@@ -76,7 +76,7 @@ This is difficult to do, especially if it’s your first time. In the modern wor
 
 The second thing you want is some type of repetition in your daily life. In fact, everything should be repetitive and automatic so you don’t have to think or waste energy thinking about other unrelated tasks or work.
 
-For example, choosing the same outfit and having the same meal every day. From the self-discipline practices of monks, we see them wearing the same outfit and eating the same meal every day. Why? Because choices waste time and energy.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+For example, choosing the same outfit and having the same meal every day. From the self-discipline practices of monks, we see them wearing the same outfit and eating the same meal every day. Why? Because choices waste time and energy.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Because a lack of choices can also cause distress, at the very least, plan your meals ahead of time.
 
@@ -90,7 +90,7 @@ If you’re a coffee drinker like me, you may want to keep the warmer near you o
 
 I get some debate on this but here’s how to handle sleep during Monk Mode: Make sure you’re energized enough to focus and make good progress during your waking hours. Sleep as long as you want but once you’re awake, don’t linger in bed.
 
-Chess grandmasters are able to burn up to 6000 calories a day during tournaments because of the intense level of focus.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> So you need to ensure you have adequate rest for the work ahead.
+Chess grandmasters are able to burn up to 6000 calories a day during tournaments because of the intense level of focus.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> So you need to ensure you have adequate rest for the work ahead.
 
 ### 4\. The project
 
