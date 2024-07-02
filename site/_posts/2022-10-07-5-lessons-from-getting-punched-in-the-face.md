@@ -7,7 +7,6 @@ tags:
   - living-in-the-hood
   - longevity-health-and-performance
 categories:
-  - Stoic-Street-Smarts-Newsletter
   - Reality
 description: >-
   Getting punched in the face isn't that bad. In fact, it can be the source of
@@ -58,7 +57,7 @@ Although I fought a lot as a kid, I never started those fights. I’m a pacifist
 
 Even at a young age, I learned that if people think they can push you an inch without getting any resistance, they’ll try to throw you a mile. Human psychology is such that because you let them take a little, you’re more willing to let them take a lot more.e.
 
-***This article talks about the mentality of people in my neighborhood and school who were like this** →* [***Lessons From The Ghetto: Willingness to Fight***](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noreferrer noopener"}​
+***This article talks about the mentality of people in my neighborhood and school who were like this**&nbsp;→* [***Lessons From The Ghetto: Willingness to Fight***](https://edlatimore.com/lessons-from-the-ghetto-willingness-to-fight/){: target="_blank" rel="noreferrer noopener"}​
 
 Comfort, passivity, and inertia are addictive. There’s a real chance that you’ll continue using them beyond the point of diminishing returns in a manner that borders on compulsion. Even when you know that you should stand up for yourself or others, you won’t because you’ve been chasing the three-headed dragon for so long that you can do nothing else.
 
@@ -122,7 +121,7 @@ Otherwise, you might run into someone who doesn’t mess around, and then you *r
 
 I don’t think getting punched in the face is the BEST or ONLY way to learn these lessons. It’s just that in this modern society, devoid of challenges and obsessed with efficiency and ease, you probably won’t do any of the other things that will develop the grit, resilience, and antifragility that come from taking a righteous crack on the jaw.
 
-Also, I just want to make myself clear: do not street fight **(**[**read my article on why it's a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noreferrer noopener"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
+Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my article on why it's a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noreferrer noopener"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
 
 That’s a safe, legal, controlled way to get exposure to violence.
 
