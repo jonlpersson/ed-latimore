@@ -20,7 +20,7 @@ After seeing the book constantly mentioned on Twitter to describe how social med
 
 I've collected the most impactful quotes and organized them according to their theme. I've given my interpretation and additions where I think I could add something, but I leave some of them without commentary for the reader to reach their own conclusions, I believe that George Orwell would have appreciated this approach.
 
-## 1984 quotes about control 
+## 1984 quotes about control&nbsp;
 
 ![1984 quote &quot;The party told you to reject the evidence of your eyes and ears. It was their final, most essential command.&quot; &quot;And if all others accepted the lie which the Party imposed–if all records told the same tale–then the lie passed into history and became truth.&quot;](/assets/images/posts/party-told-you-to-reject.png){: width="1080" height="1080"}
 
@@ -78,7 +78,7 @@ However, critics might argue that in practice, "trust the science" has at times 
 
 Moreover, the pandemic response has exposed that "the science" is not always a monolith. Experts can disagree and evidence can evolve over time. Public health messaging has sometimes been inconsistent or contradictory. In this context, "trust the science" may oversimplify a more complex and uncertain reality.
 
-Psychologically, the quote relates to the concept of dogmatism - an inflexible, closed-minded adherence to doctrine. Dogmatism [thrives in the absence](https://edlatimore.com/confirmation-bias-echo-cherry-picky-echo-chambers/){: target="_blank" rel="noopener"}of critical thinking and openness to evidence. It can lead to groupthink, where dissenting views are suppressed in favor of consensus.
+Psychologically, the quote relates to the concept of dogmatism - an inflexible, closed-minded adherence to doctrine. Dogmatism thrives in the absence of critical thinking and openness to evidence. It can lead to groupthink, where dissenting views are suppressed in favor of consensus.
 
 The pandemic has also highlighted the role of cognitive biases such as confirmation bias (seeking out information that confirms our preexisting beliefs) and the illusion of explanatory depth (overestimating our understanding of complex issues). These biases can lead us to latch onto simplistic narratives and slogans rather than grappling with nuance.
 
