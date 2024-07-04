@@ -60,17 +60,17 @@ If you can persist to the end, you have a better chance to win. Make the other g
 
 **6)** Keep your glass empty, even when the water around you tastes like shit. I’ve made some amazing insights and developments by opening my mind to guys who didn’t know much about fighting. Even a broken clock is right twice a day.
 
-## Ed Latimore's boxing quotes about process vs. outcome 
+## Ed Latimore's boxing quotes about process vs. outcome&nbsp;
 
 **7)** [Good technique is essential, but perfect technique is over-overrated.](/the-book-of-five-rings-quotes/) Effective technique is underrated. What’s more valuable: A pretty hook that rarely lands or a less than “perfect” one that has an 80% KO percentage?
 
 **8)** Improve the process to improve the outcome, but don’t worry too much if the outcome isn't perfect if you still accomplish the general objective. When you're in a firefight, "ready-fire-aim" will save you faster than "ready-aim-fire." Better to execute effectively than perfectly.
 
-**9)** [Amateurs practice until they get it right. Professionals practice until they can’t get it wrong.](/amateur-or-pro/) Until you start drilling your techniques to the point of mind-numbing boredom, you're taking the scenic route to mastery rather than the superhighway.
+**9)** Amateurs practice until they get it right. Professionals practice until they can’t get it wrong. Until you start drilling your techniques to the point of mind-numbing boredom, you're taking the scenic route to mastery rather than the superhighway.
 
 ![Professional boxing Ed Latimore](/assets/images/posts/FightingPose.jpg "Not a perfect right hand, but it does the job")
 
-## Ed Latimore's boxing quotes on pain 
+## Ed Latimore's boxing quotes on pain&nbsp;
 
 ![Muhammad Ali quote about pain during training](/assets/images/posts/muhamma-ali-on-pain-and-sit-ups.jpeg){: width="736" height="443"}
 
@@ -88,7 +88,7 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **11)** We have a saying in boxing: "The first ball shot is free. Use it wisely."
 
-**\[Read: "[How to avoid a street fight, and what to do if you can't](/how-to-win-a-street-fight/)"\]**
+**\[Read: "**[**How to avoid a street fight, and what to do if you can't**](/how-to-win-a-street-fight/)**"\]**
 
 **12)** All humans fatigue and hurt. Many adversaries will lose their taste for battle if you make the fight nasty enough. You can conquer many obstacles and opponents in your life through pure attrition.
 
@@ -98,9 +98,9 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **15)** Lose well. Win even better.
 
-**16)** You’re never as good or as bad as you think you are. This is why it’s important to focus on improving your skills rather than on your record. One man’s [undefeated record](https://www.boxingnews24.com/2014/06/in-all-of-boxing-history-no-undefeated-boxer-has-been-great/){: target="_blank" rel="noopener noreferrer"} is another man’s 8-2, depending on who, when, and where he fought.
+**16)** You’re never as good or as bad as you think you are. This is why it’s important to focus on improving your skills rather than on your record. One man’s [undefeated record](https://www.boxingnews24.com/2014/06/in-all-of-boxing-history-no-undefeated-boxer-has-been-great/){: target="_blank" rel="noreferrer noopener"} is another man’s 8-2, depending on who, when, and where he fought.
 
-## Ed Latimore's  boxing quotes for dealing with haters, lovers, fans, and friends
+## Ed Latimore's&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
 
 ![muhammad ali boxing quote on losing and dealing with fans](/assets/images/posts/muhammad-ali-quote-after-losing.png){: width="1065" height="731"}
 
@@ -184,7 +184,7 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **37)** There is no way for you to execute your game plan AND prepare to deal with his. The human mind is simply not that complex. After a certain point, the game becomes about who can attack more effectively while defending most effectively.
 
-**38)** The best competitor isn’t usually the best teacher and vice-versa. [Two of the greatest boxing trainers of all time](https://bleacherreport.com/articles/578768-freddie-roach-and-the-10-best-trainers-in-boxing-history-my-take){: target="_blank" rel="noopener noreferrer"}, Eddie Futch and Angelo Dundee, never fought professionally. You’ll be surprised who you can learn from.
+**38)** The best competitor isn’t usually the best teacher and vice-versa. [Two of the greatest boxing trainers of all time](https://bleacherreport.com/articles/578768-freddie-roach-and-the-10-best-trainers-in-boxing-history-my-take){: target="_blank" rel="noreferrer noopener"}, Eddie Futch and Angelo Dundee, never fought professionally. You’ll be surprised who you can learn from.
 
 **39)** Stick to a game plan, but adjust when necessary.
 
@@ -222,7 +222,7 @@ Prepare before the crises hits. The worst time to learn how to fight is during a
 
 \-Bernard Hopkins, Oldest man in boxing to win a major world title
 
-**45)** Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noopener noreferrer"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noopener noreferrer"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
+**45)**&nbsp;Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noreferrer noopener"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noreferrer noopener"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
 
 **46)** There are a lot of things that will keep you from achieving your potential. You can control your lifestyle so there is no excuse for anything in your control to derail you.
 
