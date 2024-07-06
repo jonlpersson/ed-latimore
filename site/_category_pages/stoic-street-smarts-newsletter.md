@@ -20,14 +20,17 @@ page_blocks:
       between.
 
 
+      All past issues of the Stoic Street Smarts Newsletter are [**here at my
+      Substack.**](https://edlatimore.substack.com/){: target="_blank"
+      rel="noopener"}
+
+
       Follow me [X (Twitter)](https://x.com/edlatimore){: target="_blank"
       rel="noopener"}, [LinkedIn](https://www.linkedin.com/in/edlatimore/){:
       target="_blank" rel="noopener"},
       [Youtube](https://www.youtube.com/c/EdLatimore1){: target="_blank"
       rel="noopener"}, or [Instagram](https://instagram.com/edlatimore){:
-      target="_blank" rel="noopener"}. Check out past Stoic Street Smarts
-      newsletter issues and [subscribe](https://edlatimore.com/newsletter) so
-      you never miss an issue.
+      target="_blank" rel="noopener"}.
 
 
       ​​​​​​
