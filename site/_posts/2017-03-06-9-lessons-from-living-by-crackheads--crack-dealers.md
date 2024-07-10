@@ -12,7 +12,7 @@ description: >-
   I grew up in the projects and learned a lot about crackheads and crack
   dealers. Here are some little-known facts about them.
 ---
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9ocFFxUTdLckx5MD9zaT1UWE5xenZjeWJpaGNyay1PIiB0aXRsZT0iWW91VHViZSB2aWRlbyBwbGF5ZXIiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGNsaXBib2FyZC13cml0ZTsgZW5jcnlwdGVkLW1lZGlhOyBneXJvc2NvcGU7IHBpY3R1cmUtaW4tcGljdHVyZTsgd2ViLXNoYXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQqQ7KrLy0?si=TXNqzvcybihcrk-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpQqQ7KrLy0?si=TXNqzvcybihcrk-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 In the ghetto, there are crackheads. In case you didn’t know, crackheads are people addicted to crack-cocaine. Crackheads and the ghetto go together like Kool-Aid and fried chicken.
 
@@ -48,7 +48,7 @@ Crackheads sell their children to get crack money. Male and female crackheads wi
 
 No crime is too great or too low once a person has sold their soul to the crack devil.
 
-***(Read: "[How To Hustle Like A Crackhead](/how-to-hustle-like-a-crackhead/)")***
+***(Read: "***[***How To Hustle Like A Crackhead***](/how-to-hustle-like-a-crackhead/)***")***
 
 ## 3\. The crackhead economy is legendary
 
@@ -90,7 +90,7 @@ You also don’t really meet any fat crackheads. Maybe crack raises your metabol
 
 Crack comes before food if you only have 5 dollars from the car you stole and sold. Even if you haven’t eaten in days.
 
-I've got a collection of quotes, many of which highlight this incredible power of crackheads. Check out this [collection of crackhead quotes here.](/crackhead-head-quotes/)
+I've got a collection of quotes, many of which highlight this incredible power of crackheads. Check out this [collection of crackhead quotes here.](https://edlatimore.com/crackhead-head-quotes/){: target="_blank" rel="noopener"}
 
 ## 5\. The biggest problem with illegal drugs is the violence between suppliers, not between buyers
 
@@ -108,7 +108,7 @@ On a more general note, most hood violence is drug-related. The rest of the viol
 
 It's about controlling who sells what, where, and for how much. Random muggings aren't as common as shooting disputes over street corners.
 
-***\[Read: ["How to avoid a street fight, and what do if you can't"](/how-to-win-a-street-fight/)\]***
+***\[Read:*** [***"How to avoid a street fight, and what do if you can't"***](/how-to-win-a-street-fight/)***\]***
 
 ## 6\. Bad traits come in clusters. Especially with crack dealers
 
