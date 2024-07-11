@@ -7,8 +7,10 @@ tags:
   - chess-math-and-language
 categories:
   - Relationships
-description:
-image:
+description: >-
+  What follows are methods I've discovered and used to improve in all of these
+  areas, which have, in turn, made it even easier to use and learn the language.
+image: /assets/images/posts/foreign-language.jpeg
 ---
 I've always wanted to speak another language fluently. From a practical standpoint, it opens up more of the world to me, as I can communicate with more people and visit more places. From an intellectual standpoint, I've always felt that the ability to communicate in many languages is a sign of intelligence. Lastly, from an ego standpoint, it seems like a very impressive ability.
 
