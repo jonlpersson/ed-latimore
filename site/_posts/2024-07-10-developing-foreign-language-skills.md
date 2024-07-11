@@ -54,9 +54,7 @@ Do not learn words alone. Whenever possible, learn the words as part of a phrase
 
 Go out of your way to pronounce the words correctly. When you pronounce words correctly, you're building a habit that will be extremely useful for other parts of our language learning journey, but the primary purpose here is to learn how the word sounds so you can recognize it better when you hear speakers.
 
-https://www.bbc.com/news/world-44569277
-
-Grammar
+## Grammar is underrated AND overrated
 
 A lot of people view grammar as a nightmare. They consider it the most complicated and frustrating part of any language. Before I tell you the best way to learn it, let me explain why grammar isn't the boogie man people try to make it out to be.
 
@@ -70,11 +68,11 @@ Secondly, think about how often your English grammar is perfect. The average per
 
 Instead, I've discovered that most people know enough grammar to not be misunderstood but not so much that they're writing essays at a college level. This means you can reduce the grammar you learn in your target language to approximately the following ideas.
 
-Verb Conjugation
+### Verb Conjugation
 
 You can do a lot with knowledge of only the simple present and past tense. While there are many situations with present progressive, past progressive, and imperfect past are more precise, you can communicate in various situations by focusing on how those simple tenses in your target language.
 
-Adjectives
+### Adjectives
 
 Many languages do not follow the same order we do for adjectives' placement. In English, we typically place the adjective before the noun it's describing. While your eventual proficiency in the language needs to know the difference, don't let your mind focus too much on this. Native speakers will understand you, even if you mess this up. If you doubt this, think about these two sentences:
 
@@ -82,7 +80,7 @@ Many languages do not follow the same order we do for adjectives' placement. In 
 
 While you know that the second sentence is incorrect, in a conversational context, you'd know what it means.
 
-Conjunctions, prepositions, and demonstratives
+### Conjunctions, prepositions, and demonstratives
 
 These three are technically different, but if you're trying to learn the most common words in a language, you'll have almost certainly come across them in your list.
 
@@ -98,7 +96,7 @@ You will come across these by learning the most common words and lemmas in your 
 
 I've left out adjectives and adverbs. That's because you'll naturally build a repertoire of useful adjectives from studying your list of common words and doing the Google translator exercise. As for adverbs, they are excellent additions to your language, but they aren't necessary. Even communication in English is considered low quality if too many adjectives are used.
 
-Speaking
+## Speaking
 
 As a skill, speaking proficiency generally follows reading but lags behind comprehension. When you think about how you learned to speak your native language, this order should immediately seem strange.
 
@@ -118,7 +116,7 @@ Another big reason people have trouble developing the ability to speak is that t
 
 Let's put those fears to rest. For speakers of your target language, every attempt is appreciated. The reality is that developing a proper accent makes everyone more likely to interact with you, and it makes it easier for them to understand you. As for your worries about people making fun of you or judging you for your accent, remember that you're attempting to do something that most people will never try and would love to be able to do.
 
-Listening
+## Listening
 
 Understanding a foreign language when spoken to you is often the most challenging part of learning another language. For many of us, the first breakthrough comes when we hear a stretch of conversation and actually comprehend what's being said.
 
@@ -126,13 +124,15 @@ Most of what I've learned about improving my listening comprehension has come fr
 
 I've also developed several methods on my own that have helped improve my comprehension of the language during a real-time conversation. The following are the most powerful tips for improving your listening comprehension in another language:
 
-Develop your accent. Your accent is just training your mouth to recreate the sounds of your target language correctly. This means mastering the intonation and stresses of the word. The better you get at creating the right sounds, the more easily you'll hear them when people speak to you.
+### Develop your accent
 
-Focus on sounds, not words. Too often, we try to hear new words in a foreign language rather than listen to their sounds. What I mean by this is that you read a word, and you think it should sound exactly the way you're taught to pronounce it--and that's if you even learned how to pronounce it correctly from a native speaker. The reality is that there's a difference (often significant) between how a word is read or officially pronounced and the way it's used in conversations.
+Your accent is just training your mouth to recreate the sounds of your target language correctly. This means mastering the intonation and stresses of the word. The better you get at creating the right sounds, the more easily you'll hear them when people speak to you.
+
+Focus on sounds, not words. Too often, we try to hear new words in a foreign language rather than listen to their sounds. What I mean by this is that you read a word, and you think it should sound exactly the way you're taught to pronounce it–and that's if you even learned how to pronounce it correctly from a native speaker. The reality is that there's a difference (often significant) between how a word is read or officially pronounced and the way it's used in conversations.
 
 Dictate, don't translate. One of the best exercises you can do to improve your comprehension is to listen to 15-30-second clips of your target language being spoken, then try to write it down. Don't focus on translation. Just try to capture words. The idea is to train your ear to ear to hear what is being said. Many people have trouble with listening comprehension because they simply aren't hearing the words being said as they're pronounced. Dictation is the best way to do this.
 
-Stop translating word for word.
+### Stop translating word for word
 
 Translating word for word is one of the word habits you can develop. It will tremendously slow down your ability to understand chunks of information simultaneously, which is the ultimate goal. I have a simple exercise for you that should help in this area.
 
@@ -140,8 +140,10 @@ Listen to 15-30 seconds of spoken material in your target language. This time, t
 
 After doing this a few times, you will get a better feel for how the language sounds and how ideas are expressed in it. This is key because one of the biggest problems with word-for-word translation is that many languages express the same idea but with different word order, usage, and phrasing.
 
-Material selection for study
+### Material selection for study
 
 Working through complete articles and videos, no longer than 2000 words or 4 minutes, works best. That's long enough to push your mind but short enough to not exhaust you. Also, the added bonus is that any decent piece on a subject will repeatedly use the same vocabulary and be written or spoken in the same tense. This makes it easier to grasp the sounds and learn more words.
+
+This basic framework will help you quickly aquire any language you wish to study that is based on the roman alphabet.
 
 &nbsp;
