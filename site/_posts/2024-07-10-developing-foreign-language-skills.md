@@ -14,7 +14,9 @@ I've always wanted to speak another language fluently. From a practical standpoi
 
 Growing up, I dabbled in different languages. I took Japanese in high school and a semester of Russian in college. I learned how to read Hebrew and order food in Chinese, picked up some French basics when I met my girlfriend and learned basic conversational Portuguese in Portugal.
 
-While I've always dabbled in Spanish, I only recently had the time, energy, and resources to seriously invest in my Spanish skills. While I haven't attained fluency in that I can spontaneously talk about anything with anyone and understand an entire episode of Narcos without subtitles (a personal goal), I recently took an online version of the Common European Framework of Reference Languages exam for Spanish. I placed firmly into the B2 level with my knowledge of the language. My speaking and comprehension ability is strong enough that I carried on conversations and solved problems during a recent trip to Puerto Vallarta.
+While I've always dabbled in Spanish, I only recently had the time, energy, and resources to seriously invest in my Spanish skills. While I haven't attained fluency in that I can spontaneously talk about anything with anyone and understand an entire episode of Narcos without subtitles (a personal goal).
+
+I recently took an online version of the Common European Framework of Reference Languages exam for Spanish. I placed firmly into the B2 level with my knowledge of the language. My speaking and comprehension ability is strong enough that I carried on conversations and solved problems during a recent trip to Puerto Vallarta.
 
 This post is not about what I did to improve my Spanish ability. Instead, it's about the general methods I've discovered along the way for improving the speed at which I acquired communicative skills in Spanish and the efficacy.
 
@@ -22,7 +24,7 @@ Communicating in another language is challenging because you must simultaneously
 
 What follows are methods I've discovered and used to improve in all of these areas, which have, in turn, made it even easier to use and learn the language.
 
-Learning vocabulary
+## Learning vocabulary
 
 First, the bad news about learning vocabulary.
 
@@ -32,15 +34,15 @@ The Second Edition of the 20-volume Oxford English Dictionary, published in 1989
 
 According to testyourvocabulary.com, the average English speaker has a vocabulary ranging from 20,000 to 35,000 words. This number means that the average person only knows 11-20% of the words in English. Learning over 20,000 words is much less intimidating, but it gets even better.
 
-Meet our friend, lemma.
+### Language lemmas make learn learning easier
 
 A lemma is simply a word family. A word family is a word and all of its derivations and inflections. For example, talked, talk, talking, talks; sleep, slept, sleeping. Speakers of the romance language should immediately recognize this in the conjugation of verbs. Officially, it is said that romance languages have a high degree of inflection, which means there are many ways to conjugate the infinitive of a verb.
 
 Although there are over 50 different forms a conjugated Spanish verb can take, all those conjugations are considered one lemma. For example, "como," "comes," "comiste," "comaba," "estoy caminando," etc. are all part of the lemma for comer.
 
-Typically, native speakers of English know between 15,000 and 20,000 lemmas. However, research by University of Wisconsin professor of applied linguist Stuart Webb indicates that you only need to know 800-1000 lemmas to have a conversation with someone in their native language. Furthermore, the lemmas you need to know follow a Pareto style distribution in which 20% of the lemmas you need to know account for 80% of the words you'll need to use in conversation.
+Typically, native speakers of English know between 15,000 and 20,000 lemmas. However, research by University of Wisconsin professor of applied linguist Stuart Webb indicates that [you only need to know 800-1000 lemmas](https://www.bbc.com/news/world-44569277){: target="_blank" rel="noopener"} to have a conversation with someone in their native language. Furthermore, the lemmas you need to know follow a Pareto style distribution in which 20% of the lemmas you need to know account for 80% of the words you'll need to use in conversation.
 
-This distrubution forms the basis of my strategy for accumulating vocabulary in Spanish. I learned the most common words used in small talk and basic writing. This approach is one of the reasons why using children's books to learn another language is such a good technique. Children communicate at a basic level and are understood. If you know the exact words they use, you are well on your way to building a base of vocabulary to communicate with.
+This distribution forms the basis of my strategy for accumulating vocabulary in Spanish. I learned the most common words used in small talk and basic writing. This approach is one of the reasons why using children's books to learn another language is such a good technique. Children communicate at a basic level and are understood. If you know the exact words they use, you are well on your way to building a base of vocabulary to communicate with.
 
 There are lists all over the internet that break down the most common words in English. You can try to find them for your target language, but I do not believe this is necessary because languages simply express ideas. You would likely have the same ideas in your target language as in your native language.
 
