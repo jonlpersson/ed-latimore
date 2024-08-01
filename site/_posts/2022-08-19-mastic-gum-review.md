@@ -13,6 +13,10 @@ description: >-
   gum.
 image: /assets/images/thumbnails/tin-full-of-mastic-gum-from-greco-gum.JPG
 ---
+***Watch my video review of Greco Gum's mastic gum***
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/NhBtqLr4-0Q?si=J3ctDaJzAvSzl9Ml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 The journey to being a better man is both internal and external.
 
 That’s why I’m a fan of making yourself likable and as physically attractive as possible. It helps you show up in the world with more confidence which leads people to treat you better. One way to show up better in the world is by defining your face. Whether you like it or not, how you look communicates things about you.
@@ -120,7 +124,7 @@ Mapsin is normally downregulated in breast and prostate cancers, allowing them t
 
 Furthermore, the potential of mastic essential oil to act preventively and contribute to wellness strategies aimed at deterring androgen-insensitive prostate cancer cells [is worth noting](https://pubmed.ncbi.nlm.nih.gov/16691616/). In addition, [a 2018 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6084073/) provided compelling evidence indicating that mastic serves as a scavenger for free radicals and a valuable antioxidant.
 
-### Mastic gum can help with allergic asthma 
+### Mastic gum can help with allergic asthma&nbsp;
 
 Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions.
 
