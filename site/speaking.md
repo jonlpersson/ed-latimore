@@ -20,7 +20,7 @@ As a speaker, I deliver the same kind of practical and stoic perspective on life
 
 ![Ed Latimore speaking one sheet](/assets/images/pages/2024-one-sheet.png){: width="1545" height="2000"}
 
-Get a taste from the video below:
+A reel highlighting my presentation style
 
 {% include widgets/youtube.html id="PXEs6BoVW7w" %}
 
