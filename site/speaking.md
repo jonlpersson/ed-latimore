@@ -30,9 +30,11 @@ As an amateur boxer, Ed Latimore holds notable victories over the 2012 super hea
 
 As a professional heavyweight, Ed Latimore was promoted by Jay-Z’s sports promotion company, Roc Nation Sports, and was trained by Hall of Fame boxing coach Tom Yankello. He retired with a record of 13-1-1, with his only loss coming at the hands of Trey Lippe-Morrison, son of former WBA heavyweight champion Tommy Morrison.&nbsp;
 
-Latimore credits the mindset he developed from boxing with helping him get sober in 2013 and going from a failing high school math student to graduating with a Bachelor’s degree in Physics and a minor in Mathematics at 33. He has spoken about the role of boxing in these major life transformations in his TEDx talk, keynote speeches, at conferences, and to collegiate football teams. His self-published collection of essays, ***“Not Caring What Other People Think Is A Superpower: Insights From A Heavyweight Boxer,”*** was an instant Amazon Best-Seller.&nbsp;
+Latimore credits the mindset he developed from boxing with helping him get sober in 2013 and going from a failing high school math student to graduating with a Bachelor’s degree in Physics and a minor in Mathematics at 33. He has spoken about the role of boxing in these major life transformations in his TEDx talk, keynote speeches, at conferences, and to collegiate football teams.
 
-## Documentaries on Ed Latimore
+He's working on his next book, "Hard Lessons From the Hurt Business: Boxing and the Art of LIfe" set to be published by Penguin Randomhouse in Summer 2025. ![Book deal announcement Ed Latimore](/assets/images/pages/book-deal.jpg){: width="900" height="315"}
+
+## Coverage of Ed Latimore's story
 
 ### Radical Heroes Series "Pro Boxer Ed Latimore's Courage To Fight Addiction"
 
