@@ -1,7 +1,7 @@
 ---
 _enabled_editors:
   - content
-title: Book a self-improvement speaker
+title: Book a leadership and mindset speaker
 description: >-
   Ed Latimore is a best-selling author and keynote speaker. His work focuses on
   self-improvement, addiction, and what he learned as a professional boxer.
@@ -31,6 +31,12 @@ As an amateur boxer, Ed Latimore holds notable victories over the 2012 super hea
 As a professional heavyweight, Ed Latimore was promoted by Jay-Z’s sports promotion company, Roc Nation Sports, and was trained by Hall of Fame boxing coach Tom Yankello. He retired with a record of 13-1-1, with his only loss coming at the hands of Trey Lippe-Morrison, son of former WBA heavyweight champion Tommy Morrison.&nbsp;
 
 Latimore credits the mindset he developed from boxing with helping him get sober in 2013 and going from a failing high school math student to graduating with a Bachelor’s degree in Physics and a minor in Mathematics at 33. He has spoken about the role of boxing in these major life transformations in his TEDx talk, keynote speeches, at conferences, and to collegiate football teams. His self-published collection of essays, ***“Not Caring What Other People Think Is A Superpower: Insights From A Heavyweight Boxer,”*** was an instant Amazon Best-Seller.&nbsp;
+
+## Documentaries on Ed Latimore
+
+Radical Heroes Series "Pro Boxer Ed Latimore's Courage To Fight Addiction"
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/SB1OD3_uNR8?si=xneZU3YxjVenRQsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>\</div>
 
 ## Past speeches
 
