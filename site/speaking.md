@@ -18,9 +18,11 @@ page_blocks:
 ---
 As a speaker, I deliver the same kind of practical and stoic perspective on life, mindset, skills, and interpersonal relations that I talk about in my writing.
 
+#### *One sheet highlighting my speaking topics. I customize to fit your audience needs within the parameters of decision-making, leadership, and initiative.*
+
 ![Ed Latimore speaking one sheet](/assets/images/pages/2024-one-sheet.png){: width="1545" height="2000"}
 
-A reel highlighting my presentation style
+#### *A reel highlighting my presentation style*
 
 {% include widgets/youtube.html id="PXEs6BoVW7w" %}
 
