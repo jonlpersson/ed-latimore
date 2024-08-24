@@ -34,9 +34,13 @@ Latimore credits the mindset he developed from boxing with helping him get sober
 
 ## Documentaries on Ed Latimore
 
-Radical Heroes Series "Pro Boxer Ed Latimore's Courage To Fight Addiction"
+### Radical Heroes Series "Pro Boxer Ed Latimore's Courage To Fight Addiction"
 
 <div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/SB1OD3_uNR8?si=xneZU3YxjVenRQsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>\</div>
+
+### Convertkit's "I Am A Creator" Series
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/Q22X12TakMs?si=Lc-bQ8K7FDaGt0Ov" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 
 ## Past speeches
 
