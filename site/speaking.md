@@ -42,10 +42,6 @@ Latimore credits the mindset he developed from boxing with helping him get sober
 
 <div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/Q22X12TakMs?si=Lc-bQ8K7FDaGt0Ov" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 
-## Past speeches
+## Tedx Talk
 
-* [The Hidden Costs of Fear, *Lambda Conf*](https://www.youtube.com/watch?v=17rgUgdZHgg)
-* [Opening speech, *Going Deep Summit 2018*](https://www.youtube.com/watch?v=fgX338ToFkc)
-* [Red Pilled in a Blue Pilled World, *21 Convention*](https://www.youtube.com/watch?v=6ShXCepXJ-c)
-* [Addiction and Identity, Tedx](https://www.youtube.com/watch?v=J9eObiqMPnk)
-* [Hard Lessons From The Hurt Business: Boxing lessons in Risk, Relationships, and Reality](https://youtu.be/FvDIn3RXz8A?si=RsuuVSARc5jNQT7M)
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/J9eObiqMPnk?si=qJ2ESU0Bb8M_Pbbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
