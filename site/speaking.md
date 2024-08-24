@@ -6,11 +6,11 @@ description: >-
   Ed Latimore is a best-selling author and keynote speaker. His work focuses on
   self-improvement, addiction, and what he learned as a professional boxer.
 hero:
-  heading: Book me as a speaker
-  text: >
-    As a speaker, I deliver the same kind of practical and stoic perspective on
-    life, mindset, skills, and interpersonal relations that I talk about in my
-    writing.
+  heading: Book Ed Latimore, a top growth mindset speaker and presenter
+  text: >-
+    I take my lessons from boxing, overcoming addiction, and learning physics to
+    deliver a keynote speech that will transform your team into empathetic,
+    authentic, top-performers. 
 page_blocks:
   - _id: block_rich_text
   - _id: block_contact
