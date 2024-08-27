@@ -16,7 +16,7 @@ page_blocks:
   - _id: block_contact
     heading: Keynote speaking inquiry
 ---
-As a speaker, I deliver the same kind of practical and stoic perspective on life, mindset, skills, and interpersonal relations that I talk about in my writing.
+As a speaker, I deliver the same kind of practical and stoic perspective on life, mindset, skills, and interpersonal relations that I talk about in my writing.![Axomo Entrepreneur Speaker Series](/assets/images/pages/axomo.jpg){: width="3217" height="2444"}
 
 #### *One sheet highlighting my speaking topics. I customize to fit your audience needs within the parameters of decision-making, leadership, and initiative.*
 
