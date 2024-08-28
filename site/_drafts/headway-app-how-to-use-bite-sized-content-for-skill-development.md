@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-08-28 18:59:00 -0400
 article_type: Article
 title: 'Headway App: How to Use Bite-Sized Content for Skill Development'
 permalink: /headway-app-review/
