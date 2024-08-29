@@ -19,7 +19,7 @@ The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1
 ## **Key takeaways**
 
 * Bite-sized content enhances learner engagement and retention by delivering information in small, manageable chunks, catering to the fast-paced digital audience.
-* The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) personalizes learning through reading plans and summaries, enabling users to set goals, track progress, and effectively integrate learning into their daily routines.
+* The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"} personalizes learning through reading plans and summaries, enabling users to set goals, track progress, and effectively integrate learning into their daily routines.
 * Consistency and active engagement techniques, such as quizzes and practical applications, are essential for maximizing the effectiveness of bite-sized learning.
 
 ## **Understanding bite-sized content![Understanding bite sized content using the Headway App](/assets/images/drafts/image1.png){: width="1792" height="1024"}**
@@ -44,11 +44,11 @@ Additionally, [<u>microlearning</u>](https://makeheadway.com/blog/what-is-microl
 
 ## **Overview of the Headway App![Overview of the headway app](/assets/images/drafts/image3.png){: width="1792" height="1024"}**
 
-The [<u>Headway book summary app</u>](https://makeheadway.com/) has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D).
+The [<u>Headway book summary app</u>](https://makeheadway.com/) has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"}.
 
 ### **Key features of Headway**
 
-The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) provides personalized reading plans based on user-selected interests and goals, ensuring that learners stay engaged with relevant content. Users can track their learning progress, set goals, and receive insights into their development through the app, which enhances motivation and accountability.
+The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"} provides personalized reading plans based on user-selected interests and goals, ensuring that learners stay engaged with relevant content. Users can track their learning progress, set goals, and receive insights into their development through the app, which enhances motivation and accountability.
 
 Motivational achievements enhance user engagement and track progress. These milestones encourage users to continue their learning journey and celebrate their advancements.
 
@@ -56,7 +56,7 @@ The app’s user-friendly interface facilitates easy navigation and engagement. 
 
 ### **Topics covered by Headway**
 
-[Headway](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) covers a wide range of topics, effectively addressing performance gaps and enhancing retention by breaking information into smaller parts. This micro-content can be tailored to focus on specific work-related tasks and the needs of learners, making it a versatile tool for skill development.
+[Headway](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"} covers a wide range of topics, effectively addressing performance gaps and enhancing retention by breaking information into smaller parts. This micro-content can be tailored to focus on specific work-related tasks and the needs of learners, making it a versatile tool for skill development.
 
 Future microlearning platforms will likely prioritize accessibility and inclusivity for diverse learner needs. This focus ensures bite-sized learning remains relevant and beneficial, catering to various personal and professional development goals.
 
@@ -64,11 +64,11 @@ Future microlearning platforms will likely prioritize accessibility and inclusiv
 
 The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) allows users to grasp key ideas from nonfiction books in under 15 minutes, making it an ideal platform for skill development. This section explores setting learning goals, selecting relevant summaries, and integrating the app into daily routines for maximum benefit.<br>
 
-## [Start your journey with Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D)
+## [Start your journey with Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"}
 
 ### **Setting learning goals**
 
-Clear learning objectives are vital for assessing the effectiveness of bite-sized content. [Headway](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) encourages users to articulate their goals clearly, increasing their chances of success.
+Clear learning objectives are vital for assessing the effectiveness of bite-sized content. [Headway](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"} encourages users to articulate their goals clearly, increasing their chances of success.
 
 For example, a user might set a goal to read and summarize one nonfiction book per week, focusing on topics related to leadership and productivity.
 
