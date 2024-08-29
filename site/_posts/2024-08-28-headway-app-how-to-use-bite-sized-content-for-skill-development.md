@@ -14,7 +14,7 @@ description: >
   bite-sized content and the benefits it offers.
 image: /assets/images/drafts/image5.png
 ---
-The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D) offers a fantastic solution for those looking to implement bite-sized learning into their daily routine. [Try Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D)
+The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="noreferrer nofollow"} offers a fantastic solution for those looking to implement bite-sized learning into their daily routine. [Try Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D)
 
 ## **Key takeaways**
 
@@ -40,11 +40,11 @@ One of the primary benefits of bite-sized learning is its accessibility anytime,
 
 Bite-sized learning techniques aim to boost longer-term information retention and prevent information overload, making it easier for learners to absorb material. Revisiting topics helps transition information from short to long-term memory, which is crucial for effective retention. Research from the National Training Laboratories indicates that the retention rate for bite-sized learning can be as high as 70%, compared to 10% for traditional methods.
 
-Additionally,[<u>microlearning</u>](https://makeheadway.com/blog/what-is-microlearning/) improves engagement by being interactive and designed to hold learners’ attention more effectively than traditional methods. A study by the Rapid Learning Institute found that microlearning can improve focus and support long-term retention by up to 80%. Combining nuggets of information in different sequences based on personal preferences offers a personalized learning experience. This tailored approach caters to diverse interests and learning styles, creating a more engaging and impactful learning environment.
+Additionally, [<u>microlearning</u>](https://makeheadway.com/blog/what-is-microlearning/) improves engagement by being interactive and designed to hold learners’ attention more effectively than traditional methods. A study by the Rapid Learning Institute found that microlearning can improve focus and support long-term retention by up to 80%. Combining nuggets of information in different sequences based on personal preferences offers a personalized learning experience. This tailored approach caters to diverse interests and learning styles, creating a more engaging and impactful learning environment.
 
 ## **Overview of the Headway App![Overview of the headway app](/assets/images/drafts/image3.png){: width="1792" height="1024"}**
 
-The[<u>Headway book summary app</u>](https://makeheadway.com/) has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D).
+The [<u>Headway book summary app</u>](https://makeheadway.com/) has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D).
 
 ### **Key features of Headway**
 
