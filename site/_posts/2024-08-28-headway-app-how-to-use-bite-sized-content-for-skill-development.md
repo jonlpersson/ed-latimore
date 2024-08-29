@@ -14,7 +14,7 @@ description: >
   bite-sized content and the benefits it offers.
 image: /assets/images/drafts/image5.png
 ---
-The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="noreferrer nofollow"} offers a fantastic solution for those looking to implement bite-sized learning into their daily routine. [Try Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D)
+The [Headway app](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"} offers a fantastic solution for those looking to implement bite-sized learning into their daily routine. [Try Headway today!](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"}
 
 ## **Key takeaways**
 
