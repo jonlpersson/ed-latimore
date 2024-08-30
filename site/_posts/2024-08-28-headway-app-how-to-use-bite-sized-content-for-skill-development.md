@@ -44,7 +44,7 @@ Additionally, [<u>microlearning</u>](https://makeheadway.com/blog/what-is-microl
 
 ## **Overview of the Headway App![Overview of the headway app](/assets/images/drafts/image3.png){: width="1792" height="1024"}**
 
-The [<u>Headway book summary app</u>](https://makeheadway.com/){: rel="nofollow"} has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"}.
+The [<u>Headway book summary app</u>](https://makeheadway.com/) has attracted over 30 million users globally, illustrating its widespread appeal and effectiveness in promoting learning through bite-sized content. This section will delve into the app’s key features and the range of topics it covers, showcasing why it is a valuable tool for both personal and professional development.<br><br>To experience these benefits yourself, [download Headway here and get started on your skill development journey](https://gthw-app-limited.pxf.io/c/2316453/2041488/18904?subid1=%7Bedlatimore%7D&amp;traffic_type=%7Barticle%7D&amp;subid2=%7Bclickid%7D){: rel="nofollow"}.
 
 ### **Key features of Headway**
 
