@@ -1,5 +1,5 @@
 ---
-date: 2024-09-16 00:00:00 -0400
+date: 2024-09-16 18:00:00 -0400
 article_type: Article
 title: The book made me do it—why I'm boxing again
 permalink: /ed-latimore-boxing-again/
@@ -60,13 +60,13 @@ Well, this time, I know what I'm doing, I have a plan, a big house publishes the
 
 ## **I've cracked the boxing code—and I can program with it**
 
-In 2021, I started doing part-time coaching at a friend's gym (Shoutout to [Southside Boxing Club](https://preview.convertkit-mail.com/click/dpheh0hzhm/aHR0cHM6Ly93d3cudGhlc291dGhzaWRlYm94aW5nY2x1Yi5jb20v) and Matt Leyshock. If anyone is in the Pittsburgh Area looking for a gym, check it out). I wanted to make sure that everything I was teaching was objectively correct. For me, this meant:
+In 2021, I started doing part-time coaching at a friend's gym (Shoutout to [Southside Boxing Club](https://www.thesouthsideboxingclub.com/) and Matt Leyshock. If anyone is in the Pittsburgh Area looking for a gym, check it out). I wanted to make sure that everything I was teaching was objectively correct. For me, this meant:
 
 1. Revisiting what I had learned.
 2. Making sure it stood up to the vast amount of physics and biomechanics knowledge I had acquired.
 3. Being able to explain it.
 
-Around this same time, Coach Yanekello ([another fantastic gym](https://preview.convertkit-mail.com/click/dpheh0hzhm/aHR0cHM6Ly93d3cud29ybGRjbGFzc2JveGluZ2d5bS5jb20v)—it's where I trained my entire professional career, though it's about 30 miles outside of Pittsburgh) asked me to appear on one of this course videos to explain the physics behind why a fighter shouldn't twist his front foot when throwing a hook.
+Around this same time, Coach Yanekello ([another fantastic gym](https://www.worldclassboxinggym.com/)—it's where I trained my entire professional career, though it's about 30 miles outside of Pittsburgh) asked me to appear on one of this course videos to explain the physics behind why a fighter shouldn't twist his front foot when throwing a hook.
 
 This led me down a rabbit hole, further increasing my knowledge of boxing mechanics. That knowledge completely changed how I looked at fights. I see fights differently from how most coaches and boxers see them.
 
