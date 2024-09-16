@@ -8,8 +8,9 @@ tags:
 categories:
   - Reality
 description: >-
-  I hope this post ages well. In this essay, I explain why I'm boxing and what I
-  hope to accomplish this time around. 
+  I hope this post ages well. Once upon a time, I was a professional boxer. Now,
+  at the age of 40, I'll be fighting again. In this essay, I explain why I'm
+  boxing and what I hope to accomplish this time around. 
 image: /assets/images/posts/ed-not-lean.jpg
 ---
 Let's start this newsletter with a brief summary of my past.
