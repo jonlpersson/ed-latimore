@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-09-17 12:00:00 -0400
 article_type: Article
 title: What boxing taught me about resilience
 permalink: /boxing-teaches-resilience/
