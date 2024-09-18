@@ -4,7 +4,7 @@ article_type: Article
 title: 25 boxing tips for amateur and pro boxing
 permalink: /25-boxing-tips/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -12,13 +12,13 @@ description: >-
   better boxer. The 25 tips are broken down into four categories.
 image: /assets/images/drafts/latimore-doing-boxing.jpeg
 ---
-These are a collection of boxing tips and I ideas I put together from my 12-years of experience as both an amateur and professional boxer. In addition to my personal boxing experience, I've started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.
+These are a collection of boxing tips and I ideas I put together from my 12-years of experience as both an amateur and professional boxer. In addition to my personal boxing experience, I’ve started to dabble in coaching and training fighters and helping people reach their fitness goals with boxing.
 
 In many ways, I’m an outsider. I didn’t have my first boxing match until I was 22, and while I was fighting, I earned a degree in physics. I did this so that I’d have a better future for myself after boxing, but it’s enabled me to look at boxing with a critical eye and look at what’s important and what needs to be improved.
 
-This article is my collection of suggestions for anyone who wants to become a better boxer. The 25 tips are broken down into four categories. Laastly, this isn't meant to teach anyone how to fight.
+This article is my collection of suggestions for anyone who wants to become a better boxer. The 25 tips are broken down into four categories. Laastly, this isn’t meant to teach anyone how to fight.
 
-This post is merely guidance for how you should approach the aspects of your training. You can't learn how to box by reading about it, but if you are already training, you can quickly improve.
+This post is merely guidance for how you should approach the aspects of your training. You can’t learn how to box by reading about it, but if you are already training, you can quickly improve.
 
 I know this because when I started fighting, I was awkward and clumsy. I went on to capture a amateur national title and achieve a peak rating of \#4 by USA boxing in 2011.
 
@@ -26,7 +26,7 @@ I know this because when I started fighting, I was awkward and clumsy. I went on
 
 ## How to get in shape for boxing
 
-Fatigue makes cowards of us all, but it's dangerous to run out of energy in boxing. The challenge is that boxing is taxing on both the aerobic and anaerobic systems. You use up energy throwing punches, taking punches, evading, and attacking.
+Fatigue makes cowards of us all, but it’s dangerous to run out of energy in boxing. The challenge is that boxing is taxing on both the aerobic and anaerobic systems. You use up energy throwing punches, taking punches, evading, and attacking.
 
 Therefore, you need to be in supreme physical condition if you want a successful boxing career. Fitness people fight to get in shape, while fighters get in shape to fight.
 
@@ -36,7 +36,7 @@ Therefore, you need to be in supreme physical condition if you want a successful
 
 You don’t need to run far, long, or frequently.
 
-"Road work" or running is vital because boxing is an activity that taxes your cardiovascular system. You need to get in shape to box. Running helps, but the best way to get in shape for boxing is to box.
+“Road work” or running is vital because boxing is an activity that taxes your cardiovascular system. You need to get in shape to box. Running helps, but the best way to get in shape for boxing is to box.
 
 This doesn’t mean that you shouldn’t run. It just means that most fighters spend WAY too much time doing roadwork. It wears down their legs and, past a certain point, doesn’t help them in the ring.
 
@@ -81,7 +81,7 @@ Boxing training makes little allowance for weight training for the following rea
 1. **Practical considerations.** Boxing is divided by weight classes and, with the exception of heavyweight, there is a maximum a fighter can weigh. While having more mass than your opponent is an advantage, there is a limit before you have to compete against heavier opponents.<br><br>Unless a fighter is actively trying to move up in weight classes, lifting weights will make cutting weight more difficult.
 2. **Muscles cost oxygen. And energy**, While they technically pay for their energy cost in the form of being a storage for glucose, accessing that energy requires energy. You’ll need more oxygen to activate the energy stores and to power the extra muscle you build. For most athletes, this isn’t an issue and it’s why they benefit from weight training *specifically* to gain muscle.<br><br>In boxing, you not only are typically in the best cardiovascular shape possible, but you’re also moving continuously and are in serious trouble if you fatigue. No other sport combines the constant necessity of movement with such a fierce penalty for being unable to perform it suddenly.
 3. **Poor training balance.** If boxers were encouraged to lift weights, there would be boxers—especially beginners—who emphasize this above all other things. This is because it’s human nature to mistake activity for progress. You often see this in other areas of boxing training where there isn’t a stigma.<br><br>Consider the boxers who think they need to run 3-4 miles every day. Not only is this not necessary, but it’s counterproductive, as you’ll wear down your body and make your legs less effective during the fight.
-4. **Doesn't actually help anything.** Boxers will lift because they believe that it makes them more powerful. If a fighter lacks power, lifting weights won’t make a difference. He needs to take that time to improve his skills and ability to deliver shots.<br><br>The general boxing community thinks punchers are born rather than made, but the reality is that anyone can learn to deliver with world-class power by learning how to punch effectively. Lifting weights won’t help.
+4. **Doesn’t actually help anything.** Boxers will lift because they believe that it makes them more powerful. If a fighter lacks power, lifting weights won’t make a difference. He needs to take that time to improve his skills and ability to deliver shots.<br><br>The general boxing community thinks punchers are born rather than made, but the reality is that anyone can learn to deliver with world-class power by learning how to punch effectively. Lifting weights won’t help.
 5. **Better ways to use the time.** Time spent lifting weights can almost ALWAYS be used on some skill element. Whether it be film study, shadowboxing, pad work, footwork, or technique training, there is an element that a fighter is deficient in. The time spent on one of those elements during your training session will always yield a better return than time invested in weight lifting.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
@@ -104,7 +104,7 @@ When I followed this routine (combined with the running routine I gave above), I
 
 If you do this routine 3-4 times per week, it will be difficult for you to become exhausted during a fight.
 
-***Read more about how I trained for fights here—&gt;[What it's like training for a professional boxing match](/boxing-training/)***
+***Read more about how I trained for fights here—&gt;[What it’s like training for a professional boxing match](/boxing-training/)***
 
 ### 5) Mobility and flexibility are overcomplicated and underrated
 
@@ -128,11 +128,11 @@ This is another way that boxing is woefully behind other sports.
 
 In recovering from various concussions and post-concussive syndrome, I learned a lot about the importance of balance. Most people don’t understand what balance means in terms of athletic performance. Athletically speaking, balance is the ability to maintain your center of gravity directly over your base of support, specifically while in motion.
 
-Your center of gravity is the place on your body where, if your body were perfectly rigid, where you'd balance. Your base of support is the point and position that your body makes contact with the ground. An optimial boxing stance, with the hips lowered and hinged and weight on the back foot, attemps to make the boxer as balanced as possible.
+Your center of gravity is the place on your body where, if your body were perfectly rigid, where you’d balance. Your base of support is the point and position that your body makes contact with the ground. An optimial boxing stance, with the hips lowered and hinged and weight on the back foot, attemps to make the boxer as balanced as possible.
 
-Maintaining this balance not only ensures that the boxer is always in position to deliver maximum power, but also that he doesn't waist energy regaining balance.
+Maintaining this balance not only ensures that the boxer is always in position to deliver maximum power, but also that he doesn’t waist energy regaining balance.
 
-It's beyond the scope of this article to give you a complete breakdown on a balance training method. What I will tell you is that your general balance is composed of your vestibular, proprioceptive, and occular system. You'll also need a strong core and hip mobility.
+It’s beyond the scope of this article to give you a complete breakdown on a balance training method. What I will tell you is that your general balance is composed of your vestibular, proprioceptive, and occular system. You’ll also need a strong core and hip mobility.
 
 ## How to find a good boxing gym and coach
 
@@ -157,11 +157,11 @@ Each of these coaches taught me something that added to my understanding of the 
 
 ![Tom Yankello wrapping Ed Latimore's hands](/assets/images/drafts/tom-wrapping-my-hands.jpeg "Tom Yankello wrapping my hands before my 2nd pro fight"){: width="500" height="333"}
 
-Your coach needs to have fought. Preferably to at least an intermediate amateur level (I'll define "intermediate amateur level" as having won a state-level amateur tournament in at least a moderately competitive state or region of the country).
+Your coach needs to have fought. Preferably to at least an intermediate amateur level (I’ll define “intermediate amateur level” as having won a state-level amateur tournament in at least a moderately competitive state or region of the country).
 
 Your coach doesn’t need to have been a top-level world championship boxer, but you can’t be effectively coached by someone who doesn’t even know what it’s like to fight at a competitive level.
 
-A coach has to mentally and emotionally prepare you for battle. That’s difficult to do if he’s never been in battles himself. Also, lacking in experience means that he'll lack sufficient recognition of and solution to tactical (how to properly throw and defend various punches) and strategic (ring generalship, game-planning, fight preparation, etc.) problems because he simply has never experienced them.
+A coach has to mentally and emotionally prepare you for battle. That’s difficult to do if he’s never been in battles himself. Also, lacking in experience means that he’ll lack sufficient recognition of and solution to tactical (how to properly throw and defend various punches) and strategic (ring generalship, game-planning, fight preparation, etc.) problems because he simply has never experienced them.
 
 If your coach has not fought to at least an intermediate amateur level, then his resume needs to reflect experience teaching and building multiple fighters. At this point, I need to make it clear that these points are for people serious about fighting and giving themselves the best chance of going far in the sport.
 
@@ -199,21 +199,21 @@ If a coach did this one thing, he’d probably figure out a lot of techniques, t
 
 However, most would be boxing coaches don’t even watch the old fights, let alone seriously study film. If your coach doesn’t watch film with you, then you should become a serious student and watch more boxing yourself.
 
-### 12) Don't forget that your coach is making a huge sacrifice
+### 12) Don’t forget that your coach is making a huge sacrifice
 
 ![Tom Yankello and Ed Latimore after his first victory](/assets/images/drafts/tom-yankello-and-ed-latimore-after-victory.jpeg "Tom Yankello and I after my first victory"){: width="700" height="394"}
 
-Most fighters don't make any money. Coaches are paid a small percentage of an already small amount.
+Most fighters don’t make any money. Coaches are paid a small percentage of an already small amount.
 
-Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn't attract the types of clientele swimming in money. I say all this to say that most boxing coaches are *effectively* volunteers.
+Even if a coach charges a gym membership or monthly trainer fee, professional (and amateur, for that matter) boxing doesn’t attract the types of clientele swimming in money. I say all this to say that most boxing coaches are&nbsp;*effectively*&nbsp;volunteers.
 
-Most fighters will never see a significant payday. You probably won't either. That's why the most important thing you can do to repay your coach is to be a dedicated student of the game.
+Most fighters will never see a significant payday. You probably won’t either. That’s why the most important thing you can do to repay your coach is to be a dedicated student of the game.
 
 Work hard, be fearless, and stay in shape. Stay out of trouble with the law and always carry yourself as if you are a representative for your community and an extension of the people who put their faith in you. But virtue of who you are and what you do, people will look up to you.
 
-Do not disappoint them or waste your coach's time.
+Do not disappoint them or waste your coach’s time.
 
-***Read: [Ed Latimore's 48 Boxing Quotes](/boxing-quotes-from-ed-latimore/)***
+***Read: [Ed Latimore’s 48 Boxing Quotes](/boxing-quotes-from-ed-latimore/)***
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -261,7 +261,7 @@ When throwing punches, learn to put your back into the punch, rotate your core, 
 
 Doing this with your weight on your back foot and pushing into the floor with your front foot is the secret to incredible punching power.
 
-### 19) Don't stop moving your head
+### 19) Don’t stop moving your head
 
 Constant head movement is unnatural and must be trained. Even when you think you are moving your head, you’re not moving it. So always practice it, even when you’re just using the punching bag.
 
@@ -273,11 +273,11 @@ Constant head movement is unnatural and must be trained. Even when you think you
 
 A properly thrown punch defends you, and a well-executed defensive movement puts you into the optimal position to take advantage of an opening or strike back with a counter punch.
 
-If you only punch, you’ll wear yourself and leave yourself open for a counterattack. If you only defend, you’ll discover that there is no such thing as a "perfect defense" and that there is no static position that completely defends yourself.
+If you only punch, you’ll wear yourself and leave yourself open for a counterattack. If you only defend, you’ll discover that there is no such thing as a “perfect defense” and that there is no static position that completely defends yourself.
 
 Offense and defense are dynamically intertwined and wholly interdependent. The sooner you stop thinking of them as two different skills to learn, the sooner your capabilities in both will increase.
 
-### 21) Why is boxing called "the sweet science"?
+### 21) Why is boxing called “the sweet science”?
 
 Boxing is called “The sweet science” because it’s more than just about hitting and not getting hit. There is a beautiful dance taking place that requires technique, tactics, and strategy.
 
@@ -311,7 +311,7 @@ This tip is more for beginner boxers.
 
 You need your own gear. No one is expecting to have everything the first time you come in the gym. but you want to have your own boxing gear before at least your first amateur fight.
 
-With that said, I understand this may be financially difficult to do. So, in order of importance, here is the gear you need to get [if your funds don't allow you to purchase everything.](/stop-being-poor/)
+With that said, I understand this may be financially difficult to do. So, in order of importance, here is the gear you need to get [if your funds don’t allow you to purchase everything.](/stop-being-poor/)
 
 * **Mouthpiece.** Preferably a custom-fit mouth guard that uses putty molds of your teeth. However, in the beginning, any generic mouthpiece from a sporting goods store will suffice.<br><br>***Much like Winning is for boxing equipment, The Mouthpiece Guy is the company for mouthguards. Used by all the top boxers. No affiliate commission. Just a solid product. [Get it here.](https://www.mouthpieceguy.com/)***
 * **Boxing shoes.** This took second place to the mouthpiece because this is the only other piece of gear that you can’t really borrow. While there are no rules against boxing in your tennis shoes, boxing shoes are specifically made for boxing. Wrestling shoes will also suffice.
@@ -326,10 +326,10 @@ Once you really learn how to hit someone, you could kill them.
 
 However, what’s for more likely is that you’ll underestimate how powerful you are, not stop the guy, and he’ll probably pull out a gun or something.
 
-Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn't mean that you're bulletproof.
+Don’t get into fights because now that you can fight, the stakes are higher. Just because you can knock someone out doesn’t mean that you’re bulletproof.
 
 Follow these boxing tips for a successful career in the ring and not for self-defense in the street.
 
-***Read: [How to avoid a streetfight and what to do if you can't](/how-to-win-a-street-fight/)***
+***Read: [How to avoid a streetfight and what to do if you can’t](/how-to-win-a-street-fight/)***
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
