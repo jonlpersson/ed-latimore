@@ -4,7 +4,7 @@ article_type: Article
 title: How to look more masculine (effortlessly exude masculinity)
 permalink: /how-to-look-more-masculine/
 tags:
-  - longevity-health-and-performance
+  - dating-and-relationships
 categories:
   - Relationships
 description: >-
@@ -26,19 +26,19 @@ Masculinity is one of those things that can be hard to pin down. In this post, I
 
 ## Take care of your hair
 
-Your hair and facial hair are the foundation of your look. The way you wear the hair on your head and your facial hair signal age, social masculinity, and attractiveness to women. More masculine faces such as those with chiseled jawlines are considered more immediately attractive for short-term liaisons(sexual or otherwise). Beards signal that you are capable of long-term relationships.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Your hair and facial hair are the foundation of your look. The way you wear the hair on your head and your facial hair signal age, social masculinity, and attractiveness to women. More masculine faces such as those with chiseled jawlines are considered more immediately attractive for short-term liaisons(sexual or otherwise). Beards signal that you are capable of long-term relationships.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Since faces that are too masculine or too feminine are not generally attractive, beards help to mitigate the negative reactions someone may have to your facial features.
 
-Whether you decide to go with a short haircut or a bald head, it's important to keep it neat and tidy. Long hair reads more feminine, and it doesn't look good on most men. If you’re losing your hair, and you’re Black, go ahead and shave it off. Otherwise, [weigh the pros and cons](https://edlatimore.com/should-I-shave-my-head/) of going bald before taking that step.
+Whether you decide to go with a short haircut or a bald head, it’s important to keep it neat and tidy. Long hair reads more feminine, and it doesn’t look good on most men. If you’re losing your hair, and you’re Black, go ahead and shave it off. Otherwise, [weigh the pros and cons](https://edlatimore.com/should-I-shave-my-head/) of going bald before taking that step.
 
-I struggled with hair loss for a long time before I decided to get a hair transplant. It’s definitely not cheap, but if it's within your budget, go for it.[Read my reviews on hair loss treatments](https://edlatimore.com/how-to-prevent-hair-loss/) for more information.
+I struggled with hair loss for a long time before I decided to get a hair transplant. It’s definitely not cheap, but if it’s within your budget, go for it.[Read my reviews on hair loss treatments](https://edlatimore.com/how-to-prevent-hair-loss/) for more information.
 
 ## Build a strong physique
 
 To look more masculine, you need to have a low body fat percentage and high muscle mass. This means hitting the gym and focusing on strength training, not just cardio. Building muscle mass requires a combination of weight training and proper nutrition. You should focus on compound exercises such as squats, deadlifts, push-ups, and bench presses, which work multiple muscle groups at once. Also, make sure to eat enough protein to support muscle growth.
 
-Building muscle not only enhances your physical appearance but also boosts your testosterone levels<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup> which is key to developing masculine traits like a strong upper body, broad shoulders, and a strong neck and jawline.
+Building muscle not only enhances your physical appearance but also boosts your testosterone levels<sup>[2](#fn:2){: .footnote rel="footnote"}</sup> which is key to developing masculine traits like a strong upper body, broad shoulders, and a strong neck and jawline.
 
 If you’re a slimmer dude, traditional weight training programs you find online may not work for you. Look up ways to build muscle when you’re skinny.
 
@@ -52,13 +52,13 @@ When it comes to dressing more masculine, less is more. Avoid excessive accessor
 
 Lots of rappers, pimps, and rich men from every century have touted their jewelry as a sign of their wealth. This is because it has no utility for men. It’s inherently showy, which is more useful as a feminine trait.
 
-When you're muscular, it can be challenging to find clothes that fit properly. However, there are ways to dress that flatter your physique. For example, you can wear clothes that show off your arms and chest, such as fitted t-shirts, button-down shirts, or polo shirts. Avoid baggy clothes, skinny jeans, or items like graphic t-shirts or beanie hats. These items cause you to look like a perpetual teenager, making it difficult for anyone to take you seriously when it counts.
+When you’re muscular, it can be challenging to find clothes that fit properly. However, there are ways to dress that flatter your physique. For example, you can wear clothes that show off your arms and chest, such as fitted t-shirts, button-down shirts, or polo shirts. Avoid baggy clothes, skinny jeans, or items like graphic t-shirts or beanie hats. These items cause you to look like a perpetual teenager, making it difficult for anyone to take you seriously when it counts.
 
 I worked with Tanner Guzy to [develop a unique, masculine style](https://edlatimore.com/how-to-become-more-physically-attractive-to-women/) that enhances my attractiveness but also fits my body.
 
 ## Be mindful of your nonverbal communication
 
-Strong body language and eye contact communicate confidence and assertiveness. And if you're struggling with your posture, try doing exercises that strengthen your core and back muscles.
+Strong body language and eye contact communicate confidence and assertiveness. And if you’re struggling with your posture, try doing exercises that strengthen your core and back muscles.
 
 For centuries tribes sent young males through rites of passage that taught you vital life skills but also what it means to be a man. We don’t have those in industrialized society anymore so it’s important to gain that elsewhere. Combat sport is a good place to start.
 
@@ -80,11 +80,11 @@ My article on the[9 traits you need to be a man](https://edlatimore.com/how-to-b
 * You take responsibility for your actions, your life, and everything in between even if its not your fault.
 * You have a purpose and usefulness to your community
 
-[Here's a free presentation that can help you become even more attractive to women.](https://hop.clickbank.net/?affiliate=xxxxx&amp;vendor=katespring&amp;tid=yyyyy){: target="_blank" rel="noopener"}
+[Here’s a free presentation that can help you become even more attractive to women.](https://hop.clickbank.net/?affiliate=xxxxx&amp;vendor=katespring&amp;tid=yyyyy){: target="_blank" rel="noopener"}
 
 ## Final thoughts on how to look more masculine
 
-Looking more masculine is about more than just building muscle or dressing in a certain way. It's about cultivating a certainty about who you are and how you show up in the world. A great mindset is not vital for a masculine appearance but when you develop it on the inside, you exude alpha male energy more naturally.
+Looking more masculine is about more than just building muscle or dressing in a certain way. It’s about cultivating a certainty about who you are and how you show up in the world. A great mindset is not vital for a masculine appearance but when you develop it on the inside, you exude alpha male energy more naturally.
 
 Here’s how to look more masculine:
 
