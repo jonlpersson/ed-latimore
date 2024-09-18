@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to train for a boxing match: Insights from a pro'
 permalink: /boxing-training/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -30,21 +30,21 @@ In this quote, the attitude about practice versus performance is exemplified. Th
 
 What’s unique about boxing is the objective of the sport.
 
-## Why boxing is called "The Hurt Business"
+## Why boxing is called “The Hurt Business”
 
 In the 2002 boxing drama Undisputed, boxing champion George “Iceman” Chambers remarks, “People play baseball. Nobody plays boxing. I’m not an athlete, I’m a gladiator.”
 
 ![Nobody plays boxing](/assets/images/posts/2020/undisuputed.jpg "Ving Rhames as George 'Iceman' Chambers talking to Wesley Snipes")
 
-In other sports, you live to fight another day. In boxing, there is always a chance or dying. Fighters must waive the right to pursue legal action if they're injured during a contest and it occurred within the rules of the bout.
+In other sports, you live to fight another day. In boxing, there is always a chance or dying. Fighters must waive the right to pursue legal action if they’re injured during a contest and it occurred within the rules of the bout.
 
 The goal of boxing is the same as that of fighting: [to kill your opponent.](/fight-to-the-death/)
 
-The only reason this doesn't happen is that the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules on which modern boxing is based–forbids striking a man who is already down. However, it's not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he's standing.
+The only reason this doesn’t happen is that the [Marquess of Queensbury rules](https://www.britannica.com/sports/boxing/The-Queensberry-rules){: target="_blank" rel="noopener noreferrer"}\--the rules on which modern boxing is based–forbids striking a man who is already down. However, it’s not against the rules if you [hit a man so hard that you end his life](https://www.cnn.com/2019/10/17/sport/boxing-deaths-patrick-day-spt-intl-trnd/index.html){: target="_blank" rel="noopener noreferrer"} while he’s standing.
 
 This reminds me of something I once witnessed in a gym. Two different boxing clubs had come together to spar. There was some trash talk that was on the verge of escalating to an all-out brawl between the two groups until one of the coaches interfered and shouted:
 
-***"You do this shit on the street, and they'll put you away. But if you do it in the ring, they'll cheer for you and pay your bills!"***
+***“You do this shit on the street, and they’ll put you away. But if you do it in the ring, they’ll cheer for you and pay your bills!”***
 
 In non-combat sports, fighting is against the rules. Although the penalties vary in severity from sport to sport, fighting is forbidden in any sport not conducted in the ring or octagon. However, MMA and boxing not only allow fighting, but fighting is also how the score is kept and victory is decided.
 
@@ -79,7 +79,7 @@ It’s easy to grasp the physical side of boxing. We see the sweat, blood, and t
 
 Thanks to the Rocky franchise, everyone knows about the miles of running and thousands of sit-ups that go into fight preparation, but there’s more to it than that. A fighter must have excellent footwork, coordination, and agility.
 
-The motto of the sweet science may be to "hit and not get it", but the reality is that when two people meet who have spent hours working on:
+The motto of the sweet science may be to “hit and not get it”, but the reality is that when two people meet who have spent hours working on:
 
 * Punching combinations and techniques on the focus mitts
 * Hand-eye coordination and speed on the double-end bag
@@ -91,21 +91,21 @@ This means that you need to be skilled in both the delivery *and* the reception 
 
 ## The unique demands of boxing
 
-The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity for a long fight. Generally speaking, a fighter's aerobic capacity is needed for defense and his anaerobic capacity is for offense.
+The physical demands of boxing are unique in that they require both aerobic and anaerobic capabilities; you need to be able to perform short bursts of activity for a long fight. Generally speaking, a fighter’s aerobic capacity is needed for defense and his anaerobic capacity is for offense.
 
 Just as a good fighter is strong on offense ***and*** defense, separating the two is impossible. A good fighter has to be a hybrid of an explosive and endurance athlete, and the training is aimed toward that.
 
 General endurance and explosive ability are trained by distance runs, sprints, and skipping rope.
 
-My particular training plan was running 2-4 miles 5 days a week and keeping my pace under 7 minutes per mile. If it was too cold or wet outside, I'd run on the treadmill for 3 minutes at a 9-10 mph pace. For sprints, I’d do 8-10 100 meter sprints at the track with 30-second rest in between.
+My particular training plan was running 2-4 miles 5 days a week and keeping my pace under 7 minutes per mile. If it was too cold or wet outside, I’d run on the treadmill for 3 minutes at a 9-10 mph pace. For sprints, I’d do 8-10 100 meter sprints at the track with 30-second rest in between.
 
 ## The role of strength training in boxing
 
 Outside of the cruiserweight (175-200 lbs) and heavyweight (201+ lbs) divisions of boxing, weight lifting is generally discouraged in the boxing world. Even in those weight divisions, the attitude toward weight lifting will vary from coach to coach.
 
-No coach denies the benefit of having more muscle, but where the resistance typically comes from is that it takes time to build muscle and that time could be used to develop skills. It's an opportunity cost problem.
+No coach denies the benefit of having more muscle, but where the resistance typically comes from is that it takes time to build muscle and that time could be used to develop skills. It’s an opportunity cost problem.
 
-As physical of a sport as boxing is, muscle mass doesn't win fights. Skill and athletic capacity does. If anything, the added muscle comes with a real cost as it places an even greater demand on your cardiovascular system.
+As physical of a sport as boxing is, muscle mass doesn’t win fights. Skill and athletic capacity does. If anything, the added muscle comes with a real cost as it places an even greater demand on your cardiovascular system.
 
 However, most coaches have a positive view on exercises that use body weight as resistance and calisthenics. Push-ups, pull-ups, and sit-ups are never debated as methods of building strength. This is likely due to the fact that performing them also develops your endurance and is less likely to build more muscle that demands blood and oxygen.
 
@@ -145,11 +145,11 @@ Much of fight training is as much about conditioning your mind as it is your bod
 
 Shadowboxing is sparring against an imaginary opponent.
 
-This may not sound like much but if used correctly, shadowboxing is the best way to prepare for a fight. It's a deep meditation that is also the best way to prepare your body for the rigors of a fight out of sparring. The best part is that, unlike sparring, you can (and should) do it every day you're in the gym.
+This may not sound like much but if used correctly, shadowboxing is the best way to prepare for a fight. It’s a deep meditation that is also the best way to prepare your body for the rigors of a fight out of sparring. The best part is that, unlike sparring, you can (and should) do it every day you’re in the gym.
 
-See, a big challenge in fighting is switching from attacking non-aggressive stationary targets (punching bags and mitts) to aggressive mobile ones (other trained fighters). It's frustrating to have great execution of your jabs and uppercuts against a heavy bag, but not have it translate over to actual fighting. Shadowboxing is how this ability is how this transition is made smoothly.
+See, a big challenge in fighting is switching from attacking non-aggressive stationary targets (punching bags and mitts) to aggressive mobile ones (other trained fighters). It’s frustrating to have great execution of your jabs and uppercuts against a heavy bag, but not have it translate over to actual fighting. Shadowboxing is how this ability is how this transition is made smoothly.
 
-In shadowboxing, you're free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute better in the fight.
+In shadowboxing, you’re free to slow things down, speed them up, polish the fundamentals, and even work on your more advanced moves. When a fighter feels good in their shadowboxing routine, they execute better in the fight.
 
 [This builds confidence,](/resources/four-confidences/) which is perhaps the most important part of fighting.
 
@@ -185,15 +185,15 @@ A good training camp will simultaneously develop a fighter’s body, heart, and 
 
 Training to fight develops a person like nothing else in the world.
 
-The only thing on this planet that compares to a fighter's camp is perhaps [the training that special forces units undergo to get ready for war](https://www.military.com/military-fitness/navy-special-operations/navy-seal---hell-week-revisited){: target="_blank" rel="noopener noreferrer"}. This makes sense, as the only difference between armed and unarmed combat is the addition of weapons.
+The only thing on this planet that compares to a fighter’s camp is perhaps [the training that special forces units undergo to get ready for war](https://www.military.com/military-fitness/navy-special-operations/navy-seal---hell-week-revisited){: target="_blank" rel="noopener noreferrer"}. This makes sense, as the only difference between armed and unarmed combat is the addition of weapons.
 
-In both scenarios, your objective and your opponent's objective is still the same: to kill the opposition. The only thing that prevents that from happening in a boxing match are the rules. And even then, not even law enforcement can do anything about a homicide if it's occurs within the rules.
+In both scenarios, your objective and your opponent’s objective is still the same: to kill the opposition. The only thing that prevents that from happening in a boxing match are the rules. And even then, not even law enforcement can do anything about a homicide if it’s occurs within the rules.
 
-You can't half-ass any part of your training.
+You can’t half-ass any part of your training.
 
-Everything has to be done like you're in a real fight. If you simply go through the motions, it's worse than had you not attempted to train. Your body will be lulled into a false sense of security because it's not being pushed under the highly stressful circumstances of an actual fight.
+Everything has to be done like you’re in a real fight. If you simply go through the motions, it’s worse than had you not attempted to train. Your body will be lulled into a false sense of security because it’s not being pushed under the highly stressful circumstances of an actual fight.
 
-Let me be clear: there is *nothing* you can do in training camp to stimulate the adrenaline dump and physical output of an \*actual\* fight. Even if you could, you wouldn't want to because it takes \*days\* to recover from a real fight. However, you can prepare for the strain that your body will endure during training camp.
+Let me be clear: there is *nothing* you can do in training camp to stimulate the adrenaline dump and physical output of an \*actual\* fight. Even if you could, you wouldn’t want to because it takes \*days\* to recover from a real fight. However, you can prepare for the strain that your body will endure during training camp.
 
 There’s a difference between trying to run a mile in six minutes and jogging. A fighter can merely hit the heavy bag or try to kill it. Even sparring must be undertaken at a competitive intensity, otherwise the fighter will not be prepared for battle.
 

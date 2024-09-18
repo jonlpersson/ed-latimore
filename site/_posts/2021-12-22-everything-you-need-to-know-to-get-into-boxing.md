@@ -4,7 +4,7 @@ article_type: Article
 title: How to get into amateur or professional boxing
 permalink: /how-to-get-into-boxing/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -15,7 +15,7 @@ image: /assets/images/thumbnails/showtime-boxing.jpeg
 ---
 I started boxing at the ripe old age of 22. I say it that way because that is a relatively late age to take up boxing.
 
-I had no prior experience in any combat sports. All I had was a curiosity about the sweet science and the attitude that I wouldn’t quit. I said to myself that the only way I’d stop boxing is if I got severely injured or suffered so many losses that I couldn't get a fight.
+I had no prior experience in any combat sports. All I had was a curiosity about the sweet science and the attitude that I wouldn’t quit. I said to myself that the only way I’d stop boxing is if I got severely injured or suffered so many losses that I couldn’t get a fight.
 
 Fortunately, I didn’t get beat out of the sport with repeated injuries or losses. In fact, I went on to have a great amateur and professional boxing career. In fact, my amateur career was stellar.
 
@@ -33,7 +33,7 @@ As a professional boxer, I was represented by Roc Nation Sports and achieved a r
 
 This article tells you everything you ever wanted to know about getting into boxing and the different paths you can take. I’ll also tell you the pros and cons of each path. I want to give you a realistic picture of boxing, both as an amateur and professional.
 
-Because of the movies, too many people have a romantic view of boxing. Before you start training, you should understand what you're getting into. While this is meant for beginners, I urge veterans to weigh in and message me if you see anything I left out that you think someone interested in the serious pursuit of boxing should know.
+Because of the movies, too many people have a romantic view of boxing. Before you start training, you should understand what you’re getting into. While this is meant for beginners, I urge veterans to weigh in and message me if you see anything I left out that you think someone interested in the serious pursuit of boxing should know.
 
 ## Things you need before your first day at the boxing gym
 
@@ -78,7 +78,7 @@ This mindset extends beyond the obvious physical challenges of boxing. At some p
 
 You won’t be able to work in many places because of the time commitment. Even flexible retail positions may be wary of you after your first time working with a black eye. Then there are the emotional letdowns of opponents backing out at the last minute (this happens at both the amateur and professional levels).
 
-You'll have to learn to accept these difficulties in stride and just take them as part of the game. This is why boxing is my favorite metaphor for life. Life is just as difficult as boxing, so if you can succeed in the ring, you can succeed in life.
+You’ll have to learn to accept these difficulties in stride and just take them as part of the game. This is why boxing is my favorite metaphor for life. Life is just as difficult as boxing, so if you can succeed in the ring, you can succeed in life.
 
 #### **Given enough time and the right instruction, I can learn anything.**
 
@@ -94,7 +94,7 @@ You need your own boxing gear.
 
 I started my career using community gear at the gym, but I don’t recommend this. For starters, it’s disgusting. While some high-end clubs and gyms will have people who clean the community gear, those places don’t usually cater to serious fighters.
 
-Secondly, it shows that you’re serious if you invest in yourself. I'm not saying that you need to have the best boxing gear on the market, but you need to have some gear of your own.
+Secondly, it shows that you’re serious if you invest in yourself. I’m not saying that you need to have the best boxing gear on the market, but you need to have some gear of your own.
 
 Lastly, regardless of how comfortable you are with community gear, there are some things that you simply can’t share. Boxing shoes and mouthpieces immediately come to mind. Here is a list of the gear that you need to box.
 
@@ -114,7 +114,7 @@ Lastly, regardless of how comfortable you are with community gear, there are som
 
 **Groin protection**. More commonly known as a “cup” or “boxing cup.” You want to not only protect yourself from the (not always) accidental groin shot, but you also need to protect your hip bones.
 
-**Heavy bag gloves and sparring gloves.** Two types of boxing gloves are used in training (we don't need to worry about competition gloves). Bag gloves are smaller than sparring gloves and the padding is distributed differently. Sparring gloves will be no lighter than 16 oz., but I’ve seen them as big as 20 oz.
+**Heavy bag gloves and sparring gloves.**&nbsp;Two types of boxing gloves are used in training (we don’t need to worry about competition gloves). Bag gloves are smaller than sparring gloves and the padding is distributed differently. Sparring gloves will be no lighter than 16 oz., but I’ve seen them as big as 20 oz.
 
 This is for protection, as that weight is composed of extra padding. Bag gloves shouldn’t be heavier than 14 oz., but when I turned pro, I started hitting the bag with 10 oz. gloves to mimic competition.
 
@@ -135,19 +135,19 @@ With the prerequisites out of the way, let’s get into the various ways you can
 
 You must know the difference between amateur boxing and professional boxing. Something I’ve learned over the years is that the average person (i.e. most people) doesn’t even know that amateur boxing exists, let alone the difference between “the pros and ammys”.
 
-> Most people don't know shit about boxing.
+> Most people don’t know shit about boxing.
 >
 > \-Roger Mayweather
 
 ### Major differences between amateur and professional boxing
 
-<table><tbody><tr><td> </td><td><p><strong>Amateur boxing</strong></p></td><td><p><strong>Professional boxing</strong></p></td></tr><tr><td><p><strong><em>Earnings</em></strong></p></td><td><ul><li>No money for winning the fight.&nbsp;</li><li>Can receive sponsorships, but are extremely rare.</li></ul></td><td><ul><li>Earns a “purse” for winning the fight.</li><li>Can receive sponsorships, are much more common&nbsp;</li></ul></td></tr><tr><td><p><strong><em>Protection/Coverings</em></strong></p></td><td><ul><li>Headgear</li><li>Shirt</li><li>Cup</li></ul></td><td><ul><li>No headgear</li><li>No shirt (in men’s boxing)</li><li>Cup</li></ul></td></tr><tr><td><p><strong><em>Glove size</em></strong></p></td><td><ul><li>Fighters under the light welterweight class (141Ib.) commonly use 10 oz. gloves&nbsp;</li><li>Fighters in classes welterweight (152Ib.) through super heavyweight (over 201Ib.) most commonly use 12 oz. gloves</li><li>Masters Division fighters, who are 41 years of age and older use 16 oz. gloves</li></ul></td><td><ul><li>Fighters in the welterweight (147Ib.) class and under most commonly wear 8oz gloves</li><li>Fighters in classes super welterweight (154Ib.) and up commonly wear 10oz gloves</li><li>Glove sizes are negotiable depending on what is negotiated.</li></ul></td></tr><tr><td><p><strong><em>Boxing rIng size</em></strong></p></td><td><ul><li>Ring size can be no smaller than 16x16 feet and no larger than 20x20 feet.</li></ul></td><td><ul><li>Size of ring can vary</li></ul></td></tr><tr><td><p><strong><em>Numbers and length of rounds</em></strong></p></td><td><ul><li>Always three rounds</li><li>Two-minute rounds for Sub-novice (less than 3 fights) and certain tournament conditions</li><li>Three-minute rounds others</li></ul></td><td><ul><li>Can be 4, 6, 8, 10, or 12 rounds.</li><li>Always 3-minute rounds</li></ul></td></tr><tr><td><p><strong><em>Scoring system</em></strong></p></td><td><ul><li>Same, though knockdown rules vary more than professional</li></ul></td><td><ul><li>“10 point must” system</li></ul></td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp;</td><td><p><strong>Amateur boxing</strong></p></td><td><p><strong>Professional boxing</strong></p></td></tr><tr><td><p><strong><em>Earnings</em></strong></p></td><td><ul><li>No money for winning the fight.&nbsp;</li><li>Can receive sponsorships, but are extremely rare.</li></ul></td><td><ul><li>Earns a “purse” for winning the fight.</li><li>Can receive sponsorships, are much more common&nbsp;</li></ul></td></tr><tr><td><p><strong><em>Protection/Coverings</em></strong></p></td><td><ul><li>Headgear</li><li>Shirt</li><li>Cup</li></ul></td><td><ul><li>No headgear</li><li>No shirt (in men’s boxing)</li><li>Cup</li></ul></td></tr><tr><td><p><strong><em>Glove size</em></strong></p></td><td><ul><li>Fighters under the light welterweight class (141Ib.) commonly use 10 oz. gloves&nbsp;</li><li>Fighters in classes welterweight (152Ib.) through super heavyweight (over 201Ib.) most commonly use 12 oz. gloves</li><li>Masters Division fighters, who are 41 years of age and older use 16 oz. gloves</li></ul></td><td><ul><li>Fighters in the welterweight (147Ib.) class and under most commonly wear 8oz gloves</li><li>Fighters in classes super welterweight (154Ib.) and up commonly wear 10oz gloves</li><li>Glove sizes are negotiable depending on what is negotiated.</li></ul></td></tr><tr><td><p><strong><em>Boxing rIng size</em></strong></p></td><td><ul><li>Ring size can be no smaller than 16x16 feet and no larger than 20x20 feet.</li></ul></td><td><ul><li>Size of ring can vary</li></ul></td></tr><tr><td><p><strong><em>Numbers and length of rounds</em></strong></p></td><td><ul><li>Always three rounds</li><li>Two-minute rounds for Sub-novice (less than 3 fights) and certain tournament conditions</li><li>Three-minute rounds others</li></ul></td><td><ul><li>Can be 4, 6, 8, 10, or 12 rounds.</li><li>Always 3-minute rounds</li></ul></td></tr><tr><td><p><strong><em>Scoring system</em></strong></p></td><td><ul><li>Same, though knockdown rules vary more than professional</li></ul></td><td><ul><li>“10 point must” system</li></ul></td></tr></tbody></table>
 
 These are the major differences. This chart can best be summarized this way: ***Professional boxing is more dangerous and requires you to be in better shape, but at least you get paid for the risk.***
 
 Boxing (and other combat sports like kickboxing and MMA) is unique in that there is no requirement for you first to be an amateur. There are several reasons for this that are beyond the scope of this article, but the important thing to realize is that there is no rule that says you *have* to be an amateur before you turn pro.
 
-This means that if you wake up tomorrow and decide that you want to be a pro boxer, there’s nothing that can stop you from getting a fight. You'll almost certainly lose, but you can do it.
+This means that if you wake up tomorrow and decide that you want to be a pro boxer, there’s nothing that can stop you from getting a fight. You’ll almost certainly lose, but you can do it.
 
 That means you could immediately start earning money immediately. So why doesn’t every fighter go that route? Well, there are some pros and cons to each path.
 
@@ -169,9 +169,9 @@ Every loss you suffer as a professional is permanent. It will cost you if you su
 
 ***\[My first loss as a professional was an embarrassing, televised affair, but I took 8 important life lessons from it. Read them here—&gt;[Dealing with getting knocked out: Lessons from losing a fight](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/)\]***
 
-There is one other major perk of starting as an amateur fight: it gives you a chance to get the attention of a boxing promoter. Having a promoter in boxing is the ultimate prize. They're the ones who can get you on television or major fight cards.
+There is one other major perk of starting as an amateur fight: it gives you a chance to get the attention of a boxing promoter. Having a promoter in boxing is the ultimate prize. They’re the ones who can get you on television or major fight cards.
 
-With a promoter, you’ll be brought along correctly, fighting fighters of the right level that you should win against because you’re the A-side, but will challenge you. Without a promoter, you'll likely fight a bunch of easy fights and then jump multiple levels to a fight that you can't win, but your record makes it easy to sell the fight, not only to the networks but also to the state athletic commission for approval.
+With a promoter, you’ll be brought along correctly, fighting fighters of the right level that you should win against because you’re the A-side, but will challenge you. Without a promoter, you’ll likely fight a bunch of easy fights and then jump multiple levels to a fight that you can’t win, but your record makes it easy to sell the fight, not only to the networks but also to the state athletic commission for approval.
 
 This is the route to becoming a boxing champion and/or making a significant payday.
 
@@ -186,8 +186,8 @@ This is accomplished by winning a major amateur boxing event. WInning one of the
 Fighters with a few losses aren’t marketable as prospects for a promotional outfit to pick up, but they are useful to develop the record and abilities of the fighter that the promoter has signed and invested in. These fighters become what is known in the boxing world as “tomato cans,” “opponents,” “journeymen” or “gatekeepers.”
 
 * Tomato cans are easy wins to build a record and get experience. They’re so named because they fall over easy and spill red (blood) everywhere.
-* Opponents are tough guys who can fight but will never be good enough to take on big fights. They almost always have an "upside-down" record (more losses than wins), or they have a lot of wins and losses (usually in the double digits).
-* Journeymen are usually guys who have a few losses, but they have many wins. Many of these guys stuck around long enough to learn how to fight well but didn't have the backing to get developed properly. As a result, they have a few losses.
+* Opponents are tough guys who can fight but will never be good enough to take on big fights. They almost always have an “upside-down” record (more losses than wins), or they have a lot of wins and losses (usually in the double digits).
+* Journeymen are usually guys who have a few losses, but they have many wins. Many of these guys stuck around long enough to learn how to fight well but didn’t have the backing to get developed properly. As a result, they have a few losses.
 * Gatekeepers are guys whose only losses have come against top competition. You must beat these guys before you get a shot at fighting for a title.
 
 ## How to start boxing
@@ -198,7 +198,7 @@ Now that you understand what you’re getting into and need to get into it, the 
 
 ### Find a boxing gym
 
-Even in the time of the internet, many boxing gyms don't have a website. A lot don’t even have a social media presence.
+Even in the time of the internet, many boxing gyms don’t have a website. A lot don’t even have a social media presence.
 
 You may have some luck finding one by doing an internet search. However, I recommend you do something else rather than do a broad search online. The following suggestion assumes that you don’t know anyone who fights. If you do, just ask them where to go.
 
@@ -206,9 +206,9 @@ You may have some luck finding one by doing an internet search. However, I recom
 
 If you have a decent boxing gym in your area, it’s likely produced some press-worthy fighters.
 
-Fighters tend to get press for winning major amateur tournaments a professional bout. Do a google search for "boxers in \[insert your city\]" or "boxers from \[insert your city\]. Once you have a fighter’s name, you should be able to look him up on social media and shoot him a message.
+Fighters tend to get press for winning major amateur tournaments a professional bout. Do a google search for “boxers in \[insert your city\]” or “boxers from \[insert your city\]. Once you have a fighter’s name, you should be able to look him up on social media and shoot him a message.
 
-Boxers love Instagram. I've yet to meet one without an Instagram presence. Fortunately, Instagram makes it easier to send people messages to people than any other platform. You just have to follow them.
+Boxers love Instagram. I’ve yet to meet one without an Instagram presence. Fortunately, Instagram makes it easier to send people messages to people than any other platform. You just have to follow them.
 
 ***In this article, I tell you how to find a good boxing gym along with some other boxing tips—&gt;[25 boxing tips for amateurs and professionals](/25-boxing-tips/)***
 
@@ -234,7 +234,7 @@ This experience will allow you to not only determine if you’ve found the best 
 
 The old idea was that the best boxing gyms tend to be in the worst neighborhoods.
 
-I don’t know how much truth there is in this, as a whole, but it has been my personal experience that there are good gyms in great neighborhoods and bad gyms in bad ones. Boxing is a tough sport; bad neighborhoods have tough people, but toughness isn’t the only quality required to succeed. Also, [growing up in a bad neighborhood](/the-projects/) isn't the only way to develop toughness.
+I don’t know how much truth there is in this, as a whole, but it has been my personal experience that there are good gyms in great neighborhoods and bad gyms in bad ones. Boxing is a tough sport; bad neighborhoods have tough people, but toughness isn’t the only quality required to succeed. Also, [growing up in a bad neighborhood](/the-projects/) isn’t the only way to develop toughness.
 
 When you evaluate a boxing gym, don’t get caught up in how new or old it looks. Look at how well things are maintained.
 
@@ -250,13 +250,13 @@ A track record of successful fighters doesn’t mean as much as you think. It’
 
 **You’ll have to see if a coach has a reputation as a teacher and instructor.**
 
-There is no sanctioning body for a coach's skills and knowledge to be tested against to determine if he can do the job. While amateur boxing forces coaches to take a class to work a fighter’s corner, that’s more to teach them the rules and not for the education of the boxer. I say this to warn you that many coaches don’t know how to teach the sport.
+There is no sanctioning body for a coach’s skills and knowledge to be tested against to determine if he can do the job. While amateur boxing forces coaches to take a class to work a fighter’s corner, that’s more to teach them the rules and not for the education of the boxer. I say this to warn you that many coaches don’t know how to teach the sport.
 
 **Look at how the coach trains his fighters.**
 
 Be wary of any coach that overly relies on pure physical conditioning. While boxing is a physical sport, coaches that push physical training in the place of skills development usually lack an understanding of the skills required to fight.
 
-**Another thing to watch is the coach's approach to sparring.**
+**Another thing to watch is the coach’s approach to sparring.**
 
 Sparring is a classroom. While you must learn how to fight, the coach shouldn’t encourage sparring sessions to be all-out brawls. Especially if you aren’t getting ready for a fight.
 
@@ -264,7 +264,7 @@ Sparring sessions are education sessions. It’s a hard education, but it’s an
 
 ### Have a little money
 
-Boxing is a poor man’s sport. If you're strapped for cash, most of the equipment can be acquired cheaply (mouthguards) or there is used community gear (everything but shoes).
+Boxing is a poor man’s sport. If you’re strapped for cash, most of the equipment can be acquired cheaply (mouthguards) or there is used community gear (everything but shoes).
 
 I can’t speak on anywhere but the United States, but here you’ll need to pay for membership to USA Boxing to compete in any amateur boxing fights
 
@@ -278,7 +278,7 @@ If you don’t have a way to pay for this stuff, find one. You can’t fight wit
 
 If I’ve done my job well, you should better understand what it takes to fight. At the very least, you realize that it’s a hard way to make an even harder living. With that said, it is immensely rewarding and teaches you many lessons about life that can only be learned the hard way.
 
-***\[The life of a fighter is rewarding, but I eventually called it quits. Here's why—&gt;[5 reasons why I quit boxing with only one loss](/why-I-quit-boxing/)\]***
+***\[The life of a fighter is rewarding, but I eventually called it quits. Here’s why—&gt;[5 reasons why I quit boxing with only one loss](/why-I-quit-boxing/)\]***
 
 Hopefully, this guide will have given you everything you need to put the odds of success in your favor. However, this is only a guide. It may be a good guide, but you still have to train boxing to see if you can hack it.
 

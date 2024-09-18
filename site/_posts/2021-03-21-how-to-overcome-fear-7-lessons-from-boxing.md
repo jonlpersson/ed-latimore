@@ -4,7 +4,7 @@ article_type: Article
 title: 'How to overcome fear: 7 lessons from boxing'
 permalink: /how-to-overcome-fear/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -37,19 +37,19 @@ I figured out a number of strategies that helped me to perform well despite faci
 
 All of your fears come back to vulnerability.
 
-[You don’t fear pain](/pushing-through-the-pain/). You don’t fear dying. You don't even have a fear of failure.
+[You don’t fear pain](/pushing-through-the-pain/). You don’t fear dying. You don’t even have a fear of failure.
 
 You fear that which you can’t control.
 
-This is why people fear public speaking more than death. The speaker is completely vulnerable and lacks control over the audience's reactions.
+This is why people fear public speaking more than death. The speaker is completely vulnerable and lacks control over the audience’s reactions.
 
-Perhaps they’ll think you're brilliant. Perhaps they’ll think you’re a fool. Normally you wouldn’t care what they think, but public speaking opens you up to their judgement. The abuse of this vulnerability is what you really fear.
+Perhaps they’ll think you’re brilliant. Perhaps they’ll think you’re a fool. Normally you wouldn’t care what they think, but public speaking opens you up to their judgement. The abuse of this vulnerability is what you really fear.
 
 All physical fear and anxiety are based on this concept. Regardless of how tough you are, your worst fears about dying are related to facing something inevitable that will not end quickly.
 
 It’s not the burning, the drowning, the spiders, the snakes or the heights that scares you. It’s facing something that exposes your human vulnerability in a way that demonstrates how powerless you really are.
 
-You don't have a fear of public speaking or talking to strangers. You’re really afraid of being vulnerable.
+You don’t have a fear of public speaking or talking to strangers. You’re really afraid of being vulnerable.
 
 This is because your vulnerabilities remind you of how worthless you are in the grand scheme of things. Talking to strangers can be a great way to get over fears.
 
@@ -57,7 +57,7 @@ This is because your vulnerabilities remind you of how worthless you are in the 
 
 Logically, you understand that rejection is meaningless, humiliation is temporary, that [people’s opinions don’t matter](/how-to-stop-worrying-about-what-others-think-of-you/), and that you have to die. Emotionally, you fear that your existence is worth so little that the judgments of others actually do matter.
 
-You worry that your life is so fragile that your fears have control over it. Once you realize that most people don't care about you, the worst-case scenario never happens, and the world will go on when you die, your social anxiety will cease and you can enjoy your daily life to its full potential.
+You worry that your life is so fragile that your fears have control over it. Once you realize that most people don’t care about you, the worst-case scenario never happens, and the world will go on when you die, your social anxiety will cease and you can enjoy your daily life to its full potential.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -95,7 +95,7 @@ Fear is nothing more than a sign that you have something important to deal with.
 
 Failing to prepare is preparing to fail. You become aware of that possibility and it terrifies you.
 
-Fighters have the same fight-or-flight fear response, be we don’t think about the possibility of escape. Instead, we focus our energy on getting ready to win the fight. The better prepared they are, the less fear they carry with them into the bout, and the more likely it is they'll have success.
+Fighters have the same fight-or-flight fear response, be we don’t think about the possibility of escape. Instead, we focus our energy on getting ready to win the fight. The better prepared they are, the less fear they carry with them into the bout, and the more likely it is they’ll have success.
 
 ## 4\. Learn how to use fear to your advantage
 
@@ -105,7 +105,7 @@ Fear causes an increase in heart rate, blood pressure, and respiration. While th
 
 Now, instead of focusing on the fear and anxiety, you felt before and/or during the encounter, you mainly focus on and remember the satisfaction and growth.
 
-This behavior is automatically present in thrill-seekers, adrenaline junkies, and people who love scary movies. It's not that they don’t experience fear like the person who enjoys bungee jumping or roller coasters. It’s just that they identify more with the positives surrounding the event—the social bonding or feelings of admiration that comes from onlookers—than the fear itself.
+This behavior is automatically present in thrill-seekers, adrenaline junkies, and people who love scary movies. It’s not that they don’t experience fear like the person who enjoys bungee jumping or roller coasters. It’s just that they identify more with the positives surrounding the event—the social bonding or feelings of admiration that comes from onlookers—than the fear itself.
 
 Their fear response is completely different than other people. In other words, they feel fear but they enjoy it.
 
@@ -129,7 +129,7 @@ When fighters walk to the ring, it is a truly terrifying moment. It’s a lonely
 
 The problem here is that you’re thinking of the outcome and the uncertainty that comes with it, but fear and uncertainty are products of one another:
 
-You’re afraid because you don't know if you’ll be successful. You don't know if you'll be successful because you’re afraid of failing. No matter how well you train or how well you prepare, the outcome is still not a guarantee, and this uncertainty terrifies you.
+You’re afraid because you don’t know if you’ll be successful. You don’t know if you’ll be successful because you’re afraid of failing. No matter how well you train or how well you prepare, the outcome is still not a guarantee, and this uncertainty terrifies you.
 
 #### What are some benefits of overcoming fear?
 
@@ -138,10 +138,10 @@ Successful people focus on the process instead of the outcome. There are many co
 For example, in a fight:
 
 * I can’t control the outcome, but I can control my level of training.
-* I can’t control the opponent's skill, but I can control my conditioning.
+* I can’t control the opponent’s skill, but I can control my conditioning.
 * I can’t control my environment, but I can control my breathing.
 
-The only thing you're in control of is how you live your life. Once your mind focuses on this, your fear of what you can’t control fades away.
+The only thing you’re in control of is how you live your life. Once your mind focuses on this, your fear of what you can’t control fades away.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -151,7 +151,7 @@ The first time you do anything is terrifying.
 
 For this reason, familiarity is a great fear reduction agent. If you repeat something enough times–surviving and learning from the mistakes you make along the way–then you stop feeling anxious about doing it.
 
-Anyone who’s taken an exam in college knows that the most valuable practice tests are the old professor's exams. It allows you to become familiar with his style of testing WITHOUT incurring the true penalty of making a mistake. It’s why simulators are wonderful training. This is why sparring is so valuable for boxing.
+Anyone who’s taken an exam in college knows that the most valuable practice tests are the old professor’s exams. It allows you to become familiar with his style of testing WITHOUT incurring the true penalty of making a mistake. It’s why simulators are wonderful training. This is why sparring is so valuable for boxing.
 
 #### Can a person overcome fear?
 
@@ -175,7 +175,7 @@ This reassurance is part of it, but another big reason is that awakens him to th
 
 Yous spend too much time thinking about what can go wrong. Get out of your head.
 
-It doesn't matter what type of fear you're dealing with, all fear lives in the mind and feeds on stagnation. When you take an action, you don’t have the opportunity to be afraid—mainly because you’re too busy facing what you’re afraid of. In this contest, you realize that you have nothing to fear in the first place.
+It doesn’t matter what type of fear you’re dealing with, all fear lives in the mind and feeds on stagnation. When you take an action, you don’t have the opportunity to be afraid—mainly because you’re too busy facing what you’re afraid of. In this contest, you realize that you have nothing to fear in the first place.
 
 ## Recap of 7 lessons from boxing on fear, anxiety and phobias
 
@@ -187,7 +187,7 @@ It doesn't matter what type of fear you're dealing with, all fear lives in the m
 6. Become more familiar with your fear
 7. Take action in the face of your fear
 
-There’s no way around being afraid. It’s bullshit if someone says they aren’t afraid of something. Maybe it’s low-level background anxiety that they’ve learned to manage, but it's always there.
+There’s no way around being afraid. It’s bullshit if someone says they aren’t afraid of something. Maybe it’s low-level background anxiety that they’ve learned to manage, but it’s always there.
 
 When you are on the verge of being pushed out of your comfort zone is when you will feel the most fear. New jobs, performing in front of others, meeting new people, risking your life (for entertainment or obligation), etc. These things push you into a realm of uncertainty. This is a place where you are not sure if you will come out better or worse, safe or harmed, or dead or alive.
 

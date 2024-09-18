@@ -4,7 +4,7 @@ article_type: Review
 title: The 5 best supplements for boxing and martial arts
 permalink: /best-supplements-for-boxers/
 tags:
-  - how-to-become-superhuman
+  - boxing
 categories:
   - Reality
 description: >-
@@ -54,7 +54,7 @@ But most athletes are already aware of the benefits of supplementing with protei
 
 Well, that’s because whey protein is the most bioavailable protein powder you can buy.<sup>[4](#fn:4){: .footnote rel="footnote"}</sup> That means it’s the most easily digestible protein, so your body can put it to use, building muscle and aiding recovery. Whey protein also contains a large dose of the essential amino acid glutamine, which can help build muscle mass and aid muscle recovery.
 
-However, if you’re lactose intolerant, consider opting for whey isolate protein powder due to its lower lactose levels. There are many options on the market, but the best protein powder I’ve taken is Transparent Labs' 100% Grass-Fed Whey Protein Isolate, which you can learn more about [here](https://www.transparentlabs.com/products/proteinseries-100-grass-fed-whey-protein-isolate).
+However, if you’re lactose intolerant, consider opting for whey isolate protein powder due to its lower lactose levels. There are many options on the market, but the best protein powder I’ve taken is Transparent Labs’ 100% Grass-Fed Whey Protein Isolate, which you can learn more about [here](https://www.transparentlabs.com/products/proteinseries-100-grass-fed-whey-protein-isolate).
 
 ### Amino acids (BCAAs & EAAs)
 
@@ -66,7 +66,7 @@ However, if you’re vegan, vegetarian, or simply someone who doesn’t eat enou
 
 Fish oil may be a surprise as a must-have supplement, but it shouldn’t be overlooked. The Omega-3 fatty acids found in fish oil provide numerous benefits, including improving bone density, reducing inflammation, and relieving joint pain that may result from intense training.<sup>[5](#fn:5){: .footnote rel="footnote"}</sup> Fish oil can also help you shed excess body fat and increase lean muscle mass.
 
-Research also shows that fish oil can improve cardiovascular function and reduce heart rate, allowing for better oxygen consumption during workouts, and leading to greater aerobic performance. If you want to increase your training sessions' intensity, fish oil should be an obvious addition to your supplementation routine.
+Research also shows that fish oil can improve cardiovascular function and reduce heart rate, allowing for better oxygen consumption during workouts, and leading to greater aerobic performance. If you want to increase your training sessions’ intensity, fish oil should be an obvious addition to your supplementation routine.
 
 I’ve found the soft gel capsules to be a natural, high-quality Omega-3 source that doesn’t leave a strong fishy taste in my mouth. I usually take 1-2 capsules with either breakfast or lunch to help get full absorption.
 
@@ -95,19 +95,19 @@ The key to sticking with a supplementation routine is to keep it as simple and a
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>Giesbrecht, T., Rycroft, J. A., Rowson, M. J., &amp; De Bruin, E. A. (2010). The combination of L-theanine and caffeine improves cognitive performance and increases subjective alertness. <em>Nutritional neuroscience</em>, <em>13</em>(6), 283–290. <a href="https://doi.org/10.1179/147683010X12611460764840">https://doi.org/10.1179/147683010X12611460764840</a> (accessed November 4, 2022) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Giesbrecht, T., Rycroft, J. A., Rowson, M. J., &amp; De Bruin, E. A. (2010). The combination of L-theanine and caffeine improves cognitive performance and increases subjective alertness. <em>Nutritional neuroscience</em>, <em>13</em>(6), 283–290. <a href="https://doi.org/10.1179/147683010X12611460764840">https://doi.org/10.1179/147683010X12611460764840</a> (accessed November 4, 2022)&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
-      <p>Mujika, I., &amp; Padilla, S. (1997). Creatine supplementation as an ergogenic aid for sports performance in highly trained athletes: a critical review. <em>International journal of sports medicine</em>, <em>18</em>(7), 491–496. <a href="https://doi.org/10.1055/s-2007-972670">https://doi.org/10.1055/s-2007-972670</a> (accessed November 4, 2022) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Mujika, I., &amp; Padilla, S. (1997). Creatine supplementation as an ergogenic aid for sports performance in highly trained athletes: a critical review. <em>International journal of sports medicine</em>, <em>18</em>(7), 491–496. <a href="https://doi.org/10.1055/s-2007-972670">https://doi.org/10.1055/s-2007-972670</a> (accessed November 4, 2022)&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:3" role="doc-endnote">
-      <p>Avgerinos, K. I., Spyrou, N., Bougioukas, K. I., &amp; Kapogiannis, D. (2018). Effects of creatine supplementation on cognitive function of healthy individuals: A systematic review of randomized controlled trials. <em>Experimental gerontology</em>, <em>108</em>, 166–173. <a href="https://doi.org/10.1016/j.exger.2018.04.013">https://doi.org/10.1016/j.exger.2018.04.013</a> (accessed November 4, 2022) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Avgerinos, K. I., Spyrou, N., Bougioukas, K. I., &amp; Kapogiannis, D. (2018). Effects of creatine supplementation on cognitive function of healthy individuals: A systematic review of randomized controlled trials. <em>Experimental gerontology</em>, <em>108</em>, 166–173. <a href="https://doi.org/10.1016/j.exger.2018.04.013">https://doi.org/10.1016/j.exger.2018.04.013</a> (accessed November 4, 2022)&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:4" role="doc-endnote">
-      <p>Hoffman, J. R., &amp; Falvo, M. J. (2004). Protein - Which is Best?. <em>Journal of sports science &amp; medicine</em>, <em>3</em>(3), 118–130. (accessed November 4, 2022) <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Hoffman, J. R., &amp; Falvo, M. J. (2004). Protein - Which is Best?. <em>Journal of sports science &amp; medicine</em>, <em>3</em>(3), 118–130. (accessed November 4, 2022)&nbsp;<a href="#fnref:4" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:5" role="doc-endnote">
-      <p>Calder P. C. (2017). Omega-3 fatty acids and inflammatory processes: from molecules to man. <em>Biochemical Society transactions</em>, <em>45</em>(5), 1105–1115. <a href="https://doi.org/10.1042/BST20160474">https://doi.org/10.1042/BST20160474</a> (accessed November 4, 2022) <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Calder P. C. (2017). Omega-3 fatty acids and inflammatory processes: from molecules to man. <em>Biochemical Society transactions</em>, <em>45</em>(5), 1105–1115. <a href="https://doi.org/10.1042/BST20160474">https://doi.org/10.1042/BST20160474</a> (accessed November 4, 2022)&nbsp;<a href="#fnref:5" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>

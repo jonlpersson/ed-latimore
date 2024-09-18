@@ -4,7 +4,7 @@ article_type: Article
 title: Here’s why boxing is the toughest sport you’ll ever learn
 permalink: /is-boxing-hard-to-learn/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 image: /assets/images/thumbnails/ed-latimore-in-amateur-fight-boxing-ring.jpg
@@ -56,7 +56,7 @@ Having a driving force behind your actions makes it more likely you’ll follow 
 
 Are you fighting for fitness or to follow a professional boxing track? Because fighting to get in shape and fighting for money are two very different endeavors.
 
-If you want to use it to workout, that’s great. Learning to throw punches with footwork is a great cardio workout. Learning boxing for confidence and self-defense is also a good reason but I don't recommend going around looking for fights.
+If you want to use it to workout, that’s great. Learning to throw punches with footwork is a great cardio workout. Learning boxing for confidence and self-defense is also a good reason but I don’t recommend going around looking for fights.
 
 There is no shame if you decide the sport is too difficult for you. Combat sports like MMA, muay thai, and boxing demand so much from you and give you so little in return. But it will change you if you let it.
 
@@ -90,7 +90,7 @@ Firstly, I started to realize that most people are soft. But the biggest changes
 
 ## A commitment
 
-Those who box, love boxing. If you are in any kind of combat sport, you have to love it to do it. And you may not love it until you start to see some success either in the gym or after a few amateur fights. Like anything, if you don't make a commitment to show up to your training sessions, you’ll never be any good.
+Those who box, love boxing. If you are in any kind of combat sport, you have to love it to do it. And you may not love it until you start to see some success either in the gym or after a few amateur fights. Like anything, if you don’t make a commitment to show up to your training sessions, you’ll never be any good.
 
 You may not be looking to go to the olympics or even following the professional boxing track but you still want to make sure you can devote the necessary time to it.
 

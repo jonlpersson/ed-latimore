@@ -4,7 +4,7 @@ article_type: Article
 title: 5 reasons why I quit boxing with only one loss
 permalink: /why-I-quit-boxing/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -30,7 +30,7 @@ For my first 6 fights, the most money I made was $792 dollars on local club show
 
 For most of my fights, I made less than $5k for a fight. In the only fight I made more than $5k on, I didn’t earn more than $9k. I had 15 fights in the heavyweight boxing division—[the highest paying division in boxing](https://www.quora.com/What-are-the-most-well-paid-popular-weight-classes-in-boxing-Can-light-heavyweight-be-considered-popular#:~:text=The%20heavyweight%20division%20is%20the,the%20gates%20and%20purchase%20PPV.){: target="_blank" rel="noopener noreferrer"}—and never once earned five figures.
 
-Throughout my 18-month professional contract, I was paid a monthly stipend of $1000. By the way, all of the numbers I've given you are before taxes and trainer fees. If that doesn’t sound like a lot, keep in mind that my numbers were higher than most because I fought in the heavyweight division, and that’s the only division where you can make some decent money without fighting for a title.
+Throughout my 18-month professional contract, I was paid a monthly stipend of $1000. By the way, all of the numbers I’ve given you are before taxes and trainer fees. If that doesn’t sound like a lot, keep in mind that my numbers were higher than most because I fought in the heavyweight division, and that’s the only division where you can make some decent money without fighting for a title.
 
 Fighters are protective of their contract numbers for many reasons. Some legitimately honor the terms of the non-disclosure agreement that almost every promoter makes a fighter sign. Even though I promised not to name any names–and I think I present myself to be trustworthy enough—many of the fighters I talked to refused to confirm the low numbers of dollars made.
 
@@ -38,9 +38,9 @@ Fortunately, many other fighters trusted that I’d keep their numbers confident
 
 #### How much do boxers make?
 
-First, understand that the fighters aren't making money unless a fight is televised on a major network. The fight promoter has to pay for the venue, insurance, security, medical, and sanctioning fees. This is all ***before*** the fighters get paid.
+First, understand that the fighters aren’t making money unless a fight is televised on a major network. The fight promoter has to pay for the venue, insurance, security, medical, and sanctioning fees. This is all ***before*** the fighters get paid.
 
-Whatever the fighter gets paid, he will ***immediately*** lose approximately 15-25% to manager and trainer fees. This is all before he has to pay taxes. It is simply not possible for a fighter to make a living from his fighting earnings alone if he’s not signed to a promotional company. Promotional companies get the fighter on television. What follows is a very simplistic breakdown of how this game works.
+Whatever the fighter gets paid, he will&nbsp;***immediately*** lose approximately 15-25% to manager and trainer fees. This is all before he has to pay taxes. It is simply not possible for a fighter to make a living from his fighting earnings alone if he’s not signed to a promotional company. Promotional companies get the fighter on television. What follows is a very simplistic breakdown of how this game works.
 
 Let’s say that a network (Fox, ESPN, DAZN, etc.) shows 12 fights yearly. Promoters (PBC, Top Rank, Golden Boy, etc.) know that the networks have more money to put behind a fight; this is how their fighter gets publicity, so promoters compete for those dates to get their fighters on T.V. for more money and more exposure.
 
@@ -50,13 +50,13 @@ The better you get, the fewer times you fight up until you’re champion and fig
 
 On average, a boxer only makes $67,948/yr. That’s not too bad until you see that the median salary is $2000. If the impact of these numbers is lost on you, I’ll use a simple example to demonstrate how lopsided this is:
 
-Let’s say you’re with a group of 10 friends, and all of you make $20k a year, so your group's average and median income is now $20k. Then one of you meets Jeff Bezos, and he becomes your friend. Well, now the average income of your group is MUCH higher, but the median income remains the same.
+Let’s say you’re with a group of 10 friends, and all of you make $20k a year, so your group’s average and median income is now $20k. Then one of you meets Jeff Bezos, and he becomes your friend. Well, now the average income of your group is MUCH higher, but the median income remains the same.
 
 This is exactly what happens in boxing. Big-money fighters like Canelo Alvarez and Anthony Joshua raise the average, but most fighters barely make enough to cover training, let alone make a living.
 
 I just talked to a friend who fought on television in the big money division, the heavyweight division. He made $55k. His next fight is guaranteed $100k. That sounds like a lot of money until you remember that he not only has to pay his trainer 10% (he doesn’t have a manager), but he’ll be taxed as a self-employed person, so he’ll owe the government 30% of that.
 
-To put this in perspective, I clear $100k with relatively little effort, all online, without permanent physical damage. I'm also doing it in a way that helps many more people than myself (more on this point later in the article).
+To put this in perspective, I clear $100k with relatively little effort, all online, without permanent physical damage. I’m also doing it in a way that helps many more people than myself (more on this point later in the article).
 
 Don’t get me wrong: I don’t mind the hard life of a fighter. I did it for over a decade. I just wouldn’t do it if I had a safer alternative.
 
@@ -70,7 +70,7 @@ I didn’t get injured nearly as much as some guys I know, nor were any injuries
 
 {% twitter https://twitter.com/EdLatimore/status/1365018493767344129 %}
 
-Boxing quickly teaches you the difference between being “hurt” and “injured”.  Both conditions result in discomfort and pain but aren’t the same.
+Boxing quickly teaches you the difference between being “hurt” and “injured”.&nbsp; Both conditions result in discomfort and pain but aren’t the same.
 
 You can continue to train and fight through being hurt. It’s merely a matter of pain tolerance. Sometimes it’s intense but not debilitating.
 
@@ -127,7 +127,7 @@ In short, this lifestyle is far more purpose-driven than boxing. It’s also a l
 
 I spent my entire amateur and professional career fighting as a heavyweight. The minimum for this weight division is 201 lbs and there is no maximum. Because there is no weight limit, the tallest fighters tend to be heavyweights.
 
-I’m 6’1”.  For most of my amateur career, my weight hovered in the mid 220s. As a professional, I typically went into the ring between 215 and 220. Both of these numbers make me a very small heavyweight.
+I’m 6’1”.&nbsp; For most of my amateur career, my weight hovered in the mid 220s. As a professional, I typically went into the ring between 215 and 220. Both of these numbers make me a very small heavyweight.
 
 According to some roughly crunched numbers by [a poster on boxrec.com](https://boxrec.com/forum/viewtopic.php?t=199245), the average height of a heavyweight boxer since 2010 is 6’3.6”. The poster’s math is crude and doesn’t reveal that this is likely skewed to the left, meaning that the average height is shorter than the median (most frequently represented) height.
 
@@ -141,7 +141,7 @@ To better illustrate this, I’ve referenced an article aptly titled “[The Evo
 
 ![How the heights of heavyweight boxers has changed over time](/assets/images/posts/2022/evolution-of-the-height-of-heavyweight-boxers.jpeg "The evolution of the heavyweight boxing champions by decade, courtesy of casino.org")
 
-#### What's the problem with being a shorter heavyweight boxer?
+#### What’s the problem with being a shorter heavyweight boxer?
 
 While I had a great amount of success at 6’1”, it became clear to me that the height disadvantage was going to soon become one I couldn’t overcome. I compensated for being shorter with speed, power, and conditioning, but those tools quickly became nullified as my opponents got more skilled.
 
@@ -167,7 +167,7 @@ That’s not the life I wanted because, to me, it was picking one of two miserab
 
 #### Too much pride, self-respect, and opportunity to lose fights for a living
 
-I have too much respect for the sport of boxing to half-ass it, so I’d be back in a position where I’m in the gym for 30-35 hours a week, but I'd be in extremely difficult fights where I’m a significant underdog.
+I have too much respect for the sport of boxing to half-ass it, so I’d be back in a position where I’m in the gym for 30-35 hours a week, but I’d be in extremely difficult fights where I’m a significant underdog.
 
 I [went and got a physics degree](/is-physics-hard-how-to-study-and-learn-basic-physics/) and enrolled in the military to have more options in my life. I started this blog and a social media presence so I could have more options in life. I did not do all of that to effectively be a punching bag for a few extra grand.
 
@@ -177,6 +177,6 @@ Plus, the cool thing is that having that record continues to open up doors for m
 
 I stopped boxing because I’d realistically gone as far as I could with my physical attributes and figured out how to make a lot more money with much less damage to my body. I’ve also developed a lifestyle that makes training difficult.
 
-I enjoyed my life as a fighter and am extremely grateful for everything [I got from boxing](/boxing-quotes-from-ed-latimore/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
+I enjoyed my life as a fighter and am extremely grateful for everything&nbsp;[I got from boxing](/boxing-quotes-from-ed-latimore/). With that said, I have no interest in fighting anymore and I’m having a bigger impact on everything else that I do.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}

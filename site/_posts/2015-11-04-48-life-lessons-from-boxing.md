@@ -4,7 +4,7 @@ article_type: Article
 title: 48 boxing quotes from Ed Latimore
 permalink: /boxing-quotes-from-ed-latimore/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Book-Summaries-And-Ed-Latimore-Quotes
 image: /assets/images/thumbnails/boxingrisk1.jpg
@@ -12,9 +12,9 @@ description: >-
   Here are 48 life lessons I learned from being a boxer. You may never fight,
   but if you use these lessons, you'll gain a huge advantage in the world.
 ---
-The following are a list of powerful life lessons I've taken from my time as both an amateur and [professional boxer](/boxing-benefits/).
+The following are a list of powerful life lessons I’ve taken from my time as both an amateur and [professional boxer](/boxing-benefits/).
 
-Being a fighter forces you to think and approach problems differently than most people. I think this is for a number of reasons, but there's a major one that stands out above all others:
+Being a fighter forces you to think and approach problems differently than most people. I think this is for a number of reasons, but there’s a major one that stands out above all others:
 
 ***Fighting has a very powerful negative feedback mechanism. There is almost nothing left in the world that so quickly and powerfully punishes mistakes.***
 
@@ -22,11 +22,11 @@ In fighting, you either learn or perish–and you better learn fast, because the
 
 No one beats the fight the game. It eventually defeats everyone who takes it on. The best you can hope for is wisdom and to make a little bit of money.
 
-In this post, I don't have any cash for you. However, I will give you some of the wisdom I picked up from the fight game that will help you in whatever fight you're personally in.
+In this post, I don’t have any cash for you. However, I will give you some of the wisdom I picked up from the fight game that will help you in whatever fight you’re personally in.
 
 ![Lessons from boxing](/assets/images/posts/FightIsWon.jpg "You can bullshit yourself, but you can't bullshit the fight game.")
 
-> "The fight is won or lost fare away from witnesses, behind the lines in the gym, and out there on the road, long before I dance under the lights."
+> “The fight is won or lost fare away from witnesses, behind the lines in the gym, and out there on the road, long before I dance under the lights.”
 >
 > \-Muhammad Ali
 
@@ -40,41 +40,41 @@ But the rewards are massive and more than enough reason to endure the sacrifice.
 
 This mindset applies off the canvas too. In life, we must make sacrifices to attain our goals, whether that’s working harder to provide for family, or sticking to health programs to better ourselves. The journey is never easy, but focusing on the end goal makes the struggle worthwhile. Progress demands discomfort. And boxing epitomizes the emotional and mental breakthroughs that come from persisting through hardship with purpose.
 
-## Ed Latimore's boxing quotes on training and learning the sweet science
+## Ed Latimore’s boxing quotes on training and learning the sweet science
 
-**1)** Cardio is king. Fighter's say it all the time because it will decide the outcome of most of your early fights.
+**1)** Cardio is king. Fighter’s say it all the time because it will decide the outcome of most of your early fights.
 
 If you can persist to the end, you have a better chance to win. Make the other guy run out of energy. Will Smith said it best:
 
-> If we get on the treadmill together, there's two things: You're getting off first, or I'm going to die. It's really that simple, right? You're not going to out-work me.
+> If we get on the treadmill together, there’s two things: You’re getting off first, or I’m going to die. It’s really that simple, right? You’re not going to out-work me.
 >
 > \-Will Smith
 
-**2)** Film your training. Study it to see what you’re doing wrong. One objective viewing of yourself practicing is worth ten fights. It's worth even more if you go over it with someone better than you. They will see mistakes you didn’t even know existed.
+**2)** Film your training. Study it to see what you’re doing wrong. One objective viewing of yourself practicing is worth ten fights. It’s worth even more if you go over it with someone better than you. They will see mistakes you didn’t even know existed.
 
-**3)** You learn from people better than you. If you can't subdue your ego and listen to their advice, you were doomed before you even began.
+**3)** You learn from people better than you. If you can’t subdue your ego and listen to their advice, you were doomed before you even began.
 
-**4)** The implications of the 10,000 hour rule might be under debate, but the value of practice isn't. Perfect practice makes perfect technique.
+**4)** The implications of the 10,000 hour rule might be under debate, but the value of practice isn’t. Perfect practice makes perfect technique.
 
 **5)** [Study war strategy](/hagakure-quotes/). Learn chess. Learn deception. The thinking necessary to understand these things, if applied to your fighting, will pay dividends and help you surpass those around you.
 
 **6)** Keep your glass empty, even when the water around you tastes like shit. I’ve made some amazing insights and developments by opening my mind to guys who didn’t know much about fighting. Even a broken clock is right twice a day.
 
-## Ed Latimore's boxing quotes about process vs. outcome&nbsp;
+## Ed Latimore’s boxing quotes about process vs. outcome&nbsp;
 
 **7)** [Good technique is essential, but perfect technique is over-overrated.](/the-book-of-five-rings-quotes/) Effective technique is underrated. What’s more valuable: A pretty hook that rarely lands or a less than “perfect” one that has an 80% KO percentage?
 
-**8)** Improve the process to improve the outcome, but don’t worry too much if the outcome isn't perfect if you still accomplish the general objective. When you're in a firefight, "ready-fire-aim" will save you faster than "ready-aim-fire." Better to execute effectively than perfectly.
+**8)** Improve the process to improve the outcome, but don’t worry too much if the outcome isn’t perfect if you still accomplish the general objective. When you’re in a firefight, “ready-fire-aim” will save you faster than “ready-aim-fire.” Better to execute effectively than perfectly.
 
-**9)** Amateurs practice until they get it right. Professionals practice until they can’t get it wrong. Until you start drilling your techniques to the point of mind-numbing boredom, you're taking the scenic route to mastery rather than the superhighway.
+**9)** Amateurs practice until they get it right. Professionals practice until they can’t get it wrong. Until you start drilling your techniques to the point of mind-numbing boredom, you’re taking the scenic route to mastery rather than the superhighway.
 
 ![Professional boxing Ed Latimore](/assets/images/posts/FightingPose.jpg "Not a perfect right hand, but it does the job")
 
-## Ed Latimore's boxing quotes on pain&nbsp;
+## Ed Latimore’s boxing quotes on pain&nbsp;
 
 ![Muhammad Ali quote about pain during training](/assets/images/posts/muhamma-ali-on-pain-and-sit-ups.jpeg){: width="736" height="443"}
 
-> "I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts."
+> “I don’t count my sit-ups. I only start counting when it starts hurting. When I feel pain, that’s when I start counting, because that’s when it really counts.”
 >
 > \-Muhammad Ali
 
@@ -82,13 +82,13 @@ In the journey of personal growth and achievement, discomfort is an equalizing f
 
 Just as intense training saps athletic potential, stressful conditions dull cognitive bandwidth, sap emotional reserves, and strain systemic resilience regardless of innate privilege. If you can operate effectively despite sleep deprivation, hunger pangs, relationship turmoil or grinding workloads, the world is yours for the taking.
 
-It's why those emerging from poverty often develop relentless drive. If you can thrive despite agony, harsh origins get overwritten. When the privilege face crisis, small gaps in ability get magnified.
+It’s why those emerging from poverty often develop relentless drive. If you can thrive despite agony, harsh origins get overwritten. When the privilege face crisis, small gaps in ability get magnified.
 
 **10)** Pain is the great equalizer in fighting. No matter how much better than you someone is, if you can cause them pain, you stand a chance.
 
-**11)** We have a saying in boxing: "The first ball shot is free. Use it wisely."
+**11)** We have a saying in boxing: “The first ball shot is free. Use it wisely.”
 
-**\[Read: "**[**How to avoid a street fight, and what to do if you can't**](/how-to-win-a-street-fight/)**"\]**
+**\[Read: “**[**How to avoid a street fight, and what to do if you can’t**](/how-to-win-a-street-fight/)**”\]**
 
 **12)** All humans fatigue and hurt. Many adversaries will lose their taste for battle if you make the fight nasty enough. You can conquer many obstacles and opponents in your life through pure attrition.
 
@@ -100,7 +100,7 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **16)** You’re never as good or as bad as you think you are. This is why it’s important to focus on improving your skills rather than on your record. One man’s [undefeated record](https://www.boxingnews24.com/2014/06/in-all-of-boxing-history-no-undefeated-boxer-has-been-great/){: target="_blank" rel="noreferrer noopener"} is another man’s 8-2, depending on who, when, and where he fought.
 
-## Ed Latimore's&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
+## Ed Latimore’s&nbsp; boxing quotes for dealing with haters, lovers, fans, and friends
 
 ![muhammad ali boxing quote on losing and dealing with fans](/assets/images/posts/muhammad-ali-quote-after-losing.png){: width="1065" height="731"}
 
@@ -116,7 +116,7 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **20)** Keep close counsel so your life remains in perspective.
 
-**21)** Find people you can trust. Keep them close. This process can be long and painful, but a garden is more beautiful when it's free of weeds and snakes.
+**21)** Find people you can trust. Keep them close. This process can be long and painful, but a garden is more beautiful when it’s free of weeds and snakes.
 
 **22)** Have friends outside the fight game. For your sanity, a fighter should have three types of friends: those who fight, those who like watching him fight, and those who have never seen him fight.
 
@@ -124,31 +124,31 @@ It's why those emerging from poverty often develop relentless drive. If you can 
 
 **24)** Women are to fighters as fire is to society: they are neither good nor bad. How they are used in your life will make the difference in whether you have a warm home or one that remains no longer.
 
-**25)** A corollary to lifestyle choices: choose how to have women involved in your life or they will choose for you. It most likely won't be in your best interest.
+**25)** A corollary to lifestyle choices: choose how to have women involved in your life or they will choose for you. It most likely won’t be in your best interest.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
 ![Boxing training forms respect](/assets/images/posts/ed-after-sparring.jpg "Boxing training forms respect")
 
-## Ed Latimore's boxing quotes applied to life
+## Ed Latimore’s boxing quotes applied to life
 
 ![](/assets/images/posts/mike-tyson-quote-you-never-lose.png){: width="1920" height="1080"}
 
-> "You never lose until you actually give up."
+> “You never lose until you actually give up.”
 >
 > \-Mike Tyson
 
-This simple yet profound idea - that loss and defeat only truly occur when we concede them - was a central tenet of Iron Mike Tyson's fighting philosophy. To him, the final verdict mattered far less than one's willingness to endure struggle. Even when trapped and bloodied against the ropes, victory remains possible if your spirit persists.
+This simple yet profound idea - that loss and defeat only truly occur when we concede them - was a central tenet of Iron Mike Tyson’s fighting philosophy. To him, the final verdict mattered far less than one’s willingness to endure struggle. Even when trapped and bloodied against the ropes, victory remains possible if your spirit persists.
 
-Tyson embodied this attitude, battling back from adversity time and again when others would have quit. It's not the setbacks themselves that define us, but rather how we respond. And he knew that hope would surfaced as long as he refused to bow or break.
+Tyson embodied this attitude, battling back from adversity time and again when others would have quit. It’s not the setbacks themselves that define us, but rather how we respond. And he knew that hope would surfaced as long as he refused to bow or break.
 
 This mindset applies outside of the ring as well. In relationships, careers, self-improvement, obstacles arise that tempt us to abandon discipline and goals. Occasionally, we must adjust course or accept temporary losses. But outright surrender leaves dreams unfulfilled and progress halted.
 
 The contest continues as long as we dust ourselves off and get back up. If we retain the determination to continue striving, we never fully lose. And there is always a chance the next round delivers a breakthrough.
 
-> "I will not lose, for even in defeat, it's a valuable lesson learned so that evens it up for me."
+> “I will not lose, for even in defeat, it’s a valuable lesson learned so that evens it up for me.”
 >
-> \-Jay-Z, "Blueprint 2"
+> \-Jay-Z, “Blueprint 2”
 
 **26)** Some rules you can break once and plead ignorance. Make the infraction count for something. You may not be so lucky the next time.
 
@@ -156,23 +156,23 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **28**)Nervousness is a good sign. Remember: [the courageous man and the coward both feel fear](/how-to-overcome-fear/) but the difference is how they react to it.
 
-**29)** Sometimes, you can't go backward. Use your time wisely to develop when the outcome won't cost you much. Likewise, lacking awareness of when you're wasting time at a certain level will also cost you.
+**29)** Sometimes, you can’t go backward. Use your time wisely to develop when the outcome won’t cost you much. Likewise, lacking awareness of when you’re wasting time at a certain level will also cost you.
 
-**30)** I don’t have to pump myself up, nor should you. That is because I go into every fight highly prepared. There is no such thing as "being confident." You're either prepared or unprepared.
+**30)** I don’t have to pump myself up, nor should you. That is because I go into every fight highly prepared. There is no such thing as “being confident.” You’re either prepared or unprepared.
 
-**31)** If I lose, it's because I faced someone better. It's ok to lose in that situation. Losing is NOT ok because you didn't give it your all.
+**31)** If I lose, it’s because I faced someone better. It’s ok to lose in that situation. Losing is NOT ok because you didn’t give it your all.
 
 ![ed latimore quotes about boxing &quot;Boxing training sharpens your mind&quot;](/assets/images/posts/Boxingcalm.jpg "Right before a fight, trying to stay cool and collected.")
 
-## Ed Latimore's boxing quotes on being a great student and teacher
+## Ed Latimore’s boxing quotes on being a great student and teacher
 
 ![cus d'amato quote on teaching boxing quotes](/assets/images/posts/cus-d-amato-on-teaching.png){: width="1080" height="1080"}
 
-> “I never teach until I've spoken to the fighter. I have to first determine his emotional state, get his background, to find out what I have to do, how many layers I have to keep peeling off so that I get to the core of the person so that he can recognize, as well as I, what is there.”
+> “I never teach until I’ve spoken to the fighter. I have to first determine his emotional state, get his background, to find out what I have to do, how many layers I have to keep peeling off so that I get to the core of the person so that he can recognize, as well as I, what is there.”
 >
-> \-Cus D'Amato
+> \-Cus D’Amato
 
-**32)** It’s important to have experience with other [competitive endeavors](/how-to-be-competitive/). This allows you to [know if a coach is a good match for you.](/qualities-of-a-good-teacher/) Just because you don't vibe with and/or have trouble learning from one coach doesn’t mean he's a bad coach. It just means that you two are a bad match.
+**32)** It’s important to have experience with other [competitive endeavors](/how-to-be-competitive/). This allows you to [know if a coach is a good match for you.](/qualities-of-a-good-teacher/) Just because you don’t vibe with and/or have trouble learning from one coach doesn’t mean he’s a bad coach. It just means that you two are a bad match.
 
 **33)** Two people can say the same thing, but how they say it affects the delivery of the message and how you receive it.
 
@@ -180,7 +180,7 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **35)** A good teacher understands that you will eventually surpass him. A great teacher actively pushes you to that point. Bad teachers will try to keep you around for many reasons, all selfish but not all obvious.
 
-**36)** The better you become, the more you realize that it's impossible to prepare for every situation. At this level, adaptability and improvisation become your most valuable assets.
+**36)** The better you become, the more you realize that it’s impossible to prepare for every situation. At this level, adaptability and improvisation become your most valuable assets.
 
 **37)** There is no way for you to execute your game plan AND prepare to deal with his. The human mind is simply not that complex. After a certain point, the game becomes about who can attack more effectively while defending most effectively.
 
@@ -188,46 +188,46 @@ The contest continues as long as we dust ourselves off and get back up. If we re
 
 **39)** Stick to a game plan, but adjust when necessary.
 
-## Ed Latimore's boxing quotes on fighting in all situations in life![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
+## Ed Latimore’s boxing quotes on fighting in all situations in life![Mike Tyson knockout quote](/assets/images/posts/tysonplan.jpg "Mike Tyson knockout quote")
 
-> "Everyone has a plan until they get punched in the mouth"
+> “Everyone has a plan until they get punched in the mouth”
 >
 > \-Mike Tyson
 
-This iconic line from Mike Tyson captures a fundamental truth: you can strategize and scheme all you want, but real life doesn't care about your plans. The world delivers blows you never see coming. How you react in those disorienting, painful moments reveals far more about you than how you operate when things are going well.
+This iconic line from Mike Tyson captures a fundamental truth: you can strategize and scheme all you want, but real life doesn’t care about your plans. The world delivers blows you never see coming. How you react in those disorienting, painful moments reveals far more about you than how you operate when things are going well.
 
 Boxing is a metaphor for this unpredictability. Fighters plot tactics, train for months, then get cracked by a knockout blow in seconds. Suddenly, their preparation meets blunt reality.
 
 When things are rough, values get tested and habits reveal themselves—for better or worse. Some respond with poise and course correct. Others panic, lose composure and cannot adapt.
 
-Tough moments don't make us. They reveal who we really are. As the saying goes - gold emerges from fire purified, while lesser metals melt away. Or, as Warren Buffet once famous said, "You never know who's swimming naked until the tide goes out."
+Tough moments don’t make us. They reveal who we really are. As the saying goes - gold emerges from fire purified, while lesser metals melt away. Or, as Warren Buffet once famous said, “You never know who’s swimming naked until the tide goes out.”
 
 Prepare before the crises hits. The worst time to learn how to fight is during an ass-kicking. No journey follows the map exactly; principles matter most in unfamiliar terrain. The punches will come, but how we take them determines everything.
 
-**40)** Not everything is as it appears to be. Nor is it otherwise. Learn to see the layers behind the scene. Learn to read what's in between.
+**40)** Not everything is as it appears to be. Nor is it otherwise. Learn to see the layers behind the scene. Learn to read what’s in between.
 
 **41)** Size doesn’t matter until everything else doesn’t. Then it matters more than anyone will ever admit.
 
 **42)** All things considered equal, the faster fighter will win. The faster fighter will often beat the stronger, more powerful, more experienced, more “insert attribute here” fighter. Anyone with speed that doesn’t develop their other traits is a waste and a disgrace.
 
-**43)** If you're fortunate enough to be born with a significant advantage that can not be taught or obtained easily, you are a literal waste of life if you do not develop supporting attributes. This is how a person becomes world-class. Not everyone can be world-class so if you have the chance to be, don’t waste it.
+**43)** If you’re fortunate enough to be born with a significant advantage that can not be taught or obtained easily, you are a literal waste of life if you do not develop supporting attributes. This is how a person becomes world-class. Not everyone can be world-class so if you have the chance to be, don’t waste it.
 
-**44)** Counter-punching: The worst strategy but the best tactic. It's always better to be the cause of action rather than reacting to it.
+**44)** Counter-punching: The worst strategy but the best tactic. It’s always better to be the cause of action rather than reacting to it.
 
-## Ed Latimore's boxing quotes on what you can and can't control
+## Ed Latimore’s boxing quotes on what you can and can’t control
 
 ![boxing quote bernard hopkins on longevity](/assets/images/posts/bernard-hopkins-quote-on-longevity.png){: width="1080" height="1080"}
 
-"Something that I understood from day 1: you keep your body clean, your mind clean, and you don't get caught up in this bullshit that goes along with success, and you will be alright."
+“Something that I understood from day 1: you keep your body clean, your mind clean, and you don’t get caught up in this bullshit that goes along with success, and you will be alright.”
 
 \-Bernard Hopkins, Oldest man in boxing to win a major world title
 
-**45)**&nbsp;Three things end a fighter's career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noreferrer noopener"}. [Bernard Hopkins didn't retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noreferrer noopener"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
+**45)**&nbsp;Three things end a fighter’s career: Age, Injury, and bad lifestyle choices. The last one makes up about 90 percent of lost careers. [George Foreman won the heavyweight championship at age 45](https://www.sportscasting.com/how-old-was-george-foreman-when-he-made-his-famous-comeback-to-become-heavyweight-champ/){: target="_blank" rel="noreferrer noopener"}. [Bernard Hopkins didn’t retire until age 52](https://www.independent.co.uk/sport/general/boxing/bernard-hopkins-retires-joe-smith-jr-defeat-eighth-round-stoppage-a7482426.html){: target="_blank" rel="noreferrer noopener"}, but the list of guys that fell to drugs or prison before 30 is so long it deserves a post of its own.
 
 **46)** There are a lot of things that will keep you from achieving your potential. You can control your lifestyle so there is no excuse for anything in your control to derail you.
 
 **47)** The only thing that you can control is your ability and your life. You can’t control the judges, the crowd, or your opponent. You can’t even control if you win. Remember this, and all other things will fall into place.
 
-**48)** In the end, you can't control anything. Except for your mind.
+**48)** In the end, you can’t control anything. Except for your mind.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}

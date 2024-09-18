@@ -4,7 +4,7 @@ article_type: Article
 title: Why did I start boxing?
 permalink: /why-did-I-start-boxing/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 description: >-
@@ -38,7 +38,7 @@ Every fighter fights for different reasons, but rarely are those reasons born fr
 
 Many people visit the ring for recreation, but those who make it a permanent home do so because they lack something vital, and they feel that they’ll find it in the school of hard knocks.
 
-Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.  Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
+Leo Tolstoy once famously wrote, “All happy families are alike; Each unhappy family is unhappy in its own way.” This is often referred to as the “Anna Karenina Principle.” The idea is that for a family to be happy regardless of its background or culture, there are certain minimum standards that must be met.&nbsp; Every happy family needs food, shelter, safety, love, etc. However, a deficiency in any one of these areas robs the family of happiness.
 
 More generally, happy people have the same things in common, but unhappy people can be unhappy for many reasons because there are many ways to be unhappy.
 
@@ -50,7 +50,7 @@ By inflicting pain, we prove that we are worth something in the most primal and 
 
 I started fighting because [I felt like a nobody](/8-valuable-life-lessons-ive-learned-from-losing-on-national-television/). I wanted to feel like somebody. I was a 22-year-old college dropout who worked at Starbucks. I hated the feeling of being invisible, insignificant, and overlooked.
 
-I've often said that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much pain, hardship, and restriction that surely the cost of admission exceeds the value received.
+I’ve often said that becoming a fighter to build an identity is like joining the army to learn how to fold your sheets. Sure, you’ll get what you came for, but it comes with so much pain, hardship, and restriction that surely the cost of admission exceeds the value received.
 
 Perhaps there is some truth in this, but this brings me to another reason why I fought.
 
@@ -58,7 +58,7 @@ Perhaps there is some truth in this, but this brings me to another reason why I 
 
 Fighting is one of the few athletic avenues that is not closed to people who aren’t enrolled in a university.
 
-There are only two hard age limits in the sport: to compete in amateur boxing, you must be at least 10 years old. There is technically no age maximum, but any amateur fighter older than 35 will have the choice to compete in the Master's division (35 years and older) and will be forced to compete there once he’s 41. As a professional, there are no such limits.
+There are only two hard age limits in the sport: to compete in amateur boxing, you must be at least 10 years old. There is technically no age maximum, but any amateur fighter older than 35 will have the choice to compete in the Master’s division (35 years and older) and will be forced to compete there once he’s 41. As a professional, there are no such limits.
 
 You[can start fighting](/how-to-get-into-boxing/) when most people are ending their athletic careers. Many notable names in the sport have had successful careers after not even stepping in the ring for the first time until after their 18th birthday.
 
@@ -76,7 +76,7 @@ I realized that you must deal with the demons holding you back from escaping the
 
 I thought I started fighting to become someone special. This may have been a good reason for fighting, but it wasn’t the real reason. The real reason was that I never felt like I was good enough to simply be desired in a group. Even now, I struggle with this, as I often believe I’m a burden to others.
 
-But one of the things boxing forced me to do was sell myself. My ability to get people to show up to my fights dictated my ability to get amateur fights. It wasn't just about training for the fight as a professional boxer. My ability to sell myself determined if I got a $1000 check for a fight or barely $100—before trainer fees. This meant that I’d have to get people to support me.
+But one of the things boxing forced me to do was sell myself. My ability to get people to show up to my fights dictated my ability to get amateur fights. It wasn’t just about training for the fight as a professional boxer. My ability to sell myself determined if I got a $1000 check for a fight or barely $100—before trainer fees. This meant that I’d have to get people to support me.
 
 This meant confronting my fears of inadequacy.
 
