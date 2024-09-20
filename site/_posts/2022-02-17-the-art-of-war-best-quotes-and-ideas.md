@@ -146,35 +146,35 @@ Here’s another way to look at this: if someone is capable of performing a task
 >
 > \-Young Jeezy, “This one’s for you”
 
-## Training for the worst conditions
+## How the Art of War Teaches us to train
 
 ![sun tzu art of war quotes &quot;Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.&quot;](/assets/images/posts/training-for-the-worst-conditions.png){: width="810" height="810"}
 
 > Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
 
-You must train how you plan to perform and prepare under the most difficult and varied conditions you can create. The goal is to make sure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.
+You must train how you plan to perform and prepare under the most difficult and varied conditions you can create. The goal is to ensure that practice does not occur in a safe and predictable setting because the contest or task will not occur in such an area.
 
 * You practice when you’re tired.
-* You introduce random distractions and variables into the practice arena,.
+* You introduce random distractions and variables into the practice arena.
 * You reduce your resources and capabilities.
 
-The goal for practice is not only for you to hone your skills but to hone them in an environment that most closely resembles the one in which you’ll be using them.
+The goal of practice is to hone your skills in an environment that most closely resembles the one you’ll be using.
 
-This means that you have to handicap yourself and do your best to create an environment that exposes you to the tribulations of combat, whatever your particular type of “combat” is. Performers, athletes, speakers, etc. You must train yourself to execute in all conditions so that you’re ready for anything.
+This means that you have to handicap yourself and do your best to create an environment that exposes you to the tribulations of combat, whatever your particular type of “combat” is. Performers, athletes, speakers, etc. You must train yourself to execute in all conditions to be ready for anything.
 
 This also does wonders for your confidence, making it even easier for you to perform.
 
-## The importance of emotional strength
+## Sun Tzu enlightens us on the importance of emotional strength
 
 ![sun tzu art of war quotes &quot;The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.&quot;](/assets/images/posts/the-importance-of-emotional-strength.png){: width="810" height="810"}
 
 > The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.
 
-It’s easy to give in to your basic natural and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on the morale of your team and their respect for you.
+It’s easy to give in to your basic instincts and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on your team's morale and respect for you.
 
-This is how abuses of power take place. The leader uses rank or title to take advantage of or take things from his people. If you are not disciplined enough to keep your desires in check, then you can be manipulated by the enemy and lose your allies’ support.
+This is how abuses of power occur. The leader uses rank or title to take advantage of or take things from his people. If you are not disciplined enough to keep your desires in check, you can be manipulated by the enemy and lose your allies’ support.
 
-This is something I learned while getting sober. Putting down the bottle made it impossible to manipulate me by offering me free drinks. It kept me out of a lot of places where there could be threats to what I valued in my life.
+This is something I learned while getting sober. Putting down the bottle made it impossible to manipulate me by offering me free drinks. It kept me out of many places where there could be threats to what I valued.
 
 ***\[Read a few other things I learned about*** [***getting sober here.***](/sobriety-benefits/)***\]***
 
