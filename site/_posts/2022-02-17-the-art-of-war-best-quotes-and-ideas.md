@@ -82,7 +82,7 @@ While there’s a lot to be said about cultivating a work/life balance, good lea
 
 This can only happen if the boss doesn’t care too much.
 
-## How to lead a team
+## What the Art of War say about leading a team
 
 ![sun tzu art of war quotes &quot;If soldiers are punished before they have grown attached to you, they will not prove submissive; and, unless submissive, then will be practically useless. If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless.&quot;](/assets/images/posts/how-to-lead-a-team.png){: width="810" height="810"}
 
@@ -93,21 +93,21 @@ Great leaders know how to navigate two interesting facts about human nature:
 1. People like who they listen to more than they listen to who they like.
 2. People like who they respect more than they respect who they like.
 
-Good leaders know that trying to be liked before you’re respected and obeyed is putting the cart before the horse. They also understand that being liked doesn’t usually lead to respect, especially when there is a status difference.
+Great leaders know that trying to be liked before you’re respected and obeyed is putting the cart before the horse. They also understand that being liked doesn’t usually lead to respect, especially when there is a status difference.
 
-The conclusion of all of this is that to be an effective leader, you can not worry about how much your team likes you. It’s nice if they do, but it is inconsequential to the success of the mission. It’s often a bad thing if they like you.
+The conclusion is that to be an effective leader, you can not worry about how much your team likes you. It’s nice if they do, but it is inconsequential to the mission's success. It’s often a bad thing if they like you. Sun Tzu elaborates by saying:
 
 When the people you’re in charge of like you too much, they become attached. When they become attached, they start to view themselves as equal, which makes it hard for them to obey your orders. This leads to a need for discipline, but you become less motivated to enforce discipline because you naturally start to like them in return.
 
 {% twitter https://twitter.com/EdLatimore/status/1343636893704073217 %}
 
-In this passage, Sun Tzu is recognizing the danger of becoming too familiar with your subordinates. Anyone who’s ever been in the military recognizes this structure today, as there is no fraternizing between officers and enlisted men or between non-commissioned officers and lower enlisted.
+In this passage, Sun Tzu recognizes the danger of becoming too familiar with your subordinates. Anyone who’s ever been in the military recognizes this structure today, as there is no fraternizing between officers and enlisted men or between non-commissioned officers and lower enlisted.
 
-Now, this is not to say that you should go out of your way to be unlikable. That’s a recipe for failure also. As a team leader, you should make the best decisions to lead your team members to success. Their feelings towards you aren’t unimportant. They’re just none of your concern.
+This is not to say that you should go out of your way to be unlikable. That’s a recipe for failure, also. As a team leader, you should make the best decisions to lead your team members to success. Their feelings towards you aren’t unimportant. They’re just none of your concern.
 
-Your concern is order and effectiveness. If you do this while treating everyone with respect, you will be respected as well, which naturally leads to being liked anyway.
+Your concern is order and effectiveness. If you do this while treating everyone with respect, you will also be respected, which naturally leads to being liked anyway.
 
-## How to plan for a conflict
+## The Art of War shows you how to prepare for conflict
 
 ![sun tzu art of war quotes &quot;The art of war teaches us to rely not on the likelihood of the enemy’s not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.&quot;](/assets/images/posts/how-to-plan-for-conflict.png){: width="810" height="810"}
 
@@ -115,22 +115,20 @@ Your concern is order and effectiveness. If you do this while treating everyone 
 
 Sun Tzu combines two pieces of colloquial wisdom in this passage:
 
-* “Hope for the best but plan for the worst”
-* “Failure to plan is planning to fail”
+* “Hope for the best, but plan for the worst.”
+* “Failure to plan is planning to fail.”
 
-When I was a professional boxer, I trained hard for every opponent, regardless of his record. It would be foolish to assume that he was coming to lose just because my opponent had more losses than wins.
-
-***\[Read more about my training routine for*** [***professional boxing matches here***](/boxing-training/)***\]***
+As a professional boxer, I trained hard for every opponent, regardless of his record. It would be foolish to assume he was coming to lose just because my opponent had more losses than wins.
 
 By training hard for my opponent, the worst-case scenario is that I would be prepared to fight well, no matter what he entered the ring with. The best-case scenario is that my opponent would be completely overwhelmed by abilities and preparation.
 
-It doesn’t matter what your plans are. You can increase their likelihood of coming to fruition if you consider how things can go wrong, then devise a method of preventing or mitigating them.
+It doesn’t matter what your plans are. You can increase their likelihood of coming to fruition if you consider how things can go wrong and devise a method to prevent or mitigate them.
 
 Most people only focus on the upside of their plans. They imagine that everything will go well, with only minor resistance. However, anything worth doing tends to sprout a major problem that almost acts as a way to weed out the unprepared and unworthy.
 
-You can make it pretty far if you only focus on preparing for the ways that you won’t make it.
+You can make it pretty far if you only focus on preparing for the ways you won’t.
 
-## How to know who is capable
+## What Sun Tzu says about how to know who is capable
 
 ![sun tzu art of war quotes &quot;Humble words and increased preparations are signs that the enemy is about to advance. Violent language and driving forward as if to the attack are signs that he will retreat.&quot;](/assets/images/posts/how-to-know-who-is-capable.png){: width="810" height="810"}
 
@@ -142,7 +140,7 @@ Talk is cheap. Anyone can do it. Because anyone can say anything, it doesn’t h
 
 They also aren’t doing things if they’re busy talking about doing things. People who have done things like to show that they’ve done things for no reason other than it distinguishes them from talkers.
 
-Here’s another way to look at this: if someone is capable of performing a task, you’ll either have heard about them, or they will show you what they’ve done. They will not just rely on their boasts.
+Here’s another way to look at this: if someone is capable of performing a task, you’ll either have heard about them, or they will show you what they’ve done. They will not just rely on their boasts. This reminds me of a line from the rapper Young Jeezy in his song "This one's for you."
 
 > Had these ni\*\*as tellin’ lies, they just sound true<br>Ni\*\*a if you had it like that I would’ve found you
 >
