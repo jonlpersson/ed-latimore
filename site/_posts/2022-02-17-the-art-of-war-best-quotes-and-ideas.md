@@ -1,7 +1,7 @@
 ---
 date: 2022-02-17 22:19:51 -0500
 article_type: Article
-title: Book summary of The Art of War
+title: What the Art of War teaches about life
 permalink: /art-of-war-book-summary/
 tags:
   - book-quotes-and-summaries
@@ -186,17 +186,15 @@ This is something I learned while getting sober. Putting down the bottle made it
 
 If you take a meta-view of any clash, there are only two factors to consider: you and what stands in your way.
 
-If you know yourself and the obstacle well, there’s no reason you shouldn’t be successful in getting what you want. This is why we study, practice, and prepare. We must simultaneously make ourselves as capable as possible while becoming familiar with the challenge before we face it.
+If you know yourself and the obstacle well, there’s no reason you shouldn’t be successful in getting what you want. This is why we study, practice, and prepare. We must simultaneously make ourselves as capable as possible while becoming familiar with the challenge before we face it. Sun Tzu then goes on to say:
 
 ![sun tzu art of war quotes &quot;To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.&quot;](/assets/images/posts/2-know-thyself.png){: width="810" height="810"}
 
 > To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
 
-When I was a boxer, I used to tell people that I didn’t worry about what the other guy did because I was in control of my training. I knew that if I put supreme effort into my training regimen, sharpening all of my rough edges and systematically eliminating my flaws, I’d be very difficult to beat.
+When I was a boxer, I used to tell people that I didn’t worry about what the other guy did because I was in control of my training. I knew I'd be very difficult to beat if I put supreme effort into my training regimen, sharpening all my rough edges and systematically eliminating my flaws.
 
-Don’t get me wrong: my coach still studied the fighter and prepared me for any of his specific weaknesses, so we pool our resources in that way. I learned of myself. He learned of the opponent. This nearly guaranteed victory.
-
-***\[Read some other lessons I took from boxing here—&gt;***[***48 quotes about boxing from boxing***](/boxing-quotes-from-ed-latimore/)***\]***
+Don’t get me wrong: my coach still studied the fighter and prepared me for his weaknesses, so we pooled our resources that way. I learned of myself, and he learned of the opponent. This nearly guaranteed victory.
 
 The second passage reminds me of something I observed during my chess training.
 
@@ -204,43 +202,47 @@ A chess game is usually won by the person who makes the next to the last mistake
 
 You can do well in life if you focus on reducing the number of mistakes you make. Rather than be brilliant, try to be less stupid.&nbsp; It’s amazing how brilliant you appear if you take this approach.
 
-## The sign of a good plan
+&nbsp;
+
+## The sign of a good plan according to the Art of War
 
 ![sun tzu art of war quotes &quot;Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.&quot;](/assets/images/posts/sign-of-a-good-plan.png){: width="810" height="810"}
 
 > Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting. 3. Thus the highest form of generalship is to balk the enemy’s plans; the next best is to prevent the junction of the enemy’s forces; the next in order is to attack the enemy’s army in the field; and the worst policy of all is to besiege walled cities.
 
-Generally speaking, a good plan maximizes your gains, minimizes your losses, and does so as quickly as possible. Though Sun Tzu is specifically talking about preparation for battle here, we can extrapolate this to other types of contests.
+Generally speaking, a good plan maximizes your gains, minimizes your losses, and does so as quickly as possible. Though Sun Tzu specifically talks about preparation for battle here, we can extrapolate this to other contests.
 
-Ideally, you’d get what you want without having to risk anything at all. While every action is an investment of time, the idea is that you don’t waste too much of it when you go after what you want. Of course, this isn’t usually what happens, but, ideally, we’re trying to approach every time we plan.
+Ideally, you’d get what you want without having to risk anything at all. While every action is an investment of time, the idea is that you don’t waste too much of it when you go after what you want. Of course, this isn’t usually what happens, but ideally, we’re trying to approach every time we plan.
 
-When I first turned pro as a boxer, my coach explained our plan for my development. He used the analogy that developing a fighter was like navigating a boat through a hurricane: you can go through it or you can go around it.
+When I first turned pro as a boxer, my coach explained our plan for my development. He used the analogy that developing a fighter was like navigating a boat through a hurricane: you can go through it, or you can go around it.
 
-If I did everything right, we’d get to take the route around the hurricane. Still, if I had a loss early or marketed myself incorrectly, I’d have to a harder path to development, thus going through the hurricane. Life is a lot like this.
+If I did everything right, we’d get to take the route around the hurricane. Still, if I had a loss early or marketed myself incorrectly, I’d have to go on a harder path to development, thus going through the hurricane. Life is a lot like this.
 
 Achieving your goal is remarkably easy if you plan and execute well. If you just wing it, you will likely find yourself besieging the walls around your goals.
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
-## The use of deception to win
+## Sun Tzu advises the use of deception to win
 
 ![sun tzu art of war quotes &quot;All warfare is based on deception.&quot;](/assets/images/posts/1-use-of-deception-to-win.png){: width="810" height="810"}
 
 > All warfare is based on deception.
 
-Whenever you make an error in execution, it’s either due to bad technique or insufficient information. You can correct bad technique through training, but if you got the incorrect information, then there is a possibility that you have been deceived.
+Whenever you make an error in execution, it’s either due to bad technique or insufficient information. You can correct bad techniques through training, but if you get the incorrect information, then there is a possibility that you have been deceived.
 
-If you can make someone think you have (or don’t have) something that influences their actions, this is a powerful advantage. In this way, you can lull your opponents into situations where they believe they’re strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you’re stronger when the reality is that they’d crush you.
+This is a powerful advantage if you can make someone think you have (or don’t) something that influences their actions. In this way, you can lull your opponents into situations where they believe they’re strong but are weak. Likewise, you can prevent them from making strong moves on to your position because they believe you’re stronger when the reality is that they’d crush you.
+
+Sun Tzu continues with this point by saying:
 
 ![sun tzu are of war quotes &quot;Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.&quot;](/assets/images/posts/2-use-of-deception-to-win.png){: width="810" height="810"}
 
 > Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
 
-Ultimately, the power of deception is that it bends your opponent’s perception of reality to one that more closely aligns with your goals rather theirs. Though we typically frown on outright deception in social and business matters, it’s often used to make others think they have a higher value.
+Ultimately, the power of deception is that it bends your opponent’s perception of reality to one that more closely aligns with your goals rather than theirs. Though we typically frown on outright deception in social and business matters, it’s often used to make others think they have a higher value.
 
-In social and business matters, the best defense against deception is inspection. You aren’t a war and (usually) your life isn’t on the line, so you can dig into appearances so that they don’t fool you.
+In social and business matters, the best defense against deception is inspection. You aren’t in a war, and (usually) your life isn’t on the line, so you can dig into appearances so that they don’t fool you.
 
-## Summary of the best The Art of War Quotes and ideas from military strategy
+## Summary of what the Art of War teaches us about life
 
 1. Know your enemy
 2. The acme of skill is to win battles without fighting
