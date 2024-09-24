@@ -1,5 +1,5 @@
 ---
-date:
+date: 2024-09-23 22:00:00 -0400
 article_type: Article
 title: Self-discipline leads to self-respect
 permalink: /self-discipline-self-respect/
