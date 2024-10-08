@@ -4,7 +4,6 @@ article_type: Article
 title: 37 quotes from Ed Latimore about forgiveness
 permalink: /Ed-latimore-forgiveness-quotes/
 tags:
-  - the-power-of-forgiveness
   - ed-latimore-original-quotes
 categories:
   - Book-Summaries-And-Ed-Latimore-Quotes
@@ -13,13 +12,13 @@ description: >-
   better in the present, and approach the future without trauma and guilt.
 image: /assets/images/thumbnails/forgivenessimage.jpeg
 ---
-The power of forgiveness has changed my life. It's allowed me to repair relationships, cope with childhood trauma, and help others release the emotional weight that was holding them back and down.
+The power of forgiveness has changed my life. It’s allowed me to repair relationships, cope with childhood trauma, and help others release the emotional weight that was holding them back and down.
 
 I was first exposed to the practice and discipline of forgiveness when I stumbled upon The Course in Miracles. This is the same book that Marianne Williamson has based many of her books about forgiving others, letting go of the past, and finding love and inner peace.
 
-I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined by those trespasses. True forgiveness does not even seek an explanation or apology. It recognizes that we're all imperfect and all we can do is try to improve our daily lives.
+I practice forgiveness because it heals me. I believe that forgiveness is the only way to start the healing of the world. Forgiveness allows us to remember that people make mistakes and they should not be defined by those trespasses. True forgiveness does not even seek an explanation or apology. It recognizes that we’re all imperfect and all we can do is try to improve our daily lives.
 
-Because forgiveness is such an important part of my life, I've written several tweets and articles about it on my website. The following is a collection of forgiveness quotes that you can use to recognize and remember the power of forgiveness whenever you are compelled to hold a grudge, seek revenge, or are simply looking for peace.
+Because forgiveness is such an important part of my life, I’ve written several tweets and articles about it on my website. The following is a collection of forgiveness quotes that you can use to recognize and remember the power of forgiveness whenever you are compelled to hold a grudge, seek revenge, or are simply looking for peace.
 
 ## Forgiveness quotes from Twitter
 
@@ -29,13 +28,13 @@ Because forgiveness is such an important part of my life, I've written several t
 >
 > It was just people acting in their own best interests and you were collateral damage.
 >
-> This doesn't make it right, but realizing that you weren't really a specific target is the first step to forgiveness.
+> This doesn’t make it right, but realizing that you weren’t really a specific target is the first step to forgiveness.
 
 ---
 
 ![ed latimore forgiveness quotes &quot;can't make progress if you don't forgive yourself&quot;](/assets/images/posts/cantmakeprogressifyoudontforgiveyourself.png){: width="2160" height="2160"}
 
-> You can't make progress if you're always reliving how you fucked up.
+> You can’t make progress if you’re always reliving how you fucked up.
 >
 > Forgive yourself, let the past die, and get on with making the world a better place.
 
@@ -55,15 +54,15 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ![ed latimore forgiveness quotes &quot;only forgive. never forget&quot;](/assets/images/posts/onlyforgiveneverforget.png){: width="2160" height="2160"}
 
-> I don't believe in "forgive and forget". Only forgive. You still gotta protect ya neck
+> I don’t believe in “forgive and forget”. Only forgive. You still gotta protect ya neck
 
 ---
 
 ![ed latimore forgiveness quotes &quot;I forgive because I'm selfish&quot;](/assets/images/posts/forgivebecauesimselfish.png){: width="2160" height="2160"}
 
-> I forgive because I'm selfish.
+> I forgive because I’m selfish.
 >
-> I don't do it for it the other person.
+> I don’t do it for it the other person.
 >
 > I do it so that I no longer have to think about or feel anything towards my past.
 
@@ -71,17 +70,17 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ![ed latimore quotes forgiveness &quot;not your fault bad things happened&quot;](/assets/images/posts/notyourfaultbadthingshappen-png.png){: width="2160" height="2160"}
 
-> It's not your fault if you were robbed, raped, or victimized.
+> It’s not your fault if you were robbed, raped, or victimized.
 >
 > Bad things will happen to you simply because you exist in the universe with other humans whose desire exceeds their moral character.
 >
-> Sometimes–by birth even–we're just in the wrong place at the wrong time.
+> Sometimes–by birth even–we’re just in the wrong place at the wrong time.
 
 ---
 
 ![ed latimore forgiveness quotes &quot;reliving the past doesn't fix it&quot;](/assets/images/posts/relivingthepastdoesntfixit.png){: width="2160" height="2160"}
 
-> No matter how many times you relive the past… Or how bad you feel about it… You can't change it.
+> No matter how many times you relive the past… Or how bad you feel about it… You can’t change it.
 >
 > Learn to forgive others, the world, and yourself.
 >
@@ -91,17 +90,17 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ![ed latimore forgiveness quotes &quot;you fear the past because you can't forgive yourself&quot;](/assets/images/posts/fearthepastbecauseyoucantforgive.png){: width="2160" height="2160"}
 
-> You fear the past because it reminds you of what you were You fear the present because you don't like who you are You fear the future because you worry you can't change
+> You fear the past because it reminds you of what you were You fear the present because you don’t like who you are You fear the future because you worry you can’t change
 >
 > The problem?
 >
-> You can't forgive your past. You can't accept who you are You won't work for who you want to be
+> You can’t forgive your past. You can’t accept who you are You won’t work for who you want to be
 
 ---
 
 ![ed latimore forgiveness quotes &quot;similar experiences are no guarantee of forgiveness&quot;](/assets/images/posts/similarexperiencesarenoguarantee.png){: width="2160" height="2160"}
 
-> Everyone doesn't emerge from hardship the same way. Some are tougher, some are traumatized, while others are completely broken.
+> Everyone doesn’t emerge from hardship the same way. Some are tougher, some are traumatized, while others are completely broken.
 >
 > Some want to forget, some can forgive, while others burn with hatred ready for revenge.
 >
@@ -119,11 +118,11 @@ Because forgiveness is such an important part of my life, I've written several t
 
 ![ed latimore forgiveness quotes &quot;forgiveness doesn't mean continued association&quot;](/assets/images/posts/forgivenessdoesn-tmeancontinueassociation-1.png){: width="2160" height="2160"}
 
-> Forgiveness doesn't mean you continue to associate with someone.
+> Forgiveness doesn’t mean you continue to associate with someone.
 >
-> It doesn't mean you expect them to change.
+> It doesn’t mean you expect them to change.
 >
-> It means that the wrongs they've committed against you no longer take up space in your heart.
+> It means that the wrongs they’ve committed against you no longer take up space in your heart.
 
 ---
 
@@ -139,7 +138,7 @@ Because forgiveness is such an important part of my life, I've written several t
 
 The more I practice forgiveness, the less I expect others to do it.
 
-My executioners will be men I have pardoned for worse crimes than the ones I'll be judged for.
+My executioners will be men I have pardoned for worse crimes than the ones I’ll be judged for.
 
 Such is burden of those who practice the art of letting go.
 
@@ -161,11 +160,11 @@ Assume something fucked up happened to the offender in childhood to mess them up
 
 ---
 
-Forgiveness doesn't mean you continue to associate with someone.
+Forgiveness doesn’t mean you continue to associate with someone.
 
-It doesn't mean you expect them to change.
+It doesn’t mean you expect them to change.
 
-It means that the wrongs they've committed against you no longer take up space in your heart.
+It means that the wrongs they’ve committed against you no longer take up space in your heart.
 
 ---
 
@@ -177,15 +176,15 @@ All the negativity you carry is because you believe that if you project enough h
 
 ---
 
-People hold a grudge because they genuinely believe that it will undo what's already happened in the past.
+People hold a grudge because they genuinely believe that it will undo what’s already happened in the past.
 
-The universe doesn't work this way.
+The universe doesn’t work this way.
 
 All you have is time and forgiveness. When correctly executed, the latter will accelerate the passage of the former.
 
 ***\[For more my quotes, [follow me on Twitter here](https://twitter.com/EdLatimore){: target="_blank" rel="noopener noreferrer"}.\]***
 
-## Quotes from "How to forgive someone in 5 steps"
+## Quotes from “How to forgive someone in 5 steps”
 
 People more easily hold grudges than forgive trespasses against them. It’s cathartic and feels correct to carry malice towards someone who wronged you. However, the only real way to improve your well-being and find peace is the act of forgiveness.
 
@@ -225,7 +224,7 @@ You have to practice forgiveness because the other person may not even be aware 
 
 We have justice to minimize the need for forgiveness. We have forgiveness to minimize the need for justice. Both are equally important, but justice doesn’t heal trauma.
 
-## Quotes from "How to forgive yourself"
+## Quotes from “How to forgive yourself”
 
 The hardest person to forgive is often ourselves.
 
@@ -259,7 +258,7 @@ You have to make peace with the idea that many people–yourself included–are 
 
 If you get discouraged at yourself for not always having the perfect plan, answer, or course in life, then you’re in for a lot of disappointment.
 
-## Quotes from "How to understand and forgive your parents"
+## Quotes from “How to understand and forgive your parents”
 
 We more easily remember the times our parents let us down and hurt our feelings than the times they went out of their way to make sure that we were provided for.
 
