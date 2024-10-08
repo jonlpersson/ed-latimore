@@ -4,6 +4,7 @@ article_type: Article
 title: How to avoid a street fight, and what to do if you can't
 permalink: /how-to-win-a-street-fight/
 tags:
+    - street-smarts
 description: >-
     The following article may one day save your life. Learn how to avoid a
     street fight and how to win one if you can't get away.
