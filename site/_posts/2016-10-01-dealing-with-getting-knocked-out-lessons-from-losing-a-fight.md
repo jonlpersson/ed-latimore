@@ -4,7 +4,7 @@ article_type: Article
 title: 8 lessons from losing a fight
 permalink: /8-valuable-life-lessons-ive-learned-from-losing-on-national-television/
 tags:
-  - longevity-health-and-performance
+  - boxing
 categories:
   - Reality
 image: /assets/images/posts/ed-knocked-out.jpg
@@ -17,13 +17,13 @@ Many of you witnessed my obnoxious posting about my fight on Showtime last weeke
 
 I’m hoping you had something better to do than watch. Either way, I’ll fill you in. This was my first fight on television, and I got stopped in the 1st round.
 
-Someone is likely to get knocked out whenever you have two men over 200 lbs in a boxing ring. It doesn't matter how sharp your footwork is or how much sparring you had in preparation for the fight. Your fists are wrapped liked a cast and placed into boxing gloves designed to multiply and transmit your force.
+Someone is likely to get knocked out whenever you have two men over 200 lbs in a boxing ring. It doesn’t matter how sharp your footwork is or how much sparring you had in preparation for the fight. Your fists are wrapped liked a cast and placed into boxing gloves designed to multiply and transmit your force.
 
-My opponent (quite the affable fellow outside the ring) landed a tremendous short right over my jab, and the fight was a short night after that. I tried to fight back, but I couldn't recover from the knockdown in enough time to beat the referee's count.
+My opponent (quite the affable fellow outside the ring) landed a tremendous short right over my jab, and the fight was a short night after that. I tried to fight back, but I couldn’t recover from the knockdown in enough time to beat the referee’s count.
 
 Losing fights happens to almost every fighter. When fighters think about fight night, and they let themselves think about the possibility of losing in any of the striking arts (boxing, MMA, or kickboxing), a first-round knockout is the worst-case scenario.
 
-It’s a terrible way to lose, and it was live for the whole world to see. My opponent was simply that better fighter that night. It wasn't even a close fight.
+It’s a terrible way to lose, and it was live for the whole world to see. My opponent was simply that better fighter that night. It wasn’t even a close fight.
 
 Yeah, it’s awful, but it’s part of life. I move on, and I become better from it. Above boxing, my primary purpose in life is to take what I experience the hard way and break it down so that people may learn from it the easy way.
 
@@ -45,7 +45,7 @@ It’s miserable because there is no way to confront or conquer it.
 
 [You can face your fears.](/how-to-overcome-fear/) You can do something to cheer yourself up if you are experiencing sadness.
 
-But embarrassment is just a burden you must bear until it heals. Your self-worth takes a hit, and there's nothing you can do but let it pass.
+But embarrassment is just a burden you must bear until it heals. Your self-worth takes a hit, and there’s nothing you can do but let it pass.
 
 The one fortunate thing about embarrassment is that, like all other negative emotions, it is highly susceptible to the [power of gratitude](/6-reasons-to-be-grateful/).
 
@@ -63,11 +63,11 @@ Some people are. There’s nothing you do about that. But in times of distress, 
 
 It’s impossible to accurately assess your level immediately after you lose, but it is important to figure out where you stand.
 
-You must evaluate yourself and decide whether you merely made a mistake, a different course to the same goal is required, or if it's time to abandon the course altogether.
+You must evaluate yourself and decide whether you merely made a mistake, a different course to the same goal is required, or if it’s time to abandon the course altogether.
 
 Everyone’s path is different, but it’s impossible to know that while you still suffer the emotional effects of the loss.
 
-***(Read: "[48 Ed Latimore Boxing Quotes](/boxing-quotes-from-ed-latimore/)")***
+***(Read: “[48 Ed Latimore Boxing Quotes](/boxing-quotes-from-ed-latimore/)”)***
 
 ## Heaven and Hell represent what happens when you die
 
@@ -93,7 +93,7 @@ Suddenly everything was put into perspective.
 
 There are REAL problems in the world. I took an embarrassing loss on television, which sucks for me, but there are people in the world dealing with the loss of life and liberty for no reason other than they were in the wrong place at the wrong time.
 
-At that point, my mood jumped three levels because I remembered something Randy Couture once told me: “If the worst thing that happens to you in your life is that you lose a fight, then you’re doing alright."
+At that point, my mood jumped three levels because I remembered something Randy Couture once told me: “If the worst thing that happens to you in your life is that you lose a fight, then you’re doing alright.”
 
 ![Ed Latimore with Randy Couture talking about losing a fight](/assets/images/posts/ed-with-randy-cotoure.jpg "Me with Randy Couture after he gave me that life-changing advice.")
 
@@ -117,7 +117,7 @@ I suspect that people take on [self-destructive behavior](/lessons-from-the-ghet
 
 Failure ceases to be a learning opportunity for these people and instead becomes the stake at which they burn themselves. This is another ego trick you must be vigilant against, for your connection with people is the most important thing.
 
-The strongest prophylaxis against this is remembering your relationships with others and the other ways you bring value to the world. Also, don't forget that the world will go on spinning with or without your precious identity intact.
+The strongest prophylaxis against this is remembering your relationships with others and the other ways you bring value to the world. Also, don’t forget that the world will go on spinning with or without your precious identity intact.
 
 ## What you’re afraid of is worse in your imagination than in reality
 
