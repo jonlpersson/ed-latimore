@@ -4,7 +4,7 @@ article_type: Article
 title: Hard work beats talent
 permalink: /hard-work-beats-talent/
 tags:
-  - mental-toughness
+  - hard-lessons
 categories:
   - Reality
 image: /assets/images/posts/ed-in-gym.jpg
@@ -24,7 +24,7 @@ Anything worth having is hard to get. Any game worth winning is naturally going 
 
 Some will have a great deal of talent. Some will have developed their skill. Some will be there by the concentrated power of their will.
 
-If you have to bet on who's going to win, [always bet on the competitor who has the greatest will power, work ethic, and desire to be a winner.](/bet-on-yourself/)
+If you have to bet on who’s going to win, [always bet on the competitor who has the greatest will power, work ethic, and desire to be a winner.](/bet-on-yourself/)
 
 The others may have a head start, but they will not last when things get tough. Talent is used to things being easy and skill counts on things going smoothly.
 
@@ -32,11 +32,11 @@ Only the ones who are willing to work hard are prepared for the rough ride that 
 
 Success takes years–and it may take even longer than that.
 
-Talent doesn't prepare you for the grind. Skill doesn't prepare for the inevitable plateaus you'll endure. The ability to work hard and grind it out when things don't look like they're going to turn out well is why you should always bet on the hard worker.
+Talent doesn’t prepare you for the grind. Skill doesn’t prepare for the inevitable plateaus you’ll endure. The ability to work hard and grind it out when things don’t look like they’re going to turn out well is why you should always bet on the hard worker.
 
-They'll give it their all every time, no matter how skilled they are or how talented the competition is.
+They’ll give it their all every time, no matter how skilled they are or how talented the competition is.
 
-Initial talent makes you look great, at first. You blow by the rest of the field, but eventually, you've gotta face people just like you. These people have talent as well.
+Initial talent makes you look great, at first. You blow by the rest of the field, but eventually, you’ve gotta face people just like you. These people have talent as well.
 
 What separates the merely talented from those who produce results and gain accolades? Work. Hard, disgusting, back-breaking, you never know when the end is coming, work.
 
@@ -56,13 +56,13 @@ My life completely turned around when I stopped believing in the myth of talent 
 
 ## Working hard is a talent
 
-If you have nothing particularly special about your mind or body, you always have the ability to bust your ass. It's amazing what you can accomplish with hard work.
+If you have nothing particularly special about your mind or body, you always have the ability to bust your ass. It’s amazing what you can accomplish with hard work.
 
 The ability to work your ass off is an underrated talent.
 
-We consider talent something special, unique, and largely unteachable. Either you have it or you don't.
+We consider talent something special, unique, and largely unteachable. Either you have it or you don’t.
 
-Maybe you have a genetic tendency for taking on long, tedious work. Even if you don't, working your ass off is a talent you can develop.
+Maybe you have a genetic tendency for taking on long, tedious work. Even if you don’t, working your ass off is a talent you can develop.
 
 Hard work is so valuable because very few people do it.
 
@@ -72,27 +72,27 @@ Even at the highest levels of competition, many competitors never learned how to
 
 ## Fixed vs. Growth Mindset
 
-Smart kids coast through their studies until they encounter [something that isn’t as easy to solve](/problem-solving-process/). Rather than double down their effort, many conclude they simply aren't smart enough to do the work.
+Smart kids coast through their studies until they encounter [something that isn’t as easy to solve](/problem-solving-process/). Rather than double down their effort, many conclude they simply aren’t smart enough to do the work.
 
 They believe their ability is fixed.
 
-Something amazing happens when they believe that their hard work–not their talent–is what's responsible for their success. When students shift to a growth-based mindset and approach problems from this angle, they immediately see improvement.
+Something amazing happens when they believe that their hard work–not their talent–is what’s responsible for their success. When students shift to a growth-based mindset and approach problems from this angle, they immediately see improvement.
 
-This something I've always intuitively suspected, but a slew of scientific research confirms what I've observed for years.
+This something I’ve always intuitively suspected, but a slew of scientific research confirms what I’ve observed for years.
 
-[From a study conducted by Stanford University](https://www.frontiersin.org/articles/10.3389/feduc.2018.00026/full){: target="_blank" rel="noopener noreferrer"} on the impact of an MOOC (Massive Open Online Course) designed "to change students' ideas about mathematics and their own potential and improve their mathematics achievement":
+[From a study conducted by Stanford University](https://www.frontiersin.org/articles/10.3389/feduc.2018.00026/full){: target="_blank" rel="noopener noreferrer"} on the impact of an MOOC (Massive Open Online Course) designed “to change students’ ideas about mathematics and their own potential and improve their mathematics achievement”:
 
-> "Many students hold damaging *fixed* mindsets, believing that their intelligence is unchangeable. When students shift to a *growth* mindset (believing that their intelligence is malleable), their achievement increases."
+> “Many students hold damaging *fixed* mindsets, believing that their intelligence is unchangeable. When students shift to a *growth* mindset (believing that their intelligence is malleable), their achievement increases.”
 
 The growth mindset leads to hard work. The hard worker immediately gets to work on the unpleasant parts of the task and is determined to slog through it in hopes of finding a solution.
 
-The fixed mindset trains you to believe there is no creative solution. Either you know the answer or you don't. Either you can or you can't. But oftentimes, it comes down to whether you'll try or not and how long you'll try before you quit.
+The fixed mindset trains you to believe there is no creative solution. Either you know the answer or you don’t. Either you can or you can’t. But oftentimes, it comes down to whether you’ll try or not and how long you’ll try before you quit.
 
-Students with a growth mindset know they can get better. They believe their ability will grow. This is valuable because it's rare.
+Students with a growth mindset know they can get better. They believe their ability will grow. This is valuable because it’s rare.
 
 ![Carol Dweck Growth Mindset](/assets/images/posts/book-mindset-dweck.jpeg "Carol Dweck Growth Mindset")
 
-This is powerful. It's so powerful that another Stanford researcher Carol S. Dweck, P.h.D believes that making even slight shifts in your mindset from fixed to growth can have a profound impact on your entire life.
+This is powerful. It’s so powerful that another Stanford researcher Carol S. Dweck, P.h.D believes that making even slight shifts in your mindset from fixed to growth can have a profound impact on your entire life.
 
 | From her book \[Mindset: The New Psychology of Success\]({{ '0345472322'&lt;/td&gt;&lt;td&gt;amazon }}): |
 
@@ -108,17 +108,17 @@ The growth mindset is important, but you have to do the work.
 
 Growth is change and change is work. Work is initially unpleasant; especially if it forces you to encounter areas that you consider weak and have avoided developing.
 
-## Hard work beats talent when talent doesn't work hard
+## Hard work beats talent when talent doesn’t work hard
 
-There's a famous inspirational quote about that sums up the idea of "hard work beats talent":
+There’s a famous inspirational quote about that sums up the idea of “hard work beats talent”:
 
-Hard work beats talent when talent doesn't work hard.
+Hard work beats talent when talent doesn’t work hard.
 
-The quote is attributed to Tim Notke, a high school varsity basketball coach. It was made popular by the links of NBA player Kevin Durant and NFL player Tim Tebow. The basic of idea of this motivational quote is that if you don't use work hard along with your natural talents, you'll lose to people with less talent but a much better work ethic.
+The quote is attributed to Tim Notke, a high school varsity basketball coach. It was made popular by the links of NBA player Kevin Durant and NFL player Tim Tebow. The basic of idea of this motivational quote is that if you don’t use work hard along with your natural talents, you’ll lose to people with less talent but a much better work ethic.
 
-Talent fails when work ethic is non-existent, but you can appear to have talent after you put in a lot of hard work. In fact, there is a Chinese saying that I'm particularly fond of:
+Talent fails when work ethic is non-existent, but you can appear to have talent after you put in a lot of hard work. In fact, there is a Chinese saying that I’m particularly fond of:
 
-"After years of hard work, talent may suddenly appear."
+“After years of hard work, talent may suddenly appear.”
 
 ![hard work beats talent when talent doesn't work hard ed latimore](/assets/images/posts/2016/hard-work-beats-talent-when-talent-hardly-works-ed-latimore.jpg "You have to be bad before you can good")
 
@@ -130,11 +130,11 @@ If you have even the smallest amount of talent and want to make your life better
 
 The only talent necessary is the willingness to work harder than anyone else.
 
-There’s always a high demand for people willing to do what others won't. Most people are obsessed with the idea of working smart and saving energy.
+There’s always a high demand for people willing to do what others won’t. Most people are obsessed with the idea of working smart and saving energy.
 
 Become obsessed with working hard.
 
-[Be grateful](/6-reasons-to-be-grateful/) when something doesn't come easy to you.
+[Be grateful](/6-reasons-to-be-grateful/) when something doesn’t come easy to you.
 
 It forces you to learn the value of hard work.
 

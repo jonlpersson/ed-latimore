@@ -4,7 +4,7 @@ article_type: Article
 title: 'Lessons from the ghetto: willingness to fight'
 permalink:
 tags:
-  - hard-lessons
+  - street-smarts
 categories:
   - Reality
 image: /assets/images/posts/projects.jpg
