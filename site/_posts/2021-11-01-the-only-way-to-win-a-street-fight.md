@@ -47,7 +47,7 @@ The usual places come to mind. Clubs, bars, the hood, the block—pretty much an
 
 An ounce of prevention is worth a pound of cure
 
-***\[Developing your street smarts will you how to avoid a bad environment filled with worse people. Read my quick guide on developing your street smarts [here](/how-to-be-street-smart/).\]***
+***\[Developing your street smarts will you how to avoid a bad environment filled with worse people. Read my quick guide on developing your street smarts*** [***here***](/how-to-be-street-smart/)***.\]***
 
 ## Don’t be an asshole
 
@@ -57,7 +57,7 @@ You can stop a lot of bad situations before they start with good manners and a s
 
 Not only let it go, respond with a simple “my bad.” It takes responsibility and sends a clear signal that you’re not looking for trouble. This isn’t a guarantee that the person won’t pursue it, but it does give you an out to avoid a conflict.
 
-***\[In my article about growing up in the hood, I write about the power of good manners and how it’s probably saved my life a few times. [You can read it here](/lessons-from-the-ghetto-willingness-to-fight/).\]***
+***\[In my article about growing up in the hood, I write about the power of good manners and how it’s probably saved my life a few times.*** [***You can read it here***](/lessons-from-the-ghetto-willingness-to-fight/)***.\]***
 
 It’s important to not come off as weak and overly avoidant of a potential conflict.
 
