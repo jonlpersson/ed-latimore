@@ -4,8 +4,7 @@ article_type: Article
 title: 8 secrets to being way more competitive
 permalink: /how-to-be-competitive/
 tags:
-  - longevity-health-and-performance
-  - how-to-control-your-emotions
+  - boxing
 categories:
   - Reality
 image: /assets/images/thumbnails/2021/ed-knocking-out-cam.jpg
@@ -19,7 +18,7 @@ A true competitor is a rare breed.
 
 Feeling good when you cross the finish line first doesn’t make you competitive.
 
-It's what happens during the race that ultimately determines if you're actually a competitor. These are the moments where you learn how to be competitive.
+It’s what happens during the race that ultimately determines if you’re actually a competitor. These are the moments where you learn how to be competitive.
 
 Being a winner doesn’t make you a competitor but being a competitor will eventually make you a winner.
 
@@ -39,13 +38,13 @@ There is no neutrality.
 
 You’re either getting better or you’re getting worse. The competition doesn’t rest and time waits for no man.
 
-Competitive people never dwell on the past. Competitors don't care about past laurels because for them, it was never about the winning. It was about ***competing!***
+Competitive people never dwell on the past. Competitors don’t care about past laurels because for them, it was never about the winning. It was about ***competing!***
 
 Non-competitive people always reference their past success because they care only about winning.
 
 Competitive people rarely reference past accomplishments. The competitor is always looking to the future and how much better he can become.
 
-What you've done is irrelevant. All that matters is what you're going to do.
+What you’ve done is irrelevant. All that matters is what you’re going to do.
 
 All competitors instinctively understand that the moment you rest on your laurels, then it’s the end of your success. There’s always someone trying to surpass you, and many things worth having are acquired in a zero-sum game.
 
@@ -60,11 +59,11 @@ This is the most telling trait of someone who likes to compete rather than just 
 
 A winner just wants to come in first. A competitor wants to test his limits.
 
-It doesn’t matter if they're ahead of the pack or dead last. The most competitive thing I’ve ever seen in sports was the 2007 NFL season where the New England Patriots went undefeated.
+It doesn’t matter if they’re ahead of the pack or dead last. The most competitive thing I’ve ever seen in sports was the 2007 NFL season where the New England Patriots went undefeated.
 
 It wasn’t just winning all the regular season games that made them competitive; whether they were ahead by 28 points or trailing, they played with a fire the NFL has never seen. There was no pulling the quarterback when they were crushing teams by 40 points.
 
-[Tom Brady's competitive spirit](https://www.businessinsider.com/tom-bradys-insane-competitiveness-examples-2017-8#and-former-patriot-dante-stallworth-said-that-brady-would-pay-practice-squad-players-who-intercepted-him-29){: target="_blank" rel="noopener noreferrer"} motivated the team to give 110 percent the whole time.
+[Tom Brady’s competitive spirit](https://www.businessinsider.com/tom-bradys-insane-competitiveness-examples-2017-8#and-former-patriot-dante-stallworth-said-that-brady-would-pay-practice-squad-players-who-intercepted-him-29){: target="_blank" rel="noopener noreferrer"} motivated the team to give 110 percent the whole time.
 
 ![New England Patriots being competitive](/assets/images/posts/220px-Patriotsgiants_031.jpg "Undefeated in the regular season and outscored opponents. 589-274")
 
@@ -72,7 +71,7 @@ There is an old saying: “It’s not whether you win or lose. It’s how you pl
 
 Competitive people still think winning is important, but they are critical of their performance and they take every opportunity to improve it. It doesn’t matter whether they’re smoking the field or woefully behind.
 
-A true competitor always gives 110% of themselves because even if they don’t win, they still care how they play–and finish–the game. If you're struggling to motivate yourself then read up on how to motivate yourself
+A true competitor always gives 110% of themselves because even if they don’t win, they still care how they play–and finish–the game. If you’re struggling to motivate yourself then read up on how to motivate yourself
 
 {% include widgets/summary.html id="Fighters-Mindset" %}
 
@@ -80,9 +79,9 @@ A true competitor always gives 110% of themselves because even if they don’t w
 
 To be competitive, you have to come to grips with a simple truth: **you are only ever competing against yourself**.
 
-Outsiders may compare you to other people, but you can only be the best version of yourself. Everyone is a beginner at some point and there is a journey to make before you're a great master.
+Outsiders may compare you to other people, but you can only be the best version of yourself. Everyone is a beginner at some point and there is a journey to make before you’re a great master.
 
-It’s useless to compare your position on the path to someone else's because they can’t make you better or worse. Only you can.
+It’s useless to compare your position on the path to someone else’s because they can’t make you better or worse. Only you can.
 
 Take stock of the best work you’ve done, content you’ve produced, or performance you put on. Then try to do better than that. There is no better yardstick for measuring how you’re doing now than how you’ve done in the past. Comparing yourself to events or people that you have no control over is an exercise in futility and frustration.
 
@@ -136,11 +135,11 @@ Regardless of how you do it, differentiation will allow you to be more competiti
 
 ## 6) Learn how to lose
 
-If you win against a competitive person, they aren't angry. The loss is bothersome, but it only makes them review their strategy.
+If you win against a competitive person, they aren’t angry. The loss is bothersome, but it only makes them review their strategy.
 
 Emotionally, it’s not the terrible heartbreak it is for non-competitive people. This is because a competitor is focused on the outcome *and* the process.
 
-They want to win, but they're more concerned with being better. Since they aren’t focused exclusively on the outcome of winning, they aren’t as hurt if they lose while giving their best.
+They want to win, but they’re more concerned with being better. Since they aren’t focused exclusively on the outcome of winning, they aren’t as hurt if they lose while giving their best.
 
 In other words, competitors focus on winning the war, even if they lose a few battles along the way. In fact, they understand that to win the important fights, they may have to lose the smaller ones–however painful those losses are.
 

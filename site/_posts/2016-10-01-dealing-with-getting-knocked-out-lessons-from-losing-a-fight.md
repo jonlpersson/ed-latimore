@@ -67,7 +67,7 @@ You must evaluate yourself and decide whether you merely made a mistake, a diffe
 
 Everyone’s path is different, but it’s impossible to know that while you still suffer the emotional effects of the loss.
 
-***(Read: “[48 Ed Latimore Boxing Quotes](/boxing-quotes-from-ed-latimore/)”)***
+***(Read: “***[***48 Ed Latimore Boxing Quotes***](/boxing-quotes-from-ed-latimore/)***”)***
 
 ## Heaven and Hell represent what happens when you die
 
@@ -87,7 +87,7 @@ The morning after the fight, I moped around and felt very bad for myself.
 
 Depressed isn’t quite the feeling I experienced, but I was definitely caught up in my self-pity.
 
-Then I sat down for breakfast in the hotel, and the news was running a segment on the [bombings in Aleppo, Syria](https://en.wikipedia.org/wiki/Aleppo_bombings_&#40;April%E2%80%93July_2016&#41;){: target="_blank" rel="noopener noreferrer"}. Then it followed up with [police shootings in Tulsa, Oklahoma and Charlotte, North Carolina.](https://www.cnn.com/2016/09/22/us/tulsa-charlotte-shooting-protests/index.html){: target="_blank" rel="noopener"} Finally, I learned that [a guy walked into a mall in Washington State and killed five people](https://en.wikipedia.org/wiki/Cascade_Mall_shooting){: target="_blank" rel="noopener"}, one of which was a 16-year old cancer survivor.
+Then I sat down for breakfast in the hotel, and the news was running a segment on the [bombings in Aleppo, Syria](https://en.wikipedia.org/wiki/Aleppo_bombings_&#40;April%E2%80%93July_2016&#41;){: target="_blank" rel="noreferrer noopener"}. Then it followed up with [police shootings in Tulsa, Oklahoma and Charlotte, North Carolina.](https://www.cnn.com/2016/09/22/us/tulsa-charlotte-shooting-protests/index.html){: target="_blank" rel="noopener"} Finally, I learned that [a guy walked into a mall in Washington State and killed five people](https://en.wikipedia.org/wiki/Cascade_Mall_shooting){: target="_blank" rel="noopener"}, one of which was a 16-year old cancer survivor.
 
 Suddenly everything was put into perspective.
 
