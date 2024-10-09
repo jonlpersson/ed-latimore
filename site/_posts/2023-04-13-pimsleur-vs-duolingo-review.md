@@ -4,7 +4,7 @@ article_type: Article
 title: 'Pimsleur vs Duolingo: Choosing the best language learning app'
 permalink: /pimsleur-vs-duolingo-review/
 tags:
-  - chess-math-and-language
+  - learning-languages
 description: >-
   Pimsleur and Duolingo are two popular language-learning apps to help you learn
   a new language. This guide will help you decide which app will work best for
@@ -62,7 +62,7 @@ Founded in 2011, Duolingo was built for the smartphone era, with its user-friend
 
 Duolingo relies heavily on gamification to make learning a new language fun. The app encourages users to accumulate XP (experience points) by completing quizzes and remain consistent by congratulating users on maintaining daily streaks. There’s also a leaderboard feature that allows you to compete with other users on your path to fluency.
 
-While Duolingo has done an excellent job of making learning fun, the one downside is that it only offers little speaking and listening practice. While the app does provide some speaking exercises, it's limited to short phrases and sentences. Plus, the app doesn't offer any feedback on pronunciation, which is a crucial aspect of any language learning program.
+While Duolingo has done an excellent job of making learning fun, the one downside is that it only offers little speaking and listening practice. While the app does provide some speaking exercises, it’s limited to short phrases and sentences. Plus, the app doesn’t offer any feedback on pronunciation, which is a crucial aspect of any language learning program.
 
 ### Pros of Duolingo
 

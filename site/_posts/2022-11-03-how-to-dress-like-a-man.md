@@ -4,8 +4,9 @@ article_type: Article
 title: How to dress like a man (beginner's guide)
 permalink: /how-to-dress-like-a-man/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
+  - Relationships
 image: /assets/images/posts/dress-like-a-man.jpeg
 description: >-
   The way you dress tells a lot about you. These tips will teach you how to
@@ -108,7 +109,7 @@ If you want an all-encompassing guide to being attractive as a man, check out th
 
 Professional tailoring is the best investment you can make if you want your clothing to have the best fit.
 
-Tailors work with all sorts of menswear and outerwear to make sure it's the perfect fit for your body type. It’s the closest thing you can get to clothing that is custom made for you.
+Tailors work with all sorts of menswear and outerwear to make sure it’s the perfect fit for your body type. It’s the closest thing you can get to clothing that is custom made for you.
 
 Quality tailors know how to accentuate everything from your face shape to your hairstyle, and can alter your clothing to make you look taller if you’re on the shorter side.
 

@@ -4,7 +4,7 @@ article_type: Article
 title: Here’s how to mature as a man
 permalink: /how-to-mature-as-a-man/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Reality
 description: >-
@@ -60,7 +60,7 @@ It wasn’t until I was fed up with my own bullshit that I was able to make a re
 
 Immature people are comfortable making excuses for themselves because it’s easier than the realization that you are responsible for having a life you hate. This is called confirmation bias –
 
-taking credit when things go right but passing the blame when they go wrong. <sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+taking credit when things go right but passing the blame when they go wrong. <sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Terrible things do happen. No one gets out of life without trauma but it’s your responsibility to deal with and recover from that trauma – even if you weren’t the cause of it.
 
@@ -140,7 +140,7 @@ Managing money is a lesson most of us learn too late. For example, automating yo
 
 If you don’t make enough to cover your bills and save then do what’s necessary to earn a higher income. That could be anything from learning more skills, getting another job, or starting your own business
 
-Read [This is why you're poor](https://edlatimore.com/stop-being-poor/) for more info.
+Read [This is why you’re poor](https://edlatimore.com/stop-being-poor/) for more info.
 
 ## Go into unfamiliar environments
 
@@ -159,7 +159,7 @@ Here’s how to mature as a man:
 * Become a proactive problem-solver
 * Own everything in your life and environment, starting with yourself
 * Give your parents grace and accept their shortcomings
-* Don't lie to yourself about addiction
+* Don’t lie to yourself about addiction
 * Control your sexual urges before they control you
 * Detach your sense of self-worth from other people liking you
 * Learn to make money work for you

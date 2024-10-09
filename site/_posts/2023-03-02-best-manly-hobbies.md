@@ -4,7 +4,7 @@ article_type: Article
 title: The 18 best manly hobbies
 permalink: /best-manly-hobbies/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Relationships
 description: >-
@@ -28,7 +28,7 @@ Deciding which hobby to pick up is a lot like picking a career or life partner; 
 
 But if you need some inspiration or awareness of the possibilities out there, I’ve created a detailed list of some of the best manly hobbies to explore.
 
-And remember, there’s nothing wrong with abandoning a hobby if it doesn’t seem like a good fit. Time is never wasted when actively challenging yourself to learn and build new skills. With that said, let's dive into 18 popular hobby ideas that you could start today.
+And remember, there’s nothing wrong with abandoning a hobby if it doesn’t seem like a good fit. Time is never wasted when actively challenging yourself to learn and build new skills. With that said, let’s dive into 18 popular hobby ideas that you could start today.
 
 ### Reading books
 

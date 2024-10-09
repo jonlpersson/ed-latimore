@@ -4,7 +4,8 @@ article_type: Article
 title: What happens when you learn to fight (+ benefits)
 permalink: /what-happens-when-you-learn-to-fight/
 tags:
-  - longevity-health-and-performance
+  - street-smarts
+  - boxing
 categories:
   - Reality
 image: /assets/images/thumbnails/ed-warming-up-hitting-the-speedbag.jpg
@@ -54,7 +55,7 @@ He needed the mirror to serve as a reminder of the confidence he had earned with
 
 Mythical level of confidence comes *after* you put the work in.
 
-Renowned psychologist Albert Bandura called “mastery experiences” a fundamental building block for authentic confidence.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+Renowned psychologist Albert Bandura called “mastery experiences” a fundamental building block for authentic confidence.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Learning to fight brings a litany of challenges that you must overcome with your skill, will, and toughness.
 
@@ -76,7 +77,7 @@ Fighters are most vulnerable after getting hurt by a shot. It’s because they�
 
 Most trainers say you’re not a true fighter until you’ve gotten hurt and kept fighting. I go into detail about lessons I learned from getting punched in the face [here](https://edlatimore.com/5-lessons-from-getting-punched-in-the-face/).
 
-Parrying and slipping punches, mixing up your head movement, and maintaining impeccable footwork, while managing your cardio and delivering precise punches with accuracy builds neuroplasticity, coordination, and muscle memory.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Parrying and slipping punches, mixing up your head movement, and maintaining impeccable footwork, while managing your cardio and delivering precise punches with accuracy builds neuroplasticity, coordination, and muscle memory.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 Constantly thinking your way through danger to the point that you can remember your fundamentals and execute, trains you to stay calm and think your way through any real life situation.
 
