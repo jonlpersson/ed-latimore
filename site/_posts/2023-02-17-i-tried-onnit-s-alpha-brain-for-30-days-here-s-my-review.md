@@ -4,7 +4,7 @@ article_type: Review
 title: Alpha Brain Review by Chess Player - Does it really work?
 permalink: /alpha-brain-review/
 tags:
-  - how-to-become-superhuman
+  - performance-enhancement
 categories:
   - Reality
 description: >-
@@ -14,11 +14,11 @@ image: /assets/images/drafts/alpha-brain-memory-and-focus.jpg
 ---
 <!-- x-tinymce/html -->
 
-Hey crew, Ed Latimore here! Hope you're all fighting fit and ready to punch through another day. Okay, let's get into this straight off the ropes: we're diving into something a bit different today.
+Hey crew, Ed Latimore here! Hope you’re all fighting fit and ready to punch through another day. Okay, let’s get into this straight off the ropes: we’re diving into something a bit different today.
 
-I'm talking about Alpha Brain - yeah, you've likely heard about it, right? We've got some serious chat to have about this nootropic, and I'm here to give you the real, no-punches-pulled lowdown. It's time for an honest-to-goodness Alpha Brain review, with all of my experiences and real-deal feedback.
+I’m talking about Alpha Brain - yeah, you’ve likely heard about it, right? We’ve got some serious chat to have about this nootropic, and I’m here to give you the real, no-punches-pulled lowdown. It’s time for an honest-to-goodness Alpha Brain review, with all of my experiences and real-deal feedback.
 
-Strap in tight, people – it's about to get interesting!
+Strap in tight, people – it’s about to get interesting!
 
 ## The experiment I ran for this alpha brain review
 
@@ -26,31 +26,31 @@ Strap in tight, people – it's about to get interesting!
 
 <!-- x-tinymce/html -->
 
-I decided to take on the journey to the world of **Alpha Brain**, a popular nootropic claiming to significantly improve cognitive functions. In other words, it's a supplement to make you super smart and alert. Now, I know you're probably thinking, dude, are you seriously talking about a brain-boosting pill just like those in slickly-marketed commercials?
+I decided to take on the journey to the world of **Alpha Brain**, a popular nootropic claiming to significantly improve cognitive functions. In other words, it’s a supplement to make you super smart and alert. Now, I know you’re probably thinking, dude, are you seriously talking about a brain-boosting pill just like those in slickly-marketed commercials?
 
-Yup, exactly that. But before you start with the eye-rolling, hear me out. This isn't me waxing poetic with empty statements. I want to give you my honest-to-goodness experience as a first-time user. Plus, I gotta tell ya that I'd really done my homework before even considering taking Alpha. After all, who likes going on a wild goose chase, right?
+Yup, exactly that. But before you start with the eye-rolling, hear me out. This isn’t me waxing poetic with empty statements. I want to give you my honest-to-goodness experience as a first-time user. Plus, I gotta tell ya that I’d really done my homework before even considering taking Alpha. After all, who likes going on a wild goose chase, right?
 
 ## What is Alpha Brain?
 
 So, about Alpha Brain. Brought to us by Onnit, this nootropic contains natural ingredients aimed at improving mental speed, memory, and focus. The cool thing about this brain-booster is it doesn’t contain caffeine or gluten, my pals. Yup, you heard it right. Alpha Brain is safe for users who follow a caffeine-free and gluten-free diet.
 
-But don't just take my word for it—do the research. Check out the science behind it, the countless user reviews and their experiences, and weigh the pros and cons. Like any other change you introduce to your system, taking Alpha requires some thought.
+But don’t just take my word for it—do the research. Check out the science behind it, the countless user reviews and their experiences, and weigh the pros and cons. Like any other change you introduce to your system, taking Alpha requires some thought.
 
-I started my Alpha journey with a scoopful of optimism, swearing by the mantra “no pain, no gain”. Taking it was as easy as ABC—just a couple of capsules a day, and voilà, you're part of the Alpha club. The first few days didn’t bring about any earth-shattering results. But, patience, my friend, is the name of the game; the gradual but perceptible improvements in my brain functions eventually surfaced.
+I started my Alpha journey with a scoopful of optimism, swearing by the mantra “no pain, no gain”. Taking it was as easy as ABC—just a couple of capsules a day, and voilà, you’re part of the Alpha club. The first few days didn’t bring about any earth-shattering results. But, patience, my friend, is the name of the game; the gradual but perceptible improvements in my brain functions eventually surfaced.
 
-When it comes to Alpha Brain, or any other nootropic, it's not just about taking a supplement, but what that supplement can do for you. And if it can give your *brain* that extra push without compromising your caffeine-free and gluten-free diet, then it’s all the more power to you.
+When it comes to Alpha Brain, or any other nootropic, it’s not just about taking a supplement, but what that supplement can do for you. And if it can give your *brain* that extra push without compromising your caffeine-free and gluten-free diet, then it’s all the more power to you.
 
 ![Ed Latimore with his son 3 month old that causes sleep deprivation](/assets/images/drafts/ed-and-his-son.jpeg "I'm smiling, but I'm secretly exhausted haha"){: width="400" height="531"}
 
-The rest of this article goes into detail and gives a little background into the supplement, but I'll give you a small spoiler alert:
+The rest of this article goes into detail and gives a little background into the supplement, but I’ll give you a small spoiler alert:
 
 This is one of the best nootropics you can buy that is not a neuropeptide or over-the-counter medication.
 
 Even if you trusted my word enough to buy from that alone, you should still keep reading to learn more about how Alpha Brain supports memory, improves cognitive performance, and increases your mental processing speed of information.
 
-***Though if you do want to trust my word and support the site, I'd love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/ZQKJYk).***
+***Though if you do want to trust my word and support the site, I’d love if you bought it from my links here on the page. It means a lot!—&gt;[Get Alpha Brain here](https://onnit.sjv.io/ZQKJYk).***
 
-I also give you information on the company's history, its founder Marcus Aubrey, and what led him to create Onnit Labs and help thousands improve their physical and mental performance.
+I also give you information on the company’s history, its founder Marcus Aubrey, and what led him to create Onnit Labs and help thousands improve their physical and mental performance.
 
 This is one of the most thorough Onnit Alpha Brain reviews out there. I left no observation or research point unchecked.
 
@@ -80,7 +80,7 @@ Marcus is known for his focus on optimizing human performance. His philosophy is
 
 ![Aubrey Marcus founder of Onnit](/assets/images/drafts/aubrey-marcus.jpeg "Aubrey Marcus training"){: width="183" height="275"}
 
-Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men's Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
+Marcus has also been recognized for his leadership and entrepreneurship. He has been named to the Forbes 30 Under 30 list and featured in numerous media outlets, including Men’s Health, The New York Times, and Entrepreneur. This guy is the real deal in terms of fitness and business.
 
 When I did some more research into Aubrey Marcus, I also discovered he’s a poet and a filmmaker. If there was ever someone you’d consider a “Renaissance Man”, Aubrey Marcus would fit the bill.
 
@@ -120,7 +120,7 @@ The list of Alpha Brain ingredients, its three 3 proprietary blends, and their f
 
 ### Onnit Flow Blend
 
-The Onnit Flow Blend is formulated to promote alpha brain wave production. This is the only nootropic I've seen that claims to be able to do this. This is a powerful marketing tactic, as alpha brain waves are associated with flow state.
+The Onnit Flow Blend is formulated to promote alpha brain wave production. This is the only nootropic I’ve seen that claims to be able to do this. This is a powerful marketing tactic, as alpha brain waves are associated with flow state.
 
 During flow state, the primary brainwaves produced are alpha and theta waves. These brainwaves are associated with a relaxed and focused mental state. The ingredients in the Onnit Flow Blend proprietary mixture help you express the combination alpha and theta waves more easily.
 
@@ -175,19 +175,19 @@ These two ingredients appear to be supplementary to the rest of the primary ingr
 ![Vitamin B6 and Cats Claw Alpha Brain Ingredients](/assets/images/drafts/other-alpha-brain-ingredients.png "Other ingredients that contribute to Alpha Brain"){: width="450" height="600"}
 
 * **Vitamin B6 (Pyridoxine HCI):** One of the key roles of Vitamin B6 is in the production of neurotransmitters serotonin, dopamine, and norepinephrine. By increasing the availability of these neurotransmitters, Vitamin B6 may enhance cognitive function and promote mental alertness and focus. ([Source](https://pubmed.ncbi.nlm.nih.gov/29685187/){: target="_blank"})
-* **Cat's Claw Extract:** Cat's Claw extract is a natural compound that is derived from the bark and roots of the Uncaria tomentosa plant. It has been used traditionally in South American medicine for its anti-inflammatory and immune-boosting properties.Recent research suggests that Cat's Claw extract may also have cognitive benefits. It contains several bioactive compounds, including oxindole alkaloids, which have been shown to improve cognitive function and memory. ([Source](https://www.drlamcoaching.com/blog/cats-claw-and-the-brain/){: target="_blank"})
+* **Cat’s Claw Extract:** Cat’s Claw extract is a natural compound that is derived from the bark and roots of the Uncaria tomentosa plant. It has been used traditionally in South American medicine for its anti-inflammatory and immune-boosting properties.Recent research suggests that Cat’s Claw extract may also have cognitive benefits. It contains several bioactive compounds, including oxindole alkaloids, which have been shown to improve cognitive function and memory. ([Source](https://www.drlamcoaching.com/blog/cats-claw-and-the-brain/){: target="_blank"})
 
-The ingredients in Alpha Brain are safe and effective. With that said, I'm not your doctor. I'm not a doctor at all. None of this is medical advice. Just my experiences.
+The ingredients in Alpha Brain are safe and effective. With that said, I’m not your doctor. I’m not a doctor at all. None of this is medical advice. Just my experiences.
 
-If you're worried before you [pick up some Alpha Brain](https://onnit.sjv.io/ZQKJYk), talk to your physician. Don't just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.](/how-to-get-into-boxing/)
+If you’re worried before you [pick up some Alpha Brain](https://onnit.sjv.io/ZQKJYk), talk to your physician. Don’t just trust some guy on the internet who constantly [talks about crackheads](/crackhead-head-quotes/) and used to get [punched in the face for a living.](/how-to-get-into-boxing/)
 
 ## **My overall experience with Alpha Brain**
 
 I take 2-4 Alpha Brain capsules in the morning on an empty stomach, depending on how much work I have to do and how well I slept the night before. As I write this, my son is a few days shy of 3 months, and as all new parents know, my sleep has been trash.
 
-It takes about 90 minutes for it fully kick in, but you're aware that something is happening within 15 minutes.
+It takes about 90 minutes for it fully kick in, but you’re aware that something is happening within 15 minutes.
 
-Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. I was also better able to study and learn from a loss (the few I had) while on Onnit Alpha Brain.  Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
+Alpha brain has not only helped me stay focused during the day, but I even got my Chess.com rating over 1800 since I’ve been on it. I was also better able to study and learn from a loss (the few I had) while on Onnit Alpha Brain.&nbsp; Considering how much sleep deprivation wrecks your cognitive performance, I consider this improvement.
 
 ![Ed Latimore Chess Rating](/assets/images/drafts/1800-chess-rating.png "Got up to 1800 in my Chess.com rating using Alpha Brain"){: width="1674" height="310"}
 
@@ -203,11 +203,11 @@ This has so far been the primary benefit of Alpha Brain.
 
 Writing is so much easier using Alpha Brain. I suspect it’s a combination of intense focus and the ability to express myself clearly. Using this supplement daily also functioned as “motivation in a bottle.” I had so many ideas clearly produced in my mind and such an urge to do them, I regularly stayed up until 2 in the morning working on them.
 
-I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also not making you feel like you  need to do anything else.
+I can honestly say that this is the first nootropic to make me feel more productive. This is not to say that others I’ve used don’t work, but they’re most effective at making you stay focused on a task. Alpha brain does this while also not making you feel like you&nbsp; need to do anything else.
 
 It’s also worth noting that the brain is primarily producing alpha waves and theta brain waves when in the flow state. These are brain waves primarily associated with a feeling of calm alertness and are most conducive to meditation and feelings of being present.
 
-Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves and mental speed increases [while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
+Interestingly, these are the dominant brain waves in creative work and during an intense chess match. This explains why my chess play improves and mental speed increases&nbsp;[while on Alpha Brain.](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ![Alpha and Theta waves for flow state](/assets/images/drafts/brain-wave-chart-flow-state.png "Alpha and Thea waves are most present during flow state. Pic courtesy of https://www.diygenius.com/"){: width="600" height="323"}
 
@@ -215,7 +215,7 @@ I’d say the biggest payoff for my Spanish is that I could listen to the langua
 
 Anyone who regularly uses a foreign language knows that there is a real limit to how long you can keep the translation efforts going before you need a rest. I found that Alpha brain helped slow the language down and increase the time I could spend before I got lost in translation.
 
-Alpha Brain isn't going to magically boost your memory overnight, but it has a positive effect on information retention, I've noticed from early on. This benefit was especially evident when it came to recalling the vocabulary that I’d learned without doing nearly as much repetition as usual.
+Alpha Brain isn’t going to magically boost your memory overnight, but it has a positive effect on information retention, I’ve noticed from early on. This benefit was especially evident when it came to recalling the vocabulary that I’d learned without doing nearly as much repetition as usual.
 
 Now, I fully recognize this could result from naturally developing a feel for the language, but I’m just reporting my personal experiences on the supplement.
 
@@ -225,7 +225,7 @@ I use an [Oura Ring](https://oura.link/bJ6o__WO) to track my sleep. According to
 
 Deep sleep is a specific phase of sleep where a lot of restorative activity takes place. ([Source](https://www.sleepfoundation.org/stages-of-sleep/deep-sleep))
 
-It's agreed that you need to spend between 13 and 23% of your sleeping time in deep sleep. To put that in perspective, this means that if I got 7 hours of sleep, I should expect to spend 55 and 97 minutes in deep sleep. Well, I'm not getting 7 hours of sleep, but I'm spending well over 97 minutes in deep sleep.
+It’s agreed that you need to spend between 13 and 23% of your sleeping time in deep sleep. To put that in perspective, this means that if I got 7 hours of sleep, I should expect to spend 55 and 97 minutes in deep sleep. Well, I’m not getting 7 hours of sleep, but I’m spending well over 97 minutes in deep sleep.
 
 During deep sleep, a variety of functions take place in the mind and body:
 
@@ -257,15 +257,15 @@ Gorilla Mind Smooth effectively does the same thing and even has an identical in
 
 In comparing the two products, Alpha Brain is closer to a more intense product that the Gorilla Mind company no longer carries, called “Gorilla Mind Rush.” The active ingredient was dimethylaminoethanol (DMAE)**.** Like the ingredients in Alpha Brain, DMAE increases the production of the acetylcholine.
 
-I'll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.](https://onnit.sjv.io/c/2316453/347302/5155)
+I’ll probably continue to use Gorilla Mind Smooth, but Alpha Brain has definitely made its way into my nootropic stack. [Get some here to add it to yours.](https://onnit.sjv.io/c/2316453/347302/5155)
 
 ## Potential side effects, warnings, and disclaimers
 
-Most nootropics have ingredients that lack long term research, but Alpha Brain's ingredient list is doesn't contain anything that's been linked with any side effects. Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
+Most nootropics have ingredients that lack long term research, but Alpha Brain’s ingredient list is doesn’t contain anything that’s been linked with any side effects. Like any nootropic, you may experience jitters. You may also experience trouble sleeping if you take it too late in the day, as acetylcholine does promote wakefulness.
 
 I personally didn’t experience any of these side effects. I’m just reporting on what other people have reported.. In fact, I’m sleeping better now that I’m on it. That may be because of the neuroprotective and neuro-regenerative effects of many of Alpha Brain’s ingredients. It may also be because I don’t take the supplement any later than 9 am.
 
-Also, it's been recommended that you don't take this supplement everyday, as you can build a tolerance, making it far less effective.
+Also, it’s been recommended that you don’t take this supplement everyday, as you can build a tolerance, making it far less effective.
 
 As a disclaimer, I have to state the obvious: if you have any medical condition, you should probably consult your doctor before taking this. This post isn’t medical advice. It’s just my experience with a product.
 
@@ -273,11 +273,11 @@ As a disclaimer, I have to state the obvious: if you have any medical condition,
 
 In the realm of brain health, Alpha Brain shines as a remarkable nootropic supplement. Its emphasis on neural communication and promoting a healthy brain environment sets it apart as a potential aid in preserving cognitive health and combatting cognitive decline.
 
-While no supplement is a magic bullet, Alpha Brain offers a thoughtful combination of ingredients that may support human optimization by fostering a sharper, more focused mind. Whether you're a student, a professional, or someone looking to maintain mental clarity over the years, incorporating Alpha Brain into your regimen could be a step towards unlocking your cognitive potential.
+While no supplement is a magic bullet, Alpha Brain offers a thoughtful combination of ingredients that may support human optimization by fostering a sharper, more focused mind. Whether you’re a student, a professional, or someone looking to maintain mental clarity over the years, incorporating Alpha Brain into your regimen could be a step towards unlocking your cognitive potential.
 
 Remember, though, to maintain a balanced lifestyle with a healthy diet and exercise to reap the full benefits of this supplement.
 
-If this review helped you decide to buy some Alpha Brain, I'd love if you purchased through one of my affiliate links on this page. You can even set it up to be a recurring subscription.
+If this review helped you decide to buy some Alpha Brain, I’d love if you purchased through one of my affiliate links on this page. You can even set it up to be a recurring subscription.
 
 It costs you nothing and helps me out.
 
