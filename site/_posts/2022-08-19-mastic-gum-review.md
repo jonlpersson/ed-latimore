@@ -4,7 +4,7 @@ article_type: Review
 title: I tried mastic gum. Here’s my honest review
 permalink: /mastic-gum-review/
 tags:
-  - longevity-health-and-performance
+  - performance-enhancement
 categories:
   - Reality
 description: >-
@@ -13,7 +13,7 @@ description: >-
   gum.
 image: /assets/images/thumbnails/tin-full-of-mastic-gum-from-greco-gum.JPG
 ---
-***Watch my video review of Greco Gum's mastic gum***
+***Watch my video review of Greco Gum’s mastic gum***
 
 <div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/NhBtqLr4-0Q?si=J3ctDaJzAvSzl9Ml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
 
@@ -33,9 +33,9 @@ Mastic gum is a gum made from the resin of a particular type of mastic tree. Whi
 
 This resin, called Chios masthia, is found in the trunk and branches of the mastic tree (*Pistacia lentiscus* L. *var latifolius Coss* or *Pistacia lentiscus var. Chia*). These trees live for about 100 years, and produce 60 to 250 g per tree of Chios mastia.
 
-The process of harvesting the resin is fairly straightforward. It's extracted from the tree and left to dry until it becomes this natural gum-like material. The process is so simple that the gum has been harvested the same way for over 2,500 years.
+The process of harvesting the resin is fairly straightforward. It’s extracted from the tree and left to dry until it becomes this natural gum-like material. The process is so simple that the gum has been harvested the same way for over 2,500 years.
 
-This is why any supplier of Mastic Gum products will occasionally run out of the product. The raw materials take a little time to extract and produce. Regardless, the process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you've got this natural gum-like material.
+This is why any supplier of Mastic Gum products will occasionally run out of the product. The raw materials take a little time to extract and produce. Regardless, the process of making mastic gum is pretty straightforward – they extract the resin from the tree, let it dry, and then you’ve got this natural gum-like material.
 
 I came across mastic gum after the owner of Greco Gum suggested it. I’d expressed interest in passing that I was looking for ways to define and shape my jawline.
 
@@ -56,11 +56,11 @@ People have been chewing the gum of *Pistacia lentiscus* long before it got that
 
 At this period of human history, oral hygiene was not nearly as developed as it is today. Mastic gum was used as a toothpaste because the natural resin has a pine-like aroma and flavor and is also antibacterial and antiviral.
 
-The word mastic originates from the Greek word "mastichein," meaning "to gnash the teeth." If you want a high-level word to add to your vocabulary, "masticate" is another word for "chewing."
+The word mastic originates from the Greek word “mastichein,” meaning “to gnash the teeth.” If you want a high-level word to add to your vocabulary, “masticate” is another word for “chewing.”
 
-The Greeks didn't know about the antimicrobial activity of this aromatic resin they were chewing (at least not how we understand it now), but its use has persisted for almost three millennia because it works.
+The Greeks didn’t know about the antimicrobial activity of this aromatic resin they were chewing (at least not how we understand it now), but its use has persisted for almost three millennia because it works.
 
-Today, mastic gum is taken as either a power, a capsule, or the old-fashioned way, as chewing gum. I don't understand why anyone would opt to take just the powder or capsule because doing so causes you to miss out on the added benefits of chewing the tough gum but to each their own.
+Today, mastic gum is taken as either a power, a capsule, or the old-fashioned way, as chewing gum. I don’t understand why anyone would opt to take just the powder or capsule because doing so causes you to miss out on the added benefits of chewing the tough gum but to each their own.
 
 Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a natural source with antioxidants and anti-inflammatory properties. Currently, mastic gum is most popular for its jawline-building power but several studies have found it has benefits for digestive health.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup> For example, mastic gum supplements help to kill the helicobacter pylori bacteria which causes stomach ulcers.
 
@@ -68,43 +68,43 @@ Mastic gum is also referred to as Pistacia lentiscus or Chios mastiha. It’s a 
 
 ### Mastic Gum defines your jawline
 
-First, the bad news. Despite what you read on sites about the [power of mewing](https://www.verywellhealth.com/what-is-mewing-5087751) to redefine your jawline and make you more attractive, there isn't much you can do to change facial structure. Your facial type and your genetics set your facial structure.
+First, the bad news. Despite what you read on sites about the [power of mewing](https://www.verywellhealth.com/what-is-mewing-5087751) to redefine your jawline and make you more attractive, there isn’t much you can do to change facial structure. Your facial type and your genetics set your facial structure.
 
-While there is a lot of evidence that actions you take as a child will affect your facial structure, once you're old enough to pay for someone's product that promises to fix your jawline, there isn't much you can do beyond surgery.
+While there is a lot of evidence that actions you take as a child will affect your facial structure, once you’re old enough to pay for someone’s product that promises to fix your jawline, there isn’t much you can do beyond surgery.
 
 The good news is that there is a LOT you can do to maximize the appearance of your jawline.[And mastic contributes significantly to what you can do.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893462/)
 
-The two things you have control over are your level of body fat and the tone of your jaw muscles. It's fairly obvious how chewing mastic gum can help to maximize the latter. It's tough to chew, and it gives you a decent workout. [I know that I feel the muscles in my jaw work](/mastic-gum-review/). This toning can improve your appearance.
+The two things you have control over are your level of body fat and the tone of your jaw muscles. It’s fairly obvious how chewing mastic gum can help to maximize the latter. It’s tough to chew, and it gives you a decent workout. [I know that I feel the muscles in my jaw work](/mastic-gum-review/). This toning can improve your appearance.
 
-As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it's already 19 percent more than you'd burn just sitting there doing nothing.
+As for reducing your body fat, consider this: chewing gum burns 11 calories an hour. That might not seem like much, but it’s already 19 percent more than you’d burn just sitting there doing nothing.
 
-I'm not sure how much harder mastic gum is to chew, but I know it's definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
+I’m not sure how much harder mastic gum is to chew, but I know it’s definitely tougher than a piece of bubblegum. It stands to reason chewing mastic gum uses more energy so while sitting at your computer for an hour, you can also get a workout in that will help you to lose fat.
 
-The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It's best to think of mastic gum as a type of long-term makeup and supplement to exercise. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/))
+The gum has also been shown to increase insulin sensitivity, which will help your body make greater use of body fat for energy. It’s best to think of mastic gum as a type of long-term makeup and supplement to exercise. ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6049696/))
 
-If you're tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.](https://grecogum.com/edlatimore/)
+If you’re tired of chewing sugary pieces of gum that cost almost no energy, rot your teeth, and make it harder for you to lose weight, [pick up a pack of Greco Gum here.](https://grecogum.com/edlatimore/)
 
 ### Mastic gum keeps your teeth clean
 
 The beauty of mastic gum is that it is one of the few natural remedies or dietary supplements that has produced objective scientific evidence of its effects.
 
-Here, we present another benefit reason to chew mastic gum rather than take a mastic gum powder or products containing mastic gum extracts. Oral hygiene and the gum's antibacterial hygiene.
+Here, we present another benefit reason to chew mastic gum rather than take a mastic gum powder or products containing mastic gum extracts. Oral hygiene and the gum’s antibacterial hygiene.
 
 Research indicates that mastic chewing gum possesses antibacterial properties against Helicobacter pylori. [This Japanese study](https://pubmed.ncbi.nlm.nih.gov/12747455/) aimed to explore the potential antiplaque impact of mastic chewing gum.
 
 Chewing mastic gum for a span of 4 hours resulted in a notable reduction in bacterial colonies, a contrast to the placebo gum. The mastic gum group also showed a lower plaque and gingival index than the placebo group.
 
-[Another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281189/) looked at the effect of Mastic Chewing Gum on mutans streptococci, a bacteria known to heighten the risk of tooth cavity formation. During the course of three weeks, participants engaged in the habit of chewing mastic gum thrice daily. At the study's conclusion, researchers noted a reduction in Mutans streptococci levels among the participants.
+[Another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281189/) looked at the effect of Mastic Chewing Gum on mutans streptococci, a bacteria known to heighten the risk of tooth cavity formation. During the course of three weeks, participants engaged in the habit of chewing mastic gum thrice daily. At the study’s conclusion, researchers noted a reduction in Mutans streptococci levels among the participants.
 
 It looks like the ancient Greeks had the right idea. Due to its high levels of antibacterial activity, Mastic chewing gum is a beneficial antiplaque agent in reducing bacterial growth in saliva and plaque formation on teeth.
 
 ## Mastic gum relieves gastrointestinal disorders and distress
 
-Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic's effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
+Administering even modest amounts of mastic gum, as low as 1 mg daily for a span of two weeks, can remarkably expedite the healing of peptic ulcers. [Research has unveiled](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1797732/) mastic’s effectiveness against Helicobacter pylori, a bacteria that has been indicated to form peptic ulcers.
 
-This is also the bacteria responsible for plaque, so it's clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.
+This is also the bacteria responsible for plaque, so it’s clear that mastic gum is an effective natural supplement for batting bacteria. This is good, considering the rising rates of bacteria resistance to antibiotics. Mastic gum has also been effective in treating gastric ulcers and duodenal ulcers because the Helicobacter pylori bacteria also cause those ulcers.
 
-Mastic gum has also proven to be a potent weapon in dealing with acid reflux, heartburn, and indigestion (all symptoms of dyspepsia). It's also been effective at alleviating the symptoms of irritable bowel syndrome (inflammatory bowel disease) and Crohn's disease.
+Mastic gum has also proven to be a potent weapon in dealing with acid reflux, heartburn, and indigestion (all symptoms of dyspepsia). It’s also been effective at alleviating the symptoms of irritable bowel syndrome (inflammatory bowel disease) and Crohn’s disease.
 
 Of particular note, [mastic gum has demonstrated strong anti-inflammatory properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127998/). The mechanism of this alleviation may be interesting to people struggling with systemic inflammation, as a four-week course of mastic gum resulted in a significant decrease of the inflammatory blood markers IL-6 and C-reactive protein.
 
@@ -126,17 +126,17 @@ Furthermore, the potential of mastic essential oil to act preventively and contr
 
 ### Mastic gum can help with allergic asthma&nbsp;
 
-Eosinophils, a type of white blood cell, play a crucial role in the body's response to allergic reactions. These specialized cells are involved in the immune system's defense against parasites and are closely linked to various allergic conditions.
+Eosinophils, a type of white blood cell, play a crucial role in the body’s response to allergic reactions. These specialized cells are involved in the immune system’s defense against parasites and are closely linked to various allergic conditions.
 
-The body's immune system triggers an allergic reaction in response to allergens like pollen, dust mites, or certain foods. Eosinophils are recruited to the affected tissues, releasing inflammatory substances that can contribute to the symptoms of allergies, such as itching, sneezing, and congestion.
+The body’s immune system triggers an allergic reaction in response to allergens like pollen, dust mites, or certain foods. Eosinophils are recruited to the affected tissues, releasing inflammatory substances that can contribute to the symptoms of allergies, such as itching, sneezing, and congestion.
 
-Research has shown that mastic's anti-inflammatory properties extend to allergic reactions involving eosinophils. [A 2010 study](https://pubmed.ncbi.nlm.nih.gov/20855649/) examined the effects of mastic essential oil on eosinophil levels in individuals with asthma, a condition often driven by allergic responses. The study demonstrated that mastic oil helped reduce eosinophil counts, suggesting its potential in alleviating allergic inflammation.
+Research has shown that mastic’s anti-inflammatory properties extend to allergic reactions involving eosinophils. [A 2010 study](https://pubmed.ncbi.nlm.nih.gov/20855649/) examined the effects of mastic essential oil on eosinophil levels in individuals with asthma, a condition often driven by allergic responses. The study demonstrated that mastic oil helped reduce eosinophil counts, suggesting its potential in alleviating allergic inflammation.
 
 ## How often do you use mastic gum?
 
 I treat mastic gum like any other resistance workout. I don’t do it for more than 2-3x a week. You need to rest anyway as you can really feel it working your jawline. Like typical workouts, you’ll need to give it 3-4 weeks before you start to notice any real results.
 
-For me, gym is life. [It's a way to a more stoic, centered life](/how-to-increase-willpower/) and ensuring that I can control my mind, body, and emotions. It also helps me to maintain a level of attractiveness.
+For me, gym is life. [It’s a way to a more stoic, centered life](/how-to-increase-willpower/) and ensuring that I can control my mind, body, and emotions. It also helps me to maintain a level of attractiveness.
 
 ## What I liked about mastic gum
 
@@ -176,9 +176,9 @@ There are many copycats but Greco Gum is the real deal. Like I said before, mast
 
 ## Mastic Gum vs Jawzrsize
 
-Before using mastic gum, I was using Jawzrsize. Jawzrcise is a rubber ball you put in your mouth and bite down on for reps. Compared to mastic gum it works, but it's not something you can do in public without looking like you have a rubber ball in your mouth.
+Before using mastic gum, I was using Jawzrsize. Jawzrcise is a rubber ball you put in your mouth and bite down on for reps. Compared to mastic gum it works, but it’s not something you can do in public without looking like you have a rubber ball in your mouth.
 
-It’s funny, I actually started using that tool to build a stronger chin for boxing. If you’ve ever heard anything about boxing, I'm sure you’ve heard the phrase “He’s got a good chin,” or a “weak chin.” This alludes to how easy it is to knock you out.
+It’s funny, I actually started using that tool to build a stronger chin for boxing. If you’ve ever heard anything about boxing, I’m sure you’ve heard the phrase “He’s got a good chin,” or a “weak chin.” This alludes to how easy it is to knock you out.
 
 The Jawzrcise tool sits at the front of your mouth which works a different muscle group. This is called “incisor-based.” Because you chew mastic gum in the back of your mouth, you work different muscles. This creates “molar-based” training.
 
@@ -196,17 +196,17 @@ Tongue positioning is at the heart of several facial workout regimens because th
 
 **Losing weight**
 
-Losing weight is the first step on any journey to sculpt your body. It won’t give you a stronger jawline but it’ll help provide more contour or contrast to the different areas of your face. Just like abs, you can’t see a muscular face if it's hiding under a layer of fat.
+Losing weight is the first step on any journey to sculpt your body. It won’t give you a stronger jawline but it’ll help provide more contour or contrast to the different areas of your face. Just like abs, you can’t see a muscular face if it’s hiding under a layer of fat.
 
 Weight-training your neck can work the muscles around your neck, but you’ll get a more targeted workout with mastic gum. Training your neck can be beneficial to your health in the long term.
 
 **Neck curl-ups**
 
-Neck curls are like sit ups except you lift your head instead of engaging your core. This is one of many exercises recommended to help people suffering from chronic jaw pain. Like weight-training your neck, over time it can help to build up the muscles in your jaw. However, without resistance, this process could take months or years to give your face the sharp look you're going for.
+Neck curls are like sit ups except you lift your head instead of engaging your core. This is one of many exercises recommended to help people suffering from chronic jaw pain. Like weight-training your neck, over time it can help to build up the muscles in your jaw. However, without resistance, this process could take months or years to give your face the sharp look you’re going for.
 
 ## Would I recommend mastic gum to define your jawline?
 
-For what it does, I’d definitely recommend mastic gum. But if you’re looking for a sugary treat to chop on when you’re bored, this ain't it. A single tin can last you months when used regularly and is fresh for years. Mastic gum is my go-to now for face-building. And Greco Gum is my go-to brand.
+For what it does, I’d definitely recommend mastic gum. But if you’re looking for a sugary treat to chop on when you’re bored, this ain’t it. A single tin can last you months when used regularly and is fresh for years. Mastic gum is my go-to now for face-building. And Greco Gum is my go-to brand.
 
 Chewing mastic gum can help define and tone the jawline over time. As you regularly work the jaw muscles by chewing, they strengthen and become more firm. This can lead to a more chiseled, angular jawline appearance. However, genetics and individual variation affect results.
 
