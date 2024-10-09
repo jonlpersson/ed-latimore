@@ -4,7 +4,7 @@ article_type: Article
 title: Problems growing up with an absent father(and how to fix them)
 permalink: /absent-fathers/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Relationships
 description: >-
@@ -12,7 +12,7 @@ description: >-
   article provides solutions for the children of absent fathers.
 image: /assets/images/drafts/fatherson.jpg
 ---
-Whether you call it a "single-mother household" or a "fatherless home" doesn't change the fact that it's common and sets the kid up for failure. The stats are clear: boys need their fathers, ideally in a loving relationship with their mother.
+Whether you call it a “single-mother household” or a “fatherless home” doesn’t change the fact that it’s common and sets the kid up for failure. The stats are clear: boys need their fathers, ideally in a loving relationship with their mother.
 
 While both boys and girls suffer from a father’s absence, the lack of a father figure results in many legal, intellectual, emotional, and behavioral problems.
 
@@ -131,7 +131,7 @@ This effect is well documented by the statistics.
 * A study using a sample of 1409 rural southern adolescents (851 females and 558 males) aged 11 – 18 years revealed that adolescents in father-absence homes were more likely to report being sexually active compared to adolescents living with their fathers. ([Source](https://experts.arizona.edu/en/publications/the-influence-of-father-absence-on-the-self-esteem-and-self-repor){: target="_blank"})
 * Being raised by a single mother raises the risk of teen pregnancy, marrying with less than a high school degree, and forming a marriage where both partners have less than a high school degree. ([Source](https://www.researchgate.net/publication/240704940_The_Childhood_Living_Arrangements_of_Children_and_the_Characteristics_of_Their_Marriages){: target="_blank"})
 * For girls, father absence in developed societies is consistently associated with earlier maturation, earlier onset of sexual activity, and earlier first childbirth. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
-* For boys, the father's absence is associated with later puberty, later marriage, and earlier reproduction. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
+* For boys, the father’s absence is associated with later puberty, later marriage, and earlier reproduction. ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3297378/){: target="_blank"})
 
 Having a father around seems to provide a protective effect for children against getting into situations that results in promiscuity, poor decision making, and poor outcomes in relationship. This is in addition to serving as a role model for what a man should be and how he should care, for young children.
 
@@ -181,7 +181,7 @@ The second reason is that chess and poker are wonderful for developing some key 
 
 In chess, we learn how to think and deliberate over an action. There is no luck in chance in the sense that there is nothing that influences the game that is beyond your control.
 
-Even a sport like boxing–where one could argue that has the greatest burden of responsibility and least interference of luck–doesn’t have the feature where both participants completely control all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn't happen the next time.
+Even a sport like boxing–where one could argue that has the greatest burden of responsibility and least interference of luck–doesn’t have the feature where both participants completely control all elements of the game. This means that if you lose a chess match, then it’s because you didn’t consider something. It’s up to you to learn from this so that it doesn’t happen the next time.
 
 We learn poker for almost the exact opposite reason.
 
@@ -221,7 +221,7 @@ While you can choose the type of work that you engage in, you do not get to choo
 
 ### Make friendships based on progress
 
-Whether your friends are male or female, rich or poor, or from a balanced or broken home doesn't matter. What matters is that you want to make friends with other ambitious people.
+Whether your friends are male or female, rich or poor, or from a balanced or broken home doesn’t matter. What matters is that you want to make friends with other ambitious people.
 
 Exactly what they’re ambitious about doesn’t matter as long as it doesn’t take advantage of innocent people or break the law.
 

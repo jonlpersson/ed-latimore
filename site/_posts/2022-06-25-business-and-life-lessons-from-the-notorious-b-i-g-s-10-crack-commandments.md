@@ -4,7 +4,7 @@ article_type: Article
 title: Business and life lessons from The Notorious B.I.G. 10 crack commandments
 permalink: /ten-crack-commandments-business-and-life-lessons/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Reality
   - Book-Summaries-And-Ed-Latimore-Quotes
@@ -28,7 +28,7 @@ The first line in The 10 Crack Commandments goes:
 
 On the surface, the song is a how-to manual for being a successful drug dealer. However, the lessons contained in the song don’t just apply to selling crack. For Biggie and other drug dealers like him, crack was everything. Not because they were addicted to it, but because it provided an income and a way of life.
 
-The Ten Crack Commandments is an education in human nature's real, raw, viciousness. The level of street smarts required to survive in an environment like this breeds several lessons for managing competition.
+The Ten Crack Commandments is an education in human nature’s real, raw, viciousness. The level of street smarts required to survive in an environment like this breeds several lessons for managing competition.
 
 I’ve broken down each of the 10 crack commandments so you get the benefits of these hard-earned, deeper lessons about business, human nature, and life without ever having to sell drugs yourself.
 
@@ -36,13 +36,13 @@ I’ve broken down each of the 10 crack commandments so you get the benefits of 
 >
 > —Jadakiss
 
-## Business and life lessons from The Notorious B.I.G.'s 10 crack commandments
+## Business and life lessons from The Notorious B.I.G.’s 10 crack commandments
 
 ![Biggie with the 10 Crack Commandments](/assets/images/drafts/10-crack-commandments-1.jpeg "Biggie with the 10 Crack Commandments"){: width="300" height="300"}
 
 ## 1\. Never let anyone know how much money you have.
 
-> *Rule Number Uno, never let no one know<br>How much dough you hold cause you know<br>The cheddar breed jealousy 'specially<br>If that man fucked up, get yo' ass stuck up*
+> *Rule Number Uno, never let no one know<br>How much dough you hold cause you know<br>The cheddar breed jealousy ‘specially<br>If that man fucked up, get yo’ ass stuck up*
 
 The only thing that will make a person hate you more than doing better than them is if you openly display and celebrate your success.
 
@@ -54,7 +54,7 @@ The scarcity mentality makes a person believe that everything is a zero-sum game
 
 Your victory in life automatically means their defeat–even if you aren’t in the same field. Your continued success activates deeply seeded insecurities about their abilities.
 
-Whether they try to damage you physically, mentally, or emotionally, eventually you’ll “get yo’ ass stuck up” by a hater. They think it's better to beat you outside the game than to try and beat you in competition.
+Whether they try to damage you physically, mentally, or emotionally, eventually you’ll “get yo’ ass stuck up” by a hater. They think it’s better to beat you outside the game than to try and beat you in competition.
 
 It’s best to be secretive about your success until you are in a sufficient position to not be affected by their jealous attacks.
 
@@ -62,13 +62,13 @@ The most dangerous enemies aren’t the ones who openly oppose you. The ones who
 
 ## 2\. Never let anyone know what your next move will be
 
-> *Number 2, never let 'em know your next move<br>Don't you know Bad Boys move in silence and violence?<br>Take it from your highness<br>I done squeezed mad clips at these cats for their bricks and chips*
+> *Number 2, never let ‘em know your next move<br>Don’t you know Bad Boys move in silence and violence?<br>Take it from your highness<br>I done squeezed mad clips at these cats for their bricks and chips*
 
 The element of surprise will always be your greatest advantage.
 
 Regardless of other imbalances in ability, the one who acts first has the greater advantage. The longer it takes the opposition to mount a counter, the more easily you can achieve your objective.
 
-If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6 ***(Read: [How to avoid a street fight and what to do if you can't](/how-to-win-a-street-fight/))***. Also, tell as few people as necessary about your plans. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.
+If it looks like you’re gonna be in a street fight & there’s no way to run, throw the 1st blow. Better to be judged by 12 than carried by 6 ***(Read: [How to avoid a street fight and what to do if you can’t](/how-to-win-a-street-fight/))***. Also, tell as few people as necessary about your plans. This eliminates the possibility of your plans being revealed to your opponents so they can counter you.
 
 Lastly, remember this: Lightning doesn’t strike the same place twice.
 
@@ -82,7 +82,7 @@ Many opportunities only present themselves once. Certain vulnerabilities will no
 
 ## 3\. Trust no one
 
-> *Number 3, never trust no-bo-dy<br>Your moms'll set that ass up, properly gassed up<br>Hoodied and masked up, shit, for that fast buck<br>She be laying in the bushes to light that ass up*
+> *Number 3, never trust no-bo-dy<br>Your moms’ll set that ass up, properly gassed up<br>Hoodied and masked up, shit, for that fast buck<br>She be laying in the bushes to light that ass up*
 
 When you’re young, secrets feel like something you share with friends. The older you get, the more you recognize their value. The fewer people know something, the fewer people you have to worry about telling someone who can thwart your plans.
 
@@ -110,7 +110,7 @@ The more you enjoy what someone else makes, the less time you have to make somet
 
 ## 5\. Don’t mix business and pleasure
 
-> *Number 5, Never sell no crack where you rest at<br>I don't care if they want a ounce, tell 'em bounce!*
+> *Number 5, Never sell no crack where you rest at<br>I don’t care if they want a ounce, tell ‘em bounce!*
 
 The warning here is to never sell drugs where you live because unsatisfied customers and rival drug dealers are likely to seek you out where you sell. If you live where you do business, then not only is your home put in danger, but you also introduce the possibility of collateral damage and innocent bystanders whom you care about getting attacked in a retaliation
 
@@ -126,7 +126,7 @@ A clear line between the two is best for your sanity and boundaries. This goes d
 
 > *Number 6, that goddamn credit? Dead it<br>You think a crackhead paying you back, shit forget it!*
 
-Crackheads are unreliable. They can hustle when they need to get money for crack, but they're still unreliable.
+Crackheads are unreliable. They can hustle when they need to get money for crack, but they’re still unreliable.
 
 ***\[Read: [How to hustle like a crackhead](/how-to-hustle-like-a-crackhead/)\]***
 
@@ -148,11 +148,11 @@ This is the other side of the 10th commandment. Don’t take on debt you can’t
 
 ## 7\. Family/business separation
 
-> *7, this rule is so underrated<br>**Keep your family and business completely separated**<br>Money and blood don't mix like 2 dicks and no bitch<br>Find yourself in serious shit*
+> *7, this rule is so underrated<br>**Keep your family and business completely separated**<br>Money and blood don’t mix like 2 dicks and no bitch<br>Find yourself in serious shit*
 
 This might be the only rule in the 10 crack commandments that people disagree with. First, the rule is pretty straightforward: don’t get the family involved with the business.
 
-People typically think of this situation as not hiring or working with family members. The pushback is that some of the world's most profitable and fulfilling businesses have been started with family members.
+People typically think of this situation as not hiring or working with family members. The pushback is that some of the world’s most profitable and fulfilling businesses have been started with family members.
 
 Working with family typically comes with a type of trust and reliability that you can’t hire and money can’t buy. However, there will be problems if your family isn’t on the same page as you, in terms of ambition, ability, or emotions.
 
@@ -170,7 +170,7 @@ If you have someone you’re close with who is going through a tough time, it mi
 
 This is one of those pieces of advice that reads right out of Niccolo Machiavelli’s classic, The Price. Before you can appreciate the brilliance of this piece of advice, most of you will need some translation.
 
-***\[Read: [Big ideas and quotes from Niccolo Machiavelli's "The Prince"](/the-prince-machiavelli-quotes/)\]***
+***\[Read: [Big ideas and quotes from Niccolo Machiavelli’s “The Prince”](/the-prince-machiavelli-quotes/)\]***
 
 “Jums” is short for “jumbos”. Jumbos are the name for roughly $20 worth of crack. Ironically, Biggie was arrested for breaking this rule in 1991. He was arrested for selling crack cocaine in North Carolina and [spent nine months in jail before making bail.](http://www.nytimes.com/1994/12/18/arts/pop-music-biggie-smalls-rap-s-man-of-the-moment.html){: target="_blank"}
 
@@ -190,7 +190,7 @@ Do everything you can to protect yourself from the inevitable downside and negat
 
 ## 9\. Watch the company you keep
 
-> *Number 9 shoulda been Number 1 to me<br>**If you ain't gettin' bagged stay the fuck from police**<br>If niggas think you snitchin' they ain't trying to listen<br>They be sittin' in your kitchen, waiting to start hittin'*
+> *Number 9 shoulda been Number 1 to me<br>**If you ain’t gettin’ bagged stay the fuck from police**<br>If niggas think you snitchin’ they ain’t trying to listen<br>They be sittin’ in your kitchen, waiting to start hittin’*
 
 Specifically, Biggie is warning that if you are seen around the police and you aren’t getting arrested, then your drug-dealing comrades will think you’ve struck some type of deal and are an informant. They aren’t going to wait around to find out if their suspicions are accurate or not, so from that point on, you’re living on borrowed time.
 
@@ -204,9 +204,9 @@ Suppose you follow this rule in your personal life. In that case, you are far le
 
 ## 10\. Don’t take on debt you can’t handle
 
-> *Number 10, a strong word called consignment<br>**Strictly for live men, not for freshmen**<br>If you ain't got the clientele, say "hell no!"\*<br>Cause they gon' want they money rain sleet hail snow*
+> *Number 10, a strong word called consignment<br>**Strictly for live men, not for freshmen**<br>If you ain’t got the clientele, say “hell no!”\*<br>Cause they gon’ want they money rain sleet hail snow*
 
-If a “plug” or drug supplier has enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give the dealer the product and he will only pay a predetermined fixed price after he's sold it.
+If a “plug” or drug supplier has enough confidence in a dealer, he may give him drugs in a consignment type of deal. What this means is that the supplier will give the dealer the product and he will only pay a predetermined fixed price after he’s sold it.
 
 This is also known as “fronting work” and is also requested by a dealer who is low on money but has the clientele or connections to turn a profit on it after he pays back what he owes the plug.
 
@@ -216,7 +216,7 @@ However, this comes with a danger: if you don’t sell enough of the product to 
 
 This is no different than any other debt you take on.
 
-In the event of a default, the best case scenario is that they don't let you take anymore until you pay it back and demonstrate you can handle your debt responsibly. The worst case scenario is that you still have to pay it back AND you lose your home or car.
+In the event of a default, the best case scenario is that they don’t let you take anymore until you pay it back and demonstrate you can handle your debt responsibly. The worst case scenario is that you still have to pay it back AND you lose your home or car.
 
 Be honest with yourself. If you know that you don’t have the skillset, resources, or the work ethic to pay back a debt, don’t take it out. You may find yourself dealing with even bigger problems had you just remained without.
 

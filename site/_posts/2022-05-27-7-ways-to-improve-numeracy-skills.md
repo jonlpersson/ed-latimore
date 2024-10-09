@@ -4,7 +4,7 @@ article_type: Article
 title: 7 ways to improve numeracy skills
 permalink: /numeracy-skills/
 tags:
-  - chess-math-and-language
+  - math-concepts
 categories:
   - Risk
 description: >-
@@ -12,7 +12,7 @@ description: >-
   Learn how to improve your numeracy skills in this lesson.
 image: /assets/images/drafts/cme4.jpg
 ---
-Numeracy is your ability to use mathematics in the real world. It’s being able to use numerical skills to solve actual real-world problems. I believe that the ability to understand and apply math concepts to real life is a literacy skill that's as important as reading.
+Numeracy is your ability to use mathematics in the real world. It’s being able to use numerical skills to solve actual real-world problems. I believe that the ability to understand and apply math concepts to real life is a literacy skill that’s as important as reading.
 
 Most people have poor numeracy skills. It’s not because they’re bad at math, but because many people had a terrible experience learning math. It’s been my experience that elementary school math teachers tend to lack the numeracy needed to properly develop strong numeracy skills in 6-10-year-olds.
 
@@ -56,7 +56,7 @@ If you’re wondering how to make the general comparison of the size of fraction
 
 ## Learn geometry
 
-When I took geometry in school, we focused on proving theorems. I hope that wasn't (or isn't) your experience with geometry. If it was, I feel for you and I understand why you might look down on geometry.
+When I took geometry in school, we focused on proving theorems. I hope that wasn’t (or isn’t) your experience with geometry. If it was, I feel for you and I understand why you might look down on geometry.
 
 You should have spent more time understanding the spatial relationships between shapes and their representation of mathematical ideas.
 
@@ -74,7 +74,7 @@ Many people are terrified to look at their spending habits. They don’t want to
 
 Budgeting only requires basic math skills, but it’s an area where the quality of your decision-making and data analysis is directly tied to outcomes in your life. You’re able to clearly see why you’re having problems in your life and make decisions based on the numbers you crunched.
 
-***\[Read: [5 reasons why you're broke](/stop-being-poor/)\]***
+***\[Read: [5 reasons why you’re broke](/stop-being-poor/)\]***
 
 This is something that everyone can do and needs to do and does not require any high-level mathematical skills. It can, however, lay the foundation and develop an interest in what is needed to pursue more math education.
 
@@ -84,7 +84,7 @@ Graphs are powerful because they take numbers collected from data and turn them 
 
 Graphs are simple but effective tools for making quick sense of any amount of data.
 
-On the horizontal axis, there is an "independent variable". This is the quantity that does not depend on anything else being measured. On the vertical axis, there is the quantity that correlates to the independent variable, called the “dependent variable”.
+On the horizontal axis, there is an “independent variable”. This is the quantity that does not depend on anything else being measured. On the vertical axis, there is the quantity that correlates to the independent variable, called the “dependent variable”.
 
 On most graphs, everything you see follows this setup. Graphs allow you to correlate the change in two quantities with a visual representation. This is useful for developing the intuition to tell if there’s a relationship between two quantities.
 

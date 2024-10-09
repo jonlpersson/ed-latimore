@@ -4,7 +4,7 @@ article_type: Article
 title: 10 ways for any man to look taller
 permalink: /how-to-look-taller/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Reality
 description: >-
@@ -33,7 +33,7 @@ Some guys scoff at this idea, thinking that they’ll be exposed when they take 
 
 The leader in shoes that make you taller for all sizes is [Conzuri](https://www.conzuri.com/). You discretely and easily add up to 2.5 inches to your height. That is significant enough for any man to change his dating prospects and business opporturnities.
 
-Use discount code "EDWARD25477" to 15% off your order.
+Use discount code “EDWARD25477” to 15% off your order.
 
 #### [Buy shoes to make you taller here at Conzuri](https://www.conzuri.com/)
 
@@ -44,7 +44,7 @@ Losing body fat makes you look taller for two reasons:
 1. Weight reduction decompresses the spine. Depending on how overweight you are, this decompression could result in up to an inch of height gained.
 2. It is easier to have a proper posture when you’re slimmer and it helps one to appear taller after weight loss.
 
-[A research study published by Israeli neurosurgeon Zvi Lidar](https://pubmed.ncbi.nlm.nih.gov/22648024/){: target="_blank" rel="noopener noreferrer"} demonstrates how effective this approach can be in looking taller. The researchers noted that "disc height restoration after weight reduction was significant."
+[A research study published by Israeli neurosurgeon Zvi Lidar](https://pubmed.ncbi.nlm.nih.gov/22648024/){: target="_blank" rel="noopener noreferrer"}&nbsp;demonstrates how effective this approach can be in looking taller. The researchers noted that “disc height restoration after weight reduction was significant.”
 
 They noted an increase of about 2 mm in just one intervertebral disc, between the fourth and fifth lumbar vertebrae. That’s not much in one disk alone, but if those results happen alone all the disks—or even just half—you’re looking at noticeable real height gain of potential 1-3 inches.
 
@@ -94,12 +94,12 @@ They extend the top of your head, and people looking at you wearing the hat will
 
 Depending on the style of the hat, you can gain 1 to 2 inches in appearance of height immediately. This is also a stylish way to look taller and allows you to immediately express yourself creatively as well.
 
-I personally love a good Panama hat or a Driver's Cap. You can't go wrong as a man with either of those two.
+I personally love a good Panama hat or a Driver’s Cap. You can’t go wrong as a man with either of those two.
 
 ![Ed Latimore in driver's cap](/assets/images/drafts/ed-drivers-cap.jpeg "Ed Latimore in driver's cap"){: width="300" height="400"}
 
 * [Collection of Panama Hats](https://amzn.to/3Riu1do){: target="_blank" rel="noopener"}
-* [Collection of Driver's Caps](https://amzn.to/3NFw4VG){: target="_blank" rel="noopener"}
+* [Collection of Driver’s Caps](https://amzn.to/3NFw4VG){: target="_blank" rel="noopener"}
 
 ## Don’t wear belts
 
@@ -108,7 +108,7 @@ Wearing a belt does two things that actively work against making your look talle
 1. They create a horizontal line. Horizontal lines are bad because they make you look wider, which simultaneously makes you look short.
 2. Belts visually divide the body and they draw attention to the lower half of you when that division occurs. This is a subtle trick of the eye that people don’t think about, but it’s the same reason why wearing a hat works. It draws your attention up and slightly exaggerates it. Belts do the same thing but pull your eyesight down.
 
-Obviously, there will be situations where this isn't feasible. If you must wear a belt and try to look taller, get one the same color as your pants.
+Obviously, there will be situations where this isn’t feasible. If you must wear a belt and try to look taller, get one the same color as your pants.
 
 ## Keep the waist button of your jacket above the navel
 
