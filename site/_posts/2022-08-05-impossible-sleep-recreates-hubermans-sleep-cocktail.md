@@ -4,7 +4,7 @@ article_type: Article
 title: Impossible Sleep recreates Huberman's sleep cocktail
 permalink: /impossible-sleep-andrew-huberman-sleep-cocktail/
 tags:
-  - how-to-become-superhuman
+  - performance-enhancement
 categories:
   - Reality
 description: >-
@@ -24,7 +24,7 @@ I mentioned this to my buddy Joel Runyon, and he recommended his product, Imposs
 
 You could just take my word for it and click on the link above, but I’m sure you want to know a little more about this product. Well, I’m happy to educate you about Impossible Sleep and how you can use it to sleep better, age better, and feel ready to face the day, every day.
 
-I also started reading Dan Go's newsletter for High Performers. He puts out some great information on improving your sleep. [You can read his past posts and sign up here.](https://www.dango.co/)
+I also started reading Dan Go’s newsletter for High Performers. He puts out some great information on improving your sleep. [You can read his past posts and sign up here.](https://www.dango.co/)
 
 ***If you decide to try out Impossible Sleep, use promo code Ed20 to get 20% off the first order of a subscription batch you set up.***
 
@@ -63,7 +63,7 @@ Let’s dive deeper into the 3 ingredients of this sleep cocktail. If you don’
 
 ## What is L-theanine and how does it work for sleep?
 
-L-theanine is an amino acid. It is non-mutagenic or non-carcinogenic and well-tolerated. While tea is L-theanine's most common dietary source, it’s also found in mushrooms. In foods, particularly green tea.
+L-theanine is an amino acid. It is non-mutagenic or non-carcinogenic and well-tolerated. While tea is L-theanine’s most common dietary source, it’s also found in mushrooms. In foods, particularly green tea.
 
 L-theanine can cross the blood-brain barrier within 30 minutes of ingestion \[[source](https://www.sciencedirect.com/science/article/pii/S2213453021001324#bib5){: target="_blank"}\], allowing it to work quickly to promote relaxation and facilitates sleep. It accomplishes this in a number of ways:
 
@@ -95,7 +95,7 @@ Magnesium is a element that is responsible for over 300 processes in your body�
 
 Magnesium does not present itself in nature unbonded. As a result, there different forms of magnesium (Magnesium l-threonate, magnesium bisglycinate, magnesium orcitrate were the type recommended by Andrew Huberman to take with the cocktail.) to take with various pros and cons
 
-If you’re interested in a list of the most popular magnesium supplements, here is a great list—&gt;[9 Different Types Of Magnesium, Plus What They're Used For](https://www.mindbodygreen.com/articles/magnesium-supplement-types/){: target="_blank"}
+If you’re interested in a list of the most popular magnesium supplements, here is a great list—&gt;[9 Different Types Of Magnesium, Plus What They’re Used For](https://www.mindbodygreen.com/articles/magnesium-supplement-types/){: target="_blank"}
 
 ### Cortisol and melatonin regulation
 

@@ -4,8 +4,7 @@ article_type: Article
 title: 5 lessons from getting punched in the face
 permalink: /5-lessons-from-getting-punched-in-the-face/
 tags:
-  - living-in-the-hood
-  - longevity-health-and-performance
+  - street-smarts
 categories:
   - Reality
 description: >-
@@ -81,7 +80,7 @@ But by training and competing, you earn the respect of people who have done it a
 
 Getting hit in the face isn’t the only way to prove to yourself that you’re made of something. It’s just the most accessible and the one with an immediate negative feedback mechanism to act as a corrective measure.
 
-But you probably shouldn't get hit in the face too much if you box.
+But you probably shouldn’t get hit in the face too much if you box.
 
 ## You learn the power of respect
 
@@ -121,7 +120,7 @@ Otherwise, you might run into someone who doesn’t mess around, and then you *r
 
 I don’t think getting punched in the face is the BEST or ONLY way to learn these lessons. It’s just that in this modern society, devoid of challenges and obsessed with efficiency and ease, you probably won’t do any of the other things that will develop the grit, resilience, and antifragility that come from taking a righteous crack on the jaw.
 
-Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my article on why it's a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noreferrer noopener"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
+Also, I just want to make myself clear: do not street fight&nbsp;**(**[**read my article on why it’s a bad idea**](https://edlatimore.com/how-to-win-a-street-fight/){: target="_blank" rel="noreferrer noopener"}**)**. To get the feeling of being under intense physical pressure to perform in a primal survival manner, join an MMA, kickboxing, or boxing gym. Once there, train for and take a fight. Don’t just go in for exercise.
 
 That’s a safe, legal, controlled way to get exposure to violence.
 

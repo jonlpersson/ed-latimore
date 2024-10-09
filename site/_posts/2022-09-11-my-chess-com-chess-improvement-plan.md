@@ -4,7 +4,7 @@ article_type: Article
 title: My Chess.com Chess Improvement Plan
 permalink: /chess-improvement-plan/
 tags:
-  - chess-math-and-language
+  - chess
 categories:
   - Reality
 description: >-
@@ -24,7 +24,7 @@ The two ratings on [chess.com](http://chess.com/){: target="_blank"} that I’ll
 
 ### Daily games
 
-Daily chess games offer time controls ranging from 1 to 14 days per move.  So the game could conceivably last for a year (or more) depending on the actual time per move taken by the players and the total number of moves in the course of the game. **My peak rating in the daily games is 1535.**
+Daily chess games offer time controls ranging from 1 to 14 days per move.&nbsp; So the game could conceivably last for a year (or more) depending on the actual time per move taken by the players and the total number of moves in the course of the game. **My peak rating in the daily games is 1535.**
 
 ### Rapid games
 
@@ -34,7 +34,7 @@ According to FIDE, blitz chess is anything with 10 minutes or less per player. U
 
 ## Other considerations and caveats about my chess study plan
 
-An interesting fact worth noting is that for "daily" chess, one can consult books and databases, but not chess engines (for calculating moves) or input/help from humans.  This is a standard rule for most correspondence chess.  For (OTB) chess or any live game (like the rapid style I’ll be training in), using ANY external resource or aid is prohibited.
+An interesting fact worth noting is that for “daily” chess, one can consult books and databases, but not chess engines (for calculating moves) or input/help from humans.&nbsp; This is a standard rule for most correspondence chess.&nbsp; For (OTB) chess or any live game (like the rapid style I’ll be training in), using ANY external resource or aid is prohibited.
 
 I mention this because I hypothesize that my daily rating will not increase at the same rate as my rapid rating because I don’t plan to lean on external resources, though my opponents may. Also, the games take place slower, so I won’t have as many opportunities to increase my rating.
 
@@ -130,7 +130,7 @@ For my opening training, I’ll be using [chess.com](http://chess.com/){: target
 
 I’ll also be using [Chessable.com](http://chessable.com/){: target="_blank"} and its training programs.
 
-Chessable’s MoveTrainer® turns any chess book or videos into a fully interactive course. It figures out what I know and don't know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.
+Chessable’s MoveTrainer® turns any chess book or videos into a fully interactive course. It figures out what I know and don’t know by regularly quizzing me. It then uses the science-based principles of spaced repetition along with implicit and explicit learning to make sure I learn the moves by making and being told what’s correct or not.
 
 ![Ed Latimore using Chessable](/assets/images/drafts/ed-latimore-chessable-sicilian.png "Using Chessable to sharpen my knowledge of the Sicilian Defense as black"){: width="500" height="253"}
 
@@ -180,9 +180,9 @@ Is it when:
 
 These are all different things I’ve read or what the literature suggests. Even [Chess.com](http://chess.com/){: target="_blank"}’s definition—the official website for all things chess—gives a rather nebulous definition of the endgame:
 
-*The end game is****when most of the pieces are off of the board****. There is no definite number of pieces, but it's usually a safe bet to call it the endgame when each player has three pieces (knights, bishops, rooks, queens) or less. Hope this helps!*
+*The end game is****when most of the pieces are off of the board****. There is no definite number of pieces, but it’s usually a safe bet to call it the endgame when each player has three pieces (knights, bishops, rooks, queens) or less. Hope this helps!*
 
-Using a mix of these definitions, I’ve roughly determined the endgame's definition. At the very least, I’ve figured out a definition that will allow me to formulate a study plan and begin to execute the ideas:
+Using a mix of these definitions, I’ve roughly determined the endgame’s definition. At the very least, I’ve figured out a definition that will allow me to formulate a study plan and begin to execute the ideas:
 
 The transition from the middle game to the end game starts when the point totals of both sides are less than 21. The end game is underway when both players have their total points under 11.
 
@@ -215,7 +215,7 @@ Or put differently, I’m going to learn a lot by doing and making mistakes. For
 
 I want to develop a sort of fluency in chess. A person can become fluent in anything. Not just language.
 
-We tend to only think of “fluency” when speaking other languages. Fluency doesn't just apply to language. A person can be fluent in anything. All that matters is the ease and speed with which one can effectively string together the fundamentals of their craft.
+We tend to only think of “fluency” when speaking other languages. Fluency doesn’t just apply to language. A person can be fluent in anything. All that matters is the ease and speed with which one can effectively string together the fundamentals of their craft.
 
 The best way to develop this is through constant practice and drilling of the fundamental components. Better to spend a lot of time on a few key concepts than a little time on a lot.
 
@@ -228,6 +228,6 @@ The best way to develop this is through constant practice and drilling of the fu
 * Opening training
 * Chess game review
 
-I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is [Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}
+I’ll continually update this post as my rating grows and changes. If you’re interested in playing me on [Chess.com](http://chess.com/){: target="_blank"}, my handle is&nbsp;[Ed\_Latimore.](https://www.chess.com/member/ed_latimore){: target="_blank"}
 
 {% include widgets/summary.html id="5-Pillars-Of-Learning-Mastery" %}<br>​​​​​​

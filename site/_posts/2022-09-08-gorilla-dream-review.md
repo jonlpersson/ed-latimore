@@ -4,7 +4,7 @@ article_type: Review
 title: My experience using Gorilla Mode Dream
 permalink: /gorilla-dream-review/
 tags:
-  - how-to-become-superhuman
+  - performance-enhancement
 categories:
   - Reality
 description: >-

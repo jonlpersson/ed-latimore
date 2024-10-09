@@ -4,7 +4,7 @@ article_type: Article
 title: How to become more physically attractive to women
 permalink: /how-to-become-more-physically-attractive-to-women/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Relationships
 image: /assets/images/thumbnails/ed-hands-together-posing-outside.jpg
@@ -66,7 +66,7 @@ A study found that a Body Mass Index (BMI) of 24 yielded the most attractive fac
 
 I’ve also gotten results from [chewing mastic gum to build my jaw muscles](/mastic-gum-review/). This gum is made of thick sap that comes from the mastic tree. This resin is sugar-free, and about ten times harder than any gum you’ve ever chewed.
 
-It strengthens the muscles in your face when you chew it, giving your jaw more contour and definition. It’s not the best tasting gum I've ever tried but it gets results.
+It strengthens the muscles in your face when you chew it, giving your jaw more contour and definition. It’s not the best tasting gum I’ve ever tried but it gets results.
 
 ## Improve your wardrobe
 
@@ -124,7 +124,7 @@ This means handling your hair emergencies.
 
 I realized I was balding one day in my twenties. A friend pointed it out to me so matter-of-factly one day that it hit me like a gut punch. Genetics are undefeated, so I tried out some solutions that gave me results.
 
-Platelet rich plasma (PRP) treatments or [laser cap therapy](/bosley-revitzlizer-272-laser-cap-review/) wasn't commercially available at the time.
+Platelet rich plasma (PRP) treatments or [laser cap therapy](/bosley-revitzlizer-272-laser-cap-review/) wasn’t commercially available at the time.
 
 I started applying minoxidil and finasteride topically since they’re both FDA-approved. These results were OK, but I really turned things around when I decided to get a Follicular Unit Extraction (FUE) transplant.
 

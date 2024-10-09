@@ -4,7 +4,7 @@ article_type: Article
 title: How to dress a muscular male body
 permalink: /how-to-dress-as-a-muscular-man/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Reality
 image: /assets/images/posts/ed-dressed-musclar.png
@@ -26,7 +26,7 @@ Outside of gym clothes, it means ill-fitting shirts and pants you’ll inevitabl
 
 In this guide, you’ll discover the fundamentals of how to dress when you’re muscular.
 
-***This, by the way, is my favorite place to buy shirts. It's high quality material that feels even better than how it looks.—&gt;[Tappered Men'swear](https://taperedmenswear.com?ref=12)***
+***This, by the way, is my favorite place to buy shirts. It’s high quality material that feels even better than how it looks.—&gt;[Tappered Men’swear](https://taperedmenswear.com?ref=12)***
 
 ## Get something that fits
 
@@ -63,7 +63,7 @@ In the beginning, though, you may need to choose neutrals or neutrals with small
 
 The retail business dictates that clothing be standardized to the average body type and size. This saves money on production but hinders your search for flattering attire. Your best bet is to find a clothing brand that makes clothing specifically for muscular men.
 
-Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn't look good. But then I found Tanner Guzy’s course *[Dress Like a Man](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq)* and it changed the way I approached dressing.
+Before I started dressing with intention, I wore baggy shirts and oversized, acid-wash jeans. You couldn’t tell me I didn’t look good. But then I found Tanner Guzy’s course *[Dress Like a Man](https://masculine-style.teachable.com/p/dress-like-a-man1/?affcode=162839_u8ynz5iq)* and it changed the way I approached dressing.
 
 Tanner is a men’s style coach that has a three-principal approach to finding the perfect fit for bigger guys:
 
@@ -71,7 +71,7 @@ Tanner is a men’s style coach that has a three-principal approach to finding t
 * Communication - The silent conversation your style has with others about you
 * Self-perception - The way you view yourself and how your way of dress reflects it
 
-He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [Tapered Men's Fashion.](https://taperedmenswear.com?ref=12)
+He’s also part owner in an up and coming clothing brand, [Kino Clothing](https://kinoclothing.com/password), that has a masculine design created specifically for muscular guys. Another brand I love for muscular men is [Tapered Men’s Fashion.](https://taperedmenswear.com?ref=12)
 
 ## Invest in tapered shirts
 
@@ -81,11 +81,11 @@ Your shirts should be wide in the chest and sleek at the waist. The taper provid
 
 Read my [No BS guide to be a more attractive guy](https://edlatimore.com/how-to-be-an-attractive-man/) to learn exactly how your shirts should fit. Because women overwhelmingly choose guys with muscular physiques,<sup>[2](#fn:2){: .footnote}</sup> I also talk a lot about how attractiveness is more than just about the clothes you wear.
 
-***Again, this is [Tappered Menswear](https://taperedmenswear.com?ref=12) is the single best place to get these types of clothes. It's in the name!.***
+***Again, this is [Tappered Menswear](https://taperedmenswear.com?ref=12) is the single best place to get these types of clothes. It’s in the name!.***
 
 ## Choose pants with thigh room
 
-Large hamstrings and quads are terrorists for slim-fit jeans. If you get them on they either don't fit your waist or get shredded in the process. This leaves men with muscular bodies wearing ridiculously baggy pants.
+Large hamstrings and quads are terrorists for slim-fit jeans. If you get them on they either don’t fit your waist or get shredded in the process. This leaves men with muscular bodies wearing ridiculously baggy pants.
 
 —Think Mase and Diddy in the 90s. No amount of acid wash and ripped-up stylizing can hide ill-fitting pants.
 
@@ -93,7 +93,7 @@ Like tapered shirts, you have to get your pants just right for your unique body 
 
 ## Go for stretchy fabric
 
-Stretchy fabric is more forgiving when it comes to muscle contour. It gives you the ideal athletic fit and you don't have to feel like you’re suffocating in your clothes. Plus, excess fabric can make you look sloppy. But I’d be careful. You can quickly look like you’re thirst-trapping with your muscles or simply trying too hard.
+Stretchy fabric is more forgiving when it comes to muscle contour. It gives you the ideal athletic fit and you don’t have to feel like you’re suffocating in your clothes. Plus, excess fabric can make you look sloppy. But I’d be careful. You can quickly look like you’re thirst-trapping with your muscles or simply trying too hard.
 
 If sophisticated and functional design is what you’re going for, choose a fabric that has some stretch. Stay away from things that are mostly spandex, shiny, or look like compression shirts. Also, you want to be careful with dense fabrics like you find in sweaters and blazers. Bulky fabric can make you look more fat than muscular. Choose a lighter material that moves easily.
 
@@ -103,7 +103,7 @@ I used to think you had to have a ton of money to dress nicely.
 
 I was wrong. I just didn’t know the secrets of better-fitting clothing.
 
-What you find on the market are clothes that fit some places but not others. Or it fits your neck and chest but balloons out at the waist. Or it tapers at the waist but you're bursting your chest buttons before noon.
+What you find on the market are clothes that fit some places but not others. Or it fits your neck and chest but balloons out at the waist. Or it tapers at the waist but you’re bursting your chest buttons before noon.
 
 Getting a tailor sounds like a huge expense but if you’re choosing the right pieces, it’s worth the investment. Plus, depending on where you live, there’s an inexpensive tailor on every corner, often combined with a dry cleaner.
 
@@ -127,7 +127,7 @@ How to dress when you’re muscular:
 
 How you dress says a lot about you but it’s only one piece of the puzzle. Read my articles on [how to be more likable](https://edlatimore.com/how-to-be-likeable/) and [how to stop caring what other people think](https://edlatimore.com/how-to-stop-worrying-about-what-others-think-of-you/) for more tips. You can drastically change your life in a matter of 6 months if you work at it.
 
-***If this article helped you out and you decide to buy something my shirt recommendations, then I'd love if you purchased from the link. I make an affiliate commission on every sale, you get a quality piece of clothing, and you help the site out.***
+***If this article helped you out and you decide to buy something my shirt recommendations, then I’d love if you purchased from the link. I make an affiliate commission on every sale, you get a quality piece of clothing, and you help the site out.***
 
 ***[Tappered Menswear](https://taperedmenswear.com?ref=12)***
 

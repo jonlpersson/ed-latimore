@@ -4,7 +4,7 @@ article_type: Article
 title: My review of the Bosley Revitalizer 272 Laser Cap
 permalink: /bosley-revitzlizer-272-laser-cap-review/
 tags:
-  - longevity-health-and-performance
+  - how-to-stop-balding
 categories:
   - Reality
 description: >-
@@ -26,7 +26,7 @@ In other words, I was falling victim to the dreaded male pattern baldness.
 
 ![I was 33 in these pictures](/assets/images/drafts/losing-hair-early.png "I was 33 in these pictures"){: width="400" height="225"}
 
-I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it doesn't quickly regrow hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
+I tried minoxidil. Maybe it worked. Maybe it didn’t. I’ll never be completely sure because minoxidil is great at stopping hair loss, but it doesn’t quickly regrow hair. I tried oral finasteride for a month, but I stopped after I started to get a painful throbbing in my testicles.
 
 In September 2018, at age 33, I got my first FUE hair transplant. **\[Read my experience and see a timeline of my results here—&gt;[My experience getting an FUE hair transplant](/my-personal-experience-getting-an-fue-hair-transplant/)\]**
 
@@ -73,7 +73,7 @@ This is significant because any topical or chemical hair loss solutions have not
 
 ## Who can use the Bosley Revitalizer 272?
 
-The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"} due to any of the following reasons:
+The [laser treatment device is ideal for men and women suffering from hair loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3944668/){: target="_blank" rel="noopener noreferrer"}&nbsp;due to any of the following reasons:
 
 * Androgenic alopecia
 * Alopecia areata
@@ -83,7 +83,7 @@ The [laser treatment device is ideal for men and women suffering from hair loss]
 * [Chemotherapy](https://www.clinicaltrials.gov/ct2/show/NCT01081106){: target="_blank" rel="noopener noreferrer"}
 * Aging
 
-It's suitable for eople with all hair types. Based on my research, it also appears to be effective in people who are battle alopecia areta, the disease where the immune system attacks the hair follicles. Anyone who wants thicker hair, fuller hair, or healthy hair can try the hair cap or a even a laser comb.
+It’s suitable for eople with all hair types. Based on my research, it also appears to be effective in people who are battle alopecia areta, the disease where the immune system attacks the hair follicles. Anyone who wants thicker hair, fuller hair, or healthy hair can try the hair cap or a even a laser comb.
 
 The Bosley Revitalizer 272 can be used by almost anyone suffering from hair loss, caused hormonally or otherwise.
 
@@ -110,7 +110,7 @@ You can choose to use it for 8 minutes daily or 30 minutes every other day.
 
 ![Controller pad for Bosley Revitalizer 272 cap](/assets/images/drafts/controller-pad-for-revitalizer-cap.jpg "Controller pad for Bosley Revitalizer 272 cap"){: width="300" height="400"}
 
-While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"} On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
+While I doubt anything dangerous would happen if you used it more frequently than this, it wouldn’t speed up the rate of hair restoration, as the [rate of hair growth is a fixed upper limit.](https://www.medicalnewstoday.com/articles/326764){: target="_blank" rel="noopener noreferrer"}&nbsp;On average, hair tends to grow between 0.5 and 1.7 centimeters per month. This is equivalent to around 0.2 to 0.7 inches.
 
 This Bosley Revitalizer is extremely easy to use. You just put the cap on, turn the switch, and let it do its thing.
 
@@ -122,7 +122,7 @@ I get a small, nearly insignificant commission if you purchase from there. This 
 
 You clean the inside of the cap as needed with simple alcohol. I imagine that it will get dirty, but using it right after you shower before putting any conditioners or creams in your hair that for style or aid your hair restoration should keep it clean.
 
-You don't need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.
+You don’t need any special place to store it, though it does come with a nice box and bag emblazoned with the Bosley logo.
 
 ![Box and bag for storage of revitalizer cap](/assets/images/drafts/bosley-box-and-bag-storage.jpg "Box and bag for storage of revitalizer cap"){: width="400" height="300"}
 
@@ -132,12 +132,12 @@ This warranty covers defects in materials and workmanship. If Bosely determines 
 
 ## The final verdict on the Bosley 272 Revitalizer
 
-So far, I'm enjoying the cap. The research is sound, and I'm always looking for things to add to my repertoire of hair maintenance
+So far, I’m enjoying the cap. The research is sound, and I’m always looking for things to add to my repertoire of hair maintenance
 
-For guys who aren't responding well to minoxidil, oral/topical finesteride, or any other chemical treatments, this is a good bet for you, as the light works with your biochemistry.
+For guys who aren’t responding well to minoxidil, oral/topical finesteride, or any other chemical treatments, this is a good bet for you, as the light works with your biochemistry.
 
-For guys who don't have the money for an expensive FUE transplant, this is a reasonable alterative that has a much higher success rate than any other treatment except a hair transplant at a fraction of its cost.
+For guys who don’t have the money for an expensive FUE transplant, this is a reasonable alterative that has a much higher success rate than any other treatment except a hair transplant at a fraction of its cost.
 
-As long as you're not past level 5 on Norwood-Hamilton or level 4 on Ludwig-Savin scale, you have an excellent chance of seeing significant regrowth.
+As long as you’re not past level 5 on Norwood-Hamilton or level 4 on Ludwig-Savin scale, you have an excellent chance of seeing significant regrowth.
 
 [Pick up Bosley Revitalizer 272 right here today!](https://amzn.to/3zGGZur){: target="_blank" rel="noopener"}
