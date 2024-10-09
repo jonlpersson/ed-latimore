@@ -18,7 +18,7 @@ I grew up as a typical stereotype.
 
 I was a black kid, of a single mother, who lived in public housing. And for those of you who don’t know, the public housing system is also known as the hood, the projects, or the ghetto.
 
-***\[Learn more about my experiences in the ghetto here—&gt;[5 things I learned growing up in the projects](/the-projects/)\]***
+***\[Learn more about my experiences in the ghetto here—&gt;***[***5 things I learned growing up in the projects***](/the-projects/)***\]***
 
 From a young age, I saw a lot of violence, drug dealing, substance abuse, neglect, and other behavior that is degrading to the human experience. This is an environment where it’s hard to have hope. That was just the neighborhood I grew up in. My home environment was just as bad.
 
@@ -36,13 +36,13 @@ All of these things come together to form an environment that ruins many lives.
 
 Leo Tolstoy once famously wrote, “All happy families are alike; each unhappy family is unhappy in its own unique way.” What he meant by this is that the things that make a family (and by extension, the children in that family) happy are typically the same. However, when things go wrong, it can be for any number of reasons.
 
-[Adverse child experiences](https://www.ncsl.org/research/health/adverse-childhood-experiences-aces.aspx){: target="_blank" rel="noopener noreferrer"} are potentially traumatic events that occur when someone is a child. These are categorized as neglect, abuse, or general home dysfunction.
+[Adverse child experiences](https://www.ncsl.org/research/health/adverse-childhood-experiences-aces.aspx){: target="_blank" rel="noreferrer noopener"} are potentially traumatic events that occur when someone is a child. These are categorized as neglect, abuse, or general home dysfunction.
 
 ![List of adverse childhood experiences](/assets/images/posts/2022/adverse-childhod-experiences.jpeg "Lists of the types of adverse childhood experiences. Courtesy of Ncsl.org")
 
 When looking at the United States prison population, a recent study shows that 97% of them have had at least one adverse childhood experience, with 78% of them having experienced 4 or more. Compare this to the generation population where only 64% have had at least one adverse childhood experience, with only 15% having experienced 4 or more.
 
-***\[Check out the heartbreaking stats of adult prisoners who suffered through adverse childhood experiences—&gt;[here](https://compassionprisonproject.org/childhood-trauma-statistics/){: target="_blank" rel="noopener noreferrer"}\]***
+***\[Check out the heartbreaking stats of adult prisoners who suffered through adverse childhood experiences—&gt;***[***here***](https://compassionprisonproject.org/childhood-trauma-statistics/){: target="_blank" rel="noreferrer noopener"}***\]***
 
 Even if they don’t even up in prison, we know that victims of childhood trauma are more likely to have lower self-esteem, mental health issues, suffer from obesity, abuse drugs, and suffer financial difficulties in their adult life.
 
@@ -54,7 +54,7 @@ The same water that softens the potato hardens the egg. In a hellish environment
 
 I learned certain lessons in that environment that I couldn’t learn anywhere else. If I had had a normal childhood, I don’t think I would be the person I am today. In fact, I know I wouldn’t.
 
-***\[What I’m describing are street smarts. I wrote how to develop them in this article here—&gt;[8 ways to be more street smart](/how-to-be-street-smart/)\]***
+***\[What I’m describing are street smarts. I wrote how to develop them in this article here—&gt;***[***8 ways to be more street smart***](/how-to-be-street-smart/)***\]***
 
 I don’t want to give you the idea that this environment is somehow the key to success.
 
