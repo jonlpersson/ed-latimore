@@ -4,7 +4,7 @@ article_type: Article
 title: '5 reasons you''re broke: How to stop being poor'
 permalink: /stop-being-poor/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Reality
 image: /assets/images/posts/beingbroke.jpg
@@ -16,13 +16,13 @@ I spent most of my life poor and bad with money because I grew up in poverty.
 
 Growing up in poverty is tough.
 
-I lived on food stamps and government health care. [I didn't even know people were poor](/working-at-a-homeless-shelter/) until I got to high school.
+I lived on food stamps and government health care. [I didn’t even know people were poor](/working-at-a-homeless-shelter/) until I got to high school.
 
 Everyone talks about surviving in an environment with crime and violence, but they often fail to mention something that makes a tremendous difference in your quality of life.
 
 When you grow up in poverty, there are–by definition–no examples of healthy financial habits. Because of where I grew up, I absorbed the same financial habits as everyone around me. Unless I took some drastic steps to learn about money, I was doomed to remain in this environment.
 
-I'm from the ghetto and in the ghetto, everyone is broke.
+I’m from the ghetto and in the ghetto, everyone is broke.
 
 This post is going to teach the worst financial habits I learned growing up and how I broke them.
 
@@ -40,7 +40,7 @@ If there’s an 80/20 reason why you’re broke, it’s because you can’t conc
 
 Poor people stay poor because they can’t imagine a result that is not instantaneously gratifying. The better you are at considering the future, the better you are at planning for it.
 
-The inability to plan for the future is such a strong predictor of your likelihood to remain poor that it's been shown that languages which make the speaker separate from the idea of the future make the speakers more likely to be in debt, overweight, and smoke.
+The inability to plan for the future is such a strong predictor of your likelihood to remain poor that it’s been shown that languages which make the speaker separate from the idea of the future make the speakers more likely to be in debt, overweight, and smoke.
 
 [From a Ted Talk by economist Keith Chen](https://ideas.ted.com/5-examples-of-how-the-languages-we-speak-can-affect-the-way-we-think/){: target="_blank"}:
 
@@ -64,11 +64,11 @@ Of course, he defaulted on the loan and got the car repossessed both times.
 
 There’s nothing wrong with believing you deserve nice things. The problem is when you refuse to do the work to get them and take shortcuts instead.
 
-This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You'll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire what you think you deserve.
+This keeps you poor because not only does this never work, you don’t learn any skills to actually earn nice things. You’ll just sulk, get jealous, live beyond your means or worse, commit a crime to acquire what you think you deserve.
 
 ## 3) You think you know it all
 
-This is the biggest reason I stopped giving useful advice to my family. In case you missed it, I'll tell you a little about myself. I was:
+This is the biggest reason I stopped giving useful advice to my family. In case you missed it, I’ll tell you a little about myself. I was:
 
 * [Born in the projects](/the-projects/)
 * (Effectively) raised by a single parent
@@ -112,7 +112,7 @@ Because I endured 10 weeks of basic training, my life changed and it set me up f
 
 Avoiding discomfort now always causes you to suffer later. Poor people never get this.
 
-## 5) You can't communicate at a basic level for 5 minutes
+## 5) You can’t communicate at a basic level for 5 minutes
 
 Communication is key. It allows you to interact with a majority of the world.
 
@@ -120,9 +120,9 @@ This communication is not about speaking in the same style as the majority. That
 
 What makes a difference is your ability to control your temper and nonverbal cues. If people have said that you look annoyed, you roll your eyes, or you raise your voice when dealing with normal people, you’re probably poor.
 
-If you can't take constructive criticism without losing your temper, there is no way you'll ever become better than what you currently are.
+If you can’t take constructive criticism without losing your temper, there is no way you’ll ever become better than what you currently are.
 
-You’ll likely stay that way because you tell them you don't when people tell you that you do that. Because you know it all, deserve to be talked to like you're special, and it would be uncomfortable to change and become an effective communicator
+You’ll likely stay that way because you tell them you don’t when people tell you that you do that. Because you know it all, deserve to be talked to like you’re special, and it would be uncomfortable to change and become an effective communicator
 
 ### The easiest way to stop being poor
 

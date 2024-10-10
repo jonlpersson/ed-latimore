@@ -4,7 +4,7 @@ article_type: Article
 title: How to hustle like a crackhead
 permalink: /how-to-hustle-like-a-crackhead/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Reality
 image: /assets/images/posts/real-tyrone-biggums-1.jpeg
@@ -18,15 +18,15 @@ description: >-
 
 Most of you have never truly witnessed crackhead hustle.
 
-You've seen the type of hustle that illegal immigrants have when they come to America to make a better life for themselves. I used to eat at a Chinese food restaurant that was owned, managed, and operated by a family of Chinese immigrants.
+You’ve seen the type of hustle that illegal immigrants have when they come to America to make a better life for themselves. I used to eat at a Chinese food restaurant that was owned, managed, and operated by a family of Chinese immigrants.
 
-There were only 3 of them, but they only closed the restaurant on New Year's Day. The other 364 days of the year were hustle days.
+There were only 3 of them, but they only closed the restaurant on New Year’s Day. The other 364 days of the year were hustle days.
 
-This is how you set your family up for a better life in the future. This is noteworthy, but it's nothing compared to crackhead hustle.
+This is how you set your family up for a better life in the future. This is noteworthy, but it’s nothing compared to crackhead hustle.
 
-You've seen the type of hustle that your favorite motivational guru says changed his life and will change yours too if you do the same. I changed my life by cutting out all the bullshit from life, going "monk mode", and going from making $9.28/hr to $10k/month online in 4 years.
+You’ve seen the type of hustle that your favorite motivational guru says changed his life and will change yours too if you do the same. I changed my life by cutting out all the bullshit from life, going “monk mode”, and going from making $9.28/hr to $10k/month online in 4 years.
 
-This is inspiring to anyone on a quest for a better life. This is inspiring, but it's nothing compared to crackhead hustle.
+This is inspiring to anyone on a quest for a better life. This is inspiring, but it’s nothing compared to crackhead hustle.
 
 {% include widgets/cta-email.html %}
 
@@ -34,11 +34,11 @@ This is inspiring to anyone on a quest for a better life. This is inspiring, but
 
 To be a crackhead, you must smoke crack. This much is obvious, but one thing that [many people fail to appreciate](/6-reasons-to-be-grateful/) is what that statement \*really \*means.
 
-I'll repeat it in case you missed.
+I’ll repeat it in case you missed.
 
 ***To be a crackhead, you must smoke crack.***
 
-I'm not telling you to go smoke crack to get crackhead hustle. We'll break down how to get the benefits of being a crackhead without smoking crack, but we have to first address something that a lot of people forget.
+I’m not telling you to go smoke crack to get crackhead hustle. We’ll break down how to get the benefits of being a crackhead without smoking crack, but we have to first address something that a lot of people forget.
 
 Crackheads give up dignity, sanity, and in many cases, freedom. In exchange for the high that comes from smoking crack. They want to experience this high so much that they will stay up for days on end–working odd jobs, doing odd things, and chasing dealers around the city–so they can smoke crack.
 
@@ -46,13 +46,13 @@ Crackheads give up dignity, sanity, and in many cases, freedom. In exchange for 
 
 [The best crack high barely lasts 20 minutes](https://www.lastresortrecovery.com/addiction-blog/how-long-does-a-cocaine-high-last/){: target="_blank" rel="noopener"} and the come down off the high is like being dragged through the depths of hell. This is when crackheads realize that they have made a deal with the devil.
 
-They get incredible stamina, toughness, and bouts of euphoria in exchange for exile to the fringes of society, loss of their dignity, and now they're slaves to crack.
+They get incredible stamina, toughness, and bouts of euphoria in exchange for exile to the fringes of society, loss of their dignity, and now they’re slaves to crack.
 
 ![Smoking crack for the crackhead hustle](/assets/images/posts/smoking-crack.jpg "Gearing up for the crackhead work ethic")
 
 If you doubt this, remember:
 
-Your typical crack habit can [cost over $200 per day.](https://www.vice.com/en_us/article/nn9p3k/the-cost-of-being-a-drug-addict-in-canada){: target="_blank" rel="noopener"} That works out to $6,000/mo. Your typical crackhead is not holding down a six-figure job. They don't let a lack of sufficient funds keep them from getting high.
+Your typical crack habit can [cost over $200 per day.](https://www.vice.com/en_us/article/nn9p3k/the-cost-of-being-a-drug-addict-in-canada){: target="_blank" rel="noopener"} That works out to $6,000/mo. Your typical crackhead is not holding down a six-figure job. They don’t let a lack of sufficient funds keep them from getting high.
 
 Crackheads just get up, figure out how to get money, and continue to pay the cost to be the crackhead boss. This means that a crackhead *\*\*always \*\**pays the toll.
 
@@ -66,7 +66,7 @@ Everyone talks a big game about working hard, but that’s all a lot of it is: t
 
 It’s just talk because it’s easier to speak about the moves you’re going to make than it is to actually make those moves. In the social media era, you can feel accomplished by discussing your plans on Facebook and getting a flood of likes and supportive comments.
 
-You got all the accolades and attention without ever executing or accomplishing anything. You didn't even follow the rules.
+You got all the accolades and attention without ever executing or accomplishing anything. You didn’t even follow the rules.
 
 \[I broke down the [10 Crack Commandments in this post.\]](/ten-crack-commandments-business-and-life-lessons/)
 
@@ -100,15 +100,15 @@ If someone becomes a crackhead, they’ve committed to smoking crack. They aren�
 
 Your problem is that you want it both ways. You want all the accolades of hard work without actually having to work hard. [Hard work is unpleasant](/hard-work-beats-talent/). This is why most people don’t do it. This is also why most people don’t get what they want out of life.
 
-Whatever you want, you gotta be willing to pay the price. Crackheads want to get high. Crackheads are terrible at holding a job, so they don't have money to get high every day, but they damn sure figure it out.
+Whatever you want, you gotta be willing to pay the price. Crackheads want to get high. Crackheads are terrible at holding a job, so they don’t have money to get high every day, but they damn sure figure it out.
 
-You won't stay a crackhead very long if you don't embrace the crackhead hustle. You won't be able to afford it!
+You won’t stay a crackhead very long if you don’t embrace the crackhead hustle. You won’t be able to afford it!
 
 ## Do You Want It As Bad As A Crackhead Wants Crack?
 
 When I talk about crackhead hustle and crackhead motivation, I always have a few people chime in that crackheads have that type of dedication because they’re addicted to crack.
 
-The crux of their argument is that addiction doesn't count as work ethic because the addict has no choice. A crackhead must either satisfy their fix or die (or at least the withdrawal makes them wish they were dead) trying.
+The crux of their argument is that addiction doesn’t count as work ethic because the addict has no choice. A crackhead must either satisfy their fix or die (or at least the withdrawal makes them wish they were dead) trying.
 
 This is true. It’s no stretch to say that their addiction is so fierce that they are willing to give up everything to satisfy it. However, this is the point.
 
@@ -135,9 +135,9 @@ The irony of Lindell getting off drugs is that it demonstrates another hallmark 
 
 Do not underestimate the dedication involved in this action. The critics of my message about “not getting out-hustled by a crackhead” do have a point: the addiction is the source of the crackhead’s motivation, and that addiction is powerful. It’s not infallible, but it is formidable.
 
-Lindell overcame this formidable power because he wanted something more than crack ***as bad*** as he wanted crack. It’s ironic that one of the best examples of the crackhead hustle mindset is demonstrated by people who successfully stop using crack. They want sobriety more than the drug and thus, they're able to leave the drug behind.
+Lindell overcame this formidable power because he wanted something more than crack ***as bad*** as he wanted crack. It’s ironic that one of the best examples of the crackhead hustle mindset is demonstrated by people who successfully stop using crack. They want sobriety more than the drug and thus, they’re able to leave the drug behind.
 
-## What Is Your "Crack"?
+## What Is Your “Crack”?
 
 ![The power of crackrocks](/assets/images/posts/crack-addiction-treatment.jpg "What is important enough that you get addicted to it?")
 
@@ -145,7 +145,7 @@ There’s a popular motivational clip on the internet by Reverend Eric Thomas te
 
 The boy has his head held underwater and fights for air. Finally, when he breaks free of his master’s grip, the master tells the boy, “You have to want success as badly as you want to breathe.”
 
-You have to want something so badly that it becomes your all-consuming focus. The boy's “crack” in Reverend Thomas' story was air. Fortunately, our nervous system doesn’t allow us to just by idly when something threatens our well-being. As a result, the boy fought for air.
+You have to want something so badly that it becomes your all-consuming focus. The boy’s “crack” in Reverend Thomas’ story was air. Fortunately, our nervous system doesn’t allow us to just by idly when something threatens our well-being. As a result, the boy fought for air.
 
 What will make you fight for something you want out of life that is *not* vital for your survival?
 
@@ -155,13 +155,13 @@ Author James Altucher [has a great quote concerning motivation in this context.]
 
 For example, let’s say that you decide to start working out. A good reason for doing that is to be in optimal health. The real reason is that you want to look good naked. When you harness the real reason for doing something, you harness your crackhead work ethic.
 
-## Don't Smoke Crack, But Be Like The Crackhead
+## Don’t Smoke Crack, But Be Like The Crackhead
 
-I’m not telling you to smoke crack. I’m just telling you that it's a decision that crackheads make. This decision costs them something. But what they get from it, they think is worthwhile.
+I’m not telling you to smoke crack. I’m just telling you that it’s a decision that crackheads make. This decision costs them something. But what they get from it, they think is worthwhile.
 
 It may ruin their life, but crack is that important to a crackhead. This is the exchange that this dedication requires.
 
-What's so important that you're willing to do the same? You'll have unlocked the secret to your crackhead hustle when you find it.
+What’s so important that you’re willing to do the same? You’ll have unlocked the secret to your crackhead hustle when you find it.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
