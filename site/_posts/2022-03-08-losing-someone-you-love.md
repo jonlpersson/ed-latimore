@@ -1,7 +1,7 @@
 ---
 date: 2022-03-08 10:00:47 -0500
 article_type: Article
-title: How to cope with losing someone you love
+title: Dealing with the death of a relative
 permalink: /losing-someone-you-love/
 tags:
   - building-family-relationships
@@ -56,9 +56,9 @@ And you know by now isolation is a gateway to addiction with stress and hard emo
 
 Often we don’t reach out because we feel we should be strong enough to handle it on our own. Or you might feel your grief will be a burden to others.
 
-That said, if someone is trying to help, let them. Even if it's buying you food. Let them help.
+That said, if someone is trying to help, let them. Even if it’s buying you food. Let them help.
 
-## Don’t mourn the loss before they're gone
+## Don’t mourn the loss before they’re gone
 
 In the months leading up to my mother’s passing, I got to spend one to two hours a day in the hospital with her. It was time I feel grateful to have. Time I recognize most people don’t get.
 
@@ -101,7 +101,7 @@ Grief manifests in many forms with everyone having a different grief experience.
 * Aches and pains
 * Weight loss/gain
 
-## Recognize if you're not dealing with it
+## Recognize if you’re not dealing with it
 
 There is a medical term to describe grief that lingers and becomes almost a delusion for the person experiencing it called complicated grief.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> It ranges from being unable to resume any life activities to being in complete denial that your loved one is gone.
 

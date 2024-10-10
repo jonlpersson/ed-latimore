@@ -4,7 +4,7 @@ article_type: Article
 title: How to build resilience (a stoic perspective)
 permalink: /how-to-build-resilience-in-life/
 tags:
-  - change-your-perspective
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -14,7 +14,7 @@ image: /assets/images/thumbnails/ed-with-arms-crossed.jpg
 ---
 “You have power over your mind – not real outside events. Realize this, and you will find strength.”
 
-That’s a Marcus Aurelius quote that applies to absolutely any of life's challenges you or I might come across. A man that can build resilience can face his challenges and look at them for what they are, rather than letting it break him.
+That’s a Marcus Aurelius quote that applies to absolutely any of life’s challenges you or I might come across. A man that can build resilience can face his challenges and look at them for what they are, rather than letting it break him.
 
 Like a group of muscles isn’t built overnight, you don’t build mental and emotional resilience without a lot of sweat, trial and error, and gut checks that require you to answer how badly you want it.
 
@@ -64,7 +64,7 @@ Developing the habit of taking action and discomfort can’t rob you of your res
 
 Taking action when you don’t want to is difficult if you have a lifetime of doing the opposite. This habit of avoidance began in childhood for many people.
 
-The Aspen Institute found in a study that most kids today play sports for 3 years or less and quit by the time they turn 11.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
+The Aspen Institute found in a study that most kids today play sports for 3 years or less and quit by the time they turn 11.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>{: id="fnref:1" role="doc-noteref"}
 
 According to the study, most kids’ reasons for quitting is because it wasn’t “fun” anymore.
 
@@ -98,13 +98,13 @@ These things all have their place, but I find that my biggest advancements in li
 
 Having this trust and self-esteem gives your entire life a sense of purpose so you can make it through tough times.
 
-Meditation should be a core part of your routine. It’s a practice that essentially involves deep breathing and quieting your mind.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> Taking just 10 minutes to enjoy this solitude and mental calm can revolutionize your well-being and help you not crack under stress.
+Meditation should be a core part of your routine. It’s a practice that essentially involves deep breathing and quieting your mind.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>{: id="fnref:2" role="doc-noteref"} Taking just 10 minutes to enjoy this solitude and mental calm can revolutionize your well-being and help you not crack under stress.
 
 A meditation practice helps you handle stress and teaches emotional regulation. During the practice of meditation, your mind is constantly bombarded with chatter and noise as you focus on deep breathing and stillness.
 
 You learn to let go of this noise and these stressors, rather than attach to them. This relaxed, deep breathing practice carries over so that you can deal with the real-life stressors in your daily environment. Your ability to do this will build better mental health and resilience.
 
-Taking cold showers every day also builds resilience. Neuroscience research shows that the shock of the cold water sends numerous electrical impulses from nerves in your body to your brain. The end result is anti-depressive and helps you de-stress.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>
+Taking cold showers every day also builds resilience. Neuroscience research shows that the shock of the cold water sends numerous electrical impulses from nerves in your body to your brain. The end result is anti-depressive and helps you de-stress.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup>{: id="fnref:3" role="doc-noteref"}
 
 Heal your mind and physical health every day by getting at least 7 hours of sleep. Rest moderates all of your body’s processes and can be nature’s serum for negative emotions that have built up over the day. It keeps health problems at bay, improves how you handle stress, and lets you wake up alert enough to be present with work, loved ones, and the world.
 
@@ -131,13 +131,13 @@ Here’s how you can start building resilience:
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>Solomon, Jon. <em>Aspen Institute Project Play</em>. Survey: Kids quit most sports by age 11. August 1, 2019. <a href="https://www.aspenprojectplay.org/news/kids-quit-most-sports-by-age-11">https://www.aspenprojectplay.org/news/kids-quit-most-sports-by-age-11</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Solomon, Jon. <em>Aspen Institute Project Play</em>. Survey: Kids quit most sports by age 11. August 1, 2019. <a href="https://www.aspenprojectplay.org/news/kids-quit-most-sports-by-age-11">https://www.aspenprojectplay.org/news/kids-quit-most-sports-by-age-11</a>&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
-      <p>Bullock, B, Grace. <em>Greater Good Magazine</em>. What Focusing on the Breath Does to Your Brain. October 31, 2019. <a href="https://greatergood.berkeley.edu/article/item/what_focusing_on_the_breath_does_to_your_brain#">https://greatergood.berkeley.edu/article/item/what_focusing_on_the_breath_does_to_your_brain#</a>. (Accessed January 13, 2023) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Bullock, B, Grace. <em>Greater Good Magazine</em>. What Focusing on the Breath Does to Your Brain. October 31, 2019. <a href="https://greatergood.berkeley.edu/article/item/what_focusing_on_the_breath_does_to_your_brain#">https://greatergood.berkeley.edu/article/item/what_focusing_on_the_breath_does_to_your_brain#</a>. (Accessed January 13, 2023)&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:3" role="doc-endnote">
-      <p>Brito, Janet. <em>Healthline</em>. Cold Shower for Anxiety: Does It Help? June 22, 2020. <a href="https://www.healthline.com/health/anxiety/cold-shower-for-anxiety">https://www.healthline.com/health/anxiety/cold-shower-for-anxiety</a>. (Accessed January 13, 2022) <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Brito, Janet. <em>Healthline</em>. Cold Shower for Anxiety: Does It Help? June 22, 2020. <a href="https://www.healthline.com/health/anxiety/cold-shower-for-anxiety">https://www.healthline.com/health/anxiety/cold-shower-for-anxiety</a>. (Accessed January 13, 2022)&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>

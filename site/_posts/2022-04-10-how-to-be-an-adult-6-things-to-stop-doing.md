@@ -4,8 +4,7 @@ article_type: Article
 title: 'How to be an adult: 6 major markers of adulthood'
 permalink: /how-to-be-an-adult/
 tags:
-  - change-your-perspective
-  - mental-toughness
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -25,11 +24,11 @@ The following are the 6 biggest markers of adulthood.
 
 ## 1\. You don’t rely on your parents for anything
 
-You're not an adult until you don't rely on your parents–in any way–for any of your daily expenses.
+You’re not an adult until you don’t rely on your parents–in any way–for any of your daily expenses.
 
-Don't gimme that nonsense about it being cheaper to be on a family phone plan when you're 30 years old. By definition, a major part of adult life is autonomy from your parents. If you can’t—or won’t—survive without their financial assistance, you are not an adult.
+Don’t gimme that nonsense about it being cheaper to be on a family phone plan when you’re 30 years old. By definition, a major part of adult life is autonomy from your parents. If you can’t—or won’t—survive without their financial assistance, you are not an adult.
 
-***\[I've met kids so serious about becoming an adult that they stayed in a homeless shelter until they got a job good enough to pay the bills. [I write about them here.](/working-at-a-homeless-shelter/)\]***
+***\[I’ve met kids so serious about becoming an adult that they stayed in a homeless shelter until they got a job good enough to pay the bills. [I write about them here.](/working-at-a-homeless-shelter/)\]***
 
 This point is usually the one that receives the most blowback. People are very quick to point out that forcing young adults to take on financial responsibilities too early keeps them from succeeding, and they’re right.
 
@@ -41,11 +40,11 @@ Even cultures that have many generations stay at home have a clear point where t
 
 If you rely on your parents for any part of your livelihood, then they still have responsibility for you. This means that, like a child, your livelihood is their burden to bear until you grow up.
 
-## 2\. You don't blame your childhood for your adulthood
+## 2\. You don’t blame your childhood for your adulthood
 
-You're not an adult until you stop blaming your childhood for your current deficiencies, weaknesses, and problems.
+You’re not an adult until you stop blaming your childhood for your current deficiencies, weaknesses, and problems.
 
-Yes, shit happened to you. And yes, some of it set you back. But adults don't use that as an excuse. They work through it without hurting other people who did nothing to them.
+Yes, shit happened to you. And yes, some of it set you back. But adults don’t use that as an excuse. They work through it without hurting other people who did nothing to them.
 
 No one minds if you have a problem.
 
@@ -70,7 +69,7 @@ I think about all of the bad habits I entered adulthood with. I had
 * I had serious attachment/abandonment issues
 * [No model for a successful romantic relationship](/how-to-be-patient-in-a-relationship/)
 
-All of these were the result of experiences (or lack thereof)  in my childhood.
+All of these were the result of experiences (or lack thereof)&nbsp; in my childhood.
 
 Instead of using these issues as an excuse for how my life was going (and it wasn’t going great), I took control and began to work on them so I could relieve the pain they caused in my life and in the lives of those who crossed my path.
 
@@ -78,9 +77,9 @@ Everyone goes through shit as a child that sets them back. The difference is tha
 
 ## 3\. You take responsibility for everything in your life
 
-You're not an adult until you take responsibility for all parts of your life, for better or worse.
+You’re not an adult until you take responsibility for all parts of your life, for better or worse.
 
-Children get to believe that Santa Claus delivers gifts. Adults know that it's their own fault if they don't have anything under the tree.
+Children get to believe that Santa Claus delivers gifts. Adults know that it’s their own fault if they don’t have anything under the tree.
 
 If you blame bad luck for any chronic misfortune in your life, you’re operating from the mindset of someone who is incapable of taking responsibility.
 
@@ -106,9 +105,9 @@ Decisions that were almost certainly made because they would not (or could not) 
 
 ## 4\. You know how to delay gratification
 
-You're not an adult if you can't delay gratification in the pursuit of something greater.
+You’re not an adult if you can’t delay gratification in the pursuit of something greater.
 
-Kids throw tantrums when they don't immediately get what they want. Furthermore, children can quit and rely on their parents when life is hard.
+Kids throw tantrums when they don’t immediately get what they want. Furthermore, children can quit and rely on their parents when life is hard.
 
 While this is not a good habit for children to develop, they still have the option because part of being a child is learning what behaviors to develop and what behaviors to avoid.
 
@@ -146,7 +145,7 @@ No one wants to be the person who breaks their hand punching a hole in the wall 
 
 You aren’t an adult if you can’t or won’t make plans for the future.
 
-The future is coming, whether you’re ready for it or not. Part of being an adult is not being "surprised" by something that is HIGHLY predictable.
+The future is coming, whether you’re ready for it or not. Part of being an adult is not being “surprised” by something that is HIGHLY predictable.
 
 If your bills are late but you always call off work, you are not preparing for the future.
 

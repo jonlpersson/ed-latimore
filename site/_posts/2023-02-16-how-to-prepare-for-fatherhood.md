@@ -4,7 +4,7 @@ article_type: Article
 title: Dad to Dad - How to prepare for fatherhood
 permalink: /how-to-prepare-for-fatherhood/
 tags:
-  - change-your-perspective
+  - building-family-relationships
 categories:
   - Relationships
 description: >-
@@ -34,7 +34,7 @@ Fatherhood has positive and protective long-term effects on your brain.
 
 ## 1\. Develop your leadership skills
 
-The first fundamental principle of fatherhood is leadership. When you become a father, you also become a role model and a guide. Engaged fathers raise children with higher IQs and better social and emotional skills.<sup><a class="footnote" rel="footnote" href="#fn:1">1</a></sup>
+The first fundamental principle of fatherhood is leadership. When you become a father, you also become a role model and a guide. Engaged fathers raise children with higher IQs and better social and emotional skills.<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 But being a good leader, and creating a positive impact on the world takes time and development.
 
@@ -49,7 +49,7 @@ I learned many things about being a leader through growing up in the hood, overc
 
 Like Bruce Lee once said, to be a dad, you have to “be water, my friend.“
 
-Both men and women face complex emotional upheaval when facing parenthood. While postpartum depression is a term typically reserved for new moms, men can experience anxiety, depression, and increased stress over what their new role is or the incompetence of taking care of a child.<sup><a class="footnote" rel="footnote" href="#fn:2">2</a></sup>
+Both men and women face complex emotional upheaval when facing parenthood. While postpartum depression is a term typically reserved for new moms, men can experience anxiety, depression, and increased stress over what their new role is or the incompetence of taking care of a child.<sup>[2](#fn:2){: .footnote rel="footnote"}</sup>
 
 There is no unified thought process or behavior that will drive you in everything. Adaptability is going to be your friend as a new parent and in life.
 
@@ -72,11 +72,11 @@ Here is a quick checklist for the essentials you need before the baby’s arriva
 
 When you learn to control your emotions, you can choose your reactions instead of simply reacting to your environment. It leads to a better sense of well-being and better overall mental health.
 
-Studies show that children with great dads are more employable, have better relationships, higher IQs, and have more social mobility into middle age.<sup><a class="footnote" rel="footnote" href="#fn:3">3</a></sup> While fathers that fly off the handle are more likely to raise children with emotional and behavioral problems.<sup><a class="footnote" rel="footnote" href="#fn:4">4</a></sup>
+Studies show that children with great dads are more employable, have better relationships, higher IQs, and have more social mobility into middle age.<sup>[3](#fn:3){: .footnote rel="footnote"}</sup> While fathers that fly off the handle are more likely to raise children with emotional and behavioral problems.<sup>[4](#fn:4){: .footnote rel="footnote"}</sup>
 
-Learn to think through things, don't fly off the handle and be a hothead. Controlling your emotions will come in handy when you’re new to parenthood during those middle-of-the-night feedings and during the birth experience in general.
+Learn to think through things, don’t fly off the handle and be a hothead. Controlling your emotions will come in handy when you’re new to parenthood during those middle-of-the-night feedings and during the birth experience in general.
 
-Children don't tend to care about you; all they can focus on is their emotions. But they’ll learn to respond and react based on how you react.
+Children don’t tend to care about you; all they can focus on is their emotions. But they’ll learn to respond and react based on how you react.
 
 Check out this podcast on[How To Control Your Mind, Body, & Emotions](https://www.youtube.com/watch?v=_HHVFTbTHXI) to learn more about how I tamed my own emotions and grew into a leader.
 
@@ -84,9 +84,9 @@ Check out this podcast on[How To Control Your Mind, Body, & Emotions](https://ww
 
 So far, caring for a newborn is extremely time-consuming. No one warns you just how little they can do for themselves. They can’t even sleep without help. So right now, my experience is figuring out how to still get work done while making sure the kid is ok.
 
-If you can swing it, take parental leave even if you own your own business. As a business owner, you want to be able to step away without the whole ship sinking. In some states, there are programs for this if you plan a year in advance. Childcare won’t always require the same amount of energy but it's a high investment in the first weeks of your new baby’s life.
+If you can swing it, take parental leave even if you own your own business. As a business owner, you want to be able to step away without the whole ship sinking. In some states, there are programs for this if you plan a year in advance. Childcare won’t always require the same amount of energy but it’s a high investment in the first weeks of your new baby’s life.
 
-If possible, bringing in a family member could help ease the stress of getting things done. In addition to taking care of your business, remember to put your kid on your healthcare. It's about a 30-day grace window and you’ll be visiting the doctor at least every 2 months to ensure your child is hitting development milestones.
+If possible, bringing in a family member could help ease the stress of getting things done. In addition to taking care of your business, remember to put your kid on your healthcare. It’s about a 30-day grace window and you’ll be visiting the doctor at least every 2 months to ensure your child is hitting development milestones.
 
 ## 5\. Seek advice from good parents around you
 
@@ -106,13 +106,13 @@ And don’t be too good to ask for help or advice from people who have been ther
 
 ## 6\. Stop acting like you’re going to live forever
 
-Don't wander through life thinking you have all the time in the world.
+Don’t wander through life thinking you have all the time in the world.
 
 Let’s say you live 80 or 90 years. Toward the end, you’re going to have to dial it back a little. You can’t start working on your jumper at 90. It’s not gonna happen. You might be in your late 20s now with thoughts of retiring around 60.
 
 That’s only 40 summers to craft your life into something you can be proud of.
 
-Now, there are people who accomplished things late in life and men often don't hit their stride until their 40s, see Stan Lee, Bruce Willis, Sam Jackson, etc…
+Now, there are people who accomplished things late in life and men often don’t hit their stride until their 40s, see Stan Lee, Bruce Willis, Sam Jackson, etc…
 
 But don’t put off for later what you have the energy, stamina, and youthful flexibility to do today.
 
@@ -120,13 +120,13 @@ Focus on your health and work toward a definite purpose. And avoid dumb things t
 
 ## 7\. Improve your relationship
 
-Healthy relationships are undefeated for raising a kid. The ability of parents to work together directly affects your child’s behavioral development.<sup><a class="footnote" rel="footnote" href="#fn:5">5</a></sup> Healthy relationships are undefeated for raising a kid. Even if you aren’t married, supportive co-parenting is much better than single parenthood when it comes to how it affects the child.
+Healthy relationships are undefeated for raising a kid. The ability of parents to work together directly affects your child’s behavioral development.<sup>[5](#fn:5){: .footnote rel="footnote"}</sup> Healthy relationships are undefeated for raising a kid. Even if you aren’t married, supportive co-parenting is much better than single parenthood when it comes to how it affects the child.
 
 Don’t stay in relationships that don’t work, but recognize that every upheaval, partner change, cycling in and out of a child’s life creates an unstable environment that is difficult for a child to grow.
 
 ## Final thoughts on how to prepare for fatherhood
 
-Fatherhood is a difficult journey but it’s proven to have long-term positive and protective health effects for men.<sup><a class="footnote" rel="footnote" href="#fn:6">6</a></sup> Your role may be different from your child’s mother but it’s just as vital. So to prepare for fatherhood do this:
+Fatherhood is a difficult journey but it’s proven to have long-term positive and protective health effects for men.<sup>[6](#fn:6){: .footnote rel="footnote"}</sup> Your role may be different from your child’s mother but it’s just as vital. So to prepare for fatherhood do this:
 
 1. Become a leader by being self-led
 2. Be willing to make mistakes and learn on the fly

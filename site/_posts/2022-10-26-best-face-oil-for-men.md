@@ -4,7 +4,7 @@ article_type: Review
 title: The best face oil for men (2022)
 permalink: /best-face-oil-for-men/
 tags:
-  - longevity-health-and-performance
+  - self-improvement-for-men
 categories:
   - Reality
 description: >-
@@ -28,7 +28,7 @@ When picking out a quality face oil, you want something that has a proven track 
 * **Rosehip seed oil:** An ancient oil produced from the fruit and seeds of the rose plant. It’s commonly used for its valuable healing benefits and contains skin-nourishing vitamins and essential fatty acids.
 * **Argan oil:** Produced from the kernels of the argan tree native to Morocco. Argan oil is commonly used as an anti-aging product due to it being rich in essential fatty acids and antioxidants.
 * **Evening primrose oil:** Derived from the evening primrose plant’s seeds and contains the fatty acid linolenic acid, which can help fortify the skin barrier and reduce skin inflammation that can cause acne breakouts.
-* **Tea tree oil:** Derived from the leaves of the tea tree, this essential oil is commonly used to treat a range of ailments, including acne, athlete's foot, lice, nail fungus, and insect bites.
+* **Tea tree oil:** Derived from the leaves of the tea tree, this essential oil is commonly used to treat a range of ailments, including acne, athlete’s foot, lice, nail fungus, and insect bites.
 * **Olive oil:** Even commonly used cooking oils such as olive oil can be used as an antibacterial and moisturizer for your skin.
 * **Coconut oil:** Another popular cooking oil with antimicrobial properties that can help reduce inflammation, moisturize skin, and even help heal wounds.
 * **Avocado oil:** Avocado oil has high concentrations of vitamin E, potassium, and lecithin, to nourish and moisturize skin. The essential fatty acid, oleic acid, is also shown to promote collagen production, accelerating healing and helping with minor burns.
@@ -61,11 +61,11 @@ A concentrated hydrating formula designed to purify, balance, and soften your sk
 
 ### The Ordinary 100% Organic Cold-Pressed Moroccan Argan Oil
 
-This 100% Organic Cold-Pressed Moroccan Argan Oil is extracted through a cold-pressing technique that preserves the integrity of the oil's fatty acids, vitamins, phenols (including caffeic acid), and carotenes. The oil naturally hydrates your skin while combating dryness and supporting healthy-looking skin and can also be used as a beard oil or in your hair to increase softness and sheen. It’s also the most affordable option at around $7 for a one fluid oz bottle if you’re looking for something cheap to get started.
+This 100% Organic Cold-Pressed Moroccan Argan Oil is extracted through a cold-pressing technique that preserves the integrity of the oil’s fatty acids, vitamins, phenols (including caffeic acid), and carotenes. The oil naturally hydrates your skin while combating dryness and supporting healthy-looking skin and can also be used as a beard oil or in your hair to increase softness and sheen. It’s also the most affordable option at around $7 for a one fluid oz bottle if you’re looking for something cheap to get started.
 
 ## Why should you care about using face oils
 
-Let's first get one thing straight. Taking good care of your largest organ—your skin—isn’t just something that women do.
+Let’s first get one thing straight. Taking good care of your largest organ—your skin—isn’t just something that women do.
 
 What you may not know is that face oils are an all-in-one tool that can help with many things, including preventing wrinkles, balancing skin tone, treating acne-prone skin, and preventing dry, flaky skin. Some face oils also contain SPF to protect your face against the sun’s damaging rays.
 
