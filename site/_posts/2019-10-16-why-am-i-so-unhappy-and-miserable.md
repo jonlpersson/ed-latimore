@@ -4,7 +4,7 @@ article_type: Article
 title: Why am I so unhappy? (5 reasons and real solutions)
 permalink: /unhappiness/
 tags:
-  - how-to-control-your-emotions
+  - hard-lessons
 categories:
   - Reality
 image: /assets/images/posts/sadnessatthebeach.jpg
@@ -18,23 +18,23 @@ Actually, it’s more accurate to say that no one wants to be *unhappy*.
 
 Sometimes, even though things are going well, you realize:
 
-* I'm so sad
-* I'm not happy
-* I'm miserable
+* I’m so sad
+* I’m not happy
+* I’m miserable
 
-And when realize that you're unhappy, you want to fix it. It's easy to argue that mental and emotional health are more important than physical, but we don't put *nearly* as much effort into figuring why we sometimes get down in the dumps.
+And when realize that you’re unhappy, you want to fix it. It’s easy to argue that mental and emotional health are more important than physical, but we don’t put *nearly* as much effort into figuring why we sometimes get down in the dumps.
 
-We don't take the time to figure out how to be happy despite all the [health benefits that come with a positive mindset](https://www.healthline.com/nutrition/happiness-and-health#:~:text=Scientific%20evidence%20suggests%20that%20being,even%20increase%20your%20life%20expectancy.){: target="_blank" rel="noopener"} and the health problems that come with a negative one.
+We don’t take the time to figure out how to be happy despite all the [health benefits that come with a positive mindset](https://www.healthline.com/nutrition/happiness-and-health#:~:text=Scientific%20evidence%20suggests%20that%20being,even%20increase%20your%20life%20expectancy.){: target="_blank" rel="noopener"} and the health problems that come with a negative one.
 
-## I'm so unhappy. What can I do about it?
+## I’m so unhappy. What can I do about it?
 
 Happiness is subjective and difficult to define. Unhappiness is straightforward and simple.
 
 This is why it’s easier for me to tell you why you’re so unhappy and what you can do to fix it.
 
-If you already know why you’re unhappy, then you want to know how to feel better. If you don't know why your mood is low, or you need a fix for your sadness and melancholy…
+If you already know why you’re unhappy, then you want to know how to feel better. If you don’t know why your mood is low, or you need a fix for your sadness and melancholy…
 
-This article will tell you why you’re so unhappy and give you a step-by-step plan to fix it. It's important for you to learn to [do what makes you happy.](/do-what-makes-you-happy/)
+This article will tell you why you’re so unhappy and give you a step-by-step plan to fix it. It’s important for you to learn to [do what makes you happy.](/do-what-makes-you-happy/)
 
 Let’s begin.
 
@@ -69,7 +69,7 @@ You won’t be happy sitting still. You need to make moves and go after stuff. B
 
 And at the end of the day, happiness is a byproduct of change. Change means that you have to leave things behind so that you can experience something new.
 
-Sometimes you're just leaving behind material things. Sometimes it means leaving close friends while you work on yourself. Though leaving what you know behind may cause temporary heartache, it is necessary so that you can permanently find your own happiness.
+Sometimes you’re just leaving behind material things. Sometimes it means leaving close friends while you work on yourself. Though leaving what you know behind may cause temporary heartache, it is necessary so that you can permanently find your own happiness.
 
 If you’re afraid to go after what you want because you’re afraid of losing, then you’ve already lost. You just don’t know it yet.
 
@@ -81,9 +81,9 @@ But your emotions do. That’s why you’re so unhappy.
 
 The comfort you cling to will ruin you and make your life more uncomfortable than failure ever could.
 
-***Want to learn more about what's making you unhappy and get hands-on, unique, mind-body solutions to work through it? Check out the Unshackled Retreat, hosted by the Freedom Specialists. This is an intense in-person event that teaches you how to release trauma stored in the mind, body, emotions, and energy. I highly recommend you take a look at this if therapy and other measures haven't worked for you.—&gt;[The Freedom Specialists](https://rebrand.ly/1t6oeqm){: target="_blank" rel="noopener noreferrer"}***
+***Want to learn more about what’s making you unhappy and get hands-on, unique, mind-body solutions to work through it? Check out the Unshackled Retreat, hosted by the Freedom Specialists. This is an intense in-person event that teaches you how to release trauma stored in the mind, body, emotions, and energy. I highly recommend you take a look at this if therapy and other measures haven’t worked for you.—&gt;[The Freedom Specialists](https://rebrand.ly/1t6oeqm){: target="_blank" rel="noopener noreferrer"}***
 
-## 2) You worry about what you can't control
+## 2) You worry about what you can’t control
 
 Life is like poker.
 
@@ -91,11 +91,11 @@ You can’t control the hand you’re dealt, but you can control how you play it
 
 Poker teaches many valuable lessons about the role of luck in our lives and our emotional response to it. Getting excited when you have good luck in a part of your life can be just as harmful as getting sad when it gets bad.
 
-Some players make money. Some players lose it. It helps if you have pocket aces, but that's rare. Even then, sometimes even the best starting hand loses to bad luck and timing.
+Some players make money. Some players lose it. It helps if you have pocket aces, but that’s rare. Even then, sometimes even the best starting hand loses to bad luck and timing.
 
 Even when you play well, you’ll sometimes lose. Even when you have an advantage, you sometimes fail. While skill undoubtedly plays an important role, a large part of the game is beyond your control.
 
-You don't control the cards. You don't control the other players. The only thing you can control is how well you play your hand. You're only master of your own life.
+You don’t control the cards. You don’t control the other players. The only thing you can control is how well you play your hand. You’re only master of your own life.
 
 I experienced significant increases in my mood and productivity when I started focusing on what I could actually do something about. For example, when it comes to making money online, there is a lot I can’t do anything about.
 
@@ -109,21 +109,21 @@ No one likes to admit this, but our lives are heavily governed by random events 
 
 Bad things happen to good people. Good things happen to bad people. Recognizing that a lot of this stuff is beyond your control puts you ahead of a lot of people.
 
-We can't control the fickle forces in life. Thinking we should be able to accomplishes nothing. It only frustrates us.
+We can’t control the fickle forces in life. Thinking we should be able to accomplishes nothing. It only frustrates us.
 
-In life, as is the case in poker, the player who wins doesn't always have the best hand. It's the player with the tightest game who can turn chicken shit into chicken salad. This is the player who wins big in cards and in life.
+In life, as is the case in poker, the player who wins doesn’t always have the best hand. It’s the player with the tightest game who can turn chicken shit into chicken salad. This is the player who wins big in cards and in life.
 
 Focus on tightening up your life game.
 
-Don’t worry about shit you can't control because the only thing you can control is yourself.
+Don’t worry about shit you can’t control because the only thing you can control is yourself.
 
 <u><em><strong>How this makes you unhappy:</strong></em></u> Placing blame, getting angry or disappointed when things don’t turn out the way you imagined them, and frustration with human nature.
 
-<u><em><strong>How to be happier:</strong></em></u> Great peace of mind can be attained if you focus only on what you can control. This doesn't mean you should completely ignore everything else, but realize that your energy is finite. The quality of your life is determined by how well you leverage your energy in places where you can actually make a difference.
+<u><em><strong>How to be happier:</strong></em></u> Great peace of mind can be attained if you focus only on what you can control. This doesn’t mean you should completely ignore everything else, but realize that your energy is finite. The quality of your life is determined by how well you leverage your energy in places where you can actually make a difference.
 
 {% include widgets/summary.html id="Essays-Of-Power" %}
 
-## 3) You’re so miserable because you're passive and indecisive
+## 3) You’re so miserable because you’re passive and indecisive
 
 Most people don’t make any real decisions in their life.
 
@@ -139,17 +139,17 @@ That’s because the life you want probably entails a large degree of autonomy. 
 
 It starts when you’re young.
 
-You're told which school to go to, which classes to take, and even who your friends should be.
+You’re told which school to go to, which classes to take, and even who your friends should be.
 
 Then it continues in college.
 
-You form bad habits, which atrophy your thinking and make you dependent on the system. But you think this is what you're supposed to do. After all, all the other cogs are doing it and they seem alright.
+You form bad habits, which atrophy your thinking and make you dependent on the system. But you think this is what you’re supposed to do. After all, all the other cogs are doing it and they seem alright.
 
 The pressure from your friends and family leads you to an “acceptable” field of study. Deep down, you hate it, but you don’t pursue something that would have made you a lot happier.
 
 By this point, you’ve forfeited the ability to think for yourself anyway.
 
-Then you meet someone who is as programmed and dependent as you. You're expected to get married and produce more cogs for the machine.
+Then you meet someone who is as programmed and dependent as you. You’re expected to get married and produce more cogs for the machine.
 
 While I’m happy with how my life has turned out, I always think back to my senior year of high school and a lesson I learned about not thinking for myself. Instead of following my dream of trying to walk on to a college football program, I instead let my peers talk me into going to a different school because of its academic reputation.
 
@@ -169,9 +169,9 @@ Happy people take control of things and refuse to be passive observers in their 
 
 What do you want to experience? What skills do you want? Where do you want to live? How do you want to serve the world? Start making decisions and living them out. Your happiness will follow.
 
-## 4) You're unhappy because you're missing the big picture
+## 4) You’re unhappy because you’re missing the big picture
 
-The "big picture" is simple:
+The “big picture” is simple:
 
 You’re going to die and there isn’t a thing you can do about it. And when you die, it will only take two generations for there to be no one around who interacted with you.
 
@@ -181,7 +181,7 @@ You are born, get to kid around for a while, you hit puberty and then sex become
 
 You make whatever you want out of everything else. And you have less time here than you think.
 
-By remembering this, you free yourself to do whatever you want to, knowing that it won’t matter in the long term. As long as you don’t hurt others, you're free to pursue whatever you want in this life.
+By remembering this, you free yourself to do whatever you want to, knowing that it won’t matter in the long term. As long as you don’t hurt others, you’re free to pursue whatever you want in this life.
 
 You can live a life of service to others or one of self-serving hedonism.
 
@@ -205,17 +205,17 @@ I can choose to drink, party, and womanize. But I’m happier training, learning
 
 I wasted a lot of years of my life being unhappy because I was making the wrong meaning of my life. I can’t tell you what your personal meaning is, but if you’re unhappy, there’s a good chance that you aren’t living true to it.
 
-Life is too short for unhappiness. There's a countdown timer on your life — **do you realize that?** You can't waste time on bullshit that doesn't make you happy.
+Life is too short for unhappiness. There’s a countdown timer on your life — **do you realize that?** You can’t waste time on bullshit that doesn’t make you happy.
 
-Even people who believe in heaven don't want to die to get there.
+Even people who believe in heaven don’t want to die to get there.
 
 <u><strong><em>How this makes you unhappy:</em></strong></u> Pettiness, argumentative, and justifying your life to others.
 
-<u><em><strong>How to become happier:</strong></em></u> Selfishness gets a bad rap, but at some point, you have to start valuing your time. Unless something dramatic happens in science, you don't have a lot of time on this planet.
+<u><em><strong>How to become happier:</strong></em></u> Selfishness gets a bad rap, but at some point, you have to start valuing your time. Unless something dramatic happens in science, you don’t have a lot of time on this planet.
 
 As the old saying goes, stop counting the days and start making the days count. When you’re busy doing whatever it is that adds meaning and purpose to your life, it’s impossible to be unhappy.
 
-## 5) You're so miserable because you have low self-esteem
+## 5) You’re so miserable because you have low self-esteem
 
 Realizing that life is meaningless made me want to create value.
 
@@ -238,7 +238,7 @@ When you contribute to society in a way that brings you more than a paycheck, yo
 
 This type of work is even more powerful when you align it with a purpose that’s important to you. There are many problems in the world, which means there are just as many solutions. There is bound to be an issue that you personally resonate with, and working on solutions to it in a way that forces you to contribute to society will do wonders for your mood.
 
-You can't pump up your self-worth without doing work. It only happens when you believe in your right to be alive and enjoy life.
+You can’t pump up your self-worth without doing work. It only happens when you believe in your right to be alive and enjoy life.
 
 You get this feeling from building relationships and excelling at things you love.
 
@@ -250,11 +250,11 @@ When you think well of yourself, nothing can bring you down. At the very least, 
 
 <u><em><strong>How this makes you unhappy:</strong></em></u> Low self-esteem, lack of confidence, fear, anxiety, and being pushed around by the world
 
-<u><em><strong>How to be happier:</strong></em></u> The fastest way to build self-esteem is to become esteemed at something. In fact, the greatest form of self-help is getting good enough at something to where people admire you for your abilities. Or, at the very least, you're able to create things of value and impact reality.
+<u><em><strong>How to be happier:</strong></em></u> The fastest way to build self-esteem is to become esteemed at something. In fact, the greatest form of self-help is getting good enough at something to where people admire you for your abilities. Or, at the very least, you’re able to create things of value and impact reality.
 
-In other words, develop a skill. Build a reputation as a solid and trustworthy friend. Help others and in doing so, you will help yourself. Remember, hard work beats talent and if you don't believe me then [read this](/hard-work-beats-talent/) to find out why.
+In other words, develop a skill. Build a reputation as a solid and trustworthy friend. Help others and in doing so, you will help yourself. Remember, hard work beats talent and if you don’t believe me then [read this](/hard-work-beats-talent/) to find out why.
 
-## A summary of why you don't have a happy life
+## A summary of why you don’t have a happy life
 
 1. You let loss aversion ruin your life
 2. You worry about what you can’t control

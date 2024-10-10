@@ -4,34 +4,34 @@ article_type: Article
 title: How to be chill in 5 steps
 permalink: /how-to-be-chill/
 tags:
-  - how-to-control-your-emotions
+  - hard-lessons
 categories:
   - Relationships
 description: "This article will teach the techniques I use to remain\_\"super chill\" and calm even when things get crazy."
 image: >-
   /assets/images/misc/how-to-be-chill-in-5-steps/how-to-be-chill-relaxing-ed-latimore.jpg
 ---
-A year ago I taught a friend how to drive. If you've never done it, teaching a person how to drive is one of the most stressful situations you can ever experience.
+A year ago I taught a friend how to drive. If you’ve never done it, teaching a person how to drive is one of the most stressful situations you can ever experience.
 
 If you have a hard time trusting people, then you should definitely not do this.
 
-I've taught two adults how to drive and I can tell you that most people don't consider what a big deal it is that each year, millions of high school kids get their driver's license without their parents having a heart attack.
+I’ve taught two adults how to drive and I can tell you that most people don’t consider what a big deal it is that each year, millions of high school kids get their driver’s license without their parents having a heart attack.
 
-I'm naturally a laid back, relaxed, and chill person, but even my stress levels were elevated. However, I still managed to stay calm, cool, and collected. Never once did I let my headspace get infected with crazy "what if" scenarios about being in a car crash.
+I’m naturally a laid back, relaxed, and chill person, but even my stress levels were elevated. However, I still managed to stay calm, cool, and collected. Never once did I let my headspace get infected with crazy “what if” scenarios about being in a car crash.
 
 As a teacher, this is important.
 
-If I get terrified, I'll shout. If I shout, I damage their self-esteem about driving and I make it more likely that they'll make a mistake.
+If I get terrified, I’ll shout. If I shout, I damage their self-esteem about driving and I make it more likely that they’ll make a mistake.
 
 Being chill like this, even in the face of a dangerous situation, is a valuable skill that I think everyone should learn for the sake of their mental health and well-being.
 
-## A Chill Person Doesn't Let The Little Things Bother Them
+## A Chill Person Doesn’t Let The Little Things Bother Them
 
-The friend I was teaching to drive remarked that I never get angry. "You're super chill and nothing ever seems to bother you."
+The friend I was teaching to drive remarked that I never get angry. “You’re super chill and nothing ever seems to bother you.”
 
 While this isn’t EXACTLY true, I do have a remarkably even temper. Very few things have the power to make me angry. In fact, I so rarely get angry that I physically feel the effects of anger for almost 24 hours after, much like a bad hangover.
 
-It takes time and lots of deep breaths to get me feeling normal again. I have a hard time getting mad but once I do, I'm also pretty quick to chill out.
+It takes time and lots of deep breaths to get me feeling normal again. I have a hard time getting mad but once I do, I’m also pretty quick to chill out.
 
 I suspect that this is related to another trait of mine: nearly non-existent neuroticism.
 
@@ -39,7 +39,7 @@ Dr. Jordan Peterson has [a test that measures the Big 5 personality traits](http
 
 Neuroticism is described by Wikipedia this way:
 
-"Individuals who score high on neuroticism are more likely than average to be moody and to experience such feelings as anxiety, worry, fear, anger, frustration, envy, jealousy, guilt, depressed mood, and loneliness"
+“Individuals who score high on neuroticism are more likely than average to be moody and to experience such feelings as anxiety, worry, fear, anger, frustration, envy, jealousy, guilt, depressed mood, and loneliness”
 
 Most people are aware of the traits of neuroticism and anxiety. If you aren’t, this short anecdote will sum it up nicely:
 
@@ -47,9 +47,9 @@ Someone asked on Twitter if I ever get afraid and another person who saw me post
 
 ![how to be chill low neuroticism ed latimore](/assets/images/misc/how-to-be-chill-in-5-steps/how-to-be-chill-low-neuroticism-ed-latimore.png "I legit don't get bothered by most things. At least not like most people.")
 
-That made me laugh and feel invincible, but it's not the entire truth. While I rarely experience those negative emotions, it happens. I just know how to deal with them. As a result, I experience far less stress in my life than the average person.
+That made me laugh and feel invincible, but it’s not the entire truth. While I rarely experience those negative emotions, it happens. I just know how to deal with them. As a result, I experience far less stress in my life than the average person.
 
-This article will teach the techniques I use to remain "super chill" and calm even when things get crazy.
+This article will teach the techniques I use to remain “super chill” and calm even when things get crazy.
 
 {% include widgets/cta-email.html %}
 
@@ -59,11 +59,11 @@ This article will teach the techniques I use to remain "super chill" and calm ev
 
 This is the number 1 secret to my chillness.
 
-I’ve been to the bottom several times in my life. I’m grateful to be alive and still here despite all that I've experienced. If you struggle with being grateful then check out my [6 reasons to be gateful](/6-reasons-to-be-grateful/).
+I’ve been to the bottom several times in my life. I’m grateful to be alive and still here despite all that I’ve experienced. If you struggle with being grateful then check out my [6 reasons to be gateful](/6-reasons-to-be-grateful/).
 
 I was born with almost every statistical disadvantage against me, yet I’m still here and flourishing. It’s impossible for me to have a bad day because I know how bad the days can truly be.
 
-When something goes wrong, this gratitude allows me to ask myself, “Could it be worse?”. If I’m not in prison or dead, the answer is always “Yes!”. Many people know how much of a mindset shift gratitude can cause, but they don't understand the discipline of the practice.
+When something goes wrong, this gratitude allows me to ask myself, “Could it be worse?”. If I’m not in prison or dead, the answer is always “Yes!”. Many people know how much of a mindset shift gratitude can cause, but they don’t understand the discipline of the practice.
 
 Whenever something happens to you, good or bad, train yourself to immediately ask if it could be worse. If you have your health and freedom, you have the ability to improve any situation.
 
@@ -71,7 +71,7 @@ Whenever something happens to you, good or bad, train yourself to immediately as
 
 I used to have a fixed growth mindset.
 
-A lot of my woes in childhood come back to the idea that if I wasn’t good at something, there was no hope for me to ever be better at it. It wasn’t until I started boxing that I began to see that it’s possible to improve your abilities beyond what you first started with. It's just one of several benefits of boxing, rea all the benefits [here](/boxing-benefits/).
+A lot of my woes in childhood come back to the idea that if I wasn’t good at something, there was no hope for me to ever be better at it. It wasn’t until I started boxing that I began to see that it’s possible to improve your abilities beyond what you first started with. It’s just one of several benefits of boxing, rea all the benefits [here](/boxing-benefits/).
 
 With a growth-based mindset, you believe that you can–with enough effort and time–learn and do anything. Obviously, there are genetic limitations that will keep many from becoming the best at something, but it’s not necessary to be the best at anything; only to be the best version that you can be.
 
@@ -95,11 +95,11 @@ I’m happy for my pets the same way I am for the people I love. I’m happy tha
 
 I find happiness in all things.
 
-Not only do all things make my life happy, but they all do so equally. I don't say this for exaggeration, hyperbole, or poetic effect. I feel overwhelming happiness for everything in my life.
+Not only do all things make my life happy, but they all do so equally. I don’t say this for exaggeration, hyperbole, or poetic effect. I feel overwhelming happiness for everything in my life.
 
 I don’t feel sad or depressed when things leave me. I simply shift my focus to something else wonderful about my life. Since I’m always building with my growth-based mindset and I’m patient enough to wait for good things to happen, I have plenty to be happy about.
 
-If you can't find happiness in your day-to-day activities then that's a problem. I've put together a great article on [how you can fix your unhappiness](https://edlatimore.com/unhappiness/) and live a more fulfilled life.
+If you can’t find happiness in your day-to-day activities then that’s a problem. I’ve put together a great article on [how you can fix your unhappiness](https://edlatimore.com/unhappiness/) and live a more fulfilled life.
 
 ## 5) I know my values
 
@@ -113,7 +113,7 @@ I have my beef with minimalism, but one thing they absolutely get right is that 
 
 So what will make you happy?
 
-It’s not that the absence of material objects will make you happy. It's that focusing on things that endure will bring you the most fulfillment.
+It’s not that the absence of material objects will make you happy. It’s that focusing on things that endure will bring you the most fulfillment.
 
 Experiences and relationships increase in strength and value over time. Most objects deteriorate and depreciate.
 
@@ -129,7 +129,7 @@ I focus on experiences, good food, conversation, connection, making a difference
 4. Appreciate the small things
 5. Build a value system
 
-That list was in no particular order, but all items have one thing in common: they depend on your frame of reference and actions. When you stay focused on what you can control, you worry less about things that you can't.
+That list was in no particular order, but all items have one thing in common: they depend on your frame of reference and actions. When you stay focused on what you can control, you worry less about things that you can’t.
 
 I never get angry or worried because I try to keep control over all aspects of my life. The parts I can’t control, I don’t worry about. I’m happy for everything because everything teaches me a lesson. I’m happy for everything because everything is a part of life.
 

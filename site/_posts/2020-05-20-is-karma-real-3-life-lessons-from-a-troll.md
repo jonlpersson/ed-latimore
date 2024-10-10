@@ -4,7 +4,7 @@ article_type: Article
 title: Is karma real? 3 life lessons from a troll
 permalink: /is-karma-real/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Relationships
 image: /assets/images/thumbnails/ugly-internet-troll-vector-14784097.jpeg
@@ -14,9 +14,9 @@ description: >-
 ---
 Is karma real?
 
-Not only is ***karma real***, but sometimes karma's a real son-of-a-bitch as well.
+Not only is ***karma real***, but sometimes karma’s a real son-of-a-bitch as well.
 
-It doesn't matter what whether you believe in karma or you think it's garbage; it exists and it believes in you.
+It doesn’t matter what whether you believe in karma or you think it’s garbage; it exists and it believes in you.
 
 Unfortunately, most people find this out the hard way. Especially on the internet.
 
@@ -30,7 +30,7 @@ Even when I troll, it’s poking fun at myself and making people think I’m a [
 
 {% twitter https://twitter.com/EdLatimore/status/1237691227606339584 %}
 
-I talk to everyone on the internet as I would talk to them in person. I try to have fun, teach, and build some good "*digital karma*" for myself.
+I talk to everyone on the internet as I would talk to them in person. I try to have fun, teach, and build some good “*digital karma*” for myself.
 
 It’s not a marketing ploy. It’s who I am.
 
@@ -38,17 +38,17 @@ I’m a 35-year-old ex-heavyweight boxer who [grew up in a hell of a public hous
 
 Most of you know that about me but for those of you who are new here, I wanted to set the tone for this karmic lesson someone learned about communicating with other human beings on social media.
 
-But first, let's settle in on exactly what I mean by "karma".
+But first, let’s settle in on exactly what I mean by “karma”.
 
-## Your actions will come back to haunt you—this isn't spiritual; just real life
+## Your actions will come back to haunt you—this isn’t spiritual; just real life
 
-I personally don't believe in the idea of karma as it's presented in Hinduism or Buddhism. To me, their presentation of cause and effect is too spiritual to explain everyday occurrences.
+I personally don’t believe in the idea of karma as it’s presented in Hinduism or Buddhism. To me, their presentation of cause and effect is too spiritual to explain everyday occurrences.
 
-I don't think what you did in a past life (if such a thing exists) has anything to do with your current experiences. When I'm talking about karma, I'm just talking about the benefits or punishment you receive in the future for your current behavior.
+I don’t think what you did in a past life (if such a thing exists) has anything to do with your current experiences. When I’m talking about karma, I’m just talking about the benefits or punishment you receive in the future for your current behavior.
 
-Sometimes, if your actions are severe enough, that karma takes the form of prison. It doesn't get that bad for most of us. Instead, we simply find out that we crossed the wrong person. They have a longer memory, farther reach, and greater influence than we thought.
+Sometimes, if your actions are severe enough, that karma takes the form of prison. It doesn’t get that bad for most of us. Instead, we simply find out that we crossed the wrong person. They have a longer memory, farther reach, and greater influence than we thought.
 
-Or sometimes, a record of our actions remains on the internet and we're forced to answer for being an internet troll. This is karma in the internet age.
+Or sometimes, a record of our actions remains on the internet and we’re forced to answer for being an internet troll. This is karma in the internet age.
 
 I always tell people that you should be nice on the internet because you never know who’s watching. Think of this as my warning about digital karma.
 
@@ -58,23 +58,23 @@ I’ve had too many people of significant influence, prominence, or fame reach o
 
 ![James Altucher Ed Latimore good karma](/assets/images/posts/2020/james-altucher-recommendation-copy.png "James Altucher Ed Latimore good karma"){: width="640" height="157"}
 
-[**People take notice and want to help**](/tough-love/). You can call this "good karma of the internet".
+[**People take notice and want to help**](/tough-love/). You can call this “good karma of the internet”.
 
-A big part of adding value and building good karma (if not the most important part) is NOT being an asshole. When you act like an asshole, you are ruining opportunities for yourself that you didn’t even know existed. You're creating bad karma for yourself.
+A big part of adding value and building good karma (if not the most important part) is NOT being an asshole. When you act like an asshole, you are ruining opportunities for yourself that you didn’t even know existed. You’re creating bad karma for yourself.
 
-If you don't believe in the law of karma, perhaps this post will change your mind. At the very least, it will get you to consider the cause-and-effect relationship between your online and offline presence.
+If you don’t believe in the law of karma, perhaps this post will change your mind. At the very least, it will get you to consider the cause-and-effect relationship between your online and offline presence.
 
-If you aren’t going to go full-anon (as opposed to semi-anon, an important distinction for today's post), you don’t know what opportunities you’re repelling or attracting to yourself.
+If you aren’t going to go full-anon (as opposed to semi-anon, an important distinction for today’s post), you don’t know what opportunities you’re repelling or attracting to yourself.
 
-When you create this "bad karma of the internet" for yourself, bad things may happen to you because you taking value instead of building it.
+When you create this “bad karma of the internet” for yourself, bad things may happen to you because you taking value instead of building it.
 
-With that said, let’s talk about the concept of karma and how someone interacting with me on the internet learned a hard lesson about "what goes around comes around."
+With that said, let’s talk about the concept of karma and how someone interacting with me on the internet learned a hard lesson about “what goes around comes around.”
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## 3 lessons from an internet troll
 
-## 1) You never know who's watching and can ruin your life
+## 1) You never know who’s watching and can ruin your life
 
 A few days ago, I received the following email. I’ve cut off the email address and name of the sender.
 
@@ -86,7 +86,7 @@ He attached the tweets to jog my memory. Those are the citation numbers that fol
 
 ![Future karma messed up by bad actions in the present](/assets/images/posts/2020/karma-screenshot-twitter-1.png "Future karma messed up by bad actions in the present")
 
-I'm the blue conversation. Even though he sent me a DM, I don't respond negatively to him.
+I’m the blue conversation. Even though he sent me a DM, I don’t respond negatively to him.
 
 I don’t remember how this started, but I believe he blocked me after saying something disrespectful to me. In response, I screenshot his messages to me and then wrote his handle in a tweet I shared with the public. I did this knowing that his bad manners would be met with harassment from many of my followers.
 
@@ -112,11 +112,11 @@ Do you think you’re safe because your social media is private, and therefore O
 
 Do not underestimate the resolve of someone with a lot of time and a little creativity. This goes double for a company that likely employs someone to research people or, at the very least, gives someone that job in addition to other duties so there is a bit of financial compensation.
 
-You're only as anonymous as the resources and motivation of the person who wants to find you.
+You’re only as anonymous as the resources and motivation of the person who wants to find you.
 
 #### If you’re going to be anon
 
-Use different handles from your name (obviously) or anything associated with your online presence (which is not so obvious and is causing this guy misery). Make sure that your handles don't have:
+Use different handles from your name (obviously) or anything associated with your online presence (which is not so obvious and is causing this guy misery). Make sure that your handles don’t have:
 
 * Any URL that you own
 * Companies you work at
@@ -129,17 +129,17 @@ And for goodness sakes–and I know that I already said this–DON’T USE AN AC
 
 Use the internet to your advantage. You want to make sure that when people google you, stuff comes up that makes you look better. Not worse.
 
-There are many ways to do this, but it basically boils down to creating stuff. If you're using your real information and YOU aren’t trying to work for yourself (or you’re already in a power position), you’re asking for trouble.
+There are many ways to do this, but it basically boils down to creating stuff. If you’re using your real information and YOU aren’t trying to work for yourself (or you’re already in a power position), you’re asking for trouble.
 
 The moment you say something disparaging and someone decides to archive it, that’s what’s going to come up on the first page when people search for you.
 
 On to the next lesson about karma on the internet…
 
-## 2) Don't make bad karma for free
+## 2) Don’t make bad karma for free
 
 So, fortunately, this kid realized operating that account or anything related to it was a wash. From a follow-up response he sent to me:
 
-*“Both the domain and Twitter have since been deleted. And I've since abandoned any notions of building a personal brand.”*
+*“Both the domain and Twitter have since been deleted. And I’ve since abandoned any notions of building a personal brand.”*
 
 Consider this though: he was attached enough to the name and what he put behind it that he not only used it for his Twitter handle and website but also referenced it in his applications for grad school and a job.
 
@@ -163,7 +163,7 @@ If my identity got me through a TSA checkpoint faster, this is not completely ou
 
 Despite what he told me and what I’ve observed, his name is still attached to his handle somewhere that’s important enough that an employer might still google and the screenshots come up. Perhaps it’s a middle name or something.
 
-If I were vindictive, I’d just leave everything up to continue causing this kid problems. But I’m not, so I deleted the tweets. I don't want bad karma.
+If I were vindictive, I’d just leave everything up to continue causing this kid problems. But I’m not, so I deleted the tweets. I don’t want bad karma.
 
 But imagine if I wasn’t going to do that. That would mean that this kid made someone his enemy, knowing nothing about the scope of his reach or influence, all so that he could win an internet trash-talking contest. That’s a very poor trade-off.
 
@@ -173,9 +173,9 @@ I recognize that it’s a tool to connect me to money and power. I know that eve
 
 It’s selfish, but it produces a positive result. Because I’m out for me, I’m motivated to treat everyone around me right–even when they don’t deserve it. My ruthless adherence to my self-interest is responsible for building my good karma on the internet.
 
-## 3) A good apology is one that you don't have to make in the first place
+## 3) A good apology is one that you don’t have to make in the first place
 
-People are more forgiving when you get in front of your problems before they cause major harm. Apologies mean more when you don't have to make them.
+People are more forgiving when you get in front of your problems before they cause major harm. Apologies mean more when you don’t have to make them.
 
 As long as you handle your personal problems before they cause a big problem for other people, you are never beyond redemption.
 
@@ -193,9 +193,9 @@ If you want people to **really** show leniency, take your lamentations seriously
 
 ## Recap of the lessons about the law of karma from an internet troll
 
-1. You never know who's watching and can ruin your life
-2. Don't make bad karma for free
-3. Apologies mean more when you don't have to make them
+1. You never know who’s watching and can ruin your life
+2. Don’t make bad karma for free
+3. Apologies mean more when you don’t have to make them
 
 Try to act in a way that won’t require you to apologize to your future self for something stupid that you do today.
 
