@@ -62,7 +62,7 @@ You shouldn’t treat someone as less of a person just because they don’t have
 
 There are over 7 billion people on the planet. The odds of you agreeing with all of them on all things is nearly impossible; But as long as the person’s opinion doesn’t call for causing harm to or taking advantage of innocents, a difference of ideas is not worth a disturbance of emotions.
 
-This sign of emotional maturity is the ability to separate how you feel from how you think. Immature people are unable to do this. [There are levels to emotional intelligence and maturity.](https://positivepsychology.com/emotional-intelligence-scales/?msID=033d1b10-a1d6-462f-816a-d584b9a9e343){: target="_blank"}
+This sign of emotional maturity is the ability to separate how you feel from how you think. Immature people are unable to do this. [There are levels to emotional intelligence and maturity.](https://positivepsychology.com/emotional-intelligence-scales/?msID=033d1b10-a1d6-462f-816a-d584b9a9e343){: target="_blank" rel="noopener"}
 
 This is due largely in part to a lack of emotional control. When we think of emotional control, we usually think about how we interact with others, but this is only part of it. This is also related to your ability to effectively manage your thoughts without your feelings getting involved.
 
