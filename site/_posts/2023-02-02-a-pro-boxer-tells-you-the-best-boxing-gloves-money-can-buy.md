@@ -287,9 +287,9 @@ I decided to check these gloves out after Hayabusa reached out to me to try some
 
 Well, these gloves are so excellent that I’m thinking about dedicating an entire article to them. In the meantime, lemme tell you why I think these gloves should be your first choice if you don’t drop the $300+ on Winning Gloves.
 
-For starters, Hayabusa managed to make a glove that has incredible padding and protection, but still feels like you're making an impact when you hit the bag. The reason I prefer to hit the bag in 14 oz gloves is because I can feel the impact and contact more. It's a powerful feedback mechanism for punch accuracy and technique, and I feel like I don't get that in your typical 16 oz bag glove.
+For starters, Hayabusa managed to make a glove that has incredible padding and protection, but still feels like you’re making an impact when you hit the bag. The reason I prefer to hit the bag in 14 oz gloves is because I can feel the impact and contact more. It’s a powerful feedback mechanism for punch accuracy and technique, and I feel like I don’t get that in your typical 16 oz bag glove.
 
-With the T3 Kanpeki, my fist feels simultaneously feels like I have the padding and protection of a 16 oz glove, but it feels so snug and tight that when I hit the bag, I honestly couldn't believe I wasn't in a 14 oz glove. This feature, by itself, won me over. But there's even more...
+With the T3 Kanpeki, my fist feels simultaneously feels like I have the padding and protection of a 16 oz glove, but it feels so snug and tight that when I hit the bag, I honestly couldn’t believe I wasn’t in a 14 oz glove. This feature, by itself, won me over. But there’s even more...
 
 &nbsp;
 
