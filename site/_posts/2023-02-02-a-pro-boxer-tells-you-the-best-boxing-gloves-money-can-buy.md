@@ -281,7 +281,7 @@ With that said, Winning is the best and you should get them if you can. I don’
 
 ### Hayabusa T3 Kanpeki Gloves
 
-&nbsp;
+&nbsp;![](/assets/images/posts/hayabusa-t3-kanpeki-gloves-both.jpg){: width="4000" height="3000"}
 
 I decided to check these gloves out after Hayabusa reached out to me to try some of their products. I don’t receive any affiliate commission and didn’t receive any payment, but I got the gloves for free under the condition that if I thought they were solid, I’d mention them in this article.
 
