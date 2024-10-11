@@ -4,7 +4,8 @@ article_type: Article
 title: How to win a fight to the death
 permalink: /fight-to-the-death/
 tags:
-  - longevity-health-and-performance
+  - boxing
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -52,7 +53,7 @@ But when your goal involves a demonstration of your abilities without defeating 
 
 Who wants it more? Who is willing to take their desire for victory unreasonably far? This is not something that you can learn. It can only be taught by getting taken to school by the hard knocks of life.
 
-Skill can take you pretty far as long as the problems you face [look like problems you've already learned to solve](/problem-solving-process/). But no two street fighters, boxing opponents, or competitors are the same. If you have greater willpower, you will always find a way to win.
+Skill can take you pretty far as long as the problems you face [look like problems you’ve already learned to solve](/problem-solving-process/). But no two street fighters, boxing opponents, or competitors are the same. If you have greater willpower, you will always find a way to win.
 
 Even if you have fewer abilities and less experience. Even if your opponent beats you on speed, strength, height, power, and stance. Will to win alone allows you to make up for disadvantages, endure powerful punches, and grind down a fighter who is not willing to die.
 
@@ -82,13 +83,13 @@ You can’t lose anywhere near that number of fights and survive on the streets 
 
 The problem with life is that it’s too easy. Our goals aren’t life or death but healthy or fast food.
 
-A good friend of mine always says that one of the problems guys have today is that they have no idea what it's like to be punched in the face. He's 100 percent correct and in more ways than he probably realizes.
+A good friend of mine always says that one of the problems guys have today is that they have no idea what it’s like to be punched in the face. He’s 100 percent correct and in more ways than he probably realizes.
 
 People have no idea of danger, so they think everything hurts. Yeah, it’s hard to quit sugar for a while and get your reps in daily. But if *not* eating a certain food is one of the most difficult challenges you’ve ever faced, you’ve never really been pushed. But you can take just about anything if you’ve taken a punch.
 
 ## What is like being punched in the face by life
 
-Let me describe it if you've never been punched in the face.
+Let me describe it if you’ve never been punched in the face.
 
 Getting punched in the face hurts. Your first reaction is righteous anger. Your first instinct is rapid revenge. But if you lose your discipline and give in to those feelings, you will most likely lose–and in a devastating fashion.
 
@@ -108,7 +109,7 @@ This works for whatever you want in life or whoever you find yourself competing 
 
 Victory is not about words but deeds.
 
-Most people today try to use words to make their point. If that doesn't work, [they complain about how it makes them feel.](/why-do-people-complain) They have no idea what it's like to be in a real conflict where the only way to make your point is to silence the opposition.
+Most people today try to use words to make their point. If that doesn’t work, [they complain about how it makes them feel.](/why-do-people-complain) They have no idea what it’s like to be in a real conflict where the only way to make your point is to silence the opposition.
 
 People are silenced with actions, not words. Violent actions. Fighting to the death is the ultimate expression of *acta non verba*, a Latin phrase that means “words not deeds.” In a fight, [no one cares how you feel](/no-one-gives-a-shit-about-you/) unless you feel too good. Then they try to change that.
 

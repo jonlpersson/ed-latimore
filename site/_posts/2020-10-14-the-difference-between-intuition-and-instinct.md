@@ -4,8 +4,7 @@ article_type: Article
 title: The difference between intuition and instinct
 permalink: /intuition-vs-instinct/
 tags:
-  - mental-toughness
-  - longevity-health-and-performance
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -91,7 +90,7 @@ Intuition is worth it no matter how painful it is to come by, literally or other
 
 Superior intuition is one of three factors that determine who ascends to the top of any field. The other two are superior technique and superior ability.
 
-"Technique" is the execution of the most efficient movement and ability is how effective said movement is. If the distinction isn’t clear, consider something a former NFL player once told me. He said that everyone is strong and fast (ability). At that level, the only differences are technique and football smarts (intuition).
+“Technique” is the execution of the most efficient movement and ability is how effective said movement is. If the distinction isn’t clear, consider something a former NFL player once told me. He said that everyone is strong and fast (ability). At that level, the only differences are technique and football smarts (intuition).
 
 Intuition is a key advantage is obvious in sports with weight class restrictions so everyone falls within a predetermined range. This limits how great the difference can be in opponents’ physical attributes.
 
@@ -117,7 +116,7 @@ But before that, speed is positioning. This attribute is overlooked because it�
 
 Who cares how fast the other guy can solve the problem if you simply know the answer without thinking? That’s the power of intuition.
 
-It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You're much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *That’s intuition.*
+It doesn’t matter how fast a punch is thrown if you’re always in the best position to neutralize and counter it. You’re much more likely to make the correct decision in less time with a greater reserve of energy to properly continue your plan. *That’s intuition.*
 
 This applies to everything in life. If you want to improve your intuition, get more experience in the field you wish to improve. It requires sustained effort, an appetite for risk, and a desire to improve. Pass the tests and intuition is yours—it will serve you for the rest of your life.
 

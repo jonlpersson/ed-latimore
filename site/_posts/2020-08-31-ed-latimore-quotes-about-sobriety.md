@@ -4,7 +4,7 @@ article_type: Article
 title: 53 original sobriety quotes for addiction recovery
 permalink: /ed-latimore-sobriety-quotes/
 tags:
-  - getting-sober
+  - sober-life
 categories:
   - Book-Summaries-And-Ed-Latimore-Quotes
 description: >-
@@ -12,21 +12,21 @@ description: >-
   I hope these help someone struggling with their addiction as well.
 image: /assets/images/thumbnails/ed-smile-pose.jpeg
 ---
-Alcohol abuse and sobriety can affect you for the rest of your life, but both for very different reasons. When I decided to get sober, I knew it would be worth it, but I didn't quite know what to expect on my recovery journey. I'm fortunate that it was relatively simple, but I know that's not the case for everyone.
+Alcohol abuse and sobriety can affect you for the rest of your life, but both for very different reasons. When I decided to get sober, I knew it would be worth it, but I didn’t quite know what to expect on my recovery journey. I’m fortunate that it was relatively simple, but I know that’s not the case for everyone.
 
-If you're working on getting your life right and [free from the grips of alcohol](/how-to-stop-drinking-on-your-own/) or substance abuse, you will have some tough days. You'll need a quick pick-me-up or reminder of why you're doing this. That's why I put together these inspirational quotes to [get recovering addicts through the tough days.](/sobriety-benefits/)
+If you’re working on getting your life right and [free from the grips of alcohol](/how-to-stop-drinking-on-your-own/) or substance abuse, you will have some tough days. You’ll need a quick pick-me-up or reminder of why you’re doing this. That’s why I put together these inspirational quotes to [get recovering addicts through the tough days.](/sobriety-benefits/)
 
-I don't care if you're kicking drug addiction, an eating disorder, alcohol, or even just trying to get your social media addiction under control. My demon was alcohol addiction, but anyone going through any type of addiction recovery can find inspiration and daily reminders in these recovery quotes.
+I don’t care if you’re kicking drug addiction, an eating disorder, alcohol, or even just trying to get your social media addiction under control. My demon was alcohol addiction, but anyone going through any type of addiction recovery can find inspiration and daily reminders in these recovery quotes.
 
 <div class="cms-embed" data-cms-embed="PHNjcmlwdCBhc3luYyBkYXRhLXVpZD0iYTg3Mzc5ZTQxMiIgc3JjPSJodHRwczovL21pbmQtYW5kLWZpc3QuY2sucGFnZS9hODczNzllNDEyL2luZGV4LmpzIj48L3NjcmlwdD4="><script async="" data-uid="a87379e412" src="https://mind-and-fist.ck.page/a87379e412/index.js"></script></div>
 
 ### Where are these inspirational quotes about addiction recovery from?
 
-I've taken these quotes from various pieces of my writing on various platforms. All of these quotes are Ed Latimore original statements from a combination of my social media platforms, my website, my newsletter, and my best-selling book ["Sober Letters To My Drunken Self".](/products/sober-letters/)
+I’ve taken these quotes from various pieces of my writing on various platforms. All of these quotes are Ed Latimore original statements from a combination of my social media platforms, my website, my newsletter, and my best-selling book [“Sober Letters To My Drunken Self”.](/products/sober-letters/)
 
-I don't claim to be an expert on recovery. I'm just a guy who took things one day at a time and [tries to help others.](/how-to-have-fun-and-socialize-sober/) Getting sober was the best gift I've ever given to myself, so it's my responsibility to give something back to everyone who is struggling.
+I don’t claim to be an expert on recovery. I’m just a guy who took things one day at a time and [tries to help others.](/how-to-have-fun-and-socialize-sober/) Getting sober was the best gift I’ve ever given to myself, so it’s my responsibility to give something back to everyone who is struggling.
 
-It doesn't matter how slowly you go. Only that you keep making moves. We don't aim for perfection. Only progress. May these sobriety quotes help you get up from rock bottom and stay up once you're on your feet.
+It doesn’t matter how slowly you go. Only that you keep making moves. We don’t aim for perfection. Only progress. May these sobriety quotes help you get up from rock bottom and stay up once you’re on your feet.
 
 ***Watch my Ted Talk on what I learned about the relationship between addiction and identity.***
 
@@ -36,13 +36,13 @@ It doesn't matter how slowly you go. Only that you keep making moves. We don't a
 
 One cool thing about not drinking:
 
-Knowing how to find entertainment that isn't centered around alcohol. It's amazing how many people have no idea how to socialize without a bar.
+Knowing how to find entertainment that isn’t centered around alcohol. It’s amazing how many people have no idea how to socialize without a bar.
 
 ---
 
-There is not a single area of my life that didn't improve when I stopped drinking.
+There is not a single area of my life that didn’t improve when I stopped drinking.
 
-It's amazing how one choice can make all the difference for your entire life.
+It’s amazing how one choice can make all the difference for your entire life.
 
 ---
 
@@ -54,7 +54,7 @@ Arrogance has probably caused more alcoholics to fall off the wagon than denial.
 
 ---
 
-One of the things about my drinking is that I wasn't addicted to booze, per se. I was more addicted to the ritual and the partying surrounding it.
+One of the things about my drinking is that I wasn’t addicted to booze, per se. I was more addicted to the ritual and the partying surrounding it.
 
 I associated good times with drinking so whenever I wanted to feel good, I drank.
 
@@ -62,21 +62,21 @@ Whenever I talk to addicts, I hear a similar story
 
 ---
 
-People have a different reaction when you tell them "I'm sober" vs "I don't drink".
+People have a different reaction when you tell them “I’m sober” vs “I don’t drink”.
 
-If you just stopped drinking and you've got social anxiety about it, the former almost never gets push back. In fact, it often comes with odd congratulations.
+If you just stopped drinking and you’ve got social anxiety about it, the former almost never gets push back. In fact, it often comes with odd congratulations.
 
 ---
 
 Sobriety is a great way to clean your social house.
 
-It's amazing how many fewer friends I had when it became "let's meet for coffee" rather than "let's meet for drinks".
+It’s amazing how many fewer friends I had when it became “let’s meet for coffee” rather than “let’s meet for drinks”.
 
-Most people are one missed happy hour away from total loneliness. They'd rather bad company than none at all
+Most people are one missed happy hour away from total loneliness. They’d rather bad company than none at all
 
 ---
 
-The cool thing about sobriety is that it forces you to learn what you like and don't like.
+The cool thing about sobriety is that it forces you to learn what you like and don’t like.
 
 A lot of stupid shit is enjoyable when you kill a few pitchers to make the time pass.
 
@@ -96,11 +96,11 @@ Liquid courage is temporary. The pictures on the internet of you being a drunk a
 
 ---
 
-The only "negative" side effect of sobriety: You'll be alone with your thoughts and emotions for the first time. This is more terrifying than most imagine.
+The only “negative” side effect of sobriety: You’ll be alone with your thoughts and emotions for the first time. This is more terrifying than most imagine.
 
 **[For more twitter quotes of mine, follow me here](https://twitter.com/EdLatimore){: target="_blank" rel="noopener noreferrer"}.**
 
-## Sobriety quotes from "How to know if you have a drinking problem"
+## Sobriety quotes from “How to know if you have a drinking problem”
 
 If you’re drinking alcohol because you lack ambition, you don’t have a drinking problem. It’s not alcohol abuse if you want nothing more out of life.
 
@@ -122,7 +122,7 @@ If you want more from life, a hangover is a waste of time.
 
 Fail because you didn’t work hard enough — not because you got a DUI. Lose friends because you’re an asshole — not a sloppy drunk. Have control over your life — even over the mistakes.
 
-## Inspirational quotes from "The alcohol detox diet I used to get sober"
+## Inspirational quotes from “The alcohol detox diet I used to get sober”
 
 The most difficult thing to change isn’t your alcohol consumption, drug abuse, or negative emotions. The hardest thing to change is your mindset, perspective, and habits.
 
@@ -134,7 +134,7 @@ The key is understanding that mental health IS physical health; the two cannot b
 
 Your sobriety shouldn’t be defined by what you no longer do but by what you’re currently doing to make yourself healthier, stronger, and more confident.
 
-## Motivational quotes from "6 steps to quit drinking on your own"
+## Motivational quotes from “6 steps to quit drinking on your own”
 
 I admitted that I was an alcoholic, that I was scared, and that I needed to make a change. If I couldn’t first accept this, then there was no chance I would ever fix it.
 
@@ -184,9 +184,9 @@ Implementing these new habits takes time, but reducing or eliminating your alcoh
 
 {% include widgets/summary.html id="Sober-Letters" %}
 
-## Sobriety quotes from "How to socialize and have fun sober"
+## Sobriety quotes from “How to socialize and have fun sober”
 
-Ask yourself, "*What do I get out of drinking with people that you don’t get from spending time sober with them?"*
+Ask yourself, “*What do I get out of drinking with people that you don’t get from spending time sober with them?”*
 
 ---
 
@@ -236,7 +236,7 @@ This is how you become the master of the environment that once enslaved you.
 
 **[Read more about having fun without alcohol here.](/how-to-have-fun-and-socialize-sober/)**
 
-## Addiction recovery quotes from "8 years of sobriety: Observations and lessons"
+## Addiction recovery quotes from “8 years of sobriety: Observations and lessons”
 
 When you stop drinking, you start thinking.
 
@@ -298,7 +298,7 @@ The only way this advantage would erode is if everyone stopped drinking.
 
 [Check out more of my observations on sobriety by reading the entire article here.](/sobriety-benefits/)
 
-## Sober quotes from Ed Latimore's "Sober Letters To My Drunken Self"
+## Sober quotes from Ed Latimore’s “Sober Letters To My Drunken Self”
 
 Even though every addict has a different story, there are certain commonalities; one that is critical is the desire for acceptance.
 

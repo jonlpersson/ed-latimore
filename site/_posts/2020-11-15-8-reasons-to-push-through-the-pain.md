@@ -4,7 +4,7 @@ article_type: Article
 title: 8 reasons to push through the pain
 permalink: /pushing-through-the-pain/
 tags:
-  - longevity-health-and-performance
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -48,7 +48,7 @@ The average person tries to avoid pain. This is why the average person leads an 
 
 In boxing, short of a quick knockout, I cannot win without getting hit. Getting hit by a guy trained to fight is never going to be pleasant.
 
-I can defend his shots, but I still have nerves in my arms and hands. As the fight goes on, I'll inevitably get hit and all of those hits will hurt. I can not experience the glory of victory without suffering pain.
+I can defend his shots, but I still have nerves in my arms and hands. As the fight goes on, I’ll inevitably get hit and all of those hits will hurt. I can not experience the glory of victory without suffering pain.
 
 This is a powerful analogy and lesson for life. If you want to make more money, you have to experience the discomfort of pushing your mind and body to the limit to acquire skills and log hours as you create a product, launch a business, or win a competition.
 
@@ -56,7 +56,7 @@ To make friends and meet lovers, you have to endure the pain of social awkwardne
 
 To have a noteworthy life, you must accomplish noteworthy things. Accomplishing noteworthy things means you must endure noteworthy pain because it’s the only way to acquire noteworthy rewards.
 
-> **"The pain you feel today will be the strength you feel tomorrow."**
+> **“The pain you feel today will be the strength you feel tomorrow.”**
 >
 > **\-****Arnold Schwarzenegger**
 
@@ -68,7 +68,7 @@ It slowly but surely becomes easier to do things that are painful. It becomes ea
 
 You start out slowly, making one painful but necessary decision in your life but one that leads to an excellent result. Seeing the result is a good experience that makes you more likely to choose the difficult choice in the future. When it comes time to make the difficult decision again, you do it but with a little less internal resistance. This is how the habit of enduring temporary suffering for long-term gain begins.
 
-This process is never quick. Like any habit, it takes time to build. Furthermore, the results don't happen instantly.
+This process is never quick. Like any habit, it takes time to build. Furthermore, the results don’t happen instantly.
 
 Changing your body takes time, changing your social and love life takes time and changing your income level takes time. But getting small victories along the way as a result of the effort you put in makes enduring future pain easier.
 
@@ -76,15 +76,15 @@ Changing your body takes time, changing your social and love life takes time and
 
 I tell guys all the time that running has never been enjoyable to me.
 
-They say some people experience a runner's high, but I'm not one of them. However, not only do I run 5-6 days a week, I don't have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result. The same is true in boxing.
+They say some people experience a runner’s high, but I’m not one of them. However, not only do I run 5-6 days a week, I don’t have to force myself to do it either. I embrace the pain of running (the physical strain and oftentimes boredom) because it improves my mental clarity and physical abilities. Those benefits take a while to see, but I have to stick with it for a while to see a result. The same is true in boxing.
 
 ![pushing through the pay roy jones jr ed latimore](/assets/images/posts/2020/pushing-through-the-pain-ed-latimore.jpg "After sparring with Roy Jones Jr. for a few rounds. My face is swollen, but that's part of the benefit of pain.")
 
 Then the benefits I get from running spill over and give me secondary benefits.
 
-For my boxing training, I increase my endurance which allows me to endure more pain as I spar and train. This allows me to spend more time hurting in practice so I can become a better fighter. If I'm a better fighter, then I can perform better during a fight.
+For my boxing training, I increase my endurance which allows me to endure more pain as I spar and train. This allows me to spend more time hurting in practice so I can become a better fighter. If I’m a better fighter, then I can perform better during a fight.
 
-I believe that most people are capable of running 5 miles, regardless of their level of training. It's only their mental barriers that make them believe otherwise. If you pushed yourself through this pain, you'd realize that being hurt is no big deal.
+I believe that most people are capable of running 5 miles, regardless of their level of training. It’s only their mental barriers that make them believe otherwise. If you pushed yourself through this pain, you’d realize that being hurt is no big deal.
 
 This leads nicely into the next truth about pain.
 
@@ -94,25 +94,25 @@ Most people view pain as a response to something being wrong. This is not entire
 
 Not all pain is the same. The type of pain you experience determines the best response.
 
-Pain is the way you know that you’re being strained past your comfort zone. It's a sign that you have moved beyond the borders that you're used to. This pain is a sign that you’re in the “Goldilocks Zone” of growth–not so easy that you’re bored but not so difficult that it’s truly impossible.
+Pain is the way you know that you’re being strained past your comfort zone. It’s a sign that you have moved beyond the borders that you’re used to. This pain is a sign that you’re in the “Goldilocks Zone” of growth–not so easy that you’re bored but not so difficult that it’s truly impossible.
 
 We know that most people live in a space where life is too easy, but what happens when you go too far and enter the realm of things that are impossible for you?
 
 If you pull or tear a muscle, you went too far out of your comfort zone. But if you just have sore muscles after working out, then you went just far enough. In both of the scenarios, you experience pain. The difference is that in the first situation, you went beyond your limits and what is possible for you.
 
-Even if you experience injury, you learn where your limits are and how to better ride that line of maximum performance. You don't learn and you go grow without pain. You just remain the same.
+Even if you experience injury, you learn where your limits are and how to better ride that line of maximum performance. You don’t learn and you go grow without pain. You just remain the same.
 
 ## 6) Emotional pain follows the same rules
 
 Your personal life is no different.
 
-If you try to make new friends, you can come off as too aggressive or self-centered which leads to rejection. You might feel awkward while you're talking to new people and like you're making a bit of a fool yourself. Some people will want nothing to do with you but others will still want to hang out. Or you can let your social anxiety win and you never meet a new person again.
+If you try to make new friends, you can come off as too aggressive or self-centered which leads to rejection. You might feel awkward while you’re talking to new people and like you’re making a bit of a fool yourself. Some people will want nothing to do with you but others will still want to hang out. Or you can let your social anxiety win and you never meet a new person again.
 
-In the first scenario, you push too hard and you still don't have any new friends. However, you made a push and now you know there's a line you can dial it back to. In the second scenario, you endure the unpleasantness of social awkwardness, but you experience the reward of making a new friend.
+In the first scenario, you push too hard and you still don’t have any new friends. However, you made a push and now you know there’s a line you can dial it back to. In the second scenario, you endure the unpleasantness of social awkwardness, but you experience the reward of making a new friend.
 
 Only in the last scenario, where you gave into fear and embraced comfort, that nothing happens. There is no growth, change, or learning.
 
-> "No pain, no gain"
+> “No pain, no gain”
 >
 > \-Unknown
 
@@ -120,25 +120,25 @@ Only in the last scenario, where you gave into fear and embraced comfort, that n
 
 If I avoid the pain of working out, I may get by for a fight or two, but I will eventually pay for not pushing myself.
 
-If I don't push through tough workouts, I'll never know if I have what it takes to do so in the heat of battle. During the fight, I'll put all of my efforts into avoiding pain, then I will not fight well.
+If I don’t push through tough workouts, I’ll never know if I have what it takes to do so in the heat of battle. During the fight, I’ll put all of my efforts into avoiding pain, then I will not fight well.
 
-The rounds feel longer, my lungs feel like they have less air, my legs feel like stone, and my opponent's punches hurt a little more.
+The rounds feel longer, my lungs feel like they have less air, my legs feel like stone, and my opponent’s punches hurt a little more.
 
-I’ve seen more than a few fights where a guy gets hit and it's not terribly hard, but it's hard enough for him and suddenly he can't get up. They aren't comfortable with pain so they have developed the habit of avoiding pain.
+I’ve seen more than a few fights where a guy gets hit and it’s not terribly hard, but it’s hard enough for him and suddenly he can’t get up. They aren’t comfortable with pain so they have developed the habit of avoiding pain.
 
 Either you’re moving towards what you want or away from what you don’t want. Either you’re learning to embrace suffering or you’re training to live the life of a coward who is enslaved by his fear of pain.
 
-***This doesn't mean you go looking for pain for pain's sake. It just means that you suffer now so that you don't have to later.***
+***This doesn’t mean you go looking for pain for pain’s sake. It just means that you suffer now so that you don’t have to later.***
 
-If you avoid the short-term acute pain, you'll suffer much more in the long run.
+If you avoid the short-term acute pain, you’ll suffer much more in the long run.
 
 {% twitter https://twitter.com/EdLatimore/status/1116665127305121793 %}
 
-## 8) There's a difference between being hurt and injured
+## 8) There’s a difference between being hurt and injured
 
 When I played football the coach would ask a question whenever there was someone feeling set back by the pain that inevitably came with practice. “Are you hurt or are you injured?”
 
-Both conditions are painful, but there is a difference. You can continue to play through being hurt. It’s merely a matter of pain tolerance. Sometimes it's intense but not debilitating.
+Both conditions are painful, but there is a difference. You can continue to play through being hurt. It’s merely a matter of pain tolerance. Sometimes it’s intense but not debilitating.
 
 Injury is debilitating. Injury is an actual change in your condition that prevents performance. You cannot play through injury.
 
@@ -146,7 +146,7 @@ Injury is the thing you actively want to avoid if possible. These are the things
 
 In boxing, the distinction is very clear.
 
-You can suffer all match, but the referee won't stop the fight as long as you are fighting back. But if you don’t respond to a barrage of punches for too long, then the referee can and will stop the fight. If you don't get off the canvas, the fight is over. In both situations, you have effectively suffered an injury. Even if you aren't in serious pain, you have demonstrated the inability to continue.
+You can suffer all match, but the referee won’t stop the fight as long as you are fighting back. But if you don’t respond to a barrage of punches for too long, then the referee can and will stop the fight. If you don’t get off the canvas, the fight is over. In both situations, you have effectively suffered an injury. Even if you aren’t in serious pain, you have demonstrated the inability to continue.
 
 ![pushing through the pain ct scan ed latimore](/assets/images/posts/pushing-through-the-pain-ct-scan-ed-latimore.jpg "You can see the break right below the right eye socket. You can't fight through this injury.")
 
@@ -167,7 +167,7 @@ Turns out that the little flicker of a jab that I sustained hit my eye at just t
 5. Not all pain is the same
 6. Emotional pain is follows the same rules
 7. You risk chronic pain by avoiding acute pain
-8. There's a difference between being hurt and injured
+8. There’s a difference between being hurt and injured
 
 The best and worst things in life walk hand in hand. There is no pleasure without pain. The more you seek to avoid one, the more you forfeit the experience of the other.
 

@@ -4,7 +4,7 @@ article_type: Article
 title: 5 lessons from working at a homeless shelter
 permalink: /working-at-a-homeless-shelter/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Reality
 description: >-
@@ -17,7 +17,7 @@ For a short period of my life, I worked as a security guard at a men’s homeles
 
 A social worker of sorts would process in each homeless man. My job was to [inspect their bags for drugs](/crackhead/), alcohol, or weapons. I scanned them with a metal detecting rod and made sure they weren’t high or intoxicated.
 
-Like all “security” jobs, I wasn’t supposed to actually intervene in a physical manner if things got out of hand. I was just to call the police if things got out of hand. This was, for the most part, the easiest job I’d ever do. However, it did have it's moments.
+Like all “security” jobs, I wasn’t supposed to actually intervene in a physical manner if things got out of hand. I was just to call the police if things got out of hand. This was, for the most part, the easiest job I’d ever do. However, it did have it’s moments.
 
 Notable moments from working at the homeless shelter include:
 
@@ -26,25 +26,25 @@ Notable moments from working at the homeless shelter include:
 * Dealing with police officers more in 6 months than I did for the rest of my life
 * Someone from the homeless shelter breaking into my car
 
-The job didn’t teach me anything new about human nature, but I did learn a few things about homeless people and myself. Prepare to have most of what you've been told about the homeless population to be challenged.
+The job didn’t teach me anything new about human nature, but I did learn a few things about homeless people and myself. Prepare to have most of what you’ve been told about the homeless population to be challenged.
 
-I'm not saying that my perspective is the most accurate, but between this job and volunteer assignments, I've seen how many think and behave. What I've found may surprise you.
+I’m not saying that my perspective is the most accurate, but between this job and volunteer assignments, I’ve seen how many think and behave. What I’ve found may surprise you.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 
 ## 1) Time waits for no man: the truth about the homeless
 
-There’s this prevailing myth that most homeless people are military vets or suffer from mental illness. [This simply isn't true](https://policyadvice.net/insurance/insights/homelessness-statistics/){: target="_blank" rel="noopener noreferrer"}.
+There’s this prevailing myth that most homeless people are military vets or suffer from mental illness. [This simply isn’t true](https://policyadvice.net/insurance/insights/homelessness-statistics/){: target="_blank" rel="noopener noreferrer"}.
 
 I watched about 500 homeless people get processed over my six months there. I’m not sure how many had prior service with our military, but I remember only 1 who had a mental illness to the point where someone should have had someone else taking care of him.
 
-Most of them were guys [who’d done 5-10+ years in prison](https://www.prisonpolicy.org/reports/housing.html){: target="_blank"} and their friends/family moved on. Since they're convicted felons, the criminal justice system makes it virtually impossible for them to get work. They had simply run out of options to make money and did not have a support system.
+Most of them were guys [who’d done 5-10+ years in prison](https://www.prisonpolicy.org/reports/housing.html){: target="_blank"} and their friends/family moved on. Since they’re convicted felons, the criminal justice system makes it virtually impossible for them to get work. They had simply run out of options to make money and did not have a support system.
 
 This is a difficult situation for people to imagine who have never been incarcerated or had someone close to them do time. While there are resources in prison to better yourself, imagine how difficult it can be to do that in an environment with other criminals. Sure, there are the exceptions who make it out but for the most part, what happens is exactly what you’d expect.
 
 If you avoid going to prison, your life is going to be mostly alright. It may not be spectacular, but you’ll always be in a position to improve. Of course, you have to consider what type of person you’re typically dealing with when you talk about people who get jail time of this nature.
 
-***\[Note: If you're looking to get into a home after doing time in prison and you're having difficulty, this is a great resource on [securing housing after incarceration.](https://www.bankrate.com/insurance/homeowners-insurance/secure-housing-after-incarceration/&#41;){: target="_blank" rel="noopener"}\]***
+***\[Note: If you’re looking to get into a home after doing time in prison and you’re having difficulty, this is a great resource on [securing housing after incarceration.](https://www.bankrate.com/insurance/homeowners-insurance/secure-housing-after-incarceration/&#41;){: target="_blank" rel="noopener"}\]***
 
 ## 2) The problem with being unlikable: how do you become homeless?
 
@@ -62,9 +62,9 @@ I often cut up on minimalism because I believe it’s most people justifying a l
 
 While I’m a firm believer that everyone should be happy with what they have, “minimalists” often ​highlight​ their lack of modern convenience as a mark of superiority. Rather than just saying they don’t make enough or aren’t ambitious enough to earn more, they make their lifestyle of lack seem preferable.
 
-This is most people. I met two different truckers who decided that it was simply more sensible to stay in homeless encampments and shelters than it was to rent an apartment. These were guys in their 50's, never married, and didn’t have kids.
+This is most people. I met two different truckers who decided that it was simply more sensible to stay in homeless encampments and shelters than it was to rent an apartment. These were guys in their 50’s, never married, and didn’t have kids.
 
-Whichever city they were in, they just found the homeless shelters and tried to get in there first for the night. Truckers make decent money. Certainly enough to not need this. It's not the path I would take, but I get it.
+Whichever city they were in, they just found the homeless shelters and tried to get in there first for the night. Truckers make decent money. Certainly enough to not need this. It’s not the path I would take, but I get it.
 
 To me, this was a true minimalist lifestyle and is something that has always stuck with me.
 
@@ -74,9 +74,9 @@ I witnessed some tragic scenes at the homeless shelter. I saw more than one guy 
 
 This is one of those experiences that is far better to learn vicariously. You don’t need to learn EVERYTHING the hard way. You won’t survive long enough to reap the benefits of the lessons if you do.
 
-There are several stats about how most Americans [don’t have anything saved](https://www.cnbc.com/2019/01/23/most-americans-dont-have-the-savings-to-cover-a-1000-emergency.html){: target="_blank"}. Some people doubt that the majority of Americans have less than $1000 saved, but I've seen this happen too many times to doubt it. [Even if a person has $10,000 saved](https://www.cnbc.com/2018/09/27/heres-how-much-money-americans-have-in-savings-at-every-income-level.html#:~:text=The%20average%20American%20household%20has,American%20household%20has%20only%20%2411%2C700.){: target="_blank"}, how long would last in a place like San Francisco or New York?
+There are several stats about how most Americans [don’t have anything saved](https://www.cnbc.com/2019/01/23/most-americans-dont-have-the-savings-to-cover-a-1000-emergency.html){: target="_blank"}. Some people doubt that the majority of Americans have less than $1000 saved, but I’ve seen this happen too many times to doubt it. [Even if a person has $10,000 saved](https://www.cnbc.com/2018/09/27/heres-how-much-money-americans-have-in-savings-at-every-income-level.html#:~:text=The%20average%20American%20household%20has,American%20household%20has%20only%20%2411%2C700.){: target="_blank"}, how long would last in a place like San Francisco or New York?
 
-I'm inclined to believe they're true. If you don’t have anything saved, [work on building value and income streams](/stop-being-poor/) because being homeless is no way to live.
+I’m inclined to believe they’re true. If you don’t have anything saved, [work on building value and income streams](/stop-being-poor/) because being homeless is no way to live.
 
 ## 5) Some people wait for things to get better—others force the issue
 
@@ -93,12 +93,12 @@ Most people would have waited and made excuses. These two dudes took their life 
 So, to recap, the five lessons I learned from working with homeless people are:
 
 1. Time waits for no one
-2. Don't be unlikable
-3. There's a difference between minimalism and poverty
+2. Don’t be unlikable
+3. There’s a difference between minimalism and poverty
 4. Most of us are one paycheck away from a disaster
 5. [Change your life](https://edlatimore.com/change-your-life/) instead of waiting for it to change
 
-I learned from the homeless so you don't have to. The rest is up to you.
+I learned from the homeless so you don’t have to. The rest is up to you.
 
 #### [Check out the rest of my articles on living in the hood](https://edlatimore.com/living-in-the-hood)
 

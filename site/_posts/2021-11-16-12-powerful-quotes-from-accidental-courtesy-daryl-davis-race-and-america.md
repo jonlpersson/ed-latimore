@@ -5,7 +5,6 @@ title: 'Accidental Courtesy: Daryl Davis, Race & America quotes'
 permalink: /accidental-courtesy-quotes/
 tags:
   - book-quotes-and-summaries
-  - how-to-make-friends
 categories:
   - Relationships
   - Book-Summaries-And-Ed-Latimore-Quotes
@@ -14,13 +13,13 @@ description: >-
   members of the Ku Klux Klan in hopes of converting them and stopping hate. 
 image: /assets/images/thumbnails/accidental-courtesy.jpeg
 ---
-I recently watched a documentary called "Accidental Courtesy: Daryl Davis, Race, and America." Accidental Courtesy was produced by Matt and Noah Ornstein and follows Daryl Davis, an accomplished musician who also happens to be a black man, as he meets with friends he's made in the Ku Klux Klan (KKK).
+I recently watched a documentary called “Accidental Courtesy: Daryl Davis, Race, and America.” Accidental Courtesy was produced by Matt and Noah Ornstein and follows Daryl Davis, an accomplished musician who also happens to be a black man, as he meets with friends he’s made in the Ku Klux Klan (KKK).
 
-Davis has met with various white supremacists and klan members for years, driven by a single question: "How can you hate me when you don't even know me?" In these meetings, Davis has convinced many to leave the Klan and become advocates of non-violence.
+Davis has met with various white supremacists and klan members for years, driven by a single question: “How can you hate me when you don’t even know me?” In these meetings, Davis has convinced many to leave the Klan and become advocates of non-violence.
 
-***\[He details many of those accounts in his book Klandestine Relationships. [I've summarized the big ideas in that book here](/daryl-davis-book/).\]***
+***\[He details many of those accounts in his book Klandestine Relationships. [I’ve summarized the big ideas in that book here](/daryl-davis-book/).\]***
 
-However, not all are immediately sold on the power of his approach. The film shows a meeting he has with Black Lives Matter activists Kwame Rose, Tariq Toure, and J.C. Faulk. The interaction becomes heated as they accuse him of being a "pimp at the pulpit" and a "sellout" and accuse him of being self-serving with his unusual hobby of socializing with members of the Ku Klux Klan.
+However, not all are immediately sold on the power of his approach. The film shows a meeting he has with Black Lives Matter activists Kwame Rose, Tariq Toure, and J.C. Faulk. The interaction becomes heated as they accuse him of being a “pimp at the pulpit” and a “sellout” and accuse him of being self-serving with his unusual hobby of socializing with members of the Ku Klux Klan.
 
 There are even members of the KKK, like Frank Ancona who appear in full Klan garb, embrace Daryl in friendship, but say he can never leave the Klan. The film will challenge many ideas you have about the state of race relations in the United States all while being educational and entertaining.
 
