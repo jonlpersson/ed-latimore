@@ -281,7 +281,7 @@ With that said, Winning is the best and you should get them if you can. I don’
 
 ### Hayabusa T3 Kanpeki Gloves
 
-&nbsp;![](/assets/images/posts/hayabusa-t3-kanpeki-gloves-both.jpg){: width="4000" height="3000"}
+&nbsp;![Hayabusa T3 Kanpeki Gloves](/assets/images/posts/hayabusa-t3-kanpeki-gloves-both.jpg){: width="4000" height="3000"}
 
 I decided to check these gloves out after Hayabusa reached out to me to try some of their products. I don’t receive any affiliate commission and didn’t receive any payment, but I got the gloves for free under the condition that if I thought they were solid, I’d mention them in this article.
 
@@ -291,13 +291,15 @@ For starters, Hayabusa managed to make a glove that has incredible padding and p
 
 With the T3 Kanpeki, my fist feels simultaneously feels like I have the padding and protection of a 16 oz glove, but it feels so snug and tight that when I hit the bag, I honestly couldn’t believe I wasn’t in a 14 oz glove. This feature, by itself, won me over. But there’s even more...
 
+![Back and front of Hayabusa T3 Kanpecki Gloves](/assets/images/posts/t3-kanpeki-hayabusa-gloves.png){: width="1280" height="720"}
+
 &nbsp;The T3 Kanpeki uses a double strap system for the wrist. Instead of just one velcro strap around the outside of the wrist, there are two that cross one another to create a snug feeling. Now, if you like to be able to quickly get your bag gloves on and off, this may not be for you. With that said, this design is still faster than tie-up gloves and, becuase the tension is distributed over two fasteners, the glove should last longer.
 
-Everyone hates when the velcro in their gloves gives out because you can't just add new velcro. You have to buy new gloves. This design should greatly extend the life of your gloves, which is why at $164, these gloves are an excellent investment. They'll last long, keep your hands safe, and you won't sacrifice the feeling of contact that you keep in lighter gloves.
+Everyone hates when the velcro in their gloves gives out because you can’t just add new velcro. You have to buy new gloves. This design should greatly extend the life of your gloves, which is why at $164, these gloves are an excellent investment. They’ll last long, keep your hands safe, and you won’t sacrifice the feeling of contact that you keep in lighter gloves.
 
 [**Pick up a pair of T3 Kanpeki here**](https://www.hayabusafight.com/products/t3-kanpeki-boxing-gloves?variant=42045553410230%20){: target="_blank" rel="noopener"}
 
-[**Also, check out the rest of Hayabusa's line up.**](https://www.hayabusafight.com/)
+[**Also, check out the rest of Hayabusa’s line up.**](https://www.hayabusafight.com/)
 
 #### Rival RB2 Super Bag Gloves
 
