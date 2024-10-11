@@ -4,7 +4,7 @@ article_type: Article
 title: 5 things I learned growing up in the projects
 permalink: /the-projects/
 tags:
-  - living-in-the-hood
+  - street-smarts
 categories:
   - Reality
 image: /assets/images/posts/housing-projects.jpg
@@ -44,7 +44,7 @@ Housing projects tend to be the worst kind of ghetto — you gotta be a special 
 
 But I made it out.
 
-Actually, "survived" is more accurate because many things can imprison you in the hood forever. I could have gotten a girl pregnant as a teen, been arrested, or been killed.
+Actually, “survived” is more accurate because many things can imprison you in the hood forever. I could have gotten a girl pregnant as a teen, been arrested, or been killed.
 
 It wasn’t easy, but I avoided all these things.
 
@@ -56,7 +56,7 @@ This is the type of education you can only experience, survive, and then say to 
 
 ## 5 lessons I learned growing up in the projects
 
-Let's get into my experience growing up in the projects and what I learned from it.
+Let’s get into my experience growing up in the projects and what I learned from it.
 
 ## Good manners go a long way in the hood
 
@@ -74,7 +74,7 @@ While not everyone has a gun, they might not care about an assault charge to def
 
 Through a powerful negative feedback loop, I learned that treating people with respect is better no matter the situation. I continue to do this to this day and has rewarded me tenfold throughout my life.
 
-***\[Read: ["How to avoid a fight, and what to do if you can't"](/how-to-win-a-street-fight/)\]***
+***\[Read: [“How to avoid a fight, and what to do if you can’t”](/how-to-win-a-street-fight/)\]***
 
 ## In the ghetto, safety and security is an illusion
 
@@ -90,7 +90,7 @@ People will rob or try to hurt you, even if you never thought they would.
 
 It teaches you to value everything you have and take extra care to protect the things you love the most.
 
-***A rough life comes with a lot of lessons. You can pick up many from reading this breakdown of [Biggie Small's The 10 Crack Commandments](/ten-crack-commandments-business-and-life-lessons/)***
+***A rough life comes with a lot of lessons. You can pick up many from reading this breakdown of [Biggie Small’s The 10 Crack Commandments](/ten-crack-commandments-business-and-life-lessons/)***
 
 ![Dave Chappelle as Tyrone Biggums](/assets/images/posts/tyrone-biggums.jpg "The guy who robbed me looked a little like this")
 
@@ -112,7 +112,7 @@ My mom decided to spend money on food rather than games—a wise decision in the
 
 What’s the lesson here?
 
-Living next to other people with problems can drag you down. But, on the flip side, it can foster tremendous gratitude for the little things in life and show you that your situation isn't as bad as it seems. Gratitude has tremendous value and I wrote about 6 reasons why you should be grateful in [this article](https://edlatimore.com/6-reasons-to-be-grateful/).
+Living next to other people with problems can drag you down. But, on the flip side, it can foster tremendous gratitude for the little things in life and show you that your situation isn’t as bad as it seems. Gratitude has tremendous value and I wrote about 6 reasons why you should be grateful in [this article](https://edlatimore.com/6-reasons-to-be-grateful/).
 
 ## Life is like poker: it’s about how you play the hand you’re dealt
 

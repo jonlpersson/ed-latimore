@@ -4,7 +4,6 @@ article_type: Article
 title: 'The Cure For Hate:  Best quotes and big ideas'
 permalink: /the-cure-for-hate/
 tags:
-  - how-to-make-friends
   - book-quotes-and-summaries
 categories:
   - Book-Summaries-And-Ed-Latimore-Quotes
@@ -27,7 +26,7 @@ Ultimately, McAleer becomes a powerful advocate of and partner with groups devot
 
 “People at my school may not have respected me, but [they feared me](/how-to-overcome-fear/), which at the time felt better than respect. The twenty skinheads (there were also Chelseas, skinhead girls so nicknamed for their short haircuts) who’d shown up had made an effort to be there for me. Their doing so told me that I mattered, that they cared. The appearance of rival gangs and the heavy law enforcement presence signalled that we were to be taken seriously. That was my narcissistic perspective at the time anyhow, but the feeling of power could not be ignored.”
 
-"Even though it was a false sense of power, I couldn’t resist the accompanying feeling of safety, the feeling of belonging and of acceptance in the skinhead crew. In those years, friendships were formed and solidified over and over through violence and blood. We were bonded by our wounds, and we found acceptance and brotherhood through our scars of rejection, and safety in our loyalty to each other, which was often proven on the street. We had our own rules, our own code to follow to earn each other’s respect”
+“Even though it was a false sense of power, I couldn’t resist the accompanying feeling of safety, the feeling of belonging and of acceptance in the skinhead crew. In those years, friendships were formed and solidified over and over through violence and blood. We were bonded by our wounds, and we found acceptance and brotherhood through our scars of rejection, and safety in our loyalty to each other, which was often proven on the street. We had our own rules, our own code to follow to earn each other’s respect”
 
 “Somebody asked me once, “How did you lose your humanity?” “I didn’t lose it,” I replied. “I traded it for acceptance and approval until there was nothing left.””
 
