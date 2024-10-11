@@ -277,13 +277,23 @@ I’ve already waxed poetically about the quality of the Winning boxing products
 
 The only potential problem you’ll face with Winning Gear is getting it stolen. I’ve seen more than a few guys have their Winning gear disappear if they got careless with it at a fight or visiting another gym. However, I’m going to assume that if you spend $300 on a piece of boxing equipment, you’ll keep a close watch over it.
 
-With that said, all I can see that winning is that they’re the best and you should get them if you can. I don’t care I don’t get any affiliate commission. I couldn’t do you the dishonor of telling you anything different.
+With that said, Winning is the best and you should get them if you can. I don’t care I don’t get any affiliate commission. I couldn’t do you the dishonor of telling you anything different.
+
+Hayabusa T3 Kanpeki Gloves
+
+&nbsp;
+
+I decided to check these gloves out after Hayabusa reached out to me to try some of their products. I don't receive any affiliate commission and didn't receive any payment, but I got the gloves for free under the condition that if I thought they were solid, I'd mention them in this article.
+
+Well, these gloves are so excellent that I'm thinking about dedicating an entire article to them. In the meantime, lemme tell you why I think these gloves should be your first choice if you don't drop the $300+ on Winning Gloves.
+
+&nbsp;
 
 #### Rival RB2 Super Bag Gloves
 
 ![Rivals bag gloves](/assets/images/drafts/rivals-bag-gloves.jpg){: width="960" height="540"}
 
-These are my favorite gloves. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
+These were my favorite gloves before I discovered Hayabusa's T3 Kanpecki. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
 
 ![Ed Latimore and Roy Jones Jr.](/assets/images/drafts/ed-latimore-and-roy-jones-jr.jpeg "Me after sparring with Roy Jones Jr."){: width="500" height="333"}
 
