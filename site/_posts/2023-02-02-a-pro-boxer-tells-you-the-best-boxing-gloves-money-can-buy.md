@@ -279,13 +279,17 @@ The only potential problem you’ll face with Winning Gear is getting it stolen.
 
 With that said, Winning is the best and you should get them if you can. I don’t care I don’t get any affiliate commission. I couldn’t do you the dishonor of telling you anything different.
 
-Hayabusa T3 Kanpeki Gloves
+### Hayabusa T3 Kanpeki Gloves
 
 &nbsp;
 
-I decided to check these gloves out after Hayabusa reached out to me to try some of their products. I don't receive any affiliate commission and didn't receive any payment, but I got the gloves for free under the condition that if I thought they were solid, I'd mention them in this article.
+I decided to check these gloves out after Hayabusa reached out to me to try some of their products. I don’t receive any affiliate commission and didn’t receive any payment, but I got the gloves for free under the condition that if I thought they were solid, I’d mention them in this article.
 
-Well, these gloves are so excellent that I'm thinking about dedicating an entire article to them. In the meantime, lemme tell you why I think these gloves should be your first choice if you don't drop the $300+ on Winning Gloves.
+Well, these gloves are so excellent that I’m thinking about dedicating an entire article to them. In the meantime, lemme tell you why I think these gloves should be your first choice if you don’t drop the $300+ on Winning Gloves.
+
+For starters, Hayabusa managed to make a glove that has incredible padding and protection, but still feels like you're making an impact when you hit the bag. The reason I prefer to hit the bag in 14 oz gloves is because I can feel the impact and contact more. It's a powerful feedback mechanism for punch accuracy and technique, and I feel like I don't get that in your typical 16 oz bag glove.
+
+With the T3 Kanpeki, my fist feels simultaneously feels like I have the padding and protection of a 16 oz glove, but it feels so snug and tight that when I hit the bag, I honestly couldn't believe I wasn't in a 14 oz glove. This feature, by itself, won me over. But there's even more...
 
 &nbsp;
 
@@ -293,7 +297,7 @@ Well, these gloves are so excellent that I'm thinking about dedicating an entire
 
 ![Rivals bag gloves](/assets/images/drafts/rivals-bag-gloves.jpg){: width="960" height="540"}
 
-These were my favorite gloves before I discovered Hayabusa's T3 Kanpecki. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
+These were my favorite gloves before I discovered Hayabusa’s T3 Kanpecki. I swear I’m not some secret Rival fanboy. It just so happens that my both my bag and sparring gloves are both Rival products. I’d always owned the bag gloves, but the sparring gloves were the latest edition to my arsenal when I was the sparring partner for Roy Jones Jr.’s fight against Mike Tyson in 2020.
 
 ![Ed Latimore and Roy Jones Jr.](/assets/images/drafts/ed-latimore-and-roy-jones-jr.jpeg "Me after sparring with Roy Jones Jr."){: width="500" height="333"}
 
