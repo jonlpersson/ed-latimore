@@ -4,7 +4,7 @@ article_type: Article
 title: How to increase willpower (the easiest way to break bad habits)
 permalink: /how-to-increase-willpower/
 tags:
-  - longevity-health-and-performance
+  - sobriety
 categories:
   - Reality
 description: >-
@@ -16,11 +16,11 @@ image: /assets/images/posts/howtoincreasewillpower-2.jpg
 
 Everyone wants more out of life: more money, more muscles, more mating. But few people summon the strength to make a dent in their reality. This discrepancy isn’t usually due to a lack of intelligence or a series of bad luck, but rather, a lack of willpower.
 
-Willpower is the ability to do what needs to be done to get where you want to go, even if it’s hard and you don’t want to follow through. The difficulty of a task is irrelevant in direct relation to the personal importance of that task's outcome.
+Willpower is the ability to do what needs to be done to get where you want to go, even if it’s hard and you don’t want to follow through. The difficulty of a task is irrelevant in direct relation to the personal importance of that task’s outcome.
 
 You need to take action and make hard decisions that align with your short-term and long-term goals. And you need to be able to do it daily, regardless of any difficult feelings or distractions that come up along the way. Impulsive individuals who cannot control their actions get nowhere.
 
-Unfortunately, there are an infinite number of short-term temptations in today's world that can derail our true desires. Without willpower, it’s easy to stop striving and settle for the comforts of modern life. When things get hard and our goals don’t immediately transpire, things like marijuana, alcohol, free internet porn, and fast food all act as comforting alternatives that pacify our dissatisfaction in the moment.
+Unfortunately, there are an infinite number of short-term temptations in today’s world that can derail our true desires. Without willpower, it’s easy to stop striving and settle for the comforts of modern life. When things get hard and our goals don’t immediately transpire, things like marijuana, alcohol, free internet porn, and fast food all act as comforting alternatives that pacify our dissatisfaction in the moment.
 
 But you’ve already been down that road, and you know it leads to a dead end. This article will show you how to increase willpower fast so you can begin to make things happen in your life.
 
@@ -77,7 +77,7 @@ I’ve written about physical exercise on my website, so you can check out the f
 
 [8 reasons to push through the pain](https://edlatimore.com/pushing-through-the-pain/)
 
-However, I haven't written a lot about meditation or sleep, so let’s take a quick look at how they can help us build willpower…
+However, I haven’t written a lot about meditation or sleep, so let’s take a quick look at how they can help us build willpower…
 
 ### Practice meditation
 
@@ -95,7 +95,7 @@ According to a 2009 article by Kelly McGonigal Ph.D, “Disrupted sleep leads to
 
 Additionally, a 2015 study, *Interactions between sleep habits and self-control* by Frontiers in Human Neuroscience, shared the following:
 
-"A sleep-deprived individual who has expended the necessary resources for self-control is at an increased risk for succumbing to impulsive desires, poor attentional capacity, and compromised decision making."<sup>[5](#fn:5){: .footnote rel="footnote"}</sup>
+“A sleep-deprived individual who has expended the necessary resources for self-control is at an increased risk for succumbing to impulsive desires, poor attentional capacity, and compromised decision making.”<sup>[5](#fn:5){: .footnote rel="footnote"}</sup>
 
 Make sure you get enough sleep. An extra 30 minutes every night can massively build willpower reserves.
 
@@ -103,11 +103,11 @@ Make sure you get enough sleep. An extra 30 minutes every night can massively bu
 
 ## Increase willpower with accountability
 
-In early 2020, I started running a community for men who wanted to stop using porn called the Dick Detox challenge. I saw guys who—by their own words—couldn't go two days without porn, achieving over 100 days without it.
+In early 2020, I started running a community for men who wanted to stop using porn called the Dick Detox challenge. I saw guys who—by their own words—couldn’t go two days without porn, achieving over 100 days without it.
 
 I asked roughly 20 successful members what was most helpful in quitting. All but one participant said that group accountability was the most essential factor in their success.
 
-Accountability allows you to set goals when your willpower is high and ensures that you can't step back the second your initial excitement wears off. Accountability gives you a chance to succeed by calling on the strength of others rather than relying on the brute force of your willpower.
+Accountability allows you to set goals when your willpower is high and ensures that you can’t step back the second your initial excitement wears off. Accountability gives you a chance to succeed by calling on the strength of others rather than relying on the brute force of your willpower.
 
 When you give up a bad habit or start towards an important goal, involve as many people as possible in your decision. They will give you extra pressure, support, and wisdom to strengthen your resolve.
 

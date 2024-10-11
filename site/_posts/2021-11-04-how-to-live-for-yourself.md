@@ -4,7 +4,7 @@ article_type: Article
 title: How to develop the courage to live for yourself
 permalink: /how-to-live-for-yourself/
 tags:
-  - how-to-control-your-emotions
+  - hard-lessons
 categories:
   - Relationships
 description: >-
@@ -12,7 +12,7 @@ description: >-
   life you love. Warning: people may hate you for choosing to love yourself. 
 image: /assets/images/thumbnails/ed-training-boxing-hitting-bags.jpg
 ---
-One of the top five regrets of people on their deathbed is, "I wish I’d had the courage to live for myself and not what others thought of me."<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
+One of the top five regrets of people on their deathbed is, “I wish I’d had the courage to live for myself and not what others thought of me.”<sup>[1](#fn:1){: .footnote rel="footnote"}</sup>
 
 Not caring what other people think is a superpower.
 
@@ -24,7 +24,7 @@ Or lawyer…
 
 Or simply not knowing who they truly are because they were afraid of letting everyone else down.
 
-The reality is, you're going to die someday. And someday you’ll face the same deathbed question: Do you have any regrets?
+The reality is, you’re going to die someday. And someday you’ll face the same deathbed question: Do you have any regrets?
 
 Don’t let the answer be I wish I’d had the courage to live for myself.
 
@@ -72,7 +72,7 @@ If you want to live for yourself, you have to get around people that build you u
 
 Overthinking and negative self-talk are two symptoms of living for others.
 
-You’re too busy looking at everyone else's plate, thinking they've somehow got it better. That negative thought loop makes you feel like you *should* be more attractive, smarter, less awkward. And if only you had *that one special thing*, you could be happier.
+You’re too busy looking at everyone else’s plate, thinking they’ve somehow got it better. That negative thought loop makes you feel like you *should* be more attractive, smarter, less awkward. And if only you had *that one special thing*, you could be happier.
 
 The truth is, your inner voice is the barrier between you and [building real confidence.](/resources/four-confidences/)
 
@@ -108,13 +108,13 @@ If you’re working on yourself, your statements will evolve over time.
 
 I had to quote myself there because it’s so true it should be in the bible.
 
-It's okay to not make everyone else happy or even risk disappointing someone you love.
+It’s okay to not make everyone else happy or even risk disappointing someone you love.
 
 They’ll get over it.
 
 People-pleasing behavior is simply an attempt to control your environment and others. But the only person you can control is you.
 
-The truth is, once you start living for yourself, you'll undoubtedly [start collecting haters](https://edlatimore.com/why-you-have-haters-even-if-you-arent-an-asshole/). There’s no way around it because you can’t control other people’s emotions.
+The truth is, once you start living for yourself, you’ll undoubtedly [start collecting haters](https://edlatimore.com/why-you-have-haters-even-if-you-arent-an-asshole/). There’s no way around it because you can’t control other people’s emotions.
 
 Often, parents project their worry and fear onto their children. If you’re paralyzed by the fear of disappointing your parents, try this…
 
