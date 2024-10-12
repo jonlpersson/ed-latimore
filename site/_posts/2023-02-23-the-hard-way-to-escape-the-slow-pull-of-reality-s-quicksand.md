@@ -3,6 +3,7 @@ date: 2023-02-23 00:00:00 -0500
 article_type: Article
 title: The hard way to escape the slow pull of reality's quicksand
 permalink: the-hard-way-to-escape-the-slow-pull-of-reality-quicksand
+tags: []
 categories:
   - Reality
 description: >-
