@@ -1,6 +1,6 @@
 ---
 date: 2024-10-11 07:00:00 -0400
-type:
+type: SMS Course
 title: The Stoic Street Smarts Blueprint
 description: >-
   Are you ready to unlock the secrets of ancient wisdom and street-smart savvy?
@@ -10,7 +10,7 @@ image:
 product_info:
   button_text: Enroll now
   button_url: https://joinsubtext.com/edlatimore
-  price: $9/month for 3 months
+  price: $9 per month for 3 months
 hero:
   hero_type: product
   image:
