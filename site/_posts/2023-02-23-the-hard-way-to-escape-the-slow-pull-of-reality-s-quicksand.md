@@ -3,7 +3,8 @@ date: 2023-02-23 00:00:00 -0500
 article_type: Article
 title: The hard way to escape the slow pull of reality's quicksand
 permalink: the-hard-way-to-escape-the-slow-pull-of-reality-quicksand
-tags: []
+tags:
+  - hard-lessons
 categories:
   - Reality
 description: >-
@@ -69,11 +70,11 @@ In other words, you either self-destruct or give up. For an example of the forme
 
 The desperation and insecurity they enter the relationship with motivates their new partner to keep their distance and eventually break up with them. It only gets worse each time. This cycle then leads to you adopting the latter approach.
 
-You no longer even try or, when you do, it's so spetactacularly bad that you couldn't do worse if you were intentional about ruining your relationship.
+You no longer even try or, when you do, it’s so spetactacularly bad that you couldn’t do worse if you were intentional about ruining your relationship.
 
 How does one break out of the prison they’ve constructed that also gets harder to escape from the more they try to? One day, they have a small but significant realization:&nbsp;**it’s their own fault they’re in there.**
 
-You don't have to take total responsibility. In fact, it’s likely you’ll still have denial about the role you play in your circumstances, but now you accept that your life is your responsibility. This changes your intent, which changes your actions, which changes your reality.
+You don’t have to take total responsibility. In fact, it’s likely you’ll still have denial about the role you play in your circumstances, but now you accept that your life is your responsibility. This changes your intent, which changes your actions, which changes your reality.
 
 The change may be small and subtle. It may be large and obvious. But you aren’t the same and your world won’t be the same either.
 
