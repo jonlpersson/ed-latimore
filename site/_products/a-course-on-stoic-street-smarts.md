@@ -12,7 +12,7 @@ product_info:
   price: $9 per month for 3 months
 hero:
   hero_type: product
-  image:
+  image: /assets/images/products/approved-headshot-1.jpeg
   heading: 'The Stoic Street Smarts Blueprint course '
   text:
 page_blocks: []
