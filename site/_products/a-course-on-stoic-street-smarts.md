@@ -5,7 +5,7 @@ title: The Stoic Street Smarts Blueprint
 description: >-
   Stoic Street Smarts Blueprint. Your key to mastering life's toughest
   challenges while deeply understanding the people around you!
-image:
+image: /assets/images/products/approved-headshot.jpeg
 product_info:
   button_text: Enroll now
   button_url: https://joinsubtext.com/edlatimore
