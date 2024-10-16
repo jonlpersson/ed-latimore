@@ -80,4 +80,6 @@ page_blocks:
         text: >-
           Once a week, you get a lesson on developing Stoic Street Smarts in 600
           characters or less
+      - heading: Stoicism meets street stmarts
+        text: A modern take on the ancient philosophy of stoicism
 ---
