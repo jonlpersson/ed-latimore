@@ -17,7 +17,7 @@ hero:
   text:
 page_blocks:
   - _id: block_rich_text
-    alignment:
+    alignment: center
     text_markdown: >-
       The ancient Stoic philosophers may seem an unlikely source of guidance for
       someone growing up in a tough inner-city neighborhood.
