@@ -82,7 +82,12 @@ page_blocks:
 
       Don't wait to transform your life. Enroll in Stoic Street Smarts today and
       start your journey to mastering life's challenges with wisdom and grit!
-  - _id: block_photos
-    images:
-      - image: /assets/images/products/screenshot-20241016-161123-messages.jpg
+  - _id: block_rich_text
+    alignment:
+    text_markdown: >-
+      Android
+
+
+      ![](/assets/images/products/screenshot-20241016-161053-messages.jpg){:
+      width="723" height="1512"}
 ---
