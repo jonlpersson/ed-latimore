@@ -84,10 +84,8 @@ page_blocks:
       start your journey to mastering life's challenges with wisdom and grit!
   - _id: block_rich_text
     alignment:
-    text_markdown: >-
-      Android
+    text_markdown: |-
+      &nbsp;
 
-
-      ![](/assets/images/products/screenshot-20241016-161053-messages.jpg){:
-      width="723" height="1512"}
+      &nbsp;
 ---
