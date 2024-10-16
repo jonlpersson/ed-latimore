@@ -45,4 +45,28 @@ page_blocks:
 
       While their training grounds differ, both equip individuals to thrive
       amidst life's unpredictable challenges.
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      ### FAQs
+
+
+      **Q: How long do I have access to the course materials?** A: You'll have
+      lifetime access to all 24 lessons, allowing you to revisit and reinforce
+      the concepts whenever you need.
+
+
+      **Q: Is this course suitable for beginners?** A: Absolutely! Whether
+      you're new to Stoicism or personal development, or you're a seasoned
+      self-improvement enthusiast, this course offers valuable insights for
+      everyone.
+
+
+      **Q: How much time do I need to dedicate each day?** A: Each lesson is
+      designed to be read and reflected upon in just 5-10 minutes a day. The
+      real magic happens as you apply these principles throughout your day.
+
+
+      Don't wait to transform your life. Enroll in Stoic Street Smarts today and
+      start your journey to mastering life's challenges with wisdom and grit!
 ---
