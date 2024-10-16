@@ -61,6 +61,22 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
+      &nbsp;
+
+
+      | Android | IOS |
+
+      | --- | --- |
+
+      | ![](/assets/images/products/android-sample-2.jpg){: width="723"
+      height="1512"} | ![](/assets/images/products/ios-screenshot-2.jpg){:
+      width="787" height="1553"} |
+
+
+      &nbsp;
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
       ### FAQs
 
 
@@ -82,20 +98,4 @@ page_blocks:
 
       Don't wait to transform your life. Enroll in Stoic Street Smarts today and
       start your journey to mastering life's challenges with wisdom and grit!
-  - _id: block_rich_text
-    alignment:
-    text_markdown: >-
-      &nbsp;
-
-
-      | Android | IOS |
-
-      | --- | --- |
-
-      | ![](/assets/images/products/android-sample-2.jpg){: width="723"
-      height="1512"} | ![](/assets/images/products/ios-screenshot-2.jpg){:
-      width="787" height="1553"} |
-
-
-      &nbsp;
 ---
