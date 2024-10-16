@@ -50,8 +50,8 @@ page_blocks:
     benefit_items:
       - heading: You'll never miss a lesson!
         text: >-
-          Lessons are delivered as text SMS, so there's no risk of them going to
-          spam. 
+          24 lessons delivered 2x per week as text SMS, so no risk of them going
+          to spam. 
       - heading: Short and effective
         text: >-
           Once a week, you get a lesson on developing Stoic Street Smarts in 600
