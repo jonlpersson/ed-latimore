@@ -13,8 +13,8 @@ product_info:
 hero:
   hero_type: product
   image: /assets/images/products/approved-headshot-1.jpeg
-  heading: 'The Stoic Street Smarts Blueprint course '
-  text:
+  heading: The Stoic Street Smarts Blueprint
+  text: Modern street smarts meets ancient stoicism
 page_blocks:
   - _id: block_rich_text
     alignment: center
