@@ -61,7 +61,7 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      &nbsp;
+      &nbsp;What it looks like
 
 
       | Android | IOS |
