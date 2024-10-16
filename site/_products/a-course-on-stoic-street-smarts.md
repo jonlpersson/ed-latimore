@@ -45,6 +45,19 @@ page_blocks:
 
       While their training grounds differ, both equip individuals to thrive
       amidst life's unpredictable challenges.
+  - _id: block_benefits
+    heading: The benefits of the Stoic Street Smarts Blueprint
+    benefit_items:
+      - heading: You'll never miss a lesson!
+        text: >-
+          Because the lessons are delivered as a text, there's no risk of them
+          going to spam. 
+      - heading: Short and effective
+        text: >-
+          Once a week, you get a lesson on developing Stoic Street Smarts in 600
+          characters or less
+      - heading: Stoicism meets street stmarts
+        text: A modern take on the ancient philosophy of stoicism
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
@@ -69,17 +82,4 @@ page_blocks:
 
       Don't wait to transform your life. Enroll in Stoic Street Smarts today and
       start your journey to mastering life's challenges with wisdom and grit!
-  - _id: block_benefits
-    heading: The benefits of the Stoic Street Smarts Blueprint
-    benefit_items:
-      - heading: You'll never miss a lesson!
-        text: >-
-          Because the lessons are delivered as a text, there's no risk of them
-          going to spam. 
-      - heading: Short and effective
-        text: >-
-          Once a week, you get a lesson on developing Stoic Street Smarts in 600
-          characters or less
-      - heading: Stoicism meets street stmarts
-        text: A modern take on the ancient philosophy of stoicism
 ---
