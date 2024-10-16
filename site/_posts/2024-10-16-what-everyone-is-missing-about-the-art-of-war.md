@@ -29,7 +29,7 @@ In the 21st century, with smartphones, high-speed internet, and cryptocurrencies
 
 ***Enter The Art of War.***
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2935ed-be52-48cf-9060-c79021d7d3ca_601x935.jpeg){: width="601" height="935"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2935ed-be52-48cf-9060-c79021d7d3ca_601x935.jpeg){: target="_blank" rel="noopener"}The Art of War is one of those books everyone talks about and quotes, but most people have never taken the time to read it, take notes, and try to apply it. It’s like Stoicism:
+[![The art of war book](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2935ed-be52-48cf-9060-c79021d7d3ca_601x935.jpeg){: width="601" height="935"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2935ed-be52-48cf-9060-c79021d7d3ca_601x935.jpeg){: target="_blank" rel="noopener"}The Art of War is one of those books everyone talks about and quotes, but most people have never taken the time to read it, take notes, and try to apply it. It’s like Stoicism:
 
 Everyone talks about how it’s changed their life, but the closest they’ve ever gotten to it is putting a copy of Meditations on their bookshelf to impress people.
 
@@ -45,7 +45,7 @@ You already know this is gonna be good. Share the love! It’s free and it helps
 
 ## The Power of Adaptability
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a34df02-94a9-450e-b37e-0c8d5f7d84b2_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a34df02-94a9-450e-b37e-0c8d5f7d84b2_1920x1080.jpeg){: target="_blank" rel="noopener"}What if I told you that your ability to adapt could be more potent than any skill you possess?
+[![Be like water](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a34df02-94a9-450e-b37e-0c8d5f7d84b2_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a34df02-94a9-450e-b37e-0c8d5f7d84b2_1920x1080.jpeg){: target="_blank" rel="noopener"}What if I told you that your ability to adapt could be more potent than any skill you possess?
 
 Evolutionary biologist Charles Darwin once said, *“It is not the strongest nor the most intelligent of species that survives, but the one that is most adaptable to change.”*
 
@@ -63,7 +63,7 @@ However, the only constant in life is change, so you need to be adaptable becaus
 
 Heavyweight boxing legend Mike Tyson is famous for saying many things, but one of his keenest observations was, “Everyone has a plan until they get punched in the mouth.” In other words, no matter how well-constructed your plans are, most plans don’t survive chaos
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7decc6d9-7cbd-4738-a937-ad1ca645c1b3_750x400.png){: width="750" height="400"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7decc6d9-7cbd-4738-a937-ad1ca645c1b3_750x400.png){: target="_blank" rel="noopener"}Prussian General Helmuth Von Moltke expressed this idea with a bit more eloquence, but the idea remains the same:
+[![No plan survives contact with the enemy](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7decc6d9-7cbd-4738-a937-ad1ca645c1b3_750x400.png){: width="750" height="400"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7decc6d9-7cbd-4738-a937-ad1ca645c1b3_750x400.png){: target="_blank" rel="noopener"}Prussian General Helmuth Von Moltke expressed this idea with a bit more eloquence, but the idea remains the same:
 
 ***“No plan of operations extends with any certainty beyond the first encounter with the main enemy forces. Only the layman believes that in the course of a campaign, he sees the consistent implementation of an original thought that has been considered in advance in every detail and retained to the end.”***
 
@@ -79,7 +79,7 @@ This is one of those experiences that is far better learned vicariously. You don
 
 There are several stats about how most Americans[don’t have anything saved](https://www.cnbc.com/2019/01/23/most-americans-dont-have-the-savings-to-cover-a-1000-emergency.html){: target="_blank" rel="noreferrer nofollow noopener"}. Some people doubt that most Americans have less than $1000 saved, but I’ve seen this happen too many times to doubt it. Even if a person has $10,000 saved, how long would it last in a place like San Francisco or New York?
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff07533e2-f0b5-4ff8-b8d8-836d11c71bb3_1934x714.png){: width="1456" height="538"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff07533e2-f0b5-4ff8-b8d8-836d11c71bb3_1934x714.png){: target="_blank" rel="noopener"}
+[![Americans don't have 1000 dollars saved](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff07533e2-f0b5-4ff8-b8d8-836d11c71bb3_1934x714.png){: width="1456" height="538"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff07533e2-f0b5-4ff8-b8d8-836d11c71bb3_1934x714.png){: target="_blank" rel="noopener"}
 
 I’m inclined to believe them. If you have nothing saved, work on increasing your economic value and building additional income streams because being homeless is no way to live.
 
@@ -91,7 +91,7 @@ Now, there are two keys to effective preparation. Internal knowledge (knowledge 
 
 ## The Power of Self-Knowledge
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb08f710-f612-4980-9961-32194fa7d0a0_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb08f710-f612-4980-9961-32194fa7d0a0_1920x1080.jpeg){: target="_blank" rel="noopener"}
+[![Knowledge of self](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb08f710-f612-4980-9961-32194fa7d0a0_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb08f710-f612-4980-9961-32194fa7d0a0_1920x1080.jpeg){: target="_blank" rel="noopener"}
 
 You may have already learned this the hard way, but did you know that you are your own worst enemy?
 
@@ -115,7 +115,7 @@ You made it this far. You may as well subscribe.
 
 ## The Strategic Use of Information
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1593f9d6-88d9-4b83-8d8d-dcb627e7b858_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1593f9d6-88d9-4b83-8d8d-dcb627e7b858_1920x1080.jpeg){: target="_blank" rel="noopener"}What if I told you that the key to winning isn’t always being the strongest but the smartest?
+[![Strategic control of information](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1593f9d6-88d9-4b83-8d8d-dcb627e7b858_1920x1080.jpeg){: width="1456" height="819"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1593f9d6-88d9-4b83-8d8d-dcb627e7b858_1920x1080.jpeg){: target="_blank" rel="noopener"}What if I told you that the key to winning isn’t always being the strongest but the smartest?
 
 One of my favorite movies is Martin Scorcese’s start-studded crime thriller “The Departed.” Spoiler alert for incoming content, but the movie did also come out in 2006. In The Departed, South Boston cop Billy Costigan (played by Leonardo DiCaprio) goes undercover in the crime organization of Irish Mob Boss Frank Costello (played by Jack Nicholson).
 
@@ -125,7 +125,7 @@ To combat those suspicions, Costigan’s handlers in the police department keep 
 
 The movie is based on the real-life events surrounding Irish mobster Whitey Bulger and his mole in the FBI, John Connelly. I thought that was cool, but I didn’t know it when I first saw the movie. It shows the power of the strategic use of information. The movie ends with the heroes and villains dying, but that’s Hollywood. In real life, Whitey Bulger was eventually sentenced to 2 consecutive life sentences (plus 5 years for good measure), and Agent Connelly retired with honors but was eventually imprisoned
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50572f03-e515-40bb-bd47-7b5fee64663b_976x649.jpeg){: width="976" height="649"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50572f03-e515-40bb-bd47-7b5fee64663b_976x649.jpeg){: target="_blank" rel="noopener"}
+[![Whitey Bulger/Frank Costello mug shot](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50572f03-e515-40bb-bd47-7b5fee64663b_976x649.jpeg){: width="976" height="649"}](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50572f03-e515-40bb-bd47-7b5fee64663b_976x649.jpeg){: target="_blank" rel="noopener"}
 
 .Sun Tzu states, “All warfare is based on deception.” In business and life, strategic use of information can give you a significant advantage over competitors who may be stronger or have more resources, even if those competitors are rival criminals or the government.
 
