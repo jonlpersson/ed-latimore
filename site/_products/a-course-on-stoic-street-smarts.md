@@ -61,7 +61,7 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      &nbsp;What it looks like
+      &nbsp;What the Stoic Street Smarts Blueprint looks like on your device
 
 
       | Android | IOS |
