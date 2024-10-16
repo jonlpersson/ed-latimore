@@ -50,14 +50,16 @@ page_blocks:
     benefit_items:
       - heading: You'll never miss a lesson!
         text: >-
-          Because the lessons are delivered as a text, there's no risk of them
-          going to spam. 
+          Lessons are delivered as text SMS, so there's no risk of them going to
+          spam. 
       - heading: Short and effective
         text: >-
           Once a week, you get a lesson on developing Stoic Street Smarts in 600
           characters or less
       - heading: Stoicism meets street stmarts
-        text: A modern take on the ancient philosophy of stoicism
+        text: >-
+          Practical applications of stoicism—ethical applications of street
+          smarts
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
