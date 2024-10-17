@@ -16,6 +16,10 @@ The Art of War is an ancient Chinese military guide by military strategist Sun T
 
 It’s a surprisingly short read. I read it on my kindle, and the page counter had it pegged at 30 pages, including pre and post-text filler. This makes sense, as it’s actually the lead text in an ancient anthology called [“The Seven Military Classics”](https://en.wikipedia.org/wiki/Seven_Military_Classics){: target="_blank" rel="noreferrer noopener"} by Emperor Shenzong of Song.
 
+Watch a my breakdown here
+
+<div class="cms-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/F7Z77OUvbJ4?si=mQ1M7h0dRhN1DBtv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+
 Despite its short length, its ideas apply to many areas of life. The strategies apply to modern warfare, business, negotiation, and relationships.
 
 I read through The Art of War and took notes on what I thought were the most important ideas and quotes. If you don’t have time to read the book yourself or want a refresher, the following are the big ideas and quotes from The Art of War should prove to make you a better combatant in the battleground of life.
@@ -95,7 +99,7 @@ Great leaders know how to navigate two interesting facts about human nature:
 
 Great leaders know that trying to be liked before you’re respected and obeyed is putting the cart before the horse. They also understand that being liked doesn’t usually lead to respect, especially when there is a status difference.
 
-The conclusion is that to be an effective leader, you can not worry about how much your team likes you. It’s nice if they do, but it is inconsequential to the mission's success. It’s often a bad thing if they like you. Sun Tzu elaborates by saying:
+The conclusion is that to be an effective leader, you can not worry about how much your team likes you. It’s nice if they do, but it is inconsequential to the mission’s success. It’s often a bad thing if they like you. Sun Tzu elaborates by saying:
 
 When the people you’re in charge of like you too much, they become attached. When they become attached, they start to view themselves as equal, which makes it hard for them to obey your orders. This leads to a need for discipline, but you become less motivated to enforce discipline because you naturally start to like them in return.
 
@@ -140,7 +144,7 @@ Talk is cheap. Anyone can do it. Because anyone can say anything, it doesn’t h
 
 They also aren’t doing things if they’re busy talking about doing things. People who have done things like to show that they’ve done things for no reason other than it distinguishes them from talkers.
 
-Here’s another way to look at this: if someone is capable of performing a task, you’ll either have heard about them, or they will show you what they’ve done. They will not just rely on their boasts. This reminds me of a line from the rapper Young Jeezy in his song "This one's for you."
+Here’s another way to look at this: if someone is capable of performing a task, you’ll either have heard about them, or they will show you what they’ve done. They will not just rely on their boasts. This reminds me of a line from the rapper Young Jeezy in his song “This one’s for you.”
 
 > Had these ni\*\*as tellin’ lies, they just sound true<br>Ni\*\*a if you had it like that I would’ve found you
 >
@@ -170,7 +174,7 @@ This also does wonders for your confidence, making it even easier for you to per
 
 > The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.
 
-It’s easy to give in to your basic instincts and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on your team's morale and respect for you.
+It’s easy to give in to your basic instincts and urges. However, this usually results in a negative outcome. As a leader, this can have devastating effects on your team’s morale and respect for you.
 
 This is how abuses of power occur. The leader uses rank or title to take advantage of or take things from his people. If you are not disciplined enough to keep your desires in check, you can be manipulated by the enemy and lose your allies’ support.
 
@@ -192,7 +196,7 @@ If you know yourself and the obstacle well, there’s no reason you shouldn’t 
 
 > To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
 
-When I was a boxer, I used to tell people that I didn’t worry about what the other guy did because I was in control of my training. I knew I'd be very difficult to beat if I put supreme effort into my training regimen, sharpening all my rough edges and systematically eliminating my flaws.
+When I was a boxer, I used to tell people that I didn’t worry about what the other guy did because I was in control of my training. I knew I’d be very difficult to beat if I put supreme effort into my training regimen, sharpening all my rough edges and systematically eliminating my flaws.
 
 Don’t get me wrong: my coach still studied the fighter and prepared me for his weaknesses, so we pooled our resources that way. I learned of myself, and he learned of the opponent. This nearly guaranteed victory.
 
