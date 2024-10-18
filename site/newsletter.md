@@ -174,5 +174,11 @@ page_blocks:
       stoicism](https://emails.edlatimore.com/posts/stand-tall-against-bullies-applying-ancient-wisdom-to-modern-conflict){:
       target="_blank" rel="noopener"}
 
-      * &nbsp;
+      * [11 reasons why we can't have nice
+      things](https://emails.edlatimore.com/posts/11-reasons-why-we-can-t-have-nice-things){:
+      target="_blank" rel="noopener"}
+
+      * [4 Signs a friendship has run its
+      course](https://emails.edlatimore.com/posts/when-it-s-time-to-say-goodbye-4-signs-a-friendship-has-run-its-course){:
+      target="_blank" rel="noopener"}
 ---
