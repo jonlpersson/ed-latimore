@@ -250,4 +250,12 @@ page_blocks:
       and Material
       Possessions](https://emails.edlatimore.com/posts/the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions){:
       target="_blank" rel="noopener"}
+
+      * [The Reality of Self-Care: It's a Process, Not a Quick
+      Fix](https://emails.edlatimore.com/posts/the-reality-of-self-care-it-s-a-process-not-a-quick-fix){:
+      target="_blank" rel="noopener"}
+
+      * [Want to put your life on the fast track? Take on bigger
+      responsibilities](https://emails.edlatimore.com/posts/want-to-put-your-life-on-the-fast-track-take-on-bigger-responsibilities){:
+      target="_blank" rel="noopener"}
 ---
