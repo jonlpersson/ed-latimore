@@ -189,4 +189,10 @@ page_blocks:
       * [The ethics of uncertainty, survivors bias, and the law of large
       numbers](https://emails.edlatimore.com/posts/the-ethics-of-uncertainty-survivors-bias-and-the-law-of-large-numbers){:
       target="_blank" rel="noopener"}
+
+      * [Expected value: An old way to make new
+      decisions](https://emails.edlatimore.com/posts/expected-value-an-old-way-to-make-new-decisions){:
+      target="_blank" rel="noopener"}
+
+      * &nbsp;
 ---
