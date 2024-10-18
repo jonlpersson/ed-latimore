@@ -97,4 +97,45 @@ page_blocks:
           one big series of problems. If you never learn to overcome, you'll
           always be overcome.
   - _id: block_logos
+  - _id: block_rich_text
+    alignment: center
+    text_markdown: >-
+      ### Previous newsletters
+
+
+      * [The truth about the Art of
+      War](https://emails.edlatimore.com/posts/the-truth-about-the-art-of-war){:
+      target="_blank" rel="noopener"}
+
+      * [Don't let your self-worth depend on the
+      uncontrollables](https://emails.edlatimore.com/posts/don-t-let-your-self-worth-depend-on-uncontrollables){:
+      target="_blank" rel="noopener"}
+
+      * [Resilience is built in the discomfort
+      zone](https://emails.edlatimore.com/posts/resilience-is-built-in-the-discomfort-zone)
+
+      * [The book made me do it—why I'm boxing
+      again](https://emails.edlatimore.com/posts/the-book-made-me-do-it-why-i-m-boxing-again){:
+      target="_blank" rel="noopener"}
+
+      * [The Invisible Puppet Masters: How social influence and self-serving
+      bias rules us
+      all](https://emails.edlatimore.com/posts/the-invisible-puppet-masters-how-social-influence-and-self-serving-bias-rule-us-all){:
+      target="_blank" rel="noopener"}
+
+      * [Never be afraid to ask for help: The book proposal
+      story](https://emails.edlatimore.com/posts/never-be-afraid-to-ask-for-help-the-book-proposal-story){:
+      target="_blank" rel="noopener"}
+
+      * [How to use "Big Stick Energy" to survive The Prisoners
+      Dilemma](https://emails.edlatimore.com/posts/how-to-use-big-stick-energy-to-survive-the-prisoner-s-dilemma){:
+      target="_blank" rel="noopener"}
+
+      * [Can you ever \*really\* recover from
+      addiction?](https://emails.edlatimore.com/posts/can-you-ever-really-recover-from-addiction){:
+      target="_blank" rel="noopener"}
+
+      * [Stop trying to be
+      perfect](https://emails.edlatimore.com/posts/stop-trying-to-be-perfect){:
+      target="_blank" rel="noopener"}
 ---
