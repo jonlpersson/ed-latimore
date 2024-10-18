@@ -194,5 +194,60 @@ page_blocks:
       decisions](https://emails.edlatimore.com/posts/expected-value-an-old-way-to-make-new-decisions){:
       target="_blank" rel="noopener"}
 
-      * &nbsp;
+      * [From 2-D to 4-D: Beyond the suface of area of
+      luck](https://emails.edlatimore.com/posts/from-2-d-for-4-d-beyond-the-surface-area-of-luck){:
+      target="_blank" rel="noopener"}
+
+      * [Dichotomy of
+      Control](https://emails.edlatimore.com/posts/the-dichotomy-of-control-a-street-smart-survival-tactic){:
+      target="_blank" rel="noopener"}
+
+      * [Dream job or Pipe Dream: How to know if you're an amateur or a
+      pro?](https://emails.edlatimore.com/posts/dream-job-or-pipe-dream-how-to-know-if-you-re-just-an-amateur-or-a-bonafide-pro){:
+      target="_blank" rel="noopener"}
+
+      * [Most self-help is b.s.: How to become unrecognizable in a
+      year](https://emails.edlatimore.com/posts/most-self-help-is-bs-how-to-become-unrecognizable-in-just-1-year){:
+      target="_blank" rel="noopener"}
+
+      * [Brushes and balance: The duel between art and
+      business](https://emails.edlatimore.com/posts/brushes-and-balance-decoding-the-eternal-duel-between-art-and-business){:
+      target="_blank" rel="noopener"}
+
+      * [5 tips to control your temper and stop being
+      scared](https://emails.edlatimore.com/posts/5-quick-tips-to-control-your-temper-and-stop-being-scared){:
+      target="_blank" rel="noopener"}
+
+      * [Why you want revenge—and why you shouldn't get
+      it](https://emails.edlatimore.com/posts/why-you-want-revenge-and-why-you-shouldn-t-get-it){:
+      target="_blank" rel="noopener"}
+
+      * [How to focus better and improve your
+      concentration](https://emails.edlatimore.com/posts/how-to-focus-better-and-improve-concentration){:
+      target="_blank" rel="noopener"}
+
+      * [Your outrage makes the media
+      rich](https://emails.edlatimore.com/posts/your-outrage-makes-the-media-rich){:
+      target="_blank" rel="noopener"}
+
+      * [14 big ideas and life lessons from
+      physics](https://emails.edlatimore.com/posts/14-big-ideas-life-lessons-from-physics){:
+      target="_blank" rel="noopener"}
+
+      * [How to get motivated when you feel like
+      shit](https://emails.edlatimore.com/posts/how-to-get-motivated-when-you-don-t-feel-like-sh-t){:
+      target="_blank" rel="noopener"}
+
+      * [Everyone wants a good
+      life](https://ckarchive.com/b/gkunh5hd3o2zzfzodd9oku5k58699bm){:
+      target="_blank" rel="noopener"}
+
+      * [Fear-preparation-familiarity feedback loop: How to stop being afraid of
+      anything](https://emails.edlatimore.com/posts/the-fear-preparation-familiarity-feedback-loop-how-to-stop-being-afraid-of-anything){:
+      target="_blank" rel="noopener"}
+
+      * [The Priceless Path to True Happiness: The Surprising Limits of Money
+      and Material
+      Possessions](https://emails.edlatimore.com/posts/the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions){:
+      target="_blank" rel="noopener"}
 ---
