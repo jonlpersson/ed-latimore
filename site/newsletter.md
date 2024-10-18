@@ -45,27 +45,27 @@ page_blocks:
       name: Jon Persson
       context: Owner of cultmethod.com
   - _id: block_rich_text
-    alignment: left
+    alignment: center
     text_markdown: >-
       Welcome to the Stoic Street Smarts newsletter, where I share the
-      hard-fought wisdom I've gained from a life that's taken me from the hood
+      hard-fought wisdom I’ve gained from a life that’s taken me from the hood
       to the boxing ring, from the army to the halls of academia.
 
 
-      Growing up in the tough streets taught me the importance of managing risk
-      and reading people, while getting sober showed me the power of facing
-      reality with unflinching honesty. My time as a professional boxer
-      instilled in me the discipline and resilience needed to overcome any
-      obstacle, and serving in the army taught me the value of strong
-      relationships and teamwork. Earning my physics degree demonstrated the
-      rewards of pursuing knowledge and understanding in the face of complex
-      challenges.
+      * The streets taught me how to read people
+
+      * Sobriety showed me the power of keeping it real with myself.
+
+      * Boxing developed my discipline and resilience
+
+      * The military taught me teamwork
+
+      * Physics helps me master complexity
 
 
-      Through the prism of Stoic philosophy, I'll share practical insights from
-      these diverse experiences to help you cultivate the mental toughness,
-      emotional intelligence, and strategic thinking needed to thrive in an
-      unpredictable world.
+      I share practical insights from these diverse experiences to help you
+      cultivate the mental toughness, emotional intelligence, and strategic
+      thinking needed to thrive in an unpredictable world.
   - _id: block_testimonial
     quote_markdown: >-
       I've been a subscriber to Ed Latimore's newsletter for years and have been
