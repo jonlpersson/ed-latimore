@@ -8,8 +8,10 @@ hero:
   text: 'Get your product seen by thousands. '
 page_blocks:
   - _id: block_rich_text
+  - _id: block_contact
+    heading: Let's get started!
 ---
-Since 2014, I've built a list of over 37,000 men and women who subscribe to my emails where I teach how to:
+Since 2014, I’ve built a list of over 37,000 men and women who subscribe to my emails where I teach how to:
 
 * Manage risk
 * Navigate relationships
@@ -36,8 +38,12 @@ Want to sponsor my newsletter? Here are a few details:
 
 ## Get started
 
-My newsletter is part of the ConvertKit Sponsor Network, so everything will be handled by the team at ConvertKit. If you’re interested in working together, please fill out this form:
+Send me an email!
 
+&nbsp;
 
+&nbsp;
 
-<button data-tf-popup="E2nyeYNg" data-tf-iframe-props="title=Brands: ConvertKit Sponsor Network" data-tf-medium="snippet" data-tf-hidden="creator=ed-latimore,url=edlatimore.com/sponsor" class="btn btn-coral">Apply now</button>
+&nbsp;
+
+&nbsp;
