@@ -138,4 +138,41 @@ page_blocks:
       * [Stop trying to be
       perfect](https://emails.edlatimore.com/posts/stop-trying-to-be-perfect){:
       target="_blank" rel="noopener"}
+
+      * [Personal Leadership: Conquer yourself to conquer the
+      world](https://emails.edlatimore.com/posts/personal-leadership-conquer-yourself-to-conquer-the-world)
+
+      * [Comfort is overrated: The case for seeking out
+      difficulty](https://emails.edlatimore.com/posts/the-value-of-hard-things){:
+      target="_blank" rel="noopener"}
+
+      * [The roots of online hostility: What's behind the toxicity on
+      X?](https://emails.edlatimore.com/posts/the-roots-of-online-hostility-what-s-behind-the-toxicity-on-twitter){:
+      target="_blank" rel="noopener"}
+
+      * [5 metaphors from physics and calculus on
+      happiness](https://emails.edlatimore.com/posts/5-metaphors-from-physics-and-calculus-on-happiness){:
+      target="_blank" rel="noopener"}
+
+      * [3 frameworks for making better
+      decisions](https://emails.edlatimore.com/posts/3-frameworks-for-making-better-decisions){:
+      target="_blank" rel="noopener"}
+
+      * [Behavior inflation is similiar to economic
+      inflation](https://emails.edlatimore.com/posts/behavior-inflation-is-similar-to-economic-inflation){:
+      target="_blank" rel="noopener"}
+
+      * [Getting rid of bad luck for a better
+      life](https://emails.edlatimore.com/posts/getting-rid-of-bad-luck-for-a-better-life){:
+      target="_blank" rel="noopener"}
+
+      * [8 Counterintuitive strategies to make a relationship
+      last](https://emails.edlatimore.com/posts/8-counterintuitive-strategies-to-make-a-relationship-last){:
+      target="_blank" rel="noopener"}
+
+      * [Stand tall against bullies using
+      stoicism](https://emails.edlatimore.com/posts/stand-tall-against-bullies-applying-ancient-wisdom-to-modern-conflict){:
+      target="_blank" rel="noopener"}
+
+      * &nbsp;
 ---
