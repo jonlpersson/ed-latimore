@@ -264,5 +264,18 @@ page_blocks:
       target="_blank" rel="noopener"}
 
       * [The power of self-control, personal agency, and why it's always your
-      fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn)
+      fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn){:
+      target="_blank" rel="noopener"}
+
+      * [Why old friendships can be like scabs and
+      scars](https://emails.edlatimore.com/posts/why-old-friendships-can-be-like-scabs-and-scars){:
+      target="_blank" rel="noopener"}
+
+      * [Being from the shit makes you a better
+      teacher](https://emails.edlatimore.com/posts/being-from-the-shit-makes-you-a-better-teacher){:
+      target="_blank" rel="noopener"}
+
+      * [The hard way. to escape the slow pull of realities quick
+      sand](https://emails.edlatimore.com/posts/the-hard-way-to-escape-the-slow-pull-of-reality-s-quicksand){:
+      target="_blank" rel="noopener"}
 ---
