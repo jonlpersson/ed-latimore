@@ -258,4 +258,11 @@ page_blocks:
       * [Want to put your life on the fast track? Take on bigger
       responsibilities](https://emails.edlatimore.com/posts/want-to-put-your-life-on-the-fast-track-take-on-bigger-responsibilities){:
       target="_blank" rel="noopener"}
+
+      * [Are you tired of the scams, bullshit, and hustles on the
+      internet?](https://emails.edlatimore.com/posts/are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet){:
+      target="_blank" rel="noopener"}
+
+      * [The power of self-control, personal agency, and why it's always your
+      fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn)
 ---
