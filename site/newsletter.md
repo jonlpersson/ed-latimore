@@ -290,21 +290,37 @@ page_blocks:
 
       * [Are you tired of the scams, bullshit, and hustles on the
       internet?](https://emails.edlatimore.com/posts/are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet){:
-      target="_blank" rel="noopener"} (3/23/
+      target="_blank" rel="noopener"} **(3/23/2023)**
 
       * [The power of self-control, personal agency, and why it’s always your
       fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/17/2023)**
 
       * [Why old friendships can be like scabs and
       scars](https://emails.edlatimore.com/posts/why-old-friendships-can-be-like-scabs-and-scars){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/8/2023)**
 
       * [Being from the shit makes you a better
       teacher](https://emails.edlatimore.com/posts/being-from-the-shit-makes-you-a-better-teacher){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/3/2023)**
 
       * [The hard way. to escape the slow pull of realities quick
       sand](https://emails.edlatimore.com/posts/the-hard-way-to-escape-the-slow-pull-of-reality-s-quicksand){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/23/2023)**
+
+      * [Birthdays, book deals, and being a new
+      dad](https://ckarchive.com/b/68ueh8hk2l64mukq88gqmtzope0kkb9){:
+      target="_blank" rel="noopener"} **(2/15/2023)**
+
+
+      ### 2021
+
+
+      * [Life is short, home
+      edition](https://ckarchive.com/b/k0umh6h0vrkrb6n33wn4a85vkr77a8){:
+      target="_blank" rel="noopener"} **(7/10/2021)**
+
+      * [How much is your opinion worth to
+      you?](https://ckarchive.com/b/8kuqhoh6zg94i3n66mnqfz3drg99f3){:
+      target="_blank" rel="noopener"} **(7/5/2021)**
 ---
