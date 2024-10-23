@@ -263,18 +263,22 @@ page_blocks:
       shit](https://emails.edlatimore.com/posts/how-to-get-motivated-when-you-don-t-feel-like-sh-t){:
       target="_blank" rel="noopener"} **(7/6/2023)**
 
+      * [Why the experts don't know shit—but think they
+      do](https://ckarchive.com/b/68ueh8hklvgwzfkq88gqmtzrv90kkh9){:
+      target="_blank" rel="noopener"} **(6/8/2023)**
+
       * [Everyone wants a good
       life](https://ckarchive.com/b/gkunh5hd3o2zzfzodd9oku5k58699bm){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(5/3/2023)**
 
       * [Fear-preparation-familiarity feedback loop: How to stop being afraid of
       anything](https://emails.edlatimore.com/posts/the-fear-preparation-familiarity-feedback-loop-how-to-stop-being-afraid-of-anything){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(4/25/2023)**
 
       * [The Priceless Path to True Happiness: The Surprising Limits of Money
       and Material
       Possessions](https://emails.edlatimore.com/posts/the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(4/17/2023)**
 
       * [The Reality of Self-Care: It’s a Process, Not a Quick
       Fix](https://emails.edlatimore.com/posts/the-reality-of-self-care-it-s-a-process-not-a-quick-fix){:
