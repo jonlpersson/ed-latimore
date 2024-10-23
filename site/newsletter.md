@@ -323,4 +323,18 @@ page_blocks:
       * [How much is your opinion worth to
       you?](https://ckarchive.com/b/8kuqhoh6zg94i3n66mnqfz3drg99f3){:
       target="_blank" rel="noopener"} **(7/5/2021)**
+
+      * [Success doesn't have a cost—it has an
+      ante](https://ckarchive.com/b/xmuph6h0mg3ehrnppvnqc0g8gzllun){:
+      target="_blank" rel="noopener"} **(4/7/2021)**
+
+
+      ### 2020
+
+
+      * [One is the loneliest
+      number](https://ckarchive.com/b/zlughnhnk37wi7qrr9qeh2wzr000c6){:
+      target="_blank" rel="noopener"} **(10/20/2020)**
+
+        &nbsp;
 ---
