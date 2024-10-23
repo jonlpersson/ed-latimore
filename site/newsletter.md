@@ -282,15 +282,15 @@ page_blocks:
 
       * [The Reality of Self-Care: It’s a Process, Not a Quick
       Fix](https://emails.edlatimore.com/posts/the-reality-of-self-care-it-s-a-process-not-a-quick-fix){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(4/10/2023)**
 
       * [Want to put your life on the fast track? Take on bigger
       responsibilities](https://emails.edlatimore.com/posts/want-to-put-your-life-on-the-fast-track-take-on-bigger-responsibilities){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(4/3/2023)**
 
       * [Are you tired of the scams, bullshit, and hustles on the
       internet?](https://emails.edlatimore.com/posts/are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} (3/23/
 
       * [The power of self-control, personal agency, and why it’s always your
       fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn){:
