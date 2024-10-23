@@ -100,81 +100,98 @@ page_blocks:
   - _id: block_rich_text
     alignment: center
     text_markdown: >-
-      ### Previous newsletters
+      ## Previous newsletters
+
+
+      ### 2024
 
 
       * [The truth about the Art of
       War](https://emails.edlatimore.com/posts/the-truth-about-the-art-of-war){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(10/16/2024)**
 
-      * [Don't let your self-worth depend on the
+      * [Don’t let your self-worth depend on the
       uncontrollables](https://emails.edlatimore.com/posts/don-t-let-your-self-worth-depend-on-uncontrollables){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(9/24/24)**
 
       * [Resilience is built in the discomfort
       zone](https://emails.edlatimore.com/posts/resilience-is-built-in-the-discomfort-zone)
+      **(9/16/2024)**
 
-      * [The book made me do it—why I'm boxing
+      * [The book made me do it—why I’m boxing
       again](https://emails.edlatimore.com/posts/the-book-made-me-do-it-why-i-m-boxing-again){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(9/6/2024)**
 
       * [The Invisible Puppet Masters: How social influence and self-serving
       bias rules us
       all](https://emails.edlatimore.com/posts/the-invisible-puppet-masters-how-social-influence-and-self-serving-bias-rule-us-all){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(6/5/2024)**
 
       * [Never be afraid to ask for help: The book proposal
       story](https://emails.edlatimore.com/posts/never-be-afraid-to-ask-for-help-the-book-proposal-story){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(5/20/2024)**
 
-      * [How to use "Big Stick Energy" to survive The Prisoners
+      * [How to use “Big Stick Energy” to survive The Prisoners
       Dilemma](https://emails.edlatimore.com/posts/how-to-use-big-stick-energy-to-survive-the-prisoner-s-dilemma){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(4/11/2024)**
 
       * [Can you ever \*really\* recover from
       addiction?](https://emails.edlatimore.com/posts/can-you-ever-really-recover-from-addiction){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/27/2024)**
 
       * [Stop trying to be
       perfect](https://emails.edlatimore.com/posts/stop-trying-to-be-perfect){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/22/2024)**
 
       * [Personal Leadership: Conquer yourself to conquer the
       world](https://emails.edlatimore.com/posts/personal-leadership-conquer-yourself-to-conquer-the-world)
+      **(3/15/2024)**
 
       * [Comfort is overrated: The case for seeking out
       difficulty](https://emails.edlatimore.com/posts/the-value-of-hard-things){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(3/8/2024)**
 
-      * [The roots of online hostility: What's behind the toxicity on
+      * [The roots of online hostility: What’s behind the toxicity on
       X?](https://emails.edlatimore.com/posts/the-roots-of-online-hostility-what-s-behind-the-toxicity-on-twitter){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/29/2024)**
 
       * [5 metaphors from physics and calculus on
       happiness](https://emails.edlatimore.com/posts/5-metaphors-from-physics-and-calculus-on-happiness){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/23/2024)**
 
       * [3 frameworks for making better
       decisions](https://emails.edlatimore.com/posts/3-frameworks-for-making-better-decisions){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/15/2024)**
 
       * [Behavior inflation is similiar to economic
       inflation](https://emails.edlatimore.com/posts/behavior-inflation-is-similar-to-economic-inflation){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/9/2024)**
 
       * [Getting rid of bad luck for a better
       life](https://emails.edlatimore.com/posts/getting-rid-of-bad-luck-for-a-better-life){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(2/1/2024)**
 
       * [8 Counterintuitive strategies to make a relationship
       last](https://emails.edlatimore.com/posts/8-counterintuitive-strategies-to-make-a-relationship-last){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(1/24/2024)**
 
       * [Stand tall against bullies using
       stoicism](https://emails.edlatimore.com/posts/stand-tall-against-bullies-applying-ancient-wisdom-to-modern-conflict){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(1/16/2024)**
 
-      * [11 reasons why we can't have nice
+      * [Why you need new friends: The power of weak
+      ties](https://emails.edlatimore.com/posts/the-power-of-weak-ties-why-you-need-new-friends){:
+      target="_blank" rel="noopener"} **(1/9/2024)**
+
+
+      ### 2023
+
+
+      * [Rearview mirror revelations: 3 "a-ha!" moments from the year behind
+      me](https://emails.edlatimore.com/posts/rearview-mirror-revelation-3-aha-moments-from-the-year-behind-me){:
+      target="_blank" rel="noopener"} (12/31/2023)
+
+      * [11 reasons why we can’t have nice
       things](https://emails.edlatimore.com/posts/11-reasons-why-we-can-t-have-nice-things){:
       target="_blank" rel="noopener"}
 
@@ -202,7 +219,7 @@ page_blocks:
       Control](https://emails.edlatimore.com/posts/the-dichotomy-of-control-a-street-smart-survival-tactic){:
       target="_blank" rel="noopener"}
 
-      * [Dream job or Pipe Dream: How to know if you're an amateur or a
+      * [Dream job or Pipe Dream: How to know if you’re an amateur or a
       pro?](https://emails.edlatimore.com/posts/dream-job-or-pipe-dream-how-to-know-if-you-re-just-an-amateur-or-a-bonafide-pro){:
       target="_blank" rel="noopener"}
 
@@ -218,7 +235,7 @@ page_blocks:
       scared](https://emails.edlatimore.com/posts/5-quick-tips-to-control-your-temper-and-stop-being-scared){:
       target="_blank" rel="noopener"}
 
-      * [Why you want revenge—and why you shouldn't get
+      * [Why you want revenge—and why you shouldn’t get
       it](https://emails.edlatimore.com/posts/why-you-want-revenge-and-why-you-shouldn-t-get-it){:
       target="_blank" rel="noopener"}
 
@@ -251,7 +268,7 @@ page_blocks:
       Possessions](https://emails.edlatimore.com/posts/the-priceless-path-to-true-happiness-the-surprising-limits-of-money-and-material-possessions){:
       target="_blank" rel="noopener"}
 
-      * [The Reality of Self-Care: It's a Process, Not a Quick
+      * [The Reality of Self-Care: It’s a Process, Not a Quick
       Fix](https://emails.edlatimore.com/posts/the-reality-of-self-care-it-s-a-process-not-a-quick-fix){:
       target="_blank" rel="noopener"}
 
@@ -263,7 +280,7 @@ page_blocks:
       internet?](https://emails.edlatimore.com/posts/are-you-tired-of-the-sea-of-bullshit-scams-and-hustles-on-the-internet){:
       target="_blank" rel="noopener"}
 
-      * [The power of self-control, personal agency, and why it's always your
+      * [The power of self-control, personal agency, and why it’s always your
       fault](https://ckarchive.com/b/xmuph6hrnrqqmarnppvnqc0k6zdlltn){:
       target="_blank" rel="noopener"}
 
