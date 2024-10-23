@@ -189,51 +189,59 @@ page_blocks:
 
       * [Rearview mirror revelations: 3 "a-ha!" moments from the year behind
       me](https://emails.edlatimore.com/posts/rearview-mirror-revelation-3-aha-moments-from-the-year-behind-me){:
-      target="_blank" rel="noopener"} (12/31/2023)
+      target="_blank" rel="noopener"} **(12/31/2023)**
 
       * [11 reasons why we can’t have nice
       things](https://emails.edlatimore.com/posts/11-reasons-why-we-can-t-have-nice-things){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(12/27/2023)**
 
       * [4 Signs a friendship has run its
       course](https://emails.edlatimore.com/posts/when-it-s-time-to-say-goodbye-4-signs-a-friendship-has-run-its-course){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(12/21/2023)**
 
       * [Cherry-picking, confirmation bias, and echo
       chambers](https://emails.edlatimore.com/posts/confirmation-bias-cherry-picking-and-echo-chambers){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(12/15/2023)**
+
+      * [Federal informants and diplomats: Know who you're dealing
+      with](https://emails.edlatimore.com/posts/federal-informants-and-diplomats-knowing-who-you-re-dealing-with){:
+      target="_blank" rel="noopener"} **(12/5/2023)**
 
       * [The ethics of uncertainty, survivors bias, and the law of large
       numbers](https://emails.edlatimore.com/posts/the-ethics-of-uncertainty-survivors-bias-and-the-law-of-large-numbers){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(11/30/2023)**
 
       * [Expected value: An old way to make new
       decisions](https://emails.edlatimore.com/posts/expected-value-an-old-way-to-make-new-decisions){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(11/20/2023)**
 
       * [From 2-D to 4-D: Beyond the suface of area of
       luck](https://emails.edlatimore.com/posts/from-2-d-for-4-d-beyond-the-surface-area-of-luck){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(11/14/2023)**
 
       * [Dichotomy of
       Control](https://emails.edlatimore.com/posts/the-dichotomy-of-control-a-street-smart-survival-tactic){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(11/3/2023)**
 
       * [Dream job or Pipe Dream: How to know if you’re an amateur or a
       pro?](https://emails.edlatimore.com/posts/dream-job-or-pipe-dream-how-to-know-if-you-re-just-an-amateur-or-a-bonafide-pro){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(10/11/2023)**
 
       * [Most self-help is b.s.: How to become unrecognizable in a
       year](https://emails.edlatimore.com/posts/most-self-help-is-bs-how-to-become-unrecognizable-in-just-1-year){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(9/21/2023)**
+
+      * [The difference between being productive and
+      busy](https://emails.edlatimore.com/posts/the-difference-between-being-productive-and-busy){:
+      target="_blank" rel="noopener"} **(9/6/2024)**
 
       * [Brushes and balance: The duel between art and
       business](https://emails.edlatimore.com/posts/brushes-and-balance-decoding-the-eternal-duel-between-art-and-business){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(8/30/2024)**
 
       * [5 tips to control your temper and stop being
       scared](https://emails.edlatimore.com/posts/5-quick-tips-to-control-your-temper-and-stop-being-scared){:
-      target="_blank" rel="noopener"}
+      target="_blank" rel="noopener"} **(8/21/2024)**
 
       * [Why you want revenge—and why you shouldn’t get
       it](https://emails.edlatimore.com/posts/why-you-want-revenge-and-why-you-shouldn-t-get-it){:
